@@ -14,12 +14,29 @@ const { title, description } = Astro.props;
     <title>{title}</title>
     {description && <meta name="description" content={description} />}
     <meta name="color-scheme" content="dark" />
+    <meta name="theme-color" content="#0a1611" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="/favicon-32.png" sizes="32x32" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
   </head>
   <body>
     <header class="masthead">
       <div class="wrap">
         <a class="mark" href="/">
-          <span class="mark-lot">TFP</span>
+          <svg class="mark-icon" viewBox="0 0 64 64" width="26" height="26" aria-hidden="true">
+            <g fill="#e6cd92">
+              <circle cx="24" cy="22" r="6"/><circle cx="32" cy="17" r="7"/><circle cx="40" cy="21" r="6"/>
+              <circle cx="18" cy="26" r="5"/><circle cx="46" cy="26" r="5"/>
+            </g>
+            <g fill="#c7a667"><circle cx="28" cy="26" r="5"/><circle cx="36" cy="26" r="5"/><circle cx="32" cy="24" r="4.5"/></g>
+            <rect x="15" y="29" width="34" height="6" rx="3" fill="#c7a667"/>
+            <clipPath id="mb"><path d="M18 35 H46 L43.5 55 Q43 57.5 40.5 57.5 H23.5 Q21 57.5 20.5 55 Z"/></clipPath>
+            <g clip-path="url(#mb)">
+              <rect x="18" y="35" width="28" height="23" fill="#c7a667"/>
+              <rect x="24" y="35" width="4" height="23" fill="#0a1611"/>
+              <rect x="36" y="35" width="4" height="23" fill="#0a1611"/>
+            </g>
+          </svg>
           <span class="mark-name">The Full Picture</span>
           <span class="mark-tag">Film catalogue</span>
         </a>

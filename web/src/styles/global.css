@@ -1,0 +1,87 @@
+/* Cinema Noir — dark movie-house palette. Evokes The Big Picture without using its assets. */
+:root {
+  --bg: #14110f;
+  --surface: #1f1b18;
+  --surface-2: #2a2521;
+  --gold: #e8b24c;
+  --gold-dim: #b98733;
+  --cream: #f2ece2;
+  --muted: #a59a8b;
+  --line: #332d27;
+  --maxw: 60rem;
+  --serif: Georgia, 'Times New Roman', serif;
+  --sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--cream);
+  font-family: var(--sans);
+  line-height: 1.55;
+  font-size: 17px;
+  overflow-x: hidden; /* ponytail: belt-and-suspenders vs. accidental h-scroll; real overflow still fails the Playwright test */
+}
+a { color: var(--gold); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+.wrap { max-width: var(--maxw); margin: 0 auto; padding: 0 1.1rem; }
+
+/* Header / masthead */
+.masthead { border-bottom: 1px solid var(--line); }
+.masthead .wrap { padding-top: 1.4rem; padding-bottom: 1.4rem; }
+.kicker { color: var(--gold); font-size: 0.72rem; letter-spacing: 0.18em; text-transform: uppercase; margin: 0 0 0.4rem; }
+.site-title { font-family: var(--serif); font-size: 1.5rem; margin: 0; font-weight: 700; letter-spacing: 0.01em; }
+.site-title a { color: var(--cream); }
+
+/* Episode hero */
+.hero { padding: 2.2rem 0 1.4rem; border-bottom: 1px solid var(--line); }
+.hero h1 { font-family: var(--serif); font-size: clamp(1.7rem, 5vw, 2.8rem); line-height: 1.1; margin: 0.2rem 0 0.7rem; }
+.meta { color: var(--muted); font-size: 0.9rem; display: flex; flex-wrap: wrap; gap: 0.35rem 0.9rem; margin-bottom: 0.9rem; }
+.meta .dot::before { content: "·"; margin-right: 0.9rem; color: var(--gold-dim); }
+.format { color: var(--muted); max-width: 46rem; font-size: 0.96rem; }
+
+/* Sections */
+section { padding: 1.8rem 0; border-bottom: 1px solid var(--line); }
+.section-title { font-size: 0.78rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--gold); margin: 0 0 1.1rem; }
+
+/* Slate columns */
+.slates { display: grid; grid-template-columns: 1fr; gap: 1.1rem; }
+@media (min-width: 720px) { .slates { grid-template-columns: repeat(3, 1fr); } }
+.slate { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 1rem 1rem 0.6rem; }
+.slate h3 { margin: 0 0 0.15rem; font-size: 1.05rem; }
+.slate .spent { color: var(--muted); font-size: 0.82rem; margin-bottom: 0.8rem; }
+
+/* Movie row — gold left rule */
+.pick { border-left: 2px solid var(--gold); padding: 0.5rem 0 0.6rem 0.75rem; margin-bottom: 0.55rem; }
+.pick .row { display: flex; justify-content: space-between; align-items: baseline; gap: 0.6rem; }
+.pick .title { font-weight: 600; }
+.pick .year { color: var(--muted); font-size: 0.82rem; font-variant-numeric: tabular-nums; }
+.pick .price { color: var(--gold); font-weight: 700; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.pick .note { color: var(--muted); font-size: 0.83rem; margin-top: 0.1rem; }
+
+/* January two-line list */
+.jan { display: grid; grid-template-columns: 1fr; gap: 0.9rem; }
+@media (min-width: 720px) { .jan { grid-template-columns: repeat(3, 1fr); } }
+.jan .host { font-weight: 600; margin-bottom: 0.3rem; }
+.jan ul { list-style: none; margin: 0; padding: 0; }
+.jan li { display: flex; justify-content: space-between; gap: 0.6rem; padding: 0.2rem 0; border-bottom: 1px dotted var(--line); font-size: 0.92rem; }
+.jan li .p { color: var(--gold); font-variant-numeric: tabular-nums; }
+
+/* Chips (referenced / undrafted / excluded) */
+.chips { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0.3rem 0 1.1rem; }
+.chip { background: var(--surface); border: 1px solid var(--line); color: var(--cream); border-radius: 999px; padding: 0.28rem 0.7rem; font-size: 0.82rem; }
+.chip.muted { color: var(--muted); }
+.group-label { color: var(--cream); font-weight: 600; font-size: 0.9rem; margin: 0.6rem 0 0.1rem; }
+
+/* Episode index cards */
+.ep-grid { display: grid; grid-template-columns: 1fr; gap: 1rem; padding: 1.8rem 0; }
+@media (min-width: 640px) { .ep-grid { grid-template-columns: repeat(2, 1fr); } }
+.ep-card { display: block; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 1.1rem 1.2rem; transition: border-color 0.15s, transform 0.15s; }
+.ep-card:hover { border-color: var(--gold-dim); transform: translateY(-2px); text-decoration: none; }
+.ep-card h2 { font-family: var(--serif); color: var(--cream); font-size: 1.2rem; margin: 0.3rem 0 0.4rem; }
+.ep-card .count { color: var(--gold); font-size: 0.85rem; }
+
+footer { color: var(--muted); font-size: 0.82rem; padding: 2rem 0 3rem; }

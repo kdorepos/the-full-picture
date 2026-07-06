@@ -1,0 +1,30 @@
+---
+import '../styles/global.css';
+const { title, description } = Astro.props;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    {description && <meta name="description" content={description} />}
+    <meta name="color-scheme" content="dark" />
+  </head>
+  <body>
+    <header class="masthead">
+      <div class="wrap">
+        <p class="kicker">The Full Picture</p>
+        <p class="site-title"><a href="/">Every movie, every episode</a></p>
+      </div>
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer>
+      <div class="wrap">
+        Fan-made episode index · not affiliated with The Ringer or The Big Picture.
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,30 @@
+---
+import Base from '../layouts/Base.astro';
+
+const modules = import.meta.glob('../data/episodes/*.json', { eager: true });
+const episodes = Object.values(modules)
+  .map((m) => m.default)
+  .sort((a, b) => (a.published < b.published ? 1 : -1));
+
+const countMovies = (ep) => {
+  const slate = ep.slates.reduce((n, s) => n + s.picks.length, 0);
+  const jan = ep.januarySlate.reduce((n, s) => n + s.picks.length, 0);
+  const ref = ep.referenced.reduce((n, g) => n + g.films.length, 0);
+  return slate + jan + ref + ep.undrafted.length;
+};
+---
+<Base title="The Full Picture — every movie, every episode" description="A browsable index of every film mentioned on The Big Picture, episode by episode.">
+  <div class="wrap">
+    <div class="ep-grid">
+      {episodes.map((ep) => (
+        <a class="ep-card" href={`/ep/${ep.slug}`}>
+          <span class="count">{countMovies(ep)} films</span>
+          <h2>{ep.title}</h2>
+          <span class="count" style="color:var(--muted)">
+            {ep.show} · {new Date(ep.published).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })} · {ep.runtimeMin} min
+          </span>
+        </a>
+      ))}
+    </div>
+  </div>
+</Base>

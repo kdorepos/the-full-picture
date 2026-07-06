@@ -1,5 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
+import AuctionBody from '../../components/AuctionBody.astro';
+import ListBody from '../../components/ListBody.astro';
 
 export async function getStaticPaths() {
   const modules = import.meta.glob('../../data/episodes/*.json', { eager: true });
@@ -12,28 +14,22 @@ export async function getStaticPaths() {
 const { ep } = Astro.props;
 const tmdb = ep.tmdb || {};
 const link = (t) => (tmdb[t]?.id ? `https://www.themoviedb.org/movie/${tmdb[t].id}` : null);
-const poster = (t) => (tmdb[t]?.poster ? `https://image.tmdb.org/t/p/w154${tmdb[t].poster}` : null);
 
-// Paddle number by draft order (the slates are stored in the order the hosts drafted).
-const paddle = {};
-ep.slates.forEach((s, i) => (paddle[s.host] = i + 1));
-
-const board = ep.slates
-  .flatMap((s) => s.picks.map((p) => ({ ...p, host: s.host })))
-  .sort((a, b) => (b.price ?? -1) - (a.price ?? -1));
-
-const hammerTotal = ep.slates.reduce((n, s) => n + s.spent, 0);
-const lots = board.length;
-const topLot = board[0];
-
-const money = (p) => (p == null ? '—' : `$${p.toLocaleString()}`);
-const rank = (i) => String(i + 1).padStart(2, '0');
+const kind = { auction: 'Auction', list: 'Roundtable', discussion: 'Discussion' }[ep.type] || 'Episode';
 const pubDate = new Date(ep.published).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+
+// Auction hero figures (only used when type === 'auction')
+const hammerTotal = (ep.slates ?? []).reduce((n, s) => n + s.spent, 0);
+const board = (ep.slates ?? []).flatMap((s) => s.picks).sort((a, b) => (b.price ?? -1) - (a.price ?? -1));
+const topLot = board[0];
+const paddleOf = {};
+(ep.slates ?? []).forEach((s, i) => s.picks.forEach((p) => (paddleOf[p.title] = i + 1)));
+const money = (p) => (p == null ? '—' : `$${p.toLocaleString()}`);
 ---
 <Base title={`${ep.title} — The Full Picture`} description={ep.format}>
   <section class="cover">
     <div class="wrap">
-      <p class="eyebrow">{ep.show} · Mid-year sale</p>
+      <p class="eyebrow">{ep.show} · {kind}</p>
       <h1>{ep.title}</h1>
       <p class="credits">
         <span>{pubDate}</span><span class="sep">/</span>
@@ -41,16 +37,24 @@ const pubDate = new Date(ep.published).toLocaleDateString('en-US', { month: 'lon
         <span>{ep.hosts.join(' · ')}</span>
       </p>
       <p class="lede">{ep.format}</p>
-      <p class="sale-line">
-        A sale of <b>{lots}</b> lots across <b>{ep.slates.length}</b> paddles — <b>${hammerTotal.toLocaleString()}</b> at the hammer.
-      </p>
-      <p class="toplot-cap">
-        Top lot — <b>{topLot.title}</b>, to Paddle {paddle[topLot.host]} ({topLot.host}), <span class="hammer">{money(topLot.price)}</span>.
-      </p>
-      <div class="sold" aria-hidden="true">
-        <span class="word">Sold</span>
-        <span class="fine">Mid-year sale · 2026</span>
-      </div>
+
+      {ep.type === 'auction' && (
+        <>
+          <p class="sale-line">
+            A sale of <b>{board.length}</b> lots across <b>{ep.slates.length}</b> paddles — <b>${hammerTotal.toLocaleString()}</b> at the hammer.
+          </p>
+          <p class="toplot-cap">
+            Top lot — <b>{topLot.title}</b>, to Paddle {paddleOf[topLot.title]}, <span class="hammer">{money(topLot.price)}</span>.
+          </p>
+          <div class="sold" aria-hidden="true"><span class="word">Sold</span><span class="fine">Mid-year sale · 2026</span></div>
+        </>
+      )}
+
+      {ep.type === 'list' && (
+        <p class="sale-line">
+          <b>{ep.picks.length}</b> critics, <b>{ep.picks.length}</b> favorite films of the year so far.
+        </p>
+      )}
     </div>
   </section>
 
@@ -68,80 +72,10 @@ const pubDate = new Date(ep.published).toLocaleDateString('en-US', { month: 'lon
   )}
 
   <div class="wrap">
-    <section class="sale-section">
-      <p class="rubric">The paddles <span class="sub">who spent what</span></p>
-      <div class="standings">
-        {ep.slates.map((s) => (
-          <div class="tally" style={`--tone: var(--paddle-${paddle[s.host]})`}>
-            <div class="pno">Paddle {paddle[s.host]}</div>
-            <div class="host">{s.host}</div>
-            <div class="spent">${s.spent.toLocaleString()}</div>
-            <div class="lots">{s.picks.length} lots{s.budgetLeft ? ` · $${s.budgetLeft} unspent` : ''}</div>
-          </div>
-        ))}
-      </div>
-    </section>
+    {ep.type === 'auction' ? <AuctionBody ep={ep} /> : <ListBody ep={ep} />}
 
     <section class="sale-section">
-      <p class="rubric">The board <span class="sub">this sale, by hammer price</span></p>
-      <ol class="board">
-        {board.map((lot, i) => (
-          <li class={`lot${i === 0 ? ' lot--top' : ''}`}>
-            <span class="lot__rank">{rank(i)}</span>
-            <div class="lot__poster">
-              {poster(lot.title)
-                ? <img src={poster(lot.title)} alt={`${lot.title} poster`} width="46" height="69" loading="lazy" />
-                : <span class="noposter" aria-hidden="true"></span>}
-            </div>
-            <div class="lot__head">
-              <div class="lot__title">
-                {link(lot.title) ? <a href={link(lot.title)} target="_blank" rel="noopener">{lot.title}</a> : lot.title}
-                <span class="yr">{lot.year}</span>
-              </div>
-              <div class="lot__paddle">
-                <span class="paddle" style={`--tone: var(--paddle-${paddle[lot.host]})`}>No.{paddle[lot.host]} <span class="who">{lot.host}</span></span>
-              </div>
-            </div>
-            <span class={`lot__price${lot.price == null ? ' undisclosed' : ''}`}>{money(lot.price)}</span>
-            {lot.note && <p class="lot__note">{lot.note}</p>}
-          </li>
-        ))}
-      </ol>
-      <p class="ledger-note">Titles link to TMDb where a confident match exists. Unlinked entries are too new to be catalogued or aren't films.</p>
-    </section>
-
-    {ep.undrafted?.length > 0 && (
-      <section class="sale-section">
-        <p class="rubric">Passed in <span class="sub">raised, no bid</span></p>
-        <p class="entrylist">
-          {ep.undrafted.map((f) => (link(f)
-            ? <a class="entry" href={link(f)} target="_blank" rel="noopener">{f}</a>
-            : <span class="entry">{f}</span>))}
-        </p>
-      </section>
-    )}
-
-    <section class="sale-section">
-      <p class="rubric">Previous sale <span class="sub">January · first-half slate</span></p>
-      <div class="prev">
-        {ep.januarySlate.map((s) => (
-          <div class="col">
-            <div class="host">{s.host}</div>
-            <ul>
-              {s.picks.map((m) => (
-                <li>
-                  {link(m.title) ? <a href={link(m.title)} target="_blank" rel="noopener">{m.title}</a> : <span>{m.title}</span>}
-                  <span class="p">{money(m.price)}</span>
-                </li>
-              ))}
-            </ul>
-          </div>
-        ))}
-      </div>
-    </section>
-
-    <section class="sale-section">
-      <p class="rubric">Also mentioned <span class="sub">on the floor, not drafted</span></p>
+      <p class="rubric">Also mentioned <span class="sub">raised along the way</span></p>
       {ep.referenced.map((g) => (
         <p class="entrylist">
           <span class="g">{g.group}</span>
@@ -153,7 +87,7 @@ const pubDate = new Date(ep.published).toLocaleDateString('en-US', { month: 'lon
     </section>
 
     <section class="sale-section">
-      <p class="rubric">Withdrawn <span class="sub">not eligible — TV, games, ads</span></p>
+      <p class="rubric">Not films <span class="sub">filtered out — TV, games, ads</span></p>
       {Object.entries(ep.excluded).map(([k, arr]) => (
         <p class="entrylist dim">
           <span class="g">{k}</span>

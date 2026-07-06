@@ -58,17 +58,24 @@ def main():
     path = sys.argv[1]
     ep = json.load(open(path))
 
-    # (title, year) for everything linkable. Excluded (TV/games/ads) are not films — skip.
+    # (title, year) for everything linkable, across episode types. Excluded (TV/games/ads) skipped.
     items = {}
-    for s in ep["slates"]:
+    for s in ep.get("slates", []):            # auction episodes
         for p in s["picks"]:
             items[p["title"]] = p.get("year")
-    for s in ep["januarySlate"]:      # first-half slate — all 2026 releases
+    for p in ep.get("picks", []):             # list / roundtable episodes
+        items[p["title"]] = p.get("year")
+    if ep.get("interview"):
+        iv = ep["interview"]
+        items.setdefault(iv["title"], iv.get("year", 2026))
+    for t in ep.get("seansTopFive", []):      # a host's running top list — 2026 releases
+        items.setdefault(t, 2026)
+    for s in ep.get("januarySlate", []):      # first-half slate — all 2026 releases
         for p in s["picks"]:
             items.setdefault(p["title"], 2026)
-    for t in ep.get("undrafted", []):  # discussed upcoming films — 2026 context
+    for t in ep.get("undrafted", []):         # discussed upcoming films — 2026 context
         items.setdefault(t, 2026)
-    for g in ep["referenced"]:         # mix of 2026 + older; no reliable year -> exact-title only
+    for g in ep.get("referenced", []):        # mix of 2026 + older; no reliable year -> exact-title only
         for t in g["films"]:
             items.setdefault(t, None)
 

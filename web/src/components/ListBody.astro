@@ -1,0 +1,63 @@
+---
+// List / roundtable body: one critic, one pick. Poster-forward, no ranks or prices.
+const { ep } = Astro.props;
+const tmdb = ep.tmdb || {};
+const link = (t) => (tmdb[t]?.id ? `https://www.themoviedb.org/movie/${tmdb[t].id}` : null);
+const poster = (t) => (tmdb[t]?.poster ? `https://image.tmdb.org/t/p/w185${tmdb[t].poster}` : null);
+---
+<section class="sale-section">
+  <p class="rubric">The picks <span class="sub">one critic, one film</span></p>
+  <div class="picks">
+    {ep.picks.map((p) => (
+      <article class="pick-card">
+        <div class="pick-card__poster">
+          {poster(p.title)
+            ? <img src={poster(p.title)} alt={`${p.title} poster`} width="70" height="105" loading="lazy" />
+            : <span class="noposter" aria-hidden="true"></span>}
+        </div>
+        <div class="pick-card__body">
+          <div class="pick-card__by">Picked by {p.by}</div>
+          <h3 class="pick-card__film">
+            {link(p.title) ? <a href={link(p.title)} target="_blank" rel="noopener">{p.title}</a> : p.title}
+            <span class="yr">{p.year}</span>
+          </h3>
+          <p class="pick-card__note">{p.note}</p>
+        </div>
+      </article>
+    ))}
+  </div>
+</section>
+
+{ep.interview && (
+  <section class="sale-section">
+    <p class="rubric">In conversation <span class="sub">the guest director</span></p>
+    <div class="interview">
+      <div class="pick-card__poster big">
+        {poster(ep.interview.title)
+          ? <img src={poster(ep.interview.title)} alt={`${ep.interview.title} poster`} width="92" height="138" loading="lazy" />
+          : <span class="noposter" aria-hidden="true"></span>}
+      </div>
+      <div class="pick-card__body">
+        <div class="pick-card__by">{ep.interview.guest} on</div>
+        <h3 class="pick-card__film">
+          {link(ep.interview.title) ? <a href={link(ep.interview.title)} target="_blank" rel="noopener">{ep.interview.title}</a> : ep.interview.title}
+        </h3>
+        <p class="pick-card__note">{ep.interview.note}</p>
+      </div>
+    </div>
+  </section>
+)}
+
+{ep.seansTopFive?.length > 0 && (
+  <section class="sale-section">
+    <p class="rubric">Sean's running top five <span class="sub">released, so far</span></p>
+    <ol class="topfive">
+      {ep.seansTopFive.map((t, i) => (
+        <li>
+          <span class="n">{i + 1}</span>
+          {link(t) ? <a href={link(t)} target="_blank" rel="noopener">{t}</a> : <span>{t}</span>}
+        </li>
+      ))}
+    </ol>
+  </section>
+)}

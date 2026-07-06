@@ -7,30 +7,34 @@ const episodes = Object.values(modules)
   .sort((a, b) => (a.published < b.published ? 1 : -1));
 
 const filmCount = (ep) => {
-  const slate = ep.slates.reduce((n, s) => n + s.picks.length, 0);
-  const jan = ep.januarySlate.reduce((n, s) => n + s.picks.length, 0);
-  const ref = ep.referenced.reduce((n, g) => n + g.films.length, 0);
-  return slate + jan + ref + (ep.undrafted?.length ?? 0);
+  let n = 0;
+  (ep.slates ?? []).forEach((s) => (n += s.picks.length));
+  (ep.lists ?? []).forEach((l) => (n += l.ranked.length));
+  (ep.januarySlate ?? []).forEach((s) => (n += s.picks.length));
+  (ep.referenced ?? []).forEach((g) => (n += g.films.length));
+  n += (ep.undrafted?.length ?? 0) + (ep.honorableMentions?.length ?? 0);
+  return n;
 };
 const fmt = (d) => new Date(d).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+const kind = (t) => ({ auction: 'Auction', list: 'Roundtable', discussion: 'Discussion' }[t] || 'Episode');
 ---
 <Base title="The Full Picture — every film, every episode" description="A catalogue of every movie discussed on The Big Picture, episode by episode.">
   <section class="cover">
     <div class="wrap">
       <p class="eyebrow">The Big Picture · Film catalogue</p>
       <h1>Every film they name, on the record.</h1>
-      <p class="lede">Each episode, catalogued lot by lot — what got drafted, what got passed in, and everything raised along the way.</p>
+      <p class="lede">Every movie mentioned on each episode — championed, drafted, or just raised in passing — catalogued and linked.</p>
     </div>
   </section>
 
   <div class="wrap">
     <section class="sale-section" style="border-bottom:none">
-      <p class="rubric">The sales <span class="sub">newest first</span></p>
+      <p class="rubric">Episodes <span class="sub">newest first</span></p>
       <div class="catalogue">
         {episodes.map((ep) => (
           <a class="sale-card" href={`/ep/${ep.slug}`}>
             <div>
-              <span class="eyebrow">{ep.show} · {fmt(ep.published)} · {ep.runtimeMin} min</span>
+              <span class="eyebrow">{kind(ep.type)} · {fmt(ep.published)} · {ep.runtimeMin} min</span>
               <h2>{ep.title}</h2>
               <span class="credits">{ep.hosts.join(' · ')}</span>
             </div>

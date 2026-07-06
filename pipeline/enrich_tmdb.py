@@ -50,6 +50,17 @@ def search(title, year):
     }
 
 
+def by_id(mid):
+    """Fetch a specific TMDb movie by id — used to pin reviewer-confirmed matches that
+    exact-title search gets wrong (a same-title collision)."""
+    try:
+        d = json.load(urllib.request.urlopen(
+            f"https://api.themoviedb.org/3/movie/{mid}?api_key={KEY}", timeout=15))
+    except Exception:
+        return None
+    return {"id": d["id"], "poster": d.get("poster_path"), "title": d["title"], "year": ry(d) or None}
+
+
 def clean(t):
     return re.sub(r"\s*\([^)]*\)\s*$", "", t).strip()  # drop trailing "(director)" notes
 
@@ -83,13 +94,18 @@ def main():
         for t in g["films"]:
             items.setdefault(t, None)
 
-    tmdb, hits = {}, 0
+    tmdb = {}
     for title, year in items.items():
-        m = search(clean(title), year)
-        tmdb[title] = m
-        hits += 1 if m else 0
+        tmdb[title] = search(clean(title), year)
         time.sleep(0.05)
 
+    # Reviewer-confirmed overrides win over exact-title search (pin the right same-title film).
+    for title, mid in ep.get("tmdbOverrides", {}).items():
+        m = by_id(mid)
+        if m:
+            tmdb[title] = m
+
+    hits = sum(1 for v in tmdb.values() if v)
     ep["tmdb"] = tmdb
     json.dump(ep, open(path, "w"), ensure_ascii=False, indent=2)
     print(f"{hits}/{len(items)} titles matched -> {path}")

@@ -75,7 +75,7 @@
     },
     {
       "by": "Sean Fennessey",
-      "title": "Nirvana the Band the Show the Movie",
+      "title": "Nirvanna the Band the Show the Movie",
       "year": 2026,
       "note": "Matt Johnson's absurdist, secretly poignant comedy about looking back at who you used to be. His movie of the year, seen three times."
     }
@@ -87,7 +87,7 @@
   },
   "seansTopFive": [
     "Blue Heron",
-    "Nirvana the Band the Show the Movie",
+    "Nirvanna the Band the Show the Movie",
     "28 Years Later: The Bone Temple",
     "Miroirs No. 3",
     "Send Help"
@@ -250,7 +250,12 @@
       "title": "Obsession",
       "year": 2026
     },
-    "Nirvana the Band the Show the Movie": null,
+    "Nirvanna the Band the Show the Movie": {
+      "id": 1154538,
+      "poster": "/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
+      "title": "Nirvanna the Band the Show the Movie",
+      "year": 2026
+    },
     "Miroirs No. 3": {
       "id": 1178602,
       "poster": "/dNzLDieAVlX3So2Qs2XSAOUmvxM.jpg",

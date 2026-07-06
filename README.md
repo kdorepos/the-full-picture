@@ -48,6 +48,7 @@ npm run build      # -> dist/ (static)
 npm test           # Playwright usability suite on both viewports
 ```
 Add an episode by dropping a `<slug>.json` into `src/data/episodes/`; pages generate automatically.
+The site has one locked visual identity — see `web/DESIGN.md` and match it when building new UI.
 
 ### Deploy (Vercel)
 Import the repo on vercel.com and set **Root Directory = `web`** (auto-detects the Astro preset).

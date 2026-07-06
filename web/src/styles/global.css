@@ -4,22 +4,25 @@
    Didone display, monospace ledger figures. The money is the hero.
    ============================================================ */
 :root {
-  --ink:        #100a0b;  /* page ground — velvet near-black, warm cast */
-  --curtain:    #191012;  /* deep surface */
-  --velvet:     #241619;  /* raised surface */
+  /* Ground: deep pine — The Big Picture's emerald (~#009060), several shades darker.
+     A green "screening room" paired with warm gold. */
+  --ink:        #0a1611;  /* page ground — deepest pine */
+  --curtain:    #0f1f18;  /* deep surface */
+  --velvet:     #172b21;  /* raised surface (card) */
   --ivory:      #ece4d3;  /* primary text — warm paper */
-  --muted:      #a1907f;  /* secondary text */
-  --faint:      #6f6155;  /* tertiary / rank numerals */
-  --brass:      #c7a667;  /* figures, rules, accent */
+  --muted:      #93a49a;  /* secondary text — sage */
+  --faint:      #607269;  /* tertiary / rank numerals */
+  --brass:      #c7a667;  /* figures, rules, accent — gold */
   --brass-lit:  #e6cd92;  /* top lot / emphasis figures */
-  --oxblood:    #b4433b;  /* the one red — "SOLD" stamp */
-  --line:       #2c2023;  /* hairline, warm */
-  --line-lit:   #3d2c30;
+  --oxblood:    #b4433b;  /* the one red — "SOLD" stamp, used once */
+  --line:       #21332a;  /* hairline, green-tinted */
+  --line-lit:   #2e4638;
 
-  /* Paddle trio — the three auction-house materials: brass, table baize, sold-red */
-  --paddle-1:   #c7a667;  /* brass */
-  --paddle-2:   #86a892;  /* verdigris / baize */
-  --paddle-3:   #cf6a60;  /* lifted oxblood */
+  /* Paddle trio — distinct hues that read on a green ground: gold, dusty blue
+     (a nod to TBP's secondary), rose. */
+  --paddle-1:   #c9a86a;  /* brass / gold */
+  --paddle-2:   #83b0c4;  /* dusty blue */
+  --paddle-3:   #cf6a60;  /* rose */
 
   --display: 'Bodoni Moda Variable', Didot, 'Times New Roman', serif;
   --sans: 'Archivo Variable', system-ui, -apple-system, sans-serif;
@@ -31,7 +34,10 @@
 html { -webkit-text-size-adjust: 100%; }
 body {
   margin: 0;
-  background: var(--ink);
+  /* Ground with depth: a faint vertical gradient over the deep pine, not a flat fill. */
+  background:
+    radial-gradient(140% 100% at 50% -10%, #12241b 0%, var(--ink) 55%) fixed,
+    var(--ink);
   color: var(--ivory);
   font-family: var(--sans);
   font-size: 17px;
@@ -39,6 +45,13 @@ body {
   overflow-x: hidden;
   -webkit-font-smoothing: antialiased;
 }
+/* Film grain + vignette — cinema's own texture, kept behind content so type stays crisp. */
+body::before, body::after { content: ""; position: fixed; inset: 0; pointer-events: none; z-index: -1; }
+body::before {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.55'/%3E%3C/svg%3E");
+  opacity: 0.045;
+}
+body::after { background: radial-gradient(120% 85% at 50% 8%, transparent 52%, rgba(0, 0, 0, 0.42) 100%); }
 a { color: inherit; text-decoration: none; }
 em { font-style: italic; }
 :focus-visible { outline: 2px solid var(--brass); outline-offset: 3px; border-radius: 2px; }

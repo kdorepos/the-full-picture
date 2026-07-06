@@ -59,20 +59,24 @@ def main():
     ep = json.load(open(path))
 
     # (title, year) for everything linkable, across episode types. Excluded (TV/games/ads) skipped.
-    items = {}
+    # `picks` = films a host actually chose (high value); an unmatched pick is a red flag worth review.
+    items, picks = {}, set()
+    def pick(title, year):
+        items[title] = year
+        picks.add(title)
     for s in ep.get("slates", []):            # auction episodes
         for p in s["picks"]:
-            items[p["title"]] = p.get("year")
+            pick(p["title"], p.get("year"))
     for p in ep.get("picks", []):             # list / roundtable episodes
-        items[p["title"]] = p.get("year")
+        pick(p["title"], p.get("year"))
     if ep.get("interview"):
         iv = ep["interview"]
-        items.setdefault(iv["title"], iv.get("year", 2026))
+        pick(iv["title"], iv.get("year", 2026))
     for t in ep.get("seansTopFive", []):      # a host's running top list — 2026 releases
-        items.setdefault(t, 2026)
+        pick(t, 2026)
     for s in ep.get("januarySlate", []):      # first-half slate — all 2026 releases
         for p in s["picks"]:
-            items.setdefault(p["title"], 2026)
+            pick(p["title"], 2026)
     for t in ep.get("undrafted", []):         # discussed upcoming films — 2026 context
         items.setdefault(t, 2026)
     for g in ep.get("referenced", []):        # mix of 2026 + older; no reliable year -> exact-title only
@@ -89,6 +93,15 @@ def main():
     ep["tmdb"] = tmdb
     json.dump(ep, open(path, "w"), ensure_ascii=False, indent=2)
     print(f"{hits}/{len(items)} titles matched -> {path}")
+
+    # Tripwire: unmatched PICKS are usually a mishear (a wrong exact match can't be caught here).
+    # Either way the review step is required — flag it loudly so it isn't skipped.
+    missing = sorted(t for t in picks if not tmdb.get(t))
+    if missing:
+        print(f"\n⚠  {len(missing)} pick(s) UNMATCHED — likely a title mishear:")
+        for t in missing:
+            print(f"     - {t}")
+    print("\nNEXT (required): run the film-title-reviewer agent on this episode before publishing.")
 
 
 if __name__ == "__main__":

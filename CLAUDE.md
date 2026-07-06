@@ -24,15 +24,19 @@ session against the transcript — **do not** offload extraction to a small loca
   separately so the filtering is visible.
 
 ### 5. Validate + enrich against TMDb
-For every candidate, confirm it's a real film and attach correct title + year — this
-fixes Whisper proper-noun mishears and title collisions.
+Write the episode JSON (`web/src/data/episodes/<slug>.json`), then enrich:
 ```
-GET https://api.themoviedb.org/3/search/movie?query=<title>&api_key=$TMDB_KEY
+TMDB_KEY=… ./pipeline/enrich_tmdb.py web/src/data/episodes/<slug>.json
 ```
-Top result → title + release year. No match usually = mishear or a too-new indie (list
-those with hand-noted year + director). Real catches: "Mariama"→Mārama, "Is God It Is"→
-Is God Is, "Skin and Marink"→Skinamarink, "Mirroir"→Miroirs No. 3, "Gladys"→Gladiator II,
-rejected a bad Jaws collision. TMDb key in `.env` (gitignored).
+Exact-title matching attaches `{id, poster, year}` per title and rejects collisions
+(prefers null over a wrong link). It prints any UNMATCHED picks — usually a mishear.
+
+### 5.5 Review — REQUIRED before publishing
+Always run the **film-title-reviewer** agent (`.claude/agents/film-title-reviewer.md`)
+on the episode. It grounds each pick in the transcript (stated director/cast/premise)
+and confirms the TMDb match is *that* film — catching mishears (Nirvana→Nirvanna) and
+wrong-but-same-title matches that enrichment can't. Apply its findings, then re-enrich.
+This step is not optional; `enrich_tmdb.py` ends by reminding you to run it.
 
 ### 6. Deliver
 Clean markdown: header (title/show/runtime) + sections above. Save transcript AND movie

@@ -5,3 +5,4 @@ test-results/
 playwright-report/
 .vercel/
 shots/
+shot.mjs

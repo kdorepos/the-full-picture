@@ -6,25 +6,38 @@ const episodes = Object.values(modules)
   .map((m) => m.default)
   .sort((a, b) => (a.published < b.published ? 1 : -1));
 
-const countMovies = (ep) => {
+const filmCount = (ep) => {
   const slate = ep.slates.reduce((n, s) => n + s.picks.length, 0);
   const jan = ep.januarySlate.reduce((n, s) => n + s.picks.length, 0);
   const ref = ep.referenced.reduce((n, g) => n + g.films.length, 0);
-  return slate + jan + ref + ep.undrafted.length;
+  return slate + jan + ref + (ep.undrafted?.length ?? 0);
 };
+const fmt = (d) => new Date(d).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
 ---
-<Base title="The Full Picture — every movie, every episode" description="A browsable index of every film mentioned on The Big Picture, episode by episode.">
-  <div class="wrap">
-    <div class="ep-grid">
-      {episodes.map((ep) => (
-        <a class="ep-card" href={`/ep/${ep.slug}`}>
-          <span class="count">{countMovies(ep)} films</span>
-          <h2>{ep.title}</h2>
-          <span class="count" style="color:var(--muted)">
-            {ep.show} · {new Date(ep.published).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })} · {ep.runtimeMin} min
-          </span>
-        </a>
-      ))}
+<Base title="The Full Picture — every film, every episode" description="A catalogue of every movie discussed on The Big Picture, episode by episode.">
+  <section class="cover">
+    <div class="wrap">
+      <p class="eyebrow">The Big Picture · Film catalogue</p>
+      <h1>Every film they name, on the record.</h1>
+      <p class="lede">Each episode, catalogued lot by lot — what got drafted, what got passed in, and everything raised along the way.</p>
     </div>
+  </section>
+
+  <div class="wrap">
+    <section class="sale-section" style="border-bottom:none">
+      <p class="rubric">The sales <span class="sub">newest first</span></p>
+      <div class="catalogue">
+        {episodes.map((ep) => (
+          <a class="sale-card" href={`/ep/${ep.slug}`}>
+            <div>
+              <span class="eyebrow">{ep.show} · {fmt(ep.published)} · {ep.runtimeMin} min</span>
+              <h2>{ep.title}</h2>
+              <span class="credits">{ep.hosts.join(' · ')}</span>
+            </div>
+            <span class="count">{filmCount(ep)}<small>films</small></span>
+          </a>
+        ))}
+      </div>
+    </section>
   </div>
 </Base>

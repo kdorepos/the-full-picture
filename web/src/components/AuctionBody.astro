@@ -67,7 +67,7 @@ const rank = (i) => String(i + 1).padStart(2, '0');
 )}
 
 <section class="sale-section">
-  <p class="rubric">Previous sale <span class="sub">January · first-half slate</span></p>
+  <p class="rubric">Previous sale <span class="sub">{ep.previousSaleLabel ?? 'January · first-half slate'}</span></p>
   <div class="prev">
     {ep.januarySlate.map((s) => (
       <div class="col">

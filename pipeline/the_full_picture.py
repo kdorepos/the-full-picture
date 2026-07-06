@@ -54,12 +54,20 @@ def slug(s):
     return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")[:60] or "episode"
 
 
-def download(audio_url, mp3):
+def download(audio_url, mp3, tries=4):
     print(f"Downloading -> {mp3}")
-    req = urllib.request.Request(audio_url, headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=60) as r, open(mp3, "wb") as f:
-        while chunk := r.read(1 << 20):
-            f.write(chunk)
+    for attempt in range(1, tries + 1):
+        try:
+            req = urllib.request.Request(audio_url, headers={"User-Agent": UA})
+            with urllib.request.urlopen(req, timeout=120) as r, open(mp3, "wb") as f:
+                while chunk := r.read(1 << 20):
+                    f.write(chunk)
+            return
+        except Exception as e:  # transient CDN hiccups (504s) shouldn't kill a run
+            if attempt == tries:
+                raise
+            print(f"  download failed ({e}); retry {attempt}/{tries} in {5 * attempt}s")
+            time.sleep(5 * attempt)
 
 
 def duration(path):

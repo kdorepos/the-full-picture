@@ -5,8 +5,8 @@ import { test, expect } from '@playwright/test';
 
 test('home lists the episode and links through to its page', async ({ page }) => {
   await page.goto('/');
-  await expect(page.getByRole('link', { name: /2026 Movie Auction/i })).toBeVisible();
-  await page.getByRole('link', { name: /2026 Movie Auction/i }).click();
+  await expect(page.getByRole('link', { name: /2026 Movie Auction Returns/i })).toBeVisible();
+  await page.getByRole('link', { name: /2026 Movie Auction Returns/i }).click();
   await expect(page).toHaveURL(/\/ep\/2026-movie-auction-returns/);
   await expect(page.getByRole('heading', { level: 1 })).toContainText('2026 Movie Auction');
 });
@@ -51,6 +51,6 @@ test('no horizontal overflow (responsive fits the viewport)', async ({ page }) =
 
 test('tap targets: episode links are large enough to tap', async ({ page }) => {
   await page.goto('/');
-  const box = await page.getByRole('link', { name: /2026 Movie Auction/i }).boundingBox();
+  const box = await page.getByRole('link', { name: /2026 Movie Auction Returns/i }).boundingBox();
   expect(box!.height).toBeGreaterThanOrEqual(44); // iOS min tap target
 });

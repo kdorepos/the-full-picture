@@ -76,12 +76,8 @@ em { font-style: italic; }
 /* ---------- Masthead ---------- */
 .masthead { border-bottom: 1px solid var(--line); }
 .masthead .wrap { padding: 1.15rem 1.3rem; }
-.mark { display: inline-flex; align-items: baseline; gap: 0.7rem; }
-.mark-lot {
-  font-family: var(--mono); font-weight: 600; font-size: 0.72rem;
-  letter-spacing: 0.12em; color: var(--ink); background: var(--brass);
-  padding: 0.18rem 0.4rem; border-radius: 2px;
-}
+.mark { display: inline-flex; align-items: center; gap: 0.6rem; }
+.mark-icon { display: block; flex: none; }
 .mark-name { font-family: var(--display); font-size: 1.15rem; font-weight: 600; }
 .mark-tag {
   font-family: var(--mono); font-size: 0.64rem; letter-spacing: 0.2em;

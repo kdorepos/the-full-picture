@@ -28,6 +28,19 @@ test('episode embeds Spotify, TMDb links, and posters', async ({ page }) => {
   await expect(page.locator('.lot__poster img').first()).toBeVisible();
 });
 
+test('roundtable episode renders pick cards, byline, and interview', async ({ page }) => {
+  await page.goto('/ep/the-10-best-movies-of-2026-so-far');
+  await expect(page.getByRole('heading', { level: 1 })).toContainText('10 Best Movies');
+  await expect(page.locator('.pick-card')).toHaveCount(11);
+  await expect(page.locator('.pick-card__by').first()).toContainText('Picked by');
+  await expect(page.locator('.interview')).toContainText('John Early');
+  await expect(page.locator('iframe[src*="open.spotify.com/embed/episode"]')).toHaveCount(1);
+  // no auction furniture leaked into a non-auction episode
+  await expect(page.locator('.board')).toHaveCount(0);
+  const overflow = await page.evaluate(() => document.documentElement.scrollWidth - document.documentElement.clientWidth);
+  expect(overflow).toBeLessThanOrEqual(1);
+});
+
 test('no horizontal overflow (responsive fits the viewport)', async ({ page }) => {
   await page.goto('/ep/2026-movie-auction-returns');
   const overflow = await page.evaluate(

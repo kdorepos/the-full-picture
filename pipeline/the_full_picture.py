@@ -27,18 +27,20 @@ def sh(*cmd):
     subprocess.run(cmd, check=True)
 
 
-def resolve_audio(url):
-    """Return (audio_url, title). Handles RSS feeds (<enclosure>, first/latest item)
-    and Overcast-style episode pages (<source src=...>)."""
+def resolve_audio(url, item_index=0):
+    """Return (audio_url, title). Handles RSS feeds (<enclosure>; item 0 is newest,
+    item_index picks an older one) and Overcast-style episode pages (<source src=...>)."""
     req = urllib.request.Request(url, headers={"User-Agent": UA})
     body = urllib.request.urlopen(req, timeout=30).read().decode("utf-8", "replace")
-    # RSS feed: take the first <item>'s enclosure (feeds are newest-first)
+    # RSS feed: pick the Nth <item>'s enclosure (feeds are newest-first)
     if "<enclosure" in body:
-        item = body.split("<item>", 1)[-1].split("</item>", 1)[0]
-        au = re.search(r'<enclosure[^>]+url="([^"]+)"', item, re.I)
-        ti = re.search(r"<title>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</title>", item, re.S)
-        if au:
-            return au.group(1), (ti.group(1).strip() if ti else "episode")
+        items = body.split("<item>")[1:]
+        if 0 <= item_index < len(items):
+            item = items[item_index].split("</item>", 1)[0]
+            au = re.search(r'<enclosure[^>]+url="([^"]+)"', item, re.I)
+            ti = re.search(r"<title>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</title>", item, re.S)
+            if au:
+                return au.group(1), (ti.group(1).strip() if ti else "episode")
     # Overcast page: raw HTML embeds the real Megaphone CDN enclosure as <source>
     m = re.search(r'<source[^>]+src="([^"]+)"', body, re.I)
     if not m:
@@ -86,54 +88,70 @@ def chunk_flac(mp3, secs, chunkdir):
 
 
 def groq_post(flac, key):
-    """POST one chunk; return (text, segments) or ('__RATE__', wait_seconds) on a rate limit."""
+    """POST one chunk. Returns ('ok', (text, segments)) or ('retry', wait_seconds).
+    An empty/non-JSON body (network hiccup, curl timeout) is retryable, not fatal."""
     out = subprocess.run(
         ["curl", "-sS", "--max-time", "300", GROQ_URL,
          "-H", f"Authorization: Bearer {key}",
          "-F", f"file=@{flac}", "-F", "model=whisper-large-v3-turbo",
          "-F", "language=en", "-F", "response_format=verbose_json"],
-        capture_output=True, text=True).stdout
-    d = json.loads(out)
+        capture_output=True, text=True).stdout.strip()
+    if not out:
+        return "retry", 30
+    try:
+        d = json.loads(out)
+    except json.JSONDecodeError:
+        return "retry", 30
     if "text" in d:
-        return d["text"].strip(), d.get("segments", [])
+        return "ok", (d["text"].strip(), d.get("segments", []))
     err = d.get("error", {}).get("message", out[:200])
     m = re.search(r"try again in (?:(\d+)m)?([\d.]+)s", err)
     wait = int((int(m.group(1) or 0)) * 60 + float(m.group(2))) + 15 if m else 90
-    return "__RATE__", wait
+    return "retry", wait
 
 
 def transcribe_groq(chunks, key, txt):
-    """Transcribe chunks via Groq, pacing submissions to stay under the free-tier
-    7200s/hr audio cap. window = [(submit_time, chunk_secs)] over the last hour."""
-    stamped = txt.replace(".txt", ".timestamped.txt")
+    """Transcribe chunks via Groq, pacing submissions under the free-tier 7200s/hr cap.
+    Each chunk's result is cached to <chunk>.json so a long paced run (or a crash) resumes
+    instead of re-doing work. Transcripts are rebuilt from the cache at the end."""
     window = []
+    for i, c in enumerate(chunks):
+        j = os.path.splitext(c)[0] + ".json"
+        if os.path.exists(j):
+            try:
+                if "text" in json.load(open(j)):
+                    print(f"  chunk {i+1}/{len(chunks)} cached"); continue
+            except Exception:
+                pass
+        need = duration(c)
+        while True:  # pace: wait until this chunk fits the rolling-hour budget
+            now = time.monotonic()
+            window[:] = [(t, s) for t, s in window if now - t < 3600]
+            used = sum(s for _, s in window)
+            if used + need <= ASPH_SAFE:
+                break
+            sleep = min(3600 - (now - window[0][0]) + 1, 60)
+            print(f"  pacing: {used:.0f}/{ASPH_LIMIT}s used this hr, sleeping {sleep:.0f}s")
+            time.sleep(sleep)
+        while True:  # submit, retrying transient errors + rate limits
+            status, payload = groq_post(c, key)
+            if status == "ok":
+                break
+            print(f"  retry in {payload}s ({os.path.basename(c)})")
+            time.sleep(payload)
+        text, segments = payload
+        json.dump({"text": text, "segments": segments}, open(j, "w"))
+        window.append((time.monotonic(), need))
+        print(f"  chunk {i+1}/{len(chunks)} done ({need:.0f}s audio)")
+
+    stamped = txt.replace(".txt", ".timestamped.txt")
     with open(txt, "w") as ft, open(stamped, "w") as fs:
         for i, c in enumerate(chunks):
-            need = duration(c)
-            # pace: wait until this chunk fits inside the rolling-hour budget
-            while True:
-                now = time.monotonic()
-                window[:] = [(t, s) for t, s in window if now - t < 3600]
-                used = sum(s for _, s in window)
-                if used + need <= ASPH_SAFE:
-                    break
-                sleep = min(3600 - (now - window[0][0]) + 1, 60)
-                print(f"  pacing: {used:.0f}/{ASPH_LIMIT}s used this hr, sleeping {sleep:.0f}s")
-                time.sleep(sleep)
-            # submit (retry on an actual rate-limit reply, honoring Groq's hint)
-            while True:
-                text, extra = groq_post(c, key)
-                if text != "__RATE__":
-                    break
-                print(f"  rate-limited despite pacing, sleeping {extra}s")
-                time.sleep(extra)
-            window.append((time.monotonic(), need))
+            d = json.load(open(os.path.splitext(c)[0] + ".json"))
             off = i * CHUNK_SECS
-            ft.write(text + "\n"); ft.flush()
-            for s in extra:
-                fs.write(f"[{s['start']+off:8.1f}] {s['text'].strip()}\n")
-            fs.flush()
-            print(f"  chunk {i+1}/{len(chunks)} done ({need:.0f}s audio)")
+            ft.write(d["text"].strip() + "\n")
+            for s in d.get("segments", []):
+                fs.write(f"[{s['start'] + off:8.1f}] {s['text'].strip()}\n")
 
 
 def transcribe_local(wav, txt, model_name):
@@ -156,10 +174,11 @@ def main():
     ap.add_argument("--engine", choices=["groq", "local"], default="groq")
     ap.add_argument("--model", default="medium.en", help="local engine only")
     ap.add_argument("--outdir", default="out")
+    ap.add_argument("--item", type=int, default=0, help="RSS feed item index (0 = newest)")
     ap.add_argument("--keep-audio", action="store_true")
     a = ap.parse_args()
 
-    audio_url, title = resolve_audio(a.url)
+    audio_url, title = resolve_audio(a.url, a.item)
     print(f"Episode: {title}")
     name = slug(title)
     d = os.path.join(a.outdir, name)

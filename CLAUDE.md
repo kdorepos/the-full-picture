@@ -38,6 +38,11 @@ and confirms the TMDb match is *that* film — catching mishears (Nirvana→Nirv
 wrong-but-same-title matches that enrichment can't. Apply its findings, then re-enrich.
 This step is not optional; `enrich_tmdb.py` ends by reminding you to run it.
 
+### 5.7 Spotify embed — every episode page must have one
+Set `spotifyEpisodeId` on the JSON (the page embeds it). Find it via the Spotify search
+tool using the episode's EXACT distinctive title — generic terms ("2026 movie auction")
+return the wrong episode (a popular "…Returns!" one outranks a plain-titled sibling).
+
 ### 6. Deliver
 Clean markdown: header (title/show/runtime) + sections above. Save transcript AND movie
 list; send the list to the user; push-notify on completion (long jobs, user is usually away).

@@ -11,11 +11,21 @@ test('home lists the episode and links through to its page', async ({ page }) =>
   await expect(page.getByRole('heading', { level: 1 })).toContainText('2026 Movie Auction');
 });
 
-test('episode page shows draft picks with prices', async ({ page }) => {
+test('episode page shows the top lot and ledger prices', async ({ page }) => {
   await page.goto('/ep/2026-movie-auction-returns');
-  await expect(page.getByText('Behemoth!')).toBeVisible();
-  await expect(page.getByText('$715')).toBeVisible();
+  // Top lot (Behemoth! $715) appears in both the hero summary and the ledger — scope to the ledger row.
+  const topLot = page.locator('.lot--top');
+  await expect(topLot.locator('.lot__title')).toContainText('Behemoth!');
+  await expect(topLot.locator('.lot__price')).toHaveText('$715');
   await expect(page.getByText('Whalefall')).toBeVisible();
+  await expect(page.locator('.sale-line')).toContainText('at the hammer');
+});
+
+test('episode embeds Spotify, TMDb links, and posters', async ({ page }) => {
+  await page.goto('/ep/2026-movie-auction-returns');
+  await expect(page.locator('iframe[src*="open.spotify.com/embed/episode"]')).toHaveCount(1);
+  await expect(page.locator('.lot__title a[href*="themoviedb.org/movie"]').first()).toBeVisible();
+  await expect(page.locator('.lot__poster img').first()).toBeVisible();
 });
 
 test('no horizontal overflow (responsive fits the viewport)', async ({ page }) => {

@@ -1,4 +1,8 @@
 ---
+import '@fontsource-variable/bodoni-moda/opsz.css';
+import '@fontsource-variable/archivo';
+import '@fontsource/ibm-plex-mono/400.css';
+import '@fontsource/ibm-plex-mono/600.css';
 import '../styles/global.css';
 const { title, description } = Astro.props;
 ---
@@ -14,8 +18,11 @@ const { title, description } = Astro.props;
   <body>
     <header class="masthead">
       <div class="wrap">
-        <p class="kicker">The Full Picture</p>
-        <p class="site-title"><a href="/">Every movie, every episode</a></p>
+        <a class="mark" href="/">
+          <span class="mark-lot">TFP</span>
+          <span class="mark-name">The Full Picture</span>
+          <span class="mark-tag">Sale catalogue</span>
+        </a>
       </div>
     </header>
     <main>
@@ -23,7 +30,8 @@ const { title, description } = Astro.props;
     </main>
     <footer>
       <div class="wrap">
-        Fan-made episode index · not affiliated with The Ringer or The Big Picture.
+        <p>A fan-made record of the films discussed on <em>The Big Picture</em>.
+        Independent and unaffiliated with The Ringer.</p>
       </div>
     </footer>
   </body>

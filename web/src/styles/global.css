@@ -1,87 +1,245 @@
-/* Cinema Noir — dark movie-house palette. Evokes The Big Picture without using its assets. */
+/* ============================================================
+   The Full Picture — "Lot & Hammer"
+   An auction catalogue for a movie podcast. Velvet-bordeaux ground,
+   Didone display, monospace ledger figures. The money is the hero.
+   ============================================================ */
 :root {
-  --bg: #14110f;
-  --surface: #1f1b18;
-  --surface-2: #2a2521;
-  --gold: #e8b24c;
-  --gold-dim: #b98733;
-  --cream: #f2ece2;
-  --muted: #a59a8b;
-  --line: #332d27;
-  --maxw: 60rem;
-  --serif: Georgia, 'Times New Roman', serif;
-  --sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  --ink:        #100a0b;  /* page ground — velvet near-black, warm cast */
+  --curtain:    #191012;  /* deep surface */
+  --velvet:     #241619;  /* raised surface */
+  --ivory:      #ece4d3;  /* primary text — warm paper */
+  --muted:      #a1907f;  /* secondary text */
+  --faint:      #6f6155;  /* tertiary / rank numerals */
+  --brass:      #c7a667;  /* figures, rules, accent */
+  --brass-lit:  #e6cd92;  /* top lot / emphasis figures */
+  --oxblood:    #b4433b;  /* the one red — "SOLD" stamp */
+  --line:       #2c2023;  /* hairline, warm */
+  --line-lit:   #3d2c30;
+
+  /* Paddle trio — the three auction-house materials: brass, table baize, sold-red */
+  --paddle-1:   #c7a667;  /* brass */
+  --paddle-2:   #86a892;  /* verdigris / baize */
+  --paddle-3:   #cf6a60;  /* lifted oxblood */
+
+  --display: 'Bodoni Moda Variable', Didot, 'Times New Roman', serif;
+  --sans: 'Archivo Variable', system-ui, -apple-system, sans-serif;
+  --mono: 'IBM Plex Mono', ui-monospace, 'SF Mono', Menlo, monospace;
+  --maxw: 64rem;
 }
 
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
 body {
   margin: 0;
-  background: var(--bg);
-  color: var(--cream);
+  background: var(--ink);
+  color: var(--ivory);
   font-family: var(--sans);
-  line-height: 1.55;
   font-size: 17px;
-  overflow-x: hidden; /* ponytail: belt-and-suspenders vs. accidental h-scroll; real overflow still fails the Playwright test */
+  line-height: 1.55;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
 }
-a { color: var(--gold); text-decoration: none; }
-a:hover { text-decoration: underline; }
+a { color: inherit; text-decoration: none; }
+em { font-style: italic; }
+:focus-visible { outline: 2px solid var(--brass); outline-offset: 3px; border-radius: 2px; }
 
-.wrap { max-width: var(--maxw); margin: 0 auto; padding: 0 1.1rem; }
+.wrap { max-width: var(--maxw); margin: 0 auto; padding: 0 1.3rem; }
 
-/* Header / masthead */
+/* Shared rubric label — a hairline with a small-caps mono tag */
+.rubric {
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  color: var(--brass);
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  margin: 0 0 1.4rem;
+}
+.rubric::after { content: ""; flex: 1; height: 1px; background: var(--line-lit); }
+.rubric .sub { color: var(--faint); letter-spacing: 0.18em; }
+
+/* ---------- Masthead ---------- */
 .masthead { border-bottom: 1px solid var(--line); }
-.masthead .wrap { padding-top: 1.4rem; padding-bottom: 1.4rem; }
-.kicker { color: var(--gold); font-size: 0.72rem; letter-spacing: 0.18em; text-transform: uppercase; margin: 0 0 0.4rem; }
-.site-title { font-family: var(--serif); font-size: 1.5rem; margin: 0; font-weight: 700; letter-spacing: 0.01em; }
-.site-title a { color: var(--cream); }
+.masthead .wrap { padding: 1.15rem 1.3rem; }
+.mark { display: inline-flex; align-items: baseline; gap: 0.7rem; }
+.mark-lot {
+  font-family: var(--mono); font-weight: 600; font-size: 0.72rem;
+  letter-spacing: 0.12em; color: var(--ink); background: var(--brass);
+  padding: 0.18rem 0.4rem; border-radius: 2px;
+}
+.mark-name { font-family: var(--display); font-size: 1.15rem; font-weight: 600; }
+.mark-tag {
+  font-family: var(--mono); font-size: 0.64rem; letter-spacing: 0.2em;
+  text-transform: uppercase; color: var(--faint);
+}
 
-/* Episode hero */
-.hero { padding: 2.2rem 0 1.4rem; border-bottom: 1px solid var(--line); }
-.hero h1 { font-family: var(--serif); font-size: clamp(1.7rem, 5vw, 2.8rem); line-height: 1.1; margin: 0.2rem 0 0.7rem; }
-.meta { color: var(--muted); font-size: 0.9rem; display: flex; flex-wrap: wrap; gap: 0.35rem 0.9rem; margin-bottom: 0.9rem; }
-.meta .dot::before { content: "·"; margin-right: 0.9rem; color: var(--gold-dim); }
-.format { color: var(--muted); max-width: 46rem; font-size: 0.96rem; }
+/* ---------- Hero: the catalogue cover ---------- */
+.cover { border-bottom: 1px solid var(--line); padding: 3.2rem 0 2.4rem; }
+.cover .eyebrow {
+  font-family: var(--mono); font-size: 0.72rem; letter-spacing: 0.26em;
+  text-transform: uppercase; color: var(--brass); margin: 0 0 1.1rem;
+}
+.cover h1 {
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: clamp(2.5rem, 7.5vw, 5rem);
+  line-height: 1.0;
+  letter-spacing: -0.015em;
+  margin: 0 0 1.1rem;
+  max-width: 15ch;
+}
+.cover .credits {
+  font-size: 0.95rem; color: var(--muted); margin: 0 0 1.5rem;
+  display: flex; flex-wrap: wrap; gap: 0.3rem 0.75rem;
+}
+.cover .credits .sep { color: var(--brass); }
+.cover .lede { color: var(--muted); max-width: 48ch; font-size: 0.98rem; margin: 0; }
 
-/* Sections */
-section { padding: 1.8rem 0; border-bottom: 1px solid var(--line); }
-.section-title { font-size: 0.78rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--gold); margin: 0 0 1.1rem; }
+/* Sale line — auction-catalogue cover copy, figures in mono */
+.cover .wrap { position: relative; }
+.sale-line { font-size: 1.15rem; color: var(--ivory); margin: 1.6rem 0 0.6rem; }
+.sale-line b { font-family: var(--mono); font-weight: 600; color: var(--brass-lit); font-variant-numeric: tabular-nums; }
+.toplot-cap { color: var(--muted); font-size: 0.95rem; margin: 0; }
+.toplot-cap b { color: var(--ivory); font-weight: 600; }
+.toplot-cap .hammer { font-family: var(--mono); color: var(--brass); font-weight: 600; }
 
-/* Slate columns */
-.slates { display: grid; grid-template-columns: 1fr; gap: 1.1rem; }
-@media (min-width: 720px) { .slates { grid-template-columns: repeat(3, 1fr); } }
-.slate { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 1rem 1rem 0.6rem; }
-.slate h3 { margin: 0 0 0.15rem; font-size: 1.05rem; }
-.slate .spent { color: var(--muted); font-size: 0.82rem; margin-bottom: 0.8rem; }
+/* SOLD stamp — the one theatrical mark, letterpressed and canted */
+.sold {
+  position: absolute; top: 0.5rem; right: 0; transform: rotate(-6deg);
+  border: 2px double var(--oxblood); color: var(--oxblood);
+  padding: 0.5rem 0.9rem 0.4rem; text-align: center; opacity: 0.92;
+}
+.sold .word { font-family: var(--display); font-weight: 700; font-size: 1.9rem; line-height: 0.9; letter-spacing: 0.04em; display: block; }
+.sold .fine { font-family: var(--mono); font-size: 0.56rem; letter-spacing: 0.22em; text-transform: uppercase; color: var(--rose, #cf6a60); display: block; margin-top: 0.25rem; }
+@media (max-width: 899px) {
+  .sold { position: static; display: inline-block; transform: rotate(-4deg); margin: 1.6rem 0 0; }
+}
 
-/* Movie row — gold left rule */
-.pick { border-left: 2px solid var(--gold); padding: 0.5rem 0 0.6rem 0.75rem; margin-bottom: 0.55rem; }
-.pick .row { display: flex; justify-content: space-between; align-items: baseline; gap: 0.6rem; }
-.pick .title { font-weight: 600; }
-.pick .year { color: var(--muted); font-size: 0.82rem; font-variant-numeric: tabular-nums; }
-.pick .price { color: var(--gold); font-weight: 700; font-variant-numeric: tabular-nums; white-space: nowrap; }
-.pick .note { color: var(--muted); font-size: 0.83rem; margin-top: 0.1rem; }
+/* ---------- Spotify embed ---------- */
+.listen { border-bottom: 1px solid var(--line); padding: 1.6rem 0; }
+.listen iframe { display: block; border-radius: 12px; }
 
-/* January two-line list */
-.jan { display: grid; grid-template-columns: 1fr; gap: 0.9rem; }
-@media (min-width: 720px) { .jan { grid-template-columns: repeat(3, 1fr); } }
-.jan .host { font-weight: 600; margin-bottom: 0.3rem; }
-.jan ul { list-style: none; margin: 0; padding: 0; }
-.jan li { display: flex; justify-content: space-between; gap: 0.6rem; padding: 0.2rem 0; border-bottom: 1px dotted var(--line); font-size: 0.92rem; }
-.jan li .p { color: var(--gold); font-variant-numeric: tabular-nums; }
+/* ---------- Sections ---------- */
+.sale-section { padding: 2.6rem 0; border-bottom: 1px solid var(--line); }
 
-/* Chips (referenced / undrafted / excluded) */
-.chips { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0.3rem 0 1.1rem; }
-.chip { background: var(--surface); border: 1px solid var(--line); color: var(--cream); border-radius: 999px; padding: 0.28rem 0.7rem; font-size: 0.82rem; }
-.chip.muted { color: var(--muted); }
-.group-label { color: var(--cream); font-weight: 600; font-size: 0.9rem; margin: 0.6rem 0 0.1rem; }
+/* ---------- The paddles (standings) ---------- */
+.standings { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.9rem; }
+.standings .tally { border-left: 2px solid var(--tone); padding-left: 0.9rem; }
+.standings .tally .pno { font-family: var(--mono); font-size: 0.66rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--tone); }
+.standings .tally .host { font-family: var(--display); font-size: 1.15rem; font-weight: 600; margin: 0.1rem 0 0.3rem; }
+.standings .tally .spent {
+  font-family: var(--mono); font-weight: 600; color: var(--brass);
+  font-size: 1.5rem; font-variant-numeric: tabular-nums; line-height: 1.2;
+}
+.standings .tally .lots { font-family: var(--mono); font-size: 0.68rem; letter-spacing: 0.12em; color: var(--faint); text-transform: uppercase; }
 
-/* Episode index cards */
-.ep-grid { display: grid; grid-template-columns: 1fr; gap: 1rem; padding: 1.8rem 0; }
-@media (min-width: 640px) { .ep-grid { grid-template-columns: repeat(2, 1fr); } }
-.ep-card { display: block; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 1.1rem 1.2rem; transition: border-color 0.15s, transform 0.15s; }
-.ep-card:hover { border-color: var(--gold-dim); transform: translateY(-2px); text-decoration: none; }
-.ep-card h2 { font-family: var(--serif); color: var(--cream); font-size: 1.2rem; margin: 0.3rem 0 0.4rem; }
-.ep-card .count { color: var(--gold); font-size: 0.85rem; }
+/* Paddle chip — small tinted marker carrying a host's identity onto each lot */
+.paddle {
+  font-family: var(--mono); font-size: 0.62rem; letter-spacing: 0.1em; text-transform: uppercase;
+  display: inline-flex; align-items: center; gap: 0.4rem;
+  padding: 0.12rem 0.4rem; border: 1px solid var(--tone); border-radius: 2px; color: var(--tone);
+}
+.paddle .who { color: var(--ivory); }
 
-footer { color: var(--muted); font-size: 0.82rem; padding: 2rem 0 3rem; }
+/* ---------- The Board: hammer-price ledger ---------- */
+.board { list-style: none; margin: 0; padding: 0; }
+.lot {
+  display: grid;
+  grid-template-columns: 2rem 46px 1fr auto;
+  column-gap: 1rem; row-gap: 0.25rem;
+  padding: 1.05rem 0; border-bottom: 1px solid var(--line);
+  transition: background 0.18s ease;
+}
+.lot:hover { background: linear-gradient(90deg, var(--curtain), transparent 80%); }
+.lot__rank {
+  font-family: var(--mono); font-size: 0.85rem; color: var(--faint);
+  font-variant-numeric: tabular-nums; padding-top: 0.25rem;
+}
+.lot__poster img {
+  width: 46px; height: 69px; object-fit: cover; display: block;
+  border-radius: 3px; border: 1px solid var(--line-lit); background: var(--velvet);
+}
+.noposter {
+  display: block; width: 46px; height: 69px; border-radius: 3px; border: 1px solid var(--line);
+  background: repeating-linear-gradient(45deg, var(--curtain), var(--curtain) 4px, var(--velvet) 4px, var(--velvet) 8px);
+}
+.lot__title { font-family: var(--display); font-size: 1.35rem; font-weight: 600; line-height: 1.15; }
+.lot__title a { color: inherit; }
+.lot__title a:hover { text-decoration: underline; text-decoration-color: var(--brass); text-underline-offset: 3px; }
+.lot__title .yr { font-family: var(--mono); font-size: 0.8rem; color: var(--muted); font-weight: 400; margin-left: 0.35rem; }
+.lot__paddle { margin-top: 0.4rem; }
+.lot__price {
+  font-family: var(--mono); font-weight: 600; font-size: 1.2rem; color: var(--brass);
+  text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; padding-top: 0.15rem;
+}
+.lot__price.undisclosed { color: var(--faint); font-weight: 400; }
+.lot__note { grid-column: 3 / 5; color: var(--muted); font-size: 0.86rem; }
+.ledger-note { color: var(--faint); font-size: 0.76rem; margin: 1.1rem 0 0; max-width: 54ch; }
+
+/* Top lot — the single loud moment */
+.lot--top { border-bottom-color: var(--line-lit); padding: 1.4rem 0; }
+.lot--top .lot__title { font-size: 1.75rem; }
+.lot--top .lot__price { color: var(--brass-lit); font-size: 1.5rem; }
+.lot--top .lot__rank::after {
+  content: "Top lot"; display: block; margin-top: 0.4rem; color: var(--oxblood);
+  font-size: 0.6rem; letter-spacing: 0.14em; text-transform: uppercase; white-space: nowrap;
+}
+
+/* ---------- Previous sale (January) — compact ledger ---------- */
+.prev { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.4rem; }
+.prev .col .host { font-family: var(--display); font-size: 1.05rem; font-weight: 600; margin-bottom: 0.5rem; }
+.prev ul { list-style: none; margin: 0; padding: 0; }
+.prev li { display: flex; justify-content: space-between; gap: 0.7rem; padding: 0.3rem 0; border-bottom: 1px dotted var(--line); font-size: 0.9rem; }
+.prev li .p { font-family: var(--mono); color: var(--brass); font-variant-numeric: tabular-nums; }
+
+/* ---------- Index-style entry lists (mentioned / passed in / withdrawn) ---------- */
+.entrylist { margin: 0 0 1.4rem; line-height: 2; }
+.entrylist .g { font-family: var(--mono); font-size: 0.66rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--faint); display: block; margin: 0.4rem 0 0.3rem; }
+.entry { color: var(--ivory); }
+a.entry:hover { color: var(--brass-lit); text-decoration: underline; text-underline-offset: 3px; }
+.entry + .entry::before { content: "·"; color: var(--brass); margin: 0 0.55rem; }
+.entrylist.dim .entry { color: var(--muted); }
+
+/* ---------- Episode index (home) ---------- */
+.catalogue { padding: 2.8rem 0; display: grid; gap: 1.1rem; }
+.sale-card {
+  display: grid; grid-template-columns: 1fr auto; align-items: end; gap: 1rem;
+  padding: 1.6rem 0; border-top: 1px solid var(--line); transition: border-color 0.18s;
+}
+.catalogue .sale-card:last-child { border-bottom: 1px solid var(--line); }
+.sale-card:hover { border-top-color: var(--brass); }
+.sale-card .eyebrow { font-family: var(--mono); font-size: 0.64rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--brass); }
+.sale-card h2 { font-family: var(--display); font-weight: 600; font-size: clamp(1.5rem, 4vw, 2.1rem); line-height: 1.05; margin: 0.5rem 0 0.4rem; }
+.sale-card .credits { color: var(--muted); font-size: 0.85rem; }
+.sale-card .count { font-family: var(--mono); font-weight: 600; color: var(--brass); font-size: 1.15rem; text-align: right; font-variant-numeric: tabular-nums; }
+.sale-card .count small { display: block; color: var(--faint); font-size: 0.6rem; letter-spacing: 0.16em; text-transform: uppercase; font-weight: 400; }
+
+/* ---------- Footer ---------- */
+footer { padding: 2.4rem 0 3.4rem; }
+footer p { color: var(--faint); font-size: 0.8rem; max-width: 46ch; margin: 0; }
+
+/* ---------- Motion (one restrained entrance) ---------- */
+@keyframes rise { from { opacity: 0; transform: translateY(0.6rem); } to { opacity: 1; transform: none; } }
+.cover .eyebrow, .cover h1, .cover .credits, .cover .lede, .sale-line, .toplot-cap { animation: rise 0.6s ease both; }
+.cover h1 { animation-delay: 0.05s; }
+.cover .credits { animation-delay: 0.1s; }
+.cover .lede { animation-delay: 0.14s; }
+.sale-line { animation-delay: 0.18s; }
+.toplot-cap { animation-delay: 0.22s; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
+
+/* ---------- Responsive ---------- */
+@media (max-width: 640px) {
+  body { font-size: 16px; }
+  .summary { grid-template-columns: 1fr 1fr; gap: 1.4rem 1.2rem; }
+  .summary .stat.toplot { grid-column: 1 / 3; }
+  .standings { grid-template-columns: 1fr; gap: 0.7rem; }
+  .prev { grid-template-columns: 1fr; gap: 1rem; }
+  .mark-tag { display: none; }
+  .lot { grid-template-columns: 1.5rem 40px 1fr auto; column-gap: 0.7rem; }
+  .lot__poster img, .noposter { width: 40px; height: 60px; }
+  .lot__note { grid-column: 3 / 5; }
+  .lot--top .lot__title { font-size: 1.4rem; }
+}

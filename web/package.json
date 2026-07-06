@@ -9,6 +9,9 @@
     "test": "playwright test"
   },
   "dependencies": {
+    "@fontsource-variable/archivo": "^5.2.8",
+    "@fontsource-variable/bodoni-moda": "^5.2.7",
+    "@fontsource/ibm-plex-mono": "^5.2.7",
     "astro": "^4.16.18"
   },
   "devDependencies": {

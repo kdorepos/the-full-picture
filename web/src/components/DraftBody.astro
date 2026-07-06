@@ -1,0 +1,66 @@
+---
+// Draft body: a snake draft of existing films into per-host teams across categories.
+const { ep } = Astro.props;
+const tmdb = ep.tmdb || {};
+const link = (t) => (tmdb[t]?.id ? `https://www.themoviedb.org/movie/${tmdb[t].id}` : null);
+const poster = (t) => (tmdb[t]?.poster ? `https://image.tmdb.org/t/p/w185${tmdb[t].poster}` : null);
+---
+{ep.review && (
+  <section class="sale-section">
+    <p class="rubric">The review <span class="sub">the film in the room</span></p>
+    <div class="interview">
+      <div class="pick-card__poster big">
+        {poster(ep.review.title)
+          ? <img src={poster(ep.review.title)} alt={`${ep.review.title} poster`} width="92" height="138" loading="lazy" />
+          : <span class="noposter" aria-hidden="true"></span>}
+      </div>
+      <div class="pick-card__body">
+        <div class="pick-card__by">Reviewed</div>
+        <h3 class="pick-card__film">
+          {link(ep.review.title) ? <a href={link(ep.review.title)} target="_blank" rel="noopener">{ep.review.title}</a> : ep.review.title}
+          <span class="yr">{ep.review.year}</span>
+        </h3>
+        <p class="pick-card__note">{ep.review.note}</p>
+      </div>
+    </div>
+  </section>
+)}
+
+<section class="sale-section">
+  <p class="rubric">The teams <span class="sub">drafting {ep.draftOf}</span></p>
+  <div class="teams">
+    {ep.teams.map((t) => (
+      <div class="team">
+        <h3 class="team-host">{t.host}</h3>
+        {t.picks.map((p) => (
+          <article class="pick-card">
+            <div class="pick-card__poster">
+              {poster(p.title)
+                ? <img src={poster(p.title)} alt={`${p.title} poster`} width="54" height="81" loading="lazy" />
+                : <span class="noposter" aria-hidden="true"></span>}
+            </div>
+            <div class="pick-card__body">
+              <div class="pick-card__by">{p.category}</div>
+              <h4 class="pick-card__film">
+                {link(p.title) ? <a href={link(p.title)} target="_blank" rel="noopener">{p.title}</a> : p.title}
+                <span class="yr">{p.year}</span>
+              </h4>
+              {p.note && <p class="pick-card__note">{p.note}</p>}
+            </div>
+          </article>
+        ))}
+      </div>
+    ))}
+  </div>
+</section>
+
+{ep.undrafted?.length > 0 && (
+  <section class="sale-section">
+    <p class="rubric">On the board, undrafted <span class="sub">honorable mentions</span></p>
+    <p class="entrylist">
+      {ep.undrafted.map((f) => (link(f)
+        ? <a class="entry" href={link(f)} target="_blank" rel="noopener">{f}</a>
+        : <span class="entry">{f}</span>))}
+    </p>
+  </section>
+)}

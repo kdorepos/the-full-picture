@@ -16,7 +16,7 @@ const filmCount = (ep) => {
   return n;
 };
 const fmt = (d) => new Date(d).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
-const kind = (t) => ({ auction: 'Auction', list: 'Roundtable', discussion: 'Discussion' }[t] || 'Episode');
+const kind = (t) => ({ auction: 'Auction', list: 'Roundtable', draft: 'Draft', discussion: 'Discussion' }[t] || 'Episode');
 ---
 <Base title="The Full Picture — every film, every episode" description="A catalogue of every movie discussed on The Big Picture, episode by episode.">
   <section class="cover">

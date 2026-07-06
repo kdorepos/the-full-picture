@@ -2,6 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import AuctionBody from '../../components/AuctionBody.astro';
 import ListBody from '../../components/ListBody.astro';
+import DraftBody from '../../components/DraftBody.astro';
 
 export async function getStaticPaths() {
   const modules = import.meta.glob('../../data/episodes/*.json', { eager: true });
@@ -55,6 +56,12 @@ const money = (p) => (p == null ? '—' : `$${p.toLocaleString()}`);
           <b>{ep.picks.length}</b> critics, <b>{ep.picks.length}</b> favorite films of the year so far.
         </p>
       )}
+
+      {ep.type === 'draft' && (
+        <p class="sale-line">
+          <b>{ep.teams.reduce((n, t) => n + t.picks.length, 0)}</b> picks across <b>{ep.teams.length}</b> teams — a draft of <em>{ep.draftOf}</em>.
+        </p>
+      )}
     </div>
   </section>
 
@@ -72,7 +79,7 @@ const money = (p) => (p == null ? '—' : `$${p.toLocaleString()}`);
   )}
 
   <div class="wrap">
-    {ep.type === 'auction' ? <AuctionBody ep={ep} /> : <ListBody ep={ep} />}
+    {ep.type === 'auction' ? <AuctionBody ep={ep} /> : ep.type === 'draft' ? <DraftBody ep={ep} /> : <ListBody ep={ep} />}
 
     <section class="sale-section">
       <p class="rubric">Also mentioned <span class="sub">raised along the way</span></p>

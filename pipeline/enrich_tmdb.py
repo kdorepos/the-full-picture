@@ -80,6 +80,11 @@ def main():
             pick(p["title"], p.get("year"))
     for p in ep.get("picks", []):             # list / roundtable episodes
         pick(p["title"], p.get("year"))
+    for t in ep.get("teams", []):             # draft episodes — picks carry explicit years
+        for p in t["picks"]:
+            pick(p["title"], p.get("year"))
+    if ep.get("review"):                      # a reviewed film (draft/discussion)
+        pick(ep["review"]["title"], ep["review"].get("year"))
     if ep.get("interview"):
         iv = ep["interview"]
         pick(iv["title"], iv.get("year", 2026))
@@ -88,8 +93,10 @@ def main():
     for s in ep.get("januarySlate", []):      # first-half slate — all 2026 releases
         for p in s["picks"]:
             pick(p["title"], 2026)
-    for t in ep.get("undrafted", []):         # discussed upcoming films — 2026 context
-        items.setdefault(t, 2026)
+    # undrafted = 2026 films in an auction (disambiguate by year), but historical classics in a draft.
+    undrafted_year = None if ep.get("type") == "draft" else 2026
+    for t in ep.get("undrafted", []):
+        items.setdefault(t, undrafted_year)
     for g in ep.get("referenced", []):        # mix of 2026 + older; no reliable year -> exact-title only
         for t in g["films"]:
             items.setdefault(t, None)

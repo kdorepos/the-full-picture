@@ -1,0 +1,63 @@
+{
+  "slug": "2026-movie-auction-returns",
+  "title": "The 2026 Movie Auction Returns!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": ["Sean Fennessey", "Amanda Dobbins", "Chris Ryan"],
+  "published": "2026-07-02",
+  "runtimeMin": 149,
+  "format": "The mid-year movie auction: each host drafts 5 upcoming 2026 films with a $1,000 budget. Rule: you can't draft or bid on a film you've already seen — which is why the Cannes attendees (Sean, Amanda) lost the Cannes titles cheap to Chris.",
+  "slates": [
+    {
+      "host": "Chris Ryan",
+      "spent": 626,
+      "picks": [
+        { "title": "Whalefall", "year": 2026, "price": 310, "note": "Brian Duffield; Austin Abrams" },
+        { "title": "Werewolf", "year": 2026, "price": 200, "note": "Robert Eggers" },
+        { "title": "Wild Horse Nine", "year": 2026, "price": 110, "note": "Martin McDonagh; Malkovich, Rockwell, Buscemi" },
+        { "title": "Paper Tiger", "year": 2026, "price": 5, "note": "James Gray; Adam Driver, Miles Teller, ScarJo (Cannes)" },
+        { "title": "Fjord", "year": 2026, "price": 1, "note": "Christian Mungiu; Sebastian Stan, Renate Reinsve (Cannes)" }
+      ]
+    },
+    {
+      "host": "Sean Fennessey",
+      "spent": 520,
+      "budgetLeft": 480,
+      "picks": [
+        { "title": "The End of Oak Street", "year": 2026, "price": 235, "note": "David Robert Mitchell; Anne Hathaway, Ewan McGregor" },
+        { "title": "Clayface", "year": 2026, "price": 105, "note": "James Watkins; DC horror" },
+        { "title": "The Debut", "year": 2026, "price": 100, "note": "Jesse Eisenberg" },
+        { "title": "Primetime", "year": 2026, "price": 75, "note": "Lance Oppenheim; Robert Pattinson" },
+        { "title": "Spider-Man: Brand New Day", "year": 2026, "price": 5, "note": "Destin Daniel Cretton; Tom Holland" }
+      ]
+    },
+    {
+      "host": "Amanda Dobbins",
+      "spent": 1000,
+      "budgetLeft": 0,
+      "picks": [
+        { "title": "Behemoth!", "year": 2026, "price": 715, "note": "Tony Gilroy; Pedro Pascal, Will Arnett, Olivia Wilde" },
+        { "title": "Other Mommy", "year": 2026, "price": 100, "note": "Rob Savage; Jessica Chastain" },
+        { "title": "La Bola Negra", "year": 2026, "price": 87, "note": "Netflix; Penélope Cruz, Glenn Close (Cannes)" },
+        { "title": "Minotaur", "year": 2026, "price": null, "note": "Andrey Zvyagintsev; Grand Prix, Cannes — price not captured in recap" },
+        { "title": "Here Comes the Flood", "year": 2026, "price": null, "note": "Fernando Meirelles; Denzel Washington, Robert Pattinson — price not captured" }
+      ]
+    }
+  ],
+  "undrafted": ["Hope (Na Hong-jin)", "Avengers: Doomsday", "Her Private Hell", "Oz Perkins horror film", "Fatherland", "Teenage Sex and Death at Camp Miasma"],
+  "januarySlate": [
+    { "host": "Amanda Dobbins", "picks": [{ "title": "Dune: Part Three", "price": 775 }, { "title": "Project Hail Mary", "price": 200 }, { "title": "The Social Reckoning", "price": 1 }, { "title": "Verity", "price": 5 }, { "title": "The Mandalorian and Grogu", "price": 19 }] },
+    { "host": "Chris Ryan", "picks": [{ "title": "Wuthering Heights", "price": 75 }, { "title": "Resident Evil", "price": 72 }, { "title": "The Devil Wears Prada 2", "price": 26 }, { "title": "The Adventures of Cliff Booth", "price": 76 }, { "title": "Disclosure Day", "price": 72 }] },
+    { "host": "Sean Fennessey", "picks": [{ "title": "The Odyssey", "price": 926 }, { "title": "Toy Story 5", "price": 1 }, { "title": "Narnia: The Magician's Nephew", "price": 18 }, { "title": "Digger", "price": null }, { "title": "Jack of Spades", "price": null }] }
+  ],
+  "referenced": [
+    { "group": "Festival / 85+ Metacritic", "films": ["Once Upon a Time in Harlem", "Blue Heron", "Remake", "Fatherland", "Silent Friend", "Sound of Falling", "Magellan", "Pompeii", "Below the Clouds", "Our Land", "Blue Film", "My Father's Shadow", "The Furious", "The Secret Agent"] },
+    { "group": "Other 2026–27 films raised", "films": ["Artificial", "After the Hunt", "Cutoff", "The Rip", "Michael", "Wildwood", "Club Kid", "The Hunger Games: Sunrise on the Reaping", "Onslaught", "Clara and the Sun", "In the Grey", "What Happens at Night", "Tenzing", "Mayday", "Godzilla Minus Zero", "The Great Beyond", "Street Fighter", "Sense and Sensibility", "A Place in Hell", "The Hunt for Gollum", "The War of the Rohirrim", "Ebenezer", "Anthony Bourdain doc", "Love, Weddings and Other Disasters"] },
+    { "group": "Older films name-checked", "films": ["Nosferatu", "The Witch", "The Lighthouse", "The Northman", "Beowulf", "Treasure of the Sierra Madre", "Michael Clayton", "The Bourne Legacy", "Duplicity", "The Banshees of Inisherin", "Seven Psychopaths", "Three Billboards", "In Bruges", "Whiplash", "The Spectacular Now", "Midnight Cowboy", "Gilda", "It Follows", "Under the Silver Lake", "Trainspotting", "Jurassic Park", "Jurassic World Rebirth", "Oppenheimer", "Tenet", "The Smashing Machine", "The Fantastic Four: First Steps", "Ghostbusters", "Triple Frontier"] }
+  ],
+  "excluded": {
+    "TV": ["Andor", "Peaky Blinders", "The Bear", "Euphoria", "Grace and Frankie", "The Agency", "Fargo", "Obi-Wan Kenobi", "Cape Fear", "House of the Dragon", "To Catch a Predator"],
+    "Games": ["Elden Ring"],
+    "Ads": ["Tremfya", "Amazon Prime", "Wells Fargo", "State Farm", "Blinds.com"]
+  }
+}

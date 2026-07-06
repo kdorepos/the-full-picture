@@ -1,0 +1,103 @@
+---
+import Base from '../../layouts/Base.astro';
+
+export async function getStaticPaths() {
+  const modules = import.meta.glob('../../data/episodes/*.json', { eager: true });
+  return Object.values(modules).map((m) => ({
+    params: { slug: m.default.slug },
+    props: { ep: m.default },
+  }));
+}
+
+const { ep } = Astro.props;
+const price = (p) => (p == null ? '—' : `$${p}`);
+const pubDate = new Date(ep.published).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+---
+<Base title={`${ep.title} — The Full Picture`} description={ep.format}>
+  <div class="hero">
+    <div class="wrap">
+      <p class="kicker">{ep.show} · {ep.network}</p>
+      <h1>{ep.title}</h1>
+      <div class="meta">
+        <span>{pubDate}</span>
+        <span class="dot">{ep.runtimeMin} min</span>
+        <span class="dot">{ep.hosts.join(', ')}</span>
+      </div>
+      <p class="format">{ep.format}</p>
+    </div>
+  </div>
+
+  <div class="wrap">
+    <section>
+      <h2 class="section-title">This episode's draft</h2>
+      <div class="slates">
+        {ep.slates.map((s) => (
+          <div class="slate">
+            <h3>{s.host}</h3>
+            <div class="spent">
+              spent ${s.spent}{s.budgetLeft != null && s.budgetLeft > 0 ? ` · $${s.budgetLeft} left` : ''}
+            </div>
+            {s.picks.map((m) => (
+              <div class="pick">
+                <div class="row">
+                  <span class="title">{m.title} <span class="year">{m.year}</span></span>
+                  <span class="price">{price(m.price)}</span>
+                </div>
+                {m.note && <div class="note">{m.note}</div>}
+              </div>
+            ))}
+          </div>
+        ))}
+      </div>
+    </section>
+
+    {ep.undrafted?.length > 0 && (
+      <section>
+        <h2 class="section-title">Discussed but left undrafted</h2>
+        <div class="chips">
+          {ep.undrafted.map((f) => <span class="chip">{f}</span>)}
+        </div>
+      </section>
+    )}
+
+    <section>
+      <h2 class="section-title">January slate (first-half picks)</h2>
+      <div class="jan">
+        {ep.januarySlate.map((s) => (
+          <div>
+            <div class="host">{s.host}</div>
+            <ul>
+              {s.picks.map((m) => (
+                <li><span>{m.title}</span><span class="p">{price(m.price)}</span></li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <section>
+      <h2 class="section-title">Referenced</h2>
+      {ep.referenced.map((g) => (
+        <div>
+          <p class="group-label">{g.group}</p>
+          <div class="chips">
+            {g.films.map((f) => <span class="chip">{f}</span>)}
+          </div>
+        </div>
+      ))}
+    </section>
+
+    <section>
+      <h2 class="section-title">Excluded (non-films, filtered deliberately)</h2>
+      {Object.entries(ep.excluded).map(([k, arr]) => (
+        <div>
+          <p class="group-label">{k}</p>
+          <div class="chips">
+            {arr.map((f) => <span class="chip muted">{f}</span>)}
+          </div>
+        </div>
+      ))}
+    </section>
+  </div>
+</Base>

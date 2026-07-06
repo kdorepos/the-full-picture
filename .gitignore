@@ -1,0 +1,8 @@
+venv/
+out/
+*.mp3
+*.wav
+transcript*.txt
+.env
+__pycache__/
+# HuggingFace model cache lives in ~/.cache/huggingface by default; not in-repo

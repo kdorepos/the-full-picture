@@ -218,6 +218,14 @@ em { font-style: italic; }
 
 .interview { display: grid; grid-template-columns: 92px 1fr; gap: 1.3rem; background: var(--curtain); border: 1px solid var(--line); border-radius: 10px; padding: 1.3rem; }
 
+/* ---------- Draft body: per-host teams ---------- */
+.teams { display: grid; grid-template-columns: 1fr; gap: 2rem; }
+@media (min-width: 760px) { .teams { grid-template-columns: repeat(3, 1fr); gap: 1.6rem; } }
+.team-host { font-family: var(--display); font-size: 1.2rem; font-weight: 600; margin: 0 0 0.4rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--line-lit); }
+.team .pick-card { grid-template-columns: 54px 1fr; gap: 0.9rem; padding-top: 0.9rem; }
+.team .pick-card__poster img, .team .pick-card__poster .noposter { width: 54px; height: 81px; }
+.team .pick-card__film { font-size: 1.1rem; }
+
 .topfive { list-style: none; margin: 0; padding: 0; }
 .topfive li { display: flex; align-items: baseline; gap: 0.9rem; padding: 0.55rem 0; border-bottom: 1px dotted var(--line); font-family: var(--display); font-size: 1.2rem; }
 .topfive .n { font-family: var(--mono); color: var(--brass); font-size: 0.9rem; font-variant-numeric: tabular-nums; }

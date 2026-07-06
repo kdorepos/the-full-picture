@@ -42,6 +42,15 @@ This step is not optional; `enrich_tmdb.py` ends by reminding you to run it.
 Clean markdown: header (title/show/runtime) + sections above. Save transcript AND movie
 list; send the list to the user; push-notify on completion (long jobs, user is usually away).
 
+## Watch process (auto-ingest new episodes)
+- `pipeline/watch.py` — reports feed episodes **newer** than the newest on the site
+  (compares `published` dates), so it flags genuine new drops, not the skipped backlog.
+  Exits 10 if there are new episodes, 0 if none. `--json` for machine use.
+- `pipeline/watch_and_ingest.sh` — permanent watcher: runs `watch.py`, and on new
+  episodes invokes a headless `claude -p` session to run the full pipeline (steps 4–6,
+  review required) and open+merge a PR. Install as a system cron (line in the script).
+  A session-scoped CronCreate job can cover the interim (auto-expires after 7 days).
+
 ## Groq engine (default) — lessons
 - `whisper-large-v3-turbo` beats local `medium.en` on proper nouns (movie titles) and is
   ~$0/episode. POST FLAC chunks to `/openai/v1/audio/transcriptions`.

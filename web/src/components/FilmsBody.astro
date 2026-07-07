@@ -6,7 +6,7 @@
 const { seg, tmdb = {} } = Astro.props;
 const link = (t) => (tmdb[t]?.id ? `https://www.themoviedb.org/movie/${tmdb[t].id}` : null);
 const poster = (t) => (tmdb[t]?.poster ? `https://image.tmdb.org/t/p/w185${tmdb[t].poster}` : null);
-const byline = (i) => seg.guest ?? (seg.ranked ? `No. ${i + 1}` : null);
+const byline = (f, i) => f.role ? `as ${f.role}` : (seg.guest ?? (seg.ranked ? `No. ${i + 1}` : null));
 ---
 <section class="sale-section">
   <p class="rubric">{seg.heading}{seg.note && <span class="sub">{seg.note}</span>}</p>
@@ -19,7 +19,7 @@ const byline = (i) => seg.guest ?? (seg.ranked ? `No. ${i + 1}` : null);
             : <span class="noposter" aria-hidden="true"></span>}
         </div>
         <div class="pick-card__body">
-          {byline(i) && <div class="pick-card__by">{byline(i)}</div>}
+          {byline(f, i) && <div class="pick-card__by">{byline(f, i)}</div>}
           <h3 class="pick-card__film">
             {link(f.title) ? <a href={link(f.title)} target="_blank" rel="noopener">{f.title}</a> : f.title}
             {f.year && <span class="yr">{f.year}</span>}

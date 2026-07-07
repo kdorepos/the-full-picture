@@ -1,4 +1,14 @@
-import { kv } from '@vercel/kv';
+import { createClient } from '@vercel/kv';
+
+// Built lazily inside the handler: createClient() throws if the env vars are missing,
+// and we want that caught (→ {active:false}) rather than crashing the function at import
+// before the KV store is set up. Accepts either naming the storage integration injects.
+function kvClient() {
+  return createClient({
+    url: process.env.KV_REST_API_URL || process.env.UPSTASH_REDIS_REST_URL,
+    token: process.env.KV_REST_API_TOKEN || process.env.UPSTASH_REDIS_REST_TOKEN,
+  });
+}
 
 // Live transcription progress for the homepage "now processing" panel.
 //   GET  → the last-pushed progress ({active:false} when idle or KV unset)
@@ -13,11 +23,11 @@ export default async function handler(req, res) {
         return;
       }
       const body = typeof req.body === 'string' ? JSON.parse(req.body) : req.body;
-      await kv.set('progress', body);
+      await kvClient().set('progress', body);
       res.status(200).json({ ok: true });
       return;
     }
-    const data = (await kv.get('progress')) || { active: false };
+    const data = (await kvClient().get('progress')) || { active: false };
     res.status(200).json(data);
   } catch {
     res.status(200).json({ active: false });

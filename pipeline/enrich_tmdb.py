@@ -80,9 +80,10 @@ def main():
             pick(f["title"], f.get("year"))
         for p in seg.get("picks", []):        # list / roundtable
             pick(p["title"], p.get("year"))
-        for t in seg.get("teams", []):        # draft — picks carry explicit years
-            for p in t["picks"]:
-                pick(p["title"], p.get("year"))
+        for t in seg.get("teams", []):        # draft — film picks carry a year; year-less
+            for p in t["picks"]:              # picks are non-films (a character/ship/wild card), skip them
+                if p.get("year"):
+                    pick(p["title"], p["year"])
         for s in seg.get("slates", []):       # auction
             for p in s["picks"]:
                 pick(p["title"], p.get("year"))

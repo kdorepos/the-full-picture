@@ -22,7 +22,7 @@ const poster = (t) => (tmdb[t]?.poster ? `https://image.tmdb.org/t/p/w185${tmdb[
               <div class="pick-card__by">{p.category}</div>
               <h4 class="pick-card__film">
                 {link(p.title) ? <a href={link(p.title)} target="_blank" rel="noopener">{p.title}</a> : p.title}
-                <span class="yr">{p.year}</span>
+                {p.year && <span class="yr">{p.year}</span>}
               </h4>
               {p.note && <p class="pick-card__note">{p.note}</p>}
             </div>

@@ -26,7 +26,7 @@ const pubDate = new Date(ep.published).toLocaleDateString('en-US', { month: 'lon
 const filmsIn = (s) =>
   (s.films?.length ?? 0) +
   (s.picks?.length ?? 0) +
-  (s.teams?.reduce((n, t) => n + t.picks.length, 0) ?? 0) +
+  (s.teams?.reduce((n, t) => n + t.picks.filter((p) => p.year).length, 0) ?? 0) +
   (s.slates?.reduce((n, sl) => n + sl.picks.length, 0) ?? 0) +
   (s.categories?.reduce((n, c) => n + (c.nominees?.length ?? 0), 0) ?? 0);
 const filmTotal = segs.reduce((n, s) => n + filmsIn(s), 0);

@@ -12,80 +12,85 @@
   ],
   "published": "2026-04-27",
   "runtimeMin": 152,
-  "type": "discussion",
   "spotifyEpisodeId": "5RKNSpL0diZjC8eRA1XZm7",
-  "filmsLabel": "the Star Wars filmography, as the show sees it",
   "format": "A Star Wars draft (Sean, Mallory Rubin, Van Lathan, Amanda, Chris) across seven categories — Movie, Movie You're Cursed With, Skywalker Family Member, Hero or Villain, Vehicle, Problematic Character, and Wild Card. Only two of those categories are films, so rather than reconstruct the character-and-ship picks, here's the Star Wars filmography as the show ranked, cursed, and fought over it.",
-  "films": [
+  "segments": [
     {
-      "title": "The Empire Strikes Back",
-      "year": 1980,
-      "note": "Sean's #1 — 'the greatest sequel ever made,' better than Godfather II. Made darker and better than it was ever mapped to be."
-    },
-    {
-      "title": "Star Wars",
-      "year": 1977,
-      "note": "A New Hope — Mallory's pick. 'It changed movies, changed genre films, and changed the history of story.' The binary sunset."
-    },
-    {
-      "title": "Return of the Jedi",
-      "year": 1983,
-      "note": "The original trilogy's redemptive close — Vader's turn is the emotional core the whole saga orbits."
-    },
-    {
-      "title": "Star Wars: Episode I - The Phantom Menace",
-      "year": 1999,
-      "note": "'A terrible movie,' but formative to the fandom — and Amanda's crash-course homework."
-    },
-    {
-      "title": "Star Wars: Episode II - Attack of the Clones",
-      "year": 2002,
-      "note": "The weakest of the prequels — perennially conflated with the Clone Wars."
-    },
-    {
-      "title": "Star Wars: Episode III - Revenge of the Sith",
-      "year": 2005,
-      "note": "'Genuinely, unironically great' — the tragedy of Anakin finally lands."
-    },
-    {
-      "title": "Star Wars: The Force Awakens",
-      "year": 2015,
-      "note": "The sequel trilogy's confident, if familiar, restart."
-    },
-    {
-      "title": "Star Wars: The Last Jedi",
-      "year": 2017,
-      "note": "The great divide — 'a healthy debate about a Star Wars movie is totally valid,' but Lucasfilm then walked it back."
-    },
-    {
-      "title": "Star Wars: The Rise of Skywalker",
-      "year": 2019,
-      "note": "'A shameful manifestation of fearing your own fanbase.' Somehow, Palpatine returned."
-    },
-    {
-      "title": "Rogue One: A Star Wars Story",
-      "year": 2016,
-      "note": "Home to the Vader hallway — 'exactly what I wanted to see when I was six.'"
-    },
-    {
-      "title": "Solo: A Star Wars Story",
-      "year": 2018,
-      "note": "The Han Solo standalone."
-    },
-    {
-      "title": "Star Wars: The Clone Wars",
-      "year": 2008,
-      "note": "The animated theatrical film — 'pretty bad,' though the series it launched is among the best Star Wars ever."
-    },
-    {
-      "title": "The Mandalorian and Grogu",
-      "year": 2026,
-      "note": "The upcoming film — 'I hope it's good and they let Grogu shine.'"
-    },
-    {
-      "title": "Star Wars: Starfighter",
-      "year": 2027,
-      "note": "Next May — Ryan Gosling, directed by Shawn Levy. 'The biggest star in the world.'"
+      "kind": "discussion",
+      "heading": "The films",
+      "note": "the Star Wars filmography, as the show sees it",
+      "films": [
+        {
+          "title": "The Empire Strikes Back",
+          "year": 1980,
+          "note": "Sean's #1 — 'the greatest sequel ever made,' better than Godfather II. Made darker and better than it was ever mapped to be."
+        },
+        {
+          "title": "Star Wars",
+          "year": 1977,
+          "note": "A New Hope — Mallory's pick. 'It changed movies, changed genre films, and changed the history of story.' The binary sunset."
+        },
+        {
+          "title": "Return of the Jedi",
+          "year": 1983,
+          "note": "The original trilogy's redemptive close — Vader's turn is the emotional core the whole saga orbits."
+        },
+        {
+          "title": "Star Wars: Episode I - The Phantom Menace",
+          "year": 1999,
+          "note": "'A terrible movie,' but formative to the fandom — and Amanda's crash-course homework."
+        },
+        {
+          "title": "Star Wars: Episode II - Attack of the Clones",
+          "year": 2002,
+          "note": "The weakest of the prequels — perennially conflated with the Clone Wars."
+        },
+        {
+          "title": "Star Wars: Episode III - Revenge of the Sith",
+          "year": 2005,
+          "note": "'Genuinely, unironically great' — the tragedy of Anakin finally lands."
+        },
+        {
+          "title": "Star Wars: The Force Awakens",
+          "year": 2015,
+          "note": "The sequel trilogy's confident, if familiar, restart."
+        },
+        {
+          "title": "Star Wars: The Last Jedi",
+          "year": 2017,
+          "note": "The great divide — 'a healthy debate about a Star Wars movie is totally valid,' but Lucasfilm then walked it back."
+        },
+        {
+          "title": "Star Wars: The Rise of Skywalker",
+          "year": 2019,
+          "note": "'A shameful manifestation of fearing your own fanbase.' Somehow, Palpatine returned."
+        },
+        {
+          "title": "Rogue One: A Star Wars Story",
+          "year": 2016,
+          "note": "Home to the Vader hallway — 'exactly what I wanted to see when I was six.'"
+        },
+        {
+          "title": "Solo: A Star Wars Story",
+          "year": 2018,
+          "note": "The Han Solo standalone."
+        },
+        {
+          "title": "Star Wars: The Clone Wars",
+          "year": 2008,
+          "note": "The animated theatrical film — 'pretty bad,' though the series it launched is among the best Star Wars ever."
+        },
+        {
+          "title": "The Mandalorian and Grogu",
+          "year": 2026,
+          "note": "The upcoming film — 'I hope it's good and they let Grogu shine.'"
+        },
+        {
+          "title": "Star Wars: Starfighter",
+          "year": 2027,
+          "note": "Next May — Ryan Gosling, directed by Shawn Levy. 'The biggest star in the world.'"
+        }
+      ]
     }
   ],
   "referenced": [

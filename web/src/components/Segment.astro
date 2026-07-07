@@ -1,0 +1,13 @@
+---
+// Dispatch a segment to its renderer. Most film-list kinds share FilmsBody;
+// auction/draft/list/awards have bespoke layouts.
+import AuctionBody from './AuctionBody.astro';
+import DraftBody from './DraftBody.astro';
+import ListBody from './ListBody.astro';
+import AwardsBody from './AwardsBody.astro';
+import FilmsBody from './FilmsBody.astro';
+const { seg, tmdb } = Astro.props;
+const BODY = { auction: AuctionBody, draft: DraftBody, list: ListBody, awards: AwardsBody };
+const Body = BODY[seg.kind] ?? FilmsBody;
+---
+<Body seg={seg} tmdb={tmdb} />

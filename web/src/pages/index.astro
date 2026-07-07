@@ -6,19 +6,20 @@ const episodes = Object.values(modules)
   .map((m) => m.default)
   .sort((a, b) => (a.published < b.published ? 1 : -1));
 
-const filmCount = (ep) => {
-  let n = 0;
-  (ep.slates ?? []).forEach((s) => (n += s.picks.length));
-  (ep.lists ?? []).forEach((l) => (n += l.ranked.length));
-  (ep.teams ?? []).forEach((t) => (n += t.picks.length));
-  n += ep.films?.length ?? 0;
-  (ep.januarySlate ?? []).forEach((s) => (n += s.picks.length));
-  (ep.referenced ?? []).forEach((g) => (n += g.films.length));
-  n += (ep.undrafted?.length ?? 0) + (ep.honorableMentions?.length ?? 0);
-  return n;
-};
+const filmsIn = (s) =>
+  (s.films?.length ?? 0) +
+  (s.picks?.length ?? 0) +
+  (s.teams?.reduce((n, t) => n + t.picks.length, 0) ?? 0) +
+  (s.slates?.reduce((n, sl) => n + sl.picks.length, 0) ?? 0) +
+  (s.categories?.reduce((n, c) => n + (c.nominees?.length ?? 0), 0) ?? 0);
+const filmCount = (ep) => (ep.segments ?? []).reduce((n, s) => n + filmsIn(s), 0);
 const fmt = (d) => new Date(d).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
-const kind = (t) => ({ auction: 'Auction', list: 'Roundtable', draft: 'Draft', discussion: 'Discussion' }[t] || 'Episode');
+const KIND = {
+  review: 'Review', ranking: 'Rankings', topfive: 'Top Five', halloffame: 'Hall of Fame',
+  discussion: 'Discussion', interview: 'Interview', list: 'Roundtable', draft: 'Draft',
+  auction: 'Auction', awards: 'Awards',
+};
+const kind = (ep) => [...new Set((ep.segments ?? []).map((s) => KIND[s.kind] ?? 'Segment'))].join(' · ') || 'Episode';
 ---
 <Base title="The Full Picture — every film, every episode" description="A catalogue of every movie discussed on The Big Picture, episode by episode.">
   <section class="cover">
@@ -36,7 +37,7 @@ const kind = (t) => ({ auction: 'Auction', list: 'Roundtable', draft: 'Draft', d
         {episodes.map((ep) => (
           <a class="sale-card" href={`/ep/${ep.slug}`}>
             <div>
-              <span class="eyebrow">{kind(ep.type)} · {fmt(ep.published)} · {ep.runtimeMin} min</span>
+              <span class="eyebrow">{kind(ep)} · {fmt(ep.published)} · {ep.runtimeMin} min</span>
               <h2>{ep.title}</h2>
               <span class="credits">{ep.hosts.join(' · ')}</span>
             </div>

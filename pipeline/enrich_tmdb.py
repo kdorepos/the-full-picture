@@ -69,36 +69,34 @@ def main():
     path = sys.argv[1]
     ep = json.load(open(path))
 
-    # (title, year) for everything linkable, across episode types. Excluded (TV/games/ads) skipped.
+    # (title, year) for everything linkable, walking each segment by kind. Excluded skipped.
     # `picks` = films a host actually chose (high value); an unmatched pick is a red flag worth review.
     items, picks = {}, set()
     def pick(title, year):
         items[title] = year
         picks.add(title)
-    for s in ep.get("slates", []):            # auction episodes
-        for p in s["picks"]:
+    for seg in ep.get("segments", []):
+        for f in seg.get("films", []):        # review / ranking / topfive / halloffame / discussion / interview
+            pick(f["title"], f.get("year"))
+        for p in seg.get("picks", []):        # list / roundtable
             pick(p["title"], p.get("year"))
-    for p in ep.get("picks", []):             # list / roundtable episodes
-        pick(p["title"], p.get("year"))
-    for t in ep.get("teams", []):             # draft episodes — picks carry explicit years
-        for p in t["picks"]:
-            pick(p["title"], p.get("year"))
-    for f in ep.get("films", []):             # discussion episodes
-        pick(f["title"], f.get("year"))
-    if ep.get("review"):                      # a reviewed film (draft/discussion)
-        pick(ep["review"]["title"], ep["review"].get("year"))
-    if ep.get("interview"):
-        iv = ep["interview"]
-        pick(iv["title"], iv.get("year", 2026))
-    for t in ep.get("seansTopFive", []):      # a host's running top list — 2026 releases
-        pick(t, 2026)
-    for s in ep.get("januarySlate", []):      # first-half slate — all 2026 releases
-        for p in s["picks"]:
-            pick(p["title"], 2026)
-    # undrafted = 2026 films in an auction (disambiguate by year), but historical classics in a draft.
-    undrafted_year = None if ep.get("type") == "draft" else 2026
-    for t in ep.get("undrafted", []):
-        items.setdefault(t, undrafted_year)
+        for t in seg.get("teams", []):        # draft — picks carry explicit years
+            for p in t["picks"]:
+                pick(p["title"], p.get("year"))
+        for s in seg.get("slates", []):       # auction
+            for p in s["picks"]:
+                pick(p["title"], p.get("year"))
+        if seg.get("kind") == "awards":       # awards — nominees (draft's `categories` are label strings)
+            for c in seg["categories"]:
+                for n in c["nominees"]:
+                    pick(n["title"], n.get("year"))
+        for s in seg.get("januarySlate", []):  # auction's prior first-half slate — all 2026
+            for p in s["picks"]:
+                pick(p["title"], 2026)
+        # undrafted = 2026 films in an auction (disambiguate by year), historical classics in a draft.
+        undrafted_year = None if seg.get("kind") == "draft" else 2026
+        for t in seg.get("undrafted", []):
+            items.setdefault(t, undrafted_year)
     for g in ep.get("referenced", []):        # mix of 2026 + older; no reliable year -> exact-title only
         for t in g["films"]:
             items.setdefault(t, None)

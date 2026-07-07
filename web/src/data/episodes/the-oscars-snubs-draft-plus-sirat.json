@@ -12,155 +12,167 @@
   ],
   "published": "2026-02-16",
   "runtimeMin": 171,
-  "type": "draft",
   "spotifyEpisodeId": "1o0SsbQrlLLJSabBvVB2jj",
-  "draftOf": "the greatest Oscar snubs in history",
-  "categories": [
-    "Best Picture Nominee Snub (20th c.)",
-    "Best Picture Nominee Snub (21st c.)",
-    "Best Picture Winner Snub",
-    "Best Actor Winner Snub",
-    "Best Actress Winner Snub",
-    "Best Director Winner Snub",
-    "Wild Card"
-  ],
   "format": "A five-person snake draft (Joanna Robinson, Amanda, Chris, Sean, Katie Rich) of the most egregious Oscar snubs across seven categories — one year comes off the board per pick, so 35 years of Academy history get rewritten. It closes with Sean's interview with 'Sirāt' director Oliver Laxe. Note: the full 35-pick rosters weren't recapped on-air; below are the marquee, confidently-attributed picks.",
-  "review": {
-    "title": "Sirāt",
-    "year": 2025,
-    "note": "Sean's conversation with director Oliver Laxe about his Cannes-awarded, techno-scored desert odyssey — cinema as a place of transformation and healing, the 32-minute-delayed title card, and thinking of films 'like operas.'"
-  },
-  "teams": [
+  "segments": [
     {
-      "host": "Joanna Robinson",
-      "picks": [
+      "kind": "draft",
+      "heading": "The teams",
+      "draftOf": "the greatest Oscar snubs in history",
+      "teams": [
         {
-          "title": "Mad Max: Fury Road",
-          "year": 2015,
-          "category": "Best Picture Winner Snub",
-          "note": "The #1 overall pick — the snub of snubs. A true-blue genre classic that lost to Spotlight before the Academy learned to honor genre."
+          "host": "Joanna Robinson",
+          "picks": [
+            {
+              "title": "Mad Max: Fury Road",
+              "year": 2015,
+              "category": "Best Picture Winner Snub",
+              "note": "The #1 overall pick — the snub of snubs. A true-blue genre classic that lost to Spotlight before the Academy learned to honor genre."
+            },
+            {
+              "title": "Rebecca",
+              "year": 1940,
+              "category": "Best Director Winner Snub",
+              "note": "Finally give Hitchcock a directing Oscar — over John Ford's The Grapes of Wrath. Takes 1940 (and His Girl Friday) off the board."
+            },
+            {
+              "title": "In the Mood for Love",
+              "year": 2000,
+              "category": "Best Picture Nominee Snub (21st c.)",
+              "note": "Submitted as international but never nominated — a generous read of the 2000 eligibility."
+            },
+            {
+              "title": "Witness",
+              "year": 1985,
+              "category": "Best Actor Winner Snub",
+              "note": "Give Harrison Ford the Oscar he deserved — taken from William Hurt."
+            }
+          ]
         },
         {
-          "title": "Rebecca",
-          "year": 1940,
-          "category": "Best Director Winner Snub",
-          "note": "Finally give Hitchcock a directing Oscar — over John Ford's The Grapes of Wrath. Takes 1940 (and His Girl Friday) off the board."
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "The Social Network",
+              "year": 2010,
+              "category": "Best Picture Winner Snub",
+              "note": "One of the great miscarriages of Oscar justice — lost to The King's Speech, and Fincher still has no Oscar."
+            },
+            {
+              "title": "Malcolm X",
+              "year": 1992,
+              "category": "Best Actor Winner Snub",
+              "note": "A forever-actor announcement robbed — Denzel, one of our all-timers, taken from Pacino (who has Godfather II anyway)."
+            },
+            {
+              "title": "The Grand Budapest Hotel",
+              "year": 2014,
+              "category": "Best Director Winner Snub",
+              "note": "Wes Anderson's coronation moment that just passed him by — taken from Iñárritu's Birdman."
+            },
+            {
+              "title": "The Dark Knight",
+              "year": 2008,
+              "category": "Best Picture Nominee Snub (21st c.)",
+              "note": "The snub that triggered the Academy's Best Picture expansion — 'and then I don't have to hear about it anymore.'"
+            },
+            {
+              "title": "Bringing Up Baby",
+              "year": 1938,
+              "category": "Best Picture Nominee Snub (20th c.)",
+              "note": "Zero nominations for a signature screwball that invents the whole genre."
+            }
+          ]
         },
         {
-          "title": "In the Mood for Love",
-          "year": 2000,
-          "category": "Best Picture Nominee Snub (21st c.)",
-          "note": "Submitted as international but never nominated — a generous read of the 2000 eligibility."
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Goodfellas",
+              "year": 1990,
+              "category": "Best Picture Winner Snub",
+              "note": "Over Dances with Wolves — the most egregious one; Scorsese then waited 16 years for The Departed."
+            },
+            {
+              "title": "2001: A Space Odyssey",
+              "year": 1968,
+              "category": "Best Picture Nominee Snub (20th c.)",
+              "note": "Kubrick, criminally overlooked — never topped as science fiction."
+            },
+            {
+              "title": "All About Eve",
+              "year": 1950,
+              "category": "Best Actress Winner Snub",
+              "note": "Bette Davis — one of CR's five favorite performances ever, over Judy Holliday."
+            },
+            {
+              "title": "The Girl with the Dragon Tattoo",
+              "year": 2011,
+              "category": "Best Picture Nominee Snub (21st c.)",
+              "note": "Into one of the worst nominee slates ever — 'closer to Fincher every day.'"
+            }
+          ]
         },
         {
-          "title": "Witness",
-          "year": 1985,
-          "category": "Best Actor Winner Snub",
-          "note": "Give Harrison Ford the Oscar he deserved — taken from William Hurt."
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Singin' in the Rain",
+              "year": 1952,
+              "category": "Best Picture Nominee Snub (20th c.)",
+              "note": "Should have won outright — take out The Greatest Show on Earth entirely."
+            },
+            {
+              "title": "The Last Detail",
+              "year": 1973,
+              "category": "Best Actor Winner Snub",
+              "note": "Give Nicholson his 1973 (from Jack Lemmon, who already had one) — a domino chain that ends with the slap never happening."
+            }
+          ]
+        },
+        {
+          "host": "Katie Rich",
+          "picks": [
+            {
+              "title": "Brokeback Mountain",
+              "year": 2005,
+              "category": "Best Picture Winner Snub",
+              "note": "Maybe the worst Best Picture win of all time (Crash) — a chalk pick that had to be done."
+            },
+            {
+              "title": "Do the Right Thing",
+              "year": 1989,
+              "category": "Best Picture Nominee Snub (20th c.)",
+              "note": "The be-all, end-all Spike Lee snub — taken over When Harry Met Sally."
+            },
+            {
+              "title": "Eternal Sunshine of the Spotless Mind",
+              "year": 2004,
+              "category": "Best Actress Winner Snub",
+              "note": "Kate Winslet, overdue — a chain that eventually frees Glenn Close for Albert Nobbs."
+            }
+          ]
         }
+      ],
+      "categories": [
+        "Best Picture Nominee Snub (20th c.)",
+        "Best Picture Nominee Snub (21st c.)",
+        "Best Picture Winner Snub",
+        "Best Actor Winner Snub",
+        "Best Actress Winner Snub",
+        "Best Director Winner Snub",
+        "Wild Card"
       ]
     },
     {
-      "host": "Amanda Dobbins",
-      "picks": [
+      "kind": "review",
+      "heading": "The review",
+      "note": "the film in the room",
+      "films": [
         {
-          "title": "The Social Network",
-          "year": 2010,
-          "category": "Best Picture Winner Snub",
-          "note": "One of the great miscarriages of Oscar justice — lost to The King's Speech, and Fincher still has no Oscar."
-        },
-        {
-          "title": "Malcolm X",
-          "year": 1992,
-          "category": "Best Actor Winner Snub",
-          "note": "A forever-actor announcement robbed — Denzel, one of our all-timers, taken from Pacino (who has Godfather II anyway)."
-        },
-        {
-          "title": "The Grand Budapest Hotel",
-          "year": 2014,
-          "category": "Best Director Winner Snub",
-          "note": "Wes Anderson's coronation moment that just passed him by — taken from Iñárritu's Birdman."
-        },
-        {
-          "title": "The Dark Knight",
-          "year": 2008,
-          "category": "Best Picture Nominee Snub (21st c.)",
-          "note": "The snub that triggered the Academy's Best Picture expansion — 'and then I don't have to hear about it anymore.'"
-        },
-        {
-          "title": "Bringing Up Baby",
-          "year": 1938,
-          "category": "Best Picture Nominee Snub (20th c.)",
-          "note": "Zero nominations for a signature screwball that invents the whole genre."
-        }
-      ]
-    },
-    {
-      "host": "Chris Ryan",
-      "picks": [
-        {
-          "title": "Goodfellas",
-          "year": 1990,
-          "category": "Best Picture Winner Snub",
-          "note": "Over Dances with Wolves — the most egregious one; Scorsese then waited 16 years for The Departed."
-        },
-        {
-          "title": "2001: A Space Odyssey",
-          "year": 1968,
-          "category": "Best Picture Nominee Snub (20th c.)",
-          "note": "Kubrick, criminally overlooked — never topped as science fiction."
-        },
-        {
-          "title": "All About Eve",
-          "year": 1950,
-          "category": "Best Actress Winner Snub",
-          "note": "Bette Davis — one of CR's five favorite performances ever, over Judy Holliday."
-        },
-        {
-          "title": "The Girl with the Dragon Tattoo",
-          "year": 2011,
-          "category": "Best Picture Nominee Snub (21st c.)",
-          "note": "Into one of the worst nominee slates ever — 'closer to Fincher every day.'"
-        }
-      ]
-    },
-    {
-      "host": "Sean Fennessey",
-      "picks": [
-        {
-          "title": "Singin' in the Rain",
-          "year": 1952,
-          "category": "Best Picture Nominee Snub (20th c.)",
-          "note": "Should have won outright — take out The Greatest Show on Earth entirely."
-        },
-        {
-          "title": "The Last Detail",
-          "year": 1973,
-          "category": "Best Actor Winner Snub",
-          "note": "Give Nicholson his 1973 (from Jack Lemmon, who already had one) — a domino chain that ends with the slap never happening."
-        }
-      ]
-    },
-    {
-      "host": "Katie Rich",
-      "picks": [
-        {
-          "title": "Brokeback Mountain",
-          "year": 2005,
-          "category": "Best Picture Winner Snub",
-          "note": "Maybe the worst Best Picture win of all time (Crash) — a chalk pick that had to be done."
-        },
-        {
-          "title": "Do the Right Thing",
-          "year": 1989,
-          "category": "Best Picture Nominee Snub (20th c.)",
-          "note": "The be-all, end-all Spike Lee snub — taken over When Harry Met Sally."
-        },
-        {
-          "title": "Eternal Sunshine of the Spotless Mind",
-          "year": 2004,
-          "category": "Best Actress Winner Snub",
-          "note": "Kate Winslet, overdue — a chain that eventually frees Glenn Close for Albert Nobbs."
+          "title": "Sirāt",
+          "year": 2025,
+          "note": "Sean's conversation with director Oliver Laxe about his Cannes-awarded, techno-scored desert odyssey — cinema as a place of transformation and healing, the 32-minute-delayed title card, and thinking of films 'like operas.'"
         }
       ]
     }

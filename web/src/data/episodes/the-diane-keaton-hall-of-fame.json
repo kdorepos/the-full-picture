@@ -1,0 +1,472 @@
+{
+  "slug": "the-diane-keaton-hall-of-fame",
+  "title": "The Diane Keaton Hall of Fame",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2026-07-07",
+  "runtimeMin": 143,
+  "format": "Sean and Amanda open on a soft box-office weekend, then honor the late Diane Keaton — walking her whole career and inducting their favorite performances into her Hall of Fame. Twelve films make the ballot (The Godfather I and II count as one, per the Robert Duvall rule).",
+  "segments": [
+    {
+      "kind": "halloffame",
+      "heading": "The Hall of Fame",
+      "honoree": "Diane Keaton",
+      "note": "the inducted performances, in the order they argued them",
+      "films": [
+        {
+          "title": "The Godfather",
+          "year": 1972,
+          "role": "Kay Adams-Corleone",
+          "note": "One slot for Parts I and II (the Robert Duvall rule; Part III left off). Amanda floated that she's miscast; Sean defended her as essential — 'the perspectival character, the outsider brought into this world' — and called the 'It was an abortion, Michael' scene 'amazing.'"
+        },
+        {
+          "title": "Annie Hall",
+          "year": 1977,
+          "role": "Annie Hall",
+          "note": "First-ballot automatic — 'a forever movie.' The Best Actress win and the birth of a major star. Sean noted she plays it naturalistic, 'not doing the Diane Keaton persona as much,' and it informs everything after."
+        },
+        {
+          "title": "Looking for Mr. Goodbar",
+          "year": 1977,
+          "role": "Theresa Dunn",
+          "note": "'One of her great performances' — bracing and unlike anything else she did: a teacher of deaf children exploring her sexuality, with a shocking ending. The trauma framing dates it; the performance doesn't."
+        },
+        {
+          "title": "Manhattan",
+          "year": 1979,
+          "role": "Mary Wilkie",
+          "note": "Sean's pick over Shoot the Moon. As the friend's wife caught in the affair, her scene ending it is 'among her best.' 'A legendary film made complicated by contemporary history.'"
+        },
+        {
+          "title": "Reds",
+          "year": 1981,
+          "role": "Louise Bryant",
+          "note": "The only real person she ever played. 'Electric — perfectly balanced against Warren Beatty, then against Jack Nicholson.' No laughs, no 'her stuff,' much of it silent reacting. Sean: 'one of the craziest things is it did not win Best Picture.'"
+        },
+        {
+          "title": "Shoot the Moon",
+          "year": 1982,
+          "role": "Faith Dunlap",
+          "note": "Sean's personal deep cut. 'She's the show in Shoot the Moon' — a harsh divorce drama opposite a ferocious Albert Finney, the first time she read as more than a young ingenue."
+        },
+        {
+          "title": "Baby Boom",
+          "year": 1987,
+          "role": "J.C. Wiatt",
+          "note": "'This is the new Diane Keaton' — the start of the Nancy Meyers era and the template for the rest of her career. Her meltdown at the man fixing the well is 'one of the funniest things she's ever done.'"
+        },
+        {
+          "title": "Father of the Bride",
+          "year": 1991,
+          "role": "Nina Banks",
+          "note": "Steve Martin's movie, inducted 'out of respect for all the fathers.' Amanda pushed back that it isn't really hers; Sean calls it 'one of the great films of my lifetime.' A warm foil, 'willfully being a mom.'"
+        },
+        {
+          "title": "Manhattan Murder Mystery",
+          "year": 1993,
+          "role": "Carol Lipton",
+          "note": "Easy yes for both. A later phase that keeps the Keaton–Woody Allen dynamic — 'she's as much the star of it as he is.' 'Very funny. What a great pantsuit.'"
+        },
+        {
+          "title": "The First Wives Club",
+          "year": 1996,
+          "role": "Annie MacDuggan Paradis",
+          "note": "A massive hit and 'a very important movie in her career.' Amanda championed it — Keaton front and center on 'You Don't Own Me,' a film that 'honors women' and sets the template for her later ensembles."
+        },
+        {
+          "title": "Something's Gotta Give",
+          "year": 2003,
+          "role": "Erica Barry",
+          "note": "'Green, of course.' The most autobiographical Nancy Meyers film, and 'a wonderful way of closing up the Reds thing' — reuniting her with Nicholson, happily. A Best Actress nomination, and the birth of 'coastal grandma.'"
+        },
+        {
+          "title": "Morning Glory",
+          "year": 2010,
+          "role": "Colleen Peck",
+          "note": "Amanda's personal deep cut. 'One of the last classic romantic comedies' — Keaton as a past-her-prime newscaster with very funny chemistry opposite Harrison Ford."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Opening — the box office",
+      "films": [
+        "Minions & Monsters",
+        "Toy Story 5",
+        "Disclosure Day"
+      ]
+    },
+    {
+      "group": "Her filmography — weighed, left off the ballot",
+      "films": [
+        "Lovers and Other Strangers",
+        "Play It Again, Sam",
+        "Sleeper",
+        "Love and Death",
+        "I Will, I Will... for Now",
+        "Harry and Walter Go to New York",
+        "Interiors",
+        "Mrs. Soffel",
+        "Crimes of the Heart",
+        "Radio Days",
+        "The Good Mother",
+        "The Lemon Sisters",
+        "The Godfather Part III",
+        "Look Who's Talking Now",
+        "Unstrung Heroes",
+        "Father of the Bride Part II",
+        "Marvin's Room",
+        "The Other Sister",
+        "Hanging Up",
+        "Town & Country",
+        "The Family Stone",
+        "Because I Said So",
+        "Mad Money",
+        "Darling Companion",
+        "The Big Wedding",
+        "And So It Goes",
+        "Love the Coopers",
+        "Finding Dory",
+        "Hampstead",
+        "Book Club",
+        "Poms",
+        "Mack & Rita",
+        "Maybe I Do",
+        "Book Club: The Next Chapter",
+        "Summer Camp"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Twin Peaks",
+      "The Little Drummer Girl",
+      "The Bear",
+      "Friends",
+      "Wildflower",
+      "Running Mates",
+      "Amelia Earhart: The Final Flight",
+      "Arthur's Whiskey"
+    ],
+    "Ads": [
+      "FIFA World Cup Launch Edition",
+      "Amazon Prime",
+      "Olipop",
+      "Nordstrom Rack",
+      "White Claw",
+      "Best Western"
+    ]
+  },
+  "tmdb": {
+    "The Godfather": {
+      "id": 238,
+      "poster": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "title": "The Godfather",
+      "year": 1972
+    },
+    "Annie Hall": {
+      "id": 703,
+      "poster": "/dEtjPywhDbAXYjoFfhBC4U9unU7.jpg",
+      "title": "Annie Hall",
+      "year": 1977
+    },
+    "Looking for Mr. Goodbar": {
+      "id": 37749,
+      "poster": "/j1qKNKRvDEhnl0PQS26PirNF81v.jpg",
+      "title": "Looking for Mr. Goodbar",
+      "year": 1977
+    },
+    "Manhattan": {
+      "id": 696,
+      "poster": "/k4eT3EvfxW1L9Wmt04UqJqCvCR6.jpg",
+      "title": "Manhattan",
+      "year": 1979
+    },
+    "Reds": {
+      "id": 18254,
+      "poster": "/AeiKdVVM93fwfQG1m3N0cgVZgHl.jpg",
+      "title": "Reds",
+      "year": 1981
+    },
+    "Shoot the Moon": {
+      "id": 52772,
+      "poster": "/71GK3DRyFWN0Ke0s8WwgEEEOUJQ.jpg",
+      "title": "Shoot the Moon",
+      "year": 1982
+    },
+    "Baby Boom": {
+      "id": 11215,
+      "poster": "/4Jy5U4HITJWUDYJc1NGgJLIjbWz.jpg",
+      "title": "Baby Boom",
+      "year": 1987
+    },
+    "Father of the Bride": {
+      "id": 11846,
+      "poster": "/bU7HzJbJpY5OiLdqWhKSqGPtYii.jpg",
+      "title": "Father of the Bride",
+      "year": 1991
+    },
+    "Manhattan Murder Mystery": {
+      "id": 10440,
+      "poster": "/zrzBIlMyAP7Ac9W5qAy5ssAUdK4.jpg",
+      "title": "Manhattan Murder Mystery",
+      "year": 1993
+    },
+    "The First Wives Club": {
+      "id": 2925,
+      "poster": "/2ApifgYnfdJUSmCKzTBrWOYYWsn.jpg",
+      "title": "The First Wives Club",
+      "year": 1996
+    },
+    "Something's Gotta Give": {
+      "id": 6964,
+      "poster": "/1cpdqe0SpiHzzbOLq9GDUUlZdSl.jpg",
+      "title": "Something's Gotta Give",
+      "year": 2003
+    },
+    "Morning Glory": {
+      "id": 38357,
+      "poster": "/aFRXEoB3QkeHNHYmVGC3uzFSol8.jpg",
+      "title": "Morning Glory",
+      "year": 2010
+    },
+    "Minions & Monsters": {
+      "id": 1315772,
+      "poster": "/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+      "title": "Minions & Monsters",
+      "year": 2026
+    },
+    "Toy Story 5": {
+      "id": 1084244,
+      "poster": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "title": "Toy Story 5",
+      "year": 2026
+    },
+    "Disclosure Day": {
+      "id": 1275779,
+      "poster": "/7RYO0KTXIJ0rS0LqnCQLxeNR3P3.jpg",
+      "title": "Disclosure Day",
+      "year": 2026
+    },
+    "Lovers and Other Strangers": {
+      "id": 42593,
+      "poster": "/uIcFAUNHg9aGvT4kznkYd0bGAd4.jpg",
+      "title": "Lovers and Other Strangers",
+      "year": 1970
+    },
+    "Play It Again, Sam": {
+      "id": 11610,
+      "poster": "/yZFz5rwrdVmEoHVkVU7EkZedDfz.jpg",
+      "title": "Play It Again, Sam",
+      "year": 1972
+    },
+    "Sleeper": {
+      "id": 11561,
+      "poster": "/YTYSziZZP5aXt5CDvdEMwKDzme.jpg",
+      "title": "Sleeper",
+      "year": 1973
+    },
+    "Love and Death": {
+      "id": 11686,
+      "poster": "/oJXFd1UHZoOQ1UtoLxbyBLGJDox.jpg",
+      "title": "Love and Death",
+      "year": 1975
+    },
+    "I Will, I Will... for Now": {
+      "id": 185713,
+      "poster": "/7H8HoA0W8QXwS2Mm0LIrmDBSKef.jpg",
+      "title": "I Will, I Will...For Now",
+      "year": 1976
+    },
+    "Harry and Walter Go to New York": {
+      "id": 149445,
+      "poster": "/2EUjz08MUVoZxekNnWZIasjZ5yh.jpg",
+      "title": "Harry and Walter Go to New York",
+      "year": 1976
+    },
+    "Interiors": {
+      "id": 15867,
+      "poster": "/sTPy6Kfa1FRED1eaZdVex8b2MdB.jpg",
+      "title": "Interiors",
+      "year": 1978
+    },
+    "Mrs. Soffel": {
+      "id": 31955,
+      "poster": "/fT1HUPb74lAnDWyK0v5cBdYk6Qa.jpg",
+      "title": "Mrs. Soffel",
+      "year": 1984
+    },
+    "Crimes of the Heart": {
+      "id": 48259,
+      "poster": "/lg8npIjYrO0f4UsuNwWwd1TQhW6.jpg",
+      "title": "Crimes of the Heart",
+      "year": 1986
+    },
+    "Radio Days": {
+      "id": 30890,
+      "poster": "/ljZ3yyYznAiq1vF6nHITdJn6qXB.jpg",
+      "title": "Radio Days",
+      "year": 1987
+    },
+    "The Good Mother": {
+      "id": 104301,
+      "poster": "/13AsjChBPvhefDsAazSqukmNCSu.jpg",
+      "title": "The Good Mother",
+      "year": 1988
+    },
+    "The Lemon Sisters": {
+      "id": 123771,
+      "poster": "/59JTg2UBu9njVdqilo9SBRpmyAg.jpg",
+      "title": "The Lemon Sisters",
+      "year": 1989
+    },
+    "The Godfather Part III": {
+      "id": 242,
+      "poster": "/lm3pQ2QoQ16pextRsmnUbG2onES.jpg",
+      "title": "The Godfather Part III",
+      "year": 1990
+    },
+    "Look Who's Talking Now": {
+      "id": 11982,
+      "poster": "/73JahFiizkMVsrrslXInmNK54nC.jpg",
+      "title": "Look Who's Talking Now!",
+      "year": 1993
+    },
+    "Unstrung Heroes": {
+      "id": 52856,
+      "poster": "/twnqc80AL55WYnCVz4nMGEGcL7.jpg",
+      "title": "Unstrung Heroes",
+      "year": 1995
+    },
+    "Father of the Bride Part II": {
+      "id": 11862,
+      "poster": "/rj4LBtwQ0uGrpBnCELr716Qo3mw.jpg",
+      "title": "Father of the Bride Part II",
+      "year": 1995
+    },
+    "Marvin's Room": {
+      "id": 9819,
+      "poster": "/lTHq1K5Y6EDRjxTBvReXHY6AKQ3.jpg",
+      "title": "Marvin's Room",
+      "year": 1996
+    },
+    "The Other Sister": {
+      "id": 18417,
+      "poster": "/4rBrYRkB7btGex5Bs0yOpqBZgsR.jpg",
+      "title": "The Other Sister",
+      "year": 1999
+    },
+    "Hanging Up": {
+      "id": 10385,
+      "poster": "/lnnFFGhIXi6ZDU3r29eKHKTHdq0.jpg",
+      "title": "Hanging Up",
+      "year": 2000
+    },
+    "Town & Country": {
+      "id": 24113,
+      "poster": "/4ckfJA1zqdXG7ttBqGZ2A91YHQs.jpg",
+      "title": "Town & Country",
+      "year": 2001
+    },
+    "The Family Stone": {
+      "id": 9043,
+      "poster": "/nlqw53HmTP7o3b2NDttYNOtsK4V.jpg",
+      "title": "The Family Stone",
+      "year": 2005
+    },
+    "Because I Said So": {
+      "id": 1257,
+      "poster": "/wQtGQnr5RPnmzSfV9zUcgh8R9NX.jpg",
+      "title": "Because I Said So",
+      "year": 2007
+    },
+    "Mad Money": {
+      "id": 12085,
+      "poster": "/z6b6rQ1ZFEkM4tSt84yPtdAioCO.jpg",
+      "title": "Mad Money",
+      "year": 2008
+    },
+    "Darling Companion": {
+      "id": 89325,
+      "poster": "/krKAMxPbzPcb0FvF9QoySiCHihi.jpg",
+      "title": "Darling Companion",
+      "year": 2012
+    },
+    "The Big Wedding": {
+      "id": 87567,
+      "poster": "/ooSGwWVJRp81ErEH7VmTmVwjoMc.jpg",
+      "title": "The Big Wedding",
+      "year": 2013
+    },
+    "And So It Goes": {
+      "id": 253235,
+      "poster": "/bJoWtA8OAIqavlb5mbx3EzvxFUA.jpg",
+      "title": "And So It Goes",
+      "year": 2014
+    },
+    "Love the Coopers": {
+      "id": 333348,
+      "poster": "/fPW1BHZhUEViOmDAHFfyLezoQdI.jpg",
+      "title": "Love the Coopers",
+      "year": 2015
+    },
+    "Finding Dory": {
+      "id": 127380,
+      "poster": "/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg",
+      "title": "Finding Dory",
+      "year": 2016
+    },
+    "Hampstead": {
+      "id": 441728,
+      "poster": "/svyFdV8QrOyheU2lEDuBnrcCQT5.jpg",
+      "title": "Hampstead",
+      "year": 2017
+    },
+    "Book Club": {
+      "id": 502682,
+      "poster": "/6ORGBbOA45pfKQXvntPf46NoFGO.jpg",
+      "title": "Book Club",
+      "year": 2018
+    },
+    "Poms": {
+      "id": 574241,
+      "poster": "/m2ksKdmWIoUh3GJfu9oEBLorjAJ.jpg",
+      "title": "Poms",
+      "year": 2019
+    },
+    "Mack & Rita": {
+      "id": 808087,
+      "poster": "/rhJDDzGZitrGpW3ELmFhdCEFx9g.jpg",
+      "title": "Mack & Rita",
+      "year": 2022
+    },
+    "Maybe I Do": {
+      "id": 972230,
+      "poster": "/8AepEHAUDEbvxzuKV4ll0gKobdL.jpg",
+      "title": "Maybe I Do",
+      "year": 2023
+    },
+    "Book Club: The Next Chapter": {
+      "id": 982271,
+      "poster": "/lXoeOcWWhPpLH1wzTIhOx8jydBo.jpg",
+      "title": "Book Club: The Next Chapter",
+      "year": 2023
+    },
+    "Summer Camp": {
+      "id": 1094009,
+      "poster": "/9RrcqS0kT5weSqS853WGWFDEATZ.jpg",
+      "title": "Summer Camp",
+      "year": 2024
+    }
+  },
+  "spotifyEpisodeId": "1808yAa5grepeReKPIlq9U",
+  "tmdbOverrides": {
+    "Sleeper": 11561,
+    "The Good Mother": 104301
+  }
+}

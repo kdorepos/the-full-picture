@@ -61,6 +61,17 @@ list; send the list to the user; push-notify on completion (long jobs, user is u
   review required) and open+merge a PR. Install as a system cron (line in the script).
   A session-scoped CronCreate job can cover the interim (auto-expires after 7 days).
 
+## Live "now processing" panel
+While the pipeline transcribes, `write_progress()` POSTs progress (phase · chunks · %)
+to the site's **`web/api/progress.js`** serverless function, which stores it in Vercel KV.
+The homepage polls `GET /api/progress` every 15s and shows a progress card; it auto-hides
+when the run goes inactive or the slug is already published. Setup (one-time):
+- Vercel dashboard → Storage → create a **KV** store, connect to the project (injects
+  `KV_REST_API_URL` / `KV_REST_API_TOKEN`).
+- Set `PROGRESS_TOKEN` (any secret) in Vercel project env **and** the box's `.env`.
+- Box `.env` also needs `PROGRESS_URL=https://the-full-picture.vercel.app/api/progress`.
+Without these the POST is skipped and the panel just stays hidden — nothing breaks.
+
 ## Groq engine (default) — lessons
 - `whisper-large-v3-turbo` beats local `medium.en` on proper nouns (movie titles) and is
   ~$0/episode. POST FLAC chunks to `/openai/v1/audio/transcriptions`.

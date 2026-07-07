@@ -67,7 +67,7 @@ const kind = (ep) => [...new Set((ep.segments ?? []).map((s) => KIND[s.kind] ?? 
     };
     async function tick() {
       try {
-        const r = await fetch('/progress.json?t=' + Date.now(), { cache: 'no-store' });
+        const r = await fetch('/api/progress?t=' + Date.now(), { cache: 'no-store' });
         if (!r.ok) throw 0;
         const p = await r.json();
         if (!p.active || publishedSlugs.includes(p.slug)) { el.hidden = true; return; }

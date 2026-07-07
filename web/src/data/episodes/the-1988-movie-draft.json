@@ -1,0 +1,578 @@
+{
+  "slug": "the-1988-movie-draft",
+  "title": "The 1988 Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan",
+    "Bill Simmons"
+  ],
+  "published": "2026-03-26",
+  "runtimeMin": 137,
+  "type": "draft",
+  "spotifyEpisodeId": "5I2jvIMhXTppmlJx2Wt98W",
+  "draftOf": "the movies of 1988",
+  "categories": [
+    "Drama",
+    "Comedy",
+    "Action / Horror / Thriller",
+    "Oscar Nominee",
+    "Sequel",
+    "Blockbuster",
+    "Wild Card"
+  ],
+  "format": "A four-person snake draft (Chris, Bill Simmons, Sean, Amanda) of the movies of 1988 — a stacked year of star power — with each host filling a seven-slot roster by category.",
+  "teams": [
+    {
+      "host": "Chris Ryan",
+      "picks": [
+        {
+          "title": "The Last Temptation of Christ",
+          "year": 1988,
+          "category": "Drama",
+          "note": "Scorsese's controversial passion play."
+        },
+        {
+          "title": "Bull Durham",
+          "year": 1988,
+          "category": "Comedy",
+          "note": "Costner & Sarandon — the great baseball rom-com."
+        },
+        {
+          "title": "Young Guns",
+          "year": 1988,
+          "category": "Action / Horror / Thriller",
+          "note": "the Brat Pack Western."
+        },
+        {
+          "title": "Married to the Mob",
+          "year": 1988,
+          "category": "Oscar Nominee",
+          "note": "Demme; Dean Stockwell nominated."
+        },
+        {
+          "title": "Caddyshack II",
+          "year": 1988,
+          "category": "Sequel",
+          "note": "'4%' — a gleefully self-sabotaging sequel pick."
+        },
+        {
+          "title": "Die Hard",
+          "year": 1988,
+          "category": "Blockbuster",
+          "note": "the movie that changed movies forever."
+        },
+        {
+          "title": "The Naked Gun",
+          "year": 1988,
+          "category": "Wild Card",
+          "note": "Leslie Nielsen at his peak."
+        }
+      ]
+    },
+    {
+      "host": "Bill Simmons",
+      "picks": [
+        {
+          "title": "Dangerous Liaisons",
+          "year": 1988,
+          "category": "Drama",
+          "note": "Frears; Close, Malkovich, Pfeiffer."
+        },
+        {
+          "title": "Midnight Run",
+          "year": 1988,
+          "category": "Comedy",
+          "note": "De Niro doing comedy — a huge deal at the time."
+        },
+        {
+          "title": "Bloodsport",
+          "year": 1988,
+          "category": "Action / Horror / Thriller",
+          "note": "Van Damme and the Kumite."
+        },
+        {
+          "title": "Rain Man",
+          "year": 1988,
+          "category": "Oscar Nominee",
+          "note": "the year's Best Picture winner."
+        },
+        {
+          "title": "Halloween 4: The Return of Michael Myers",
+          "year": 1988,
+          "category": "Sequel",
+          "note": "the shape comes back."
+        },
+        {
+          "title": "Cocktail",
+          "year": 1988,
+          "category": "Blockbuster",
+          "note": "Cruise and Coughlin's Law."
+        },
+        {
+          "title": "Action Jackson",
+          "year": 1988,
+          "category": "Wild Card",
+          "note": "Carl Weathers, unleashed."
+        }
+      ]
+    },
+    {
+      "host": "Sean Fennessey",
+      "picks": [
+        {
+          "title": "Eight Men Out",
+          "year": 1988,
+          "category": "Drama",
+          "note": "Sayles' Black Sox saga."
+        },
+        {
+          "title": "Beetlejuice",
+          "year": 1988,
+          "category": "Comedy",
+          "note": "peak Burton / Keaton."
+        },
+        {
+          "title": "They Live",
+          "year": 1988,
+          "category": "Action / Horror / Thriller",
+          "note": "Carpenter — put on the glasses."
+        },
+        {
+          "title": "Who Framed Roger Rabbit",
+          "year": 1988,
+          "category": "Oscar Nominee",
+          "note": "Zemeckis; a live-action/animation marvel."
+        },
+        {
+          "title": "The Decline of Western Civilization Part II: The Metal Years",
+          "year": 1988,
+          "category": "Sequel",
+          "note": "a cheeky doc-sequel pick — 'Sean cheated, but it's his pod.'"
+        },
+        {
+          "title": "Big",
+          "year": 1988,
+          "category": "Blockbuster",
+          "note": "Hanks becomes Hanks."
+        },
+        {
+          "title": "A Fish Called Wanda",
+          "year": 1988,
+          "category": "Wild Card",
+          "note": "Cleese, Curtis, Kline, Palin — a perfect farce."
+        }
+      ]
+    },
+    {
+      "host": "Amanda Dobbins",
+      "picks": [
+        {
+          "title": "Running on Empty",
+          "year": 1988,
+          "category": "Drama",
+          "note": "Lumet; a nominated River Phoenix."
+        },
+        {
+          "title": "Working Girl",
+          "year": 1988,
+          "category": "Comedy",
+          "note": "Nichols; Griffith, Weaver, Ford."
+        },
+        {
+          "title": "Frantic",
+          "year": 1988,
+          "category": "Action / Horror / Thriller",
+          "note": "Polanski; Harrison Ford lost in Paris."
+        },
+        {
+          "title": "Women on the Verge of a Nervous Breakdown",
+          "year": 1988,
+          "category": "Oscar Nominee",
+          "note": "Almodóvar's breakout."
+        },
+        {
+          "title": "Appointment with Death",
+          "year": 1988,
+          "category": "Sequel",
+          "note": "the Poirot mystery."
+        },
+        {
+          "title": "Coming to America",
+          "year": 1988,
+          "category": "Blockbuster",
+          "note": "Murphy at his most iconic."
+        },
+        {
+          "title": "Crossing Delancey",
+          "year": 1988,
+          "category": "Wild Card",
+          "note": "Amy Irving — a New York rom-com gem."
+        }
+      ]
+    }
+  ],
+  "undrafted": [
+    "License to Drive",
+    "The Dead Pool",
+    "Beaches",
+    "Funny Farm",
+    "Bird",
+    "Willow",
+    "Mississippi Burning",
+    "The Accidental Tourist",
+    "Scrooged",
+    "Twins",
+    "Rambo III",
+    "School Daze",
+    "Tucker: The Man and His Dream"
+  ],
+  "referenced": [
+    {
+      "group": "Also mentioned",
+      "films": [
+        "I'm Gonna Git You Sucka",
+        "She's Gotta Have It",
+        "Splash",
+        "Ghostbusters II",
+        "Indiana Jones and the Last Crusade",
+        "Arthur 2: On the Rocks",
+        "Arthur",
+        "The Fabulous Baker Boys",
+        "Sex, Lies, and Videotape",
+        "Do the Right Thing",
+        "Blood Diamond",
+        "Crime 101"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Peaky Blinders",
+      "Moonlighting"
+    ],
+    "Ads": [
+      "White Claw"
+    ]
+  },
+  "tmdbOverrides": {
+    "Bird": 24679
+  },
+  "tmdb": {
+    "The Last Temptation of Christ": {
+      "id": 11051,
+      "poster": "/7L4qwrC1mipZXJfU5oRgQWChLv1.jpg",
+      "title": "The Last Temptation of Christ",
+      "year": 1988
+    },
+    "Bull Durham": {
+      "id": 287,
+      "poster": "/q3T9bO6p74NcTxWOhdUA6fASQ5T.jpg",
+      "title": "Bull Durham",
+      "year": 1988
+    },
+    "Young Guns": {
+      "id": 11967,
+      "poster": "/3AgCq7xY1rHRAAn0iVcnNr2OWL.jpg",
+      "title": "Young Guns",
+      "year": 1988
+    },
+    "Married to the Mob": {
+      "id": 2321,
+      "poster": "/gkOsxv1RvV5smRnm6wrmn2wDXyZ.jpg",
+      "title": "Married to the Mob",
+      "year": 1988
+    },
+    "Caddyshack II": {
+      "id": 18509,
+      "poster": "/iHvCXCjiLN6bLf39CnKdDzGbku2.jpg",
+      "title": "Caddyshack II",
+      "year": 1988
+    },
+    "Die Hard": {
+      "id": 562,
+      "poster": "/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg",
+      "title": "Die Hard",
+      "year": 1988
+    },
+    "The Naked Gun": null,
+    "Dangerous Liaisons": {
+      "id": 859,
+      "poster": "/hFem30C3uJUd9smNy7rFLGVhKys.jpg",
+      "title": "Dangerous Liaisons",
+      "year": 1988
+    },
+    "Midnight Run": {
+      "id": 9013,
+      "poster": "/yx0touyDQ9enWDsFgS4MbBwCSNd.jpg",
+      "title": "Midnight Run",
+      "year": 1988
+    },
+    "Bloodsport": {
+      "id": 11690,
+      "poster": "/kndxR9TRK0kJ5hxzDprRSS80F2W.jpg",
+      "title": "Bloodsport",
+      "year": 1988
+    },
+    "Rain Man": {
+      "id": 380,
+      "poster": "/iTNHwO896WKkaoPtpMMS74d8VNi.jpg",
+      "title": "Rain Man",
+      "year": 1988
+    },
+    "Halloween 4: The Return of Michael Myers": {
+      "id": 11357,
+      "poster": "/eFSOkXF9n9hsfGv45MDsPixiOyx.jpg",
+      "title": "Halloween 4: The Return of Michael Myers",
+      "year": 1988
+    },
+    "Cocktail": {
+      "id": 7520,
+      "poster": "/jFRhEPhtsln9tDwzMdZN3OlhUob.jpg",
+      "title": "Cocktail",
+      "year": 1988
+    },
+    "Action Jackson": {
+      "id": 10117,
+      "poster": "/vWBGkHT91My4T2iV3xgynpBTKtQ.jpg",
+      "title": "Action Jackson",
+      "year": 1988
+    },
+    "Eight Men Out": {
+      "id": 13554,
+      "poster": "/9nh0w2C9h9KfJb0OsVg65O65b5s.jpg",
+      "title": "Eight Men Out",
+      "year": 1988
+    },
+    "Beetlejuice": {
+      "id": 4011,
+      "poster": "/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg",
+      "title": "Beetlejuice",
+      "year": 1988
+    },
+    "They Live": {
+      "id": 8337,
+      "poster": "/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg",
+      "title": "They Live",
+      "year": 1988
+    },
+    "Who Framed Roger Rabbit": {
+      "id": 856,
+      "poster": "/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg",
+      "title": "Who Framed Roger Rabbit",
+      "year": 1988
+    },
+    "The Decline of Western Civilization Part II: The Metal Years": {
+      "id": 36724,
+      "poster": "/4XoeABOgfPzYIzv2UoGKAdZbbR7.jpg",
+      "title": "The Decline of Western Civilization Part II: The Metal Years",
+      "year": 1988
+    },
+    "Big": {
+      "id": 2280,
+      "poster": "/eWhCDJiwxvx3YXkAFRiHjimnF0j.jpg",
+      "title": "Big",
+      "year": 1988
+    },
+    "A Fish Called Wanda": {
+      "id": 623,
+      "poster": "/hkSGFNVfEEUXFCxRZDITFHVhUlu.jpg",
+      "title": "A Fish Called Wanda",
+      "year": 1988
+    },
+    "Running on Empty": {
+      "id": 18197,
+      "poster": "/kzhyruFxY4Z5Ert8M9tuM2MV8dd.jpg",
+      "title": "Running on Empty",
+      "year": 1988
+    },
+    "Working Girl": {
+      "id": 3525,
+      "poster": "/q2jfFzZvAzjTaArQR0tjilIZ5aJ.jpg",
+      "title": "Working Girl",
+      "year": 1988
+    },
+    "Frantic": {
+      "id": 10675,
+      "poster": "/QExlx41lQEizHpPq7FxYw6zpak.jpg",
+      "title": "Frantic",
+      "year": 1988
+    },
+    "Women on the Verge of a Nervous Breakdown": {
+      "id": 4203,
+      "poster": "/8C5FJlUo96pj1xAs2BKnB58PYzi.jpg",
+      "title": "Women on the Verge of a Nervous Breakdown",
+      "year": 1988
+    },
+    "Appointment with Death": {
+      "id": 4281,
+      "poster": "/fnHtgkOgYznDOh9lmK5MLiJpxVU.jpg",
+      "title": "Appointment with Death",
+      "year": 1988
+    },
+    "Coming to America": {
+      "id": 9602,
+      "poster": "/8YZiA1o264dk0cr1USyMdph6SZl.jpg",
+      "title": "Coming to America",
+      "year": 1988
+    },
+    "Crossing Delancey": {
+      "id": 27397,
+      "poster": "/62GF6vgxIvEpSPrH0WXHtCHm3zB.jpg",
+      "title": "Crossing Delancey",
+      "year": 1988
+    },
+    "License to Drive": {
+      "id": 13704,
+      "poster": "/cSGV9uXOKxu8j9mj6NmTix4GLFa.jpg",
+      "title": "License to Drive",
+      "year": 1988
+    },
+    "The Dead Pool": {
+      "id": 10651,
+      "poster": "/krxLLDnFuDtjagN7KrCjuH6QrcW.jpg",
+      "title": "The Dead Pool",
+      "year": 1988
+    },
+    "Beaches": {
+      "id": 15592,
+      "poster": "/vol5TCGHDbi8r0yo0TrIGFiGxJ7.jpg",
+      "title": "Beaches",
+      "year": 1988
+    },
+    "Funny Farm": {
+      "id": 14170,
+      "poster": "/i4ExIbPuAe0rAjpYcteiFx4QEfY.jpg",
+      "title": "Funny Farm",
+      "year": 1988
+    },
+    "Bird": {
+      "id": 24679,
+      "poster": "/rTCp6M98RQAxRl0x0guU9GlH7HS.jpg",
+      "title": "Bird",
+      "year": 1988
+    },
+    "Willow": {
+      "id": 847,
+      "poster": "/pAIRGMIdN7ZdZhflazdV2ezuJ9f.jpg",
+      "title": "Willow",
+      "year": 1988
+    },
+    "Mississippi Burning": {
+      "id": 1632,
+      "poster": "/wvEx2WbxZXYljQ9vSoq37NgeXcJ.jpg",
+      "title": "Mississippi Burning",
+      "year": 1988
+    },
+    "The Accidental Tourist": {
+      "id": 31052,
+      "poster": "/dyk2BqPajLRBpVQ6jsSJJdgfuXe.jpg",
+      "title": "The Accidental Tourist",
+      "year": 1988
+    },
+    "Scrooged": {
+      "id": 9647,
+      "poster": "/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg",
+      "title": "Scrooged",
+      "year": 1988
+    },
+    "Twins": {
+      "id": 9493,
+      "poster": "/stJx9BQZbXrZnTGf9Erc7d2UMVc.jpg",
+      "title": "Twins",
+      "year": 1988
+    },
+    "Rambo III": {
+      "id": 1370,
+      "poster": "/uycbt9iVlAnKkQIisqUWuO8hVcm.jpg",
+      "title": "Rambo III",
+      "year": 1988
+    },
+    "School Daze": {
+      "id": 36739,
+      "poster": "/vnfjKHcmah7ReMxLNF18JMXFgSZ.jpg",
+      "title": "School Daze",
+      "year": 1988
+    },
+    "Tucker: The Man and His Dream": {
+      "id": 28176,
+      "poster": "/uph7wz8WASLHwHyC5SYfQgqaoV7.jpg",
+      "title": "Tucker: The Man and His Dream",
+      "year": 1988
+    },
+    "I'm Gonna Git You Sucka": {
+      "id": 17006,
+      "poster": "/4PZ0CED293fkLjwhPOQ6BpbUgU2.jpg",
+      "title": "I'm Gonna Git You Sucka",
+      "year": 1988
+    },
+    "She's Gotta Have It": {
+      "id": 27995,
+      "poster": "/qiJuXvPONqTSSnzhbCBqE7EotV.jpg",
+      "title": "She's Gotta Have It",
+      "year": 1986
+    },
+    "Splash": {
+      "id": 2619,
+      "poster": "/7FutTsMWBwVhjk1Ujf1wtndUVZh.jpg",
+      "title": "Splash",
+      "year": 1984
+    },
+    "Ghostbusters II": {
+      "id": 2978,
+      "poster": "/u7UioNGwAeWfYPv5pSAZSM0ipSt.jpg",
+      "title": "Ghostbusters II",
+      "year": 1989
+    },
+    "Indiana Jones and the Last Crusade": {
+      "id": 89,
+      "poster": "/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg",
+      "title": "Indiana Jones and the Last Crusade",
+      "year": 1989
+    },
+    "Arthur 2: On the Rocks": {
+      "id": 26044,
+      "poster": "/srb9GKWGZtdyANHHGkXufG3lTAT.jpg",
+      "title": "Arthur 2: On the Rocks",
+      "year": 1988
+    },
+    "Arthur": {
+      "id": 49012,
+      "poster": "/foUTAJurvnbUoIUbnuUk5dyHx7M.jpg",
+      "title": "Arthur",
+      "year": 2011
+    },
+    "The Fabulous Baker Boys": {
+      "id": 10875,
+      "poster": "/1nS8AxnoYE2Y1ANMpVKZnm8iLxP.jpg",
+      "title": "The Fabulous Baker Boys",
+      "year": 1989
+    },
+    "Sex, Lies, and Videotape": {
+      "id": 1412,
+      "poster": "/pj1uKm07svgXZDHbYE8AzRfNHcu.jpg",
+      "title": "sex, lies, and videotape",
+      "year": 1989
+    },
+    "Do the Right Thing": {
+      "id": 925,
+      "poster": "/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+      "title": "Do the Right Thing",
+      "year": 1989
+    },
+    "Blood Diamond": {
+      "id": 1372,
+      "poster": "/tnLxPpajkbVdbQl5B9CuD7sSpz9.jpg",
+      "title": "Blood Diamond",
+      "year": 2006
+    },
+    "Crime 101": {
+      "id": 1171145,
+      "poster": "/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
+      "title": "Crime 101",
+      "year": 2026
+    }
+  }
+}

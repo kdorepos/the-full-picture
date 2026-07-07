@@ -76,8 +76,7 @@ const kind = (ep) => [...new Set((ep.segments ?? []).map((s) => KIND[s.kind] ?? 
         document.getElementById('proc-fill').style.width = pct + '%';
         const label = PHASE[p.phase] || 'Processing';
         document.getElementById('proc-status').textContent =
-          p.phase === 'transcribing' && p.total
-            ? `${label} — ${p.done}/${p.total} chunks · ${pct}%`
+          p.phase === 'transcribing' ? `${label} · ${pct}%`
             : p.phase === 'transcribed' ? label : `${label}…`;
         el.hidden = false;
       } catch { el.hidden = true; }

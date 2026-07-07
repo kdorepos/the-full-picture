@@ -22,6 +22,20 @@ ASPH_LIMIT = 7200          # free-tier seconds-of-audio-per-hour
 ASPH_SAFE = 7000           # leave margin so we never trip the cap
 CHUNK_SECS = 600           # 10-min chunks -> ~19MB FLAC, under the 25MB free-tier upload cap
 
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+PROGRESS = os.path.join(ROOT, "web", "public", "progress.json")  # site's "now processing" panel
+
+
+def write_progress(**kw):
+    """Best-effort progress ping for the homepage panel. Never fatal to transcription."""
+    kw.setdefault("active", True)
+    kw["updated"] = int(time.time())
+    try:
+        with open(PROGRESS, "w") as f:
+            json.dump(kw, f)
+    except Exception:
+        pass
+
 
 def sh(*cmd):
     subprocess.run(cmd, check=True)
@@ -118,7 +132,7 @@ def groq_post(flac, key):
     return "retry", wait
 
 
-def transcribe_groq(chunks, key, txt):
+def transcribe_groq(chunks, key, txt, on_progress=None):
     """Transcribe chunks via Groq, pacing submissions under the free-tier 7200s/hr cap.
     Each chunk's result is cached to <chunk>.json so a long paced run (or a crash) resumes
     instead of re-doing work. Transcripts are rebuilt from the cache at the end."""
@@ -128,7 +142,9 @@ def transcribe_groq(chunks, key, txt):
         if os.path.exists(j):
             try:
                 if "text" in json.load(open(j)):
-                    print(f"  chunk {i+1}/{len(chunks)} cached"); continue
+                    print(f"  chunk {i+1}/{len(chunks)} cached")
+                    if on_progress: on_progress(i + 1, len(chunks))
+                    continue
             except Exception:
                 pass
         need = duration(c)
@@ -151,6 +167,7 @@ def transcribe_groq(chunks, key, txt):
         json.dump({"text": text, "segments": segments}, open(j, "w"))
         window.append((time.monotonic(), need))
         print(f"  chunk {i+1}/{len(chunks)} done ({need:.0f}s audio)")
+        if on_progress: on_progress(i + 1, len(chunks))
 
     stamped = txt.replace(".txt", ".timestamped.txt")
     with open(txt, "w") as ft, open(stamped, "w") as fs:
@@ -194,18 +211,28 @@ def main():
     mp3, txt = os.path.join(d, f"{name}.mp3"), os.path.join(d, "transcript.txt")
 
     if not os.path.exists(mp3):
+        write_progress(phase="downloading", slug=name, title=title, pct=0)
         download(audio_url, mp3)
     secs = duration(mp3)
     print(f"Runtime: {secs/60:.1f} min")
+    runtime_min = round(secs / 60)
 
     if a.engine == "groq":
         key = os.environ.get("GROQ_KEY") or sys.exit("Set GROQ_KEY (see .env).")
         chunks = chunk_flac(mp3, secs, os.path.join(d, "chunks"))
         n = len(chunks)
+        def on_progress(done, total):
+            write_progress(phase="transcribing", slug=name, title=title,
+                           runtimeMin=runtime_min, done=done, total=total,
+                           pct=round(done / total * 100) if total else 0)
+        on_progress(0, n)
         if secs > ASPH_LIMIT:
             print(f"Note: {secs/60:.0f} min > free-tier 120 min/hr cap; pacing will span "
                   f"~{secs/ASPH_SAFE:.1f}hr wall-clock.")
-        transcribe_groq(chunks, key, txt)
+        transcribe_groq(chunks, key, txt, on_progress)
+        # Transcription done; still needs extraction/enrich/review before it's on the site.
+        write_progress(phase="transcribed", slug=name, title=title,
+                       runtimeMin=runtime_min, done=n, total=n, pct=100)
     else:
         wav = os.path.join(d, f"{name}.wav")
         if not os.path.exists(wav):

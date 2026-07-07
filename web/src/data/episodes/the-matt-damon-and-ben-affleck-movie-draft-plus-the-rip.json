@@ -10,167 +10,179 @@
   ],
   "published": "2026-01-19",
   "runtimeMin": 103,
-  "type": "draft",
   "spotifyEpisodeId": "6FVeikbGjN6U8147ER5Ldx",
-  "draftOf": "Matt Damon & Ben Affleck movies",
-  "categories": [
-    "Blockbuster",
-    "Oscar Nominee",
-    "Matt & Ben Together",
-    "Directed or Produced By",
-    "Supporting Role",
-    "Wildcard"
-  ],
   "format": "A snake draft (Chris, then Sean, then Amanda) of Matt Damon and Ben Affleck movies — each host fills a six-slot roster across categories. Plus a review of 'The Rip,' the duo's new Netflix thriller from Joe Carnahan.",
-  "review": {
-    "title": "The Rip",
-    "year": 2026,
-    "note": "Joe Carnahan's Netflix thriller — Miami cops find a stash of cash and turn on each other. A B-movie with A stars (Damon, Affleck, Steven Yeun, Teyana Taylor); Triple Frontier energy, an obvious rat reveal, but a great time."
-  },
-  "teams": [
+  "segments": [
     {
-      "host": "Chris Ryan",
-      "picks": [
+      "kind": "draft",
+      "heading": "The teams",
+      "draftOf": "Matt Damon & Ben Affleck movies",
+      "teams": [
         {
-          "title": "Armageddon",
-          "year": 1998,
-          "category": "Blockbuster",
-          "note": "'When I close my eyes and think of a summer blockbuster, it's this.'"
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Armageddon",
+              "year": 1998,
+              "category": "Blockbuster",
+              "note": "'When I close my eyes and think of a summer blockbuster, it's this.'"
+            },
+            {
+              "title": "Good Will Hunting",
+              "year": 1997,
+              "category": "Oscar Nominee",
+              "note": "The #1 overall pick — where it all began."
+            },
+            {
+              "title": "The Last Duel",
+              "year": 2021,
+              "category": "Matt & Ben Together",
+              "note": "Ridley Scott; Affleck having the most fun of his career. A little lost in a two-movie Ridley year."
+            },
+            {
+              "title": "Argo",
+              "year": 2012,
+              "category": "Directed or Produced By",
+              "note": "Affleck directs — a seamless, expertly made genre film; Arkin and Goodman shine."
+            },
+            {
+              "title": "Saving Private Ryan",
+              "year": 1998,
+              "category": "Supporting Role",
+              "note": "Spielberg; Damon as the ingrate at the center of a five-star all-timer."
+            },
+            {
+              "title": "The Bourne Supremacy",
+              "year": 2004,
+              "category": "Wildcard",
+              "note": "Peak Greengrass — the Moscow car chase and the opening twist."
+            }
+          ]
         },
         {
-          "title": "Good Will Hunting",
-          "year": 1997,
-          "category": "Oscar Nominee",
-          "note": "The #1 overall pick — where it all began."
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "The Departed",
+              "year": 2006,
+              "category": "Blockbuster",
+              "note": "Scorsese; some of Damon's best work, and a Best Picture winner turning 20."
+            },
+            {
+              "title": "The Martian",
+              "year": 2015,
+              "category": "Oscar Nominee",
+              "note": "Ridley Scott; Damon selling defeated, intelligent struggle — 'his talk-show persona in a blockbuster.'"
+            },
+            {
+              "title": "Dogma",
+              "year": 1999,
+              "category": "Matt & Ben Together",
+              "note": "Kevin Smith; fallen angels and the parking-garage scene — 'the most them of them together.'"
+            },
+            {
+              "title": "The Town",
+              "year": 2010,
+              "category": "Directed or Produced By",
+              "note": "Affleck directs Boston heist — an easy, great pick."
+            },
+            {
+              "title": "Dazed and Confused",
+              "year": 1993,
+              "category": "Supporting Role",
+              "note": "Affleck as an unforgettable insecure bully — the paint dump is iconic."
+            },
+            {
+              "title": "Rounders",
+              "year": 1998,
+              "category": "Wildcard",
+              "note": "A classical star turn — 'something Paul Newman could have played,' and Damon fits it perfectly."
+            }
+          ]
         },
         {
-          "title": "The Last Duel",
-          "year": 2021,
-          "category": "Matt & Ben Together",
-          "note": "Ridley Scott; Affleck having the most fun of his career. A little lost in a two-movie Ridley year."
-        },
-        {
-          "title": "Argo",
-          "year": 2012,
-          "category": "Directed or Produced By",
-          "note": "Affleck directs — a seamless, expertly made genre film; Arkin and Goodman shine."
-        },
-        {
-          "title": "Saving Private Ryan",
-          "year": 1998,
-          "category": "Supporting Role",
-          "note": "Spielberg; Damon as the ingrate at the center of a five-star all-timer."
-        },
-        {
-          "title": "The Bourne Supremacy",
-          "year": 2004,
-          "category": "Wildcard",
-          "note": "Peak Greengrass — the Moscow car chase and the opening twist."
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Gone Girl",
+              "year": 2014,
+              "category": "Blockbuster",
+              "note": "Fincher — 'still the single best movie made about Ben Affleck.'"
+            },
+            {
+              "title": "The Talented Mr. Ripley",
+              "year": 1999,
+              "category": "Oscar Nominee",
+              "note": "Her favorite Damon performance — a messed-up weirdo playing against his charisma."
+            },
+            {
+              "title": "Field of Dreams",
+              "year": 1989,
+              "category": "Matt & Ben Together",
+              "note": "The sneaky third-pick gem — Matt and Ben's Fenway cameo makes it eligible."
+            },
+            {
+              "title": "Manchester by the Sea",
+              "year": 2016,
+              "category": "Directed or Produced By",
+              "note": "Damon produced (and stepped aside for Casey Affleck) — the saddest film of the 2010s."
+            },
+            {
+              "title": "Ocean's Twelve",
+              "year": 2004,
+              "category": "Supporting Role",
+              "note": "Linus comes into his own — an Adam-Sandler-style 'pay everyone you love to make a fun movie.'"
+            },
+            {
+              "title": "Gone Baby Gone",
+              "year": 2007,
+              "category": "Wildcard",
+              "note": "Affleck's directorial debut — quite good and very upsetting."
+            }
+          ]
         }
+      ],
+      "categories": [
+        "Blockbuster",
+        "Oscar Nominee",
+        "Matt & Ben Together",
+        "Directed or Produced By",
+        "Supporting Role",
+        "Wildcard"
+      ],
+      "undrafted": [
+        "Interstellar",
+        "True Grit",
+        "Oppenheimer",
+        "Promised Land",
+        "Invictus",
+        "The Bourne Identity",
+        "The Informant!",
+        "Behind the Candelabra",
+        "Shakespeare in Love",
+        "Boiler Room",
+        "Hollywoodland",
+        "Extract",
+        "The Tender Bar",
+        "State of Play",
+        "No Sudden Move",
+        "Courage Under Fire",
+        "Ford v Ferrari",
+        "Air"
       ]
     },
     {
-      "host": "Sean Fennessey",
-      "picks": [
+      "kind": "review",
+      "heading": "The review",
+      "note": "the film in the room",
+      "films": [
         {
-          "title": "The Departed",
-          "year": 2006,
-          "category": "Blockbuster",
-          "note": "Scorsese; some of Damon's best work, and a Best Picture winner turning 20."
-        },
-        {
-          "title": "The Martian",
-          "year": 2015,
-          "category": "Oscar Nominee",
-          "note": "Ridley Scott; Damon selling defeated, intelligent struggle — 'his talk-show persona in a blockbuster.'"
-        },
-        {
-          "title": "Dogma",
-          "year": 1999,
-          "category": "Matt & Ben Together",
-          "note": "Kevin Smith; fallen angels and the parking-garage scene — 'the most them of them together.'"
-        },
-        {
-          "title": "The Town",
-          "year": 2010,
-          "category": "Directed or Produced By",
-          "note": "Affleck directs Boston heist — an easy, great pick."
-        },
-        {
-          "title": "Dazed and Confused",
-          "year": 1993,
-          "category": "Supporting Role",
-          "note": "Affleck as an unforgettable insecure bully — the paint dump is iconic."
-        },
-        {
-          "title": "Rounders",
-          "year": 1998,
-          "category": "Wildcard",
-          "note": "A classical star turn — 'something Paul Newman could have played,' and Damon fits it perfectly."
-        }
-      ]
-    },
-    {
-      "host": "Amanda Dobbins",
-      "picks": [
-        {
-          "title": "Gone Girl",
-          "year": 2014,
-          "category": "Blockbuster",
-          "note": "Fincher — 'still the single best movie made about Ben Affleck.'"
-        },
-        {
-          "title": "The Talented Mr. Ripley",
-          "year": 1999,
-          "category": "Oscar Nominee",
-          "note": "Her favorite Damon performance — a messed-up weirdo playing against his charisma."
-        },
-        {
-          "title": "Field of Dreams",
-          "year": 1989,
-          "category": "Matt & Ben Together",
-          "note": "The sneaky third-pick gem — Matt and Ben's Fenway cameo makes it eligible."
-        },
-        {
-          "title": "Manchester by the Sea",
-          "year": 2016,
-          "category": "Directed or Produced By",
-          "note": "Damon produced (and stepped aside for Casey Affleck) — the saddest film of the 2010s."
-        },
-        {
-          "title": "Ocean's Twelve",
-          "year": 2004,
-          "category": "Supporting Role",
-          "note": "Linus comes into his own — an Adam-Sandler-style 'pay everyone you love to make a fun movie.'"
-        },
-        {
-          "title": "Gone Baby Gone",
-          "year": 2007,
-          "category": "Wildcard",
-          "note": "Affleck's directorial debut — quite good and very upsetting."
+          "title": "The Rip",
+          "year": 2026,
+          "note": "Joe Carnahan's Netflix thriller — Miami cops find a stash of cash and turn on each other. A B-movie with A stars (Damon, Affleck, Steven Yeun, Teyana Taylor); Triple Frontier energy, an obvious rat reveal, but a great time."
         }
       ]
     }
-  ],
-  "undrafted": [
-    "Interstellar",
-    "True Grit",
-    "Oppenheimer",
-    "Promised Land",
-    "Invictus",
-    "The Bourne Identity",
-    "The Informant!",
-    "Behind the Candelabra",
-    "Shakespeare in Love",
-    "Boiler Room",
-    "Hollywoodland",
-    "Extract",
-    "The Tender Bar",
-    "State of Play",
-    "No Sudden Move",
-    "Courage Under Fire",
-    "Ford v Ferrari",
-    "Air"
   ],
   "referenced": [
     {
@@ -342,12 +354,6 @@
       "title": "Gone Baby Gone",
       "year": 2007
     },
-    "The Rip": {
-      "id": 1306368,
-      "poster": "/4wsYWH73Hb1B6noGIFaRQSAkuXj.jpg",
-      "title": "The Rip",
-      "year": 2026
-    },
     "Interstellar": {
       "id": 157336,
       "poster": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
@@ -455,6 +461,12 @@
       "poster": "/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg",
       "title": "Air",
       "year": 2023
+    },
+    "The Rip": {
+      "id": 1306368,
+      "poster": "/4wsYWH73Hb1B6noGIFaRQSAkuXj.jpg",
+      "title": "The Rip",
+      "year": 2026
     },
     "High School Musical": {
       "id": 10947,

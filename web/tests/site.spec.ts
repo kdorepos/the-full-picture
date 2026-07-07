@@ -18,7 +18,7 @@ test('episode page shows the top lot and ledger prices', async ({ page }) => {
   await expect(topLot.locator('.lot__title')).toContainText('Behemoth!');
   await expect(topLot.locator('.lot__price')).toHaveText('$715');
   await expect(page.getByText('Whalefall')).toBeVisible();
-  await expect(page.locator('.sale-line')).toContainText('at the hammer');
+  await expect(page.getByText(/at the hammer/)).toBeVisible();
 });
 
 test('episode embeds Spotify, TMDb links, and posters', async ({ page }) => {
@@ -28,12 +28,16 @@ test('episode embeds Spotify, TMDb links, and posters', async ({ page }) => {
   await expect(page.locator('.lot__poster img').first()).toBeVisible();
 });
 
-test('roundtable episode renders pick cards, byline, and interview', async ({ page }) => {
+test('roundtable episode renders its segments (picks, interview, top five)', async ({ page }) => {
   await page.goto('/ep/the-10-best-movies-of-2026-so-far');
   await expect(page.getByRole('heading', { level: 1 })).toContainText('10 Best Movies');
-  await expect(page.locator('.pick-card')).toHaveCount(11);
-  await expect(page.locator('.pick-card__by').first()).toContainText('Picked by');
-  await expect(page.locator('.interview')).toContainText('John Early');
+  // list segment: per-critic picks with a "Picked by" byline
+  await expect(page.locator('.pick-card__by').filter({ hasText: 'Picked by' }).first()).toBeVisible();
+  // interview segment: the guest byline surfaces as a card
+  await expect(page.getByText(/John Early/).first()).toBeVisible();
+  // top-five segment: its heading and ranked bylines ("No. 1")
+  await expect(page.getByText("Sean's running top five")).toBeVisible();
+  await expect(page.locator('.pick-card__by').filter({ hasText: 'No. 1' }).first()).toBeVisible();
   await expect(page.locator('iframe[src*="open.spotify.com/embed/episode"]')).toHaveCount(1);
   // no auction furniture leaked into a non-auction episode
   await expect(page.locator('.board')).toHaveCount(0);

@@ -1,9 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
-import AuctionBody from '../../components/AuctionBody.astro';
-import ListBody from '../../components/ListBody.astro';
-import DraftBody from '../../components/DraftBody.astro';
-import DiscussionBody from '../../components/DiscussionBody.astro';
+import Segment from '../../components/Segment.astro';
 
 export async function getStaticPaths() {
   const modules = import.meta.glob('../../data/episodes/*.json', { eager: true });
@@ -17,21 +14,46 @@ const { ep } = Astro.props;
 const tmdb = ep.tmdb || {};
 const link = (t) => (tmdb[t]?.id ? `https://www.themoviedb.org/movie/${tmdb[t].id}` : null);
 
-const kind = { auction: 'Auction', list: 'Roundtable', discussion: 'Discussion' }[ep.type] || 'Episode';
+const KIND = {
+  review: 'Review', ranking: 'Rankings', topfive: 'Top Five', halloffame: 'Hall of Fame',
+  discussion: 'Discussion', interview: 'Interview', list: 'Roundtable', draft: 'Draft',
+  auction: 'Auction', awards: 'Awards',
+};
+const segs = ep.segments ?? [];
+const kinds = [...new Set(segs.map((s) => KIND[s.kind] ?? 'Segment'))].join(' · ');
 const pubDate = new Date(ep.published).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
 
-// Auction hero figures (only used when type === 'auction')
-const hammerTotal = (ep.slates ?? []).reduce((n, s) => n + s.spent, 0);
-const board = (ep.slates ?? []).flatMap((s) => s.picks).sort((a, b) => (b.price ?? -1) - (a.price ?? -1));
-const topLot = board[0];
-const paddleOf = {};
-(ep.slates ?? []).forEach((s, i) => s.picks.forEach((p) => (paddleOf[p.title] = i + 1)));
+const filmsIn = (s) =>
+  (s.films?.length ?? 0) +
+  (s.picks?.length ?? 0) +
+  (s.teams?.reduce((n, t) => n + t.picks.length, 0) ?? 0) +
+  (s.slates?.reduce((n, sl) => n + sl.picks.length, 0) ?? 0) +
+  (s.categories?.reduce((n, c) => n + (c.nominees?.length ?? 0), 0) ?? 0);
+const filmTotal = segs.reduce((n, s) => n + filmsIn(s), 0);
+
+// Auction episodes keep their signature hero furniture (sale line + sold stamp).
+const auction = segs.find((s) => s.kind === 'auction');
 const money = (p) => (p == null ? '—' : `$${p.toLocaleString()}`);
+let sale = null;
+if (auction) {
+  const paddle = {};
+  auction.slates.forEach((s, i) => (paddle[s.host] = i + 1));
+  const board = auction.slates.flatMap((s) => s.picks.map((p) => ({ ...p, host: s.host })))
+    .sort((a, b) => (b.price ?? -1) - (a.price ?? -1));
+  sale = {
+    lots: board.length,
+    paddles: auction.slates.length,
+    hammer: auction.slates.reduce((n, s) => n + s.spent, 0),
+    top: board[0],
+    topPaddle: paddle[board[0].host],
+    label: auction.saleLabel ?? 'Mid-year sale · 2026',
+  };
+}
 ---
 <Base title={`${ep.title} — The Full Picture`} description={ep.format}>
   <section class="cover">
     <div class="wrap">
-      <p class="eyebrow">{ep.show} · {kind}</p>
+      <p class="eyebrow">{ep.show} · {kinds}</p>
       <h1>{ep.title}</h1>
       <p class="credits">
         <span>{pubDate}</span><span class="sep">/</span>
@@ -39,33 +61,20 @@ const money = (p) => (p == null ? '—' : `$${p.toLocaleString()}`);
         <span>{ep.hosts.join(' · ')}</span>
       </p>
       <p class="lede">{ep.format}</p>
-
-      {ep.type === 'auction' && (
+      {sale ? (
         <>
           <p class="sale-line">
-            A sale of <b>{board.length}</b> lots across <b>{ep.slates.length}</b> paddles — <b>${hammerTotal.toLocaleString()}</b> at the hammer.
+            A sale of <b>{sale.lots}</b> lots across <b>{sale.paddles}</b> paddles — <b>${sale.hammer.toLocaleString()}</b> at the hammer.
           </p>
           <p class="toplot-cap">
-            Top lot — <b>{topLot.title}</b>, to Paddle {paddleOf[topLot.title]}, <span class="hammer">{money(topLot.price)}</span>.
+            Top lot — <b>{sale.top.title}</b>, to Paddle {sale.topPaddle}, <span class="hammer">{money(sale.top.price)}</span>.
           </p>
-          <div class="sold" aria-hidden="true"><span class="word">Sold</span><span class="fine">Mid-year sale · 2026</span></div>
+          <div class="sold" aria-hidden="true"><span class="word">Sold</span><span class="fine">{sale.label}</span></div>
         </>
-      )}
-
-      {ep.type === 'list' && (
+      ) : (
         <p class="sale-line">
-          <b>{ep.picks.length}</b> critics, <b>{ep.picks.length}</b> favorite films of the year so far.
+          <b>{filmTotal}</b> films across <b>{segs.length}</b> {segs.length === 1 ? 'segment' : 'segments'}.
         </p>
-      )}
-
-      {ep.type === 'draft' && (
-        <p class="sale-line">
-          <b>{ep.teams.reduce((n, t) => n + t.picks.length, 0)}</b> picks across <b>{ep.teams.length}</b> teams — a draft of <em>{ep.draftOf}</em>.
-        </p>
-      )}
-
-      {ep.type === 'discussion' && (
-        <p class="sale-line"><b>{ep.films.length}</b> films, talked through.</p>
       )}
     </div>
   </section>
@@ -84,28 +93,32 @@ const money = (p) => (p == null ? '—' : `$${p.toLocaleString()}`);
   )}
 
   <div class="wrap">
-    {ep.type === 'auction' ? <AuctionBody ep={ep} /> : ep.type === 'draft' ? <DraftBody ep={ep} /> : ep.type === 'discussion' ? <DiscussionBody ep={ep} /> : <ListBody ep={ep} />}
+    {segs.map((s) => <Segment seg={s} tmdb={tmdb} />)}
 
-    <section class="sale-section">
-      <p class="rubric">Also mentioned <span class="sub">raised along the way</span></p>
-      {ep.referenced.map((g) => (
-        <p class="entrylist">
-          <span class="g">{g.group}</span>
-          {g.films.map((f) => (link(f)
-            ? <a class="entry" href={link(f)} target="_blank" rel="noopener">{f}</a>
-            : <span class="entry">{f}</span>))}
-        </p>
-      ))}
-    </section>
+    {ep.referenced?.length > 0 && (
+      <section class="sale-section">
+        <p class="rubric">Also mentioned <span class="sub">raised along the way</span></p>
+        {ep.referenced.map((g) => (
+          <p class="entrylist">
+            <span class="g">{g.group}</span>
+            {g.films.map((f) => (link(f)
+              ? <a class="entry" href={link(f)} target="_blank" rel="noopener">{f}</a>
+              : <span class="entry">{f}</span>))}
+          </p>
+        ))}
+      </section>
+    )}
 
-    <section class="sale-section">
-      <p class="rubric">Not films <span class="sub">filtered out — TV, games, ads</span></p>
-      {Object.entries(ep.excluded).map(([k, arr]) => (
-        <p class="entrylist dim">
-          <span class="g">{k}</span>
-          {arr.map((f) => <span class="entry">{f}</span>)}
-        </p>
-      ))}
-    </section>
+    {ep.excluded && (
+      <section class="sale-section">
+        <p class="rubric">Not films <span class="sub">filtered out — TV, games, ads</span></p>
+        {Object.entries(ep.excluded).map(([k, arr]) => (
+          <p class="entrylist dim">
+            <span class="g">{k}</span>
+            {arr.map((f) => <span class="entry">{f}</span>)}
+          </p>
+        ))}
+      </section>
+    )}
   </div>
 </Base>

@@ -1,0 +1,29 @@
+---
+// Awards segment: categories, each with nominees; the winner (and/or the show's
+// prediction) is marked. Film titles link to TMDb; a nominee may carry a person
+// (Best Actor et al.) shown beside the film.
+const { seg, tmdb = {} } = Astro.props;
+const link = (t) => (tmdb[t]?.id ? `https://www.themoviedb.org/movie/${tmdb[t].id}` : null);
+---
+<section class="sale-section">
+  <p class="rubric">{seg.heading}{seg.note && <span class="sub">{seg.note}</span>}</p>
+  <div class="awards">
+    {seg.categories.map((c) => (
+      <div class="award-cat">
+        <h3 class="award-cat__name">{c.name}</h3>
+        <ul class="award-noms">
+          {c.nominees.map((n) => (
+            <li class={`${n.title === c.winner ? 'won' : ''} ${n.title === c.predicted ? 'pick' : ''}`}>
+              {link(n.title)
+                ? <a href={link(n.title)} target="_blank" rel="noopener">{n.title}</a>
+                : <span>{n.title}</span>}
+              {n.person && <span class="who">{n.person}</span>}
+              {n.title === c.winner && <span class="tag win">Winner</span>}
+              {n.title === c.predicted && n.title !== c.winner && <span class="tag">Their pick</span>}
+            </li>
+          ))}
+        </ul>
+      </div>
+    ))}
+  </div>
+</section>

@@ -1,13 +1,12 @@
 ---
-// Auction-episode body: paddles + hammer-price ledger.
-const { ep } = Astro.props;
-const tmdb = ep.tmdb || {};
+// Auction segment: the sale line + sold stamp, paddles, and hammer-price ledger.
+const { seg, tmdb = {} } = Astro.props;
 const link = (t) => (tmdb[t]?.id ? `https://www.themoviedb.org/movie/${tmdb[t].id}` : null);
 const poster = (t) => (tmdb[t]?.poster ? `https://image.tmdb.org/t/p/w154${tmdb[t].poster}` : null);
 
 const paddle = {};
-ep.slates.forEach((s, i) => (paddle[s.host] = i + 1));
-const board = ep.slates
+seg.slates.forEach((s, i) => (paddle[s.host] = i + 1));
+const board = seg.slates
   .flatMap((s) => s.picks.map((p) => ({ ...p, host: s.host })))
   .sort((a, b) => (b.price ?? -1) - (a.price ?? -1));
 const money = (p) => (p == null ? '—' : `$${p.toLocaleString()}`);
@@ -16,7 +15,7 @@ const rank = (i) => String(i + 1).padStart(2, '0');
 <section class="sale-section">
   <p class="rubric">The paddles <span class="sub">who spent what</span></p>
   <div class="standings">
-    {ep.slates.map((s) => (
+    {seg.slates.map((s) => (
       <div class="tally" style={`--tone: var(--paddle-${paddle[s.host]})`}>
         <div class="pno">Paddle {paddle[s.host]}</div>
         <div class="host">{s.host}</div>
@@ -55,32 +54,34 @@ const rank = (i) => String(i + 1).padStart(2, '0');
   <p class="ledger-note">Titles link to TMDb where a confident match exists. Unlinked entries are too new to be catalogued or aren't films.</p>
 </section>
 
-{ep.undrafted?.length > 0 && (
+{seg.undrafted?.length > 0 && (
   <section class="sale-section">
     <p class="rubric">Passed in <span class="sub">raised, no bid</span></p>
     <p class="entrylist">
-      {ep.undrafted.map((f) => (link(f)
+      {seg.undrafted.map((f) => (link(f)
         ? <a class="entry" href={link(f)} target="_blank" rel="noopener">{f}</a>
         : <span class="entry">{f}</span>))}
     </p>
   </section>
 )}
 
-<section class="sale-section">
-  <p class="rubric">Previous sale <span class="sub">{ep.previousSaleLabel ?? 'January · first-half slate'}</span></p>
-  <div class="prev">
-    {ep.januarySlate.map((s) => (
-      <div class="col">
-        <div class="host">{s.host}</div>
-        <ul>
-          {s.picks.map((m) => (
-            <li>
-              {link(m.title) ? <a href={link(m.title)} target="_blank" rel="noopener">{m.title}</a> : <span>{m.title}</span>}
-              <span class="p">{money(m.price)}</span>
-            </li>
-          ))}
-        </ul>
-      </div>
-    ))}
-  </div>
-</section>
+{seg.januarySlate?.length > 0 && (
+  <section class="sale-section">
+    <p class="rubric">Previous sale <span class="sub">{seg.previousSaleLabel ?? 'January · first-half slate'}</span></p>
+    <div class="prev">
+      {seg.januarySlate.map((s) => (
+        <div class="col">
+          <div class="host">{s.host}</div>
+          <ul>
+            {s.picks.map((m) => (
+              <li>
+                {link(m.title) ? <a href={link(m.title)} target="_blank" rel="noopener">{m.title}</a> : <span>{m.title}</span>}
+                <span class="p">{money(m.price)}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))}
+    </div>
+  </section>
+)}

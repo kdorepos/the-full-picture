@@ -10,258 +10,263 @@
   ],
   "published": "2026-01-14",
   "runtimeMin": 141,
-  "type": "auction",
   "spotifyEpisodeId": "6d6luzJY9pxrXFQZBXZ53c",
   "format": "The first-half movie auction (Part 1). Sean, Amanda, and Chris each draft five upcoming 2026 films with a $1,000 budget, against the season's triggers ($100M box office, Oscar noms, 85+ Metacritic, ≤2 sequels). They open by grading last year's 2025 slate. This is the companion to the July auction already catalogued.",
-  "previousSaleLabel": "Last year — the 2025 slate",
-  "slates": [
+  "segments": [
     {
-      "host": "Amanda Dobbins",
-      "spent": 1000,
-      "budgetLeft": 0,
-      "picks": [
+      "kind": "auction",
+      "heading": "The paddles",
+      "slates": [
         {
-          "title": "Dune: Part Three",
-          "year": 2026,
-          "price": 775,
-          "note": "Villeneuve's finale — Chalamet, Zendaya, Pugh, Pattinson. A likely tic-tac-toe (box office + a Return-of-the-King Best Picture nod)."
+          "host": "Amanda Dobbins",
+          "spent": 1000,
+          "budgetLeft": 0,
+          "picks": [
+            {
+              "title": "Dune: Part Three",
+              "year": 2026,
+              "price": 775,
+              "note": "Villeneuve's finale — Chalamet, Zendaya, Pugh, Pattinson. A likely tic-tac-toe (box office + a Return-of-the-King Best Picture nod)."
+            },
+            {
+              "title": "Project Hail Mary",
+              "year": 2026,
+              "price": 200,
+              "note": "Lord & Miller / Gosling; Drew Goddard adapting Andy Weir. Amazon MGM betting on original sci-fi."
+            },
+            {
+              "title": "The Mandalorian and Grogu",
+              "year": 2026,
+              "price": 19,
+              "note": "A pure box-office play she's lukewarm on — 'or Grogu, as he's known in my home.'"
+            },
+            {
+              "title": "Verity",
+              "year": 2026,
+              "price": 5,
+              "note": "Colleen Hoover adaptation; Anne Hathaway, Dakota Johnson, Josh Hartnett; dir. Michael Showalter."
+            },
+            {
+              "title": "The Social Reckoning",
+              "year": 2026,
+              "price": 1,
+              "note": "Aaron Sorkin's Facebook follow-up; Mikey Madison as Frances Haugen. A brand pick."
+            }
+          ]
         },
         {
-          "title": "Project Hail Mary",
-          "year": 2026,
-          "price": 200,
-          "note": "Lord & Miller / Gosling; Drew Goddard adapting Andy Weir. Amazon MGM betting on original sci-fi."
+          "host": "Sean Fennessey",
+          "spent": 1000,
+          "budgetLeft": 0,
+          "picks": [
+            {
+              "title": "The Odyssey",
+              "year": 2026,
+              "price": 926,
+              "note": "Nolan's epic — the sale's top lot after a marathon bidding war. All-star cast, practical effects, a July release."
+            },
+            {
+              "title": "Jack of Spades",
+              "year": 2026,
+              "price": 50,
+              "note": "Joel Coen's Apple mystery; Josh O'Connor, Frances McDormand. A 19th-century, Poe-coded flyer."
+            },
+            {
+              "title": "Narnia: The Magician's Nephew",
+              "year": 2026,
+              "price": 18,
+              "note": "Greta Gerwig's Netflix prequel; a two-week IMAX-exclusive box-office bet."
+            },
+            {
+              "title": "Digger",
+              "year": 2026,
+              "price": 5,
+              "note": "Iñárritu + Tom Cruise — a 'modern Dr. Strangelove'; a test of Cruise's stardom at the box office."
+            },
+            {
+              "title": "Toy Story 5",
+              "year": 2026,
+              "price": 1,
+              "note": "A value play — the villain is a tablet (voiced by Greta Lee). Near-certain money plus an Oscar nod."
+            }
+          ]
         },
         {
-          "title": "The Mandalorian and Grogu",
-          "year": 2026,
-          "price": 19,
-          "note": "A pure box-office play she's lukewarm on — 'or Grogu, as he's known in my home.'"
-        },
-        {
-          "title": "Verity",
-          "year": 2026,
-          "price": 5,
-          "note": "Colleen Hoover adaptation; Anne Hathaway, Dakota Johnson, Josh Hartnett; dir. Michael Showalter."
-        },
-        {
-          "title": "The Social Reckoning",
-          "year": 2026,
-          "price": 1,
-          "note": "Aaron Sorkin's Facebook follow-up; Mikey Madison as Frances Haugen. A brand pick."
+          "host": "Chris Ryan",
+          "spent": 321,
+          "budgetLeft": 679,
+          "picks": [
+            {
+              "title": "The Adventures of Cliff Booth",
+              "year": 2026,
+              "price": 76,
+              "note": "David Fincher directs Tarantino's script; Brad Pitt returns. Netflix."
+            },
+            {
+              "title": "Wuthering Heights",
+              "year": 2026,
+              "price": 75,
+              "note": "Emerald Fennell's Brontë; Jacob Elordi, Margot Robbie, Charli XCX scoring. A Valentine's swing."
+            },
+            {
+              "title": "Resident Evil",
+              "year": 2026,
+              "price": 72,
+              "note": "Zach Cregger's 'spiritual' game adaptation; Austin Abrams. A box-office bet on Raccoon City."
+            },
+            {
+              "title": "Disclosure Day",
+              "year": 2026,
+              "price": 72,
+              "note": "Spielberg's UFO movie; Emily Blunt, Colin Firth, Josh O'Connor. Universal's big original event."
+            },
+            {
+              "title": "The Devil Wears Prada 2",
+              "year": 2026,
+              "price": 26,
+              "note": "David Frankel returns — a near-lock for $100M."
+            }
+          ]
         }
-      ]
-    },
-    {
-      "host": "Sean Fennessey",
-      "spent": 1000,
-      "budgetLeft": 0,
-      "picks": [
+      ],
+      "januarySlate": [
         {
-          "title": "The Odyssey",
-          "year": 2026,
-          "price": 926,
-          "note": "Nolan's epic — the sale's top lot after a marathon bidding war. All-star cast, practical effects, a July release."
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Mission: Impossible - The Final Reckoning",
+              "price": 390
+            },
+            {
+              "title": "28 Years Later",
+              "price": 355
+            },
+            {
+              "title": "Avatar: Fire and Ash",
+              "price": 300
+            },
+            {
+              "title": "Eddington",
+              "price": 204
+            },
+            {
+              "title": "Superman",
+              "price": 62
+            },
+            {
+              "title": "It Was Just an Accident",
+              "price": 41
+            },
+            {
+              "title": "One Battle After Another",
+              "price": 1
+            },
+            {
+              "title": "Hamnet",
+              "price": 1
+            },
+            {
+              "title": "Predator: Badlands",
+              "price": 1
+            },
+            {
+              "title": "A Big Bold Beautiful Journey",
+              "price": null
+            }
+          ]
         },
         {
-          "title": "Jack of Spades",
-          "year": 2026,
-          "price": 50,
-          "note": "Joel Coen's Apple mystery; Josh O'Connor, Frances McDormand. A 19th-century, Poe-coded flyer."
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Jay Kelly",
+              "price": 420
+            },
+            {
+              "title": "Downton Abbey: The Grand Finale",
+              "price": 1
+            },
+            {
+              "title": "M3GAN 2.0",
+              "price": null
+            },
+            {
+              "title": "F1",
+              "price": null
+            },
+            {
+              "title": "Opus",
+              "price": null
+            },
+            {
+              "title": "The Phoenician Scheme",
+              "price": null
+            },
+            {
+              "title": "Marty Supreme",
+              "price": null
+            },
+            {
+              "title": "After the Hunt",
+              "price": null
+            },
+            {
+              "title": "Roofman",
+              "price": null
+            },
+            {
+              "title": "A House of Dynamite",
+              "price": null
+            }
+          ]
         },
         {
-          "title": "Narnia: The Magician's Nephew",
-          "year": 2026,
-          "price": 18,
-          "note": "Greta Gerwig's Netflix prequel; a two-week IMAX-exclusive box-office bet."
-        },
-        {
-          "title": "Digger",
-          "year": 2026,
-          "price": 5,
-          "note": "Iñárritu + Tom Cruise — a 'modern Dr. Strangelove'; a test of Cruise's stardom at the box office."
-        },
-        {
-          "title": "Toy Story 5",
-          "year": 2026,
-          "price": 1,
-          "note": "A value play — the villain is a tablet (voiced by Greta Lee). Near-certain money plus an Oscar nod."
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Weapons",
+              "price": 465
+            },
+            {
+              "title": "Sinners",
+              "price": 270
+            },
+            {
+              "title": "Highest 2 Lowest",
+              "price": 205
+            },
+            {
+              "title": "Ballad of a Small Player",
+              "price": 165
+            },
+            {
+              "title": "Sentimental Value",
+              "price": 110
+            },
+            {
+              "title": "Jurassic World Rebirth",
+              "price": 100
+            },
+            {
+              "title": "The Running Man",
+              "price": 100
+            },
+            {
+              "title": "Is This Thing On?",
+              "price": 70
+            },
+            {
+              "title": "Springsteen: Deliver Me from Nowhere",
+              "price": 60
+            },
+            {
+              "title": "Now You See Me: Now You Don't",
+              "price": 1
+            }
+          ]
         }
-      ]
-    },
-    {
-      "host": "Chris Ryan",
-      "spent": 321,
-      "budgetLeft": 679,
-      "picks": [
-        {
-          "title": "The Adventures of Cliff Booth",
-          "year": 2026,
-          "price": 76,
-          "note": "David Fincher directs Tarantino's script; Brad Pitt returns. Netflix."
-        },
-        {
-          "title": "Wuthering Heights",
-          "year": 2026,
-          "price": 75,
-          "note": "Emerald Fennell's Brontë; Jacob Elordi, Margot Robbie, Charli XCX scoring. A Valentine's swing."
-        },
-        {
-          "title": "Resident Evil",
-          "year": 2026,
-          "price": 72,
-          "note": "Zach Cregger's 'spiritual' game adaptation; Austin Abrams. A box-office bet on Raccoon City."
-        },
-        {
-          "title": "Disclosure Day",
-          "year": 2026,
-          "price": 72,
-          "note": "Spielberg's UFO movie; Emily Blunt, Colin Firth, Josh O'Connor. Universal's big original event."
-        },
-        {
-          "title": "The Devil Wears Prada 2",
-          "year": 2026,
-          "price": 26,
-          "note": "David Frankel returns — a near-lock for $100M."
-        }
-      ]
-    }
-  ],
-  "januarySlate": [
-    {
-      "host": "Sean Fennessey",
-      "picks": [
-        {
-          "title": "Mission: Impossible - The Final Reckoning",
-          "price": 390
-        },
-        {
-          "title": "28 Years Later",
-          "price": 355
-        },
-        {
-          "title": "Avatar: Fire and Ash",
-          "price": 300
-        },
-        {
-          "title": "Eddington",
-          "price": 204
-        },
-        {
-          "title": "Superman",
-          "price": 62
-        },
-        {
-          "title": "It Was Just an Accident",
-          "price": 41
-        },
-        {
-          "title": "One Battle After Another",
-          "price": 1
-        },
-        {
-          "title": "Hamnet",
-          "price": 1
-        },
-        {
-          "title": "Predator: Badlands",
-          "price": 1
-        },
-        {
-          "title": "A Big Bold Beautiful Journey",
-          "price": null
-        }
-      ]
-    },
-    {
-      "host": "Amanda Dobbins",
-      "picks": [
-        {
-          "title": "Jay Kelly",
-          "price": 420
-        },
-        {
-          "title": "Downton Abbey: The Grand Finale",
-          "price": 1
-        },
-        {
-          "title": "M3GAN 2.0",
-          "price": null
-        },
-        {
-          "title": "F1",
-          "price": null
-        },
-        {
-          "title": "Opus",
-          "price": null
-        },
-        {
-          "title": "The Phoenician Scheme",
-          "price": null
-        },
-        {
-          "title": "Marty Supreme",
-          "price": null
-        },
-        {
-          "title": "After the Hunt",
-          "price": null
-        },
-        {
-          "title": "Roofman",
-          "price": null
-        },
-        {
-          "title": "A House of Dynamite",
-          "price": null
-        }
-      ]
-    },
-    {
-      "host": "Chris Ryan",
-      "picks": [
-        {
-          "title": "Weapons",
-          "price": 465
-        },
-        {
-          "title": "Sinners",
-          "price": 270
-        },
-        {
-          "title": "Highest 2 Lowest",
-          "price": 205
-        },
-        {
-          "title": "Ballad of a Small Player",
-          "price": 165
-        },
-        {
-          "title": "Sentimental Value",
-          "price": 110
-        },
-        {
-          "title": "Jurassic World Rebirth",
-          "price": 100
-        },
-        {
-          "title": "The Running Man",
-          "price": 100
-        },
-        {
-          "title": "Is This Thing On?",
-          "price": 70
-        },
-        {
-          "title": "Springsteen: Deliver Me from Nowhere",
-          "price": 60
-        },
-        {
-          "title": "Now You See Me: Now You Don't",
-          "price": 1
-        }
-      ]
+      ],
+      "previousSaleLabel": "Last year — the 2025 slate"
     }
   ],
   "referenced": [

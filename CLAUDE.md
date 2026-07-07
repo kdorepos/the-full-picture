@@ -16,12 +16,12 @@ session against the transcript — **do not** offload extraction to a small loca
 - **Transcribe**: `faster_whisper` `BatchedInferencePipeline`, `medium.en`, int8, CPU.
 
 ### 4. Extract (Claude, not a local LLM)
-- Read the FULL transcript (2.5hr ep ≈ 30k words). Mirror the episode's structure:
-  - Discussion ep → one flat grouped list.
-  - Picks/countdown ep → a "Top N" section (who picked what) + a "Referenced" section
-    grouped under the pick each reference was raised alongside, one-line note each.
+- Read the FULL transcript (2.5hr ep ≈ 30k words). The show is **segmented** — a review,
+  then a "Plus:" game, then a mailbag. Model the episode as an ordered list of `segments`,
+  one per on-air section. Segment kinds + JSON schema per kind: **`web/src/data/episodes/TEMPLATES.md`**
+  (review · discussion · ranking · topfive · halloffame · interview · list · draft · auction · awards).
 - Exclude non-films (TV, YouTube/web series, video games, ad reads); list exclusions
-  separately so the filtering is visible.
+  under episode-level `excluded` so the filtering is visible.
 
 ### 5. Validate + enrich against TMDb
 Write the episode JSON (`web/src/data/episodes/<slug>.json`), then enrich:

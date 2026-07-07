@@ -1,15 +1,17 @@
 ---
-// Discussion body: films talked through (ranked, argued, reviewed) — annotated cards,
-// no drafter/price. For episodes that aren't a draft or auction.
-const { ep } = Astro.props;
-const tmdb = ep.tmdb || {};
+// Films segment: annotated poster cards. Covers review / ranking / top-five /
+// hall-of-fame / discussion / interview. Optional rank numbers (seg.ranked) and a
+// byline (seg.guest, or "No. N" when ranked) — both reuse the pick-card byline slot,
+// so no kind needs its own CSS.
+const { seg, tmdb = {} } = Astro.props;
 const link = (t) => (tmdb[t]?.id ? `https://www.themoviedb.org/movie/${tmdb[t].id}` : null);
 const poster = (t) => (tmdb[t]?.poster ? `https://image.tmdb.org/t/p/w185${tmdb[t].poster}` : null);
+const byline = (i) => seg.guest ?? (seg.ranked ? `No. ${i + 1}` : null);
 ---
 <section class="sale-section">
-  <p class="rubric">The films <span class="sub">{ep.filmsLabel ?? 'as the show ranked and argued them'}</span></p>
+  <p class="rubric">{seg.heading}{seg.note && <span class="sub">{seg.note}</span>}</p>
   <div class="picks">
-    {ep.films.map((f) => (
+    {seg.films.map((f, i) => (
       <article class="pick-card">
         <div class="pick-card__poster">
           {poster(f.title)
@@ -17,6 +19,7 @@ const poster = (t) => (tmdb[t]?.poster ? `https://image.tmdb.org/t/p/w185${tmdb[
             : <span class="noposter" aria-hidden="true"></span>}
         </div>
         <div class="pick-card__body">
+          {byline(i) && <div class="pick-card__by">{byline(i)}</div>}
           <h3 class="pick-card__film">
             {link(f.title) ? <a href={link(f.title)} target="_blank" rel="noopener">{f.title}</a> : f.title}
             {f.year && <span class="yr">{f.year}</span>}

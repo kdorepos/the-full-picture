@@ -1,35 +1,14 @@
 ---
-// Draft body: a snake draft of existing films into per-host teams across categories.
-const { ep } = Astro.props;
-const tmdb = ep.tmdb || {};
+// Draft segment: a snake draft of existing films into per-host teams across categories.
+// (A "Plus: <film>" review rides along as its own review segment, not here.)
+const { seg, tmdb = {} } = Astro.props;
 const link = (t) => (tmdb[t]?.id ? `https://www.themoviedb.org/movie/${tmdb[t].id}` : null);
 const poster = (t) => (tmdb[t]?.poster ? `https://image.tmdb.org/t/p/w185${tmdb[t].poster}` : null);
 ---
-{ep.review && (
-  <section class="sale-section">
-    <p class="rubric">The review <span class="sub">the film in the room</span></p>
-    <div class="interview">
-      <div class="pick-card__poster big">
-        {poster(ep.review.title)
-          ? <img src={poster(ep.review.title)} alt={`${ep.review.title} poster`} width="92" height="138" loading="lazy" />
-          : <span class="noposter" aria-hidden="true"></span>}
-      </div>
-      <div class="pick-card__body">
-        <div class="pick-card__by">Reviewed</div>
-        <h3 class="pick-card__film">
-          {link(ep.review.title) ? <a href={link(ep.review.title)} target="_blank" rel="noopener">{ep.review.title}</a> : ep.review.title}
-          <span class="yr">{ep.review.year}</span>
-        </h3>
-        <p class="pick-card__note">{ep.review.note}</p>
-      </div>
-    </div>
-  </section>
-)}
-
 <section class="sale-section">
-  <p class="rubric">The teams <span class="sub">drafting {ep.draftOf}</span></p>
+  <p class="rubric">{seg.heading ?? 'The teams'} <span class="sub">drafting {seg.draftOf}</span></p>
   <div class="teams">
-    {ep.teams.map((t) => (
+    {seg.teams.map((t) => (
       <div class="team">
         <h3 class="team-host">{t.host}</h3>
         {t.picks.map((p) => (
@@ -54,11 +33,11 @@ const poster = (t) => (tmdb[t]?.poster ? `https://image.tmdb.org/t/p/w185${tmdb[
   </div>
 </section>
 
-{ep.undrafted?.length > 0 && (
+{seg.undrafted?.length > 0 && (
   <section class="sale-section">
     <p class="rubric">On the board, undrafted <span class="sub">honorable mentions</span></p>
     <p class="entrylist">
-      {ep.undrafted.map((f) => (link(f)
+      {seg.undrafted.map((f) => (link(f)
         ? <a class="entry" href={link(f)} target="_blank" rel="noopener">{f}</a>
         : <span class="entry">{f}</span>))}
     </p>

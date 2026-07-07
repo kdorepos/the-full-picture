@@ -83,6 +83,8 @@ def main():
     for t in ep.get("teams", []):             # draft episodes — picks carry explicit years
         for p in t["picks"]:
             pick(p["title"], p.get("year"))
+    for f in ep.get("films", []):             # discussion episodes
+        pick(f["title"], f.get("year"))
     if ep.get("review"):                      # a reviewed film (draft/discussion)
         pick(ep["review"]["title"], ep["review"].get("year"))
     if ep.get("interview"):

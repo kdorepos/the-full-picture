@@ -1,0 +1,29 @@
+---
+// Discussion body: films talked through (ranked, argued, reviewed) — annotated cards,
+// no drafter/price. For episodes that aren't a draft or auction.
+const { ep } = Astro.props;
+const tmdb = ep.tmdb || {};
+const link = (t) => (tmdb[t]?.id ? `https://www.themoviedb.org/movie/${tmdb[t].id}` : null);
+const poster = (t) => (tmdb[t]?.poster ? `https://image.tmdb.org/t/p/w185${tmdb[t].poster}` : null);
+---
+<section class="sale-section">
+  <p class="rubric">The films <span class="sub">{ep.filmsLabel ?? 'as the show ranked and argued them'}</span></p>
+  <div class="picks">
+    {ep.films.map((f) => (
+      <article class="pick-card">
+        <div class="pick-card__poster">
+          {poster(f.title)
+            ? <img src={poster(f.title)} alt={`${f.title} poster`} width="70" height="105" loading="lazy" />
+            : <span class="noposter" aria-hidden="true"></span>}
+        </div>
+        <div class="pick-card__body">
+          <h3 class="pick-card__film">
+            {link(f.title) ? <a href={link(f.title)} target="_blank" rel="noopener">{f.title}</a> : f.title}
+            {f.year && <span class="yr">{f.year}</span>}
+          </h3>
+          {f.note && <p class="pick-card__note">{f.note}</p>}
+        </div>
+      </article>
+    ))}
+  </div>
+</section>

@@ -10,6 +10,8 @@ const filmCount = (ep) => {
   let n = 0;
   (ep.slates ?? []).forEach((s) => (n += s.picks.length));
   (ep.lists ?? []).forEach((l) => (n += l.ranked.length));
+  (ep.teams ?? []).forEach((t) => (n += t.picks.length));
+  n += ep.films?.length ?? 0;
   (ep.januarySlate ?? []).forEach((s) => (n += s.picks.length));
   (ep.referenced ?? []).forEach((g) => (n += g.films.length));
   n += (ep.undrafted?.length ?? 0) + (ep.honorableMentions?.length ?? 0);

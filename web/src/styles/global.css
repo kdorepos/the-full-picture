@@ -24,7 +24,7 @@
   --paddle-2:   #83b0c4;  /* dusty blue */
   --paddle-3:   #cf6a60;  /* rose */
 
-  --display: 'Bodoni Moda Variable', Didot, 'Times New Roman', serif;
+  --display: 'Fraunces Variable', 'Times New Roman', Georgia, serif;
   --sans: 'Archivo Variable', system-ui, -apple-system, sans-serif;
   --mono: 'IBM Plex Mono', ui-monospace, 'SF Mono', Menlo, monospace;
   --maxw: 64rem;

@@ -39,9 +39,14 @@ wrong-but-same-title matches that enrichment can't. Apply its findings, then re-
 This step is not optional; `enrich_tmdb.py` ends by reminding you to run it.
 
 ### 5.7 Spotify embed — every episode page must have one
-Set `spotifyEpisodeId` on the JSON (the page embeds it). Find it via the Spotify search
-tool using the episode's EXACT distinctive title — generic terms ("2026 movie auction")
-return the wrong episode (a popular "…Returns!" one outranks a plain-titled sibling).
+Resolve it deterministically (the fuzzy app/MCP search won't surface plain-titled
+back-catalog episodes):
+```
+./pipeline/spotify_id.py web/src/data/episodes/<slug>.json
+```
+It lists the show's episodes via the Spotify Web API and writes `spotifyEpisodeId` by
+exact title+date match. Needs `SPOTIFY_CLIENT_ID`/`SPOTIFY_CLIENT_SECRET` in `.env`
+(a free developer app, client-credentials only).
 
 ### 6. Deliver
 Clean markdown: header (title/show/runtime) + sections above. Save transcript AND movie

@@ -79,10 +79,6 @@ em { font-style: italic; }
 .mark { display: inline-flex; align-items: center; gap: 0.6rem; }
 .mark-icon { display: block; flex: none; }
 .mark-name { font-family: var(--display); font-size: 1.15rem; font-weight: 600; }
-.mark-tag {
-  font-family: var(--mono); font-size: 0.64rem; letter-spacing: 0.2em;
-  text-transform: uppercase; color: var(--faint);
-}
 
 /* ---------- Hero: the catalogue cover ---------- */
 .cover { border-bottom: 1px solid var(--line); padding: 3.2rem 0 2.4rem; }
@@ -260,8 +256,14 @@ a.entry:hover { color: var(--brass-lit); text-decoration: underline; text-underl
 .sale-card .count small { display: block; color: var(--faint); font-size: 0.6rem; letter-spacing: 0.16em; text-transform: uppercase; font-weight: 400; }
 
 /* ---------- Footer ---------- */
-footer { padding: 2.4rem 0 3.4rem; }
-footer p { color: var(--faint); font-size: 0.8rem; max-width: 46ch; margin: 0; }
+footer { padding: 2.4rem 0 3.4rem; border-top: 1px solid var(--line); margin-top: 1.5rem; }
+.foot-credits { display: flex; flex-wrap: wrap; align-items: center; gap: 1rem 1.8rem; margin: 0 0 1.15rem; }
+.credit { display: inline-flex; align-items: center; gap: 0.5rem; color: var(--muted); font-family: var(--mono); font-size: 0.8rem; letter-spacing: 0.02em; opacity: 0.9; transition: opacity 0.18s; }
+.credit:hover { opacity: 1; }
+.logo-tmdb { height: 15px; width: auto; display: block; }
+.logo-spotify { display: block; }
+footer p { color: var(--faint); font-size: 0.8rem; max-width: 62ch; margin: 0 0 0.6rem; }
+footer p:last-child { margin-bottom: 0; }
 
 /* ---------- Motion (one restrained entrance) ---------- */
 @keyframes rise { from { opacity: 0; transform: translateY(0.6rem); } to { opacity: 1; transform: none; } }
@@ -280,7 +282,6 @@ footer p { color: var(--faint); font-size: 0.8rem; max-width: 46ch; margin: 0; }
   .summary .stat.toplot { grid-column: 1 / 3; }
   .standings { grid-template-columns: 1fr; gap: 0.7rem; }
   .prev { grid-template-columns: 1fr; gap: 1rem; }
-  .mark-tag { display: none; }
   .lot { grid-template-columns: 2.4rem 40px 1fr auto; column-gap: 0.7rem; }
   .lot__poster img, .noposter { width: 40px; height: 60px; }
   .lot__note { grid-column: 3 / 5; }

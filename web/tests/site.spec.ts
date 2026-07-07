@@ -68,7 +68,7 @@ test('processing panel reveals for an in-flight episode and hides once published
   await page.goto('/');
   await expect(page.locator('#processing')).toBeVisible();
   await expect(page.locator('#proc-title')).toHaveText('Some Upcoming Episode');
-  await expect(page.locator('#proc-status')).toContainText('4/10 chunks');
+  await expect(page.locator('#proc-status')).toHaveText('Transcribing · 40%');
 
   // Same payload but the slug is already on the site → panel stays hidden (no stale card).
   await page.unroute('**/api/progress*');

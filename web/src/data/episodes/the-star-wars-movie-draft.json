@@ -13,87 +13,245 @@
   "published": "2026-04-27",
   "runtimeMin": 152,
   "spotifyEpisodeId": "5RKNSpL0diZjC8eRA1XZm7",
-  "format": "A Star Wars draft (Sean, Mallory Rubin, Van Lathan, Amanda, Chris) across seven categories — Movie, Movie You're Cursed With, Skywalker Family Member, Hero or Villain, Vehicle, Problematic Character, and Wild Card. Only two of those categories are films, so rather than reconstruct the character-and-ship picks, here's the Star Wars filmography as the show ranked, cursed, and fought over it.",
+  "format": "A five-host snake draft of the Star Wars universe across seven categories — Movie, Movie You're Cursed With (a curse you draft for someone else), Skywalker Family Member, Hero or Villain, Vehicle, Problematic Character, and Wild Card. The two film categories link out; the rest are the characters, ships, and picks each host took. Round-one seeding: Sean, Mallory, Van, Amanda, Chris.",
   "segments": [
     {
-      "kind": "discussion",
-      "heading": "The films",
-      "note": "the Star Wars filmography, as the show sees it",
-      "films": [
+      "kind": "draft",
+      "heading": "The teams",
+      "draftOf": "the Star Wars universe",
+      "categories": [
+        "Movie",
+        "Movie You're Cursed With",
+        "Skywalker Family Member",
+        "Hero or Villain",
+        "Vehicle",
+        "Problematic Character",
+        "Wild Card"
+      ],
+      "teams": [
         {
-          "title": "The Empire Strikes Back",
-          "year": 1980,
-          "note": "Sean's #1 — 'the greatest sequel ever made,' better than Godfather II. Made darker and better than it was ever mapped to be."
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "The Empire Strikes Back",
+              "year": 1980,
+              "category": "Movie",
+              "note": "First overall pick. 'My favorite Star Wars movie — the greatest sequel ever made.'"
+            },
+            {
+              "title": "Star Wars: Episode II - Attack of the Clones",
+              "year": 2002,
+              "category": "Movie You're Cursed With",
+              "note": "Cursed by Mallory, to offset his having Empire."
+            },
+            {
+              "title": "Leia Organa",
+              "category": "Skywalker Family Member",
+              "note": "'Leia as my Skywalker makes the most sense.'"
+            },
+            {
+              "title": "Ben Solo / Kylo Ren",
+              "category": "Hero or Villain",
+              "note": "'He's both — one of my favorite characters in movies in the last 20 years.'"
+            },
+            {
+              "title": "Darth Vader's TIE Advanced x1",
+              "category": "Vehicle",
+              "note": "'The coolest vehicle after the Millennium Falcon.'"
+            },
+            {
+              "title": "Nute Gunray",
+              "category": "Problematic Character",
+              "note": "Trade Federation — 'one of the most blatant anti-Asian stereotypes.'"
+            },
+            {
+              "title": "Boba Fett",
+              "category": "Wild Card",
+              "note": "'I cannot believe he lasted this long.'"
+            }
+          ]
         },
         {
-          "title": "Star Wars",
-          "year": 1977,
-          "note": "A New Hope — Mallory's pick. 'It changed movies, changed genre films, and changed the history of story.' The binary sunset."
+          "host": "Mallory Rubin",
+          "picks": [
+            {
+              "title": "Star Wars",
+              "year": 1977,
+              "category": "Movie",
+              "note": "Second overall pick. A New Hope — 'it changed movies.'"
+            },
+            {
+              "title": "Star Wars: The Force Awakens",
+              "year": 2015,
+              "category": "Movie You're Cursed With",
+              "note": "Given by Amanda — 'not really a curse. Thank you.'"
+            },
+            {
+              "title": "Shmi Skywalker",
+              "category": "Skywalker Family Member",
+              "note": "A last-round pivot after C-3PO/R2-D2 fell through — 'the matriarch who allowed us to talk about this at all.'"
+            },
+            {
+              "title": "Obi-Wan Kenobi",
+              "category": "Hero or Villain",
+              "note": "'I can't believe he fell this far.'"
+            },
+            {
+              "title": "X-Wings",
+              "category": "Vehicle",
+              "note": "Took all of them."
+            },
+            {
+              "title": "Jar Jar Binks",
+              "category": "Problematic Character",
+              "note": "'The clear number one draft pick — responsible for the Emperor.'"
+            },
+            {
+              "title": "Lightsabers",
+              "category": "Wild Card",
+              "note": "Took every lightsaber, not just one."
+            }
+          ]
         },
         {
-          "title": "Return of the Jedi",
-          "year": 1983,
-          "note": "The original trilogy's redemptive close — Vader's turn is the emotional core the whole saga orbits."
+          "host": "Van Lathan",
+          "picks": [
+            {
+              "title": "Return of the Jedi",
+              "year": 1983,
+              "category": "Movie",
+              "note": "'Now an underrated movie.' His heart wanted Revenge of the Sith; he took the safer OT pick."
+            },
+            {
+              "title": "Star Wars: The Rise of Skywalker",
+              "year": 2019,
+              "category": "Movie You're Cursed With",
+              "note": "Cursed by Sean — 'the strength of Van's slate.' The 'big picture evil movie.'"
+            },
+            {
+              "title": "Rey",
+              "category": "Skywalker Family Member",
+              "note": "Ruled eligible as a Skywalker — 'she represents a lot' to young fans."
+            },
+            {
+              "title": "Darth Vader",
+              "category": "Hero or Villain",
+              "note": "Third overall pick — took him here rather than as a Skywalker, pulling Anakin off the board too."
+            },
+            {
+              "title": "Millennium Falcon",
+              "category": "Vehicle",
+              "note": "'The most iconic thing to me in Star Wars still left on the board.'"
+            },
+            {
+              "title": "Emperor Palpatine",
+              "category": "Problematic Character",
+              "note": "'A big-time groomer — a boomer bad boss.'"
+            },
+            {
+              "title": "The Force",
+              "category": "Wild Card",
+              "note": "'The thing that binds the universe together.'"
+            }
+          ]
         },
         {
-          "title": "Star Wars: Episode I - The Phantom Menace",
-          "year": 1999,
-          "note": "'A terrible movie,' but formative to the fandom — and Amanda's crash-course homework."
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Star Wars: The Last Jedi",
+              "year": 2017,
+              "category": "Movie",
+              "note": "'I was very moved by it — a real opening of the world.'"
+            },
+            {
+              "title": "Star Wars: Episode I - The Phantom Menace",
+              "year": 1999,
+              "category": "Movie You're Cursed With",
+              "note": "Cursed by Chris — 'the bad movie,' as opposed to the evil one."
+            },
+            {
+              "title": "Han Solo",
+              "category": "Skywalker Family Member",
+              "note": "A Skywalker by marriage — 'my entry point into what's exciting about Star Wars.'"
+            },
+            {
+              "title": "Yoda",
+              "category": "Hero or Villain",
+              "note": "'Does Yoda count as a hero? Yes. That's who I pick.'"
+            },
+            {
+              "title": "Speeder bikes",
+              "category": "Vehicle",
+              "note": "The 74-Z from Return of the Jedi — 'my son's favorite part.' Took all of them."
+            },
+            {
+              "title": "Padmé Amidala",
+              "category": "Problematic Character",
+              "note": "'An age-gap romance — endangering her handmaidens.'"
+            },
+            {
+              "title": "John Williams",
+              "category": "Wild Card",
+              "note": "'These movies do not exist without that score.'"
+            }
+          ]
         },
         {
-          "title": "Star Wars: Episode II - Attack of the Clones",
-          "year": 2002,
-          "note": "The weakest of the prequels — perennially conflated with the Clone Wars."
-        },
-        {
-          "title": "Star Wars: Episode III - Revenge of the Sith",
-          "year": 2005,
-          "note": "'Genuinely, unironically great' — the tragedy of Anakin finally lands."
-        },
-        {
-          "title": "Star Wars: The Force Awakens",
-          "year": 2015,
-          "note": "The sequel trilogy's confident, if familiar, restart."
-        },
-        {
-          "title": "Star Wars: The Last Jedi",
-          "year": 2017,
-          "note": "The great divide — 'a healthy debate about a Star Wars movie is totally valid,' but Lucasfilm then walked it back."
-        },
-        {
-          "title": "Star Wars: The Rise of Skywalker",
-          "year": 2019,
-          "note": "'A shameful manifestation of fearing your own fanbase.' Somehow, Palpatine returned."
-        },
-        {
-          "title": "Rogue One: A Star Wars Story",
-          "year": 2016,
-          "note": "Home to the Vader hallway — 'exactly what I wanted to see when I was six.'"
-        },
-        {
-          "title": "Solo: A Star Wars Story",
-          "year": 2018,
-          "note": "The Han Solo standalone."
-        },
-        {
-          "title": "Star Wars: The Clone Wars",
-          "year": 2008,
-          "note": "The animated theatrical film — 'pretty bad,' though the series it launched is among the best Star Wars ever."
-        },
-        {
-          "title": "The Mandalorian and Grogu",
-          "year": 2026,
-          "note": "The upcoming film — 'I hope it's good and they let Grogu shine.'"
-        },
-        {
-          "title": "Star Wars: Starfighter",
-          "year": 2027,
-          "note": "Next May — Ryan Gosling, directed by Shawn Levy. 'The biggest star in the world.'"
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Rogue One: A Star Wars Story",
+              "year": 2016,
+              "category": "Movie",
+              "note": "'The best version of the Disney Star Wars experiment so far.'"
+            },
+            {
+              "title": "Solo: A Star Wars Story",
+              "year": 2018,
+              "category": "Movie You're Cursed With",
+              "note": "Cursed by Van, who couldn't bring himself to hand over Revenge of the Sith."
+            },
+            {
+              "title": "Luke Skywalker",
+              "category": "Skywalker Family Member",
+              "note": "'For those first three films, he was just my guy.'"
+            },
+            {
+              "title": "Cassian Andor",
+              "category": "Hero or Villain",
+              "note": "Claimed via Rogue One — 'his introduction is so dope in that movie.'"
+            },
+            {
+              "title": "Luke's landspeeder",
+              "category": "Vehicle",
+              "note": "The X-34 from A New Hope — distinct from Amanda's speeder bikes."
+            },
+            {
+              "title": "Jabba the Hutt",
+              "category": "Problematic Character",
+              "note": "'Human trafficker — the man who needs a RICO charge.'"
+            },
+            {
+              "title": "The Death Star",
+              "category": "Wild Card",
+              "note": "Took it here, calling it 'more of a weapon / battle station' than a vehicle."
+            }
+          ]
         }
       ]
     }
   ],
   "referenced": [
+    {
+      "group": "Star Wars, discussed but not drafted",
+      "films": [
+        "Star Wars: Episode III - Revenge of the Sith",
+        "Star Wars: The Clone Wars",
+        "The Mandalorian and Grogu",
+        "Star Wars: Starfighter"
+      ]
+    },
     {
       "group": "In the orbit of the conversation",
       "films": [
@@ -127,35 +285,17 @@
       "title": "The Empire Strikes Back",
       "year": 1980
     },
-    "Star Wars": {
-      "id": 11,
-      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
-      "title": "Star Wars",
-      "year": 1977
-    },
-    "Return of the Jedi": {
-      "id": 1892,
-      "poster": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
-      "title": "Return of the Jedi",
-      "year": 1983
-    },
-    "Star Wars: Episode I - The Phantom Menace": {
-      "id": 1893,
-      "poster": "/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg",
-      "title": "Star Wars: Episode I - The Phantom Menace",
-      "year": 1999
-    },
     "Star Wars: Episode II - Attack of the Clones": {
       "id": 1894,
       "poster": "/oZNPzxqM2s5DyVWab09NTQScDQt.jpg",
       "title": "Star Wars: Episode II - Attack of the Clones",
       "year": 2002
     },
-    "Star Wars: Episode III - Revenge of the Sith": {
-      "id": 1895,
-      "poster": "/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
-      "title": "Star Wars: Episode III - Revenge of the Sith",
-      "year": 2005
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
     },
     "Star Wars: The Force Awakens": {
       "id": 140607,
@@ -163,17 +303,29 @@
       "title": "Star Wars: The Force Awakens",
       "year": 2015
     },
-    "Star Wars: The Last Jedi": {
-      "id": 181808,
-      "poster": "/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
-      "title": "Star Wars: The Last Jedi",
-      "year": 2017
+    "Return of the Jedi": {
+      "id": 1892,
+      "poster": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+      "title": "Return of the Jedi",
+      "year": 1983
     },
     "Star Wars: The Rise of Skywalker": {
       "id": 181812,
       "poster": "/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
       "title": "Star Wars: The Rise of Skywalker",
       "year": 2019
+    },
+    "Star Wars: The Last Jedi": {
+      "id": 181808,
+      "poster": "/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
+      "title": "Star Wars: The Last Jedi",
+      "year": 2017
+    },
+    "Star Wars: Episode I - The Phantom Menace": {
+      "id": 1893,
+      "poster": "/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg",
+      "title": "Star Wars: Episode I - The Phantom Menace",
+      "year": 1999
     },
     "Rogue One: A Star Wars Story": {
       "id": 330459,
@@ -186,6 +338,12 @@
       "poster": "/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg",
       "title": "Solo: A Star Wars Story",
       "year": 2018
+    },
+    "Star Wars: Episode III - Revenge of the Sith": {
+      "id": 1895,
+      "poster": "/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
+      "title": "Star Wars: Episode III - Revenge of the Sith",
+      "year": 2005
     },
     "Star Wars: The Clone Wars": {
       "id": 12180,

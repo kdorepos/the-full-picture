@@ -1,0 +1,240 @@
+{
+  "slug": "the-star-wars-movie-draft",
+  "title": "The 'Star Wars' Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan",
+    "Mallory Rubin",
+    "Van Lathan"
+  ],
+  "published": "2026-04-27",
+  "runtimeMin": 152,
+  "type": "discussion",
+  "spotifyEpisodeId": "5RKNSpL0diZjC8eRA1XZm7",
+  "filmsLabel": "the Star Wars filmography, as the show sees it",
+  "format": "A Star Wars draft (Sean, Mallory Rubin, Van Lathan, Amanda, Chris) across seven categories — Movie, Movie You're Cursed With, Skywalker Family Member, Hero or Villain, Vehicle, Problematic Character, and Wild Card. Only two of those categories are films, so rather than reconstruct the character-and-ship picks, here's the Star Wars filmography as the show ranked, cursed, and fought over it.",
+  "films": [
+    {
+      "title": "The Empire Strikes Back",
+      "year": 1980,
+      "note": "Sean's #1 — 'the greatest sequel ever made,' better than Godfather II. Made darker and better than it was ever mapped to be."
+    },
+    {
+      "title": "Star Wars",
+      "year": 1977,
+      "note": "A New Hope — Mallory's pick. 'It changed movies, changed genre films, and changed the history of story.' The binary sunset."
+    },
+    {
+      "title": "Return of the Jedi",
+      "year": 1983,
+      "note": "The original trilogy's redemptive close — Vader's turn is the emotional core the whole saga orbits."
+    },
+    {
+      "title": "Star Wars: Episode I - The Phantom Menace",
+      "year": 1999,
+      "note": "'A terrible movie,' but formative to the fandom — and Amanda's crash-course homework."
+    },
+    {
+      "title": "Star Wars: Episode II - Attack of the Clones",
+      "year": 2002,
+      "note": "The weakest of the prequels — perennially conflated with the Clone Wars."
+    },
+    {
+      "title": "Star Wars: Episode III - Revenge of the Sith",
+      "year": 2005,
+      "note": "'Genuinely, unironically great' — the tragedy of Anakin finally lands."
+    },
+    {
+      "title": "Star Wars: The Force Awakens",
+      "year": 2015,
+      "note": "The sequel trilogy's confident, if familiar, restart."
+    },
+    {
+      "title": "Star Wars: The Last Jedi",
+      "year": 2017,
+      "note": "The great divide — 'a healthy debate about a Star Wars movie is totally valid,' but Lucasfilm then walked it back."
+    },
+    {
+      "title": "Star Wars: The Rise of Skywalker",
+      "year": 2019,
+      "note": "'A shameful manifestation of fearing your own fanbase.' Somehow, Palpatine returned."
+    },
+    {
+      "title": "Rogue One: A Star Wars Story",
+      "year": 2016,
+      "note": "Home to the Vader hallway — 'exactly what I wanted to see when I was six.'"
+    },
+    {
+      "title": "Solo: A Star Wars Story",
+      "year": 2018,
+      "note": "The Han Solo standalone."
+    },
+    {
+      "title": "Star Wars: The Clone Wars",
+      "year": 2008,
+      "note": "The animated theatrical film — 'pretty bad,' though the series it launched is among the best Star Wars ever."
+    },
+    {
+      "title": "The Mandalorian and Grogu",
+      "year": 2026,
+      "note": "The upcoming film — 'I hope it's good and they let Grogu shine.'"
+    },
+    {
+      "title": "Star Wars: Starfighter",
+      "year": 2027,
+      "note": "Next May — Ryan Gosling, directed by Shawn Levy. 'The biggest star in the world.'"
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In the orbit of the conversation",
+      "films": [
+        "Dune",
+        "Dune: Part Two",
+        "Drive",
+        "The Godfather Part II",
+        "JFK",
+        "Avengers: Doomsday"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Andor",
+      "The Mandalorian",
+      "Star Wars Rebels",
+      "Ahsoka",
+      "Obi-Wan Kenobi",
+      "Star Wars: The Clone Wars (series)"
+    ],
+    "Ads": [
+      "Tremfya",
+      "Mint Mobile"
+    ]
+  },
+  "tmdb": {
+    "The Empire Strikes Back": {
+      "id": 1891,
+      "poster": "/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+      "title": "The Empire Strikes Back",
+      "year": 1980
+    },
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
+    },
+    "Return of the Jedi": {
+      "id": 1892,
+      "poster": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+      "title": "Return of the Jedi",
+      "year": 1983
+    },
+    "Star Wars: Episode I - The Phantom Menace": {
+      "id": 1893,
+      "poster": "/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg",
+      "title": "Star Wars: Episode I - The Phantom Menace",
+      "year": 1999
+    },
+    "Star Wars: Episode II - Attack of the Clones": {
+      "id": 1894,
+      "poster": "/oZNPzxqM2s5DyVWab09NTQScDQt.jpg",
+      "title": "Star Wars: Episode II - Attack of the Clones",
+      "year": 2002
+    },
+    "Star Wars: Episode III - Revenge of the Sith": {
+      "id": 1895,
+      "poster": "/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
+      "title": "Star Wars: Episode III - Revenge of the Sith",
+      "year": 2005
+    },
+    "Star Wars: The Force Awakens": {
+      "id": 140607,
+      "poster": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+      "title": "Star Wars: The Force Awakens",
+      "year": 2015
+    },
+    "Star Wars: The Last Jedi": {
+      "id": 181808,
+      "poster": "/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
+      "title": "Star Wars: The Last Jedi",
+      "year": 2017
+    },
+    "Star Wars: The Rise of Skywalker": {
+      "id": 181812,
+      "poster": "/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+      "title": "Star Wars: The Rise of Skywalker",
+      "year": 2019
+    },
+    "Rogue One: A Star Wars Story": {
+      "id": 330459,
+      "poster": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+      "title": "Rogue One: A Star Wars Story",
+      "year": 2016
+    },
+    "Solo: A Star Wars Story": {
+      "id": 348350,
+      "poster": "/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg",
+      "title": "Solo: A Star Wars Story",
+      "year": 2018
+    },
+    "Star Wars: The Clone Wars": {
+      "id": 12180,
+      "poster": "/iJQfixW818LUdSXlCDL3JZm0S0g.jpg",
+      "title": "Star Wars: The Clone Wars",
+      "year": 2008
+    },
+    "The Mandalorian and Grogu": {
+      "id": 1228710,
+      "poster": "/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+      "title": "The Mandalorian and Grogu",
+      "year": 2026
+    },
+    "Star Wars: Starfighter": {
+      "id": 1417668,
+      "poster": "/aUSQtKgQ0GNKJzXXJ6fY0auadjo.jpg",
+      "title": "Star Wars: Starfighter",
+      "year": 2027
+    },
+    "Dune": {
+      "id": 438631,
+      "poster": "/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "title": "Dune",
+      "year": 2021
+    },
+    "Dune: Part Two": {
+      "id": 693134,
+      "poster": "/heM4XKC0jA8fTSNe8F7oUkcJV7Z.jpg",
+      "title": "Dune: Part Two",
+      "year": 2024
+    },
+    "Drive": {
+      "id": 64690,
+      "poster": "/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
+      "title": "Drive",
+      "year": 2011
+    },
+    "The Godfather Part II": {
+      "id": 240,
+      "poster": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+      "title": "The Godfather Part II",
+      "year": 1974
+    },
+    "JFK": {
+      "id": 820,
+      "poster": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+      "title": "JFK",
+      "year": 1991
+    },
+    "Avengers: Doomsday": {
+      "id": 1003596,
+      "poster": "/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
+      "title": "Avengers: Doomsday",
+      "year": 2026
+    }
+  }
+}

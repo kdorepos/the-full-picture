@@ -27,14 +27,25 @@ PROGRESS = os.path.join(ROOT, "web", "public", "progress.json")  # site's "now p
 
 
 def write_progress(**kw):
-    """Best-effort progress ping for the homepage panel. Never fatal to transcription."""
+    """Best-effort progress ping for the homepage panel. Never fatal to transcription.
+    Writes a local file (dev/telemetry) and, if PROGRESS_URL + PROGRESS_TOKEN are set,
+    POSTs to the site's /api/progress so the deployed panel is live for visitors."""
     kw.setdefault("active", True)
     kw["updated"] = int(time.time())
+    body = json.dumps(kw).encode()
     try:
-        with open(PROGRESS, "w") as f:
-            json.dump(kw, f)
+        with open(PROGRESS, "wb") as f:
+            f.write(body)
     except Exception:
         pass
+    url, token = os.environ.get("PROGRESS_URL"), os.environ.get("PROGRESS_TOKEN")
+    if url and token:
+        try:
+            req = urllib.request.Request(url, data=body, method="POST", headers={
+                "Content-Type": "application/json", "Authorization": f"Bearer {token}"})
+            urllib.request.urlopen(req, timeout=5).read()
+        except Exception:
+            pass
 
 
 def sh(*cmd):

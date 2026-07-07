@@ -6,3 +6,6 @@ transcript*.txt
 .env
 __pycache__/
 # HuggingFace model cache lives in ~/.cache/huggingface by default; not in-repo
+
+# runtime transcription progress (written by the pipeline, polled by the homepage)
+web/public/progress.json

@@ -58,3 +58,23 @@ test('tap targets: episode links are large enough to tap', async ({ page }) => {
   const box = await page.getByRole('link', { name: /2026 Movie Auction Returns/i }).boundingBox();
   expect(box!.height).toBeGreaterThanOrEqual(44); // iOS min tap target
 });
+
+test('processing panel reveals for an in-flight episode and hides once published', async ({ page }) => {
+  // In-flight, not-yet-published episode → panel shows with live progress.
+  await page.route('**/progress.json*', (r) => r.fulfill({
+    json: { active: true, phase: 'transcribing', slug: 'some-upcoming-episode',
+            title: 'Some Upcoming Episode', done: 4, total: 10, pct: 40 },
+  }));
+  await page.goto('/');
+  await expect(page.locator('#processing')).toBeVisible();
+  await expect(page.locator('#proc-title')).toHaveText('Some Upcoming Episode');
+  await expect(page.locator('#proc-status')).toContainText('4/10 chunks');
+
+  // Same payload but the slug is already on the site → panel stays hidden (no stale card).
+  await page.unroute('**/progress.json*');
+  await page.route('**/progress.json*', (r) => r.fulfill({
+    json: { active: true, phase: 'transcribing', slug: '2026-movie-auction-returns', pct: 90 },
+  }));
+  await page.reload();
+  await expect(page.locator('#processing')).toBeHidden();
+});

@@ -5,6 +5,7 @@ const modules = import.meta.glob('../data/episodes/*.json', { eager: true });
 const episodes = Object.values(modules)
   .map((m) => m.default)
   .sort((a, b) => (a.published < b.published ? 1 : -1));
+const publishedSlugs = episodes.map((e) => e.slug);
 
 const filmsIn = (s) =>
   (s.films?.length ?? 0) +
@@ -31,6 +32,13 @@ const kind = (ep) => [...new Set((ep.segments ?? []).map((s) => KIND[s.kind] ?? 
   </section>
 
   <div class="wrap">
+    <section id="processing" class="processing" hidden>
+      <p class="proc-eyebrow">Now processing <span class="proc-dot" aria-hidden="true"></span></p>
+      <h2 class="proc-title" id="proc-title"></h2>
+      <div class="proc-bar"><div class="proc-fill" id="proc-fill"></div></div>
+      <p class="proc-status" id="proc-status"></p>
+    </section>
+
     <section class="sale-section" style="border-bottom:none">
       <p class="rubric">Episodes <span class="sub">newest first</span></p>
       <div class="catalogue">
@@ -47,4 +55,34 @@ const kind = (ep) => [...new Set((ep.segments ?? []).map((s) => KIND[s.kind] ?? 
       </div>
     </section>
   </div>
+
+  <script is:inline define:vars={{ publishedSlugs }}>
+    // Poll the pipeline's progress.json and reveal the "Now processing" panel while an
+    // episode is being transcribed. Hides once it's done or already published on the site.
+    const el = document.getElementById('processing');
+    const PHASE = {
+      downloading: 'Downloading audio',
+      transcribing: 'Transcribing',
+      transcribed: 'Transcribed — writing up the film list',
+    };
+    async function tick() {
+      try {
+        const r = await fetch('/progress.json?t=' + Date.now(), { cache: 'no-store' });
+        if (!r.ok) throw 0;
+        const p = await r.json();
+        if (!p.active || publishedSlugs.includes(p.slug)) { el.hidden = true; return; }
+        const pct = Math.max(0, Math.min(100, p.pct ?? 0));
+        document.getElementById('proc-title').textContent = p.title || 'A new episode';
+        document.getElementById('proc-fill').style.width = pct + '%';
+        const label = PHASE[p.phase] || 'Processing';
+        document.getElementById('proc-status').textContent =
+          p.phase === 'transcribing' && p.total
+            ? `${label} — ${p.done}/${p.total} chunks · ${pct}%`
+            : p.phase === 'transcribed' ? label : `${label}…`;
+        el.hidden = false;
+      } catch { el.hidden = true; }
+    }
+    tick();
+    setInterval(tick, 15000);
+  </script>
 </Base>

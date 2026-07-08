@@ -40,6 +40,17 @@ const { title, description } = Astro.props;
           </svg>
           <span class="mark-name">The Full Picture</span>
         </a>
+        <nav class="topnav" aria-label="Primary">
+          <a class="topnav__link" href="/movies">Movies</a>
+          <div class="search" role="search">
+            <input id="site-search" class="search__input" type="search"
+                   placeholder="Search films &amp; episodes…" autocomplete="off"
+                   role="combobox" aria-expanded="false" aria-controls="search-results"
+                   aria-autocomplete="list" aria-label="Search films and episodes" />
+            <div id="search-results" class="search__results" role="listbox"
+                 aria-label="Search results" hidden></div>
+          </div>
+        </nav>
       </div>
     </header>
     <main>
@@ -69,5 +80,60 @@ const { title, description } = Astro.props;
       </div>
     </footer>
     <Analytics />
+    <script>
+      // Header search: lazy-load the build-time index on first focus, fuzzy-match
+      // films + episodes with Fuse.js, render a keyboard-navigable dropdown.
+      import Fuse from 'fuse.js';
+      const input = document.getElementById('site-search');
+      const box = document.getElementById('search-results');
+      if (input && box) {
+        let fFilms = null, fEps = null, rows = [], active = -1;
+        const esc = (s) => { const d = document.createElement('div'); d.textContent = s; return d.innerHTML; };
+        const fmt = (d) => new Date(d).toLocaleDateString('en-US', { month: 'short', year: 'numeric' });
+        async function load() {
+          if (fFilms) return;
+          const data = await (await fetch('/search-index.json')).json();
+          const opts = { keys: ['t'], threshold: 0.4, ignoreLocation: true, minMatchCharLength: 3 };
+          fFilms = new Fuse(data.films, opts);
+          fEps = new Fuse(data.episodes, opts);
+        }
+        function close() { box.hidden = true; input.setAttribute('aria-expanded', 'false'); active = -1; }
+        function render(q) {
+          const films = fFilms.search(q).slice(0, 6).map((r) => r.item);
+          const eps = fEps.search(q).slice(0, 4).map((r) => r.item);
+          let html = '';
+          if (films.length) {
+            html += '<p class="search__group">Movies</p>';
+            html += films.map((f) => `<a class="search__row" href="/movie/${f.s}" role="option"><span class="search__t">${esc(f.t)}${f.y ? ` <span class="search__y">${f.y}</span>` : ''}</span><span class="search__sub">${f.e.length} episode${f.e.length === 1 ? '' : 's'}</span></a>`).join('');
+          }
+          if (eps.length) {
+            html += '<p class="search__group">Episodes</p>';
+            html += eps.map((e) => `<a class="search__row" href="/ep/${e.s}" role="option"><span class="search__t">${esc(e.t)}</span><span class="search__sub">${fmt(e.d)}</span></a>`).join('');
+          }
+          box.innerHTML = html || '<p class="search__empty">No matches</p>';
+          box.hidden = false; input.setAttribute('aria-expanded', 'true');
+          rows = [...box.querySelectorAll('.search__row')]; active = -1;
+        }
+        let t;
+        input.addEventListener('input', () => {
+          const q = input.value.trim();
+          clearTimeout(t);
+          if (q.length < 3) { close(); return; }
+          t = setTimeout(async () => { await load(); render(q); }, 120);
+        });
+        input.addEventListener('focus', load);
+        input.addEventListener('keydown', (e) => {
+          if (box.hidden) return;
+          if (e.key === 'ArrowDown') { e.preventDefault(); active = Math.min(active + 1, rows.length - 1); }
+          else if (e.key === 'ArrowUp') { e.preventDefault(); active = Math.max(active - 1, 0); }
+          else if (e.key === 'Enter') { if (rows[active]) { e.preventDefault(); rows[active].click(); } return; }
+          else if (e.key === 'Escape') { close(); input.blur(); return; }
+          else return;
+          rows.forEach((r, i) => r.setAttribute('aria-selected', i === active ? 'true' : 'false'));
+          rows[active]?.scrollIntoView({ block: 'nearest' });
+        });
+        document.addEventListener('click', (e) => { if (!input.closest('.search').contains(e.target)) close(); });
+      }
+    </script>
   </body>
 </html>

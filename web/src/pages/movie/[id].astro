@@ -1,0 +1,49 @@
+---
+import Base from '../../layouts/Base.astro';
+import { mentionIndex } from '../../lib/mentionIndex.js';
+
+export function getStaticPaths() {
+  const { films } = mentionIndex();
+  return films.map((film) => ({ params: { id: film.slug }, props: { film } }));
+}
+
+const { film } = Astro.props;
+const poster = film.poster ? `https://image.tmdb.org/t/p/w185${film.poster}` : null;
+const tmdb = film.id ? `https://www.themoviedb.org/movie/${film.id}` : null;
+const fmt = (d) => new Date(d).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+const n = film.mentions.length;
+---
+<Base title={`${film.title} · The Full Picture`} description={`Every episode of The Big Picture that mentioned ${film.title}.`}>
+  <section class="cover movie-hero">
+    <div class="wrap movie-hero__wrap">
+      {poster
+        ? <img class="movie-hero__poster" src={poster} alt={`${film.title} poster`} width="120" height="180" loading="eager" />
+        : <span class="movie-hero__poster noposter" aria-hidden="true"></span>}
+      <div>
+        <p class="eyebrow">Film · {n} mention{n === 1 ? '' : 's'}</p>
+        <h1>{film.title}{film.year && <span class="movie-hero__yr">{film.year}</span>}</h1>
+        <p class="credits">
+          {tmdb && <><a href={tmdb} target="_blank" rel="noopener">View on TMDb</a><span class="sep">/</span></>}
+          <a href="/movies">All films</a>
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <div class="wrap">
+    <section class="sale-section" style="border-bottom:none">
+      <p class="rubric">Mentioned on <span class="sub">newest first</span></p>
+      <ul class="mention-list">
+        {film.mentions.map((m) => (
+          <li>
+            <a class="mention" href={`/ep/${m.slug}`}>
+              <span class="mention__ctx">{m.context}</span>
+              <span class="mention__title">{m.episodeTitle}</span>
+              <span class="mention__date">{fmt(m.date)}</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  </div>
+</Base>

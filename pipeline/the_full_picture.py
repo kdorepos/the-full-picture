@@ -129,6 +129,10 @@ def main():
     ap.add_argument("--cores", type=int, default=3,
                     help="CPU threads / batch size (default 3; keep low to avoid killing the box)")
     ap.add_argument("--keep-audio", action="store_true")
+    ap.add_argument("--publish", action="store_true",
+                    help="after transcription, auto-process + publish the episode (headless Claude)")
+    ap.add_argument("--no-merge", action="store_true",
+                    help="with --publish, open the PR for human review instead of auto-merging")
     a = ap.parse_args()
 
     audio_url, title = resolve_audio(a.url, a.item)
@@ -159,6 +163,12 @@ def main():
     if not a.keep_audio and os.path.exists(mp3):
         os.remove(mp3)
     print(f"\nTranscript: {txt}\nNow extract + TMDb-validate the movie list (steps 4-6).")
+
+    if a.publish:  # fire the "process + publish" half on a fresh (post-transcription) process
+        cmd = [os.path.join(ROOT, "pipeline", "publish_episode.sh"), name]
+        if a.no_merge:
+            cmd.append("--no-merge")
+        sh(*cmd)
 
 
 if __name__ == "__main__":

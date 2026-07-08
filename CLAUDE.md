@@ -54,6 +54,16 @@ It lists the show's episodes via the Spotify Web API and writes `spotifyEpisodeI
 exact title+date match. Needs `SPOTIFY_CLIENT_ID`/`SPOTIFY_CLIENT_SECRET` in `.env`
 (a free developer app, client-credentials only).
 
+### 5.8 Release gates — REQUIRED before any commit/PR that touches code
+Any change to `pipeline/`, `web/`, or the serverless endpoint must pass two agent gates
+before it ships (episode-only JSON/transcript commits are exempt — they touch no code):
+- **security-reviewer** (`.claude/agents/security-reviewer.md`) — leaked secrets, endpoint
+  auth, injection, XSS, scoped to this project's threat model. Must return "safe to release".
+- **yagni-reviewer** (`.claude/agents/yagni-reviewer.md`) — dead code, speculative abstraction,
+  config-for-a-constant. Apply the safe deletions; simplifications are judgment calls.
+Apply findings (or record why not), then commit. These run alongside the episode gates
+(5.5 film-title-reviewer, 5.6 humanizer), not instead of them.
+
 ### 6. Deliver
 Clean markdown: header (title/show/runtime) + sections above. Save transcript AND movie
 list; send the list to the user; push-notify on completion (long jobs, user is usually away).
@@ -80,7 +90,10 @@ Without these the POST is skipped and the panel just stays hidden — nothing br
 
 ## Transcription — local (faster-whisper on CPU), the only engine
 - **BatchedInferencePipeline, not `model.transcribe()`.** Plain transcribe pins ~1 core
-  (~0.5x realtime); batched VAD-chunks and uses ~3/4 cores (~1.6–1.7x realtime).
+  (~0.5x realtime); batched VAD-chunks across cores.
+- **Capped at 3 cores by default (`--cores`).** Using all cores + `batch_size=8` OOM-killed
+  the 4-core box. `cpu_threads` and `batch_size` both track `--cores`. Leave one core for the
+  OS; never go straight to `os.cpu_count()`.
 - **`medium.en`** is the sweet spot for movie-title-heavy CPU audio (~1.6x realtime). `small.en`
   mangles proper nouns. For fewer title mishears at a speed cost, `--model large-v3-turbo`
   (the large model, faster decoder) or `distil-large-v3.5`; full `large-v3` is too slow CPU-only.

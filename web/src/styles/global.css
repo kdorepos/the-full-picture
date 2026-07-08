@@ -211,14 +211,12 @@ em { font-style: italic; }
 .pick-card { display: grid; grid-template-columns: 70px 1fr; gap: 1.1rem; padding-top: 1.3rem; border-top: 1px solid var(--line); }
 .pick-card__poster img { width: 70px; height: 105px; object-fit: cover; display: block; border-radius: 4px; border: 1px solid var(--line-lit); background: var(--velvet); }
 .pick-card__poster .noposter { width: 70px; height: 105px; }
-.pick-card__poster.big img, .pick-card__poster.big .noposter { width: 92px; height: 138px; }
 .pick-card__by { font-family: var(--mono); font-size: 0.66rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--brass); margin-bottom: 0.35rem; }
 .pick-card__film { font-family: var(--display); font-size: 1.3rem; font-weight: 600; line-height: 1.14; margin: 0 0 0.5rem; }
 .pick-card__film .yr { font-family: var(--mono); font-size: 0.78rem; color: var(--muted); font-weight: 400; margin-left: 0.4rem; }
 .pick-card__film a:hover { text-decoration: underline; text-decoration-color: var(--brass); text-underline-offset: 3px; }
 .pick-card__note { color: var(--muted); font-size: 0.88rem; margin: 0; }
 
-.interview { display: grid; grid-template-columns: 92px 1fr; gap: 1.3rem; background: var(--curtain); border: 1px solid var(--line); border-radius: 10px; padding: 1.3rem; }
 
 /* ---------- Draft body: per-host teams ---------- */
 .teams { display: grid; grid-template-columns: 1fr; gap: 2rem; }
@@ -228,10 +226,6 @@ em { font-style: italic; }
 .team .pick-card__poster img, .team .pick-card__poster .noposter { width: 54px; height: 81px; }
 .team .pick-card__film { font-size: 1.1rem; }
 
-.topfive { list-style: none; margin: 0; padding: 0; }
-.topfive li { display: flex; align-items: baseline; gap: 0.9rem; padding: 0.55rem 0; border-bottom: 1px dotted var(--line); font-family: var(--display); font-size: 1.2rem; }
-.topfive .n { font-family: var(--mono); color: var(--brass); font-size: 0.9rem; font-variant-numeric: tabular-nums; }
-.topfive a:hover { text-decoration: underline; text-decoration-color: var(--brass); text-underline-offset: 3px; }
 
 /* ---------- Index-style entry lists (mentioned / passed in / withdrawn) ---------- */
 .entrylist { margin: 0 0 1.4rem; line-height: 2; overflow-wrap: anywhere; }
@@ -278,8 +272,6 @@ footer p:last-child { margin-bottom: 0; }
 /* ---------- Responsive ---------- */
 @media (max-width: 640px) {
   body { font-size: 16px; }
-  .summary { grid-template-columns: 1fr 1fr; gap: 1.4rem 1.2rem; }
-  .summary .stat.toplot { grid-column: 1 / 3; }
   .standings { grid-template-columns: 1fr; gap: 0.7rem; }
   .prev { grid-template-columns: 1fr; gap: 1rem; }
   .lot { grid-template-columns: 2.4rem 40px 1fr auto; column-gap: 0.7rem; }

@@ -1,4 +1,5 @@
 import { createClient } from '@vercel/kv';
+import { timingSafeEqual } from 'node:crypto';
 
 // Built lazily inside the handler: createClient() throws if the env vars are missing,
 // and we want that caught (→ {active:false}) rather than crashing the function at import
@@ -18,7 +19,12 @@ export default async function handler(req, res) {
   res.setHeader('Cache-Control', 'no-store');
   try {
     if (req.method === 'POST') {
-      if (req.headers.authorization !== `Bearer ${process.env.PROGRESS_TOKEN}`) {
+      // Fail CLOSED: a missing PROGRESS_TOKEN means "auth not configured", not "any token works".
+      // (Without this, `Bearer ${undefined}` matches the literal header "Bearer undefined".)
+      const token = process.env.PROGRESS_TOKEN;
+      const got = Buffer.from(req.headers.authorization || '');
+      const want = Buffer.from(`Bearer ${token}`);
+      if (!token || got.length !== want.length || !timingSafeEqual(got, want)) {
         res.status(401).json({ error: 'unauthorized' });
         return;
       }

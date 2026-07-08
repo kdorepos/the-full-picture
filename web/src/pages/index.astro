@@ -26,7 +26,7 @@ const kind = (ep) => [...new Set((ep.segments ?? []).map((s) => KIND[s.kind] ?? 
   <section class="cover">
     <div class="wrap">
       <p class="eyebrow">The Big Picture · Film catalog</p>
-      <h1>Every film they name, on the record.</h1>
+      <h1><span id="hero">Every film they name, on the record.</span></h1>
       <p class="lede">Every movie mentioned on each episode, cataloged and linked, whether it was reviewed, drafted, or just brought up in passing.</p>
     </div>
   </section>
@@ -117,6 +117,40 @@ const kind = (ep) => [...new Set((ep.segments ?? []).map((s) => KIND[s.kind] ?? 
       };
       btn.addEventListener('click', () => { shown += PAGE; render(); });
       render();
+    })();
+  </script>
+
+  <script is:inline>
+    // Rotating hero headline. The canonical line ships in the HTML (SEO / no-JS); JS starts on
+    // it (no load flash) then slow-crossfades through the set. Static under reduced-motion.
+    (function () {
+      const el = document.getElementById('hero');
+      if (!el) return;
+      const lines = [
+        "Every film they name, on the record.",
+        "The films behind every draft, auction, and ranking.",
+        "Every pick, every snub, every movie-naming tangent.",
+        "So you don't have to rewind to catch the title.",
+        "The receipts for every movie they brought up.",
+        "Reviewed, drafted, or dropped in passing. All of it, listed.",
+        "The Big Picture's film mentions, cataloged episode by episode.",
+        "What they watched, argued over, and wouldn't let go of.",
+        "The movie behind every \"wait, have you seen—\".",
+        "From the headliner to the movie they mentioned once.",
+        "Every movie, every episode, none of the rewinding.",
+        "A running record of a show that can't stop naming movies.",
+        "Two-plus hours of movie talk, every title accounted for.",
+      ];
+      if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+      let i = 0;  // start on the canonical line already in the HTML
+      setInterval(() => {
+        el.classList.add('hero-fade');
+        setTimeout(() => {
+          i = (i + 1) % lines.length;
+          el.textContent = lines[i];
+          el.classList.remove('hero-fade');
+        }, 400);
+      }, 6000);
     })();
   </script>
 </Base>

@@ -139,84 +139,14 @@
     {
       "kind": "ranking",
       "heading": "21st-Century Steven Spielberg, ranked",
-      "note": "all 17 features since 2000, worst to best",
+      "note": "all 17 features since 2000, best to worst",
       "subject": "Steven Spielberg",
       "ranked": true,
       "films": [
         {
-          "title": "The BFG",
-          "year": 2016,
-          "note": "Last place. Sean, a Roald Dahl kid, calls it misconceived from the start, mostly down to how the BFG looks."
-        },
-        {
-          "title": "The Adventures of Tintin",
-          "year": 2011,
-          "note": "Co-directed with Peter Jackson. A curiosity nobody could quite explain the appeal of, beyond the digital-animation experiment."
-        },
-        {
-          "title": "Indiana Jones and the Kingdom of the Crystal Skull",
-          "year": 2008,
-          "note": "The one movie here Sean wishes he hadn't made, a cash-in, aliens and all."
-        },
-        {
-          "title": "War Horse",
-          "year": 2011,
-          "note": "Elegant, and the film that famously enraged Amanda's father. She couldn't get through the rewatch."
-        },
-        {
-          "title": "The Terminal",
-          "year": 2004,
-          "note": "A kind, minor movie about a displaced man in purgatory; they tie it to Bridge of Spies' interest in people othered by bureaucracy."
-        },
-        {
-          "title": "Ready Player One",
-          "year": 2018,
-          "note": "Flawed and goofy, but Sean rates the world-building and Mark Rylance's tech-mogul turn, and thinks its point about online identity was right."
-        },
-        {
-          "title": "The Post",
-          "year": 2017,
-          "note": "Tied at 11. Handsome and old-fashioned, a strong Streep performance, a little trapped in its first-wave-Trump moment."
-        },
-        {
-          "title": "Disclosure Day",
-          "year": 2026,
-          "note": "Tied at 11 with The Post: twin films about revelation and an Englishman prying secrets loose. Sean gives it the edge for having more to chew on."
-        },
-        {
-          "title": "Bridge of Spies",
-          "year": 2015,
-          "note": "No. 9. A banger, especially the first half; one of his best period pieces. Sean was surprised how much he liked the revisit."
-        },
-        {
-          "title": "War of the Worlds",
-          "year": 2005,
-          "note": "Harrowing and alive, a direct response to 9/11 and the only present-day film of his recent run."
-        },
-        {
-          "title": "West Side Story",
-          "year": 2021,
-          "note": "Amanda rides hard for it; Sean calls the filmmaking extraordinary but docks it as a straight remake."
-        },
-        {
-          "title": "A.I. Artificial Intelligence",
-          "year": 2001,
-          "note": "Sean's real No. 1 and the film he'd have put on their 25-for-25 list: the biggest world of the bunch, fusing Kubrick's sensibility with his own. Amanda has never seen it."
-        },
-        {
-          "title": "Munich",
-          "year": 2005,
-          "note": "Sean's happiest rediscovery, maybe his best-ever filmmaking. The start of the Tony Kushner partnership, held back only by Eric Bana's central miscasting."
-        },
-        {
-          "title": "Minority Report",
-          "year": 2002,
-          "note": "A banger. Peak Cruise-Spielberg energy that still holds up as pure entertainment."
-        },
-        {
-          "title": "Lincoln",
-          "year": 2012,
-          "note": "A five-star masterpiece to Sean, overlooked despite Day-Lewis's Best Actor."
+          "title": "The Fabelmans",
+          "year": 2022,
+          "note": "No. 1, audaciously. His Killers of the Flower Moon: an origin story that fuses his biography with the movies, hand in hand with Disclosure Day."
         },
         {
           "title": "Catch Me If You Can",
@@ -224,9 +154,79 @@
           "note": "No. 2. His most purely pleasurable film of the century: old-school Spielberg about a father and son putting on a show."
         },
         {
-          "title": "The Fabelmans",
-          "year": 2022,
-          "note": "No. 1, audaciously. His Killers of the Flower Moon: an origin story that fuses his biography with the movies, hand in hand with Disclosure Day."
+          "title": "Lincoln",
+          "year": 2012,
+          "note": "A five-star masterpiece to Sean, overlooked despite Day-Lewis's Best Actor."
+        },
+        {
+          "title": "Minority Report",
+          "year": 2002,
+          "note": "A banger. Peak Cruise-Spielberg energy that still holds up as pure entertainment."
+        },
+        {
+          "title": "Munich",
+          "year": 2005,
+          "note": "Sean's happiest rediscovery, maybe his best-ever filmmaking. The start of the Tony Kushner partnership, held back only by Eric Bana's central miscasting."
+        },
+        {
+          "title": "A.I. Artificial Intelligence",
+          "year": 2001,
+          "note": "Sean's real No. 1 and the film he'd have put on their 25-for-25 list: the biggest world of the bunch, fusing Kubrick's sensibility with his own. Amanda has never seen it."
+        },
+        {
+          "title": "West Side Story",
+          "year": 2021,
+          "note": "Amanda rides hard for it; Sean calls the filmmaking extraordinary but docks it as a straight remake."
+        },
+        {
+          "title": "War of the Worlds",
+          "year": 2005,
+          "note": "Harrowing and alive, a direct response to 9/11 and the only present-day film of his recent run."
+        },
+        {
+          "title": "Bridge of Spies",
+          "year": 2015,
+          "note": "No. 9. A banger, especially the first half; one of his best period pieces. Sean was surprised how much he liked the revisit."
+        },
+        {
+          "title": "Disclosure Day",
+          "year": 2026,
+          "note": "Tied at 11 with The Post: twin films about revelation and an Englishman prying secrets loose. Sean gives it the edge for having more to chew on."
+        },
+        {
+          "title": "The Post",
+          "year": 2017,
+          "note": "Tied at 11. Handsome and old-fashioned, a strong Streep performance, a little trapped in its first-wave-Trump moment."
+        },
+        {
+          "title": "Ready Player One",
+          "year": 2018,
+          "note": "Flawed and goofy, but Sean rates the world-building and Mark Rylance's tech-mogul turn, and thinks its point about online identity was right."
+        },
+        {
+          "title": "The Terminal",
+          "year": 2004,
+          "note": "A kind, minor movie about a displaced man in purgatory; they tie it to Bridge of Spies' interest in people othered by bureaucracy."
+        },
+        {
+          "title": "War Horse",
+          "year": 2011,
+          "note": "Elegant, and the film that famously enraged Amanda's father. She couldn't get through the rewatch."
+        },
+        {
+          "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+          "year": 2008,
+          "note": "The one movie here Sean wishes he hadn't made, a cash-in, aliens and all."
+        },
+        {
+          "title": "The Adventures of Tintin",
+          "year": 2011,
+          "note": "Co-directed with Peter Jackson. A curiosity nobody could quite explain the appeal of, beyond the digital-animation experiment."
+        },
+        {
+          "title": "The BFG",
+          "year": 2016,
+          "note": "Last place. Sean, a Roald Dahl kid, calls it misconceived from the start, mostly down to how the BFG looks."
         }
       ]
     }

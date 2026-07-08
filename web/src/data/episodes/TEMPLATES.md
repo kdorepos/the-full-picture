@@ -52,16 +52,18 @@ a kind-specific payload. Renderer map (`components/Segment.astro`):
 | `awards` | AwardsBody | `ceremony?`, `categories[]` | — |
 
 `films[]` items are `{title, year?, note?}`. `ranked:true` numbers the cards
-("No. 1"); `guest` puts a byline on them; both reuse the pick-card byline slot.
+top-down (position 1 → "No. 1"), so order `films[]` **best-first (No. 1 first)** —
+even when the show reveals worst-to-best on air. `guest` puts a byline on them;
+both reuse the pick-card byline slot.
 
 ### review / discussion / ranking / topfive / halloffame / interview (FilmsBody)
 
 ```jsonc
 { "kind": "ranking", "heading": "The 'Toy Story' Rankings",
-  "note": "worst to best, as they argued it", "subject": "Toy Story", "ranked": true,
+  "note": "best to worst", "subject": "Toy Story", "ranked": true,
   "films": [
-    { "title": "Toy Story 4", "year": 2019, "note": "The one they'd cut." },
-    { "title": "Toy Story",   "year": 1995, "note": "Still the gold standard." }
+    { "title": "Toy Story",   "year": 1995, "note": "No. 1 - still the gold standard." },
+    { "title": "Toy Story 4", "year": 2019, "note": "Last - the one they'd cut." }
   ] }
 
 { "kind": "halloffame", "heading": "The Diane Keaton Hall of Fame",

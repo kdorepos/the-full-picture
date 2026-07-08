@@ -12,6 +12,7 @@
     "@fontsource-variable/archivo": "^5.2.8",
     "@fontsource-variable/fraunces": "^5.2.9",
     "@fontsource/ibm-plex-mono": "^5.2.7",
+    "@vercel/analytics": "^2.0.1",
     "@vercel/kv": "^3.0.0",
     "astro": "^4.16.18"
   },

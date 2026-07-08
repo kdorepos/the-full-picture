@@ -11,7 +11,7 @@
   "published": "2026-07-02",
   "runtimeMin": 149,
   "spotifyEpisodeId": "5ZcEbRLVBNHAH9KFoN8nWm",
-  "format": "The mid-year movie auction: each host drafts 5 upcoming 2026 films with a $1,000 budget. Rule: you can't draft or bid on a film you've already seen — which is why the Cannes attendees (Sean, Amanda) lost the Cannes titles cheap to Chris.",
+  "format": "The mid-year movie auction: each host drafts 5 upcoming 2026 films with a $1,000 budget. Rule: you can't draft or bid on a film you've already seen. That's why the Cannes attendees, Sean and Amanda, lost the Cannes titles cheap to Chris.",
   "segments": [
     {
       "kind": "auction",
@@ -117,13 +117,13 @@
               "title": "Minotaur",
               "year": 2026,
               "price": null,
-              "note": "Andrey Zvyagintsev; Grand Prix, Cannes — price not captured in recap"
+              "note": "Andrey Zvyagintsev; Grand Prix, Cannes; price not captured in recap"
             },
             {
               "title": "Here Comes the Flood",
               "year": 2026,
               "price": null,
-              "note": "Fernando Meirelles; Denzel Washington, Robert Pattinson — price not captured"
+              "note": "Fernando Meirelles; Denzel Washington, Robert Pattinson; price not captured"
             }
           ]
         }
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "group": "Other 2026–27 films raised",
+      "group": "Other 2026 and 2027 films raised",
       "films": [
         "Artificial",
         "After the Hunt",

@@ -50,7 +50,7 @@ if (auction) {
   };
 }
 ---
-<Base title={`${ep.title} — The Full Picture`} description={ep.format}>
+<Base title={`${ep.title} · The Full Picture`} description={ep.format}>
   <section class="cover">
     <div class="wrap">
       <p class="eyebrow">{ep.show} · {kinds}</p>
@@ -64,10 +64,10 @@ if (auction) {
       {sale ? (
         <>
           <p class="sale-line">
-            A sale of <b>{sale.lots}</b> lots across <b>{sale.paddles}</b> paddles — <b>${sale.hammer.toLocaleString()}</b> at the hammer.
+            A sale of <b>{sale.lots}</b> lots across <b>{sale.paddles}</b> paddles, <b>${sale.hammer.toLocaleString()}</b> at the hammer.
           </p>
           <p class="toplot-cap">
-            Top lot — <b>{sale.top.title}</b>, to Paddle {sale.topPaddle}, <span class="hammer">{money(sale.top.price)}</span>.
+            Top lot: <b>{sale.top.title}</b>, to Paddle {sale.topPaddle}, <span class="hammer">{money(sale.top.price)}</span>.
           </p>
           <div class="sold" aria-hidden="true"><span class="word">Sold</span><span class="fine">{sale.label}</span></div>
         </>
@@ -111,7 +111,7 @@ if (auction) {
 
     {ep.excluded && (
       <section class="sale-section">
-        <p class="rubric">Not films <span class="sub">filtered out — TV, games, ads</span></p>
+        <p class="rubric">Not films <span class="sub">filtered out: TV, games, ads</span></p>
         {Object.entries(ep.excluded).map(([k, arr]) => (
           <p class="entrylist dim">
             <span class="g">{k}</span>

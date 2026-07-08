@@ -132,7 +132,8 @@ em { font-style: italic; }
 /* AI disclosure — understated editorial note, catalogue + episode pages */
 .ai-note {
   font-size: 0.82rem; line-height: 1.55; color: var(--muted); max-width: 54ch;
-  border-left: 2px solid var(--brass); padding-left: 0.9rem; margin: 1.8rem 0;
+  /* top margin only — the catalogue/segments below already bring their own top padding */
+  border-left: 2px solid var(--brass); padding-left: 0.9rem; margin: 1.8rem 0 0;
 }
 .ai-note b {
   display: block; font-family: var(--mono); font-size: 0.6rem; font-weight: 600;

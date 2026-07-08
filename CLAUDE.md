@@ -69,7 +69,7 @@ when the run goes inactive or the slug is already published. Setup (one-time):
 - Vercel dashboard → Storage → create a **KV** store, connect to the project (injects
   `KV_REST_API_URL` / `KV_REST_API_TOKEN`).
 - Set `PROGRESS_TOKEN` (any secret) in Vercel project env **and** the box's `.env`.
-- Box `.env` also needs `PROGRESS_URL=https://the-full-picture.vercel.app/api/progress`.
+- Box `.env` also needs `PROGRESS_URL=https://thefullpicture.app/api/progress`.
 Without these the POST is skipped and the panel just stays hidden — nothing breaks.
 
 ## Groq engine (default) — lessons

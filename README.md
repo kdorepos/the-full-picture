@@ -10,7 +10,7 @@ A local model handles the volume: transcription and a first-pass draft. Everythi
 
 ```mermaid
 flowchart TD
-    A["🎙  Podcast episode"] --> B["Transcribe<br/>(Groq turbo, or local Whisper)"]
+    A["🎙  Podcast episode"] --> B["Transcribe<br/>(local Whisper, on the box)"]
     B --> C["Extract every film mentioned<br/>full transcript, read end to end, no summarizer"]
     C --> D["Validate against TMDb<br/>exact title + year, no link beats a wrong link"]
     D --> E[/"🔍  Film-title review<br/>re-checked against the transcript"/]
@@ -46,21 +46,20 @@ The gold steps are review gates. A draft doesn't become a page until it clears a
 ## Under the hood
 
 ```
-pipeline/   Python CLI: podcast URL to local transcript (Groq turbo or faster-whisper, CPU)
+pipeline/   Python CLI: podcast URL to local transcript (faster-whisper on CPU)
 web/        Astro static site: one page per episode, rendered from the verified JSON
 ```
 
-Transcription is the only step that reaches the network, and only for whichever engine you pick; TMDb and Spotify are queried for metadata. The per-episode JSON is the hand-off between the two halves, and it's what every review gate signs off on.
+Transcription runs entirely on the box, with no network and no rate limits; only TMDb and Spotify are queried, for metadata. The per-episode JSON is the hand-off between the two halves, and it's what every review gate signs off on.
 
 <details>
 <summary><b>Running it</b></summary>
 
 ```sh
-# transcribe (Groq default; needs GROQ_KEY + TMDB_KEY in a gitignored .env)
-./venv/bin/python pipeline/the_full_picture.py <rss-feed-or-episode-url>
-#   ...or run fully local (no network calls, no rate limits):
+# transcribe locally with faster-whisper (needs TMDB_KEY in a gitignored .env for enrichment)
 python3 -m venv venv && ./venv/bin/pip install faster-whisper
-./venv/bin/python pipeline/the_full_picture.py <url> --engine local
+./venv/bin/python pipeline/the_full_picture.py <rss-feed-or-episode-url>
+#   larger model, fewer misheard titles, slower: --model large-v3-turbo
 
 # the site
 cd web && npm install

@@ -253,6 +253,17 @@ a.entry:hover { color: var(--brass-lit); text-decoration: underline; text-underl
   padding: 1.6rem 0; border-top: 1px solid var(--line); transition: border-color 0.18s;
 }
 .catalogue .sale-card:last-child { border-bottom: 1px solid var(--line); }
+/* JS collapses the list to 5, so the true :last-child may be hidden; close whichever card is last-visible */
+.catalogue .sale-card.is-last-visible { border-bottom: 1px solid var(--line); }
+.show-more {
+  display: inline-flex; align-items: baseline; gap: 0.5rem; margin: 0;
+  padding: 0.9rem 1.1rem; font-family: var(--mono); font-size: 0.72rem;
+  letter-spacing: 0.18em; text-transform: uppercase; color: var(--brass);
+  background: transparent; border: 1px solid var(--line-lit); border-radius: 6px;
+  cursor: pointer; transition: border-color 0.18s, color 0.18s;
+}
+.show-more:hover { border-color: var(--brass); color: var(--brass-lit); }
+.show-more .sub { color: var(--faint); letter-spacing: 0.14em; }
 .sale-card:hover { border-top-color: var(--brass); }
 .sale-card .eyebrow { font-family: var(--mono); font-size: 0.64rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--brass); }
 .sale-card h2 { font-family: var(--display); font-weight: 600; font-size: clamp(1.5rem, 4vw, 2.1rem); line-height: 1.05; margin: 0.5rem 0 0.4rem; }

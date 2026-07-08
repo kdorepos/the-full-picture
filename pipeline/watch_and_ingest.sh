@@ -7,7 +7,8 @@
 #   (crontab -l 2>/dev/null; echo "37 14 * * * /srv/the-full-picture/pipeline/watch_and_ingest.sh >> /tmp/tfp-watch.log 2>&1") | crontab -
 set -uo pipefail
 cd /srv/the-full-picture || exit 1
-export PATH="$HOME/.local/node20/bin:$PATH"
+# cron runs with a minimal PATH: add both node20 (build) and ~/.local/bin (the `claude` CLI).
+export PATH="$HOME/.local/bin:$HOME/.local/node20/bin:$PATH"
 set -a; . ./.env; set +a
 
 python3 pipeline/watch.py

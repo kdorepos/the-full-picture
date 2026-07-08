@@ -10,24 +10,28 @@ cd /srv/the-full-picture || exit 1
 # cron runs with a minimal PATH: add both node20 (build) and ~/.local/bin (the `claude` CLI).
 export PATH="$HOME/.local/bin:$HOME/.local/node20/bin:$PATH"
 set -a; . ./.env; set +a
+FEED_URL="https://feeds.megaphone.fm/the-big-picture"
 
-python3 pipeline/watch.py
-rc=$?
+new_json=$(python3 pipeline/watch.py --json); rc=$?
 [ "$rc" -eq 0 ] && { echo "$(date -u +%FT%TZ) no new episodes"; exit 0; }
 [ "$rc" -ne 10 ] && { echo "$(date -u +%FT%TZ) watch.py error (rc=$rc)"; exit 1; }
 
 echo "$(date -u +%FT%TZ) new episode(s) found — ingesting"
-# ponytail: --dangerously-skip-permissions is required for unattended tool use; the box is trusted.
-claude -p --dangerously-skip-permissions "$(cat <<'PROMPT'
-Autonomous episode ingest for The Full Picture (fully automatic). Working dir /srv/the-full-picture.
-1. Run: set -a; source .env; set +a && python3 pipeline/watch.py --json. If it prints [], stop.
-2. For EACH new episode (by its `index`), run the full pipeline per CLAUDE.md (review is required):
-   a. Transcribe (local, unattended, ETA ~episode_min/1.6; wait for it): python3 pipeline/the_full_picture.py https://feeds.megaphone.fm/the-big-picture --item <index>
-   b. Read out/<slug>/transcript.txt; extract every film into web/src/data/episodes/<slug>.json per the schema and web/DESIGN.md. Set type (auction|list|draft|discussion) by the episode's real shape. Non-films -> excluded.
-   c. python3 pipeline/enrich_tmdb.py web/src/data/episodes/<slug>.json && python3 pipeline/spotify_id.py web/src/data/episodes/<slug>.json
-   d. REQUIRED: run the film-title-reviewer agent; apply findings; re-enrich.
-   e. cd web && npm run build && npx playwright test — fix any failure.
-   f. Branch, commit (CLAUDE.md trailers), push, gh pr create, gh pr merge --merge --delete-branch, sync main.
-3. Report a one-line summary. On unrecoverable failure, stop and report — never publish a broken episode.
-PROMPT
-)"
+# Transcribe + auto-publish each new episode. The pipeline's --publish flag runs steps 4-6 via
+# pipeline/publish_episode.sh (a headless Claude session) — one source of truth for the publish
+# step, shared with manual/backlog runs. Pin each episode by its enclosure URL and resolve its
+# live --item just before processing, so a new drop mid-run can't shift indices onto the wrong
+# episode (see memory: item-index-feed-drift).
+echo "$new_json" | python3 -c 'import sys,json; [print(e["url"]) for e in json.load(sys.stdin)]' \
+  | while read -r url; do
+      idx=$(python3 - "$url" <<'PY'
+import sys; sys.path.insert(0, "pipeline")
+from watch import feed_items, FEED
+print(next((i["index"] for i in feed_items(FEED) if i["url"] == sys.argv[1]), -1))
+PY
+)
+      [ "$idx" -ge 0 ] || { echo "$(date -u +%FT%TZ) url no longer in feed: $url"; continue; }
+      echo "$(date -u +%FT%TZ) ingesting --item $idx  ($url)"
+      python3 pipeline/the_full_picture.py "$FEED_URL" --item "$idx" --publish \
+        || echo "$(date -u +%FT%TZ) ingest failed: $url"
+    done

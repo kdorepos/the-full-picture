@@ -72,10 +72,17 @@ list; send the list to the user; push-notify on completion (long jobs, user is u
 - `pipeline/watch.py` — reports feed episodes **newer** than the newest on the site
   (compares `published` dates), so it flags genuine new drops, not the skipped backlog.
   Exits 10 if there are new episodes, 0 if none. `--json` for machine use.
-- `pipeline/watch_and_ingest.sh` — permanent watcher: runs `watch.py`, and on new
-  episodes invokes a headless `claude -p` session to run the full pipeline (steps 4–6,
-  review required) and open+merge a PR. Install as a system cron (line in the script).
-  A session-scoped CronCreate job can cover the interim (auto-expires after 7 days).
+- `pipeline/watch_and_ingest.sh` — permanent watcher: runs `watch.py`, and for each new
+  episode (pinned by enclosure URL, live index resolved just-in-time to dodge feed drift)
+  runs `the_full_picture.py --item N --publish`. Install as a system cron (line in the
+  script). A session-scoped CronCreate job can cover the interim (auto-expires after 7 days).
+- **Auto-publish** (`--publish`): after transcription, the pipeline calls
+  `pipeline/publish_episode.sh <slug>`, a headless `claude -p` session that does steps 4–6
+  (extract → enrich → **required** film-title review + humanize → spotify) + build/test and
+  opens a PR, merging unless `--no-merge`. One source of truth for the publish step, shared by
+  the watcher and manual/backlog runs (`publish_episode.sh <slug>` works on any transcript in
+  `out/`). Metadata (date/title from the feed by slug, runtime from the timestamped transcript)
+  is resolved deterministically so the LLM never guesses it.
 
 ## Live "now processing" panel
 While the pipeline transcribes, `write_progress()` POSTs progress (phase · chunks · %)

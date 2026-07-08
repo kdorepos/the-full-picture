@@ -14,7 +14,8 @@
     "@fontsource/ibm-plex-mono": "^5.2.7",
     "@vercel/analytics": "^2.0.1",
     "@vercel/kv": "^3.0.0",
-    "astro": "^4.16.18"
+    "astro": "^4.16.18",
+    "fuse.js": "^7.4.2"
   },
   "devDependencies": {
     "@playwright/test": "^1.48.2"

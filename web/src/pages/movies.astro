@@ -1,0 +1,74 @@
+---
+import Base from '../layouts/Base.astro';
+import { mentionIndex } from '../lib/mentionIndex.js';
+
+const { films } = mentionIndex();
+
+// Group alphabetically; non A–Z titles bucket under "#".
+const letterOf = (t) => {
+  const c = (t || '').trim()[0]?.toUpperCase() ?? '#';
+  return /[A-Z]/.test(c) ? c : '#';
+};
+const groups = new Map();
+for (const f of films) {
+  const l = letterOf(f.title);
+  if (!groups.has(l)) groups.set(l, []);
+  groups.get(l).push(f);
+}
+const letters = [...groups.keys()].sort((a, b) => (a === '#' ? 1 : b === '#' ? -1 : a.localeCompare(b)));
+const fmt = (d) => new Date(d).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+---
+<Base title="Every movie mentioned · The Full Picture" description="An index of every film ever discussed on The Big Picture, linked to the episodes it was mentioned in.">
+  <section class="cover">
+    <div class="wrap">
+      <p class="eyebrow">The Big Picture · Film index</p>
+      <h1>Every movie, mentioned once.</h1>
+      <p class="lede">{films.length.toLocaleString()} films discussed across the show. Hover a title for the episodes it turned up in, or open its page.</p>
+    </div>
+  </section>
+
+  <div class="wrap">
+    <nav class="az" aria-label="Jump to letter">
+      {letters.map((l) => <a class="az__link" href={`#L${l === '#' ? 'num' : l}`}>{l}</a>)}
+    </nav>
+
+    {letters.map((l) => (
+      <section class="movie-letter" id={`L${l === '#' ? 'num' : l}`}>
+        <p class="rubric">{l}<span class="sub">{groups.get(l).length}</span></p>
+        <ul class="movie-list">
+          {groups.get(l).map((f) => (
+            <li class="movie">
+              <a class="movie__link" href={`/movie/${f.slug}`}>
+                {f.title}{f.year && <span class="yr">{f.year}</span>}
+                <span class="movie__count">{f.mentions.length} ep{f.mentions.length === 1 ? '' : 's'}</span>
+              </a>
+              <div class="movie__pop" role="tooltip">
+                <p class="movie__pop-head">Mentioned in</p>
+                {f.mentions.slice(0, 6).map((m) => (
+                  <a class="movie__pop-ep" href={`/ep/${m.slug}`}>
+                    <span class="movie__pop-t">{m.episodeTitle}</span>
+                    <span class="movie__pop-meta">{m.context} · {fmt(m.date)}</span>
+                  </a>
+                ))}
+                {f.mentions.length > 6 && <a class="movie__pop-more" href={`/movie/${f.slug}`}>+ {f.mentions.length - 6} more →</a>}
+              </div>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </div>
+
+  <script>
+    // Flip a movie's episode popover to right-anchored when a left-anchored one would
+    // overflow the viewport (rightmost grid column at some widths).
+    for (const m of document.querySelectorAll('.movie')) {
+      const check = () => {
+        const pop = m.querySelector('.movie__pop');
+        if (pop) m.classList.toggle('flip', m.getBoundingClientRect().left + pop.offsetWidth > window.innerWidth - 8);
+      };
+      m.addEventListener('mouseenter', check);
+      m.addEventListener('focusin', check);
+    }
+  </script>
+</Base>

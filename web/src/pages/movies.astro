@@ -58,4 +58,17 @@ const fmt = (d) => new Date(d).toLocaleDateString('en-US', { month: 'short', day
       </section>
     ))}
   </div>
+
+  <script>
+    // Flip a movie's episode popover to right-anchored when a left-anchored one would
+    // overflow the viewport (rightmost grid column at some widths).
+    for (const m of document.querySelectorAll('.movie')) {
+      const check = () => {
+        const pop = m.querySelector('.movie__pop');
+        if (pop) m.classList.toggle('flip', m.getBoundingClientRect().left + pop.offsetWidth > window.innerWidth - 8);
+      };
+      m.addEventListener('mouseenter', check);
+      m.addEventListener('focusin', check);
+    }
+  </script>
 </Base>

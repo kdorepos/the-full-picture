@@ -169,6 +169,9 @@ def main():
         if a.no_merge:
             cmd.append("--no-merge")
         sh(*cmd)
+        # Run fully done (PR opened/merged) — hide the "now processing" panel so it doesn't
+        # linger as stale until the site redeploys with the episode.
+        write_progress(phase="published", pct=100, active=False, **meta)
 
 
 if __name__ == "__main__":

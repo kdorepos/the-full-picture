@@ -1,0 +1,349 @@
+{
+  "slug": "an-everything-but-movies-mailbag",
+  "title": "An Everything-but-Movies Mailbag",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessy",
+    "Amanda Dobbins"
+  ],
+  "published": "2024-10-25",
+  "runtimeMin": 95,
+  "format": "With Amanda about to go on leave, Sean pitched an episode that never mentions movies. Everyone broke the rule anyway. A banked mailbag (producer Bobby Wagner reads the questions) on the NL MVP race, the Sean-and-Amanda origin story, email etiquette, death-row meals, toddler logic, cocktails, and whether you'd fight one horse-sized duck or a hundred duck-sized horses. The films slip in anyway.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The Mailbag",
+      "note": "Sean and Amanda, with Bobby Wagner reading listener questions",
+      "films": [
+        {
+          "title": "The Avengers",
+          "year": 2012,
+          "note": "The literal origin story of the show: Sean and Amanda both wound up at a press screening of it, then a Brooklyn bar afterward. Sean calls it the closest thing the podcast has to a founding myth."
+        },
+        {
+          "title": "What's Your Number?",
+          "year": 2011,
+          "note": "The Anna Faris comedy (also with Chris Evans) whose press screening is where Amanda and her now-husband Zach Baron officially met."
+        },
+        {
+          "title": "Anora",
+          "year": 2024,
+          "note": "Cited as proof the new stuff is harder to come by than the old: they'd just done an episode on it and Sean loved having a recent movie he was genuinely jazzed about."
+        },
+        {
+          "title": "Nickel Boys",
+          "year": 2024,
+          "note": "One of the fall titles Sean points to as feeling unlike anything he'd seen, after a summer where every movie was a three-star."
+        },
+        {
+          "title": "Alien: Romulus",
+          "year": 2024,
+          "note": "Brought up on the Industry question: David Jonsson was one of the best parts of it, evidence he can carry a bigger film career."
+        },
+        {
+          "title": "Back to Black",
+          "year": 2024,
+          "note": "Marisa Abela's Amy Winehouse biopic, which Sean says didn't work out (though not through any fault of hers) while arguing she looks like a movie star."
+        },
+        {
+          "title": "Conclave",
+          "year": 2024,
+          "note": "Releasing the day this episode airs. Amanda can't wait to see it as a civilian: a highbrow-dumb movie, fancy actors in fancy clothes, lifted from an airport novel."
+        },
+        {
+          "title": "The Substance",
+          "year": 2024,
+          "note": "Surfaces during a retinol tangent. Amanda says it speaks to ideas Sean's interested in; she's only unsure about the execution, and can't believe he still hasn't seen it."
+        },
+        {
+          "title": "Devil",
+          "year": 2010,
+          "note": "Sean's reference for the stuck-in-an-elevator question: the M. Night Shyamalan-produced movie about eight people trapped in an elevator, one of whom is the devil."
+        },
+        {
+          "title": "13 Hours: The Secret Soldiers of Benghazi",
+          "year": 2016,
+          "note": "Sean's evidence for picking Michael Bay to make a January 6th movie: not Bay's best, and you can feel him straining to have something to say about a thing there's nothing to say about."
+        },
+        {
+          "title": "Sully",
+          "year": 2016,
+          "note": "Named as the case where Clint Eastwood's 'I understand this better than everyone' instinct lands. Sean would rather watch prime Clint's version of the January 6th movie."
+        },
+        {
+          "title": "Richard Jewell",
+          "year": 2019,
+          "note": "Cited as a brave act and proof Eastwood cares about journalism, even when Sean doesn't love the man's politics."
+        },
+        {
+          "title": "Juror #2",
+          "year": 2024,
+          "note": "Eastwood's new one, a week out at the time. Sean nearly calls it 'the rural juror'; both figure it could be good."
+        },
+        {
+          "title": "Ambulance",
+          "year": 2022,
+          "note": "The Bay movie Sean adores. He goes on a tear defending Bay against a Hollywood that abandoned him, demanding they hand him G.I. Joe and the Ninja Turtles on top of Transformers."
+        },
+        {
+          "title": "Father of the Bride",
+          "year": 1991,
+          "note": "The last movie that made Amanda cry: she rewatched the Steve Martin version while pregnant during the Steve Martin episode and things, she says, got out of hand."
+        },
+        {
+          "title": "Armageddon",
+          "year": 1998,
+          "note": "The film that made Amanda cry the most, factually: she saw it at 15 and didn't recover for several days."
+        },
+        {
+          "title": "The Lion King",
+          "year": 1994,
+          "note": "Sean's childhood gut-punch (they did Mufasa like that?). Meanwhile his daughter is Team Scar."
+        },
+        {
+          "title": "Horizon: An American Saga - Chapter 1",
+          "year": 2024,
+          "note": "Bobby says he sobbed through the whole final act, undone as much by the sheer incomprehensibility of it as anything. Nobody's sure what happened to the Venice screening of Chapter 2."
+        },
+        {
+          "title": "Sing Sing",
+          "year": 2024,
+          "note": "One of the few 2024 releases that got Sean: maybe not crying, but emotionally affected."
+        },
+        {
+          "title": "You Should Have Left",
+          "year": 2020,
+          "note": "Comes up on the bad-interactions question: the David Koepp horror movie with Kevin Bacon and Amanda Seyfried, released during COVID. Koepp came on the show and, Sean says, was needlessly prickly, so he won't be invited back, though Sean still expects to like Koepp's work."
+        },
+        {
+          "title": "Coco",
+          "year": 2017,
+          "note": "The film that made Bobby cry the most, no contest. He didn't see it until he was an adult working at The Ringer; it got him good."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Spider-Man: No Way Home",
+        "Hundreds of Beavers",
+        "Spirit: Stallion of the Cimarron",
+        "Rounders",
+        "Transformers",
+        "G.I. Joe: The Rise of Cobra",
+        "Teenage Mutant Ninja Turtles"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Industry",
+      "The Morning Show",
+      "Euphoria",
+      "Beverly Hills, 90210",
+      "Parks and Recreation",
+      "Say Nothing (adaptation)"
+    ],
+    "Podcasts": [
+      "The Rewatchables",
+      "The Press Box",
+      "Jam Session (JMO)",
+      "Blank Check",
+      "How Did This Get Made?",
+      "Spooled",
+      "The New York Times Book Review podcast"
+    ],
+    "Books": [
+      "The Snakehead",
+      "Say Nothing",
+      "Empire of Pain",
+      "Creation Lake",
+      "Death at the Sign of the Rook",
+      "Selling Sexy",
+      "The Vanity Fair Diaries",
+      "Freedom",
+      "The Corrections"
+    ],
+    "Ads": [
+      "Truthless",
+      "Zazzle",
+      "Sam's Club",
+      "Mint Mobile",
+      "Athletic Brewing"
+    ]
+  },
+  "tmdb": {
+    "The Avengers": {
+      "id": 24428,
+      "poster": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "title": "The Avengers",
+      "year": 2012
+    },
+    "What's Your Number?": {
+      "id": 63492,
+      "poster": "/eqn3UeXMY9W1Ow3jIZ6COqbjUWX.jpg",
+      "title": "What's Your Number?",
+      "year": 2011
+    },
+    "Anora": {
+      "id": 1064213,
+      "poster": "/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg",
+      "title": "Anora",
+      "year": 2024
+    },
+    "Nickel Boys": {
+      "id": 1028196,
+      "poster": "/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg",
+      "title": "Nickel Boys",
+      "year": 2024
+    },
+    "Alien: Romulus": {
+      "id": 945961,
+      "poster": "/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
+      "title": "Alien: Romulus",
+      "year": 2024
+    },
+    "Back to Black": {
+      "id": 998846,
+      "poster": "/xHQEeUT3Ac4fTY72UeNrI75xLtE.jpg",
+      "title": "Back to Black",
+      "year": 2024
+    },
+    "Conclave": {
+      "id": 974576,
+      "poster": "/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
+      "title": "Conclave",
+      "year": 2024
+    },
+    "The Substance": {
+      "id": 933260,
+      "poster": "/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+      "title": "The Substance",
+      "year": 2024
+    },
+    "Devil": {
+      "id": 44040,
+      "poster": "/aivXPSi53H95BoUa5njEYso389s.jpg",
+      "title": "Devil",
+      "year": 2010
+    },
+    "13 Hours: The Secret Soldiers of Benghazi": {
+      "id": 300671,
+      "poster": "/fZlAxZMo6BId1SiqyjLmkd7oUB7.jpg",
+      "title": "13 Hours: The Secret Soldiers of Benghazi",
+      "year": 2016
+    },
+    "Sully": {
+      "id": 363676,
+      "poster": "/4vs83YcJ8TsabADDtaeCJ6ZTjYY.jpg",
+      "title": "Sully",
+      "year": 2016
+    },
+    "Richard Jewell": {
+      "id": 292011,
+      "poster": "/5Lgkm8jt4roAFPZQ52fKMhVmDaZ.jpg",
+      "title": "Richard Jewell",
+      "year": 2019
+    },
+    "Juror #2": {
+      "id": 1106739,
+      "poster": "/ugQkpGajKFQ8eyOEhGheR0HfWQ.jpg",
+      "title": "Juror #2",
+      "year": 2024
+    },
+    "Ambulance": {
+      "id": 763285,
+      "poster": "/hUbgg3mMSbY9PlpTxBo4IFUVSd6.jpg",
+      "title": "Ambulance",
+      "year": 2022
+    },
+    "Father of the Bride": {
+      "id": 11846,
+      "poster": "/bU7HzJbJpY5OiLdqWhKSqGPtYii.jpg",
+      "title": "Father of the Bride",
+      "year": 1991
+    },
+    "Armageddon": {
+      "id": 95,
+      "poster": "/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg",
+      "title": "Armageddon",
+      "year": 1998
+    },
+    "The Lion King": {
+      "id": 8587,
+      "poster": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+      "title": "The Lion King",
+      "year": 1994
+    },
+    "Horizon: An American Saga - Chapter 1": {
+      "id": 932086,
+      "poster": "/posWMQwX1HCIK26TGL3niJp5fg0.jpg",
+      "title": "Horizon: An American Saga - Chapter 1",
+      "year": 2024
+    },
+    "Sing Sing": {
+      "id": 1155828,
+      "poster": "/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg",
+      "title": "Sing Sing",
+      "year": 2024
+    },
+    "You Should Have Left": {
+      "id": 514593,
+      "poster": "/tpOwE6xsWnu4lKeKbKW0R3iClM.jpg",
+      "title": "You Should Have Left",
+      "year": 2020
+    },
+    "Coco": {
+      "id": 354912,
+      "poster": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+      "title": "Coco",
+      "year": 2017
+    },
+    "Spider-Man: No Way Home": {
+      "id": 634649,
+      "poster": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "title": "Spider-Man: No Way Home",
+      "year": 2021
+    },
+    "Hundreds of Beavers": {
+      "id": 1019939,
+      "poster": "/jBg64OA2QEWL0zaOFMoAGipeGjJ.jpg",
+      "title": "Hundreds of Beavers",
+      "year": 2024
+    },
+    "Spirit: Stallion of the Cimarron": {
+      "id": 9023,
+      "poster": "/cUgYrz4twiJ3QgVGpRfey984NIB.jpg",
+      "title": "Spirit: Stallion of the Cimarron",
+      "year": 2002
+    },
+    "Rounders": {
+      "id": 10220,
+      "poster": "/mqbMwYGwIChnaCO55h7v8DG8Wwy.jpg",
+      "title": "Rounders",
+      "year": 1998
+    },
+    "Transformers": {
+      "id": 1858,
+      "poster": "/4N4sipl8T72tNE4earcctQa2Kw2.jpg",
+      "title": "Transformers",
+      "year": 2007
+    },
+    "G.I. Joe: The Rise of Cobra": {
+      "id": 14869,
+      "poster": "/mc9b25IAprHfsaOz0wTshOwGHcY.jpg",
+      "title": "G.I. Joe: The Rise of Cobra",
+      "year": 2009
+    },
+    "Teenage Mutant Ninja Turtles": {
+      "id": 98566,
+      "poster": "/azL2ThbJMIkts3ZMt3j1YgBUeDB.jpg",
+      "title": "Teenage Mutant Ninja Turtles",
+      "year": 2014
+    }
+  },
+  "spotifyEpisodeId": "514ZUdZcuREHZ81T2pvJ3e"
+}

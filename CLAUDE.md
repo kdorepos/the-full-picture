@@ -38,6 +38,12 @@ and confirms the TMDb match is *that* film — catching mishears (Nirvana→Nirv
 wrong-but-same-title matches that enrichment can't. Apply its findings, then re-enrich.
 This step is not optional; `enrich_tmdb.py` ends by reminding you to run it.
 
+### 5.6 Humanize — public copy must read human
+Run the **humanizer** agent (`.claude/agents/humanizer.md`) on the prose you wrote for the
+episode (blurb + film notes) and any new site copy. It strips AI tells (em-dash overuse,
+rule-of-three, "not just X, it's Y", promo adjectives) while preserving every fact, quote,
+title, and year. Adapted from blader/humanizer. Voice: dry, specific, editorial — not promotional.
+
 ### 5.7 Spotify embed — every episode page must have one
 Resolve it deterministically (the fuzzy app/MCP search won't surface plain-titled
 back-catalog episodes):

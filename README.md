@@ -1,20 +1,20 @@
 # The Full Picture
 
-**Every film named on a podcast — catalogued, grounded in the transcript, and verified against a film database before it's published. One page per episode.**
+**Every film named on the podcast, tied to what the hosts actually said and checked against a film database before it's published. One page per episode.**
 
-Proven against The Ringer's *The Big Picture*. A 2½-hour episode names dozens of movies in passing — reviewed, drafted, auctioned, or just riffed on between tangents. The Full Picture turns each one into a clean, linked, fact-checked record of what was actually said.
+Built and tested against The Ringer's *The Big Picture*. A single episode can name dozens of movies: some reviewed in depth, some picked apart in a draft, most just mentioned between tangents. The Full Picture turns each one into a linked, fact-checked record of what was said about it.
 
-A model does the volume — transcription and a first-pass draft. Then **every claim is grounded in what was actually said and checked against a canonical source before anything ships.** That gap — between *"a model generated it"* and *"it's been verified"* — is the entire point of the project.
+A local model handles the volume: transcription and a first-pass draft. Everything after that is verification. Each film is checked against the transcript and against a film database before its page goes live, so the record reflects what was said rather than what a model guessed.
 
 ## How an episode becomes a page
 
 ```mermaid
 flowchart TD
     A["🎙  Podcast episode"] --> B["Transcribe<br/>(Groq turbo, or local Whisper)"]
-    B --> C["Extract every film mentioned<br/>full transcript, read end to end — no summarizer"]
-    C --> D["Validate against TMDb<br/>exact title + year, null over a wrong link"]
-    D --> E[/"🔍  Film-title review<br/>grounded in the transcript"/]
-    E --> F[/"🎨  Visual QA<br/>measured on desktop + mobile"/]
+    B --> C["Extract every film mentioned<br/>full transcript, read end to end, no summarizer"]
+    C --> D["Validate against TMDb<br/>exact title + year, no link beats a wrong link"]
+    D --> E[/"🔍  Film-title review<br/>re-checked against the transcript"/]
+    E --> F[/"🎨  Visual QA<br/>measured on desktop and mobile"/]
     F --> G[/"✅  Playwright usability tests"/]
     G --> H["📄  Published episode page"]
     classDef step fill:#0f1f18,stroke:#2e4638,color:#ece4d3;
@@ -23,42 +23,42 @@ flowchart TD
     class E,F,G gate;
 ```
 
-The gold steps are **review gates** — a draft doesn't become a page until it clears all three.
+The gold steps are review gates. A draft doesn't become a page until it clears all three.
 
 ## The checks every episode passes
 
 | Gate | What it guarantees |
 | --- | --- |
-| **Grounded extraction** | The full transcript is read start to finish — never handed to a small summarizer model. Every film is tied to what the hosts actually said about it: director, cast, premise. |
-| **TMDb validation** | Exact-title + release-year matching. A coincidental same-title film or a wrong-year reboot is rejected — the system prefers **no link** over a **wrong** one. |
-| **🔍 Film-title review** | A dedicated reviewer re-checks every pick against the transcript *and* TMDb credits — catching transcription mishears and same-title collisions the automatic match can't. **Required before publishing.** |
-| **🎨 Visual QA** | Layout is *measured*, not eyeballed — element collisions, text overflow, tap-target sizes, horizontal scroll, across desktop and mobile. |
+| **Full-transcript extraction** | The whole transcript is read start to finish, never handed to a small summarizer. Each film is tied to what the hosts actually said about it: director, cast, premise. |
+| **TMDb validation** | Exact title plus release-year matching. A same-title coincidence or a wrong-year reboot gets rejected; a missing link is better than a wrong one. |
+| **🔍 Film-title review** | A dedicated reviewer re-checks every pick against the transcript and the TMDb credits, catching transcription mishears and same-title collisions the automatic match misses. Runs before anything publishes. |
+| **🎨 Visual QA** | The tests measure the layout: element collisions, text overflow, tap-target sizes, and horizontal scroll, on desktop and mobile. |
 | **✅ Usability tests** | A Playwright suite runs on every build, on both viewports. |
 
-> **Caught in review — a real example.** A Diane Keaton episode listed *Sleeper*. The automatic match linked a 2012 film with no Keaton in it. The review checked it against the transcript — the hosts meant the 1973 Woody Allen picture — and repinned the correct one. *The Good Mother* had the same problem (a 2023 film vs. her 1988 one). Both fixed before the page went live. Multiply that by every episode.
+> **A real catch from review.** A Diane Keaton episode listed *Sleeper*. The automatic match linked a 2012 film with no Keaton in it; the review checked the transcript, found the hosts meant the 1973 Woody Allen movie, and repinned it. *The Good Mother* had the same issue: a 2023 film matched instead of her 1988 one. Both were fixed before the page went live, and that kind of error shows up regularly.
 
 ## The honesty rules
 
-- **Never guess an attribution.** If who-drafted-what isn't clear from the audio, it's reconstructed from the hosts' own end-of-episode recap — or shipped with a plain note about the ambiguity, never fabricated.
-- **Show the misses.** A film too new or too obscure to match stays unlinked rather than mislinked. Non-films — TV, games, ad reads — are filtered out *and listed*, so the filtering is visible.
-- **Cite the source.** Every film links to its TMDb entry; every page links back to the episode on Spotify.
+- **Never guess an attribution.** If it isn't clear from the audio who drafted what, the credit comes from the hosts' own end-of-episode recap, or the page ships with a plain note about the ambiguity. Nothing is fabricated.
+- **Show the misses.** A film too new or too obscure to match stays unlinked rather than mislinked. Non-films (TV, games, ad reads) are filtered out and listed, so you can see what got filtered.
+- **Cite the source.** Every film links to its TMDb entry, and every page links back to the episode on Spotify.
 
 ## Under the hood
 
 ```
-pipeline/   Python CLI — podcast URL → local transcript (Groq turbo or faster-whisper, CPU)
-web/        Astro static site — one page per episode, rendered from the verified JSON
+pipeline/   Python CLI: podcast URL to local transcript (Groq turbo or faster-whisper, CPU)
+web/        Astro static site: one page per episode, rendered from the verified JSON
 ```
 
-Transcription is the only step that can leave the box, and only for the chosen engine; TMDb and Spotify are queried for metadata. The per-episode JSON is the hand-off between the two halves — and the thing every review gate signs off on.
+Transcription is the only step that reaches the network, and only for whichever engine you pick; TMDb and Spotify are queried for metadata. The per-episode JSON is the hand-off between the two halves, and it's what every review gate signs off on.
 
 <details>
-<summary><b>Running it</b> — the short version</summary>
+<summary><b>Running it</b></summary>
 
 ```sh
 # transcribe (Groq default; needs GROQ_KEY + TMDB_KEY in a gitignored .env)
 ./venv/bin/python pipeline/the_full_picture.py <rss-feed-or-episode-url>
-#   ...or fully local, no network, no rate limit:
+#   ...or run fully local (no network calls, no rate limits):
 python3 -m venv venv && ./venv/bin/pip install faster-whisper
 ./venv/bin/python pipeline/the_full_picture.py <url> --engine local
 
@@ -69,13 +69,11 @@ npm run build      # -> dist/ (static)
 npm test           # Playwright, desktop + mobile
 ```
 
-Extraction, TMDb validation, and the review gates are driven by a Claude session against the
-transcript. The full pipeline, engine trade-offs, and hard-won lessons live in **`CLAUDE.md`**;
-the review agents in **`.claude/agents/`**; the locked visual identity in **`web/DESIGN.md`**.
+Extraction, TMDb validation, and the review gates run through a Claude session against the transcript. The full pipeline and the engine trade-offs are documented in `CLAUDE.md`, the review agents in `.claude/agents/`, and the visual identity in `web/DESIGN.md`.
 
-Deploy: import the repo on Vercel with **Root Directory = `web`**. Every push redeploys.
+Deploy by importing the repo on Vercel with Root Directory set to `web`. Every push redeploys.
 </details>
 
 ---
 
-<sub>This product uses the TMDB API but is not endorsed or certified by TMDB. Podcast metadata and playback via Spotify. A fan-made record — independent and unaffiliated with The Ringer.</sub>
+<sub>This product uses the TMDB API but is not endorsed or certified by TMDB. Podcast metadata and playback via Spotify. A fan-made record, independent and unaffiliated with The Ringer.</sub>

@@ -22,12 +22,12 @@ const KIND = {
 };
 const kind = (ep) => [...new Set((ep.segments ?? []).map((s) => KIND[s.kind] ?? 'Segment'))].join(' · ') || 'Episode';
 ---
-<Base title="The Full Picture — every film, every episode" description="A catalogue of every movie discussed on The Big Picture, episode by episode.">
+<Base title="The Full Picture: every film, every episode" description="A catalogue of every movie discussed on The Big Picture, episode by episode.">
   <section class="cover">
     <div class="wrap">
       <p class="eyebrow">The Big Picture · Film catalogue</p>
       <h1>Every film they name, on the record.</h1>
-      <p class="lede">Every movie mentioned on each episode — championed, drafted, or just raised in passing — catalogued and linked.</p>
+      <p class="lede">Every movie mentioned on each episode, catalogued and linked, whether it was reviewed, drafted, or just brought up in passing.</p>
     </div>
   </section>
 
@@ -63,7 +63,7 @@ const kind = (ep) => [...new Set((ep.segments ?? []).map((s) => KIND[s.kind] ?? 
     const PHASE = {
       downloading: 'Downloading audio',
       transcribing: 'Transcribing',
-      transcribed: 'Transcribed — writing up the film list',
+      transcribed: 'Transcribed, writing up the film list',
     };
     async function tick() {
       try {

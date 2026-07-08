@@ -46,7 +46,7 @@ const kind = (ep) => [...new Set((ep.segments ?? []).map((s) => KIND[s.kind] ?? 
         Episodes are transcribed and analyzed with AI models. The matches aren't perfect —
         expect the occasional misheard title or a link to the wrong film.
       </p>
-      <div class="catalogue">
+      <div class="catalogue" id="catalogue">
         {episodes.map((ep) => (
           <a class="sale-card" href={`/ep/${ep.slug}`}>
             <div>
@@ -58,6 +58,11 @@ const kind = (ep) => [...new Set((ep.segments ?? []).map((s) => KIND[s.kind] ?? 
           </a>
         ))}
       </div>
+      {episodes.length > 5 && (
+        <button class="show-more" id="show-more" type="button">
+          Show more <span class="sub">5 at a time</span>
+        </button>
+      )}
     </section>
   </div>
 
@@ -91,5 +96,27 @@ const kind = (ep) => [...new Set((ep.segments ?? []).map((s) => KIND[s.kind] ?? 
     }
     tick();
     setInterval(tick, 15000);
+  </script>
+
+  <script is:inline>
+    // Show episodes 5 at a time; reveal the next 5 per click. Progressive enhancement:
+    // all cards are in the static HTML, so with JS off the full list still renders.
+    (function () {
+      const PAGE = 5;
+      const cards = Array.from(document.querySelectorAll('#catalogue > .sale-card'));
+      const btn = document.getElementById('show-more');
+      if (!btn || cards.length <= PAGE) return;
+      let shown = PAGE;
+      const render = () => {
+        cards.forEach((c, i) => {
+          c.style.display = i < shown ? '' : 'none';
+          c.classList.remove('is-last-visible');
+        });
+        cards[Math.min(shown, cards.length) - 1]?.classList.add('is-last-visible');
+        btn.style.display = shown >= cards.length ? 'none' : '';
+      };
+      btn.addEventListener('click', () => { shown += PAGE; render(); });
+      render();
+    })();
   </script>
 </Base>

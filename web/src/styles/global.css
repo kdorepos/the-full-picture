@@ -129,6 +129,16 @@ em { font-style: italic; }
 /* ---------- Sections ---------- */
 .sale-section { padding: 2.6rem 0; border-bottom: 1px solid var(--line); }
 
+/* AI disclosure — understated editorial note, catalogue + episode pages */
+.ai-note {
+  font-size: 0.82rem; line-height: 1.55; color: var(--muted); max-width: 54ch;
+  border-left: 2px solid var(--brass); padding-left: 0.9rem; margin: 1.8rem 0;
+}
+.ai-note b {
+  display: block; font-family: var(--mono); font-size: 0.6rem; font-weight: 600;
+  letter-spacing: 0.2em; text-transform: uppercase; color: var(--brass); margin-bottom: 0.3rem;
+}
+
 /* ---------- The paddles (standings) ---------- */
 .standings { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.9rem; }
 .standings .tally { border-left: 2px solid var(--tone); padding-left: 0.9rem; }

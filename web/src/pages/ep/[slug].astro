@@ -93,6 +93,12 @@ if (auction) {
   )}
 
   <div class="wrap">
+    <p class="ai-note">
+      <b>AI-generated</b>
+      This episode was transcribed and analyzed with AI models. The matches aren't perfect —
+      expect the occasional misheard title or a link to the wrong film.
+    </p>
+
     {segs.map((s) => <Segment seg={s} tmdb={tmdb} />)}
 
     {ep.referenced?.length > 0 && (

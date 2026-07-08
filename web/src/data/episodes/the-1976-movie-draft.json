@@ -1,0 +1,588 @@
+{
+  "slug": "the-1976-movie-draft",
+  "title": "The 1976 Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan",
+    "Tracy Letts"
+  ],
+  "published": "2026-05-18",
+  "runtimeMin": 132,
+  "format": "A four-person snake draft of 1976 movies, with playwright and actor Tracy Letts joining Sean, Amanda, and Chris. Each drafter fills a six-slot roster: Drama, Comedy/Horror/Sci-Fi, Thriller or Action, Blockbuster (over $20M box office), Oscar Nominee, and Wild Card. Producer Jack Sanders set the order (Amanda, Chris, Sean, Letts), snaking back each round. Every pick below is confirmed by the hosts' end-of-episode recap.",
+  "segments": [
+    {
+      "kind": "draft",
+      "heading": "The teams",
+      "draftOf": "1976 movies",
+      "categories": [
+        "Drama",
+        "Comedy/Horror/Sci-Fi",
+        "Thriller or Action",
+        "Blockbuster",
+        "Oscar Nominee",
+        "Wild Card"
+      ],
+      "teams": [
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Mikey and Nicky",
+              "year": 1976,
+              "category": "Drama",
+              "note": "Elaine May's two-hander, Cassavetes and Falk as anxious not-quite-gangsters. 'The movie that explained men to me.'"
+            },
+            {
+              "title": "Cousin Cousine",
+              "year": 1975,
+              "category": "Comedy/Horror/Sci-Fi",
+              "note": "A French romantic comedy she calls 'a French Four Weddings and a Funeral.' A discovery she was completely delighted by, with three Oscar nominations."
+            },
+            {
+              "title": "All the President's Men",
+              "year": 1976,
+              "category": "Thriller or Action",
+              "note": "First overall pick and her favorite film of the year. She took it here to deny it to everyone else, since it fit five of the six categories."
+            },
+            {
+              "title": "A Star Is Born",
+              "year": 1976,
+              "category": "Blockbuster",
+              "note": "The Streisand version, defended against the group's snobbery. Second-highest earner of the year. 'Barbra Streisand is important.'"
+            },
+            {
+              "title": "Marathon Man",
+              "year": 1976,
+              "category": "Oscar Nominee",
+              "note": "'Roy Scheider in Paris.' Olivier's Nazi-dentist thriller, and a Supporting Actor nomination for Olivier."
+            },
+            {
+              "title": "Daguerréotypes",
+              "year": 1975,
+              "category": "Wild Card",
+              "note": "Agnès Varda's documentary about the shopkeepers on her Paris street. A discovery, streaming on Criterion."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Kings of the Road",
+              "year": 1976,
+              "category": "Drama",
+              "note": "Wim Wenders' near-three-hour road movie, shot by Robby Müller. 'A blueprint for Linklater, for Jarmusch.' The last of the pure German Wenders films."
+            },
+            {
+              "title": "The Town That Dreaded Sundown",
+              "year": 1976,
+              "category": "Comedy/Horror/Sci-Fi",
+              "note": "Charles B. Pierce's slasher about a phantom terrorizing Texarkana. Scary in spite of a very stupid B-plot; Chris sees Zodiac in it."
+            },
+            {
+              "title": "The Outlaw Josey Wales",
+              "year": 1976,
+              "category": "Thriller or Action",
+              "note": "One of the great Eastwood films. He praised the cinematography, the Chief Dan George chemistry, and Eastwood finding his own voice."
+            },
+            {
+              "title": "The Omen",
+              "year": 1976,
+              "category": "Blockbuster",
+              "note": "The studio's Exorcist knockoff, Gregory Peck and Lee Remick. 'I like to laugh with this movie more than I'm afraid of it.' Great score."
+            },
+            {
+              "title": "Taxi Driver",
+              "year": 1976,
+              "category": "Oscar Nominee",
+              "note": "Second overall pick. 'One of my favorite movies ever made,' a portrait of loneliness and a great New York film."
+            },
+            {
+              "title": "Logan's Run",
+              "year": 1976,
+              "category": "Wild Card",
+              "note": "'A real head fuck of a movie.' Michael York in a society that culls people at 30. More influential than beloved."
+            }
+          ]
+        },
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Network",
+              "year": 1976,
+              "category": "Drama",
+              "note": "Third overall pick. 'The movie that made me feel like a grown-up.' Chayefsky's prescient, secretly funny satire, with Duvall, Dunaway, Finch, and Beatty."
+            },
+            {
+              "title": "Buffalo Bill and the Indians, or Sitting Bull's History Lesson",
+              "year": 1976,
+              "category": "Comedy/Horror/Sci-Fi",
+              "note": "Altman and Paul Newman, drafted as a comedy. An embittered satire of the American myth, with Joel Grey a standout."
+            },
+            {
+              "title": "Assault on Precinct 13",
+              "year": 1976,
+              "category": "Thriller or Action",
+              "note": "John Carpenter's second feature, a Rio Bravo-inspired siege movie. The arrival of a major genre filmmaker."
+            },
+            {
+              "title": "The Bad News Bears",
+              "year": 1976,
+              "category": "Blockbuster",
+              "note": "'The best comedy of this year and the last truly great blockbuster.' Ritchie and Matthau, a top-five sports movie for Sean."
+            },
+            {
+              "title": "Harlan County, USA",
+              "year": 1976,
+              "category": "Oscar Nominee",
+              "note": "Barbara Kopple's documentary on the Kentucky coal-miners' strike. 'Maybe the greatest American documentary ever made.' It won Best Documentary."
+            },
+            {
+              "title": "Welcome to L.A.",
+              "year": 1976,
+              "category": "Wild Card",
+              "note": "Alan Rudolph's first film and the first release from Altman's Lions Gate. An acidic portrait of a vapid LA, Keith Carradine and Sissy Spacek."
+            }
+          ]
+        },
+        {
+          "host": "Tracy Letts",
+          "picks": [
+            {
+              "title": "Lifeguard",
+              "year": 1976,
+              "category": "Drama",
+              "note": "A Sam Elliott vehicle that Letts and his wife were knocked out by. A light film that gets deeper the further in you go."
+            },
+            {
+              "title": "Carrie",
+              "year": 1976,
+              "category": "Comedy/Horror/Sci-Fi",
+              "note": "De Palma. The others were bummed he got it. He argued Spacek and Piper Laurie deserved Oscars, and that it's 'the best movie about high school ever made.'"
+            },
+            {
+              "title": "The Killing of a Chinese Bookie",
+              "year": 1976,
+              "category": "Thriller or Action",
+              "note": "Cassavetes, a category reach. He saw it in Dallas with a Cassavetes Q&A, and loves Mr. Sophistication and Ben Gazzara."
+            },
+            {
+              "title": "Rocky",
+              "year": 1976,
+              "category": "Blockbuster",
+              "note": "Saw it in theaters in '76, and revisited it for his own film, I Play Rocky. Thinks they should have stopped the franchise after the first."
+            },
+            {
+              "title": "Seven Beauties",
+              "year": 1975,
+              "category": "Oscar Nominee",
+              "note": "Lina Wertmüller, with a Best Actor nomination for Giancarlo Giannini. 'The movie you kids should see.' Great, funny, and horrifying."
+            },
+            {
+              "title": "The Man Who Fell to Earth",
+              "year": 1976,
+              "category": "Wild Card",
+              "note": "Nic Roeg and David Bowie. A third viewing 'knocked my socks off.' He praised the StudioCanal 4K steelbook."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "The Shootist",
+        "King Kong",
+        "Silver Streak",
+        "Car Wash",
+        "The Enforcer",
+        "The Missouri Breaks",
+        "Robin and Marian",
+        "Obsession",
+        "The Front",
+        "Silent Movie",
+        "Family Plot",
+        "Murder by Death",
+        "The Seven-Per-Cent Solution",
+        "The Pink Panther Strikes Again",
+        "Mr. Klein",
+        "The Tenant",
+        "1900"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In the conversation",
+      "films": [
+        "Jaws",
+        "Star Wars",
+        "Apocalypse Now",
+        "One Flew Over the Cuckoo's Nest",
+        "Barry Lyndon",
+        "The Stepford Wives",
+        "Three Days of the Condor",
+        "Grey Gardens",
+        "Nashville",
+        "The Passenger",
+        "Paris, Texas",
+        "Unforgiven",
+        "In the Line of Fire"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Dark Shadows",
+      "The Night Stalker",
+      "Succession",
+      "The Pit",
+      "Saturday Night Live"
+    ],
+    "Ads": [
+      "Tremfya",
+      "NOS Energy",
+      "Carvana",
+      "FIFA World Cup Launch Edition",
+      "Sonic"
+    ]
+  },
+  "tmdb": {
+    "Mikey and Nicky": {
+      "id": 59143,
+      "poster": "/fnHC1OJ1EbdOX97nmXVYrXFgiQT.jpg",
+      "title": "Mikey and Nicky",
+      "year": 1976
+    },
+    "Cousin Cousine": {
+      "id": 5618,
+      "poster": "/ffGpsolcNX9oJZvJinQwFhePtAD.jpg",
+      "title": "Cousin, Cousine",
+      "year": 1975
+    },
+    "All the President's Men": {
+      "id": 891,
+      "poster": "/pCe6lfLxt1B58zPD4lgQrlnDS2j.jpg",
+      "title": "All the President's Men",
+      "year": 1976
+    },
+    "A Star Is Born": {
+      "id": 19610,
+      "poster": "/3Hr63lBDhvYGpSd8HxDpWvowZpY.jpg",
+      "title": "A Star Is Born",
+      "year": 1976
+    },
+    "Marathon Man": {
+      "id": 10518,
+      "poster": "/uPNgubSiri2yvBQRPtP77ViYjN.jpg",
+      "title": "Marathon Man",
+      "year": 1976
+    },
+    "Daguerréotypes": {
+      "id": 49650,
+      "poster": "/3XXWWVKbePGBu6Q7e0ngve5cwBB.jpg",
+      "title": "Daguerréotypes",
+      "year": 1978
+    },
+    "Kings of the Road": {
+      "id": 10834,
+      "poster": "/wKSQ0pTOXYzDWaEXvJEXlhgj2PY.jpg",
+      "title": "Kings of the Road",
+      "year": 1976
+    },
+    "The Town That Dreaded Sundown": {
+      "id": 48197,
+      "poster": "/sI6kUePh4S3T1rDozPR0Etg7E8X.jpg",
+      "title": "The Town That Dreaded Sundown",
+      "year": 1976
+    },
+    "The Outlaw Josey Wales": {
+      "id": 10747,
+      "poster": "/92BZIFPbyCPNhExyFScxA3xF1dy.jpg",
+      "title": "The Outlaw Josey Wales",
+      "year": 1976
+    },
+    "The Omen": {
+      "id": 794,
+      "poster": "/mDcjjEu1fMNmsXi4l4D8IftlTix.jpg",
+      "title": "The Omen",
+      "year": 1976
+    },
+    "Taxi Driver": {
+      "id": 103,
+      "poster": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "title": "Taxi Driver",
+      "year": 1976
+    },
+    "Logan's Run": {
+      "id": 10803,
+      "poster": "/v3ILN8ROPcrNRJ8S7GH24JyihH8.jpg",
+      "title": "Logan's Run",
+      "year": 1976
+    },
+    "Network": {
+      "id": 10774,
+      "poster": "/qZomlHsaALUtkFeMDwdYmwS2Pbo.jpg",
+      "title": "Network",
+      "year": 1976
+    },
+    "Buffalo Bill and the Indians, or Sitting Bull's History Lesson": {
+      "id": 42233,
+      "poster": "/zyQZAJogUOECWM46v4N6wGDHd20.jpg",
+      "title": "Buffalo Bill and the Indians, or Sitting Bull's History Lesson",
+      "year": 1976
+    },
+    "Assault on Precinct 13": {
+      "id": 17814,
+      "poster": "/RtGDEmXbSxE8NThCCY1SXFXLLw.jpg",
+      "title": "Assault on Precinct 13",
+      "year": 1976
+    },
+    "The Bad News Bears": {
+      "id": 23479,
+      "poster": "/kJNXMni0ObOXLth6v9xpUhWbtrp.jpg",
+      "title": "The Bad News Bears",
+      "year": 1976
+    },
+    "Harlan County, USA": {
+      "id": 33324,
+      "poster": "/p0cyMNsoP5ap0omfhakhImBWTRw.jpg",
+      "title": "Harlan County U.S.A.",
+      "year": 1977
+    },
+    "Welcome to L.A.": {
+      "id": 86241,
+      "poster": "/2OlIqSuoilz6nLaOQNle1MXNtUx.jpg",
+      "title": "Welcome to L.A.",
+      "year": 1976
+    },
+    "Lifeguard": {
+      "id": 5002,
+      "poster": "/u8vhmXoJhUfc7iVXO3VEskXDKgK.jpg",
+      "title": "Lifeguard",
+      "year": 1976
+    },
+    "Carrie": {
+      "id": 7340,
+      "poster": "/8tT1rqlsTguyfUBMrbHR9cv1rxM.jpg",
+      "title": "Carrie",
+      "year": 1976
+    },
+    "The Killing of a Chinese Bookie": {
+      "id": 32040,
+      "poster": "/lShPFOAbQ6y6oFYUfecmrj7BUu6.jpg",
+      "title": "The Killing of a Chinese Bookie",
+      "year": 1976
+    },
+    "Rocky": {
+      "id": 1366,
+      "poster": "/aYtBYWqCdUqcnoodWJdcTG3pFev.jpg",
+      "title": "Rocky",
+      "year": 1976
+    },
+    "Seven Beauties": {
+      "id": 37550,
+      "poster": "/i0ZLApe4mIQWopELhEPxOQziDBh.jpg",
+      "title": "Seven Beauties",
+      "year": 1975
+    },
+    "The Man Who Fell to Earth": {
+      "id": 991,
+      "poster": "/gwmPVphE5DMFFGXGMhfEFyxOOYj.jpg",
+      "title": "The Man Who Fell to Earth",
+      "year": 1976
+    },
+    "The Shootist": {
+      "id": 12584,
+      "poster": "/3FBCNDeffuKZQzuXnnFyNNip9AN.jpg",
+      "title": "The Shootist",
+      "year": 1976
+    },
+    "King Kong": {
+      "id": 10730,
+      "poster": "/paYKhEwUaxKA05vmOfU7FlleTln.jpg",
+      "title": "King Kong",
+      "year": 1976
+    },
+    "Silver Streak": {
+      "id": 11558,
+      "poster": "/gY1a4k9dalGx83D7TJ2C76xBprS.jpg",
+      "title": "Silver Streak",
+      "year": 1976
+    },
+    "Car Wash": {
+      "id": 15462,
+      "poster": "/bty0IdXh4l2BmoQNVeAH5PYKrMK.jpg",
+      "title": "Car Wash",
+      "year": 1976
+    },
+    "The Enforcer": {
+      "id": 10649,
+      "poster": "/l0W85fpnsfnpLSSF3D6bKKlH1dD.jpg",
+      "title": "The Enforcer",
+      "year": 1976
+    },
+    "The Missouri Breaks": {
+      "id": 42252,
+      "poster": "/3fbAVOm9w66jt1TMbeTO8wLyqxO.jpg",
+      "title": "The Missouri Breaks",
+      "year": 1976
+    },
+    "Robin and Marian": {
+      "id": 10786,
+      "poster": "/y2UlVt6U8mFeegVL42rZjD5y6c7.jpg",
+      "title": "Robin and Marian",
+      "year": 1976
+    },
+    "Obsession": {
+      "id": 4780,
+      "poster": "/a0bOKTldOJVJivmPNGBHfMYJU9x.jpg",
+      "title": "Obsession",
+      "year": 1976
+    },
+    "The Front": {
+      "id": 1723,
+      "poster": "/dXXNbw7xeW2nuUiSSKJ59xNSf6N.jpg",
+      "title": "The Front",
+      "year": 1976
+    },
+    "Silent Movie": {
+      "id": 10970,
+      "poster": "/AeaoOSqEU3elkpDAlKbIWcdKLJ8.jpg",
+      "title": "Silent Movie",
+      "year": 1976
+    },
+    "Family Plot": {
+      "id": 5854,
+      "poster": "/oQ9QbyBuIM2uYaheSKjs2x1xIQV.jpg",
+      "title": "Family Plot",
+      "year": 1976
+    },
+    "Murder by Death": {
+      "id": 6037,
+      "poster": "/7YGYam05qzHy0ZSzfjBSDkVvvU7.jpg",
+      "title": "Murder by Death",
+      "year": 1976
+    },
+    "The Seven-Per-Cent Solution": {
+      "id": 29578,
+      "poster": "/95IzjZIzXVDpojBuMWaeAmJzIDs.jpg",
+      "title": "The Seven-Per-Cent Solution",
+      "year": 1976
+    },
+    "The Pink Panther Strikes Again": {
+      "id": 12268,
+      "poster": "/GGCch9LNAKwp4ZADAcNz1hd1dn.jpg",
+      "title": "The Pink Panther Strikes Again",
+      "year": 1976
+    },
+    "Mr. Klein": {
+      "id": 58925,
+      "poster": "/6FRa43WgyhIXzMYLO3yxDb0OY6O.jpg",
+      "title": "Mr. Klein",
+      "year": 1976
+    },
+    "The Tenant": {
+      "id": 11482,
+      "poster": "/4Qhzb1ICFMqE3isWoln497qSH7n.jpg",
+      "title": "The Tenant",
+      "year": 1976
+    },
+    "1900": {
+      "id": 3870,
+      "poster": "/deWzfCC59tmtEQvKSmflDe14FvR.jpg",
+      "title": "1900",
+      "year": 1976
+    },
+    "Jaws": {
+      "id": 578,
+      "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "title": "Jaws",
+      "year": 1975
+    },
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
+    },
+    "Apocalypse Now": {
+      "id": 28,
+      "poster": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "title": "Apocalypse Now",
+      "year": 1979
+    },
+    "One Flew Over the Cuckoo's Nest": {
+      "id": 510,
+      "poster": "/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": 1975
+    },
+    "Barry Lyndon": {
+      "id": 3175,
+      "poster": "/A0byHUHMwZ7dtBQtfZ44QIgDbjo.jpg",
+      "title": "Barry Lyndon",
+      "year": 1975
+    },
+    "The Stepford Wives": {
+      "id": 12223,
+      "poster": "/5z1ogJJmQkCoU62VJmut4nnc2qs.jpg",
+      "title": "The Stepford Wives",
+      "year": 1975
+    },
+    "Three Days of the Condor": {
+      "id": 11963,
+      "poster": "/zinwtZqdb7gnc4zMu8dfkK1fMN3.jpg",
+      "title": "Three Days of the Condor",
+      "year": 1975
+    },
+    "Grey Gardens": {
+      "id": 17346,
+      "poster": "/qFPj6Eh3ijA4ISRujHu4GKKeAWT.jpg",
+      "title": "Grey Gardens",
+      "year": 1976
+    },
+    "Nashville": {
+      "id": 3121,
+      "poster": "/twl4ovyjb8muFKvZmcCDzPR0hy1.jpg",
+      "title": "Nashville",
+      "year": 1975
+    },
+    "The Passenger": {
+      "id": 9652,
+      "poster": "/A8jYH43plz70dNmHy82zAHGTqxN.jpg",
+      "title": "The Passenger",
+      "year": 1975
+    },
+    "Paris, Texas": {
+      "id": 655,
+      "poster": "/sP27Qm4THyRZyHjHYMfIDtJP6YE.jpg",
+      "title": "Paris, Texas",
+      "year": 1984
+    },
+    "Unforgiven": {
+      "id": 33,
+      "poster": "/54roTwbX9fltg85zjsmrooXAs12.jpg",
+      "title": "Unforgiven",
+      "year": 1992
+    },
+    "In the Line of Fire": {
+      "id": 9386,
+      "poster": "/3NvOFpmyECI3DNExYMtFIRcGMsu.jpg",
+      "title": "In the Line of Fire",
+      "year": 1993
+    }
+  },
+  "spotifyEpisodeId": "6CrUFsBll143Vk0ONS2tn6",
+  "tmdbOverrides": {
+    "King Kong": 10730,
+    "The Enforcer": 10649,
+    "Obsession": 4780,
+    "Silent Movie": 10970,
+    "The Stepford Wives": 12223,
+    "Grey Gardens": 17346,
+    "The Passenger": 9652,
+    "Daguerréotypes": 49650
+  }
+}

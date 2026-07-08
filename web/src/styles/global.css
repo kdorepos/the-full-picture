@@ -86,8 +86,6 @@ em { font-style: italic; }
   font-family: var(--mono); font-size: 0.72rem; letter-spacing: 0.26em;
   text-transform: uppercase; color: var(--brass); margin: 0 0 1.1rem;
 }
-#hero { transition: opacity 0.4s ease; }
-#hero.hero-fade { opacity: 0; }
 .cover h1 {
   font-family: var(--display);
   font-weight: 700;
@@ -96,9 +94,6 @@ em { font-style: italic; }
   letter-spacing: -0.015em;
   margin: 0 0 1.1rem;
   max-width: 15ch;
-  /* Reserve space for the tallest rotating headline so shorter lines don't shift the cards
-     below on each cycle (measured: desktop tops out at 3 lines ≈ 3.3em). */
-  min-height: 3.3em;
 }
 .cover .credits {
   font-size: 0.95rem; color: var(--muted); margin: 0 0 1.5rem;
@@ -299,8 +294,6 @@ footer p:last-child { margin-bottom: 0; }
 /* ---------- Responsive ---------- */
 @media (max-width: 640px) {
   body { font-size: 16px; }
-  /* At 2.5rem the longest headline wraps to ~5 lines; reserve so short lines don't jump. */
-  .cover h1 { min-height: 5.3em; }
   .standings { grid-template-columns: 1fr; gap: 0.7rem; }
   .prev { grid-template-columns: 1fr; gap: 1rem; }
   .lot { grid-template-columns: 2.4rem 40px 1fr auto; column-gap: 0.7rem; }

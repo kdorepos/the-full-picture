@@ -121,8 +121,9 @@ const kind = (ep) => [...new Set((ep.segments ?? []).map((s) => KIND[s.kind] ?? 
   </script>
 
   <script is:inline>
-    // Rotating hero headline. The canonical line ships in the HTML (SEO / no-JS); JS starts on
-    // it (no load flash) then slow-crossfades through the set. Static under reduced-motion.
+    // Hero headline: pick one line at random per page load (the canonical line ships in the
+    // HTML for SEO / no-JS). No cycling — the h1 sizes to whatever line is shown, so there's
+    // no reserved whitespace under shorter lines.
     (function () {
       const el = document.getElementById('hero');
       if (!el) return;
@@ -141,16 +142,7 @@ const kind = (ep) => [...new Set((ep.segments ?? []).map((s) => KIND[s.kind] ?? 
         "A running record of a show that can't stop naming movies.",
         "Two-plus hours of movie talk, every title accounted for.",
       ];
-      if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
-      let i = 0;  // start on the canonical line already in the HTML
-      setInterval(() => {
-        el.classList.add('hero-fade');
-        setTimeout(() => {
-          i = (i + 1) % lines.length;
-          el.textContent = lines[i];
-          el.classList.remove('hero-fade');
-        }, 400);
-      }, 6000);
+      el.textContent = lines[Math.floor(Math.random() * lines.length)];
     })();
   </script>
 </Base>

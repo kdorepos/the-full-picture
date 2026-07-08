@@ -1,0 +1,496 @@
+{
+  "slug": "best-picture-power-rankings-and-the-rocks-oscar-bid-in-the-s",
+  "title": "Best Picture Power Rankings and The Rock’s Oscar Bid in ‘The Smashing Machine,’ with Benny Safdie!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Van Lathan"
+  ],
+  "published": "2025-10-03",
+  "runtimeMin": 101,
+  "format": "Sean, Amanda, and Van review Benny Safdie's 'The Smashing Machine,' then Sean and Amanda rebuild the Best Picture top 10, and Sean talks to Safdie.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘The Smashing Machine’",
+      "note": "with Van Lathan",
+      "films": [
+        {
+          "title": "The Smashing Machine",
+          "year": 2025,
+          "note": "Safdie recreates much of the Mark Kerr documentary and keeps the camera outside the ring. Van and Sean read it as a spiritual sequel to The Curse: surveillance-style, alienated, with Dwayne Johnson dropping the wrestler persona to play a soft-spoken fighter. Amanda thinks the approach is undercut by an underwritten, one-note Emily Blunt role."
+        }
+      ]
+    },
+    {
+      "kind": "ranking",
+      "heading": "Best Picture Power Rankings",
+      "note": "as of October 1",
+      "subject": "the 2026 Best Picture race",
+      "ranked": true,
+      "films": [
+        {
+          "title": "One Battle After Another",
+          "year": 2025,
+          "note": "No. 1 today, though Sean stresses that's not a winner call: an Oppenheimer or a Shakespeare in Love path both leave it at 1 or 2."
+        },
+        {
+          "title": "Hamnet",
+          "year": 2025,
+          "note": "Holds at 2 on the back of its Toronto People's Choice win."
+        },
+        {
+          "title": "Sinners",
+          "year": 2025,
+          "note": "Bumped to 3 after listener pushback; the knock is timing (April) and Academy taste, not quality."
+        },
+        {
+          "title": "Sentimental Value",
+          "year": 2025,
+          "note": "Slid to 4. A real wow at festivals, but it didn't hit as hard over the fall."
+        },
+        {
+          "title": "Jay Kelly",
+          "year": 2025,
+          "note": "Got a bounce from its New York Film Festival home game; a Fellini-esque, filmmaker's Baumbach."
+        },
+        {
+          "title": "It Was Just an Accident",
+          "year": 2025,
+          "note": "The Palme d'Or winner and France's international-feature entry, close to an automatic."
+        },
+        {
+          "title": "Bugonia",
+          "year": 2025,
+          "note": "Lanthimos and Emma Stone, plus a touted Jesse Plemons turn; sneaks in at 7."
+        },
+        {
+          "title": "A House of Dynamite",
+          "year": 2025,
+          "note": "Both were mixed on it, but Bigelow's tension-cranking and its it-speaks-to-the-moment lightness may play in its favor."
+        },
+        {
+          "title": "Frankenstein",
+          "year": 2025,
+          "note": "New to the list after finishing second at Toronto; the Academy loves del Toro and Netflix gets nominations."
+        },
+        {
+          "title": "Wicked for Good",
+          "year": 2025,
+          "note": "Kept on faith. Big fanbase, no heat yet, and the campaign hasn't started."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Benny Safdie on",
+      "films": [
+        {
+          "title": "The Smashing Machine",
+          "year": 2025,
+          "note": "Safdie on winning the Silver Lion, Dwayne Johnson bringing him the project in 2019, shooting the fights from outside the ring 'as real as it gets,' Nala Sinephro's improvised score, and Herzog's 'ecstatic truth,' inventing scenes that never happened but felt true."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The Rock's filmography",
+      "films": [
+        "The Scorpion King",
+        "The Rundown",
+        "Southland Tales",
+        "Pain & Gain",
+        "Central Intelligence",
+        "Moana",
+        "Jungle Cruise",
+        "Black Adam",
+        "Fast Five",
+        "Fast & Furious 6"
+      ]
+    },
+    {
+      "group": "In the race but off the board",
+      "films": [
+        "No Other Choice",
+        "Marty Supreme",
+        "Avatar: Fire and Ash",
+        "Rental Family",
+        "Train Dreams",
+        "Springsteen: Deliver Me from Nowhere",
+        "Is This Thing On?",
+        "The Testament of Ann Lee",
+        "Weapons",
+        "Cover-Up"
+      ]
+    },
+    {
+      "group": "Benny Safdie's touchstones and credits",
+      "films": [
+        "Requiem for a Heavyweight",
+        "Fat City",
+        "The Harder They Fall",
+        "Rocky",
+        "Rocky III",
+        "Raging Bull",
+        "Licorice Pizza",
+        "Happy Gilmore 2",
+        "They Live",
+        "Crimson Tide",
+        "No Way Out",
+        "Lizard Music"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "The Smashing Machine: The Life and Times of Extreme Fighter Mark Kerr",
+        "Oppenheimer",
+        "Gabby's Dollhouse: The Movie",
+        "Eddington",
+        "Nightmare Alley",
+        "Parasite",
+        "Dune",
+        "Dune: Part Two",
+        "Wonka"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Curse",
+      "Maniac",
+      "Mr. McMahon",
+      "Chad Powers"
+    ],
+    "Ads": [
+      "LinkedIn Ads",
+      "Netflix (T-Mobile Home Run Derby)",
+      "Hulu",
+      "Mint Mobile"
+    ]
+  },
+  "tmdbOverrides": {
+    "Requiem for a Heavyweight": 53229,
+    "The Harder They Fall": 28528,
+    "The Smashing Machine: The Life and Times of Extreme Fighter Mark Kerr": 35997
+  },
+  "tmdb": {
+    "The Smashing Machine": {
+      "id": 760329,
+      "poster": "/cwwvrdYeIrARXdiv09GIO6XWK5l.jpg",
+      "title": "The Smashing Machine",
+      "year": 2025
+    },
+    "One Battle After Another": {
+      "id": 1054867,
+      "poster": "/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+      "title": "One Battle After Another",
+      "year": 2025
+    },
+    "Hamnet": {
+      "id": 858024,
+      "poster": "/zIcd6yuBucRNof5t9KVuGBHIhXU.jpg",
+      "title": "Hamnet",
+      "year": 2025
+    },
+    "Sinners": {
+      "id": 1233413,
+      "poster": "/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+      "title": "Sinners",
+      "year": 2025
+    },
+    "Sentimental Value": {
+      "id": 1124566,
+      "poster": "/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
+      "title": "Sentimental Value",
+      "year": 2025
+    },
+    "Jay Kelly": {
+      "id": 1069905,
+      "poster": "/lEXYpY9X17pGC7xYYy17Guv0L3J.jpg",
+      "title": "Jay Kelly",
+      "year": 2025
+    },
+    "It Was Just an Accident": {
+      "id": 1456349,
+      "poster": "/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
+      "title": "It Was Just an Accident",
+      "year": 2025
+    },
+    "Bugonia": {
+      "id": 701387,
+      "poster": "/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+      "title": "Bugonia",
+      "year": 2025
+    },
+    "A House of Dynamite": {
+      "id": 1290159,
+      "poster": "/AiJ8L90ftPAwVf3SDx7Fj9IMZoy.jpg",
+      "title": "A House of Dynamite",
+      "year": 2025
+    },
+    "Frankenstein": {
+      "id": 1062722,
+      "poster": "/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+      "title": "Frankenstein",
+      "year": 2025
+    },
+    "Wicked for Good": {
+      "id": 967941,
+      "poster": "/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+      "title": "Wicked: For Good",
+      "year": 2025
+    },
+    "The Scorpion King": {
+      "id": 9334,
+      "poster": "/aITIsX20tACn6jgtyDcCYpRT216.jpg",
+      "title": "The Scorpion King",
+      "year": 2002
+    },
+    "The Rundown": {
+      "id": 10159,
+      "poster": "/dJX06UwlLIwbLLt9UQ6DlkHF4jz.jpg",
+      "title": "The Rundown",
+      "year": 2003
+    },
+    "Southland Tales": {
+      "id": 4723,
+      "poster": "/7dbIDQ80z4bxiDlAvxRwc5TI44C.jpg",
+      "title": "Southland Tales",
+      "year": 2007
+    },
+    "Pain & Gain": {
+      "id": 134374,
+      "poster": "/9WqA0Ry9wmTzFvom8mNbcyKZQgP.jpg",
+      "title": "Pain & Gain",
+      "year": 2013
+    },
+    "Central Intelligence": {
+      "id": 302699,
+      "poster": "/hXQVMbRNpf7c93e8clMY4W5DRm6.jpg",
+      "title": "Central Intelligence",
+      "year": 2016
+    },
+    "Moana": {
+      "id": 1108427,
+      "poster": "/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+      "title": "Moana",
+      "year": 2026
+    },
+    "Jungle Cruise": {
+      "id": 451048,
+      "poster": "/yKy9ELL8CON5sqDg4yIvBb5LTZL.jpg",
+      "title": "Jungle Cruise",
+      "year": 2021
+    },
+    "Black Adam": {
+      "id": 436270,
+      "poster": "/rCtreCr4xiYEWDQTebybolIh6Xe.jpg",
+      "title": "Black Adam",
+      "year": 2022
+    },
+    "Fast Five": {
+      "id": 51497,
+      "poster": "/gEfQjjQwY7fh5bI4GlG0RrBu7Pz.jpg",
+      "title": "Fast Five",
+      "year": 2011
+    },
+    "Fast & Furious 6": {
+      "id": 82992,
+      "poster": "/thSmnRdrzPBBospIOJjLZBReqzo.jpg",
+      "title": "Fast & Furious 6",
+      "year": 2013
+    },
+    "No Other Choice": {
+      "id": 639988,
+      "poster": "/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+      "title": "No Other Choice",
+      "year": 2025
+    },
+    "Marty Supreme": {
+      "id": 1317288,
+      "poster": "/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+      "title": "Marty Supreme",
+      "year": 2025
+    },
+    "Avatar: Fire and Ash": {
+      "id": 83533,
+      "poster": "/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
+      "title": "Avatar: Fire and Ash",
+      "year": 2025
+    },
+    "Rental Family": {
+      "id": 1208348,
+      "poster": "/nRrwqApUDFL8gLGyJFIdDkmoule.jpg",
+      "title": "Rental Family",
+      "year": 2025
+    },
+    "Train Dreams": {
+      "id": 1241983,
+      "poster": "/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg",
+      "title": "Train Dreams",
+      "year": 2025
+    },
+    "Springsteen: Deliver Me from Nowhere": {
+      "id": 1230368,
+      "poster": "/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
+      "title": "Springsteen: Deliver Me from Nowhere",
+      "year": 2025
+    },
+    "Is This Thing On?": {
+      "id": 1140498,
+      "poster": "/YD6QzcokTMe3EViM0hLbNCxf4y.jpg",
+      "title": "Is This Thing On?",
+      "year": 2025
+    },
+    "The Testament of Ann Lee": {
+      "id": 1401281,
+      "poster": "/hBGg3IGRM7LM6ydMmDrl8mEx33Y.jpg",
+      "title": "The Testament of Ann Lee",
+      "year": 2025
+    },
+    "Weapons": {
+      "id": 1078605,
+      "poster": "/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+      "title": "Weapons",
+      "year": 2025
+    },
+    "Cover-Up": {
+      "id": 1516391,
+      "poster": "/3kVAkwPrNNw3kxe2yJVatj86QKo.jpg",
+      "title": "Cover-Up",
+      "year": 2025
+    },
+    "Requiem for a Heavyweight": {
+      "id": 53229,
+      "poster": "/qUKTcUhIeFZO0ZGvjja5bx1rsMu.jpg",
+      "title": "Requiem for a Heavyweight",
+      "year": 1962
+    },
+    "Fat City": {
+      "id": 16993,
+      "poster": "/7ag7BOMnAuDKwNyI0wc8jTeimRb.jpg",
+      "title": "Fat City",
+      "year": 1972
+    },
+    "The Harder They Fall": {
+      "id": 28528,
+      "poster": "/93pUA2kAOeVlyvO1EeW8YmYIapt.jpg",
+      "title": "The Harder They Fall",
+      "year": 1956
+    },
+    "Rocky": {
+      "id": 1366,
+      "poster": "/aYtBYWqCdUqcnoodWJdcTG3pFev.jpg",
+      "title": "Rocky",
+      "year": 1976
+    },
+    "Rocky III": {
+      "id": 1371,
+      "poster": "/uqw16i2kmwVqkJHzjzbDU4xZ0Pl.jpg",
+      "title": "Rocky III",
+      "year": 1982
+    },
+    "Raging Bull": {
+      "id": 1578,
+      "poster": "/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
+      "title": "Raging Bull",
+      "year": 1980
+    },
+    "Licorice Pizza": {
+      "id": 718032,
+      "poster": "/ivXtvzfliGvoJ1DhSHIGyYBToWe.jpg",
+      "title": "Licorice Pizza",
+      "year": 2021
+    },
+    "Happy Gilmore 2": {
+      "id": 1263256,
+      "poster": "/E3dPHPJigkXwuiE0n1vzz0se8a.jpg",
+      "title": "Happy Gilmore 2",
+      "year": 2025
+    },
+    "They Live": {
+      "id": 8337,
+      "poster": "/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg",
+      "title": "They Live",
+      "year": 1988
+    },
+    "Crimson Tide": {
+      "id": 8963,
+      "poster": "/21nqRJ6ofEgVvEl68J4O9V26Xzy.jpg",
+      "title": "Crimson Tide",
+      "year": 1995
+    },
+    "No Way Out": {
+      "id": 10083,
+      "poster": "/93CzsBvRhg035yvQosRtSsTL19v.jpg",
+      "title": "No Way Out",
+      "year": 1987
+    },
+    "Lizard Music": {
+      "id": 1543467,
+      "poster": null,
+      "title": "Lizard Music",
+      "year": null
+    },
+    "The Smashing Machine: The Life and Times of Extreme Fighter Mark Kerr": {
+      "id": 35997,
+      "poster": "/xfR7bDx7vh7HqRuZmnaRyMWju87.jpg",
+      "title": "The Smashing Machine",
+      "year": 2002
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Gabby's Dollhouse: The Movie": {
+      "id": 1280282,
+      "poster": "/t6LLguAmu6iZUN8pWhT7Q0IcaQ5.jpg",
+      "title": "Gabby's Dollhouse: The Movie",
+      "year": 2025
+    },
+    "Eddington": {
+      "id": 648878,
+      "poster": "/4GIqZUgPZ146BhibsPHMHef2nXX.jpg",
+      "title": "Eddington",
+      "year": 2025
+    },
+    "Nightmare Alley": {
+      "id": 597208,
+      "poster": "/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg",
+      "title": "Nightmare Alley",
+      "year": 2021
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Dune": {
+      "id": 438631,
+      "poster": "/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "title": "Dune",
+      "year": 2021
+    },
+    "Dune: Part Two": {
+      "id": 693134,
+      "poster": "/heM4XKC0jA8fTSNe8F7oUkcJV7Z.jpg",
+      "title": "Dune: Part Two",
+      "year": 2024
+    },
+    "Wonka": {
+      "id": 787699,
+      "poster": "/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+      "title": "Wonka",
+      "year": 2023
+    }
+  },
+  "spotifyEpisodeId": "3EF7YtR2UtIR5HIaFnMKek"
+}

@@ -78,23 +78,15 @@ when the run goes inactive or the slug is already published. Setup (one-time):
 - Box `.env` also needs `PROGRESS_URL=https://thefullpicture.app/api/progress`.
 Without these the POST is skipped and the panel just stays hidden — nothing breaks.
 
-## Groq engine (default) — lessons
-- `whisper-large-v3-turbo` beats local `medium.en` on proper nouns (movie titles) and is
-  ~$0/episode. POST FLAC chunks to `/openai/v1/audio/transcriptions`.
-- **Free tier caps audio at 7200 s/hr (ASPH), rolling.** A 149-min episode (8958 s) CANNOT be
-  done inside one hour — max ~120 min/hr. The CLI paces uploads (~11 chunks/hr) to stay under it.
-  The 429 message mislabels the rolling total as "Requested <N>"; it's account usage, not file size.
-- **Chunk with `-ss/-t`, not `-f segment`.** The segment muxer writes the whole-file duration
-  into the LAST FLAC's header; Groq reads that and rejects it as too large.
-- Dev tier (100 MB files, higher ASPH, ~$0.10/episode) removes all of this — but self-serve
-  upgrades have been unavailable since ~May 2026, so free-tier pacing is the current path.
-
-## Lessons — local engine (do not relearn the hard way)
+## Transcription — local (faster-whisper on CPU), the only engine
 - **BatchedInferencePipeline, not `model.transcribe()`.** Plain transcribe pins ~1 core
   (~0.5x realtime); batched VAD-chunks and uses ~3/4 cores (~1.6–1.7x realtime).
-- **`medium.en`** is the sweet spot for movie-title-heavy CPU audio. `small.en` mangles
-  proper nouns; `large-v3` too slow CPU-only. `device="cuda"` if a GPU ever appears.
+- **`medium.en`** is the sweet spot for movie-title-heavy CPU audio (~1.6x realtime). `small.en`
+  mangles proper nouns. For fewer title mishears at a speed cost, `--model large-v3-turbo`
+  (the large model, faster decoder) or `distil-large-v3.5`; full `large-v3` is too slow CPU-only.
+  `device="cuda"` if a GPU ever appears.
 - Write transcript **incrementally** (plain + timestamped) so a crash keeps partial output.
+  The script pings the "now processing" panel as the timeline advances (needs `PROGRESS_URL`/`_TOKEN`).
 - Run transcription as a **harness-tracked background job** (`Bash run_in_background:true`,
   not nohup) → auto-notified on completion. ETA ≈ episode_minutes / 1.6.
 

@@ -41,6 +41,11 @@ const kind = (ep) => [...new Set((ep.segments ?? []).map((s) => KIND[s.kind] ?? 
 
     <section class="sale-section" style="border-bottom:none">
       <p class="rubric">Episodes <span class="sub">newest first</span></p>
+      <p class="ai-note">
+        <b>AI-generated</b>
+        Episodes are transcribed and analyzed with AI models. The matches aren't perfect —
+        expect the occasional misheard title or a link to the wrong film.
+      </p>
       <div class="catalogue">
         {episodes.map((ep) => (
           <a class="sale-card" href={`/ep/${ep.slug}`}>

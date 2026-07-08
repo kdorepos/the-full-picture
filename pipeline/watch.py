@@ -38,7 +38,10 @@ def feed_items(url):
         except Exception:
             continue
         title = t.group(1).strip()
-        out.append({"index": i, "title": title, "date": date, "url": au.group(1), "slug": slug(title)})
+        # Strip Megaphone's ?updated= cache-buster so the URL is a stable id for pinning
+        # (the query param changes over time and breaks exact-URL matching).
+        url = au.group(1).split("?")[0]
+        out.append({"index": i, "title": title, "date": date, "url": url, "slug": slug(title)})
     return out
 
 

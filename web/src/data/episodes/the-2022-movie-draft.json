@@ -1,0 +1,629 @@
+{
+  "slug": "the-2022-movie-draft",
+  "title": "The 2022 Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2025-12-17",
+  "runtimeMin": 86,
+  "format": "Chris Ryan, Sean Fennessey, and Amanda Dobbins draft the movies of 2022 across six categories, a year they agree runs high at the very top and thin most everywhere else. Chris's last episode of the year.",
+  "segments": [
+    {
+      "kind": "draft",
+      "heading": "The teams",
+      "draftOf": "the movies of 2022",
+      "categories": [
+        "Drama",
+        "Action / Horror / Thriller",
+        "Oscar Nominee",
+        "Sequel",
+        "Blockbuster",
+        "Wild Card"
+      ],
+      "teams": [
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "The Banshees of Inisherin",
+              "year": 2022,
+              "category": "Drama",
+              "note": "McDonagh's most satisfying film since In Bruges, and a chess move to thin the Oscar category."
+            },
+            {
+              "title": "Ambulance",
+              "year": 2022,
+              "category": "Action / Horror / Thriller",
+              "note": "Michael Bay's one-crazy-day-in-LA heist; the front half wants to be Heat, the back half is one of the century's best chase movies."
+            },
+            {
+              "title": "Top Gun: Maverick",
+              "year": 2022,
+              "category": "Oscar Nominee",
+              "note": "took it in Oscar rather than Blockbuster; calls the coffin-run stretch near-perfect cinema."
+            },
+            {
+              "title": "Confess, Fletch",
+              "year": 2022,
+              "category": "Sequel",
+              "note": "Greg Mottola's undersung revival with Jon Hamm as Fletch; buried on streaming, wants three more."
+            },
+            {
+              "title": "The Batman",
+              "year": 2022,
+              "category": "Blockbuster",
+              "note": "Reeves' fully-built Gotham, a solid Pattinson, and the Dano-behind-the-glass meme."
+            },
+            {
+              "title": "Emily the Criminal",
+              "year": 2022,
+              "category": "Wild Card",
+              "note": "John Patton Ford's Straight Time-adjacent crime portrait; Aubrey Plaza against type."
+            }
+          ]
+        },
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Babylon",
+              "year": 2022,
+              "category": "Drama",
+              "note": "Chazelle's near-masterpiece; a box-office bomb Sean helped build a fan hive around. His peace-offering pick to leave Tár on the board."
+            },
+            {
+              "title": "Barbarian",
+              "year": 2022,
+              "category": "Action / Horror / Thriller",
+              "note": "Zach Cregger's debut and a new director he'll follow for 25 years; still waiting on the 4K."
+            },
+            {
+              "title": "Avatar: The Way of Water",
+              "year": 2022,
+              "category": "Oscar Nominee",
+              "note": "Cameron's return 13 years on; moved him, though he swears no tears were shed."
+            },
+            {
+              "title": "Prey",
+              "year": 2022,
+              "category": "Sequel",
+              "note": "Trachtenberg's largely silent Predator prequel; stunned Chris left it on the board."
+            },
+            {
+              "title": "Nope",
+              "year": 2022,
+              "category": "Blockbuster",
+              "note": "his favorite film of the year and favorite Peele, seen on 70mm at the Egyptian."
+            },
+            {
+              "title": "Everything Everywhere All at Once",
+              "year": 2022,
+              "category": "Wild Card",
+              "note": "likes it as a genre mashup and immigrant-family portrait, apart from the awards spin cycle that he thinks hurt it."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "The Fabelmans",
+              "year": 2022,
+              "category": "Drama",
+              "note": "Spielberg's under-celebrated self-portrait, written with Tony Kushner; Gabriel LaBelle standing out."
+            },
+            {
+              "title": "Pearl",
+              "year": 2022,
+              "category": "Action / Horror / Thriller",
+              "note": "Ti West and Mia Goth's lockdown-born prequel; watched to complete the X trilogy and was charmed."
+            },
+            {
+              "title": "Tár",
+              "year": 2022,
+              "category": "Oscar Nominee",
+              "note": "Sean's peace offering; her co-favorite of the year for going for capital-C cinema."
+            },
+            {
+              "title": "Downton Abbey: A New Era",
+              "year": 2022,
+              "category": "Sequel",
+              "note": "the best of the Downton movies: a straight Singin' in the Rain crib on the French Riviera."
+            },
+            {
+              "title": "Minions: The Rise of Gru",
+              "year": 2022,
+              "category": "Blockbuster",
+              "note": "spent more airtime recapping the Minions choir than she did on Tár."
+            },
+            {
+              "title": "Halftime",
+              "year": 2022,
+              "category": "Wild Card",
+              "note": "the Jennifer Lopez doc she's thought about third-most all year, for the backstage Golden Globe meltdown."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Women Talking",
+        "The Lost City",
+        "Bullet Train",
+        "Armageddon Time",
+        "Aftersun",
+        "X"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Top of the 2022 box office",
+      "films": [
+        "Jurassic World Dominion",
+        "Doctor Strange in the Multiverse of Madness",
+        "Black Panther: Wakanda Forever"
+      ]
+    },
+    {
+      "group": "The year's low end",
+      "films": [
+        "Morbius",
+        "Firestarter",
+        "The Bubble",
+        "Pinocchio",
+        "Halloween Ends",
+        "Blonde",
+        "Guillermo del Toro's Pinocchio"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Avatar",
+        "A Quiet Place Part II",
+        "Old",
+        "Gladiator",
+        "High Fidelity",
+        "The Dark Knight Rises",
+        "Zack Snyder's Justice League",
+        "Get Out",
+        "Us",
+        "In Bruges",
+        "La La Land",
+        "A Star Is Born",
+        "Green Book",
+        "Straight Time",
+        "Gilda",
+        "Singin' in the Rain",
+        "The Jazz Singer",
+        "Predator",
+        "Predator 2",
+        "Predators",
+        "Predator: Badlands",
+        "Weapons",
+        "F1",
+        "After the Hunt",
+        "Jay Kelly",
+        "Eleanor the Great",
+        "Jurassic World Rebirth",
+        "MaXXXine",
+        "Dune: Part Two",
+        "Hustlers",
+        "Frankenstein"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Pinocchio": 532639
+  },
+  "excluded": {
+    "TV": [
+      "Mussolini: Son of the Century",
+      "Presumed Innocent",
+      "Bates Motel",
+      "Pluribus",
+      "Law & Order"
+    ],
+    "Ads": [
+      "Amazon Prime",
+      "State Farm"
+    ]
+  },
+  "tmdb": {
+    "The Banshees of Inisherin": {
+      "id": 674324,
+      "poster": "/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg",
+      "title": "The Banshees of Inisherin",
+      "year": 2022
+    },
+    "Ambulance": {
+      "id": 763285,
+      "poster": "/hUbgg3mMSbY9PlpTxBo4IFUVSd6.jpg",
+      "title": "Ambulance",
+      "year": 2022
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Confess, Fletch": {
+      "id": 724665,
+      "poster": "/h2oyiPu7aql1s1mLDoKBNAH7p3B.jpg",
+      "title": "Confess, Fletch",
+      "year": 2022
+    },
+    "The Batman": {
+      "id": 414906,
+      "poster": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "title": "The Batman",
+      "year": 2022
+    },
+    "Emily the Criminal": {
+      "id": 862965,
+      "poster": "/iZvzMpREGiqDQ5eYbx8z70qPgst.jpg",
+      "title": "Emily the Criminal",
+      "year": 2022
+    },
+    "Babylon": {
+      "id": 615777,
+      "poster": "/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+      "title": "Babylon",
+      "year": 2022
+    },
+    "Barbarian": {
+      "id": 913290,
+      "poster": "/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
+      "title": "Barbarian",
+      "year": 2022
+    },
+    "Avatar: The Way of Water": {
+      "id": 76600,
+      "poster": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "title": "Avatar: The Way of Water",
+      "year": 2022
+    },
+    "Prey": {
+      "id": 766507,
+      "poster": "/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg",
+      "title": "Prey",
+      "year": 2022
+    },
+    "Nope": {
+      "id": 762504,
+      "poster": "/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
+      "title": "Nope",
+      "year": 2022
+    },
+    "Everything Everywhere All at Once": {
+      "id": 545611,
+      "poster": "/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+      "title": "Everything Everywhere All at Once",
+      "year": 2022
+    },
+    "The Fabelmans": {
+      "id": 804095,
+      "poster": "/h7llKkqkkJtJrTOaDLuVeUYDQ7I.jpg",
+      "title": "The Fabelmans",
+      "year": 2022
+    },
+    "Pearl": {
+      "id": 949423,
+      "poster": "/z5uIG81pXyHKg7cUFIu84Wjn4NS.jpg",
+      "title": "Pearl",
+      "year": 2022
+    },
+    "Tár": {
+      "id": 817758,
+      "poster": "/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg",
+      "title": "TÁR",
+      "year": 2022
+    },
+    "Downton Abbey: A New Era": {
+      "id": 820446,
+      "poster": "/r5n4CLoIjUcnT3shWDi6MHdJ25a.jpg",
+      "title": "Downton Abbey: A New Era",
+      "year": 2022
+    },
+    "Minions: The Rise of Gru": {
+      "id": 438148,
+      "poster": "/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg",
+      "title": "Minions: The Rise of Gru",
+      "year": 2022
+    },
+    "Halftime": {
+      "id": 962192,
+      "poster": "/jUVglxBw7KSkcVEhvfJs1eipPnk.jpg",
+      "title": "Halftime",
+      "year": 2022
+    },
+    "Women Talking": {
+      "id": 777245,
+      "poster": "/wcTc9GveMMjAdHSlzdE0FaRCtqi.jpg",
+      "title": "Women Talking",
+      "year": 2022
+    },
+    "The Lost City": {
+      "id": 752623,
+      "poster": "/rnheO8cFvCYcmZsDrBoabJbKLFE.jpg",
+      "title": "The Lost City",
+      "year": 2022
+    },
+    "Bullet Train": {
+      "id": 718930,
+      "poster": "/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg",
+      "title": "Bullet Train",
+      "year": 2022
+    },
+    "Armageddon Time": {
+      "id": 615952,
+      "poster": "/wMK717aDWhboXOiVbZ9sLBqLmKh.jpg",
+      "title": "Armageddon Time",
+      "year": 2022
+    },
+    "Aftersun": {
+      "id": 965150,
+      "poster": "/evKz85EKouVbIr51zy5fOtpNRPg.jpg",
+      "title": "Aftersun",
+      "year": 2022
+    },
+    "X": {
+      "id": 760104,
+      "poster": "/lopZSVtXzhFY603E9OqF7O1YKsh.jpg",
+      "title": "X",
+      "year": 2022
+    },
+    "Jurassic World Dominion": {
+      "id": 507086,
+      "poster": "/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg",
+      "title": "Jurassic World Dominion",
+      "year": 2022
+    },
+    "Doctor Strange in the Multiverse of Madness": {
+      "id": 453395,
+      "poster": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "year": 2022
+    },
+    "Black Panther: Wakanda Forever": {
+      "id": 505642,
+      "poster": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+      "title": "Black Panther: Wakanda Forever",
+      "year": 2022
+    },
+    "Morbius": {
+      "id": 526896,
+      "poster": "/Av8Z2jZhEm1FLkFzMThzz9hndJF.jpg",
+      "title": "Morbius",
+      "year": 2022
+    },
+    "Firestarter": {
+      "id": 532710,
+      "poster": "/jjBdPcQ0bplBnv2XgElKLoeFDuM.jpg",
+      "title": "Firestarter",
+      "year": 2022
+    },
+    "The Bubble": {
+      "id": 765119,
+      "poster": "/edYk5TSowZIDv138bCpF5ls3XI5.jpg",
+      "title": "The Bubble",
+      "year": 2022
+    },
+    "Pinocchio": {
+      "id": 532639,
+      "poster": "/zaZhjKrJeWczQ3AotKoQObppEbH.jpg",
+      "title": "Pinocchio",
+      "year": 2022
+    },
+    "Halloween Ends": {
+      "id": 616820,
+      "poster": "/q06saepaXeBdkMibuN4R2fXmgIw.jpg",
+      "title": "Halloween Ends",
+      "year": 2022
+    },
+    "Blonde": {
+      "id": 301502,
+      "poster": "/mEeHqtnWOR44vLCutEFku2WK6ou.jpg",
+      "title": "Blonde",
+      "year": 2022
+    },
+    "Guillermo del Toro's Pinocchio": {
+      "id": 555604,
+      "poster": "/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",
+      "title": "Guillermo del Toro's Pinocchio",
+      "year": 2022
+    },
+    "Avatar": {
+      "id": 19995,
+      "poster": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "title": "Avatar",
+      "year": 2009
+    },
+    "A Quiet Place Part II": {
+      "id": 520763,
+      "poster": "/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",
+      "title": "A Quiet Place Part II",
+      "year": 2021
+    },
+    "Old": {
+      "id": 631843,
+      "poster": "/vclShucpUmPhdAOmKgf3B3Z4POD.jpg",
+      "title": "Old",
+      "year": 2021
+    },
+    "Gladiator": {
+      "id": 98,
+      "poster": "/wN2xWp1eIwCKOD0BHTcErTBv1Uq.jpg",
+      "title": "Gladiator",
+      "year": 2000
+    },
+    "High Fidelity": {
+      "id": 243,
+      "poster": "/e2LZGB62GMhv3Fo8tDZjY87I81a.jpg",
+      "title": "High Fidelity",
+      "year": 2000
+    },
+    "The Dark Knight Rises": {
+      "id": 49026,
+      "poster": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+      "title": "The Dark Knight Rises",
+      "year": 2012
+    },
+    "Zack Snyder's Justice League": {
+      "id": 791373,
+      "poster": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+      "title": "Zack Snyder's Justice League",
+      "year": 2021
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Us": {
+      "id": 458723,
+      "poster": "/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+      "title": "Us",
+      "year": 2019
+    },
+    "In Bruges": {
+      "id": 8321,
+      "poster": "/vz3Vd6nfq9YZrVvyYx5RHFaYKV3.jpg",
+      "title": "In Bruges",
+      "year": 2008
+    },
+    "La La Land": {
+      "id": 313369,
+      "poster": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "title": "La La Land",
+      "year": 2016
+    },
+    "A Star Is Born": {
+      "id": 332562,
+      "poster": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "title": "A Star Is Born",
+      "year": 2018
+    },
+    "Green Book": {
+      "id": 490132,
+      "poster": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+      "title": "Green Book",
+      "year": 2018
+    },
+    "Straight Time": {
+      "id": 23397,
+      "poster": "/qht8SAqj7dEeEzv9yXalFB35ycb.jpg",
+      "title": "Straight Time",
+      "year": 1978
+    },
+    "Gilda": {
+      "id": 3767,
+      "poster": "/46eKPjoWEyNBAQKDoXEcDFBcaUw.jpg",
+      "title": "Gilda",
+      "year": 1946
+    },
+    "Singin' in the Rain": {
+      "id": 872,
+      "poster": "/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+      "title": "Singin' in the Rain",
+      "year": 1952
+    },
+    "The Jazz Singer": {
+      "id": 939,
+      "poster": "/wr8Pt1GO87cwB3210TO3JTNDsUc.jpg",
+      "title": "The Jazz Singer",
+      "year": 1927
+    },
+    "Predator": {
+      "id": 106,
+      "poster": "/aN3cdjIK70KGmD84et8MMblU87Q.jpg",
+      "title": "Predator",
+      "year": 1987
+    },
+    "Predator 2": {
+      "id": 169,
+      "poster": "/83X4VwY9sdSJykskmsplIVG0a4h.jpg",
+      "title": "Predator 2",
+      "year": 1990
+    },
+    "Predators": {
+      "id": 34851,
+      "poster": "/wdniP8NDaJIydi1hMxhpbJMUfr6.jpg",
+      "title": "Predators",
+      "year": 2010
+    },
+    "Predator: Badlands": {
+      "id": 1242898,
+      "poster": "/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+      "title": "Predator: Badlands",
+      "year": 2025
+    },
+    "Weapons": {
+      "id": 1078605,
+      "poster": "/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+      "title": "Weapons",
+      "year": 2025
+    },
+    "F1": {
+      "id": 911430,
+      "poster": "/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
+      "title": "F1",
+      "year": 2025
+    },
+    "After the Hunt": {
+      "id": 1265063,
+      "poster": "/ryF8QPGUGlo8gRB4OYKb4J0r3aJ.jpg",
+      "title": "After the Hunt",
+      "year": 2025
+    },
+    "Jay Kelly": {
+      "id": 1069905,
+      "poster": "/lEXYpY9X17pGC7xYYy17Guv0L3J.jpg",
+      "title": "Jay Kelly",
+      "year": 2025
+    },
+    "Eleanor the Great": {
+      "id": 1212271,
+      "poster": "/9XTM42IJST6lwPxtK2iUwNaFvCT.jpg",
+      "title": "Eleanor the Great",
+      "year": 2025
+    },
+    "Jurassic World Rebirth": {
+      "id": 1234821,
+      "poster": "/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
+      "title": "Jurassic World Rebirth",
+      "year": 2025
+    },
+    "MaXXXine": {
+      "id": 1023922,
+      "poster": "/ArvoFK6nlouZRxYmtIOUzKIrg90.jpg",
+      "title": "MaXXXine",
+      "year": 2024
+    },
+    "Dune: Part Two": {
+      "id": 693134,
+      "poster": "/heM4XKC0jA8fTSNe8F7oUkcJV7Z.jpg",
+      "title": "Dune: Part Two",
+      "year": 2024
+    },
+    "Hustlers": {
+      "id": 540901,
+      "poster": "/zBhv8rsLOfpFW2M5b6wW78Uoojs.jpg",
+      "title": "Hustlers",
+      "year": 2019
+    },
+    "Frankenstein": {
+      "id": 1062722,
+      "poster": "/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+      "title": "Frankenstein",
+      "year": 2025
+    }
+  },
+  "spotifyEpisodeId": "41fUmXPirKwIf4YhHnVLbI"
+}

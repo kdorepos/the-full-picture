@@ -104,6 +104,7 @@ def transcribe_local(wav, txt, model_name, secs, meta, cores):
     segments, _ = batched.transcribe(wav, batch_size=cores, language="en", beam_size=5)
     stamped = txt.replace(".txt", ".timestamped.txt")
     last_pct = -1
+    t0 = time.time()
     with open(txt, "w") as ft, open(stamped, "w") as fs:
         for seg in segments:
             ft.write(seg.text.strip() + "\n"); ft.flush()
@@ -111,7 +112,11 @@ def transcribe_local(wav, txt, model_name, secs, meta, cores):
             pct = min(99, int(seg.end / secs * 100)) if secs else 0
             if pct > last_pct:  # ping the panel at each 1% of the timeline
                 last_pct = pct
-                write_progress(phase="transcribing", pct=pct, **meta)
+                # ETA from observed throughput (self-calibrates to the actual core count),
+                # not a hardcoded realtime factor: remaining_audio / (processed / elapsed).
+                elapsed = time.time() - t0
+                eta = max(0, round((secs - seg.end) * elapsed / seg.end)) if seg.end > 0 else None
+                write_progress(phase="transcribing", pct=pct, etaSec=eta, **meta)
 
 
 def main():

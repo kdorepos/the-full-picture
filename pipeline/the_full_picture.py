@@ -92,18 +92,19 @@ def duration(path):
     return float(out.strip())
 
 
-def transcribe_local(wav, txt, model_name, secs, meta):
-    """faster-whisper on CPU. BatchedInferencePipeline VAD-chunks internally and uses most
-    cores (~1.6x realtime for medium.en). Writes the transcript incrementally so a crash
-    keeps partial output, and pings the progress panel as the timeline advances."""
+def transcribe_local(wav, txt, model_name, secs, meta, cores):
+    """faster-whisper on CPU. BatchedInferencePipeline VAD-chunks internally. Capped at
+    `cores` threads (default 3) so it doesn't saturate the box and get OOM-killed; raise
+    --cores on a beefier machine. Writes the transcript incrementally so a crash keeps
+    partial output, and pings the progress panel as the timeline advances."""
     from faster_whisper import WhisperModel, BatchedInferencePipeline
-    cores = os.cpu_count() or 4
     print(f"Loading {model_name} (int8, {cores} threads)")
     model = WhisperModel(model_name, device="cpu", compute_type="int8", cpu_threads=cores)
     batched = BatchedInferencePipeline(model=model)
-    segments, _ = batched.transcribe(wav, batch_size=8, language="en", beam_size=5)
+    segments, _ = batched.transcribe(wav, batch_size=cores, language="en", beam_size=5)
     stamped = txt.replace(".txt", ".timestamped.txt")
     last_pct = -1
+    t0 = time.time()
     with open(txt, "w") as ft, open(stamped, "w") as fs:
         for seg in segments:
             ft.write(seg.text.strip() + "\n"); ft.flush()
@@ -111,7 +112,11 @@ def transcribe_local(wav, txt, model_name, secs, meta):
             pct = min(99, int(seg.end / secs * 100)) if secs else 0
             if pct > last_pct:  # ping the panel at each 1% of the timeline
                 last_pct = pct
-                write_progress(phase="transcribing", pct=pct, **meta)
+                # ETA from observed throughput (self-calibrates to the actual core count),
+                # not a hardcoded realtime factor: remaining_audio / (processed / elapsed).
+                elapsed = time.time() - t0
+                eta = max(0, round((secs - seg.end) * elapsed / seg.end)) if seg.end > 0 else None
+                write_progress(phase="transcribing", pct=pct, etaSec=eta, **meta)
 
 
 def main():
@@ -121,6 +126,8 @@ def main():
                     help="faster-whisper model: medium.en (default), large-v3-turbo, distil-large-v3.5, ...")
     ap.add_argument("--outdir", default="out")
     ap.add_argument("--item", type=int, default=0, help="RSS feed item index (0 = newest)")
+    ap.add_argument("--cores", type=int, default=3,
+                    help="CPU threads / batch size (default 3; keep low to avoid killing the box)")
     ap.add_argument("--keep-audio", action="store_true")
     a = ap.parse_args()
 
@@ -144,7 +151,7 @@ def main():
         sh("ffmpeg", "-y", "-loglevel", "error", "-i", mp3,
            "-ar", "16000", "-ac", "1", "-c:a", "pcm_s16le", wav)
     write_progress(phase="transcribing", pct=0, **meta)
-    transcribe_local(wav, txt, a.model, secs, meta)
+    transcribe_local(wav, txt, a.model, secs, meta, a.cores)
     # Transcription done; still needs extraction/enrich/review before it's on the site.
     write_progress(phase="transcribed", pct=100, **meta)
     a.keep_audio or (os.path.exists(wav) and os.remove(wav))

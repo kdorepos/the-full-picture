@@ -75,8 +75,11 @@ const kind = (ep) => [...new Set((ep.segments ?? []).map((s) => KIND[s.kind] ?? 
         document.getElementById('proc-title').textContent = p.title || 'A new episode';
         document.getElementById('proc-fill').style.width = pct + '%';
         const label = PHASE[p.phase] || 'Processing';
+        const mins = Math.round((p.etaSec ?? 0) / 60);
+        const eta = p.phase === 'transcribing' && p.etaSec > 0
+          ? ` · ~${mins < 1 ? '1' : mins}m left` : '';
         document.getElementById('proc-status').textContent =
-          p.phase === 'transcribing' ? `${label} · ${pct}%`
+          p.phase === 'transcribing' ? `${label} · ${pct}%${eta}`
             : p.phase === 'transcribed' ? label : `${label}…`;
         el.hidden = false;
       } catch { el.hidden = true; }

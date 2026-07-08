@@ -62,13 +62,10 @@ def main():
     match = find_episode(show, ep["title"], ep["published"], token())
     if not match:
         sys.exit(f"No Spotify match for '{ep['title']}' ({ep['published']})")
-    out = {}
-    for k, v in ep.items():
-        out[k] = v
-        if k == "type":
-            out["spotifyEpisodeId"] = match["id"]
-    out.setdefault("spotifyEpisodeId", match["id"])
-    json.dump(out, open(path, "w"), ensure_ascii=False, indent=2)
+    # Unconditional write — must overwrite an empty placeholder if extraction pre-seeded
+    # `spotifyEpisodeId: ""` (setdefault/insert-after-type silently no-op'd in that case).
+    ep["spotifyEpisodeId"] = match["id"]
+    json.dump(ep, open(path, "w"), ensure_ascii=False, indent=2)
     print(f"matched: {match['name']} ({match.get('release_date')}) -> {match['id']}")
 
 

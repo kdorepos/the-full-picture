@@ -35,7 +35,7 @@ segments is matched once.
 
 ## Segments
 
-Every segment has `kind`, `heading`, optional `note` (the grey sub-label), plus
+Every segment has `kind`, `heading`, optional `note` (the gray sub-label), plus
 a kind-specific payload. Renderer map (`components/Segment.astro`):
 
 | kind | renderer | payload | live example |

@@ -1,0 +1,350 @@
+{
+  "slug": "the-devil-wears-prada-2-and-the-movies-that-feel-like-our-li",
+  "title": "‘The Devil Wears Prada 2’ and the Movies That Feel Like Our Lives",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2026-05-01",
+  "runtimeMin": 115,
+  "format": "Sean and Amanda review 'The Devil Wears Prada 2,' then Sean talks to writer-director Chandler Levack about 'Mile End Kicks' and 'Roommates.'",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘The Devil Wears Prada 2’",
+      "note": "the legacy sequel about a dying magazine",
+      "films": [
+        {
+          "title": "The Devil Wears Prada 2",
+          "year": 2026,
+          "note": "David Frankel and Aline Brosh McKenna return; Andy Sachs comes back to Runway. It's less about fashion than about the magazine business collapsing: McKinsey, page views, a Bezos-like buyer played by Justin Theroux. Watchable and well-dressed, but more melancholy and duplicative than the original, with a Miranda who spends the film scrambling instead of cutting people down."
+        },
+        {
+          "title": "The Devil Wears Prada",
+          "year": 2006,
+          "note": "The 2006 original they keep measuring it against: a movie about being good at your job, and the film that, through Miranda Priestly, ended up rehabilitating Anna Wintour."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Chandler Levack on her two 2026 films",
+      "guest": "Chandler Levack on",
+      "films": [
+        {
+          "title": "Mile End Kicks",
+          "year": 2026,
+          "note": "Levack's autobiographical film about a young music writer in Montreal circa 2011; Barbie Ferreira plays a critic trying to write a 33⅓ on Alanis Morissette's 'Jagged Little Pill.' Sean, a former music journalist himself, called it uncanny."
+        },
+        {
+          "title": "Roommates",
+          "year": 2026,
+          "note": "Levack's Netflix comedy from Adam Sandler's Happy Madison, starring Sadie Sandler and Chloe East as college roommates who aren't destined to stay friends."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In the ‘Prada 2’ talk",
+      "films": [
+        "Lilo & Stitch",
+        "Dirty Harry",
+        "Barbie",
+        "Blade Runner 2049",
+        "Mad Max: Fury Road",
+        "Furiosa: A Mad Max Saga",
+        "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+        "Boyhood",
+        "Masters of the Universe",
+        "Morning Glory",
+        "Guardians of the Galaxy",
+        "The Mandalorian and Grogu"
+      ]
+    },
+    {
+      "group": "In the Levack interview",
+      "films": [
+        "Almost Famous",
+        "Lady Bird",
+        "Billy Madison",
+        "Punch-Drunk Love",
+        "I've Heard the Mermaids Singing",
+        "Being John Malkovich",
+        "Jurassic Park",
+        "Schindler's List",
+        "Traffic",
+        "Erin Brockovich",
+        "Toni Erdmann",
+        "The Apartment",
+        "Pillion",
+        "The Souvenir",
+        "The Fabelmans",
+        "Heretic",
+        "Naked",
+        "Shiva Baby",
+        "Bottoms",
+        "Mean Girls",
+        "Hubie Halloween",
+        "Backrooms"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Naked": 21450,
+    "Backrooms": 1083381
+  },
+  "excluded": {
+    "TV": [
+      "The Morning Show",
+      "Mad Men",
+      "Colin from Accounts",
+      "30 Rock",
+      "Girls",
+      "Andor"
+    ],
+    "Ads": [
+      "Amazon Prime",
+      "Tremfya",
+      "Apple",
+      "AT&T",
+      "State Farm",
+      "Wells Fargo Active Cash",
+      "White Claw",
+      "Wayfair"
+    ]
+  },
+  "tmdb": {
+    "The Devil Wears Prada 2": {
+      "id": 1314481,
+      "poster": "/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+      "title": "The Devil Wears Prada 2",
+      "year": 2026
+    },
+    "The Devil Wears Prada": {
+      "id": 350,
+      "poster": "/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+      "title": "The Devil Wears Prada",
+      "year": 2006
+    },
+    "Mile End Kicks": {
+      "id": 1177767,
+      "poster": "/qq3Q1tsxAxMqP38YTZKl8m5zmA4.jpg",
+      "title": "Mile End Kicks",
+      "year": 2026
+    },
+    "Roommates": {
+      "id": 1511057,
+      "poster": "/eW1s6omXIfVkTlmKVe9y9Dwwt4u.jpg",
+      "title": "Roommates",
+      "year": 2026
+    },
+    "Lilo & Stitch": {
+      "id": 552524,
+      "poster": "/ckQzKpQJO4ZQDCN5evdpKcfm7Ys.jpg",
+      "title": "Lilo & Stitch",
+      "year": 2025
+    },
+    "Dirty Harry": {
+      "id": 984,
+      "poster": "/scl2JDHzYoIEs5xyYy5ITCfyY0G.jpg",
+      "title": "Dirty Harry",
+      "year": 1971
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Blade Runner 2049": {
+      "id": 335984,
+      "poster": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+      "title": "Blade Runner 2049",
+      "year": 2017
+    },
+    "Mad Max: Fury Road": {
+      "id": 76341,
+      "poster": "/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+      "title": "Mad Max: Fury Road",
+      "year": 2015
+    },
+    "Furiosa: A Mad Max Saga": {
+      "id": 786892,
+      "poster": "/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
+      "title": "Furiosa: A Mad Max Saga",
+      "year": 2024
+    },
+    "Teenage Mutant Ninja Turtles: Mutant Mayhem": {
+      "id": 614930,
+      "poster": "/gyh0eECE2IqrW8GWl3KoHBfc45j.jpg",
+      "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+      "year": 2023
+    },
+    "Boyhood": {
+      "id": 85350,
+      "poster": "/2BvtvDUyxiMJ4dmKfiQf4qdOHQN.jpg",
+      "title": "Boyhood",
+      "year": 2014
+    },
+    "Masters of the Universe": {
+      "id": 454639,
+      "poster": "/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
+      "title": "Masters of the Universe",
+      "year": 2026
+    },
+    "Morning Glory": {
+      "id": 38357,
+      "poster": "/aFRXEoB3QkeHNHYmVGC3uzFSol8.jpg",
+      "title": "Morning Glory",
+      "year": 2010
+    },
+    "Guardians of the Galaxy": {
+      "id": 118340,
+      "poster": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "title": "Guardians of the Galaxy",
+      "year": 2014
+    },
+    "The Mandalorian and Grogu": {
+      "id": 1228710,
+      "poster": "/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+      "title": "The Mandalorian and Grogu",
+      "year": 2026
+    },
+    "Almost Famous": {
+      "id": 786,
+      "poster": "/3rrkyLYbgLj84AYvjhdcJot4JPx.jpg",
+      "title": "Almost Famous",
+      "year": 2000
+    },
+    "Lady Bird": {
+      "id": 391713,
+      "poster": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+      "title": "Lady Bird",
+      "year": 2017
+    },
+    "Billy Madison": {
+      "id": 11017,
+      "poster": "/sOdgtJdFalL9kRKaeJItARLTAEq.jpg",
+      "title": "Billy Madison",
+      "year": 1995
+    },
+    "Punch-Drunk Love": {
+      "id": 8051,
+      "poster": "/htYp4yqFu4rzBEIa6j9jP8miDm3.jpg",
+      "title": "Punch-Drunk Love",
+      "year": 2002
+    },
+    "I've Heard the Mermaids Singing": {
+      "id": 117233,
+      "poster": "/ms97uqYfxGVyT3X2J9KT08h1LFi.jpg",
+      "title": "I've Heard the Mermaids Singing",
+      "year": 1987
+    },
+    "Being John Malkovich": {
+      "id": 492,
+      "poster": "/31FGQu3OnwdmS4COquENe0vMZc0.jpg",
+      "title": "Being John Malkovich",
+      "year": 1999
+    },
+    "Jurassic Park": {
+      "id": 329,
+      "poster": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "title": "Jurassic Park",
+      "year": 1993
+    },
+    "Schindler's List": {
+      "id": 424,
+      "poster": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+      "title": "Schindler's List",
+      "year": 1993
+    },
+    "Traffic": {
+      "id": 1900,
+      "poster": "/jbccmnqE4oAPI67bApgt2JiRPz8.jpg",
+      "title": "Traffic",
+      "year": 2000
+    },
+    "Erin Brockovich": {
+      "id": 462,
+      "poster": "/eMs20iUQyZVs05Ck7Q0LNnRsstr.jpg",
+      "title": "Erin Brockovich",
+      "year": 2000
+    },
+    "Toni Erdmann": {
+      "id": 374475,
+      "poster": "/v3gf7T8hb8aYv05X2jHmxJQWPZr.jpg",
+      "title": "Toni Erdmann",
+      "year": 2016
+    },
+    "The Apartment": {
+      "id": 284,
+      "poster": "/hhSRt1KKfRT0yEhEtRW3qp31JFU.jpg",
+      "title": "The Apartment",
+      "year": 1960
+    },
+    "Pillion": {
+      "id": 1287141,
+      "poster": "/7Pd6ChSQjSXy4snJiorSdzg2cG3.jpg",
+      "title": "Pillion",
+      "year": 2025
+    },
+    "The Souvenir": {
+      "id": 473019,
+      "poster": "/2Nj04HsZ0lNkv07JnfBZ0bAIECn.jpg",
+      "title": "The Souvenir",
+      "year": 2019
+    },
+    "The Fabelmans": {
+      "id": 804095,
+      "poster": "/h7llKkqkkJtJrTOaDLuVeUYDQ7I.jpg",
+      "title": "The Fabelmans",
+      "year": 2022
+    },
+    "Heretic": {
+      "id": 1138194,
+      "poster": "/fr96XzlzsONrQrGfdLMiwtQjott.jpg",
+      "title": "Heretic",
+      "year": 2024
+    },
+    "Naked": {
+      "id": 21450,
+      "poster": "/xMYP4uaNeyPmX4FQ2xxWk2eIN6K.jpg",
+      "title": "Naked",
+      "year": 1993
+    },
+    "Shiva Baby": {
+      "id": 664300,
+      "poster": "/4sdqVsT6SHqtbCYZS7bhVoEftlL.jpg",
+      "title": "Shiva Baby",
+      "year": 2021
+    },
+    "Bottoms": {
+      "id": 814776,
+      "poster": "/jeyTQrNEpyE1LZIgVlswYh3sc34.jpg",
+      "title": "Bottoms",
+      "year": 2023
+    },
+    "Mean Girls": {
+      "id": 10625,
+      "poster": "/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg",
+      "title": "Mean Girls",
+      "year": 2004
+    },
+    "Hubie Halloween": {
+      "id": 617505,
+      "poster": "/dbhC6qRydXyRmpUdcl9bL9rARya.jpg",
+      "title": "Hubie Halloween",
+      "year": 2020
+    },
+    "Backrooms": {
+      "id": 1083381,
+      "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "title": "Backrooms",
+      "year": 2026
+    }
+  },
+  "spotifyEpisodeId": "3UD4f87inTZ5j9WTzjqFps"
+}

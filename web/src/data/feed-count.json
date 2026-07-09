@@ -1,5 +1,5 @@
 {
   "total": 951,
   "asOf": "2026-07-09",
-  "note": "Snapshot of episodes in the Megaphone RSS feed. The footer renders max(total, published), so a stale snapshot never shows a count below what's live. Bump when the feed grows."
+  "note": "Fallback only. The footer total is fetched live from the RSS feed at build time (src/lib/feedTotal.js); this snapshot is used only if that fetch fails, so a build never breaks. Bump occasionally so the fallback floor stays reasonable."
 }

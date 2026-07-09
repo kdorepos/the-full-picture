@@ -5,12 +5,13 @@ import '@fontsource/ibm-plex-mono/400.css';
 import '@fontsource/ibm-plex-mono/600.css';
 import '../styles/global.css';
 import Analytics from '@vercel/analytics/astro';
-import feedCount from '../data/feed-count.json';
+import { feedTotal } from '../lib/feedTotal';
 const { title, description } = Astro.props;
-// Catalog progress for the footer: live count of published episodes vs. the feed total.
-// max() guards against a stale feed-count snapshot ever reading below what's actually live.
+// Catalog progress for the footer: live count of published episodes vs. the feed total,
+// which feedTotal fetches from the RSS feed at build time. max() guards against the total ever
+// reading below what's actually live (e.g. a fallback-snapshot build after episodes were added).
 const published = Object.keys(import.meta.glob('../data/episodes/*.json', { eager: true })).length;
-const total = Math.max(feedCount.total, published);
+const total = Math.max(feedTotal, published);
 const pct = Math.round((published / total) * 100);
 ---
 <!doctype html>

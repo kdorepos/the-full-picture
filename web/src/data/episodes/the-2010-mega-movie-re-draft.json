@@ -1,0 +1,1119 @@
+{
+  "slug": "the-2010-mega-movie-re-draft",
+  "title": "The 2010 Mega-Movie Re-Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2026-06-23",
+  "runtimeMin": 177,
+  "spotifyEpisodeId": "7rTWA53xR9NX8f5inWhicm",
+  "format": "The show's first redraft: Sean and Amanda rerun the 2010 draft they first did during lockdown, now with five more drafters (Mallory Rubin, Van Lathan, Joanna Robinson, Rob Mahoney and Chris Ryan) each filling a seven-slot roster by category, in a transitional year for movies, just before the Marvel machine took over.",
+  "segments": [
+    {
+      "kind": "draft",
+      "heading": "The teams",
+      "draftOf": "the movies of 2010",
+      "note": "seven drafters, seven rounds, one film per category",
+      "categories": [
+        "Franchise Film",
+        "Original",
+        "Comedy",
+        "Foreign Language / Animated",
+        "Oscar Nominee",
+        "Blockbuster",
+        "Wild Card"
+      ],
+      "teams": [
+        {
+          "host": "Mallory Rubin",
+          "picks": [
+            {
+              "title": "The Social Network",
+              "year": 2010,
+              "category": "Franchise Film",
+              "note": "First overall, slotted in franchise film now that a sequel exists; the group calls it a top-five movie of the century."
+            },
+            {
+              "title": "Blue Valentine",
+              "year": 2010,
+              "category": "Original",
+              "note": "Gosling and Michelle Williams; the being-married-is-hard flip side of falling in love."
+            },
+            {
+              "title": "Kick-Ass",
+              "year": 2010,
+              "category": "Comedy",
+              "note": "Hyper-violent Matthew Vaughn superhero film; conceded it isn't original-eligible but is original in spirit."
+            },
+            {
+              "title": "How to Train Your Dragon",
+              "year": 2010,
+              "category": "Blockbuster",
+              "note": "Hiccup and Toothless; the hero's-journey pick of the draft."
+            },
+            {
+              "title": "Winter's Bone",
+              "year": 2010,
+              "category": "Oscar Nominee",
+              "note": "Debra Granik's Ozarks drama that announced Jennifer Lawrence; John Hawkes is unreal."
+            },
+            {
+              "title": "A Prophet",
+              "year": 2009,
+              "category": "Foreign Language / Animated",
+              "note": "Jacques Audiard's prison-rise crime film."
+            },
+            {
+              "title": "The Kids Are All Right",
+              "year": 2010,
+              "category": "Wild Card",
+              "note": "Ruffalo, Julianne Moore and Bening; a complicated-family comedy-drama."
+            }
+          ]
+        },
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Inception",
+              "year": 2010,
+              "category": "Original",
+              "note": "Sean's pick even as he rates it a six out of ten, the bit that runs the whole episode."
+            },
+            {
+              "title": "The Other Guys",
+              "year": 2010,
+              "category": "Comedy",
+              "note": "The last true Adam McKay comedy before the socially minded pivot; Ferrell and Wahlberg."
+            },
+            {
+              "title": "Animal Kingdom",
+              "year": 2010,
+              "category": "Oscar Nominee",
+              "note": "David Michôd's Australian crime family; Oscar-nominated Jacki Weaver, Ben Mendelsohn."
+            },
+            {
+              "title": "Mother",
+              "year": 2009,
+              "category": "Foreign Language / Animated",
+              "note": "Bong Joon-ho's thriller about what a mother will do for her son."
+            },
+            {
+              "title": "Tangled",
+              "year": 2010,
+              "category": "Blockbuster",
+              "note": "Disney's Rapunzel; Mandy Moore, Zachary Levi. Sean rates it over Frozen."
+            },
+            {
+              "title": "Insidious",
+              "year": 2010,
+              "category": "Franchise Film",
+              "note": "James Wan; Patrick Wilson and Rose Byrne kick off the horror series."
+            },
+            {
+              "title": "Daddy Longlegs",
+              "year": 2010,
+              "category": "Wild Card",
+              "note": "The Safdies' autobiographical early feature (a.k.a. Go Get Some Rosemary)."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "The Town",
+              "year": 2010,
+              "category": "Oscar Nominee",
+              "note": "Affleck's Charlestown heist movie; Renner, Hamm, Blake Lively, Rebecca Hall."
+            },
+            {
+              "title": "Morning Glory",
+              "year": 2010,
+              "category": "Comedy",
+              "note": "Rachel McAdams morning-show comedy; Harrison Ford and the frittata."
+            },
+            {
+              "title": "Greenberg",
+              "year": 2010,
+              "category": "Original",
+              "note": "Baumbach's letter-writing misanthrope; Stiller and Gerwig. 'It's your day.'"
+            },
+            {
+              "title": "Dogtooth",
+              "year": 2009,
+              "category": "Foreign Language / Animated",
+              "note": "Lanthimos's controlled nightmare, the fucked-up end of his spectrum."
+            },
+            {
+              "title": "Despicable Me",
+              "year": 2010,
+              "category": "Blockbuster",
+              "note": "Where the Minions start."
+            },
+            {
+              "title": "Harry Potter and the Deathly Hallows: Part 1",
+              "year": 2010,
+              "category": "Franchise Film",
+              "note": "The better-liked half of the split finale."
+            },
+            {
+              "title": "Please Give",
+              "year": 2010,
+              "category": "Wild Card",
+              "note": "Nicole Holofcener; Catherine Keener, Rebecca Hall, rich white people with small problems."
+            }
+          ]
+        },
+        {
+          "host": "Rob Mahoney",
+          "picks": [
+            {
+              "title": "Toy Story 3",
+              "year": 2010,
+              "category": "Blockbuster",
+              "note": "The Andy-gives-away-the-toys ending; his favorite in the series."
+            },
+            {
+              "title": "Somewhere",
+              "year": 2010,
+              "category": "Original",
+              "note": "Coppola's Chateau Marmont drift; Stephen Dorff and the Shannon twins. Moved from comedy to original mid-pick."
+            },
+            {
+              "title": "MacGruber",
+              "year": 2010,
+              "category": "Franchise Film",
+              "note": "Taken in franchise for its TV spin-off; Van thinks it's terrible."
+            },
+            {
+              "title": "I Am Love",
+              "year": 2009,
+              "category": "Foreign Language / Animated",
+              "note": "Luca Guadagnino; Tilda Swinton in Milan, the haircut like Thor picking up the hammer."
+            },
+            {
+              "title": "Black Swan",
+              "year": 2010,
+              "category": "Oscar Nominee",
+              "note": "Aronofsky; Natalie Portman."
+            },
+            {
+              "title": "Another Year",
+              "year": 2010,
+              "category": "Comedy",
+              "note": "Mike Leigh; Rob's Mike Leigh summer."
+            },
+            {
+              "title": "Ip Man",
+              "year": 2008,
+              "category": "Wild Card",
+              "note": "Wilson Yip's Donnie Yen martial-arts film (2010 U.S. release)."
+            }
+          ]
+        },
+        {
+          "host": "Van Lathan",
+          "picks": [
+            {
+              "title": "Scott Pilgrim vs. the World",
+              "year": 2010,
+              "category": "Comedy",
+              "note": "Van's 'perfect movie'; Edgar Wright, an all-time draft-class cast."
+            },
+            {
+              "title": "Iron Man 2",
+              "year": 2010,
+              "category": "Franchise Film",
+              "note": "Defended as unfairly maligned; Mickey Rourke's Whiplash, a Justin Theroux script."
+            },
+            {
+              "title": "The Book of Eli",
+              "year": 2010,
+              "category": "Original",
+              "note": "Hughes brothers; Denzel and Gary Oldman in a post-apocalyptic Bible chase."
+            },
+            {
+              "title": "Tron: Legacy",
+              "year": 2010,
+              "category": "Blockbuster",
+              "note": "Daft Punk score, de-aged Jeff Bridges; a late-night party rewatch."
+            },
+            {
+              "title": "Exit Through the Gift Shop",
+              "year": 2010,
+              "category": "Oscar Nominee",
+              "note": "Banksy's street-art documentary."
+            },
+            {
+              "title": "Due Date",
+              "year": 2010,
+              "category": "Wild Card",
+              "note": "Downey and Galifianakis road trip."
+            },
+            {
+              "title": "Megamind",
+              "year": 2010,
+              "category": "Foreign Language / Animated",
+              "note": "Taken to fill the category; Ferrell, Tina Fey, Hans Zimmer score."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "The Twilight Saga: Eclipse",
+              "year": 2010,
+              "category": "Franchise Film",
+              "note": "Jacob's glow-up; an Arclight-plus-cocktails favorite."
+            },
+            {
+              "title": "Brooklyn's Finest",
+              "year": 2010,
+              "category": "Original",
+              "note": "Antoine Fuqua; Gere, Ethan Hawke, Cheadle, Wesley Snipes."
+            },
+            {
+              "title": "Jackass 3D",
+              "year": 2010,
+              "category": "Comedy",
+              "note": "The snake-pit panic attack that made him cry laughing."
+            },
+            {
+              "title": "Unstoppable",
+              "year": 2010,
+              "category": "Oscar Nominee",
+              "note": "Tony Scott's runaway-train movie; Denzel and Chris Pine. Bumped out of original once the group ruled the real CSX 8888 incident is source material."
+            },
+            {
+              "title": "Shutter Island",
+              "year": 2010,
+              "category": "Blockbuster",
+              "note": "Scorsese and DiCaprio from the Dennis Lehane novel; a favorite 21st-century Scorsese."
+            },
+            {
+              "title": "Incendies",
+              "year": 2010,
+              "category": "Foreign Language / Animated",
+              "note": "Villeneuve's inheritance mystery with a gut-punch ending; seen at Bleak Week."
+            },
+            {
+              "title": "The Crazies",
+              "year": 2010,
+              "category": "Wild Card",
+              "note": "Breck Eisner's remake of the Romero film; Timothy Olyphant, Radha Mitchell."
+            }
+          ]
+        },
+        {
+          "host": "Joanna Robinson",
+          "picks": [
+            {
+              "title": "The Girl with the Dragon Tattoo",
+              "year": 2009,
+              "category": "Franchise Film",
+              "note": "The Swedish original with Noomi Rapace and Michael Nyqvist; whole trilogy released in 2010."
+            },
+            {
+              "title": "Salt",
+              "year": 2010,
+              "category": "Original",
+              "note": "Angelina Jolie and a parade of wigs; leaves the door open for a sequel."
+            },
+            {
+              "title": "Easy A",
+              "year": 2010,
+              "category": "Comedy",
+              "note": "Emma Stone; the Scarlet-Letter eligibility argument that dogged Joanna all episode."
+            },
+            {
+              "title": "Biutiful",
+              "year": 2010,
+              "category": "Foreign Language / Animated",
+              "note": "Iñárritu; Javier Bardem's post-Oscar tough watch."
+            },
+            {
+              "title": "Inside Job",
+              "year": 2010,
+              "category": "Oscar Nominee",
+              "note": "Charles Ferguson's financial-crisis documentary."
+            },
+            {
+              "title": "True Grit",
+              "year": 2010,
+              "category": "Blockbuster",
+              "note": "The Coens' remake; Jeff Bridges in coot mode, Hailee Steinfeld's intro. $171M domestic."
+            },
+            {
+              "title": "Never Let Me Go",
+              "year": 2010,
+              "category": "Wild Card",
+              "note": "Loose Ishiguro adaptation; Mulligan, Garfield, Knightley. Second overall six years ago, here it lasted to 49th."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "The King's Speech",
+        "The Fighter",
+        "127 Hours",
+        "Alice in Wonderland",
+        "Shrek Forever After",
+        "The Karate Kid",
+        "Clash of the Titans",
+        "Grown Ups",
+        "Little Fockers",
+        "The Last Airbender",
+        "Sex and the City 2",
+        "Fish Tank",
+        "Four Lions",
+        "Tiny Furniture",
+        "Hot Tub Time Machine",
+        "Country Strong",
+        "Predators",
+        "Machete",
+        "Paranormal Activity 2",
+        "Step Up 3D",
+        "Devil",
+        "Hereafter",
+        "Fair Game",
+        "Splice",
+        "Robin Hood",
+        "Knight and Day",
+        "Monsters",
+        "Trash Humpers",
+        "Burlesque",
+        "The Ghost Writer",
+        "Guy and Madeline on a Park Bench",
+        "Carlos",
+        "White Material",
+        "Uncle Boonmee Who Can Recall His Past Lives",
+        "Valhalla Rising",
+        "Secret Sunshine"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Also mentioned",
+      "films": [
+        "Heat",
+        "Inglourious Basterds",
+        "Avatar",
+        "Memento",
+        "Insomnia",
+        "Batman Begins",
+        "The Dark Knight",
+        "The Prestige",
+        "Following",
+        "Tenet",
+        "Interstellar",
+        "Limitless",
+        "The Wrestler",
+        "Crazy Heart",
+        "Leave No Trace",
+        "Triple Frontier",
+        "Poor Things",
+        "The Lobster",
+        "Call Me by Your Name",
+        "Challengers",
+        "The Age of Adaline",
+        "Green Book",
+        "Roma",
+        "13 Assassins",
+        "The Trip"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Lioness",
+      "House of the Dragon",
+      "Black Mirror",
+      "Euphoria",
+      "Girls",
+      "Blue Mountain State",
+      "True Detective",
+      "Severance"
+    ],
+    "Ads": [
+      "Grow with Google",
+      "Uber Eats",
+      "Nordstrom Rack",
+      "FIFA World Cup on Netflix",
+      "Red Bull"
+    ]
+  },
+  "tmdbOverrides": {
+    "Robin Hood": 20662,
+    "Carlos": 43434,
+    "Alice in Wonderland": 12155,
+    "The Trip": 63578
+  },
+  "tmdb": {
+    "The Social Network": {
+      "id": 37799,
+      "poster": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+      "title": "The Social Network",
+      "year": 2010
+    },
+    "Blue Valentine": {
+      "id": 46705,
+      "poster": "/dc8BdKnDY5Iy28KzUGtHIXuqqFK.jpg",
+      "title": "Blue Valentine",
+      "year": 2010
+    },
+    "Kick-Ass": {
+      "id": 23483,
+      "poster": "/iHMbrTHJwocsNvo5murCBw0CwTo.jpg",
+      "title": "Kick-Ass",
+      "year": 2010
+    },
+    "How to Train Your Dragon": {
+      "id": 10191,
+      "poster": "/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
+      "title": "How to Train Your Dragon",
+      "year": 2010
+    },
+    "Winter's Bone": {
+      "id": 39013,
+      "poster": "/a0qhPkNlxLfsf5B2jFyI1Pp04XV.jpg",
+      "title": "Winter's Bone",
+      "year": 2010
+    },
+    "A Prophet": {
+      "id": 21575,
+      "poster": "/x9Jb8kewBHPzjTtgCQvoQoDsy4d.jpg",
+      "title": "A Prophet",
+      "year": 2009
+    },
+    "The Kids Are All Right": {
+      "id": 39781,
+      "poster": "/xQ5XqZc82dDCcGjxY7voRKjhaKQ.jpg",
+      "title": "The Kids Are All Right",
+      "year": 2010
+    },
+    "Inception": {
+      "id": 27205,
+      "poster": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+      "title": "Inception",
+      "year": 2010
+    },
+    "The Other Guys": {
+      "id": 27581,
+      "poster": "/wNEHNqo3MgHmj3BUiPSqqq5czcm.jpg",
+      "title": "The Other Guys",
+      "year": 2010
+    },
+    "Animal Kingdom": {
+      "id": 44629,
+      "poster": "/zhj8YPQKuRev5N3KoHacsPnF4mB.jpg",
+      "title": "Animal Kingdom",
+      "year": 2010
+    },
+    "Mother": {
+      "id": 30018,
+      "poster": "/8oBnSkZE6GDVugAbLPO6uJd4GcS.jpg",
+      "title": "Mother",
+      "year": 2009
+    },
+    "Tangled": {
+      "id": 38757,
+      "poster": "/ym7Kst6a4uodryxqbGOxmewF235.jpg",
+      "title": "Tangled",
+      "year": 2010
+    },
+    "Insidious": {
+      "id": 49018,
+      "poster": "/1egpmVXuXed58TH2UOnX1nATTrf.jpg",
+      "title": "Insidious",
+      "year": 2011
+    },
+    "Daddy Longlegs": {
+      "id": 58251,
+      "poster": "/lnHRAJ5ucoIXDRCVxfdABpK60OS.jpg",
+      "title": "Daddy Longlegs",
+      "year": 2010
+    },
+    "The Town": {
+      "id": 23168,
+      "poster": "/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
+      "title": "The Town",
+      "year": 2010
+    },
+    "Morning Glory": {
+      "id": 38357,
+      "poster": "/aFRXEoB3QkeHNHYmVGC3uzFSol8.jpg",
+      "title": "Morning Glory",
+      "year": 2010
+    },
+    "Greenberg": {
+      "id": 27583,
+      "poster": "/jAsN4vPpycVxC89QlA6NYBXRuK7.jpg",
+      "title": "Greenberg",
+      "year": 2010
+    },
+    "Dogtooth": {
+      "id": 38810,
+      "poster": "/cBrhzHcOxXclTItkPzsJUCTSFyl.jpg",
+      "title": "Dogtooth",
+      "year": 2009
+    },
+    "Despicable Me": {
+      "id": 20352,
+      "poster": "/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg",
+      "title": "Despicable Me",
+      "year": 2010
+    },
+    "Harry Potter and the Deathly Hallows: Part 1": {
+      "id": 12444,
+      "poster": "/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg",
+      "title": "Harry Potter and the Deathly Hallows: Part 1",
+      "year": 2010
+    },
+    "Please Give": {
+      "id": 40247,
+      "poster": "/kft7oy2SoImjDUXgeFbUxhICdc2.jpg",
+      "title": "Please Give",
+      "year": 2010
+    },
+    "Toy Story 3": {
+      "id": 10193,
+      "poster": "/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+      "title": "Toy Story 3",
+      "year": 2010
+    },
+    "Somewhere": {
+      "id": 39210,
+      "poster": "/zOf1sdfF4eH3CVRCpmRO5ugVGdo.jpg",
+      "title": "Somewhere",
+      "year": 2010
+    },
+    "MacGruber": {
+      "id": 37931,
+      "poster": "/9cO8JD7aaQzI4q8lBS8MYXH8LrJ.jpg",
+      "title": "MacGruber",
+      "year": 2010
+    },
+    "I Am Love": {
+      "id": 41110,
+      "poster": "/ss57QaZX5OE3YxoTZeKW5Y6U83S.jpg",
+      "title": "I Am Love",
+      "year": 2010
+    },
+    "Black Swan": {
+      "id": 44214,
+      "poster": "/viWheBd44bouiLCHgNMvahLThqx.jpg",
+      "title": "Black Swan",
+      "year": 2010
+    },
+    "Another Year": {
+      "id": 44009,
+      "poster": "/zrkQcAatfBox5x9KZjaYGnKoqu6.jpg",
+      "title": "Another Year",
+      "year": 2010
+    },
+    "Ip Man": {
+      "id": 14756,
+      "poster": "/zyQQ7wFuCvH6MzJcUKy6N6ouMYs.jpg",
+      "title": "Ip Man",
+      "year": 2008
+    },
+    "Scott Pilgrim vs. the World": {
+      "id": 22538,
+      "poster": "/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg",
+      "title": "Scott Pilgrim vs. the World",
+      "year": 2010
+    },
+    "Iron Man 2": {
+      "id": 10138,
+      "poster": "/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+      "title": "Iron Man 2",
+      "year": 2010
+    },
+    "The Book of Eli": {
+      "id": 20504,
+      "poster": "/1H1y9ZiqNFaLgQiRDDZLA55PviW.jpg",
+      "title": "The Book of Eli",
+      "year": 2010
+    },
+    "Tron: Legacy": {
+      "id": 20526,
+      "poster": "/8Nc6R8k7bG8frSiDJo0oLucF7dN.jpg",
+      "title": "TRON: Legacy",
+      "year": 2010
+    },
+    "Exit Through the Gift Shop": {
+      "id": 39452,
+      "poster": "/ruM5ehUQlHC1Kx3SF18d6klfrAx.jpg",
+      "title": "Exit Through the Gift Shop",
+      "year": 2010
+    },
+    "Due Date": {
+      "id": 41733,
+      "poster": "/sBxWS09pOOyXZ0dcnqfqqCAQGan.jpg",
+      "title": "Due Date",
+      "year": 2010
+    },
+    "Megamind": {
+      "id": 38055,
+      "poster": "/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg",
+      "title": "Megamind",
+      "year": 2010
+    },
+    "The Twilight Saga: Eclipse": {
+      "id": 24021,
+      "poster": "/dK4Gi1UdMiHzHc7r7CZQG4IQ9Sr.jpg",
+      "title": "The Twilight Saga: Eclipse",
+      "year": 2010
+    },
+    "Brooklyn's Finest": {
+      "id": 26390,
+      "poster": "/9ZyJJpMsc3bF8gduDaxo0zo1gwK.jpg",
+      "title": "Brooklyn's Finest",
+      "year": 2010
+    },
+    "Jackass 3D": {
+      "id": 16290,
+      "poster": "/uPirN07su7LFixyZyLrNMMQ9u1E.jpg",
+      "title": "Jackass 3D",
+      "year": 2010
+    },
+    "Unstoppable": {
+      "id": 44048,
+      "poster": "/zKvHwL0GqLOear8rTnUPSTRYY0r.jpg",
+      "title": "Unstoppable",
+      "year": 2010
+    },
+    "Shutter Island": {
+      "id": 11324,
+      "poster": "/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+      "title": "Shutter Island",
+      "year": 2010
+    },
+    "Incendies": {
+      "id": 46738,
+      "poster": "/yH6DAQVgbyj72S66gN4WWVoTjuf.jpg",
+      "title": "Incendies",
+      "year": 2010
+    },
+    "The Crazies": {
+      "id": 29427,
+      "poster": "/ggtG9DZELyTtM2Y0DRJDOJa5iP8.jpg",
+      "title": "The Crazies",
+      "year": 2010
+    },
+    "The Girl with the Dragon Tattoo": {
+      "id": 15472,
+      "poster": "/6w0TKhfR0Rzby5SXxgfuI99Jrva.jpg",
+      "title": "The Girl with the Dragon Tattoo",
+      "year": 2009
+    },
+    "Salt": {
+      "id": 27576,
+      "poster": "/ppXyhOe8UCEOrBRSYqE3SkHwrcR.jpg",
+      "title": "Salt",
+      "year": 2010
+    },
+    "Easy A": {
+      "id": 37735,
+      "poster": "/v5f1qO6NJnxWgONgkYg21TW39DT.jpg",
+      "title": "Easy A",
+      "year": 2010
+    },
+    "Biutiful": {
+      "id": 45958,
+      "poster": "/4BLshBMp8INRDhvfuKwxMlHDIIt.jpg",
+      "title": "Biutiful",
+      "year": 2010
+    },
+    "Inside Job": {
+      "id": 44639,
+      "poster": "/7yXXIWec24htucjsZS1sDuPLqw8.jpg",
+      "title": "Inside Job",
+      "year": 2010
+    },
+    "True Grit": {
+      "id": 44264,
+      "poster": "/tCrB8pcjadZjsDk7rleGJaIv78k.jpg",
+      "title": "True Grit",
+      "year": 2010
+    },
+    "Never Let Me Go": {
+      "id": 42188,
+      "poster": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
+      "title": "Never Let Me Go",
+      "year": 2010
+    },
+    "The King's Speech": {
+      "id": 45269,
+      "poster": "/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg",
+      "title": "The King's Speech",
+      "year": 2010
+    },
+    "The Fighter": {
+      "id": 45317,
+      "poster": "/xfsFerGhO1h6rLk8vwLgMyQ8WVJ.jpg",
+      "title": "The Fighter",
+      "year": 2010
+    },
+    "127 Hours": {
+      "id": 44115,
+      "poster": "/h0RMdn0rfl9l5hWXz3tUh6QVkhi.jpg",
+      "title": "127 Hours",
+      "year": 2010
+    },
+    "Alice in Wonderland": {
+      "id": 12155,
+      "poster": "/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg",
+      "title": "Alice in Wonderland",
+      "year": 2010
+    },
+    "Shrek Forever After": {
+      "id": 10192,
+      "poster": "/6HrfPZtKcGmX2tUWW3cnciZTaSD.jpg",
+      "title": "Shrek Forever After",
+      "year": 2010
+    },
+    "The Karate Kid": {
+      "id": 38575,
+      "poster": "/b1RBy3l297N0c7PHjlz35cClWju.jpg",
+      "title": "The Karate Kid",
+      "year": 2010
+    },
+    "Clash of the Titans": {
+      "id": 18823,
+      "poster": "/6iHYLipwEyZUPNO8MM3l1yHDaFE.jpg",
+      "title": "Clash of the Titans",
+      "year": 2010
+    },
+    "Grown Ups": {
+      "id": 38365,
+      "poster": "/cQGM5k1NtU85n4TUlrOrwijSCcm.jpg",
+      "title": "Grown Ups",
+      "year": 2010
+    },
+    "Little Fockers": {
+      "id": 39451,
+      "poster": "/90mwPRNMmX9RUGVgKMJMJNQnYX8.jpg",
+      "title": "Little Fockers",
+      "year": 2010
+    },
+    "The Last Airbender": {
+      "id": 10196,
+      "poster": "/kl9JJ8288bNsY8oqT1SpQh1w2mb.jpg",
+      "title": "The Last Airbender",
+      "year": 2010
+    },
+    "Sex and the City 2": {
+      "id": 37786,
+      "poster": "/iHSRxhZsPaVuLCivvV6WEkMVGWU.jpg",
+      "title": "Sex and the City 2",
+      "year": 2010
+    },
+    "Fish Tank": {
+      "id": 24469,
+      "poster": "/rI3MKBDsWzQHi9PWDAMKkgmYcff.jpg",
+      "title": "Fish Tank",
+      "year": 2009
+    },
+    "Four Lions": {
+      "id": 37495,
+      "poster": "/x4JzaRPXBs9wiHCe3e3ymXWuwfd.jpg",
+      "title": "Four Lions",
+      "year": 2010
+    },
+    "Tiny Furniture": {
+      "id": 47607,
+      "poster": "/5T81WvUlc1Our3UwmluXBBc3L0k.jpg",
+      "title": "Tiny Furniture",
+      "year": 2010
+    },
+    "Hot Tub Time Machine": {
+      "id": 23048,
+      "poster": "/wjzbVXAes1acbh6k4OO5xVfy5.jpg",
+      "title": "Hot Tub Time Machine",
+      "year": 2010
+    },
+    "Country Strong": {
+      "id": 45272,
+      "poster": "/6C95tD92E9xm5poyyzs37bYemM0.jpg",
+      "title": "Country Strong",
+      "year": 2010
+    },
+    "Predators": {
+      "id": 34851,
+      "poster": "/wdniP8NDaJIydi1hMxhpbJMUfr6.jpg",
+      "title": "Predators",
+      "year": 2010
+    },
+    "Machete": {
+      "id": 23631,
+      "poster": "/dcPSm1rGEFdiEc7DaKz0t5kb66b.jpg",
+      "title": "Machete",
+      "year": 2010
+    },
+    "Paranormal Activity 2": {
+      "id": 41436,
+      "poster": "/gfdrkBZAyUUXJJ2iLQe03SAYRD3.jpg",
+      "title": "Paranormal Activity 2",
+      "year": 2010
+    },
+    "Step Up 3D": {
+      "id": 41233,
+      "poster": "/rPcqa5TZ7S63RNmCuY45ZizFBen.jpg",
+      "title": "Step Up 3D",
+      "year": 2010
+    },
+    "Devil": {
+      "id": 44040,
+      "poster": "/aivXPSi53H95BoUa5njEYso389s.jpg",
+      "title": "Devil",
+      "year": 2010
+    },
+    "Hereafter": {
+      "id": 44603,
+      "poster": "/nOy0X8XSmSDOuwV8pqT70WoWHwT.jpg",
+      "title": "Hereafter",
+      "year": 2010
+    },
+    "Fair Game": {
+      "id": 38363,
+      "poster": "/tX2cafjaDnEOi50xnUIloAc2fp2.jpg",
+      "title": "Fair Game",
+      "year": 2010
+    },
+    "Splice": {
+      "id": 37707,
+      "poster": "/4oqaWnO3dKYAt3vZWAD4oLfOXOC.jpg",
+      "title": "Splice",
+      "year": 2010
+    },
+    "Robin Hood": {
+      "id": 20662,
+      "poster": "/kE4Wie1VVRGQbVSIsEnxmly3FqZ.jpg",
+      "title": "Robin Hood",
+      "year": 2010
+    },
+    "Knight and Day": {
+      "id": 37834,
+      "poster": "/phhp52CZZJiGYmiOTp9ZBDkGHB3.jpg",
+      "title": "Knight and Day",
+      "year": 2010
+    },
+    "Monsters": {
+      "id": 43933,
+      "poster": "/qpJyTxR33KG9qFmXoCD5AUTToPl.jpg",
+      "title": "Monsters",
+      "year": 2010
+    },
+    "Trash Humpers": {
+      "id": 46788,
+      "poster": "/sNMA5i8w6MsyTKPULhJuLUHB2Wd.jpg",
+      "title": "Trash Humpers",
+      "year": 2010
+    },
+    "Burlesque": {
+      "id": 42297,
+      "poster": "/3U9zBIibERQZqYKM3N1a4MYgBsN.jpg",
+      "title": "Burlesque",
+      "year": 2010
+    },
+    "The Ghost Writer": {
+      "id": 11439,
+      "poster": "/rK7m2Ba0ieXa37NaAmrx4dfRvvM.jpg",
+      "title": "The Ghost Writer",
+      "year": 2010
+    },
+    "Guy and Madeline on a Park Bench": {
+      "id": 46504,
+      "poster": "/7bu5XiVNVSlJkdihAv7Bnkdah3i.jpg",
+      "title": "Guy and Madeline on a Park Bench",
+      "year": 2010
+    },
+    "Carlos": {
+      "id": 43434,
+      "poster": "/ee6EiUOXdvr7DvnBBEG691TNSKh.jpg",
+      "title": "Carlos",
+      "year": 2010
+    },
+    "White Material": {
+      "id": 46207,
+      "poster": "/qqQOsXOf7HvoWVWjOLuKpGQFjMh.jpg",
+      "title": "White Material",
+      "year": 2010
+    },
+    "Uncle Boonmee Who Can Recall His Past Lives": {
+      "id": 38368,
+      "poster": "/kPFkC9EBvllCIuDTR7A0DSEK6gJ.jpg",
+      "title": "Uncle Boonmee Who Can Recall His Past Lives",
+      "year": 2010
+    },
+    "Valhalla Rising": {
+      "id": 37861,
+      "poster": "/7LBMcAx6XHwEduIsBYipvUke9n.jpg",
+      "title": "Valhalla Rising",
+      "year": 2009
+    },
+    "Secret Sunshine": {
+      "id": 2015,
+      "poster": "/vee1jyUrqUEmi5ZStWI1JJzLQJH.jpg",
+      "title": "Secret Sunshine",
+      "year": 2007
+    },
+    "Heat": {
+      "id": 949,
+      "poster": "/e09dLw1Ljtccd2P4NsuUvVtS5du.jpg",
+      "title": "Heat",
+      "year": 1995
+    },
+    "Inglourious Basterds": {
+      "id": 16869,
+      "poster": "/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg",
+      "title": "Inglourious Basterds",
+      "year": 2009
+    },
+    "Avatar": {
+      "id": 19995,
+      "poster": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "title": "Avatar",
+      "year": 2009
+    },
+    "Memento": {
+      "id": 77,
+      "poster": "/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+      "title": "Memento",
+      "year": 2000
+    },
+    "Insomnia": {
+      "id": 320,
+      "poster": "/riVXh3EimGO0y5dgQxEWPRy5Itg.jpg",
+      "title": "Insomnia",
+      "year": 2002
+    },
+    "Batman Begins": {
+      "id": 272,
+      "poster": "/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+      "title": "Batman Begins",
+      "year": 2005
+    },
+    "The Dark Knight": {
+      "id": 155,
+      "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    "The Prestige": {
+      "id": 1124,
+      "poster": "/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg",
+      "title": "The Prestige",
+      "year": 2006
+    },
+    "Following": {
+      "id": 11660,
+      "poster": "/3bX6VVSMf0dvzk5pMT4ALG5A92d.jpg",
+      "title": "Following",
+      "year": 1999
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "Interstellar": {
+      "id": 157336,
+      "poster": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+      "title": "Interstellar",
+      "year": 2014
+    },
+    "Limitless": {
+      "id": 51876,
+      "poster": "/kCokPP4WCQRrrAuZ7FcpIyHr8b2.jpg",
+      "title": "Limitless",
+      "year": 2011
+    },
+    "The Wrestler": {
+      "id": 12163,
+      "poster": "/6OTR8dSoNGjWohJNo3UhIGd3Tj.jpg",
+      "title": "The Wrestler",
+      "year": 2008
+    },
+    "Crazy Heart": {
+      "id": 25196,
+      "poster": "/zwao2YMsqf27IzNEtDNWSe0W9jH.jpg",
+      "title": "Crazy Heart",
+      "year": 2009
+    },
+    "Leave No Trace": {
+      "id": 443463,
+      "poster": "/sygnLx3sZV5P8M2dyaGRegHdEL1.jpg",
+      "title": "Leave No Trace",
+      "year": 2018
+    },
+    "Triple Frontier": {
+      "id": 399361,
+      "poster": "/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg",
+      "title": "Triple Frontier",
+      "year": 2019
+    },
+    "Poor Things": {
+      "id": 792307,
+      "poster": "/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+      "title": "Poor Things",
+      "year": 2023
+    },
+    "The Lobster": {
+      "id": 254320,
+      "poster": "/7Y9ILV1unpW9mLpGcqyGQU72LUy.jpg",
+      "title": "The Lobster",
+      "year": 2015
+    },
+    "Call Me by Your Name": {
+      "id": 398818,
+      "poster": "/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
+      "title": "Call Me by Your Name",
+      "year": 2017
+    },
+    "Challengers": {
+      "id": 937287,
+      "poster": "/H6vke7zGiuLsz4v4RPeReb9rsv.jpg",
+      "title": "Challengers",
+      "year": 2024
+    },
+    "The Age of Adaline": {
+      "id": 293863,
+      "poster": "/3XFuCS6wBfpSnUQboLd1JtkJqe0.jpg",
+      "title": "The Age of Adaline",
+      "year": 2015
+    },
+    "Green Book": {
+      "id": 490132,
+      "poster": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+      "title": "Green Book",
+      "year": 2018
+    },
+    "Roma": {
+      "id": 426426,
+      "poster": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+      "title": "Roma",
+      "year": 2018
+    },
+    "13 Assassins": {
+      "id": 58857,
+      "poster": "/yUsVsiVXUwClk4vSCx80vrdO6MV.jpg",
+      "title": "13 Assassins",
+      "year": 2010
+    },
+    "The Trip": {
+      "id": 63578,
+      "poster": "/tjGrjHNjsR0klih0bkGBHbukMdX.jpg",
+      "title": "The Trip",
+      "year": 2011
+    }
+  }
+}

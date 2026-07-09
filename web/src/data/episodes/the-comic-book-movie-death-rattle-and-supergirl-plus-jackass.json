@@ -1,0 +1,528 @@
+{
+  "slug": "the-comic-book-movie-death-rattle-and-supergirl-plus-jackass",
+  "title": "The Comic Book Movie Death Rattle and ‘Supergirl.’ Plus: ‘Jackass: Best and Last’ Goes Out With a Bang.",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2026-06-26",
+  "runtimeMin": 83,
+  "format": "Sean and Amanda run through the summer's movie news, then use 'Supergirl' to mark the end of the comic-book-movie era. Chris Ryan joins to send off 'Jackass: Best and Last.'",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The news",
+      "note": "distributors, adaptations, and Tom Cruise",
+      "films": [
+        {
+          "title": "The Debut",
+          "year": 2026,
+          "note": "Jesse Eisenberg's A24 follow-up to 'A Real Pain,' which he wrote and directed and for which he also wrote the songs. Julianne Moore and Paul Giamatti star; the plot, a middle-aged woman finding herself in community theater, reminds Sean of the Simpsons episode 'A Streetcar Named Marge.' Pegged as a fall-festival, likely-Telluride title."
+        },
+        {
+          "title": "Artificial",
+          "year": 2026,
+          "note": "Luca Guadagnino's Sam Altman movie, with Andrew Garfield, still had no distributor as of June 21: Netflix, A24, and Focus reportedly passed, Mubi and Neon were circling. Sean and Amanda work through which studios are compromised enough by tech money to pass on a negative film about OpenAI, and figure whoever takes it will get a discount, the way a team eats salary to move a bad contract."
+        },
+        {
+          "title": "Sense and Sensibility",
+          "year": 2026,
+          "note": "Georgia Oakley's new adaptation, with Daisy Edgar-Jones, George MacKay, Caitríona Balfe, and Frank Dillane. Amanda recuses herself: she's too close to the Ang Lee/Emma Thompson 1995 version, her comfort film during the CinemaCon ticketing all-nighters."
+        },
+        {
+          "title": "Digger",
+          "year": 2026,
+          "note": "Iñárritu's apocalyptic Tom Cruise comedy, out in October. A 3.5-minute clip reel of Cruise highlights got passed around by Glen Powell, J.J. Abrams, and Michael Mann, with maybe 20 seconds of actual 'Digger' footage. Sean's read: they're selling Tom Cruise, not the movie, and that's probably wise."
+        },
+        {
+          "title": "Coyote vs. Acme",
+          "year": 2026,
+          "note": "The Looney Tunes movie Warner Bros. shelved, now rescued by Ketchup Entertainment. Cited as proof of how thin the pool of distributors willing to take on an orphaned film has gotten."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "‘Supergirl’",
+      "note": "the comic-book-movie death rattle",
+      "films": [
+        {
+          "title": "Supergirl",
+          "year": 2026,
+          "note": "Craig Gillespie directs Millie Alcock as Kara Zor-El, with Matthias Schoenaerts as the villain Krem, Eve Ridley as Ruthie, and Jason Momoa as Lobo; David Corenswet returns as Superman. Loosely from Tom King's 'Woman of Tomorrow.' Sean and Amanda call it tropey, unspecific, and technically poor ('the brownest movie of the year'), and say the best scene is the one where Supergirl doesn't speak. Sean uses it to declare the era when comic-book movies dominated our lives over, though not the genre itself."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "‘Jackass: Best and Last’",
+      "note": "with Chris Ryan",
+      "films": [
+        {
+          "title": "Jackass: Best and Last",
+          "year": 2026,
+          "note": "The fifth installment, roughly 40% new stunts and 60% retrospective, and the most scatological of the bunch now that the crew has aged into colonoscopy-prep gags. Knoxville, Steve-O, Pontius, Danger Ehren, and Dave England downshift into what their bodies still allow; Bam Margera returns, Ryan Dunn is memorialized, and Spike Jonze turns up in the control room. All three agree it's barely a movie, but call it one of the best times they've had at a theater this year."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Around the news",
+      "films": [
+        "A Real Pain",
+        "Sense and Sensibility (1995)",
+        "Dune: Part Three",
+        "Project Hail Mary",
+        "The Social Reckoning",
+        "The Holdovers",
+        "Challengers",
+        "Queer",
+        "After the Hunt",
+        "Rock of Ages",
+        "Fjord",
+        "The Blair Witch Project",
+        "Book of Shadows: Blair Witch 2",
+        "Blair Witch",
+        "Backrooms",
+        "How the West Was Won",
+        "Thoroughly Modern Millie"
+      ]
+    },
+    {
+      "group": "The superhero canon",
+      "films": [
+        "Superman",
+        "Wonder Woman",
+        "Black Widow",
+        "Captain Marvel",
+        "Captain America: Brave New World",
+        "Mad Max: Fury Road",
+        "Guardians of the Galaxy",
+        "Thunderbolts",
+        "The Batman",
+        "Doctor Strange in the Multiverse of Madness",
+        "Thor: Love and Thunder",
+        "Kraven the Hunter",
+        "Iron Man",
+        "The Dark Knight",
+        "Spider-Man (2002)",
+        "Logan",
+        "X-Men Origins: Wolverine",
+        "Avengers: Endgame",
+        "Avengers: Doomsday",
+        "Spider-Man: Brand New Day",
+        "The Fantastic 4: First Steps",
+        "Masters of the Universe",
+        "A Minecraft Movie",
+        "Deadpool 4",
+        "Spider-Man: Into the Spider-Verse",
+        "Barbie",
+        "Oppenheimer"
+      ]
+    },
+    {
+      "group": "Craig Gillespie's résumé",
+      "films": [
+        "Cruella",
+        "I, Tonya",
+        "Lars and the Real Girl",
+        "Dumb Money"
+      ]
+    },
+    {
+      "group": "Around Jackass",
+      "films": [
+        "Jackass Forever",
+        "Jackass Presents: Bad Grandpa",
+        "Dirty Grandpa",
+        "Fight Club",
+        "Ocean's Eleven",
+        "Mission: Impossible - Ghost Protocol"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Simpsons",
+      "The Bear",
+      "The Agency",
+      "Fear Factor"
+    ],
+    "Games": [
+      "FIFA World Cup Launch Edition"
+    ],
+    "Ads": [
+      "Google AI Professional Certificate",
+      "State Farm",
+      "White Claw"
+    ]
+  },
+  "tmdb": {
+    "The Debut": {
+      "id": 1391239,
+      "poster": "/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg",
+      "title": "The Debut",
+      "year": 2026
+    },
+    "Artificial": {
+      "id": 1492198,
+      "poster": "/6RKRs1vE0KPQIAtRseP9y6MNJe1.jpg",
+      "title": "Artificial",
+      "year": null
+    },
+    "Sense and Sensibility": {
+      "id": 1503762,
+      "poster": "/sYzWktm1YwJydX92fbSOWHJs33m.jpg",
+      "title": "Sense and Sensibility",
+      "year": 2026
+    },
+    "Digger": {
+      "id": 1248832,
+      "poster": "/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "title": "Digger",
+      "year": 2026
+    },
+    "Coyote vs. Acme": {
+      "id": 1204680,
+      "poster": "/7zNmJP6z6mDAp4LouacYkGSBUQv.jpg",
+      "title": "Coyote vs ACME",
+      "year": 2026
+    },
+    "Supergirl": {
+      "id": 1081003,
+      "poster": "/moejGxR2haap29d9NQ7qe8x4eGj.jpg",
+      "title": "Supergirl",
+      "year": 2026
+    },
+    "Jackass: Best and Last": {
+      "id": 1612018,
+      "poster": "/tfgccePxnswMqhmtxafliLlcCVR.jpg",
+      "title": "Jackass: Best and Last",
+      "year": 2026
+    },
+    "A Real Pain": {
+      "id": 1013850,
+      "poster": "/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg",
+      "title": "A Real Pain",
+      "year": 2024
+    },
+    "Sense and Sensibility (1995)": {
+      "id": 4584,
+      "poster": "/9YdQ73YmvInxpXZVNjEKePw9tRO.jpg",
+      "title": "Sense and Sensibility",
+      "year": 1995
+    },
+    "Dune: Part Three": {
+      "id": 1170608,
+      "poster": "/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+      "title": "Dune: Part Three",
+      "year": 2026
+    },
+    "Project Hail Mary": {
+      "id": 687163,
+      "poster": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "title": "Project Hail Mary",
+      "year": 2026
+    },
+    "The Social Reckoning": {
+      "id": 1281331,
+      "poster": "/blm3cRs7avmaHWtPqk6fzj3VIKF.jpg",
+      "title": "The Social Reckoning",
+      "year": 2026
+    },
+    "The Holdovers": {
+      "id": 840430,
+      "poster": "/VHSzNBTwxV8vh7wylo7O9CLdac.jpg",
+      "title": "The Holdovers",
+      "year": 2023
+    },
+    "Challengers": {
+      "id": 937287,
+      "poster": "/H6vke7zGiuLsz4v4RPeReb9rsv.jpg",
+      "title": "Challengers",
+      "year": 2024
+    },
+    "Queer": {
+      "id": 1059128,
+      "poster": "/xe4b2TMciLKA1C0JlhWxb4ENLln.jpg",
+      "title": "Queer",
+      "year": 2024
+    },
+    "After the Hunt": {
+      "id": 1265063,
+      "poster": "/ryF8QPGUGlo8gRB4OYKb4J0r3aJ.jpg",
+      "title": "After the Hunt",
+      "year": 2025
+    },
+    "Rock of Ages": {
+      "id": 80585,
+      "poster": "/oVeE2QTUb14jPU2lYEGPE3s8T9j.jpg",
+      "title": "Rock of Ages",
+      "year": 2012
+    },
+    "Fjord": {
+      "id": 1401459,
+      "poster": "/wDecatqAjk89T59dTtRClwTnS7R.jpg",
+      "title": "Fjord",
+      "year": 2026
+    },
+    "The Blair Witch Project": {
+      "id": 2667,
+      "poster": "/9050VGrYjYrEjpOvDZVAngLbg1f.jpg",
+      "title": "The Blair Witch Project",
+      "year": 1999
+    },
+    "Book of Shadows: Blair Witch 2": {
+      "id": 11531,
+      "poster": "/l1jF93S9FYbzp3Byh5VUA1KApSJ.jpg",
+      "title": "Book of Shadows: Blair Witch 2",
+      "year": 2000
+    },
+    "Blair Witch": {
+      "id": 351211,
+      "poster": "/Ai73frMEz68bibFGRlPKdWBaIaq.jpg",
+      "title": "Blair Witch",
+      "year": 2016
+    },
+    "Backrooms": {
+      "id": 1083381,
+      "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "title": "Backrooms",
+      "year": 2026
+    },
+    "How the West Was Won": {
+      "id": 11897,
+      "poster": "/rmwc89VMQR4rUSDfakd0Z6GyF6q.jpg",
+      "title": "How the West Was Won",
+      "year": 1962
+    },
+    "Thoroughly Modern Millie": {
+      "id": 32489,
+      "poster": "/ce8rBGFR0naGsp6mKy9CNKn9iSa.jpg",
+      "title": "Thoroughly Modern Millie",
+      "year": 1967
+    },
+    "Superman": {
+      "id": 1061474,
+      "poster": "/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
+      "title": "Superman",
+      "year": 2025
+    },
+    "Wonder Woman": {
+      "id": 297762,
+      "poster": "/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+      "title": "Wonder Woman",
+      "year": 2017
+    },
+    "Black Widow": {
+      "id": 497698,
+      "poster": "/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+      "title": "Black Widow",
+      "year": 2021
+    },
+    "Captain Marvel": {
+      "id": 299537,
+      "poster": "/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+      "title": "Captain Marvel",
+      "year": 2019
+    },
+    "Captain America: Brave New World": {
+      "id": 822119,
+      "poster": "/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
+      "title": "Captain America: Brave New World",
+      "year": 2025
+    },
+    "Mad Max: Fury Road": {
+      "id": 76341,
+      "poster": "/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+      "title": "Mad Max: Fury Road",
+      "year": 2015
+    },
+    "Guardians of the Galaxy": {
+      "id": 118340,
+      "poster": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "title": "Guardians of the Galaxy",
+      "year": 2014
+    },
+    "Thunderbolts": {
+      "id": 986056,
+      "poster": "/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
+      "title": "Thunderbolts*",
+      "year": 2025
+    },
+    "The Batman": {
+      "id": 414906,
+      "poster": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "title": "The Batman",
+      "year": 2022
+    },
+    "Doctor Strange in the Multiverse of Madness": {
+      "id": 453395,
+      "poster": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "year": 2022
+    },
+    "Thor: Love and Thunder": {
+      "id": 616037,
+      "poster": "/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+      "title": "Thor: Love and Thunder",
+      "year": 2022
+    },
+    "Kraven the Hunter": {
+      "id": 539972,
+      "poster": "/1GvBhRxY6MELDfxFrete6BNhBB5.jpg",
+      "title": "Kraven the Hunter",
+      "year": 2024
+    },
+    "Iron Man": {
+      "id": 1726,
+      "poster": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "title": "Iron Man",
+      "year": 2008
+    },
+    "The Dark Knight": {
+      "id": 155,
+      "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    "Spider-Man (2002)": {
+      "id": 557,
+      "poster": "/kjdJntyBeEvqm9w97QGBdxPptzj.jpg",
+      "title": "Spider-Man",
+      "year": 2002
+    },
+    "Logan": {
+      "id": 263115,
+      "poster": "/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+      "title": "Logan",
+      "year": 2017
+    },
+    "X-Men Origins: Wolverine": {
+      "id": 2080,
+      "poster": "/yj8LbTju1p7CUJg7US2unSBk33s.jpg",
+      "title": "X-Men Origins: Wolverine",
+      "year": 2009
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Avengers: Doomsday": {
+      "id": 1003596,
+      "poster": "/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
+      "title": "Avengers: Doomsday",
+      "year": 2026
+    },
+    "Spider-Man: Brand New Day": {
+      "id": 969681,
+      "poster": "/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
+      "title": "Spider-Man: Brand New Day",
+      "year": 2026
+    },
+    "The Fantastic 4: First Steps": {
+      "id": 617126,
+      "poster": "/nf5qaSEvyYSNeFH0YhSs5EsBLX9.jpg",
+      "title": "The Fantastic 4: First Steps",
+      "year": 2025
+    },
+    "Masters of the Universe": {
+      "id": 454639,
+      "poster": "/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
+      "title": "Masters of the Universe",
+      "year": 2026
+    },
+    "A Minecraft Movie": {
+      "id": 950387,
+      "poster": "/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+      "title": "A Minecraft Movie",
+      "year": 2025
+    },
+    "Deadpool 4": null,
+    "Spider-Man: Into the Spider-Verse": {
+      "id": 324857,
+      "poster": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Cruella": {
+      "id": 337404,
+      "poster": "/hjS9mH8KvRiGHgjk6VUZH7OT0Ng.jpg",
+      "title": "Cruella",
+      "year": 2021
+    },
+    "I, Tonya": {
+      "id": 389015,
+      "poster": "/6gNXwSHxaksR1PjVZRqNapmkgj3.jpg",
+      "title": "I, Tonya",
+      "year": 2017
+    },
+    "Lars and the Real Girl": {
+      "id": 6615,
+      "poster": "/nkAt4a7KIPc7Fi1BhxNHhYYbe2b.jpg",
+      "title": "Lars and the Real Girl",
+      "year": 2007
+    },
+    "Dumb Money": {
+      "id": 792293,
+      "poster": "/e9u7luSxFKOZgPTB9XHFnPArGdP.jpg",
+      "title": "Dumb Money",
+      "year": 2023
+    },
+    "Jackass Forever": {
+      "id": 656663,
+      "poster": "/ruHDFumJfW7F2vEqTZEQQ9xT7CA.jpg",
+      "title": "Jackass Forever",
+      "year": 2022
+    },
+    "Jackass Presents: Bad Grandpa": {
+      "id": 208134,
+      "poster": "/dDSMzBEaM0LYSy9Muo0zsCo77Vh.jpg",
+      "title": "Jackass Presents: Bad Grandpa",
+      "year": 2013
+    },
+    "Dirty Grandpa": {
+      "id": 291870,
+      "poster": "/k0Lz1TfSlbcQthQKYGwE7blDfwN.jpg",
+      "title": "Dirty Grandpa",
+      "year": 2016
+    },
+    "Fight Club": {
+      "id": 550,
+      "poster": "/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+      "title": "Fight Club",
+      "year": 1999
+    },
+    "Ocean's Eleven": {
+      "id": 161,
+      "poster": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+      "title": "Ocean's Eleven",
+      "year": 2001
+    },
+    "Mission: Impossible - Ghost Protocol": {
+      "id": 56292,
+      "poster": "/eRZTGx7GsiKqPch96k27LK005ZL.jpg",
+      "title": "Mission: Impossible - Ghost Protocol",
+      "year": 2011
+    }
+  },
+  "spotifyEpisodeId": "6iOODHapiKkBcB0boPNbNK"
+}

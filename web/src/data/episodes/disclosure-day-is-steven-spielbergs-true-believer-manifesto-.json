@@ -46,7 +46,7 @@
         {
           "title": "The Age of Disclosure",
           "year": 2025,
-          "note": "The UAP documentary both hosts watched going in: ex-military and government talking heads, Marco Rubio among them, framing alien contact as a national-security threat. Credible on the facts, they thought, propagandistic in its hawkishness."
+          "note": "The UAP documentary both hosts watched going in: ex-military and government talking heads, Marco Rubio among them, treat alien contact as a national-security threat. Credible on the facts, they thought, propagandistic in its hawkishness."
         }
       ]
     }
@@ -132,6 +132,12 @@
       ]
     }
   ],
+  "tmdbOverrides": {
+    "War of the Worlds": 74,
+    "The Wife": 340613,
+    "The Jungle Book": 9325,
+    "Robin Hood": 11886
+  },
   "excluded": {
     "TV": [
       "60 Minutes",
@@ -158,12 +164,7 @@
       "title": "The Social Reckoning",
       "year": 2026
     },
-    "Whale Fall": {
-      "id": 1635011,
-      "poster": null,
-      "title": "Whale Fall",
-      "year": null
-    },
+    "Whale Fall": null,
     "Once Upon a Time in Harlem": {
       "id": 1596300,
       "poster": "/wM96AK0ezMgmfdDdam0IKGcj94h.jpg",
@@ -201,10 +202,10 @@
       "year": 2002
     },
     "War of the Worlds": {
-      "id": 755898,
-      "poster": "/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+      "id": 74,
+      "poster": "/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
       "title": "War of the Worlds",
-      "year": 2025
+      "year": 2005
     },
     "Ready Player One": {
       "id": 333339,
@@ -411,10 +412,10 @@
       "year": 2000
     },
     "The Wife": {
-      "id": 937092,
-      "poster": "/iyH7xiOA8Bf5K7ou3e1A0zGYj5a.jpg",
+      "id": 340613,
+      "poster": "/d4Qyuy0Ul549f6SOdUqGvIdYKD2.jpg",
       "title": "The Wife",
-      "year": 2022
+      "year": 2017
     },
     "The Substance": {
       "id": 933260,
@@ -435,16 +436,16 @@
       "year": 1964
     },
     "The Jungle Book": {
-      "id": 278927,
-      "poster": "/2Epx7F9X7DrFptn4seqn4mzBVks.jpg",
+      "id": 9325,
+      "poster": "/yN1kuupnPTLUprgfvC5WapgrxG4.jpg",
       "title": "The Jungle Book",
-      "year": 2016
+      "year": 1967
     },
     "Robin Hood": {
-      "id": 203121,
-      "poster": "/nEqRBLHEFAwAo38DM3TKx56kHZR.jpg",
+      "id": 11886,
+      "poster": "/x9AvkYek0bGdxQSZ8W3lAjGrREm.jpg",
       "title": "Robin Hood",
-      "year": 2013
+      "year": 1973
     },
     "Sleeping Beauty": {
       "id": 10882,

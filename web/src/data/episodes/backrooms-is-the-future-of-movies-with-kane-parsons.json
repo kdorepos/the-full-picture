@@ -1,0 +1,365 @@
+{
+  "slug": "backrooms-is-the-future-of-movies-with-kane-parsons",
+  "title": "‘Backrooms’ Is the Future of Movies, With Kane Parsons!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2026-05-29",
+  "runtimeMin": 110,
+  "format": "Sean Fennessey, Amanda Dobbins, and Chris Ryan on 'Backrooms,' 20-year-old Kane Parsons's A24 debut spun out of his YouTube creepypasta series, alongside Curry Barker's horror-rom-com 'Obsession' and what a YouTube-raised generation of directors means for movies. Then Sean sits down with Parsons himself.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The new horror wave: ‘Backrooms’ and ‘Obsession’",
+      "note": "Sean, Amanda, and Chris Ryan on two YouTube-raised directors",
+      "films": [
+        {
+          "title": "Backrooms",
+          "year": 2026,
+          "note": "Kane Parsons's debut feature, adapted from his 'Backrooms' YouTube series (co-written by Will Sudek; James Wan, Osgood Perkins, and Shawn Levy among the producers). A therapist, Renate Reinsve, enters another dimension to find a lost patient, Chiwetel Ejiofor; Mark Duplass, Finn Bennett, and Laquita Maxwell round out the cast. The trio split on it: Chris found the liminal-horror tracking shots hypnotic and wanted nine more hours, Amanda admired the craft but couldn't get her arms around the conventional movie parts, and all three agreed the ordinary narrative scaffolding (the therapist framing, the async-research subplot with Duplass) is the weakest thing in it. Set in 1990; the portal traces to the 1989 San Francisco earthquake. They expect a big opening, and figure it could be A24's biggest release to date."
+        },
+        {
+          "title": "Obsession",
+          "year": 2026,
+          "note": "Curry Barker's horror-tinged romantic comedy, released alongside 'Backrooms' as another young YouTube-raised director's breakout. Amanda's take on the two: she found this one genuinely funny, an observational comedy about relationships with one jump scare that landed. News peg: Barker reportedly drew a sight-unseen eight-figure offer for his next film, which the hosts half-doubt is even a real story."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Kane Parsons",
+      "guest": "Kane Parsons on",
+      "films": [
+        {
+          "title": "Backrooms",
+          "year": 2026,
+          "note": "Sean's conversation with the 20-year-old director: the path from Lego stop-motion on a YouTube channel he started in April 2015, through the 'Backrooms' web series he began around 2021, with Portal and early 'Simpsons' DVDs as formative. He describes the film as one branch on a larger tree rather than the whole canon, deliberately holding back lore so it stands alone; credits his editor Greg for the scares; says he has no desire to use generative AI. Last great thing: reading and listening to Ted Chiang's short stories out the plane window on the press tour home."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Liminal / found-footage touchstones",
+      "films": [
+        "Cube",
+        "Pulse",
+        "Session 9",
+        "Lake Mungo",
+        "Triangle",
+        "Skinamarink",
+        "The Outwaters",
+        "The Night House",
+        "We're All Going to the World's Fair",
+        "I Saw the TV Glow",
+        "Slender Man"
+      ]
+    },
+    {
+      "group": "Influences and comparisons",
+      "films": [
+        "Mulholland Drive",
+        "Kill Bill: Vol. 1",
+        "Lady Snowblood",
+        "Reservoir Dogs",
+        "2001: A Space Odyssey",
+        "A Clockwork Orange",
+        "The Shining",
+        "E.T. the Extra-Terrestrial",
+        "Jagged Edge",
+        "Halloween: Resurrection",
+        "Anyone But You",
+        "Flow"
+      ]
+    },
+    {
+      "group": "The A24 slate",
+      "films": [
+        "The Drama",
+        "Marty Supreme",
+        "Civil War",
+        "Materialists"
+      ]
+    },
+    {
+      "group": "Next week: movies they missed in May",
+      "films": [
+        "Ready or Not: Here I Come",
+        "Mortal Kombat II",
+        "Passenger",
+        "Pressure",
+        "I Love Boosters",
+        "The Sheep Detectives",
+        "Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D)"
+      ]
+    },
+    {
+      "group": "Also mentioned",
+      "films": [
+        "Dune: Part Three",
+        "Star Wars"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Simpsons",
+      "To Catch a Predator",
+      "Game of Thrones"
+    ],
+    "Web / video games": [
+      "Backrooms (YouTube web series)",
+      "Portal",
+      "Portal 2",
+      "Minecraft",
+      "LittleBigPlanet",
+      "Roblox"
+    ],
+    "Ads": [
+      "Amazon Prime",
+      "Tremfaya",
+      "State Farm",
+      "Wells Fargo Autograph Journey",
+      "Accenture",
+      "Feeding America"
+    ]
+  },
+  "tmdbOverrides": {
+    "Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D)": 1515899
+  },
+  "tmdb": {
+    "Backrooms": {
+      "id": 1083381,
+      "poster": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "title": "Backrooms",
+      "year": 2026
+    },
+    "Obsession": {
+      "id": 1339713,
+      "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "title": "Obsession",
+      "year": 2026
+    },
+    "Cube": {
+      "id": 431,
+      "poster": "/x4BTjxdrOKC27FcSkBh8KPEgnum.jpg",
+      "title": "Cube",
+      "year": 1998
+    },
+    "Pulse": {
+      "id": 9682,
+      "poster": "/9ePdNzKVvGHsMMphfS3HeoMvuEX.jpg",
+      "title": "Pulse",
+      "year": 2006
+    },
+    "Session 9": {
+      "id": 10972,
+      "poster": "/A3Au37c3KJX29BDvldzGiYtaU5B.jpg",
+      "title": "Session 9",
+      "year": 2001
+    },
+    "Lake Mungo": {
+      "id": 27374,
+      "poster": "/g0zCELYfBfSv8TOGC13buABVN53.jpg",
+      "title": "Lake Mungo",
+      "year": 2009
+    },
+    "Triangle": {
+      "id": 26466,
+      "poster": "/cRlMrbc4Iof7vN0ZqHwJnMBYBLi.jpg",
+      "title": "Triangle",
+      "year": 2009
+    },
+    "Skinamarink": {
+      "id": 994143,
+      "poster": "/o942912KFh89SGhqWuKXuT0SXzN.jpg",
+      "title": "Skinamarink",
+      "year": 2023
+    },
+    "The Outwaters": {
+      "id": 752867,
+      "poster": "/81SNcKfobpYtPzbPEKIqutRMU6i.jpg",
+      "title": "The Outwaters",
+      "year": 2023
+    },
+    "The Night House": {
+      "id": 547565,
+      "poster": "/rqs2CXpc4d5FzeP1EZCYItAVo81.jpg",
+      "title": "The Night House",
+      "year": 2021
+    },
+    "We're All Going to the World's Fair": {
+      "id": 776501,
+      "poster": "/fXn4Nz1WCTEmzAFvwgEZoPHvptR.jpg",
+      "title": "We're All Going to the World's Fair",
+      "year": 2022
+    },
+    "I Saw the TV Glow": {
+      "id": 858017,
+      "poster": "/hS4GYkYpN1rfl4GIxyc02sCyfAj.jpg",
+      "title": "I Saw the TV Glow",
+      "year": 2024
+    },
+    "Slender Man": {
+      "id": 439015,
+      "poster": "/huSncs4RyvQDBmHjBBYHSBYJbSJ.jpg",
+      "title": "Slender Man",
+      "year": 2018
+    },
+    "Mulholland Drive": {
+      "id": 1018,
+      "poster": "/x7A59t6ySylr1L7aubOQEA480vM.jpg",
+      "title": "Mulholland Drive",
+      "year": 2001
+    },
+    "Kill Bill: Vol. 1": {
+      "id": 24,
+      "poster": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+      "title": "Kill Bill: Vol. 1",
+      "year": 2003
+    },
+    "Lady Snowblood": {
+      "id": 2487,
+      "poster": "/wkcbaqCoYEXDUnSQ6NTnB2C7H05.jpg",
+      "title": "Lady Snowblood",
+      "year": 1973
+    },
+    "Reservoir Dogs": {
+      "id": 500,
+      "poster": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+      "title": "Reservoir Dogs",
+      "year": 1992
+    },
+    "2001: A Space Odyssey": {
+      "id": 62,
+      "poster": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "title": "2001: A Space Odyssey",
+      "year": 1968
+    },
+    "A Clockwork Orange": {
+      "id": 185,
+      "poster": "/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+      "title": "A Clockwork Orange",
+      "year": 1971
+    },
+    "The Shining": {
+      "id": 694,
+      "poster": "/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg",
+      "title": "The Shining",
+      "year": 1980
+    },
+    "E.T. the Extra-Terrestrial": {
+      "id": 601,
+      "poster": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+      "title": "E.T. the Extra-Terrestrial",
+      "year": 1982
+    },
+    "Jagged Edge": {
+      "id": 12235,
+      "poster": "/wHYjo3NLc293ZEXVSGhRIUr3Iqi.jpg",
+      "title": "Jagged Edge",
+      "year": 1985
+    },
+    "Halloween: Resurrection": {
+      "id": 11442,
+      "poster": "/1mlKwbNzJCGzqe4i0ZEJtUUL290.jpg",
+      "title": "Halloween: Resurrection",
+      "year": 2002
+    },
+    "Anyone But You": {
+      "id": 1072790,
+      "poster": "/5qHoazZiaLe7oFBok7XlUhg96f2.jpg",
+      "title": "Anyone but You",
+      "year": 2023
+    },
+    "Flow": {
+      "id": 823219,
+      "poster": "/z2sG41PxfL1hnL1mHbxzSREUtOf.jpg",
+      "title": "Flow",
+      "year": 2024
+    },
+    "The Drama": {
+      "id": 1325734,
+      "poster": "/qhGCY6DIemLoCi7x1GuEt98m4JF.jpg",
+      "title": "The Drama",
+      "year": 2026
+    },
+    "Marty Supreme": {
+      "id": 1317288,
+      "poster": "/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+      "title": "Marty Supreme",
+      "year": 2025
+    },
+    "Civil War": {
+      "id": 929590,
+      "poster": "/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+      "title": "Civil War",
+      "year": 2024
+    },
+    "Materialists": {
+      "id": 1136867,
+      "poster": "/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg",
+      "title": "Materialists",
+      "year": 2025
+    },
+    "Ready or Not: Here I Come": {
+      "id": 1266127,
+      "poster": "/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg",
+      "title": "Ready or Not: Here I Come",
+      "year": 2026
+    },
+    "Mortal Kombat II": {
+      "id": 931285,
+      "poster": "/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
+      "title": "Mortal Kombat II",
+      "year": 2026
+    },
+    "Passenger": {
+      "id": 1368314,
+      "poster": "/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
+      "title": "Passenger",
+      "year": 2026
+    },
+    "Pressure": {
+      "id": 1318413,
+      "poster": "/gFjEggtrejCN79r6SXRjM269OtG.jpg",
+      "title": "Pressure",
+      "year": 2026
+    },
+    "I Love Boosters": {
+      "id": 1227877,
+      "poster": "/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
+      "title": "I Love Boosters",
+      "year": 2026
+    },
+    "The Sheep Detectives": {
+      "id": 1301421,
+      "poster": "/TEaSqmI6TZQVimULYbingDIdXT.jpg",
+      "title": "The Sheep Detectives",
+      "year": 2026
+    },
+    "Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D)": {
+      "id": 1515899,
+      "poster": "/zfFvltKHntGBupFuubx3r61v48e.jpg",
+      "title": "Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D)",
+      "year": 2026
+    },
+    "Dune: Part Three": {
+      "id": 1170608,
+      "poster": "/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+      "title": "Dune: Part Three",
+      "year": 2026
+    },
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
+    }
+  },
+  "spotifyEpisodeId": "4nEwZ6AToPSngXrhgoxbSJ"
+}

@@ -20,7 +20,7 @@
         {
           "title": "Backrooms",
           "year": 2026,
-          "note": "Kane Parsons's debut feature, adapted from his 'Backrooms' YouTube series (co-written by Will Sudek; James Wan, Osgood Perkins, and Shawn Levy among the producers). A therapist, Renate Reinsve, enters another dimension to find a lost patient, Chiwetel Ejiofor; Mark Duplass, Finn Bennett, and Laquita Maxwell round out the cast. The trio split on it: Chris found the liminal-horror tracking shots hypnotic and wanted nine more hours, Amanda admired the craft but couldn't get her arms around the conventional movie parts, and all three agreed the ordinary narrative scaffolding (the therapist framing, the async-research subplot with Duplass) is the weakest thing in it. Set in 1990; the portal traces to the 1989 San Francisco earthquake. They expect a big opening, and figure it could be A24's biggest release to date."
+          "note": "Kane Parsons's debut feature, adapted from his 'Backrooms' YouTube series (co-written by Will Sudek; James Wan, Osgood Perkins, and Shawn Levy among the producers). A therapist, Renate Reinsve, enters another dimension to find a lost patient, Chiwetel Ejiofor; Mark Duplass, Finn Bennett, and Lukita Maxwell round out the cast. The trio split on it: Chris found the liminal-horror tracking shots hypnotic and wanted nine more hours, Amanda admired the craft but couldn't get her arms around the conventional movie parts, and all three agreed the ordinary narrative scaffolding (the therapist framing, the async-research subplot with Duplass) is the weakest thing in it. Set in 1990; the portal traces to the 1989 San Francisco earthquake. They expect a big opening, and figure it could be A24's biggest release to date."
         },
         {
           "title": "Obsession",
@@ -37,7 +37,7 @@
         {
           "title": "Backrooms",
           "year": 2026,
-          "note": "Sean's conversation with the 20-year-old director: the path from Lego stop-motion on a YouTube channel he started in April 2015, through the 'Backrooms' web series he began around 2021, with Portal and early 'Simpsons' DVDs as formative. He describes the film as one branch on a larger tree rather than the whole canon, deliberately holding back lore so it stands alone; credits his editor Greg for the scares; says he has no desire to use generative AI. Last great thing: reading and listening to Ted Chiang's short stories out the plane window on the press tour home."
+          "note": "Sean talks with the 20-year-old director about his path: Lego stop-motion on a YouTube channel he started in April 2015, then the 'Backrooms' web series he began around 2021, with Portal and early 'Simpsons' DVDs as formative influences. He describes the film as one branch on a larger tree rather than the whole canon and says he deliberately held back lore so it stands alone. He credits his editor Greg for the scares and says he has no desire to use generative AI. Last great thing: reading and listening to Ted Chiang's short stories out the plane window on the way home from the press tour."
         }
       ]
     }
@@ -129,7 +129,8 @@
     ]
   },
   "tmdbOverrides": {
-    "Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D)": 1515899
+    "Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D)": 1515899,
+    "Pulse": 27324
   },
   "tmdb": {
     "Backrooms": {
@@ -151,10 +152,10 @@
       "year": 1998
     },
     "Pulse": {
-      "id": 9682,
-      "poster": "/9ePdNzKVvGHsMMphfS3HeoMvuEX.jpg",
+      "id": 27324,
+      "poster": "/c3zEimDraIyMSasPMGDaNOrhnzn.jpg",
       "title": "Pulse",
-      "year": 2006
+      "year": 2001
     },
     "Session 9": {
       "id": 10972,

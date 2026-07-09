@@ -1,0 +1,461 @@
+{
+  "slug": "mickey-17-and-the-bong-joon-ho-movie-rankings",
+  "title": "‘Mickey 17’ and the Bong Joon-ho Movie Rankings",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessy",
+    "Amanda Dobbins"
+  ],
+  "published": "2025-03-10",
+  "runtimeMin": 78,
+  "format": "Sean and Amanda dig into Bong Joon-ho's post-Parasite blank check, then rank all eight of his features.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘Mickey 17’",
+      "films": [
+        {
+          "title": "Mickey 17",
+          "year": 2025,
+          "note": "Bong's $120M Warner Bros. follow-up to Parasite, from Edward Ashton's novel Mickey7. Robert Pattinson plays an 'expendable' who's killed and reprinted on an ice-world expedition run by a Trump-ish megachurch figure (Mark Ruffalo). Both hosts admire the craft and Pattinson's Keaton-esque physical work, but both think the tone (noir, slapstick, and broad political satire all at once) never settles. Sean calls it the second-best movie of the year so far."
+        }
+      ]
+    },
+    {
+      "kind": "ranking",
+      "heading": "The Bong Joon-ho Rankings",
+      "note": "all eight features, best to worst",
+      "subject": "Bong Joon-ho",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Parasite",
+          "year": 2019,
+          "note": "No. 1, and it isn't close: the pair jokingly cut to 'Parasite 1, what goes 5, 4, 3.' The literalized basement-and-house metaphor, and its complicated, unhappy ending."
+        },
+        {
+          "title": "Memories of Murder",
+          "year": 2003,
+          "note": "No. 2. His serial-killer film built on the unsolvability of life; traded influence with Fincher. Song Kang-ho is 'amazing.'"
+        },
+        {
+          "title": "The Host",
+          "year": 2006,
+          "note": "No. 3, and Amanda's personal favorite: 'Mean Spielberg mode.' A straight creature movie that's really about government and family, with that formaldehyde-down-the-drain opening."
+        },
+        {
+          "title": "Mother",
+          "year": 2009,
+          "note": "No. 4. Sean argues it has his best ending; the closest of the Korean films to Parasite in its grounded family-crime register."
+        },
+        {
+          "title": "Snowpiercer",
+          "year": 2013,
+          "note": "No. 5. Praised as 'the most propulsive,' with the door-breaching push forward called 'cinema,' but graded an 8 against the top four's 9s and 10s. The Weinstein cut fight is recalled."
+        },
+        {
+          "title": "Okja",
+          "year": 2017,
+          "note": "No. 6. Amanda defends it ('mean Spielberg,' the baby-pig ending wrecks her); Sean finds it broad and thematically redundant, his least-loved of the big films."
+        },
+        {
+          "title": "Mickey 17",
+          "year": 2025,
+          "note": "No. 7. Placed high in the pantheon of a director with no bad films, but the tonal spray keeps it at the bottom of the majors for both."
+        },
+        {
+          "title": "Barking Dogs Never Bite",
+          "year": 2000,
+          "note": "Last. His debut comedy, 'a trial run': you can see the filmmaker forming, but neither returns to it."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "The Thing",
+        "To Be or Not to Be",
+        "The Martian",
+        "Se7en",
+        "Uncut Gems",
+        "Marty Supreme",
+        "Eddington",
+        "Brazil",
+        "Happening",
+        "The Odyssey",
+        "Die My Love",
+        "Blink Twice",
+        "Whitney Houston: I Wanna Dance with Somebody",
+        "The Lighthouse",
+        "The Boy and the Heron",
+        "Nausicaä of the Valley of the Wind",
+        "Ponyo",
+        "Porco Rosso",
+        "The Frighteners",
+        "The Lovely Bones",
+        "Materialists",
+        "Once Upon a Time in Hollywood",
+        "1917",
+        "Joker",
+        "The Irishman",
+        "Little Women",
+        "Marriage Story",
+        "Jay Kelly",
+        "Barbie",
+        "La La Land",
+        "Lawrence of Arabia",
+        "Zoolander",
+        "Happy Gilmore",
+        "Tommy Boy",
+        "Wayne's World",
+        "Team America: World Police",
+        "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+        "Jackass: The Movie",
+        "The Hangover",
+        "Superbad",
+        "Anchorman: The Legend of Ron Burgundy",
+        "The Devil Wears Prada",
+        "Truth",
+        "Thunderbolts*",
+        "Avatar: Fire and Ash"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Whitney Houston: I Wanna Dance with Somebody": 696157
+  },
+  "excluded": {
+    "TV": [
+      "The White Lotus",
+      "Severance",
+      "Survivor",
+      "The Last of Us",
+      "Shrinking",
+      "Love Is Blind",
+      "Snowpiercer (TV series)"
+    ],
+    "Ads": [
+      "Botox",
+      "Goldbelly"
+    ]
+  },
+  "tmdb": {
+    "Mickey 17": {
+      "id": 696506,
+      "poster": "/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
+      "title": "Mickey 17",
+      "year": 2025
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Memories of Murder": {
+      "id": 11423,
+      "poster": "/jcgUjx1QcupGzjntTVlnQ15lHqy.jpg",
+      "title": "Memories of Murder",
+      "year": 2003
+    },
+    "The Host": {
+      "id": 1255,
+      "poster": "/m3OE5bpcGHMWYlPkYvgIrncuuGN.jpg",
+      "title": "The Host",
+      "year": 2006
+    },
+    "Mother": {
+      "id": 30018,
+      "poster": "/8oBnSkZE6GDVugAbLPO6uJd4GcS.jpg",
+      "title": "Mother",
+      "year": 2009
+    },
+    "Snowpiercer": {
+      "id": 110415,
+      "poster": "/kw6YQudA0TMcNmGUGy5XIw7zbnV.jpg",
+      "title": "Snowpiercer",
+      "year": 2013
+    },
+    "Okja": {
+      "id": 387426,
+      "poster": "/pHlRr2MfjK77VIIAO7p0R4jhsJI.jpg",
+      "title": "Okja",
+      "year": 2017
+    },
+    "Barking Dogs Never Bite": {
+      "id": 21531,
+      "poster": "/msLr6T2RhqZNZtdCZScAA8nOWbU.jpg",
+      "title": "Barking Dogs Never Bite",
+      "year": 2000
+    },
+    "The Thing": {
+      "id": 1091,
+      "poster": "/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+      "title": "The Thing",
+      "year": 1982
+    },
+    "To Be or Not to Be": {
+      "id": 198,
+      "poster": "/dDQRpEoyjHT4fzw9cNklIvZuXYg.jpg",
+      "title": "To Be or Not to Be",
+      "year": 1942
+    },
+    "The Martian": {
+      "id": 286217,
+      "poster": "/fASz8A0yFE3QB6LgGoOfwvFSseV.jpg",
+      "title": "The Martian",
+      "year": 2015
+    },
+    "Se7en": {
+      "id": 807,
+      "poster": "/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+      "title": "Se7en",
+      "year": 1995
+    },
+    "Uncut Gems": {
+      "id": 473033,
+      "poster": "/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+      "title": "Uncut Gems",
+      "year": 2019
+    },
+    "Marty Supreme": {
+      "id": 1317288,
+      "poster": "/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+      "title": "Marty Supreme",
+      "year": 2025
+    },
+    "Eddington": {
+      "id": 648878,
+      "poster": "/4GIqZUgPZ146BhibsPHMHef2nXX.jpg",
+      "title": "Eddington",
+      "year": 2025
+    },
+    "Brazil": {
+      "id": 68,
+      "poster": "/aewan59WcFThBimkTVVoNf2o5Vb.jpg",
+      "title": "Brazil",
+      "year": 1985
+    },
+    "Happening": {
+      "id": 793998,
+      "poster": "/f2lTAmLYpWpd8JxtJrMXFFGV9gZ.jpg",
+      "title": "Happening",
+      "year": 2021
+    },
+    "The Odyssey": {
+      "id": 1368337,
+      "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "title": "The Odyssey",
+      "year": 2026
+    },
+    "Die My Love": {
+      "id": 1033148,
+      "poster": "/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
+      "title": "Die My Love",
+      "year": 2025
+    },
+    "Blink Twice": {
+      "id": 840705,
+      "poster": "/lZGOK0I2DJSRlEPNOAFTSNxSjDD.jpg",
+      "title": "Blink Twice",
+      "year": 2024
+    },
+    "Whitney Houston: I Wanna Dance with Somebody": {
+      "id": 696157,
+      "poster": "/oodPJ3Op1pWBhnEFyw5fampRCWf.jpg",
+      "title": "Whitney Houston: I Wanna Dance with Somebody",
+      "year": 2022
+    },
+    "The Lighthouse": {
+      "id": 503919,
+      "poster": "/yAKNmpcUweGH6WMCEWenwU9PsbE.jpg",
+      "title": "The Lighthouse",
+      "year": 2019
+    },
+    "The Boy and the Heron": {
+      "id": 508883,
+      "poster": "/f4oZTcfGrVTXKTWg157AwikXqmP.jpg",
+      "title": "The Boy and the Heron",
+      "year": 2023
+    },
+    "Nausicaä of the Valley of the Wind": null,
+    "Ponyo": {
+      "id": 12429,
+      "poster": "/yp8vEZflGynlEylxEesbYasc06i.jpg",
+      "title": "Ponyo",
+      "year": 2008
+    },
+    "Porco Rosso": {
+      "id": 11621,
+      "poster": "/8mIvSvnVBApfORL9N6S38Q7wD6A.jpg",
+      "title": "Porco Rosso",
+      "year": 1992
+    },
+    "The Frighteners": {
+      "id": 10779,
+      "poster": "/zcJbCMwFLJdn5OLjhYwMVaSB32R.jpg",
+      "title": "The Frighteners",
+      "year": 1996
+    },
+    "The Lovely Bones": {
+      "id": 7980,
+      "poster": "/sn0iDphRxQ7I6aLd9igIgACITak.jpg",
+      "title": "The Lovely Bones",
+      "year": 2009
+    },
+    "Materialists": {
+      "id": 1136867,
+      "poster": "/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg",
+      "title": "Materialists",
+      "year": 2025
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "1917": {
+      "id": 530915,
+      "poster": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+      "title": "1917",
+      "year": 2019
+    },
+    "Joker": {
+      "id": 475557,
+      "poster": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "title": "Joker",
+      "year": 2019
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Little Women": {
+      "id": 331482,
+      "poster": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+      "title": "Little Women",
+      "year": 2019
+    },
+    "Marriage Story": {
+      "id": 492188,
+      "poster": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+      "title": "Marriage Story",
+      "year": 2019
+    },
+    "Jay Kelly": {
+      "id": 1069905,
+      "poster": "/lEXYpY9X17pGC7xYYy17Guv0L3J.jpg",
+      "title": "Jay Kelly",
+      "year": 2025
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "La La Land": {
+      "id": 313369,
+      "poster": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "title": "La La Land",
+      "year": 2016
+    },
+    "Lawrence of Arabia": {
+      "id": 947,
+      "poster": "/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg",
+      "title": "Lawrence of Arabia",
+      "year": 1962
+    },
+    "Zoolander": {
+      "id": 9398,
+      "poster": "/qdrbSneHZjJG2Dj0hhBxzzAo4HB.jpg",
+      "title": "Zoolander",
+      "year": 2001
+    },
+    "Happy Gilmore": {
+      "id": 9614,
+      "poster": "/4RnCeRzvI1xk5tuNWjpDKzSnJDk.jpg",
+      "title": "Happy Gilmore",
+      "year": 1996
+    },
+    "Tommy Boy": {
+      "id": 11381,
+      "poster": "/jeEM8v1OA9u6F5NC2lzXD04Ls1U.jpg",
+      "title": "Tommy Boy",
+      "year": 1995
+    },
+    "Wayne's World": {
+      "id": 8872,
+      "poster": "/fHwZnFNWR7PaS9t5EBwTvGPeoYQ.jpg",
+      "title": "Wayne's World",
+      "year": 1992
+    },
+    "Team America: World Police": {
+      "id": 3989,
+      "poster": "/m1Q2VFe1DVVbjfu1LDZe7tlp9yb.jpg",
+      "title": "Team America: World Police",
+      "year": 2004
+    },
+    "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan": {
+      "id": 496,
+      "poster": "/kfkyALfD4G1mlBJI1lOt2QCra4i.jpg",
+      "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+      "year": 2006
+    },
+    "Jackass: The Movie": {
+      "id": 9012,
+      "poster": "/9Rb659hvGfmef1xm0mMvDHEBqmf.jpg",
+      "title": "Jackass: The Movie",
+      "year": 2002
+    },
+    "The Hangover": {
+      "id": 18785,
+      "poster": "/A0uS9rHR56FeBtpjVki16M5xxSW.jpg",
+      "title": "The Hangover",
+      "year": 2009
+    },
+    "Superbad": {
+      "id": 8363,
+      "poster": "/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg",
+      "title": "Superbad",
+      "year": 2007
+    },
+    "Anchorman: The Legend of Ron Burgundy": {
+      "id": 8699,
+      "poster": "/mhZIcRePT7U8viFQVjt1ZjYIsR4.jpg",
+      "title": "Anchorman: The Legend of Ron Burgundy",
+      "year": 2004
+    },
+    "The Devil Wears Prada": {
+      "id": 350,
+      "poster": "/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+      "title": "The Devil Wears Prada",
+      "year": 2006
+    },
+    "Truth": {
+      "id": 300693,
+      "poster": "/qmpMRABYbQjgtxwJ6xMPc8KskzA.jpg",
+      "title": "Truth",
+      "year": 2015
+    },
+    "Thunderbolts*": {
+      "id": 986056,
+      "poster": "/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
+      "title": "Thunderbolts*",
+      "year": 2025
+    },
+    "Avatar: Fire and Ash": {
+      "id": 83533,
+      "poster": "/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
+      "title": "Avatar: Fire and Ash",
+      "year": 2025
+    }
+  },
+  "spotifyEpisodeId": "2hfQIHiWgvJOHUDL8avYPI"
+}

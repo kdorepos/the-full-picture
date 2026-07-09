@@ -1,0 +1,578 @@
+{
+  "slug": "the-10-best-movies-at-sundance-and-the-astonishing-nickel-bo",
+  "title": "The 10 Best Movies at Sundance, and the Astonishing ‘Nickel Boys’",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2025-02-04",
+  "runtimeMin": 101,
+  "format": "Sean and Amanda take stock of a thin Sundance 2025 from afar, break down the Best Picture nominee 'Nickel Boys,' and check in on 'Goodrich' and 'September 5.' Director Tim Fehlbaum stops by to talk 'September 5.'",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Housekeeping",
+      "note": "the mailbag move and the Oscar race",
+      "films": [
+        {
+          "title": "Emilia Pérez",
+          "year": 2024,
+          "note": "The Karla Sofía Gascón social-media scandal broke wide over the weekend. The hosts think the resurfaced posts, and Gascón's defensive 60 Minutes appearance, imperil the film's Best Picture and Zoe Saldaña's Supporting Actress campaigns; Sean guesses Saldaña survives it."
+        },
+        {
+          "title": "The Brutalist",
+          "year": 2024,
+          "note": "The likely beneficiary if the Emilia Pérez campaign collapses. Its earlier AI-tooling controversy now looks minor by comparison."
+        },
+        {
+          "title": "Anora",
+          "year": 2024,
+          "note": "Floated as another film that could pass Emilia Pérez if voters treat the scandal as a repudiation."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Sundance 2025",
+      "note": "Sean's dispatch: the standouts, roughly best-first",
+      "films": [
+        {
+          "title": "Train Dreams",
+          "year": 2025,
+          "note": "The best thing Sean saw. Clint Bentley directs, he and Greg Kwedar (the 'Sing Sing' pair) wrote it, from the Denis Johnson novella. Joel Edgerton plays a turn-of-the-century logger; Sean, long cool on Edgerton, says the part finally fits his taciturn quiet. Netflix bought it, which deflated him for a film he wanted on a big screen."
+        },
+        {
+          "title": "The Perfect Neighbor",
+          "year": 2025,
+          "note": "Geeta Gandbhir's documentary, told entirely through police body-cam, about a fatal neighbor dispute and Florida's stand-your-ground law. Sean puts it right at the edge of exploitative without crossing it; it kept him up."
+        },
+        {
+          "title": "Predators",
+          "year": 2025,
+          "note": "David Osit's documentary on the Dateline series 'To Catch a Predator,' probing the ethics of the show. One of Sean's three favorite docs."
+        },
+        {
+          "title": "Zodiac Killer Project",
+          "year": 2025,
+          "note": "Charlie Shackleton's essay film. After the book rights fell through, he narrates the true-crime documentary he couldn't make and unpacks the genre's tropes. Clever, a step below the other two docs."
+        },
+        {
+          "title": "The Things You Kill",
+          "year": 2025,
+          "note": "Alireza Khatami's psychological thriller, set in Turkey, that Sean places between Farhadi-style Iranian realism and David Lynch. He won't describe the plot."
+        },
+        {
+          "title": "Opus",
+          "year": 2025,
+          "note": "Marc Anthony Green's A24 debut with Ayo Edebiri and John Malkovich, out March 14. Both hosts saw it early and liked its strange pop energy; the Nile Rodgers/The-Dream score stood out."
+        },
+        {
+          "title": "Sorry, Baby",
+          "year": 2025,
+          "note": "Eva Victor writes, directs, and stars as a woman in a college town reckoning with a trauma; Lucas Hedges and Naomi Ackie co-star. A24 bought it. Sean liked it, less than the festival crowd did."
+        },
+        {
+          "title": "André Is an Idiot",
+          "year": 2025,
+          "note": "A24 documentary about an irreverent ad man filming his own colon-cancer treatment. Won the U.S. documentary audience award."
+        },
+        {
+          "title": "2000 Meters to Andriivka",
+          "year": 2025,
+          "note": "Mstyslav Chernov's follow-up to '20 Days in Mariupol,' embedded with Ukrainian troops trying to retake a strategic forest. A tough watch."
+        },
+        {
+          "title": "Omaha",
+          "year": 2025,
+          "note": "Cole Webley directs, Robert Machoian writes; John Magaro as a father who flees Nevada with his two young kids for Nebraska. The saddest thing Sean saw."
+        },
+        {
+          "title": "It's Never Over, Jeff Buckley",
+          "year": 2025,
+          "note": "Amy Berg's documentary on Jeff Buckley, as close to a definitive account as we're likely to get."
+        },
+        {
+          "title": "Selena y Los Dinos",
+          "year": 2025,
+          "note": "The Selena documentary; standard but good, per Sean. Pulled from the virtual platform mid-festival after piracy."
+        },
+        {
+          "title": "Prime Minister",
+          "year": 2025,
+          "note": "Documentary on Jacinda Ardern and New Zealand's approach to the COVID lockdown."
+        },
+        {
+          "title": "Marlee Matlin: Not Alone Anymore",
+          "year": 2025,
+          "note": "Documentary tracing Matlin's career, her relationship with William Hurt, and her years as Hollywood's lone deaf advocate before 'CODA.'"
+        },
+        {
+          "title": "Sly Lives!",
+          "year": 2025,
+          "note": "Questlove's Sly Stone documentary, subtitled the burden of Black genius. Made by Sean's friend Joseph Patel."
+        },
+        {
+          "title": "Twinless",
+          "year": 2025,
+          "note": "Dylan O'Brien plays two very different twins and won an acting award; also pulled after piracy. Sean didn't love it but rates O'Brien."
+        },
+        {
+          "title": "Together",
+          "year": 2025,
+          "note": "Dave Franco and Alison Brie thriller, sold to Neon out of the midnight section, one of only three festival sales by Monday."
+        },
+        {
+          "title": "The Ballad of Wallis Island",
+          "year": 2025,
+          "note": "Focus film with Carey Mulligan, a bigger-ticket title kept off the virtual platform."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "‘Nickel Boys’",
+      "note": "the Best Picture nominee, with spoilers flagged",
+      "films": [
+        {
+          "title": "Nickel Boys",
+          "year": 2024,
+          "note": "RaMell Ross directs, from Colson Whitehead's novel, with Ethan Herisse, Brandon Wilson, Aunjanue Ellis-Taylor, Hamish Linklater, Fred Hechinger, and Daveed Diggs. Two Black boys at an abusive 1960s Florida reform school modeled on the real Dozier School. Shot largely in first-person POV that flips between the two leads about 35 minutes in; both hosts call it astonishing and heartbreaking, with the modern-day framing the weaker half. Sean interviewed Ross on the Dec. 20 episode."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "‘Goodrich’",
+      "note": "the Michael Keaton family dramedy, on Max",
+      "films": [
+        {
+          "title": "Goodrich",
+          "year": 2024,
+          "note": "Hallie Meyers-Shyer (daughter of Nancy Meyers and the late Charles Shyer) writes and directs; Michael Keaton as an LA art dealer whose wife enters rehab, leaving him with nine-year-old twins, while his pregnant grown daughter (Mila Kunis) needs him too. The mid-budget studio dramedy the hosts miss; Amanda wanted a stronger actress opposite Keaton, and Sean thinks Keaton's charm makes the character too likable."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "‘September 5’",
+      "note": "quick take before the interview",
+      "films": [
+        {
+          "title": "September 5",
+          "year": 2024,
+          "note": "Tim Fehlbaum's procedural about the ABC Sports crew that covered the 1972 Munich hostage crisis live, with John Magaro at the center. Sean reads it as a Sorkin/Fincher movie about people obsessed with doing a job, and compares it (as a compliment) to a good HBO original."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Tim Fehlbaum on",
+      "films": [
+        {
+          "title": "September 5",
+          "year": 2024,
+          "note": "Fehlbaum on building the film from producer Jeffrey Mason's control-room memories, recreating archival footage seamlessly while keeping Jim McKay's real broadcast, casting American actors with help from Sean Penn's company, and Munich '72 as a turning point in live TV. Golden Globe nominated."
+        },
+        {
+          "title": "Conclave",
+          "year": 2024,
+          "by": "Tim Fehlbaum",
+          "note": "His last great thing: Edward Berger's Vatican drama, which he admires for its craft and its confined world."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Around Sundance",
+      "films": [
+        "Sing Sing",
+        "Jockey"
+      ]
+    },
+    {
+      "group": "Around ‘Nickel Boys’",
+      "films": [
+        "The Tree of Life",
+        "Hale County This Morning, This Evening"
+      ]
+    },
+    {
+      "group": "Around ‘Goodrich’",
+      "films": [
+        "Home Again",
+        "Beetlejuice Beetlejuice",
+        "Knox Goes Away",
+        "Porco Rosso",
+        "Princess Mononoke",
+        "Mamma Mia!"
+      ]
+    },
+    {
+      "group": "Around the interview",
+      "films": [
+        "One Day in September",
+        "Tides"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "The Hustler",
+        "Past Lives",
+        "The Cooler",
+        "The Savages",
+        "Sinners",
+        "20 Days in Mariupol",
+        "Children of Men",
+        "Black Hawk Down",
+        "The Idea of You"
+      ]
+    },
+    {
+      "group": "Next week (garbage love)",
+      "films": [
+        "Companion",
+        "You're Cordially Invited",
+        "Love Me",
+        "Love Hurts",
+        "Heart Eyes"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "To Catch a Predator",
+      "Dateline",
+      "Making a Murderer",
+      "The Agency",
+      "World News Tonight",
+      "60 Minutes"
+    ],
+    "Ads": [
+      "Mint Mobile",
+      "Athletic Brewing",
+      "60 Songs That Explain the '90s",
+      "Uber Eats"
+    ]
+  },
+  "tmdbOverrides": {
+    "André Is an Idiot": 1400731,
+    "Selena y Los Dinos": 1400784,
+    "Sly Lives!": 847692,
+    "Sing Sing": 1155828,
+    "Tides": 760873
+  },
+  "tmdb": {
+    "Emilia Pérez": {
+      "id": 974950,
+      "poster": "/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg",
+      "title": "Emilia Pérez",
+      "year": 2024
+    },
+    "The Brutalist": {
+      "id": 549509,
+      "poster": "/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
+      "title": "The Brutalist",
+      "year": 2024
+    },
+    "Anora": {
+      "id": 1064213,
+      "poster": "/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg",
+      "title": "Anora",
+      "year": 2024
+    },
+    "Train Dreams": {
+      "id": 1241983,
+      "poster": "/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg",
+      "title": "Train Dreams",
+      "year": 2025
+    },
+    "The Perfect Neighbor": {
+      "id": 1400782,
+      "poster": "/2NE7yN45zo19o4LJr6JFxDWmh2b.jpg",
+      "title": "The Perfect Neighbor",
+      "year": 2025
+    },
+    "Predators": {
+      "id": 1400382,
+      "poster": "/epjqcM33F3PKRZmj3KbpsXlJ3gY.jpg",
+      "title": "Predators",
+      "year": 2025
+    },
+    "Zodiac Killer Project": {
+      "id": 1400744,
+      "poster": "/x1ZOSia1JA6SnRyokBOoVje2L67.jpg",
+      "title": "Zodiac Killer Project",
+      "year": 2025
+    },
+    "The Things You Kill": {
+      "id": 1001270,
+      "poster": "/kR8CHANk8KwQLWarMIQsk2mthhW.jpg",
+      "title": "The Things You Kill",
+      "year": 2025
+    },
+    "Opus": {
+      "id": 1202479,
+      "poster": "/m0du9dsiOVeb0SgfqR8ZAEPRxww.jpg",
+      "title": "Opus",
+      "year": 2025
+    },
+    "Sorry, Baby": {
+      "id": 1205515,
+      "poster": "/n8wZEQen5hDNRGzm4fY4sxWe5xe.jpg",
+      "title": "Sorry, Baby",
+      "year": 2025
+    },
+    "André Is an Idiot": {
+      "id": 1400731,
+      "poster": "/lUDoDeCyobKik81PWUrBWOEV0qt.jpg",
+      "title": "André Is an Idiot",
+      "year": 2026
+    },
+    "2000 Meters to Andriivka": {
+      "id": 1400789,
+      "poster": "/s1TC3QebWWWJ6CceqbBgAvJde8t.jpg",
+      "title": "2000 Meters to Andriivka",
+      "year": 2025
+    },
+    "Omaha": {
+      "id": 1233655,
+      "poster": "/s1SNVyTWWmvpWK439bOrRF9xywS.jpg",
+      "title": "Omaha",
+      "year": 2025
+    },
+    "It's Never Over, Jeff Buckley": {
+      "id": 1400381,
+      "poster": "/rrKe8bC6UKFKvfZHvbwA9Bq5hkR.jpg",
+      "title": "It's Never Over, Jeff Buckley",
+      "year": 2025
+    },
+    "Selena y Los Dinos": {
+      "id": 1400784,
+      "poster": "/9dNDTnc2KsX7g73V5l1D0YCAQqa.jpg",
+      "title": "Selena y Los Dinos: A Family's Legacy",
+      "year": 2025
+    },
+    "Prime Minister": {
+      "id": 1400798,
+      "poster": "/uJvaZaq4OxoNVjqoyjLd19qP7PG.jpg",
+      "title": "Prime Minister",
+      "year": 2025
+    },
+    "Marlee Matlin: Not Alone Anymore": {
+      "id": 1340117,
+      "poster": "/1RTdQRBtRFqXwr0c4Q8cMDcxikK.jpg",
+      "title": "Marlee Matlin: Not Alone Anymore",
+      "year": 2025
+    },
+    "Sly Lives!": {
+      "id": 847692,
+      "poster": "/5aRjJdgFRxy3gQ0l7zgGARMansx.jpg",
+      "title": "SLY LIVES! (aka The Burden of Black Genius)",
+      "year": 2025
+    },
+    "Twinless": {
+      "id": 1245347,
+      "poster": "/9vaw9Az5tPLMjNLj426KgKsp0k8.jpg",
+      "title": "Twinless",
+      "year": 2025
+    },
+    "Together": {
+      "id": 1242011,
+      "poster": "/80slKYVM5teFH3kz6ouWrZXveqj.jpg",
+      "title": "Together",
+      "year": 2025
+    },
+    "The Ballad of Wallis Island": {
+      "id": 1122099,
+      "poster": "/haS6bnqDqZoi5sYcCPJWaj2yMbB.jpg",
+      "title": "The Ballad of Wallis Island",
+      "year": 2025
+    },
+    "Nickel Boys": {
+      "id": 1028196,
+      "poster": "/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg",
+      "title": "Nickel Boys",
+      "year": 2024
+    },
+    "Goodrich": {
+      "id": 1088096,
+      "poster": "/silxnsoelZ0qXp4Bm2spBY949iP.jpg",
+      "title": "Goodrich",
+      "year": 2024
+    },
+    "September 5": {
+      "id": 1211472,
+      "poster": "/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg",
+      "title": "September 5",
+      "year": 2024
+    },
+    "Conclave": {
+      "id": 974576,
+      "poster": "/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
+      "title": "Conclave",
+      "year": 2024
+    },
+    "Sing Sing": {
+      "id": 1155828,
+      "poster": "/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg",
+      "title": "Sing Sing",
+      "year": 2024
+    },
+    "Jockey": {
+      "id": 776511,
+      "poster": "/eMgskfX9BfG6i872hawQC17dPzr.jpg",
+      "title": "Jockey",
+      "year": 2021
+    },
+    "The Tree of Life": {
+      "id": 8967,
+      "poster": "/l8cwuB5WJSoj4uMAsnzuHBOMaSJ.jpg",
+      "title": "The Tree of Life",
+      "year": 2011
+    },
+    "Hale County This Morning, This Evening": {
+      "id": 490785,
+      "poster": "/yzso3kOTsilpu25bnDhAkxPWoTT.jpg",
+      "title": "Hale County This Morning, This Evening",
+      "year": 2018
+    },
+    "Home Again": {
+      "id": 427900,
+      "poster": "/pE4VHzhDZgvbx2QOllaXXPADiW1.jpg",
+      "title": "Home Again",
+      "year": 2017
+    },
+    "Beetlejuice Beetlejuice": {
+      "id": 917496,
+      "poster": "/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg",
+      "title": "Beetlejuice Beetlejuice",
+      "year": 2024
+    },
+    "Knox Goes Away": {
+      "id": 972614,
+      "poster": "/w39qKYjltCix18BwtoZ1e45usdb.jpg",
+      "title": "Knox Goes Away",
+      "year": 2024
+    },
+    "Porco Rosso": {
+      "id": 11621,
+      "poster": "/8mIvSvnVBApfORL9N6S38Q7wD6A.jpg",
+      "title": "Porco Rosso",
+      "year": 1992
+    },
+    "Princess Mononoke": {
+      "id": 128,
+      "poster": "/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+      "title": "Princess Mononoke",
+      "year": 1997
+    },
+    "Mamma Mia!": {
+      "id": 11631,
+      "poster": "/zdUA4FNHbXPadzVOJiU0Rgn6cHR.jpg",
+      "title": "Mamma Mia!",
+      "year": 2008
+    },
+    "One Day in September": {
+      "id": 34045,
+      "poster": "/vsxtkcidi7flgxWERBSnwtyH1JJ.jpg",
+      "title": "One Day in September",
+      "year": 1999
+    },
+    "Tides": {
+      "id": 760873,
+      "poster": "/nX7ZUYwgGOCe5nXXwpNg4hAf1xB.jpg",
+      "title": "The Colony",
+      "year": 2021
+    },
+    "The Hustler": {
+      "id": 990,
+      "poster": "/snItsSViawjaadW9mlWUmGwR41R.jpg",
+      "title": "The Hustler",
+      "year": 1961
+    },
+    "Past Lives": {
+      "id": 666277,
+      "poster": "/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg",
+      "title": "Past Lives",
+      "year": 2023
+    },
+    "The Cooler": {
+      "id": 10744,
+      "poster": "/gq3cZxo7SS6HAXdaxObLIyw9N1r.jpg",
+      "title": "The Cooler",
+      "year": 2003
+    },
+    "The Savages": {
+      "id": 8272,
+      "poster": "/nY54gSmTOmSXlQpWDB7DWp4u8a7.jpg",
+      "title": "The Savages",
+      "year": 2007
+    },
+    "Sinners": {
+      "id": 1233413,
+      "poster": "/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+      "title": "Sinners",
+      "year": 2025
+    },
+    "20 Days in Mariupol": {
+      "id": 1058616,
+      "poster": "/zIRp1IeuPh4GgqFCH3y0DQuY9xP.jpg",
+      "title": "20 Days in Mariupol",
+      "year": 2023
+    },
+    "Children of Men": {
+      "id": 9693,
+      "poster": "/k9IAS4TehZFcKi4HVByxZNPfqex.jpg",
+      "title": "Children of Men",
+      "year": 2006
+    },
+    "Black Hawk Down": {
+      "id": 855,
+      "poster": "/7fU5dSqKRL4XHeEUz62rCKBfYok.jpg",
+      "title": "Black Hawk Down",
+      "year": 2001
+    },
+    "The Idea of You": {
+      "id": 843527,
+      "poster": "/Y5P4Q3q8nrruZ9aD3wXeJS2Plg.jpg",
+      "title": "The Idea of You",
+      "year": 2024
+    },
+    "Companion": {
+      "id": 1084199,
+      "poster": "/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
+      "title": "Companion",
+      "year": 2025
+    },
+    "You're Cordially Invited": {
+      "id": 996821,
+      "poster": "/muXnwAdVdEEktto0NBNMyqK3uQH.jpg",
+      "title": "You're Cordially Invited",
+      "year": 2025
+    },
+    "Love Me": {
+      "id": 881415,
+      "poster": "/uX8Z3qWJ5OjV1uP7yT6yRlw9UL9.jpg",
+      "title": "Love Me",
+      "year": 2025
+    },
+    "Love Hurts": {
+      "id": 1226406,
+      "poster": "/skPPVeHoTTVVSJlb0Ib5vrqiuA4.jpg",
+      "title": "Love Hurts",
+      "year": 2025
+    },
+    "Heart Eyes": {
+      "id": 1302916,
+      "poster": "/ebqttF1Vjgde6uSFBEw9mta7Hd3.jpg",
+      "title": "Heart Eyes",
+      "year": 2025
+    }
+  },
+  "spotifyEpisodeId": "0GGyEJg4zNngnqYiWOaUh8"
+}

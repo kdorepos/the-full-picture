@@ -1,0 +1,5 @@
+{
+  "total": 951,
+  "asOf": "2026-07-09",
+  "note": "Snapshot of episodes in the Megaphone RSS feed. The footer renders max(total, published), so a stale snapshot never shows a count below what's live. Bump when the feed grows."
+}

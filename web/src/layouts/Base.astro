@@ -5,7 +5,13 @@ import '@fontsource/ibm-plex-mono/400.css';
 import '@fontsource/ibm-plex-mono/600.css';
 import '../styles/global.css';
 import Analytics from '@vercel/analytics/astro';
+import feedCount from '../data/feed-count.json';
 const { title, description } = Astro.props;
+// Catalog progress for the footer: live count of published episodes vs. the feed total.
+// max() guards against a stale feed-count snapshot ever reading below what's actually live.
+const published = Object.keys(import.meta.glob('../data/episodes/*.json', { eager: true })).length;
+const total = Math.max(feedCount.total, published);
+const pct = Math.round((published / total) * 100);
 ---
 <!doctype html>
 <html lang="en">
@@ -58,6 +64,15 @@ const { title, description } = Astro.props;
     </main>
     <footer>
       <div class="wrap">
+        <div class="catalog-progress">
+          <div class="catalog-progress__row">
+            <span class="catalog-progress__label">Catalog progress</span>
+            <span class="catalog-progress__count"><b>{published.toLocaleString()}</b> of {total.toLocaleString()} episodes</span>
+          </div>
+          <div class="catalog-progress__track" role="progressbar" aria-valuenow={published} aria-valuemin={0} aria-valuemax={total} aria-label={`${published} of ${total} episodes cataloged`}>
+            <div class="catalog-progress__fill" style={`width:${pct}%`}></div>
+          </div>
+        </div>
         <div class="foot-credits">
           <a class="credit" href="https://www.themoviedb.org/" target="_blank" rel="noopener" aria-label="The Movie Database (TMDb)">
             <svg class="logo-tmdb" viewBox="0 0 148 20" role="img" aria-label="TMDB">

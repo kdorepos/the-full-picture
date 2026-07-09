@@ -1,0 +1,1068 @@
+{
+  "slug": "the-10-wildest-reboots-in-movie-history-and-the-bride-plus-a",
+  "title": "The 10 Wildest Reboots in Movie History and ‘The Bride!’ Plus: A ‘Secret Agent’ Second Look and the Best Doc Contenders.",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2026-03-06",
+  "runtimeMin": 143,
+  "format": "Sean Fennessey and Amanda Dobbins split over Maggie Gyllenhaal's 'The Bride,' trace a century of reboots and reimaginings, give 'The Secret Agent' a second look, and run all five Best Documentary nominees.",
+  "tmdbOverrides": {
+    "The Mummy": 1304313,
+    "Birds of Prey": 495764,
+    "Amy": 331781,
+    "Point Blank": 26039,
+    "My Undesirable Friends": 1326015
+  },
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘The Bride!’",
+      "note": "Sean's charmed, Amanda's checked out",
+      "films": [
+        {
+          "title": "The Bride!",
+          "year": 2026,
+          "note": "Maggie Gyllenhaal's third feature, an $80M Frankenstein-adjacent swing with Jessie Buckley and Christian Bale in 1930s Chicago. Sean found it messy but audacious and had more fun than he expected; Amanda bounced off the feminist-retelling premise and the Mary Shelley framing device (Buckley switching between Chicago flapper and cackling British narrator). Both agree the Me Too finale and tacked-on Sarsgaard/Cruz detective plot are a bungle. Tracking for $14-18M."
+        },
+        {
+          "title": "Bride of Frankenstein",
+          "year": 1935,
+          "note": "James Whale's sequel, with Elsa Lanchester's wordless, shrieking bride: the wrong this movie sets out to correct by giving the character a point of view."
+        },
+        {
+          "title": "Frankenstein",
+          "year": 2025,
+          "note": "Del Toro's version, where the bride is just Elizabeth; Sean weighs whether 'The Bride!' is really that much worse."
+        },
+        {
+          "title": "Babylon",
+          "year": 2022,
+          "note": "Sean's closest comp: messy, movie-mad, metaphors on the nose, and he loves it."
+        },
+        {
+          "title": "Don't Worry Darling",
+          "year": 2022,
+          "note": "A film stuck the same way: its thesis about a powerful female consciousness holds the genre back."
+        },
+        {
+          "title": "Joker",
+          "year": 2019,
+          "note": "Same creative team (DP Lawrence Sher, composer Hildur Guðnadóttir); Sean sees the good parts of Joker here."
+        },
+        {
+          "title": "Joker: Folie à Deux",
+          "year": 2024,
+          "note": "And the bad parts: the musical-misfire side of the comparison."
+        },
+        {
+          "title": "Birds of Prey",
+          "year": 2020,
+          "note": "Amanda's touchstone for the greenish look and the 'girl-power reimagination' she's allergic to."
+        },
+        {
+          "title": "The Lost Daughter",
+          "year": 2021,
+          "note": "Gyllenhaal's messy-woman debut; the thematic core she carried into a bigger-budget swing."
+        },
+        {
+          "title": "Star Wars: The Force Awakens",
+          "year": 2015,
+          "note": "Sean's model for the right move: keep the IP, invent a new character (Rey), and just let her catch the lightsaber. No one has to say 'but she's a girl.'"
+        },
+        {
+          "title": "Mickey 17",
+          "year": 2025,
+          "note": "The direct box-office and critical comp ($133.5M global, 72 on Metacritic); another audacious swing that's too politically on the nose."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The 10 Wildest Reboots in Movie History",
+      "note": "reboots, remakes, and feminist reimaginings",
+      "films": [
+        {
+          "title": "The Invisible Man",
+          "year": 2020,
+          "note": "Sean's model for how to do it: Leigh Whannell and Elisabeth Moss bury the social import under a tight 90-minute thriller instead of announcing it."
+        },
+        {
+          "title": "The Mummy",
+          "year": 2026,
+          "note": "Warner Bros.' April release with Jack Reynor: a modern-set story using the Karloff-era framework, the same old-IP move Universal's Dark Universe kept failing at."
+        },
+        {
+          "title": "Hook",
+          "year": 1991,
+          "note": "Spielberg's grown-up Peter Pan; a childhood favorite Sean cooled on. Julia Roberts as Tinkerbell: 'Tinker Hell.'"
+        },
+        {
+          "title": "The Fly",
+          "year": 1986,
+          "note": "Cronenberg's 1980s riff, a good version of a reimagining that isn't a straight remake."
+        },
+        {
+          "title": "The Thing",
+          "year": 1982,
+          "note": "Carpenter's riff on the 1951 film: same premise, its own beast."
+        },
+        {
+          "title": "The Thing from Another World",
+          "year": 1951,
+          "note": "The original Carpenter riffed on."
+        },
+        {
+          "title": "Weird Science",
+          "year": 1985,
+          "note": "Basically Bride of Frankenstein, brought to life by two horny teenage boys."
+        },
+        {
+          "title": "The Wiz",
+          "year": 1978,
+          "note": "A reinvention of The Wizard of Oz."
+        },
+        {
+          "title": "The Wizard of Oz",
+          "year": 1939,
+          "note": "The source The Wiz and countless others keep reworking."
+        },
+        {
+          "title": "You've Got Mail",
+          "year": 1998,
+          "note": "A Shop Around the Corner update that also chains back to a Miklós László play: something based on something based on something."
+        },
+        {
+          "title": "The Shop Around the Corner",
+          "year": 1940,
+          "note": "Lubitsch's film, itself adapted from László's Austrian play."
+        },
+        {
+          "title": "Cruella",
+          "year": 2021,
+          "note": "The villain-reimagining strain: a feminist retelling pointed at the bad guy."
+        },
+        {
+          "title": "Snow White and the Huntsman",
+          "year": 2012,
+          "note": "A 'not all men' retelling that makes the huntsman heroic."
+        },
+        {
+          "title": "Dracula Untold",
+          "year": 2014,
+          "note": "Sean's 'clever and wildly unsuccessful' pick: Luke Evans' Vlad forced into monsterhood to save his nation, a sympathetic-villain origin."
+        },
+        {
+          "title": "The Blob",
+          "year": 1988,
+          "note": "A mean 1980s remake of the McQueen original."
+        },
+        {
+          "title": "The Blob (1958)",
+          "year": 1958,
+          "note": "The Steve McQueen original."
+        },
+        {
+          "title": "Invasion of the Body Snatchers",
+          "year": 1956,
+          "note": "The first of four; the 'inherent feeling of being replaced' that keeps getting reimagined."
+        },
+        {
+          "title": "Invasion of the Body Snatchers (1978)",
+          "year": 1978,
+          "note": "Philip Kaufman's version: more about 1970s paranoia."
+        },
+        {
+          "title": "Body Snatchers",
+          "year": 1993,
+          "note": "Abel Ferrara's 1990s take."
+        },
+        {
+          "title": "The Invasion",
+          "year": 2007,
+          "note": "The bungled Daniel Craig / Nicole Kidman fourth version."
+        },
+        {
+          "title": "Ponyo",
+          "year": 2008,
+          "note": "A reimagining of The Little Mermaid, another attempt to fix the fairy tales. Currently the subject of an Academy Museum exhibit."
+        },
+        {
+          "title": "The Big Lebowski",
+          "year": 1998,
+          "note": "Dashiell Hammett and The Long Goodbye recast against the low-level angst of the Gulf War."
+        },
+        {
+          "title": "The Long Goodbye",
+          "year": 1973,
+          "note": "Altman's noir, itself part of the lineage Lebowski draws on."
+        },
+        {
+          "title": "Mirror Mirror",
+          "year": 2012,
+          "note": "Tarsem's Snow White refocused on Julia Roberts' evil queen, the perspective-shift version."
+        },
+        {
+          "title": "Cinderella",
+          "year": 2015,
+          "note": "The Lily James version that arrived around the same time as Mirror Mirror's fairy-tale wave."
+        },
+        {
+          "title": "Last Man Standing",
+          "year": 1996,
+          "note": "Bruce Willis 1920s gangster remake of Yojimbo, not the Tim Allen sitcom."
+        },
+        {
+          "title": "Yojimbo",
+          "year": 1961,
+          "note": "Kurosawa's original that Last Man Standing remade."
+        },
+        {
+          "title": "Halloween (2007)",
+          "year": 2007,
+          "note": "Rob Zombie's first. Sean's take: bad."
+        },
+        {
+          "title": "Halloween II (2009)",
+          "year": 2009,
+          "note": "Rob Zombie's second. Sean's take: good. Don't at him."
+        },
+        {
+          "title": "The Da Vinci Code",
+          "year": 2006,
+          "note": "The running bit: a reimagining where the Holy Grail becomes the sacred feminine ('we fixed Christianity!'). Also, still fiction."
+        },
+        {
+          "title": "Rosaline",
+          "year": 2022,
+          "note": "The Kaitlyn Dever Hulu movie about Romeo's ex, the sidelined-character retelling as comedy."
+        },
+        {
+          "title": "The Fall",
+          "year": 2006,
+          "note": "Tarsem's other film, cited alongside The Cell as one of the most beautiful movies of the last 25 years. Now back in Julia Roberts' Letterboxd four."
+        },
+        {
+          "title": "The Cell",
+          "year": 2000,
+          "note": "Tarsem's debut, the other half of Sean's beauty pairing."
+        },
+        {
+          "title": "Clueless",
+          "year": 1995,
+          "note": "Filed under modern remake, not reimagining: the Emma update."
+        },
+        {
+          "title": "10 Things I Hate About You",
+          "year": 1999,
+          "note": "Same bucket: a modern-set remake (Taming of the Shrew), not a reclamation."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "‘The Secret Agent,’ a Second Look",
+      "note": "Kleber Mendonça Filho's Best Picture contender, now on Hulu",
+      "films": [
+        {
+          "title": "The Secret Agent",
+          "year": 2025,
+          "note": "Wagner Moura carries a languid, phantasmagoric 1977 Recife thriller: Marcelo/Armando hiding out under the dictatorship, a shark-swallowed leg that goes on a spree, a framing device of two young women reviewing the historical record. Sean's third watch; both call it one of the wildest Best Picture nominees ever and are torn between it and Sentimental Value for International."
+        },
+        {
+          "title": "Jaws",
+          "year": 1975,
+          "note": "The hovering god over the movie and its emotional key: Fernando's line that he was scared of it until he finally saw it, and then all the fear went away."
+        },
+        {
+          "title": "One Battle After Another",
+          "year": 2025,
+          "note": "The season's recurring comp: two secret societies, revolution vs. control, and the long fallout."
+        },
+        {
+          "title": "I'm Still Here",
+          "year": 2024,
+          "note": "The prior year's Brazilian-dictatorship film; more traditional and tightly focused, where this one sprawls. Both end on a memory-and-family flash-forward."
+        },
+        {
+          "title": "Pictures of Ghosts",
+          "year": 2023,
+          "note": "Mendonça Filho's memory doc about Recife, probably better seen after The Secret Agent."
+        },
+        {
+          "title": "Bacurau",
+          "year": 2019,
+          "note": "His earlier film with the same trick of turning into a horror movie for ten minutes, then stopping."
+        },
+        {
+          "title": "Sinners",
+          "year": 2025,
+          "note": "The dual-role comp: Michael B. Jordan as Smoke and Stack; Moura effectively plays three (Marcelo, Armando, and son Fernando), each looking like a different person."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The Best Documentary Contenders",
+      "note": "all five premiered at Sundance; Sean and Amanda have concerns",
+      "films": [
+        {
+          "title": "The Alabama Solution",
+          "year": 2025,
+          "note": "Andrew Jarecki and Charlotte Kaufman's six-year investigation of Alabama's prisons, built from footage the incarcerated men shot themselves. The one both agree earns its nomination (sturdy, classical, no ethical qualms), if a little information-dump over narrative."
+        },
+        {
+          "title": "Come See Me in the Good Light",
+          "year": 2025,
+          "note": "Ryan White's film about poet Andrea Gibson's terminal diagnosis and their partner Megan Falley. Amanda respects the bravery but didn't want to sit in it; the medical-portal scenes landed hardest."
+        },
+        {
+          "title": "Cutting Through Rocks",
+          "year": 2025,
+          "note": "Sara Khaki and Mohammadreza Eyni follow Sara Shahverdi, the first woman on her conservative Iranian village council. Fully observed, great access, a well-chosen subject, but Sean wanted more interrogation than slice-of-life."
+        },
+        {
+          "title": "Mr. Nobody Against Putin",
+          "year": 2025,
+          "note": "David Borenstein and Pasha Talankin on a Russian school turned recruitment center. Amanda's bugaboo: named, identifiable students still in Russia while the vainglorious narrator smuggles himself out. Both find it self-serving."
+        },
+        {
+          "title": "The Perfect Neighbor",
+          "year": 2025,
+          "note": "Gita Pullapilly's body-cam assembly of the Susan Lorincz shooting of Ajike Owens. Formally inventive and shattering (the scene of the children being told is the most pained Sean's been at a movie all year), but both are queasy about how it rubber-stamps the surveillance it indicts, and yada-yadas the Stand Your Ground stuff. The most-watched doc of the year on Netflix; won the Sundance directing award."
+        },
+        {
+          "title": "Cover-Up",
+          "year": 2025,
+          "note": "Laura Poitras' Seymour Hersh portrait, the category's big snub. Sean loves that it shows the murky, error-prone reality of the work; suspects that honesty is why it missed."
+        },
+        {
+          "title": "2000 Meters to Andriivka",
+          "year": 2025,
+          "note": "The DGA winner Amanda would have taken over Mr. Nobody Against Putin."
+        },
+        {
+          "title": "My Undesirable Friends",
+          "year": 2025,
+          "note": "A five-hour part-one that took Critics Awards; a deeper Cutting Through Rocks and a better film about being in Russia. Getting distribution April 3."
+        },
+        {
+          "title": "Mistress Dispeller",
+          "year": 2024,
+          "note": "Sean's favorite of the also-rans: a fascinating, unscripted-but-unbelievable look at a Chinese custom of hiring someone to break up an affair. 'The bride of this group.'"
+        },
+        {
+          "title": "Predators",
+          "year": 2025,
+          "note": "A Sundance standout on the To Catch a Predator apparatus and its cultural knockdown effect; never got over the hump with audiences."
+        },
+        {
+          "title": "Zodiac Killer Project",
+          "year": 2025,
+          "note": "A clever deconstruction: a filmmaker who lost the book rights narrates the true-crime doc he can't make. No chance in the category, but the kind of thing the branch should notice."
+        },
+        {
+          "title": "Megadoc",
+          "year": 2024,
+          "note": "Sean's beloved making-of on Coppola and 'Megalopolis'; no making-of doc has ever won Best Doc."
+        },
+        {
+          "title": "Mr. Scorsese",
+          "year": 2025,
+          "note": "A compelling, deep character portrait whose eligibility is fuzzy: conceived as a film, released as a miniseries."
+        },
+        {
+          "title": "Pee-wee as Himself",
+          "year": 2025,
+          "note": "Matt Wolf's Paul Reubens doc, Sean's rejoinder to the celebrity-doc snobbery. Reubens dies mid-production and the film finishes without him."
+        },
+        {
+          "title": "Orwell: 2+2=5",
+          "year": 2025,
+          "note": "Raoul Peck's not-great-but-interesting essay using Orwell's prescience, read by Damian Lewis."
+        },
+        {
+          "title": "André Is an Idiot",
+          "year": 2025,
+          "note": "The tonal opposite of Come See Me in the Good Light: a colon-cancer diagnosis played as madcap unwinding."
+        },
+        {
+          "title": "My Mom Jayne",
+          "year": 2025,
+          "note": "Mariska Hargitay's Jayne Mansfield doc, the PGA winner and not nominated: a sign of how scattered this year's precursors were."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The Skydance/Paramount slate",
+      "films": [
+        "Companion",
+        "The Alto Knights",
+        "A Minecraft Movie",
+        "Sinners",
+        "Final Destination Bloodlines",
+        "F1",
+        "Superman",
+        "Weapons",
+        "The Conjuring: Last Rites",
+        "One Battle After Another",
+        "Wuthering Heights"
+      ]
+    },
+    {
+      "group": "Around ‘The Bride!’",
+      "films": [
+        "Hamnet",
+        "Dreamgirls",
+        "Norbit"
+      ]
+    },
+    {
+      "group": "‘The Secret Agent’ influences",
+      "films": [
+        "The Parallax View",
+        "Point Blank",
+        "Investigation of a Citizen Above Suspicion",
+        "Close Encounters of the Third Kind",
+        "The Omen"
+      ]
+    },
+    {
+      "group": "The doc-branch canon",
+      "films": [
+        "American Factory",
+        "Icarus",
+        "My Octopus Teacher",
+        "Twenty Feet from Stardom",
+        "Searching for Sugar Man",
+        "Amy",
+        "Honeyland"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "The Little Mermaid",
+        "Sentimental Value",
+        "Marty Supreme",
+        "Being Eddie",
+        "The Lost Bus",
+        "Kokuho"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Jinx",
+      "Saturday Night Live",
+      "John Mulaney & the Sack Lunch Bunch",
+      "To Catch a Predator"
+    ],
+    "Books": [
+      "Circe",
+      "The Penelopiad"
+    ],
+    "Ads": [
+      "Nordstrom Rack",
+      "State Farm",
+      "Volkswagen",
+      "White Claw",
+      "Athletic Brewing",
+      "Hilton",
+      "FIFA World Cup"
+    ]
+  },
+  "tmdb": {
+    "The Bride!": {
+      "id": 1159831,
+      "poster": "/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
+      "title": "The Bride!",
+      "year": 2026
+    },
+    "Bride of Frankenstein": {
+      "id": 229,
+      "poster": "/5241zUwe7rC17MNc2QpCBKKdp1N.jpg",
+      "title": "Bride of Frankenstein",
+      "year": 1935
+    },
+    "Frankenstein": {
+      "id": 1062722,
+      "poster": "/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+      "title": "Frankenstein",
+      "year": 2025
+    },
+    "Babylon": {
+      "id": 615777,
+      "poster": "/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+      "title": "Babylon",
+      "year": 2022
+    },
+    "Don't Worry Darling": {
+      "id": 619730,
+      "poster": "/jOqxKIOC92BVyinYO1Fm73XY7Tc.jpg",
+      "title": "Don't Worry Darling",
+      "year": 2022
+    },
+    "Joker": {
+      "id": 475557,
+      "poster": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "title": "Joker",
+      "year": 2019
+    },
+    "Joker: Folie à Deux": {
+      "id": 889737,
+      "poster": "/aciP8Km0waTLXEYf5ybFK5CSUxl.jpg",
+      "title": "Joker: Folie à Deux",
+      "year": 2024
+    },
+    "Birds of Prey": {
+      "id": 495764,
+      "poster": "/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
+      "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "year": 2020
+    },
+    "The Lost Daughter": {
+      "id": 554230,
+      "poster": "/t1oLNRFixpFOVsyz1HCqCUW3wiW.jpg",
+      "title": "The Lost Daughter",
+      "year": 2021
+    },
+    "Star Wars: The Force Awakens": {
+      "id": 140607,
+      "poster": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+      "title": "Star Wars: The Force Awakens",
+      "year": 2015
+    },
+    "Mickey 17": {
+      "id": 696506,
+      "poster": "/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
+      "title": "Mickey 17",
+      "year": 2025
+    },
+    "The Invisible Man": {
+      "id": 570670,
+      "poster": "/5EufsDwXdY2CVttYOk2WtYhgKpa.jpg",
+      "title": "The Invisible Man",
+      "year": 2020
+    },
+    "The Mummy": {
+      "id": 1304313,
+      "poster": "/1q308iixueCU4pFtSYugNOevtNx.jpg",
+      "title": "Lee Cronin's The Mummy",
+      "year": 2026
+    },
+    "Hook": {
+      "id": 879,
+      "poster": "/a6rB1lGXoGms7gWxRfJneQmAjNV.jpg",
+      "title": "Hook",
+      "year": 1991
+    },
+    "The Fly": {
+      "id": 9426,
+      "poster": "/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg",
+      "title": "The Fly",
+      "year": 1986
+    },
+    "The Thing": {
+      "id": 1091,
+      "poster": "/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+      "title": "The Thing",
+      "year": 1982
+    },
+    "The Thing from Another World": {
+      "id": 10785,
+      "poster": "/rm2w8dEhOGDuckB6i0Spz9lTzpR.jpg",
+      "title": "The Thing from Another World",
+      "year": 1951
+    },
+    "Weird Science": {
+      "id": 11814,
+      "poster": "/jaEauZd2joSAKn42D83gm3S0y3F.jpg",
+      "title": "Weird Science",
+      "year": 1985
+    },
+    "The Wiz": {
+      "id": 24961,
+      "poster": "/rgfB8hBRSwbEb0SK7pt9mW9jsyP.jpg",
+      "title": "The Wiz",
+      "year": 1978
+    },
+    "The Wizard of Oz": {
+      "id": 630,
+      "poster": "/uCC3j4pV9eOZwzDUWp2ilbcTf1f.jpg",
+      "title": "The Wizard of Oz",
+      "year": 1939
+    },
+    "You've Got Mail": {
+      "id": 9489,
+      "poster": "/e2uVtH6TpMfUl7WeOM70ezkcjsU.jpg",
+      "title": "You've Got Mail",
+      "year": 1998
+    },
+    "The Shop Around the Corner": {
+      "id": 20334,
+      "poster": "/dZ1aEzGYRiqJwPfjS6VL7wUkHmF.jpg",
+      "title": "The Shop Around the Corner",
+      "year": 1940
+    },
+    "Cruella": {
+      "id": 337404,
+      "poster": "/hjS9mH8KvRiGHgjk6VUZH7OT0Ng.jpg",
+      "title": "Cruella",
+      "year": 2021
+    },
+    "Snow White and the Huntsman": {
+      "id": 58595,
+      "poster": "/8HUa5kRubYbnAD5UVpnhTGGgMTW.jpg",
+      "title": "Snow White and the Huntsman",
+      "year": 2012
+    },
+    "Dracula Untold": {
+      "id": 49017,
+      "poster": "/m5h3NtZ2ZfryIHl1MvatmANvIqQ.jpg",
+      "title": "Dracula Untold",
+      "year": 2014
+    },
+    "The Blob": {
+      "id": 9599,
+      "poster": "/mWVVYNEkDHkcjFne6eQq1pDANdw.jpg",
+      "title": "The Blob",
+      "year": 1988
+    },
+    "The Blob (1958)": {
+      "id": 8851,
+      "poster": "/ctOwn1Ibg3SjDG4WulvFvSH0PRT.jpg",
+      "title": "The Blob",
+      "year": 1958
+    },
+    "Invasion of the Body Snatchers": {
+      "id": 11549,
+      "poster": "/8BrMQmgwGzIHSyBjCDOLOdi79fJ.jpg",
+      "title": "Invasion of the Body Snatchers",
+      "year": 1956
+    },
+    "Invasion of the Body Snatchers (1978)": {
+      "id": 11850,
+      "poster": "/skS02wdeH2C0nrbCQP3qKwJdZtZ.jpg",
+      "title": "Invasion of the Body Snatchers",
+      "year": 1978
+    },
+    "Body Snatchers": {
+      "id": 4722,
+      "poster": "/s9zdfUeWjgK1ipTyaB6ikhtC9Wb.jpg",
+      "title": "Body Snatchers",
+      "year": 1993
+    },
+    "The Invasion": {
+      "id": 4858,
+      "poster": "/oS5rMuJXwNZZPx0ojhvjgduglD2.jpg",
+      "title": "The Invasion",
+      "year": 2007
+    },
+    "Ponyo": {
+      "id": 12429,
+      "poster": "/yp8vEZflGynlEylxEesbYasc06i.jpg",
+      "title": "Ponyo",
+      "year": 2008
+    },
+    "The Big Lebowski": {
+      "id": 115,
+      "poster": "/3bv6WAp6BSxxYvB5ozKFUYuRA8C.jpg",
+      "title": "The Big Lebowski",
+      "year": 1998
+    },
+    "The Long Goodbye": {
+      "id": 1847,
+      "poster": "/16Gu0Vg7tBdoRxg1NJDwlTKx1hG.jpg",
+      "title": "The Long Goodbye",
+      "year": 1973
+    },
+    "Mirror Mirror": {
+      "id": 62764,
+      "poster": "/pys6zIJN8Sxlk2Ss2GZuYuXPbtw.jpg",
+      "title": "Mirror Mirror",
+      "year": 2012
+    },
+    "Cinderella": {
+      "id": 150689,
+      "poster": "/j91LJmcWo16CArFOoapsz84bwxb.jpg",
+      "title": "Cinderella",
+      "year": 2015
+    },
+    "Last Man Standing": {
+      "id": 9333,
+      "poster": "/2cWqlkXaKKdl32Waep4FwCQnyH0.jpg",
+      "title": "Last Man Standing",
+      "year": 1996
+    },
+    "Yojimbo": {
+      "id": 11878,
+      "poster": "/tN7kYPjRhDolpui9sc9Eq9n5b2O.jpg",
+      "title": "Yojimbo",
+      "year": 1961
+    },
+    "Halloween (2007)": {
+      "id": 2082,
+      "poster": "/cD8JrfSEI4j7WVnKM1GdiYzMoUh.jpg",
+      "title": "Halloween",
+      "year": 2007
+    },
+    "Halloween II (2009)": {
+      "id": 24150,
+      "poster": "/vSHPM4LQDpWdQrD5KZWK6wNqSOD.jpg",
+      "title": "Halloween II",
+      "year": 2009
+    },
+    "The Da Vinci Code": {
+      "id": 591,
+      "poster": "/9ejKfNk0LBhSI9AahH4f9NJNZNM.jpg",
+      "title": "The Da Vinci Code",
+      "year": 2006
+    },
+    "Rosaline": {
+      "id": 826769,
+      "poster": "/jQHrbzVy6ptopxqUohV6PcmmVcY.jpg",
+      "title": "Rosaline",
+      "year": 2022
+    },
+    "The Fall": {
+      "id": 14784,
+      "poster": "/ez7xavvDr5yDz4sSvI55xDp0BoU.jpg",
+      "title": "The Fall",
+      "year": 2006
+    },
+    "The Cell": {
+      "id": 8843,
+      "poster": "/1LX8AOUGDSrBDzgC4KLtRvyJFgY.jpg",
+      "title": "The Cell",
+      "year": 2000
+    },
+    "Clueless": {
+      "id": 9603,
+      "poster": "/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",
+      "title": "Clueless",
+      "year": 1995
+    },
+    "10 Things I Hate About You": {
+      "id": 4951,
+      "poster": "/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg",
+      "title": "10 Things I Hate About You",
+      "year": 1999
+    },
+    "The Secret Agent": {
+      "id": 1220564,
+      "poster": "/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
+      "title": "The Secret Agent",
+      "year": 2025
+    },
+    "Jaws": {
+      "id": 578,
+      "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "title": "Jaws",
+      "year": 1975
+    },
+    "One Battle After Another": {
+      "id": 1054867,
+      "poster": "/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+      "title": "One Battle After Another",
+      "year": 2025
+    },
+    "I'm Still Here": {
+      "id": 1000837,
+      "poster": "/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg",
+      "title": "I'm Still Here",
+      "year": 2024
+    },
+    "Pictures of Ghosts": {
+      "id": 1112548,
+      "poster": "/aFYGUmC7efpLkHUCbhIBppYiFd8.jpg",
+      "title": "Pictures of Ghosts",
+      "year": 2023
+    },
+    "Bacurau": {
+      "id": 446159,
+      "poster": "/tBa4zMGzZUco26XT3WfZZCwQ76i.jpg",
+      "title": "Bacurau",
+      "year": 2019
+    },
+    "Sinners": {
+      "id": 1233413,
+      "poster": "/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+      "title": "Sinners",
+      "year": 2025
+    },
+    "The Alabama Solution": {
+      "id": 1413805,
+      "poster": "/gultnK0rYs4xLLYhxQ9ZnvPfVAn.jpg",
+      "title": "The Alabama Solution",
+      "year": 2025
+    },
+    "Come See Me in the Good Light": {
+      "id": 1400780,
+      "poster": "/5AFbcDGT78cLZTyHTSDBohczjuO.jpg",
+      "title": "Come See Me in the Good Light",
+      "year": 2025
+    },
+    "Cutting Through Rocks": {
+      "id": 1400793,
+      "poster": "/qefjf5TeM0uRzrFU2c4xYt6ew9z.jpg",
+      "title": "Cutting Through Rocks",
+      "year": 2025
+    },
+    "Mr. Nobody Against Putin": {
+      "id": 1393151,
+      "poster": "/aXCEnrqecvPXohuptN0JRgIvkDj.jpg",
+      "title": "Mr. Nobody Against Putin",
+      "year": 2025
+    },
+    "The Perfect Neighbor": {
+      "id": 1400782,
+      "poster": "/2NE7yN45zo19o4LJr6JFxDWmh2b.jpg",
+      "title": "The Perfect Neighbor",
+      "year": 2025
+    },
+    "Cover-Up": {
+      "id": 1516391,
+      "poster": "/3kVAkwPrNNw3kxe2yJVatj86QKo.jpg",
+      "title": "Cover-Up",
+      "year": 2025
+    },
+    "2000 Meters to Andriivka": {
+      "id": 1400789,
+      "poster": "/s1TC3QebWWWJ6CceqbBgAvJde8t.jpg",
+      "title": "2000 Meters to Andriivka",
+      "year": 2025
+    },
+    "My Undesirable Friends": {
+      "id": 1326015,
+      "poster": "/290La7BM5CLhLTwa7QsJQVGthok.jpg",
+      "title": "My Undesirable Friends: Part I - Last Air in Moscow",
+      "year": 2025
+    },
+    "Mistress Dispeller": {
+      "id": 951055,
+      "poster": "/h0gWCKUwROWll8ZzyEuaUJTsigA.jpg",
+      "title": "Mistress Dispeller",
+      "year": 2025
+    },
+    "Predators": {
+      "id": 1400382,
+      "poster": "/epjqcM33F3PKRZmj3KbpsXlJ3gY.jpg",
+      "title": "Predators",
+      "year": 2025
+    },
+    "Zodiac Killer Project": {
+      "id": 1400744,
+      "poster": "/x1ZOSia1JA6SnRyokBOoVje2L67.jpg",
+      "title": "Zodiac Killer Project",
+      "year": 2025
+    },
+    "Megadoc": {
+      "id": 1290369,
+      "poster": "/yjiqwnvgst3ntm25L5heBHjqny9.jpg",
+      "title": "Megadoc",
+      "year": 2025
+    },
+    "Mr. Scorsese": null,
+    "Pee-wee as Himself": null,
+    "Orwell: 2+2=5": {
+      "id": 1098534,
+      "poster": "/qG1LjcK8ohi4mSJ9j8KHUs5svbe.jpg",
+      "title": "Orwell: 2+2=5",
+      "year": 2025
+    },
+    "André Is an Idiot": {
+      "id": 1400731,
+      "poster": "/lUDoDeCyobKik81PWUrBWOEV0qt.jpg",
+      "title": "André Is an Idiot",
+      "year": 2026
+    },
+    "My Mom Jayne": {
+      "id": 1461714,
+      "poster": "/6KpfMouMavYr1UwTz6612YhYjbs.jpg",
+      "title": "My Mom Jayne",
+      "year": 2025
+    },
+    "Companion": {
+      "id": 1084199,
+      "poster": "/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
+      "title": "Companion",
+      "year": 2025
+    },
+    "The Alto Knights": {
+      "id": 1013601,
+      "poster": "/epGF8vv3caKLm6X8PKbD5xirFLa.jpg",
+      "title": "The Alto Knights",
+      "year": 2025
+    },
+    "A Minecraft Movie": {
+      "id": 950387,
+      "poster": "/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+      "title": "A Minecraft Movie",
+      "year": 2025
+    },
+    "Final Destination Bloodlines": {
+      "id": 574475,
+      "poster": "/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg",
+      "title": "Final Destination Bloodlines",
+      "year": 2025
+    },
+    "F1": {
+      "id": 911430,
+      "poster": "/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
+      "title": "F1",
+      "year": 2025
+    },
+    "Superman": {
+      "id": 1061474,
+      "poster": "/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
+      "title": "Superman",
+      "year": 2025
+    },
+    "Weapons": {
+      "id": 1078605,
+      "poster": "/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+      "title": "Weapons",
+      "year": 2025
+    },
+    "The Conjuring: Last Rites": {
+      "id": 1038392,
+      "poster": "/byWgphT74ClOVa8EOGzYDkl8DVL.jpg",
+      "title": "The Conjuring: Last Rites",
+      "year": 2025
+    },
+    "Wuthering Heights": {
+      "id": 1316092,
+      "poster": "/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
+      "title": "\"Wuthering Heights\"",
+      "year": 2026
+    },
+    "Hamnet": {
+      "id": 858024,
+      "poster": "/zIcd6yuBucRNof5t9KVuGBHIhXU.jpg",
+      "title": "Hamnet",
+      "year": 2025
+    },
+    "Dreamgirls": {
+      "id": 1125,
+      "poster": "/sG5JyOj8Spe13QkNJMH8b5kzQUh.jpg",
+      "title": "Dreamgirls",
+      "year": 2006
+    },
+    "Norbit": {
+      "id": 9757,
+      "poster": "/XcZ5NzygPp54csxCnzvQKuxFL2.jpg",
+      "title": "Norbit",
+      "year": 2007
+    },
+    "The Parallax View": {
+      "id": 17365,
+      "poster": "/83mQRrNO9ewz0qLSJcGp4nGBRr.jpg",
+      "title": "The Parallax View",
+      "year": 1974
+    },
+    "Point Blank": {
+      "id": 26039,
+      "poster": "/4y8yNXdcP9KQJXd0cIUmQ0t3ezB.jpg",
+      "title": "Point Blank",
+      "year": 1967
+    },
+    "Investigation of a Citizen Above Suspicion": {
+      "id": 26451,
+      "poster": "/vPTZwlq1IC4o1DCsEZEl2uGljzm.jpg",
+      "title": "Investigation of a Citizen Above Suspicion",
+      "year": 1970
+    },
+    "Close Encounters of the Third Kind": {
+      "id": 840,
+      "poster": "/yaPx3cK9zGFX3SbcKwxWM1QIbUh.jpg",
+      "title": "Close Encounters of the Third Kind",
+      "year": 1977
+    },
+    "The Omen": {
+      "id": 794,
+      "poster": "/mDcjjEu1fMNmsXi4l4D8IftlTix.jpg",
+      "title": "The Omen",
+      "year": 1976
+    },
+    "American Factory": {
+      "id": 565716,
+      "poster": "/7jH3dQOJ3CHMrp9tWsI3rRCDiaD.jpg",
+      "title": "American Factory",
+      "year": 2019
+    },
+    "Icarus": {
+      "id": 35402,
+      "poster": "/cmDDkOXzEICJ3v6pIxOsmulwPi9.jpg",
+      "title": "Icarus",
+      "year": 2010
+    },
+    "My Octopus Teacher": {
+      "id": 682110,
+      "poster": "/hvTVZb7hBC8tZAGoEhH5eiMJu2B.jpg",
+      "title": "My Octopus Teacher",
+      "year": 2020
+    },
+    "Twenty Feet from Stardom": null,
+    "Searching for Sugar Man": {
+      "id": 84334,
+      "poster": "/ucM98HuBHSWmn44oiE83hIDc6VB.jpg",
+      "title": "Searching for Sugar Man",
+      "year": 2012
+    },
+    "Amy": {
+      "id": 331781,
+      "poster": "/qL0RepWSNUuZoeDXfyhqowVYhrn.jpg",
+      "title": "Amy",
+      "year": 2015
+    },
+    "Honeyland": {
+      "id": 566213,
+      "poster": "/3IxGhQEzLWOxkZlcNMAIiYlOT8D.jpg",
+      "title": "Honeyland",
+      "year": 2019
+    },
+    "The Little Mermaid": {
+      "id": 447277,
+      "poster": "/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",
+      "title": "The Little Mermaid",
+      "year": 2023
+    },
+    "Sentimental Value": {
+      "id": 1124566,
+      "poster": "/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
+      "title": "Sentimental Value",
+      "year": 2025
+    },
+    "Marty Supreme": {
+      "id": 1317288,
+      "poster": "/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+      "title": "Marty Supreme",
+      "year": 2025
+    },
+    "Being Eddie": {
+      "id": 1426518,
+      "poster": "/8behxK3x7kiCupdrENmOCkOcs8N.jpg",
+      "title": "Being Eddie",
+      "year": 2025
+    },
+    "The Lost Bus": {
+      "id": 1236470,
+      "poster": "/4IPxzGlE17fJAwUTMul4opMeutA.jpg",
+      "title": "The Lost Bus",
+      "year": 2025
+    },
+    "Kokuho": {
+      "id": 1379266,
+      "poster": "/8fHBOSOIUKNkQVsZvC7lfUDJo1W.jpg",
+      "title": "Kokuho",
+      "year": 2025
+    }
+  },
+  "spotifyEpisodeId": "0zXRbFa2u5M1jYZb2kDsjR"
+}

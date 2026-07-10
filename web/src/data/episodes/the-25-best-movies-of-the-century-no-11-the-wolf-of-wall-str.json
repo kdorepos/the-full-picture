@@ -1,0 +1,281 @@
+{
+  "slug": "the-25-best-movies-of-the-century-no-11-the-wolf-of-wall-str",
+  "title": "The 25 Best Movies of the Century: No. 11 - 'The Wolf of Wall Street’",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2025-09-24",
+  "runtimeMin": 47,
+  "format": "The 25-for-25 countdown reaches No. 11, and Sean Fennessey and Amanda Dobbins spend it on the Scorsese entry: 'The Wolf of Wall Street,' the movie they both think they ranked too low. They get into the DiCaprio-financed $100 million shoot, the 180-minute excess and whether it endorses what it shows, the 30-plus needle drops, and where the Jordan Belfort performance lands in DiCaprio's career.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "No. 11 on the countdown",
+      "note": "a 25-for-25 special conversation",
+      "films": [
+        {
+          "title": "The Wolf of Wall Street",
+          "year": 2013,
+          "note": "Sean and Amanda's unanimous Scorsese pick, and the one they keep saying is too low at No. 11. Written by Terence Winter from Jordan Belfort's memoir, shot by Rodrigo Prieto, with Leonardo DiCaprio, Jonah Hill, Margot Robbie, Matthew McConaughey, Kyle Chandler, Rob Reiner, Jon Bernthal, and Jon Favreau. DiCaprio raised about $100 million to make it independently, since no studio would greenlight the opening, and it became Scorsese's biggest hit at roughly $400 million worldwide. They read the 180-minute bacchanal as the point rather than an endorsement, and flag the 30-plus needle drops and the slowed-down blues that scores Belfort's descent. They also tie the film to Trump-era New York excess and argue this is DiCaprio's best performance of the century."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Scorsese's eligible century",
+      "films": [
+        "Gangs of New York",
+        "The Aviator",
+        "The Departed",
+        "Shutter Island",
+        "Hugo",
+        "Silence",
+        "The Irishman",
+        "Killers of the Flower Moon"
+      ]
+    },
+    {
+      "group": "The best-DiCaprio-performance debate",
+      "films": [
+        "Django Unchained",
+        "J. Edgar",
+        "The Revenant",
+        "Once Upon a Time in Hollywood",
+        "Catch Me If You Can",
+        "Don't Look Up",
+        "One Battle After Another",
+        "Body of Lies",
+        "Revolutionary Road",
+        "Titanic",
+        "Romeo + Juliet",
+        "This Boy's Life"
+      ]
+    },
+    {
+      "group": "If you like it",
+      "films": [
+        "Boiler Room",
+        "Margin Call",
+        "Wall Street",
+        "The Big Short"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Goodfellas",
+        "Taxi Driver",
+        "Megalopolis",
+        "Frankenstein",
+        "Sinners"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Mr. Scorsese",
+      "Industry",
+      "Lifestyles of the Rich and Famous"
+    ],
+    "Podcasts": [
+      "The Rewatchables"
+    ],
+    "Sports": [
+      "T-Mobile Home Run Derby"
+    ],
+    "Ads": [
+      "State Farm",
+      "Boar's Head",
+      "Netflix",
+      "Starbucks Frappuccino",
+      "Stitch Fix"
+    ]
+  },
+  "tmdb": {
+    "The Wolf of Wall Street": {
+      "id": 106646,
+      "poster": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+      "title": "The Wolf of Wall Street",
+      "year": 2013
+    },
+    "Gangs of New York": {
+      "id": 3131,
+      "poster": "/lemqKtcCuAano5aqrzxYiKC8kkn.jpg",
+      "title": "Gangs of New York",
+      "year": 2002
+    },
+    "The Aviator": {
+      "id": 2567,
+      "poster": "/lx4kWcZc3o9PaNxlQpEJZM17XUI.jpg",
+      "title": "The Aviator",
+      "year": 2004
+    },
+    "The Departed": {
+      "id": 1422,
+      "poster": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+      "title": "The Departed",
+      "year": 2006
+    },
+    "Shutter Island": {
+      "id": 11324,
+      "poster": "/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+      "title": "Shutter Island",
+      "year": 2010
+    },
+    "Hugo": {
+      "id": 44826,
+      "poster": "/1dxRq3o3l3bVWNRvvSb7rRf68qp.jpg",
+      "title": "Hugo",
+      "year": 2011
+    },
+    "Silence": {
+      "id": 68730,
+      "poster": "/x5T0cQDYws0xRBVG4Q3wpcrcmax.jpg",
+      "title": "Silence",
+      "year": 2016
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Killers of the Flower Moon": {
+      "id": 466420,
+      "poster": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+      "title": "Killers of the Flower Moon",
+      "year": 2023
+    },
+    "Django Unchained": {
+      "id": 68718,
+      "poster": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+      "title": "Django Unchained",
+      "year": 2012
+    },
+    "J. Edgar": {
+      "id": 88794,
+      "poster": "/gltciP2dIaEQmm4JeYfB088k40n.jpg",
+      "title": "J. Edgar",
+      "year": 2011
+    },
+    "The Revenant": {
+      "id": 281957,
+      "poster": "/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",
+      "title": "The Revenant",
+      "year": 2015
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Catch Me If You Can": {
+      "id": 640,
+      "poster": "/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+      "title": "Catch Me If You Can",
+      "year": 2002
+    },
+    "Don't Look Up": {
+      "id": 646380,
+      "poster": "/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+      "title": "Don't Look Up",
+      "year": 2021
+    },
+    "One Battle After Another": {
+      "id": 1054867,
+      "poster": "/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+      "title": "One Battle After Another",
+      "year": 2025
+    },
+    "Body of Lies": {
+      "id": 12113,
+      "poster": "/sLjVDPPfNQfAma9XyOqHPClQb2V.jpg",
+      "title": "Body of Lies",
+      "year": 2008
+    },
+    "Revolutionary Road": {
+      "id": 4148,
+      "poster": "/cvkD3yiVXLg3as8EAG3LaTycONQ.jpg",
+      "title": "Revolutionary Road",
+      "year": 2008
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "Romeo + Juliet": {
+      "id": 454,
+      "poster": "/eLf4jclPijOqfEp6bDAmezRFxk5.jpg",
+      "title": "Romeo + Juliet",
+      "year": 1996
+    },
+    "This Boy's Life": {
+      "id": 8092,
+      "poster": "/pRMSZfen1Cv1eqwDbtxCBpBqxnU.jpg",
+      "title": "This Boy's Life",
+      "year": 1993
+    },
+    "Boiler Room": {
+      "id": 14181,
+      "poster": "/jFB5uvCZ3HXF00liAEAuOruCPs6.jpg",
+      "title": "Boiler Room",
+      "year": 2000
+    },
+    "Margin Call": {
+      "id": 50839,
+      "poster": "/qtO57obCJuUBS0en3HLgFgZ19Xk.jpg",
+      "title": "Margin Call",
+      "year": 2011
+    },
+    "Wall Street": {
+      "id": 10673,
+      "poster": "/2tQYq9ntzn2dEwDIGLBSipYPenv.jpg",
+      "title": "Wall Street",
+      "year": 1987
+    },
+    "The Big Short": {
+      "id": 318846,
+      "poster": "/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg",
+      "title": "The Big Short",
+      "year": 2015
+    },
+    "Goodfellas": {
+      "id": 769,
+      "poster": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+      "title": "GoodFellas",
+      "year": 1990
+    },
+    "Taxi Driver": {
+      "id": 103,
+      "poster": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "title": "Taxi Driver",
+      "year": 1976
+    },
+    "Megalopolis": {
+      "id": 592831,
+      "poster": "/8Sok3HNA3r1GHnK2lCytHyBz1A.jpg",
+      "title": "Megalopolis",
+      "year": 2024
+    },
+    "Frankenstein": {
+      "id": 1062722,
+      "poster": "/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+      "title": "Frankenstein",
+      "year": 2025
+    },
+    "Sinners": {
+      "id": 1233413,
+      "poster": "/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+      "title": "Sinners",
+      "year": 2025
+    }
+  },
+  "spotifyEpisodeId": "6DFtJgXEX51RVONXNp5z7a"
+}

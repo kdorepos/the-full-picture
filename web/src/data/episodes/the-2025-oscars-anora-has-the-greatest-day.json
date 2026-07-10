@@ -1,0 +1,798 @@
+{
+  "slug": "the-2025-oscars-anora-has-the-greatest-day",
+  "title": "The 2025 Oscars: ‘Anora’ Has the Greatest Day",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2025-03-03",
+  "runtimeMin": 77,
+  "format": "Sean Fennessey and Amanda Dobbins recap the 97th Academy Awards minutes after the telecast. Anora wins five, Best Picture, Director, Actress, Original Screenplay, and Editing, a near-total Sean Baker sweep; The Brutalist takes three, Wicked and Dune: Part Two two apiece. Then the grievances: an eight-minute James Bond musical tribute that ran long, an Emilia Pérez sing-along that would not end, and a telecast that stretched close to four hours.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The night, recapped",
+      "note": "the contenders and how they fared",
+      "films": [
+        {
+          "title": "Anora",
+          "year": 2024,
+          "note": "Five wins from six nominations: Best Picture, Director, Original Screenplay, and Film Editing, all for Sean Baker, plus Mikey Madison's come-from-behind Best Actress. Only Yuri Borisov went home empty. Baker has been making movies for over 20 years; the $6 million film is the smallest Best Picture winner in ages, and he used his director speech to plead for the theatrical experience."
+        },
+        {
+          "title": "The Brutalist",
+          "year": 2024,
+          "note": "Three Oscars: Adrien Brody's second Best Actor, Daniel Blumberg's Score, and Cinematography. Brody gave a long, self-regarding speech about an actor's career ebbing and flowing, cast his win as a comeback, and told the music to stop. Brady Corbet was seated far in the back."
+        },
+        {
+          "title": "Emilia Pérez",
+          "year": 2024,
+          "note": "Two wins from a season that curdled: Zoe Saldana's Best Supporting Actress, one of the biggest steamrolls the category has seen, and 'El Mal' for Best Original Song. Jacques Audiard lost International to I'm Still Here. Camille's endless sing-along during the song acceptance was an early lowlight."
+        },
+        {
+          "title": "Conclave",
+          "year": 2024,
+          "note": "One win, Peter Straughan's Adapted Screenplay, out of eight or nine nominations. The hosts thought a Best Picture win would have been insane; 1-for-9 counts as a poor showing."
+        },
+        {
+          "title": "Wicked",
+          "year": 2024,
+          "note": "Two below-the-line wins, Production Design and Paul Tazewell's Costume Design. The hosts argue it never had a Best Picture chance; Sean floats, as a bit, Wicked for Good running the table next year."
+        },
+        {
+          "title": "Dune: Part Two",
+          "year": 2024,
+          "note": "Two wins, Best Sound and Best Visual Effects, the exact same pair the second Lord of the Rings took. Sean uses the parallel to insist Dune Messiah is teed up to be Return of the King; Amanda begs him to Google the plot."
+        },
+        {
+          "title": "I'm Still Here",
+          "year": 2024,
+          "note": "Best International Feature for Brazil, Walter Salles' film with Fernanda Torres. Late-breaking in the season; the hosts think Torres pulled older votes away from Demi Moore in Best Actress."
+        },
+        {
+          "title": "The Substance",
+          "year": 2024,
+          "note": "One win, Makeup and Hairstyling, which Sean calls the least-Oscar movie ever nominated. Demi Moore was the Best Actress front-runner until BAFTA and lost; the camera stayed on her all night."
+        },
+        {
+          "title": "A Real Pain",
+          "year": 2024,
+          "note": "Kieran Culkin's Best Supporting Actor, the night's most predictable win, and it opened the show. His speech, retelling an Emmys bit about promising his wife more kids, was the most memorable moment of the telecast."
+        },
+        {
+          "title": "Flow",
+          "year": 2024,
+          "note": "Best Animated Feature over Universal, Disney, Aardman, and Netflix, and also nominated in International. A dialogue-free, tiny-budget film made in the free software Blender; Sean calls it the smallest movie ever to win a major Oscar."
+        },
+        {
+          "title": "No Other Land",
+          "year": 2024,
+          "note": "Best Documentary Feature. The filmmakers spoke about home demolitions in the West Bank; the room stayed quiet, there was no standing ovation, and the broadcast cut away rather than to reaction shots."
+        },
+        {
+          "title": "A Complete Unknown",
+          "year": 2024,
+          "note": "Winless. Timothee Chalamet's Best Actor bid fell to Adrien Brody despite the SAG win; the hosts aren't worried about his future. Some speculated it might steal Best Sound, which went to Dune."
+        }
+      ]
+    },
+    {
+      "kind": "awards",
+      "heading": "The winners, category by category",
+      "note": "as they happened at the 97th Academy Awards",
+      "ceremony": "97th Academy Awards",
+      "categories": [
+        {
+          "name": "Best Picture",
+          "winner": "Anora",
+          "nominees": [
+            {
+              "title": "Anora",
+              "year": 2024
+            },
+            {
+              "title": "The Brutalist",
+              "year": 2024
+            },
+            {
+              "title": "Conclave",
+              "year": 2024
+            },
+            {
+              "title": "Wicked",
+              "year": 2024
+            },
+            {
+              "title": "Dune: Part Two",
+              "year": 2024
+            },
+            {
+              "title": "I'm Still Here",
+              "year": 2024
+            },
+            {
+              "title": "Nickel Boys",
+              "year": 2024
+            },
+            {
+              "title": "Emilia Pérez",
+              "year": 2024
+            },
+            {
+              "title": "A Complete Unknown",
+              "year": 2024
+            },
+            {
+              "title": "The Substance",
+              "year": 2024
+            }
+          ]
+        },
+        {
+          "name": "Best Director",
+          "winner": "Anora",
+          "nominees": [
+            {
+              "title": "Anora",
+              "year": 2024,
+              "person": "Sean Baker"
+            },
+            {
+              "title": "The Brutalist",
+              "year": 2024,
+              "person": "Brady Corbet"
+            },
+            {
+              "title": "Emilia Pérez",
+              "year": 2024,
+              "person": "Jacques Audiard"
+            }
+          ]
+        },
+        {
+          "name": "Best Actress",
+          "winner": "Anora",
+          "nominees": [
+            {
+              "title": "Anora",
+              "year": 2024,
+              "person": "Mikey Madison"
+            },
+            {
+              "title": "The Substance",
+              "year": 2024,
+              "person": "Demi Moore"
+            },
+            {
+              "title": "I'm Still Here",
+              "year": 2024,
+              "person": "Fernanda Torres"
+            }
+          ]
+        },
+        {
+          "name": "Best Actor",
+          "winner": "The Brutalist",
+          "nominees": [
+            {
+              "title": "The Brutalist",
+              "year": 2024,
+              "person": "Adrien Brody"
+            },
+            {
+              "title": "A Complete Unknown",
+              "year": 2024,
+              "person": "Timothee Chalamet"
+            }
+          ]
+        },
+        {
+          "name": "Best Supporting Actor",
+          "winner": "A Real Pain",
+          "nominees": [
+            {
+              "title": "A Real Pain",
+              "year": 2024,
+              "person": "Kieran Culkin"
+            }
+          ]
+        },
+        {
+          "name": "Best Supporting Actress",
+          "winner": "Emilia Pérez",
+          "nominees": [
+            {
+              "title": "Emilia Pérez",
+              "year": 2024,
+              "person": "Zoe Saldana"
+            }
+          ]
+        },
+        {
+          "name": "Best Original Screenplay",
+          "winner": "Anora",
+          "nominees": [
+            {
+              "title": "Anora",
+              "year": 2024,
+              "person": "Sean Baker"
+            }
+          ]
+        },
+        {
+          "name": "Best Adapted Screenplay",
+          "winner": "Conclave",
+          "nominees": [
+            {
+              "title": "Conclave",
+              "year": 2024,
+              "person": "Peter Straughan"
+            }
+          ]
+        },
+        {
+          "name": "Best Film Editing",
+          "winner": "Anora",
+          "nominees": [
+            {
+              "title": "Anora",
+              "year": 2024,
+              "person": "Sean Baker"
+            }
+          ]
+        },
+        {
+          "name": "Best Cinematography",
+          "winner": "The Brutalist",
+          "nominees": [
+            {
+              "title": "The Brutalist",
+              "year": 2024
+            }
+          ]
+        },
+        {
+          "name": "Best Original Score",
+          "winner": "The Brutalist",
+          "nominees": [
+            {
+              "title": "The Brutalist",
+              "year": 2024,
+              "person": "Daniel Blumberg"
+            }
+          ]
+        },
+        {
+          "name": "Best Original Song",
+          "winner": "Emilia Pérez",
+          "nominees": [
+            {
+              "title": "Emilia Pérez",
+              "year": 2024,
+              "person": "‘El Mal’"
+            }
+          ]
+        },
+        {
+          "name": "Best Animated Feature",
+          "winner": "Flow",
+          "nominees": [
+            {
+              "title": "Flow",
+              "year": 2024
+            },
+            {
+              "title": "The Wild Robot",
+              "year": 2024
+            }
+          ]
+        },
+        {
+          "name": "Best International Feature",
+          "winner": "I'm Still Here",
+          "nominees": [
+            {
+              "title": "I'm Still Here",
+              "year": 2024
+            },
+            {
+              "title": "Emilia Pérez",
+              "year": 2024
+            },
+            {
+              "title": "Flow",
+              "year": 2024
+            }
+          ]
+        },
+        {
+          "name": "Best Documentary Feature",
+          "winner": "No Other Land",
+          "nominees": [
+            {
+              "title": "No Other Land",
+              "year": 2024
+            }
+          ]
+        },
+        {
+          "name": "Best Sound",
+          "winner": "Dune: Part Two",
+          "nominees": [
+            {
+              "title": "Dune: Part Two",
+              "year": 2024
+            },
+            {
+              "title": "A Complete Unknown",
+              "year": 2024
+            }
+          ]
+        },
+        {
+          "name": "Best Visual Effects",
+          "winner": "Dune: Part Two",
+          "nominees": [
+            {
+              "title": "Dune: Part Two",
+              "year": 2024
+            }
+          ]
+        },
+        {
+          "name": "Best Production Design",
+          "winner": "Wicked",
+          "nominees": [
+            {
+              "title": "Wicked",
+              "year": 2024
+            }
+          ]
+        },
+        {
+          "name": "Best Costume Design",
+          "winner": "Wicked",
+          "nominees": [
+            {
+              "title": "Wicked",
+              "year": 2024,
+              "person": "Paul Tazewell"
+            }
+          ]
+        },
+        {
+          "name": "Best Makeup and Hairstyling",
+          "winner": "The Substance",
+          "nominees": [
+            {
+              "title": "The Substance",
+              "year": 2024
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Oscar history the hosts invoked",
+      "films": [
+        "Annie Hall",
+        "It Happened One Night",
+        "The Silence of the Lambs",
+        "One Flew Over the Cuckoo's Nest",
+        "Oppenheimer",
+        "Everything Everywhere All at Once",
+        "Anatomy of a Fall",
+        "Judy",
+        "The Pianist",
+        "The Wrestler",
+        "Creed",
+        "Dreamgirls"
+      ]
+    },
+    {
+      "group": "Careers and other films mentioned",
+      "films": [
+        "Once Upon a Time in Hollywood",
+        "Scream",
+        "Challengers",
+        "Civil War",
+        "Center Stage",
+        "Avatar: The Way of Water",
+        "Good Will Hunting",
+        "When Harry Met Sally",
+        "Nightbitch",
+        "The Social Network"
+      ]
+    },
+    {
+      "group": "The sequel-math riff",
+      "films": [
+        "The Lord of the Rings: The Two Towers",
+        "The Lord of the Rings: The Return of the King",
+        "Titanic",
+        "The Shape of Water",
+        "Annihilation"
+      ]
+    },
+    {
+      "group": "On-stage tributes and performances",
+      "films": [
+        "No Time to Die",
+        "Live and Let Die",
+        "Diamonds Are Forever",
+        "Skyfall",
+        "The Wiz"
+      ]
+    },
+    {
+      "group": "Promoted or on the way",
+      "films": [
+        "Wicked for Good",
+        "One Battle After Another",
+        "Ballerina",
+        "The Amateur",
+        "John Wick",
+        "Happy Gilmore",
+        "Happy Gilmore 2",
+        "The Odyssey",
+        "Dune: Part Three"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The White Lotus",
+      "Succession",
+      "Severance",
+      "Saturday Night Live"
+    ],
+    "Ads": [
+      "Good Hang",
+      "Sam's Club",
+      "Audi Q6 e-tron",
+      "Rolex",
+      "Mint Mobile",
+      "Athletic Brewing"
+    ]
+  },
+  "tmdb": {
+    "Anora": {
+      "id": 1064213,
+      "poster": "/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg",
+      "title": "Anora",
+      "year": 2024
+    },
+    "The Brutalist": {
+      "id": 549509,
+      "poster": "/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
+      "title": "The Brutalist",
+      "year": 2024
+    },
+    "Emilia Pérez": {
+      "id": 974950,
+      "poster": "/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg",
+      "title": "Emilia Pérez",
+      "year": 2024
+    },
+    "Conclave": {
+      "id": 974576,
+      "poster": "/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
+      "title": "Conclave",
+      "year": 2024
+    },
+    "Wicked": {
+      "id": 402431,
+      "poster": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+      "title": "Wicked",
+      "year": 2024
+    },
+    "Dune: Part Two": {
+      "id": 693134,
+      "poster": "/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+      "title": "Dune: Part Two",
+      "year": 2024
+    },
+    "I'm Still Here": {
+      "id": 1000837,
+      "poster": "/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg",
+      "title": "I'm Still Here",
+      "year": 2024
+    },
+    "The Substance": {
+      "id": 933260,
+      "poster": "/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+      "title": "The Substance",
+      "year": 2024
+    },
+    "A Real Pain": {
+      "id": 1013850,
+      "poster": "/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg",
+      "title": "A Real Pain",
+      "year": 2024
+    },
+    "Flow": {
+      "id": 823219,
+      "poster": "/z2sG41PxfL1hnL1mHbxzSREUtOf.jpg",
+      "title": "Flow",
+      "year": 2024
+    },
+    "No Other Land": {
+      "id": 1232493,
+      "poster": "/s7XYieuZg9kMe07i9VI4bfGN4Pw.jpg",
+      "title": "No Other Land",
+      "year": 2024
+    },
+    "A Complete Unknown": {
+      "id": 661539,
+      "poster": "/llWl3GtNoXosbvYboelmoT459NM.jpg",
+      "title": "A Complete Unknown",
+      "year": 2024
+    },
+    "Nickel Boys": {
+      "id": 1028196,
+      "poster": "/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg",
+      "title": "Nickel Boys",
+      "year": 2024
+    },
+    "The Wild Robot": {
+      "id": 1184918,
+      "poster": "/eG9lz41mJqsI4J6ubMtVqD26q2J.jpg",
+      "title": "The Wild Robot",
+      "year": 2024
+    },
+    "Annie Hall": {
+      "id": 703,
+      "poster": "/dEtjPywhDbAXYjoFfhBC4U9unU7.jpg",
+      "title": "Annie Hall",
+      "year": 1977
+    },
+    "It Happened One Night": {
+      "id": 3078,
+      "poster": "/2PNUGWAflH6UUumas0POMmokHlc.jpg",
+      "title": "It Happened One Night",
+      "year": 1934
+    },
+    "The Silence of the Lambs": {
+      "id": 274,
+      "poster": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+      "title": "The Silence of the Lambs",
+      "year": 1991
+    },
+    "One Flew Over the Cuckoo's Nest": {
+      "id": 510,
+      "poster": "/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": 1975
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Everything Everywhere All at Once": {
+      "id": 545611,
+      "poster": "/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+      "title": "Everything Everywhere All at Once",
+      "year": 2022
+    },
+    "Anatomy of a Fall": {
+      "id": 915935,
+      "poster": "/1ho0d4LNZw3Y0voeKmSvPSgJOJ2.jpg",
+      "title": "Anatomy of a Fall",
+      "year": 2023
+    },
+    "Judy": {
+      "id": 491283,
+      "poster": "/iqJhHjD6k6T07waELjMKDpQJUP.jpg",
+      "title": "Judy",
+      "year": 2019
+    },
+    "The Pianist": {
+      "id": 423,
+      "poster": "/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
+      "title": "The Pianist",
+      "year": 2002
+    },
+    "The Wrestler": {
+      "id": 12163,
+      "poster": "/6OTR8dSoNGjWohJNo3UhIGd3Tj.jpg",
+      "title": "The Wrestler",
+      "year": 2008
+    },
+    "Creed": {
+      "id": 312221,
+      "poster": "/1BfTsk5VWuw8FCocAhCyqnRbEzq.jpg",
+      "title": "Creed",
+      "year": 2015
+    },
+    "Dreamgirls": {
+      "id": 1125,
+      "poster": "/sG5JyOj8Spe13QkNJMH8b5kzQUh.jpg",
+      "title": "Dreamgirls",
+      "year": 2006
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Scream": {
+      "id": 646385,
+      "poster": "/nD4M4Bx457ryLuKYpxFwQ2IBJ5w.jpg",
+      "title": "Scream",
+      "year": 2022
+    },
+    "Challengers": {
+      "id": 937287,
+      "poster": "/H6vke7zGiuLsz4v4RPeReb9rsv.jpg",
+      "title": "Challengers",
+      "year": 2024
+    },
+    "Civil War": {
+      "id": 929590,
+      "poster": "/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+      "title": "Civil War",
+      "year": 2024
+    },
+    "Center Stage": {
+      "id": 10560,
+      "poster": "/95Et0t08Nv6S8FD593HpXyvcRt8.jpg",
+      "title": "Center Stage",
+      "year": 2000
+    },
+    "Avatar: The Way of Water": {
+      "id": 76600,
+      "poster": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "title": "Avatar: The Way of Water",
+      "year": 2022
+    },
+    "Good Will Hunting": {
+      "id": 489,
+      "poster": "/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+      "title": "Good Will Hunting",
+      "year": 1997
+    },
+    "When Harry Met Sally": {
+      "id": 639,
+      "poster": "/rFOiFUhTMtDetqCGClC9PIgnC1P.jpg",
+      "title": "When Harry Met Sally...",
+      "year": 1989
+    },
+    "Nightbitch": {
+      "id": 728949,
+      "poster": "/h49Pie8gM2jK0UHGFRjfPB3YTd.jpg",
+      "title": "Nightbitch",
+      "year": 2024
+    },
+    "The Social Network": {
+      "id": 37799,
+      "poster": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+      "title": "The Social Network",
+      "year": 2010
+    },
+    "The Lord of the Rings: The Two Towers": {
+      "id": 121,
+      "poster": "/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002
+    },
+    "The Lord of the Rings: The Return of the King": {
+      "id": 122,
+      "poster": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "The Shape of Water": {
+      "id": 399055,
+      "poster": "/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg",
+      "title": "The Shape of Water",
+      "year": 2017
+    },
+    "Annihilation": {
+      "id": 300668,
+      "poster": "/4YRplSk6BhH6PRuE9gfyw9byUJ6.jpg",
+      "title": "Annihilation",
+      "year": 2018
+    },
+    "No Time to Die": {
+      "id": 370172,
+      "poster": "/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+      "title": "No Time to Die",
+      "year": 2021
+    },
+    "Live and Let Die": {
+      "id": 253,
+      "poster": "/39qkrjqMZs6utwNmihVImC3ghas.jpg",
+      "title": "Live and Let Die",
+      "year": 1973
+    },
+    "Diamonds Are Forever": {
+      "id": 681,
+      "poster": "/ooDT0eKrWCxJCsn9JehPkD0QYNj.jpg",
+      "title": "Diamonds Are Forever",
+      "year": 1971
+    },
+    "Skyfall": {
+      "id": 37724,
+      "poster": "/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
+      "title": "Skyfall",
+      "year": 2012
+    },
+    "The Wiz": {
+      "id": 24961,
+      "poster": "/rgfB8hBRSwbEb0SK7pt9mW9jsyP.jpg",
+      "title": "The Wiz",
+      "year": 1978
+    },
+    "Wicked for Good": {
+      "id": 967941,
+      "poster": "/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+      "title": "Wicked: For Good",
+      "year": 2025
+    },
+    "One Battle After Another": {
+      "id": 1054867,
+      "poster": "/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+      "title": "One Battle After Another",
+      "year": 2025
+    },
+    "Ballerina": {
+      "id": 541671,
+      "poster": "/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg",
+      "title": "Ballerina",
+      "year": 2025
+    },
+    "The Amateur": {
+      "id": 1087891,
+      "poster": "/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg",
+      "title": "The Amateur",
+      "year": 2025
+    },
+    "John Wick": {
+      "id": 245891,
+      "poster": "/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
+      "title": "John Wick",
+      "year": 2014
+    },
+    "Happy Gilmore": {
+      "id": 9614,
+      "poster": "/4RnCeRzvI1xk5tuNWjpDKzSnJDk.jpg",
+      "title": "Happy Gilmore",
+      "year": 1996
+    },
+    "Happy Gilmore 2": {
+      "id": 1263256,
+      "poster": "/E3dPHPJigkXwuiE0n1vzz0se8a.jpg",
+      "title": "Happy Gilmore 2",
+      "year": 2025
+    },
+    "The Odyssey": {
+      "id": 1368337,
+      "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "title": "The Odyssey",
+      "year": 2026
+    },
+    "Dune: Part Three": {
+      "id": 1170608,
+      "poster": "/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+      "title": "Dune: Part Three",
+      "year": 2026
+    }
+  },
+  "tmdbOverrides": {
+    "Scream": 646385
+  },
+  "spotifyEpisodeId": "3v5ScN6mqgUTXZIhPiNk3r"
+}

@@ -1,0 +1,781 @@
+{
+  "slug": "the-2021-movie-draft",
+  "title": "The 2021 Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2024-12-13",
+  "runtimeMin": 97,
+  "format": "A three-person snake draft of the movies of 2021. Chris Ryan, Amanda Dobbins and Sean Fennessey each fill six category slots from a thin, COVID-warped year when studios sent links instead of tickets and Best Picture nominees turned up on streaming.",
+  "segments": [
+    {
+      "kind": "draft",
+      "heading": "The teams",
+      "draftOf": "the movies of 2021",
+      "note": "snake order: Chris, Amanda, Sean",
+      "categories": [
+        "Drama",
+        "Comedy",
+        "Oscar Nominee",
+        "Action / Horror / Thriller",
+        "Blockbuster",
+        "Wildcard"
+      ],
+      "teams": [
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "No Sudden Move",
+              "year": 2021,
+              "category": "Drama",
+              "note": "Soderbergh's Detroit noir with Cheadle and Del Toro; Chris has rewatched it several times and rates it among the best-scripted of the Max run."
+            },
+            {
+              "title": "House of Gucci",
+              "year": 2021,
+              "category": "Comedy",
+              "note": "Drafted straight-faced as a comedy. Chris rewatched it the night before and swears the Leto and Pacino material is genuinely funny."
+            },
+            {
+              "title": "Nightmare Alley",
+              "year": 2021,
+              "category": "Oscar Nominee",
+              "note": "Del Toro's carnival con-man noir, and Chris's pick for the best Bradley Cooper performance."
+            },
+            {
+              "title": "Paranormal Activity: Next of Kin",
+              "year": 2021,
+              "category": "Action / Horror / Thriller",
+              "note": "The seventh and last in the series, William Eubank's Amish-country entry that Chris caught on Paramount+ the day it dropped."
+            },
+            {
+              "title": "Dune",
+              "year": 2021,
+              "category": "Blockbuster",
+              "note": "First overall, the chalk pick; Villeneuve's half-a-book blockbuster, seen day-and-date on streaming and in theaters."
+            },
+            {
+              "title": "The Card Counter",
+              "year": 2021,
+              "category": "Wildcard",
+              "note": "Schrader's poker-and-Abu-Ghraib drama with Oscar Isaac and Tiffany Haddish."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "The Souvenir Part II",
+              "year": 2021,
+              "category": "Drama",
+              "note": "Joanna Hogg's autobiographical follow-up; a foregone conclusion for Amanda, though she prefers Part 1."
+            },
+            {
+              "title": "Shiva Baby",
+              "year": 2021,
+              "category": "Comedy",
+              "note": "Emma Seligman's debut, and Amanda's first sight of Rachel Sennott and Molly Gordon."
+            },
+            {
+              "title": "The Lost Daughter",
+              "year": 2021,
+              "category": "Oscar Nominee",
+              "note": "Maggie Gyllenhaal's Ferrante adaptation with Olivia Colman, taken after Amanda learned The French Dispatch drew zero nominations."
+            },
+            {
+              "title": "No Time to Die",
+              "year": 2021,
+              "category": "Action / Horror / Thriller",
+              "note": "Craig's last Bond, grabbed after a long deliberation, mostly for the opening."
+            },
+            {
+              "title": "Spider-Man: No Way Home",
+              "year": 2021,
+              "category": "Blockbuster",
+              "note": "The un-Amanda blockbuster pick, and the first big post-COVID theatrical moment for the group."
+            },
+            {
+              "title": "C'mon C'mon",
+              "year": 2021,
+              "category": "Wildcard",
+              "note": "Mike Mills' black-and-white uncle-and-nephew movie with Joaquin Phoenix; Amanda saw it just after learning she was expecting Knox."
+            }
+          ]
+        },
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "The Worst Person in the World",
+              "year": 2021,
+              "category": "Drama",
+              "note": "Joachim Trier's Oslo romance, Sean's second-favorite film of the year and a Best Original Screenplay nominee."
+            },
+            {
+              "title": "Licorice Pizza",
+              "year": 2021,
+              "category": "Comedy",
+              "note": "PTA's 1970s Valley hangout, drafted as a comedy after a Wikipedia ruling of 'dramedy' let Sean choose the lane."
+            },
+            {
+              "title": "West Side Story",
+              "year": 2021,
+              "category": "Oscar Nominee",
+              "note": "Spielberg's remake, a top-5 of Sean's year; Ariana DeBose won an Oscar for it."
+            },
+            {
+              "title": "Malignant",
+              "year": 2021,
+              "category": "Action / Horror / Thriller",
+              "note": "James Wan's day-and-date horror that Sean dismissed at an 8:30am screening and came around on during a nighttime rewatch."
+            },
+            {
+              "title": "Venom: Let There Be Carnage",
+              "year": 2021,
+              "category": "Blockbuster",
+              "note": "Andy Serkis' chaotic sequel, a 'very normal pick.'"
+            },
+            {
+              "title": "The Velvet Underground",
+              "year": 2021,
+              "category": "Wildcard",
+              "note": "Todd Haynes' split-screen band documentary; Sean's best film of 2021."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Shang-Chi and the Legend of the Ten Rings",
+        "Black Widow",
+        "The Matrix Resurrections",
+        "King Richard",
+        "Cry Macho",
+        "In the Heights",
+        "The Suicide Squad",
+        "The Many Saints of Newark",
+        "Those Who Wish Me Dead",
+        "Godzilla vs. Kong",
+        "F9",
+        "Eternals",
+        "Free Guy",
+        "A Quiet Place Part II",
+        "Old",
+        "The Night House",
+        "Judas and the Black Messiah",
+        "The French Dispatch",
+        "CODA",
+        "Benedetta",
+        "Dear Evan Hansen"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Also mentioned",
+      "films": [
+        "Spider-Man: Far From Home",
+        "The Souvenir",
+        "Nomadland",
+        "Wildcat",
+        "Saturday Night",
+        "Let Them All Talk",
+        "The Laundromat",
+        "Kimi",
+        "Mr. Brooks",
+        "Kafka",
+        "Desperado",
+        "Apollo 13",
+        "The Omen",
+        "The First Omen",
+        "The Visit",
+        "Signs",
+        "The Village",
+        "Trap",
+        "Alien: Romulus",
+        "Wolfs",
+        "Longlegs",
+        "It Ends with Us",
+        "Gladiator II",
+        "Wicked",
+        "Moana 2",
+        "Nosferatu",
+        "Napoleon",
+        "Killers of the Flower Moon",
+        "The Beekeeper",
+        "A Complete Unknown",
+        "Booksmart",
+        "Life of the Party",
+        "Ballerina",
+        "The Lord of the Rings: The War of the Rohirrim",
+        "Dune: Part Two",
+        "Father of the Bride",
+        "Imaginary",
+        "Wedding Crashers",
+        "A Star Is Born",
+        "The Hangover Part III",
+        "American Sniper",
+        "Burnt",
+        "Dungeons & Dragons: Honor Among Thieves",
+        "Kingdom of Heaven",
+        "M3GAN",
+        "Insidious",
+        "Underwater",
+        "Land of Bad",
+        "Horror in the High Desert"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "The French Dispatch": 542178,
+    "Wildcat": 1076101
+  },
+  "excluded": {
+    "TV": [
+      "The Bear",
+      "Masters of the Air",
+      "WandaVision",
+      "Stranger Things",
+      "Presumed Innocent"
+    ],
+    "Ads": [
+      "The Mismatch"
+    ]
+  },
+  "tmdb": {
+    "No Sudden Move": {
+      "id": 649409,
+      "poster": "/kARdPEc4b32GQlHmJXMhGOCplEA.jpg",
+      "title": "No Sudden Move",
+      "year": 2021
+    },
+    "House of Gucci": {
+      "id": 644495,
+      "poster": "/oJCQjD2byiVF1EG408F9dBn9ndU.jpg",
+      "title": "House of Gucci",
+      "year": 2021
+    },
+    "Nightmare Alley": {
+      "id": 597208,
+      "poster": "/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg",
+      "title": "Nightmare Alley",
+      "year": 2021
+    },
+    "Paranormal Activity: Next of Kin": {
+      "id": 609972,
+      "poster": "/wRy3SwJFE55iL2bfKqECzP2qyrd.jpg",
+      "title": "Paranormal Activity: Next of Kin",
+      "year": 2021
+    },
+    "Dune": {
+      "id": 438631,
+      "poster": "/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "title": "Dune",
+      "year": 2021
+    },
+    "The Card Counter": {
+      "id": 643532,
+      "poster": "/y5DNLVg0gPiGSkuK4yFc4fjQ42Q.jpg",
+      "title": "The Card Counter",
+      "year": 2021
+    },
+    "The Souvenir Part II": {
+      "id": 473021,
+      "poster": "/fYNvmZ1vW7bNcUhrAzYjUBgKJWP.jpg",
+      "title": "The Souvenir: Part II",
+      "year": 2021
+    },
+    "Shiva Baby": {
+      "id": 664300,
+      "poster": "/4sdqVsT6SHqtbCYZS7bhVoEftlL.jpg",
+      "title": "Shiva Baby",
+      "year": 2021
+    },
+    "The Lost Daughter": {
+      "id": 554230,
+      "poster": "/t1oLNRFixpFOVsyz1HCqCUW3wiW.jpg",
+      "title": "The Lost Daughter",
+      "year": 2021
+    },
+    "No Time to Die": {
+      "id": 370172,
+      "poster": "/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+      "title": "No Time to Die",
+      "year": 2021
+    },
+    "Spider-Man: No Way Home": {
+      "id": 634649,
+      "poster": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "title": "Spider-Man: No Way Home",
+      "year": 2021
+    },
+    "C'mon C'mon": {
+      "id": 632617,
+      "poster": "/1oOyJsdcJnnE7cl9bZdUQvBjKNH.jpg",
+      "title": "C'mon C'mon",
+      "year": 2021
+    },
+    "The Worst Person in the World": {
+      "id": 660120,
+      "poster": "/1NxGNQchGBTHXJ6RShLY1IlZqWn.jpg",
+      "title": "The Worst Person in the World",
+      "year": 2021
+    },
+    "Licorice Pizza": {
+      "id": 718032,
+      "poster": "/ivXtvzfliGvoJ1DhSHIGyYBToWe.jpg",
+      "title": "Licorice Pizza",
+      "year": 2021
+    },
+    "West Side Story": {
+      "id": 511809,
+      "poster": "/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+      "title": "West Side Story",
+      "year": 2021
+    },
+    "Malignant": {
+      "id": 619778,
+      "poster": "/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg",
+      "title": "Malignant",
+      "year": 2021
+    },
+    "Venom: Let There Be Carnage": {
+      "id": 580489,
+      "poster": "/pzKsRuKLFmYrW5Q0q8E8G78Tcgo.jpg",
+      "title": "Venom: Let There Be Carnage",
+      "year": 2021
+    },
+    "The Velvet Underground": {
+      "id": 543836,
+      "poster": "/9uRF6vERWfhlSZKc1sAJTTdG2Ix.jpg",
+      "title": "The Velvet Underground",
+      "year": 2021
+    },
+    "Shang-Chi and the Legend of the Ten Rings": {
+      "id": 566525,
+      "poster": "/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "year": 2021
+    },
+    "Black Widow": {
+      "id": 497698,
+      "poster": "/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+      "title": "Black Widow",
+      "year": 2021
+    },
+    "The Matrix Resurrections": {
+      "id": 624860,
+      "poster": "/8c4a8kE7PizaGQQnditMmI1xbRp.jpg",
+      "title": "The Matrix Resurrections",
+      "year": 2021
+    },
+    "King Richard": {
+      "id": 614917,
+      "poster": "/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg",
+      "title": "King Richard",
+      "year": 2021
+    },
+    "Cry Macho": {
+      "id": 749274,
+      "poster": "/esrzqq7Ud8yoslFTu3J5HqTJVOQ.jpg",
+      "title": "Cry Macho",
+      "year": 2021
+    },
+    "In the Heights": {
+      "id": 467909,
+      "poster": "/RO4KoJyoQMQzh9z76d4v4FJMmJ.jpg",
+      "title": "In the Heights",
+      "year": 2021
+    },
+    "The Suicide Squad": {
+      "id": 436969,
+      "poster": "/q61qEyssk2ku3okWICKArlAdhBn.jpg",
+      "title": "The Suicide Squad",
+      "year": 2021
+    },
+    "The Many Saints of Newark": {
+      "id": 524369,
+      "poster": "/1UkbPQspPbq1FPbFP4VV1ELCfSN.jpg",
+      "title": "The Many Saints of Newark",
+      "year": 2021
+    },
+    "Those Who Wish Me Dead": {
+      "id": 578701,
+      "poster": "/xCEg6KowNISWvMh8GvPSxtdf9TO.jpg",
+      "title": "Those Who Wish Me Dead",
+      "year": 2021
+    },
+    "Godzilla vs. Kong": {
+      "id": 399566,
+      "poster": "/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+      "title": "Godzilla vs. Kong",
+      "year": 2021
+    },
+    "F9": {
+      "id": 385128,
+      "poster": "/deEmLILTPejEb6OGsXRJ5MCvyDW.jpg",
+      "title": "F9",
+      "year": 2021
+    },
+    "Eternals": {
+      "id": 524434,
+      "poster": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+      "title": "Eternals",
+      "year": 2021
+    },
+    "Free Guy": {
+      "id": 550988,
+      "poster": "/dxraF0qPr1OEgJk17ltQTO84kQF.jpg",
+      "title": "Free Guy",
+      "year": 2021
+    },
+    "A Quiet Place Part II": {
+      "id": 520763,
+      "poster": "/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",
+      "title": "A Quiet Place Part II",
+      "year": 2021
+    },
+    "Old": {
+      "id": 631843,
+      "poster": "/vclShucpUmPhdAOmKgf3B3Z4POD.jpg",
+      "title": "Old",
+      "year": 2021
+    },
+    "The Night House": {
+      "id": 547565,
+      "poster": "/rqs2CXpc4d5FzeP1EZCYItAVo81.jpg",
+      "title": "The Night House",
+      "year": 2021
+    },
+    "Judas and the Black Messiah": {
+      "id": 583406,
+      "poster": "/iIgr75GoqFxe1X5Wz9siOODGe9u.jpg",
+      "title": "Judas and the Black Messiah",
+      "year": 2021
+    },
+    "The French Dispatch": {
+      "id": 542178,
+      "poster": "/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg",
+      "title": "The French Dispatch of the Liberty, Kansas Evening Sun",
+      "year": 2021
+    },
+    "CODA": {
+      "id": 776503,
+      "poster": "/BzVjmm8l23rPsijLiNLUzuQtyd.jpg",
+      "title": "CODA",
+      "year": 2021
+    },
+    "Benedetta": {
+      "id": 454527,
+      "poster": "/yofVXmLYQbr8pdOeyDRrf9N8rF4.jpg",
+      "title": "Benedetta",
+      "year": 2021
+    },
+    "Dear Evan Hansen": {
+      "id": 567690,
+      "poster": "/83pobg0tx4r4JeLenCAemanpnS2.jpg",
+      "title": "Dear Evan Hansen",
+      "year": 2021
+    },
+    "Spider-Man: Far From Home": {
+      "id": 429617,
+      "poster": "/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+      "title": "Spider-Man: Far From Home",
+      "year": 2019
+    },
+    "The Souvenir": {
+      "id": 473019,
+      "poster": "/2Nj04HsZ0lNkv07JnfBZ0bAIECn.jpg",
+      "title": "The Souvenir",
+      "year": 2019
+    },
+    "Nomadland": {
+      "id": 581734,
+      "poster": "/8Vc5EOUEIF1EUXuX9eLFf7BvN3P.jpg",
+      "title": "Nomadland",
+      "year": 2021
+    },
+    "Wildcat": {
+      "id": 1076101,
+      "poster": "/ig3XxhP2coWNZDnHLqyV3DxXWkR.jpg",
+      "title": "Wildcat",
+      "year": 2024
+    },
+    "Saturday Night": {
+      "id": 1120911,
+      "poster": "/oCf5O6uxooTvRwKVnLHwGqZUifq.jpg",
+      "title": "Saturday Night",
+      "year": 2024
+    },
+    "Let Them All Talk": {
+      "id": 623856,
+      "poster": "/4mhZqZ7nXL6Dj6PKZSseJxv1qXZ.jpg",
+      "title": "Let Them All Talk",
+      "year": 2020
+    },
+    "The Laundromat": {
+      "id": 517909,
+      "poster": "/hwNMJgbiUUvPCxsnADjbV9ysM5j.jpg",
+      "title": "The Laundromat",
+      "year": 2019
+    },
+    "Kimi": {
+      "id": 800510,
+      "poster": "/okNgwtxIWzGsNlR3GsOS0i0Qgbn.jpg",
+      "title": "Kimi",
+      "year": 2022
+    },
+    "Mr. Brooks": {
+      "id": 3432,
+      "poster": "/yYleq0qmb67Ig2ViY3hFmUOrH77.jpg",
+      "title": "Mr. Brooks",
+      "year": 2007
+    },
+    "Kafka": {
+      "id": 2297,
+      "poster": "/eQh6IlLbQzqqgedwGcj3l9Ex3xJ.jpg",
+      "title": "Kafka",
+      "year": 1991
+    },
+    "Desperado": {
+      "id": 8068,
+      "poster": "/e3gwpBeXpvGZsxUya9zNym5QXrw.jpg",
+      "title": "Desperado",
+      "year": 1995
+    },
+    "Apollo 13": {
+      "id": 568,
+      "poster": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+      "title": "Apollo 13",
+      "year": 1995
+    },
+    "The Omen": {
+      "id": 794,
+      "poster": "/mDcjjEu1fMNmsXi4l4D8IftlTix.jpg",
+      "title": "The Omen",
+      "year": 1976
+    },
+    "The First Omen": {
+      "id": 437342,
+      "poster": "/tnsDyNNkOxYUyjD8CNJoAla6YvY.jpg",
+      "title": "The First Omen",
+      "year": 2024
+    },
+    "The Visit": {
+      "id": 298312,
+      "poster": "/mtMfKRCa2V5b7d9k4piogB72mcY.jpg",
+      "title": "The Visit",
+      "year": 2015
+    },
+    "Signs": {
+      "id": 2675,
+      "poster": "/YtrIdrTxpRhvCnlw43dwOjfLqx.jpg",
+      "title": "Signs",
+      "year": 2002
+    },
+    "The Village": {
+      "id": 6947,
+      "poster": "/v7UvYtKfIVaHLaHwVgfalyrK7Ho.jpg",
+      "title": "The Village",
+      "year": 2004
+    },
+    "Trap": {
+      "id": 1032823,
+      "poster": "/jwoaKYVqPgYemFpaANL941EF94R.jpg",
+      "title": "Trap",
+      "year": 2024
+    },
+    "Alien: Romulus": {
+      "id": 945961,
+      "poster": "/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
+      "title": "Alien: Romulus",
+      "year": 2024
+    },
+    "Wolfs": {
+      "id": 877817,
+      "poster": "/vOX1Zng472PC2KnS0B9nRfM8aaZ.jpg",
+      "title": "Wolfs",
+      "year": 2024
+    },
+    "Longlegs": {
+      "id": 1226578,
+      "poster": "/1EwNyiiNFd863H4e8nWEzutnZD7.jpg",
+      "title": "Longlegs",
+      "year": 2024
+    },
+    "It Ends with Us": {
+      "id": 1079091,
+      "poster": "/AjV6jFJ2YFIluYo4GQf13AA1tqu.jpg",
+      "title": "It Ends with Us",
+      "year": 2024
+    },
+    "Gladiator II": {
+      "id": 558449,
+      "poster": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+      "title": "Gladiator II",
+      "year": 2024
+    },
+    "Wicked": {
+      "id": 402431,
+      "poster": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+      "title": "Wicked",
+      "year": 2024
+    },
+    "Moana 2": {
+      "id": 1241982,
+      "poster": "/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+      "title": "Moana 2",
+      "year": 2024
+    },
+    "Nosferatu": {
+      "id": 426063,
+      "poster": "/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",
+      "title": "Nosferatu",
+      "year": 2024
+    },
+    "Napoleon": {
+      "id": 753342,
+      "poster": "/ytFOXyghxLzAM4KZyazDdEkM66q.jpg",
+      "title": "Napoleon",
+      "year": 2023
+    },
+    "Killers of the Flower Moon": {
+      "id": 466420,
+      "poster": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+      "title": "Killers of the Flower Moon",
+      "year": 2023
+    },
+    "The Beekeeper": {
+      "id": 866398,
+      "poster": "/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
+      "title": "The Beekeeper",
+      "year": 2024
+    },
+    "A Complete Unknown": {
+      "id": 661539,
+      "poster": "/llWl3GtNoXosbvYboelmoT459NM.jpg",
+      "title": "A Complete Unknown",
+      "year": 2024
+    },
+    "Booksmart": {
+      "id": 505600,
+      "poster": "/2aSxRDmisJP90H3S0aocyuQIe4z.jpg",
+      "title": "Booksmart",
+      "year": 2019
+    },
+    "Life of the Party": {
+      "id": 399796,
+      "poster": "/749iUAWQWeutQuTd9excjmigecw.jpg",
+      "title": "Life of the Party",
+      "year": 2018
+    },
+    "Ballerina": {
+      "id": 541671,
+      "poster": "/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg",
+      "title": "Ballerina",
+      "year": 2025
+    },
+    "The Lord of the Rings: The War of the Rohirrim": {
+      "id": 839033,
+      "poster": "/23WCoDo6wzBfzbX7BGTNwVUqZfi.jpg",
+      "title": "The Lord of the Rings: The War of the Rohirrim",
+      "year": 2024
+    },
+    "Dune: Part Two": {
+      "id": 693134,
+      "poster": "/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+      "title": "Dune: Part Two",
+      "year": 2024
+    },
+    "Father of the Bride": {
+      "id": 11846,
+      "poster": "/bU7HzJbJpY5OiLdqWhKSqGPtYii.jpg",
+      "title": "Father of the Bride",
+      "year": 1991
+    },
+    "Imaginary": {
+      "id": 1125311,
+      "poster": "/bPCxkrCEGJmaYfvdXj0x3mCLbGr.jpg",
+      "title": "Imaginary",
+      "year": 2024
+    },
+    "Wedding Crashers": {
+      "id": 9522,
+      "poster": "/lFM3lk2zVzC1YFnKm0r6LbFPyRu.jpg",
+      "title": "Wedding Crashers",
+      "year": 2005
+    },
+    "A Star Is Born": {
+      "id": 332562,
+      "poster": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "title": "A Star Is Born",
+      "year": 2018
+    },
+    "The Hangover Part III": {
+      "id": 109439,
+      "poster": "/vtxuPWkdllLNLVyGjKYa267ntuH.jpg",
+      "title": "The Hangover Part III",
+      "year": 2013
+    },
+    "American Sniper": {
+      "id": 190859,
+      "poster": "/i1U46OwMc6vlm7OoSUKfqUH615e.jpg",
+      "title": "American Sniper",
+      "year": 2014
+    },
+    "Burnt": {
+      "id": 295964,
+      "poster": "/iptu4zfvbeULkeuoVkTl2mOqTPS.jpg",
+      "title": "Burnt",
+      "year": 2015
+    },
+    "Dungeons & Dragons: Honor Among Thieves": {
+      "id": 493529,
+      "poster": "/v7UF7ypAqjsFZFdjksjQ7IUpXdn.jpg",
+      "title": "Dungeons & Dragons: Honor Among Thieves",
+      "year": 2023
+    },
+    "Kingdom of Heaven": {
+      "id": 1495,
+      "poster": "/rNaBe4TwbMef71sgscqabpGKsxh.jpg",
+      "title": "Kingdom of Heaven",
+      "year": 2005
+    },
+    "M3GAN": {
+      "id": 536554,
+      "poster": "/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
+      "title": "M3GAN",
+      "year": 2022
+    },
+    "Insidious": {
+      "id": 49018,
+      "poster": "/1egpmVXuXed58TH2UOnX1nATTrf.jpg",
+      "title": "Insidious",
+      "year": 2011
+    },
+    "Underwater": {
+      "id": 443791,
+      "poster": "/gzlbb3yeVISpQ3REd3Ga1scWGTU.jpg",
+      "title": "Underwater",
+      "year": 2020
+    },
+    "Land of Bad": {
+      "id": 969492,
+      "poster": "/h3jYanWMEJq6JJsCopy1h7cT2Hs.jpg",
+      "title": "Land of Bad",
+      "year": 2024
+    },
+    "Horror in the High Desert": {
+      "id": 805682,
+      "poster": "/s1D5ZGgbxVgQHw70CDwYZQbvaBT.jpg",
+      "title": "Horror in the High Desert",
+      "year": 2021
+    }
+  },
+  "spotifyEpisodeId": "16xFR41WczR7NPLCKVRnMy"
+}

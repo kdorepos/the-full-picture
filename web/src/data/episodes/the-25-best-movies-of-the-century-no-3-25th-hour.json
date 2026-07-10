@@ -1,0 +1,381 @@
+{
+  "slug": "the-25-best-movies-of-the-century-no-3-25th-hour",
+  "title": "The 25 Best Movies of the Century: No. 3 - '25th Hour'",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2025-11-26",
+  "runtimeMin": 48,
+  "format": "Sean and Amanda make the case for No. 3 on their century list: Spike Lee's 25th Hour, the movie almost nobody guessed.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "No. 3 - '25th Hour'",
+      "note": "the mystery pick",
+      "films": [
+        {
+          "title": "25th Hour",
+          "year": 2002,
+          "note": "Spike Lee's adaptation of David Benioff's novel, tracking Edward Norton's Monty Brogan through his last day before a seven-year prison sentence. Made during and after 9/11, not about the attack but surrounded by it. Sean and Amanda single out the mirror 'fuck you' monologue and the imagined-escape ending as two of the century's great scenes; it was originally No. 2 before Sean's late crisis of confidence dropped it to No. 3."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The rest of Spike Lee",
+      "films": [
+        "Do the Right Thing",
+        "Jungle Fever",
+        "Malcolm X",
+        "Mo' Better Blues",
+        "Crooklyn",
+        "Inside Man",
+        "BlacKkKlansman",
+        "Clockers"
+      ]
+    },
+    {
+      "group": "Edward Norton's run",
+      "films": [
+        "Primal Fear",
+        "Death to Smoochy",
+        "Frida",
+        "Red Dragon",
+        "American History X"
+      ]
+    },
+    {
+      "group": "Rodrigo Prieto shot",
+      "films": [
+        "Amores Perros",
+        "Original Sin",
+        "8 Mile",
+        "21 Grams",
+        "Alexander",
+        "Brokeback Mountain",
+        "The Wolf of Wall Street"
+      ]
+    },
+    {
+      "group": "Other New York movies",
+      "films": [
+        "Spider-Man",
+        "Frances Ha",
+        "Good Time",
+        "Uncut Gems",
+        "If Beale Street Could Talk",
+        "Synecdoche, New York",
+        "Requiem for a Dream",
+        "Margaret"
+      ]
+    },
+    {
+      "group": "In comparison",
+      "films": [
+        "Friendship",
+        "Fried Green Tomatoes",
+        "Mulholland Drive",
+        "Lady Bird"
+      ]
+    },
+    {
+      "group": "The drug-dealer genre",
+      "films": [
+        "American Gangster",
+        "Traffic",
+        "Blow",
+        "Scarface"
+      ]
+    },
+    {
+      "group": "If you liked it, watch",
+      "films": [
+        "Carlito's Way",
+        "Boyz n the Hood",
+        "Trainspotting",
+        "Midnight Express",
+        "Once Upon a Time in America",
+        "Midnight Cowboy"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Friendship": 1239655
+  },
+  "excluded": {
+    "TV": [
+      "The Wire",
+      "True Blood",
+      "When the Levees Broke"
+    ],
+    "Ads": [
+      "Amazon Prime",
+      "Singin' in the Rain"
+    ]
+  },
+  "tmdb": {
+    "25th Hour": {
+      "id": 1429,
+      "poster": "/uW7tTRElr2tRhmAVESzvHy4ByXg.jpg",
+      "title": "25th Hour",
+      "year": 2002
+    },
+    "Do the Right Thing": {
+      "id": 925,
+      "poster": "/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+      "title": "Do the Right Thing",
+      "year": 1989
+    },
+    "Jungle Fever": {
+      "id": 1713,
+      "poster": "/pw7cOdwCylBuiv6rvosBSkcgKEe.jpg",
+      "title": "Jungle Fever",
+      "year": 1991
+    },
+    "Malcolm X": {
+      "id": 1883,
+      "poster": "/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
+      "title": "Malcolm X",
+      "year": 1992
+    },
+    "Mo' Better Blues": {
+      "id": 41823,
+      "poster": "/sEa6m5RjfrqfTzY1eHkC85shiUF.jpg",
+      "title": "Mo' Better Blues",
+      "year": 1990
+    },
+    "Crooklyn": {
+      "id": 34152,
+      "poster": "/iFqe07F78SO0SIBzWcK4I5MwNvP.jpg",
+      "title": "Crooklyn",
+      "year": 1994
+    },
+    "Inside Man": {
+      "id": 388,
+      "poster": "/ffMUgkDZICNiyaws1Jkv8qG8uFW.jpg",
+      "title": "Inside Man",
+      "year": 2006
+    },
+    "BlacKkKlansman": {
+      "id": 487558,
+      "poster": "/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg",
+      "title": "BlacKkKlansman",
+      "year": 2018
+    },
+    "Clockers": {
+      "id": 20649,
+      "poster": "/c79uqLJleho2a7OQayfrW5Ypphf.jpg",
+      "title": "Clockers",
+      "year": 1995
+    },
+    "Primal Fear": {
+      "id": 1592,
+      "poster": "/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
+      "title": "Primal Fear",
+      "year": 1996
+    },
+    "Death to Smoochy": {
+      "id": 9275,
+      "poster": "/wrwwuNLITsA5N5cVnA3ftvHFqHj.jpg",
+      "title": "Death to Smoochy",
+      "year": 2002
+    },
+    "Frida": {
+      "id": 1360,
+      "poster": "/a4hgR6aKoohB6MHni171jbi9BkU.jpg",
+      "title": "Frida",
+      "year": 2002
+    },
+    "Red Dragon": {
+      "id": 9533,
+      "poster": "/ou9ZKA2cms02b7CdCdVqGkKu0O0.jpg",
+      "title": "Red Dragon",
+      "year": 2002
+    },
+    "American History X": {
+      "id": 73,
+      "poster": "/x2drgoXYZ8484lqyDj7L1CEVR4T.jpg",
+      "title": "American History X",
+      "year": 1998
+    },
+    "Amores Perros": {
+      "id": 55,
+      "poster": "/A4lH22nlFF7MdalGfcvSrlC1ttt.jpg",
+      "title": "Amores Perros",
+      "year": 2000
+    },
+    "Original Sin": {
+      "id": 2057,
+      "poster": "/xvTtsdvvVr1NYlVJxWZibzhaEt5.jpg",
+      "title": "Original Sin",
+      "year": 2001
+    },
+    "8 Mile": {
+      "id": 65,
+      "poster": "/7BmQj8qE1FLuLTf7Xjf9sdIHzoa.jpg",
+      "title": "8 Mile",
+      "year": 2002
+    },
+    "21 Grams": {
+      "id": 470,
+      "poster": "/wZ0l6or5juuVWqDkLEgaghs4f9l.jpg",
+      "title": "21 Grams",
+      "year": 2003
+    },
+    "Alexander": {
+      "id": 1966,
+      "poster": "/jrwQu72sGwGqwE8Ijne89PSIvhp.jpg",
+      "title": "Alexander",
+      "year": 2004
+    },
+    "Brokeback Mountain": {
+      "id": 142,
+      "poster": "/aByfQOQBNa4CMFwIgq3QrqY2ZHh.jpg",
+      "title": "Brokeback Mountain",
+      "year": 2005
+    },
+    "The Wolf of Wall Street": {
+      "id": 106646,
+      "poster": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+      "title": "The Wolf of Wall Street",
+      "year": 2013
+    },
+    "Spider-Man": {
+      "id": 557,
+      "poster": "/kjdJntyBeEvqm9w97QGBdxPptzj.jpg",
+      "title": "Spider-Man",
+      "year": 2002
+    },
+    "Frances Ha": {
+      "id": 121986,
+      "poster": "/jrq1NoKvsxWCcffVOjegiYwloFN.jpg",
+      "title": "Frances Ha",
+      "year": 2013
+    },
+    "Good Time": {
+      "id": 429200,
+      "poster": "/yE1c9hj5Hf8a9KplAdRdhADqUro.jpg",
+      "title": "Good Time",
+      "year": 2017
+    },
+    "Uncut Gems": {
+      "id": 473033,
+      "poster": "/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+      "title": "Uncut Gems",
+      "year": 2019
+    },
+    "If Beale Street Could Talk": {
+      "id": 465914,
+      "poster": "/76NfwnaZI43gOQove0LU9O23Qjz.jpg",
+      "title": "If Beale Street Could Talk",
+      "year": 2018
+    },
+    "Synecdoche, New York": {
+      "id": 4960,
+      "poster": "/5UwdhrjXhUgsiDhe1dpS9z4yj7q.jpg",
+      "title": "Synecdoche, New York",
+      "year": 2008
+    },
+    "Requiem for a Dream": {
+      "id": 641,
+      "poster": "/9BTwsLaMVHOGFlmsSlx5QYCaXb.jpg",
+      "title": "Requiem for a Dream",
+      "year": 2000
+    },
+    "Margaret": {
+      "id": 44754,
+      "poster": "/zqBao8uRH6TQAJd13tqC22vPB76.jpg",
+      "title": "Margaret",
+      "year": 2011
+    },
+    "Friendship": {
+      "id": 1239655,
+      "poster": "/eikAu9gPJTQQmwFwa1zX5Hfz96P.jpg",
+      "title": "Friendship",
+      "year": 2025
+    },
+    "Fried Green Tomatoes": {
+      "id": 1633,
+      "poster": "/g71l1vbJwyAAYk8zKCkIQQ58qcb.jpg",
+      "title": "Fried Green Tomatoes",
+      "year": 1991
+    },
+    "Mulholland Drive": {
+      "id": 1018,
+      "poster": "/x7A59t6ySylr1L7aubOQEA480vM.jpg",
+      "title": "Mulholland Drive",
+      "year": 2001
+    },
+    "Lady Bird": {
+      "id": 391713,
+      "poster": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+      "title": "Lady Bird",
+      "year": 2017
+    },
+    "American Gangster": {
+      "id": 4982,
+      "poster": "/sX9idXDqRUxE5ffww3n3RV5gL55.jpg",
+      "title": "American Gangster",
+      "year": 2007
+    },
+    "Traffic": {
+      "id": 1900,
+      "poster": "/jbccmnqE4oAPI67bApgt2JiRPz8.jpg",
+      "title": "Traffic",
+      "year": 2000
+    },
+    "Blow": {
+      "id": 4133,
+      "poster": "/yYZFVfk8aeMP4GxBSU9MTvqs9mJ.jpg",
+      "title": "Blow",
+      "year": 2001
+    },
+    "Scarface": {
+      "id": 111,
+      "poster": "/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+      "title": "Scarface",
+      "year": 1983
+    },
+    "Carlito's Way": {
+      "id": 6075,
+      "poster": "/g6D7mjQtndu768cusGmoEQY9fTB.jpg",
+      "title": "Carlito's Way",
+      "year": 1993
+    },
+    "Boyz n the Hood": {
+      "id": 650,
+      "poster": "/v4ox4aSCNT5vyLXl4Q71JiWwCXW.jpg",
+      "title": "Boyz n the Hood",
+      "year": 1991
+    },
+    "Trainspotting": {
+      "id": 627,
+      "poster": "/1jUC02qsqS2NxBMFarbIhcQtazV.jpg",
+      "title": "Trainspotting",
+      "year": 1996
+    },
+    "Midnight Express": {
+      "id": 11327,
+      "poster": "/6GXioArQEdxcYqOcEfMdpyJPlwx.jpg",
+      "title": "Midnight Express",
+      "year": 1978
+    },
+    "Once Upon a Time in America": {
+      "id": 311,
+      "poster": "/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg",
+      "title": "Once Upon a Time in America",
+      "year": 1984
+    },
+    "Midnight Cowboy": {
+      "id": 3116,
+      "poster": "/ckklq45UxUkwgHve9xItXqXr06r.jpg",
+      "title": "Midnight Cowboy",
+      "year": 1969
+    }
+  },
+  "spotifyEpisodeId": "4IkKvsh9TgIlF7nIRRqvtx"
+}

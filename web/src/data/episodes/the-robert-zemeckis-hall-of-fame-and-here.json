@@ -1,0 +1,579 @@
+{
+  "slug": "the-robert-zemeckis-hall-of-fame-and-here",
+  "title": "The Robert Zemeckis Hall of Fame, and ‘Here’",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Bryan Curtis"
+  ],
+  "published": "2024-11-08",
+  "runtimeMin": 91,
+  "format": "Zemeckis reunites the 'Forrest Gump' team for 'Here,' a fixed-camera swing across millennia in a single living room. Sean and Bryan Curtis wrestle with the movie, detour through the craziest gimmicks in moviegoing history, then walk the whole Zemeckis filmography to build a 10-film Hall of Fame.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘Here’",
+      "note": "the new Zemeckis",
+      "films": [
+        {
+          "title": "Here",
+          "year": 2024,
+          "note": "Adapted from Richard McGuire's graphic novel: one fixed corner of a room, centuries of the people who lived in it, told in a static camera and cross-cut across time. Reunites the 'Forrest Gump' crew: Hanks, Robin Wright, composer Alan Silvestri, DP Don Burgess, writer Eric Roth. Both hosts find the writing leaden and the de-aging uneven (Wright's convincing, Hanks's not), but Sean liked it more than he expected: 'not good, but good to me.' A $5M bomb on 2,500 screens."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The craziest gimmicks in movie history",
+      "note": "3-D, William Castle, popcorn buckets",
+      "films": [
+        {
+          "title": "Clue",
+          "year": 1985,
+          "note": "Shipped with multiple endings across different theaters. It's the gimmick Sean most wants to see revived."
+        },
+        {
+          "title": "Matinee",
+          "year": 1993,
+          "note": "Its showman-huckster is loosely based on William Castle, king of Percepto, Emergo, and the theater-lobby fainting nurse."
+        },
+        {
+          "title": "Avatar",
+          "year": 2009,
+          "note": "Cameron's 3-D revival: mind-bending once, then every action movie went 3-D and the novelty wore off."
+        }
+      ]
+    },
+    {
+      "kind": "halloffame",
+      "heading": "The Robert Zemeckis Hall of Fame",
+      "note": "24 films graded green/yellow/red: 10 inducted",
+      "honoree": "Robert Zemeckis",
+      "films": [
+        {
+          "title": "I Wanna Hold Your Hand",
+          "year": 1978,
+          "note": "The debut: kids scrambling to reach the Beatles' Ed Sullivan taping. Alive and clever, now in the Criterion Collection. In."
+        },
+        {
+          "title": "1941",
+          "year": 1979,
+          "note": "A co-writing credit, not a directing one, for Spielberg's WWII comedy bomb. Neither host can rescue it. Out."
+        },
+        {
+          "title": "Used Cars",
+          "year": 1980,
+          "note": "Kurt Russell as a used-car huckster; a cable-rerun classic in the Caddyshack vein, ripe for rediscovery. In."
+        },
+        {
+          "title": "Romancing the Stone",
+          "year": 1984,
+          "note": "The studio-for-hire adventure he took because he couldn't yet get Back to the Future made. Turner and Douglas, straight down the middle, still works. In."
+        },
+        {
+          "title": "Back to the Future",
+          "year": 1985,
+          "note": "The peak. A strange premise turned into 40 years of American culture. Automatic. In."
+        },
+        {
+          "title": "Who Framed Roger Rabbit",
+          "year": 1988,
+          "note": "Sean's most-formative movie: cartoons colliding with hard-bitten noir. In on principle even if you hate it."
+        },
+        {
+          "title": "Back to the Future Part II",
+          "year": 1989,
+          "note": "Right on the edge (the sequel they hadn't planned for), but it certifies him as a Hollywood master. In."
+        },
+        {
+          "title": "Back to the Future Part III",
+          "year": 1990,
+          "note": "The Western homage they were economically obligated to make. Fine, and only fine. Out."
+        },
+        {
+          "title": "Death Becomes Her",
+          "year": 1992,
+          "note": "Landmark makeup effects and a beauty-standards streak that predates 'The Substance.' Yellowed, then cut to make room for Contact."
+        },
+        {
+          "title": "Forrest Gump",
+          "year": 1994,
+          "note": "Best Picture and Best Director. Treacly boomer crap and genuinely magic at once, a top-five Zemeckis. In."
+        },
+        {
+          "title": "Contact",
+          "year": 1997,
+          "note": "His boldest swing: Forrest Gump sincerity welded to science-forward ideas. Bryan lobbied it in over Death Becomes Her. In."
+        },
+        {
+          "title": "What Lies Beneath",
+          "year": 2000,
+          "note": "His Hitchcock movie: a big hit built on a good reveal, but iterative and inessential. Out."
+        },
+        {
+          "title": "Cast Away",
+          "year": 2000,
+          "note": "Bryan's second-best Zemeckis. The plane crash still plays 20 years on, and only Hanks could sell talking to Wilson. In."
+        },
+        {
+          "title": "The Polar Express",
+          "year": 2004,
+          "note": "Important to the history of motion capture, downright creepy as a movie. Sean makes the case for its import, not for the Hall. Out."
+        },
+        {
+          "title": "Beowulf",
+          "year": 2007,
+          "note": "The mocap roll continues; deeper renderings, but nobody talks about it. Out."
+        },
+        {
+          "title": "A Christmas Carol",
+          "year": 2009,
+          "note": "A Disney hit and, per Sean, a freakish mocap disaster. Out."
+        },
+        {
+          "title": "Flight",
+          "year": 2012,
+          "note": "The 'I'm back' movie: a great Denzel performance and a thrilling near-crash, dragged only by the on-the-nose needle drops. In."
+        },
+        {
+          "title": "The Walk",
+          "year": 2015,
+          "note": "The Twin Towers wire walk, formally cool but slight, and 'Man on Wire' got there first. Out."
+        },
+        {
+          "title": "Allied",
+          "year": 2016,
+          "note": "Sumptuous WWII romance with Pitt and Cotillard; Sean lobbied a generous yellow, but it doesn't make the cut. Out."
+        },
+        {
+          "title": "Welcome to Marwen",
+          "year": 2018,
+          "note": "The living-army-men PTSD movie: batshit, inscrutable, and the effective end of Steve Carell as a bankable star. Out."
+        },
+        {
+          "title": "The Witches",
+          "year": 2020,
+          "note": "A pointless Roald Dahl remake dumped to streaming in COVID; as if it doesn't exist. Out."
+        },
+        {
+          "title": "Pinocchio",
+          "year": 2022,
+          "note": "Looks like a fake movie on a poster, critically destroyed, and buried by del Toro's version the same year. Out."
+        },
+        {
+          "title": "Here",
+          "year": 2024,
+          "note": "The new one, and the first Zemeckis in years Sean felt had something to say, but even he can't in good conscience call it green. Out."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In the ‘Here’ talk",
+      "films": [
+        "The Irishman",
+        "Indiana Jones and the Dial of Destiny",
+        "The Substance"
+      ]
+    },
+    {
+      "group": "Sean's Frida Cinema program",
+      "films": [
+        "The Long Goodbye",
+        "The Big Lebowski",
+        "Under the Silver Lake"
+      ]
+    },
+    {
+      "group": "Comparisons and asides",
+      "films": [
+        "Pulp Fiction",
+        "American Graffiti",
+        "Animal House",
+        "Caddyshack",
+        "Body Heat",
+        "Jurassic Park",
+        "Schindler's List",
+        "The Color Purple",
+        "Empire of the Sun",
+        "Crocodile Dundee II",
+        "Interstellar",
+        "Fury",
+        "Silence",
+        "Tinker Tailor Soldier Spy",
+        "Mars Needs Moms",
+        "Guillermo del Toro's Pinocchio",
+        "Anyone but You",
+        "Venom: The Last Dance",
+        "Man on Wire",
+        "Marwencol",
+        "The Wild Robot",
+        "Dune: Part Two",
+        "Terrifier 3",
+        "If",
+        "Captain EO"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Hard Knocks",
+      "Game of Thrones",
+      "Bosom Buddies",
+      "The Ed Sullivan Show"
+    ],
+    "Ads": [
+      "Truthless (podcast)"
+    ]
+  },
+  "tmdb": {
+    "Here": {
+      "id": 940139,
+      "poster": "/79euHUJJtfgeGU63ef38KtNjXEn.jpg",
+      "title": "Here",
+      "year": 2024
+    },
+    "Clue": {
+      "id": 15196,
+      "poster": "/aRxbYOYHS8T73nzR8hsLousoplR.jpg",
+      "title": "Clue",
+      "year": 1985
+    },
+    "Matinee": {
+      "id": 25389,
+      "poster": "/5Hkt61mL0yixpC6ML24R8gDdh8y.jpg",
+      "title": "Matinee",
+      "year": 1993
+    },
+    "Avatar": {
+      "id": 19995,
+      "poster": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "title": "Avatar",
+      "year": 2009
+    },
+    "I Wanna Hold Your Hand": {
+      "id": 55457,
+      "poster": "/42FrsGqERVyIUNtjGFTBji2L2Lp.jpg",
+      "title": "I Wanna Hold Your Hand",
+      "year": 1978
+    },
+    "1941": {
+      "id": 11519,
+      "poster": "/52Bn5yC6IHQuVxPUza3Q6RZCZTu.jpg",
+      "title": "1941",
+      "year": 1979
+    },
+    "Used Cars": {
+      "id": 14475,
+      "poster": "/h9hqesyEBaag8ZkgrBSaUGgGNFF.jpg",
+      "title": "Used Cars",
+      "year": 1980
+    },
+    "Romancing the Stone": {
+      "id": 9326,
+      "poster": "/qfIlVOYZH5RiZ0ndFKUpr5Zn2Bx.jpg",
+      "title": "Romancing the Stone",
+      "year": 1984
+    },
+    "Back to the Future": {
+      "id": 105,
+      "poster": "/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+      "title": "Back to the Future",
+      "year": 1985
+    },
+    "Who Framed Roger Rabbit": {
+      "id": 856,
+      "poster": "/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg",
+      "title": "Who Framed Roger Rabbit",
+      "year": 1988
+    },
+    "Back to the Future Part II": {
+      "id": 165,
+      "poster": "/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg",
+      "title": "Back to the Future Part II",
+      "year": 1989
+    },
+    "Back to the Future Part III": {
+      "id": 196,
+      "poster": "/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
+      "title": "Back to the Future Part III",
+      "year": 1990
+    },
+    "Death Becomes Her": {
+      "id": 9374,
+      "poster": "/kkWxyyyWFK5KNk9WVwQuGEC9H9H.jpg",
+      "title": "Death Becomes Her",
+      "year": 1992
+    },
+    "Forrest Gump": {
+      "id": 13,
+      "poster": "/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
+      "title": "Forrest Gump",
+      "year": 1994
+    },
+    "Contact": {
+      "id": 686,
+      "poster": "/bCpMIywuNZeWt3i5UMLEIc0VSwM.jpg",
+      "title": "Contact",
+      "year": 1997
+    },
+    "What Lies Beneath": {
+      "id": 2655,
+      "poster": "/2L3Cn0CizbSy2E9KJt1SiOSyb6p.jpg",
+      "title": "What Lies Beneath",
+      "year": 2000
+    },
+    "Cast Away": {
+      "id": 8358,
+      "poster": "/7lLJgKnAicAcR5UEuo8xhSMj18w.jpg",
+      "title": "Cast Away",
+      "year": 2000
+    },
+    "The Polar Express": {
+      "id": 5255,
+      "poster": "/eOoCzH0MqeGr2taUZO4SwG416PF.jpg",
+      "title": "The Polar Express",
+      "year": 2004
+    },
+    "Beowulf": {
+      "id": 2310,
+      "poster": "/7QsWYyJAV97N9jOh21pdRIqJeJq.jpg",
+      "title": "Beowulf",
+      "year": 2007
+    },
+    "A Christmas Carol": {
+      "id": 17979,
+      "poster": "/xNwlAIdx1Ln28GRiQttUP9Gojy2.jpg",
+      "title": "A Christmas Carol",
+      "year": 2009
+    },
+    "Flight": {
+      "id": 87502,
+      "poster": "/tFsHDNclXoCKy2xMxskzXXMaFJS.jpg",
+      "title": "Flight",
+      "year": 2012
+    },
+    "The Walk": {
+      "id": 285783,
+      "poster": "/tiESRqurrZwAC0hpERogOsBhjeg.jpg",
+      "title": "The Walk",
+      "year": 2015
+    },
+    "Allied": {
+      "id": 369885,
+      "poster": "/sV4lXM32quwminL3TP36nlNPp7Q.jpg",
+      "title": "Allied",
+      "year": 2016
+    },
+    "Welcome to Marwen": {
+      "id": 351044,
+      "poster": "/dOULsxYQFsOR0cEBBB20xnjJkPD.jpg",
+      "title": "Welcome to Marwen",
+      "year": 2018
+    },
+    "The Witches": {
+      "id": 531219,
+      "poster": "/betExZlgK0l7CZ9CsCBVcwO1OjL.jpg",
+      "title": "Roald Dahl's The Witches",
+      "year": 2020
+    },
+    "Pinocchio": {
+      "id": 532639,
+      "poster": "/zaZhjKrJeWczQ3AotKoQObppEbH.jpg",
+      "title": "Pinocchio",
+      "year": 2022
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Indiana Jones and the Dial of Destiny": {
+      "id": 335977,
+      "poster": "/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",
+      "title": "Indiana Jones and the Dial of Destiny",
+      "year": 2023
+    },
+    "The Substance": {
+      "id": 933260,
+      "poster": "/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+      "title": "The Substance",
+      "year": 2024
+    },
+    "The Long Goodbye": {
+      "id": 1847,
+      "poster": "/16Gu0Vg7tBdoRxg1NJDwlTKx1hG.jpg",
+      "title": "The Long Goodbye",
+      "year": 1973
+    },
+    "The Big Lebowski": {
+      "id": 115,
+      "poster": "/3bv6WAp6BSxxYvB5ozKFUYuRA8C.jpg",
+      "title": "The Big Lebowski",
+      "year": 1998
+    },
+    "Under the Silver Lake": {
+      "id": 396461,
+      "poster": "/6sq6fOb02zjhguNpi5VOklq6Nj.jpg",
+      "title": "Under the Silver Lake",
+      "year": 2018
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "American Graffiti": {
+      "id": 838,
+      "poster": "/1tjLivPad2PX8FAzWko7FPIb8d2.jpg",
+      "title": "American Graffiti",
+      "year": 1973
+    },
+    "Animal House": {
+      "id": 8469,
+      "poster": "/fWooBbipMRIKeSRhEzmeaDV0T8H.jpg",
+      "title": "Animal House",
+      "year": 1978
+    },
+    "Caddyshack": {
+      "id": 11977,
+      "poster": "/lXnNz7zOXCsftMDVoU3VSo0Eioi.jpg",
+      "title": "Caddyshack",
+      "year": 1980
+    },
+    "Body Heat": {
+      "id": 14412,
+      "poster": "/5LipPcaW1J9IjAP7TOTesw8OcMS.jpg",
+      "title": "Body Heat",
+      "year": 1981
+    },
+    "Jurassic Park": {
+      "id": 329,
+      "poster": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "title": "Jurassic Park",
+      "year": 1993
+    },
+    "Schindler's List": {
+      "id": 424,
+      "poster": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+      "title": "Schindler's List",
+      "year": 1993
+    },
+    "The Color Purple": {
+      "id": 873,
+      "poster": "/6bvxkcTAXyqxGRwo38mxw92D6Xr.jpg",
+      "title": "The Color Purple",
+      "year": 1985
+    },
+    "Empire of the Sun": {
+      "id": 10110,
+      "poster": "/gEaCzjwHoPgyQFcwHql7o5YLHAU.jpg",
+      "title": "Empire of the Sun",
+      "year": 1987
+    },
+    "Crocodile Dundee II": {
+      "id": 9396,
+      "poster": "/2Nf0xeDuToLHysdkWj3aT5r42rC.jpg",
+      "title": "Crocodile Dundee II",
+      "year": 1988
+    },
+    "Interstellar": {
+      "id": 157336,
+      "poster": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+      "title": "Interstellar",
+      "year": 2014
+    },
+    "Fury": {
+      "id": 228150,
+      "poster": "/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg",
+      "title": "Fury",
+      "year": 2014
+    },
+    "Silence": {
+      "id": 68730,
+      "poster": "/x5T0cQDYws0xRBVG4Q3wpcrcmax.jpg",
+      "title": "Silence",
+      "year": 2016
+    },
+    "Tinker Tailor Soldier Spy": {
+      "id": 49517,
+      "poster": "/e0dZ7TapGY9HtJ9xk1TUHPEOccl.jpg",
+      "title": "Tinker Tailor Soldier Spy",
+      "year": 2011
+    },
+    "Mars Needs Moms": {
+      "id": 50321,
+      "poster": "/yZBrpe4bxwDIDKBxPeJYrlyDK5R.jpg",
+      "title": "Mars Needs Moms",
+      "year": 2011
+    },
+    "Guillermo del Toro's Pinocchio": {
+      "id": 555604,
+      "poster": "/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",
+      "title": "Guillermo del Toro's Pinocchio",
+      "year": 2022
+    },
+    "Anyone but You": {
+      "id": 1072790,
+      "poster": "/5qHoazZiaLe7oFBok7XlUhg96f2.jpg",
+      "title": "Anyone but You",
+      "year": 2023
+    },
+    "Venom: The Last Dance": {
+      "id": 912649,
+      "poster": "/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
+      "title": "Venom: The Last Dance",
+      "year": 2024
+    },
+    "Man on Wire": {
+      "id": 14048,
+      "poster": "/1mS4rhIgHZcHIvf1beP9Av0Ui33.jpg",
+      "title": "Man on Wire",
+      "year": 2008
+    },
+    "Marwencol": {
+      "id": 52013,
+      "poster": "/bdlOAvKrHe4jLO9LUCxjqOqST4X.jpg",
+      "title": "Marwencol",
+      "year": 2010
+    },
+    "The Wild Robot": {
+      "id": 1184918,
+      "poster": "/eG9lz41mJqsI4J6ubMtVqD26q2J.jpg",
+      "title": "The Wild Robot",
+      "year": 2024
+    },
+    "Dune: Part Two": {
+      "id": 693134,
+      "poster": "/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+      "title": "Dune: Part Two",
+      "year": 2024
+    },
+    "Terrifier 3": {
+      "id": 1034541,
+      "poster": "/ju10W5gl3PPK3b7TjEmVOZap51I.jpg",
+      "title": "Terrifier 3",
+      "year": 2024
+    },
+    "If": {
+      "id": 639720,
+      "poster": "/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg",
+      "title": "IF",
+      "year": 2024
+    },
+    "Captain EO": {
+      "id": 1500440,
+      "poster": "/b7sZDYAMU9Ph42GiyTF8nyKVUKp.jpg",
+      "title": "Captain EO",
+      "year": 1986
+    }
+  },
+  "spotifyEpisodeId": "5q831lwzMFnPGhAnUdS1As",
+  "tmdbOverrides": {
+    "The Witches": 531219
+  }
+}

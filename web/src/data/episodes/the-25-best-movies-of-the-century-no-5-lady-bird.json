@@ -1,0 +1,443 @@
+{
+  "slug": "the-25-best-movies-of-the-century-no-5-lady-bird",
+  "title": "The 25 Best Movies of the Century: No. 5 - 'Lady Bird'",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2025-11-12",
+  "runtimeMin": 60,
+  "format": "Sean and Amanda give their coming-of-age slot to Greta Gerwig's Lady Bird, No. 5 on the century list, and spend an hour on class, Sacramento, mothers and daughters, the Dave Matthews of it all, and the Frances Ha they couldn't fit alongside it.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "No. 5 - 'Lady Bird'",
+      "note": "the coming-of-age pick",
+      "films": [
+        {
+          "title": "Lady Bird",
+          "year": 2017,
+          "note": "Greta Gerwig's solo feature directorial debut (after co-directing with Joe Swanberg), premiered at Telluride in 2017 and set in 2002 Sacramento: a Catholic-school senior trying to get out. Sean and Amanda take it as their coming-of-age pick and their one Gerwig slot, standing in for a whole mid-2010s cohort. Cast they keep returning to: Saoirse Ronan (a Golden Globe win, one of her five Oscar nominations with no win), Laurie Metcalf as the exhausting, exhausted mother, Tracy Letts as the warm father, plus Timothée Chalamet, Beanie Feldstein, Lucas Hedges, Stephen McKinley Henderson, and Lois Smith. Threads: it's really a movie about class and a second city, the Chalamet/Kyle 'A People's History' bit, the Dave Matthews 'Crash' scene, the Sondheim and Alanis needle drops, and the voicemail ending that refuses the Hollywood reconciliation. A24's biggest hit at the time at roughly $70 million; five Oscar nominations, zero wins: screenplay to Get Out, supporting actress to Allison Janney, picture and director to The Shape of Water. Amanda's near-miss she couldn't fit on the list: Frances Ha."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The movies it stands in for",
+      "films": [
+        "Boyhood",
+        "Whiplash",
+        "Call Me by Your Name",
+        "Moonlight",
+        "Mean Girls",
+        "Little Women",
+        "Frances Ha",
+        "Marriage Story"
+      ]
+    },
+    {
+      "group": "Recommended if you like",
+      "films": [
+        "Easy A",
+        "Booksmart",
+        "Pretty in Pink",
+        "The 400 Blows",
+        "Brooklyn",
+        "Rushmore"
+      ]
+    },
+    {
+      "group": "The Gerwig orbit",
+      "films": [
+        "Barbie",
+        "Greenberg",
+        "Maggie's Plan"
+      ]
+    },
+    {
+      "group": "The 2017 field",
+      "films": [
+        "Get Out",
+        "Phantom Thread",
+        "Dunkirk",
+        "Star Wars: The Last Jedi",
+        "The Shape of Water",
+        "Three Billboards Outside Ebbing, Missouri",
+        "I, Tonya",
+        "Darkest Hour",
+        "La La Land"
+      ]
+    },
+    {
+      "group": "The 2019 field",
+      "films": [
+        "Parasite",
+        "Once Upon a Time in Hollywood",
+        "Knives Out",
+        "Ford v Ferrari",
+        "Uncut Gems",
+        "Jojo Rabbit",
+        "Midsommar"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Oppenheimer",
+        "Michael Clayton",
+        "The Handmaiden",
+        "In the Mood for Love",
+        "Ex Machina",
+        "The Big Chill",
+        "Say Anything",
+        "Hanna",
+        "Atonement",
+        "One Battle After Another",
+        "Hereditary",
+        "Civil War",
+        "Twilight",
+        "Marie Antoinette"
+      ]
+    },
+    {
+      "group": "From other episodes",
+      "films": [
+        "Friendship",
+        "Lilo & Stitch",
+        "The Running Man",
+        "Now You See Me: Now You Don't"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Friendship": 1239655
+  },
+  "excluded": {
+    "TV": [
+      "Girls",
+      "Roseanne",
+      "The Conners"
+    ],
+    "Ads": [
+      "State Farm"
+    ]
+  },
+  "tmdb": {
+    "Lady Bird": {
+      "id": 391713,
+      "poster": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+      "title": "Lady Bird",
+      "year": 2017
+    },
+    "Boyhood": {
+      "id": 85350,
+      "poster": "/2BvtvDUyxiMJ4dmKfiQf4qdOHQN.jpg",
+      "title": "Boyhood",
+      "year": 2014
+    },
+    "Whiplash": {
+      "id": 244786,
+      "poster": "/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+      "title": "Whiplash",
+      "year": 2014
+    },
+    "Call Me by Your Name": {
+      "id": 398818,
+      "poster": "/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
+      "title": "Call Me by Your Name",
+      "year": 2017
+    },
+    "Moonlight": {
+      "id": 376867,
+      "poster": "/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+      "title": "Moonlight",
+      "year": 2016
+    },
+    "Mean Girls": {
+      "id": 10625,
+      "poster": "/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg",
+      "title": "Mean Girls",
+      "year": 2004
+    },
+    "Little Women": {
+      "id": 331482,
+      "poster": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+      "title": "Little Women",
+      "year": 2019
+    },
+    "Frances Ha": {
+      "id": 121986,
+      "poster": "/jrq1NoKvsxWCcffVOjegiYwloFN.jpg",
+      "title": "Frances Ha",
+      "year": 2013
+    },
+    "Marriage Story": {
+      "id": 492188,
+      "poster": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+      "title": "Marriage Story",
+      "year": 2019
+    },
+    "Easy A": {
+      "id": 37735,
+      "poster": "/v5f1qO6NJnxWgONgkYg21TW39DT.jpg",
+      "title": "Easy A",
+      "year": 2010
+    },
+    "Booksmart": {
+      "id": 505600,
+      "poster": "/2aSxRDmisJP90H3S0aocyuQIe4z.jpg",
+      "title": "Booksmart",
+      "year": 2019
+    },
+    "Pretty in Pink": {
+      "id": 11522,
+      "poster": "/jeFJyzJBufJexpOuywuPp8q2tCJ.jpg",
+      "title": "Pretty in Pink",
+      "year": 1986
+    },
+    "The 400 Blows": {
+      "id": 147,
+      "poster": "/12PuU23kkDLvTd0nb8hMlE3oShB.jpg",
+      "title": "The 400 Blows",
+      "year": 1959
+    },
+    "Brooklyn": {
+      "id": 167073,
+      "poster": "/cs7W8j5lI7qzRW6tKSj9p1Q0Ze7.jpg",
+      "title": "Brooklyn",
+      "year": 2015
+    },
+    "Rushmore": {
+      "id": 11545,
+      "poster": "/hSJ6swahAuZ8wM96lHDTwQPXUvZ.jpg",
+      "title": "Rushmore",
+      "year": 1998
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Greenberg": {
+      "id": 27583,
+      "poster": "/jAsN4vPpycVxC89QlA6NYBXRuK7.jpg",
+      "title": "Greenberg",
+      "year": 2010
+    },
+    "Maggie's Plan": {
+      "id": 312669,
+      "poster": "/irz7aLl87kGnwzdHoYs4iObLdFa.jpg",
+      "title": "Maggie's Plan",
+      "year": 2016
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Phantom Thread": {
+      "id": 400617,
+      "poster": "/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg",
+      "title": "Phantom Thread",
+      "year": 2017
+    },
+    "Dunkirk": {
+      "id": 374720,
+      "poster": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "title": "Dunkirk",
+      "year": 2017
+    },
+    "Star Wars: The Last Jedi": {
+      "id": 181808,
+      "poster": "/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
+      "title": "Star Wars: The Last Jedi",
+      "year": 2017
+    },
+    "The Shape of Water": {
+      "id": 399055,
+      "poster": "/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg",
+      "title": "The Shape of Water",
+      "year": 2017
+    },
+    "Three Billboards Outside Ebbing, Missouri": {
+      "id": 359940,
+      "poster": "/bRYLt8fV82tdVoDppSFTZIcJiLN.jpg",
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "year": 2017
+    },
+    "I, Tonya": {
+      "id": 389015,
+      "poster": "/6gNXwSHxaksR1PjVZRqNapmkgj3.jpg",
+      "title": "I, Tonya",
+      "year": 2017
+    },
+    "Darkest Hour": {
+      "id": 399404,
+      "poster": "/xa6G3aKlysQeVg9wOb0dRcIGlWu.jpg",
+      "title": "Darkest Hour",
+      "year": 2017
+    },
+    "La La Land": {
+      "id": 313369,
+      "poster": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "title": "La La Land",
+      "year": 2016
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Knives Out": {
+      "id": 546554,
+      "poster": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+      "title": "Knives Out",
+      "year": 2019
+    },
+    "Ford v Ferrari": {
+      "id": 359724,
+      "poster": "/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+      "title": "Ford v Ferrari",
+      "year": 2019
+    },
+    "Uncut Gems": {
+      "id": 473033,
+      "poster": "/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+      "title": "Uncut Gems",
+      "year": 2019
+    },
+    "Jojo Rabbit": {
+      "id": 515001,
+      "poster": "/1mqL7VG4Ix8wmxwypmCA1HTHBky.jpg",
+      "title": "Jojo Rabbit",
+      "year": 2019
+    },
+    "Midsommar": {
+      "id": 530385,
+      "poster": "/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+      "title": "Midsommar",
+      "year": 2019
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Michael Clayton": {
+      "id": 4566,
+      "poster": "/hhkW4yVIGo8Bee3UITKvqOvhNMG.jpg",
+      "title": "Michael Clayton",
+      "year": 2007
+    },
+    "The Handmaiden": {
+      "id": 290098,
+      "poster": "/dLlH4aNHdnmf62umnInL8xPlPzw.jpg",
+      "title": "The Handmaiden",
+      "year": 2016
+    },
+    "In the Mood for Love": {
+      "id": 843,
+      "poster": "/iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg",
+      "title": "In the Mood for Love",
+      "year": 2000
+    },
+    "Ex Machina": {
+      "id": 264660,
+      "poster": "/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
+      "title": "Ex Machina",
+      "year": 2015
+    },
+    "The Big Chill": {
+      "id": 12560,
+      "poster": "/rU8kjMEL5Mn0EWm3gOShPHBEZ4l.jpg",
+      "title": "The Big Chill",
+      "year": 1983
+    },
+    "Say Anything": {
+      "id": 2028,
+      "poster": "/nkucKciFGSRalw6dJtsglWqOXMC.jpg",
+      "title": "Say Anything...",
+      "year": 1989
+    },
+    "Hanna": {
+      "id": 50456,
+      "poster": "/6QDeHwBXDHbCbuzStgUpuUAqnap.jpg",
+      "title": "Hanna",
+      "year": 2011
+    },
+    "Atonement": {
+      "id": 4347,
+      "poster": "/hMRIyBjPzxaSXWM06se3OcNjIQa.jpg",
+      "title": "Atonement",
+      "year": 2007
+    },
+    "One Battle After Another": {
+      "id": 1054867,
+      "poster": "/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+      "title": "One Battle After Another",
+      "year": 2025
+    },
+    "Hereditary": {
+      "id": 493922,
+      "poster": "/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+      "title": "Hereditary",
+      "year": 2018
+    },
+    "Civil War": {
+      "id": 929590,
+      "poster": "/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+      "title": "Civil War",
+      "year": 2024
+    },
+    "Twilight": {
+      "id": 8966,
+      "poster": "/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
+      "title": "Twilight",
+      "year": 2008
+    },
+    "Marie Antoinette": {
+      "id": 1887,
+      "poster": "/cybXGmv8Rjd5Os8Xml6YxMBQ0Zt.jpg",
+      "title": "Marie Antoinette",
+      "year": 2006
+    },
+    "Friendship": {
+      "id": 1239655,
+      "poster": "/eikAu9gPJTQQmwFwa1zX5Hfz96P.jpg",
+      "title": "Friendship",
+      "year": 2025
+    },
+    "Lilo & Stitch": {
+      "id": 552524,
+      "poster": "/ckQzKpQJO4ZQDCN5evdpKcfm7Ys.jpg",
+      "title": "Lilo & Stitch",
+      "year": 2025
+    },
+    "The Running Man": {
+      "id": 798645,
+      "poster": "/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
+      "title": "The Running Man",
+      "year": 2025
+    },
+    "Now You See Me: Now You Don't": {
+      "id": 425274,
+      "poster": "/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
+      "title": "Now You See Me: Now You Don't",
+      "year": 2025
+    }
+  },
+  "spotifyEpisodeId": "4MvbA997BFugBSuQkGsuG2"
+}

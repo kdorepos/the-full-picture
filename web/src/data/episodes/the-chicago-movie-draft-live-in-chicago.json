@@ -1,0 +1,832 @@
+{
+  "slug": "the-chicago-movie-draft-live-in-chicago",
+  "title": "The Chicago Movie Draft LIVE in Chicago!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan",
+    "Tracy Letts"
+  ],
+  "published": "2025-07-22",
+  "runtimeMin": 119,
+  "format": "A live Chicago movie draft from the Steppenwolf Theatre, with playwright and Steppenwolf company member Tracy Letts as the fourth chair. After a Criterion-sponsored trivia round, Sean, Amanda, Chris Ryan, and Letts each fill a six-slot board (Drama, Oscar Nominee, Blockbuster, Action / Horror / Thriller, Comedy, Wildcard) while arguing over what counts as a Chicago movie. The room votes; Amanda wins.",
+  "segments": [
+    {
+      "kind": "draft",
+      "heading": "The teams",
+      "draftOf": "Chicago movies",
+      "note": "Amanda Dobbins won the audience vote with 43%; Chris Ryan second (32%), Tracy Letts third (17%), Sean fourth (8%).",
+      "categories": [
+        "Drama",
+        "Oscar Nominee",
+        "Blockbuster",
+        "Action / Horror / Thriller",
+        "Comedy",
+        "Wildcard"
+      ],
+      "teams": [
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Eight Men Out",
+              "year": 1988,
+              "category": "Drama",
+              "note": "John Sayles on the 1919 Black Sox; a show of hands put roughly 80% of the room as never having seen it."
+            },
+            {
+              "title": "Primal Fear",
+              "year": 1996,
+              "category": "Oscar Nominee",
+              "note": "Gregory Hoblit; Edward Norton's Oscar-nominated breakout, with John Mahoney as a Steppenwolf company member."
+            },
+            {
+              "title": "The Dark Knight",
+              "year": 2008,
+              "category": "Blockbuster",
+              "note": "Ryan's ruling: Begins is Mongolia, Dark Knight is Chicago, Rises is Pittsburgh."
+            },
+            {
+              "title": "Thief",
+              "year": 1981,
+              "category": "Action / Horror / Thriller",
+              "note": "First overall pick. Michael Mann's safecracker movie with James Caan; his favorite Chicago film, a Criterion title."
+            },
+            {
+              "title": "The Sting",
+              "year": 1973,
+              "category": "Comedy",
+              "note": "George Roy Hill, Newman and Redford; Best Picture winner. Ryan prefers it to Butch Cassidy and the Sundance Kid."
+            },
+            {
+              "title": "Glengarry Glen Ross",
+              "year": 1992,
+              "category": "Wildcard",
+              "note": "Mamet; drafted in honor of Letts, who has twice played Williamson on the Steppenwolf stage."
+            }
+          ]
+        },
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Risky Business",
+              "year": 1983,
+              "category": "Drama",
+              "note": "Tangerine Dream score; the category-fraud pick the whole table contested as a comedy."
+            },
+            {
+              "title": "The Fugitive",
+              "year": 1993,
+              "category": "Oscar Nominee",
+              "note": "Andrew Davis; Tommy Lee Jones won Supporting Actor. Argued as the most Chicago-per-minute movie there is."
+            },
+            {
+              "title": "The Color of Money",
+              "year": 1986,
+              "category": "Blockbuster",
+              "note": "Scorsese; Newman and Cruise. 'Spiritually Chicago' before it moves on to Atlantic City."
+            },
+            {
+              "title": "House of Games",
+              "year": 1987,
+              "category": "Action / Horror / Thriller",
+              "note": "Mamet's con-man movie with Joe Mantegna and Ricky Jay; a film Sean's father showed him at ten."
+            },
+            {
+              "title": "Wayne's World",
+              "year": 1992,
+              "category": "Comedy",
+              "note": "Suburban, and roundly mocked for it. They do drive into the city."
+            },
+            {
+              "title": "Transformers: Dark of the Moon",
+              "year": 2011,
+              "category": "Wildcard",
+              "note": "Bay's moon-landing / JFK conspiracy entry; the joke pick that got its own printed placard."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "A League of Their Own",
+              "year": 1992,
+              "category": "Drama",
+              "note": "Penny Marshall; Amanda insists on drama, citing the war telegram and the Cooperstown coda."
+            },
+            {
+              "title": "Home Alone",
+              "year": 1990,
+              "category": "Oscar Nominee",
+              "note": "Suburban, but the O'Hare sequence keeps it Chicago."
+            },
+            {
+              "title": "My Best Friend's Wedding",
+              "year": 1997,
+              "category": "Blockbuster",
+              "note": "Her most-watched Julia Roberts rom-com and a top-five in the genre for her; owned it on VHS."
+            },
+            {
+              "title": "Widows",
+              "year": 2018,
+              "category": "Action / Horror / Thriller",
+              "note": "Steve McQueen's Chicago-politics heist; the long Colin Farrell car shot from the poorest wards to his own block."
+            },
+            {
+              "title": "Ferris Bueller's Day Off",
+              "year": 1986,
+              "category": "Comedy",
+              "note": "Her favorite John Hughes movie, watched a thousand times on VHS."
+            },
+            {
+              "title": "While You Were Sleeping",
+              "year": 1995,
+              "category": "Wildcard",
+              "note": "Sandra Bullock on the L; occasion for Amanda's unprompted full-plot recap."
+            }
+          ]
+        },
+        {
+          "host": "Tracy Letts",
+          "picks": [
+            {
+              "title": "Medium Cool",
+              "year": 1969,
+              "category": "Drama",
+              "note": "Haskell Wexler shot fiction into the real 1968 Chicago riots: 'Look out, Haskell, it's real.' The least-seen pick of the night."
+            },
+            {
+              "title": "Hoop Dreams",
+              "year": 1994,
+              "category": "Oscar Nominee",
+              "note": "Steve James; Letts's No. 1 pick and, to him, the best sports movie ever made."
+            },
+            {
+              "title": "The Untouchables",
+              "year": 1987,
+              "category": "Blockbuster",
+              "note": "De Palma, Morricone score; Letts notes it cast no Chicago actors except improv guru Del Close."
+            },
+            {
+              "title": "Henry: Portrait of a Serial Killer",
+              "year": 1986,
+              "category": "Action / Horror / Thriller",
+              "note": "John McNaughton; Michael Rooker on Lower Wacker, filmed as Letts arrived in town."
+            },
+            {
+              "title": "The Blues Brothers",
+              "year": 1980,
+              "category": "Comedy",
+              "note": "Belushi and Aykroyd, Aretha Franklin, and the record-setting police-car pileup."
+            },
+            {
+              "title": "Love Jones",
+              "year": 1997,
+              "category": "Wildcard",
+              "note": "Theodore Witcher's only feature; Larenz Tate and Nia Long, a Criterion edition."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "My Bodyguard",
+        "Ordinary People",
+        "Cooley High",
+        "The Breakfast Club",
+        "The Front Page",
+        "The Man with the Golden Arm",
+        "Planes, Trains and Automobiles",
+        "About Last Night",
+        "Midnight Run",
+        "Judas and the Black Messiah",
+        "Backdraft",
+        "I, Robot",
+        "High Fidelity",
+        "Bridesmaids",
+        "Flatliners",
+        "Sinners",
+        "Barbershop",
+        "Running Scared",
+        "His New Job",
+        "Blackhat",
+        "The Accountant"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In the trivia round",
+      "films": [
+        "Ne Zha 2",
+        "Ne Zha",
+        "Jurassic World Rebirth",
+        "Manhunter",
+        "Chicago",
+        "The Great Ziegfeld",
+        "Blues Brothers 2000",
+        "Candyman",
+        "Final Destination Bloodlines",
+        "Rookie of the Year",
+        "Straight Talk",
+        "9 to 5"
+      ]
+    },
+    {
+      "group": "Also mentioned",
+      "films": [
+        "His Girl Friday",
+        "Butch Cassidy and the Sundance Kid",
+        "Sleepless in Seattle",
+        "Fallen",
+        "Tank Girl",
+        "Wild Things",
+        "Mad Dog and Glory",
+        "The Texas Chain Saw Massacre",
+        "Dressed to Kill",
+        "Field of Dreams",
+        "Notting Hill",
+        "Pretty Woman",
+        "Apollo 13",
+        "Game Night",
+        "Apocalypse Now",
+        "Breakfast at Tiffany's",
+        "The Matrix",
+        "Mission: Impossible",
+        "Soul Food",
+        "Porky's",
+        "The Hustler",
+        "Batman Begins",
+        "The Dark Knight Rises",
+        "Oppenheimer",
+        "Memento",
+        "Collateral",
+        "North by Northwest",
+        "Scarface",
+        "Compulsion",
+        "Mean Girls",
+        "Wayne's World 2"
+      ]
+    }
+  ],
+  "excluded": {
+    "Plays": [
+      "August: Osage County",
+      "Who's Afraid of Virginia Woolf?",
+      "True West",
+      "Balm in Gilead",
+      "The Glass Menagerie",
+      "Picasso at the Lapin Agile"
+    ],
+    "Ads": [
+      "Starbucks",
+      "T-Mobile Home Run Derby",
+      "State Farm",
+      "Mint Mobile"
+    ]
+  },
+  "spotifyEpisodeId": "7ciCWabqwvh1G7lVl6ysH5",
+  "tmdbOverrides": {
+    "Scarface": 877,
+    "The Front Page": 42814,
+    "Compulsion": 35921,
+    "Manhunter": 11454,
+    "9 to 5": 19494,
+    "About Last Night": 18169,
+    "Running Scared": 15698,
+    "House of Games": 26719
+  },
+  "tmdb": {
+    "Eight Men Out": {
+      "id": 13554,
+      "poster": "/9nh0w2C9h9KfJb0OsVg65O65b5s.jpg",
+      "title": "Eight Men Out",
+      "year": 1988
+    },
+    "Primal Fear": {
+      "id": 1592,
+      "poster": "/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
+      "title": "Primal Fear",
+      "year": 1996
+    },
+    "The Dark Knight": {
+      "id": 155,
+      "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    "Thief": {
+      "id": 11524,
+      "poster": "/bpjRGwfYJ71bU0hNhLIz7g3t6Oy.jpg",
+      "title": "Thief",
+      "year": 1981
+    },
+    "The Sting": {
+      "id": 9277,
+      "poster": "/ckmYng37zey8INYf6d10cVgIG93.jpg",
+      "title": "The Sting",
+      "year": 1973
+    },
+    "Glengarry Glen Ross": {
+      "id": 9504,
+      "poster": "/zcaEDx8KlVfh4vKfMNLhiSi5Oz4.jpg",
+      "title": "Glengarry Glen Ross",
+      "year": 1992
+    },
+    "Risky Business": {
+      "id": 9346,
+      "poster": "/82KOHShH9raGhkcAN3TztVjqjj3.jpg",
+      "title": "Risky Business",
+      "year": 1983
+    },
+    "The Fugitive": {
+      "id": 5503,
+      "poster": "/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg",
+      "title": "The Fugitive",
+      "year": 1993
+    },
+    "The Color of Money": {
+      "id": 11873,
+      "poster": "/dVdnHmdQu3JtLAAksjTmTEF76gD.jpg",
+      "title": "The Color of Money",
+      "year": 1986
+    },
+    "House of Games": {
+      "id": 26719,
+      "poster": "/4i27Ut4cIoLbcNpW7aeuUQErEPE.jpg",
+      "title": "House of Games",
+      "year": 1987
+    },
+    "Wayne's World": {
+      "id": 8872,
+      "poster": "/fHwZnFNWR7PaS9t5EBwTvGPeoYQ.jpg",
+      "title": "Wayne's World",
+      "year": 1992
+    },
+    "Transformers: Dark of the Moon": {
+      "id": 38356,
+      "poster": "/28YlCLrFhONteYSs9hKjD1Km0Cj.jpg",
+      "title": "Transformers: Dark of the Moon",
+      "year": 2011
+    },
+    "A League of Their Own": {
+      "id": 11287,
+      "poster": "/f9BtX6wYOwJUyfUr4vyeT3COz6m.jpg",
+      "title": "A League of Their Own",
+      "year": 1992
+    },
+    "Home Alone": {
+      "id": 771,
+      "poster": "/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
+      "title": "Home Alone",
+      "year": 1990
+    },
+    "My Best Friend's Wedding": {
+      "id": 8874,
+      "poster": "/b5g4bp8gS5ovMyR5439AII6zQ3n.jpg",
+      "title": "My Best Friend's Wedding",
+      "year": 1997
+    },
+    "Widows": {
+      "id": 401469,
+      "poster": "/d31SGJSaX29ba5ZUbZcesGoDE7I.jpg",
+      "title": "Widows",
+      "year": 2018
+    },
+    "Ferris Bueller's Day Off": {
+      "id": 9377,
+      "poster": "/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg",
+      "title": "Ferris Bueller's Day Off",
+      "year": 1986
+    },
+    "While You Were Sleeping": {
+      "id": 2064,
+      "poster": "/qNGO3ETcNwlWqK2kNRpbJSJRlos.jpg",
+      "title": "While You Were Sleeping",
+      "year": 1995
+    },
+    "Medium Cool": {
+      "id": 42612,
+      "poster": "/uiRU2wJQh5x7q0HU3oBN0VbRMnt.jpg",
+      "title": "Medium Cool",
+      "year": 1969
+    },
+    "Hoop Dreams": {
+      "id": 14275,
+      "poster": "/gLzHl2XBtVwycl8DxdOXRHPm8G3.jpg",
+      "title": "Hoop Dreams",
+      "year": 1994
+    },
+    "The Untouchables": {
+      "id": 117,
+      "poster": "/tPq0R4jTO4Ey8ZspFaWK9wGA4Ls.jpg",
+      "title": "The Untouchables",
+      "year": 1987
+    },
+    "Henry: Portrait of a Serial Killer": {
+      "id": 10692,
+      "poster": "/diVMzTarVLgjc3jyODyhZMadfwD.jpg",
+      "title": "Henry: Portrait of a Serial Killer",
+      "year": 1986
+    },
+    "The Blues Brothers": {
+      "id": 525,
+      "poster": "/rhYJKOt6UrQq7JQgLyQcSWW5R86.jpg",
+      "title": "The Blues Brothers",
+      "year": 1980
+    },
+    "Love Jones": {
+      "id": 27322,
+      "poster": "/iuwimPkDm7kfptKm5zlK0pIzqXM.jpg",
+      "title": "Love Jones",
+      "year": 1997
+    },
+    "My Bodyguard": {
+      "id": 21873,
+      "poster": "/agk3tSS6OLiSdyrieDhPpuQ7CEZ.jpg",
+      "title": "My Bodyguard",
+      "year": 1980
+    },
+    "Ordinary People": {
+      "id": 16619,
+      "poster": "/tJVETEDAKgD3fEh88SHOvMvOQue.jpg",
+      "title": "Ordinary People",
+      "year": 1980
+    },
+    "Cooley High": {
+      "id": 35711,
+      "poster": "/pObzSME61i5IszazNQm3cqLMAGZ.jpg",
+      "title": "Cooley High",
+      "year": 1975
+    },
+    "The Breakfast Club": {
+      "id": 2108,
+      "poster": "/gp4zlj7wgbiofLMNsTPndMuO3PN.jpg",
+      "title": "The Breakfast Club",
+      "year": 1985
+    },
+    "The Front Page": {
+      "id": 42814,
+      "poster": "/1ZVA6L4a5HKIdvfpNcxDU38BHYd.jpg",
+      "title": "The Front Page",
+      "year": 1931
+    },
+    "The Man with the Golden Arm": {
+      "id": 541,
+      "poster": "/3TUOhZhM5GCYIbxwFO3chpZ0DHx.jpg",
+      "title": "The Man with the Golden Arm",
+      "year": 1955
+    },
+    "Planes, Trains and Automobiles": {
+      "id": 2609,
+      "poster": "/fwi2cET87xArJCb8MdbWq2BZO3n.jpg",
+      "title": "Planes, Trains and Automobiles",
+      "year": 1987
+    },
+    "About Last Night": {
+      "id": 18169,
+      "poster": "/9KqG5OFi3NLJYBbsDSA8pZ3dln.jpg",
+      "title": "About Last Night...",
+      "year": 1986
+    },
+    "Midnight Run": {
+      "id": 9013,
+      "poster": "/yx0touyDQ9enWDsFgS4MbBwCSNd.jpg",
+      "title": "Midnight Run",
+      "year": 1988
+    },
+    "Judas and the Black Messiah": {
+      "id": 583406,
+      "poster": "/iIgr75GoqFxe1X5Wz9siOODGe9u.jpg",
+      "title": "Judas and the Black Messiah",
+      "year": 2021
+    },
+    "Backdraft": {
+      "id": 2924,
+      "poster": "/bymJtYNIdiAiBR1LRetaJXbfryc.jpg",
+      "title": "Backdraft",
+      "year": 1991
+    },
+    "I, Robot": {
+      "id": 2048,
+      "poster": "/efwv6F2lGaghjPpBRSINHtoEiZB.jpg",
+      "title": "I, Robot",
+      "year": 2004
+    },
+    "High Fidelity": {
+      "id": 243,
+      "poster": "/e2LZGB62GMhv3Fo8tDZjY87I81a.jpg",
+      "title": "High Fidelity",
+      "year": 2000
+    },
+    "Bridesmaids": {
+      "id": 55721,
+      "poster": "/gJtA7hYsBMQ7EM3sPBMUdBfU7a0.jpg",
+      "title": "Bridesmaids",
+      "year": 2011
+    },
+    "Flatliners": {
+      "id": 1551,
+      "poster": "/wda3j7p7YHXKpFIlSzoTCtP7myF.jpg",
+      "title": "Flatliners",
+      "year": 1990
+    },
+    "Sinners": {
+      "id": 1233413,
+      "poster": "/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+      "title": "Sinners",
+      "year": 2025
+    },
+    "Barbershop": {
+      "id": 10611,
+      "poster": "/up8cEgEsl2Dq5Djb9lMZYBK0s84.jpg",
+      "title": "Barbershop",
+      "year": 2002
+    },
+    "Running Scared": {
+      "id": 15698,
+      "poster": "/nSiRjhc7aTVPonXAhmTZAPqd2jT.jpg",
+      "title": "Running Scared",
+      "year": 1986
+    },
+    "His New Job": {
+      "id": 53402,
+      "poster": "/9Fjr5R6UymVNmd7GwImfzcw5Wbe.jpg",
+      "title": "His New Job",
+      "year": 1915
+    },
+    "Blackhat": {
+      "id": 201088,
+      "poster": "/7zu6HPnKPjNA7NuR4DGRdaH0PdX.jpg",
+      "title": "Blackhat",
+      "year": 2015
+    },
+    "The Accountant": {
+      "id": 870028,
+      "poster": "/lUvfTcOZiK0sdcX0WNLPbMyKjGm.jpg",
+      "title": "The Accountant²",
+      "year": 2025
+    },
+    "Ne Zha 2": {
+      "id": 980477,
+      "poster": "/cb5NyNrqiCNNoDkA8FfxHAtypdG.jpg",
+      "title": "Ne Zha 2",
+      "year": 2025
+    },
+    "Ne Zha": {
+      "id": 615453,
+      "poster": "/phM9bb6s9c60LA8qwsdk7U1N2cS.jpg",
+      "title": "Ne Zha",
+      "year": 2019
+    },
+    "Jurassic World Rebirth": {
+      "id": 1234821,
+      "poster": "/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
+      "title": "Jurassic World Rebirth",
+      "year": 2025
+    },
+    "Manhunter": {
+      "id": 11454,
+      "poster": "/6rb24x39vV8n5301IelC8rCPJTH.jpg",
+      "title": "Manhunter",
+      "year": 1986
+    },
+    "Chicago": {
+      "id": 1574,
+      "poster": "/3ED8cWCXY9zkx77Sd0N5qMbsdDP.jpg",
+      "title": "Chicago",
+      "year": 2002
+    },
+    "The Great Ziegfeld": {
+      "id": 43277,
+      "poster": "/rhF6vYFVCaPCs7CgDqg3n4mNod3.jpg",
+      "title": "The Great Ziegfeld",
+      "year": 1936
+    },
+    "Blues Brothers 2000": {
+      "id": 11568,
+      "poster": "/nCoY8UK2x4DWpICipL40Hg4cDmO.jpg",
+      "title": "Blues Brothers 2000",
+      "year": 1998
+    },
+    "Candyman": {
+      "id": 9529,
+      "poster": "/jQtgkgDZE7egMq532sOt83DnT83.jpg",
+      "title": "Candyman",
+      "year": 1992
+    },
+    "Final Destination Bloodlines": {
+      "id": 574475,
+      "poster": "/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg",
+      "title": "Final Destination Bloodlines",
+      "year": 2025
+    },
+    "Rookie of the Year": {
+      "id": 21845,
+      "poster": "/9If8XnhBdEbQ2Q0ggAQC92CptjU.jpg",
+      "title": "Rookie of the Year",
+      "year": 1993
+    },
+    "Straight Talk": {
+      "id": 37264,
+      "poster": "/fc9jSEvsnqdQ59Gt6mlIgb9rtto.jpg",
+      "title": "Straight Talk",
+      "year": 1992
+    },
+    "9 to 5": {
+      "id": 19494,
+      "poster": "/3nm6kWMFzxGtJb4UEuDB0lDWpcD.jpg",
+      "title": "Nine to Five",
+      "year": 1980
+    },
+    "His Girl Friday": {
+      "id": 3085,
+      "poster": "/lu86Y9zTPH3neCiUzLzHCEFHf7f.jpg",
+      "title": "His Girl Friday",
+      "year": 1940
+    },
+    "Butch Cassidy and the Sundance Kid": {
+      "id": 642,
+      "poster": "/gFmmykF1Ym3OGzENo50nZQaD1dx.jpg",
+      "title": "Butch Cassidy and the Sundance Kid",
+      "year": 1969
+    },
+    "Sleepless in Seattle": {
+      "id": 858,
+      "poster": "/jAXfku1u1uaLGh4cUmK0ESf1pPu.jpg",
+      "title": "Sleepless in Seattle",
+      "year": 1993
+    },
+    "Fallen": {
+      "id": 9411,
+      "poster": "/qo8jWar5zEyAmu59Bd8PlbS2t4R.jpg",
+      "title": "Fallen",
+      "year": 1998
+    },
+    "Tank Girl": {
+      "id": 9067,
+      "poster": "/dpX63vJd6k5fMTudLaEOw9ffX8h.jpg",
+      "title": "Tank Girl",
+      "year": 1995
+    },
+    "Wild Things": {
+      "id": 617,
+      "poster": "/wrcTDD9T7Ga5c9MW7kaOo2qwIvW.jpg",
+      "title": "Wild Things",
+      "year": 1998
+    },
+    "Mad Dog and Glory": {
+      "id": 10433,
+      "poster": "/wmgmTe9uQ5mtudN6e4IVEGvSqg1.jpg",
+      "title": "Mad Dog and Glory",
+      "year": 1993
+    },
+    "The Texas Chain Saw Massacre": {
+      "id": 30497,
+      "poster": "/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg",
+      "title": "The Texas Chain Saw Massacre",
+      "year": 1974
+    },
+    "Dressed to Kill": {
+      "id": 11033,
+      "poster": "/oy1m5dd44foNrxV8U9l6Walx82V.jpg",
+      "title": "Dressed to Kill",
+      "year": 1980
+    },
+    "Field of Dreams": {
+      "id": 2323,
+      "poster": "/oeM7nAw6FVFICwUaXKCRkDsKjqO.jpg",
+      "title": "Field of Dreams",
+      "year": 1989
+    },
+    "Notting Hill": {
+      "id": 509,
+      "poster": "/hHRIf2XHeQMbyRb3HUx19SF5Ujw.jpg",
+      "title": "Notting Hill",
+      "year": 1999
+    },
+    "Pretty Woman": {
+      "id": 114,
+      "poster": "/hVHUfT801LQATGd26VPzhorIYza.jpg",
+      "title": "Pretty Woman",
+      "year": 1990
+    },
+    "Apollo 13": {
+      "id": 568,
+      "poster": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+      "title": "Apollo 13",
+      "year": 1995
+    },
+    "Game Night": {
+      "id": 445571,
+      "poster": "/85R8LMyn9f2Lev2YPBF8Nughrkv.jpg",
+      "title": "Game Night",
+      "year": 2018
+    },
+    "Apocalypse Now": {
+      "id": 28,
+      "poster": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "title": "Apocalypse Now",
+      "year": 1979
+    },
+    "Breakfast at Tiffany's": {
+      "id": 164,
+      "poster": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+      "title": "Breakfast at Tiffany's",
+      "year": 1961
+    },
+    "The Matrix": {
+      "id": 603,
+      "poster": "/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+      "title": "The Matrix",
+      "year": 1999
+    },
+    "Mission: Impossible": {
+      "id": 954,
+      "poster": "/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
+      "title": "Mission: Impossible",
+      "year": 1996
+    },
+    "Soul Food": {
+      "id": 29461,
+      "poster": "/97t6YjxjTpwQ439MJcPiPDrMAg0.jpg",
+      "title": "Soul Food",
+      "year": 1997
+    },
+    "Porky's": {
+      "id": 10246,
+      "poster": "/AqCOt1cWfKqCepxK7LIdT812idH.jpg",
+      "title": "Porky's",
+      "year": 1981
+    },
+    "The Hustler": {
+      "id": 990,
+      "poster": "/snItsSViawjaadW9mlWUmGwR41R.jpg",
+      "title": "The Hustler",
+      "year": 1961
+    },
+    "Batman Begins": {
+      "id": 272,
+      "poster": "/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+      "title": "Batman Begins",
+      "year": 2005
+    },
+    "The Dark Knight Rises": {
+      "id": 49026,
+      "poster": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+      "title": "The Dark Knight Rises",
+      "year": 2012
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Memento": {
+      "id": 77,
+      "poster": "/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+      "title": "Memento",
+      "year": 2000
+    },
+    "Collateral": {
+      "id": 1538,
+      "poster": "/nV5316WUsVij8sVXLCF1g7TFitg.jpg",
+      "title": "Collateral",
+      "year": 2004
+    },
+    "North by Northwest": {
+      "id": 213,
+      "poster": "/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg",
+      "title": "North by Northwest",
+      "year": 1959
+    },
+    "Scarface": {
+      "id": 877,
+      "poster": "/y4E5oRiHMTFkEB12IIcpbKbKzDW.jpg",
+      "title": "Scarface",
+      "year": 1932
+    },
+    "Compulsion": {
+      "id": 35921,
+      "poster": "/fdYoG4uxbTbQ8Wv4BLxWiP7rrkm.jpg",
+      "title": "Compulsion",
+      "year": 1959
+    },
+    "Mean Girls": {
+      "id": 10625,
+      "poster": "/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg",
+      "title": "Mean Girls",
+      "year": 2004
+    },
+    "Wayne's World 2": {
+      "id": 8873,
+      "poster": "/72TBNPN06oo1myHqihwcCQVDl48.jpg",
+      "title": "Wayne's World 2",
+      "year": 1993
+    }
+  }
+}

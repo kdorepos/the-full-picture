@@ -1,0 +1,890 @@
+{
+  "slug": "the-presidential-movie-draft-with-griffin-newman-and-david-s",
+  "title": "The Presidential Movie Draft, With Griffin Newman and David Sims of 'Blank Check'",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan",
+    "Griffin Newman",
+    "David Sims"
+  ],
+  "published": "2024-11-05",
+  "runtimeMin": 114,
+  "format": "Recorded before the September 2024 debate and aired on Election Day: Sean, Amanda, and Chris draft Blank Check's Griffin Newman and David Sims into a six-round draft of movie presidents (VPs and cabinet members are eligible too), across Drama, Comedy, Biopic, Oscar Nominee, VP & Cabinet, and Wildcard.",
+  "segments": [
+    {
+      "kind": "draft",
+      "heading": "The teams",
+      "draftOf": "movie presidents",
+      "note": "presidents can be drafted more than once; each film only once",
+      "categories": [
+        "Drama",
+        "Comedy",
+        "Biopic",
+        "Oscar Nominee",
+        "VP & Cabinet",
+        "Wildcard"
+      ],
+      "teams": [
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Independence Day",
+              "year": 1996,
+              "category": "Drama",
+              "note": "Bill Pullman's President Thomas J. Whitmore, the fighter-pilot president who nukes Houston and gives the speech."
+            },
+            {
+              "title": "Mars Attacks!",
+              "year": 1996,
+              "category": "Comedy",
+              "note": "Jack Nicholson's President Dale, whose diplomacy-first read on the Martians gets him and most of Congress killed."
+            },
+            {
+              "title": "Thirteen Days",
+              "year": 2000,
+              "category": "Biopic",
+              "note": "Bruce Greenwood as JFK, which Sean rates one of the rare good screen Kennedys."
+            },
+            {
+              "title": "Lincoln",
+              "year": 2012,
+              "category": "Oscar Nominee",
+              "note": "Daniel Day-Lewis's third Oscar; the chalk No. 1, and it clears out the cabinet in the movie too."
+            },
+            {
+              "title": "The Best Man",
+              "year": 1964,
+              "category": "VP & Cabinet",
+              "note": "Gore Vidal's convention drama, with Henry Fonda as an Adlai Stevenson-ish former Secretary of State."
+            },
+            {
+              "title": "Captain America: Civil War",
+              "year": 2016,
+              "category": "Wildcard",
+              "note": "William Hurt as Secretary of State Thaddeus Ross, who later becomes president, and later still the Red Hulk."
+            }
+          ]
+        },
+        {
+          "host": "Griffin Newman",
+          "picks": [
+            {
+              "title": "Fail Safe",
+              "year": 1964,
+              "category": "Drama",
+              "note": "Henry Fonda confined to a bunker with Larry Hagman; Griffin's pick for the best presidential performance he's seen."
+            },
+            {
+              "title": "Bill & Ted's Excellent Adventure",
+              "year": 1989,
+              "category": "Comedy",
+              "note": "Robert V. Barron's time-traveled super-Lincoln, who gains a wider view of history and still goes home to get shot."
+            },
+            {
+              "title": "Secret Honor",
+              "year": 1984,
+              "category": "Biopic",
+              "note": "Robert Altman's one-man Nixon monologue, Philip Baker Hall collapsing from the inside; a loose, imagined biopic."
+            },
+            {
+              "title": "Being There",
+              "year": 1979,
+              "category": "Oscar Nominee",
+              "note": "Jack Warden's President Bobby, swayed by a gardener's platitudes; Griffin is 'mostly drafting Jack Warden's face.'"
+            },
+            {
+              "title": "Transformers",
+              "year": 2007,
+              "category": "VP & Cabinet",
+              "note": "Jon Voight as SecDef John Keller, who picks up a shotgun and storms Hoover Dam alongside the Autobots."
+            },
+            {
+              "title": "National Treasure: Book of Secrets",
+              "year": 2007,
+              "category": "Wildcard",
+              "note": "Bruce Greenwood's president, kidnapped at flashlight-point by Nicolas Cage and won over to the cause."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "The Contender",
+              "year": 2000,
+              "category": "Drama",
+              "note": "Jeff Bridges as President Jackson Evans (Obama's stated favorite screen president), ordering shark sandwiches and unraveling over missing Muenster."
+            },
+            {
+              "title": "The American President",
+              "year": 1995,
+              "category": "Comedy",
+              "note": "Michael Douglas as Andrew Shepherd, Sorkin's rare nice-guy Douglas who wins the room with one speech."
+            },
+            {
+              "title": "Oppenheimer",
+              "year": 2023,
+              "category": "Biopic",
+              "note": "Gary Oldman's one-scene Harry Truman, shot in a day between Slow Horses commitments."
+            },
+            {
+              "title": "Dave",
+              "year": 1993,
+              "category": "Oscar Nominee",
+              "note": "Kevin Kline as look-alike acting president Dave Kovic, fixing the budget and saving the shelter; nominated for screenplay."
+            },
+            {
+              "title": "Wedding Crashers",
+              "year": 2005,
+              "category": "VP & Cabinet",
+              "note": "Christopher Walken as Secretary of the Treasury William Cleary; Amanda drafts the Chesapeake lifestyle as much as the office."
+            },
+            {
+              "title": "Don't Look Up",
+              "year": 2021,
+              "category": "Wildcard",
+              "note": "Meryl Streep as President Janie Orlean, the one who leads everyone to destruction; a pointedly post-2016 pick."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Armageddon",
+              "year": 1998,
+              "category": "Drama",
+              "note": "The unnamed president who empowers NASA to send oil drillers to the asteroid, and whose speech moves Chris every time."
+            },
+            {
+              "title": "Idiocracy",
+              "year": 2006,
+              "category": "Comedy",
+              "note": "Terry Crews as President Dwayne Elizondo Mountain Dew Herbert Camacho, 'less satirical by the year.'"
+            },
+            {
+              "title": "Vice",
+              "year": 2018,
+              "category": "Biopic",
+              "note": "A Cheney biopic, but Sam Rockwell's George W. Bush is the president in it: Chris's third Bush vote of the draft."
+            },
+            {
+              "title": "Dr. Strangelove",
+              "year": 1964,
+              "category": "Oscar Nominee",
+              "note": "Peter Sellers as the bookish, ineffectual President Merkin Muffley; Sellers lost Best Actor to Rex Harrison."
+            },
+            {
+              "title": "Long Shot",
+              "year": 2019,
+              "category": "VP & Cabinet",
+              "note": "Charlize Theron as Secretary of State Charlotte Field, handling a military crisis on Molly and ending the film as president."
+            },
+            {
+              "title": "G.I. Joe: Retaliation",
+              "year": 2013,
+              "category": "Wildcard",
+              "note": "Jonathan Pryce's president, replaced by the disguised Zartan across Rise of Cobra and Retaliation."
+            }
+          ]
+        },
+        {
+          "host": "David Sims",
+          "picks": [
+            {
+              "title": "Air Force One",
+              "year": 1997,
+              "category": "Drama",
+              "note": "Harrison Ford as President James Marshall ('Get off my plane'), the saber-rattler David always wanted first."
+            },
+            {
+              "title": "Dick",
+              "year": 1999,
+              "category": "Comedy",
+              "note": "Dan Hedaya's full-bulldog Nixon; David goes all-'90s for a second Nixon."
+            },
+            {
+              "title": "Nixon",
+              "year": 1995,
+              "category": "Biopic",
+              "note": "Anthony Hopkins playing Nixon as a reptile in Oliver Stone's bloated epic, David's favorite Stone film."
+            },
+            {
+              "title": "Primary Colors",
+              "year": 1998,
+              "category": "Oscar Nominee",
+              "note": "John Travolta as Governor Jack Stanton, Mike Nichols's Clinton in all but name."
+            },
+            {
+              "title": "Head of State",
+              "year": 2003,
+              "category": "VP & Cabinet",
+              "note": "Bernie Mac as running mate Mitch Gilliam, on fire in 15 minutes of screen time."
+            },
+            {
+              "title": "Escape from New York",
+              "year": 1981,
+              "category": "Wildcard",
+              "note": "Donald Pleasence as the nameless, none-too-nice President of the United States."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Deep Impact",
+        "The Core",
+        "Apollo 13",
+        "Olympus Has Fallen",
+        "White House Down",
+        "The Candidate",
+        "Welcome to Mooseport",
+        "No Way Out",
+        "Absolute Power",
+        "The Pelican Brief",
+        "First Daughter",
+        "Chasing Liberty",
+        "Spy Kids 3-D: Game Over",
+        "Clear and Present Danger",
+        "Contact",
+        "Crimson Tide",
+        "Pixels",
+        "Jefferson in Paris",
+        "Hamilton",
+        "The Purge: Election Year",
+        "Austin Powers: The Spy Who Shagged Me",
+        "Abraham Lincoln: Vampire Hunter",
+        "Annie",
+        "Hyde Park on Hudson",
+        "The Beekeeper",
+        "Love Actually",
+        "Civil War",
+        "The Iron Lady",
+        "Red, White & Royal Blue",
+        "Meteor",
+        "Young Mr. Lincoln",
+        "Election",
+        "Lee Daniels' The Butler"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Jerry Maguire",
+        "A Few Good Men",
+        "Short Term 12",
+        "Eternals",
+        "Shang-Chi and the Legend of the Ten Rings",
+        "Doctor Strange",
+        "Doctor Strange in the Multiverse of Madness",
+        "The Fall Guy",
+        "Another Round",
+        "High and Low",
+        "Spiral: From the Book of Saw",
+        "Top Five",
+        "I Think I Love My Wife",
+        "Captain Marvel",
+        "The Incredible Hulk",
+        "Avengers: Infinity War",
+        "Avengers: Endgame",
+        "Snake Eyes: G.I. Joe Origins",
+        "Flight",
+        "Gerald's Game",
+        "Captain America: Brave New World",
+        "Bad Education"
+      ]
+    },
+    {
+      "group": "Best Actor trivia",
+      "films": [
+        "Philadelphia",
+        "In the Name of the Father",
+        "What's Love Got to Do with It",
+        "The Remains of the Day",
+        "Schindler's List",
+        "My Fair Lady"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "24",
+      "The West Wing",
+      "Veep",
+      "Scandal",
+      "Friends",
+      "Madam Secretary",
+      "Commander in Chief",
+      "House of Cards",
+      "Arthur",
+      "The Office",
+      "Peaky Blinders",
+      "Slow Horses",
+      "House",
+      "Everybody Hates Chris",
+      "Brooklyn Nine-Nine"
+    ],
+    "Stage": [
+      "Little Shop of Horrors"
+    ],
+    "Ads": [
+      "The Press Box",
+      "Starbucks Frappuccino",
+      "Stitch Fix"
+    ]
+  },
+  "spotifyEpisodeId": "7HnEJu99ACjzRfZCoZ41y2",
+  "tmdbOverrides": {
+    "Dr. Strangelove": 935,
+    "Annie": 15739,
+    "Election": 9451
+  },
+  "tmdb": {
+    "Independence Day": {
+      "id": 602,
+      "poster": "/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg",
+      "title": "Independence Day",
+      "year": 1996
+    },
+    "Mars Attacks!": {
+      "id": 75,
+      "poster": "/hll4O5vSAfnZDb6JbnP06GPtz7b.jpg",
+      "title": "Mars Attacks!",
+      "year": 1996
+    },
+    "Thirteen Days": {
+      "id": 11973,
+      "poster": "/aLx9UXH9fK2v6NDMvMyW4X88K3u.jpg",
+      "title": "Thirteen Days",
+      "year": 2000
+    },
+    "Lincoln": {
+      "id": 72976,
+      "poster": "/7mUYEkv9W3ek61eetZCfMQYVoi.jpg",
+      "title": "Lincoln",
+      "year": 2012
+    },
+    "The Best Man": {
+      "id": 37315,
+      "poster": "/k0P6pKJLUbdG4og9Kk3JNWeTtE1.jpg",
+      "title": "The Best Man",
+      "year": 1964
+    },
+    "Captain America: Civil War": {
+      "id": 271110,
+      "poster": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+      "title": "Captain America: Civil War",
+      "year": 2016
+    },
+    "Fail Safe": {
+      "id": 502,
+      "poster": "/qrsj5hort5xkLOKw9NyraGMnlVP.jpg",
+      "title": "Fail Safe",
+      "year": 1964
+    },
+    "Bill & Ted's Excellent Adventure": {
+      "id": 1648,
+      "poster": "/tV25lGWGWGEqUe3U0xjQTBgilSx.jpg",
+      "title": "Bill & Ted's Excellent Adventure",
+      "year": 1989
+    },
+    "Secret Honor": {
+      "id": 50034,
+      "poster": "/hYiadiL0xgIqpPgKj02NkYsb988.jpg",
+      "title": "Secret Honor",
+      "year": 1984
+    },
+    "Being There": {
+      "id": 10322,
+      "poster": "/2eZTUGNYijOoeq4829P6HNqyZui.jpg",
+      "title": "Being There",
+      "year": 1979
+    },
+    "Transformers": {
+      "id": 1858,
+      "poster": "/4N4sipl8T72tNE4earcctQa2Kw2.jpg",
+      "title": "Transformers",
+      "year": 2007
+    },
+    "National Treasure: Book of Secrets": {
+      "id": 6637,
+      "poster": "/xxoIBbvmTj1ZttzV439jAvoovTw.jpg",
+      "title": "National Treasure: Book of Secrets",
+      "year": 2007
+    },
+    "The Contender": {
+      "id": 6521,
+      "poster": "/duRe0F2GYHIDvqe2bqIAMP4gWeP.jpg",
+      "title": "The Contender",
+      "year": 2000
+    },
+    "The American President": {
+      "id": 9087,
+      "poster": "/yObOAYFIHXHkFPQ3jhgkN2ezaD.jpg",
+      "title": "The American President",
+      "year": 1995
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Dave": {
+      "id": 11566,
+      "poster": "/n7wQlcexeER5bW7DvV8sji2vRRH.jpg",
+      "title": "Dave",
+      "year": 1993
+    },
+    "Wedding Crashers": {
+      "id": 9522,
+      "poster": "/lFM3lk2zVzC1YFnKm0r6LbFPyRu.jpg",
+      "title": "Wedding Crashers",
+      "year": 2005
+    },
+    "Don't Look Up": {
+      "id": 646380,
+      "poster": "/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+      "title": "Don't Look Up",
+      "year": 2021
+    },
+    "Armageddon": {
+      "id": 95,
+      "poster": "/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg",
+      "title": "Armageddon",
+      "year": 1998
+    },
+    "Idiocracy": {
+      "id": 7512,
+      "poster": "/6cTHBq49ApwsJaRr3ojlY1cmiXk.jpg",
+      "title": "Idiocracy",
+      "year": 2006
+    },
+    "Vice": {
+      "id": 429197,
+      "poster": "/1gCab6rNv1r6V64cwsU4oEr649Y.jpg",
+      "title": "Vice",
+      "year": 2018
+    },
+    "Dr. Strangelove": {
+      "id": 935,
+      "poster": "/6x7MzQ6BOMlRzam1StcmPO9v61g.jpg",
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "year": 1964
+    },
+    "Long Shot": {
+      "id": 459992,
+      "poster": "/1F9AItQ6fhrfhBVQlmC8ReOQAFG.jpg",
+      "title": "Long Shot",
+      "year": 2019
+    },
+    "G.I. Joe: Retaliation": {
+      "id": 72559,
+      "poster": "/3rWIZMzTKcCtV0eHJ70Z4Ru659f.jpg",
+      "title": "G.I. Joe: Retaliation",
+      "year": 2013
+    },
+    "Air Force One": {
+      "id": 9772,
+      "poster": "/evO1iENjLpUnbwjnt5XK85jRYob.jpg",
+      "title": "Air Force One",
+      "year": 1997
+    },
+    "Dick": {
+      "id": 16406,
+      "poster": "/aBG4XoK5xkujl4crloPs6bStl4m.jpg",
+      "title": "Dick",
+      "year": 1999
+    },
+    "Nixon": {
+      "id": 10858,
+      "poster": "/cz2MTGr2wpDZLirgV2rGHBdA2t3.jpg",
+      "title": "Nixon",
+      "year": 1995
+    },
+    "Primary Colors": {
+      "id": 9440,
+      "poster": "/RXEgVSEBkMnV8LkEGkBpuz3mkD.jpg",
+      "title": "Primary Colors",
+      "year": 1998
+    },
+    "Head of State": {
+      "id": 9776,
+      "poster": "/5itBve85q2oXmiQ3SkgCJa5Asxq.jpg",
+      "title": "Head of State",
+      "year": 2003
+    },
+    "Escape from New York": {
+      "id": 1103,
+      "poster": "/vH9llaphjAssRGi0k7e75tD40Ce.jpg",
+      "title": "Escape from New York",
+      "year": 1981
+    },
+    "Deep Impact": {
+      "id": 8656,
+      "poster": "/a3vQS7JKqlOb3MdVJHuTCP9s7Mg.jpg",
+      "title": "Deep Impact",
+      "year": 1998
+    },
+    "The Core": {
+      "id": 9341,
+      "poster": "/iMPR3OFhKNVvJw4eZoRhf9RzfHJ.jpg",
+      "title": "The Core",
+      "year": 2003
+    },
+    "Apollo 13": {
+      "id": 568,
+      "poster": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+      "title": "Apollo 13",
+      "year": 1995
+    },
+    "Olympus Has Fallen": {
+      "id": 117263,
+      "poster": "/u3GTFGwesNBNd0t1hiLaEk1iqZU.jpg",
+      "title": "Olympus Has Fallen",
+      "year": 2013
+    },
+    "White House Down": {
+      "id": 117251,
+      "poster": "/6TeIVKPw7nXXWy2zKmDmlnSwzb7.jpg",
+      "title": "White House Down",
+      "year": 2013
+    },
+    "The Candidate": {
+      "id": 21711,
+      "poster": "/6zcDSOe1akUXsc2Q1APfchKcVaI.jpg",
+      "title": "The Candidate",
+      "year": 1972
+    },
+    "Welcome to Mooseport": {
+      "id": 16784,
+      "poster": "/xesXaNCtdGUO5FsMDYooPQAMHxQ.jpg",
+      "title": "Welcome to Mooseport",
+      "year": 2004
+    },
+    "No Way Out": {
+      "id": 10083,
+      "poster": "/93CzsBvRhg035yvQosRtSsTL19v.jpg",
+      "title": "No Way Out",
+      "year": 1987
+    },
+    "Absolute Power": {
+      "id": 66,
+      "poster": "/izvyt3cxlilhbYwybTOteDWqf99.jpg",
+      "title": "Absolute Power",
+      "year": 1997
+    },
+    "The Pelican Brief": {
+      "id": 9944,
+      "poster": "/7B1HS0SqfJR1jbeHS6V0ZWdzLXP.jpg",
+      "title": "The Pelican Brief",
+      "year": 1993
+    },
+    "First Daughter": {
+      "id": 13969,
+      "poster": "/iUZ3hDMo8SGY2IoujCKwVt8ukm9.jpg",
+      "title": "First Daughter",
+      "year": 2004
+    },
+    "Chasing Liberty": {
+      "id": 14844,
+      "poster": "/aGh5zpJSuxcx4lzFFbZ2QyY8wQP.jpg",
+      "title": "Chasing Liberty",
+      "year": 2004
+    },
+    "Spy Kids 3-D: Game Over": {
+      "id": 12279,
+      "poster": "/buA8dN4zLNr0dYBeKfHfMnEfdLE.jpg",
+      "title": "Spy Kids 3-D: Game Over",
+      "year": 2003
+    },
+    "Clear and Present Danger": {
+      "id": 9331,
+      "poster": "/6xTM8FPxrLRYwz6I3fqtwh7xybs.jpg",
+      "title": "Clear and Present Danger",
+      "year": 1994
+    },
+    "Contact": {
+      "id": 686,
+      "poster": "/bCpMIywuNZeWt3i5UMLEIc0VSwM.jpg",
+      "title": "Contact",
+      "year": 1997
+    },
+    "Crimson Tide": {
+      "id": 8963,
+      "poster": "/21nqRJ6ofEgVvEl68J4O9V26Xzy.jpg",
+      "title": "Crimson Tide",
+      "year": 1995
+    },
+    "Pixels": {
+      "id": 257344,
+      "poster": "/d26S5EfVXLNxRXqyFy1yyl3qRq3.jpg",
+      "title": "Pixels",
+      "year": 2015
+    },
+    "Jefferson in Paris": {
+      "id": 87729,
+      "poster": "/vcZCvsm920LoNDb7pMibJkxIE4n.jpg",
+      "title": "Jefferson in Paris",
+      "year": 1995
+    },
+    "Hamilton": {
+      "id": 556574,
+      "poster": "/h1B7tW0t399VDjAcWJh8m87469b.jpg",
+      "title": "Hamilton",
+      "year": 2025
+    },
+    "The Purge: Election Year": {
+      "id": 316727,
+      "poster": "/gg7tlp45xqGWMra0sqQVPvybje2.jpg",
+      "title": "The Purge: Election Year",
+      "year": 2016
+    },
+    "Austin Powers: The Spy Who Shagged Me": {
+      "id": 817,
+      "poster": "/jiF7UShERJFn5RtgfBK2lIJrOTc.jpg",
+      "title": "Austin Powers: The Spy Who Shagged Me",
+      "year": 1999
+    },
+    "Abraham Lincoln: Vampire Hunter": {
+      "id": 72331,
+      "poster": "/qv8deK0ZmutAuEpejruQKApIy6r.jpg",
+      "title": "Abraham Lincoln: Vampire Hunter",
+      "year": 2012
+    },
+    "Annie": {
+      "id": 15739,
+      "poster": "/xopqD99S1GqQOG8UAeSElsX9MeP.jpg",
+      "title": "Annie",
+      "year": 1982
+    },
+    "Hyde Park on Hudson": {
+      "id": 87504,
+      "poster": "/fPqQ4lM1f4bkbpJ9J5Gt8QJRY5D.jpg",
+      "title": "Hyde Park on Hudson",
+      "year": 2012
+    },
+    "The Beekeeper": {
+      "id": 866398,
+      "poster": "/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
+      "title": "The Beekeeper",
+      "year": 2024
+    },
+    "Love Actually": {
+      "id": 508,
+      "poster": "/7QPeVsr9rcFU9Gl90yg0gTOTpVv.jpg",
+      "title": "Love Actually",
+      "year": 2003
+    },
+    "Civil War": {
+      "id": 929590,
+      "poster": "/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+      "title": "Civil War",
+      "year": 2024
+    },
+    "The Iron Lady": {
+      "id": 71688,
+      "poster": "/fx7wpKXOht7WOkeOslvErbrf69Q.jpg",
+      "title": "The Iron Lady",
+      "year": 2011
+    },
+    "Red, White & Royal Blue": {
+      "id": 930094,
+      "poster": "/dD3vhyDRCCT90hf4rldHU6Wu3Va.jpg",
+      "title": "Red, White & Royal Blue",
+      "year": 2023
+    },
+    "Meteor": {
+      "id": 40160,
+      "poster": "/xMUuS1KFHRTFSf3PAY2tsbBdqkL.jpg",
+      "title": "Meteor",
+      "year": 1979
+    },
+    "Young Mr. Lincoln": {
+      "id": 43838,
+      "poster": "/gVHbi2AZfWsZB10FJcwaFV59kIo.jpg",
+      "title": "Young Mr. Lincoln",
+      "year": 1939
+    },
+    "Election": {
+      "id": 9451,
+      "poster": "/fbo0IYzBc32dD5SjFzKIgfp4O4F.jpg",
+      "title": "Election",
+      "year": 1999
+    },
+    "Lee Daniels' The Butler": null,
+    "Jerry Maguire": {
+      "id": 9390,
+      "poster": "/lABvGN7fDk5ifnwZoxij6G96t2w.jpg",
+      "title": "Jerry Maguire",
+      "year": 1996
+    },
+    "A Few Good Men": {
+      "id": 881,
+      "poster": "/rLOk4z9zL1tTukIYV56P94aZXKk.jpg",
+      "title": "A Few Good Men",
+      "year": 1992
+    },
+    "Short Term 12": {
+      "id": 169813,
+      "poster": "/iRYip0xx8sxM1TvgDQdK2YKV5pw.jpg",
+      "title": "Short Term 12",
+      "year": 2013
+    },
+    "Eternals": {
+      "id": 524434,
+      "poster": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+      "title": "Eternals",
+      "year": 2021
+    },
+    "Shang-Chi and the Legend of the Ten Rings": {
+      "id": 566525,
+      "poster": "/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "year": 2021
+    },
+    "Doctor Strange": {
+      "id": 284052,
+      "poster": "/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg",
+      "title": "Doctor Strange",
+      "year": 2016
+    },
+    "Doctor Strange in the Multiverse of Madness": {
+      "id": 453395,
+      "poster": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "year": 2022
+    },
+    "The Fall Guy": {
+      "id": 746036,
+      "poster": "/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg",
+      "title": "The Fall Guy",
+      "year": 2024
+    },
+    "Another Round": {
+      "id": 580175,
+      "poster": "/aDcIt4NHURLKnAEu7gow51Yd00Q.jpg",
+      "title": "Another Round",
+      "year": 2020
+    },
+    "High and Low": {
+      "id": 12493,
+      "poster": "/tgNjemQPG96uIezpiUiXFcer5ga.jpg",
+      "title": "High and Low",
+      "year": 1963
+    },
+    "Spiral: From the Book of Saw": {
+      "id": 602734,
+      "poster": "/cTvSDfBuXTZTdRCNduGMANd7VEP.jpg",
+      "title": "Spiral: From the Book of Saw",
+      "year": 2021
+    },
+    "Top Five": {
+      "id": 284296,
+      "poster": "/nM5zWv6zpWHsrKNMrPKg23UHZCA.jpg",
+      "title": "Top Five",
+      "year": 2014
+    },
+    "I Think I Love My Wife": {
+      "id": 14434,
+      "poster": "/lJHg7ExSTszC8ItsufcmSPeN0vW.jpg",
+      "title": "I Think I Love My Wife",
+      "year": 2007
+    },
+    "Captain Marvel": {
+      "id": 299537,
+      "poster": "/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+      "title": "Captain Marvel",
+      "year": 2019
+    },
+    "The Incredible Hulk": {
+      "id": 1724,
+      "poster": "/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
+      "title": "The Incredible Hulk",
+      "year": 2008
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Snake Eyes: G.I. Joe Origins": {
+      "id": 568620,
+      "poster": "/uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg",
+      "title": "Snake Eyes: G.I. Joe Origins",
+      "year": 2021
+    },
+    "Flight": {
+      "id": 87502,
+      "poster": "/tFsHDNclXoCKy2xMxskzXXMaFJS.jpg",
+      "title": "Flight",
+      "year": 2012
+    },
+    "Gerald's Game": {
+      "id": 343674,
+      "poster": "/32dippiypDdaKv7XFEfUlQ7kPup.jpg",
+      "title": "Gerald's Game",
+      "year": 2017
+    },
+    "Captain America: Brave New World": {
+      "id": 822119,
+      "poster": "/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
+      "title": "Captain America: Brave New World",
+      "year": 2025
+    },
+    "Bad Education": {
+      "id": 530723,
+      "poster": "/gizz5FphOtfSnLaGpRALOZgILd5.jpg",
+      "title": "Bad Education",
+      "year": 2019
+    },
+    "Philadelphia": {
+      "id": 9800,
+      "poster": "/tFe5Yoo5zT495okA49bq1vPPkiV.jpg",
+      "title": "Philadelphia",
+      "year": 1993
+    },
+    "In the Name of the Father": {
+      "id": 7984,
+      "poster": "/3NcIkKxaO2SmRVsG1v50XhtmL0f.jpg",
+      "title": "In the Name of the Father",
+      "year": 1993
+    },
+    "What's Love Got to Do with It": {
+      "id": 15765,
+      "poster": "/btC4819GhihmkCELqO3qgepNGos.jpg",
+      "title": "What's Love Got to Do with It",
+      "year": 1993
+    },
+    "The Remains of the Day": {
+      "id": 1245,
+      "poster": "/uDGDtqSvuch324WnM7Ukdp1bCAQ.jpg",
+      "title": "The Remains of the Day",
+      "year": 1993
+    },
+    "Schindler's List": {
+      "id": 424,
+      "poster": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+      "title": "Schindler's List",
+      "year": 1993
+    },
+    "My Fair Lady": {
+      "id": 11113,
+      "poster": "/bTXVc29lGSNclf94VIZ49W4gGKl.jpg",
+      "title": "My Fair Lady",
+      "year": 1964
+    }
+  }
+}

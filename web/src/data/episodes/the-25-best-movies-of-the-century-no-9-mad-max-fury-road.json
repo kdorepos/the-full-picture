@@ -1,0 +1,535 @@
+{
+  "slug": "the-25-best-movies-of-the-century-no-9-mad-max-fury-road",
+  "title": "The 25 Best Movies of the Century: No. 9 - 'Mad Max: Fury Road'",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2025-10-14",
+  "runtimeMin": 47,
+  "format": "The 25-for-25 countdown reaches No. 9. Sean Fennessey and Amanda Dobbins talk through George Miller's 'Mad Max: Fury Road': the craft, the 2015 Oscar run, and where it ranks among the century's action films.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "No. 9 on the countdown",
+      "note": "a 25-for-25 special conversation",
+      "films": [
+        {
+          "title": "Mad Max: Fury Road",
+          "year": 2015,
+          "note": "George Miller's fourth Mad Max film, conceived in 1978 and released 28 years after 'Beyond Thunderdome.' The hosts call it the best action filmmaking of the century so far: a chase that runs one way and back over a single day, told almost as silent film, with Tom Hardy and Charlize Theron carrying it through faces and glances. Sean rewatched the black-and-chrome edition; both point to the practical stunt work fused with heavy CGI, Junkie XL's score, and the guitar-wielding Doof Warrior. It made about $380 million and won six Oscars below the line while losing Best Picture to 'Spotlight.'"
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The Mad Max saga",
+      "films": [
+        "Mad Max",
+        "The Road Warrior",
+        "Mad Max Beyond Thunderdome",
+        "Furiosa: A Mad Max Saga"
+      ]
+    },
+    {
+      "group": "Charlize Theron's run",
+      "films": [
+        "Monster",
+        "North Country",
+        "In the Valley of Elah",
+        "Hancock",
+        "Young Adult",
+        "Snow White and the Huntsman",
+        "Prometheus",
+        "A Million Ways to Die in the West",
+        "Dark Places",
+        "Atomic Blonde",
+        "The Old Guard",
+        "The Old Guard 2",
+        "Tully",
+        "Long Shot",
+        "Bombshell",
+        "Fast X",
+        "Doctor Strange in the Multiverse of Madness",
+        "The Italian Job",
+        "The Yards",
+        "The Devil's Advocate",
+        "Two Days in the Valley"
+      ]
+    },
+    {
+      "group": "George Miller, elsewhere",
+      "films": [
+        "The Witches of Eastwick",
+        "Lorenzo's Oil",
+        "Babe",
+        "Babe: Pig in the City",
+        "Happy Feet",
+        "Happy Feet Two",
+        "3,000 Years of Longing"
+      ]
+    },
+    {
+      "group": "The 2015 field",
+      "films": [
+        "The Revenant",
+        "Spotlight",
+        "Ex Machina",
+        "The Big Short",
+        "Bridge of Spies",
+        "Brooklyn",
+        "The Martian"
+      ]
+    },
+    {
+      "group": "Action comps and recommendations",
+      "films": [
+        "John Wick",
+        "Wick Is Pain",
+        "Mission: Impossible - Fallout",
+        "Edge of Tomorrow",
+        "Casino Royale",
+        "Skyfall",
+        "Black Panther",
+        "Crouching Tiger, Hidden Dragon",
+        "RRR",
+        "Top Gun: Maverick",
+        "The Warriors",
+        "Apocalypse Now",
+        "Dune",
+        "Dune: Part Two",
+        "Arrival",
+        "Sicario",
+        "Snowpiercer",
+        "Planet of the Apes",
+        "Death Proof"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Pulp Fiction",
+        "Gemini Man",
+        "The Hobbit",
+        "Napoleon",
+        "The Odyssey"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Barry"
+    ],
+    "Books": [
+      "Blood, Sweat, and Chrome"
+    ],
+    "Podcasts": [
+      "The Prestige TV Podcast"
+    ],
+    "Ads": [
+      "LinkedIn Ads",
+      "Netflix",
+      "State Farm",
+      "Boar's Head",
+      "Starbucks Frappuccino"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Road Warrior": 8810,
+    "Monster": 504,
+    "Napoleon": 42536,
+    "The Hobbit": 49051,
+    "Two Days in the Valley": 9401,
+    "3,000 Years of Longing": 556694
+  },
+  "tmdb": {
+    "Mad Max: Fury Road": {
+      "id": 76341,
+      "poster": "/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+      "title": "Mad Max: Fury Road",
+      "year": 2015
+    },
+    "Mad Max": {
+      "id": 9659,
+      "poster": "/5LrI4GiCSrChgkdskVZiwv643Kg.jpg",
+      "title": "Mad Max",
+      "year": 1979
+    },
+    "The Road Warrior": {
+      "id": 8810,
+      "poster": "/l1KVEhkGDpWRzQ0VqIhZqDDuOim.jpg",
+      "title": "Mad Max 2",
+      "year": 1981
+    },
+    "Mad Max Beyond Thunderdome": {
+      "id": 9355,
+      "poster": "/jJlxcEVVUHnrUeEkQ0077VeHQpb.jpg",
+      "title": "Mad Max Beyond Thunderdome",
+      "year": 1985
+    },
+    "Furiosa: A Mad Max Saga": {
+      "id": 786892,
+      "poster": "/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
+      "title": "Furiosa: A Mad Max Saga",
+      "year": 2024
+    },
+    "Monster": {
+      "id": 504,
+      "poster": "/sWPKG1GX0woLNBuvDZkwZC8Q3Ub.jpg",
+      "title": "Monster",
+      "year": 2003
+    },
+    "North Country": {
+      "id": 9701,
+      "poster": "/upxUN4zmX79o49mBW9htKZDeNq7.jpg",
+      "title": "North Country",
+      "year": 2005
+    },
+    "In the Valley of Elah": {
+      "id": 6973,
+      "poster": "/ufCkeypovY01Dm123I2aPvGUA5H.jpg",
+      "title": "In the Valley of Elah",
+      "year": 2007
+    },
+    "Hancock": {
+      "id": 8960,
+      "poster": "/7DyuV2G0hLEqHeueDfOqhZ2DVut.jpg",
+      "title": "Hancock",
+      "year": 2008
+    },
+    "Young Adult": {
+      "id": 57157,
+      "poster": "/4tGMz5xUs9sk8X9B28G6UalHK1d.jpg",
+      "title": "Young Adult",
+      "year": 2011
+    },
+    "Snow White and the Huntsman": {
+      "id": 58595,
+      "poster": "/8HUa5kRubYbnAD5UVpnhTGGgMTW.jpg",
+      "title": "Snow White and the Huntsman",
+      "year": 2012
+    },
+    "Prometheus": {
+      "id": 70981,
+      "poster": "/qsYQflQhOuhDpQ0W2aOcwqgDAeI.jpg",
+      "title": "Prometheus",
+      "year": 2012
+    },
+    "A Million Ways to Die in the West": {
+      "id": 188161,
+      "poster": "/n9SicwnoNGWBwE75le27sUhCLMm.jpg",
+      "title": "A Million Ways to Die in the West",
+      "year": 2014
+    },
+    "Dark Places": {
+      "id": 182560,
+      "poster": "/acJXtT4ZX7nWIhOaCfSAGBxFw71.jpg",
+      "title": "Dark Places",
+      "year": 2015
+    },
+    "Atomic Blonde": {
+      "id": 341013,
+      "poster": "/kV9R5h0Yct1kR8Hf8sJ1nX0Vz4x.jpg",
+      "title": "Atomic Blonde",
+      "year": 2017
+    },
+    "The Old Guard": {
+      "id": 547016,
+      "poster": "/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg",
+      "title": "The Old Guard",
+      "year": 2020
+    },
+    "The Old Guard 2": {
+      "id": 846422,
+      "poster": "/wqfu3bPLJaEWJVk3QOm0rKhxf1A.jpg",
+      "title": "The Old Guard 2",
+      "year": 2025
+    },
+    "Tully": {
+      "id": 400579,
+      "poster": "/wDI4YXBXolMYi15Qx2kClvdSERM.jpg",
+      "title": "Tully",
+      "year": 2018
+    },
+    "Long Shot": {
+      "id": 459992,
+      "poster": "/1F9AItQ6fhrfhBVQlmC8ReOQAFG.jpg",
+      "title": "Long Shot",
+      "year": 2019
+    },
+    "Bombshell": {
+      "id": 525661,
+      "poster": "/gbPfvwBqbiHpQkYZQvVwB6MVauV.jpg",
+      "title": "Bombshell",
+      "year": 2019
+    },
+    "Fast X": {
+      "id": 385687,
+      "poster": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+      "title": "Fast X",
+      "year": 2023
+    },
+    "Doctor Strange in the Multiverse of Madness": {
+      "id": 453395,
+      "poster": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "year": 2022
+    },
+    "The Italian Job": {
+      "id": 9654,
+      "poster": "/eSkjK4kctyrWpFhxl35GPvSs6tI.jpg",
+      "title": "The Italian Job",
+      "year": 2003
+    },
+    "The Yards": {
+      "id": 19457,
+      "poster": "/AtwXtU8CDWvVADgOwRkOSRZFPWI.jpg",
+      "title": "The Yards",
+      "year": 2000
+    },
+    "The Devil's Advocate": {
+      "id": 1813,
+      "poster": "/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg",
+      "title": "The Devil's Advocate",
+      "year": 1997
+    },
+    "Two Days in the Valley": {
+      "id": 9401,
+      "poster": "/dKmOINYPpg2W8SMRicnFdusqk1x.jpg",
+      "title": "2 Days in the Valley",
+      "year": 1996
+    },
+    "The Witches of Eastwick": {
+      "id": 6069,
+      "poster": "/p5OivnZuXfy5E3BKKFIeSidmwys.jpg",
+      "title": "The Witches of Eastwick",
+      "year": 1987
+    },
+    "Lorenzo's Oil": {
+      "id": 2007,
+      "poster": "/suRf59zRu1h8Zq4Gxekn6UiLGaM.jpg",
+      "title": "Lorenzo's Oil",
+      "year": 1992
+    },
+    "Babe": {
+      "id": 9598,
+      "poster": "/zKuQMtnbVTz9DsOnOJmlW71v4qH.jpg",
+      "title": "Babe",
+      "year": 1995
+    },
+    "Babe: Pig in the City": {
+      "id": 9447,
+      "poster": "/glO6LcTWUZcbxWT2SB4eRDnFSsP.jpg",
+      "title": "Babe: Pig in the City",
+      "year": 1998
+    },
+    "Happy Feet": {
+      "id": 9836,
+      "poster": "/za41IHkj6LnkilfTzv5B2qmthKD.jpg",
+      "title": "Happy Feet",
+      "year": 2006
+    },
+    "Happy Feet Two": {
+      "id": 65759,
+      "poster": "/2gWiQ4mn85jcXtREVePlVViupeV.jpg",
+      "title": "Happy Feet Two",
+      "year": 2011
+    },
+    "3,000 Years of Longing": {
+      "id": 556694,
+      "poster": "/nS7DNl4A7XnDncZX70UJ8ALAihF.jpg",
+      "title": "Three Thousand Years of Longing",
+      "year": 2022
+    },
+    "The Revenant": {
+      "id": 281957,
+      "poster": "/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",
+      "title": "The Revenant",
+      "year": 2015
+    },
+    "Spotlight": {
+      "id": 314365,
+      "poster": "/8DPGG400FgaFWaqcv11n8mRd2NG.jpg",
+      "title": "Spotlight",
+      "year": 2015
+    },
+    "Ex Machina": {
+      "id": 264660,
+      "poster": "/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
+      "title": "Ex Machina",
+      "year": 2015
+    },
+    "The Big Short": {
+      "id": 318846,
+      "poster": "/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg",
+      "title": "The Big Short",
+      "year": 2015
+    },
+    "Bridge of Spies": {
+      "id": 296098,
+      "poster": "/fmOOjHAQzxr0c1sfcY4qkiSRBH6.jpg",
+      "title": "Bridge of Spies",
+      "year": 2015
+    },
+    "Brooklyn": {
+      "id": 167073,
+      "poster": "/cs7W8j5lI7qzRW6tKSj9p1Q0Ze7.jpg",
+      "title": "Brooklyn",
+      "year": 2015
+    },
+    "The Martian": {
+      "id": 286217,
+      "poster": "/fASz8A0yFE3QB6LgGoOfwvFSseV.jpg",
+      "title": "The Martian",
+      "year": 2015
+    },
+    "John Wick": {
+      "id": 245891,
+      "poster": "/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
+      "title": "John Wick",
+      "year": 2014
+    },
+    "Wick Is Pain": {
+      "id": 1472668,
+      "poster": "/ctZ9bjmCYyfFt3cUepc9axr0zHs.jpg",
+      "title": "Wick Is Pain",
+      "year": 2025
+    },
+    "Mission: Impossible - Fallout": {
+      "id": 353081,
+      "poster": "/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+      "title": "Mission: Impossible - Fallout",
+      "year": 2018
+    },
+    "Edge of Tomorrow": {
+      "id": 137113,
+      "poster": "/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
+      "title": "Edge of Tomorrow",
+      "year": 2014
+    },
+    "Casino Royale": {
+      "id": 36557,
+      "poster": "/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
+      "title": "Casino Royale",
+      "year": 2006
+    },
+    "Skyfall": {
+      "id": 37724,
+      "poster": "/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
+      "title": "Skyfall",
+      "year": 2012
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "Crouching Tiger, Hidden Dragon": {
+      "id": 146,
+      "poster": "/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg",
+      "title": "Crouching Tiger, Hidden Dragon",
+      "year": 2000
+    },
+    "RRR": {
+      "id": 579974,
+      "poster": "/u0XUBNQWlOvrh0Gd97ARGpIkL0.jpg",
+      "title": "RRR",
+      "year": 2022
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "The Warriors": {
+      "id": 11474,
+      "poster": "/d6YZpBq4BhQr1K985J3CuL1cA8J.jpg",
+      "title": "The Warriors",
+      "year": 1979
+    },
+    "Apocalypse Now": {
+      "id": 28,
+      "poster": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "title": "Apocalypse Now",
+      "year": 1979
+    },
+    "Dune": {
+      "id": 438631,
+      "poster": "/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "title": "Dune",
+      "year": 2021
+    },
+    "Dune: Part Two": {
+      "id": 693134,
+      "poster": "/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+      "title": "Dune: Part Two",
+      "year": 2024
+    },
+    "Arrival": {
+      "id": 329865,
+      "poster": "/3b4fRUYXFaGVDqkb0ikjB4cn7ub.jpg",
+      "title": "Arrival",
+      "year": 2016
+    },
+    "Sicario": {
+      "id": 273481,
+      "poster": "/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+      "title": "Sicario",
+      "year": 2015
+    },
+    "Snowpiercer": {
+      "id": 110415,
+      "poster": "/kw6YQudA0TMcNmGUGy5XIw7zbnV.jpg",
+      "title": "Snowpiercer",
+      "year": 2013
+    },
+    "Planet of the Apes": {
+      "id": 871,
+      "poster": "/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+      "title": "Planet of the Apes",
+      "year": 1968
+    },
+    "Death Proof": {
+      "id": 1991,
+      "poster": "/vtu6H4NWnQVqEp3aanUq3hNeeot.jpg",
+      "title": "Death Proof",
+      "year": 2007
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "Gemini Man": {
+      "id": 453405,
+      "poster": "/uTALxjQU8e1lhmNjP9nnJ3t2pRU.jpg",
+      "title": "Gemini Man",
+      "year": 2019
+    },
+    "The Hobbit": {
+      "id": 49051,
+      "poster": "/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg",
+      "title": "The Hobbit: An Unexpected Journey",
+      "year": 2012
+    },
+    "Napoleon": {
+      "id": 42536,
+      "poster": "/kwudEzOQcihoNhCYZPhT9XqU4hG.jpg",
+      "title": "Napoleon",
+      "year": 1927
+    },
+    "The Odyssey": {
+      "id": 1368337,
+      "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "title": "The Odyssey",
+      "year": 2026
+    }
+  },
+  "spotifyEpisodeId": "5cvKNSvoCmyL4XySQk8dMC"
+}

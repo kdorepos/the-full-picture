@@ -1,0 +1,791 @@
+{
+  "slug": "the-brad-pitt-and-george-clooney-movie-draft",
+  "title": "The Brad Pitt and George Clooney Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan",
+    "Zach Baron"
+  ],
+  "published": "2024-09-20",
+  "runtimeMin": 99,
+  "format": "GQ's Zach Baron reports back from profiling Clooney and Pitt in the south of France, then joins a four-person snake draft that splits their filmographies across six categories.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Two of two",
+      "note": "Zach Baron on the GQ shoot and the movie-star question",
+      "films": [
+        {
+          "title": "Wolfs",
+          "year": 2024,
+          "note": "The reason for the reunion: Clooney and Pitt as aging fixers, opening in theaters the week the episode airs."
+        },
+        {
+          "title": "F1",
+          "year": 2025,
+          "note": "Pitt's other Apple deal, negotiated for a theatrical release."
+        },
+        {
+          "title": "Bullet Train",
+          "year": 2022,
+          "note": "Cited as Pitt still picking provocative roles into his late 50s."
+        },
+        {
+          "title": "Ad Astra",
+          "year": 2019
+        },
+        {
+          "title": "War Machine",
+          "year": 2017,
+          "note": "Pitt's Netflix film, Fennessey's marker for a movie star making one for a streamer."
+        },
+        {
+          "title": "If",
+          "year": 2024,
+          "note": "Pitt voices Keith, a silent invisible character, a running joke about what counts as acting."
+        },
+        {
+          "title": "The Peacemaker",
+          "year": 1997,
+          "note": "The action swing that reset Clooney's trajectory."
+        },
+        {
+          "title": "Three Kings",
+          "year": 1999,
+          "note": "The David O. Russell shoot Clooney still talks about."
+        },
+        {
+          "title": "12 Years a Slave",
+          "year": 2013,
+          "note": "Pitt appears as the benevolent builder; also a Plan B production."
+        },
+        {
+          "title": "The Departed",
+          "year": 2006,
+          "note": "Pitt produced but was ruled off the Best Picture stage in favor of Graham King."
+        }
+      ]
+    },
+    {
+      "kind": "draft",
+      "heading": "The rosters",
+      "draftOf": "the movies of Brad Pitt and George Clooney",
+      "categories": [
+        "Blockbuster",
+        "Oscar Nominee",
+        "Brad and George Together",
+        "Directed or Produced By",
+        "Supporting Role",
+        "Wildcard"
+      ],
+      "teams": [
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Se7en",
+              "year": 1995,
+              "category": "Blockbuster",
+              "note": "The Fincher thriller that made Pitt a star."
+            },
+            {
+              "title": "Argo",
+              "year": 2012,
+              "category": "Oscar Nominee",
+              "note": "Best Picture, produced by Clooney."
+            },
+            {
+              "title": "Ocean's Eleven",
+              "year": 2001,
+              "category": "Brad and George Together",
+              "note": "First overall pick, for the Rusty-and-Danny scene, the peak of their pairing."
+            },
+            {
+              "title": "Moonlight",
+              "year": 2016,
+              "category": "Directed or Produced By",
+              "note": "Plan B's Best Picture; Fennessey calls it the company's high-water mark."
+            },
+            {
+              "title": "Babylon",
+              "year": 2022,
+              "category": "Supporting Role",
+              "note": "Pitt's most self-referential performance, per the table."
+            },
+            {
+              "title": "The Assassination of Jesse James by the Coward Robert Ford",
+              "year": 2007,
+              "category": "Wildcard"
+            }
+          ]
+        },
+        {
+          "host": "Zach Baron",
+          "picks": [
+            {
+              "title": "Inglourious Basterds",
+              "year": 2009,
+              "category": "Blockbuster",
+              "note": "Aldo Raine and that final line."
+            },
+            {
+              "title": "Michael Clayton",
+              "year": 2007,
+              "category": "Oscar Nominee",
+              "note": "First-ever draft pick, and by table consensus the high-water mark of Clooney's filmography."
+            },
+            {
+              "title": "Ocean's Thirteen",
+              "year": 2007,
+              "category": "Brad and George Together"
+            },
+            {
+              "title": "Killing Them Softly",
+              "year": 2012,
+              "category": "Directed or Produced By",
+              "note": "Pitt playing an East Coast tough; the Gandolfini bar scene."
+            },
+            {
+              "title": "True Romance",
+              "year": 1993,
+              "category": "Supporting Role"
+            },
+            {
+              "title": "Out of Sight",
+              "year": 1998,
+              "category": "Wildcard",
+              "note": "The film that made Clooney a star; the trunk-scene chemistry with Jennifer Lopez."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "World War Z",
+              "year": 2013,
+              "category": "Blockbuster",
+              "note": "The set pieces survive the famously rewritten production."
+            },
+            {
+              "title": "Once Upon a Time... in Hollywood",
+              "year": 2019,
+              "category": "Oscar Nominee",
+              "note": "Taken over Amanda's Moneyball, to her lasting annoyance."
+            },
+            {
+              "title": "Burn After Reading",
+              "year": 2008,
+              "category": "Brad and George Together",
+              "note": "A favorite Pitt comic performance, in a movie where the two may never share a shot."
+            },
+            {
+              "title": "The Lost City of Z",
+              "year": 2017,
+              "category": "Directed or Produced By",
+              "note": "Plan B; Pitt was set to star before James Gray recast."
+            },
+            {
+              "title": "Hail, Caesar!",
+              "year": 2016,
+              "category": "Supporting Role",
+              "note": "Clooney as the dim, kidnapped Hollywood star."
+            },
+            {
+              "title": "Fight Club",
+              "year": 1999,
+              "category": "Wildcard"
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Mr. & Mrs. Smith",
+              "year": 2005,
+              "category": "Blockbuster",
+              "note": "A turning point in Pitt's career and personal life."
+            },
+            {
+              "title": "Moneyball",
+              "year": 2011,
+              "category": "Oscar Nominee",
+              "note": "The performance that unifies every register of Pitt."
+            },
+            {
+              "title": "Ocean's Twelve",
+              "year": 2004,
+              "category": "Brad and George Together",
+              "note": "Her favorite of the trilogy."
+            },
+            {
+              "title": "The Big Short",
+              "year": 2015,
+              "category": "Directed or Produced By",
+              "note": "Pitt nominated for producing; barely in it, but it clears a roster slot."
+            },
+            {
+              "title": "Thelma & Louise",
+              "year": 1991,
+              "category": "Supporting Role",
+              "note": "The Pitt breakthrough."
+            },
+            {
+              "title": "Fantastic Mr. Fox",
+              "year": 2009,
+              "category": "Wildcard",
+              "note": "Clooney's voice work; her Clooney representation on the board."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Gravity",
+        "Snatch",
+        "12 Monkeys",
+        "O Brother, Where Art Thou?",
+        "Good Night, and Good Luck.",
+        "Up in the Air",
+        "The Descendants",
+        "The Ides of March",
+        "The Tree of Life",
+        "The Counselor",
+        "The Monuments Men",
+        "Confessions of a Dangerous Mind",
+        "Troy",
+        "Interview with the Vampire",
+        "Legends of the Fall",
+        "Intolerable Cruelty",
+        "The Curious Case of Benjamin Button",
+        "The Thin Red Line",
+        "The Midnight Sky",
+        "The Tender Bar",
+        "Batman & Robin"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Also mentioned",
+      "films": [
+        "Megamind",
+        "Deadpool 2",
+        "Spy Kids",
+        "The Boys in the Boat",
+        "Ticket to Paradise",
+        "A Few Good Men",
+        "Anyone but You",
+        "Zero Dark Thirty",
+        "21 Bridges",
+        "Richard Jewell",
+        "Juror #2",
+        "Jurassic World",
+        "Silver Linings Playbook",
+        "American Hustle",
+        "Amsterdam",
+        "I Heart Huckabees",
+        "Flirting with Disaster",
+        "Blonde",
+        "The Flash",
+        "The Killer",
+        "Nightbitch",
+        "Beetlejuice Beetlejuice",
+        "The Substance"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "12 Monkeys": 63,
+    "I Heart Huckabees": 1599
+  },
+  "excluded": {
+    "TV": [
+      "ER",
+      "General Hospital",
+      "The Morning Show",
+      "Emily in Paris",
+      "The Sex Lives of College Girls",
+      "Squid Game",
+      "Disclaimer"
+    ],
+    "Ads": [
+      "Mint Mobile",
+      "The Town"
+    ]
+  },
+  "tmdb": {
+    "Wolfs": {
+      "id": 877817,
+      "poster": "/vOX1Zng472PC2KnS0B9nRfM8aaZ.jpg",
+      "title": "Wolfs",
+      "year": 2024
+    },
+    "F1": {
+      "id": 911430,
+      "poster": "/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
+      "title": "F1",
+      "year": 2025
+    },
+    "Bullet Train": {
+      "id": 718930,
+      "poster": "/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg",
+      "title": "Bullet Train",
+      "year": 2022
+    },
+    "Ad Astra": {
+      "id": 419704,
+      "poster": "/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg",
+      "title": "Ad Astra",
+      "year": 2019
+    },
+    "War Machine": {
+      "id": 354287,
+      "poster": "/bU2Q2rCH5VFrJNKSyx6wSmQZFsX.jpg",
+      "title": "War Machine",
+      "year": 2017
+    },
+    "If": {
+      "id": 639720,
+      "poster": "/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg",
+      "title": "IF",
+      "year": 2024
+    },
+    "The Peacemaker": {
+      "id": 6623,
+      "poster": "/hc3p6pvIrfO4AmrVLb6qTviOwW2.jpg",
+      "title": "The Peacemaker",
+      "year": 1997
+    },
+    "Three Kings": {
+      "id": 6415,
+      "poster": "/fClJQW8xn8wHOFqoA4jUn0PZh1f.jpg",
+      "title": "Three Kings",
+      "year": 1999
+    },
+    "12 Years a Slave": {
+      "id": 76203,
+      "poster": "/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+      "title": "12 Years a Slave",
+      "year": 2013
+    },
+    "The Departed": {
+      "id": 1422,
+      "poster": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+      "title": "The Departed",
+      "year": 2006
+    },
+    "Se7en": {
+      "id": 807,
+      "poster": "/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+      "title": "Se7en",
+      "year": 1995
+    },
+    "Argo": {
+      "id": 68734,
+      "poster": "/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
+      "title": "Argo",
+      "year": 2012
+    },
+    "Ocean's Eleven": {
+      "id": 161,
+      "poster": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+      "title": "Ocean's Eleven",
+      "year": 2001
+    },
+    "Moonlight": {
+      "id": 376867,
+      "poster": "/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+      "title": "Moonlight",
+      "year": 2016
+    },
+    "Babylon": {
+      "id": 615777,
+      "poster": "/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+      "title": "Babylon",
+      "year": 2022
+    },
+    "The Assassination of Jesse James by the Coward Robert Ford": {
+      "id": 4512,
+      "poster": "/2d1S6fJS80fvseg6mJE8eq5o7Kx.jpg",
+      "title": "The Assassination of Jesse James by the Coward Robert Ford",
+      "year": 2007
+    },
+    "Inglourious Basterds": {
+      "id": 16869,
+      "poster": "/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg",
+      "title": "Inglourious Basterds",
+      "year": 2009
+    },
+    "Michael Clayton": {
+      "id": 4566,
+      "poster": "/hhkW4yVIGo8Bee3UITKvqOvhNMG.jpg",
+      "title": "Michael Clayton",
+      "year": 2007
+    },
+    "Ocean's Thirteen": {
+      "id": 298,
+      "poster": "/pBsZs4zYUiUTemqbikTZ76iQRaU.jpg",
+      "title": "Ocean's Thirteen",
+      "year": 2007
+    },
+    "Killing Them Softly": {
+      "id": 64689,
+      "poster": "/heaz45kpFa4Oa7iLis0OBas68ls.jpg",
+      "title": "Killing Them Softly",
+      "year": 2012
+    },
+    "True Romance": {
+      "id": 319,
+      "poster": "/39lXk6ud6KiJgGbbWI2PUKS7y2.jpg",
+      "title": "True Romance",
+      "year": 1993
+    },
+    "Out of Sight": {
+      "id": 1389,
+      "poster": "/v49q7AMR3pB4M762woWB1NYMCLF.jpg",
+      "title": "Out of Sight",
+      "year": 1998
+    },
+    "World War Z": {
+      "id": 72190,
+      "poster": "/aCnVdvExw6UWSeQfr0tUH3jr4qG.jpg",
+      "title": "World War Z",
+      "year": 2013
+    },
+    "Once Upon a Time... in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Burn After Reading": {
+      "id": 4944,
+      "poster": "/jdwSkQu3XirmX18MNj8CqFWsCk.jpg",
+      "title": "Burn After Reading",
+      "year": 2008
+    },
+    "The Lost City of Z": {
+      "id": 314095,
+      "poster": "/8SxHVNk6tqXYwygmDzz1YuJEm2J.jpg",
+      "title": "The Lost City of Z",
+      "year": 2017
+    },
+    "Hail, Caesar!": {
+      "id": 270487,
+      "poster": "/qvecZ7WyemhGW8fuJ8190p472jQ.jpg",
+      "title": "Hail, Caesar!",
+      "year": 2016
+    },
+    "Fight Club": {
+      "id": 550,
+      "poster": "/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+      "title": "Fight Club",
+      "year": 1999
+    },
+    "Mr. & Mrs. Smith": {
+      "id": 787,
+      "poster": "/kjD700RtyhveN3ZbOnSvUSne0Qj.jpg",
+      "title": "Mr. & Mrs. Smith",
+      "year": 2005
+    },
+    "Moneyball": {
+      "id": 60308,
+      "poster": "/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+      "title": "Moneyball",
+      "year": 2011
+    },
+    "Ocean's Twelve": {
+      "id": 163,
+      "poster": "/pE5anFf7nf6ah7V3VRezQ1KSovi.jpg",
+      "title": "Ocean's Twelve",
+      "year": 2004
+    },
+    "The Big Short": {
+      "id": 318846,
+      "poster": "/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg",
+      "title": "The Big Short",
+      "year": 2015
+    },
+    "Thelma & Louise": {
+      "id": 1541,
+      "poster": "/vbRAGLzbC75QfiKD1lKjmnQGuph.jpg",
+      "title": "Thelma & Louise",
+      "year": 1991
+    },
+    "Fantastic Mr. Fox": {
+      "id": 10315,
+      "poster": "/hhhJN8aJdTlzGmARCbwWflHXhwI.jpg",
+      "title": "Fantastic Mr. Fox",
+      "year": 2009
+    },
+    "Gravity": {
+      "id": 49047,
+      "poster": "/kZ2nZw8D681aphje8NJi8EfbL1U.jpg",
+      "title": "Gravity",
+      "year": 2013
+    },
+    "Snatch": {
+      "id": 107,
+      "poster": "/kJZoAHq1SLDdWjeNGtlHAnGpmFV.jpg",
+      "title": "Snatch",
+      "year": 2000
+    },
+    "12 Monkeys": {
+      "id": 63,
+      "poster": "/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg",
+      "title": "Twelve Monkeys",
+      "year": 1995
+    },
+    "O Brother, Where Art Thou?": {
+      "id": 134,
+      "poster": "/s9foMAcLg8GEzzQzer04qOGdD1k.jpg",
+      "title": "O Brother, Where Art Thou?",
+      "year": 2000
+    },
+    "Good Night, and Good Luck.": {
+      "id": 3291,
+      "poster": "/w4QSEno2xxHqMtSr3mPUhJpO3F2.jpg",
+      "title": "Good Night, and Good Luck.",
+      "year": 2005
+    },
+    "Up in the Air": {
+      "id": 22947,
+      "poster": "/useGH8nfwlaHK44IWEZdUYJOE2N.jpg",
+      "title": "Up in the Air",
+      "year": 2009
+    },
+    "The Descendants": {
+      "id": 65057,
+      "poster": "/8cDq5UlOPYeKm39okALCEOsZPxk.jpg",
+      "title": "The Descendants",
+      "year": 2011
+    },
+    "The Ides of March": {
+      "id": 10316,
+      "poster": "/w8t4UnJnC24S9ygoaFgmMzRbErd.jpg",
+      "title": "The Ides of March",
+      "year": 2011
+    },
+    "The Tree of Life": {
+      "id": 8967,
+      "poster": "/l8cwuB5WJSoj4uMAsnzuHBOMaSJ.jpg",
+      "title": "The Tree of Life",
+      "year": 2011
+    },
+    "The Counselor": {
+      "id": 109091,
+      "poster": "/aNiLkGnzVb5CorZHKk16w9S4COt.jpg",
+      "title": "The Counselor",
+      "year": 2013
+    },
+    "The Monuments Men": {
+      "id": 152760,
+      "poster": "/wiWAg4mKV2S4vImPxsPRIdj2R2B.jpg",
+      "title": "The Monuments Men",
+      "year": 2014
+    },
+    "Confessions of a Dangerous Mind": {
+      "id": 4912,
+      "poster": "/mM58ABMRzwn5zVx6BS7IiNK0j3F.jpg",
+      "title": "Confessions of a Dangerous Mind",
+      "year": 2002
+    },
+    "Troy": {
+      "id": 652,
+      "poster": "/a07wLy4ONfpsjnBqMwhlWTJTcm.jpg",
+      "title": "Troy",
+      "year": 2004
+    },
+    "Interview with the Vampire": {
+      "id": 628,
+      "poster": "/2162lAT2MP36MyJd2sttmj5du5T.jpg",
+      "title": "Interview with the Vampire",
+      "year": 1994
+    },
+    "Legends of the Fall": {
+      "id": 4476,
+      "poster": "/t1KPGlW0UGd0m515LPQmk2F4nu1.jpg",
+      "title": "Legends of the Fall",
+      "year": 1994
+    },
+    "Intolerable Cruelty": {
+      "id": 11775,
+      "poster": "/7K8hDwOWsZv0MluyrB8nWlhJOgB.jpg",
+      "title": "Intolerable Cruelty",
+      "year": 2003
+    },
+    "The Curious Case of Benjamin Button": {
+      "id": 4922,
+      "poster": "/26wEWZYt6yJkwRVkjcbwJEFh9IS.jpg",
+      "title": "The Curious Case of Benjamin Button",
+      "year": 2008
+    },
+    "The Thin Red Line": {
+      "id": 8741,
+      "poster": "/seMydAaoxQP6F0xbE1jOcTmn5Jr.jpg",
+      "title": "The Thin Red Line",
+      "year": 1998
+    },
+    "The Midnight Sky": {
+      "id": 614911,
+      "poster": "/l8lXesOLXKS0VYjzWNZN6gDxv2F.jpg",
+      "title": "The Midnight Sky",
+      "year": 2020
+    },
+    "The Tender Bar": {
+      "id": 727293,
+      "poster": "/m6Ej3F4tYTOHD26fvX1zN9bcEUg.jpg",
+      "title": "The Tender Bar",
+      "year": 2021
+    },
+    "Batman & Robin": {
+      "id": 415,
+      "poster": "/i7hEUpDuMN2LOrCEifFyGSHZQSY.jpg",
+      "title": "Batman & Robin",
+      "year": 1997
+    },
+    "Megamind": {
+      "id": 38055,
+      "poster": "/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg",
+      "title": "Megamind",
+      "year": 2010
+    },
+    "Deadpool 2": {
+      "id": 383498,
+      "poster": "/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+      "title": "Deadpool 2",
+      "year": 2018
+    },
+    "Spy Kids": {
+      "id": 10054,
+      "poster": "/j3rUkHIAAoKr6jU30q3Db4fcIF9.jpg",
+      "title": "Spy Kids",
+      "year": 2001
+    },
+    "The Boys in the Boat": {
+      "id": 823452,
+      "poster": "/ncJMztHprw3gLRAnDjNnnT23CIt.jpg",
+      "title": "The Boys in the Boat",
+      "year": 2023
+    },
+    "Ticket to Paradise": {
+      "id": 800939,
+      "poster": "/1tzERH50P5c2mFWtLbgixzLZS1L.jpg",
+      "title": "Ticket to Paradise",
+      "year": 2022
+    },
+    "A Few Good Men": {
+      "id": 881,
+      "poster": "/rLOk4z9zL1tTukIYV56P94aZXKk.jpg",
+      "title": "A Few Good Men",
+      "year": 1992
+    },
+    "Anyone but You": {
+      "id": 1072790,
+      "poster": "/5qHoazZiaLe7oFBok7XlUhg96f2.jpg",
+      "title": "Anyone but You",
+      "year": 2023
+    },
+    "Zero Dark Thirty": {
+      "id": 97630,
+      "poster": "/wNSdSSxowM3WIqmPJNg3RagYbwP.jpg",
+      "title": "Zero Dark Thirty",
+      "year": 2012
+    },
+    "21 Bridges": {
+      "id": 535292,
+      "poster": "/kDlmrGZROewneCoSwPjKx6Qfown.jpg",
+      "title": "21 Bridges",
+      "year": 2019
+    },
+    "Richard Jewell": {
+      "id": 292011,
+      "poster": "/5Lgkm8jt4roAFPZQ52fKMhVmDaZ.jpg",
+      "title": "Richard Jewell",
+      "year": 2019
+    },
+    "Juror #2": {
+      "id": 1106739,
+      "poster": "/ugQkpGajKFQ8eyOEhGheR0HfWQ.jpg",
+      "title": "Juror #2",
+      "year": 2024
+    },
+    "Jurassic World": {
+      "id": 135397,
+      "poster": "/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
+      "title": "Jurassic World",
+      "year": 2015
+    },
+    "Silver Linings Playbook": {
+      "id": 82693,
+      "poster": "/fhHB1uvfFKKFbj6bTKE8xdtsjKi.jpg",
+      "title": "Silver Linings Playbook",
+      "year": 2012
+    },
+    "American Hustle": {
+      "id": 168672,
+      "poster": "/z6O1KDhfWDTm5ZBr6Ovr0eg8LqO.jpg",
+      "title": "American Hustle",
+      "year": 2013
+    },
+    "Amsterdam": {
+      "id": 664469,
+      "poster": "/6sJcVzGCwrDCBMV0DU6eRzA2UxM.jpg",
+      "title": "Amsterdam",
+      "year": 2022
+    },
+    "I Heart Huckabees": {
+      "id": 1599,
+      "poster": "/h27ytqXyOrAB6KmRx2abOp8p2W.jpg",
+      "title": "I ♥ Huckabees",
+      "year": 2004
+    },
+    "Flirting with Disaster": {
+      "id": 2074,
+      "poster": "/uIcgXQYm2eqguUaYdbolQ4LWpMy.jpg",
+      "title": "Flirting with Disaster",
+      "year": 1996
+    },
+    "Blonde": {
+      "id": 301502,
+      "poster": "/mEeHqtnWOR44vLCutEFku2WK6ou.jpg",
+      "title": "Blonde",
+      "year": 2022
+    },
+    "The Flash": {
+      "id": 298618,
+      "poster": "/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+      "title": "The Flash",
+      "year": 2023
+    },
+    "The Killer": {
+      "id": 800158,
+      "poster": "/ipkcgvN7h3yZnbYowthloHLKsf4.jpg",
+      "title": "The Killer",
+      "year": 2023
+    },
+    "Nightbitch": {
+      "id": 728949,
+      "poster": "/h49Pie8gM2jK0UHGFRjfPB3YTd.jpg",
+      "title": "Nightbitch",
+      "year": 2024
+    },
+    "Beetlejuice Beetlejuice": {
+      "id": 917496,
+      "poster": "/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg",
+      "title": "Beetlejuice Beetlejuice",
+      "year": 2024
+    },
+    "The Substance": {
+      "id": 933260,
+      "poster": "/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+      "title": "The Substance",
+      "year": 2024
+    }
+  },
+  "spotifyEpisodeId": "4ij0WQdBiOiA5odd4HEP6g"
+}

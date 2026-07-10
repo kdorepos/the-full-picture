@@ -1,0 +1,1023 @@
+{
+  "slug": "the-1996-movie-draft",
+  "title": "The 1996 Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2024-10-08",
+  "runtimeMin": 93,
+  "format": "Sean, Chris, and Amanda snake-draft the movies of 1996, filling six category slots each (drama, comedy, Oscar nominee, action/horror/thriller, blockbuster, and wild card) before a long run through the year's honorable mentions.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Setting the table: 1996",
+      "note": "why the year matters",
+      "films": [
+        {
+          "title": "Matilda",
+          "year": 1996,
+          "note": "Amanda, at 12, front row center. Out the same day as Emma."
+        },
+        {
+          "title": "Emma",
+          "year": 1996,
+          "note": "the grown-up counterpart to Matilda; the two Amandas."
+        },
+        {
+          "title": "The Birdcage",
+          "year": 1996,
+          "note": "a studio farce that showed Sean what the tone could do."
+        },
+        {
+          "title": "Secrets & Lies",
+          "year": 1996,
+          "note": "the Mike Leigh Oscar film Sean skipped at 14 and came around to."
+        },
+        {
+          "title": "Shine",
+          "year": 1996,
+          "note": "the Oscar travesty Sean stayed mad about, piano and all."
+        },
+        {
+          "title": "Evita",
+          "year": 1996,
+          "note": "Amanda saw it in theaters for her girl; nobody drafted it."
+        },
+        {
+          "title": "Kids in the Hall: Brain Candy",
+          "year": 1996,
+          "note": "small movie, huge indie-rock soundtrack."
+        }
+      ]
+    },
+    {
+      "kind": "draft",
+      "heading": "The teams",
+      "draftOf": "the movies of 1996",
+      "categories": [
+        "Drama",
+        "Comedy",
+        "Oscar Nominee",
+        "Action / Horror / Thriller",
+        "Blockbuster",
+        "Wild Card"
+      ],
+      "teams": [
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Jerry Maguire",
+              "year": 1996,
+              "category": "Drama",
+              "note": "taken as drama over rom-com or sports movie, a story of a man broken down and rebuilt."
+            },
+            {
+              "title": "Happy Gilmore",
+              "year": 1996,
+              "category": "Comedy",
+              "note": "a comedy Sean has loved since 14 and still does."
+            },
+            {
+              "title": "That Thing You Do!",
+              "year": 1996,
+              "category": "Oscar Nominee",
+              "note": "Tom Hanks' directorial debut; the title song was the Oscar nod. Sean claims 50-plus viewings."
+            },
+            {
+              "title": "The Rock",
+              "year": 1996,
+              "category": "Action / Horror / Thriller",
+              "note": "the best action movie of Michael Bay's career; Cage post-Oscar, Connery in prime form."
+            },
+            {
+              "title": "Independence Day",
+              "year": 1996,
+              "category": "Blockbuster",
+              "note": "the biggest blockbuster of the year, $306M and the White House blown up."
+            },
+            {
+              "title": "Swingers",
+              "year": 1996,
+              "category": "Wild Card",
+              "note": "Favreau's spec-script breakout; a time capsule whose 'cool' guys read as losers with age."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Trainspotting",
+              "year": 1996,
+              "category": "Drama",
+              "note": "hit Chris's world hard: the soundtrack, and the origin myth of The Watch."
+            },
+            {
+              "title": "Tin Cup",
+              "year": 1996,
+              "category": "Comedy",
+              "note": "Ron Shelton's fallen golfer; a favorite Costner with a tournament-length last hour."
+            },
+            {
+              "title": "Fargo",
+              "year": 1996,
+              "category": "Oscar Nominee",
+              "note": "a five-star Coens film shot by Deakins, and, unexpectedly, a franchise."
+            },
+            {
+              "title": "Primal Fear",
+              "year": 1996,
+              "category": "Action / Horror / Thriller",
+              "note": "an Edward Norton debut and one of the all-time twists."
+            },
+            {
+              "title": "Twister",
+              "year": 1996,
+              "category": "Blockbuster",
+              "note": "the last blockbuster on the board; Sean and Amanda prefer the remake."
+            },
+            {
+              "title": "Lone Star",
+              "year": 1996,
+              "category": "Wild Card",
+              "note": "John Sayles' Texas mystery, the one film Chris rewatched: a season of The Wire in one movie."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Romeo + Juliet",
+              "year": 1996,
+              "category": "Drama",
+              "note": "Baz Luhrmann's stylized version, the Leo-and-Radiohead moment, a defining '90s film."
+            },
+            {
+              "title": "The First Wives Club",
+              "year": 1996,
+              "category": "Comedy",
+              "note": "Hawn, Midler, Keaton; $181M and 'You Don't Own Me.' Directed by Police Academy's Hugh Wilson."
+            },
+            {
+              "title": "The English Patient",
+              "year": 1996,
+              "category": "Oscar Nominee",
+              "note": "the Best Picture winner Elaine Benes hated. Amanda loves it, Kristin Scott Thomas doing Herodotus."
+            },
+            {
+              "title": "Scream",
+              "year": 1996,
+              "category": "Action / Horror / Thriller",
+              "note": "watched scared in Aunt Betty's basement; the movie that restarted horror."
+            },
+            {
+              "title": "Mission: Impossible",
+              "year": 1996,
+              "category": "Blockbuster",
+              "note": "De Palma, Cruise; nobody expected the franchise it became."
+            },
+            {
+              "title": "Bottle Rocket",
+              "year": 1996,
+              "category": "Wild Card",
+              "note": "Wes Anderson's debut and the Wilson brothers; prettier than true millennial pink."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Honorable mentions",
+      "note": "the undrafted rundown",
+      "films": [
+        {
+          "title": "The Birdcage",
+          "year": 1996,
+          "note": "top-ten grosser and Chris's first Mike Nichols; $124M domestic."
+        },
+        {
+          "title": "A Time to Kill",
+          "year": 1996,
+          "note": "another Matthew McConaughey breakout."
+        },
+        {
+          "title": "Ransom",
+          "year": 1996,
+          "note": "Ron Howard and peak Mel Gibson; $136M, outgrossed The Rock."
+        },
+        {
+          "title": "101 Dalmatians",
+          "year": 1996,
+          "note": "the Glenn Close live-action version; huge, and Sean doesn't like it."
+        },
+        {
+          "title": "Eraser",
+          "year": 1996,
+          "note": "Schwarzenegger; not very good, but Oscar-nominated."
+        },
+        {
+          "title": "Phenomenon",
+          "year": 1996,
+          "note": "one of two Travolta films that year; a hard pass."
+        },
+        {
+          "title": "Michael",
+          "year": 1996,
+          "note": "the other Travolta; okay at best."
+        },
+        {
+          "title": "From Dusk Till Dawn",
+          "year": 1996,
+          "note": "Chris's runner-up wild card: Rodriguez, Tarantino and Clooney, vampires at the halfway point."
+        },
+        {
+          "title": "Kingpin",
+          "year": 1996,
+          "note": "maybe everyone's favorite Farrelly brothers movie."
+        },
+        {
+          "title": "Bound",
+          "year": 1996,
+          "note": "the Wachowskis' thriller debut."
+        },
+        {
+          "title": "City Hall",
+          "year": 1996,
+          "note": "Harold Becker; the Pacino stairwell speech that gets better every rewatch."
+        },
+        {
+          "title": "Sleepers",
+          "year": 1996,
+          "note": "a big deal that year; Chris read the book first."
+        },
+        {
+          "title": "The Cable Guy",
+          "year": 1996,
+          "note": "trashed on release, but the kids who kept rewatching it came around."
+        },
+        {
+          "title": "Citizen Ruth",
+          "year": 1996,
+          "note": "Alexander Payne's underseen first film."
+        },
+        {
+          "title": "Waiting for Guffman",
+          "year": 1996,
+          "note": "the Christopher Guest movie; absolutely hilarious."
+        },
+        {
+          "title": "Flirting with Disaster",
+          "year": 1996,
+          "note": "David O. Russell's very funny ensemble comedy."
+        },
+        {
+          "title": "Walking and Talking",
+          "year": 1996,
+          "note": "Nicole Holofcener's second feature."
+        },
+        {
+          "title": "Broken Arrow",
+          "year": 1996,
+          "note": "John Woo; Travolta as a mind-broken stealth-bomber pilot."
+        },
+        {
+          "title": "Breaking the Waves",
+          "year": 1996,
+          "note": "the strafing arthouse film Sean wasn't ready for at 14."
+        },
+        {
+          "title": "Black Sheep",
+          "year": 1996,
+          "note": "the Chris Farley vehicle."
+        },
+        {
+          "title": "Sling Blade",
+          "year": 1996,
+          "note": "the Billy Bob Thornton one they forgot to mention until the end."
+        },
+        {
+          "title": "Bordello of Blood",
+          "year": 1996,
+          "note": "Tales from the Crypt Presents, with Dennis Miller pre-heel-turn."
+        },
+        {
+          "title": "Barb Wire",
+          "year": 1996,
+          "note": "Pamela Anderson; imagine being 14."
+        },
+        {
+          "title": "The Craft",
+          "year": 1996,
+          "note": "Amanda was more Harriet the Spy than goth at the time."
+        },
+        {
+          "title": "Harriet the Spy",
+          "year": 1996,
+          "note": "the age-appropriate alternative to The Craft."
+        },
+        {
+          "title": "Big Night",
+          "year": 1996,
+          "note": "the Stanley Tucci / Campbell Scott two-hander."
+        },
+        {
+          "title": "She's the One",
+          "year": 1996,
+          "note": "Ed Burns; good Tom Petty soundtrack."
+        },
+        {
+          "title": "Courage Under Fire",
+          "year": 1996,
+          "note": "big Matt Damon, awesome Denzel."
+        },
+        {
+          "title": "Welcome to the Dollhouse",
+          "year": 1996,
+          "note": "Todd Solondz's right turn in narrative storytelling."
+        },
+        {
+          "title": "Dead Man",
+          "year": 1996,
+          "note": "Jim Jarmusch's black-and-white Western."
+        },
+        {
+          "title": "Marvin's Room",
+          "year": 1996,
+          "note": "Oscar-nominated, and more of the Leo of it all."
+        },
+        {
+          "title": "The Trigger Effect",
+          "year": 1996,
+          "note": "David Koepp's Lord-of-the-Flies-in-the-suburbs blackout thriller."
+        },
+        {
+          "title": "The Funeral",
+          "year": 1996,
+          "note": "Abel Ferrara, starring Christopher Walken."
+        },
+        {
+          "title": "When We Were Kings",
+          "year": 1996,
+          "note": "the Ali documentary Chris eyed for the Oscar slot."
+        },
+        {
+          "title": "The Long Kiss Goodnight",
+          "year": 1996,
+          "note": "Renny Harlin; a Shane Black spec, then the priciest ever bought."
+        },
+        {
+          "title": "Up Close & Personal",
+          "year": 1996,
+          "note": "Redford and Pfeiffer; the source of John Gregory Dunne's book Monster."
+        },
+        {
+          "title": "Girl 6",
+          "year": 1996,
+          "note": "Spike Lee, and a stated sexual awakening."
+        },
+        {
+          "title": "Heaven's Prisoners",
+          "year": 1996,
+          "note": "Alec Baldwin, cited fondly."
+        },
+        {
+          "title": "Fear",
+          "year": 1996,
+          "note": "Wahlberg and Reese Witherspoon; the roller-coaster scene lives on."
+        },
+        {
+          "title": "Set It Off",
+          "year": 1996,
+          "note": "F. Gary Gray; another one Sean really likes."
+        },
+        {
+          "title": "Stealing Beauty",
+          "year": 1996,
+          "note": "Bertolucci; the peak of Liv Tyler's year, with Rachel Weisz."
+        },
+        {
+          "title": "The Mirror Has Two Faces",
+          "year": 1996,
+          "note": "the Streisand film; 'I Finally Found Someone' in the song race."
+        },
+        {
+          "title": "One Fine Day",
+          "year": 1996,
+          "note": "one of the era's most bitter romantic comedies."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Other years, in passing",
+      "films": [
+        "Clueless",
+        "Sense and Sensibility",
+        "Pulp Fiction",
+        "Reservoir Dogs",
+        "Heat",
+        "Apollo 13",
+        "Batman Forever",
+        "Jurassic Park",
+        "Urban Legend",
+        "I Know What You Did Last Summer",
+        "Mixed Nuts",
+        "Sea of Love",
+        "Land and Freedom",
+        "Whisper of the Heart",
+        "Guarding Tess",
+        "Blast from the Past",
+        "Dazed and Confused",
+        "The Wild Bunch",
+        "Richard Jewell",
+        "Venom: The Last Dance",
+        "Joker: Folie à Deux",
+        "A Complete Unknown",
+        "Saturday Night",
+        "The Grand Budapest Hotel"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV movies": [
+      "The Late Shift",
+      "Don't Look Back"
+    ],
+    "TV": [
+      "Seinfeld",
+      "The Americans",
+      "Fargo (series)",
+      "The Wire",
+      "Supermarket Sweep",
+      "Mayor of Kingstown"
+    ],
+    "Podcasts": [
+      "The Watch",
+      "The Rewatchables"
+    ],
+    "Ads": [
+      "Ringer WNBA Show",
+      "Mint Mobile"
+    ]
+  },
+  "tmdbOverrides": {
+    "I Know What You Did Last Summer": 3597
+  },
+  "tmdb": {
+    "Matilda": {
+      "id": 10830,
+      "poster": "/wYoDpWInsBEVSmWStnRH06ddoyk.jpg",
+      "title": "Matilda",
+      "year": 1996
+    },
+    "Emma": {
+      "id": 3573,
+      "poster": "/fM5goQ6c3uq3hzNJj3ZAFfTFkX9.jpg",
+      "title": "Emma",
+      "year": 1996
+    },
+    "The Birdcage": {
+      "id": 11000,
+      "poster": "/4IpC35BoA5aRO0Q1DpFGJ8iKKYq.jpg",
+      "title": "The Birdcage",
+      "year": 1996
+    },
+    "Secrets & Lies": {
+      "id": 11159,
+      "poster": "/zQBuRQ3hrLhkEsXcxteUxuxLrvs.jpg",
+      "title": "Secrets & Lies",
+      "year": 1996
+    },
+    "Shine": {
+      "id": 7863,
+      "poster": "/cbmThowj2XAW7lKlMAXmnhZvjGI.jpg",
+      "title": "Shine",
+      "year": 1996
+    },
+    "Evita": {
+      "id": 8818,
+      "poster": "/mVdQatilUGMtB6sV4FXA7O473UD.jpg",
+      "title": "Evita",
+      "year": 1996
+    },
+    "Kids in the Hall: Brain Candy": {
+      "id": 18414,
+      "poster": "/j7LYkIa2KC98ZqZmFIjEmtvlv87.jpg",
+      "title": "Kids in the Hall: Brain Candy",
+      "year": 1996
+    },
+    "Jerry Maguire": {
+      "id": 9390,
+      "poster": "/lABvGN7fDk5ifnwZoxij6G96t2w.jpg",
+      "title": "Jerry Maguire",
+      "year": 1996
+    },
+    "Happy Gilmore": {
+      "id": 9614,
+      "poster": "/4RnCeRzvI1xk5tuNWjpDKzSnJDk.jpg",
+      "title": "Happy Gilmore",
+      "year": 1996
+    },
+    "That Thing You Do!": {
+      "id": 9591,
+      "poster": "/9RmZu33qHdyZFGLfhEOmkTjdNEu.jpg",
+      "title": "That Thing You Do!",
+      "year": 1996
+    },
+    "The Rock": {
+      "id": 9802,
+      "poster": "/eBcoxveWzzXQrCrwWMGAROcqgpP.jpg",
+      "title": "The Rock",
+      "year": 1996
+    },
+    "Independence Day": {
+      "id": 602,
+      "poster": "/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg",
+      "title": "Independence Day",
+      "year": 1996
+    },
+    "Swingers": {
+      "id": 10218,
+      "poster": "/rRjWk68kU3a2so4lgr3TKB7Y5vA.jpg",
+      "title": "Swingers",
+      "year": 1996
+    },
+    "Trainspotting": {
+      "id": 627,
+      "poster": "/1jUC02qsqS2NxBMFarbIhcQtazV.jpg",
+      "title": "Trainspotting",
+      "year": 1996
+    },
+    "Tin Cup": {
+      "id": 10478,
+      "poster": "/rB7OvMmjcBFoogleORaUqrRgp8g.jpg",
+      "title": "Tin Cup",
+      "year": 1996
+    },
+    "Fargo": {
+      "id": 275,
+      "poster": "/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+      "title": "Fargo",
+      "year": 1996
+    },
+    "Primal Fear": {
+      "id": 1592,
+      "poster": "/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
+      "title": "Primal Fear",
+      "year": 1996
+    },
+    "Twister": {
+      "id": 664,
+      "poster": "/d4ie3f6QTvNw40V770Uzo87SDZn.jpg",
+      "title": "Twister",
+      "year": 1996
+    },
+    "Lone Star": {
+      "id": 26748,
+      "poster": "/lBxY8znsRoqa9Dy2NCe8I6GPsRm.jpg",
+      "title": "Lone Star",
+      "year": 1996
+    },
+    "Romeo + Juliet": {
+      "id": 454,
+      "poster": "/eLf4jclPijOqfEp6bDAmezRFxk5.jpg",
+      "title": "Romeo + Juliet",
+      "year": 1996
+    },
+    "The First Wives Club": {
+      "id": 2925,
+      "poster": "/2ApifgYnfdJUSmCKzTBrWOYYWsn.jpg",
+      "title": "The First Wives Club",
+      "year": 1996
+    },
+    "The English Patient": {
+      "id": 409,
+      "poster": "/8eHHqMg8qEYtVw8LQLygsHXSR2q.jpg",
+      "title": "The English Patient",
+      "year": 1996
+    },
+    "Scream": {
+      "id": 4232,
+      "poster": "/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+      "title": "Scream",
+      "year": 1996
+    },
+    "Mission: Impossible": {
+      "id": 954,
+      "poster": "/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
+      "title": "Mission: Impossible",
+      "year": 1996
+    },
+    "Bottle Rocket": {
+      "id": 13685,
+      "poster": "/wOPiNYt9V3Cbr9Izeddwj7nU8RT.jpg",
+      "title": "Bottle Rocket",
+      "year": 1996
+    },
+    "A Time to Kill": {
+      "id": 1645,
+      "poster": "/w8UCke112E9jrhjKcwG32kyhTx5.jpg",
+      "title": "A Time to Kill",
+      "year": 1996
+    },
+    "Ransom": {
+      "id": 3595,
+      "poster": "/4nmOA5ZOY2VlHzwSlKY03sF2JUz.jpg",
+      "title": "Ransom",
+      "year": 1996
+    },
+    "101 Dalmatians": {
+      "id": 11674,
+      "poster": "/8o2ADoAyG796UwTjwBFjPyBz0yG.jpg",
+      "title": "101 Dalmatians",
+      "year": 1996
+    },
+    "Eraser": {
+      "id": 9268,
+      "poster": "/uu2gBpFElDfxTI6BI9bT4pZ4kvw.jpg",
+      "title": "Eraser",
+      "year": 1996
+    },
+    "Phenomenon": {
+      "id": 9294,
+      "poster": "/5eK1HNf0Kl2vDPOeqf1kX4SKxrw.jpg",
+      "title": "Phenomenon",
+      "year": 1996
+    },
+    "Michael": {
+      "id": 2928,
+      "poster": "/3XdsHncNxOSMOITeQBC8ML9ADky.jpg",
+      "title": "Michael",
+      "year": 1996
+    },
+    "From Dusk Till Dawn": {
+      "id": 755,
+      "poster": "/sV3kIAmvJ9tPz4Lq5fuf9LLMxte.jpg",
+      "title": "From Dusk Till Dawn",
+      "year": 1996
+    },
+    "Kingpin": {
+      "id": 11543,
+      "poster": "/lVpejjxzBujSjLpxQ7hGe1s0wP2.jpg",
+      "title": "Kingpin",
+      "year": 1996
+    },
+    "Bound": {
+      "id": 9303,
+      "poster": "/9qAy6UWVw44dGrsyKrdEMt5qIUM.jpg",
+      "title": "Bound",
+      "year": 1996
+    },
+    "City Hall": {
+      "id": 11062,
+      "poster": "/w7EkAl4Oi8Lc6VQKaqRHrOV3CxR.jpg",
+      "title": "City Hall",
+      "year": 1996
+    },
+    "Sleepers": {
+      "id": 819,
+      "poster": "/yUpiEk2EojS9ZEXb3nIQonQCYYF.jpg",
+      "title": "Sleepers",
+      "year": 1996
+    },
+    "The Cable Guy": {
+      "id": 9894,
+      "poster": "/YJt9l3RdrRohI95btQKPXwpdii.jpg",
+      "title": "The Cable Guy",
+      "year": 1996
+    },
+    "Citizen Ruth": {
+      "id": 13891,
+      "poster": "/hMGWyETjqWpfud4Cmeva6qfVogZ.jpg",
+      "title": "Citizen Ruth",
+      "year": 1996
+    },
+    "Waiting for Guffman": {
+      "id": 16448,
+      "poster": "/zuArI6EBpV6mExrvfnyidoOtzdf.jpg",
+      "title": "Waiting for Guffman",
+      "year": 1997
+    },
+    "Flirting with Disaster": {
+      "id": 2074,
+      "poster": "/uIcgXQYm2eqguUaYdbolQ4LWpMy.jpg",
+      "title": "Flirting with Disaster",
+      "year": 1996
+    },
+    "Walking and Talking": {
+      "id": 49963,
+      "poster": "/m8JMJQUfGwGt7gse8aoduAcTYE.jpg",
+      "title": "Walking and Talking",
+      "year": 1996
+    },
+    "Broken Arrow": {
+      "id": 9208,
+      "poster": "/iBPMwYYJFvdCBkXrwV75peo5Lz2.jpg",
+      "title": "Broken Arrow",
+      "year": 1996
+    },
+    "Breaking the Waves": {
+      "id": 145,
+      "poster": "/dQWMcdHXUOSHtr7ypOCa5T79JMS.jpg",
+      "title": "Breaking the Waves",
+      "year": 1996
+    },
+    "Black Sheep": {
+      "id": 13997,
+      "poster": "/bqIW5oE4WeHAvk1nh2Y6rfOLGrF.jpg",
+      "title": "Black Sheep",
+      "year": 1996
+    },
+    "Sling Blade": {
+      "id": 12498,
+      "poster": "/ivBIBd1LNaozcmytZUyE1yIXZms.jpg",
+      "title": "Sling Blade",
+      "year": 1996
+    },
+    "Bordello of Blood": {
+      "id": 9431,
+      "poster": "/aKkUQ0Zd9TFlqfcMMHFKQBB15wZ.jpg",
+      "title": "Bordello of Blood",
+      "year": 1996
+    },
+    "Barb Wire": {
+      "id": 11867,
+      "poster": "/eACq1joafhQTD12gGXNS13J06B.jpg",
+      "title": "Barb Wire",
+      "year": 1996
+    },
+    "The Craft": {
+      "id": 9100,
+      "poster": "/8bW2RdRkloYtEPhbQZN4wcdmJP4.jpg",
+      "title": "The Craft",
+      "year": 1996
+    },
+    "Harriet the Spy": {
+      "id": 38223,
+      "poster": "/spTUUMgIVm4gOdWL35IoYWEuZQl.jpg",
+      "title": "Harriet the Spy",
+      "year": 1996
+    },
+    "Big Night": {
+      "id": 18203,
+      "poster": "/8AJGSDyrj3Dz2B57n1ZB4qNPbmJ.jpg",
+      "title": "Big Night",
+      "year": 1996
+    },
+    "She's the One": {
+      "id": 11363,
+      "poster": "/wNd6qM8Qa8tLFOiUOiEivh0qBkH.jpg",
+      "title": "She's the One",
+      "year": 1996
+    },
+    "Courage Under Fire": {
+      "id": 10684,
+      "poster": "/vDJurMJkrx049AiXa3DJx5Zx7a4.jpg",
+      "title": "Courage Under Fire",
+      "year": 1996
+    },
+    "Welcome to the Dollhouse": {
+      "id": 11446,
+      "poster": "/fsMMOVto87pvUQyozOF9CaT9aMR.jpg",
+      "title": "Welcome to the Dollhouse",
+      "year": 1996
+    },
+    "Dead Man": {
+      "id": 922,
+      "poster": "/jX3wGBVoYoAY3IixBpwYk1fjT4z.jpg",
+      "title": "Dead Man",
+      "year": 1995
+    },
+    "Marvin's Room": {
+      "id": 9819,
+      "poster": "/lTHq1K5Y6EDRjxTBvReXHY6AKQ3.jpg",
+      "title": "Marvin's Room",
+      "year": 1996
+    },
+    "The Trigger Effect": {
+      "id": 58770,
+      "poster": "/9LZLXVwhhmkdye4JXoLP06fm5G2.jpg",
+      "title": "The Trigger Effect",
+      "year": 1996
+    },
+    "The Funeral": {
+      "id": 21612,
+      "poster": "/sHbJbr6BvVwRJhliiX1PKPERejO.jpg",
+      "title": "The Funeral",
+      "year": 1996
+    },
+    "When We Were Kings": {
+      "id": 10548,
+      "poster": "/yBkZK1JZOOJ3q5Jj1H9UP9T8YuV.jpg",
+      "title": "When We Were Kings",
+      "year": 1996
+    },
+    "The Long Kiss Goodnight": {
+      "id": 11412,
+      "poster": "/yREdXX5lMFUKhTvb0ofI7mzUHlR.jpg",
+      "title": "The Long Kiss Goodnight",
+      "year": 1996
+    },
+    "Up Close & Personal": {
+      "id": 9302,
+      "poster": "/zF67qcf7skMHLpXnifodinUqCFr.jpg",
+      "title": "Up Close & Personal",
+      "year": 1996
+    },
+    "Girl 6": {
+      "id": 61752,
+      "poster": "/1SSYCOTrHucd9aBCyTfbLWcJ2zD.jpg",
+      "title": "Girl 6",
+      "year": 1996
+    },
+    "Heaven's Prisoners": {
+      "id": 36915,
+      "poster": "/yUWVNHA3dVc1CmxNIcXZWqbqWc8.jpg",
+      "title": "Heaven's Prisoners",
+      "year": 1996
+    },
+    "Fear": {
+      "id": 10543,
+      "poster": "/ut8snuINzOibbKnvpTnsGWQr4Nl.jpg",
+      "title": "Fear",
+      "year": 1996
+    },
+    "Set It Off": {
+      "id": 9400,
+      "poster": "/wpiARyUqTfabzakAXHMIUY6Tl1A.jpg",
+      "title": "Set It Off",
+      "year": 1996
+    },
+    "Stealing Beauty": {
+      "id": 14553,
+      "poster": "/5ugxnyVmBK952bwOcE4M0szNimx.jpg",
+      "title": "Stealing Beauty",
+      "year": 1996
+    },
+    "The Mirror Has Two Faces": {
+      "id": 25189,
+      "poster": "/ekk8MKMp3tlJjcMuhOgKsMCRrvR.jpg",
+      "title": "The Mirror Has Two Faces",
+      "year": 1996
+    },
+    "One Fine Day": {
+      "id": 7300,
+      "poster": "/5NiRRR7JDNHOr21JNoGRxPWh9vb.jpg",
+      "title": "One Fine Day",
+      "year": 1996
+    },
+    "Clueless": {
+      "id": 9603,
+      "poster": "/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",
+      "title": "Clueless",
+      "year": 1995
+    },
+    "Sense and Sensibility": {
+      "id": 4584,
+      "poster": "/9YdQ73YmvInxpXZVNjEKePw9tRO.jpg",
+      "title": "Sense and Sensibility",
+      "year": 1995
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "Reservoir Dogs": {
+      "id": 500,
+      "poster": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+      "title": "Reservoir Dogs",
+      "year": 1992
+    },
+    "Heat": {
+      "id": 949,
+      "poster": "/e09dLw1Ljtccd2P4NsuUvVtS5du.jpg",
+      "title": "Heat",
+      "year": 1995
+    },
+    "Apollo 13": {
+      "id": 568,
+      "poster": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+      "title": "Apollo 13",
+      "year": 1995
+    },
+    "Batman Forever": {
+      "id": 414,
+      "poster": "/i0fJS8M5UKoETjjJ0zwUiKaR8tr.jpg",
+      "title": "Batman Forever",
+      "year": 1995
+    },
+    "Jurassic Park": {
+      "id": 329,
+      "poster": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "title": "Jurassic Park",
+      "year": 1993
+    },
+    "Urban Legend": {
+      "id": 9877,
+      "poster": "/dUvZDNU9G0njhM628NA5phASntq.jpg",
+      "title": "Urban Legend",
+      "year": 1998
+    },
+    "I Know What You Did Last Summer": {
+      "id": 3597,
+      "poster": "/dQyaJx0SptDqvQcAewAr8FAtLB2.jpg",
+      "title": "I Know What You Did Last Summer",
+      "year": 1997
+    },
+    "Mixed Nuts": {
+      "id": 24070,
+      "poster": "/xPdQMqxWnFwCKOIto8dBEorTtGR.jpg",
+      "title": "Mixed Nuts",
+      "year": 1994
+    },
+    "Sea of Love": {
+      "id": 12150,
+      "poster": "/vJ88WmJ12eAK9CRb3cggn9CJthH.jpg",
+      "title": "Sea of Love",
+      "year": 1989
+    },
+    "Land and Freedom": {
+      "id": 38884,
+      "poster": "/u5QRqW0vFYMHFzeQJ4oFgJtu5Xp.jpg",
+      "title": "Land and Freedom",
+      "year": 1995
+    },
+    "Whisper of the Heart": {
+      "id": 37797,
+      "poster": "/5FROLD8zpWFs9ja7aYho1uOMJHg.jpg",
+      "title": "Whisper of the Heart",
+      "year": 1995
+    },
+    "Guarding Tess": {
+      "id": 6472,
+      "poster": "/4QXsuHFw1teyR48mnXz8jk9P3Gq.jpg",
+      "title": "Guarding Tess",
+      "year": 1994
+    },
+    "Blast from the Past": {
+      "id": 11622,
+      "poster": "/qVN4bbVX2tzaNbAdEJT5eOPq26c.jpg",
+      "title": "Blast from the Past",
+      "year": 1999
+    },
+    "Dazed and Confused": {
+      "id": 9571,
+      "poster": "/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+      "title": "Dazed and Confused",
+      "year": 1993
+    },
+    "The Wild Bunch": {
+      "id": 576,
+      "poster": "/8j9yEC3xjy1PJDSizIbaxcHaSph.jpg",
+      "title": "The Wild Bunch",
+      "year": 1969
+    },
+    "Richard Jewell": {
+      "id": 292011,
+      "poster": "/5Lgkm8jt4roAFPZQ52fKMhVmDaZ.jpg",
+      "title": "Richard Jewell",
+      "year": 2019
+    },
+    "Venom: The Last Dance": {
+      "id": 912649,
+      "poster": "/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
+      "title": "Venom: The Last Dance",
+      "year": 2024
+    },
+    "Joker: Folie à Deux": {
+      "id": 889737,
+      "poster": "/aciP8Km0waTLXEYf5ybFK5CSUxl.jpg",
+      "title": "Joker: Folie à Deux",
+      "year": 2024
+    },
+    "A Complete Unknown": {
+      "id": 661539,
+      "poster": "/llWl3GtNoXosbvYboelmoT459NM.jpg",
+      "title": "A Complete Unknown",
+      "year": 2024
+    },
+    "Saturday Night": {
+      "id": 1120911,
+      "poster": "/oCf5O6uxooTvRwKVnLHwGqZUifq.jpg",
+      "title": "Saturday Night",
+      "year": 2024
+    },
+    "The Grand Budapest Hotel": {
+      "id": 120467,
+      "poster": "/zOVCqKUzjFKqa1eDMcOzvXwthY4.jpg",
+      "title": "The Grand Budapest Hotel",
+      "year": 2014
+    }
+  },
+  "spotifyEpisodeId": "674TEp124VQPXI8taObAAN"
+}

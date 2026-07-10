@@ -1,0 +1,258 @@
+{
+  "slug": "the-25-best-movies-of-the-century-no-12-the-royal-tenenbaums",
+  "title": "The 25 Best Movies of the Century: No. 12 - 'The Royal Tenenbaums’",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2025-09-17",
+  "runtimeMin": 44,
+  "format": "The 25-for-25 countdown reaches No. 12, the Wes Anderson slot. Sean Fennessey and Amanda Dobbins give it to 'The Royal Tenenbaums' over Rushmore, Moonrise Kingdom, and Grand Budapest, then talk through the film as the bridge from indie to studio Wes, Gene Hackman refusing to play the Anderson deadpan, the Salinger and Richard Scarry influences, and the needle drops.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "No. 12 on the countdown",
+      "note": "a 25-for-25 special conversation",
+      "films": [
+        {
+          "title": "The Royal Tenenbaums",
+          "year": 2001,
+          "note": "Wes Anderson's third feature and his first of the century, written with Owen Wilson, with Gene Hackman, Anjelica Huston, Danny Glover, Ben Stiller, Luke Wilson, Gwyneth Paltrow, Bill Murray, Owen Wilson, and the narration of Alec Baldwin. Sean and Amanda pick it over Rushmore, Moonrise Kingdom, and Grand Budapest because it's the bridge from indie to studio Wes: Scott Rudin producing, bigger stars, the block text and chapters and Mark Mothersbaugh score locking in the style he still uses. They read Hackman's Royal as the engine of the movie, an actor who told Anderson not to write for him and then refused to flatten into the deadpan everyone else plays. They trace the Salinger and 'Mixed-Up Files' and Richard Scarry influences, the needle drops (These Days, Me and Julio, Ruby Tuesday, two Dylan cuts, the Pat Garrett theme), and the ice-cream scene as the emotional core. Nominated for original screenplay; Hackman took the Globe."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Wes Anderson's eligible century",
+      "films": [
+        "The Life Aquatic with Steve Zissou",
+        "The Darjeeling Limited",
+        "Fantastic Mr. Fox",
+        "Moonrise Kingdom",
+        "The Grand Budapest Hotel",
+        "Isle of Dogs",
+        "The French Dispatch",
+        "Asteroid City",
+        "The Phoenician Scheme",
+        "The Wonderful Story of Henry Sugar"
+      ]
+    },
+    {
+      "group": "The 20th-century Wes",
+      "films": [
+        "Bottle Rocket",
+        "Rushmore"
+      ]
+    },
+    {
+      "group": "If you like it",
+      "films": [
+        "Hannah and Her Sisters",
+        "Terms of Endearment",
+        "Harold and Maude",
+        "The Squid and the Whale"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Sinners",
+        "Megalopolis",
+        "Licorice Pizza",
+        "One Battle After Another",
+        "Hamnet",
+        "Shakespeare in Love",
+        "Saving Private Ryan",
+        "Pat Garrett and Billy the Kid",
+        "Black Bag",
+        "Wicked for Good"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "The French Dispatch": 542178,
+    "Pat Garrett and Billy the Kid": 11577
+  },
+  "excluded": {
+    "TV": [
+      "Arrested Development"
+    ],
+    "Sports": [
+      "T-Mobile Home Run Derby"
+    ],
+    "Ads": [
+      "State Farm",
+      "Netflix",
+      "Sam's Club",
+      "Shopify"
+    ]
+  },
+  "tmdb": {
+    "The Royal Tenenbaums": {
+      "id": 9428,
+      "poster": "/nG7hZJn7wQTSDCQT39Gy3s3tbrp.jpg",
+      "title": "The Royal Tenenbaums",
+      "year": 2001
+    },
+    "The Life Aquatic with Steve Zissou": {
+      "id": 421,
+      "poster": "/qZoFLNBC78jzboWeDH6Ha0qavF2.jpg",
+      "title": "The Life Aquatic with Steve Zissou",
+      "year": 2004
+    },
+    "The Darjeeling Limited": {
+      "id": 4538,
+      "poster": "/oSW5OVXTulaIXcoNwJAp5YEKpbP.jpg",
+      "title": "The Darjeeling Limited",
+      "year": 2007
+    },
+    "Fantastic Mr. Fox": {
+      "id": 10315,
+      "poster": "/hhhJN8aJdTlzGmARCbwWflHXhwI.jpg",
+      "title": "Fantastic Mr. Fox",
+      "year": 2009
+    },
+    "Moonrise Kingdom": {
+      "id": 83666,
+      "poster": "/y4SXcbNl6CEF2t36icuzuBioj7K.jpg",
+      "title": "Moonrise Kingdom",
+      "year": 2012
+    },
+    "The Grand Budapest Hotel": {
+      "id": 120467,
+      "poster": "/zOVCqKUzjFKqa1eDMcOzvXwthY4.jpg",
+      "title": "The Grand Budapest Hotel",
+      "year": 2014
+    },
+    "Isle of Dogs": {
+      "id": 399174,
+      "poster": "/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg",
+      "title": "Isle of Dogs",
+      "year": 2018
+    },
+    "The French Dispatch": {
+      "id": 542178,
+      "poster": "/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg",
+      "title": "The French Dispatch of the Liberty, Kansas Evening Sun",
+      "year": 2021
+    },
+    "Asteroid City": {
+      "id": 747188,
+      "poster": "/hfo7pvL9Fys7rocfL4VOzw9qDEQ.jpg",
+      "title": "Asteroid City",
+      "year": 2023
+    },
+    "The Phoenician Scheme": {
+      "id": 1137350,
+      "poster": "/u2jxeYLXTYfu0bqJmnLGIgZswib.jpg",
+      "title": "The Phoenician Scheme",
+      "year": 2025
+    },
+    "The Wonderful Story of Henry Sugar": {
+      "id": 923939,
+      "poster": "/fDUywEHwHh6nsLnVXAdPN9m4ZUG.jpg",
+      "title": "The Wonderful Story of Henry Sugar",
+      "year": 2023
+    },
+    "Bottle Rocket": {
+      "id": 13685,
+      "poster": "/wOPiNYt9V3Cbr9Izeddwj7nU8RT.jpg",
+      "title": "Bottle Rocket",
+      "year": 1996
+    },
+    "Rushmore": {
+      "id": 11545,
+      "poster": "/hSJ6swahAuZ8wM96lHDTwQPXUvZ.jpg",
+      "title": "Rushmore",
+      "year": 1998
+    },
+    "Hannah and Her Sisters": {
+      "id": 5143,
+      "poster": "/gARgIRb2QFRFVrsziwWE389u1pK.jpg",
+      "title": "Hannah and Her Sisters",
+      "year": 1986
+    },
+    "Terms of Endearment": {
+      "id": 11050,
+      "poster": "/l77DRjJuykqKMtD9GTK4YT7qKHW.jpg",
+      "title": "Terms of Endearment",
+      "year": 1983
+    },
+    "Harold and Maude": {
+      "id": 343,
+      "poster": "/t7qEuGwDjcYu8ajaKZ68DeDnOxw.jpg",
+      "title": "Harold and Maude",
+      "year": 1971
+    },
+    "The Squid and the Whale": {
+      "id": 10707,
+      "poster": "/9NbXn1NMdfGM491V3EFjZADR9SX.jpg",
+      "title": "The Squid and the Whale",
+      "year": 2005
+    },
+    "Sinners": {
+      "id": 1233413,
+      "poster": "/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+      "title": "Sinners",
+      "year": 2025
+    },
+    "Megalopolis": {
+      "id": 592831,
+      "poster": "/8Sok3HNA3r1GHnK2lCytHyBz1A.jpg",
+      "title": "Megalopolis",
+      "year": 2024
+    },
+    "Licorice Pizza": {
+      "id": 718032,
+      "poster": "/ivXtvzfliGvoJ1DhSHIGyYBToWe.jpg",
+      "title": "Licorice Pizza",
+      "year": 2021
+    },
+    "One Battle After Another": {
+      "id": 1054867,
+      "poster": "/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+      "title": "One Battle After Another",
+      "year": 2025
+    },
+    "Hamnet": {
+      "id": 858024,
+      "poster": "/zIcd6yuBucRNof5t9KVuGBHIhXU.jpg",
+      "title": "Hamnet",
+      "year": 2025
+    },
+    "Shakespeare in Love": {
+      "id": 1934,
+      "poster": "/zdW7jdzPi4J9KZR3TyY2jn3Xh5e.jpg",
+      "title": "Shakespeare in Love",
+      "year": 1998
+    },
+    "Saving Private Ryan": {
+      "id": 857,
+      "poster": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+      "title": "Saving Private Ryan",
+      "year": 1998
+    },
+    "Pat Garrett and Billy the Kid": {
+      "id": 11577,
+      "poster": "/o0LXWfTXoDOoeYzZw0u1KmZhVIL.jpg",
+      "title": "Pat Garrett & Billy the Kid",
+      "year": 1973
+    },
+    "Black Bag": {
+      "id": 1233575,
+      "poster": "/hHPovtU4b96LHcoeEwRkGHI5btw.jpg",
+      "title": "Black Bag",
+      "year": 2025
+    },
+    "Wicked for Good": {
+      "id": 967941,
+      "poster": "/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+      "title": "Wicked: For Good",
+      "year": 2025
+    }
+  },
+  "spotifyEpisodeId": "4so8Fbjq0d0jDAu9MACC6i"
+}

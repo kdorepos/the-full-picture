@@ -4,13 +4,17 @@ import { mentionIndex } from '../lib/mentionIndex.js';
 
 const { films } = mentionIndex();
 
+// Alphabetize ignoring a leading article, library-style: "The Lighthouse" files under L, not T.
+const sortTitle = (t) => (t || '').replace(/^(the|a|an)\s+/i, '').trim();
 // Group alphabetically; non A–Z titles bucket under "#".
 const letterOf = (t) => {
-  const c = (t || '').trim()[0]?.toUpperCase() ?? '#';
+  const c = sortTitle(t)[0]?.toUpperCase() ?? '#';
   return /[A-Z]/.test(c) ? c : '#';
 };
+const sorted = [...films].sort((a, b) =>
+  sortTitle(a.title).localeCompare(sortTitle(b.title), 'en', { sensitivity: 'base' }));
 const groups = new Map();
-for (const f of films) {
+for (const f of sorted) {
   const l = letterOf(f.title);
   if (!groups.has(l)) groups.set(l, []);
   groups.get(l).push(f);

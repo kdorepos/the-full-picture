@@ -1,0 +1,336 @@
+{
+  "slug": "the-25-best-movies-of-the-century-no-14-moneyball",
+  "title": "The 25 Best Movies of the Century: No. 14 - 'Moneyball'",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2025-07-28",
+  "runtimeMin": 36,
+  "format": "A live 25-for-25 conversation from the Music Box Theatre on No. 14: Bennett Miller's 'Moneyball,' the Michael Lewis adaptation Aaron Sorkin rewrote after Steven Soderbergh's version fell apart, and why a movie about spreadsheets works as a story about a father and his daughter.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "No. 14 — 'Moneyball'",
+      "note": "The 25 for 25 series, live at the Music Box Theatre",
+      "films": [
+        {
+          "title": "Moneyball",
+          "year": 2011,
+          "note": "The list's sports pick and a passion project the hosts had pushed to screen for years. Directed by Bennett Miller, written by Steven Zaillian and Aaron Sorkin, and starring Brad Pitt as A's GM Billy Beane. Six Oscar nominations, no wins. Sean reads it as Pitt's best performance and, under the sabermetrics, a movie about a father and a daughter."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Recommended if you like",
+      "films": [
+        "Air",
+        "Hustle",
+        "F1",
+        "Good Will Hunting",
+        "Friday Night Lights",
+        "All the President's Men"
+      ]
+    },
+    {
+      "group": "Bennett Miller and the production history",
+      "films": [
+        "Capote",
+        "Foxcatcher",
+        "The Cruise",
+        "Reds",
+        "Schindler's List",
+        "Being the Ricardos"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Inside Llewyn Davis",
+        "Major League",
+        "Superbad",
+        "The Handmaiden",
+        "Eddington",
+        "The Dark Knight",
+        "The Artist",
+        "Once Upon a Time in Hollywood",
+        "Ford v Ferrari",
+        "Her",
+        "A Minecraft Movie",
+        "Cruising",
+        "Dog Day Afternoon"
+      ]
+    },
+    {
+      "group": "Sports movies they floated instead",
+      "films": [
+        "Leatherheads",
+        "Speed Racer",
+        "Challengers"
+      ]
+    },
+    {
+      "group": "Chris Pratt's greatest hits, per the bit",
+      "films": [
+        "The Electric State",
+        "Jurassic World Dominion",
+        "Guardians of the Galaxy Vol. 3",
+        "The Tomorrow War",
+        "Passengers",
+        "The Super Mario Bros. Movie",
+        "The Garfield Movie",
+        "Jurassic World",
+        "Bride Wars"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "The Cruise": 32326
+  },
+  "excluded": {
+    "TV": [
+      "The Night Of",
+      "Ripley",
+      "Friday Night Lights (series)"
+    ],
+    "Ads": [
+      "Starbucks",
+      "T-Mobile Home Run Derby"
+    ]
+  },
+  "tmdb": {
+    "Moneyball": {
+      "id": 60308,
+      "poster": "/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+      "title": "Moneyball",
+      "year": 2011
+    },
+    "Air": {
+      "id": 964980,
+      "poster": "/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg",
+      "title": "Air",
+      "year": 2023
+    },
+    "Hustle": {
+      "id": 705861,
+      "poster": "/xWic7kPq13oRxYjbGLApXCnc7pz.jpg",
+      "title": "Hustle",
+      "year": 2022
+    },
+    "F1": {
+      "id": 911430,
+      "poster": "/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
+      "title": "F1",
+      "year": 2025
+    },
+    "Good Will Hunting": {
+      "id": 489,
+      "poster": "/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+      "title": "Good Will Hunting",
+      "year": 1997
+    },
+    "Friday Night Lights": {
+      "id": 13416,
+      "poster": "/8HIqpOgqShRc3TAleabnYispDl1.jpg",
+      "title": "Friday Night Lights",
+      "year": 2004
+    },
+    "All the President's Men": {
+      "id": 891,
+      "poster": "/pCe6lfLxt1B58zPD4lgQrlnDS2j.jpg",
+      "title": "All the President's Men",
+      "year": 1976
+    },
+    "Capote": {
+      "id": 398,
+      "poster": "/tzsxkZMnJvozpHQEl1KzO8KwWu.jpg",
+      "title": "Capote",
+      "year": 2005
+    },
+    "Foxcatcher": {
+      "id": 87492,
+      "poster": "/w6Sl079QtUcQ9dVQ2RP6aN9NBXx.jpg",
+      "title": "Foxcatcher",
+      "year": 2014
+    },
+    "The Cruise": {
+      "id": 32326,
+      "poster": "/aTPN6ttUQqkqV6ZT762Ihc8hwKi.jpg",
+      "title": "The Cruise",
+      "year": 1998
+    },
+    "Reds": {
+      "id": 18254,
+      "poster": "/AeiKdVVM93fwfQG1m3N0cgVZgHl.jpg",
+      "title": "Reds",
+      "year": 1981
+    },
+    "Schindler's List": {
+      "id": 424,
+      "poster": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+      "title": "Schindler's List",
+      "year": 1993
+    },
+    "Being the Ricardos": {
+      "id": 517088,
+      "poster": "/oztBLWdRk5gApYmNdADXvXkLT5m.jpg",
+      "title": "Being the Ricardos",
+      "year": 2021
+    },
+    "Inside Llewyn Davis": {
+      "id": 86829,
+      "poster": "/nNxK3pC3DMpPpWKMvo2p3liREVT.jpg",
+      "title": "Inside Llewyn Davis",
+      "year": 2013
+    },
+    "Major League": {
+      "id": 9942,
+      "poster": "/ypUedY9zX4nGGf1lQv1UGc8PhPA.jpg",
+      "title": "Major League",
+      "year": 1989
+    },
+    "Superbad": {
+      "id": 8363,
+      "poster": "/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg",
+      "title": "Superbad",
+      "year": 2007
+    },
+    "The Handmaiden": {
+      "id": 290098,
+      "poster": "/dLlH4aNHdnmf62umnInL8xPlPzw.jpg",
+      "title": "The Handmaiden",
+      "year": 2016
+    },
+    "Eddington": {
+      "id": 648878,
+      "poster": "/4GIqZUgPZ146BhibsPHMHef2nXX.jpg",
+      "title": "Eddington",
+      "year": 2025
+    },
+    "The Dark Knight": {
+      "id": 155,
+      "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    "The Artist": {
+      "id": 74643,
+      "poster": "/xYMYV8lMIeQMymuNPBvq3hOnqXw.jpg",
+      "title": "The Artist",
+      "year": 2011
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Ford v Ferrari": {
+      "id": 359724,
+      "poster": "/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+      "title": "Ford v Ferrari",
+      "year": 2019
+    },
+    "Her": {
+      "id": 152601,
+      "poster": "/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg",
+      "title": "Her",
+      "year": 2013
+    },
+    "A Minecraft Movie": {
+      "id": 950387,
+      "poster": "/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+      "title": "A Minecraft Movie",
+      "year": 2025
+    },
+    "Cruising": {
+      "id": 27958,
+      "poster": "/bb9CND0WyfwdHOZY5XmP4Qn8taz.jpg",
+      "title": "Cruising",
+      "year": 1980
+    },
+    "Dog Day Afternoon": {
+      "id": 968,
+      "poster": "/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg",
+      "title": "Dog Day Afternoon",
+      "year": 1975
+    },
+    "Leatherheads": {
+      "id": 4942,
+      "poster": "/dl2yu8iuwG3dqbpjalm2odadRaH.jpg",
+      "title": "Leatherheads",
+      "year": 2008
+    },
+    "Speed Racer": {
+      "id": 7459,
+      "poster": "/fxRIpx9Op9h71q3tvuabx4GryyP.jpg",
+      "title": "Speed Racer",
+      "year": 2008
+    },
+    "Challengers": {
+      "id": 937287,
+      "poster": "/H6vke7zGiuLsz4v4RPeReb9rsv.jpg",
+      "title": "Challengers",
+      "year": 2024
+    },
+    "The Electric State": {
+      "id": 777443,
+      "poster": "/sI2NiMU8o65hmIMY0JI9CjJ0p7f.jpg",
+      "title": "The Electric State",
+      "year": 2025
+    },
+    "Jurassic World Dominion": {
+      "id": 507086,
+      "poster": "/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg",
+      "title": "Jurassic World Dominion",
+      "year": 2022
+    },
+    "Guardians of the Galaxy Vol. 3": {
+      "id": 447365,
+      "poster": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "year": 2023
+    },
+    "The Tomorrow War": {
+      "id": 588228,
+      "poster": "/34nDCQZwaEvsy4CFO5hkGRFDCVU.jpg",
+      "title": "The Tomorrow War",
+      "year": 2021
+    },
+    "Passengers": {
+      "id": 274870,
+      "poster": "/jK9S6HANSf2no64v1x1HxfcpmcA.jpg",
+      "title": "Passengers",
+      "year": 2016
+    },
+    "The Super Mario Bros. Movie": {
+      "id": 502356,
+      "poster": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+      "title": "The Super Mario Bros. Movie",
+      "year": 2023
+    },
+    "The Garfield Movie": {
+      "id": 748783,
+      "poster": "/p6AbOJvMQhBmffd0PIv0u8ghWeY.jpg",
+      "title": "The Garfield Movie",
+      "year": 2024
+    },
+    "Jurassic World": {
+      "id": 135397,
+      "poster": "/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
+      "title": "Jurassic World",
+      "year": 2015
+    },
+    "Bride Wars": {
+      "id": 10521,
+      "poster": "/eyXT8tmUoyHrg7YX1UVjmecHCWP.jpg",
+      "title": "Bride Wars",
+      "year": 2009
+    }
+  },
+  "spotifyEpisodeId": "4mbjidSu5wWnf7itKpGPzl"
+}

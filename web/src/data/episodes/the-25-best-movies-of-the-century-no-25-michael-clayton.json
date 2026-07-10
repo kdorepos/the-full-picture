@@ -1,0 +1,207 @@
+{
+  "slug": "the-25-best-movies-of-the-century-no-25-michael-clayton",
+  "title": "The 25 Best Movies of the Century: No. 25 - ‘Michael Clayton’",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2025-03-19",
+  "runtimeMin": 39,
+  "format": "The first entry in Sean Fennessey and Amanda Dobbins's year-long 25-for-25 countdown of the century's best films. No. 25 is Tony Gilroy's Michael Clayton; they lay out the project's rules before making the case for it.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "No. 25: ‘Michael Clayton’",
+      "note": "the 25-for-25 countdown begins",
+      "films": [
+        {
+          "title": "Michael Clayton",
+          "year": 2007,
+          "note": "Tony Gilroy's directing debut, and the pick to open the list. It's a writer's movie, people talking in rooms. Clooney plays against his own charm as a law-firm fixer, Tom Wilkinson and Tilda Swinton (who won for it) get showy supporting turns, and Sydney Pollack plays the boss. Seven Oscar nominations, a shade under two hours. The hosts call it the last great example of a mid-budget adult drama Hollywood doesn't make anymore."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The rest of 2007",
+      "films": [
+        "No Country for Old Men",
+        "There Will Be Blood",
+        "Zodiac",
+        "American Gangster",
+        "The Great Debaters"
+      ]
+    },
+    {
+      "group": "Clooney elsewhere",
+      "films": [
+        "Syriana",
+        "Out of Sight",
+        "Ocean's Eleven"
+      ]
+    },
+    {
+      "group": "Sydney Pollack",
+      "films": [
+        "Out of Africa",
+        "Three Days of the Condor",
+        "The Way We Were",
+        "Tootsie",
+        "Eyes Wide Shut"
+      ]
+    },
+    {
+      "group": "Touchstones",
+      "films": [
+        "Working Girl",
+        "A Knight's Tale",
+        "Star Wars: The Last Jedi"
+      ]
+    },
+    {
+      "group": "List business",
+      "films": [
+        "King Richard",
+        "A Minecraft Movie",
+        "The Alto Knights"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Andor",
+      "Game of Thrones"
+    ],
+    "Ads": [
+      "The Rewatchables",
+      "Stitch Fix",
+      "Sam's Club"
+    ]
+  },
+  "tmdb": {
+    "Michael Clayton": {
+      "id": 4566,
+      "poster": "/hhkW4yVIGo8Bee3UITKvqOvhNMG.jpg",
+      "title": "Michael Clayton",
+      "year": 2007
+    },
+    "No Country for Old Men": {
+      "id": 6977,
+      "poster": "/uB7RDZby43Wvu8SKGHHTwGyTDBX.jpg",
+      "title": "No Country for Old Men",
+      "year": 2007
+    },
+    "There Will Be Blood": {
+      "id": 7345,
+      "poster": "/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+      "title": "There Will Be Blood",
+      "year": 2007
+    },
+    "Zodiac": {
+      "id": 1949,
+      "poster": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+      "title": "Zodiac",
+      "year": 2007
+    },
+    "American Gangster": {
+      "id": 4982,
+      "poster": "/sX9idXDqRUxE5ffww3n3RV5gL55.jpg",
+      "title": "American Gangster",
+      "year": 2007
+    },
+    "The Great Debaters": {
+      "id": 14047,
+      "poster": "/nuF3DDlZzNb2qq0tEsYU0zpXf8K.jpg",
+      "title": "The Great Debaters",
+      "year": 2007
+    },
+    "Syriana": {
+      "id": 231,
+      "poster": "/mO3hWUTOxmLJxihvDU0YFkb0Mb5.jpg",
+      "title": "Syriana",
+      "year": 2005
+    },
+    "Out of Sight": {
+      "id": 1389,
+      "poster": "/v49q7AMR3pB4M762woWB1NYMCLF.jpg",
+      "title": "Out of Sight",
+      "year": 1998
+    },
+    "Ocean's Eleven": {
+      "id": 161,
+      "poster": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+      "title": "Ocean's Eleven",
+      "year": 2001
+    },
+    "Out of Africa": {
+      "id": 606,
+      "poster": "/6oMKqh08TfxmvnoFR4mm1wZB67P.jpg",
+      "title": "Out of Africa",
+      "year": 1985
+    },
+    "Three Days of the Condor": {
+      "id": 11963,
+      "poster": "/zinwtZqdb7gnc4zMu8dfkK1fMN3.jpg",
+      "title": "Three Days of the Condor",
+      "year": 1975
+    },
+    "The Way We Were": {
+      "id": 10236,
+      "poster": "/o5x563ze56iI4iNsCBxTnDkt28i.jpg",
+      "title": "The Way We Were",
+      "year": 1973
+    },
+    "Tootsie": {
+      "id": 9576,
+      "poster": "/ngyCzZwb9y5sMUCig5JQT4Y33Q.jpg",
+      "title": "Tootsie",
+      "year": 1982
+    },
+    "Eyes Wide Shut": {
+      "id": 345,
+      "poster": "/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+      "title": "Eyes Wide Shut",
+      "year": 1999
+    },
+    "Working Girl": {
+      "id": 3525,
+      "poster": "/q2jfFzZvAzjTaArQR0tjilIZ5aJ.jpg",
+      "title": "Working Girl",
+      "year": 1988
+    },
+    "A Knight's Tale": {
+      "id": 9476,
+      "poster": "/srb1XnrlDZHcdpjBKqUu4qAzxKU.jpg",
+      "title": "A Knight's Tale",
+      "year": 2001
+    },
+    "Star Wars: The Last Jedi": {
+      "id": 181808,
+      "poster": "/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
+      "title": "Star Wars: The Last Jedi",
+      "year": 2017
+    },
+    "King Richard": {
+      "id": 614917,
+      "poster": "/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg",
+      "title": "King Richard",
+      "year": 2021
+    },
+    "A Minecraft Movie": {
+      "id": 950387,
+      "poster": "/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+      "title": "A Minecraft Movie",
+      "year": 2025
+    },
+    "The Alto Knights": {
+      "id": 1013601,
+      "poster": "/epGF8vv3caKLm6X8PKbD5xirFLa.jpg",
+      "title": "The Alto Knights",
+      "year": 2025
+    }
+  },
+  "spotifyEpisodeId": "0CMSqW3ANDAbSB0A6LaAXF"
+}

@@ -1,0 +1,346 @@
+{
+  "slug": "1-bring-it-on-and-donnie-darko-mission-accomplished",
+  "title": "1. ‘Bring It On’ and ‘Donnie Darko’ | Mission Accomplished",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Brian Raftery"
+  ],
+  "published": "2025-08-12",
+  "runtimeMin": 45,
+  "format": "Episode one of Brian Raftery's Bush-era series pairs two suburban-teen movies from either side of the turn from 2000 to 2001: Peyton Reed's 'Bring It On,' the $11M cheerleading comedy Jessica Bendinger spent years and roughly 30 pitches getting made, and Richard Kelly's 'Donnie Darko,' the $4.5M debut that grossed half a million dollars weeks after 9/11 and became the decade's first midnight movie. Raftery reads them as the how-it-started, how-it's-going of post-Y2K America.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "‘Bring It On’",
+      "note": "the last carefree blip before 9/11",
+      "films": [
+        {
+          "title": "Bring It On",
+          "year": 2000,
+          "note": "Peyton Reed's $11M cheerleading comedy, written by former Spin hip-hop journalist Jessica Bendinger, who pitched it around Hollywood nearly 30 times (one executive told her 'girls don't go to movies') before Universal bought it. It was called 'Cheer Fever,' then 'Made You Look,' then 'Bring It On' after a studio study found 59% of teens considered cheerleading uncool; the trailer ran over Aqua's 'Happy Boys and Girls.' Kirsten Dunst plays Torrance, leader of the wealthy, all-white San Diego Toros, caught lifting routines from the Black L.A. squad the Clovers, led by Gabrielle Union's Isis; Ian Roberts plays choreographer Sparky Palastri. It opened at No. 1, held for three weeks, and grossed nearly $70M, one of the most successful high school movies ever. Raftery uses its sunny, can-do spirit as a stand-in for the brief post-Y2K peak of American optimism."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "‘Donnie Darko’",
+      "note": "the dread that followed",
+      "films": [
+        {
+          "title": "Donnie Darko",
+          "year": 2001,
+          "note": "Richard Kelly's $4.5M debut, shot in 28 days. Producer Adam Fields, a veteran of John Hughes' 'Sixteen Candles' and 'The Breakfast Club,' got a food-stained, well-traveled script and gambled on letting the 20-something Kelly direct his own screenplay. Kelly, raised in Richmond, Virginia, built it around a story he'd heard about a chunk of ice falling from a plane into a boy's empty bedroom. Drew Barrymore co-produced and took a supporting role. Jake Gyllenhaal plays Donnie, a suburban teen in the fall of 1988 who meets a man in a rabbit suit counting down to the end of the world after a jet engine destroys his bedroom; Jena Malone plays Gretchen. It premiered at Sundance the day Bush was sworn in, left without a distributor, and grossed barely $500K when it opened weeks after 9/11, then became the decade's first midnight movie and an early piece of 'subreddit cinema.'"
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The 2000 optimism",
+      "films": [
+        "Erin Brockovich",
+        "Remember the Titans",
+        "Cast Away",
+        "Meet the Parents",
+        "Gladiator",
+        "What Lies Beneath",
+        "Unbreakable"
+      ]
+    },
+    {
+      "group": "Universal's 2000 franchise slate",
+      "films": [
+        "How the Grinch Stole Christmas",
+        "The Flintstones in Viva Rock Vegas",
+        "Nutty Professor II: The Klumps"
+      ]
+    },
+    {
+      "group": "The teen-movie lineage",
+      "films": [
+        "Grease",
+        "Risky Business",
+        "Fast Times at Ridgemont High",
+        "Rock 'n' Roll High School",
+        "Sixteen Candles",
+        "The Breakfast Club",
+        "American Pie",
+        "10 Things I Hate About You",
+        "She's All That"
+      ]
+    },
+    {
+      "group": "The '90s indie wave",
+      "films": [
+        "Sex, Lies, and Videotape",
+        "El Mariachi",
+        "The Blair Witch Project",
+        "Pi",
+        "Clerks",
+        "Welcome to the Dollhouse"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Austin Powers: International Man of Mystery",
+        "I Know What You Did Last Summer",
+        "Requiem for a Dream",
+        "Romeo + Juliet",
+        "Titanic",
+        "Zoolander",
+        "Serendipity",
+        "25th Hour",
+        "Michael Clayton",
+        "Anchorman: The Legend of Ron Burgundy"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "I Know What You Did Last Summer": 3597
+  },
+  "excluded": {
+    "TV": [
+      "The Twilight Zone",
+      "Survivor"
+    ],
+    "Games": [
+      "FIFA World Cup Launch Edition"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "Netflix",
+      "FanDuel",
+      "Google",
+      "Starbucks",
+      "White Claw",
+      "Best Western"
+    ]
+  },
+  "tmdb": {
+    "Bring It On": {
+      "id": 1588,
+      "poster": "/bnVby0qI0dS7YunbShP7mw68HY3.jpg",
+      "title": "Bring It On",
+      "year": 2000
+    },
+    "Donnie Darko": {
+      "id": 141,
+      "poster": "/j2AtZFsflxiluaNtajMTI0Avm8C.jpg",
+      "title": "Donnie Darko",
+      "year": 2001
+    },
+    "Erin Brockovich": {
+      "id": 462,
+      "poster": "/eMs20iUQyZVs05Ck7Q0LNnRsstr.jpg",
+      "title": "Erin Brockovich",
+      "year": 2000
+    },
+    "Remember the Titans": {
+      "id": 10637,
+      "poster": "/825ohvC4wZ3gCuncCaqkWeQnK8h.jpg",
+      "title": "Remember the Titans",
+      "year": 2000
+    },
+    "Cast Away": {
+      "id": 8358,
+      "poster": "/7lLJgKnAicAcR5UEuo8xhSMj18w.jpg",
+      "title": "Cast Away",
+      "year": 2000
+    },
+    "Meet the Parents": {
+      "id": 1597,
+      "poster": "/5tXJ9ctuyEOMUFLaeqRisbXowWs.jpg",
+      "title": "Meet the Parents",
+      "year": 2000
+    },
+    "Gladiator": {
+      "id": 98,
+      "poster": "/wN2xWp1eIwCKOD0BHTcErTBv1Uq.jpg",
+      "title": "Gladiator",
+      "year": 2000
+    },
+    "What Lies Beneath": {
+      "id": 2655,
+      "poster": "/2L3Cn0CizbSy2E9KJt1SiOSyb6p.jpg",
+      "title": "What Lies Beneath",
+      "year": 2000
+    },
+    "Unbreakable": {
+      "id": 9741,
+      "poster": "/mLuehrGLiK5zFCyRmDDOH6gbfPf.jpg",
+      "title": "Unbreakable",
+      "year": 2000
+    },
+    "How the Grinch Stole Christmas": {
+      "id": 8871,
+      "poster": "/1WZbbPApEivA421gCOluuzMMKCk.jpg",
+      "title": "How the Grinch Stole Christmas",
+      "year": 2000
+    },
+    "The Flintstones in Viva Rock Vegas": {
+      "id": 889,
+      "poster": "/qTcf60dqziF7xU2amxIIsvrnkTl.jpg",
+      "title": "The Flintstones in Viva Rock Vegas",
+      "year": 2000
+    },
+    "Nutty Professor II: The Klumps": {
+      "id": 12107,
+      "poster": "/v8gI95Eio7kAjixyqYHxNKmJTmm.jpg",
+      "title": "Nutty Professor II: The Klumps",
+      "year": 2000
+    },
+    "Grease": {
+      "id": 621,
+      "poster": "/2rM7fQKpb7cs1Iq7IBqub9LFDzJ.jpg",
+      "title": "Grease",
+      "year": 1978
+    },
+    "Risky Business": {
+      "id": 9346,
+      "poster": "/82KOHShH9raGhkcAN3TztVjqjj3.jpg",
+      "title": "Risky Business",
+      "year": 1983
+    },
+    "Fast Times at Ridgemont High": {
+      "id": 13342,
+      "poster": "/s1DA8H7qwoOcAEhow2rCzuQtpuO.jpg",
+      "title": "Fast Times at Ridgemont High",
+      "year": 1982
+    },
+    "Rock 'n' Roll High School": {
+      "id": 26326,
+      "poster": "/kxoDBrtLqMsjMlfWb2caRRY92Xg.jpg",
+      "title": "Rock 'n' Roll High School",
+      "year": 1979
+    },
+    "Sixteen Candles": {
+      "id": 15144,
+      "poster": "/A3WGCAgJF33kZdlxUdyXHYdbYax.jpg",
+      "title": "Sixteen Candles",
+      "year": 1984
+    },
+    "The Breakfast Club": {
+      "id": 2108,
+      "poster": "/gp4zlj7wgbiofLMNsTPndMuO3PN.jpg",
+      "title": "The Breakfast Club",
+      "year": 1985
+    },
+    "American Pie": {
+      "id": 2105,
+      "poster": "/5P68by2Thn8wHAziyWGEw2O7hco.jpg",
+      "title": "American Pie",
+      "year": 1999
+    },
+    "10 Things I Hate About You": {
+      "id": 4951,
+      "poster": "/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg",
+      "title": "10 Things I Hate About You",
+      "year": 1999
+    },
+    "She's All That": {
+      "id": 10314,
+      "poster": "/a0pepZNFCjggc7Na9gEwbTI1f46.jpg",
+      "title": "She's All That",
+      "year": 1999
+    },
+    "Sex, Lies, and Videotape": {
+      "id": 1412,
+      "poster": "/pj1uKm07svgXZDHbYE8AzRfNHcu.jpg",
+      "title": "sex, lies, and videotape",
+      "year": 1989
+    },
+    "El Mariachi": {
+      "id": 9367,
+      "poster": "/zRh7K4SV1xQ419m8gzGITak51vc.jpg",
+      "title": "El Mariachi",
+      "year": 1993
+    },
+    "The Blair Witch Project": {
+      "id": 2667,
+      "poster": "/9050VGrYjYrEjpOvDZVAngLbg1f.jpg",
+      "title": "The Blair Witch Project",
+      "year": 1999
+    },
+    "Pi": {
+      "id": 473,
+      "poster": "/fJA22FjlAW8rzrOw9Mwanl6oTc9.jpg",
+      "title": "Pi",
+      "year": 1998
+    },
+    "Clerks": {
+      "id": 2292,
+      "poster": "/9IiSgiq4h4siTIS9H3o4nZ3h5L9.jpg",
+      "title": "Clerks",
+      "year": 1994
+    },
+    "Welcome to the Dollhouse": {
+      "id": 11446,
+      "poster": "/fsMMOVto87pvUQyozOF9CaT9aMR.jpg",
+      "title": "Welcome to the Dollhouse",
+      "year": 1996
+    },
+    "Austin Powers: International Man of Mystery": {
+      "id": 816,
+      "poster": "/5uD4dxNX8JKFjWKYMHyOsqhi5pN.jpg",
+      "title": "Austin Powers: International Man of Mystery",
+      "year": 1997
+    },
+    "I Know What You Did Last Summer": {
+      "id": 3597,
+      "poster": "/dQyaJx0SptDqvQcAewAr8FAtLB2.jpg",
+      "title": "I Know What You Did Last Summer",
+      "year": 1997
+    },
+    "Requiem for a Dream": {
+      "id": 641,
+      "poster": "/9BTwsLaMVHOGFlmsSlx5QYCaXb.jpg",
+      "title": "Requiem for a Dream",
+      "year": 2000
+    },
+    "Romeo + Juliet": {
+      "id": 454,
+      "poster": "/eLf4jclPijOqfEp6bDAmezRFxk5.jpg",
+      "title": "Romeo + Juliet",
+      "year": 1996
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "Zoolander": {
+      "id": 9398,
+      "poster": "/qdrbSneHZjJG2Dj0hhBxzzAo4HB.jpg",
+      "title": "Zoolander",
+      "year": 2001
+    },
+    "Serendipity": {
+      "id": 9778,
+      "poster": "/4jS66Qmq2Ru5S2YzHVknGd4xJyT.jpg",
+      "title": "Serendipity",
+      "year": 2001
+    },
+    "25th Hour": {
+      "id": 1429,
+      "poster": "/uW7tTRElr2tRhmAVESzvHy4ByXg.jpg",
+      "title": "25th Hour",
+      "year": 2002
+    },
+    "Michael Clayton": {
+      "id": 4566,
+      "poster": "/hhkW4yVIGo8Bee3UITKvqOvhNMG.jpg",
+      "title": "Michael Clayton",
+      "year": 2007
+    },
+    "Anchorman: The Legend of Ron Burgundy": {
+      "id": 8699,
+      "poster": "/mhZIcRePT7U8viFQVjt1ZjYIsR4.jpg",
+      "title": "Anchorman: The Legend of Ron Burgundy",
+      "year": 2004
+    }
+  },
+  "spotifyEpisodeId": "2lchZinGaTtstg5a8wcIID"
+}

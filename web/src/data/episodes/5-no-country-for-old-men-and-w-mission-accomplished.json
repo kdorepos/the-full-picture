@@ -1,0 +1,293 @@
+{
+  "slug": "5-no-country-for-old-men-and-w-mission-accomplished",
+  "title": "5. ‘No Country for Old Men’ and ‘W.’ | Mission Accomplished",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Brian Raftery"
+  ],
+  "published": "2025-08-26",
+  "runtimeMin": 49,
+  "format": "The 'Mission Accomplished' series pairs the two films that took the Bush years head-on: the Coen brothers' 'No Country for Old Men,' which swept the 2008 Oscars on a coin toss and a bolt pistol, and Oliver Stone's 'W.,' the sympathetic Bush biopic no studio would fund and no one in 2008 wanted to see. Stone, plus actors Gene Jones and Barry Corbin, talk to Brian Raftery. Ends on the 2008 election and the arrival of Iron Man.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "‘No Country for Old Men’",
+      "note": "with Gene Jones and Barry Corbin",
+      "films": [
+        {
+          "title": "No Country for Old Men",
+          "year": 2007,
+          "note": "The Coen brothers' Best Picture winner, from Cormac McCarthy's 2005 novel. Josh Brolin as Llewellyn Moss, who takes $2M from a drug deal gone wrong in the West Texas desert; Javier Bardem as the bolt-pistol hitman Anton Chigurh; Tommy Lee Jones as the overmatched Sheriff Ed Tom Bell; Woody Harrelson as the bounty hunter; Kelly Macdonald as Moss's wife. The episode sits inside two scenes: the five-minute gas-station coin toss (Gene Jones, who says the Coens gave him no direction and just listened from behind the counter) and Bell's visit to the wheelchair-bound Ellis (Barry Corbin), whose 'you can't stop what's coming' Raftery calls the best scene in any film of the 2000s. Set in 1980, it read in 2007 as the Bush years in disguise."
+        },
+        {
+          "title": "There Will Be Blood",
+          "year": 2007,
+          "note": "The year's other downbeat titan: Daniel Day-Lewis as a sociopathic oilman who beats his rival to death with a bowling pin ('I drink your milkshake'). Lost Best Picture to 'No Country' at the 2008 ceremony Jon Stewart opened by asking whether Hollywood needed a hug."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "‘W.’",
+      "note": "with Oliver Stone",
+      "films": [
+        {
+          "title": "W.",
+          "year": 2008,
+          "note": "Oliver Stone's George W. Bush biopic, shot in five months in Louisiana to make the November 2008 election. Josh Brolin (fresh off 'No Country') as Bush, cheery and gentlemanly and fed his ideas by others; Richard Dreyfuss as Dick Cheney, the film's real villain; James Cromwell as George H.W. Bush; Elizabeth Banks as Laura; Jeffrey Wright as Colin Powell. Christian Bale was cast first and dropped out. No studio would touch it, so Stone raised ~$27M overseas. More satiric and more sympathetic than anyone expected (Stone found Bush hard to hate), it made about $25M in the U.S. against a country already sick of the man."
+        },
+        {
+          "title": "World Trade Center",
+          "year": 2006,
+          "note": "Stone's 9/11 film with Nicolas Cage and Michael Peña as two officers trapped in the rubble. Feared to be a conspiracy screed, it came out somber and apolitical, a surprise hit that had some longtime fans wondering if Stone had gone soft."
+        },
+        {
+          "title": "Nixon",
+          "year": 1995,
+          "note": "Stone's biopic of the 37th president, even-handed but unsparing about the drinking and paranoia. The benchmark critics used to argue 'W.' went too easy on Bush."
+        },
+        {
+          "title": "American Dreamz",
+          "year": 2006,
+          "note": "Paul Weitz's satire with Dennis Quaid as a barely-literate president who has people read the papers for him, one of the Bush-era political films audiences skipped. (The transcript mishears the title as 'American Dreams.')"
+        },
+        {
+          "title": "Rendition",
+          "year": 2007,
+          "note": "Torture drama with Reese Witherspoon, Meryl Streep, and Jake Gyllenhaal that came and went, proof, Raftery argues, that audiences went to the movies to avoid the news, not relive it."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The rest of the 2007 Oscar field",
+      "films": [
+        "Michael Clayton",
+        "Atonement",
+        "The Assassination of Jesse James by the Coward Robert Ford",
+        "The Diving Bell and the Butterfly",
+        "Juno"
+      ]
+    },
+    {
+      "group": "2000s Best Picture winners, before this",
+      "films": [
+        "Million Dollar Baby",
+        "The Departed",
+        "Crash"
+      ]
+    },
+    {
+      "group": "The Coens' crime classics",
+      "films": [
+        "Blood Simple",
+        "Miller's Crossing",
+        "Fargo"
+      ]
+    },
+    {
+      "group": "Oliver Stone's earlier America",
+      "films": [
+        "Platoon",
+        "Born on the Fourth of July",
+        "JFK",
+        "Wall Street",
+        "The Doors"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Toy Story",
+        "The Manchurian Candidate"
+      ]
+    },
+    {
+      "group": "Teased for the finale",
+      "films": [
+        "Iron Man"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Crash": 1640
+  },
+  "excluded": {
+    "TV": [
+      "Northern Exposure",
+      "Tulsa King"
+    ],
+    "Unmade": [
+      "Pinkville"
+    ],
+    "Ads": [
+      "Netflix",
+      "T-Mobile Home Run Derby",
+      "Carvana",
+      "Boar's Head",
+      "NOS Energy",
+      "Mint Mobile"
+    ]
+  },
+  "tmdb": {
+    "No Country for Old Men": {
+      "id": 6977,
+      "poster": "/uB7RDZby43Wvu8SKGHHTwGyTDBX.jpg",
+      "title": "No Country for Old Men",
+      "year": 2007
+    },
+    "There Will Be Blood": {
+      "id": 7345,
+      "poster": "/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+      "title": "There Will Be Blood",
+      "year": 2007
+    },
+    "W.": {
+      "id": 10523,
+      "poster": "/nJm8UF4zbUYEoku9seEtz1PTJGS.jpg",
+      "title": "W.",
+      "year": 2008
+    },
+    "World Trade Center": {
+      "id": 1852,
+      "poster": "/bfTiVc8kxq8uRXeblV3Ct35APGu.jpg",
+      "title": "World Trade Center",
+      "year": 2006
+    },
+    "Nixon": {
+      "id": 10858,
+      "poster": "/cz2MTGr2wpDZLirgV2rGHBdA2t3.jpg",
+      "title": "Nixon",
+      "year": 1995
+    },
+    "American Dreamz": {
+      "id": 9310,
+      "poster": "/qwRbRvfJR7jjsaGfS741Tl3DRr7.jpg",
+      "title": "American Dreamz",
+      "year": 2006
+    },
+    "Rendition": {
+      "id": 5125,
+      "poster": "/uW8gNhIJkNabd0AIafWqFRxB8Os.jpg",
+      "title": "Rendition",
+      "year": 2007
+    },
+    "Michael Clayton": {
+      "id": 4566,
+      "poster": "/hhkW4yVIGo8Bee3UITKvqOvhNMG.jpg",
+      "title": "Michael Clayton",
+      "year": 2007
+    },
+    "Atonement": {
+      "id": 4347,
+      "poster": "/hMRIyBjPzxaSXWM06se3OcNjIQa.jpg",
+      "title": "Atonement",
+      "year": 2007
+    },
+    "The Assassination of Jesse James by the Coward Robert Ford": {
+      "id": 4512,
+      "poster": "/xMKn6EQS7eR5ubhPJbw5pQSBZMw.jpg",
+      "title": "The Assassination of Jesse James by the Coward Robert Ford",
+      "year": 2007
+    },
+    "The Diving Bell and the Butterfly": {
+      "id": 2013,
+      "poster": "/6NkJ4gnLrvLj0PZDW6sNM85JMbj.jpg",
+      "title": "The Diving Bell and the Butterfly",
+      "year": 2007
+    },
+    "Juno": {
+      "id": 7326,
+      "poster": "/jNIn2tVhpvFD6P9IojldI3mNYcn.jpg",
+      "title": "Juno",
+      "year": 2007
+    },
+    "Million Dollar Baby": {
+      "id": 70,
+      "poster": "/jcfEqKdWF1zeyvECPqp3mkWLct2.jpg",
+      "title": "Million Dollar Baby",
+      "year": 2004
+    },
+    "The Departed": {
+      "id": 1422,
+      "poster": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+      "title": "The Departed",
+      "year": 2006
+    },
+    "Crash": {
+      "id": 1640,
+      "poster": "/86BdPC6RDX88NC880pLidKn2LCj.jpg",
+      "title": "Crash",
+      "year": 2005
+    },
+    "Blood Simple": {
+      "id": 11368,
+      "poster": "/1DuCXzYWMAE9oGpxIrFWMn1NS0W.jpg",
+      "title": "Blood Simple",
+      "year": 1985
+    },
+    "Miller's Crossing": {
+      "id": 379,
+      "poster": "/i83gYdglRCjCRLSsmCk5nRWRmDM.jpg",
+      "title": "Miller's Crossing",
+      "year": 1990
+    },
+    "Fargo": {
+      "id": 275,
+      "poster": "/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+      "title": "Fargo",
+      "year": 1996
+    },
+    "Platoon": {
+      "id": 792,
+      "poster": "/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg",
+      "title": "Platoon",
+      "year": 1986
+    },
+    "Born on the Fourth of July": {
+      "id": 2604,
+      "poster": "/c5gSie6ZA90iBs62yNM5MV4y9R7.jpg",
+      "title": "Born on the Fourth of July",
+      "year": 1989
+    },
+    "JFK": {
+      "id": 820,
+      "poster": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+      "title": "JFK",
+      "year": 1991
+    },
+    "Wall Street": {
+      "id": 10673,
+      "poster": "/2tQYq9ntzn2dEwDIGLBSipYPenv.jpg",
+      "title": "Wall Street",
+      "year": 1987
+    },
+    "The Doors": {
+      "id": 10537,
+      "poster": "/x1LM3dzGuG6xOz0aT2e71o11vhu.jpg",
+      "title": "The Doors",
+      "year": 1991
+    },
+    "Toy Story": {
+      "id": 862,
+      "poster": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+      "title": "Toy Story",
+      "year": 1995
+    },
+    "The Manchurian Candidate": {
+      "id": 982,
+      "poster": "/2xQ856kd9hw6bB3OnusGyTvvkwB.jpg",
+      "title": "The Manchurian Candidate",
+      "year": 1962
+    },
+    "Iron Man": {
+      "id": 1726,
+      "poster": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "title": "Iron Man",
+      "year": 2008
+    }
+  },
+  "spotifyEpisodeId": "0cvL1CtwVxIjnkgWdx9BVZ"
+}

@@ -1,0 +1,389 @@
+{
+  "slug": "the-advice-hour",
+  "title": "The Advice Hour",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2025-06-16",
+  "runtimeMin": 92,
+  "format": "With no movie booked, Sean and Amanda run a live YouTube advice hour, taking listener questions on breakups, weddings, smelly friends, and skincare, with movies dropped in along the way.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The Advice Hour",
+      "note": "listener mailbag, live on YouTube",
+      "films": [
+        {
+          "title": "Materialists",
+          "year": 2025,
+          "note": "The weekend's flashpoint: everyone in the hosts' lives caught up with it and reported back. Sean splits the reaction into people reflexively defending it because of the cast and people who want the private-equity premise 'sent to Mars.'"
+        },
+        {
+          "title": "The Phoenician Scheme",
+          "year": 2025,
+          "note": "The new Wes Anderson, and the movie a listener took a date to before the date went sideways."
+        },
+        {
+          "title": "Past Lives",
+          "year": 2023,
+          "note": "One of three breakup movies Luke watched to get over a girl named Amanda. Amanda's verdict: enough wallowing."
+        },
+        {
+          "title": "Blue Valentine",
+          "year": 2010,
+          "note": "Also on Luke's breakup binge; the pick that gives away the letterboxd boy."
+        },
+        {
+          "title": "Eternal Sunshine of the Spotless Mind",
+          "year": 2004,
+          "note": "The third of Luke's post-breakup watches."
+        },
+        {
+          "title": "Tenet",
+          "year": 2020,
+          "note": "Sean's comfort watch; he says he fires it up and lets it wash over him like a warm bath, and it has no character named Amanda."
+        },
+        {
+          "title": "Amanda",
+          "year": 2022,
+          "note": "The Italian film Amanda recommends in general but warns Luke off, for obvious reasons."
+        },
+        {
+          "title": "John Wick",
+          "year": 2014,
+          "note": "Amanda's throwaway feel-good prescription: just marathon the whole series."
+        },
+        {
+          "title": "Bringing Up Baby",
+          "year": 1938,
+          "note": "In Amanda's feel-good bucket of classic screwball comedies."
+        },
+        {
+          "title": "The Lady Eve",
+          "year": 1941,
+          "note": "Another of Amanda's go-to screwballs."
+        },
+        {
+          "title": "Pat and Mike",
+          "year": 1952,
+          "note": "Amanda's favorite of the Spencer Tracy-Katharine Hepburn pairings."
+        },
+        {
+          "title": "Dazed and Confused",
+          "year": 1993,
+          "note": "The example in a listener's question about a friend who won't watch movies with 'bad people' in them."
+        },
+        {
+          "title": "28 Years Later",
+          "year": 2025,
+          "note": "Sean's Friday plan: drive to Ontario to catch it, then drive back to record."
+        },
+        {
+          "title": "28 Weeks Later",
+          "year": 2007,
+          "note": "The middle film Sean just rewatched, mostly to see a young Idris Elba barely used."
+        },
+        {
+          "title": "Keeping the Faith",
+          "year": 2000,
+          "note": "Cited for young Edward Norton; Sean calls it one of the weirdest movies he saw in theaters."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The Fall-Festival Preview",
+      "note": "which titles might land at Venice",
+      "films": [
+        {
+          "title": "After the Hunt",
+          "year": 2025,
+          "note": "Luca Guadagnino's next; among the unusual number of US titles slotted for Venice."
+        },
+        {
+          "title": "One Battle After Another",
+          "year": 2025,
+          "note": "The hosts argue about whether it premieres at Venice; Sean doubts it given the two-week gap to its September 26 release, Amanda wants Leo on the red carpet."
+        },
+        {
+          "title": "Caught Stealing",
+          "year": 2025,
+          "note": "The Aronofsky movie, which Sean says he doesn't think looks very good."
+        },
+        {
+          "title": "Bugonia",
+          "year": 2025,
+          "note": "The new Yorgos Lanthimos, which usually premieres at Venice."
+        },
+        {
+          "title": "The Smashing Machine",
+          "year": 2025,
+          "note": "Benny Safdie's movie with the Rock."
+        },
+        {
+          "title": "Father Mother Sister Brother",
+          "year": 2025,
+          "note": "Jim Jarmusch's next, floated for the Venice slate."
+        },
+        {
+          "title": "Ballad of a Small Player",
+          "year": 2025,
+          "note": "Edward Berger's film with Colin Farrell playing poker in Macau."
+        },
+        {
+          "title": "Hamnet",
+          "year": 2025,
+          "note": "Chloe Zhao's adaptation, which Amanda is stressed about."
+        },
+        {
+          "title": "Frankenstein",
+          "year": 2025,
+          "note": "Guillermo del Toro's; Sean will watch it, of course."
+        },
+        {
+          "title": "Roofman",
+          "year": 2025
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Heat",
+        "Can't Hardly Wait",
+        "My Best Friend's Wedding",
+        "Pulp Fiction",
+        "Uncut Gems",
+        "Bloody Sunday",
+        "Ballerina",
+        "Total Recall"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Sex and the City",
+      "And Just Like That",
+      "Dragon Ball Z"
+    ],
+    "Books": [
+      "Libra",
+      "Blood and Dancing"
+    ],
+    "Ads": [
+      "The Town",
+      "T-Mobile Home Run Derby (Netflix)",
+      "Xfinity",
+      "Google AI Professional Certificate",
+      "White Claw",
+      "Best Western",
+      "Shopify"
+    ]
+  },
+  "tmdb": {
+    "Materialists": {
+      "id": 1136867,
+      "poster": "/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg",
+      "title": "Materialists",
+      "year": 2025
+    },
+    "The Phoenician Scheme": {
+      "id": 1137350,
+      "poster": "/u2jxeYLXTYfu0bqJmnLGIgZswib.jpg",
+      "title": "The Phoenician Scheme",
+      "year": 2025
+    },
+    "Past Lives": {
+      "id": 666277,
+      "poster": "/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg",
+      "title": "Past Lives",
+      "year": 2023
+    },
+    "Blue Valentine": {
+      "id": 46705,
+      "poster": "/dc8BdKnDY5Iy28KzUGtHIXuqqFK.jpg",
+      "title": "Blue Valentine",
+      "year": 2010
+    },
+    "Eternal Sunshine of the Spotless Mind": {
+      "id": 38,
+      "poster": "/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year": 2004
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "Amanda": {
+      "id": 1004642,
+      "poster": "/bGWPFd71ygELIkPf9SjcOBkLAZY.jpg",
+      "title": "Amanda",
+      "year": 2022
+    },
+    "John Wick": {
+      "id": 245891,
+      "poster": "/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
+      "title": "John Wick",
+      "year": 2014
+    },
+    "Bringing Up Baby": {
+      "id": 900,
+      "poster": "/vTNNOtemaYmtx3k2NpsLMRJKEwZ.jpg",
+      "title": "Bringing Up Baby",
+      "year": 1938
+    },
+    "The Lady Eve": {
+      "id": 3086,
+      "poster": "/lJYD3CMgKtv12hazSHc7xt3i2uq.jpg",
+      "title": "The Lady Eve",
+      "year": 1941
+    },
+    "Pat and Mike": {
+      "id": 33575,
+      "poster": "/6hSJWY1ygsOVAtPEz9Nb5q5FeyA.jpg",
+      "title": "Pat and Mike",
+      "year": 1952
+    },
+    "Dazed and Confused": {
+      "id": 9571,
+      "poster": "/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+      "title": "Dazed and Confused",
+      "year": 1993
+    },
+    "28 Years Later": {
+      "id": 1100988,
+      "poster": "/n5FygjEppOvac6yEaowi26nTyw3.jpg",
+      "title": "28 Years Later",
+      "year": 2025
+    },
+    "28 Weeks Later": {
+      "id": 1562,
+      "poster": "/oix0aNv1lvW3nUGspUyvSIBlpbs.jpg",
+      "title": "28 Weeks Later",
+      "year": 2007
+    },
+    "Keeping the Faith": {
+      "id": 4967,
+      "poster": "/9NF199FTvHr9ggqdBTVbPhF1MGk.jpg",
+      "title": "Keeping the Faith",
+      "year": 2000
+    },
+    "After the Hunt": {
+      "id": 1265063,
+      "poster": "/ryF8QPGUGlo8gRB4OYKb4J0r3aJ.jpg",
+      "title": "After the Hunt",
+      "year": 2025
+    },
+    "One Battle After Another": {
+      "id": 1054867,
+      "poster": "/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+      "title": "One Battle After Another",
+      "year": 2025
+    },
+    "Caught Stealing": {
+      "id": 1245993,
+      "poster": "/cvda8s5J8YaHjTyEyXQpvD6f3iV.jpg",
+      "title": "Caught Stealing",
+      "year": 2025
+    },
+    "Bugonia": {
+      "id": 701387,
+      "poster": "/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+      "title": "Bugonia",
+      "year": 2025
+    },
+    "The Smashing Machine": {
+      "id": 760329,
+      "poster": "/cwwvrdYeIrARXdiv09GIO6XWK5l.jpg",
+      "title": "The Smashing Machine",
+      "year": 2025
+    },
+    "Father Mother Sister Brother": {
+      "id": 1159206,
+      "poster": "/96O3Ol3f2veMxAxYqsML8rOumB9.jpg",
+      "title": "Father Mother Sister Brother",
+      "year": 2025
+    },
+    "Ballad of a Small Player": {
+      "id": 1272166,
+      "poster": "/yiXpXNiBWENaSJmdKfoT5DU0bL4.jpg",
+      "title": "Ballad of a Small Player",
+      "year": 2025
+    },
+    "Hamnet": {
+      "id": 858024,
+      "poster": "/zIcd6yuBucRNof5t9KVuGBHIhXU.jpg",
+      "title": "Hamnet",
+      "year": 2025
+    },
+    "Frankenstein": {
+      "id": 1062722,
+      "poster": "/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+      "title": "Frankenstein",
+      "year": 2025
+    },
+    "Roofman": {
+      "id": 1242419,
+      "poster": "/wXDFtcnYtevleGzCmAD2ReQnJ4l.jpg",
+      "title": "Roofman",
+      "year": 2025
+    },
+    "Heat": {
+      "id": 949,
+      "poster": "/e09dLw1Ljtccd2P4NsuUvVtS5du.jpg",
+      "title": "Heat",
+      "year": 1995
+    },
+    "Can't Hardly Wait": {
+      "id": 15037,
+      "poster": "/r3a5gGWfS0SDS9nriNrJzSSrErf.jpg",
+      "title": "Can't Hardly Wait",
+      "year": 1998
+    },
+    "My Best Friend's Wedding": {
+      "id": 8874,
+      "poster": "/b5g4bp8gS5ovMyR5439AII6zQ3n.jpg",
+      "title": "My Best Friend's Wedding",
+      "year": 1997
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "Uncut Gems": {
+      "id": 473033,
+      "poster": "/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+      "title": "Uncut Gems",
+      "year": 2019
+    },
+    "Bloody Sunday": {
+      "id": 4107,
+      "poster": "/oqdQMDJucR7R0ol0LFvzmqcDyEb.jpg",
+      "title": "Bloody Sunday",
+      "year": 2002
+    },
+    "Ballerina": {
+      "id": 541671,
+      "poster": "/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg",
+      "title": "Ballerina",
+      "year": 2025
+    },
+    "Total Recall": {
+      "id": 861,
+      "poster": "/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
+      "title": "Total Recall",
+      "year": 1990
+    }
+  },
+  "spotifyEpisodeId": "2Kg8sPxXE5390JMeuslCVG"
+}

@@ -1,0 +1,342 @@
+{
+  "slug": "the-phoenician-scheme-is-here-with-wes-anderson",
+  "title": "‘The Phoenician Scheme’ Is Here, With Wes Anderson!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2025-06-06",
+  "runtimeMin": 75,
+  "format": "Sean Fennessey and Amanda Dobbins review Wes Anderson's 'The Phoenician Scheme,' then Sean sits down with Anderson himself for the first time in the show's history.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "'The Phoenician Scheme'",
+      "note": "Wes Anderson · Focus Features · in theaters",
+      "films": [
+        {
+          "title": "The Phoenician Scheme",
+          "year": 2025,
+          "note": "Benicio del Toro plays Zsa Zsa Korda, an unkillable tycoon who survives his sixth plane crash and names his estranged daughter Liesl (Mia Threapleton, Kate Winslet's daughter), a novitiate nun, sole heir over his nine sons, then drags her through a globetrotting caper to fund a giant Phoenician public-works scheme. Michael Cera plays Bjorn, a Norwegian tutor and entomologist; the cast also runs Riz Ahmed, Tom Hanks and Bryan Cranston as the 'Sacramento boys' (a two-on-two game of horse), Mathieu Amalric, Richard Ayoade, Jeffrey Wright, Scarlett Johansson as cousin Hilda, Benedict Cumberbatch as half-brother Nubar, plus Bill Murray as God, Willem Dafoe, F. Murray Abraham and Charlotte Gainsbourg in black-and-white afterlife tribunals. Dedicated to Anderson's father-in-law, the Lebanese businessman Fuad Malouf, on whom Korda is loosely modeled. First cinematographer other than Robert Yeoman (Bruno Delbonnel shoots it). Amanda found it very funny and playable as pure caper; Sean, on a second viewing, read it as a linear, deeply thematic film about fatherhood, mortality, faith and how the powerful lie their way through the world. Both moved by it; Sean calls it minor-to-middle Wes but urges a rewatch."
+        }
+      ]
+    },
+    {
+      "kind": "ranking",
+      "heading": "Sean's top 10 of 2023",
+      "note": "as he left it that December, dug up over the 'did we do Asteroid City dirty' debate",
+      "subject": "2023",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Killers of the Flower Moon",
+          "year": 2023,
+          "note": "No. 1."
+        },
+        {
+          "title": "Spider-Man: Across the Spider-Verse",
+          "year": 2023,
+          "note": "No. 2."
+        },
+        {
+          "title": "Oppenheimer",
+          "year": 2023,
+          "note": "No. 3. Half of the Barbenheimer year that Sean thinks buried a lot of great films."
+        },
+        {
+          "title": "May December",
+          "year": 2023,
+          "note": "No. 4."
+        },
+        {
+          "title": "The Taste of Things",
+          "year": 2023,
+          "note": "No. 5."
+        },
+        {
+          "title": "The Zone of Interest",
+          "year": 2023,
+          "note": "No. 6: 'like, that's dumb,' i.e. so good it being sixth shows how deep the year ran."
+        },
+        {
+          "title": "The Killer",
+          "year": 2023,
+          "note": "No. 7. Fincher."
+        },
+        {
+          "title": "Asteroid City",
+          "year": 2023,
+          "note": "No. 8. The peg for the whole tangent: Sean thinks he and Amanda undersold it, never put it on their top 10s, and let it slip by."
+        },
+        {
+          "title": "John Wick: Chapter 4",
+          "year": 2023,
+          "note": "No. 9."
+        },
+        {
+          "title": "Anatomy of a Fall",
+          "year": 2023,
+          "note": "No. 10."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation with Wes Anderson",
+      "note": "a big-picture first: Anderson on 'The Phoenician Scheme'",
+      "guest": "Wes Anderson on",
+      "films": [
+        {
+          "title": "Saint Jack",
+          "year": 1979,
+          "note": "Anderson's last great thing: Peter Bogdanovich's film with Ben Gazzara, which he travels with on Blu-ray and screens in hotel rooms. On the movie itself, he says it began as a story about an unkillable ruthless businessman and became, organically, a father-daughter story, shaped by the fact that he, Del Toro and co-writer Roman Coppola all have daughters. He wanted the violence to carry a 'delight' without being less horrible, credits a small in-house studio system (producers Jeremy Dawson, John Peet, Steven Rales; storyboarder Jay Clark, storyboard editor Edward Burch, designer Adam Stockhausen) for four films in five years, and says the Criterion box of his first 10 films let him see his own life play out across them."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Wes Anderson's filmography",
+      "films": [
+        "The Grand Budapest Hotel",
+        "The French Dispatch",
+        "The Life Aquatic with Steve Zissou",
+        "The Darjeeling Limited",
+        "Hotel Chevalier",
+        "The Royal Tenenbaums",
+        "Fantastic Mr. Fox",
+        "Moonrise Kingdom"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Sicario",
+        "The War of the Roses",
+        "The Roses",
+        "Past Lives",
+        "Showing Up",
+        "The Iron Claw",
+        "Kafka",
+        "Schizopolis",
+        "The Limey"
+      ]
+    },
+    {
+      "group": "Teased for next week",
+      "films": [
+        "Ballerina"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Below Deck"
+    ],
+    "Podcasts": [
+      "The Zach Lowe Show",
+      "The Rewatchables",
+      "Split Infinitives"
+    ],
+    "Named only in ad reads": [
+      "Final Destination Bloodlines",
+      "Lilo & Stitch"
+    ],
+    "Ads": [
+      "Amazon Prime",
+      "Tremfya",
+      "State Farm",
+      "Wells Fargo Autograph Journey",
+      "Whole Foods Market"
+    ]
+  },
+  "tmdbOverrides": {
+    "Ballerina": 541671,
+    "The French Dispatch": 542178
+  },
+  "tmdb": {
+    "The Phoenician Scheme": {
+      "id": 1137350,
+      "poster": "/u2jxeYLXTYfu0bqJmnLGIgZswib.jpg",
+      "title": "The Phoenician Scheme",
+      "year": 2025
+    },
+    "Killers of the Flower Moon": {
+      "id": 466420,
+      "poster": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+      "title": "Killers of the Flower Moon",
+      "year": 2023
+    },
+    "Spider-Man: Across the Spider-Verse": {
+      "id": 569094,
+      "poster": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "year": 2023
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "May December": {
+      "id": 839369,
+      "poster": "/zhV7B610l7hjlri4ywikJ18ONuq.jpg",
+      "title": "May December",
+      "year": 2023
+    },
+    "The Taste of Things": {
+      "id": 964960,
+      "poster": "/gZsXtzwI3CgCvKF5TkgHVhhbEg1.jpg",
+      "title": "The Taste of Things",
+      "year": 2023
+    },
+    "The Zone of Interest": {
+      "id": 467244,
+      "poster": "/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg",
+      "title": "The Zone of Interest",
+      "year": 2023
+    },
+    "The Killer": {
+      "id": 800158,
+      "poster": "/ipkcgvN7h3yZnbYowthloHLKsf4.jpg",
+      "title": "The Killer",
+      "year": 2023
+    },
+    "Asteroid City": {
+      "id": 747188,
+      "poster": "/hfo7pvL9Fys7rocfL4VOzw9qDEQ.jpg",
+      "title": "Asteroid City",
+      "year": 2023
+    },
+    "John Wick: Chapter 4": {
+      "id": 603692,
+      "poster": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+      "title": "John Wick: Chapter 4",
+      "year": 2023
+    },
+    "Anatomy of a Fall": {
+      "id": 915935,
+      "poster": "/1ho0d4LNZw3Y0voeKmSvPSgJOJ2.jpg",
+      "title": "Anatomy of a Fall",
+      "year": 2023
+    },
+    "Saint Jack": {
+      "id": 77166,
+      "poster": "/kWrjxCM9fxzw1hdk4gXLWO8tqtD.jpg",
+      "title": "Saint Jack",
+      "year": 1979
+    },
+    "The Grand Budapest Hotel": {
+      "id": 120467,
+      "poster": "/zOVCqKUzjFKqa1eDMcOzvXwthY4.jpg",
+      "title": "The Grand Budapest Hotel",
+      "year": 2014
+    },
+    "The French Dispatch": {
+      "id": 542178,
+      "poster": "/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg",
+      "title": "The French Dispatch of the Liberty, Kansas Evening Sun",
+      "year": 2021
+    },
+    "The Life Aquatic with Steve Zissou": {
+      "id": 421,
+      "poster": "/qZoFLNBC78jzboWeDH6Ha0qavF2.jpg",
+      "title": "The Life Aquatic with Steve Zissou",
+      "year": 2004
+    },
+    "The Darjeeling Limited": {
+      "id": 4538,
+      "poster": "/oSW5OVXTulaIXcoNwJAp5YEKpbP.jpg",
+      "title": "The Darjeeling Limited",
+      "year": 2007
+    },
+    "Hotel Chevalier": {
+      "id": 6418,
+      "poster": "/fiWLuGIUAcJtu2hs7KlcZ0O2Ix3.jpg",
+      "title": "Hotel Chevalier",
+      "year": 2007
+    },
+    "The Royal Tenenbaums": {
+      "id": 9428,
+      "poster": "/nG7hZJn7wQTSDCQT39Gy3s3tbrp.jpg",
+      "title": "The Royal Tenenbaums",
+      "year": 2001
+    },
+    "Fantastic Mr. Fox": {
+      "id": 10315,
+      "poster": "/hhhJN8aJdTlzGmARCbwWflHXhwI.jpg",
+      "title": "Fantastic Mr. Fox",
+      "year": 2009
+    },
+    "Moonrise Kingdom": {
+      "id": 83666,
+      "poster": "/y4SXcbNl6CEF2t36icuzuBioj7K.jpg",
+      "title": "Moonrise Kingdom",
+      "year": 2012
+    },
+    "Sicario": {
+      "id": 273481,
+      "poster": "/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+      "title": "Sicario",
+      "year": 2015
+    },
+    "The War of the Roses": {
+      "id": 249,
+      "poster": "/9VWwYsuXhRImUtrJGvN6bYJB2He.jpg",
+      "title": "The War of the Roses",
+      "year": 1989
+    },
+    "The Roses": {
+      "id": 1267905,
+      "poster": "/99O8HLHklXGzvF2TqiRqr7WddzT.jpg",
+      "title": "The Roses",
+      "year": 2025
+    },
+    "Past Lives": {
+      "id": 666277,
+      "poster": "/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg",
+      "title": "Past Lives",
+      "year": 2023
+    },
+    "Showing Up": {
+      "id": 790416,
+      "poster": "/iJw55oTb2MlG4NWjq3sbIFUVU76.jpg",
+      "title": "Showing Up",
+      "year": 2023
+    },
+    "The Iron Claw": {
+      "id": 850165,
+      "poster": "/s2VLjcykJfwplJNGT5iEeCA0mRx.jpg",
+      "title": "The Iron Claw",
+      "year": 2023
+    },
+    "Kafka": {
+      "id": 2297,
+      "poster": "/eQh6IlLbQzqqgedwGcj3l9Ex3xJ.jpg",
+      "title": "Kafka",
+      "year": 1991
+    },
+    "Schizopolis": {
+      "id": 16375,
+      "poster": "/9ASmg9EvWkt90dwW9YKO3NXQk8d.jpg",
+      "title": "Schizopolis",
+      "year": 1997
+    },
+    "The Limey": {
+      "id": 10388,
+      "poster": "/efAnFInZYrenNvBlLIXN2oLYyNc.jpg",
+      "title": "The Limey",
+      "year": 1999
+    },
+    "Ballerina": {
+      "id": 541671,
+      "poster": "/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg",
+      "title": "Ballerina",
+      "year": 2025
+    }
+  },
+  "spotifyEpisodeId": "4Zela1qvSvmqwr2WDUoFRX"
+}

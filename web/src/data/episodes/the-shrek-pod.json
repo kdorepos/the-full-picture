@@ -1,0 +1,434 @@
+{
+  "slug": "the-shrek-pod",
+  "title": "The ‘Shrek’ Pod",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2025-05-30",
+  "runtimeMin": 90,
+  "format": "Longtime producer Bobby Wagner gets a send-off, and he picks the movies: Shrek and Shrek 2. Sean, Amanda, and Bobby run through his seven years on the show, then argue about what a Scottish ogre, two Smash Mouth songs, and a Hallelujah montage did to a generation.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The ‘Shrek’ Pod",
+      "note": "Bobby Wagner's send-off pick",
+      "films": [
+        {
+          "title": "Shrek",
+          "year": 2001,
+          "note": "Bobby's send-off choice: the movie he grew up rewatching on other kids' DVD players, and his gateway to Eddie Murphy, who plays Donkey. DreamWorks' fairy-tale spoof, loosely adapted from William Steig's book, was originally optioned by Steven Spielberg and set to star Chris Farley, who recorded most of Shrek's voice before he died. Mike Myers took over and, late in production, insisted on redoing the whole thing in a Scottish accent, reportedly costing close to half a million dollars in reanimation. Bobby's theory: this is where movies and memes fused, and the uncanny early-2000s CG is part of why Shrek's face still fills every meme format. The gang dwells on the Gen X soundtrack: Smash Mouth's 'I'm a Believer' and 'All Star,' a Joan Jett needle drop, John Cale singing 'Hallelujah.' It won the first-ever Best Animated Feature Oscar over Monsters, Inc. and Jimmy Neutron."
+        },
+        {
+          "title": "Shrek 2",
+          "year": 2004,
+          "note": "Slicker, better animated, and to Sean and Amanda a little less fun than the first, missing some of the manic, Zucker-Abrams joke-a-minute energy. Bobby had never seen it before this rewatch, only the memes. Highlights: Antonio Banderas' Puss in Boots, Fairy Godmother running a Goop-like wellness-and-love-potion factory (Sean's bit: Shrek 2 invented Goop), and a soundtrack running from Counting Crows' 'Accidentally in Love' to Nick Cave to a Banderas/Murphy cover of 'Livin' la Vida Loca.' Also home to the deeply upsetting stretch where Shrek turns into a swole 'hottest guy on earth' who looks like he came off a steroid cycle."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Bobby's shortlist",
+      "films": [
+        "Spirit: Stallion of the Cimarron",
+        "Harriet the Spy",
+        "Freaky Friday",
+        "Holes",
+        "The Sandlot"
+      ]
+    },
+    {
+      "group": "The rest of Shrek",
+      "films": [
+        "Shrek the Third",
+        "Shrek Forever After",
+        "Puss in Boots: The Last Wish"
+      ]
+    },
+    {
+      "group": "Big Picture lore",
+      "films": [
+        "The Intern",
+        "Parasite",
+        "Fargo",
+        "Sicario",
+        "Avengers: Endgame",
+        "Top Gun: Maverick",
+        "Mission: Impossible - Dead Reckoning Part One",
+        "The Beekeeper",
+        "Mission: Impossible - Fallout",
+        "The Zone of Interest"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Who Framed Roger Rabbit",
+        "Clerks",
+        "So I Married an Axe Murderer",
+        "Austin Powers: The Spy Who Shagged Me",
+        "Spirited Away",
+        "Porco Rosso",
+        "Goodfellas",
+        "Ice Age",
+        "Irréversible",
+        "Ocean's Twelve",
+        "Aladdin",
+        "The Mask of Zorro",
+        "Spy Kids",
+        "Charlie's Angels",
+        "The Counselor",
+        "Barbie",
+        "Wicked",
+        "West Side Story",
+        "Monsters, Inc.",
+        "Jimmy Neutron: Boy Genius",
+        "The Lord of the Rings: The Fellowship of the Ring",
+        "A Beautiful Mind",
+        "Rango",
+        "Sleeping Beauty",
+        "Brigadoon",
+        "The Empire Strikes Back",
+        "Thelma & Louise",
+        "Tin Men",
+        "The White Ribbon",
+        "Sonic the Hedgehog"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Irréversible": 979
+  },
+  "excluded": {
+    "TV": [
+      "Even Stevens",
+      "Freaks and Geeks",
+      "The White Lotus",
+      "Charlie Rose",
+      "Saturday Night Live"
+    ],
+    "Stage": [
+      "Shrek the Musical"
+    ],
+    "Games": [
+      "Shrek (video game)"
+    ],
+    "Unreleased": [
+      "Shrek 5"
+    ],
+    "Ads": [
+      "Amazon Prime",
+      "State Farm",
+      "Tremfya",
+      "Wells Fargo Autograph Journey",
+      "Accenture",
+      "Whole Foods"
+    ]
+  },
+  "tmdb": {
+    "Shrek": {
+      "id": 808,
+      "poster": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+      "title": "Shrek",
+      "year": 2001
+    },
+    "Shrek 2": {
+      "id": 809,
+      "poster": "/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
+      "title": "Shrek 2",
+      "year": 2004
+    },
+    "Spirit: Stallion of the Cimarron": {
+      "id": 9023,
+      "poster": "/cUgYrz4twiJ3QgVGpRfey984NIB.jpg",
+      "title": "Spirit: Stallion of the Cimarron",
+      "year": 2002
+    },
+    "Harriet the Spy": {
+      "id": 38223,
+      "poster": "/spTUUMgIVm4gOdWL35IoYWEuZQl.jpg",
+      "title": "Harriet the Spy",
+      "year": 1996
+    },
+    "Freaky Friday": {
+      "id": 10330,
+      "poster": "/ipKcZ4Up7dp18XpsfYUc9NKZy3g.jpg",
+      "title": "Freaky Friday",
+      "year": 2003
+    },
+    "Holes": {
+      "id": 8326,
+      "poster": "/o2Dm2mcE1qW8vT0bpsJO5OMBbqa.jpg",
+      "title": "Holes",
+      "year": 2003
+    },
+    "The Sandlot": {
+      "id": 11528,
+      "poster": "/7PYqz0viEuW8qTvuGinUMjDWMnj.jpg",
+      "title": "The Sandlot",
+      "year": 1993
+    },
+    "Shrek the Third": {
+      "id": 810,
+      "poster": "/n4SexGGQzI26E269tfpa80MZaGV.jpg",
+      "title": "Shrek the Third",
+      "year": 2007
+    },
+    "Shrek Forever After": {
+      "id": 10192,
+      "poster": "/6HrfPZtKcGmX2tUWW3cnciZTaSD.jpg",
+      "title": "Shrek Forever After",
+      "year": 2010
+    },
+    "Puss in Boots: The Last Wish": {
+      "id": 315162,
+      "poster": "/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
+      "title": "Puss in Boots: The Last Wish",
+      "year": 2022
+    },
+    "The Intern": {
+      "id": 257211,
+      "poster": "/bTQ46fupPbjBfFBHuzfD3hxxL0Q.jpg",
+      "title": "The Intern",
+      "year": 2015
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Fargo": {
+      "id": 275,
+      "poster": "/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+      "title": "Fargo",
+      "year": 1996
+    },
+    "Sicario": {
+      "id": 273481,
+      "poster": "/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+      "title": "Sicario",
+      "year": 2015
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Mission: Impossible - Dead Reckoning Part One": {
+      "id": 575264,
+      "poster": "/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "year": 2023
+    },
+    "The Beekeeper": {
+      "id": 866398,
+      "poster": "/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
+      "title": "The Beekeeper",
+      "year": 2024
+    },
+    "Mission: Impossible - Fallout": {
+      "id": 353081,
+      "poster": "/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+      "title": "Mission: Impossible - Fallout",
+      "year": 2018
+    },
+    "The Zone of Interest": {
+      "id": 467244,
+      "poster": "/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg",
+      "title": "The Zone of Interest",
+      "year": 2023
+    },
+    "Who Framed Roger Rabbit": {
+      "id": 856,
+      "poster": "/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg",
+      "title": "Who Framed Roger Rabbit",
+      "year": 1988
+    },
+    "Clerks": {
+      "id": 2292,
+      "poster": "/9IiSgiq4h4siTIS9H3o4nZ3h5L9.jpg",
+      "title": "Clerks",
+      "year": 1994
+    },
+    "So I Married an Axe Murderer": {
+      "id": 10442,
+      "poster": "/zQlpQDKDADKlgqfMs1E191ofDJU.jpg",
+      "title": "So I Married an Axe Murderer",
+      "year": 1993
+    },
+    "Austin Powers: The Spy Who Shagged Me": {
+      "id": 817,
+      "poster": "/jiF7UShERJFn5RtgfBK2lIJrOTc.jpg",
+      "title": "Austin Powers: The Spy Who Shagged Me",
+      "year": 1999
+    },
+    "Spirited Away": {
+      "id": 129,
+      "poster": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+      "title": "Spirited Away",
+      "year": 2001
+    },
+    "Porco Rosso": {
+      "id": 11621,
+      "poster": "/8mIvSvnVBApfORL9N6S38Q7wD6A.jpg",
+      "title": "Porco Rosso",
+      "year": 1992
+    },
+    "Goodfellas": {
+      "id": 769,
+      "poster": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+      "title": "GoodFellas",
+      "year": 1990
+    },
+    "Ice Age": {
+      "id": 425,
+      "poster": "/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg",
+      "title": "Ice Age",
+      "year": 2002
+    },
+    "Irréversible": {
+      "id": 979,
+      "poster": "/rxeDxo8FvZpLu6iplNpxdtAVnfu.jpg",
+      "title": "Irreversible",
+      "year": 2002
+    },
+    "Ocean's Twelve": {
+      "id": 163,
+      "poster": "/pE5anFf7nf6ah7V3VRezQ1KSovi.jpg",
+      "title": "Ocean's Twelve",
+      "year": 2004
+    },
+    "Aladdin": {
+      "id": 812,
+      "poster": "/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
+      "title": "Aladdin",
+      "year": 1992
+    },
+    "The Mask of Zorro": {
+      "id": 9342,
+      "poster": "/bdMufwGDDzqu4kTSQwrKc5WR4bu.jpg",
+      "title": "The Mask of Zorro",
+      "year": 1998
+    },
+    "Spy Kids": {
+      "id": 10054,
+      "poster": "/j3rUkHIAAoKr6jU30q3Db4fcIF9.jpg",
+      "title": "Spy Kids",
+      "year": 2001
+    },
+    "Charlie's Angels": {
+      "id": 4327,
+      "poster": "/iHTmZs0BmkwMCYi8rhvMWC5G4EM.jpg",
+      "title": "Charlie's Angels",
+      "year": 2000
+    },
+    "The Counselor": {
+      "id": 109091,
+      "poster": "/aNiLkGnzVb5CorZHKk16w9S4COt.jpg",
+      "title": "The Counselor",
+      "year": 2013
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Wicked": {
+      "id": 402431,
+      "poster": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+      "title": "Wicked",
+      "year": 2024
+    },
+    "West Side Story": {
+      "id": 511809,
+      "poster": "/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+      "title": "West Side Story",
+      "year": 2021
+    },
+    "Monsters, Inc.": {
+      "id": 585,
+      "poster": "/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
+      "title": "Monsters, Inc.",
+      "year": 2001
+    },
+    "Jimmy Neutron: Boy Genius": {
+      "id": 12589,
+      "poster": "/pUwdquA6Bf3Gq8yT5iQL1Yq0jkl.jpg",
+      "title": "Jimmy Neutron: Boy Genius",
+      "year": 2001
+    },
+    "The Lord of the Rings: The Fellowship of the Ring": {
+      "id": 120,
+      "poster": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001
+    },
+    "A Beautiful Mind": {
+      "id": 453,
+      "poster": "/rEIg5yJdNOt9fmX4P8gU9LeNoTQ.jpg",
+      "title": "A Beautiful Mind",
+      "year": 2001
+    },
+    "Rango": {
+      "id": 44896,
+      "poster": "/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
+      "title": "Rango",
+      "year": 2011
+    },
+    "Sleeping Beauty": {
+      "id": 10882,
+      "poster": "/n3pxoMDDxp10c1smgbDzW4bwlzq.jpg",
+      "title": "Sleeping Beauty",
+      "year": 1959
+    },
+    "Brigadoon": {
+      "id": 18283,
+      "poster": "/va3DcpyZDnnWdRB0FTPKzObo3Uz.jpg",
+      "title": "Brigadoon",
+      "year": 1954
+    },
+    "The Empire Strikes Back": {
+      "id": 1891,
+      "poster": "/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+      "title": "The Empire Strikes Back",
+      "year": 1980
+    },
+    "Thelma & Louise": {
+      "id": 1541,
+      "poster": "/vbRAGLzbC75QfiKD1lKjmnQGuph.jpg",
+      "title": "Thelma & Louise",
+      "year": 1991
+    },
+    "Tin Men": {
+      "id": 10896,
+      "poster": "/5rWE9ft0Uc2kuDWlkg5vQth58XZ.jpg",
+      "title": "Tin Men",
+      "year": 1987
+    },
+    "The White Ribbon": {
+      "id": 37903,
+      "poster": "/54dlnGDexrwAFlDb8HWKfmmX4LB.jpg",
+      "title": "The White Ribbon",
+      "year": 2009
+    },
+    "Sonic the Hedgehog": {
+      "id": 454626,
+      "poster": "/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+      "title": "Sonic the Hedgehog",
+      "year": 2020
+    }
+  },
+  "spotifyEpisodeId": "3OO4E86ujZvBN1SfA9kA3S"
+}

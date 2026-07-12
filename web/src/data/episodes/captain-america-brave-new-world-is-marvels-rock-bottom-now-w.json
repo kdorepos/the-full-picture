@@ -1,0 +1,390 @@
+{
+  "slug": "captain-america-brave-new-world-is-marvels-rock-bottom-now-w",
+  "title": "‘Captain America: Brave New World’ Is Marvel’s Rock Bottom. Now What?",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2025-02-14",
+  "runtimeMin": 70,
+  "format": "Sean Fennessey, Amanda Dobbins, and Chris Ryan record a same-night spoiler review of the fourth Captain America movie, then use it to ask whether the MCU has bottomed out.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘Captain America: Brave New World’",
+      "note": "spoilers · recorded the night they saw it",
+      "films": [
+        {
+          "title": "Captain America: Brave New World",
+          "year": 2025,
+          "note": "The 35th MCU film, directed by Julius Onah and credited to roughly a dozen-and-a-half writers (Malcolm Spellman among them), with Anthony Mackie's Sam Wilson now carrying the shield. All three hosts pan it: Chris calls it one of the worst superhero movies he's ever seen, Amanda says it 'sucked,' and Sean rates it near the bottom of the MCU. Their read: not a movie so much as loose ends being tied up from 'The Incredible Hulk,' 'Eternals,' and 'The Falcon and the Winter Soldier,' with visible seams from heavy reshoots (Giancarlo Esposito's Sidewinder added late, gone by the third act). The plot hangs on adamantium mined from the Celestial in 'Eternals' (an X-Men tease), Isaiah Bradley's mind-controlled assassination attempt, and Harrison Ford's President Thaddeus Ross turning into Red Hulk in the last 20 minutes, resolved via CGI cherry blossoms. Danny Ramirez plays the new Falcon; Shira Haas's Ruth/Sabra gets nothing to do; Tim Blake Nelson's Leader is played straight. They'd rather have watched 'Madame Web.'"
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The rest of the MCU, past and future",
+      "films": [
+        "The Incredible Hulk",
+        "Eternals",
+        "Avengers: Endgame",
+        "Avengers: Infinity War",
+        "Black Panther",
+        "Captain America: The First Avenger",
+        "Doctor Strange in the Multiverse of Madness",
+        "Thor: Ragnarok",
+        "Thor: Love and Thunder",
+        "Ant-Man and the Wasp: Quantumania",
+        "Deadpool & Wolverine",
+        "Thunderbolts",
+        "The Fantastic Four: First Steps",
+        "Avengers: Doomsday",
+        "Avengers: Secret Wars"
+      ]
+    },
+    {
+      "group": "Other comic-book movies",
+      "films": [
+        "Madame Web",
+        "Kraven the Hunter",
+        "Venom",
+        "Logan",
+        "Superman"
+      ]
+    },
+    {
+      "group": "Harrison Ford's thrillers",
+      "films": [
+        "Clear and Present Danger",
+        "Patriot Games",
+        "Air Force One"
+      ]
+    },
+    {
+      "group": "Julius Onah's other films",
+      "films": [
+        "The Cloverfield Paradox",
+        "Luce"
+      ]
+    },
+    {
+      "group": "Cinematic universes, for better or worse",
+      "films": [
+        "John Wick",
+        "John Wick: Chapter 4",
+        "From the World of John Wick: Ballerina",
+        "Den of Thieves",
+        "The Fast and the Furious"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Companion",
+        "Conclave",
+        "Werewolves",
+        "Jurassic Park",
+        "Rogue One: A Star Wars Story",
+        "Halloween 5: The Revenge of Michael Myers",
+        "Singin' in the Rain",
+        "Snatch",
+        "Paddington in Peru",
+        "Bridget Jones's Diary",
+        "Bridget Jones: Mad About the Boy"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "The Fantastic Four: First Steps": 617126,
+    "From the World of John Wick: Ballerina": 541671
+  },
+  "excluded": {
+    "TV": [
+      "The Falcon and the Winter Soldier",
+      "WandaVision",
+      "Loki",
+      "Secret Invasion",
+      "1923",
+      "Lioness",
+      "Succession"
+    ],
+    "Podcasts": [
+      "The Watch",
+      "Good Hang"
+    ],
+    "Books": [
+      "The Odyssey",
+      "Vineland",
+      "Bridget Jones's Diary (novel)",
+      "The Turner Diaries"
+    ],
+    "Ads": [
+      "Tremfya",
+      "NOS Energy",
+      "Carvana",
+      "Boar's Head",
+      "T-Mobile Home Run Derby",
+      "Wolf Trap",
+      "Pure Michigan"
+    ]
+  },
+  "tmdb": {
+    "Captain America: Brave New World": {
+      "id": 822119,
+      "poster": "/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
+      "title": "Captain America: Brave New World",
+      "year": 2025
+    },
+    "The Incredible Hulk": {
+      "id": 1724,
+      "poster": "/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
+      "title": "The Incredible Hulk",
+      "year": 2008
+    },
+    "Eternals": {
+      "id": 524434,
+      "poster": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+      "title": "Eternals",
+      "year": 2021
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "Captain America: The First Avenger": {
+      "id": 1771,
+      "poster": "/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+      "title": "Captain America: The First Avenger",
+      "year": 2011
+    },
+    "Doctor Strange in the Multiverse of Madness": {
+      "id": 453395,
+      "poster": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "year": 2022
+    },
+    "Thor: Ragnarok": {
+      "id": 284053,
+      "poster": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "title": "Thor: Ragnarok",
+      "year": 2017
+    },
+    "Thor: Love and Thunder": {
+      "id": 616037,
+      "poster": "/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+      "title": "Thor: Love and Thunder",
+      "year": 2022
+    },
+    "Ant-Man and the Wasp: Quantumania": {
+      "id": 640146,
+      "poster": "/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "year": 2023
+    },
+    "Deadpool & Wolverine": {
+      "id": 533535,
+      "poster": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+      "title": "Deadpool & Wolverine",
+      "year": 2024
+    },
+    "Thunderbolts": {
+      "id": 986056,
+      "poster": "/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
+      "title": "Thunderbolts*",
+      "year": 2025
+    },
+    "The Fantastic Four: First Steps": {
+      "id": 617126,
+      "poster": "/nf5qaSEvyYSNeFH0YhSs5EsBLX9.jpg",
+      "title": "The Fantastic 4: First Steps",
+      "year": 2025
+    },
+    "Avengers: Doomsday": {
+      "id": 1003596,
+      "poster": "/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
+      "title": "Avengers: Doomsday",
+      "year": 2026
+    },
+    "Avengers: Secret Wars": {
+      "id": 1003598,
+      "poster": "/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
+      "title": "Avengers: Secret Wars",
+      "year": 2027
+    },
+    "Madame Web": {
+      "id": 634492,
+      "poster": "/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",
+      "title": "Madame Web",
+      "year": 2024
+    },
+    "Kraven the Hunter": {
+      "id": 539972,
+      "poster": "/1GvBhRxY6MELDfxFrete6BNhBB5.jpg",
+      "title": "Kraven the Hunter",
+      "year": 2024
+    },
+    "Venom": {
+      "id": 335983,
+      "poster": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+      "title": "Venom",
+      "year": 2018
+    },
+    "Logan": {
+      "id": 263115,
+      "poster": "/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+      "title": "Logan",
+      "year": 2017
+    },
+    "Superman": {
+      "id": 1061474,
+      "poster": "/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
+      "title": "Superman",
+      "year": 2025
+    },
+    "Clear and Present Danger": {
+      "id": 9331,
+      "poster": "/6xTM8FPxrLRYwz6I3fqtwh7xybs.jpg",
+      "title": "Clear and Present Danger",
+      "year": 1994
+    },
+    "Patriot Games": {
+      "id": 9869,
+      "poster": "/9IT7gnszrRthduYxCLqaIkM55Un.jpg",
+      "title": "Patriot Games",
+      "year": 1992
+    },
+    "Air Force One": {
+      "id": 9772,
+      "poster": "/evO1iENjLpUnbwjnt5XK85jRYob.jpg",
+      "title": "Air Force One",
+      "year": 1997
+    },
+    "The Cloverfield Paradox": {
+      "id": 384521,
+      "poster": "/vJi2ExTcWdJR3150VPKqqtdGxsT.jpg",
+      "title": "The Cloverfield Paradox",
+      "year": 2018
+    },
+    "Luce": {
+      "id": 492616,
+      "poster": "/uxig1ZvVddzXVRYNOAQ6hKtea80.jpg",
+      "title": "Luce",
+      "year": 2019
+    },
+    "John Wick": {
+      "id": 245891,
+      "poster": "/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
+      "title": "John Wick",
+      "year": 2014
+    },
+    "John Wick: Chapter 4": {
+      "id": 603692,
+      "poster": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+      "title": "John Wick: Chapter 4",
+      "year": 2023
+    },
+    "From the World of John Wick: Ballerina": {
+      "id": 541671,
+      "poster": "/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg",
+      "title": "Ballerina",
+      "year": 2025
+    },
+    "Den of Thieves": {
+      "id": 449443,
+      "poster": "/dAP5NpkrMMczir5dUPjRR6ywqgz.jpg",
+      "title": "Den of Thieves",
+      "year": 2018
+    },
+    "The Fast and the Furious": {
+      "id": 9799,
+      "poster": "/gqY0ITBgT7A82poL9jv851qdnIb.jpg",
+      "title": "The Fast and the Furious",
+      "year": 2001
+    },
+    "Companion": {
+      "id": 1084199,
+      "poster": "/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
+      "title": "Companion",
+      "year": 2025
+    },
+    "Conclave": {
+      "id": 974576,
+      "poster": "/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
+      "title": "Conclave",
+      "year": 2024
+    },
+    "Werewolves": {
+      "id": 970450,
+      "poster": "/otXBlMPbFBRs6o2Xt6KX59Qw6dL.jpg",
+      "title": "Werewolves",
+      "year": 2024
+    },
+    "Jurassic Park": {
+      "id": 329,
+      "poster": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "title": "Jurassic Park",
+      "year": 1993
+    },
+    "Rogue One: A Star Wars Story": {
+      "id": 330459,
+      "poster": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+      "title": "Rogue One: A Star Wars Story",
+      "year": 2016
+    },
+    "Halloween 5: The Revenge of Michael Myers": {
+      "id": 11361,
+      "poster": "/rYvP6yMXCIVHnkVtwGaAXFmpzkB.jpg",
+      "title": "Halloween 5: The Revenge of Michael Myers",
+      "year": 1989
+    },
+    "Singin' in the Rain": {
+      "id": 872,
+      "poster": "/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+      "title": "Singin' in the Rain",
+      "year": 1952
+    },
+    "Snatch": {
+      "id": 107,
+      "poster": "/kJZoAHq1SLDdWjeNGtlHAnGpmFV.jpg",
+      "title": "Snatch",
+      "year": 2000
+    },
+    "Paddington in Peru": {
+      "id": 516729,
+      "poster": "/1ffZAucqfvQu36x1C49XfOdjuOG.jpg",
+      "title": "Paddington in Peru",
+      "year": 2024
+    },
+    "Bridget Jones's Diary": {
+      "id": 634,
+      "poster": "/olMTi7uCaec9Yr3Ar07D2SIja1G.jpg",
+      "title": "Bridget Jones's Diary",
+      "year": 2001
+    },
+    "Bridget Jones: Mad About the Boy": {
+      "id": 1272149,
+      "poster": "/e5VR3nhLYG60znxaqU84wv4VSCb.jpg",
+      "title": "Bridget Jones: Mad About the Boy",
+      "year": 2025
+    }
+  },
+  "spotifyEpisodeId": "4SsK7DquyZi1Tert3kce1z"
+}

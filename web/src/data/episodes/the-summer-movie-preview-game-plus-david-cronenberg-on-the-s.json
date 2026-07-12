@@ -1,0 +1,1198 @@
+{
+  "slug": "the-summer-movie-preview-game-plus-david-cronenberg-on-the-s",
+  "title": "The Summer Movie Preview Game. Plus: David Cronenberg on ‘The Shrouds.’",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2025-04-25",
+  "runtimeMin": 162,
+  "format": "Sean Fennessey and Amanda Dobbins run a new box-office-and-Metacritic prediction game across the 2025 summer slate, then Sean talks The Shrouds and Cronenberg's whole career with critic Adam Naiman and with David Cronenberg himself.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The new Academy rules",
+      "note": "watch-the-movies mandates, a casting Oscar, AI guidance",
+      "films": [
+        {
+          "title": "Sinners",
+          "year": 2025,
+          "note": "This week's box-office sensation, floated as a ripe nominee in the new casting category; Sean uses it to walk through how the casting-directors branch will shortlist and bake-off the award."
+        },
+        {
+          "title": "The Verdict",
+          "year": 1982,
+          "note": "Amanda's example of the courtroom 'disregard that testimony' trick (Paul Newman gets great testimony from a witness, then Milo O'Shea debunks it), cited while mocking the Academy's do-not-help/do-not-hinder AI guidance."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The Summer Movie Preview Game",
+      "note": "guess the domestic box office and Metacritic score; lowest combined miss wins",
+      "films": [
+        {
+          "title": "Thunderbolts*",
+          "year": 2025,
+          "note": "Marvel's May 2 opener from the Beef team, selling Sebastian Stan and Florence Pugh rather than big stars. Box-office guesses $199M–$215M off a Black Widow comp; Metacritic 61–64 for 'polite' reviews."
+        },
+        {
+          "title": "Friendship",
+          "year": 2025,
+          "note": "A24 comedy with Tim Robinson and Paul Rudd, out of Toronto, marketed with a corduroy 'male friendship' hat. Very funny in the room but I-Think-You-Should-Leave-coded and a tough theatrical sell; $12M–$22M, Metacritic 77–80."
+        },
+        {
+          "title": "Final Destination Bloodlines",
+          "year": 2025,
+          "note": "Sixth in the series after a ~15-year gap, May 16. A reliable brand dropped into a crowded corridor; $42M–$46M, Metacritic 44–62. Sean and CR are planning a kill-rankings pod."
+        },
+        {
+          "title": "Lilo & Stitch",
+          "year": 2025,
+          "note": "Disney live-action from Marcel the Shell's Dean Fleischer Camp, the big Memorial Day kids' tentpole. Nostalgia play but post–Snow White nerves; $180M–$218M, Metacritic 56 (both hosts)."
+        },
+        {
+          "title": "Mission: Impossible - The Final Reckoning",
+          "year": 2025,
+          "note": "The May 23 heavyweight and older-millennial draw. $202M–$220M, Metacritic 83 (both hosts). Sean hadn't seen it yet, prompting the running 'you have to make connections / send emails' bit."
+        },
+        {
+          "title": "Bring Her Back",
+          "year": 2025,
+          "note": "The Philippou brothers' Talk to Me follow-up with Sally Hawkins, May 30. Less viral heat than Talk to Me; $23M–$48M, Metacritic 67. A $48M finish would rank among the biggest A24 releases ever."
+        },
+        {
+          "title": "Karate Kid: Legends",
+          "year": 2025,
+          "note": "Roughly the sixth Karate Kid, May 30, with a built-in Cobra Kai base. The widest gap of the game: $66M vs. $113M (new-Ghostbusters comp); Metacritic 42–43."
+        },
+        {
+          "title": "The Phoenician Scheme",
+          "year": 2025,
+          "note": "The Wes Anderson film Sean has already seen, May 30. $23M–$25M, Metacritic 75–78, roughly where Anderson has settled outside Grand Budapest, Moonrise Kingdom, and Isle of Dogs."
+        },
+        {
+          "title": "Ballerina",
+          "year": 2025,
+          "note": "John Wick spinoff with Ana de Armas, June 6, reshot to fold Keanu in. Doubts about de Armas as a draw; $87M–$140M off A Quiet Place: Day One and Venom comps, Metacritic 42–57."
+        },
+        {
+          "title": "The Life of Chuck",
+          "year": 2025,
+          "note": "Mike Flanagan's Stephen King novella adaptation, TIFF Audience Award, Neon, June 6. Sean saw it: 'the feeling of magic' plus a cheese factor; either a $70M crowd-pleaser or a small indie. $18M–$23M, Metacritic 62–66."
+        },
+        {
+          "title": "How to Train Your Dragon",
+          "year": 2025,
+          "note": "Universal's live-action remake, June 13, from original co-director Dean DeBlois. A sturdy franchise with a sequel already announced; $168M–$250M, Metacritic 62–74."
+        },
+        {
+          "title": "Materialists",
+          "year": 2025,
+          "note": "Celine Song's second feature with Dakota Johnson, Chris Evans, and Pedro Pascal, June 13. Big gap on faith in the A24 brand and Past Lives comps: $9M vs. $25M; Metacritic 73 (both hosts)."
+        },
+        {
+          "title": "28 Years Later",
+          "year": 2025,
+          "note": "The Danny Boyle / Alex Garland reunion, June, pitched as high-class studio horror. $88M (both hosts) off a Civil War comp; Metacritic 77–83."
+        },
+        {
+          "title": "Elio",
+          "year": 2025,
+          "note": "Original Pixar, June 20, punted out of 2024, with the studio visibly nervous. Low-end Pixar zone alongside The Good Dinosaur and Onward; $117M–$120M, Metacritic 72 (both hosts)."
+        },
+        {
+          "title": "F1",
+          "year": 2025,
+          "note": "Apple's Brad Pitt racing movie from Joseph Kosinski (Warner Bros. distributing), June 27, with obvious Top Gun: Maverick DNA. Debate over whether F1 travels in the US; $132M–$178M, Metacritic 61–74."
+        },
+        {
+          "title": "M3GAN 2.0",
+          "year": 2025,
+          "note": "June 27, same day as F1. Both hosts kept it under $100M ($90M–$99M); Metacritic 64–68. Recreating the original's viral camp moment will be hard."
+        },
+        {
+          "title": "Jurassic World Rebirth",
+          "year": 2025,
+          "note": "The seventh Jurassic, Gareth Edwards directing Scarlett Johansson and Jonathan Bailey, July 2. $366M–$384M, Metacritic 58–70. The springboard for Sean's rant that this money should fund original swings like Sinners."
+        },
+        {
+          "title": "Superman",
+          "year": 2025,
+          "note": "James Gunn's DCU relaunch, July 11, 'probably the most important movie of the summer.' Huge gap ($257M vs. $410M) on the theory that the one-word title is the whole pitch (a Barbie comp); Metacritic 68 (both hosts)."
+        },
+        {
+          "title": "Eddington",
+          "year": 2025,
+          "note": "Ari Aster's A24 COVID-era New Mexico Western, July 18, counter-programming for starving cinephiles. $23M–$28M off a Beau Is Afraid box-office comp; Metacritic 67–91, Sean taking the big swing on critical acclaim."
+        },
+        {
+          "title": "Smurfs",
+          "year": 2025,
+          "note": "The animated Smurfs movie with Rihanna as Smurfette. Sean smells a secret hit off a Garfield Movie comp: $90M–$114M, Metacritic 34–39."
+        },
+        {
+          "title": "I Know What You Did Last Summer",
+          "year": 2025,
+          "note": "Legacy slasher sequel with Madelyn Cline, Freddie Prinze Jr. returning (Sarah Michelle Gellar's character stayed dead). Trap comp; $41M–$66M, Metacritic 43–54."
+        },
+        {
+          "title": "The Fantastic Four: First Steps",
+          "year": 2025,
+          "note": "Pedro Pascal and a pregnant Sue Storm (Vanessa Kirby), July 25, with a well-liked retro-futurist trailer. $378M–$390M, Metacritic 56–67. Sean is betting on a Marvel bounce-back; Amanda isn't."
+        },
+        {
+          "title": "The Bad Guys 2",
+          "year": 2025,
+          "note": "DreamWorks sequel with Sam Rockwell, August. 'Influencer-famous' but real playground currency among kids; $84M–$118M, Metacritic 54–61."
+        },
+        {
+          "title": "The Naked Gun",
+          "year": 2025,
+          "note": "Liam Neeson comedy reboot that needs audiences to show up for a comedy. Good vibes among 40-something dudes at CinemaCon; $42M–$62M, Metacritic 53–59."
+        },
+        {
+          "title": "Together",
+          "year": 2025,
+          "note": "The Dave Franco / Alison Brie body-horror movie out of Sundance with an awesome CinemaCon trailer. $16M–$36M, Metacritic 70–82, helped by a soft August."
+        },
+        {
+          "title": "Freakier Friday",
+          "year": 2025,
+          "note": "Freaky Friday legacy sequel, August 8. Sean found the CinemaCon footage 'downright dreadful' and 'shot with a potato'; big gap of $72M (Mean Girls comp) vs. $117M, Metacritic 44–48."
+        },
+        {
+          "title": "Weapons",
+          "year": 2025,
+          "note": "Zach Cregger's Barbarian follow-up, August 8, running the Longlegs mystery-marketing playbook. $53M–$72M, Metacritic 75–76."
+        },
+        {
+          "title": "Nobody 2",
+          "year": 2025,
+          "note": "Bob Odenkirk sequel, August 15. $18M–$33M, Metacritic 56–58. A surprise the sequel exists at all, given the first's modest gross."
+        },
+        {
+          "title": "Honey Don't!",
+          "year": 2025,
+          "note": "Ethan Coen's second solo feature, co-written with Tricia Cooke, reuniting with Margaret Qualley, a Drive-Away Dolls follow-up. $9M–$10M, Metacritic 56–72."
+        },
+        {
+          "title": "The Roses",
+          "year": 2025,
+          "note": "The last movie of the summer: Jay Roach remaking The War of the Roses with Olivia Colman and Benedict Cumberbatch as the warring couple. $8M–$13M, Metacritic 62–67."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "‘The Shrouds’ and Cronenberg's career",
+      "guest": "Adam Naiman on",
+      "films": [
+        {
+          "title": "The Shrouds",
+          "year": 2024,
+          "note": "Naiman's best film of 2025, seen at TIFF. Vincent Cassel plays Karsh, a grieving tech magnate (with Cronenberg's own hair) whose GraveTech shrouds livestream his dead wife's decomposing body; Diane Kruger plays three roles. A funny, arch grief film 'so close to not being good,' loaded with Cronenberg's checklist of doppelgangers, screens, conspiracy, and desire. Partly financed by Saint Laurent. Cassel is a 'drip god.'"
+        },
+        {
+          "title": "The Brood",
+          "year": 1979,
+          "note": "Where Naiman and Sean tell newcomers to start: Cronenberg's post-divorce, custody-battle 'evil kid' movie, his version of Kramer vs. Kramer, where family rage is literally externalized. Biological horror rather than supernatural."
+        },
+        {
+          "title": "Videodrome",
+          "year": 1983,
+          "note": "'A movie about the internet before the internet,' and a monument to Toronto pettiness: the Civic TV parody is Cronenberg's grudge against City TV founder Moses Znaimer, whose name gets a head blown off."
+        },
+        {
+          "title": "The Fly",
+          "year": 1986,
+          "note": "The mid-'80s gore-fest that gave people a slightly wrong idea of him, but 'you don't get Jurassic Park Jeff Goldblum without Cronenberg Jeff Goldblum.' A best-Cronenberg contender for Sean alongside Crash and The Shrouds."
+        },
+        {
+          "title": "Crash",
+          "year": 1996,
+          "note": "The Cannes provocation they had to invent an award for. Sean saw it at a COVID drive-in with a club's weekend playing over the fence."
+        },
+        {
+          "title": "A History of Violence",
+          "year": 2005,
+          "note": "The Viggo Mortensen film that convinced people 'he's back' after Spider underperformed; Oscar-nominated for its script and, oddly, William Hurt instead of Mortensen or Maria Bello. Has post-Tarantino hitman comedy, including a great dropped gun."
+        },
+        {
+          "title": "Dead Ringers",
+          "year": 1988,
+          "note": "Two hours nearly gore-free save the one dream scene where Geneviève Bujold bites the Jeremy Irons twins apart: 'a little goes a long way.' Sean finds it a better idea than a film and vows to revisit it."
+        },
+        {
+          "title": "Scanners",
+          "year": 1981,
+          "note": "The one with 'punk rock fandom' thanks to the meme-famous exploding head and Michael Ironside's off-the-charts energy."
+        },
+        {
+          "title": "Crimes of the Future",
+          "year": 2022,
+          "note": "The 'return to body-horror form' before The Shrouds, which Naiman thinks Neon mishandled by selling it like a William Castle you'll-throw-up gimmick."
+        },
+        {
+          "title": "The Substance",
+          "year": 2024,
+          "note": "Coralie Fargeat's hit, constantly compared to Cronenberg. Naiman calls the comparison superficial (more manic than anything Cronenberg made) but notes his real inheritors (Ducournau, Fargeat) are largely women and queer filmmakers."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "David Cronenberg",
+      "guest": "David Cronenberg on",
+      "films": [
+        {
+          "title": "The Shrouds",
+          "year": 2024,
+          "note": "Cronenberg, 82, on his most personal film: begun as a Netflix series (he wrote two episodes before it collapsed), reworked into a feature. Grief as a physical, bodily loss after his wife died in 2017; conspiracy as the mind's search for meaning; the GraveTech is 'totally feasible now.' He drives a Tesla like Karsh, has Bluetooth hearing aids and plastic lenses ('totally bionic'), and credits Howard Shore's score as 'another character' carrying the desolation Karsh won't show."
+        },
+        {
+          "title": "The Girl with the Needle",
+          "year": 2024,
+          "note": "Cronenberg's answer to the show's closing question: Magnus von Horn's Danish film, 'beautiful and horrifying at the same time,' with fantastic cinematography."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In the Academy-rules talk",
+      "films": [
+        "Inside Out 2",
+        "The Brutalist",
+        "Emilia Pérez",
+        "Anora"
+      ]
+    },
+    {
+      "group": "Comps and asides in the preview game",
+      "films": [
+        "Deadpool & Wolverine",
+        "It Ends with Us",
+        "IF",
+        "Black Widow",
+        "The Marvels",
+        "Captain America: Brave New World",
+        "Blink Twice",
+        "Saw X",
+        "Marcel the Shell with Shoes On",
+        "Snow White",
+        "Mufasa: The Lion King",
+        "The Greatest Showman",
+        "A Quiet Place: Day One",
+        "Venom: The Last Dance",
+        "Blonde",
+        "Past Lives",
+        "28 Days Later",
+        "The Good Dinosaur",
+        "Onward",
+        "Top Gun: Maverick",
+        "Mission: Impossible - Dead Reckoning Part One",
+        "Fast X",
+        "Rogue One",
+        "The Creator",
+        "Barbie",
+        "Batman v Superman: Dawn of Justice",
+        "Man of Steel",
+        "Longlegs",
+        "Barbarian",
+        "Nobody",
+        "Mean Girls",
+        "Freaky Friday",
+        "The Princess Diaries",
+        "Trap",
+        "Glass Onion",
+        "The Garfield Movie",
+        "Scream",
+        "Drive-Away Dolls",
+        "The War of the Roses",
+        "Jurassic World",
+        "Jurassic World Dominion"
+      ]
+    },
+    {
+      "group": "Not eligible for the game (streaming or on deck)",
+      "films": [
+        "Mountainhead",
+        "Another Simple Favor",
+        "Fear Street: Prom Queen",
+        "Heads of State",
+        "The Old Guard 2",
+        "Happy Gilmore 2",
+        "Kinda Pregnant",
+        "G20",
+        "A Working Man",
+        "The Accountant 2",
+        "The Amateur",
+        "Havoc"
+      ]
+    },
+    {
+      "group": "Around the Shrouds conversation",
+      "films": [
+        "Naked Lunch",
+        "Spider",
+        "Cosmopolis",
+        "Maps to the Stars",
+        "Eastern Promises",
+        "A Dangerous Method",
+        "eXistenZ",
+        "The Dead Zone",
+        "M. Butterfly",
+        "Shivers",
+        "Rabid",
+        "Stereo",
+        "The Woman in the Yard",
+        "Black Bag",
+        "Mickey 17",
+        "A Minecraft Movie",
+        "Titane",
+        "Raw",
+        "Alpha",
+        "Domino",
+        "Trouble Every Day",
+        "Rosemary's Baby",
+        "The Exorcist",
+        "Kramer vs. Kramer",
+        "Jurassic Park",
+        "Lawrence of Arabia",
+        "The Dead",
+        "Full Metal Jacket",
+        "Stand by Me",
+        "The Shawshank Redemption",
+        "American Fiction"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Beef",
+      "Cobra Kai",
+      "Drive to Survive",
+      "Game of Thrones",
+      "The Last of Us",
+      "Stranger Things",
+      "Outer Banks",
+      "Ginny & Georgia",
+      "Gilmore Girls",
+      "Ripley",
+      "Disclaimer",
+      "Nathan for You",
+      "I Think You Should Leave"
+    ],
+    "Ads": [
+      "60 Songs That Explain the 90s",
+      "State Farm",
+      "Tremfaya",
+      "Amazon Prime",
+      "Wells Fargo Autograph Journey",
+      "Whole Foods",
+      "T-Mobile Home Run Derby"
+    ]
+  },
+  "tmdb": {
+    "Sinners": {
+      "id": 1233413,
+      "poster": "/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+      "title": "Sinners",
+      "year": 2025
+    },
+    "The Verdict": {
+      "id": 24226,
+      "poster": "/iYEuFP1bpj5yOenKliiRFcNO3VE.jpg",
+      "title": "The Verdict",
+      "year": 1982
+    },
+    "Thunderbolts*": {
+      "id": 986056,
+      "poster": "/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
+      "title": "Thunderbolts*",
+      "year": 2025
+    },
+    "Friendship": {
+      "id": 1239655,
+      "poster": "/eikAu9gPJTQQmwFwa1zX5Hfz96P.jpg",
+      "title": "Friendship",
+      "year": 2025
+    },
+    "Final Destination Bloodlines": {
+      "id": 574475,
+      "poster": "/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg",
+      "title": "Final Destination Bloodlines",
+      "year": 2025
+    },
+    "Lilo & Stitch": {
+      "id": 552524,
+      "poster": "/ckQzKpQJO4ZQDCN5evdpKcfm7Ys.jpg",
+      "title": "Lilo & Stitch",
+      "year": 2025
+    },
+    "Mission: Impossible - The Final Reckoning": {
+      "id": 575265,
+      "poster": "/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",
+      "title": "Mission: Impossible - The Final Reckoning",
+      "year": 2025
+    },
+    "Bring Her Back": {
+      "id": 1151031,
+      "poster": "/1Q3GlCXGYWELifxANYZ5OVMRVZl.jpg",
+      "title": "Bring Her Back",
+      "year": 2025
+    },
+    "Karate Kid: Legends": {
+      "id": 1011477,
+      "poster": "/c90Lt7OQGsOmhv6x4JoFdoHzw5l.jpg",
+      "title": "Karate Kid: Legends",
+      "year": 2025
+    },
+    "The Phoenician Scheme": {
+      "id": 1137350,
+      "poster": "/u2jxeYLXTYfu0bqJmnLGIgZswib.jpg",
+      "title": "The Phoenician Scheme",
+      "year": 2025
+    },
+    "Ballerina": {
+      "id": 541671,
+      "poster": "/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg",
+      "title": "Ballerina",
+      "year": 2025
+    },
+    "The Life of Chuck": {
+      "id": 842924,
+      "poster": "/oumprkO9bThExP8NwxBIBnvBu2v.jpg",
+      "title": "The Life of Chuck",
+      "year": 2025
+    },
+    "How to Train Your Dragon": {
+      "id": 1087192,
+      "poster": "/53dsJ3oEnBhTBVMigWJ9tkA5bzJ.jpg",
+      "title": "How to Train Your Dragon",
+      "year": 2025
+    },
+    "Materialists": {
+      "id": 1136867,
+      "poster": "/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg",
+      "title": "Materialists",
+      "year": 2025
+    },
+    "28 Years Later": {
+      "id": 1100988,
+      "poster": "/n5FygjEppOvac6yEaowi26nTyw3.jpg",
+      "title": "28 Years Later",
+      "year": 2025
+    },
+    "Elio": {
+      "id": 1022787,
+      "poster": "/7z8jDiTZZco9moIKpTUImFtTy7o.jpg",
+      "title": "Elio",
+      "year": 2025
+    },
+    "F1": {
+      "id": 911430,
+      "poster": "/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
+      "title": "F1",
+      "year": 2025
+    },
+    "M3GAN 2.0": {
+      "id": 1071585,
+      "poster": "/oekamLQrwlJjRNmfaBE4llIvkir.jpg",
+      "title": "M3GAN 2.0",
+      "year": 2025
+    },
+    "Jurassic World Rebirth": {
+      "id": 1234821,
+      "poster": "/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
+      "title": "Jurassic World Rebirth",
+      "year": 2025
+    },
+    "Superman": {
+      "id": 1061474,
+      "poster": "/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
+      "title": "Superman",
+      "year": 2025
+    },
+    "Eddington": {
+      "id": 648878,
+      "poster": "/4GIqZUgPZ146BhibsPHMHef2nXX.jpg",
+      "title": "Eddington",
+      "year": 2025
+    },
+    "Smurfs": {
+      "id": 936108,
+      "poster": "/8o6lkhL32xQJeB52IIG1us5BVey.jpg",
+      "title": "Smurfs",
+      "year": 2025
+    },
+    "I Know What You Did Last Summer": {
+      "id": 1083433,
+      "poster": "/8FP2ObEGIiQYQCf83gL4ZVzwZF8.jpg",
+      "title": "I Know What You Did Last Summer",
+      "year": 2025
+    },
+    "The Fantastic Four: First Steps": {
+      "id": 617126,
+      "poster": "/nf5qaSEvyYSNeFH0YhSs5EsBLX9.jpg",
+      "title": "The Fantastic 4: First Steps",
+      "year": 2025
+    },
+    "The Bad Guys 2": {
+      "id": 1175942,
+      "poster": "/26oSPnq0ct59l07QOXZKyzsiRtN.jpg",
+      "title": "The Bad Guys 2",
+      "year": 2025
+    },
+    "The Naked Gun": {
+      "id": 1035259,
+      "poster": "/rwla9vqzrKVVKVKiOuROTIXGsxj.jpg",
+      "title": "The Naked Gun",
+      "year": 2025
+    },
+    "Together": {
+      "id": 1242011,
+      "poster": "/80slKYVM5teFH3kz6ouWrZXveqj.jpg",
+      "title": "Together",
+      "year": 2025
+    },
+    "Freakier Friday": {
+      "id": 1125257,
+      "poster": "/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg",
+      "title": "Freakier Friday",
+      "year": 2025
+    },
+    "Weapons": {
+      "id": 1078605,
+      "poster": "/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+      "title": "Weapons",
+      "year": 2025
+    },
+    "Nobody 2": {
+      "id": 1007734,
+      "poster": "/svXVRoRSu6zzFtCzkRsjZS7Lqpd.jpg",
+      "title": "Nobody 2",
+      "year": 2025
+    },
+    "Honey Don't!": {
+      "id": 1149504,
+      "poster": "/fJm3kmd9NLZWypMas7g34oNFgbk.jpg",
+      "title": "Honey Don't!",
+      "year": 2025
+    },
+    "The Roses": {
+      "id": 1267905,
+      "poster": "/99O8HLHklXGzvF2TqiRqr7WddzT.jpg",
+      "title": "The Roses",
+      "year": 2025
+    },
+    "The Shrouds": {
+      "id": 970947,
+      "poster": "/xXoueIHdllGo5m0ChKvSATJYWBw.jpg",
+      "title": "The Shrouds",
+      "year": 2025
+    },
+    "The Brood": {
+      "id": 28942,
+      "poster": "/zSEt4QXRI4Gypd9xvzvucOmPNl5.jpg",
+      "title": "The Brood",
+      "year": 1979
+    },
+    "Videodrome": {
+      "id": 837,
+      "poster": "/qqqkiZSU9EBGZ1KiDmfn07S7qvv.jpg",
+      "title": "Videodrome",
+      "year": 1983
+    },
+    "The Fly": {
+      "id": 9426,
+      "poster": "/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg",
+      "title": "The Fly",
+      "year": 1986
+    },
+    "Crash": {
+      "id": 884,
+      "poster": "/gpai5oUFyFGLHOCsYTvVMqlbY7A.jpg",
+      "title": "Crash",
+      "year": 1996
+    },
+    "A History of Violence": {
+      "id": 59,
+      "poster": "/3qnO72NHmUgs9JZXAmu4aId9QDl.jpg",
+      "title": "A History of Violence",
+      "year": 2005
+    },
+    "Dead Ringers": {
+      "id": 9540,
+      "poster": "/ofXwDfM8uYAaftD7cBPcIWdCpMn.jpg",
+      "title": "Dead Ringers",
+      "year": 1988
+    },
+    "Scanners": {
+      "id": 9538,
+      "poster": "/VTqLdveNXxGsIAZL5I4RliTTt7.jpg",
+      "title": "Scanners",
+      "year": 1981
+    },
+    "Crimes of the Future": {
+      "id": 819876,
+      "poster": "/RAFYMC0NgK9In9aGY6k6wsIL8w.jpg",
+      "title": "Crimes of the Future",
+      "year": 2022
+    },
+    "The Substance": {
+      "id": 933260,
+      "poster": "/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+      "title": "The Substance",
+      "year": 2024
+    },
+    "The Girl with the Needle": {
+      "id": 1232827,
+      "poster": "/2xkyx8v9G3ePxe1IcFugFQkXHzQ.jpg",
+      "title": "The Girl with the Needle",
+      "year": 2024
+    },
+    "Inside Out 2": {
+      "id": 1022789,
+      "poster": "/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+      "title": "Inside Out 2",
+      "year": 2024
+    },
+    "The Brutalist": {
+      "id": 549509,
+      "poster": "/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
+      "title": "The Brutalist",
+      "year": 2024
+    },
+    "Emilia Pérez": {
+      "id": 974950,
+      "poster": "/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg",
+      "title": "Emilia Pérez",
+      "year": 2024
+    },
+    "Anora": {
+      "id": 1064213,
+      "poster": "/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg",
+      "title": "Anora",
+      "year": 2024
+    },
+    "Deadpool & Wolverine": {
+      "id": 533535,
+      "poster": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+      "title": "Deadpool & Wolverine",
+      "year": 2024
+    },
+    "It Ends with Us": {
+      "id": 1079091,
+      "poster": "/AjV6jFJ2YFIluYo4GQf13AA1tqu.jpg",
+      "title": "It Ends with Us",
+      "year": 2024
+    },
+    "IF": {
+      "id": 639720,
+      "poster": "/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg",
+      "title": "IF",
+      "year": 2024
+    },
+    "Black Widow": {
+      "id": 497698,
+      "poster": "/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+      "title": "Black Widow",
+      "year": 2021
+    },
+    "The Marvels": {
+      "id": 609681,
+      "poster": "/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
+      "title": "The Marvels",
+      "year": 2023
+    },
+    "Captain America: Brave New World": {
+      "id": 822119,
+      "poster": "/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
+      "title": "Captain America: Brave New World",
+      "year": 2025
+    },
+    "Blink Twice": {
+      "id": 840705,
+      "poster": "/lZGOK0I2DJSRlEPNOAFTSNxSjDD.jpg",
+      "title": "Blink Twice",
+      "year": 2024
+    },
+    "Saw X": {
+      "id": 951491,
+      "poster": "/u7Lp1Hi8aBS73jv4KRMIv5aK4ax.jpg",
+      "title": "Saw X",
+      "year": 2023
+    },
+    "Marcel the Shell with Shoes On": {
+      "id": 869626,
+      "poster": "/jaYmP4Ct8YLnxWAW2oYkUjeXtzm.jpg",
+      "title": "Marcel the Shell with Shoes On",
+      "year": 2022
+    },
+    "Snow White": {
+      "id": 447273,
+      "poster": "/oLxWocqheC8XbXbxqJ3x422j9PW.jpg",
+      "title": "Snow White",
+      "year": 2025
+    },
+    "Mufasa: The Lion King": {
+      "id": 762509,
+      "poster": "/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg",
+      "title": "Mufasa: The Lion King",
+      "year": 2024
+    },
+    "The Greatest Showman": {
+      "id": 316029,
+      "poster": "/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg",
+      "title": "The Greatest Showman",
+      "year": 2017
+    },
+    "A Quiet Place: Day One": {
+      "id": 762441,
+      "poster": "/hU42CRk14JuPEdqZG3AWmagiPAP.jpg",
+      "title": "A Quiet Place: Day One",
+      "year": 2024
+    },
+    "Venom: The Last Dance": {
+      "id": 912649,
+      "poster": "/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
+      "title": "Venom: The Last Dance",
+      "year": 2024
+    },
+    "Blonde": {
+      "id": 301502,
+      "poster": "/mEeHqtnWOR44vLCutEFku2WK6ou.jpg",
+      "title": "Blonde",
+      "year": 2022
+    },
+    "Past Lives": {
+      "id": 666277,
+      "poster": "/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg",
+      "title": "Past Lives",
+      "year": 2023
+    },
+    "28 Days Later": {
+      "id": 170,
+      "poster": "/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
+      "title": "28 Days Later",
+      "year": 2002
+    },
+    "The Good Dinosaur": {
+      "id": 105864,
+      "poster": "/8RSkxOO80btfKjyiC5ZiTaCHIT8.jpg",
+      "title": "The Good Dinosaur",
+      "year": 2015
+    },
+    "Onward": {
+      "id": 508439,
+      "poster": "/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg",
+      "title": "Onward",
+      "year": 2020
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Mission: Impossible - Dead Reckoning Part One": {
+      "id": 575264,
+      "poster": "/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "year": 2023
+    },
+    "Fast X": {
+      "id": 385687,
+      "poster": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+      "title": "Fast X",
+      "year": 2023
+    },
+    "Rogue One": {
+      "id": 330459,
+      "poster": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+      "title": "Rogue One: A Star Wars Story",
+      "year": 2016
+    },
+    "The Creator": {
+      "id": 670292,
+      "poster": "/3dSivDtOuyxLDxPH4v2tcNG1fP7.jpg",
+      "title": "The Creator",
+      "year": 2023
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Batman v Superman: Dawn of Justice": {
+      "id": 209112,
+      "poster": "/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
+      "title": "Batman v Superman: Dawn of Justice",
+      "year": 2016
+    },
+    "Man of Steel": {
+      "id": 49521,
+      "poster": "/8GFtkImmK0K1VaUChR0n9O61CFU.jpg",
+      "title": "Man of Steel",
+      "year": 2013
+    },
+    "Longlegs": {
+      "id": 1226578,
+      "poster": "/1EwNyiiNFd863H4e8nWEzutnZD7.jpg",
+      "title": "Longlegs",
+      "year": 2024
+    },
+    "Barbarian": {
+      "id": 913290,
+      "poster": "/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
+      "title": "Barbarian",
+      "year": 2022
+    },
+    "Nobody": {
+      "id": 615457,
+      "poster": "/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg",
+      "title": "Nobody",
+      "year": 2021
+    },
+    "Mean Girls": {
+      "id": 10625,
+      "poster": "/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg",
+      "title": "Mean Girls",
+      "year": 2004
+    },
+    "Freaky Friday": {
+      "id": 10330,
+      "poster": "/ipKcZ4Up7dp18XpsfYUc9NKZy3g.jpg",
+      "title": "Freaky Friday",
+      "year": 2003
+    },
+    "The Princess Diaries": {
+      "id": 9880,
+      "poster": "/7axhsbEzFan6HQQ1aMOy7w3CFRx.jpg",
+      "title": "The Princess Diaries",
+      "year": 2001
+    },
+    "Trap": {
+      "id": 1032823,
+      "poster": "/jwoaKYVqPgYemFpaANL941EF94R.jpg",
+      "title": "Trap",
+      "year": 2024
+    },
+    "Glass Onion": {
+      "id": 661374,
+      "poster": "/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
+      "title": "Glass Onion: A Knives Out Mystery",
+      "year": 2022
+    },
+    "The Garfield Movie": {
+      "id": 748783,
+      "poster": "/p6AbOJvMQhBmffd0PIv0u8ghWeY.jpg",
+      "title": "The Garfield Movie",
+      "year": 2024
+    },
+    "Scream": {
+      "id": 4232,
+      "poster": "/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+      "title": "Scream",
+      "year": 1996
+    },
+    "Drive-Away Dolls": {
+      "id": 957304,
+      "poster": "/6QPKmqntFgLm6sB47AtSelEGGPM.jpg",
+      "title": "Drive-Away Dolls",
+      "year": 2024
+    },
+    "The War of the Roses": {
+      "id": 249,
+      "poster": "/9VWwYsuXhRImUtrJGvN6bYJB2He.jpg",
+      "title": "The War of the Roses",
+      "year": 1989
+    },
+    "Jurassic World": {
+      "id": 135397,
+      "poster": "/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
+      "title": "Jurassic World",
+      "year": 2015
+    },
+    "Jurassic World Dominion": {
+      "id": 507086,
+      "poster": "/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg",
+      "title": "Jurassic World Dominion",
+      "year": 2022
+    },
+    "Mountainhead": {
+      "id": 1417059,
+      "poster": "/jZKK5mFKWbquxhAGMkRJtNYwk0I.jpg",
+      "title": "Mountainhead",
+      "year": 2025
+    },
+    "Another Simple Favor": {
+      "id": 974573,
+      "poster": "/zboCGZ4aIqPMd7VFI4HWnmc7KYJ.jpg",
+      "title": "Another Simple Favor",
+      "year": 2025
+    },
+    "Fear Street: Prom Queen": {
+      "id": 1001414,
+      "poster": "/gevScWYkF8l5i9NjFSXo8HfPNyy.jpg",
+      "title": "Fear Street: Prom Queen",
+      "year": 2025
+    },
+    "Heads of State": {
+      "id": 749170,
+      "poster": "/lVgE5oLzf7ABmzyASEVcjYyHI41.jpg",
+      "title": "Heads of State",
+      "year": 2025
+    },
+    "The Old Guard 2": {
+      "id": 846422,
+      "poster": "/wqfu3bPLJaEWJVk3QOm0rKhxf1A.jpg",
+      "title": "The Old Guard 2",
+      "year": 2025
+    },
+    "Happy Gilmore 2": {
+      "id": 1263256,
+      "poster": "/E3dPHPJigkXwuiE0n1vzz0se8a.jpg",
+      "title": "Happy Gilmore 2",
+      "year": 2025
+    },
+    "Kinda Pregnant": {
+      "id": 1212142,
+      "poster": "/k2Lq3rCJ7P9gk5Df9of9kqr9IJM.jpg",
+      "title": "Kinda Pregnant",
+      "year": 2025
+    },
+    "G20": {
+      "id": 1045938,
+      "poster": "/wv6oWAleCJZUk5htrGg413t3GCy.jpg",
+      "title": "G20",
+      "year": 2025
+    },
+    "A Working Man": {
+      "id": 1197306,
+      "poster": "/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",
+      "title": "A Working Man",
+      "year": 2025
+    },
+    "The Accountant 2": {
+      "id": 870028,
+      "poster": "/lUvfTcOZiK0sdcX0WNLPbMyKjGm.jpg",
+      "title": "The Accountant²",
+      "year": 2025
+    },
+    "The Amateur": {
+      "id": 1087891,
+      "poster": "/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg",
+      "title": "The Amateur",
+      "year": 2025
+    },
+    "Havoc": {
+      "id": 668489,
+      "poster": "/r46leE6PSzLR3pnVzaxx5Q30yUF.jpg",
+      "title": "Havoc",
+      "year": 2025
+    },
+    "Naked Lunch": {
+      "id": 2742,
+      "poster": "/u01kh5jKUWjhom76mguRqUgdvja.jpg",
+      "title": "Naked Lunch",
+      "year": 1991
+    },
+    "Spider": {
+      "id": 9613,
+      "poster": "/zvm4WuYxTiGkRagRqHUey0meRQL.jpg",
+      "title": "Spider",
+      "year": 2002
+    },
+    "Cosmopolis": {
+      "id": 49014,
+      "poster": "/kXoaAmh0kkcAqW0ikafWEvqVezJ.jpg",
+      "title": "Cosmopolis",
+      "year": 2012
+    },
+    "Maps to the Stars": {
+      "id": 157851,
+      "poster": "/aoMNfiaMmT7o7wY8oXWCLErZtah.jpg",
+      "title": "Maps to the Stars",
+      "year": 2014
+    },
+    "Eastern Promises": {
+      "id": 2252,
+      "poster": "/nLwv1pxRCRZucQaqs6oPkq7HH3K.jpg",
+      "title": "Eastern Promises",
+      "year": 2007
+    },
+    "A Dangerous Method": {
+      "id": 48231,
+      "poster": "/7TPYtzq9ABkfED1JB0tRASamL4z.jpg",
+      "title": "A Dangerous Method",
+      "year": 2011
+    },
+    "eXistenZ": {
+      "id": 1946,
+      "poster": "/kETKF0JhdTPn1knci8CAdYL0d79.jpg",
+      "title": "eXistenZ",
+      "year": 1999
+    },
+    "The Dead Zone": {
+      "id": 11336,
+      "poster": "/9yTVaeS8eIkOpbwIycVFm7EQrgF.jpg",
+      "title": "The Dead Zone",
+      "year": 1983
+    },
+    "M. Butterfly": {
+      "id": 1413,
+      "poster": "/vfutnJ9sgpAtNuPemksd26gd5dC.jpg",
+      "title": "M. Butterfly",
+      "year": 1993
+    },
+    "Shivers": {
+      "id": 27429,
+      "poster": "/wcgfPA5FicDgQXaw67kjtUxuxdb.jpg",
+      "title": "Shivers",
+      "year": 1975
+    },
+    "Rabid": {
+      "id": 29437,
+      "poster": "/gIsuIWnvDozlQP4ya6OZEXqDecj.jpg",
+      "title": "Rabid",
+      "year": 1977
+    },
+    "Stereo": {
+      "id": 33691,
+      "poster": "/b0iWpWPBqZLHNCfhSEjvJH6UT3h.jpg",
+      "title": "Stereo (Tile 3B of a CAEE Educational Mosaic)",
+      "year": 1969
+    },
+    "The Woman in the Yard": {
+      "id": 1244944,
+      "poster": "/n0WS2TsNcS6dtaZKzxipyO7LuCJ.jpg",
+      "title": "The Woman in the Yard",
+      "year": 2025
+    },
+    "Black Bag": {
+      "id": 1233575,
+      "poster": "/hHPovtU4b96LHcoeEwRkGHI5btw.jpg",
+      "title": "Black Bag",
+      "year": 2025
+    },
+    "Mickey 17": {
+      "id": 696506,
+      "poster": "/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
+      "title": "Mickey 17",
+      "year": 2025
+    },
+    "A Minecraft Movie": {
+      "id": 950387,
+      "poster": "/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+      "title": "A Minecraft Movie",
+      "year": 2025
+    },
+    "Titane": {
+      "id": 630240,
+      "poster": "/mBlpouG3gqB8WLdP65LCOXb3jFb.jpg",
+      "title": "Titane",
+      "year": 2021
+    },
+    "Raw": {
+      "id": 393519,
+      "poster": "/kc8jT1MAiKM0iwdjAwC5lQrTNry.jpg",
+      "title": "Raw",
+      "year": 2017
+    },
+    "Alpha": {
+      "id": 1284460,
+      "poster": "/PvdD2gTqSZfFWclP9ee4bqCn0B.jpg",
+      "title": "Alpha",
+      "year": 2025
+    },
+    "Domino": {
+      "id": 455957,
+      "poster": "/4ExrDZRhhmZkveXMjUzywc6266q.jpg",
+      "title": "Domino",
+      "year": 2019
+    },
+    "Trouble Every Day": {
+      "id": 40723,
+      "poster": "/jn4799m6uB5P6ZUarlnxvZEZDFp.jpg",
+      "title": "Trouble Every Day",
+      "year": 2001
+    },
+    "Rosemary's Baby": {
+      "id": 805,
+      "poster": "/uYgvlHceRFjAFbsNeMInYcLZLUb.jpg",
+      "title": "Rosemary's Baby",
+      "year": 1968
+    },
+    "The Exorcist": {
+      "id": 9552,
+      "poster": "/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
+      "title": "The Exorcist",
+      "year": 1973
+    },
+    "Kramer vs. Kramer": {
+      "id": 12102,
+      "poster": "/3CUP5V5SWfHSK4qvkZF7lMNyugY.jpg",
+      "title": "Kramer vs. Kramer",
+      "year": 1979
+    },
+    "Jurassic Park": {
+      "id": 329,
+      "poster": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "title": "Jurassic Park",
+      "year": 1993
+    },
+    "Lawrence of Arabia": {
+      "id": 947,
+      "poster": "/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg",
+      "title": "Lawrence of Arabia",
+      "year": 1962
+    },
+    "The Dead": {
+      "id": 39507,
+      "poster": "/hFLUqiwvvtcUqA5NZNejaaNpTv0.jpg",
+      "title": "The Dead",
+      "year": 1987
+    },
+    "Full Metal Jacket": {
+      "id": 600,
+      "poster": "/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+      "title": "Full Metal Jacket",
+      "year": 1987
+    },
+    "Stand by Me": {
+      "id": 235,
+      "poster": "/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg",
+      "title": "Stand by Me",
+      "year": 1986
+    },
+    "The Shawshank Redemption": {
+      "id": 278,
+      "poster": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+      "title": "The Shawshank Redemption",
+      "year": 1994
+    },
+    "American Fiction": {
+      "id": 1056360,
+      "poster": "/57MFWGHarg9jid7yfDTka4RmcMU.jpg",
+      "title": "American Fiction",
+      "year": 2023
+    }
+  },
+  "spotifyEpisodeId": "0qF9hHknJ7IFr1Y7nBoypQ",
+  "tmdbOverrides": {
+    "The Fantastic Four: First Steps": 617126,
+    "Stereo": 33691,
+    "Domino": 455957,
+    "Alpha": 1284460,
+    "The Dead": 39507,
+    "Rogue One": 330459,
+    "The Accountant 2": 870028,
+    "Glass Onion": 661374
+  }
+}

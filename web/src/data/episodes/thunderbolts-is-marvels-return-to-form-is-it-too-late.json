@@ -1,0 +1,362 @@
+{
+  "slug": "thunderbolts-is-marvels-return-to-form-is-it-too-late",
+  "title": "‘Thunderbolts*’ Is Marvel’s Return to Form. Is It Too Late?",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Mallory Rubin"
+  ],
+  "published": "2025-05-02",
+  "runtimeMin": 93,
+  "format": "Sean Fennessey, Amanda Dobbins, and Mallory Rubin talk through 'Thunderbolts*,' the film that broke a five-year Marvel cold streak for them, from its creaky first 45 minutes to the group-hug climax, then argue over whether a return to form arrives too late to matter.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "'Thunderbolts*'",
+      "note": "the superfan, the cynic, and the skeptic all show up",
+      "films": [
+        {
+          "title": "Thunderbolts*",
+          "year": 2025,
+          "note": "Jake Schreier ('Beef', 'Robot & Frank') directs; Eric Pearson and Joanna Calo ('The Bear') write; Andrew Droz Palermo shoots, and the editor cut 'Minari,' an indie-pedigree crew Marvel leaned into with an A24-style trailer. All three land in the same place: creaky, exposition-heavy first 45 minutes, then it clicks once David Harbour's Red Guardian shows up. Florence Pugh's Yelena carries it; Sebastian Stan's Bucky 'blows almost everybody else off the screen' barely trying. Lewis Pullman (Steven Yeun's replacement) plays Bob/the Sentry/the Void, a superhero and supervillain in one body whose power is literally depression. Amanda dissents on Julia Louis-Dreyfus as Val. Praised for real locations and practical effects over volume-stage 'video game vomit'; the climax is a group hug, and the New Avengers stinger sets up 'Doomsday' and 'The Fantastic Four: First Steps'. The 36th MCU film and the last of Phase Five."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Across the MCU",
+      "films": [
+        "Ant-Man and the Wasp: Quantumania",
+        "The Avengers",
+        "Avengers: Endgame",
+        "Spider-Man: No Way Home",
+        "Spider-Man: Far From Home",
+        "Captain America: The Winter Soldier",
+        "Captain America: Civil War",
+        "Captain America: Brave New World",
+        "Black Widow",
+        "Ant-Man and the Wasp",
+        "Black Panther: Wakanda Forever",
+        "Guardians of the Galaxy Vol. 3",
+        "Thor: Ragnarok",
+        "Doctor Strange",
+        "Doctor Strange in the Multiverse of Madness",
+        "The Fantastic Four: First Steps",
+        "Avengers: Doomsday",
+        "Avengers: Secret Wars"
+      ]
+    },
+    {
+      "group": "The crew's other work",
+      "films": [
+        "Minari",
+        "We Live in Time",
+        "Robot & Frank",
+        "Paper Towns"
+      ]
+    },
+    {
+      "group": "Touchstones and asides",
+      "films": [
+        "Inception",
+        "Sinners",
+        "Enough Said",
+        "You Hurt My Feelings",
+        "Sleepless in Seattle",
+        "While You Were Sleeping",
+        "Independence Day",
+        "Top Gun: Maverick",
+        "Gladiator II",
+        "Superman",
+        "Titanic",
+        "Star Wars: Episode III - Revenge of the Sith",
+        "Star Wars: Episode II - Attack of the Clones",
+        "Star Wars: Starfighter",
+        "Indiana Jones and the Dial of Destiny",
+        "Project Hail Mary",
+        "Jurassic World Rebirth"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "The Fantastic Four: First Steps": 617126
+  },
+  "excluded": {
+    "TV": [
+      "Beef",
+      "The Bear",
+      "The Boys",
+      "Stranger Things",
+      "Hawkeye",
+      "Daredevil: Born Again",
+      "The Falcon and the Winter Soldier",
+      "House of the Dragon",
+      "Game of Thrones",
+      "The Last of Us",
+      "Andor",
+      "The Lord of the Rings: The Rings of Power",
+      "Veep",
+      "Seinfeld"
+    ],
+    "Podcasts": [
+      "60 Songs That Explain the 90s",
+      "House of R",
+      "Jam Session",
+      "The Rewatchables"
+    ],
+    "Ads": [
+      "Tremfya",
+      "Wells Fargo Autograph Journey",
+      "State Farm",
+      "Amazon Prime",
+      "Whole Foods",
+      "T-Mobile Home Run Derby on Netflix"
+    ]
+  },
+  "tmdb": {
+    "Thunderbolts*": {
+      "id": 986056,
+      "poster": "/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
+      "title": "Thunderbolts*",
+      "year": 2025
+    },
+    "Ant-Man and the Wasp: Quantumania": {
+      "id": 640146,
+      "poster": "/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "year": 2023
+    },
+    "The Avengers": {
+      "id": 24428,
+      "poster": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "title": "The Avengers",
+      "year": 2012
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Spider-Man: No Way Home": {
+      "id": 634649,
+      "poster": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "title": "Spider-Man: No Way Home",
+      "year": 2021
+    },
+    "Spider-Man: Far From Home": {
+      "id": 429617,
+      "poster": "/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+      "title": "Spider-Man: Far From Home",
+      "year": 2019
+    },
+    "Captain America: The Winter Soldier": {
+      "id": 100402,
+      "poster": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+      "title": "Captain America: The Winter Soldier",
+      "year": 2014
+    },
+    "Captain America: Civil War": {
+      "id": 271110,
+      "poster": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+      "title": "Captain America: Civil War",
+      "year": 2016
+    },
+    "Captain America: Brave New World": {
+      "id": 822119,
+      "poster": "/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
+      "title": "Captain America: Brave New World",
+      "year": 2025
+    },
+    "Black Widow": {
+      "id": 497698,
+      "poster": "/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+      "title": "Black Widow",
+      "year": 2021
+    },
+    "Ant-Man and the Wasp": {
+      "id": 363088,
+      "poster": "/cFQEO687n1K6umXbInzocxcnAQz.jpg",
+      "title": "Ant-Man and the Wasp",
+      "year": 2018
+    },
+    "Black Panther: Wakanda Forever": {
+      "id": 505642,
+      "poster": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+      "title": "Black Panther: Wakanda Forever",
+      "year": 2022
+    },
+    "Guardians of the Galaxy Vol. 3": {
+      "id": 447365,
+      "poster": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "year": 2023
+    },
+    "Thor: Ragnarok": {
+      "id": 284053,
+      "poster": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "title": "Thor: Ragnarok",
+      "year": 2017
+    },
+    "Doctor Strange": {
+      "id": 284052,
+      "poster": "/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg",
+      "title": "Doctor Strange",
+      "year": 2016
+    },
+    "Doctor Strange in the Multiverse of Madness": {
+      "id": 453395,
+      "poster": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "year": 2022
+    },
+    "The Fantastic Four: First Steps": {
+      "id": 617126,
+      "poster": "/nf5qaSEvyYSNeFH0YhSs5EsBLX9.jpg",
+      "title": "The Fantastic 4: First Steps",
+      "year": 2025
+    },
+    "Avengers: Doomsday": {
+      "id": 1003596,
+      "poster": "/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
+      "title": "Avengers: Doomsday",
+      "year": 2026
+    },
+    "Avengers: Secret Wars": {
+      "id": 1003598,
+      "poster": "/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
+      "title": "Avengers: Secret Wars",
+      "year": 2027
+    },
+    "Minari": {
+      "id": 615643,
+      "poster": "/6mPNdmjdbVKPITv3LLCmQoKs9Zw.jpg",
+      "title": "Minari",
+      "year": 2021
+    },
+    "We Live in Time": {
+      "id": 1100099,
+      "poster": "/oeDNBgnlGF6rnyX1P1K8Vl2f3lW.jpg",
+      "title": "We Live in Time",
+      "year": 2024
+    },
+    "Robot & Frank": {
+      "id": 84329,
+      "poster": "/602vUwe1GPmaRvcrT3OQWqH1Nm1.jpg",
+      "title": "Robot & Frank",
+      "year": 2012
+    },
+    "Paper Towns": {
+      "id": 286565,
+      "poster": "/lVW67w7eWwmBhbBCc4f983pO8m6.jpg",
+      "title": "Paper Towns",
+      "year": 2015
+    },
+    "Inception": {
+      "id": 27205,
+      "poster": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+      "title": "Inception",
+      "year": 2010
+    },
+    "Sinners": {
+      "id": 1233413,
+      "poster": "/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+      "title": "Sinners",
+      "year": 2025
+    },
+    "Enough Said": {
+      "id": 209263,
+      "poster": "/p5naJg0K8xF0h0HWEfiz6rc9lC4.jpg",
+      "title": "Enough Said",
+      "year": 2013
+    },
+    "You Hurt My Feelings": {
+      "id": 890215,
+      "poster": "/do9UvkcDJeYbhYVoQPS00yOCYdc.jpg",
+      "title": "You Hurt My Feelings",
+      "year": 2023
+    },
+    "Sleepless in Seattle": {
+      "id": 858,
+      "poster": "/jAXfku1u1uaLGh4cUmK0ESf1pPu.jpg",
+      "title": "Sleepless in Seattle",
+      "year": 1993
+    },
+    "While You Were Sleeping": {
+      "id": 2064,
+      "poster": "/qNGO3ETcNwlWqK2kNRpbJSJRlos.jpg",
+      "title": "While You Were Sleeping",
+      "year": 1995
+    },
+    "Independence Day": {
+      "id": 602,
+      "poster": "/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg",
+      "title": "Independence Day",
+      "year": 1996
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Gladiator II": {
+      "id": 558449,
+      "poster": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+      "title": "Gladiator II",
+      "year": 2024
+    },
+    "Superman": {
+      "id": 1061474,
+      "poster": "/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
+      "title": "Superman",
+      "year": 2025
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "Star Wars: Episode III - Revenge of the Sith": {
+      "id": 1895,
+      "poster": "/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
+      "title": "Star Wars: Episode III - Revenge of the Sith",
+      "year": 2005
+    },
+    "Star Wars: Episode II - Attack of the Clones": {
+      "id": 1894,
+      "poster": "/oZNPzxqM2s5DyVWab09NTQScDQt.jpg",
+      "title": "Star Wars: Episode II - Attack of the Clones",
+      "year": 2002
+    },
+    "Star Wars: Starfighter": {
+      "id": 1417668,
+      "poster": "/aUSQtKgQ0GNKJzXXJ6fY0auadjo.jpg",
+      "title": "Star Wars: Starfighter",
+      "year": 2027
+    },
+    "Indiana Jones and the Dial of Destiny": {
+      "id": 335977,
+      "poster": "/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",
+      "title": "Indiana Jones and the Dial of Destiny",
+      "year": 2023
+    },
+    "Project Hail Mary": {
+      "id": 687163,
+      "poster": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "title": "Project Hail Mary",
+      "year": 2026
+    },
+    "Jurassic World Rebirth": {
+      "id": 1234821,
+      "poster": "/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
+      "title": "Jurassic World Rebirth",
+      "year": 2025
+    }
+  },
+  "spotifyEpisodeId": "2QlFQWyOJ282mZ1toXMCud"
+}

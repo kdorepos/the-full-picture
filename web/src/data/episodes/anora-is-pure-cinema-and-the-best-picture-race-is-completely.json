@@ -1,0 +1,716 @@
+{
+  "slug": "anora-is-pure-cinema-and-the-best-picture-race-is-completely",
+  "title": "‘Anora’ Is Pure Cinema and the Best Picture Race Is Completely Up in the Air",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2024-10-21",
+  "runtimeMin": 108,
+  "format": "Sean ranks a wide-open Best Picture field, then he and Amanda dig into Sean Baker's 'Anora.' Plus: John Crowley on 'We Live in Time.'",
+  "segments": [
+    {
+      "kind": "ranking",
+      "heading": "The First Best Picture Power Rankings",
+      "note": "26 contenders, boiled down to 10, best-first",
+      "subject": "Best Picture 2025",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Anora",
+          "year": 2024,
+          "note": "No. 1. Greened on the board from the jump: a Palme d'Or winner with the second-highest per-screen average of the pandemic era ($105K), strong word of mouth, and a breakout Mikey Madison performance."
+        },
+        {
+          "title": "Emilia Pérez",
+          "year": 2024,
+          "note": "No. 2. Could have been No. 1. Jacques Audiard's opera-based musical about a cartel boss, with performances from Karla Sofía Gascón, Selena Gomez and Zoe Saldaña that Sean thinks the Academy will go for."
+        },
+        {
+          "title": "The Brutalist",
+          "year": 2024,
+          "note": "No. 3. Well received out of Venice and New York; long, challenging, and full of second-half choices Sean expects to divide voters. A critic's favorite he's seeing twice."
+        },
+        {
+          "title": "Conclave",
+          "year": 2024,
+          "note": "No. 4. Edward Berger's papal mystery with Ralph Fiennes, Stanley Tucci, Isabella Rossellini and John Lithgow. An easy, enjoyable screener, even if Sean doubts anyone thinks hard about its themes."
+        },
+        {
+          "title": "Dune: Part Two",
+          "year": 2024,
+          "note": "No. 5. Called a lock: the best shot at a blockbuster Best Picture presence, a step up from the first film, and a below-the-line force in effects, costumes, hair and makeup. Villeneuve still owed a director nod."
+        },
+        {
+          "title": "A Real Pain",
+          "year": 2024,
+          "note": "No. 6. Circled in orange. Jesse Eisenberg's Poland-set film about two cousins, with a Kieran Culkin performance at its center; intimate but big-idea, an 'Ordinary People' kind of Academy movie."
+        },
+        {
+          "title": "Gladiator II",
+          "year": 2024,
+          "note": "No. 7. The one throwing Sean for a loop. He's seen it and is less sure of it as the Barbie-to-Dune's-Oppenheimer crowd-pleaser than he was; leaning in, but softly. Denzel Washington very much in the race."
+        },
+        {
+          "title": "The Piano Lesson",
+          "year": 2024,
+          "note": "No. 8. Malcolm Washington's August Wilson adaptation, more cinematic and less claustrophobic than recent Wilson films, with a Danielle Deadwyler performance Sean rates. Netflix is good at nominations."
+        },
+        {
+          "title": "September 5",
+          "year": 2024,
+          "note": "No. 9. Rock-solid Munich-hostage newsroom drama with John Magaro and Peter Sarsgaard; simple and down-the-middle, but its economy and watchability may get it in."
+        },
+        {
+          "title": "Nickel Boys",
+          "year": 2024,
+          "note": "No. 10. Pushed to December for awards positioning. A great, divisive film built on an unusual first-person perspective; the structure is why it lands at the bottom of the 10."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The other 16 contenders",
+      "note": "The rest of the A-to-Z field that didn't make the 10",
+      "films": [
+        {
+          "title": "All We Imagine as Light",
+          "year": 2024,
+          "note": "Payal Kapadia's Indian film, not submitted for international feature, which Sean thinks likely dooms its Best Picture push, though a campaign is coming."
+        },
+        {
+          "title": "Blitz",
+          "year": 2024,
+          "note": "Steve McQueen's WWII drama with Saoirse Ronan; skipped the festival circuit and drew softer reviews than expected. Apple, opening November 1."
+        },
+        {
+          "title": "Challengers",
+          "year": 2024,
+          "note": "Amanda's and Sean's love-triangle tennis comedy; Sean hoped it would level up but worries its tonality and sex are being held against it."
+        },
+        {
+          "title": "A Complete Unknown",
+          "year": 2024,
+          "note": "James Mangold's Bob Dylan biopic with Timothée Chalamet, a movie that could mean everything or nothing to Sean. Not in the top tier yet, Christmas release."
+        },
+        {
+          "title": "Hard Truths",
+          "year": 2024,
+          "note": "Mike Leigh's new (maybe last) film, with a strong Marianne Jean-Baptiste; a low-level contender Sean sees only on screenplay/acting, if at all."
+        },
+        {
+          "title": "Here",
+          "year": 2024,
+          "note": "Robert Zemeckis reuniting with Tom Hanks, Robin Wright and writer Eric Roth for a single-corner-of-the-universe graphic-novel adaptation. Sean is the lone optimist, calling it a boomer parade."
+        },
+        {
+          "title": "Juror #2",
+          "year": 2024,
+          "note": "94-year-old Clint Eastwood's theoretical final film, a courtroom drama with Nicholas Hoult and Toni Collette; great trailer, 50-screen release. The Academy loves Clint."
+        },
+        {
+          "title": "Maria",
+          "year": 2024,
+          "note": "Pablo Larraín's Maria Callas film, the third in his trilogy of 20th-century women. Sean sees it competing only for Angelina Jolie in Best Actress. Netflix."
+        },
+        {
+          "title": "Nosferatu",
+          "year": 2024,
+          "note": "Robert Eggers' vampire retelling, the first of his films not to start with 'The.' Handsomely mounted, possible below-the-line looks, but the Academy rarely rewards horror."
+        },
+        {
+          "title": "Queer",
+          "year": 2024,
+          "note": "Luca Guadagnino's Daniel Craig film; Sean finds it too abstract and psychedelic for traditional awards bodies, though Craig's work will draw marks."
+        },
+        {
+          "title": "The Room Next Door",
+          "year": 2024,
+          "note": "Pedro Almodóvar's first English-language feature, with Tilda Swinton and Julianne Moore; won Venice's Golden Lion but felt slight and lost-in-translation to Sean. Out, for now."
+        },
+        {
+          "title": "Saturday Night",
+          "year": 2024,
+          "note": "Jason Reitman's SNL-origins film that hasn't worked at the box office; young audiences don't care, so Sean doesn't see it getting in despite a fun watch."
+        },
+        {
+          "title": "The Seed of the Sacred Fig",
+          "year": 2024,
+          "note": "Germany's international entry, a real contender in that race; Sean doubts it has the strength for Best Picture, but 'don't underestimate the international entries.'"
+        },
+        {
+          "title": "Sing Sing",
+          "year": 2024,
+          "note": "A prison arts-rehabilitation drama that would be a shoo-in most years; Sean can't figure out the rollout and is struggling to see it getting in."
+        },
+        {
+          "title": "Wicked",
+          "year": 2024,
+          "note": "The big Wizard-of-Oz-prequel musical Sean admits he doesn't get (his three-year-old does). It's a part one, and part ones never get the look, so he calls it out."
+        },
+        {
+          "title": "The Wild Robot",
+          "year": 2024,
+          "note": "Chris Sanders' animated film about parenting, which Sean calls his best. Not a wild-card contender yet, but flagged if some of the field underperforms."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "‘Anora’",
+      "note": "With Amanda Dobbins: spoiler-free, then a spoiler stretch",
+      "films": [
+        {
+          "title": "Anora",
+          "year": 2024,
+          "note": "Sean Baker's eighth feature and possibly his best: a whirling screwball romance cloaked in a New York thriller, 'if the Safdies did Pretty Woman.' Mikey Madison as Annie opposite Mark Eydelshteyn, with Yura Borisov and Karren Karagulian; a Take That needle-drop, an escalating courtroom set piece, and a wordless final scene the hosts are still chewing on. The bigger, longer, more mainstream Baker, but still dingy, grimy and honest about being broke in America."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "‘We Live in Time’",
+      "note": "In conversation",
+      "guest": "John Crowley on",
+      "films": [
+        {
+          "title": "We Live in Time",
+          "year": 2024,
+          "note": "Crowley's shuffled-time romance with Florence Pugh and Andrew Garfield (17 years after 'Boy A'). He talks the birth-scene 'Rubik's cube' that hooked him, refusing to visually tint the three timeframes, Pugh's Marvel schedule freeing up by comical luck, and his ambition for an unashamedly emotional, never sentimental, tearjerker about normal people."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In the ‘Anora’ conversation",
+      "films": [
+        "Pretty Woman",
+        "Uncut Gems",
+        "Red Rocket",
+        "Tangerine",
+        "The Florida Project",
+        "After Hours",
+        "My Cousin Vinny",
+        "Hustlers",
+        "Once Upon a Time in Hollywood",
+        "Scream",
+        "Poor Things",
+        "Saltburn",
+        "Fair Play",
+        "Better Man",
+        "Moonlight",
+        "Parasite"
+      ]
+    },
+    {
+      "group": "Oscar-race touchstones",
+      "films": [
+        "Oppenheimer",
+        "Everything Everywhere All at Once",
+        "CODA",
+        "The Power of the Dog",
+        "Nomadland",
+        "Anatomy of a Fall",
+        "Barbie",
+        "The Silence of the Lambs",
+        "Killers of the Flower Moon",
+        "House of Gucci",
+        "Forrest Gump",
+        "Flight",
+        "Blood Work",
+        "Walk the Line",
+        "Bohemian Rhapsody",
+        "The Witch",
+        "The Lighthouse",
+        "The Northman",
+        "Terrifier 3",
+        "Lilo & Stitch",
+        "How to Train Your Dragon"
+      ]
+    },
+    {
+      "group": "In the John Crowley interview",
+      "films": [
+        "Brooklyn",
+        "The Goldfinch",
+        "Boy A",
+        "Intermission",
+        "Closed Circuit",
+        "Is Anybody There?",
+        "Dunkirk",
+        "Traffic",
+        "Thunderbolts"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Better Things",
+      "The Bachelor",
+      "Life After Life"
+    ],
+    "Video games": [
+      "Call of Duty"
+    ],
+    "Podcasts": [
+      "60 Songs That Explain the 90s"
+    ],
+    "Ads": [
+      "Amazon Prime",
+      "Tremfya",
+      "State Farm",
+      "Boar's Head",
+      "White Claw",
+      "Mint Mobile"
+    ]
+  },
+  "tmdbOverrides": {
+    "Scream": 646385,
+    "Lilo & Stitch": 11544,
+    "Intermission": 16941
+  },
+  "tmdb": {
+    "Anora": {
+      "id": 1064213,
+      "poster": "/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg",
+      "title": "Anora",
+      "year": 2024
+    },
+    "Emilia Pérez": {
+      "id": 974950,
+      "poster": "/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg",
+      "title": "Emilia Pérez",
+      "year": 2024
+    },
+    "The Brutalist": {
+      "id": 549509,
+      "poster": "/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
+      "title": "The Brutalist",
+      "year": 2024
+    },
+    "Conclave": {
+      "id": 974576,
+      "poster": "/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
+      "title": "Conclave",
+      "year": 2024
+    },
+    "Dune: Part Two": {
+      "id": 693134,
+      "poster": "/heM4XKC0jA8fTSNe8F7oUkcJV7Z.jpg",
+      "title": "Dune: Part Two",
+      "year": 2024
+    },
+    "A Real Pain": {
+      "id": 1013850,
+      "poster": "/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg",
+      "title": "A Real Pain",
+      "year": 2024
+    },
+    "Gladiator II": {
+      "id": 558449,
+      "poster": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+      "title": "Gladiator II",
+      "year": 2024
+    },
+    "The Piano Lesson": {
+      "id": 804406,
+      "poster": "/cgampq63AqCrza6bnvmWqCcvCzY.jpg",
+      "title": "The Piano Lesson",
+      "year": 2024
+    },
+    "September 5": {
+      "id": 1211472,
+      "poster": "/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg",
+      "title": "September 5",
+      "year": 2024
+    },
+    "Nickel Boys": {
+      "id": 1028196,
+      "poster": "/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg",
+      "title": "Nickel Boys",
+      "year": 2024
+    },
+    "All We Imagine as Light": {
+      "id": 927547,
+      "poster": "/ruImrzB4POsrgwCMozmOBV67zs5.jpg",
+      "title": "All We Imagine as Light",
+      "year": 2024
+    },
+    "Blitz": {
+      "id": 896151,
+      "poster": "/e9tyjbF2rugENtBolTtEhHOXgzD.jpg",
+      "title": "Blitz",
+      "year": 2024
+    },
+    "Challengers": {
+      "id": 937287,
+      "poster": "/H6vke7zGiuLsz4v4RPeReb9rsv.jpg",
+      "title": "Challengers",
+      "year": 2024
+    },
+    "A Complete Unknown": {
+      "id": 661539,
+      "poster": "/llWl3GtNoXosbvYboelmoT459NM.jpg",
+      "title": "A Complete Unknown",
+      "year": 2024
+    },
+    "Hard Truths": {
+      "id": 1013154,
+      "poster": "/eEj1TGrGc4IQ8bscFC17Ggdg6ft.jpg",
+      "title": "Hard Truths",
+      "year": 2024
+    },
+    "Here": {
+      "id": 940139,
+      "poster": "/79euHUJJtfgeGU63ef38KtNjXEn.jpg",
+      "title": "Here",
+      "year": 2024
+    },
+    "Juror #2": {
+      "id": 1106739,
+      "poster": "/ugQkpGajKFQ8eyOEhGheR0HfWQ.jpg",
+      "title": "Juror #2",
+      "year": 2024
+    },
+    "Maria": {
+      "id": 1038263,
+      "poster": "/3oQRG0bwPUqE4N4n8z2kAzr7e40.jpg",
+      "title": "Maria",
+      "year": 2024
+    },
+    "Nosferatu": {
+      "id": 426063,
+      "poster": "/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",
+      "title": "Nosferatu",
+      "year": 2024
+    },
+    "Queer": {
+      "id": 1059128,
+      "poster": "/xe4b2TMciLKA1C0JlhWxb4ENLln.jpg",
+      "title": "Queer",
+      "year": 2024
+    },
+    "The Room Next Door": {
+      "id": 1088514,
+      "poster": "/qMibLyArrlBJ87AoqQBeVaFeRXp.jpg",
+      "title": "The Room Next Door",
+      "year": 2024
+    },
+    "Saturday Night": {
+      "id": 1120911,
+      "poster": "/oCf5O6uxooTvRwKVnLHwGqZUifq.jpg",
+      "title": "Saturday Night",
+      "year": 2024
+    },
+    "The Seed of the Sacred Fig": {
+      "id": 1278263,
+      "poster": "/ifOazNzv2cNJ5CQjMV7cPXG2Lmy.jpg",
+      "title": "The Seed of the Sacred Fig",
+      "year": 2024
+    },
+    "Sing Sing": {
+      "id": 1155828,
+      "poster": "/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg",
+      "title": "Sing Sing",
+      "year": 2024
+    },
+    "Wicked": {
+      "id": 402431,
+      "poster": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+      "title": "Wicked",
+      "year": 2024
+    },
+    "The Wild Robot": {
+      "id": 1184918,
+      "poster": "/eG9lz41mJqsI4J6ubMtVqD26q2J.jpg",
+      "title": "The Wild Robot",
+      "year": 2024
+    },
+    "We Live in Time": {
+      "id": 1100099,
+      "poster": "/oeDNBgnlGF6rnyX1P1K8Vl2f3lW.jpg",
+      "title": "We Live in Time",
+      "year": 2024
+    },
+    "Pretty Woman": {
+      "id": 114,
+      "poster": "/hVHUfT801LQATGd26VPzhorIYza.jpg",
+      "title": "Pretty Woman",
+      "year": 1990
+    },
+    "Uncut Gems": {
+      "id": 473033,
+      "poster": "/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+      "title": "Uncut Gems",
+      "year": 2019
+    },
+    "Red Rocket": {
+      "id": 763329,
+      "poster": "/345gLhiNpItU1ICx8OxJQwjgPmH.jpg",
+      "title": "Red Rocket",
+      "year": 2021
+    },
+    "Tangerine": {
+      "id": 308084,
+      "poster": "/EKLR5c61XQzBTeMokFrmS3kdt8.jpg",
+      "title": "Tangerine",
+      "year": 2015
+    },
+    "The Florida Project": {
+      "id": 394117,
+      "poster": "/5QnDxdJg1fi6uMSkSi4x8tHsltm.jpg",
+      "title": "The Florida Project",
+      "year": 2017
+    },
+    "After Hours": {
+      "id": 10843,
+      "poster": "/eamOBurHBu0MIxohTIVcfxmZ6Z7.jpg",
+      "title": "After Hours",
+      "year": 1985
+    },
+    "My Cousin Vinny": {
+      "id": 10377,
+      "poster": "/iwSURa8nS2ujwrU3s1lfxxX7voH.jpg",
+      "title": "My Cousin Vinny",
+      "year": 1992
+    },
+    "Hustlers": {
+      "id": 540901,
+      "poster": "/zBhv8rsLOfpFW2M5b6wW78Uoojs.jpg",
+      "title": "Hustlers",
+      "year": 2019
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Scream": {
+      "id": 646385,
+      "poster": "/nD4M4Bx457ryLuKYpxFwQ2IBJ5w.jpg",
+      "title": "Scream",
+      "year": 2022
+    },
+    "Poor Things": {
+      "id": 792307,
+      "poster": "/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+      "title": "Poor Things",
+      "year": 2023
+    },
+    "Saltburn": {
+      "id": 930564,
+      "poster": "/zGTfMwG112BC66mpaveVxoWPOaB.jpg",
+      "title": "Saltburn",
+      "year": 2023
+    },
+    "Fair Play": {
+      "id": 910571,
+      "poster": "/tGgojtD6vJKYeCfktAhhA1pmH0n.jpg",
+      "title": "Fair Play",
+      "year": 2023
+    },
+    "Better Man": {
+      "id": 799766,
+      "poster": "/fbGCmMp0HlYnAPv28GOENPShezM.jpg",
+      "title": "Better Man",
+      "year": 2024
+    },
+    "Moonlight": {
+      "id": 376867,
+      "poster": "/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+      "title": "Moonlight",
+      "year": 2016
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Everything Everywhere All at Once": {
+      "id": 545611,
+      "poster": "/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+      "title": "Everything Everywhere All at Once",
+      "year": 2022
+    },
+    "CODA": {
+      "id": 776503,
+      "poster": "/BzVjmm8l23rPsijLiNLUzuQtyd.jpg",
+      "title": "CODA",
+      "year": 2021
+    },
+    "The Power of the Dog": {
+      "id": 600583,
+      "poster": "/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg",
+      "title": "The Power of the Dog",
+      "year": 2021
+    },
+    "Nomadland": {
+      "id": 581734,
+      "poster": "/8Vc5EOUEIF1EUXuX9eLFf7BvN3P.jpg",
+      "title": "Nomadland",
+      "year": 2021
+    },
+    "Anatomy of a Fall": {
+      "id": 915935,
+      "poster": "/1ho0d4LNZw3Y0voeKmSvPSgJOJ2.jpg",
+      "title": "Anatomy of a Fall",
+      "year": 2023
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "The Silence of the Lambs": {
+      "id": 274,
+      "poster": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+      "title": "The Silence of the Lambs",
+      "year": 1991
+    },
+    "Killers of the Flower Moon": {
+      "id": 466420,
+      "poster": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+      "title": "Killers of the Flower Moon",
+      "year": 2023
+    },
+    "House of Gucci": {
+      "id": 644495,
+      "poster": "/oJCQjD2byiVF1EG408F9dBn9ndU.jpg",
+      "title": "House of Gucci",
+      "year": 2021
+    },
+    "Forrest Gump": {
+      "id": 13,
+      "poster": "/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
+      "title": "Forrest Gump",
+      "year": 1994
+    },
+    "Flight": {
+      "id": 87502,
+      "poster": "/tFsHDNclXoCKy2xMxskzXXMaFJS.jpg",
+      "title": "Flight",
+      "year": 2012
+    },
+    "Blood Work": {
+      "id": 9573,
+      "poster": "/A6wWJkIREagRWFNu3YotID3n9aW.jpg",
+      "title": "Blood Work",
+      "year": 2002
+    },
+    "Walk the Line": {
+      "id": 69,
+      "poster": "/p8lPTjvjOjTfvC1E9pmMwcF9vkn.jpg",
+      "title": "Walk the Line",
+      "year": 2005
+    },
+    "Bohemian Rhapsody": {
+      "id": 424694,
+      "poster": "/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+      "title": "Bohemian Rhapsody",
+      "year": 2018
+    },
+    "The Witch": {
+      "id": 310131,
+      "poster": "/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
+      "title": "The Witch",
+      "year": 2016
+    },
+    "The Lighthouse": {
+      "id": 503919,
+      "poster": "/yAKNmpcUweGH6WMCEWenwU9PsbE.jpg",
+      "title": "The Lighthouse",
+      "year": 2019
+    },
+    "The Northman": {
+      "id": 639933,
+      "poster": "/aSSJMnHknzKjlZ6zybwD7eyJ4Po.jpg",
+      "title": "The Northman",
+      "year": 2022
+    },
+    "Terrifier 3": {
+      "id": 1034541,
+      "poster": "/ju10W5gl3PPK3b7TjEmVOZap51I.jpg",
+      "title": "Terrifier 3",
+      "year": 2024
+    },
+    "Lilo & Stitch": {
+      "id": 11544,
+      "poster": "/cFuLvQJPoZpuruAtN3rVnMmLIH8.jpg",
+      "title": "Lilo & Stitch",
+      "year": 2002
+    },
+    "How to Train Your Dragon": {
+      "id": 1087192,
+      "poster": "/53dsJ3oEnBhTBVMigWJ9tkA5bzJ.jpg",
+      "title": "How to Train Your Dragon",
+      "year": 2025
+    },
+    "Brooklyn": {
+      "id": 167073,
+      "poster": "/cs7W8j5lI7qzRW6tKSj9p1Q0Ze7.jpg",
+      "title": "Brooklyn",
+      "year": 2015
+    },
+    "The Goldfinch": {
+      "id": 472674,
+      "poster": "/5Jx9VyVPiK9GQ7ouKLkTUYnZSQ4.jpg",
+      "title": "The Goldfinch",
+      "year": 2019
+    },
+    "Boy A": {
+      "id": 14748,
+      "poster": "/wrQQUjeiHFPvTfaaB3vtNLLZ8kv.jpg",
+      "title": "Boy A",
+      "year": 2008
+    },
+    "Intermission": {
+      "id": 16941,
+      "poster": "/hQdFebtqcbwKELQHKf1hcjIHD0D.jpg",
+      "title": "Intermission",
+      "year": 2003
+    },
+    "Closed Circuit": {
+      "id": 146223,
+      "poster": "/keW2sLB9yJbdkRy9yHQjqUjmzbB.jpg",
+      "title": "Closed Circuit",
+      "year": 2013
+    },
+    "Is Anybody There?": {
+      "id": 22447,
+      "poster": "/tgCW935L5JCY1tYgJ810kgXPFkf.jpg",
+      "title": "Is Anybody There?",
+      "year": 2009
+    },
+    "Dunkirk": {
+      "id": 374720,
+      "poster": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "title": "Dunkirk",
+      "year": 2017
+    },
+    "Traffic": {
+      "id": 1900,
+      "poster": "/jbccmnqE4oAPI67bApgt2JiRPz8.jpg",
+      "title": "Traffic",
+      "year": 2000
+    },
+    "Thunderbolts": {
+      "id": 986056,
+      "poster": "/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
+      "title": "Thunderbolts*",
+      "year": 2025
+    }
+  },
+  "spotifyEpisodeId": "5rneVEIrVGYvhguZCpBhUr"
+}

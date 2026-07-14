@@ -1,0 +1,1277 @@
+{
+  "slug": "the-epic-movie-draft",
+  "title": "The Epic Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2026-07-14",
+  "runtimeMin": 112,
+  "format": "In honor of The Odyssey, Sean, Amanda, and Chris Ryan draft epic movies across seven categories. First, a movie-news roundup: the live-action Moana's flop, a Sam Neill tribute, and the Dune: Part Three trailer.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The news",
+      "note": "before the draft",
+      "films": [
+        {
+          "title": "Tenet",
+          "year": 2020,
+          "note": "Screened in Toronto ahead of the crew's live draft."
+        },
+        {
+          "title": "Moana",
+          "year": 2026,
+          "note": "The live-action remake of the 2016 animated film. A $43M domestic opening and a reported ~$125M loss; the Rock reprising Maui."
+        },
+        {
+          "title": "Digger",
+          "note": "Alejandro González Iñárritu's Tom Cruise satire about an oilman in the cabinet, with Riz Ahmed and Sandra Hüller; the trailer just dropped, and Sean was cool on the comedy."
+        },
+        {
+          "title": "Disclosure Day",
+          "note": "Already past $100M, so Sean feels no obligation to see it."
+        },
+        {
+          "title": "Dune: Part Three",
+          "note": "The Dune Messiah adaptation; the trailer premiered in Toronto after their Tenet screening."
+        }
+      ]
+    },
+    {
+      "kind": "draft",
+      "heading": "The picks",
+      "note": "seven categories, three drafters",
+      "draftOf": "epic movies",
+      "categories": [
+        "Odyssey-inspired epic",
+        "Epic Best Picture winner",
+        "Biblical epic",
+        "Romantic or war epic",
+        "Biopic epic",
+        "Movies over three hours",
+        "Wildcard"
+      ],
+      "teams": [
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Lawrence of Arabia",
+              "year": 1962,
+              "category": "Movies over three hours",
+              "note": "David Lean; the No. 1 seed. Aqaba, the desert vistas, and the intimate scenes he's grown to love with age."
+            },
+            {
+              "title": "The Last of the Mohicans",
+              "year": 1992,
+              "category": "Romantic or war epic",
+              "note": "Michael Mann's James Fenimore Cooper adaptation; the Day-Lewis/Stowe romance under Wes Studi's Magua."
+            },
+            {
+              "title": "Malcolm X",
+              "year": 1992,
+              "category": "Biopic epic",
+              "note": "Spike Lee; Denzel taking a life cradle-to-grave without it ever feeling like Wikipedia."
+            },
+            {
+              "title": "The Searchers",
+              "year": 1956,
+              "category": "Odyssey-inspired epic",
+              "note": "John Ford; Ethan's costly journey out and back, back in the news via One Battle After Another."
+            },
+            {
+              "title": "The Bridge on the River Kwai",
+              "year": 1957,
+              "category": "Epic Best Picture winner",
+              "note": "The second Lean of the draft; Holden, Guinness, and Hawkins building a bridge they shouldn't."
+            },
+            {
+              "title": "Kingdom of Heaven",
+              "year": 2005,
+              "category": "Biblical epic",
+              "note": "Ridley Scott's director's cut, which had a one-theater LA roadshow. Ruled eligible over Amanda's protest."
+            },
+            {
+              "title": "Carlos",
+              "year": 2010,
+              "category": "Wildcard",
+              "note": "Olivier Assayas; Edgar Ramírez as the Jackal, a film/miniseries hybrid with a post-punk soundtrack."
+            }
+          ]
+        },
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "The Last Temptation of Christ",
+              "year": 1988,
+              "category": "Biblical epic",
+              "note": "Scorsese; the outer-borough Jesus and Judas accents Nolan name-checked."
+            },
+            {
+              "title": "The Lord of the Rings: The Return of the King",
+              "year": 2003,
+              "category": "Epic Best Picture winner",
+              "note": "The rare fantasy that fits the bill. Third-best of the trilogy, he says, but still."
+            },
+            {
+              "title": "O Brother, Where Art Thou?",
+              "year": 2000,
+              "category": "Odyssey-inspired epic",
+              "note": "The Coens' literal Odyssey; the pick he'd long overlooked, his Darjeeling for the brothers."
+            },
+            {
+              "title": "The Deer Hunter",
+              "year": 1978,
+              "category": "Romantic or war epic",
+              "note": "Cimino; a war epic defined by everything around the battlefield."
+            },
+            {
+              "title": "Amadeus",
+              "year": 1984,
+              "category": "Biopic epic",
+              "note": "Miloš Forman; Salieri's jealousy and F. Murray Abraham's Oscar."
+            },
+            {
+              "title": "Seven Samurai",
+              "year": 1954,
+              "category": "Movies over three hours",
+              "note": "Kurosawa; the most movie he ever made, past 200 minutes."
+            },
+            {
+              "title": "Kill Bill: The Whole Bloody Affair",
+              "year": 2011,
+              "category": "Wildcard",
+              "note": "Tarantino's two films spliced into one; an Odyssey-coded trip to retrieve a daughter."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "The Wizard of Oz",
+              "year": 1939,
+              "category": "Odyssey-inspired epic",
+              "note": "A girl getting home; a Campbellian hero's journey, and her favorite movie."
+            },
+            {
+              "title": "The Godfather Part II",
+              "year": 1974,
+              "category": "Epic Best Picture winner",
+              "note": "Multi-generational, time-jumping; she takes it over Part I for the Sicily flashbacks."
+            },
+            {
+              "title": "Ben-Hur",
+              "year": 1959,
+              "category": "Biblical epic",
+              "note": "The chariot race, plus a film she found shockingly homoerotic."
+            },
+            {
+              "title": "The English Patient",
+              "year": 1996,
+              "category": "Romantic or war epic",
+              "note": "Anthony Minghella; the one Seinfeld's Elaine hated and Amanda loves."
+            },
+            {
+              "title": "Reds",
+              "year": 1981,
+              "category": "Biopic epic",
+              "note": "Warren Beatty; Diane Keaton alone on the tundra."
+            },
+            {
+              "title": "JFK",
+              "year": 1991,
+              "category": "Movies over three hours",
+              "note": "Oliver Stone; a fever dream she took here rather than in biopic."
+            },
+            {
+              "title": "Barry Lyndon",
+              "year": 1975,
+              "category": "Wildcard",
+              "note": "Kubrick by candlelight; Sean tried to block it on a technicality."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Gone with the Wind",
+        "The Godfather",
+        "Gandhi",
+        "Out of Africa",
+        "The Last Emperor",
+        "Dances with Wolves",
+        "Titanic",
+        "Gladiator",
+        "Braveheart",
+        "The Sound of Music",
+        "Oppenheimer",
+        "One Battle After Another",
+        "A Man for All Seasons",
+        "The Ten Commandments",
+        "The Robe",
+        "The Gospel According to St. Matthew",
+        "The Passion of the Christ",
+        "King of Kings",
+        "The Greatest Story Ever Told",
+        "Noah",
+        "Quo Vadis",
+        "Barabbas",
+        "Samson and Delilah",
+        "David and Bathsheba",
+        "Spartacus",
+        "Saving Private Ryan",
+        "All Quiet on the Western Front",
+        "Crouching Tiger, Hidden Dragon",
+        "Platoon",
+        "Once Upon a Time in China",
+        "Doctor Zhivago",
+        "The Curious Case of Benjamin Button",
+        "Dunkirk",
+        "The Longest Day",
+        "A Bridge Too Far",
+        "How the West Was Won",
+        "Once Upon a Time in the West",
+        "Wyatt Earp",
+        "Geronimo: An American Legend",
+        "The Great Escape",
+        "Lincoln",
+        "The Aviator",
+        "Ali",
+        "Goodfellas",
+        "The Wolf of Wall Street",
+        "Catch Me If You Can",
+        "The Revenant",
+        "Schindler's List",
+        "The Right Stuff",
+        "Prince of the City",
+        "1900",
+        "RRR",
+        "Killers of the Flower Moon",
+        "An American in Paris",
+        "Funny Girl",
+        "Singin' in the Rain",
+        "The Best Years of Our Lives",
+        "Wicked",
+        "Andrei Rublev",
+        "Once Upon a Time in America",
+        "Hamlet",
+        "Henry V",
+        "Django Unchained",
+        "Once Upon a Time in Hollywood",
+        "Dune",
+        "Dune: Part Two"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Sam Neill, remembered",
+      "films": [
+        "Jurassic Park",
+        "The Hunt for Red October",
+        "In the Mouth of Madness",
+        "The Piano",
+        "Event Horizon",
+        "Dead Calm",
+        "My Brilliant Career",
+        "Sleeping Dogs",
+        "Possession",
+        "Hunt for the Wilderpeople",
+        "The Final Conflict"
+      ]
+    },
+    {
+      "group": "The Rock's run since 2016",
+      "films": [
+        "The Fate of the Furious",
+        "Baywatch",
+        "Jumanji: Welcome to the Jungle",
+        "Rampage",
+        "Skyscraper",
+        "Fast & Furious Presents: Hobbs & Shaw",
+        "Jumanji: The Next Level",
+        "Jungle Cruise",
+        "Red Notice",
+        "DC League of Super-Pets",
+        "Black Adam",
+        "Fast X",
+        "Red One",
+        "Moana 2",
+        "The Smashing Machine",
+        "San Andreas"
+      ]
+    },
+    {
+      "group": "Disney live-action remakes",
+      "films": [
+        "Lilo & Stitch",
+        "Tangled",
+        "Frozen",
+        "Bambi",
+        "Pocahontas",
+        "Hercules",
+        "Tarzan",
+        "The Emperor's New Groove"
+      ]
+    },
+    {
+      "group": "Criterion Channel · Odyssey program",
+      "films": [
+        "The Darjeeling Limited",
+        "Sullivan's Travels",
+        "Walkabout",
+        "The Straight Story",
+        "After Hours"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "The Royal Tenenbaums",
+        "Asteroid City",
+        "Shogun Assassin",
+        "The Driller Killer",
+        "Heaven's Gate",
+        "Desperate Hours",
+        "The Pope of Greenwich Village",
+        "The Ballad of Buster Scruggs",
+        "Hail, Caesar!",
+        "The Tragedy of Macbeth",
+        "Birdman",
+        "Deadpool & Wolverine",
+        "The Wizard of the Kremlin",
+        "Michael",
+        "In the Grey",
+        "Minions",
+        "Moneyball",
+        "Chariots of Fire"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Amadeus (series)",
+      "Band of Brothers",
+      "Game of Thrones"
+    ],
+    "Ads": [
+      "Amazon Prime",
+      "State Farm"
+    ]
+  },
+  "tmdbOverrides": {
+    "Kill Bill: The Whole Bloody Affair": 414419,
+    "Sleeping Dogs": 37582,
+    "Barabbas": 24248,
+    "Prince of the City": 32047,
+    "Birdman": 194662
+  },
+  "tmdb": {
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "Moana": {
+      "id": 1108427,
+      "poster": "/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+      "title": "Moana",
+      "year": 2026
+    },
+    "Digger": {
+      "id": 1248832,
+      "poster": "/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "title": "Digger",
+      "year": 2026
+    },
+    "Disclosure Day": {
+      "id": 1275779,
+      "poster": "/259wnijEJoJLPuZuscxDTqwnypw.jpg",
+      "title": "Disclosure Day",
+      "year": 2026
+    },
+    "Dune: Part Three": {
+      "id": 1170608,
+      "poster": "/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+      "title": "Dune: Part Three",
+      "year": 2026
+    },
+    "Lawrence of Arabia": {
+      "id": 947,
+      "poster": "/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg",
+      "title": "Lawrence of Arabia",
+      "year": 1962
+    },
+    "The Last of the Mohicans": {
+      "id": 9361,
+      "poster": "/qzJMPWRtZveBkxXOv3ucWhoJuyj.jpg",
+      "title": "The Last of the Mohicans",
+      "year": 1992
+    },
+    "Malcolm X": {
+      "id": 1883,
+      "poster": "/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
+      "title": "Malcolm X",
+      "year": 1992
+    },
+    "The Searchers": {
+      "id": 3114,
+      "poster": "/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg",
+      "title": "The Searchers",
+      "year": 1956
+    },
+    "The Bridge on the River Kwai": {
+      "id": 826,
+      "poster": "/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
+      "title": "The Bridge on the River Kwai",
+      "year": 1957
+    },
+    "Kingdom of Heaven": {
+      "id": 1495,
+      "poster": "/rNaBe4TwbMef71sgscqabpGKsxh.jpg",
+      "title": "Kingdom of Heaven",
+      "year": 2005
+    },
+    "Carlos": {
+      "id": 43434,
+      "poster": "/ee6EiUOXdvr7DvnBBEG691TNSKh.jpg",
+      "title": "Carlos",
+      "year": 2010
+    },
+    "The Last Temptation of Christ": {
+      "id": 11051,
+      "poster": "/7L4qwrC1mipZXJfU5oRgQWChLv1.jpg",
+      "title": "The Last Temptation of Christ",
+      "year": 1988
+    },
+    "The Lord of the Rings: The Return of the King": {
+      "id": 122,
+      "poster": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003
+    },
+    "O Brother, Where Art Thou?": {
+      "id": 134,
+      "poster": "/s9foMAcLg8GEzzQzer04qOGdD1k.jpg",
+      "title": "O Brother, Where Art Thou?",
+      "year": 2000
+    },
+    "The Deer Hunter": {
+      "id": 11778,
+      "poster": "/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
+      "title": "The Deer Hunter",
+      "year": 1978
+    },
+    "Amadeus": {
+      "id": 279,
+      "poster": "/gQRfiyfGvr1az0quaYyMram3Aqt.jpg",
+      "title": "Amadeus",
+      "year": 1984
+    },
+    "Seven Samurai": {
+      "id": 346,
+      "poster": "/lOMGc8bnSwQhS4XyE1S99uH8NXf.jpg",
+      "title": "Seven Samurai",
+      "year": 1954
+    },
+    "Kill Bill: The Whole Bloody Affair": {
+      "id": 414419,
+      "poster": "/nSOJfWJCdVFZQwXQA7RXn7FIIiY.jpg",
+      "title": "Kill Bill: The Whole Bloody Affair",
+      "year": 2011
+    },
+    "The Wizard of Oz": {
+      "id": 630,
+      "poster": "/uCC3j4pV9eOZwzDUWp2ilbcTf1f.jpg",
+      "title": "The Wizard of Oz",
+      "year": 1939
+    },
+    "The Godfather Part II": {
+      "id": 240,
+      "poster": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+      "title": "The Godfather Part II",
+      "year": 1974
+    },
+    "Ben-Hur": {
+      "id": 665,
+      "poster": "/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+      "title": "Ben-Hur",
+      "year": 1959
+    },
+    "The English Patient": {
+      "id": 409,
+      "poster": "/8eHHqMg8qEYtVw8LQLygsHXSR2q.jpg",
+      "title": "The English Patient",
+      "year": 1996
+    },
+    "Reds": {
+      "id": 18254,
+      "poster": "/AeiKdVVM93fwfQG1m3N0cgVZgHl.jpg",
+      "title": "Reds",
+      "year": 1981
+    },
+    "JFK": {
+      "id": 820,
+      "poster": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+      "title": "JFK",
+      "year": 1991
+    },
+    "Barry Lyndon": {
+      "id": 3175,
+      "poster": "/znfLskGQnXYB2xcOGM9eInRHPAV.jpg",
+      "title": "Barry Lyndon",
+      "year": 1975
+    },
+    "Gone with the Wind": {
+      "id": 770,
+      "poster": "/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg",
+      "title": "Gone with the Wind",
+      "year": 1939
+    },
+    "The Godfather": {
+      "id": 238,
+      "poster": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "title": "The Godfather",
+      "year": 1972
+    },
+    "Gandhi": {
+      "id": 783,
+      "poster": "/rOXftt7SluxskrFrvU7qFJa5zeN.jpg",
+      "title": "Gandhi",
+      "year": 1982
+    },
+    "Out of Africa": {
+      "id": 606,
+      "poster": "/6oMKqh08TfxmvnoFR4mm1wZB67P.jpg",
+      "title": "Out of Africa",
+      "year": 1985
+    },
+    "The Last Emperor": {
+      "id": 746,
+      "poster": "/7TILJhdeJAaEyDiwvJZMo9SQBoe.jpg",
+      "title": "The Last Emperor",
+      "year": 1987
+    },
+    "Dances with Wolves": {
+      "id": 581,
+      "poster": "/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg",
+      "title": "Dances with Wolves",
+      "year": 1990
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "Gladiator": {
+      "id": 98,
+      "poster": "/wN2xWp1eIwCKOD0BHTcErTBv1Uq.jpg",
+      "title": "Gladiator",
+      "year": 2000
+    },
+    "Braveheart": {
+      "id": 197,
+      "poster": "/or1gBugydmjToAEq7OZY0owwFk.jpg",
+      "title": "Braveheart",
+      "year": 1995
+    },
+    "The Sound of Music": {
+      "id": 15121,
+      "poster": "/c6CrUZypAsBCaRWX0M3RVRDbhNS.jpg",
+      "title": "The Sound of Music",
+      "year": 1965
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "One Battle After Another": {
+      "id": 1054867,
+      "poster": "/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+      "title": "One Battle After Another",
+      "year": 2025
+    },
+    "A Man for All Seasons": {
+      "id": 874,
+      "poster": "/1AhIatyuSxymFNHhNTzDiUrE6kn.jpg",
+      "title": "A Man for All Seasons",
+      "year": 1966
+    },
+    "The Ten Commandments": {
+      "id": 6844,
+      "poster": "/3Ei59AR64x6dMZfWobPCkZjbqTL.jpg",
+      "title": "The Ten Commandments",
+      "year": 1956
+    },
+    "The Robe": {
+      "id": 29912,
+      "poster": "/qFYZNGzftIM8dqGMJBToGraAFJp.jpg",
+      "title": "The Robe",
+      "year": 1953
+    },
+    "The Gospel According to St. Matthew": {
+      "id": 24192,
+      "poster": "/oifi2CQkKbb6Y2x6J5K6CjaKab9.jpg",
+      "title": "The Gospel According to St. Matthew",
+      "year": 1965
+    },
+    "The Passion of the Christ": {
+      "id": 615,
+      "poster": "/rBM5o2HpmCfDejuIPybI09tkY3V.jpg",
+      "title": "The Passion of the Christ",
+      "year": 2004
+    },
+    "King of Kings": {
+      "id": 36362,
+      "poster": "/fp1Nx4FASTGldFuQyGXN0HF6Jgk.jpg",
+      "title": "King of Kings",
+      "year": 1961
+    },
+    "The Greatest Story Ever Told": {
+      "id": 2428,
+      "poster": "/c21ON7BZn0jwdNl6ibZ1vhXJmpy.jpg",
+      "title": "The Greatest Story Ever Told",
+      "year": 1965
+    },
+    "Noah": {
+      "id": 86834,
+      "poster": "/vVLkHabnF5lVpCpqyhZBI5iCYMA.jpg",
+      "title": "Noah",
+      "year": 2014
+    },
+    "Quo Vadis": {
+      "id": 11620,
+      "poster": "/dqF1dattMNiwGjPSphu2VSi558Q.jpg",
+      "title": "Quo Vadis",
+      "year": 1951
+    },
+    "Barabbas": {
+      "id": 24248,
+      "poster": "/8qTylsK58cNc9hP7cQksi65j8JW.jpg",
+      "title": "Barabbas",
+      "year": 1961
+    },
+    "Samson and Delilah": {
+      "id": 29993,
+      "poster": "/d2AHCe6WzvshD7ucKuUWgugExjc.jpg",
+      "title": "Samson and Delilah",
+      "year": 1949
+    },
+    "David and Bathsheba": {
+      "id": 42567,
+      "poster": "/gOYwjVzXami9Nko7pfw7qyt3odu.jpg",
+      "title": "David and Bathsheba",
+      "year": 1951
+    },
+    "Spartacus": {
+      "id": 967,
+      "poster": "/r0Fgg1GyZgzokaiw2HFQv3oPaL2.jpg",
+      "title": "Spartacus",
+      "year": 1960
+    },
+    "Saving Private Ryan": {
+      "id": 857,
+      "poster": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+      "title": "Saving Private Ryan",
+      "year": 1998
+    },
+    "All Quiet on the Western Front": {
+      "id": 49046,
+      "poster": "/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg",
+      "title": "All Quiet on the Western Front",
+      "year": 2022
+    },
+    "Crouching Tiger, Hidden Dragon": {
+      "id": 146,
+      "poster": "/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg",
+      "title": "Crouching Tiger, Hidden Dragon",
+      "year": 2000
+    },
+    "Platoon": {
+      "id": 792,
+      "poster": "/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg",
+      "title": "Platoon",
+      "year": 1986
+    },
+    "Once Upon a Time in China": {
+      "id": 10617,
+      "poster": "/dkBQC0jmkmTOJJMgwsBdgkzZ6Ry.jpg",
+      "title": "Once Upon a Time in China",
+      "year": 1991
+    },
+    "Doctor Zhivago": {
+      "id": 907,
+      "poster": "/r0Iv2BiCFYDnzc6uU1q3AJ56igT.jpg",
+      "title": "Doctor Zhivago",
+      "year": 1965
+    },
+    "The Curious Case of Benjamin Button": {
+      "id": 4922,
+      "poster": "/26wEWZYt6yJkwRVkjcbwJEFh9IS.jpg",
+      "title": "The Curious Case of Benjamin Button",
+      "year": 2008
+    },
+    "Dunkirk": {
+      "id": 374720,
+      "poster": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "title": "Dunkirk",
+      "year": 2017
+    },
+    "The Longest Day": {
+      "id": 9289,
+      "poster": "/5zmvEofdIlgXrQl9A7e5IOzlnFU.jpg",
+      "title": "The Longest Day",
+      "year": 1962
+    },
+    "A Bridge Too Far": {
+      "id": 5902,
+      "poster": "/lszOk3Xmh7qpLaM9J4K9E6ADLk1.jpg",
+      "title": "A Bridge Too Far",
+      "year": 1977
+    },
+    "How the West Was Won": {
+      "id": 11897,
+      "poster": "/rmwc89VMQR4rUSDfakd0Z6GyF6q.jpg",
+      "title": "How the West Was Won",
+      "year": 1962
+    },
+    "Once Upon a Time in the West": {
+      "id": 335,
+      "poster": "/qbYgqOczabWNn2XKwgMtVrntD6P.jpg",
+      "title": "Once Upon a Time in the West",
+      "year": 1968
+    },
+    "Wyatt Earp": {
+      "id": 12160,
+      "poster": "/51LItgyecu2KMAtIchYogEykCIu.jpg",
+      "title": "Wyatt Earp",
+      "year": 1994
+    },
+    "Geronimo: An American Legend": {
+      "id": 35588,
+      "poster": "/9FNuwnhHngkblD6eVRXnmJN8kQq.jpg",
+      "title": "Geronimo: An American Legend",
+      "year": 1993
+    },
+    "The Great Escape": {
+      "id": 5925,
+      "poster": "/gBH4H8UMFxl139HaLz6lRuvsel8.jpg",
+      "title": "The Great Escape",
+      "year": 1963
+    },
+    "Lincoln": {
+      "id": 72976,
+      "poster": "/7mUYEkv9W3ek61eetZCfMQYVoi.jpg",
+      "title": "Lincoln",
+      "year": 2012
+    },
+    "The Aviator": {
+      "id": 2567,
+      "poster": "/lx4kWcZc3o9PaNxlQpEJZM17XUI.jpg",
+      "title": "The Aviator",
+      "year": 2004
+    },
+    "Ali": {
+      "id": 8489,
+      "poster": "/32l3FaCzs8cXWps6hkgNJAcOsP.jpg",
+      "title": "Ali",
+      "year": 2001
+    },
+    "Goodfellas": {
+      "id": 769,
+      "poster": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+      "title": "GoodFellas",
+      "year": 1990
+    },
+    "The Wolf of Wall Street": {
+      "id": 106646,
+      "poster": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+      "title": "The Wolf of Wall Street",
+      "year": 2013
+    },
+    "Catch Me If You Can": {
+      "id": 640,
+      "poster": "/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+      "title": "Catch Me If You Can",
+      "year": 2002
+    },
+    "The Revenant": {
+      "id": 281957,
+      "poster": "/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",
+      "title": "The Revenant",
+      "year": 2015
+    },
+    "Schindler's List": {
+      "id": 424,
+      "poster": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+      "title": "Schindler's List",
+      "year": 1993
+    },
+    "The Right Stuff": {
+      "id": 9549,
+      "poster": "/btqTjNRxecYgQ1FGfVlLqSSNjz.jpg",
+      "title": "The Right Stuff",
+      "year": 1983
+    },
+    "Prince of the City": {
+      "id": 32047,
+      "poster": "/511ulkuQ46NYiwAc39rXMBIB34r.jpg",
+      "title": "Prince of the City",
+      "year": 1981
+    },
+    "1900": {
+      "id": 3870,
+      "poster": "/deWzfCC59tmtEQvKSmflDe14FvR.jpg",
+      "title": "1900",
+      "year": 1976
+    },
+    "RRR": {
+      "id": 579974,
+      "poster": "/u0XUBNQWlOvrh0Gd97ARGpIkL0.jpg",
+      "title": "RRR",
+      "year": 2022
+    },
+    "Killers of the Flower Moon": {
+      "id": 466420,
+      "poster": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+      "title": "Killers of the Flower Moon",
+      "year": 2023
+    },
+    "An American in Paris": {
+      "id": 2769,
+      "poster": "/lyDXkvG53ldz6Cf7dbjJl7TaoP5.jpg",
+      "title": "An American in Paris",
+      "year": 1951
+    },
+    "Funny Girl": {
+      "id": 16085,
+      "poster": "/ywjXHWUK0niM26UKy7DTCErWTFz.jpg",
+      "title": "Funny Girl",
+      "year": 1968
+    },
+    "Singin' in the Rain": {
+      "id": 872,
+      "poster": "/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+      "title": "Singin' in the Rain",
+      "year": 1952
+    },
+    "The Best Years of Our Lives": {
+      "id": 887,
+      "poster": "/gd5EoAU4MM57sW3vlWxJ0NMM8cV.jpg",
+      "title": "The Best Years of Our Lives",
+      "year": 1946
+    },
+    "Wicked": {
+      "id": 402431,
+      "poster": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+      "title": "Wicked",
+      "year": 2024
+    },
+    "Andrei Rublev": {
+      "id": 895,
+      "poster": "/jUihkn16SwPPIjuOyo6orHWUep6.jpg",
+      "title": "Andrei Rublev",
+      "year": 1966
+    },
+    "Once Upon a Time in America": {
+      "id": 311,
+      "poster": "/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg",
+      "title": "Once Upon a Time in America",
+      "year": 1984
+    },
+    "Hamlet": {
+      "id": 10549,
+      "poster": "/ilurgUOp6SCl4cuhfjctj1qxlfZ.jpg",
+      "title": "Hamlet",
+      "year": 1996
+    },
+    "Henry V": {
+      "id": 22638,
+      "poster": "/eAisr20DvaKJeHvjDN0oHSx0l7u.jpg",
+      "title": "Henry V",
+      "year": 1944
+    },
+    "Django Unchained": {
+      "id": 68718,
+      "poster": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+      "title": "Django Unchained",
+      "year": 2012
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Dune": {
+      "id": 438631,
+      "poster": "/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "title": "Dune",
+      "year": 2021
+    },
+    "Dune: Part Two": {
+      "id": 693134,
+      "poster": "/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+      "title": "Dune: Part Two",
+      "year": 2024
+    },
+    "Jurassic Park": {
+      "id": 329,
+      "poster": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "title": "Jurassic Park",
+      "year": 1993
+    },
+    "The Hunt for Red October": {
+      "id": 1669,
+      "poster": "/yVl7zidse4KiWtGMqHFtZCx4X3N.jpg",
+      "title": "The Hunt for Red October",
+      "year": 1990
+    },
+    "In the Mouth of Madness": {
+      "id": 2654,
+      "poster": "/msh4tEUzbnEqlHcFOUH4O0Zti8r.jpg",
+      "title": "In the Mouth of Madness",
+      "year": 1995
+    },
+    "The Piano": {
+      "id": 713,
+      "poster": "/rx8RKXn8OtuS6lqloYsjyrGOUp4.jpg",
+      "title": "The Piano",
+      "year": 1993
+    },
+    "Event Horizon": {
+      "id": 8413,
+      "poster": "/qfluaDXv0cIdLwgQWzNB2piHL2q.jpg",
+      "title": "Event Horizon",
+      "year": 1997
+    },
+    "Dead Calm": {
+      "id": 10493,
+      "poster": "/hXpav86ZX5N1YIfVfVtzuZLNrjW.jpg",
+      "title": "Dead Calm",
+      "year": 1989
+    },
+    "My Brilliant Career": {
+      "id": 16659,
+      "poster": "/s89ZolmE0tD5stOJhy6Jh4V3txZ.jpg",
+      "title": "My Brilliant Career",
+      "year": 1979
+    },
+    "Sleeping Dogs": {
+      "id": 37582,
+      "poster": "/u1gKAfqLMvz1uH3HQmz9HdJ9DBw.jpg",
+      "title": "Sleeping Dogs",
+      "year": 1977
+    },
+    "Possession": {
+      "id": 21484,
+      "poster": "/A9bnRn05riOKWftvQlLKa2gl51n.jpg",
+      "title": "Possession",
+      "year": 1981
+    },
+    "Hunt for the Wilderpeople": {
+      "id": 371645,
+      "poster": "/hkmz9rxgcweizXNElozGeKwmAJE.jpg",
+      "title": "Hunt for the Wilderpeople",
+      "year": 2016
+    },
+    "The Final Conflict": {
+      "id": 10768,
+      "poster": "/jDW2C77QNMQe6Lp2jeqAQXe2uaX.jpg",
+      "title": "The Final Conflict",
+      "year": 1981
+    },
+    "The Fate of the Furious": {
+      "id": 337339,
+      "poster": "/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg",
+      "title": "The Fate of the Furious",
+      "year": 2017
+    },
+    "Baywatch": {
+      "id": 339846,
+      "poster": "/6HE4xd8zloDqmjMZuhUCCw2UcY1.jpg",
+      "title": "Baywatch",
+      "year": 2017
+    },
+    "Jumanji: Welcome to the Jungle": {
+      "id": 353486,
+      "poster": "/pSgXKPU5h6U89ipF7HBYajvYt7j.jpg",
+      "title": "Jumanji: Welcome to the Jungle",
+      "year": 2017
+    },
+    "Rampage": {
+      "id": 427641,
+      "poster": "/MGADip4thVSErP34FAAfzFBTZ5.jpg",
+      "title": "Rampage",
+      "year": 2018
+    },
+    "Skyscraper": {
+      "id": 447200,
+      "poster": "/52ml62vClzrlqvXZq2FEW6UF6c1.jpg",
+      "title": "Skyscraper",
+      "year": 2018
+    },
+    "Fast & Furious Presents: Hobbs & Shaw": {
+      "id": 384018,
+      "poster": "/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg",
+      "title": "Fast & Furious Presents: Hobbs & Shaw",
+      "year": 2019
+    },
+    "Jumanji: The Next Level": {
+      "id": 512200,
+      "poster": "/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg",
+      "title": "Jumanji: The Next Level",
+      "year": 2019
+    },
+    "Jungle Cruise": {
+      "id": 451048,
+      "poster": "/yKy9ELL8CON5sqDg4yIvBb5LTZL.jpg",
+      "title": "Jungle Cruise",
+      "year": 2021
+    },
+    "Red Notice": {
+      "id": 512195,
+      "poster": "/lAXONuqg41NwUMuzMiFvicDET9Y.jpg",
+      "title": "Red Notice",
+      "year": 2021
+    },
+    "DC League of Super-Pets": {
+      "id": 539681,
+      "poster": "/qpPMewlugFaejXjz4YNDnpTniFX.jpg",
+      "title": "DC League of Super-Pets",
+      "year": 2022
+    },
+    "Black Adam": {
+      "id": 436270,
+      "poster": "/rCtreCr4xiYEWDQTebybolIh6Xe.jpg",
+      "title": "Black Adam",
+      "year": 2022
+    },
+    "Fast X": {
+      "id": 385687,
+      "poster": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+      "title": "Fast X",
+      "year": 2023
+    },
+    "Red One": {
+      "id": 845781,
+      "poster": "/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
+      "title": "Red One",
+      "year": 2024
+    },
+    "Moana 2": {
+      "id": 1241982,
+      "poster": "/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+      "title": "Moana 2",
+      "year": 2024
+    },
+    "The Smashing Machine": {
+      "id": 760329,
+      "poster": "/cwwvrdYeIrARXdiv09GIO6XWK5l.jpg",
+      "title": "The Smashing Machine",
+      "year": 2025
+    },
+    "San Andreas": {
+      "id": 254128,
+      "poster": "/2Gfjn962aaFSD6eST6QU3oLDZTo.jpg",
+      "title": "San Andreas",
+      "year": 2015
+    },
+    "Lilo & Stitch": {
+      "id": 552524,
+      "poster": "/ckQzKpQJO4ZQDCN5evdpKcfm7Ys.jpg",
+      "title": "Lilo & Stitch",
+      "year": 2025
+    },
+    "Tangled": {
+      "id": 38757,
+      "poster": "/ym7Kst6a4uodryxqbGOxmewF235.jpg",
+      "title": "Tangled",
+      "year": 2010
+    },
+    "Frozen": {
+      "id": 109445,
+      "poster": "/itAKcobTYGpYT8Phwjd8c9hleTo.jpg",
+      "title": "Frozen",
+      "year": 2013
+    },
+    "Bambi": {
+      "id": 3170,
+      "poster": "/wV9e2y4myJ4KMFsyFfWYcUOawyK.jpg",
+      "title": "Bambi",
+      "year": 1942
+    },
+    "Pocahontas": {
+      "id": 10530,
+      "poster": "/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg",
+      "title": "Pocahontas",
+      "year": 1995
+    },
+    "Hercules": {
+      "id": 11970,
+      "poster": "/dK9rNoC97tgX3xXg5zdxFisdfcp.jpg",
+      "title": "Hercules",
+      "year": 1997
+    },
+    "Tarzan": {
+      "id": 37135,
+      "poster": "/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg",
+      "title": "Tarzan",
+      "year": 1999
+    },
+    "The Emperor's New Groove": {
+      "id": 11688,
+      "poster": "/isA0acj3ONKBLp1pKadUNzxEPFv.jpg",
+      "title": "The Emperor's New Groove",
+      "year": 2000
+    },
+    "The Darjeeling Limited": {
+      "id": 4538,
+      "poster": "/oSW5OVXTulaIXcoNwJAp5YEKpbP.jpg",
+      "title": "The Darjeeling Limited",
+      "year": 2007
+    },
+    "Sullivan's Travels": {
+      "id": 16305,
+      "poster": "/z5cqIM0ysVjkCmaDfyTQnlozdIp.jpg",
+      "title": "Sullivan's Travels",
+      "year": 1941
+    },
+    "Walkabout": {
+      "id": 36040,
+      "poster": "/24vooYt5StgtgcQObVr1GHuM5gy.jpg",
+      "title": "Walkabout",
+      "year": 1971
+    },
+    "The Straight Story": {
+      "id": 404,
+      "poster": "/tT9cMiVDdtlcdZxOoFy3VRmEoKk.jpg",
+      "title": "The Straight Story",
+      "year": 1999
+    },
+    "After Hours": {
+      "id": 10843,
+      "poster": "/eamOBurHBu0MIxohTIVcfxmZ6Z7.jpg",
+      "title": "After Hours",
+      "year": 1985
+    },
+    "The Royal Tenenbaums": {
+      "id": 9428,
+      "poster": "/nG7hZJn7wQTSDCQT39Gy3s3tbrp.jpg",
+      "title": "The Royal Tenenbaums",
+      "year": 2001
+    },
+    "Asteroid City": {
+      "id": 747188,
+      "poster": "/hfo7pvL9Fys7rocfL4VOzw9qDEQ.jpg",
+      "title": "Asteroid City",
+      "year": 2023
+    },
+    "Shogun Assassin": {
+      "id": 15119,
+      "poster": "/t376p5q8zvhyQ2FOroytJsRvlL8.jpg",
+      "title": "Shogun Assassin",
+      "year": 1980
+    },
+    "The Driller Killer": {
+      "id": 13553,
+      "poster": "/qeFh14wpyxtmEZrpnPX1L4q5AJG.jpg",
+      "title": "The Driller Killer",
+      "year": 1979
+    },
+    "Heaven's Gate": {
+      "id": 10935,
+      "poster": "/kW4Vk31nhtKPKGuYMaVATq3wcHC.jpg",
+      "title": "Heaven's Gate",
+      "year": 1980
+    },
+    "Desperate Hours": {
+      "id": 31676,
+      "poster": "/gtIRVVHRRr4iWN8yJ6tQs0CqWV2.jpg",
+      "title": "Desperate Hours",
+      "year": 1990
+    },
+    "The Pope of Greenwich Village": {
+      "id": 32081,
+      "poster": "/5U0HNeGoJVK3xic7hK9lz89Ki9i.jpg",
+      "title": "The Pope of Greenwich Village",
+      "year": 1984
+    },
+    "The Ballad of Buster Scruggs": {
+      "id": 537996,
+      "poster": "/voxl654m7p36y8FLu8oQD7dfwwK.jpg",
+      "title": "The Ballad of Buster Scruggs",
+      "year": 2018
+    },
+    "Hail, Caesar!": {
+      "id": 270487,
+      "poster": "/qvecZ7WyemhGW8fuJ8190p472jQ.jpg",
+      "title": "Hail, Caesar!",
+      "year": 2016
+    },
+    "The Tragedy of Macbeth": {
+      "id": 591538,
+      "poster": "/tDNJEhcLbX3jIk3BMCur9pCdaVD.jpg",
+      "title": "The Tragedy of Macbeth",
+      "year": 2021
+    },
+    "Birdman": {
+      "id": 194662,
+      "poster": "/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg",
+      "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+      "year": 2014
+    },
+    "Deadpool & Wolverine": {
+      "id": 533535,
+      "poster": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+      "title": "Deadpool & Wolverine",
+      "year": 2024
+    },
+    "The Wizard of the Kremlin": {
+      "id": 1291659,
+      "poster": "/85EYON4oXVYTPdMuW5q5ELQLU88.jpg",
+      "title": "The Wizard of the Kremlin",
+      "year": 2026
+    },
+    "Michael": {
+      "id": 936075,
+      "poster": "/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+      "title": "Michael",
+      "year": 2026
+    },
+    "In the Grey": {
+      "id": 1122573,
+      "poster": "/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+      "title": "In the Grey",
+      "year": 2026
+    },
+    "Minions": {
+      "id": 211672,
+      "poster": "/dr02BdCNAUPVU07aOodwPYv6HCf.jpg",
+      "title": "Minions",
+      "year": 2015
+    },
+    "Moneyball": {
+      "id": 60308,
+      "poster": "/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+      "title": "Moneyball",
+      "year": 2011
+    },
+    "Chariots of Fire": {
+      "id": 9443,
+      "poster": "/qnRaum8k0HqGRml2i7OawFqUtEb.jpg",
+      "title": "Chariots of Fire",
+      "year": 1981
+    }
+  },
+  "spotifyEpisodeId": "4h98u5zYGaSzq6m1pYncLI"
+}

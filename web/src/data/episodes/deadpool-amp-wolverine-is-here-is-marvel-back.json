@@ -1,0 +1,384 @@
+{
+  "slug": "deadpool-amp-wolverine-is-here-is-marvel-back",
+  "title": "‘Deadpool & Wolverine’ Is Here. Is Marvel Back?",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Van Lathan",
+    "Charles Holmes",
+    "Jomi Adeniran"
+  ],
+  "published": "2024-07-26",
+  "runtimeMin": 82,
+  "format": "Sean and Amanda hand the mic to three of the four Midnight Boys (Van Lathan, Charles Holmes, and Jomi Adeniran) for a full-spoiler talk on the only Marvel movie of 2024. Van had a blast, Charles found it emotionally hollow and didn't laugh once, Jomi read it as a love letter to the pre-MCU Fox characters, and Amanda watched from outside every reference. The argument they keep circling: is a $250 million spoof of superhero movies a send-off for Deadpool or for 20th Century Fox? Part one of a two-part crossover; part two lives on the Midnight Boys feed.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "‘Deadpool & Wolverine’",
+      "note": "full spoilers, with the Midnight Boys",
+      "films": [
+        {
+          "title": "Deadpool & Wolverine",
+          "year": 2024,
+          "note": "The year's only Marvel release, directed by Shawn Levy and written by Ryan Reynolds, Rhett Reese, Paul Wernick, Zeb Wells, and Levy. Amanda reads Sean's plot recap aloud: Deadpool is pulled into the TVA by Mr. Paradox (Matthew Macfadyen), grabs a downtrodden Wolverine, and lands in the Void, where Cassandra Nova (Emma Corrin) and a wasteland of forgotten Fox characters await. Van had a blast and calls it a home game: he already cares about Deadpool. Charles found it emotionally hollow and didn't laugh once. Jomi read it as a love letter to the pre-MCU characters (Johnny Storm was his first hero). Everyone flagged the wall-to-wall exposition and low stakes and praised Hugh Jackman. Sean's frame: a $250 million spoof of superhero movies that works as comedy but plays like IP loss-prevention from a journeyman director, and a send-off for 20th Century Fox more than for Deadpool. The Wesley Snipes 'there's only one Blade' line lands as a direct shot at Mahershala Ali's stalled Blade."
+        },
+        {
+          "title": "Deadpool",
+          "year": 2016,
+          "note": "Van rewatched it right after this one and came away thinking Deadpool works grittier and smaller, closer to Venom, when his world feels as violent as he is. Home of the original meta gags: 'which one, Stewart or McAvoy?'"
+        },
+        {
+          "title": "Deadpool 2",
+          "year": 2018,
+          "note": "Amanda read the Wikipedia pages to prep: the Cable time-slip device at the end is how Vanessa comes back and why the TVA is chasing Deadpool for messing with the sacred timeline."
+        },
+        {
+          "title": "Logan",
+          "year": 2017,
+          "note": "The counterexample everyone reaches for: James Mangold making something sincere and good inside the corporate machine. This movie opens with Deadpool digging Wolverine's body out of Logan and fighting TVA agents with it, which the group agreed was a genuinely sick gag."
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "year": 2021,
+          "note": "The template for legacy-cameo emotion done right: Tobey Maguire in only three films, Andrew Garfield getting to save MJ. Sean's argument is that Deadpool & Wolverine wants that payoff (Elektra, Blade, Gambit) but the characters don't carry the same weight, so the feeling never lands."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "MCU and the multiverse saga",
+      "films": [
+        "Avengers: Infinity War",
+        "Avengers: Endgame",
+        "Doctor Strange in the Multiverse of Madness",
+        "Iron Man",
+        "Iron Man 3",
+        "Shang-Chi and the Legend of the Ten Rings",
+        "Eternals",
+        "Captain America: The Winter Soldier",
+        "Captain America: Brave New World",
+        "Thunderbolts"
+      ]
+    },
+    {
+      "group": "The Fox era and its cameos",
+      "films": [
+        "X-Men",
+        "X2",
+        "X-Men: The Last Stand",
+        "X-Men: Days of Future Past",
+        "X-Men: First Class",
+        "X-Men Origins: Wolverine",
+        "Fantastic Four",
+        "The Fantastic Four: First Steps",
+        "Elektra",
+        "Blade",
+        "Blade: Trinity"
+      ]
+    },
+    {
+      "group": "Also name-checked",
+      "films": [
+        "Superman",
+        "Twisters",
+        "Twister",
+        "Gladiator II",
+        "Top Gun: Maverick",
+        "Furiosa: A Mad Max Saga",
+        "Mad Max: Fury Road",
+        "The Incredibles",
+        "A Quiet Place: Day One",
+        "The Greatest Showman",
+        "Les Misérables",
+        "The Music Man",
+        "The Icicle Thief",
+        "Beverly Hills Cop: Axel F",
+        "Beverly Hills Cop III",
+        "Airplane!",
+        "Airport 1975"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "The Fantastic Four: First Steps": 617126
+  },
+  "excluded": {
+    "TV": [
+      "Loki",
+      "House of the Dragon",
+      "Lois & Clark: The New Adventures of Superman",
+      "The Curse",
+      "Raising Dion",
+      "Supacell",
+      "The Boys",
+      "Stranger Things"
+    ],
+    "Ads": [
+      "The Ringer Fantasy Football Show"
+    ]
+  },
+  "tmdb": {
+    "Deadpool & Wolverine": {
+      "id": 533535,
+      "poster": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+      "title": "Deadpool & Wolverine",
+      "year": 2024
+    },
+    "Deadpool": {
+      "id": 293660,
+      "poster": "/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
+      "title": "Deadpool",
+      "year": 2016
+    },
+    "Deadpool 2": {
+      "id": 383498,
+      "poster": "/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+      "title": "Deadpool 2",
+      "year": 2018
+    },
+    "Logan": {
+      "id": 263115,
+      "poster": "/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+      "title": "Logan",
+      "year": 2017
+    },
+    "Spider-Man: No Way Home": {
+      "id": 634649,
+      "poster": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "title": "Spider-Man: No Way Home",
+      "year": 2021
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Doctor Strange in the Multiverse of Madness": {
+      "id": 453395,
+      "poster": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "year": 2022
+    },
+    "Iron Man": {
+      "id": 1726,
+      "poster": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "title": "Iron Man",
+      "year": 2008
+    },
+    "Iron Man 3": {
+      "id": 68721,
+      "poster": "/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+      "title": "Iron Man 3",
+      "year": 2013
+    },
+    "Shang-Chi and the Legend of the Ten Rings": {
+      "id": 566525,
+      "poster": "/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "year": 2021
+    },
+    "Eternals": {
+      "id": 524434,
+      "poster": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+      "title": "Eternals",
+      "year": 2021
+    },
+    "Captain America: The Winter Soldier": {
+      "id": 100402,
+      "poster": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+      "title": "Captain America: The Winter Soldier",
+      "year": 2014
+    },
+    "Captain America: Brave New World": {
+      "id": 822119,
+      "poster": "/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
+      "title": "Captain America: Brave New World",
+      "year": 2025
+    },
+    "Thunderbolts": {
+      "id": 986056,
+      "poster": "/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
+      "title": "Thunderbolts*",
+      "year": 2025
+    },
+    "X-Men": {
+      "id": 36657,
+      "poster": "/bRDAc4GogyS9ci3ow7UnInOcriN.jpg",
+      "title": "X-Men",
+      "year": 2000
+    },
+    "X2": {
+      "id": 36658,
+      "poster": "/bst4alFUXCxISwdRUKSMhhkrX1M.jpg",
+      "title": "X2",
+      "year": 2003
+    },
+    "X-Men: The Last Stand": {
+      "id": 36668,
+      "poster": "/a2xicU8DpKtRizOHjQLC1JyCSRS.jpg",
+      "title": "X-Men: The Last Stand",
+      "year": 2006
+    },
+    "X-Men: Days of Future Past": {
+      "id": 127585,
+      "poster": "/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
+      "title": "X-Men: Days of Future Past",
+      "year": 2014
+    },
+    "X-Men: First Class": {
+      "id": 49538,
+      "poster": "/hNEokmUke0dazoBhttFN0o3L7Xv.jpg",
+      "title": "X-Men: First Class",
+      "year": 2011
+    },
+    "X-Men Origins: Wolverine": {
+      "id": 2080,
+      "poster": "/yj8LbTju1p7CUJg7US2unSBk33s.jpg",
+      "title": "X-Men Origins: Wolverine",
+      "year": 2009
+    },
+    "Fantastic Four": {
+      "id": 9738,
+      "poster": "/4YMcYEFS8sFuW3soP1HVmgR3cSm.jpg",
+      "title": "Fantastic Four",
+      "year": 2005
+    },
+    "The Fantastic Four: First Steps": {
+      "id": 617126,
+      "poster": "/nf5qaSEvyYSNeFH0YhSs5EsBLX9.jpg",
+      "title": "The Fantastic 4: First Steps",
+      "year": 2025
+    },
+    "Elektra": {
+      "id": 9947,
+      "poster": "/gC6s6NKHneSrOKyQZnUMb443RKU.jpg",
+      "title": "Elektra",
+      "year": 2005
+    },
+    "Blade": {
+      "id": 36647,
+      "poster": "/oWT70TvbsmQaqyphCZpsnQR7R32.jpg",
+      "title": "Blade",
+      "year": 1998
+    },
+    "Blade: Trinity": {
+      "id": 36648,
+      "poster": "/6f7iXvPOnf83MaLB1JmPzUor1rr.jpg",
+      "title": "Blade: Trinity",
+      "year": 2004
+    },
+    "Superman": {
+      "id": 1061474,
+      "poster": "/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
+      "title": "Superman",
+      "year": 2025
+    },
+    "Twisters": {
+      "id": 718821,
+      "poster": "/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg",
+      "title": "Twisters",
+      "year": 2024
+    },
+    "Twister": {
+      "id": 664,
+      "poster": "/d4ie3f6QTvNw40V770Uzo87SDZn.jpg",
+      "title": "Twister",
+      "year": 1996
+    },
+    "Gladiator II": {
+      "id": 558449,
+      "poster": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+      "title": "Gladiator II",
+      "year": 2024
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Furiosa: A Mad Max Saga": {
+      "id": 786892,
+      "poster": "/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
+      "title": "Furiosa: A Mad Max Saga",
+      "year": 2024
+    },
+    "Mad Max: Fury Road": {
+      "id": 76341,
+      "poster": "/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+      "title": "Mad Max: Fury Road",
+      "year": 2015
+    },
+    "The Incredibles": {
+      "id": 9806,
+      "poster": "/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+      "title": "The Incredibles",
+      "year": 2004
+    },
+    "A Quiet Place: Day One": {
+      "id": 762441,
+      "poster": "/hU42CRk14JuPEdqZG3AWmagiPAP.jpg",
+      "title": "A Quiet Place: Day One",
+      "year": 2024
+    },
+    "The Greatest Showman": {
+      "id": 316029,
+      "poster": "/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg",
+      "title": "The Greatest Showman",
+      "year": 2017
+    },
+    "Les Misérables": {
+      "id": 82695,
+      "poster": "/6CuzBs2Lb8At7qQr64mLXg2RYRb.jpg",
+      "title": "Les Misérables",
+      "year": 2012
+    },
+    "The Music Man": {
+      "id": 13671,
+      "poster": "/4yo6qaqVF1IThXMapo4yW9BRWjV.jpg",
+      "title": "The Music Man",
+      "year": 1962
+    },
+    "The Icicle Thief": {
+      "id": 41937,
+      "poster": "/pvv62lACM2AVxFg56FAlNSpFnEV.jpg",
+      "title": "The Icicle Thief",
+      "year": 1989
+    },
+    "Beverly Hills Cop: Axel F": {
+      "id": 280180,
+      "poster": "/zszRKfzjM5jltiq8rk6rasKVpUv.jpg",
+      "title": "Beverly Hills Cop: Axel F",
+      "year": 2024
+    },
+    "Beverly Hills Cop III": {
+      "id": 306,
+      "poster": "/7vIpCkgGEfk5LZwm78nMxswLJRH.jpg",
+      "title": "Beverly Hills Cop III",
+      "year": 1994
+    },
+    "Airplane!": {
+      "id": 813,
+      "poster": "/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg",
+      "title": "Airplane!",
+      "year": 1980
+    },
+    "Airport 1975": {
+      "id": 27932,
+      "poster": "/etfUuwVCvywq8mGspT94CBeLpSz.jpg",
+      "title": "Airport 1975",
+      "year": 1974
+    }
+  },
+  "spotifyEpisodeId": "2t96Nua0xHyLFAAfGw6VF2"
+}

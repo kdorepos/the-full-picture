@@ -1,0 +1,255 @@
+{
+  "slug": "the-surprising-a-quiet-place-day-one-and-kevin-costners-big-",
+  "title": "The Surprising ‘A Quiet Place: Day One’ and Kevin Costner’s Big Bet on ‘Horizon: An American Saga — Chapter 1’",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2024-06-28",
+  "runtimeMin": 69,
+  "format": "Sean Fennessey and Amanda Dobbins review the prequel 'A Quiet Place: Day One,' then Chris Ryan joins to take apart Kevin Costner's self-funded Western 'Horizon: An American Saga - Chapter 1.'",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘A Quiet Place: Day One’",
+      "note": "the prequel, with Amanda Dobbins",
+      "films": [
+        {
+          "title": "A Quiet Place: Day One",
+          "year": 2024,
+          "note": "Michael Sarnoski (of 'Pig') directs the third film in the franchise, from a story he co-wrote with John Krasinski. Lupita Nyong'o plays a terminally ill hospice patient caught in Manhattan on the day the sound-hunting creatures arrive; Joseph Quinn is the stranger she forges a bond with, plus a cat. Sean calls it a surprise and one of the year's best: a contained, melancholy survival story about dying that he found excruciatingly effective for its first 45 minutes, dinged only by a sentimental late song choice. Her goal is a slice of pizza from Patsy's in Harlem. Djimon Hounsou returns from Part II as the connective tissue to the island."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "‘Horizon: An American Saga — Chapter 1’",
+      "note": "Kevin Costner's gamble, with Chris Ryan",
+      "films": [
+        {
+          "title": "Horizon: An American Saga - Chapter 1",
+          "year": 2024,
+          "note": "Kevin Costner directs, stars, and sank $38 million of his own money into the first of a planned four-part Western, shot on digital in Utah. Three hours, roughly five storylines (Sienna Miller, Costner, Luke Wilson, plus scalp-hunters and a Chinese-immigrant thread), and Costner doesn't appear until the one-hour mark; Luke Wilson arrives at two. The trio agree it plays like Taylor Sheridan TV (a prologue that ends with a trailer for Chapter 2 rather than an ending) and that it's a curious artifact more than a disaster. Nobody's seen it before, but it's not bad; it's just not really a movie yet. Giovanni Ribisi turns up as the possible landowner."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In the 'A Quiet Place' talk",
+      "films": [
+        "A Quiet Place",
+        "A Quiet Place Part II",
+        "Aliens",
+        "Pig",
+        "12 Years a Slave",
+        "Black Panther",
+        "Us",
+        "Gladiator II",
+        "The Fantastic Four: First Steps"
+      ]
+    },
+    {
+      "group": "In the 'Horizon' talk",
+      "films": [
+        "Horizon: An American Saga - Chapter 2",
+        "How the West Was Won",
+        "Michael Clayton",
+        "Dune",
+        "Megalopolis",
+        "Once Upon a Time in Hollywood",
+        "Open Range",
+        "Meek's Cutoff",
+        "The Lost City of Z",
+        "The Godfather Part II",
+        "The Bikeriders",
+        "Here",
+        "Alien: Romulus",
+        "Black Bag"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "The Fantastic Four: First Steps": 617126
+  },
+  "excluded": {
+    "TV": [
+      "The Bear",
+      "Stranger Things",
+      "Yellowstone",
+      "1883",
+      "Ozark",
+      "Outer Range",
+      "Dancing with the Stars",
+      "Mad Men"
+    ],
+    "Podcasts": [
+      "The Town",
+      "JMO",
+      "Prestige TV"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "Google",
+      "White Claw",
+      "Best Western",
+      "Mint Mobile"
+    ]
+  },
+  "tmdb": {
+    "A Quiet Place: Day One": {
+      "id": 762441,
+      "poster": "/hU42CRk14JuPEdqZG3AWmagiPAP.jpg",
+      "title": "A Quiet Place: Day One",
+      "year": 2024
+    },
+    "Horizon: An American Saga - Chapter 1": {
+      "id": 932086,
+      "poster": "/posWMQwX1HCIK26TGL3niJp5fg0.jpg",
+      "title": "Horizon: An American Saga - Chapter 1",
+      "year": 2024
+    },
+    "A Quiet Place": {
+      "id": 447332,
+      "poster": "/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+      "title": "A Quiet Place",
+      "year": 2018
+    },
+    "A Quiet Place Part II": {
+      "id": 520763,
+      "poster": "/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",
+      "title": "A Quiet Place Part II",
+      "year": 2021
+    },
+    "Aliens": {
+      "id": 679,
+      "poster": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "title": "Aliens",
+      "year": 1986
+    },
+    "Pig": {
+      "id": 635731,
+      "poster": "/1InMm4Mbjx8wCKvIy5gglo5i3HN.jpg",
+      "title": "Pig",
+      "year": 2021
+    },
+    "12 Years a Slave": {
+      "id": 76203,
+      "poster": "/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+      "title": "12 Years a Slave",
+      "year": 2013
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "Us": {
+      "id": 458723,
+      "poster": "/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+      "title": "Us",
+      "year": 2019
+    },
+    "Gladiator II": {
+      "id": 558449,
+      "poster": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+      "title": "Gladiator II",
+      "year": 2024
+    },
+    "The Fantastic Four: First Steps": {
+      "id": 617126,
+      "poster": "/nf5qaSEvyYSNeFH0YhSs5EsBLX9.jpg",
+      "title": "The Fantastic 4: First Steps",
+      "year": 2025
+    },
+    "Horizon: An American Saga - Chapter 2": {
+      "id": 1120368,
+      "poster": "/2Ot7mpKYgqZfkGRaeV2kaHqKFkS.jpg",
+      "title": "Horizon: An American Saga - Chapter 2",
+      "year": 2024
+    },
+    "How the West Was Won": {
+      "id": 11897,
+      "poster": "/rmwc89VMQR4rUSDfakd0Z6GyF6q.jpg",
+      "title": "How the West Was Won",
+      "year": 1962
+    },
+    "Michael Clayton": {
+      "id": 4566,
+      "poster": "/hhkW4yVIGo8Bee3UITKvqOvhNMG.jpg",
+      "title": "Michael Clayton",
+      "year": 2007
+    },
+    "Dune": {
+      "id": 438631,
+      "poster": "/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "title": "Dune",
+      "year": 2021
+    },
+    "Megalopolis": {
+      "id": 592831,
+      "poster": "/8Sok3HNA3r1GHnK2lCytHyBz1A.jpg",
+      "title": "Megalopolis",
+      "year": 2024
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Open Range": {
+      "id": 2055,
+      "poster": "/1mrNc88NrUEGtMtat4FD7sfpFrW.jpg",
+      "title": "Open Range",
+      "year": 2003
+    },
+    "Meek's Cutoff": {
+      "id": 57120,
+      "poster": "/oc28NmVqLx0x8epu3Ih3LvX4zE9.jpg",
+      "title": "Meek's Cutoff",
+      "year": 2011
+    },
+    "The Lost City of Z": {
+      "id": 314095,
+      "poster": "/8SxHVNk6tqXYwygmDzz1YuJEm2J.jpg",
+      "title": "The Lost City of Z",
+      "year": 2017
+    },
+    "The Godfather Part II": {
+      "id": 240,
+      "poster": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+      "title": "The Godfather Part II",
+      "year": 1974
+    },
+    "The Bikeriders": {
+      "id": 1008409,
+      "poster": "/ApMuukdDAOR2rgaFDZIcjfigi64.jpg",
+      "title": "The Bikeriders",
+      "year": 2024
+    },
+    "Here": {
+      "id": 940139,
+      "poster": "/79euHUJJtfgeGU63ef38KtNjXEn.jpg",
+      "title": "Here",
+      "year": 2024
+    },
+    "Alien: Romulus": {
+      "id": 945961,
+      "poster": "/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
+      "title": "Alien: Romulus",
+      "year": 2024
+    },
+    "Black Bag": {
+      "id": 1233575,
+      "poster": "/hHPovtU4b96LHcoeEwRkGHI5btw.jpg",
+      "title": "Black Bag",
+      "year": 2025
+    }
+  },
+  "spotifyEpisodeId": "5DkEPojcGdG21tpqmJicWq"
+}

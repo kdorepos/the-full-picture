@@ -1,0 +1,729 @@
+{
+  "slug": "the-2000s-summer-blockbuster-draft-live",
+  "title": "The 2000s Summer Blockbuster Draft (Live!)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2024-07-16",
+  "runtimeMin": 90,
+  "format": "A live three-host draft (Sean Fennessey, Amanda Dobbins, Chris Ryan) of 2000s summer blockbusters (released May through August, $100M+ domestic) across six categories, after some Gladiator II trailer talk and a round of movie trivia.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Trailers, before the draft",
+      "note": "opening banter",
+      "films": [
+        {
+          "title": "Gladiator II",
+          "year": 2024,
+          "note": "The new trailer dropped that morning: Denzel Washington, Paul Mescal, and debate over the flooded Colosseum scene."
+        },
+        {
+          "title": "Despicable Me 4",
+          "year": 2024,
+          "note": "Amanda's solo mall screening; she wanted more Minions."
+        }
+      ]
+    },
+    {
+      "kind": "draft",
+      "heading": "The teams",
+      "draftOf": "2000s summer blockbusters",
+      "categories": [
+        "Action Thriller",
+        "Comedy",
+        "Misunderstood",
+        "Mega Blockbuster",
+        "Oscar Nominee",
+        "Wild Card"
+      ],
+      "teams": [
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Inglourious Basterds",
+              "year": 2009,
+              "category": "Action Thriller",
+              "note": "First overall; a late add after Amanda found it made $120M on an Aug. 19 release."
+            },
+            {
+              "title": "The Devil Wears Prada",
+              "year": 2006,
+              "category": "Oscar Nominee",
+              "note": "The pick she said she came for."
+            },
+            {
+              "title": "Finding Nemo",
+              "year": 2003,
+              "category": "Mega Blockbuster",
+              "note": "Recapped at length, from partial memory."
+            },
+            {
+              "title": "Mamma Mia!",
+              "year": 2008,
+              "category": "Misunderstood",
+              "note": "55% on Rotten Tomatoes; the ABBA musical, bigger abroad than at home."
+            },
+            {
+              "title": "Wedding Crashers",
+              "year": 2005,
+              "category": "Comedy",
+              "note": "Vince Vaughn and Owen Wilson."
+            },
+            {
+              "title": "The Bourne Identity",
+              "year": 2002,
+              "category": "Wild Card",
+              "note": "Her favorite Bourne; last pick of the draft."
+            }
+          ]
+        },
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "The Dark Knight",
+              "year": 2008,
+              "category": "Action Thriller",
+              "note": "$535M domestic, the decade's top-grossing summer film; taken second to play defense."
+            },
+            {
+              "title": "Superbad",
+              "year": 2007,
+              "category": "Comedy",
+              "note": "Rogen and Goldberg's breakthrough."
+            },
+            {
+              "title": "The Hangover",
+              "year": 2009,
+              "category": "Mega Blockbuster"
+            },
+            {
+              "title": "WALL-E",
+              "year": 2008,
+              "category": "Oscar Nominee",
+              "note": "Pixar."
+            },
+            {
+              "title": "Bad Boys II",
+              "year": 2003,
+              "category": "Misunderstood",
+              "note": "25% on Rotten Tomatoes; Sean's Michael Bay defense."
+            },
+            {
+              "title": "Step Brothers",
+              "year": 2008,
+              "category": "Wild Card",
+              "note": "A late add to the eligible list."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Iron Man",
+              "year": 2008,
+              "category": "Mega Blockbuster",
+              "note": "Kicked off the MCU."
+            },
+            {
+              "title": "Talladega Nights: The Ballad of Ricky Bobby",
+              "year": 2006,
+              "category": "Comedy",
+              "note": "The one he re-watched most from that cohort."
+            },
+            {
+              "title": "Gladiator",
+              "year": 2000,
+              "category": "Oscar Nominee",
+              "note": "The Best Picture winner; primed by the Gladiator II trailer talk."
+            },
+            {
+              "title": "The Bourne Supremacy",
+              "year": 2004,
+              "category": "Action Thriller",
+              "note": "The Greengrass one, not the original."
+            },
+            {
+              "title": "Ocean's Thirteen",
+              "year": 2007,
+              "category": "Wild Card"
+            },
+            {
+              "title": "S.W.A.T.",
+              "year": 2003,
+              "category": "Misunderstood",
+              "note": "48% on Rotten Tomatoes; a Colin Farrell and Josh Charles pick."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "Shrek 2",
+        "Shrek",
+        "Shrek the Third",
+        "Harry Potter and the Prisoner of Azkaban",
+        "Batman Begins",
+        "Transformers",
+        "Transformers: Revenge of the Fallen",
+        "Troy",
+        "Collateral",
+        "War of the Worlds",
+        "Signs",
+        "The Village",
+        "What Lies Beneath",
+        "Mr. & Mrs. Smith",
+        "The Da Vinci Code",
+        "Angels & Demons",
+        "The Sum of All Fears",
+        "The Perfect Storm",
+        "Jurassic Park III",
+        "The Matrix Reloaded",
+        "Dodgeball: A True Underdog Story",
+        "Scary Movie",
+        "The Princess Diaries",
+        "Pearl Harbor",
+        "Fahrenheit 9/11",
+        "Indiana Jones and the Kingdom of the Crystal Skull",
+        "Seabiscuit"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Trivia answers & prizes",
+      "films": [
+        "Iron Man 3",
+        "Mr. Brooks",
+        "Wind River",
+        "Obvious Child",
+        "Molly's Game",
+        "The Dark Tower",
+        "The Virgin Suicides",
+        "Dazed and Confused",
+        "Spirited Away",
+        "Top Gun",
+        "Top Gun: Maverick"
+      ]
+    },
+    {
+      "group": "Also mentioned",
+      "films": [
+        "Interstellar",
+        "Inception",
+        "Miami Vice",
+        "Saltburn",
+        "Six Underground",
+        "Bad Boys: Ride or Die",
+        "Challengers",
+        "Ricki and the Flash",
+        "Into the Woods",
+        "Darkest Hour",
+        "Dunkirk",
+        "Horizon: An American Saga",
+        "Despicable Me",
+        "Legally Blonde",
+        "Bring It On",
+        "The Princess Diaries 2: Royal Engagement",
+        "Transformers: Dark of the Moon"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "House of the Dragon",
+      "Game of Thrones",
+      "Shogun",
+      "Top Chef",
+      "The Bear",
+      "Mayor of Kingstown",
+      "Mr. & Mrs. Smith (series)"
+    ],
+    "Podcasts": [
+      "A Storm of Spoilers",
+      "Trial by Content"
+    ],
+    "Ads": [
+      "State Farm",
+      "Tremfya",
+      "Accenture",
+      "Carvana",
+      "FanDuel",
+      "Whole Foods",
+      "Paramount+"
+    ]
+  },
+  "tmdbOverrides": {
+    "WALL-E": 10681,
+    "War of the Worlds": 74,
+    "Scary Movie": 4247,
+    "Six Underground": 509967,
+    "Horizon: An American Saga": 932086
+  },
+  "tmdb": {
+    "Gladiator II": {
+      "id": 558449,
+      "poster": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+      "title": "Gladiator II",
+      "year": 2024
+    },
+    "Despicable Me 4": {
+      "id": 519182,
+      "poster": "/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+      "title": "Despicable Me 4",
+      "year": 2024
+    },
+    "Inglourious Basterds": {
+      "id": 16869,
+      "poster": "/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg",
+      "title": "Inglourious Basterds",
+      "year": 2009
+    },
+    "The Devil Wears Prada": {
+      "id": 350,
+      "poster": "/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+      "title": "The Devil Wears Prada",
+      "year": 2006
+    },
+    "Finding Nemo": {
+      "id": 12,
+      "poster": "/5lc6nQc0VhWFYFbNv016xze8Jvy.jpg",
+      "title": "Finding Nemo",
+      "year": 2003
+    },
+    "Mamma Mia!": {
+      "id": 11631,
+      "poster": "/zdUA4FNHbXPadzVOJiU0Rgn6cHR.jpg",
+      "title": "Mamma Mia!",
+      "year": 2008
+    },
+    "Wedding Crashers": {
+      "id": 9522,
+      "poster": "/lFM3lk2zVzC1YFnKm0r6LbFPyRu.jpg",
+      "title": "Wedding Crashers",
+      "year": 2005
+    },
+    "The Bourne Identity": {
+      "id": 2501,
+      "poster": "/aP8swke3gmowbkfZ6lmNidu0y9p.jpg",
+      "title": "The Bourne Identity",
+      "year": 2002
+    },
+    "The Dark Knight": {
+      "id": 155,
+      "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    "Superbad": {
+      "id": 8363,
+      "poster": "/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg",
+      "title": "Superbad",
+      "year": 2007
+    },
+    "The Hangover": {
+      "id": 18785,
+      "poster": "/A0uS9rHR56FeBtpjVki16M5xxSW.jpg",
+      "title": "The Hangover",
+      "year": 2009
+    },
+    "WALL-E": {
+      "id": 10681,
+      "poster": "/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+      "title": "WALL·E",
+      "year": 2008
+    },
+    "Bad Boys II": {
+      "id": 8961,
+      "poster": "/yCvB5fG5aEPqa1St7ihY6KEAsHD.jpg",
+      "title": "Bad Boys II",
+      "year": 2003
+    },
+    "Step Brothers": {
+      "id": 12133,
+      "poster": "/nvggBbEraUTAVR6ffP3AaBUWSHs.jpg",
+      "title": "Step Brothers",
+      "year": 2008
+    },
+    "Iron Man": {
+      "id": 1726,
+      "poster": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "title": "Iron Man",
+      "year": 2008
+    },
+    "Talladega Nights: The Ballad of Ricky Bobby": {
+      "id": 9718,
+      "poster": "/3iCiTqsmJz1mO85AHzTiHNkRmb6.jpg",
+      "title": "Talladega Nights: The Ballad of Ricky Bobby",
+      "year": 2006
+    },
+    "Gladiator": {
+      "id": 98,
+      "poster": "/wN2xWp1eIwCKOD0BHTcErTBv1Uq.jpg",
+      "title": "Gladiator",
+      "year": 2000
+    },
+    "The Bourne Supremacy": {
+      "id": 2502,
+      "poster": "/jupG9sFT64YwM8PSkwkUD2wHcYD.jpg",
+      "title": "The Bourne Supremacy",
+      "year": 2004
+    },
+    "Ocean's Thirteen": {
+      "id": 298,
+      "poster": "/pBsZs4zYUiUTemqbikTZ76iQRaU.jpg",
+      "title": "Ocean's Thirteen",
+      "year": 2007
+    },
+    "S.W.A.T.": {
+      "id": 9257,
+      "poster": "/bon63yPVIgUFLP2653Dg9GCOJLJ.jpg",
+      "title": "S.W.A.T.",
+      "year": 2003
+    },
+    "Pirates of the Caribbean: The Curse of the Black Pearl": {
+      "id": 22,
+      "poster": "/poHwCZeWzJCShH7tOjg8RIoyjcw.jpg",
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "year": 2003
+    },
+    "Shrek 2": {
+      "id": 809,
+      "poster": "/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
+      "title": "Shrek 2",
+      "year": 2004
+    },
+    "Shrek": {
+      "id": 808,
+      "poster": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+      "title": "Shrek",
+      "year": 2001
+    },
+    "Shrek the Third": {
+      "id": 810,
+      "poster": "/n4SexGGQzI26E269tfpa80MZaGV.jpg",
+      "title": "Shrek the Third",
+      "year": 2007
+    },
+    "Harry Potter and the Prisoner of Azkaban": {
+      "id": 673,
+      "poster": "/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "year": 2004
+    },
+    "Batman Begins": {
+      "id": 272,
+      "poster": "/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+      "title": "Batman Begins",
+      "year": 2005
+    },
+    "Transformers": {
+      "id": 1858,
+      "poster": "/4N4sipl8T72tNE4earcctQa2Kw2.jpg",
+      "title": "Transformers",
+      "year": 2007
+    },
+    "Transformers: Revenge of the Fallen": {
+      "id": 8373,
+      "poster": "/pLBb0whOzVDtJvyD4DPeQyQNOqp.jpg",
+      "title": "Transformers: Revenge of the Fallen",
+      "year": 2009
+    },
+    "Troy": {
+      "id": 652,
+      "poster": "/a07wLy4ONfpsjnBqMwhlWTJTcm.jpg",
+      "title": "Troy",
+      "year": 2004
+    },
+    "Collateral": {
+      "id": 1538,
+      "poster": "/nV5316WUsVij8sVXLCF1g7TFitg.jpg",
+      "title": "Collateral",
+      "year": 2004
+    },
+    "War of the Worlds": {
+      "id": 74,
+      "poster": "/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
+      "title": "War of the Worlds",
+      "year": 2005
+    },
+    "Signs": {
+      "id": 2675,
+      "poster": "/YtrIdrTxpRhvCnlw43dwOjfLqx.jpg",
+      "title": "Signs",
+      "year": 2002
+    },
+    "The Village": {
+      "id": 6947,
+      "poster": "/v7UvYtKfIVaHLaHwVgfalyrK7Ho.jpg",
+      "title": "The Village",
+      "year": 2004
+    },
+    "What Lies Beneath": {
+      "id": 2655,
+      "poster": "/2L3Cn0CizbSy2E9KJt1SiOSyb6p.jpg",
+      "title": "What Lies Beneath",
+      "year": 2000
+    },
+    "Mr. & Mrs. Smith": {
+      "id": 787,
+      "poster": "/kjD700RtyhveN3ZbOnSvUSne0Qj.jpg",
+      "title": "Mr. & Mrs. Smith",
+      "year": 2005
+    },
+    "The Da Vinci Code": {
+      "id": 591,
+      "poster": "/9ejKfNk0LBhSI9AahH4f9NJNZNM.jpg",
+      "title": "The Da Vinci Code",
+      "year": 2006
+    },
+    "Angels & Demons": {
+      "id": 13448,
+      "poster": "/tFZQAuulEOtFTp0gHbVdEXwGrYe.jpg",
+      "title": "Angels & Demons",
+      "year": 2009
+    },
+    "The Sum of All Fears": {
+      "id": 4614,
+      "poster": "/3E4LW4bjRhEMDeeXeIsmkJ94v8K.jpg",
+      "title": "The Sum of All Fears",
+      "year": 2002
+    },
+    "The Perfect Storm": {
+      "id": 2133,
+      "poster": "/vJPoxqgpfFNbGi0HyoNsjFeLCio.jpg",
+      "title": "The Perfect Storm",
+      "year": 2000
+    },
+    "Jurassic Park III": {
+      "id": 331,
+      "poster": "/oQXj4NUfS3r3gHXtDOzcJgj1lLc.jpg",
+      "title": "Jurassic Park III",
+      "year": 2001
+    },
+    "The Matrix Reloaded": {
+      "id": 604,
+      "poster": "/aA5qHS0FbSXO8PxcxUIHbDrJyuh.jpg",
+      "title": "The Matrix Reloaded",
+      "year": 2003
+    },
+    "Dodgeball: A True Underdog Story": {
+      "id": 9472,
+      "poster": "/r8KbNHkkwFXLjV1suGwm0Qjure5.jpg",
+      "title": "DodgeBall: A True Underdog Story",
+      "year": 2004
+    },
+    "Scary Movie": {
+      "id": 4247,
+      "poster": "/fVQFPRuw3yWXojYDJvA5EoFjUOY.jpg",
+      "title": "Scary Movie",
+      "year": 2000
+    },
+    "The Princess Diaries": {
+      "id": 9880,
+      "poster": "/7axhsbEzFan6HQQ1aMOy7w3CFRx.jpg",
+      "title": "The Princess Diaries",
+      "year": 2001
+    },
+    "Pearl Harbor": {
+      "id": 676,
+      "poster": "/y8A0Cvp8WQmZ3bjbnsL53lY0dsC.jpg",
+      "title": "Pearl Harbor",
+      "year": 2001
+    },
+    "Fahrenheit 9/11": {
+      "id": 1777,
+      "poster": "/cZ7M343iuiMDc36fSeSm699XQFv.jpg",
+      "title": "Fahrenheit 9/11",
+      "year": 2004
+    },
+    "Indiana Jones and the Kingdom of the Crystal Skull": {
+      "id": 217,
+      "poster": "/56As6XEM1flWvprX4LgkPl8ii4K.jpg",
+      "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+      "year": 2008
+    },
+    "Seabiscuit": {
+      "id": 4464,
+      "poster": "/5m7NfZvxYsSm2YBCJ2VPQf8ziKr.jpg",
+      "title": "Seabiscuit",
+      "year": 2003
+    },
+    "Iron Man 3": {
+      "id": 68721,
+      "poster": "/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+      "title": "Iron Man 3",
+      "year": 2013
+    },
+    "Mr. Brooks": {
+      "id": 3432,
+      "poster": "/yYleq0qmb67Ig2ViY3hFmUOrH77.jpg",
+      "title": "Mr. Brooks",
+      "year": 2007
+    },
+    "Wind River": {
+      "id": 395834,
+      "poster": "/pySivdR845Hom4u4T2WNkJxe6Ad.jpg",
+      "title": "Wind River",
+      "year": 2017
+    },
+    "Obvious Child": {
+      "id": 248774,
+      "poster": "/vAVuQuboHiqc6ClsFeWQXBHJkOX.jpg",
+      "title": "Obvious Child",
+      "year": 2014
+    },
+    "Molly's Game": {
+      "id": 396371,
+      "poster": "/zrGQwKNmAz5awZI2V1k5M4eTTTN.jpg",
+      "title": "Molly's Game",
+      "year": 2017
+    },
+    "The Dark Tower": {
+      "id": 353491,
+      "poster": "/i9GUSgddIqrroubiLsvvMRYyRy0.jpg",
+      "title": "The Dark Tower",
+      "year": 2017
+    },
+    "The Virgin Suicides": {
+      "id": 1443,
+      "poster": "/1NCQtXPQnaHRjOZVmktA9BSM35F.jpg",
+      "title": "The Virgin Suicides",
+      "year": 2000
+    },
+    "Dazed and Confused": {
+      "id": 9571,
+      "poster": "/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+      "title": "Dazed and Confused",
+      "year": 1993
+    },
+    "Spirited Away": {
+      "id": 129,
+      "poster": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+      "title": "Spirited Away",
+      "year": 2001
+    },
+    "Top Gun": {
+      "id": 744,
+      "poster": "/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+      "title": "Top Gun",
+      "year": 1986
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Interstellar": {
+      "id": 157336,
+      "poster": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+      "title": "Interstellar",
+      "year": 2014
+    },
+    "Inception": {
+      "id": 27205,
+      "poster": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+      "title": "Inception",
+      "year": 2010
+    },
+    "Miami Vice": {
+      "id": 82,
+      "poster": "/iJPSls4taB09EUKtLj6FjFSprb3.jpg",
+      "title": "Miami Vice",
+      "year": 2006
+    },
+    "Saltburn": {
+      "id": 930564,
+      "poster": "/zGTfMwG112BC66mpaveVxoWPOaB.jpg",
+      "title": "Saltburn",
+      "year": 2023
+    },
+    "Six Underground": {
+      "id": 509967,
+      "poster": "/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg",
+      "title": "6 Underground",
+      "year": 2019
+    },
+    "Bad Boys: Ride or Die": {
+      "id": 573435,
+      "poster": "/oGythE98MYleE6mZlGs5oBGkux1.jpg",
+      "title": "Bad Boys: Ride or Die",
+      "year": 2024
+    },
+    "Challengers": {
+      "id": 937287,
+      "poster": "/H6vke7zGiuLsz4v4RPeReb9rsv.jpg",
+      "title": "Challengers",
+      "year": 2024
+    },
+    "Ricki and the Flash": {
+      "id": 275601,
+      "poster": "/y9hw9XSk8uVgLRfq3cweiAEJtU.jpg",
+      "title": "Ricki and the Flash",
+      "year": 2015
+    },
+    "Into the Woods": {
+      "id": 224141,
+      "poster": "/bINGDDuvUnZyde2sIcSx41IE5b6.jpg",
+      "title": "Into the Woods",
+      "year": 2014
+    },
+    "Darkest Hour": {
+      "id": 399404,
+      "poster": "/xa6G3aKlysQeVg9wOb0dRcIGlWu.jpg",
+      "title": "Darkest Hour",
+      "year": 2017
+    },
+    "Dunkirk": {
+      "id": 374720,
+      "poster": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "title": "Dunkirk",
+      "year": 2017
+    },
+    "Horizon: An American Saga": {
+      "id": 932086,
+      "poster": "/posWMQwX1HCIK26TGL3niJp5fg0.jpg",
+      "title": "Horizon: An American Saga - Chapter 1",
+      "year": 2024
+    },
+    "Despicable Me": {
+      "id": 20352,
+      "poster": "/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg",
+      "title": "Despicable Me",
+      "year": 2010
+    },
+    "Legally Blonde": {
+      "id": 8835,
+      "poster": "/9ohlMrJHQqKhfUKh7Zr3JQqHNLZ.jpg",
+      "title": "Legally Blonde",
+      "year": 2001
+    },
+    "Bring It On": {
+      "id": 1588,
+      "poster": "/bnVby0qI0dS7YunbShP7mw68HY3.jpg",
+      "title": "Bring It On",
+      "year": 2000
+    },
+    "The Princess Diaries 2: Royal Engagement": {
+      "id": 11130,
+      "poster": "/upJOyrxxSIxlSZC7KEqJfB1vlGl.jpg",
+      "title": "The Princess Diaries 2: Royal Engagement",
+      "year": 2004
+    },
+    "Transformers: Dark of the Moon": {
+      "id": 38356,
+      "poster": "/28YlCLrFhONteYSs9hKjD1Km0Cj.jpg",
+      "title": "Transformers: Dark of the Moon",
+      "year": 2011
+    }
+  },
+  "spotifyEpisodeId": "4tqLCc4JZy6eIFmDx55RAX"
+}

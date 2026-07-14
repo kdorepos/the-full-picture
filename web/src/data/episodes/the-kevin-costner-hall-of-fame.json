@@ -1,0 +1,878 @@
+{
+  "slug": "the-kevin-costner-hall-of-fame",
+  "title": "The Kevin Costner Hall of Fame",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2024-06-25",
+  "runtimeMin": 117,
+  "format": "Ahead of 'Horizon,' Sean and Amanda walk Kevin Costner's whole filmography to build a Hall of Fame. They induct ten films, all from a 1987-1996 run, and argue about the rest, including a heated last stand for 'Molly's Game.'",
+  "segments": [
+    {
+      "kind": "halloffame",
+      "heading": "The Kevin Costner Hall of Fame",
+      "honoree": "Kevin Costner",
+      "note": "the greens: ten films, every one from 1987-1996",
+      "films": [
+        {
+          "title": "The Untouchables",
+          "year": 1987,
+          "note": "Brian De Palma sees 'Silverado' and casts him as Eliot Ness. First time carrying a movie on his own shoulders, opposite Sean Connery and De Niro. Sean's automatic green; Amanda needed convincing."
+        },
+        {
+          "title": "No Way Out",
+          "year": 1987,
+          "note": "A remake of 'The Big Clock,' and Amanda's personal must-green: real chemistry with Sean Young, plus Gene Hackman and a wild Will Patton. The naughty-thriller mode Sean wishes he'd done more of."
+        },
+        {
+          "title": "Bull Durham",
+          "year": 1988,
+          "note": "'The greenest of the green.' Ron Shelton's jock-poetry works only because Costner sells it. The soulful sexy-jock myth is born here, and he mostly never does it again."
+        },
+        {
+          "title": "Field of Dreams",
+          "year": 1989,
+          "note": "His 'It's a Wonderful Life': a magical-realist boomer plea, sincere true-believer with a dad wound. Costner himself called it right when the Vanity Fair profiler called it dead on arrival."
+        },
+        {
+          "title": "Dances with Wolves",
+          "year": 1990,
+          "note": "The $425M bet-on-himself that won Best Picture and Director over 'Goodfellas.' Both hosts find it dull and self-congratulatory, and agree it has to go in anyway."
+        },
+        {
+          "title": "Robin Hood: Prince of Thieves",
+          "year": 1991,
+          "note": "Miscast, bad accent, start of the troubling hair. Sean couldn't finish a rewatch. In purely because it was a $390M phenomenon that a generation loved (and the Bryan Adams song)."
+        },
+        {
+          "title": "JFK",
+          "year": 1991,
+          "note": "Loquacious, paranoid, obsessed, the furthest thing from his usual register. Sean's pick for his best performance outside 'Bull Durham'; Oliver Stone turns Costner's all-American image against him."
+        },
+        {
+          "title": "The Bodyguard",
+          "year": 1992,
+          "note": "Not good, and no real chemistry between the leads, but a smash anyway: best-selling soundtrack of all time. Kasdan wrote it for Steve McQueen and Diana Ross. The one they nearly swap out at the end."
+        },
+        {
+          "title": "A Perfect World",
+          "year": 1993,
+          "note": "Near Sean's top five. Clint Eastwood directs; Costner is a fugitive who bonds with the kid he's abducted. 'If he made a million movies like this he would be our greatest actor.'"
+        },
+        {
+          "title": "Tin Cup",
+          "year": 1996,
+          "note": "The most watchable movie on the list, a warm bath. Reunion with Ron Shelton, credible as a golfer, one of the best golf movies ever after 'Caddyshack.' The latest film in the Hall."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The yellows",
+      "note": "weighed hard, left out",
+      "films": [
+        {
+          "title": "The Big Chill",
+          "year": 1983,
+          "note": "He's not in it. Cast as the friend whose funeral it is, then cut; only his wrist survives, carrying the casket. Kasdan made good with 'Silverado.' The animating myth of his career, so it gets a nostalgic yellow it can't really claim."
+        },
+        {
+          "title": "Fandango",
+          "year": 1985,
+          "note": "First team-up with writer-director Kevin Reynolds, Amblin-produced. A charming-rogue quartet movie; young-McConaughey energy. He's the best thing in it."
+        },
+        {
+          "title": "Silverado",
+          "year": 1985,
+          "note": "Kasdan's ode to Ford and Mann. Sean finds it a photocopy, but Costner as the hot, dumb, charismatic one steals it, and it leads to everything."
+        },
+        {
+          "title": "Waterworld",
+          "year": 1995,
+          "note": "The 'Kevin's Gate' fiasco, 'Mad Max' on water. He pushed the director off and took it over. Yellowed for how much power he had."
+        },
+        {
+          "title": "Open Range",
+          "year": 2003,
+          "note": "Sean's pick for his best film as a director, beloved by a certain class of person; Robert Duvall is great. Amanda keeps it a yellow to move things along."
+        },
+        {
+          "title": "Molly's Game",
+          "year": 2017,
+          "note": "Two scenes as Molly's dad, and he walks away with them, dadding out on a park bench. Amanda's heated last stand for a green; Sean grants a grudging yellow."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Walked and cut",
+      "note": "the rest of the filmography, from the early bit parts to 'Horizon'",
+      "films": [
+        {
+          "title": "Sizzle Beach, U.S.A.",
+          "year": 1981,
+          "note": "One of the early bit parts, an exploitation credit as John Logan."
+        },
+        {
+          "title": "Chasing Dreams",
+          "year": 1982,
+          "note": "Neither host tracked it down."
+        },
+        {
+          "title": "Night Shift",
+          "year": 1982,
+          "note": "Ron Howard comedy; Costner is a frat boy partying at the morgue-brothel with no lines."
+        },
+        {
+          "title": "Stacy's Knights",
+          "year": 1983,
+          "note": "AKA 'The Touch.' Low-budget gambling movie, but directed by future producing partner Jim Wilson and written by 'Dances with Wolves' author Michael Blake, his eventual script fixer."
+        },
+        {
+          "title": "Table for Five",
+          "year": 1983,
+          "note": "A newlywed husband, no lines."
+        },
+        {
+          "title": "Testament",
+          "year": 1983,
+          "note": "Small part as a young father in maybe the saddest movie ever made; a nuclear-war drama seen through one town."
+        },
+        {
+          "title": "Shadows Run Black",
+          "year": 1984,
+          "note": "A slasher Sean couldn't find. Red."
+        },
+        {
+          "title": "American Flyers",
+          "year": 1985,
+          "note": "John Badham cycling drama; his first sports movie, on the edge of sport and soap."
+        },
+        {
+          "title": "Revenge",
+          "year": 1990,
+          "note": "Jesse Kornbluth's favorite Costner movie. Nasty, gorgeous Tony Scott crime picture; 'the script is terrible but the story is so good.'"
+        },
+        {
+          "title": "The Gunrunner",
+          "year": 1989,
+          "note": "Neither host has seen it; not on Blu-ray."
+        },
+        {
+          "title": "Wyatt Earp",
+          "year": 1994,
+          "note": "A three-and-a-half-hour Kasdan Western that 'Tombstone' ate a year earlier. Audiences rejected it."
+        },
+        {
+          "title": "The War",
+          "year": 1994,
+          "note": "Solid, with a good young Elijah Wood; Costner as a Vietnam vet with PTSD."
+        },
+        {
+          "title": "The Postman",
+          "year": 1997,
+          "note": "Another three-hour post-apocalyptic bet on the idea of America; a fake mailman doing Shakespeare. A noble failure."
+        },
+        {
+          "title": "Message in a Bottle",
+          "year": 1999,
+          "note": "Nicholas Sparks weepie with Robin Wright and Paul Newman; a $118M hit that doesn't need to go in."
+        },
+        {
+          "title": "For Love of the Game",
+          "year": 1999,
+          "note": "Sam Raimi; a credible aging pitcher, but the baseball and the romance don't hold up."
+        },
+        {
+          "title": "Play It to the Bone",
+          "year": 1999,
+          "note": "A tiny cameo."
+        },
+        {
+          "title": "Thirteen Days",
+          "year": 2000,
+          "note": "A compelling Cuban Missile Crisis docudrama, but his Boston-Kennedy accent doesn't work."
+        },
+        {
+          "title": "3000 Miles to Graceland",
+          "year": 2001,
+          "note": "Elvis-impersonator heist with Kurt Russell; possibly the worst movie he's ever made. Opens on a CGI scorpion, closes on Uncle Kracker."
+        },
+        {
+          "title": "Dragonfly",
+          "year": 2002,
+          "note": "Tom Shadyac movie neither host really remembers; scrubbed from society."
+        },
+        {
+          "title": "The Upside of Anger",
+          "year": 2005,
+          "note": "Mike Binder movie built around Joan Allen; Costner as an ex-ballplayer radio host and drinking buddy. One of the great twists."
+        },
+        {
+          "title": "Rumor Has It",
+          "year": 2005,
+          "note": "Rob Reiner's 'sequel' to 'The Graduate' with Jennifer Aniston. Soderbergh fired the writer ten days in. Amanda's white whale, 'the reddest red,' which she still begs everyone to study."
+        },
+        {
+          "title": "The Guardian",
+          "year": 2006,
+          "note": "Coast Guard rescue-swimmer movie; the diving sequences rip, everything Ashton Kutcher sinks it."
+        },
+        {
+          "title": "Mr. Brooks",
+          "year": 2007,
+          "note": "Costner as a serial killer; unavailable to stream, which Sean jokes is on purpose."
+        },
+        {
+          "title": "Swing Vote",
+          "year": 2008,
+          "note": "A drunk becomes the literal deciding vote in a presidential election. Sean found it reprehensible. Red."
+        },
+        {
+          "title": "The New Daughter",
+          "year": 2009,
+          "note": "A horror movie so obscure four critic friends had never heard of it. Red by default."
+        },
+        {
+          "title": "The Company Men",
+          "year": 2010,
+          "note": "'What about executives?' A very small brother-in-law part; he's the drywall of the movie."
+        },
+        {
+          "title": "Man of Steel",
+          "year": 2013,
+          "note": "Jonathan Kent, good casting in a movie Sean despises."
+        },
+        {
+          "title": "Jack Ryan: Shadow Recruit",
+          "year": 2014,
+          "note": "Branagh spy movie; Costner is the stoic CIA recruiter. A watchable two-and-a-half-star film."
+        },
+        {
+          "title": "3 Days to Kill",
+          "year": 2014,
+          "note": "McG / Luc Besson assassin-with-cancer shoot-em-up. Not good."
+        },
+        {
+          "title": "Draft Day",
+          "year": 2014,
+          "note": "Entertainingly bad; not how any of this works. Features friends Griffin Newman and Tim Simons."
+        },
+        {
+          "title": "Black or White",
+          "year": 2014,
+          "note": "Binder again; a white grandfather raising his Black grandkids. Wouldn't get made today. Red."
+        },
+        {
+          "title": "McFarland, USA",
+          "year": 2015,
+          "note": "Earnest Disney cross-country coach movie; fine, bland, red."
+        },
+        {
+          "title": "Batman v Superman: Dawn of Justice",
+          "year": 2016,
+          "note": "Jonathan Kent again."
+        },
+        {
+          "title": "Criminal",
+          "year": 2016,
+          "note": "Another crime-movie fiasco."
+        },
+        {
+          "title": "Hidden Figures",
+          "year": 2016,
+          "note": "The paternal NASA figure; not bad, not in."
+        },
+        {
+          "title": "The Highwaymen",
+          "year": 2019,
+          "note": "John Lee Hancock's Bonnie-and-Clyde manhunt. Not in."
+        },
+        {
+          "title": "The Art of Racing in the Rain",
+          "year": 2019,
+          "note": "He voices Enzo, the dog."
+        },
+        {
+          "title": "Let Him Go",
+          "year": 2020,
+          "note": "A pandemic watch; he's actually trying, with a good Lesley Manville. Solid."
+        },
+        {
+          "title": "Zack Snyder's Justice League",
+          "year": 2021,
+          "note": "Jonathan Kent, joked in as an 'auto green.'"
+        },
+        {
+          "title": "Horizon: An American Saga - Chapter 1",
+          "year": 2024,
+          "note": "The $38M self-financed Western that occasioned the whole episode; a Friday review with Chris Ryan to come."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Turned down or exited",
+      "films": [
+        "The Hunt for Red October",
+        "Django Unchained"
+      ]
+    },
+    {
+      "group": "The Western revival around him",
+      "films": [
+        "Tombstone",
+        "Unforgiven",
+        "Heaven's Gate"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "The Big Clock",
+        "The Graduate",
+        "Ocean's Eleven",
+        "Caddyshack",
+        "The Legend of Bagger Vance",
+        "Body Heat",
+        "Saturday Night Fever",
+        "Breaking Away",
+        "Sleepless in Seattle",
+        "Glengarry Glen Ross",
+        "Working Girl",
+        "Married to the Mob",
+        "Miami Blues",
+        "The Contender",
+        "Being the Ricardos",
+        "The Trial of the Chicago 7",
+        "Oppenheimer",
+        "Unfrosted",
+        "Tenet",
+        "The Fugitive"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Amazing Stories",
+      "Hatfields & McCoys",
+      "Yellowstone",
+      "The Bear",
+      "Station Eleven",
+      "The West Wing",
+      "Good Morning America",
+      "Pardon the Interruption",
+      "Jeopardy!"
+    ],
+    "Podcasts": [
+      "The Rewatchables",
+      "Prestige TV Podcast"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "Netflix",
+      "Starbucks",
+      "Google",
+      "White Claw",
+      "Mint Mobile"
+    ]
+  },
+  "tmdbOverrides": {
+    "Sizzle Beach, U.S.A.": 151141,
+    "Chasing Dreams": 291344,
+    "Shadows Run Black": 85145
+  },
+  "tmdb": {
+    "The Untouchables": {
+      "id": 117,
+      "poster": "/tPq0R4jTO4Ey8ZspFaWK9wGA4Ls.jpg",
+      "title": "The Untouchables",
+      "year": 1987
+    },
+    "No Way Out": {
+      "id": 10083,
+      "poster": "/93CzsBvRhg035yvQosRtSsTL19v.jpg",
+      "title": "No Way Out",
+      "year": 1987
+    },
+    "Bull Durham": {
+      "id": 287,
+      "poster": "/q3T9bO6p74NcTxWOhdUA6fASQ5T.jpg",
+      "title": "Bull Durham",
+      "year": 1988
+    },
+    "Field of Dreams": {
+      "id": 2323,
+      "poster": "/oeM7nAw6FVFICwUaXKCRkDsKjqO.jpg",
+      "title": "Field of Dreams",
+      "year": 1989
+    },
+    "Dances with Wolves": {
+      "id": 581,
+      "poster": "/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg",
+      "title": "Dances with Wolves",
+      "year": 1990
+    },
+    "Robin Hood: Prince of Thieves": {
+      "id": 8367,
+      "poster": "/hbRnWUNJkKKVN5mkcuC5ooqjE4e.jpg",
+      "title": "Robin Hood: Prince of Thieves",
+      "year": 1991
+    },
+    "JFK": {
+      "id": 820,
+      "poster": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+      "title": "JFK",
+      "year": 1991
+    },
+    "The Bodyguard": {
+      "id": 619,
+      "poster": "/ihWF0uY1xnKqw9YK7ZHNLUZOhcO.jpg",
+      "title": "The Bodyguard",
+      "year": 1992
+    },
+    "A Perfect World": {
+      "id": 9559,
+      "poster": "/kWX2CYM5TbWaZwll4ysh7OjVUmJ.jpg",
+      "title": "A Perfect World",
+      "year": 1993
+    },
+    "Tin Cup": {
+      "id": 10478,
+      "poster": "/rB7OvMmjcBFoogleORaUqrRgp8g.jpg",
+      "title": "Tin Cup",
+      "year": 1996
+    },
+    "The Big Chill": {
+      "id": 12560,
+      "poster": "/rU8kjMEL5Mn0EWm3gOShPHBEZ4l.jpg",
+      "title": "The Big Chill",
+      "year": 1983
+    },
+    "Fandango": {
+      "id": 20348,
+      "poster": "/7hdQUp17uXp8tZJWB8eWh25DWbc.jpg",
+      "title": "Fandango",
+      "year": 1985
+    },
+    "Silverado": {
+      "id": 11509,
+      "poster": "/k6zurzegRKsNGMICXZ57VJDUzXO.jpg",
+      "title": "Silverado",
+      "year": 1985
+    },
+    "Waterworld": {
+      "id": 9804,
+      "poster": "/X4UyUO5jgzs3c5YafnmYKLKKYw.jpg",
+      "title": "Waterworld",
+      "year": 1995
+    },
+    "Open Range": {
+      "id": 2055,
+      "poster": "/1mrNc88NrUEGtMtat4FD7sfpFrW.jpg",
+      "title": "Open Range",
+      "year": 2003
+    },
+    "Molly's Game": {
+      "id": 396371,
+      "poster": "/zrGQwKNmAz5awZI2V1k5M4eTTTN.jpg",
+      "title": "Molly's Game",
+      "year": 2017
+    },
+    "Sizzle Beach, U.S.A.": {
+      "id": 151141,
+      "poster": "/7fOoMDR0g1O1cRXlTTJKPSRuysT.jpg",
+      "title": "Malibu Hot Summer",
+      "year": 1981
+    },
+    "Chasing Dreams": {
+      "id": 291344,
+      "poster": "/3rhKCMcXR72RZdLqzzahkxRHUni.jpg",
+      "title": "Chasing Dreams",
+      "year": 1989
+    },
+    "Night Shift": {
+      "id": 14742,
+      "poster": "/iS78MFtMDwWDP748juZQBK57C9o.jpg",
+      "title": "Night Shift",
+      "year": 1982
+    },
+    "Stacy's Knights": {
+      "id": 310431,
+      "poster": "/rPfg3hX2Ve5SGl3jcKXoZEMs2qV.jpg",
+      "title": "Stacy's Knights",
+      "year": 1983
+    },
+    "Table for Five": {
+      "id": 266331,
+      "poster": "/foz3QAByESyrmhVuaa4tS19BNe6.jpg",
+      "title": "Table for Five",
+      "year": 1983
+    },
+    "Testament": {
+      "id": 21259,
+      "poster": "/sIc7cgiGi1p4YK4zFEiObCUztXj.jpg",
+      "title": "Testament",
+      "year": 1983
+    },
+    "Shadows Run Black": {
+      "id": 85145,
+      "poster": "/ydtDz8UuidYtkvDvI8fPt82RmRI.jpg",
+      "title": "Shadows Run Black",
+      "year": 1986
+    },
+    "American Flyers": {
+      "id": 14040,
+      "poster": "/sa8otETzs4ZJ77s7LypCmD0zzQe.jpg",
+      "title": "American Flyers",
+      "year": 1985
+    },
+    "Revenge": {
+      "id": 14249,
+      "poster": "/83diOZcg6ZiY8voNy2k4BX9TsMf.jpg",
+      "title": "Revenge",
+      "year": 1990
+    },
+    "The Gunrunner": {
+      "id": 86978,
+      "poster": "/gA2yS8xCoLwTFg1u3J5JxEfujP8.jpg",
+      "title": "The Gunrunner",
+      "year": 1990
+    },
+    "Wyatt Earp": {
+      "id": 12160,
+      "poster": "/51LItgyecu2KMAtIchYogEykCIu.jpg",
+      "title": "Wyatt Earp",
+      "year": 1994
+    },
+    "The War": {
+      "id": 19855,
+      "poster": "/eMJYqr5zs7rz54oZhiX4ez1BI5E.jpg",
+      "title": "The War",
+      "year": 1994
+    },
+    "The Postman": {
+      "id": 9922,
+      "poster": "/piVzOuKFLHNGLxnjwNtibC26lTy.jpg",
+      "title": "The Postman",
+      "year": 1997
+    },
+    "Message in a Bottle": {
+      "id": 10207,
+      "poster": "/ulUjszY6YJFsDUd0E3WolJg6sOp.jpg",
+      "title": "Message in a Bottle",
+      "year": 1999
+    },
+    "For Love of the Game": {
+      "id": 10390,
+      "poster": "/vkeKxoSXE1qMArcFNTNBBH8TjKZ.jpg",
+      "title": "For Love of the Game",
+      "year": 1999
+    },
+    "Play It to the Bone": {
+      "id": 20761,
+      "poster": "/qSJl8pD17doJsAkou5mPvDogBQT.jpg",
+      "title": "Play It to the Bone",
+      "year": 1999
+    },
+    "Thirteen Days": {
+      "id": 11973,
+      "poster": "/aLx9UXH9fK2v6NDMvMyW4X88K3u.jpg",
+      "title": "Thirteen Days",
+      "year": 2000
+    },
+    "3000 Miles to Graceland": {
+      "id": 12138,
+      "poster": "/nJgr5sGoXnsgZ0EVt80i6X9dQiA.jpg",
+      "title": "3000 Miles to Graceland",
+      "year": 2001
+    },
+    "Dragonfly": {
+      "id": 10052,
+      "poster": "/tafDYI10ZhorJ6nmsPqUfzQpRLn.jpg",
+      "title": "Dragonfly",
+      "year": 2002
+    },
+    "The Upside of Anger": {
+      "id": 11354,
+      "poster": "/iS9lP4poDyvSGXyh199ZEXMPHrY.jpg",
+      "title": "The Upside of Anger",
+      "year": 2005
+    },
+    "Rumor Has It": {
+      "id": 2800,
+      "poster": "/ypirKAqugrpevnEqMJxkBoIlgco.jpg",
+      "title": "Rumor Has It...",
+      "year": 2005
+    },
+    "The Guardian": {
+      "id": 4643,
+      "poster": "/iFOw9bXeLM6a2WbI7T1ytF8o0Wn.jpg",
+      "title": "The Guardian",
+      "year": 2006
+    },
+    "Mr. Brooks": {
+      "id": 3432,
+      "poster": "/yYleq0qmb67Ig2ViY3hFmUOrH77.jpg",
+      "title": "Mr. Brooks",
+      "year": 2007
+    },
+    "Swing Vote": {
+      "id": 10187,
+      "poster": "/aa5pWY2IVObKS7JZpfEw7Fe4FJk.jpg",
+      "title": "Swing Vote",
+      "year": 2008
+    },
+    "The New Daughter": {
+      "id": 37534,
+      "poster": "/dU5uJoWAcwNVH84G736i4f7oVot.jpg",
+      "title": "The New Daughter",
+      "year": 2009
+    },
+    "The Company Men": {
+      "id": 44129,
+      "poster": "/tKX6E1nOf4vZN903YbkjQe7x1fv.jpg",
+      "title": "The Company Men",
+      "year": 2010
+    },
+    "Man of Steel": {
+      "id": 49521,
+      "poster": "/8GFtkImmK0K1VaUChR0n9O61CFU.jpg",
+      "title": "Man of Steel",
+      "year": 2013
+    },
+    "Jack Ryan: Shadow Recruit": {
+      "id": 137094,
+      "poster": "/m7HcLUodrD4lM4s0Hui1tzO2pjO.jpg",
+      "title": "Jack Ryan: Shadow Recruit",
+      "year": 2014
+    },
+    "3 Days to Kill": {
+      "id": 192102,
+      "poster": "/paDgMlfQIrK6PCG5g7UYv9YOdmK.jpg",
+      "title": "3 Days to Kill",
+      "year": 2014
+    },
+    "Draft Day": {
+      "id": 200505,
+      "poster": "/bnl2ocjS1io4UCPhjoFuPKmJ9bf.jpg",
+      "title": "Draft Day",
+      "year": 2014
+    },
+    "Black or White": {
+      "id": 253331,
+      "poster": "/hOxxudUwgh5KGC7LtxDCkkwn1YP.jpg",
+      "title": "Black or White",
+      "year": 2015
+    },
+    "McFarland, USA": {
+      "id": 228203,
+      "poster": "/yyhniD8A7Mv6SOn8oo1Ba2K0mKc.jpg",
+      "title": "McFarland, USA",
+      "year": 2015
+    },
+    "Batman v Superman: Dawn of Justice": {
+      "id": 209112,
+      "poster": "/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
+      "title": "Batman v Superman: Dawn of Justice",
+      "year": 2016
+    },
+    "Criminal": {
+      "id": 302156,
+      "poster": "/hn6HmGTopbbxv4Myy2IwGWxViFP.jpg",
+      "title": "Criminal",
+      "year": 2016
+    },
+    "Hidden Figures": {
+      "id": 381284,
+      "poster": "/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg",
+      "title": "Hidden Figures",
+      "year": 2016
+    },
+    "The Highwaymen": {
+      "id": 500682,
+      "poster": "/4bRYg4l12yDuJvAfqvUOPnBrxno.jpg",
+      "title": "The Highwaymen",
+      "year": 2019
+    },
+    "The Art of Racing in the Rain": {
+      "id": 522924,
+      "poster": "/mi5VN4ww0JZgRFJIaPxxTGKjUg7.jpg",
+      "title": "The Art of Racing in the Rain",
+      "year": 2019
+    },
+    "Let Him Go": {
+      "id": 596161,
+      "poster": "/EsLZoT8oHhQlGd1QpdbnvnwTzO.jpg",
+      "title": "Let Him Go",
+      "year": 2020
+    },
+    "Zack Snyder's Justice League": {
+      "id": 791373,
+      "poster": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+      "title": "Zack Snyder's Justice League",
+      "year": 2021
+    },
+    "Horizon: An American Saga - Chapter 1": {
+      "id": 932086,
+      "poster": "/posWMQwX1HCIK26TGL3niJp5fg0.jpg",
+      "title": "Horizon: An American Saga - Chapter 1",
+      "year": 2024
+    },
+    "The Hunt for Red October": {
+      "id": 1669,
+      "poster": "/yVl7zidse4KiWtGMqHFtZCx4X3N.jpg",
+      "title": "The Hunt for Red October",
+      "year": 1990
+    },
+    "Django Unchained": {
+      "id": 68718,
+      "poster": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+      "title": "Django Unchained",
+      "year": 2012
+    },
+    "Tombstone": {
+      "id": 11969,
+      "poster": "/wGFCvylul8iEQhJOKfwZGGvXMzA.jpg",
+      "title": "Tombstone",
+      "year": 1993
+    },
+    "Unforgiven": {
+      "id": 33,
+      "poster": "/54roTwbX9fltg85zjsmrooXAs12.jpg",
+      "title": "Unforgiven",
+      "year": 1992
+    },
+    "Heaven's Gate": {
+      "id": 10935,
+      "poster": "/kW4Vk31nhtKPKGuYMaVATq3wcHC.jpg",
+      "title": "Heaven's Gate",
+      "year": 1980
+    },
+    "The Big Clock": {
+      "id": 19974,
+      "poster": "/urnKMXbvNubipGbdqmXpXoNS2OO.jpg",
+      "title": "The Big Clock",
+      "year": 1948
+    },
+    "The Graduate": {
+      "id": 37247,
+      "poster": "/8XaDpF0COV1MLsDirJMnxmYc1Wp.jpg",
+      "title": "The Graduate",
+      "year": 1967
+    },
+    "Ocean's Eleven": {
+      "id": 161,
+      "poster": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+      "title": "Ocean's Eleven",
+      "year": 2001
+    },
+    "Caddyshack": {
+      "id": 11977,
+      "poster": "/lXnNz7zOXCsftMDVoU3VSo0Eioi.jpg",
+      "title": "Caddyshack",
+      "year": 1980
+    },
+    "The Legend of Bagger Vance": {
+      "id": 4958,
+      "poster": "/7jKjh9PZvHJYYtCycQmTbBoZVV4.jpg",
+      "title": "The Legend of Bagger Vance",
+      "year": 2000
+    },
+    "Body Heat": {
+      "id": 14412,
+      "poster": "/5LipPcaW1J9IjAP7TOTesw8OcMS.jpg",
+      "title": "Body Heat",
+      "year": 1981
+    },
+    "Saturday Night Fever": {
+      "id": 11009,
+      "poster": "/ylA7E5Md21aqgzxbwa2dFxX8LKV.jpg",
+      "title": "Saturday Night Fever",
+      "year": 1977
+    },
+    "Breaking Away": {
+      "id": 20283,
+      "poster": "/k7b5GsVJK1hfdwoYqcczN9pBba6.jpg",
+      "title": "Breaking Away",
+      "year": 1979
+    },
+    "Sleepless in Seattle": {
+      "id": 858,
+      "poster": "/jAXfku1u1uaLGh4cUmK0ESf1pPu.jpg",
+      "title": "Sleepless in Seattle",
+      "year": 1993
+    },
+    "Glengarry Glen Ross": {
+      "id": 9504,
+      "poster": "/zcaEDx8KlVfh4vKfMNLhiSi5Oz4.jpg",
+      "title": "Glengarry Glen Ross",
+      "year": 1992
+    },
+    "Working Girl": {
+      "id": 3525,
+      "poster": "/q2jfFzZvAzjTaArQR0tjilIZ5aJ.jpg",
+      "title": "Working Girl",
+      "year": 1988
+    },
+    "Married to the Mob": {
+      "id": 2321,
+      "poster": "/gkOsxv1RvV5smRnm6wrmn2wDXyZ.jpg",
+      "title": "Married to the Mob",
+      "year": 1988
+    },
+    "Miami Blues": {
+      "id": 14931,
+      "poster": "/eOqOf2qG0sjsfhFdYp6SbZuorSF.jpg",
+      "title": "Miami Blues",
+      "year": 1990
+    },
+    "The Contender": {
+      "id": 6521,
+      "poster": "/duRe0F2GYHIDvqe2bqIAMP4gWeP.jpg",
+      "title": "The Contender",
+      "year": 2000
+    },
+    "Being the Ricardos": {
+      "id": 517088,
+      "poster": "/oztBLWdRk5gApYmNdADXvXkLT5m.jpg",
+      "title": "Being the Ricardos",
+      "year": 2021
+    },
+    "The Trial of the Chicago 7": {
+      "id": 556984,
+      "poster": "/ahf5cVdooMAlDRiJOZQNuLqa1Is.jpg",
+      "title": "The Trial of the Chicago 7",
+      "year": 2020
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Unfrosted": {
+      "id": 844185,
+      "poster": "/zxcpbkiyv81u1frI7b0f6qaYufE.jpg",
+      "title": "Unfrosted",
+      "year": 2024
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "The Fugitive": {
+      "id": 5503,
+      "poster": "/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg",
+      "title": "The Fugitive",
+      "year": 1993
+    }
+  },
+  "spotifyEpisodeId": "6befOPKkkfSkTOzmdRq4B4"
+}

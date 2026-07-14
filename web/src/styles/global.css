@@ -292,7 +292,7 @@ a.entry:hover { color: var(--brass-lit); text-decoration: underline; text-underl
 /* ---------- Episode index (home) ---------- */
 .catalog { padding: 2.8rem 0; display: grid; gap: 1.1rem; }
 .sale-card {
-  display: grid; grid-template-columns: 1fr auto; align-items: end; gap: 1rem;
+  display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 1rem;
   padding: 1.6rem 0; border-top: 1px solid var(--line); transition: border-color 0.18s;
 }
 .catalog .sale-card:last-child { border-bottom: 1px solid var(--line); }

@@ -1,0 +1,856 @@
+{
+  "slug": "the-2002-movie-draft",
+  "title": "The 2002 Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2024-06-18",
+  "runtimeMin": 102,
+  "format": "Sean, Chris, and Amanda draft the movies of 2002, a year none of them will call good, across six categories, after a detour through Andrew McCarthy's Brat Pack documentary.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The 'Brats' documentary",
+      "note": "before the draft",
+      "films": [
+        {
+          "title": "Brats",
+          "year": 2024,
+          "note": "Andrew McCarthy tracks down his 1980s peers and the journalist who coined 'Brat Pack.' The hosts read it as an odd self-portrait that keeps missing its own point."
+        }
+      ]
+    },
+    {
+      "kind": "draft",
+      "heading": "The teams",
+      "draftOf": "the movies of 2002",
+      "categories": [
+        "Drama",
+        "Action / Horror / Thriller",
+        "Misunderstood",
+        "Blockbuster",
+        "Oscar Nominee",
+        "Wild Card"
+      ],
+      "teams": [
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Punch-Drunk Love",
+              "year": 2002,
+              "category": "Drama",
+              "note": "Post-Magnolia PTA, stripped down, around a monster Adam Sandler."
+            },
+            {
+              "title": "Panic Room",
+              "year": 2002,
+              "category": "Action / Horror / Thriller",
+              "note": "Lesser Fincher, still better than most everything else."
+            },
+            {
+              "title": "The Rules of Attraction",
+              "year": 2002,
+              "category": "Misunderstood",
+              "note": "Roger Avary's acidic Bret Easton Ellis adaptation, self-financed Europe montage and all."
+            },
+            {
+              "title": "Minority Report",
+              "year": 2002,
+              "category": "Blockbuster",
+              "note": "Spielberg and Cruise; a top-five Spielberg for him."
+            },
+            {
+              "title": "Spirited Away",
+              "year": 2002,
+              "category": "Oscar Nominee",
+              "note": "Miyazaki's Best Animated Feature winner; the pick he dared them to take."
+            },
+            {
+              "title": "Jackass: The Movie",
+              "year": 2002,
+              "category": "Wild Card",
+              "note": "The TV show writ large, 300 people in a theater."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "25th Hour",
+              "year": 2002,
+              "category": "Drama",
+              "note": "Spike Lee's post-9/11 New York, with an all-time ending."
+            },
+            {
+              "title": "28 Days Later",
+              "year": 2002,
+              "category": "Action / Horror / Thriller",
+              "note": "Danny Boyle emptied out London and shot it fast, on camcorders."
+            },
+            {
+              "title": "State Property",
+              "year": 2002,
+              "category": "Misunderstood",
+              "note": "The Roc-A-Fella roster, Beanie Sigel starring; ~18% on Rotten Tomatoes."
+            },
+            {
+              "title": "The Lord of the Rings: The Two Towers",
+              "year": 2002,
+              "category": "Blockbuster",
+              "note": "Helm's Deep, and his favorite of the trilogy."
+            },
+            {
+              "title": "Catch Me If You Can",
+              "year": 2002,
+              "category": "Oscar Nominee",
+              "note": "Four nominations; a Rewatchables study that made him love it more."
+            },
+            {
+              "title": "The Ring",
+              "year": 2002,
+              "category": "Wild Card",
+              "note": "Gore Verbinski's remake, Naomi Watts and a cursed tape."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Igby Goes Down",
+              "year": 2002,
+              "category": "Drama",
+              "note": "The unhappy-rich-kid canon; Kieran Culkin in a stacked cast."
+            },
+            {
+              "title": "Unfaithful",
+              "year": 2002,
+              "category": "Action / Horror / Thriller",
+              "note": "Adrian Lyne's last return to form, and a Diane Lane Oscar nomination."
+            },
+            {
+              "title": "Sweet Home Alabama",
+              "year": 2002,
+              "category": "Misunderstood",
+              "note": "38% on Rotten Tomatoes; she's seen it 30-plus times."
+            },
+            {
+              "title": "The Bourne Identity",
+              "year": 2002,
+              "category": "Blockbuster",
+              "note": "The embassy escape, the farmhouse, the haircut."
+            },
+            {
+              "title": "Adaptation",
+              "year": 2002,
+              "category": "Oscar Nominee",
+              "note": "Her favorite Charlie Kaufman, by way of Spike Jonze."
+            },
+            {
+              "title": "Two Weeks Notice",
+              "year": 2002,
+              "category": "Wild Card",
+              "note": "Sandra Bullock and Hugh Grant; better than its 42%, Trump cameo aside."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Gangs of New York",
+        "The Hours",
+        "The Pianist",
+        "Chicago",
+        "Spider-Man",
+        "Signs",
+        "8 Mile",
+        "Y Tu Mamá También",
+        "24 Hour Party People",
+        "Far from Heaven",
+        "The Sum of All Fears",
+        "My Big Fat Greek Wedding",
+        "Reign of Fire",
+        "40 Days and 40 Nights",
+        "Austin Powers in Goldmember",
+        "Swimfan",
+        "Blue Crush",
+        "The Sweetest Thing",
+        "Solaris",
+        "About a Boy",
+        "Jason X",
+        "Lilo & Stitch",
+        "Moonlight Mile",
+        "Bowling for Columbine",
+        "K-19: The Widowmaker",
+        "Ghost Ship",
+        "Narc",
+        "Ripley's Game",
+        "National Lampoon's Van Wilder",
+        "Harry Potter and the Chamber of Secrets",
+        "Ice Age",
+        "Spider",
+        "Dragonfly"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Other years, in passing",
+      "films": [
+        "Inside Out 2",
+        "Inside Out",
+        "Megalopolis",
+        "Horizon: An American Saga - Chapter One",
+        "The Fall Guy",
+        "Challengers",
+        "After Hours",
+        "Tigerland",
+        "The Fabelmans",
+        "West Side Story",
+        "Snack Shack",
+        "Bad Boys: Ride or Die",
+        "Land of Bad",
+        "In the Land of Saints and Sinners",
+        "Thief",
+        "Heat",
+        "The Upside of Anger",
+        "The Village",
+        "Poor Things",
+        "The Breakfast Club",
+        "Pretty in Pink",
+        "Mannequin",
+        "Weekend at Bernie's",
+        "Fatal Attraction",
+        "The Notebook",
+        "Traffic",
+        "Ronin",
+        "While You Were Sleeping",
+        "Four Christmases",
+        "How Do You Know",
+        "This Means War",
+        "Pride and Prejudice and Zombies",
+        "How to Lose a Guy in 10 Days",
+        "The Last Days of Disco",
+        "Pulp Fiction",
+        "Kinds of Kindness",
+        "The Bikeriders",
+        "Longlegs",
+        "The Lord of the Rings: The Fellowship of the Ring",
+        "The Lord of the Rings: The Return of the King",
+        "Interstellar",
+        "The Dark Knight",
+        "Road House",
+        "Meatballs",
+        "Stripes"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Bear",
+      "Dancing with the Stars",
+      "Presumed Innocent",
+      "The Morning Show",
+      "House of the Dragon",
+      "Yellowstone",
+      "Lonesome Dove",
+      "The Boys",
+      "Feud: Capote vs. The Swans"
+    ],
+    "Games": [
+      "Halo"
+    ],
+    "Ads": [
+      "Google",
+      "White Claw",
+      "Starbucks Frappuccino",
+      "Sam's Club",
+      "Best Western"
+    ]
+  },
+  "tmdb": {
+    "Brats": {
+      "id": 999621,
+      "poster": "/8kXKxkFo1KC0pwvjbaKg4ruXG6J.jpg",
+      "title": "BRATS",
+      "year": 2024
+    },
+    "Punch-Drunk Love": {
+      "id": 8051,
+      "poster": "/htYp4yqFu4rzBEIa6j9jP8miDm3.jpg",
+      "title": "Punch-Drunk Love",
+      "year": 2002
+    },
+    "Panic Room": {
+      "id": 4547,
+      "poster": "/hANYbvfwxmkC9E4yY6YyJxYxlSJ.jpg",
+      "title": "Panic Room",
+      "year": 2002
+    },
+    "The Rules of Attraction": {
+      "id": 1809,
+      "poster": "/6OybelUmwUkDm7fbX1BI7OhpYeQ.jpg",
+      "title": "The Rules of Attraction",
+      "year": 2002
+    },
+    "Minority Report": {
+      "id": 180,
+      "poster": "/ccqpHq5tk5W4ymbSbuoy4uYOxFI.jpg",
+      "title": "Minority Report",
+      "year": 2002
+    },
+    "Spirited Away": {
+      "id": 129,
+      "poster": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+      "title": "Spirited Away",
+      "year": 2001
+    },
+    "Jackass: The Movie": {
+      "id": 9012,
+      "poster": "/9Rb659hvGfmef1xm0mMvDHEBqmf.jpg",
+      "title": "Jackass: The Movie",
+      "year": 2002
+    },
+    "25th Hour": {
+      "id": 1429,
+      "poster": "/uW7tTRElr2tRhmAVESzvHy4ByXg.jpg",
+      "title": "25th Hour",
+      "year": 2002
+    },
+    "28 Days Later": {
+      "id": 170,
+      "poster": "/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
+      "title": "28 Days Later",
+      "year": 2002
+    },
+    "State Property": {
+      "id": 25006,
+      "poster": "/eq8ygk2egSs9QnQfrjqE4fJ44OJ.jpg",
+      "title": "State Property",
+      "year": 2002
+    },
+    "The Lord of the Rings: The Two Towers": {
+      "id": 121,
+      "poster": "/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002
+    },
+    "Catch Me If You Can": {
+      "id": 640,
+      "poster": "/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+      "title": "Catch Me If You Can",
+      "year": 2002
+    },
+    "The Ring": {
+      "id": 565,
+      "poster": "/AeRpUynJKDpJveklBJipOYrVxCS.jpg",
+      "title": "The Ring",
+      "year": 2002
+    },
+    "Igby Goes Down": {
+      "id": 9685,
+      "poster": "/f53JBgzYESamcYT3LkUeeoSXPgi.jpg",
+      "title": "Igby Goes Down",
+      "year": 2002
+    },
+    "Unfaithful": {
+      "id": 2251,
+      "poster": "/bjiHEhuiwhIygzjczbTPAA07cGc.jpg",
+      "title": "Unfaithful",
+      "year": 2002
+    },
+    "Sweet Home Alabama": {
+      "id": 11529,
+      "poster": "/698cbxq0SRwCdOPG5Bwi7JDk12d.jpg",
+      "title": "Sweet Home Alabama",
+      "year": 2002
+    },
+    "The Bourne Identity": {
+      "id": 2501,
+      "poster": "/aP8swke3gmowbkfZ6lmNidu0y9p.jpg",
+      "title": "The Bourne Identity",
+      "year": 2002
+    },
+    "Adaptation": {
+      "id": 2757,
+      "poster": "/ffEmHQAiD0m5dEQ6rlsuA9vlllW.jpg",
+      "title": "Adaptation.",
+      "year": 2002
+    },
+    "Two Weeks Notice": {
+      "id": 2642,
+      "poster": "/r18hSGAcxWiUysbX6nFShIZyjjP.jpg",
+      "title": "Two Weeks Notice",
+      "year": 2002
+    },
+    "Gangs of New York": {
+      "id": 3131,
+      "poster": "/lemqKtcCuAano5aqrzxYiKC8kkn.jpg",
+      "title": "Gangs of New York",
+      "year": 2002
+    },
+    "The Hours": {
+      "id": 590,
+      "poster": "/4myDtowDJQPQnkEDB1IWGtJR1Fo.jpg",
+      "title": "The Hours",
+      "year": 2002
+    },
+    "The Pianist": {
+      "id": 423,
+      "poster": "/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
+      "title": "The Pianist",
+      "year": 2002
+    },
+    "Chicago": {
+      "id": 1574,
+      "poster": "/3ED8cWCXY9zkx77Sd0N5qMbsdDP.jpg",
+      "title": "Chicago",
+      "year": 2002
+    },
+    "Spider-Man": {
+      "id": 557,
+      "poster": "/kjdJntyBeEvqm9w97QGBdxPptzj.jpg",
+      "title": "Spider-Man",
+      "year": 2002
+    },
+    "Signs": {
+      "id": 2675,
+      "poster": "/YtrIdrTxpRhvCnlw43dwOjfLqx.jpg",
+      "title": "Signs",
+      "year": 2002
+    },
+    "8 Mile": {
+      "id": 65,
+      "poster": "/7BmQj8qE1FLuLTf7Xjf9sdIHzoa.jpg",
+      "title": "8 Mile",
+      "year": 2002
+    },
+    "Y Tu Mamá También": {
+      "id": 1391,
+      "poster": "/aj3rqjab8jfc2fWmcS3H3c5qbur.jpg",
+      "title": "Y Tu Mamá También",
+      "year": 2001
+    },
+    "24 Hour Party People": {
+      "id": 2750,
+      "poster": "/8f50NQ1wz6hdxfCISCPV8XQ6DII.jpg",
+      "title": "24 Hour Party People",
+      "year": 2002
+    },
+    "Far from Heaven": {
+      "id": 10712,
+      "poster": "/9gQuvFDRPLx39smUvyafm36tp0d.jpg",
+      "title": "Far from Heaven",
+      "year": 2002
+    },
+    "The Sum of All Fears": {
+      "id": 4614,
+      "poster": "/3E4LW4bjRhEMDeeXeIsmkJ94v8K.jpg",
+      "title": "The Sum of All Fears",
+      "year": 2002
+    },
+    "My Big Fat Greek Wedding": {
+      "id": 8346,
+      "poster": "/ztc05ym0T3stnBpRHdxEs3Zwsmp.jpg",
+      "title": "My Big Fat Greek Wedding",
+      "year": 2002
+    },
+    "Reign of Fire": {
+      "id": 6278,
+      "poster": "/vZVXCj3jXzIPJUHLaQohzt2uTM3.jpg",
+      "title": "Reign of Fire",
+      "year": 2002
+    },
+    "40 Days and 40 Nights": {
+      "id": 2752,
+      "poster": "/pQTZX4gOEEkkMVFIRWtIrCpozeu.jpg",
+      "title": "40 Days and 40 Nights",
+      "year": 2002
+    },
+    "Austin Powers in Goldmember": {
+      "id": 818,
+      "poster": "/n8V61f1v7idya4WJzGEJNoIp9iL.jpg",
+      "title": "Austin Powers in Goldmember",
+      "year": 2002
+    },
+    "Swimfan": {
+      "id": 20616,
+      "poster": "/sHSRRxzBeUtxMosSqpCcBiGnPYI.jpg",
+      "title": "Swimfan",
+      "year": 2002
+    },
+    "Blue Crush": {
+      "id": 9266,
+      "poster": "/iZSw0JVG0cIFuZoTHuQU3nmGT4k.jpg",
+      "title": "Blue Crush",
+      "year": 2002
+    },
+    "The Sweetest Thing": {
+      "id": 11812,
+      "poster": "/qLysz4B5YmiDq52Op0zq4eD75LC.jpg",
+      "title": "The Sweetest Thing",
+      "year": 2002
+    },
+    "Solaris": {
+      "id": 2103,
+      "poster": "/drdrB1hEZmzFlK1xtW5HMxK3LUJ.jpg",
+      "title": "Solaris",
+      "year": 2002
+    },
+    "About a Boy": {
+      "id": 245,
+      "poster": "/qoZ1bD0q9EFqcNiEYbEigsRcNCt.jpg",
+      "title": "About a Boy",
+      "year": 2002
+    },
+    "Jason X": {
+      "id": 11470,
+      "poster": "/ggOND0hfoE0f3K857joSzEeIchb.jpg",
+      "title": "Jason X",
+      "year": 2001
+    },
+    "Lilo & Stitch": {
+      "id": 552524,
+      "poster": "/ckQzKpQJO4ZQDCN5evdpKcfm7Ys.jpg",
+      "title": "Lilo & Stitch",
+      "year": 2025
+    },
+    "Moonlight Mile": {
+      "id": 31005,
+      "poster": "/jKDnCPUkL4QsgeqKCtyNMPL2XUU.jpg",
+      "title": "Moonlight Mile",
+      "year": 2002
+    },
+    "Bowling for Columbine": {
+      "id": 1430,
+      "poster": "/4XsiTsZcNCRSkee1o0fdr5OqYRT.jpg",
+      "title": "Bowling for Columbine",
+      "year": 2002
+    },
+    "K-19: The Widowmaker": {
+      "id": 8665,
+      "poster": "/vImR0HQkJs7Xs2qgdXEUDeX49m0.jpg",
+      "title": "K-19: The Widowmaker",
+      "year": 2002
+    },
+    "Ghost Ship": {
+      "id": 9645,
+      "poster": "/qT9jhRnf67dmMNpX2FmNPMeuW57.jpg",
+      "title": "Ghost Ship",
+      "year": 2002
+    },
+    "Narc": {
+      "id": 11022,
+      "poster": "/uGHFyVdMQKvIXlsLAoXa5nOUGF.jpg",
+      "title": "Narc",
+      "year": 2002
+    },
+    "Ripley's Game": {
+      "id": 10955,
+      "poster": "/eVhycD9GBWPwnttygKYDi9hllAy.jpg",
+      "title": "Ripley's Game",
+      "year": 2002
+    },
+    "National Lampoon's Van Wilder": {
+      "id": 11452,
+      "poster": "/4IvM4qnzlo62oLmS54FtyRt54ze.jpg",
+      "title": "National Lampoon's Van Wilder",
+      "year": 2002
+    },
+    "Harry Potter and the Chamber of Secrets": {
+      "id": 672,
+      "poster": "/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
+      "title": "Harry Potter and the Chamber of Secrets",
+      "year": 2002
+    },
+    "Ice Age": {
+      "id": 425,
+      "poster": "/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg",
+      "title": "Ice Age",
+      "year": 2002
+    },
+    "Spider": {
+      "id": 9613,
+      "poster": "/zvm4WuYxTiGkRagRqHUey0meRQL.jpg",
+      "title": "Spider",
+      "year": 2002
+    },
+    "Dragonfly": {
+      "id": 10052,
+      "poster": "/tafDYI10ZhorJ6nmsPqUfzQpRLn.jpg",
+      "title": "Dragonfly",
+      "year": 2002
+    },
+    "Inside Out 2": {
+      "id": 1022789,
+      "poster": "/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+      "title": "Inside Out 2",
+      "year": 2024
+    },
+    "Inside Out": {
+      "id": 150540,
+      "poster": "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+      "title": "Inside Out",
+      "year": 2015
+    },
+    "Megalopolis": {
+      "id": 592831,
+      "poster": "/8Sok3HNA3r1GHnK2lCytHyBz1A.jpg",
+      "title": "Megalopolis",
+      "year": 2024
+    },
+    "Horizon: An American Saga - Chapter One": null,
+    "The Fall Guy": {
+      "id": 746036,
+      "poster": "/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg",
+      "title": "The Fall Guy",
+      "year": 2024
+    },
+    "Challengers": {
+      "id": 937287,
+      "poster": "/H6vke7zGiuLsz4v4RPeReb9rsv.jpg",
+      "title": "Challengers",
+      "year": 2024
+    },
+    "After Hours": {
+      "id": 10843,
+      "poster": "/eamOBurHBu0MIxohTIVcfxmZ6Z7.jpg",
+      "title": "After Hours",
+      "year": 1985
+    },
+    "Tigerland": {
+      "id": 10687,
+      "poster": "/pnFdCvxxL44sPLkKEIJCUaIZa7M.jpg",
+      "title": "Tigerland",
+      "year": 2000
+    },
+    "The Fabelmans": {
+      "id": 804095,
+      "poster": "/h7llKkqkkJtJrTOaDLuVeUYDQ7I.jpg",
+      "title": "The Fabelmans",
+      "year": 2022
+    },
+    "West Side Story": {
+      "id": 511809,
+      "poster": "/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+      "title": "West Side Story",
+      "year": 2021
+    },
+    "Snack Shack": {
+      "id": 1037113,
+      "poster": "/wCXd5tpUSc12LVPd2oN9OKU1EVQ.jpg",
+      "title": "Snack Shack",
+      "year": 2024
+    },
+    "Bad Boys: Ride or Die": {
+      "id": 573435,
+      "poster": "/oGythE98MYleE6mZlGs5oBGkux1.jpg",
+      "title": "Bad Boys: Ride or Die",
+      "year": 2024
+    },
+    "Land of Bad": {
+      "id": 969492,
+      "poster": "/h3jYanWMEJq6JJsCopy1h7cT2Hs.jpg",
+      "title": "Land of Bad",
+      "year": 2024
+    },
+    "In the Land of Saints and Sinners": {
+      "id": 1027073,
+      "poster": "/443c0xNTLackGkFOKfbPClKMpIk.jpg",
+      "title": "In the Land of Saints and Sinners",
+      "year": 2023
+    },
+    "Thief": {
+      "id": 11524,
+      "poster": "/bpjRGwfYJ71bU0hNhLIz7g3t6Oy.jpg",
+      "title": "Thief",
+      "year": 1981
+    },
+    "Heat": {
+      "id": 949,
+      "poster": "/e09dLw1Ljtccd2P4NsuUvVtS5du.jpg",
+      "title": "Heat",
+      "year": 1995
+    },
+    "The Upside of Anger": {
+      "id": 11354,
+      "poster": "/iS9lP4poDyvSGXyh199ZEXMPHrY.jpg",
+      "title": "The Upside of Anger",
+      "year": 2005
+    },
+    "The Village": {
+      "id": 6947,
+      "poster": "/v7UvYtKfIVaHLaHwVgfalyrK7Ho.jpg",
+      "title": "The Village",
+      "year": 2004
+    },
+    "Poor Things": {
+      "id": 792307,
+      "poster": "/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+      "title": "Poor Things",
+      "year": 2023
+    },
+    "The Breakfast Club": {
+      "id": 2108,
+      "poster": "/gp4zlj7wgbiofLMNsTPndMuO3PN.jpg",
+      "title": "The Breakfast Club",
+      "year": 1985
+    },
+    "Pretty in Pink": {
+      "id": 11522,
+      "poster": "/jeFJyzJBufJexpOuywuPp8q2tCJ.jpg",
+      "title": "Pretty in Pink",
+      "year": 1986
+    },
+    "Mannequin": {
+      "id": 10019,
+      "poster": "/oHMA8euTiZdDFXDi5zaIQQXwl0K.jpg",
+      "title": "Mannequin",
+      "year": 1987
+    },
+    "Weekend at Bernie's": {
+      "id": 8491,
+      "poster": "/4RtjBkBSqHG46uieHgTtM7oKlpo.jpg",
+      "title": "Weekend at Bernie's",
+      "year": 1989
+    },
+    "Fatal Attraction": {
+      "id": 10998,
+      "poster": "/vjB9XwJKnYqFKKjhWcE6WpAf5Ki.jpg",
+      "title": "Fatal Attraction",
+      "year": 1987
+    },
+    "The Notebook": {
+      "id": 11036,
+      "poster": "/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
+      "title": "The Notebook",
+      "year": 2004
+    },
+    "Traffic": {
+      "id": 1900,
+      "poster": "/jbccmnqE4oAPI67bApgt2JiRPz8.jpg",
+      "title": "Traffic",
+      "year": 2000
+    },
+    "Ronin": {
+      "id": 8195,
+      "poster": "/AirrhRJjHwytOV0pdLu7YZ4DEyr.jpg",
+      "title": "Ronin",
+      "year": 1998
+    },
+    "While You Were Sleeping": {
+      "id": 2064,
+      "poster": "/qNGO3ETcNwlWqK2kNRpbJSJRlos.jpg",
+      "title": "While You Were Sleeping",
+      "year": 1995
+    },
+    "Four Christmases": {
+      "id": 12193,
+      "poster": "/zixj44TC7rwzpxtJAG5OzFJnEqe.jpg",
+      "title": "Four Christmases",
+      "year": 2008
+    },
+    "How Do You Know": {
+      "id": 42888,
+      "poster": "/jbOnp79eUZxQHgcdnTIRlxel1dE.jpg",
+      "title": "How Do You Know",
+      "year": 2010
+    },
+    "This Means War": {
+      "id": 59962,
+      "poster": "/7d1hwECRc1NZlGfAeYE42ki7Fem.jpg",
+      "title": "This Means War",
+      "year": 2012
+    },
+    "Pride and Prejudice and Zombies": {
+      "id": 58431,
+      "poster": "/jsJlOhVHiz1xXr36616EI8tJ4b2.jpg",
+      "title": "Pride and Prejudice and Zombies",
+      "year": 2016
+    },
+    "How to Lose a Guy in 10 Days": {
+      "id": 9919,
+      "poster": "/2dlftyPz7mTYbrsPvTogyFmYd7d.jpg",
+      "title": "How to Lose a Guy in 10 Days",
+      "year": 2003
+    },
+    "The Last Days of Disco": {
+      "id": 16980,
+      "poster": "/lReaAZCsA0GXvJrxzSMsFxwgh6F.jpg",
+      "title": "The Last Days of Disco",
+      "year": 1998
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "Kinds of Kindness": {
+      "id": 1029955,
+      "poster": "/50lPmjIpDs8gKfgK7fPIeKzpllh.jpg",
+      "title": "Kinds of Kindness",
+      "year": 2024
+    },
+    "The Bikeriders": {
+      "id": 1008409,
+      "poster": "/ApMuukdDAOR2rgaFDZIcjfigi64.jpg",
+      "title": "The Bikeriders",
+      "year": 2024
+    },
+    "Longlegs": {
+      "id": 1226578,
+      "poster": "/1EwNyiiNFd863H4e8nWEzutnZD7.jpg",
+      "title": "Longlegs",
+      "year": 2024
+    },
+    "The Lord of the Rings: The Fellowship of the Ring": {
+      "id": 120,
+      "poster": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001
+    },
+    "The Lord of the Rings: The Return of the King": {
+      "id": 122,
+      "poster": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003
+    },
+    "Interstellar": {
+      "id": 157336,
+      "poster": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+      "title": "Interstellar",
+      "year": 2014
+    },
+    "The Dark Knight": {
+      "id": 155,
+      "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    "Road House": {
+      "id": 359410,
+      "poster": "/fDEdtS4P0gJsxHDIt8dG8TR5dx1.jpg",
+      "title": "Road House",
+      "year": 2024
+    },
+    "Meatballs": {
+      "id": 14035,
+      "poster": "/9YA2erSNcca9NWd0xePC9ArFWnx.jpg",
+      "title": "Meatballs",
+      "year": 1979
+    },
+    "Stripes": {
+      "id": 10890,
+      "poster": "/vP8tPOgmJSNOh4bpOv1bFjid3rZ.jpg",
+      "title": "Stripes",
+      "year": 1981
+    }
+  },
+  "spotifyEpisodeId": "5FC67t3B7C2iDGVGQvJpQx"
+}

@@ -72,6 +72,9 @@ def main():
     # (title, year) for everything linkable, walking each segment by kind. Excluded skipped.
     # `picks` = films a host actually chose (high value); an unmatched pick is a red flag worth review.
     items, picks = {}, set()
+    # Prior first-half slate + undrafted current-year films share the episode's year,
+    # not a fixed 2026 (older back-catalog episodes are 2024/2025).
+    ep_year = int((ep.get("published") or "0")[:4]) or None
     def pick(title, year):
         items[title] = year
         picks.add(title)
@@ -91,11 +94,11 @@ def main():
             for c in seg["categories"]:
                 for n in c["nominees"]:
                     pick(n["title"], n.get("year"))
-        for s in seg.get("januarySlate", []):  # auction's prior first-half slate — all 2026
+        for s in seg.get("januarySlate", []):  # auction's prior first-half slate — same year as the episode
             for p in s["picks"]:
-                pick(p["title"], 2026)
-        # undrafted = 2026 films in an auction (disambiguate by year), historical classics in a draft.
-        undrafted_year = None if seg.get("kind") == "draft" else 2026
+                pick(p["title"], ep_year)
+        # undrafted = current-year films in an auction (disambiguate by year), historical classics in a draft.
+        undrafted_year = None if seg.get("kind") == "draft" else ep_year
         for t in seg.get("undrafted", []):
             items.setdefault(t, undrafted_year)
     for g in ep.get("referenced", []):        # mix of 2026 + older; no reliable year -> exact-title only

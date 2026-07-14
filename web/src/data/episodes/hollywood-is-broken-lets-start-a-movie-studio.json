@@ -1,0 +1,962 @@
+{
+  "slug": "hollywood-is-broken-lets-start-a-movie-studio",
+  "title": "Hollywood Is Broken. Let's Start a Movie Studio.",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2024-06-04",
+  "runtimeMin": 122,
+  "format": "No new wide releases opened, so Sean and Amanda take the movie business's temperature (a fallen Furiosa, a flimsy Garfield, the Fall Guy's VOD math), react to the Wolfs and Venom trailers, and run a book-club check-in. Then the main event: each host drafts a rival movie studio from scratch, picking three filmmakers, five stars, literary properties, a franchise, a classic film, a lot, a windowing plan, and a name. Chris Ryan drops in to have In a Violent Nature described to him, and Sean interviews its writer-director, Chris Nash.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The business is broken: box office and trailers",
+      "note": "no movies came out",
+      "films": [
+        {
+          "title": "Furiosa: A Mad Max Saga",
+          "year": 2024,
+          "note": "Down to third in its second weekend; the hosts decide its niche-ness was underrated all along."
+        },
+        {
+          "title": "The Garfield Movie",
+          "year": 2024,
+          "note": "No. 1 at the box office, which Sean chalks up to the flimsiness of the property."
+        },
+        {
+          "title": "IF",
+          "year": 2024,
+          "note": "'Bleu has risen': it overtook Furiosa in week three."
+        },
+        {
+          "title": "The Fall Guy",
+          "year": 2024,
+          "note": "A good VOD weekend; Amanda argues it simply met its over-35 audience at home."
+        },
+        {
+          "title": "Challengers",
+          "year": 2024,
+          "note": "Still earning on rental. Sean cites $86.8 million and friends who watched it twice in a morning."
+        },
+        {
+          "title": "Wolfs",
+          "year": 2024,
+          "note": "The Pitt-and-Clooney trailer, John Watts directing; Amanda just wants two hours of the two of them."
+        },
+        {
+          "title": "Venom: The Last Dance",
+          "year": 2024,
+          "note": "The 'BANUM' trailer; out October 25, sliding into the Halloween zone."
+        },
+        {
+          "title": "Bad Boys: Ride or Die",
+          "year": 2024,
+          "note": "Smith and Lawrence reunite; they'll cover it next week."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Book club",
+      "note": "the summer of 1982, and Sidney Lumet next",
+      "films": [
+        {
+          "title": "Glory",
+          "year": 1989,
+          "note": "Via Ed Zwick's memoir 'Hits, Flops, and Other Illusions'; Matthew Broderick's mother, they hear, ran the set."
+        },
+        {
+          "title": "Blade Runner",
+          "year": 1982,
+          "note": "From Chris Nashawaty's 'The Future Was Now,' on the summer that invented the modern blockbuster."
+        },
+        {
+          "title": "Poltergeist",
+          "year": 1982
+        },
+        {
+          "title": "The Thing",
+          "year": 1982
+        },
+        {
+          "title": "E.T. the Extra-Terrestrial",
+          "year": 1982
+        },
+        {
+          "title": "The Road Warrior",
+          "year": 1981
+        },
+        {
+          "title": "Conan the Barbarian",
+          "year": 1982
+        }
+      ]
+    },
+    {
+      "kind": "draft",
+      "heading": "Let's Start a Movie Studio",
+      "draftOf": "an old-fashioned movie studio, backed by a whimsical billionaire",
+      "categories": [
+        "Filmmaker",
+        "Movie Star",
+        "Literary Property",
+        "Franchise",
+        "Screenwriter",
+        "Wildcard Creative",
+        "Classic Film",
+        "First Film",
+        "Studio Lot",
+        "Windowing",
+        "Studio Name"
+      ],
+      "teams": [
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Greta Gerwig",
+              "category": "Filmmaker",
+              "note": "Grabbed the moment Amanda took Peele. 'Who better to launch our business with?'"
+            },
+            {
+              "title": "Ryan Coogler",
+              "category": "Filmmaker",
+              "note": "Comes with Michael B. Jordan; once told Sean, 'I need to make my own Godfather.'"
+            },
+            {
+              "title": "The Safdie Brothers",
+              "category": "Filmmaker",
+              "note": "A two-for-one: Sean wants Josh and Benny making films under one banner again."
+            },
+            {
+              "title": "Timothée Chalamet",
+              "category": "Movie Star",
+              "note": "First star off the board; a proven draw even when Wonka stinks."
+            },
+            {
+              "title": "Tom Cruise",
+              "category": "Movie Star",
+              "note": "'Cruise can still open movies.' Sean pairs him with Gerwig for a study of aging masculinity."
+            },
+            {
+              "title": "Zendaya",
+              "category": "Movie Star"
+            },
+            {
+              "title": "Dev Patel",
+              "category": "Movie Star"
+            },
+            {
+              "title": "Florence Pugh",
+              "category": "Movie Star",
+              "note": "'Jodie Foster and Elizabeth Taylor at the same time.'"
+            },
+            {
+              "title": "The Power Broker",
+              "category": "Literary Property",
+              "note": "Robert Caro; a cycle of films with Robert Moses as a Thanos of city-building, Sean's 'Godfather.'"
+            },
+            {
+              "title": "Hyperion Cantos",
+              "category": "Literary Property",
+              "note": "Dan Simmons' prize-winning sci-fi series, Canterbury Tales in space."
+            },
+            {
+              "title": "Barbarian Days",
+              "category": "Literary Property",
+              "note": "William Finnegan's Pulitzer-winning surfing memoir."
+            },
+            {
+              "title": "The Twilight Zone",
+              "category": "Franchise",
+              "note": "A run of 90-minute films, not a TV show: 'these are films.'"
+            },
+            {
+              "title": "Scott Frank",
+              "category": "Screenwriter",
+              "note": "A five-tool player to write his own and fix everyone else's."
+            },
+            {
+              "title": "Alex Garland",
+              "category": "Screenwriter",
+              "note": "Author of the $125-million 'Civil War.'"
+            },
+            {
+              "title": "Bill Hader",
+              "category": "Wildcard Creative",
+              "note": "A Swiss-army knife who can write, direct, produce, and star."
+            },
+            {
+              "title": "Chinatown",
+              "year": 1974,
+              "category": "Classic Film",
+              "note": "To get to the bottom of Noah Cross; Scott Frank could have fun with a sequel."
+            },
+            {
+              "title": "The Making of 'Rumours'",
+              "category": "First Film",
+              "note": "An unmade Fleetwood Mac movie: Bradley Cooper directing and playing Lindsey Buckingham, age issues be damned."
+            },
+            {
+              "title": "Barnsdall Art Park / Hollyhock House",
+              "category": "Studio Lot",
+              "note": "Silver Lake, walkable to a Homestate."
+            },
+            {
+              "title": "90-day theatrical window",
+              "category": "Windowing",
+              "note": "Closer to how it used to be."
+            },
+            {
+              "title": "Monumental Pictures",
+              "category": "Studio Name",
+              "note": "The studio from 'Singin' in the Rain.'"
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Jordan Peele",
+              "category": "Filmmaker",
+              "note": "First overall pick; a director-producer who can steer the whole slate."
+            },
+            {
+              "title": "Luca Guadagnino",
+              "category": "Filmmaker",
+              "note": "'45 projects in development,' plus every beautiful young actor in his orbit."
+            },
+            {
+              "title": "Sofia Coppola",
+              "category": "Filmmaker",
+              "note": "A safe place and a budget, chosen after losing Gerwig."
+            },
+            {
+              "title": "Emma Stone",
+              "category": "Movie Star",
+              "note": "Taken away from Sean; free to produce whatever she wants."
+            },
+            {
+              "title": "Glenn Powell",
+              "category": "Movie Star",
+              "note": "Open invitation to draft his own terms: rom-coms, Merchant Ivory, whatever."
+            },
+            {
+              "title": "Ayo Edebiri",
+              "category": "Movie Star",
+              "note": "Writes, directs, and voices her own work."
+            },
+            {
+              "title": "Daniel Kaluuya",
+              "category": "Movie Star"
+            },
+            {
+              "title": "Ryan Gosling",
+              "category": "Movie Star",
+              "note": "Not box-office poison; his audience just rents at home."
+            },
+            {
+              "title": "The Secret History",
+              "category": "Literary Property",
+              "note": "Donna Tartt; best done as a Minghella-'Ripley'-style film, not a series."
+            },
+            {
+              "title": "Crazy Rich Asians",
+              "category": "Literary Property",
+              "note": "Kevin Kwan's books, redone with a bigger budget and real locations."
+            },
+            {
+              "title": "My Year of Rest and Relaxation",
+              "category": "Literary Property",
+              "note": "Ottessa Moshfegh; long circled by Yorgos Lanthimos."
+            },
+            {
+              "title": "Ocean's",
+              "category": "Franchise",
+              "note": "Keep making them with new people; Gosling gets her Margot Robbie."
+            },
+            {
+              "title": "Rachel Sennott",
+              "category": "Screenwriter",
+              "note": "Part of the family; could write with Ayo Edebiri."
+            },
+            {
+              "title": "Akela Cooper",
+              "category": "Screenwriter",
+              "note": "Wrote M3GAN and Malignant; horror as a dependable house genre."
+            },
+            {
+              "title": "Christopher McQuarrie",
+              "category": "Wildcard Creative",
+              "note": "'With a no-submarines clause.' A floating fixer for any script."
+            },
+            {
+              "title": "Seven Samurai",
+              "year": 1954,
+              "category": "Classic Film",
+              "note": "So she can make endless movies about a few cool guys doing stuff together."
+            },
+            {
+              "title": "Megalopolis",
+              "year": 2024,
+              "category": "First Film",
+              "note": "Acquired straight out of the Cannes Film Festival."
+            },
+            {
+              "title": "The Paramount lot",
+              "category": "Studio Lot",
+              "note": "One step closer to being David Ellison."
+            },
+            {
+              "title": "6-to-8-week window",
+              "category": "Windowing",
+              "note": "Roughly the A24 model."
+            },
+            {
+              "title": "Plainview Pictures",
+              "category": "Studio Name",
+              "note": "From 'There Will Be Blood'; the logo a silhouette of Amanda and her daughter, Alice."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "'In a Violent Nature,' described for Amanda",
+      "note": "with Chris Ryan",
+      "films": [
+        {
+          "title": "In a Violent Nature",
+          "year": 2024,
+          "note": "A slasher told from the killer's shoulder: 'what if Terrence Malick directed a Friday the 13th movie.' Sean and Chris Ryan walk a blind Amanda through it."
+        },
+        {
+          "title": "Friday the 13th",
+          "year": 1980,
+          "note": "The Jason Voorhees mold the movie both honors and slows to a crawl."
+        },
+        {
+          "title": "The Texas Chain Saw Massacre",
+          "year": 1974,
+          "note": "Sean's comp for the film's held, extended aftermath: the final girl in the back of the truck for 15 more minutes."
+        },
+        {
+          "title": "Late Night with the Devil",
+          "year": 2023,
+          "note": "The other micro-budget Shudder horror hit of the year, proof the audience is still there."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Chris Nash on",
+      "films": [
+        {
+          "title": "In a Violent Nature",
+          "year": 2024,
+          "note": "His first feature at 40: no score, Academy ratio, and a POV slasher he wasn't sure would work."
+        },
+        {
+          "title": "Gerry",
+          "year": 2002,
+          "note": "The Gus Van Sant film that seeded the idea: characters dictating the pace, the camera following voyeuristically."
+        },
+        {
+          "title": "Elephant",
+          "year": 2003,
+          "note": "Van Sant again; the follow-up Nash was drawn to."
+        },
+        {
+          "title": "Last Days",
+          "year": 2005,
+          "note": "The third Van Sant 'death trilogy' film he cites."
+        },
+        {
+          "title": "Angst",
+          "year": 1983,
+          "note": "Gerald Kargl's serial-killer film, the other first-person-killer touchstone, though wall-to-wall with narration and music."
+        },
+        {
+          "title": "No Country for Old Men",
+          "year": 2007,
+          "note": "His model for having no score at all and few people noticing."
+        },
+        {
+          "title": "When Evil Lurks",
+          "year": 2023,
+          "note": "The last film to give him the giddy genre thrill: 'that whole scene with the dog.'"
+        },
+        {
+          "title": "Stopmotion",
+          "year": 2023,
+          "note": "Robert Morgan's animated horror, name-checked among the stop-motion artists Nash admires."
+        },
+        {
+          "title": "The Void",
+          "year": 2016,
+          "note": "Steve Kostanski's film, shot in the same city; Kostanski led the prosthetics here."
+        },
+        {
+          "title": "ABCs of Death 2",
+          "year": 2014,
+          "note": "The anthology where Nash and Kostanski each had a segment and first crossed paths."
+        },
+        {
+          "title": "The Eclipse",
+          "year": 2009,
+          "note": "Conor McPherson's film, one of the movies Nash returns to like an old girlfriend on Instagram."
+        },
+        {
+          "title": "The Phenom",
+          "year": 2016,
+          "note": "His last-great-thing pick: Noah Buschel's baseball movie with Johnny Simmons, Paul Giamatti, and Ethan Hawke."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Named while building the studios",
+      "films": [
+        "Wonka",
+        "Barbie",
+        "Little Women",
+        "Midsommar",
+        "Black Widow",
+        "A Good Person",
+        "Fighting with My Family",
+        "Dune",
+        "Dune: Part Two",
+        "Sicario",
+        "Civil War",
+        "28 Years Later",
+        "M3GAN",
+        "Malignant",
+        "The Talented Mr. Ripley",
+        "Lost in Translation",
+        "Motherless Brooklyn",
+        "The Two Jakes",
+        "A Bigger Splash",
+        "Kinds of Kindness",
+        "Beetlejuice Beetlejuice",
+        "Beetlejuice",
+        "Singin' in the Rain",
+        "There Will Be Blood",
+        "Slap Shot"
+      ]
+    },
+    {
+      "group": "Box office, trailers, and asides",
+      "films": [
+        "Michael Clayton",
+        "Burn After Reading",
+        "Cop Car",
+        "Pulp Fiction",
+        "The Beekeeper",
+        "Men in Black",
+        "Ocean's Eleven",
+        "Venom",
+        "A Star Is Born",
+        "Smile",
+        "Smile 2",
+        "Terrifier 3",
+        "Joker: Folie à Deux",
+        "Uncut Gems",
+        "Wish",
+        "Inside Out",
+        "Inside Out 2",
+        "The Sound of Music"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Ripley",
+      "Monsieur Spade",
+      "Barry",
+      "Big Mouth",
+      "The Bear",
+      "Survivor",
+      "The Acolyte",
+      "Black Mirror",
+      "Narnia",
+      "The Simpsons",
+      "King of the Hill",
+      "Futurama"
+    ],
+    "Ads / podcasts": [
+      "The Town",
+      "Dancing with the Stars: The Next Pro"
+    ]
+  },
+  "tmdb": {
+    "Furiosa: A Mad Max Saga": {
+      "id": 786892,
+      "poster": "/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
+      "title": "Furiosa: A Mad Max Saga",
+      "year": 2024
+    },
+    "The Garfield Movie": {
+      "id": 748783,
+      "poster": "/p6AbOJvMQhBmffd0PIv0u8ghWeY.jpg",
+      "title": "The Garfield Movie",
+      "year": 2024
+    },
+    "IF": {
+      "id": 639720,
+      "poster": "/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg",
+      "title": "IF",
+      "year": 2024
+    },
+    "The Fall Guy": {
+      "id": 746036,
+      "poster": "/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg",
+      "title": "The Fall Guy",
+      "year": 2024
+    },
+    "Challengers": {
+      "id": 937287,
+      "poster": "/H6vke7zGiuLsz4v4RPeReb9rsv.jpg",
+      "title": "Challengers",
+      "year": 2024
+    },
+    "Wolfs": {
+      "id": 877817,
+      "poster": "/vOX1Zng472PC2KnS0B9nRfM8aaZ.jpg",
+      "title": "Wolfs",
+      "year": 2024
+    },
+    "Venom: The Last Dance": {
+      "id": 912649,
+      "poster": "/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
+      "title": "Venom: The Last Dance",
+      "year": 2024
+    },
+    "Bad Boys: Ride or Die": {
+      "id": 573435,
+      "poster": "/oGythE98MYleE6mZlGs5oBGkux1.jpg",
+      "title": "Bad Boys: Ride or Die",
+      "year": 2024
+    },
+    "Glory": {
+      "id": 9665,
+      "poster": "/pGDzBjZvzmSCIEduQBfESLMiwtp.jpg",
+      "title": "Glory",
+      "year": 1989
+    },
+    "Blade Runner": {
+      "id": 78,
+      "poster": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+      "title": "Blade Runner",
+      "year": 1982
+    },
+    "Poltergeist": {
+      "id": 609,
+      "poster": "/4eMN3GANH5GG4kXdHkrTZEUuQ9M.jpg",
+      "title": "Poltergeist",
+      "year": 1982
+    },
+    "The Thing": {
+      "id": 1091,
+      "poster": "/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+      "title": "The Thing",
+      "year": 1982
+    },
+    "E.T. the Extra-Terrestrial": {
+      "id": 601,
+      "poster": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+      "title": "E.T. the Extra-Terrestrial",
+      "year": 1982
+    },
+    "The Road Warrior": {
+      "id": 8810,
+      "poster": "/l1KVEhkGDpWRzQ0VqIhZqDDuOim.jpg",
+      "title": "Mad Max 2",
+      "year": 1981
+    },
+    "Conan the Barbarian": {
+      "id": 9387,
+      "poster": "/qw2A587Ee61IwcSOLNFRhuOACZZ.jpg",
+      "title": "Conan the Barbarian",
+      "year": 1982
+    },
+    "Chinatown": {
+      "id": 829,
+      "poster": "/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg",
+      "title": "Chinatown",
+      "year": 1974
+    },
+    "Seven Samurai": {
+      "id": 346,
+      "poster": "/lOMGc8bnSwQhS4XyE1S99uH8NXf.jpg",
+      "title": "Seven Samurai",
+      "year": 1954
+    },
+    "Megalopolis": {
+      "id": 592831,
+      "poster": "/8Sok3HNA3r1GHnK2lCytHyBz1A.jpg",
+      "title": "Megalopolis",
+      "year": 2024
+    },
+    "In a Violent Nature": {
+      "id": 1214509,
+      "poster": "/hPfWHgq07nXbeldwEGxWB4JqwtE.jpg",
+      "title": "In a Violent Nature",
+      "year": 2024
+    },
+    "Friday the 13th": {
+      "id": 4488,
+      "poster": "/uGGpnWHOmWTARVN9wbC1nPxNgps.jpg",
+      "title": "Friday the 13th",
+      "year": 1980
+    },
+    "The Texas Chain Saw Massacre": {
+      "id": 30497,
+      "poster": "/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg",
+      "title": "The Texas Chain Saw Massacre",
+      "year": 1974
+    },
+    "Late Night with the Devil": {
+      "id": 938614,
+      "poster": "/mu8LRWT9GHkfiyHm7kgxT6YNvMW.jpg",
+      "title": "Late Night with the Devil",
+      "year": 2024
+    },
+    "Gerry": {
+      "id": 1956,
+      "poster": "/jzuPVECdfWuHoBIqQEFajbSwwpa.jpg",
+      "title": "Gerry",
+      "year": 2002
+    },
+    "Elephant": {
+      "id": 1807,
+      "poster": "/1a4VU9z2hxEvugHMK7VsobB9xTX.jpg",
+      "title": "Elephant",
+      "year": 2003
+    },
+    "Last Days": {
+      "id": 1665,
+      "poster": "/btbp47CHXgLhw30kyDoVfNFLB3g.jpg",
+      "title": "Last Days",
+      "year": 2005
+    },
+    "Angst": {
+      "id": 18912,
+      "poster": "/nSYdWrPPwvcs5t5hG67XqDbwncG.jpg",
+      "title": "Angst",
+      "year": 1983
+    },
+    "No Country for Old Men": {
+      "id": 6977,
+      "poster": "/uB7RDZby43Wvu8SKGHHTwGyTDBX.jpg",
+      "title": "No Country for Old Men",
+      "year": 2007
+    },
+    "When Evil Lurks": {
+      "id": 744857,
+      "poster": "/iQ7G9LhP7NRRIUM4Vlai3eOxBAc.jpg",
+      "title": "When Evil Lurks",
+      "year": 2023
+    },
+    "Stopmotion": {
+      "id": 840889,
+      "poster": "/kWzWZEctPcZ0dATbtcYy6lIJgGj.jpg",
+      "title": "Stopmotion",
+      "year": 2024
+    },
+    "The Void": {
+      "id": 378018,
+      "poster": "/2WhZAPi3vomEQdzAPIYTvmvWaxI.jpg",
+      "title": "The Void",
+      "year": 2016
+    },
+    "ABCs of Death 2": {
+      "id": 193726,
+      "poster": "/9oijbrQPBjBerEa8yJtrCaV0emz.jpg",
+      "title": "ABCs of Death 2",
+      "year": 2014
+    },
+    "The Eclipse": {
+      "id": 39563,
+      "poster": "/96ma6Hn8aW3FbHoaDzHiRflCHls.jpg",
+      "title": "The Eclipse",
+      "year": 2009
+    },
+    "The Phenom": {
+      "id": 390512,
+      "poster": "/q57R5r0uElNqnyx6TnqdNF0aM4I.jpg",
+      "title": "The Phenom",
+      "year": 2016
+    },
+    "Wonka": {
+      "id": 787699,
+      "poster": "/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+      "title": "Wonka",
+      "year": 2023
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Little Women": {
+      "id": 331482,
+      "poster": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+      "title": "Little Women",
+      "year": 2019
+    },
+    "Midsommar": {
+      "id": 530385,
+      "poster": "/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+      "title": "Midsommar",
+      "year": 2019
+    },
+    "Black Widow": {
+      "id": 497698,
+      "poster": "/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+      "title": "Black Widow",
+      "year": 2021
+    },
+    "A Good Person": {
+      "id": 800787,
+      "poster": "/dhejMQdsqPtTTCKIkyoJ5FLfC3F.jpg",
+      "title": "A Good Person",
+      "year": 2023
+    },
+    "Fighting with My Family": {
+      "id": 445629,
+      "poster": "/pGLTCdeoeD57hK5RZTP2KB3DP2f.jpg",
+      "title": "Fighting with My Family",
+      "year": 2019
+    },
+    "Dune": {
+      "id": 438631,
+      "poster": "/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "title": "Dune",
+      "year": 2021
+    },
+    "Dune: Part Two": {
+      "id": 693134,
+      "poster": "/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+      "title": "Dune: Part Two",
+      "year": 2024
+    },
+    "Sicario": {
+      "id": 273481,
+      "poster": "/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+      "title": "Sicario",
+      "year": 2015
+    },
+    "Civil War": {
+      "id": 929590,
+      "poster": "/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+      "title": "Civil War",
+      "year": 2024
+    },
+    "28 Years Later": {
+      "id": 1100988,
+      "poster": "/n5FygjEppOvac6yEaowi26nTyw3.jpg",
+      "title": "28 Years Later",
+      "year": 2025
+    },
+    "M3GAN": {
+      "id": 536554,
+      "poster": "/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
+      "title": "M3GAN",
+      "year": 2022
+    },
+    "Malignant": {
+      "id": 619778,
+      "poster": "/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg",
+      "title": "Malignant",
+      "year": 2021
+    },
+    "The Talented Mr. Ripley": {
+      "id": 1213,
+      "poster": "/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg",
+      "title": "The Talented Mr. Ripley",
+      "year": 1999
+    },
+    "Lost in Translation": {
+      "id": 153,
+      "poster": "/3jCLmYDIIiSMPujbwygNpqdpM8N.jpg",
+      "title": "Lost in Translation",
+      "year": 2003
+    },
+    "Motherless Brooklyn": {
+      "id": 504562,
+      "poster": "/2wm20cbkH1L8nA54Gtwfgz2hTqo.jpg",
+      "title": "Motherless Brooklyn",
+      "year": 2019
+    },
+    "The Two Jakes": {
+      "id": 32669,
+      "poster": "/49DSKcjPUdLjzyMpf8OIKep0cLN.jpg",
+      "title": "The Two Jakes",
+      "year": 1990
+    },
+    "A Bigger Splash": {
+      "id": 324807,
+      "poster": "/b9ca2L41R43Lg1hpSzJHwtDTvYU.jpg",
+      "title": "A Bigger Splash",
+      "year": 2015
+    },
+    "Kinds of Kindness": {
+      "id": 1029955,
+      "poster": "/50lPmjIpDs8gKfgK7fPIeKzpllh.jpg",
+      "title": "Kinds of Kindness",
+      "year": 2024
+    },
+    "Beetlejuice Beetlejuice": {
+      "id": 917496,
+      "poster": "/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg",
+      "title": "Beetlejuice Beetlejuice",
+      "year": 2024
+    },
+    "Beetlejuice": {
+      "id": 4011,
+      "poster": "/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg",
+      "title": "Beetlejuice",
+      "year": 1988
+    },
+    "Singin' in the Rain": {
+      "id": 872,
+      "poster": "/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+      "title": "Singin' in the Rain",
+      "year": 1952
+    },
+    "There Will Be Blood": {
+      "id": 7345,
+      "poster": "/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+      "title": "There Will Be Blood",
+      "year": 2007
+    },
+    "Slap Shot": {
+      "id": 11590,
+      "poster": "/k5dvEA7ajd90mf3KrF6m6LnYXOv.jpg",
+      "title": "Slap Shot",
+      "year": 1977
+    },
+    "Michael Clayton": {
+      "id": 4566,
+      "poster": "/hhkW4yVIGo8Bee3UITKvqOvhNMG.jpg",
+      "title": "Michael Clayton",
+      "year": 2007
+    },
+    "Burn After Reading": {
+      "id": 4944,
+      "poster": "/jdwSkQu3XirmX18MNj8CqFWsCk.jpg",
+      "title": "Burn After Reading",
+      "year": 2008
+    },
+    "Cop Car": {
+      "id": 310133,
+      "poster": "/6MCvmPcMdbmdsIeRNQhKzLcZorP.jpg",
+      "title": "Cop Car",
+      "year": 2015
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "The Beekeeper": {
+      "id": 866398,
+      "poster": "/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
+      "title": "The Beekeeper",
+      "year": 2024
+    },
+    "Men in Black": {
+      "id": 607,
+      "poster": "/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg",
+      "title": "Men in Black",
+      "year": 1997
+    },
+    "Ocean's Eleven": {
+      "id": 161,
+      "poster": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+      "title": "Ocean's Eleven",
+      "year": 2001
+    },
+    "Venom": {
+      "id": 335983,
+      "poster": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+      "title": "Venom",
+      "year": 2018
+    },
+    "A Star Is Born": {
+      "id": 332562,
+      "poster": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "title": "A Star Is Born",
+      "year": 2018
+    },
+    "Smile": {
+      "id": 882598,
+      "poster": "/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg",
+      "title": "Smile",
+      "year": 2022
+    },
+    "Smile 2": {
+      "id": 1100782,
+      "poster": "/ht8Uv9QPv9y7K0RvUyJIaXOZTfd.jpg",
+      "title": "Smile 2",
+      "year": 2024
+    },
+    "Terrifier 3": {
+      "id": 1034541,
+      "poster": "/ju10W5gl3PPK3b7TjEmVOZap51I.jpg",
+      "title": "Terrifier 3",
+      "year": 2024
+    },
+    "Joker: Folie à Deux": {
+      "id": 889737,
+      "poster": "/aciP8Km0waTLXEYf5ybFK5CSUxl.jpg",
+      "title": "Joker: Folie à Deux",
+      "year": 2024
+    },
+    "Uncut Gems": {
+      "id": 473033,
+      "poster": "/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+      "title": "Uncut Gems",
+      "year": 2019
+    },
+    "Wish": {
+      "id": 1022796,
+      "poster": "/nesuSdJakNkf0zs7OfoasB6Clxf.jpg",
+      "title": "Wish",
+      "year": 2023
+    },
+    "Inside Out": {
+      "id": 150540,
+      "poster": "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+      "title": "Inside Out",
+      "year": 2015
+    },
+    "Inside Out 2": {
+      "id": 1022789,
+      "poster": "/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+      "title": "Inside Out 2",
+      "year": 2024
+    },
+    "The Sound of Music": {
+      "id": 15121,
+      "poster": "/c6CrUZypAsBCaRWX0M3RVRDbhNS.jpg",
+      "title": "The Sound of Music",
+      "year": 1965
+    }
+  },
+  "spotifyEpisodeId": "208lPdXll8c2ZoyCtI0D6D",
+  "tmdbOverrides": {
+    "The Road Warrior": 8810,
+    "Last Days": 1665
+  }
+}

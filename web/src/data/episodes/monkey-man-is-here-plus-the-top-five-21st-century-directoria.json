@@ -1,0 +1,541 @@
+{
+  "slug": "monkey-man-is-here-plus-the-top-five-21st-century-directoria",
+  "title": "‘Monkey Man’ Is Here! Plus, the Top Five 21st Century Directorial Debuts.",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2024-04-05",
+  "runtimeMin": 74,
+  "format": "Dev Patel's 'Monkey Man' opens, and Sean and Amanda each rank their five best directorial debuts of the century, in between a lot of doomer-Sean Mets-and-Dodgers venting.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘Monkey Man’",
+      "note": "Dev Patel's directorial debut",
+      "films": [
+        {
+          "title": "Monkey Man",
+          "year": 2024,
+          "note": "Patel's Hanuman-inflected revenge beatdown, greenlit at Netflix as a $30M film and moved to Universal for a theatrical release once Jordan Peele came on as a producer. Both hosts read the fast cutting and dropped threads as a long script cut down, but rate the highs (the wallet-heist sequence, the tabla training montage) very high, and admire the caste-and-Modi politics under the fists."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Sean's Top Five 21st Century Directorial Debuts",
+      "note": "counted down 5 to 1",
+      "subject": "21st Century Directorial Debuts",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Michael Clayton",
+          "year": 2007,
+          "note": "Tony Gilroy's debut, and Sean's platonic ideal of the rumpled-guy-in-a-suit movie. He wants Gilroy to put down the lightsabers and come back to it."
+        },
+        {
+          "title": "Get Out",
+          "year": 2017,
+          "note": "Jordan Peele's announcement: a generational talent whose movies are still events every time out."
+        },
+        {
+          "title": "Ex Machina",
+          "year": 2015,
+          "note": "Alex Garland on AI and toxic masculinity; a five-star classic Sean can only rank third."
+        },
+        {
+          "title": "The Babadook",
+          "year": 2014,
+          "note": "Jennifer Kent's grief-horror, early in the arthouse-horror wave alongside Get Out and Hereditary."
+        },
+        {
+          "title": "In the Bedroom",
+          "year": 2001,
+          "note": "Todd Field's first film: Wilkinson, Spacek, and Tomei in a grief drama Sean calls singular and impossible to make now."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Amanda's Top Five 21st Century Directorial Debuts",
+      "note": "counted down 5 to 1",
+      "subject": "21st Century Directorial Debuts",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Lady Bird",
+          "year": 2017,
+          "note": "Greta Gerwig solo: Amanda's honest, bracing movie about being a teenage girl."
+        },
+        {
+          "title": "The Virgin Suicides",
+          "year": 2000,
+          "note": "Sofia Coppola's debut. Amanda flags that its 2000 U.S. release makes it 21st-century eligible and off-limits for the upcoming 1999 movie draft."
+        },
+        {
+          "title": "A Star Is Born",
+          "year": 2018,
+          "note": "Bradley Cooper: the one Amanda says they were right about first and the rest caught up to."
+        },
+        {
+          "title": "Gone Baby Gone",
+          "year": 2007,
+          "note": "Ben Affleck's directing debut; his ledger is still more hits than misses."
+        },
+        {
+          "title": "Palm Springs",
+          "year": 2020,
+          "note": "Max Barbakow's time-loop rom-com: the one every imitator since has failed to match."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "‘Monkey Man' touchstones",
+      "films": [
+        "John Wick",
+        "Extraction",
+        "The Raid",
+        "Dredd",
+        "Die Hard",
+        "The Beekeeper",
+        "The Green Knight",
+        "District 9"
+      ]
+    },
+    {
+      "group": "The vent hour",
+      "films": [
+        "The Truth vs. Alex Jones",
+        "The First Omen",
+        "Godzilla x Kong: The New Empire",
+        "Dune: Part Two",
+        "Fast X",
+        "Logan"
+      ]
+    },
+    {
+      "group": "Ben Affleck's ledger",
+      "films": [
+        "Argo",
+        "Air",
+        "Live by Night",
+        "Manchester by the Sea"
+      ]
+    },
+    {
+      "group": "Debut honorable mentions",
+      "films": [
+        "Garden State",
+        "Booksmart",
+        "Molly's Game",
+        "Don't Worry Darling",
+        "American Beauty",
+        "Bring It On",
+        "The Nightingale",
+        "Maestro",
+        "A Single Man",
+        "Nocturnal Animals",
+        "Wildlife",
+        "Pride & Prejudice",
+        "Sexy Beast",
+        "The Zone of Interest",
+        "In Bruges",
+        "Shaun of the Dead",
+        "Hereditary",
+        "Donnie Darko",
+        "Saw",
+        "Saw X"
+      ]
+    },
+    {
+      "group": "'90s debuts and old classics",
+      "films": [
+        "Reservoir Dogs",
+        "Kicking and Screaming",
+        "Sex, Lies, and Videotape",
+        "That Thing You Do!",
+        "The Insider",
+        "12 Angry Men",
+        "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "The Canyons",
+        "The Parent Trap"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "The Nightingale": 400090
+  },
+  "excluded": {
+    "TV": [
+      "Andor",
+      "Shogun",
+      "Survivor",
+      "Top Chef",
+      "Curb Your Enthusiasm",
+      "X-Men '97",
+      "Manhunt",
+      "3 Body Problem",
+      "Ripley",
+      "The Sympathizer",
+      "Mr. & Mrs. Smith"
+    ],
+    "Ads": [
+      "Every Single Album (podcast promo)"
+    ]
+  },
+  "tmdb": {
+    "Monkey Man": {
+      "id": 560016,
+      "poster": "/4lhR4L2vzzjl68P1zJyCH755Oz4.jpg",
+      "title": "Monkey Man",
+      "year": 2024
+    },
+    "Michael Clayton": {
+      "id": 4566,
+      "poster": "/hhkW4yVIGo8Bee3UITKvqOvhNMG.jpg",
+      "title": "Michael Clayton",
+      "year": 2007
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Ex Machina": {
+      "id": 264660,
+      "poster": "/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
+      "title": "Ex Machina",
+      "year": 2015
+    },
+    "The Babadook": {
+      "id": 242224,
+      "poster": "/qt3fqapeo94TfvMyld8P7gkpXLz.jpg",
+      "title": "The Babadook",
+      "year": 2014
+    },
+    "In the Bedroom": {
+      "id": 1999,
+      "poster": "/IQj11YbraLDyPYaz79jtDoAscc.jpg",
+      "title": "In the Bedroom",
+      "year": 2001
+    },
+    "Lady Bird": {
+      "id": 391713,
+      "poster": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+      "title": "Lady Bird",
+      "year": 2017
+    },
+    "The Virgin Suicides": {
+      "id": 1443,
+      "poster": "/1NCQtXPQnaHRjOZVmktA9BSM35F.jpg",
+      "title": "The Virgin Suicides",
+      "year": 2000
+    },
+    "A Star Is Born": {
+      "id": 332562,
+      "poster": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "title": "A Star Is Born",
+      "year": 2018
+    },
+    "Gone Baby Gone": {
+      "id": 4771,
+      "poster": "/5BXDhjKZ4AL9VPxcygdG3oL60GP.jpg",
+      "title": "Gone Baby Gone",
+      "year": 2007
+    },
+    "Palm Springs": {
+      "id": 587792,
+      "poster": "/gnAfqiV7yO3Jq9IntTmwkcaICqc.jpg",
+      "title": "Palm Springs",
+      "year": 2020
+    },
+    "John Wick": {
+      "id": 245891,
+      "poster": "/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
+      "title": "John Wick",
+      "year": 2014
+    },
+    "Extraction": {
+      "id": 545609,
+      "poster": "/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg",
+      "title": "Extraction",
+      "year": 2020
+    },
+    "The Raid": {
+      "id": 94329,
+      "poster": "/Abnm1Ws3JH0ReCfEhLMPwPcMcGO.jpg",
+      "title": "The Raid",
+      "year": 2012
+    },
+    "Dredd": {
+      "id": 49049,
+      "poster": "/wLx65gtGVnUFCxceHWGszcruCZj.jpg",
+      "title": "Dredd",
+      "year": 2012
+    },
+    "Die Hard": {
+      "id": 562,
+      "poster": "/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg",
+      "title": "Die Hard",
+      "year": 1988
+    },
+    "The Beekeeper": {
+      "id": 866398,
+      "poster": "/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
+      "title": "The Beekeeper",
+      "year": 2024
+    },
+    "The Green Knight": {
+      "id": 559907,
+      "poster": "/if4hw3Ou5Sav9Em7WWHj66mnywp.jpg",
+      "title": "The Green Knight",
+      "year": 2021
+    },
+    "District 9": {
+      "id": 17654,
+      "poster": "/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg",
+      "title": "District 9",
+      "year": 2009
+    },
+    "The Truth vs. Alex Jones": {
+      "id": 1242397,
+      "poster": "/9fbfpfAiN81knlV0gi0XyQnk7bS.jpg",
+      "title": "The Truth vs. Alex Jones",
+      "year": 2024
+    },
+    "The First Omen": {
+      "id": 437342,
+      "poster": "/tnsDyNNkOxYUyjD8CNJoAla6YvY.jpg",
+      "title": "The First Omen",
+      "year": 2024
+    },
+    "Godzilla x Kong: The New Empire": {
+      "id": 823464,
+      "poster": "/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
+      "title": "Godzilla x Kong: The New Empire",
+      "year": 2024
+    },
+    "Dune: Part Two": {
+      "id": 693134,
+      "poster": "/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+      "title": "Dune: Part Two",
+      "year": 2024
+    },
+    "Fast X": {
+      "id": 385687,
+      "poster": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+      "title": "Fast X",
+      "year": 2023
+    },
+    "Logan": {
+      "id": 263115,
+      "poster": "/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+      "title": "Logan",
+      "year": 2017
+    },
+    "Argo": {
+      "id": 68734,
+      "poster": "/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
+      "title": "Argo",
+      "year": 2012
+    },
+    "Air": {
+      "id": 964980,
+      "poster": "/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg",
+      "title": "Air",
+      "year": 2023
+    },
+    "Live by Night": {
+      "id": 259695,
+      "poster": "/bkd46T4RplawnDjpHoI8mhzTLks.jpg",
+      "title": "Live by Night",
+      "year": 2016
+    },
+    "Manchester by the Sea": {
+      "id": 334541,
+      "poster": "/o9VXYOuaJxCEKOxbA86xqtwmqYn.jpg",
+      "title": "Manchester by the Sea",
+      "year": 2016
+    },
+    "Garden State": {
+      "id": 401,
+      "poster": "/h3iqYiGS6F3y7GxaS4AT8nFxZ2i.jpg",
+      "title": "Garden State",
+      "year": 2004
+    },
+    "Booksmart": {
+      "id": 505600,
+      "poster": "/2aSxRDmisJP90H3S0aocyuQIe4z.jpg",
+      "title": "Booksmart",
+      "year": 2019
+    },
+    "Molly's Game": {
+      "id": 396371,
+      "poster": "/zrGQwKNmAz5awZI2V1k5M4eTTTN.jpg",
+      "title": "Molly's Game",
+      "year": 2017
+    },
+    "Don't Worry Darling": {
+      "id": 619730,
+      "poster": "/jOqxKIOC92BVyinYO1Fm73XY7Tc.jpg",
+      "title": "Don't Worry Darling",
+      "year": 2022
+    },
+    "American Beauty": {
+      "id": 14,
+      "poster": "/wby9315QzVKdW9BonAefg8jGTTb.jpg",
+      "title": "American Beauty",
+      "year": 1999
+    },
+    "Bring It On": {
+      "id": 1588,
+      "poster": "/bnVby0qI0dS7YunbShP7mw68HY3.jpg",
+      "title": "Bring It On",
+      "year": 2000
+    },
+    "The Nightingale": {
+      "id": 400090,
+      "poster": "/wEzqFiatOJSbGBu6pb8z5sQuZt1.jpg",
+      "title": "The Nightingale",
+      "year": 2018
+    },
+    "Maestro": {
+      "id": 523607,
+      "poster": "/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg",
+      "title": "Maestro",
+      "year": 2023
+    },
+    "A Single Man": {
+      "id": 34653,
+      "poster": "/AvqTb66bS1i1NjlPC76zvxo0taT.jpg",
+      "title": "A Single Man",
+      "year": 2009
+    },
+    "Nocturnal Animals": {
+      "id": 340666,
+      "poster": "/mdLDgQBD0va09npSQX5Zgo2evXM.jpg",
+      "title": "Nocturnal Animals",
+      "year": 2016
+    },
+    "Wildlife": {
+      "id": 417812,
+      "poster": "/hQSUwjSSRtWCA5EBoY22gGzaE8Y.jpg",
+      "title": "Wildlife",
+      "year": 2018
+    },
+    "Pride & Prejudice": {
+      "id": 4348,
+      "poster": "/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg",
+      "title": "Pride & Prejudice",
+      "year": 2005
+    },
+    "Sexy Beast": {
+      "id": 11826,
+      "poster": "/xTfCZTzhgHNAR1pf5D49WH4buI5.jpg",
+      "title": "Sexy Beast",
+      "year": 2001
+    },
+    "The Zone of Interest": {
+      "id": 467244,
+      "poster": "/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg",
+      "title": "The Zone of Interest",
+      "year": 2023
+    },
+    "In Bruges": {
+      "id": 8321,
+      "poster": "/vz3Vd6nfq9YZrVvyYx5RHFaYKV3.jpg",
+      "title": "In Bruges",
+      "year": 2008
+    },
+    "Shaun of the Dead": {
+      "id": 747,
+      "poster": "/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg",
+      "title": "Shaun of the Dead",
+      "year": 2004
+    },
+    "Hereditary": {
+      "id": 493922,
+      "poster": "/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+      "title": "Hereditary",
+      "year": 2018
+    },
+    "Donnie Darko": {
+      "id": 141,
+      "poster": "/j2AtZFsflxiluaNtajMTI0Avm8C.jpg",
+      "title": "Donnie Darko",
+      "year": 2001
+    },
+    "Saw": {
+      "id": 176,
+      "poster": "/rLNSOudrayDBo1uqXjrhxcjODIC.jpg",
+      "title": "Saw",
+      "year": 2004
+    },
+    "Saw X": {
+      "id": 951491,
+      "poster": "/u7Lp1Hi8aBS73jv4KRMIv5aK4ax.jpg",
+      "title": "Saw X",
+      "year": 2023
+    },
+    "Reservoir Dogs": {
+      "id": 500,
+      "poster": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+      "title": "Reservoir Dogs",
+      "year": 1992
+    },
+    "Kicking and Screaming": {
+      "id": 28387,
+      "poster": "/ynAtSpTou7snNOq32djzILw9VCA.jpg",
+      "title": "Kicking and Screaming",
+      "year": 1995
+    },
+    "Sex, Lies, and Videotape": {
+      "id": 1412,
+      "poster": "/pj1uKm07svgXZDHbYE8AzRfNHcu.jpg",
+      "title": "sex, lies, and videotape",
+      "year": 1989
+    },
+    "That Thing You Do!": {
+      "id": 9591,
+      "poster": "/9RmZu33qHdyZFGLfhEOmkTjdNEu.jpg",
+      "title": "That Thing You Do!",
+      "year": 1996
+    },
+    "The Insider": {
+      "id": 9008,
+      "poster": "/w695X0FvTlBCS7GSLHNILnrfqPm.jpg",
+      "title": "The Insider",
+      "year": 1999
+    },
+    "12 Angry Men": {
+      "id": 389,
+      "poster": "/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg",
+      "title": "12 Angry Men",
+      "year": 1957
+    },
+    "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb": {
+      "id": 935,
+      "poster": "/6x7MzQ6BOMlRzam1StcmPO9v61g.jpg",
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "year": 1964
+    },
+    "The Canyons": {
+      "id": 109729,
+      "poster": "/5tZR5o2KJXY6UGxoCsuCmZqROwO.jpg",
+      "title": "The Canyons",
+      "year": 2013
+    },
+    "The Parent Trap": {
+      "id": 9820,
+      "poster": "/p4dGmi8u9W0HHyVXcgWPoiFfKTF.jpg",
+      "title": "The Parent Trap",
+      "year": 1998
+    }
+  },
+  "spotifyEpisodeId": "1CIuz355HiFZ8zxA5XyiTD"
+}

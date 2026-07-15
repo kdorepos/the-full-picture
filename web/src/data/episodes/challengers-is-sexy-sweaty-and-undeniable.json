@@ -1,0 +1,356 @@
+{
+  "slug": "challengers-is-sexy-sweaty-and-undeniable",
+  "title": "‘Challengers’ Is Sexy, Sweaty, and Undeniable",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2024-04-26",
+  "runtimeMin": 128,
+  "format": "Sean and Amanda break down Luca Guadagnino's tennis love triangle, then Sean sits down with screenwriter Justin Kuritzkes.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘Challengers’",
+      "films": [
+        {
+          "title": "Challengers",
+          "year": 2024,
+          "note": "Luca Guadagnino's tennis love triangle, and the movie Sean and Amanda call their agreed-upon favorite of the year so far. Zendaya (reportedly paid $10 million) plays Tashi, a junior champion turned coach whose career-ending injury redirects her ambition into her husband Art (Mike Faist) and his old doubles partner Patrick (Josh O'Connor). The film jumps around 2006 to 2019, cutting between the three as tennis stands in for sex. They loved the Trent Reznor and Atticus Ross house-music score playing over dialogue, the class-and-money subtext, the food-and-consumption imagery (churros, a Dunkin' egg sandwich), and the ball- and racket-POV shots in the final match. Sean called it a four-and-a-half, Amanda a five as an experience; both compared its structure to Bull Durham and expect it to land on their year-end lists."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Justin Kuritzkes on ‘Challengers’",
+      "guest": "Justin Kuritzkes on",
+      "films": [
+        {
+          "title": "Challengers",
+          "year": 2024,
+          "note": "The screenwriter's first script he felt good about, written on spec after the 2018 US Open final where Serena Williams was penalized for coaching from the box. He wasn't a tennis fan before the idea, then became an obsessive; watching lower-tier events pointed him to the Challenger Tour as a setting he hadn't seen on screen. Mirka Federer at Wimbledon 2019 shaped Tashi's coach role. Amy Pascal and Rachel O'Connor produced and sent it to Zendaya; the department heads came with Luca."
+        },
+        {
+          "title": "Safe",
+          "year": 1995,
+          "note": "His pick for the last great thing he saw, a Todd Haynes rewatch. He singled out the terrifying dome and the mirror shot at the end."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Guadagnino elsewhere",
+      "films": [
+        "Call Me by Your Name",
+        "I Am Love",
+        "A Bigger Splash",
+        "Suspiria",
+        "Bones and All"
+      ]
+    },
+    {
+      "group": "Reznor & Ross scores",
+      "films": [
+        "The Social Network",
+        "The Girl with the Dragon Tattoo",
+        "Gone Girl",
+        "Soul",
+        "Bird Box",
+        "Mank"
+      ]
+    },
+    {
+      "group": "The cast elsewhere",
+      "films": [
+        "Dune: Part Two",
+        "West Side Story",
+        "The Bikeriders",
+        "La Chimera",
+        "Spider-Man: No Way Home"
+      ]
+    },
+    {
+      "group": "Comparisons & asides",
+      "films": [
+        "Past Lives",
+        "Bull Durham",
+        "Wimbledon",
+        "Battle of the Sexes",
+        "Baby Driver",
+        "Civil War",
+        "Barbie",
+        "Oppenheimer",
+        "Ferrari",
+        "Saltburn",
+        "Imaginary",
+        "The Fall Guy",
+        "Everything Everywhere All at Once",
+        "Beetlejuice Beetlejuice",
+        "The Matrix",
+        "Guardians of the Galaxy",
+        "No Country for Old Men",
+        "Children of Men",
+        "There Will Be Blood",
+        "Uncle Boonmee Who Can Recall His Past Lives"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "I Am Love": 41110
+  },
+  "excluded": {
+    "TV": [
+      "Euphoria",
+      "The Crown",
+      "X-Men '97",
+      "SportsCenter"
+    ],
+    "Web": [
+      "The Potion Seller"
+    ],
+    "Music": [
+      "The Tortured Poets Department"
+    ],
+    "Ads": [
+      "State Farm",
+      "Amazon Prime",
+      "Wells Fargo Autograph Journey",
+      "Tremfaya",
+      "Whole Foods"
+    ]
+  },
+  "tmdb": {
+    "Challengers": {
+      "id": 937287,
+      "poster": "/H6vke7zGiuLsz4v4RPeReb9rsv.jpg",
+      "title": "Challengers",
+      "year": 2024
+    },
+    "Safe": {
+      "id": 32646,
+      "poster": "/2O71QsBkbqdLqQdx2yuNpJ4pFPq.jpg",
+      "title": "Safe",
+      "year": 1995
+    },
+    "Call Me by Your Name": {
+      "id": 398818,
+      "poster": "/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
+      "title": "Call Me by Your Name",
+      "year": 2017
+    },
+    "I Am Love": {
+      "id": 41110,
+      "poster": "/ss57QaZX5OE3YxoTZeKW5Y6U83S.jpg",
+      "title": "I Am Love",
+      "year": 2010
+    },
+    "A Bigger Splash": {
+      "id": 324807,
+      "poster": "/b9ca2L41R43Lg1hpSzJHwtDTvYU.jpg",
+      "title": "A Bigger Splash",
+      "year": 2015
+    },
+    "Suspiria": {
+      "id": 361292,
+      "poster": "/bRpKFPb8CWKRQxVo9NzOuPPlO3Q.jpg",
+      "title": "Suspiria",
+      "year": 2018
+    },
+    "Bones and All": {
+      "id": 791177,
+      "poster": "/dBQuk2LkHjrDsSjueirPQg96GCc.jpg",
+      "title": "Bones and All",
+      "year": 2022
+    },
+    "The Social Network": {
+      "id": 37799,
+      "poster": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+      "title": "The Social Network",
+      "year": 2010
+    },
+    "The Girl with the Dragon Tattoo": {
+      "id": 65754,
+      "poster": "/8bokS83zGdhaXgN9tjidUKmAftW.jpg",
+      "title": "The Girl with the Dragon Tattoo",
+      "year": 2011
+    },
+    "Gone Girl": {
+      "id": 210577,
+      "poster": "/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+      "title": "Gone Girl",
+      "year": 2014
+    },
+    "Soul": {
+      "id": 508442,
+      "poster": "/6jmppcaubzLF8wkXM36ganVISCo.jpg",
+      "title": "Soul",
+      "year": 2020
+    },
+    "Bird Box": {
+      "id": 405774,
+      "poster": "/rGfGfgL2pEPCfhIvqHXieXFn7gp.jpg",
+      "title": "Bird Box",
+      "year": 2018
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "Dune: Part Two": {
+      "id": 693134,
+      "poster": "/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+      "title": "Dune: Part Two",
+      "year": 2024
+    },
+    "West Side Story": {
+      "id": 511809,
+      "poster": "/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+      "title": "West Side Story",
+      "year": 2021
+    },
+    "The Bikeriders": {
+      "id": 1008409,
+      "poster": "/ApMuukdDAOR2rgaFDZIcjfigi64.jpg",
+      "title": "The Bikeriders",
+      "year": 2024
+    },
+    "La Chimera": {
+      "id": 837335,
+      "poster": "/dV6SYHmmFLXQU7oKRfK4pOFCX6M.jpg",
+      "title": "La Chimera",
+      "year": 2023
+    },
+    "Spider-Man: No Way Home": {
+      "id": 634649,
+      "poster": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "title": "Spider-Man: No Way Home",
+      "year": 2021
+    },
+    "Past Lives": {
+      "id": 666277,
+      "poster": "/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg",
+      "title": "Past Lives",
+      "year": 2023
+    },
+    "Bull Durham": {
+      "id": 287,
+      "poster": "/q3T9bO6p74NcTxWOhdUA6fASQ5T.jpg",
+      "title": "Bull Durham",
+      "year": 1988
+    },
+    "Wimbledon": {
+      "id": 11823,
+      "poster": "/agiItFfsvNsjpinLGwjfpYOhLaX.jpg",
+      "title": "Wimbledon",
+      "year": 2004
+    },
+    "Battle of the Sexes": {
+      "id": 369192,
+      "poster": "/fWy0A3VojTCb0S2MKtEJjpquubF.jpg",
+      "title": "Battle of the Sexes",
+      "year": 2017
+    },
+    "Baby Driver": {
+      "id": 339403,
+      "poster": "/tYzFuYXmT8LOYASlFCkaPiAFAl0.jpg",
+      "title": "Baby Driver",
+      "year": 2017
+    },
+    "Civil War": {
+      "id": 929590,
+      "poster": "/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+      "title": "Civil War",
+      "year": 2024
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Ferrari": {
+      "id": 365620,
+      "poster": "/LyCOcGqOTyTmaXu2TK8LfGveIb.jpg",
+      "title": "Ferrari",
+      "year": 2023
+    },
+    "Saltburn": {
+      "id": 930564,
+      "poster": "/zGTfMwG112BC66mpaveVxoWPOaB.jpg",
+      "title": "Saltburn",
+      "year": 2023
+    },
+    "Imaginary": {
+      "id": 1125311,
+      "poster": "/bPCxkrCEGJmaYfvdXj0x3mCLbGr.jpg",
+      "title": "Imaginary",
+      "year": 2024
+    },
+    "The Fall Guy": {
+      "id": 746036,
+      "poster": "/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg",
+      "title": "The Fall Guy",
+      "year": 2024
+    },
+    "Everything Everywhere All at Once": {
+      "id": 545611,
+      "poster": "/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+      "title": "Everything Everywhere All at Once",
+      "year": 2022
+    },
+    "Beetlejuice Beetlejuice": {
+      "id": 917496,
+      "poster": "/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg",
+      "title": "Beetlejuice Beetlejuice",
+      "year": 2024
+    },
+    "The Matrix": {
+      "id": 603,
+      "poster": "/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+      "title": "The Matrix",
+      "year": 1999
+    },
+    "Guardians of the Galaxy": {
+      "id": 118340,
+      "poster": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "title": "Guardians of the Galaxy",
+      "year": 2014
+    },
+    "No Country for Old Men": {
+      "id": 6977,
+      "poster": "/uB7RDZby43Wvu8SKGHHTwGyTDBX.jpg",
+      "title": "No Country for Old Men",
+      "year": 2007
+    },
+    "Children of Men": {
+      "id": 9693,
+      "poster": "/k9IAS4TehZFcKi4HVByxZNPfqex.jpg",
+      "title": "Children of Men",
+      "year": 2006
+    },
+    "There Will Be Blood": {
+      "id": 7345,
+      "poster": "/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+      "title": "There Will Be Blood",
+      "year": 2007
+    },
+    "Uncle Boonmee Who Can Recall His Past Lives": {
+      "id": 38368,
+      "poster": "/kPFkC9EBvllCIuDTR7A0DSEK6gJ.jpg",
+      "title": "Uncle Boonmee Who Can Recall His Past Lives",
+      "year": 2010
+    }
+  },
+  "spotifyEpisodeId": "7mBwt8hBFUaD4GNQCnjwzD"
+}

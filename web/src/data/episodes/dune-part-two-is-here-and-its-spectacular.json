@@ -1,0 +1,336 @@
+{
+  "slug": "dune-part-two-is-here-and-its-spectacular",
+  "title": "‘Dune: Part Two’ Is Here and It’s Spectacular",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2024-03-01",
+  "runtimeMin": 97,
+  "format": "Sean Fennessey, Amanda Dobbins, and Chris Ryan review Denis Villeneuve's Dune: Part Two: 20 spoiler-free minutes, then a full spoiler dig into the sandworm rides, the water of life, Feyd-Rautha, and how skeptical the movie really is about its own messiah.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘Dune: Part Two’",
+      "note": "spoiler-free, then spoilers",
+      "films": [
+        {
+          "title": "Dune: Part Two",
+          "year": 2024,
+          "note": "Villeneuve's eleventh film, picking up minutes after Part One. The three call it the best thing they've seen so far this year and tell listeners to catch it in the biggest, loudest theater they can find. They praise the craft team (Greg Fraser, Hans Zimmer), the two mega-sequences back to back (Paul riding the Shai-Hulud, then the spice-harvester raid), and the black-and-white Giedi Prime gladiator scene, shot like Third Reich propaganda. Their recurring read: the movie is skeptical of Paul as white-savior messiah, and it ends by following Chani out the door rather than cheering the victory. Amanda's favorite performance is Rebecca Ferguson as Lady Jessica; Bardem's true-believer Stilgar is the comic engine. Complaints are minor: compressed third-act time, thin crowd VFX. Sean still ranks Sicario and Arrival above it as scripts."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Villeneuve's other films",
+      "films": [
+        "Dune",
+        "Sicario",
+        "Arrival",
+        "Enemy",
+        "Blade Runner 2049"
+      ]
+    },
+    {
+      "group": "Touchstones and comparisons",
+      "films": [
+        "Lawrence of Arabia",
+        "Star Wars",
+        "The Empire Strikes Back",
+        "The Lord of the Rings",
+        "The Godfather",
+        "Doctor Zhivago",
+        "Jurassic Park",
+        "Inception",
+        "Gladiator",
+        "Tenet"
+      ]
+    },
+    {
+      "group": "Also name-checked",
+      "films": [
+        "Oppenheimer",
+        "Barbie",
+        "Wonka",
+        "Anyone but You",
+        "Bob Marley: One Love",
+        "Elvis",
+        "The Bikeriders",
+        "Joker",
+        "Scream VI",
+        "The Dark Knight Rises",
+        "Skyfall",
+        "Ant-Man and the Wasp: Quantumania",
+        "Don't Look Up",
+        "Heat",
+        "The Great Escape",
+        "King Richard",
+        "The Matrix Resurrections"
+      ]
+    },
+    {
+      "group": "The 2022 Oscar race (Villeneuve's Part One snub)",
+      "films": [
+        "Belfast",
+        "The Power of the Dog",
+        "Drive My Car",
+        "Licorice Pizza",
+        "West Side Story"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Masters of the Air",
+      "Euphoria",
+      "Game of Thrones",
+      "Hard Knocks",
+      "Dune: Prophecy (the Bene Gesserit series)"
+    ],
+    "Talk shows": [
+      "The Today Show",
+      "The Graham Norton Show"
+    ],
+    "Ads": [
+      "One Shining Podcast"
+    ],
+    "Apps": [
+      "Cyber Dust",
+      "Alpha Brain"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Lord of the Rings": null
+  },
+  "tmdb": {
+    "Dune: Part Two": {
+      "id": 693134,
+      "poster": "/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+      "title": "Dune: Part Two",
+      "year": 2024
+    },
+    "Dune": {
+      "id": 438631,
+      "poster": "/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "title": "Dune",
+      "year": 2021
+    },
+    "Sicario": {
+      "id": 273481,
+      "poster": "/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+      "title": "Sicario",
+      "year": 2015
+    },
+    "Arrival": {
+      "id": 329865,
+      "poster": "/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
+      "title": "Arrival",
+      "year": 2016
+    },
+    "Enemy": {
+      "id": 181886,
+      "poster": "/vf40tyDRKZsBmaLsYeopzfFLzLx.jpg",
+      "title": "Enemy",
+      "year": 2014
+    },
+    "Blade Runner 2049": {
+      "id": 335984,
+      "poster": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+      "title": "Blade Runner 2049",
+      "year": 2017
+    },
+    "Lawrence of Arabia": {
+      "id": 947,
+      "poster": "/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg",
+      "title": "Lawrence of Arabia",
+      "year": 1962
+    },
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
+    },
+    "The Empire Strikes Back": {
+      "id": 1891,
+      "poster": "/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+      "title": "The Empire Strikes Back",
+      "year": 1980
+    },
+    "The Lord of the Rings": null,
+    "The Godfather": {
+      "id": 238,
+      "poster": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "title": "The Godfather",
+      "year": 1972
+    },
+    "Doctor Zhivago": {
+      "id": 907,
+      "poster": "/r0Iv2BiCFYDnzc6uU1q3AJ56igT.jpg",
+      "title": "Doctor Zhivago",
+      "year": 1965
+    },
+    "Jurassic Park": {
+      "id": 329,
+      "poster": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "title": "Jurassic Park",
+      "year": 1993
+    },
+    "Inception": {
+      "id": 27205,
+      "poster": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+      "title": "Inception",
+      "year": 2010
+    },
+    "Gladiator": {
+      "id": 98,
+      "poster": "/wN2xWp1eIwCKOD0BHTcErTBv1Uq.jpg",
+      "title": "Gladiator",
+      "year": 2000
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Wonka": {
+      "id": 787699,
+      "poster": "/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+      "title": "Wonka",
+      "year": 2023
+    },
+    "Anyone but You": {
+      "id": 1072790,
+      "poster": "/5qHoazZiaLe7oFBok7XlUhg96f2.jpg",
+      "title": "Anyone but You",
+      "year": 2023
+    },
+    "Bob Marley: One Love": {
+      "id": 802219,
+      "poster": "/1lQftpEARVVB9op4TaYiIbactzG.jpg",
+      "title": "Bob Marley: One Love",
+      "year": 2024
+    },
+    "Elvis": {
+      "id": 614934,
+      "poster": "/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg",
+      "title": "Elvis",
+      "year": 2022
+    },
+    "The Bikeriders": {
+      "id": 1008409,
+      "poster": "/ApMuukdDAOR2rgaFDZIcjfigi64.jpg",
+      "title": "The Bikeriders",
+      "year": 2024
+    },
+    "Joker": {
+      "id": 475557,
+      "poster": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "title": "Joker",
+      "year": 2019
+    },
+    "Scream VI": {
+      "id": 934433,
+      "poster": "/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg",
+      "title": "Scream VI",
+      "year": 2023
+    },
+    "The Dark Knight Rises": {
+      "id": 49026,
+      "poster": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+      "title": "The Dark Knight Rises",
+      "year": 2012
+    },
+    "Skyfall": {
+      "id": 37724,
+      "poster": "/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
+      "title": "Skyfall",
+      "year": 2012
+    },
+    "Ant-Man and the Wasp: Quantumania": {
+      "id": 640146,
+      "poster": "/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "year": 2023
+    },
+    "Don't Look Up": {
+      "id": 646380,
+      "poster": "/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+      "title": "Don't Look Up",
+      "year": 2021
+    },
+    "Heat": {
+      "id": 949,
+      "poster": "/e09dLw1Ljtccd2P4NsuUvVtS5du.jpg",
+      "title": "Heat",
+      "year": 1995
+    },
+    "The Great Escape": {
+      "id": 5925,
+      "poster": "/gBH4H8UMFxl139HaLz6lRuvsel8.jpg",
+      "title": "The Great Escape",
+      "year": 1963
+    },
+    "King Richard": {
+      "id": 614917,
+      "poster": "/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg",
+      "title": "King Richard",
+      "year": 2021
+    },
+    "The Matrix Resurrections": {
+      "id": 624860,
+      "poster": "/8c4a8kE7PizaGQQnditMmI1xbRp.jpg",
+      "title": "The Matrix Resurrections",
+      "year": 2021
+    },
+    "Belfast": {
+      "id": 777270,
+      "poster": "/3mInLZyPOVLsZRsBwNHi3UJXXnm.jpg",
+      "title": "Belfast",
+      "year": 2021
+    },
+    "The Power of the Dog": {
+      "id": 600583,
+      "poster": "/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg",
+      "title": "The Power of the Dog",
+      "year": 2021
+    },
+    "Drive My Car": {
+      "id": 758866,
+      "poster": "/a2lxHS6Au35k5XtFQEQW44yWHeH.jpg",
+      "title": "Drive My Car",
+      "year": 2021
+    },
+    "Licorice Pizza": {
+      "id": 718032,
+      "poster": "/ivXtvzfliGvoJ1DhSHIGyYBToWe.jpg",
+      "title": "Licorice Pizza",
+      "year": 2021
+    },
+    "West Side Story": {
+      "id": 511809,
+      "poster": "/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+      "title": "West Side Story",
+      "year": 2021
+    }
+  },
+  "spotifyEpisodeId": "6qQd3Orv8nnFjvEXjxLK0k"
+}

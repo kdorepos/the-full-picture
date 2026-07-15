@@ -1,0 +1,878 @@
+{
+  "slug": "the-1977-movie-draft",
+  "title": "The 1977 Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2024-03-19",
+  "runtimeMin": 104,
+  "spotifyEpisodeId": "1tR5rdGS8rbUJscoLjUeDp",
+  "format": "A three-person snake draft of 1977, the year of Star Wars, the tail end of New Hollywood, and Chris Ryan's birth. Sean, Amanda, and Chris each fill six category slots.",
+  "segments": [
+    {
+      "kind": "draft",
+      "heading": "The teams",
+      "draftOf": "the movies of 1977",
+      "categories": [
+        "Drama",
+        "Action / Thriller / Horror",
+        "Comedy",
+        "Blockbuster",
+        "Oscar Nominee",
+        "Wild Card"
+      ],
+      "teams": [
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Star Wars",
+              "year": 1977,
+              "category": "Oscar Nominee",
+              "note": "The first overall pick; a Best Picture nominee Chris says still slaps."
+            },
+            {
+              "title": "Opening Night",
+              "year": 1977,
+              "category": "Drama",
+              "note": "Cassavetes; Gena Rowlands as an actress coming apart during an out-of-town preview."
+            },
+            {
+              "title": "Rolling Thunder",
+              "year": 1977,
+              "category": "Action / Thriller / Horror",
+              "note": "John Flynn's Vietnam-vet revenge picture, a Tarantino touchstone; Tommy Lee Jones with a hook for a hand."
+            },
+            {
+              "title": "A Bridge Too Far",
+              "year": 1977,
+              "category": "Blockbuster",
+              "note": "Attenborough's cast-of-thousands Operation Market Garden epic, three-plus hours."
+            },
+            {
+              "title": "Slapshot",
+              "year": 1977,
+              "category": "Comedy",
+              "note": "Chris's favorite comedy ever: Newman coaching a doomed minor-league hockey team."
+            },
+            {
+              "title": "The Hills Have Eyes",
+              "year": 1977,
+              "category": "Wild Card",
+              "note": "Wes Craven; desert cannibals versus the Carter family."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "3 Women",
+              "year": 1977,
+              "category": "Drama",
+              "note": "Altman's Persona: Sissy Spacek and Shelley Duvall trading identities at a strange desert spa."
+            },
+            {
+              "title": "The Spy Who Loved Me",
+              "year": 1977,
+              "category": "Action / Thriller / Horror",
+              "note": "Amanda's favorite Roger Moore Bond: the ski-jump opening, Jaws, Carly Simon's theme."
+            },
+            {
+              "title": "Between the Lines",
+              "year": 1977,
+              "category": "Comedy",
+              "note": "Joan Micklin Silver's ensemble about a Boston alt-weekly facing a buyout; young Goldblum in a jumpsuit."
+            },
+            {
+              "title": "Saturday Night Fever",
+              "year": 1977,
+              "category": "Blockbuster",
+              "note": "Norman Wexler's hard-bitten drama that the culture turned into the disco movie; Travolta as emergent star."
+            },
+            {
+              "title": "Annie Hall",
+              "year": 1977,
+              "category": "Oscar Nominee",
+              "note": "The Best Picture winner; lights-out Diane Keaton and a template for the romantic comedy."
+            },
+            {
+              "title": "ABBA: The Movie",
+              "year": 1977,
+              "category": "Wild Card",
+              "note": "Lasse Hallström concert film; Amanda's Academy-defying pick."
+            }
+          ]
+        },
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "The American Friend",
+              "year": 1977,
+              "category": "Drama",
+              "note": "Wenders' Highsmith adaptation with Dennis Hopper as a cowboy-hatted Ripley and directors in bit parts."
+            },
+            {
+              "title": "Suspiria",
+              "year": 1977,
+              "category": "Action / Thriller / Horror",
+              "note": "Argento; a ballet school run by witches, the plot incoherent by design but the visuals still land."
+            },
+            {
+              "title": "The Kentucky Fried Movie",
+              "year": 1977,
+              "category": "Comedy",
+              "note": "Landis sketch anthology of fake trailers and interstitials: Mad Magazine as softcore."
+            },
+            {
+              "title": "Close Encounters of the Third Kind",
+              "year": 1977,
+              "category": "Blockbuster",
+              "note": "Spielberg's most personal film to date; a meditative family drama that happened to be an alien hit."
+            },
+            {
+              "title": "Sorcerer",
+              "year": 1977,
+              "category": "Oscar Nominee",
+              "note": "Friedkin's post-Exorcist bomb, since canonized; Roy Scheider hauling nitroglycerin over a rope bridge."
+            },
+            {
+              "title": "Eraserhead",
+              "year": 1977,
+              "category": "Wild Card",
+              "note": "Lynch's first feature, shaped by a rough Philadelphia neighborhood."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Julia",
+        "The Turning Point",
+        "The Goodbye Girl",
+        "Smokey and the Bandit",
+        "Freaky Friday",
+        "Fun with Dick and Jane",
+        "Looking for Mr. Goodbar",
+        "Pete's Dragon",
+        "Demon Seed",
+        "Capricorn One",
+        "Black Sunday",
+        "The Late Show",
+        "New York, New York",
+        "Cross of Iron",
+        "Soldier of Orange",
+        "The Last Wave",
+        "Bobby Deerfield",
+        "The Ascent",
+        "The Duellists",
+        "Martin",
+        "The Sentinel",
+        "Twilight's Last Gleaming",
+        "The Gauntlet",
+        "The Bad News Bears in Breaking Training",
+        "Grand Theft Auto",
+        "Jabberwocky"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Also mentioned",
+      "films": [
+        "Grease",
+        "Rocky",
+        "Rocky IV",
+        "Taxi Driver",
+        "The Fabelmans",
+        "Duel",
+        "The Sugarland Express",
+        "Jaws",
+        "Heat",
+        "The Philadelphia Story",
+        "Internal Affairs",
+        "Mr. Saturday Night",
+        "Joe",
+        "Serpico",
+        "The French Connection",
+        "The Exorcist",
+        "A Woman Under the Influence",
+        "The Killing of a Chinese Bookie",
+        "MASH",
+        "McCabe & Mrs. Miller",
+        "The Long Goodbye",
+        "Nashville",
+        "Buffalo Bill and the Indians",
+        "A Wedding",
+        "Quintet",
+        "A Perfect Couple",
+        "HealtH",
+        "Popeye",
+        "The Talented Mr. Ripley",
+        "Shock Corridor",
+        "The Naked Kiss",
+        "Rebel Without a Cause",
+        "Deliverance",
+        "The Texas Chain Saw Massacre",
+        "Assault on Precinct 13",
+        "High Noon",
+        "Nobody's Fool",
+        "Twilight",
+        "Moonraker",
+        "Octopussy",
+        "Diamonds Are Forever",
+        "Major League",
+        "Black Swan",
+        "Persona",
+        "A Hard Day's Night",
+        "Spice World",
+        "Herbie: Fully Loaded",
+        "Irish Wish",
+        "Immaculate",
+        "Road House",
+        "Dune",
+        "Avengers: Endgame",
+        "The Movie Critic",
+        "Heat 2",
+        "Singin' in the Rain",
+        "Moana 2",
+        "Debbie Does Dallas",
+        "The Birth of a Nation"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Felicity",
+      "Welcome Back, Kotter",
+      "The Mandalorian",
+      "The Curse",
+      "Ripley"
+    ],
+    "Ads": [
+      "Dear Felicity"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Ascent": 50183,
+    "Martin": 26517,
+    "The Sentinel": 18196,
+    "New York, New York": 12637,
+    "Fun with Dick and Jane": 24109,
+    "Freaky Friday": 16084,
+    "Pete's Dragon": 11114,
+    "Assault on Precinct 13": 17814,
+    "Twilight": 26269,
+    "Joe": 46691,
+    "Mr. Saturday Night": 890823,
+    "Buffalo Bill and the Indians": 42233
+  },
+  "tmdb": {
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
+    },
+    "Opening Night": {
+      "id": 33665,
+      "poster": "/5i1331f4Q2sNHUp9X3BOwWPS2Gg.jpg",
+      "title": "Opening Night",
+      "year": 1977
+    },
+    "Rolling Thunder": {
+      "id": 21948,
+      "poster": "/9iZjVn6Q5FJa92SQLcFMrskpES9.jpg",
+      "title": "Rolling Thunder",
+      "year": 1977
+    },
+    "A Bridge Too Far": {
+      "id": 5902,
+      "poster": "/lszOk3Xmh7qpLaM9J4K9E6ADLk1.jpg",
+      "title": "A Bridge Too Far",
+      "year": 1977
+    },
+    "Slapshot": {
+      "id": 11590,
+      "poster": "/k5dvEA7ajd90mf3KrF6m6LnYXOv.jpg",
+      "title": "Slap Shot",
+      "year": 1977
+    },
+    "The Hills Have Eyes": {
+      "id": 12262,
+      "poster": "/1G2DBIEkoS0JdCiOFIeR3mD8ROE.jpg",
+      "title": "The Hills Have Eyes",
+      "year": 1977
+    },
+    "3 Women": {
+      "id": 41662,
+      "poster": "/uL5Yg8MEgHGXymTaJBYXn9g0xsH.jpg",
+      "title": "3 Women",
+      "year": 1977
+    },
+    "The Spy Who Loved Me": {
+      "id": 691,
+      "poster": "/3ZxHKFxMYvAko680DsRgAZKWcLi.jpg",
+      "title": "The Spy Who Loved Me",
+      "year": 1977
+    },
+    "Between the Lines": {
+      "id": 175924,
+      "poster": "/wjSyo92neG1UG6PYAf2HYxNdB6g.jpg",
+      "title": "Between the Lines",
+      "year": 1977
+    },
+    "Saturday Night Fever": {
+      "id": 11009,
+      "poster": "/ylA7E5Md21aqgzxbwa2dFxX8LKV.jpg",
+      "title": "Saturday Night Fever",
+      "year": 1977
+    },
+    "Annie Hall": {
+      "id": 703,
+      "poster": "/dEtjPywhDbAXYjoFfhBC4U9unU7.jpg",
+      "title": "Annie Hall",
+      "year": 1977
+    },
+    "ABBA: The Movie": {
+      "id": 14336,
+      "poster": "/b6ELAAxwFiyiy8RreGQRDcleOkk.jpg",
+      "title": "ABBA: The Movie",
+      "year": 1977
+    },
+    "The American Friend": {
+      "id": 11222,
+      "poster": "/jHVe5EHDFj9ac2F2aU86sWTGKnn.jpg",
+      "title": "The American Friend",
+      "year": 1977
+    },
+    "Suspiria": {
+      "id": 11906,
+      "poster": "/sEcvc9h1X3hYZdFgtiiKMm6RB3f.jpg",
+      "title": "Suspiria",
+      "year": 1977
+    },
+    "The Kentucky Fried Movie": {
+      "id": 11598,
+      "poster": "/nb0ehRDq8DWSoNfIkEDATNDzwxQ.jpg",
+      "title": "The Kentucky Fried Movie",
+      "year": 1977
+    },
+    "Close Encounters of the Third Kind": {
+      "id": 840,
+      "poster": "/yaPx3cK9zGFX3SbcKwxWM1QIbUh.jpg",
+      "title": "Close Encounters of the Third Kind",
+      "year": 1977
+    },
+    "Sorcerer": {
+      "id": 38985,
+      "poster": "/2b7oexm173SF1FSEq0DdgxZZNRH.jpg",
+      "title": "Sorcerer",
+      "year": 1977
+    },
+    "Eraserhead": {
+      "id": 985,
+      "poster": "/mxveW3mGVc0DzLdOmtkZsgd7c3B.jpg",
+      "title": "Eraserhead",
+      "year": 1977
+    },
+    "Julia": {
+      "id": 42222,
+      "poster": "/qHtPzs9eVCilp88c1arq73gH6xk.jpg",
+      "title": "Julia",
+      "year": 1977
+    },
+    "The Turning Point": {
+      "id": 61280,
+      "poster": "/6CD90BQEDexEIMqIwMSnbJStF5x.jpg",
+      "title": "The Turning Point",
+      "year": 1977
+    },
+    "The Goodbye Girl": {
+      "id": 14741,
+      "poster": "/xdaPFRARLPJuSdQIfxKVJSCOsmD.jpg",
+      "title": "The Goodbye Girl",
+      "year": 1977
+    },
+    "Smokey and the Bandit": {
+      "id": 11006,
+      "poster": "/w4RqNZtVHB5Uzlnl6zQlMHft7QI.jpg",
+      "title": "Smokey and the Bandit",
+      "year": 1977
+    },
+    "Freaky Friday": {
+      "id": 16084,
+      "poster": "/8kHZmN4Ao70LTgaiUti23Zl7fFq.jpg",
+      "title": "Freaky Friday",
+      "year": 1976
+    },
+    "Fun with Dick and Jane": {
+      "id": 24109,
+      "poster": "/obBXkCU29eRzbVX5erjrAxugOpN.jpg",
+      "title": "Fun with Dick and Jane",
+      "year": 1977
+    },
+    "Looking for Mr. Goodbar": {
+      "id": 37749,
+      "poster": "/j1qKNKRvDEhnl0PQS26PirNF81v.jpg",
+      "title": "Looking for Mr. Goodbar",
+      "year": 1977
+    },
+    "Pete's Dragon": {
+      "id": 11114,
+      "poster": "/noShGNQKAgMqNanJL5EiZlf6LCp.jpg",
+      "title": "Pete's Dragon",
+      "year": 1977
+    },
+    "Demon Seed": {
+      "id": 18775,
+      "poster": "/8rAbL1cI5TYB1RmXsPPHnLwnDsi.jpg",
+      "title": "Demon Seed",
+      "year": 1977
+    },
+    "Capricorn One": {
+      "id": 11935,
+      "poster": "/bxsCARg2rxQ2PzFW5ZsADLT9e9c.jpg",
+      "title": "Capricorn One",
+      "year": 1977
+    },
+    "Black Sunday": {
+      "id": 50374,
+      "poster": "/4rMXQICfFEsSGHCjh3bJj7K33sZ.jpg",
+      "title": "Black Sunday",
+      "year": 1977
+    },
+    "The Late Show": {
+      "id": 42228,
+      "poster": "/qii8jbAjid9MzBx7tUJf7URf8LO.jpg",
+      "title": "The Late Show",
+      "year": 1977
+    },
+    "New York, New York": {
+      "id": 12637,
+      "poster": "/1nD40aUcPAxYdE1WxERrTjZuFGe.jpg",
+      "title": "New York, New York",
+      "year": 1977
+    },
+    "Cross of Iron": {
+      "id": 10839,
+      "poster": "/fR6pqh5aFn0fawsn7sR2zC15swx.jpg",
+      "title": "Cross of Iron",
+      "year": 1977
+    },
+    "Soldier of Orange": {
+      "id": 633,
+      "poster": "/kdlk0cz97i8Fyb1ZFpp9tokHxGD.jpg",
+      "title": "Soldier of Orange",
+      "year": 1977
+    },
+    "The Last Wave": {
+      "id": 72277,
+      "poster": "/7UwdJ0EMXirUuNFaohfK023Nuyr.jpg",
+      "title": "The Last Wave",
+      "year": 1977
+    },
+    "Bobby Deerfield": {
+      "id": 42217,
+      "poster": "/99l4UONs9galDQSVJBlZTaMhudl.jpg",
+      "title": "Bobby Deerfield",
+      "year": 1977
+    },
+    "The Ascent": {
+      "id": 50183,
+      "poster": "/hJOju5XZfmq4Lg5dPa8IPVY3mDt.jpg",
+      "title": "The Ascent",
+      "year": 1977
+    },
+    "The Duellists": {
+      "id": 19067,
+      "poster": "/nqjMYlUXnmmO8Jqucow4nj9alE5.jpg",
+      "title": "The Duellists",
+      "year": 1977
+    },
+    "Martin": {
+      "id": 26517,
+      "poster": "/2UaQChRF3leBWlxYgVnUim7Conj.jpg",
+      "title": "Martin",
+      "year": 1978
+    },
+    "The Sentinel": {
+      "id": 18196,
+      "poster": "/zoLuOdAD63prJP0o3Z0zRaAfwXE.jpg",
+      "title": "The Sentinel",
+      "year": 1977
+    },
+    "Twilight's Last Gleaming": {
+      "id": 75938,
+      "poster": "/1qVUuzYepmj3lGyTgM43gztCH14.jpg",
+      "title": "Twilight's Last Gleaming",
+      "year": 1977
+    },
+    "The Gauntlet": {
+      "id": 17689,
+      "poster": "/hYXkHixmH2W4hXA0qVJpT4ONPt1.jpg",
+      "title": "The Gauntlet",
+      "year": 1977
+    },
+    "The Bad News Bears in Breaking Training": {
+      "id": 19050,
+      "poster": "/aGShIKIKWDCPVGDfeEXwTfmE4mi.jpg",
+      "title": "The Bad News Bears in Breaking Training",
+      "year": 1977
+    },
+    "Grand Theft Auto": {
+      "id": 19731,
+      "poster": "/1EiL5frCBC9BQV9LHau4bAzgMOE.jpg",
+      "title": "Grand Theft Auto",
+      "year": 1977
+    },
+    "Jabberwocky": {
+      "id": 11834,
+      "poster": "/kprcqmFxWPU45L1ZnMXO5yPPMVA.jpg",
+      "title": "Jabberwocky",
+      "year": 1977
+    },
+    "Grease": {
+      "id": 621,
+      "poster": "/2rM7fQKpb7cs1Iq7IBqub9LFDzJ.jpg",
+      "title": "Grease",
+      "year": 1978
+    },
+    "Rocky": {
+      "id": 1366,
+      "poster": "/aYtBYWqCdUqcnoodWJdcTG3pFev.jpg",
+      "title": "Rocky",
+      "year": 1976
+    },
+    "Rocky IV": {
+      "id": 1374,
+      "poster": "/2MHUit4H6OK5adcOjnCN6suCKOl.jpg",
+      "title": "Rocky IV",
+      "year": 1985
+    },
+    "Taxi Driver": {
+      "id": 103,
+      "poster": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "title": "Taxi Driver",
+      "year": 1976
+    },
+    "The Fabelmans": {
+      "id": 804095,
+      "poster": "/h7llKkqkkJtJrTOaDLuVeUYDQ7I.jpg",
+      "title": "The Fabelmans",
+      "year": 2022
+    },
+    "Duel": {
+      "id": 839,
+      "poster": "/w9Vk1Txx14vWvACELFYFlixrsfr.jpg",
+      "title": "Duel",
+      "year": 1971
+    },
+    "The Sugarland Express": {
+      "id": 5121,
+      "poster": "/csahjHhtJ9NzFKcxVcw7S4Pyfj.jpg",
+      "title": "The Sugarland Express",
+      "year": 1974
+    },
+    "Jaws": {
+      "id": 578,
+      "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "title": "Jaws",
+      "year": 1975
+    },
+    "Heat": {
+      "id": 949,
+      "poster": "/e09dLw1Ljtccd2P4NsuUvVtS5du.jpg",
+      "title": "Heat",
+      "year": 1995
+    },
+    "The Philadelphia Story": {
+      "id": 981,
+      "poster": "/dKUubjvxO78XDts6VP1Ggcp4R9O.jpg",
+      "title": "The Philadelphia Story",
+      "year": 1940
+    },
+    "Internal Affairs": {
+      "id": 11060,
+      "poster": "/A4pH8DiNFEf2AgXkM4zk3ZpblV.jpg",
+      "title": "Internal Affairs",
+      "year": 1990
+    },
+    "Mr. Saturday Night": {
+      "id": 890823,
+      "poster": "/e5bLLcoTbZLgzMHFizVS7y3Hwdn.jpg",
+      "title": "Mr. Saturday Night",
+      "year": 2021
+    },
+    "Joe": {
+      "id": 46691,
+      "poster": "/2x4YCP8uV4cKOS5ZEKt1Cc1h4eF.jpg",
+      "title": "Joe",
+      "year": 1970
+    },
+    "Serpico": {
+      "id": 9040,
+      "poster": "/pRagfd10PPWryFRSzLPIivfAXHJ.jpg",
+      "title": "Serpico",
+      "year": 1973
+    },
+    "The French Connection": {
+      "id": 1051,
+      "poster": "/pH4saPwMjhnVGwmSH6RkMaHrt3s.jpg",
+      "title": "The French Connection",
+      "year": 1971
+    },
+    "The Exorcist": {
+      "id": 9552,
+      "poster": "/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
+      "title": "The Exorcist",
+      "year": 1973
+    },
+    "A Woman Under the Influence": {
+      "id": 29845,
+      "poster": "/6EJ4JoTxnH1QmGTE9pPzgtW1cLW.jpg",
+      "title": "A Woman Under the Influence",
+      "year": 1974
+    },
+    "The Killing of a Chinese Bookie": {
+      "id": 32040,
+      "poster": "/lShPFOAbQ6y6oFYUfecmrj7BUu6.jpg",
+      "title": "The Killing of a Chinese Bookie",
+      "year": 1976
+    },
+    "MASH": {
+      "id": 651,
+      "poster": "/on8Q9LhtHYNhmITjUMpgOUkIG8o.jpg",
+      "title": "M*A*S*H",
+      "year": 1970
+    },
+    "McCabe & Mrs. Miller": {
+      "id": 29005,
+      "poster": "/oR839yRsFAiQHwJ78hdKZYjEBg8.jpg",
+      "title": "McCabe & Mrs. Miller",
+      "year": 1971
+    },
+    "The Long Goodbye": {
+      "id": 1847,
+      "poster": "/16Gu0Vg7tBdoRxg1NJDwlTKx1hG.jpg",
+      "title": "The Long Goodbye",
+      "year": 1973
+    },
+    "Nashville": {
+      "id": 3121,
+      "poster": "/twl4ovyjb8muFKvZmcCDzPR0hy1.jpg",
+      "title": "Nashville",
+      "year": 1975
+    },
+    "Buffalo Bill and the Indians": {
+      "id": 42233,
+      "poster": "/zyQZAJogUOECWM46v4N6wGDHd20.jpg",
+      "title": "Buffalo Bill and the Indians, or Sitting Bull's History Lesson",
+      "year": 1976
+    },
+    "A Wedding": {
+      "id": 45695,
+      "poster": "/u7cs5RMLbnA6a0u87ychiyHdxbV.jpg",
+      "title": "A Wedding",
+      "year": 1978
+    },
+    "Quintet": {
+      "id": 45169,
+      "poster": "/kjAzxXZzzoixPca518dwKRnJ0Km.jpg",
+      "title": "Quintet",
+      "year": 1979
+    },
+    "A Perfect Couple": {
+      "id": 104449,
+      "poster": "/2fKN85KaV925REHSENoegno0ASN.jpg",
+      "title": "A Perfect Couple",
+      "year": 1979
+    },
+    "HealtH": {
+      "id": 91781,
+      "poster": "/u3cULqjYm8s7sShpqjKzynqXqDS.jpg",
+      "title": "HealtH",
+      "year": 1980
+    },
+    "Popeye": {
+      "id": 11335,
+      "poster": "/hCCp4pESgYY6uTFARYf4UYV1BdU.jpg",
+      "title": "Popeye",
+      "year": 1980
+    },
+    "The Talented Mr. Ripley": {
+      "id": 1213,
+      "poster": "/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg",
+      "title": "The Talented Mr. Ripley",
+      "year": 1999
+    },
+    "Shock Corridor": {
+      "id": 25504,
+      "poster": "/7jFI7GdduTss2SdgApcsiWtU5gA.jpg",
+      "title": "Shock Corridor",
+      "year": 1963
+    },
+    "The Naked Kiss": {
+      "id": 26031,
+      "poster": "/fOChacazF29zAhs2hDxyJ05XUaY.jpg",
+      "title": "The Naked Kiss",
+      "year": 1964
+    },
+    "Rebel Without a Cause": {
+      "id": 221,
+      "poster": "/yHStsC8rRRfIjqRN38BQsLh6S7k.jpg",
+      "title": "Rebel Without a Cause",
+      "year": 1955
+    },
+    "Deliverance": {
+      "id": 10669,
+      "poster": "/2TrAzNJlHyNYYSkQf6asg3rs2Xr.jpg",
+      "title": "Deliverance",
+      "year": 1972
+    },
+    "The Texas Chain Saw Massacre": {
+      "id": 30497,
+      "poster": "/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg",
+      "title": "The Texas Chain Saw Massacre",
+      "year": 1974
+    },
+    "Assault on Precinct 13": {
+      "id": 17814,
+      "poster": "/RtGDEmXbSxE8NThCCY1SXFXLLw.jpg",
+      "title": "Assault on Precinct 13",
+      "year": 1976
+    },
+    "High Noon": {
+      "id": 288,
+      "poster": "/qETSMQ4IXBSAS409Z9OL0ppXWTW.jpg",
+      "title": "High Noon",
+      "year": 1952
+    },
+    "Nobody's Fool": {
+      "id": 11593,
+      "poster": "/xyAXFy6mOfgZcVWbceCeuTYadeq.jpg",
+      "title": "Nobody's Fool",
+      "year": 1994
+    },
+    "Twilight": {
+      "id": 26269,
+      "poster": "/jepRBZNXgsINrbtSiSEdtCYbRMM.jpg",
+      "title": "Twilight",
+      "year": 1998
+    },
+    "Moonraker": {
+      "id": 698,
+      "poster": "/6LrJdXNmu5uHOVALZxVYd44Lva0.jpg",
+      "title": "Moonraker",
+      "year": 1979
+    },
+    "Octopussy": {
+      "id": 700,
+      "poster": "/yoosZitM9igSk3Sd0sBXIhKlAh1.jpg",
+      "title": "Octopussy",
+      "year": 1983
+    },
+    "Diamonds Are Forever": {
+      "id": 681,
+      "poster": "/ooDT0eKrWCxJCsn9JehPkD0QYNj.jpg",
+      "title": "Diamonds Are Forever",
+      "year": 1971
+    },
+    "Major League": {
+      "id": 9942,
+      "poster": "/ypUedY9zX4nGGf1lQv1UGc8PhPA.jpg",
+      "title": "Major League",
+      "year": 1989
+    },
+    "Black Swan": {
+      "id": 44214,
+      "poster": "/viWheBd44bouiLCHgNMvahLThqx.jpg",
+      "title": "Black Swan",
+      "year": 2010
+    },
+    "Persona": {
+      "id": 797,
+      "poster": "/fVA5hTcAOlW2LJyelViQfWHxUcx.jpg",
+      "title": "Persona",
+      "year": 1966
+    },
+    "A Hard Day's Night": {
+      "id": 704,
+      "poster": "/6Ulsccp2VkaVU5qbya3bxm9JG4x.jpg",
+      "title": "A Hard Day's Night",
+      "year": 1964
+    },
+    "Spice World": {
+      "id": 6116,
+      "poster": "/vKiAnV1QAGIJP38vatwCZp4dCrH.jpg",
+      "title": "Spice World",
+      "year": 1997
+    },
+    "Herbie: Fully Loaded": {
+      "id": 11451,
+      "poster": "/7lTfTZ8CDfXw09eAv3OOvsbCVgs.jpg",
+      "title": "Herbie Fully Loaded",
+      "year": 2005
+    },
+    "Irish Wish": {
+      "id": 1019420,
+      "poster": "/v4Bb70dpIIQoEnZAHnm3nzCPauU.jpg",
+      "title": "Irish Wish",
+      "year": 2024
+    },
+    "Immaculate": {
+      "id": 1041613,
+      "poster": "/zyopv7D5j7cfswG0NYiA14qAdPC.jpg",
+      "title": "Immaculate",
+      "year": 2024
+    },
+    "Road House": {
+      "id": 359410,
+      "poster": "/fDEdtS4P0gJsxHDIt8dG8TR5dx1.jpg",
+      "title": "Road House",
+      "year": 2024
+    },
+    "Dune": {
+      "id": 438631,
+      "poster": "/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "title": "Dune",
+      "year": 2021
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "The Movie Critic": null,
+    "Heat 2": {
+      "id": 1047807,
+      "poster": "/8nVqwnRrTQZatWqaVtobjmFUdbJ.jpg",
+      "title": "Heat 2",
+      "year": null
+    },
+    "Singin' in the Rain": {
+      "id": 872,
+      "poster": "/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+      "title": "Singin' in the Rain",
+      "year": 1952
+    },
+    "Moana 2": {
+      "id": 1241982,
+      "poster": "/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+      "title": "Moana 2",
+      "year": 2024
+    },
+    "Debbie Does Dallas": null,
+    "The Birth of a Nation": {
+      "id": 618,
+      "poster": "/pNpOXpQI5GSUfiWypubYtMh9928.jpg",
+      "title": "The Birth of a Nation",
+      "year": 1915
+    }
+  }
+}

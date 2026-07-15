@@ -110,8 +110,13 @@ def main():
         tmdb[title] = search(clean(title), year)
         time.sleep(0.05)
 
-    # Reviewer-confirmed overrides win over exact-title search (pin the right same-title film).
+    # Reviewer-confirmed overrides win over exact-title search (pin the right same-title film,
+    # or null to force "no match" when a title collides with a real but wrong film — e.g. a song
+    # nominee whose name is also a movie).
     for title, mid in ep.get("tmdbOverrides", {}).items():
+        if mid is None:
+            tmdb[title] = None
+            continue
         m = by_id(mid)
         if m:
             tmdb[title] = m

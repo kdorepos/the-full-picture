@@ -1,0 +1,352 @@
+{
+  "slug": "five-ways-well-watch-movies-in-the-future-and-the-idea-of-yo",
+  "title": "Five Ways We’ll Watch Movies in the Future and ‘The Idea of You’",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2024-05-07",
+  "runtimeMin": 93,
+  "format": "Over ten days Sean Fennessey and Amanda Dobbins watch five movies in five formats: 4DX, ScreenX, IMAX, the Apple Vision Pro, and the couch. Then they land on 'The Idea of You,' the Anne Hathaway rom-com Amazon sent straight to streaming.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Five ways we’ll watch movies",
+      "note": "four formats, four test films",
+      "films": [
+        {
+          "title": "The Fall Guy",
+          "year": 2024,
+          "note": "The 4DX test. Hydraulic four-seat rigs that lift, shake, and tumble with every stunt, plus wind, strobes, and a water on/off button on the armrest. Sean calls it worse than a car with no suspension on an unpaved road, dangerous for a man in his 40s with bad posture. Amanda bailed to the floor five minutes in and watched him get jerked around instead. Sean's verdict: half-baked and a little desperate, the theaters admitting the movies aren't enough. Both later rewatched it in a normal seat and had a fine time; it opened to $28.5 million against a $35 million projection."
+        },
+        {
+          "title": "Godzilla x Kong: The New Empire",
+          "year": 2024,
+          "note": "The ScreenX test. The main screen plus two more slapped on the side walls for a 270-degree image, developed by CJ CGV (also behind 4DX). Roughly 70 percent of the movie plays on the center screen only and cuts to the wide format at random; the side panels look lower-quality, mounted flat with no depth. Underwhelming to both, though the pyramids in full panorama paid off. Colloquially 'sideways IMAX,' which Sean thinks does IMAX a disservice."
+        },
+        {
+          "title": "Challengers",
+          "year": 2024,
+          "note": "The IMAX test, at the Burbank 16, with Sean's wife Eileen along. The clear winner: the Justin Kuritzkes-scripted, Guadagnino tennis movie rips, the Trent Reznor and Atticus Ross score is deafening, and the close-ups (pores, sweat drops the size of your head) suit the format as well as any action epic. Sean argues a movie this visually specific earns IMAX more than a Fall Guy does; someone on Twitter wanted the Fall Guy screens taken away and Challengers put back."
+        },
+        {
+          "title": "Barbie",
+          "year": 2023,
+          "note": "The Apple Vision Pro test. Amanda borrowed Van Lathan's headset and watched about 20 minutes, through Weird Barbie's house and the Dua Lipa dance sequence, frozen stiff for fear that moving would turn it off. Impressive but heavy and intimidating; a $3,500 first-generation device. Sean had done an Apple-hosted demo months earlier and was sold on the airplane use case, plus theater mode and an immersive dinosaur experience, while worrying it turns everyone into the pod people from WALL-E."
+        },
+        {
+          "title": "The Super Mario Bros. Movie",
+          "year": 2023,
+          "note": "What Apple queued up for Sean's Vision Pro theater-mode demo, projected as if on a big screen in a virtual auditorium. A movie he doesn't much like, but the effect was cool enough that he was taken away by ten minutes of it."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "‘The Idea of You’",
+      "note": "the fifth way: straight to streaming",
+      "films": [
+        {
+          "title": "The Idea of You",
+          "year": 2024,
+          "note": "The couch test: a Michael Showalter rom-com from Robinne Lee's novel that Amazon dropped straight to Prime Video, the kind of star vehicle that at any point in the last 70 years would have gone to theaters. Anne Hathaway is Solène, a 40-year-old gallery owner and single mom who falls into a whirlwind with 24-year-old Hayes Campbell (Nicholas Galitzine), lead of the boy band August Moon, after a Coachella meet-and-greet. Both had a better time than expected. Amanda calls it one of the best streaming-movie experiences in a while, more Rami than commie, resting almost entirely on Hathaway. The knock: she's too radiant to sell the character's fragility, and the age-gap stakes wobble when everyone looks the same age. Sean flags the film's changed ending (in the book they stay broken up; the movie reunites them). A running joke on watching-at-home habits: pausing, phone-checking during the boy-band numbers, texting friends who'd already seen it."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Original-ish hits, as box-office comps",
+      "films": [
+        "The Lost City",
+        "Bullet Train",
+        "Anyone but You",
+        "Elemental"
+      ]
+    },
+    {
+      "group": "The summer ahead",
+      "films": [
+        "Furiosa: A Mad Max Saga",
+        "The Garfield Movie",
+        "Kingdom of the Planet of the Apes",
+        "IF"
+      ]
+    },
+    {
+      "group": "Format touchstones",
+      "films": [
+        "Avatar: The Way of Water",
+        "Top Gun: Maverick",
+        "Dune: Part Two",
+        "Oppenheimer",
+        "2001: A Space Odyssey",
+        "Interstellar",
+        "Marriage Story"
+      ]
+    },
+    {
+      "group": "Showalter, Hathaway, and the streaming lane",
+      "films": [
+        "The Big Sick",
+        "The Eyes of Tammy Faye",
+        "Les Misérables",
+        "The Princess Diaries",
+        "The Devil Wears Prada",
+        "The Gray Man",
+        "Drive-Away Dolls"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Heat",
+        "There Will Be Blood",
+        "Last Action Hero",
+        "Back to the Future",
+        "Virtuosity",
+        "Disclosure",
+        "Blade Runner 2049",
+        "I Saw the TV Glow"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Graham Norton Show",
+      "The Roast of Tom Brady",
+      "Beverly Hills, 90210"
+    ],
+    "Podcasts / web": [
+      "The Rewatchables",
+      "The Watch",
+      "Higher Learning",
+      "Ringer Movies (YouTube)",
+      "The 1999 Movie Draft"
+    ],
+    "Ads": [
+      "Bandsplain"
+    ]
+  },
+  "tmdb": {
+    "The Fall Guy": {
+      "id": 746036,
+      "poster": "/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg",
+      "title": "The Fall Guy",
+      "year": 2024
+    },
+    "Godzilla x Kong: The New Empire": {
+      "id": 823464,
+      "poster": "/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
+      "title": "Godzilla x Kong: The New Empire",
+      "year": 2024
+    },
+    "Challengers": {
+      "id": 937287,
+      "poster": "/H6vke7zGiuLsz4v4RPeReb9rsv.jpg",
+      "title": "Challengers",
+      "year": 2024
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "The Super Mario Bros. Movie": {
+      "id": 502356,
+      "poster": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+      "title": "The Super Mario Bros. Movie",
+      "year": 2023
+    },
+    "The Idea of You": {
+      "id": 843527,
+      "poster": "/Y5P4Q3q8nrruZ9aD3wXeJS2Plg.jpg",
+      "title": "The Idea of You",
+      "year": 2024
+    },
+    "The Lost City": {
+      "id": 752623,
+      "poster": "/rnheO8cFvCYcmZsDrBoabJbKLFE.jpg",
+      "title": "The Lost City",
+      "year": 2022
+    },
+    "Bullet Train": {
+      "id": 718930,
+      "poster": "/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg",
+      "title": "Bullet Train",
+      "year": 2022
+    },
+    "Anyone but You": {
+      "id": 1072790,
+      "poster": "/5qHoazZiaLe7oFBok7XlUhg96f2.jpg",
+      "title": "Anyone but You",
+      "year": 2023
+    },
+    "Elemental": {
+      "id": 976573,
+      "poster": "/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg",
+      "title": "Elemental",
+      "year": 2023
+    },
+    "Furiosa: A Mad Max Saga": {
+      "id": 786892,
+      "poster": "/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
+      "title": "Furiosa: A Mad Max Saga",
+      "year": 2024
+    },
+    "The Garfield Movie": {
+      "id": 748783,
+      "poster": "/p6AbOJvMQhBmffd0PIv0u8ghWeY.jpg",
+      "title": "The Garfield Movie",
+      "year": 2024
+    },
+    "Kingdom of the Planet of the Apes": {
+      "id": 653346,
+      "poster": "/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
+      "title": "Kingdom of the Planet of the Apes",
+      "year": 2024
+    },
+    "IF": {
+      "id": 639720,
+      "poster": "/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg",
+      "title": "IF",
+      "year": 2024
+    },
+    "Avatar: The Way of Water": {
+      "id": 76600,
+      "poster": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "title": "Avatar: The Way of Water",
+      "year": 2022
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Dune: Part Two": {
+      "id": 693134,
+      "poster": "/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+      "title": "Dune: Part Two",
+      "year": 2024
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "2001: A Space Odyssey": {
+      "id": 62,
+      "poster": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "title": "2001: A Space Odyssey",
+      "year": 1968
+    },
+    "Interstellar": {
+      "id": 157336,
+      "poster": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+      "title": "Interstellar",
+      "year": 2014
+    },
+    "Marriage Story": {
+      "id": 492188,
+      "poster": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+      "title": "Marriage Story",
+      "year": 2019
+    },
+    "The Big Sick": {
+      "id": 416477,
+      "poster": "/9fJTT8pBxxQsFILJHTtHhdYFr77.jpg",
+      "title": "The Big Sick",
+      "year": 2017
+    },
+    "The Eyes of Tammy Faye": {
+      "id": 601470,
+      "poster": "/yL3IAfOxUH7h1Og9kxG3czxa4XV.jpg",
+      "title": "The Eyes of Tammy Faye",
+      "year": 2021
+    },
+    "Les Misérables": {
+      "id": 82695,
+      "poster": "/6CuzBs2Lb8At7qQr64mLXg2RYRb.jpg",
+      "title": "Les Misérables",
+      "year": 2012
+    },
+    "The Princess Diaries": {
+      "id": 9880,
+      "poster": "/7axhsbEzFan6HQQ1aMOy7w3CFRx.jpg",
+      "title": "The Princess Diaries",
+      "year": 2001
+    },
+    "The Devil Wears Prada": {
+      "id": 350,
+      "poster": "/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+      "title": "The Devil Wears Prada",
+      "year": 2006
+    },
+    "The Gray Man": {
+      "id": 725201,
+      "poster": "/8cXbitsS6dWQ5gfMTZdorpAAzEH.jpg",
+      "title": "The Gray Man",
+      "year": 2022
+    },
+    "Drive-Away Dolls": {
+      "id": 957304,
+      "poster": "/6QPKmqntFgLm6sB47AtSelEGGPM.jpg",
+      "title": "Drive-Away Dolls",
+      "year": 2024
+    },
+    "Heat": {
+      "id": 949,
+      "poster": "/e09dLw1Ljtccd2P4NsuUvVtS5du.jpg",
+      "title": "Heat",
+      "year": 1995
+    },
+    "There Will Be Blood": {
+      "id": 7345,
+      "poster": "/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+      "title": "There Will Be Blood",
+      "year": 2007
+    },
+    "Last Action Hero": {
+      "id": 9593,
+      "poster": "/vkhEaWAv5j3qgrOGp3BgMeiYPKj.jpg",
+      "title": "Last Action Hero",
+      "year": 1993
+    },
+    "Back to the Future": {
+      "id": 105,
+      "poster": "/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+      "title": "Back to the Future",
+      "year": 1985
+    },
+    "Virtuosity": {
+      "id": 9271,
+      "poster": "/5emgnXYrXjqyiup2JsvtuENseiV.jpg",
+      "title": "Virtuosity",
+      "year": 1995
+    },
+    "Disclosure": {
+      "id": 8984,
+      "poster": "/9e8cp3ho2aZrHMFgitysCoJxXwP.jpg",
+      "title": "Disclosure",
+      "year": 1994
+    },
+    "Blade Runner 2049": {
+      "id": 335984,
+      "poster": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+      "title": "Blade Runner 2049",
+      "year": 2017
+    },
+    "I Saw the TV Glow": {
+      "id": 858017,
+      "poster": "/hS4GYkYpN1rfl4GIxyc02sCyfAj.jpg",
+      "title": "I Saw the TV Glow",
+      "year": 2024
+    }
+  },
+  "spotifyEpisodeId": "3qioB3MRGkExYKt9t7YZ2w"
+}

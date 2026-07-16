@@ -1,0 +1,202 @@
+{
+  "slug": "a-cure-for-wellness-director-gore-verbinski-on-making-someth",
+  "title": "'A Cure for Wellness' Director Gore Verbinski on Making Something Outside the Box and the Future of the Industry",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2017-02-17",
+  "runtimeMin": 30,
+  "format": "Sean Fennessey talks to Gore Verbinski the week 'A Cure for Wellness' opens: building the spa's horror out of old castles and a Berlin hospital, why the mid-budget movie is disappearing, and how 'Rango' and the 'Pirates' trilogy got made.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Gore Verbinski on",
+      "films": [
+        {
+          "title": "A Cure for Wellness",
+          "year": 2017,
+          "note": "Verbinski on a health-spa horror he calls 'not immediately reducible': Dane DeHaan's Lockhart summoned to a wellness castle in the Alps that treats diagnosis as absolution. Shot across castles in Germany, Austria, Switzerland, the Czech Republic and Romania, with interiors in a Berlin-area hospital where Hitler was treated for mustard gas after WWI. A stage fire burned the set down and cost six weeks."
+        },
+        {
+          "title": "Mouse Hunt",
+          "year": 1997,
+          "note": "His first feature; he says he overly storyboarded it and left 40 minutes on the editing-room floor."
+        },
+        {
+          "title": "The Mexican",
+          "year": 2001,
+          "note": "The follow-up, where he swung the other way and kept it loose. He now thinks he stopped working on the script too early."
+        },
+        {
+          "title": "The Ring",
+          "year": 2002,
+          "note": "Cited as the scale he finds cathartic to return to after big-IP tentpoles; a 'Rings' sequel opens the same year as this interview."
+        },
+        {
+          "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+          "year": 2003,
+          "note": "The first Pirates, greenlit on the premise that a pirate movie 'will never work,' which is exactly what excited him."
+        },
+        {
+          "title": "Pirates of the Caribbean: Dead Man's Chest",
+          "year": 2006,
+          "note": "The 'second pirate movie'; what scared him was that the studio wasn't nervous anymore, telling him to 'just keep doing that thing you're doing.'"
+        },
+        {
+          "title": "Pirates of the Caribbean: At World's End",
+          "year": 2007,
+          "note": "Closing out his trilogy; three Pirates felt like the right journey before there was no more personal growth left in it."
+        },
+        {
+          "title": "Rango",
+          "year": 2011,
+          "note": "The Oscar-winning animated film he made 'startup'-style: six artists in his ranch house, 18 months on a story reel recorded on a Mac, final animation at ILM, none of whom had made an animated movie. Sean calls it a top-10 film of all time."
+        },
+        {
+          "title": "The Lone Ranger",
+          "year": 2013,
+          "note": "Referenced as another massive production; he describes managing a set the size of Pirates or this without going brusque or loud."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Cited as influences",
+      "films": [
+        "The Servant",
+        "The Tenant",
+        "Don't Look Now",
+        "The Innocents",
+        "The Shining"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "E.T. the Extra-Terrestrial",
+        "Rings",
+        "Pirates of the Caribbean: Dead Men Tell No Tales"
+      ]
+    }
+  ],
+  "excluded": {
+    "Books": [
+      "The Magic Mountain"
+    ],
+    "Podcasts": [
+      "The Watch"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Servant": 42987
+  },
+  "tmdb": {
+    "A Cure for Wellness": {
+      "id": 340837,
+      "poster": "/8QWJtne0pTsNoJ86KE993aQYTLW.jpg",
+      "title": "A Cure for Wellness",
+      "year": 2017
+    },
+    "Mouse Hunt": {
+      "id": 6283,
+      "poster": "/aqBPrWOzXEO3rWEk3DYTHBjXNZb.jpg",
+      "title": "MouseHunt",
+      "year": 1997
+    },
+    "The Mexican": {
+      "id": 6073,
+      "poster": "/5GqF6rVjUW6CVTuj7w1A2JE49AF.jpg",
+      "title": "The Mexican",
+      "year": 2001
+    },
+    "The Ring": {
+      "id": 565,
+      "poster": "/AeRpUynJKDpJveklBJipOYrVxCS.jpg",
+      "title": "The Ring",
+      "year": 2002
+    },
+    "Pirates of the Caribbean: The Curse of the Black Pearl": {
+      "id": 22,
+      "poster": "/poHwCZeWzJCShH7tOjg8RIoyjcw.jpg",
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "year": 2003
+    },
+    "Pirates of the Caribbean: Dead Man's Chest": {
+      "id": 58,
+      "poster": "/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg",
+      "title": "Pirates of the Caribbean: Dead Man's Chest",
+      "year": 2006
+    },
+    "Pirates of the Caribbean: At World's End": {
+      "id": 285,
+      "poster": "/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
+      "title": "Pirates of the Caribbean: At World's End",
+      "year": 2007
+    },
+    "Rango": {
+      "id": 44896,
+      "poster": "/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
+      "title": "Rango",
+      "year": 2011
+    },
+    "The Lone Ranger": {
+      "id": 57201,
+      "poster": "/yDuJGq8biNMW7zM3w95UaDJv0KG.jpg",
+      "title": "The Lone Ranger",
+      "year": 2013
+    },
+    "The Servant": {
+      "id": 42987,
+      "poster": "/pRa4og93BeOoMCt6oWuPCwu5Coo.jpg",
+      "title": "The Servant",
+      "year": 1963
+    },
+    "The Tenant": {
+      "id": 11482,
+      "poster": "/4Qhzb1ICFMqE3isWoln497qSH7n.jpg",
+      "title": "The Tenant",
+      "year": 1976
+    },
+    "Don't Look Now": {
+      "id": 931,
+      "poster": "/ivWsU3QtcstImCTOjItsH0SAbNn.jpg",
+      "title": "Don't Look Now",
+      "year": 1973
+    },
+    "The Innocents": {
+      "id": 16372,
+      "poster": "/idqvLBmlEHUITMnQ0EJ6Yb5TpVw.jpg",
+      "title": "The Innocents",
+      "year": 1961
+    },
+    "The Shining": {
+      "id": 694,
+      "poster": "/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg",
+      "title": "The Shining",
+      "year": 1980
+    },
+    "E.T. the Extra-Terrestrial": {
+      "id": 601,
+      "poster": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+      "title": "E.T. the Extra-Terrestrial",
+      "year": 1982
+    },
+    "Rings": {
+      "id": 14564,
+      "poster": "/yp4CDOVpVmNwiPoZKQeFCpW8CFo.jpg",
+      "title": "Rings",
+      "year": 2017
+    },
+    "Pirates of the Caribbean: Dead Men Tell No Tales": {
+      "id": 166426,
+      "poster": "/6lAPOAFYFWIO3SQRemEY2wInQMC.jpg",
+      "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+      "year": 2017
+    }
+  },
+  "spotifyEpisodeId": "1Ze95XUVSJZN3xdMlYWK9j"
+}

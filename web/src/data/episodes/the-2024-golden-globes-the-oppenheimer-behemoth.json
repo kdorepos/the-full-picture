@@ -1,0 +1,898 @@
+{
+  "slug": "the-2024-golden-globes-the-oppenheimer-behemoth",
+  "title": "The 2024 Golden Globes: The 'Oppenheimer' Behemoth",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2024-01-08",
+  "runtimeMin": 78,
+  "format": "Sean Fennessey and Amanda Dobbins recap the 2024 Golden Globes, where Oppenheimer took five awards on a night with almost no surprises. They walk the film categories, rate the speeches and the bombed Jo Koy monologue, and argue about Bradley Cooper's Oscar hunger.",
+  "segments": [
+    {
+      "kind": "awards",
+      "heading": "The 2024 Golden Globes",
+      "note": "film categories, winners marked",
+      "ceremony": "81st Golden Globe Awards",
+      "categories": [
+        {
+          "name": "Best Motion Picture - Drama",
+          "winner": "Oppenheimer",
+          "nominees": [
+            {
+              "title": "Oppenheimer",
+              "year": 2023
+            },
+            {
+              "title": "Killers of the Flower Moon",
+              "year": 2023
+            },
+            {
+              "title": "Maestro",
+              "year": 2023
+            },
+            {
+              "title": "Anatomy of a Fall",
+              "year": 2023
+            },
+            {
+              "title": "Past Lives",
+              "year": 2023
+            },
+            {
+              "title": "The Zone of Interest",
+              "year": 2023
+            }
+          ]
+        },
+        {
+          "name": "Best Motion Picture - Musical or Comedy",
+          "winner": "Poor Things",
+          "nominees": [
+            {
+              "title": "Poor Things",
+              "year": 2023
+            },
+            {
+              "title": "Barbie",
+              "year": 2023
+            },
+            {
+              "title": "American Fiction",
+              "year": 2023
+            },
+            {
+              "title": "The Holdovers",
+              "year": 2023
+            },
+            {
+              "title": "May December",
+              "year": 2023
+            },
+            {
+              "title": "Air",
+              "year": 2023
+            }
+          ]
+        },
+        {
+          "name": "Best Director",
+          "winner": "Oppenheimer",
+          "nominees": [
+            {
+              "title": "Oppenheimer",
+              "year": 2023,
+              "person": "Christopher Nolan"
+            },
+            {
+              "title": "Maestro",
+              "year": 2023,
+              "person": "Bradley Cooper"
+            },
+            {
+              "title": "Barbie",
+              "year": 2023,
+              "person": "Greta Gerwig"
+            },
+            {
+              "title": "Poor Things",
+              "year": 2023,
+              "person": "Yorgos Lanthimos"
+            },
+            {
+              "title": "Killers of the Flower Moon",
+              "year": 2023,
+              "person": "Martin Scorsese"
+            },
+            {
+              "title": "Past Lives",
+              "year": 2023,
+              "person": "Celine Song"
+            }
+          ]
+        },
+        {
+          "name": "Best Actor - Drama",
+          "winner": "Oppenheimer",
+          "nominees": [
+            {
+              "title": "Oppenheimer",
+              "year": 2023,
+              "person": "Cillian Murphy"
+            },
+            {
+              "title": "Maestro",
+              "year": 2023,
+              "person": "Bradley Cooper"
+            },
+            {
+              "title": "Killers of the Flower Moon",
+              "year": 2023,
+              "person": "Leonardo DiCaprio"
+            },
+            {
+              "title": "Rustin",
+              "year": 2023,
+              "person": "Colman Domingo"
+            },
+            {
+              "title": "All of Us Strangers",
+              "year": 2023,
+              "person": "Andrew Scott"
+            },
+            {
+              "title": "Saltburn",
+              "year": 2023,
+              "person": "Barry Keoghan"
+            }
+          ]
+        },
+        {
+          "name": "Best Actress - Drama",
+          "winner": "Killers of the Flower Moon",
+          "nominees": [
+            {
+              "title": "Killers of the Flower Moon",
+              "year": 2023,
+              "person": "Lily Gladstone"
+            },
+            {
+              "title": "Maestro",
+              "year": 2023,
+              "person": "Carey Mulligan"
+            },
+            {
+              "title": "Anatomy of a Fall",
+              "year": 2023,
+              "person": "Sandra Hüller"
+            },
+            {
+              "title": "Nyad",
+              "year": 2023,
+              "person": "Annette Bening"
+            },
+            {
+              "title": "Past Lives",
+              "year": 2023,
+              "person": "Greta Lee"
+            },
+            {
+              "title": "Priscilla",
+              "year": 2023,
+              "person": "Cailee Spaeny"
+            }
+          ]
+        },
+        {
+          "name": "Best Actor - Musical or Comedy",
+          "winner": "The Holdovers",
+          "nominees": [
+            {
+              "title": "The Holdovers",
+              "year": 2023,
+              "person": "Paul Giamatti"
+            },
+            {
+              "title": "Dream Scenario",
+              "year": 2023,
+              "person": "Nicolas Cage"
+            },
+            {
+              "title": "Wonka",
+              "year": 2023,
+              "person": "Timothée Chalamet"
+            },
+            {
+              "title": "Air",
+              "year": 2023,
+              "person": "Matt Damon"
+            },
+            {
+              "title": "Beau Is Afraid",
+              "year": 2023,
+              "person": "Joaquin Phoenix"
+            },
+            {
+              "title": "American Fiction",
+              "year": 2023,
+              "person": "Jeffrey Wright"
+            }
+          ]
+        },
+        {
+          "name": "Best Actress - Musical or Comedy",
+          "winner": "Poor Things",
+          "nominees": [
+            {
+              "title": "Poor Things",
+              "year": 2023,
+              "person": "Emma Stone"
+            },
+            {
+              "title": "The Color Purple",
+              "year": 2023,
+              "person": "Fantasia Barrino"
+            },
+            {
+              "title": "No Hard Feelings",
+              "year": 2023,
+              "person": "Jennifer Lawrence"
+            },
+            {
+              "title": "May December",
+              "year": 2023,
+              "person": "Natalie Portman"
+            },
+            {
+              "title": "Fallen Leaves",
+              "year": 2023,
+              "person": "Alma Pöysti"
+            },
+            {
+              "title": "Barbie",
+              "year": 2023,
+              "person": "Margot Robbie"
+            }
+          ]
+        },
+        {
+          "name": "Best Supporting Actor",
+          "winner": "Oppenheimer",
+          "nominees": [
+            {
+              "title": "Oppenheimer",
+              "year": 2023,
+              "person": "Robert Downey Jr."
+            },
+            {
+              "title": "Poor Things",
+              "year": 2023,
+              "person": "Willem Dafoe"
+            },
+            {
+              "title": "Poor Things",
+              "year": 2023,
+              "person": "Mark Ruffalo"
+            },
+            {
+              "title": "Killers of the Flower Moon",
+              "year": 2023,
+              "person": "Robert De Niro"
+            },
+            {
+              "title": "Barbie",
+              "year": 2023,
+              "person": "Ryan Gosling"
+            },
+            {
+              "title": "May December",
+              "year": 2023,
+              "person": "Charles Melton"
+            }
+          ]
+        },
+        {
+          "name": "Best Supporting Actress",
+          "winner": "The Holdovers",
+          "nominees": [
+            {
+              "title": "The Holdovers",
+              "year": 2023,
+              "person": "Da'Vine Joy Randolph"
+            },
+            {
+              "title": "Oppenheimer",
+              "year": 2023,
+              "person": "Emily Blunt"
+            },
+            {
+              "title": "The Color Purple",
+              "year": 2023,
+              "person": "Danielle Brooks"
+            },
+            {
+              "title": "Nyad",
+              "year": 2023,
+              "person": "Jodie Foster"
+            },
+            {
+              "title": "May December",
+              "year": 2023,
+              "person": "Julianne Moore"
+            },
+            {
+              "title": "Saltburn",
+              "year": 2023,
+              "person": "Rosamund Pike"
+            }
+          ]
+        },
+        {
+          "name": "Best Screenplay",
+          "winner": "Anatomy of a Fall",
+          "nominees": [
+            {
+              "title": "Anatomy of a Fall",
+              "year": 2023,
+              "person": "Justine Triet, Arthur Harari"
+            },
+            {
+              "title": "Barbie",
+              "year": 2023,
+              "person": "Greta Gerwig, Noah Baumbach"
+            },
+            {
+              "title": "Oppenheimer",
+              "year": 2023,
+              "person": "Christopher Nolan"
+            },
+            {
+              "title": "Killers of the Flower Moon",
+              "year": 2023,
+              "person": "Eric Roth, Martin Scorsese"
+            },
+            {
+              "title": "Poor Things",
+              "year": 2023,
+              "person": "Tony McNamara"
+            },
+            {
+              "title": "Past Lives",
+              "year": 2023,
+              "person": "Celine Song"
+            }
+          ]
+        },
+        {
+          "name": "Best Motion Picture - Non-English Language",
+          "winner": "Anatomy of a Fall",
+          "nominees": [
+            {
+              "title": "Anatomy of a Fall",
+              "year": 2023
+            },
+            {
+              "title": "Fallen Leaves",
+              "year": 2023
+            },
+            {
+              "title": "Io Capitano",
+              "year": 2023
+            },
+            {
+              "title": "Past Lives",
+              "year": 2023
+            },
+            {
+              "title": "Society of the Snow",
+              "year": 2023
+            },
+            {
+              "title": "The Zone of Interest",
+              "year": 2023
+            }
+          ]
+        },
+        {
+          "name": "Best Motion Picture - Animated",
+          "winner": "The Boy and the Heron",
+          "nominees": [
+            {
+              "title": "The Boy and the Heron",
+              "year": 2023
+            },
+            {
+              "title": "Spider-Man: Across the Spider-Verse",
+              "year": 2023
+            },
+            {
+              "title": "Elemental",
+              "year": 2023
+            },
+            {
+              "title": "The Super Mario Bros. Movie",
+              "year": 2023
+            },
+            {
+              "title": "Suzume",
+              "year": 2022
+            },
+            {
+              "title": "Wish",
+              "year": 2023
+            }
+          ]
+        },
+        {
+          "name": "Best Original Score",
+          "winner": "Oppenheimer",
+          "nominees": [
+            {
+              "title": "Oppenheimer",
+              "year": 2023,
+              "person": "Ludwig Göransson"
+            },
+            {
+              "title": "Poor Things",
+              "year": 2023,
+              "person": "Jerskin Fendrix"
+            },
+            {
+              "title": "Killers of the Flower Moon",
+              "year": 2023,
+              "person": "Robbie Robertson"
+            },
+            {
+              "title": "The Zone of Interest",
+              "year": 2023,
+              "person": "Mica Levi"
+            },
+            {
+              "title": "Spider-Man: Across the Spider-Verse",
+              "year": 2023,
+              "person": "Daniel Pemberton"
+            },
+            {
+              "title": "The Boy and the Heron",
+              "year": 2023,
+              "person": "Joe Hisaishi"
+            }
+          ]
+        },
+        {
+          "name": "Best Original Song",
+          "winner": "What Was I Made For?",
+          "nominees": [
+            {
+              "title": "What Was I Made For?",
+              "person": "Barbie"
+            },
+            {
+              "title": "Dance the Night",
+              "person": "Barbie"
+            },
+            {
+              "title": "Addicted to Romance",
+              "person": "She Came to Me"
+            },
+            {
+              "title": "Peaches",
+              "person": "The Super Mario Bros. Movie"
+            },
+            {
+              "title": "I'm Just Ken",
+              "person": "Barbie"
+            },
+            {
+              "title": "Road to Freedom",
+              "person": "Rustin"
+            }
+          ]
+        },
+        {
+          "name": "Cinematic and Box Office Achievement",
+          "winner": "Barbie",
+          "nominees": [
+            {
+              "title": "Barbie",
+              "year": 2023
+            },
+            {
+              "title": "Guardians of the Galaxy Vol. 3",
+              "year": 2023
+            },
+            {
+              "title": "John Wick: Chapter 4",
+              "year": 2023
+            },
+            {
+              "title": "Mission: Impossible - Dead Reckoning Part One",
+              "year": 2023
+            },
+            {
+              "title": "Oppenheimer",
+              "year": 2023
+            },
+            {
+              "title": "Spider-Man: Across the Spider-Verse",
+              "year": 2023
+            },
+            {
+              "title": "The Super Mario Bros. Movie",
+              "year": 2023
+            },
+            {
+              "title": "Taylor Swift: The Eras Tour",
+              "year": 2023
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Tár",
+        "Everything Everywhere All at Once",
+        "The Dark Knight",
+        "Tenet",
+        "1917",
+        "Parasite",
+        "American Sniper",
+        "A Star Is Born",
+        "Sideways",
+        "Cinderella Man",
+        "The Equalizer 3",
+        "Working Girl",
+        "Gladiator",
+        "Dogtooth",
+        "The Taste of Things",
+        "Iron Man"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Only Murders in the Building",
+      "The Bear",
+      "Succession",
+      "Beef",
+      "The Crown",
+      "Bluey",
+      "The Simpsons",
+      "Abbott Elementary",
+      "Saturday Night Live",
+      "Inside the Actors Studio"
+    ],
+    "Podcasts": [
+      "The Watch",
+      "WTF with Marc Maron"
+    ],
+    "Music": [
+      "Nebraska"
+    ]
+  },
+  "tmdb": {
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Killers of the Flower Moon": {
+      "id": 466420,
+      "poster": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+      "title": "Killers of the Flower Moon",
+      "year": 2023
+    },
+    "Maestro": {
+      "id": 523607,
+      "poster": "/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg",
+      "title": "Maestro",
+      "year": 2023
+    },
+    "Anatomy of a Fall": {
+      "id": 915935,
+      "poster": "/1ho0d4LNZw3Y0voeKmSvPSgJOJ2.jpg",
+      "title": "Anatomy of a Fall",
+      "year": 2023
+    },
+    "Past Lives": {
+      "id": 666277,
+      "poster": "/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg",
+      "title": "Past Lives",
+      "year": 2023
+    },
+    "The Zone of Interest": {
+      "id": 467244,
+      "poster": "/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg",
+      "title": "The Zone of Interest",
+      "year": 2023
+    },
+    "Poor Things": {
+      "id": 792307,
+      "poster": "/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+      "title": "Poor Things",
+      "year": 2023
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "American Fiction": {
+      "id": 1056360,
+      "poster": "/57MFWGHarg9jid7yfDTka4RmcMU.jpg",
+      "title": "American Fiction",
+      "year": 2023
+    },
+    "The Holdovers": {
+      "id": 840430,
+      "poster": "/VHSzNBTwxV8vh7wylo7O9CLdac.jpg",
+      "title": "The Holdovers",
+      "year": 2023
+    },
+    "May December": {
+      "id": 839369,
+      "poster": "/zhV7B610l7hjlri4ywikJ18ONuq.jpg",
+      "title": "May December",
+      "year": 2023
+    },
+    "Air": {
+      "id": 964980,
+      "poster": "/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg",
+      "title": "Air",
+      "year": 2023
+    },
+    "Rustin": {
+      "id": 898713,
+      "poster": "/lCawCmTJhKT7c2ZOzLBTXDIR8JS.jpg",
+      "title": "Rustin",
+      "year": 2023
+    },
+    "All of Us Strangers": {
+      "id": 994108,
+      "poster": "/aviJMFZSnnCAsCVyJGaPNx4Ef3i.jpg",
+      "title": "All of Us Strangers",
+      "year": 2023
+    },
+    "Saltburn": {
+      "id": 930564,
+      "poster": "/zGTfMwG112BC66mpaveVxoWPOaB.jpg",
+      "title": "Saltburn",
+      "year": 2023
+    },
+    "Nyad": {
+      "id": 895549,
+      "poster": "/ydSqUhKFvg5cZ5OwImmf3K1R6SS.jpg",
+      "title": "NYAD",
+      "year": 2023
+    },
+    "Priscilla": {
+      "id": 1020006,
+      "poster": "/uDCeELWWpsNq7ErM61Yuq70WAE9.jpg",
+      "title": "Priscilla",
+      "year": 2023
+    },
+    "Dream Scenario": {
+      "id": 823482,
+      "poster": "/eMaAi8wTI5wON8pp33w3BDuGyZ8.jpg",
+      "title": "Dream Scenario",
+      "year": 2023
+    },
+    "Wonka": {
+      "id": 787699,
+      "poster": "/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+      "title": "Wonka",
+      "year": 2023
+    },
+    "Beau Is Afraid": {
+      "id": 798286,
+      "poster": "/wgVkkjigF31r1nZV80uV0xNIoun.jpg",
+      "title": "Beau Is Afraid",
+      "year": 2023
+    },
+    "The Color Purple": {
+      "id": 558915,
+      "poster": "/h5bqIxM8GO4TewJ0u6Rzkg58ssJ.jpg",
+      "title": "The Color Purple",
+      "year": 2023
+    },
+    "No Hard Feelings": {
+      "id": 884605,
+      "poster": "/gD72DhJ7NbfxvtxGiAzLaa0xaoj.jpg",
+      "title": "No Hard Feelings",
+      "year": 2023
+    },
+    "Fallen Leaves": {
+      "id": 986280,
+      "poster": "/9ayYOpeqHhxfHHUoyt3kXzznECO.jpg",
+      "title": "Fallen Leaves",
+      "year": 2023
+    },
+    "Io Capitano": {
+      "id": 937746,
+      "poster": "/kGlZFwUQI5gAUdySNFfqGIkAF9n.jpg",
+      "title": "Io Capitano",
+      "year": 2023
+    },
+    "Society of the Snow": {
+      "id": 906126,
+      "poster": "/2e853FDVSIso600RqAMunPxiZjq.jpg",
+      "title": "Society of the Snow",
+      "year": 2023
+    },
+    "The Boy and the Heron": {
+      "id": 508883,
+      "poster": "/f4oZTcfGrVTXKTWg157AwikXqmP.jpg",
+      "title": "The Boy and the Heron",
+      "year": 2023
+    },
+    "Spider-Man: Across the Spider-Verse": {
+      "id": 569094,
+      "poster": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "year": 2023
+    },
+    "Elemental": {
+      "id": 976573,
+      "poster": "/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg",
+      "title": "Elemental",
+      "year": 2023
+    },
+    "The Super Mario Bros. Movie": {
+      "id": 502356,
+      "poster": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+      "title": "The Super Mario Bros. Movie",
+      "year": 2023
+    },
+    "Suzume": {
+      "id": 916224,
+      "poster": "/yStW1TXF5s7Tbtu9KjIZEaWl6HL.jpg",
+      "title": "Suzume",
+      "year": 2022
+    },
+    "Wish": {
+      "id": 1022796,
+      "poster": "/nesuSdJakNkf0zs7OfoasB6Clxf.jpg",
+      "title": "Wish",
+      "year": 2023
+    },
+    "What Was I Made For?": null,
+    "Dance the Night": null,
+    "Addicted to Romance": null,
+    "Peaches": null,
+    "I'm Just Ken": null,
+    "Road to Freedom": null,
+    "Guardians of the Galaxy Vol. 3": {
+      "id": 447365,
+      "poster": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "year": 2023
+    },
+    "John Wick: Chapter 4": {
+      "id": 603692,
+      "poster": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+      "title": "John Wick: Chapter 4",
+      "year": 2023
+    },
+    "Mission: Impossible - Dead Reckoning Part One": {
+      "id": 575264,
+      "poster": "/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "year": 2023
+    },
+    "Taylor Swift: The Eras Tour": {
+      "id": 1160164,
+      "poster": "/jf3YO8hOqGHCupsREf5qymYq1n.jpg",
+      "title": "TAYLOR SWIFT | THE ERAS TOUR",
+      "year": 2023
+    },
+    "Tár": {
+      "id": 817758,
+      "poster": "/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg",
+      "title": "TÁR",
+      "year": 2022
+    },
+    "Everything Everywhere All at Once": {
+      "id": 545611,
+      "poster": "/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+      "title": "Everything Everywhere All at Once",
+      "year": 2022
+    },
+    "The Dark Knight": {
+      "id": 155,
+      "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "1917": {
+      "id": 530915,
+      "poster": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+      "title": "1917",
+      "year": 2019
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "American Sniper": {
+      "id": 190859,
+      "poster": "/i1U46OwMc6vlm7OoSUKfqUH615e.jpg",
+      "title": "American Sniper",
+      "year": 2014
+    },
+    "A Star Is Born": {
+      "id": 332562,
+      "poster": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "title": "A Star Is Born",
+      "year": 2018
+    },
+    "Sideways": {
+      "id": 9675,
+      "poster": "/zOsaxYLgvZVU7cJBpPn8CuE0MrP.jpg",
+      "title": "Sideways",
+      "year": 2004
+    },
+    "Cinderella Man": {
+      "id": 921,
+      "poster": "/wkeOjIcpuqLMW4GnVowlM9VI0JE.jpg",
+      "title": "Cinderella Man",
+      "year": 2005
+    },
+    "The Equalizer 3": {
+      "id": 926393,
+      "poster": "/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg",
+      "title": "The Equalizer 3",
+      "year": 2023
+    },
+    "Working Girl": {
+      "id": 3525,
+      "poster": "/q2jfFzZvAzjTaArQR0tjilIZ5aJ.jpg",
+      "title": "Working Girl",
+      "year": 1988
+    },
+    "Gladiator": {
+      "id": 98,
+      "poster": "/wN2xWp1eIwCKOD0BHTcErTBv1Uq.jpg",
+      "title": "Gladiator",
+      "year": 2000
+    },
+    "Dogtooth": {
+      "id": 38810,
+      "poster": "/cBrhzHcOxXclTItkPzsJUCTSFyl.jpg",
+      "title": "Dogtooth",
+      "year": 2009
+    },
+    "The Taste of Things": {
+      "id": 964960,
+      "poster": "/gZsXtzwI3CgCvKF5TkgHVhhbEg1.jpg",
+      "title": "The Taste of Things",
+      "year": 2023
+    },
+    "Iron Man": {
+      "id": 1726,
+      "poster": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "title": "Iron Man",
+      "year": 2008
+    }
+  },
+  "spotifyEpisodeId": "2GrNDuzn9vpFh5CCGUH9ps",
+  "tmdbOverrides": {
+    "What Was I Made For?": null,
+    "Peaches": null
+  }
+}

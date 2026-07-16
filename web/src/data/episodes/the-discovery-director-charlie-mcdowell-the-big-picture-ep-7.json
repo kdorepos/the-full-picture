@@ -1,0 +1,83 @@
+{
+  "slug": "the-discovery-director-charlie-mcdowell-the-big-picture-ep-7",
+  "title": "‘The Discovery’ Director Charlie McDowell | The Big Picture (Ep. 7)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2017-03-31",
+  "runtimeMin": 33,
+  "format": "Sean Fennessey talks to writer-director Charlie McDowell on the day The Discovery lands on Netflix: the film's high-concept afterlife premise, casting Robert Redford, why the ending came before the middle, and what a straight-to-Netflix release does to a movie.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "Charlie McDowell on 'The Discovery'",
+      "guest": "Charlie McDowell on",
+      "films": [
+        {
+          "title": "The Discovery",
+          "year": 2017,
+          "note": "McDowell's Netflix sci-fi drama: a scientist (Robert Redford) proves the afterlife exists and millions start killing themselves to reach it. He calls it a character study with a high concept as backdrop, a love story and a father-son story, written end-first, with Redford cast off an agent's availability list after he turned out to be a fan of The One I Love. Shot by European DP Sturla (his first American film) for a dark look. Cast: Jason Segel as the audience's eyes, Rooney Mara, Jesse Plemons, Riley Keough."
+        },
+        {
+          "title": "The One I Love",
+          "year": 2014,
+          "note": "McDowell's first feature, shot in 15 days at a house in Ojai with Mark Duplass and Elisabeth Moss: a couple on a marital retreat who discover something strange about themselves. The twist was so protected by critics that reviewers refused to spoil it, which McDowell counts as the ultimate compliment."
+        },
+        {
+          "title": "Arrival",
+          "year": 2016,
+          "note": "His favorite film of the prior year, cited as the model for a movie that plays completely differently on a second viewing."
+        },
+        {
+          "title": "Get Out",
+          "year": 2017,
+          "note": "Brought up via a recent Jordan Peele appearance on the show. Fennessey asks whether McDowell plants the same Easter-egg-for-a-second-watch details on purpose; he says it isn't conscious, but the actors are directed knowing where it ends up."
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The OA",
+      "Stranger Things",
+      "The A.V. Club (Fusion TV show)"
+    ],
+    "In development (not films)": [
+      "Zero K (Don DeLillo limited series for FX)"
+    ],
+    "Ads": [
+      "The Ringer MLB Show",
+      "TuneIn",
+      "Fusion TV / The A.V. Club"
+    ]
+  },
+  "tmdb": {
+    "The Discovery": {
+      "id": 376134,
+      "poster": "/nLIDouFvreSrs8xK62zuvpEPDw0.jpg",
+      "title": "The Discovery",
+      "year": 2017
+    },
+    "The One I Love": {
+      "id": 242090,
+      "poster": "/ewsYTI6KKQw3IDPFmVVbHq89kxv.jpg",
+      "title": "The One I Love",
+      "year": 2014
+    },
+    "Arrival": {
+      "id": 329865,
+      "poster": "/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
+      "title": "Arrival",
+      "year": 2016
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    }
+  },
+  "spotifyEpisodeId": "12B1jyeeBqDYV2hMCrQ0kv"
+}

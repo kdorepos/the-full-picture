@@ -1,0 +1,711 @@
+{
+  "slug": "oscar-nomination-predictions-mean-girls-and-all-of-us-strang",
+  "title": "Oscar Nomination Predictions, ‘Mean Girls,’ and ‘All of Us Strangers’ With Andrew Scott",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2024-01-19",
+  "runtimeMin": 107,
+  "format": "Days before the 96th Academy Award nominations, Sean Fennessey and Amanda Dobbins call the five in nine categories, review the new Mean Girls, and unpack All of Us Strangers before Sean talks to its star, Andrew Scott.",
+  "segments": [
+    {
+      "kind": "awards",
+      "heading": "Oscar Nomination Predictions",
+      "note": "predicting the five (and the ten) · nominations morning",
+      "ceremony": "96th Academy Awards",
+      "categories": [
+        {
+          "name": "Best Supporting Actor",
+          "nominees": [
+            {
+              "title": "Oppenheimer",
+              "year": 2023,
+              "person": "Robert Downey Jr."
+            },
+            {
+              "title": "Barbie",
+              "year": 2023,
+              "person": "Ryan Gosling"
+            },
+            {
+              "title": "Killers of the Flower Moon",
+              "year": 2023,
+              "person": "Robert De Niro"
+            },
+            {
+              "title": "Poor Things",
+              "year": 2023,
+              "person": "Mark Ruffalo"
+            },
+            {
+              "title": "Poor Things",
+              "year": 2023,
+              "person": "Willem Dafoe"
+            }
+          ]
+        },
+        {
+          "name": "Best Supporting Actress",
+          "nominees": [
+            {
+              "title": "The Holdovers",
+              "year": 2023,
+              "person": "Da'Vine Joy Randolph"
+            },
+            {
+              "title": "Oppenheimer",
+              "year": 2023,
+              "person": "Emily Blunt"
+            },
+            {
+              "title": "The Color Purple",
+              "year": 2023,
+              "person": "Danielle Brooks"
+            },
+            {
+              "title": "Nyad",
+              "year": 2023,
+              "person": "Jodie Foster"
+            },
+            {
+              "title": "May December",
+              "year": 2023,
+              "person": "Julianne Moore"
+            }
+          ]
+        },
+        {
+          "name": "Best Adapted Screenplay",
+          "nominees": [
+            {
+              "title": "Oppenheimer",
+              "year": 2023
+            },
+            {
+              "title": "Poor Things",
+              "year": 2023
+            },
+            {
+              "title": "Killers of the Flower Moon",
+              "year": 2023
+            },
+            {
+              "title": "American Fiction",
+              "year": 2023
+            },
+            {
+              "title": "Barbie",
+              "year": 2023
+            }
+          ]
+        },
+        {
+          "name": "Best Original Screenplay",
+          "nominees": [
+            {
+              "title": "The Holdovers",
+              "year": 2023
+            },
+            {
+              "title": "Past Lives",
+              "year": 2023
+            },
+            {
+              "title": "Anatomy of a Fall",
+              "year": 2023
+            },
+            {
+              "title": "May December",
+              "year": 2023
+            },
+            {
+              "title": "Maestro",
+              "year": 2023
+            }
+          ]
+        },
+        {
+          "name": "Best International Feature",
+          "nominees": [
+            {
+              "title": "The Zone of Interest",
+              "year": 2023
+            },
+            {
+              "title": "Society of the Snow",
+              "year": 2023
+            },
+            {
+              "title": "Fallen Leaves",
+              "year": 2023
+            },
+            {
+              "title": "The Taste of Things",
+              "year": 2023
+            },
+            {
+              "title": "Perfect Days",
+              "year": 2023
+            }
+          ]
+        },
+        {
+          "name": "Best Actor",
+          "nominees": [
+            {
+              "title": "Oppenheimer",
+              "year": 2023,
+              "person": "Cillian Murphy"
+            },
+            {
+              "title": "The Holdovers",
+              "year": 2023,
+              "person": "Paul Giamatti"
+            },
+            {
+              "title": "American Fiction",
+              "year": 2023,
+              "person": "Jeffrey Wright"
+            },
+            {
+              "title": "Maestro",
+              "year": 2023,
+              "person": "Bradley Cooper"
+            },
+            {
+              "title": "Killers of the Flower Moon",
+              "year": 2023,
+              "person": "Leonardo DiCaprio"
+            }
+          ]
+        },
+        {
+          "name": "Best Actress",
+          "nominees": [
+            {
+              "title": "Maestro",
+              "year": 2023,
+              "person": "Carey Mulligan"
+            },
+            {
+              "title": "Anatomy of a Fall",
+              "year": 2023,
+              "person": "Sandra Hüller"
+            },
+            {
+              "title": "Killers of the Flower Moon",
+              "year": 2023,
+              "person": "Lily Gladstone"
+            },
+            {
+              "title": "Poor Things",
+              "year": 2023,
+              "person": "Emma Stone"
+            },
+            {
+              "title": "Barbie",
+              "year": 2023,
+              "person": "Margot Robbie"
+            }
+          ]
+        },
+        {
+          "name": "Best Director",
+          "nominees": [
+            {
+              "title": "Oppenheimer",
+              "year": 2023,
+              "person": "Christopher Nolan"
+            },
+            {
+              "title": "Barbie",
+              "year": 2023,
+              "person": "Greta Gerwig"
+            },
+            {
+              "title": "Killers of the Flower Moon",
+              "year": 2023,
+              "person": "Martin Scorsese"
+            },
+            {
+              "title": "Poor Things",
+              "year": 2023,
+              "person": "Yorgos Lanthimos"
+            },
+            {
+              "title": "The Zone of Interest",
+              "year": 2023,
+              "person": "Jonathan Glazer"
+            }
+          ]
+        },
+        {
+          "name": "Best Picture",
+          "nominees": [
+            {
+              "title": "Oppenheimer",
+              "year": 2023
+            },
+            {
+              "title": "The Holdovers",
+              "year": 2023
+            },
+            {
+              "title": "Killers of the Flower Moon",
+              "year": 2023
+            },
+            {
+              "title": "Poor Things",
+              "year": 2023
+            },
+            {
+              "title": "Barbie",
+              "year": 2023
+            },
+            {
+              "title": "American Fiction",
+              "year": 2023
+            },
+            {
+              "title": "Past Lives",
+              "year": 2023
+            },
+            {
+              "title": "Anatomy of a Fall",
+              "year": 2023
+            },
+            {
+              "title": "Maestro",
+              "year": 2023
+            },
+            {
+              "title": "The Zone of Interest",
+              "year": 2023
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "‘Mean Girls’",
+      "note": "the musical remake of the musical of the movie",
+      "films": [
+        {
+          "title": "Mean Girls",
+          "year": 2024,
+          "note": "Samantha Jayne and Arturo Perez Jr.'s adaptation of Tina Fey's musical. Sean and Amanda were both charmed; Renée Rapp's Regina stops the movie cold for pop-star numbers, while it plays the 2004 lines near-verbatim."
+        },
+        {
+          "title": "Mean Girls",
+          "year": 2004,
+          "note": "The original Amanda has memorized. The Lindsay Lohan-Rachel McAdams anti-chemistry is the bar the new cast keeps getting measured against."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "‘All of Us Strangers’",
+      "note": "full spoilers",
+      "films": [
+        {
+          "title": "All of Us Strangers",
+          "year": 2023,
+          "note": "Andrew Haigh's ghost-story queer romance, adapted from Taichi Yamada's novel and shot in Haigh's own childhood home. Andrew Scott's Adam visits his long-dead parents and falls for a neighbor; a movie of big feelings that Sean thinks gets smaller the harder you dissect it."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Andrew Scott on ‘All of Us Strangers’",
+      "guest": "Andrew Scott on",
+      "films": [
+        {
+          "title": "All of Us Strangers",
+          "year": 2023,
+          "note": "Scott on 'emotional biography,' playing drunk by trying to stay sober, and shooting the parent scenes first in Haigh's family home before the Paul Mescal segment."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Also in the Oscar hunt",
+      "films": [
+        "Ferrari",
+        "The Color Purple",
+        "Rustin",
+        "Origin",
+        "Saltburn",
+        "Asteroid City",
+        "Air",
+        "Spider-Man: Across the Spider-Verse",
+        "Parallel Mothers",
+        "Tótem",
+        "Io Capitano",
+        "The Teachers' Lounge",
+        "20 Days in Mariupol"
+      ]
+    },
+    {
+      "group": "Haigh and Scott elsewhere",
+      "films": [
+        "Weekend",
+        "45 Years",
+        "Lean on Pete",
+        "The Talented Mr. Ripley"
+      ]
+    },
+    {
+      "group": "In the banter",
+      "films": [
+        "Phantom Thread",
+        "Knives Out",
+        "Once Upon a Time in Hollywood",
+        "Wonder Woman",
+        "The Favourite",
+        "The Wife",
+        "Pulp Fiction",
+        "Inception",
+        "Terms of Endearment",
+        "Spider-Man",
+        "Silver Linings Playbook",
+        "The Nice Guys",
+        "A Star Is Born"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Rustin": 898713
+  },
+  "excluded": {
+    "TV": [
+      "Fleabag",
+      "Sherlock",
+      "Ripley",
+      "Looking",
+      "True Detective",
+      "Monsieur Spade",
+      "The Sex Lives of College Girls",
+      "Mayor of Easttown",
+      "iCarly",
+      "Game of Thrones",
+      "Cheers",
+      "Martin",
+      "The Sopranos",
+      "Grey's Anatomy",
+      "Ally McBeal",
+      "Saturday Night Live"
+    ],
+    "Books": [
+      "Oscar Wars",
+      "Caste",
+      "Strangers"
+    ],
+    "Podcasts": [
+      "The Mismatch",
+      "The Rewatchables",
+      "Jam Session",
+      "The Watch",
+      "WTF with Marc Maron"
+    ],
+    "Ads": [
+      "Tremfya",
+      "L.L.Bean"
+    ]
+  },
+  "tmdb": {
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Killers of the Flower Moon": {
+      "id": 466420,
+      "poster": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+      "title": "Killers of the Flower Moon",
+      "year": 2023
+    },
+    "Poor Things": {
+      "id": 792307,
+      "poster": "/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+      "title": "Poor Things",
+      "year": 2023
+    },
+    "The Holdovers": {
+      "id": 840430,
+      "poster": "/VHSzNBTwxV8vh7wylo7O9CLdac.jpg",
+      "title": "The Holdovers",
+      "year": 2023
+    },
+    "The Color Purple": {
+      "id": 558915,
+      "poster": "/h5bqIxM8GO4TewJ0u6Rzkg58ssJ.jpg",
+      "title": "The Color Purple",
+      "year": 2023
+    },
+    "Nyad": {
+      "id": 895549,
+      "poster": "/ydSqUhKFvg5cZ5OwImmf3K1R6SS.jpg",
+      "title": "NYAD",
+      "year": 2023
+    },
+    "May December": {
+      "id": 839369,
+      "poster": "/zhV7B610l7hjlri4ywikJ18ONuq.jpg",
+      "title": "May December",
+      "year": 2023
+    },
+    "American Fiction": {
+      "id": 1056360,
+      "poster": "/57MFWGHarg9jid7yfDTka4RmcMU.jpg",
+      "title": "American Fiction",
+      "year": 2023
+    },
+    "Past Lives": {
+      "id": 666277,
+      "poster": "/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg",
+      "title": "Past Lives",
+      "year": 2023
+    },
+    "Anatomy of a Fall": {
+      "id": 915935,
+      "poster": "/1ho0d4LNZw3Y0voeKmSvPSgJOJ2.jpg",
+      "title": "Anatomy of a Fall",
+      "year": 2023
+    },
+    "Maestro": {
+      "id": 523607,
+      "poster": "/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg",
+      "title": "Maestro",
+      "year": 2023
+    },
+    "The Zone of Interest": {
+      "id": 467244,
+      "poster": "/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg",
+      "title": "The Zone of Interest",
+      "year": 2023
+    },
+    "Society of the Snow": {
+      "id": 906126,
+      "poster": "/2e853FDVSIso600RqAMunPxiZjq.jpg",
+      "title": "Society of the Snow",
+      "year": 2023
+    },
+    "Fallen Leaves": {
+      "id": 986280,
+      "poster": "/9ayYOpeqHhxfHHUoyt3kXzznECO.jpg",
+      "title": "Fallen Leaves",
+      "year": 2023
+    },
+    "The Taste of Things": {
+      "id": 964960,
+      "poster": "/gZsXtzwI3CgCvKF5TkgHVhhbEg1.jpg",
+      "title": "The Taste of Things",
+      "year": 2023
+    },
+    "Perfect Days": {
+      "id": 976893,
+      "poster": "/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg",
+      "title": "Perfect Days",
+      "year": 2023
+    },
+    "Mean Girls": {
+      "id": 10625,
+      "poster": "/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg",
+      "title": "Mean Girls",
+      "year": 2004
+    },
+    "All of Us Strangers": {
+      "id": 994108,
+      "poster": "/aviJMFZSnnCAsCVyJGaPNx4Ef3i.jpg",
+      "title": "All of Us Strangers",
+      "year": 2023
+    },
+    "Ferrari": {
+      "id": 365620,
+      "poster": "/LyCOcGqOTyTmaXu2TK8LfGveIb.jpg",
+      "title": "Ferrari",
+      "year": 2023
+    },
+    "Rustin": {
+      "id": 898713,
+      "poster": "/lCawCmTJhKT7c2ZOzLBTXDIR8JS.jpg",
+      "title": "Rustin",
+      "year": 2023
+    },
+    "Origin": {
+      "id": 753336,
+      "poster": "/dY0m1fypdNPp61kcmLdsk7KIR7C.jpg",
+      "title": "Origin",
+      "year": 2023
+    },
+    "Saltburn": {
+      "id": 930564,
+      "poster": "/zGTfMwG112BC66mpaveVxoWPOaB.jpg",
+      "title": "Saltburn",
+      "year": 2023
+    },
+    "Asteroid City": {
+      "id": 747188,
+      "poster": "/hfo7pvL9Fys7rocfL4VOzw9qDEQ.jpg",
+      "title": "Asteroid City",
+      "year": 2023
+    },
+    "Air": {
+      "id": 964980,
+      "poster": "/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg",
+      "title": "Air",
+      "year": 2023
+    },
+    "Spider-Man: Across the Spider-Verse": {
+      "id": 569094,
+      "poster": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "year": 2023
+    },
+    "Parallel Mothers": {
+      "id": 766798,
+      "poster": "/gDaxYkYNbHuM2VlUazbcpnFZB6d.jpg",
+      "title": "Parallel Mothers",
+      "year": 2021
+    },
+    "Tótem": {
+      "id": 958186,
+      "poster": "/gBIQrOpneWqOYA1ZBIvaClm8zuH.jpg",
+      "title": "Tótem",
+      "year": 2023
+    },
+    "Io Capitano": {
+      "id": 937746,
+      "poster": "/kGlZFwUQI5gAUdySNFfqGIkAF9n.jpg",
+      "title": "Io Capitano",
+      "year": 2023
+    },
+    "The Teachers' Lounge": {
+      "id": 998022,
+      "poster": "/kWXA6PfQ0PpZpoCXoeBFRciRrUw.jpg",
+      "title": "The Teachers' Lounge",
+      "year": 2023
+    },
+    "20 Days in Mariupol": {
+      "id": 1058616,
+      "poster": "/zIRp1IeuPh4GgqFCH3y0DQuY9xP.jpg",
+      "title": "20 Days in Mariupol",
+      "year": 2023
+    },
+    "Weekend": {
+      "id": 79120,
+      "poster": "/ksg3QX2iMLzEkvS6AwIGh5A9CXT.jpg",
+      "title": "Weekend",
+      "year": 2011
+    },
+    "45 Years": {
+      "id": 311291,
+      "poster": "/8elIJYYXWq2HpcZ6TgVMC9EwTnn.jpg",
+      "title": "45 Years",
+      "year": 2015
+    },
+    "Lean on Pete": {
+      "id": 407890,
+      "poster": "/7SuPHSo9Uw8GACkP2oPst512Qhl.jpg",
+      "title": "Lean on Pete",
+      "year": 2018
+    },
+    "The Talented Mr. Ripley": {
+      "id": 1213,
+      "poster": "/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg",
+      "title": "The Talented Mr. Ripley",
+      "year": 1999
+    },
+    "Phantom Thread": {
+      "id": 400617,
+      "poster": "/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg",
+      "title": "Phantom Thread",
+      "year": 2017
+    },
+    "Knives Out": {
+      "id": 546554,
+      "poster": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+      "title": "Knives Out",
+      "year": 2019
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Wonder Woman": {
+      "id": 297762,
+      "poster": "/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+      "title": "Wonder Woman",
+      "year": 2017
+    },
+    "The Favourite": {
+      "id": 375262,
+      "poster": "/cwBq0onfmeilU5xgqNNjJAMPfpw.jpg",
+      "title": "The Favourite",
+      "year": 2018
+    },
+    "The Wife": {
+      "id": 340613,
+      "poster": "/d4Qyuy0Ul549f6SOdUqGvIdYKD2.jpg",
+      "title": "The Wife",
+      "year": 2017
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "Inception": {
+      "id": 27205,
+      "poster": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+      "title": "Inception",
+      "year": 2010
+    },
+    "Terms of Endearment": {
+      "id": 11050,
+      "poster": "/l77DRjJuykqKMtD9GTK4YT7qKHW.jpg",
+      "title": "Terms of Endearment",
+      "year": 1983
+    },
+    "Spider-Man": {
+      "id": 557,
+      "poster": "/kjdJntyBeEvqm9w97QGBdxPptzj.jpg",
+      "title": "Spider-Man",
+      "year": 2002
+    },
+    "Silver Linings Playbook": {
+      "id": 82693,
+      "poster": "/fhHB1uvfFKKFbj6bTKE8xdtsjKi.jpg",
+      "title": "Silver Linings Playbook",
+      "year": 2012
+    },
+    "The Nice Guys": {
+      "id": 290250,
+      "poster": "/clq4So9spa9cXk3MZy2iMdqkxP2.jpg",
+      "title": "The Nice Guys",
+      "year": 2016
+    },
+    "A Star Is Born": {
+      "id": 332562,
+      "poster": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "title": "A Star Is Born",
+      "year": 2018
+    }
+  },
+  "spotifyEpisodeId": "2VRBMWnE2JtTHlsilD5zmb"
+}

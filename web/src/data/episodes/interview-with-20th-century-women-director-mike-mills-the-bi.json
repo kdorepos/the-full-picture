@@ -1,0 +1,84 @@
+{
+  "slug": "interview-with-20th-century-women-director-mike-mills-the-bi",
+  "title": "Interview With '20th Century Women' Director Mike Mills | The Big Picture (Ep. 2)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2017-01-19",
+  "runtimeMin": 38,
+  "format": "Sean Fennessey talks to Mike Mills about 20th Century Women, mining his mother for the film, and why he set it in 1979.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "Mike Mills on '20th Century Women'",
+      "guest": "Mike Mills on",
+      "films": [
+        {
+          "title": "20th Century Women",
+          "year": 2016,
+          "note": "Out January 20th when he sat down, set in 1979 Santa Barbara around a middle-aged mother, Dorothea, who recruits two younger women to help raise her teenage son. Mills started writing in 2011; Dorothea is drawn straight from his mother, who died in 1999. Details are lifted from life, from her wanting to be a pilot to burying gold coins ahead of Y2K, and Annette Bening wears his mother's actual jewelry. He removed a father figure from an early draft, chose 1979 as 'the end of post-war America,' and built the film around Carter's 'crisis of confidence' speech."
+        },
+        {
+          "title": "Beginners",
+          "year": 2010,
+          "note": "His previous film, about his father coming out and then dying. He started writing it in the grief right after the death, calls that his 'unsober' film, and contrasts its immediate, close-up memories with the more distanced 'lore' of 20th Century Women."
+        },
+        {
+          "title": "Koyaanisqatsi",
+          "year": 1982,
+          "note": "Godfrey Reggio's 'life out of balance' film, sampled and credited on screen inside 20th Century Women. Mills likes texts that disrupt the movie and push viewers toward things they don't know."
+        },
+        {
+          "title": "Pierrot le Fou",
+          "year": 1965,
+          "note": "A Godard touchstone from his art-school years, cited for its graphic, multimedia sensibility that fed the film's collage approach."
+        },
+        {
+          "title": "2 or 3 Things I Know About Her",
+          "year": 1967,
+          "note": "The other Godard film Mills names as an influence on his mixing of image, text, and archival material."
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "Ads": [
+      "The Ringer NFL Show"
+    ]
+  },
+  "tmdb": {
+    "20th Century Women": {
+      "id": 342737,
+      "poster": "/mso2rEr9i0MilRIOao5HaWFipS9.jpg",
+      "title": "20th Century Women",
+      "year": 2016
+    },
+    "Beginners": {
+      "id": 55347,
+      "poster": "/mAquHAmoBgZ1omUNdNsnGVNX74c.jpg",
+      "title": "Beginners",
+      "year": 2011
+    },
+    "Koyaanisqatsi": {
+      "id": 11314,
+      "poster": "/6zCNciRcob8lwuydVXgq0esla8L.jpg",
+      "title": "Koyaanisqatsi",
+      "year": 1983
+    },
+    "Pierrot le Fou": {
+      "id": 2786,
+      "poster": "/i124H6iQB4CawrgFW9aZaZs7OBO.jpg",
+      "title": "Pierrot le Fou",
+      "year": 1965
+    },
+    "2 or 3 Things I Know About Her": {
+      "id": 8074,
+      "poster": "/w1LO1SIrpA4GCjK3ysANr7F3eAN.jpg",
+      "title": "2 or 3 Things I Know About Her",
+      "year": 1967
+    }
+  },
+  "spotifyEpisodeId": "15RbLSC6kTKKhqWE81wsFe"
+}

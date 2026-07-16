@@ -1,0 +1,344 @@
+{
+  "slug": "ferrari-and-top-five-michael-mann-movies",
+  "title": "‘Ferrari’ and Top Five Michael Mann Movies",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2023-12-26",
+  "runtimeMin": 62,
+  "format": "Sean Fennessey, Amanda Dobbins, and Chris Ryan review Michael Mann's ‘Ferrari,’ then each rank their five favorite Mann movies.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘Ferrari’",
+      "films": [
+        {
+          "title": "Ferrari",
+          "year": 2023,
+          "note": "Michael Mann's biopic narrows to a few months of 1957: the money running out, the marriage to Laura (Penélope Cruz) coming apart after their son Dino's death, a second family with Lena (Shailene Woodley), and the Mille Miglia ahead. Sean and Chris both loved it, with Chris calling Adam Driver's Enzo the best performance he saw all year; Amanda liked it but found Woodley miscast. Adapted from Brock Yates's book; Christian Bale and later Hugh Jackman were once attached to the lead. Also with Sarah Gadon, Gabriel Leone, Jack O'Connell, and Patrick Dempsey."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Sean Fennessey's Top 5 Michael Mann Movies",
+      "note": "revealed No. 5 up to No. 1",
+      "subject": "Michael Mann movies",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Thief",
+          "year": 1981,
+          "note": "Sean's No. 1: the punk-rock Mann, James Caan as a repressed, uber-professional safecracker. Robert Prosky is the heavy in disguise."
+        },
+        {
+          "title": "The Insider",
+          "year": 1999,
+          "note": "The tobacco-whistleblower procedural, Pacino and Russell Crowe sniping through an expertly tense script. Sean's No. 2; he'd have ranked it higher were it not for his love of cigarettes."
+        },
+        {
+          "title": "Heat",
+          "year": 1995
+        },
+        {
+          "title": "Manhunter",
+          "year": 1986
+        },
+        {
+          "title": "Collateral",
+          "year": 2004
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Amanda Dobbins's Top 5 Michael Mann Movies",
+      "note": "revealed No. 5 up to No. 1",
+      "subject": "Michael Mann movies",
+      "ranked": true,
+      "films": [
+        {
+          "title": "The Insider",
+          "year": 1999,
+          "note": "Amanda's No. 1: the journalism movie draws her in."
+        },
+        {
+          "title": "Collateral",
+          "year": 2004,
+          "note": "Amanda's No. 2: Tom Cruise playing the heavy, and an L.A.-at-night map she now recognizes as a resident."
+        },
+        {
+          "title": "Heat",
+          "year": 1995
+        },
+        {
+          "title": "Ferrari",
+          "year": 2023
+        },
+        {
+          "title": "The Last of the Mohicans",
+          "year": 1992,
+          "note": "A Christmas gift pick from Sean, who talked her into the slot; she admires it more than she connects to it."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Chris Ryan's Top 5 Michael Mann Movies",
+      "note": "revealed No. 5 up to No. 1",
+      "subject": "Michael Mann movies",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Heat",
+          "year": 1995,
+          "note": "Chris's No. 1, and the film he says he has nothing new left to say about."
+        },
+        {
+          "title": "Manhunter",
+          "year": 1986,
+          "note": "Chris's No. 2 and the Mann he returns to most after Heat, a near-annual watch he pairs with The Silence of the Lambs."
+        },
+        {
+          "title": "Miami Vice",
+          "year": 2006,
+          "note": "Chris's No. 3 and his stated \"terrible joy\": the peak of Mann's digital period, a mess he's come to read as intentional. Neither Sean nor Amanda has it."
+        },
+        {
+          "title": "Thief",
+          "year": 1981
+        },
+        {
+          "title": "Collateral",
+          "year": 2004
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Other Michael Mann films discussed",
+      "films": [
+        "Blackhat",
+        "Public Enemies"
+      ]
+    },
+    {
+      "group": "Mentioned in passing",
+      "films": [
+        "Napoleon",
+        "Bohemian Rhapsody",
+        "Walk Hard: The Dewey Cox Story",
+        "Killers of the Flower Moon",
+        "Steve Jobs",
+        "The Silence of the Lambs",
+        "Prometheus",
+        "Prisoners",
+        "White Noise",
+        "65",
+        "The Pelican Brief",
+        "Babylon",
+        "Goodfellas",
+        "Apollo 13",
+        "Sense and Sensibility",
+        "The Martian",
+        "Pulp Fiction",
+        "Aquaman and the Lost Kingdom",
+        "The Iron Claw"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Miami Vice (1984 TV series)"
+    ],
+    "Podcasts": [
+      "An American Scandival",
+      "The Rewatchables"
+    ],
+    "Other": [
+      "Crunchyroll"
+    ]
+  },
+  "tmdb": {
+    "Ferrari": {
+      "id": 365620,
+      "poster": "/LyCOcGqOTyTmaXu2TK8LfGveIb.jpg",
+      "title": "Ferrari",
+      "year": 2023
+    },
+    "Thief": {
+      "id": 11524,
+      "poster": "/bpjRGwfYJ71bU0hNhLIz7g3t6Oy.jpg",
+      "title": "Thief",
+      "year": 1981
+    },
+    "The Insider": {
+      "id": 9008,
+      "poster": "/w695X0FvTlBCS7GSLHNILnrfqPm.jpg",
+      "title": "The Insider",
+      "year": 1999
+    },
+    "Heat": {
+      "id": 949,
+      "poster": "/e09dLw1Ljtccd2P4NsuUvVtS5du.jpg",
+      "title": "Heat",
+      "year": 1995
+    },
+    "Manhunter": {
+      "id": 11454,
+      "poster": "/6rb24x39vV8n5301IelC8rCPJTH.jpg",
+      "title": "Manhunter",
+      "year": 1986
+    },
+    "Collateral": {
+      "id": 1538,
+      "poster": "/nV5316WUsVij8sVXLCF1g7TFitg.jpg",
+      "title": "Collateral",
+      "year": 2004
+    },
+    "The Last of the Mohicans": {
+      "id": 9361,
+      "poster": "/qzJMPWRtZveBkxXOv3ucWhoJuyj.jpg",
+      "title": "The Last of the Mohicans",
+      "year": 1992
+    },
+    "Miami Vice": {
+      "id": 82,
+      "poster": "/iJPSls4taB09EUKtLj6FjFSprb3.jpg",
+      "title": "Miami Vice",
+      "year": 2006
+    },
+    "Blackhat": {
+      "id": 201088,
+      "poster": "/7zu6HPnKPjNA7NuR4DGRdaH0PdX.jpg",
+      "title": "Blackhat",
+      "year": 2015
+    },
+    "Public Enemies": {
+      "id": 11322,
+      "poster": "/3KgtekisQBrHRsm2cD5UOB6Ce3k.jpg",
+      "title": "Public Enemies",
+      "year": 2009
+    },
+    "Napoleon": {
+      "id": 753342,
+      "poster": "/ytFOXyghxLzAM4KZyazDdEkM66q.jpg",
+      "title": "Napoleon",
+      "year": 2023
+    },
+    "Bohemian Rhapsody": {
+      "id": 424694,
+      "poster": "/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+      "title": "Bohemian Rhapsody",
+      "year": 2018
+    },
+    "Walk Hard: The Dewey Cox Story": {
+      "id": 6575,
+      "poster": "/Aa1IQ4Cuin3d7qIahvPheMmR4E5.jpg",
+      "title": "Walk Hard: The Dewey Cox Story",
+      "year": 2007
+    },
+    "Killers of the Flower Moon": {
+      "id": 466420,
+      "poster": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+      "title": "Killers of the Flower Moon",
+      "year": 2023
+    },
+    "Steve Jobs": {
+      "id": 321697,
+      "poster": "/ljiRO29Y9khEERRqMluptUYunJ9.jpg",
+      "title": "Steve Jobs",
+      "year": 2015
+    },
+    "The Silence of the Lambs": {
+      "id": 274,
+      "poster": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+      "title": "The Silence of the Lambs",
+      "year": 1991
+    },
+    "Prometheus": {
+      "id": 70981,
+      "poster": "/qsYQflQhOuhDpQ0W2aOcwqgDAeI.jpg",
+      "title": "Prometheus",
+      "year": 2012
+    },
+    "Prisoners": {
+      "id": 146233,
+      "poster": "/uhviyknTT5cEQXbn6vWIqfM4vGm.jpg",
+      "title": "Prisoners",
+      "year": 2013
+    },
+    "White Noise": {
+      "id": 744594,
+      "poster": "/kesxNdLZlmGoTRspDHU1WgdEuGw.jpg",
+      "title": "White Noise",
+      "year": 2022
+    },
+    "65": {
+      "id": 700391,
+      "poster": "/rzRb63TldOKdKydCvWJM8B6EkPM.jpg",
+      "title": "65",
+      "year": 2023
+    },
+    "The Pelican Brief": {
+      "id": 9944,
+      "poster": "/7B1HS0SqfJR1jbeHS6V0ZWdzLXP.jpg",
+      "title": "The Pelican Brief",
+      "year": 1993
+    },
+    "Babylon": {
+      "id": 615777,
+      "poster": "/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+      "title": "Babylon",
+      "year": 2022
+    },
+    "Goodfellas": {
+      "id": 769,
+      "poster": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+      "title": "GoodFellas",
+      "year": 1990
+    },
+    "Apollo 13": {
+      "id": 568,
+      "poster": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+      "title": "Apollo 13",
+      "year": 1995
+    },
+    "Sense and Sensibility": {
+      "id": 4584,
+      "poster": "/9YdQ73YmvInxpXZVNjEKePw9tRO.jpg",
+      "title": "Sense and Sensibility",
+      "year": 1995
+    },
+    "The Martian": {
+      "id": 286217,
+      "poster": "/fASz8A0yFE3QB6LgGoOfwvFSseV.jpg",
+      "title": "The Martian",
+      "year": 2015
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "Aquaman and the Lost Kingdom": {
+      "id": 572802,
+      "poster": "/7lTnXOy0iNtBAdRP3TZvaKJ77F6.jpg",
+      "title": "Aquaman and the Lost Kingdom",
+      "year": 2023
+    },
+    "The Iron Claw": {
+      "id": 850165,
+      "poster": "/s2VLjcykJfwplJNGT5iEeCA0mRx.jpg",
+      "title": "The Iron Claw",
+      "year": 2023
+    }
+  },
+  "spotifyEpisodeId": "1RbUtn0OzUoFjYDYQIA76k"
+}

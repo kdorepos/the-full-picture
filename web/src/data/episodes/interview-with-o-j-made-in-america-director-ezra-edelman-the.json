@@ -1,0 +1,90 @@
+{
+  "slug": "interview-with-o-j-made-in-america-director-ezra-edelman-the",
+  "title": "Interview With ‘O.J.: Made in America’ Director Ezra Edelman | The Big Picture (Ep. 3)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2017-02-03",
+  "runtimeMin": 56,
+  "format": "Sean Fennessey talks with Oscar-nominated director Ezra Edelman about the seven-and-a-half-hour first cut of O.J.: Made in America, reading his way into a subject for months, and what O.J. Simpson explains about race, celebrity, and America.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Ezra Edelman on",
+      "films": [
+        {
+          "title": "O.J.: Made in America",
+          "year": 2016,
+          "note": "Commissioned at five hours, screened for ESPN executives at over seven and a half. Edelman says he never cut for time, only for content: the length was the appeal, with O.J. as the lens for a story about Los Angeles, policing, and race."
+        },
+        {
+          "title": "Magic & Bird: A Courtship of Rivals",
+          "year": 2010,
+          "note": "Cited by Fennessey among Edelman's earlier work; Edelman describes building it as concurrent narratives that cut to black between chapters, the same pacing he brought to O.J."
+        },
+        {
+          "title": "Brooklyn Dodgers: The Ghosts of Flatbush",
+          "year": 2007,
+          "note": "The two-hour Dodgers film he co-directed at HBO. As a Brooklyn baseball guy himself, he says this is where he found his footing, sinking into a subject over nine or ten months."
+        },
+        {
+          "title": "The Curious Case of Curt Flood",
+          "year": 2011,
+          "note": "Fennessey singles it out as a favorite; another of Edelman's subjects used prismatically."
+        },
+        {
+          "title": "The Naked Gun",
+          "year": 1988,
+          "note": "Edelman's shorthand for the affection that made audiences refuse O.J.'s guilt: 'I watched him in the naked gun, and he made me laugh.'"
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "Ads": [
+      "The Watch"
+    ],
+    "TV": [
+      "Real Sports with Bryant Gumbel"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Naked Gun": 37136
+  },
+  "tmdb": {
+    "O.J.: Made in America": {
+      "id": 377462,
+      "poster": "/nFmg2G4IJ0x9mALXkYFN8Gw0Dw5.jpg",
+      "title": "O.J.: Made in America",
+      "year": 2016
+    },
+    "Magic & Bird: A Courtship of Rivals": {
+      "id": 41639,
+      "poster": "/yIsR4khvfEFHaDmP9hSgpq4aJIv.jpg",
+      "title": "Magic & Bird: A Courtship of Rivals",
+      "year": 2010
+    },
+    "Brooklyn Dodgers: The Ghosts of Flatbush": {
+      "id": 164379,
+      "poster": null,
+      "title": "Brooklyn Dodgers: The Ghosts of Flatbush",
+      "year": 2007
+    },
+    "The Curious Case of Curt Flood": {
+      "id": 292953,
+      "poster": "/lYH4WqHbpG3l8OJQseZb7DmssI.jpg",
+      "title": "The Curious Case of Curt Flood",
+      "year": 2011
+    },
+    "The Naked Gun": {
+      "id": 37136,
+      "poster": "/zT0mhZqZQJE1gSY5Eg9qcGP4NYo.jpg",
+      "title": "The Naked Gun: From the Files of Police Squad!",
+      "year": 1988
+    }
+  },
+  "spotifyEpisodeId": "6wo4TZujQhRMraT1fcHTPn"
+}

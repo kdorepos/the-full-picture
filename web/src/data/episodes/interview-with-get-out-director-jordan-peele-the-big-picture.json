@@ -1,0 +1,124 @@
+{
+  "slug": "interview-with-get-out-director-jordan-peele-the-big-picture",
+  "title": "Interview With 'Get Out' Director Jordan Peele | The Big Picture (Ep. 6)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2017-03-09",
+  "runtimeMin": 38,
+  "format": "Sean Fennessey talks to Jordan Peele about Get Out, its 70s horror touchstones, and the darker ending he cut.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "Jordan Peele on 'Get Out'",
+      "guest": "Jordan Peele on",
+      "films": [
+        {
+          "title": "Get Out",
+          "year": 2017,
+          "note": "Peele's directorial debut, out about ten days and past $75 million when he sat down. He outlined it from 2008 to 2012, wrote the script around 2014, and shot it in late 2015 and early 2016 with Blumhouse and QC Entertainment. It started as a story about being the outsider at a party before becoming a horror movie about the African-American experience. He built in five twists on purpose and wrote several endings, including darker ones where the arriving cops end things badly, before settling on Chris escaping."
+        },
+        {
+          "title": "Rosemary's Baby",
+          "year": 1968,
+          "note": "The vein Peele places the film in, a horror movie working on society rather than monsters."
+        },
+        {
+          "title": "The Stepford Wives",
+          "year": 1975,
+          "note": "A tonal model. Peele points to how the wives talk like they're in a Clorox ad, a dark satire that stays funny in a subtle way."
+        },
+        {
+          "title": "Scream",
+          "year": 1996,
+          "note": "Its horror-aware, postmodern streak shaped the character Rod, who says what the audience wishes someone would say without breaking the reality."
+        },
+        {
+          "title": "The Shining",
+          "year": 1980,
+          "note": "Peele's benchmark for restraint, one jump scare across an entire creepy movie, though he allowed himself a couple."
+        },
+        {
+          "title": "Funny Games",
+          "year": 1997,
+          "note": "On set, deciding Jeremy's weapon, he ruled out a golf club because Funny Games had already used one and went with a lacrosse stick."
+        },
+        {
+          "title": "Sicario",
+          "year": 2015,
+          "note": "Where Sean had seen star Daniel Kaluuya, alongside Black Mirror."
+        },
+        {
+          "title": "Dirty Dancing",
+          "year": 1987,
+          "note": "Its soundtrack turns up in the movie, one of the needle drops the two of them trade notes on."
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Mad TV",
+      "Key & Peele",
+      "Black Mirror",
+      "The Tracy Morgan Show"
+    ],
+    "Ads": [
+      "AV Club show (Fusion TV)",
+      "TryPod"
+    ]
+  },
+  "tmdb": {
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Rosemary's Baby": {
+      "id": 805,
+      "poster": "/uYgvlHceRFjAFbsNeMInYcLZLUb.jpg",
+      "title": "Rosemary's Baby",
+      "year": 1968
+    },
+    "The Stepford Wives": {
+      "id": 12223,
+      "poster": "/5z1ogJJmQkCoU62VJmut4nnc2qs.jpg",
+      "title": "The Stepford Wives",
+      "year": 1975
+    },
+    "Scream": {
+      "id": 4232,
+      "poster": "/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+      "title": "Scream",
+      "year": 1996
+    },
+    "The Shining": {
+      "id": 694,
+      "poster": "/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg",
+      "title": "The Shining",
+      "year": 1980
+    },
+    "Funny Games": {
+      "id": 10234,
+      "poster": "/48uCNgdyYIoN4ayWjTpLaqSDcWI.jpg",
+      "title": "Funny Games",
+      "year": 1997
+    },
+    "Sicario": {
+      "id": 273481,
+      "poster": "/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+      "title": "Sicario",
+      "year": 2015
+    },
+    "Dirty Dancing": {
+      "id": 88,
+      "poster": "/9Jw6jys7q9gjzVX5zm1z0gC8gY9.jpg",
+      "title": "Dirty Dancing",
+      "year": 1987
+    }
+  },
+  "spotifyEpisodeId": "3DBqRWlBDNrqjLlOGp1hRu"
+}

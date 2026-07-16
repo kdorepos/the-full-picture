@@ -1,0 +1,170 @@
+{
+  "slug": "interview-with-hidden-figures-director-ted-melfi-the-big-pic",
+  "title": "Interview With 'Hidden Figures' Director Ted Melfi | The Big Picture (Ep. 1)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2017-01-13",
+  "runtimeMin": 41,
+  "format": "Sean Fennessey talks to Ted Melfi about Hidden Figures, the year it took to make, and how a movie about math and three black women became the number one film in the country.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "Ted Melfi on 'Hidden Figures'",
+      "guest": "Ted Melfi on",
+      "films": [
+        {
+          "title": "Hidden Figures",
+          "year": 2016,
+          "note": "The number one movie in the country the weekend they talked. Adapted from Margot Lee Shetterly's book about Katherine Johnson, Dorothy Vaughan, and Mary Jackson, the NASA mathematicians behind the Mercury missions. Melfi wrote it off a 55-page book proposal and a first draft by Allison Schroeder, finished the script in December 2015, and was shooting by March 2016; Shetterly's finished book arrived mid-shoot and he refused to read it. He spent a month writing the scene where Jim Parsons explains re-entry math, and the film's last third is verbatim NASA transcripts. Pharrell wrote the score and songs; Hans Zimmer and Ben Wallfisch composed."
+        },
+        {
+          "title": "St. Vincent",
+          "year": 2014,
+          "note": "Melfi's prior feature, with Bill Murray. He'd wanted Taraji P. Henson for it, and contrasts Murray's live-in-the-moment freedom with Kevin Costner's meticulous planning."
+        },
+        {
+          "title": "The Curious Case of Benjamin Button",
+          "year": 2008,
+          "note": "Where Melfi first fell for Taraji P. Henson; she got an Oscar nomination for it."
+        },
+        {
+          "title": "Loving",
+          "year": 2016,
+          "note": "Named alongside Fences and Moonlight as proof the wave of 2016 films wasn't a reaction to Oscars So White; Hollywood had been developing them for years."
+        },
+        {
+          "title": "The Birth of a Nation",
+          "year": 2016,
+          "note": "Melfi notes Nate Parker had been working on it for eight years."
+        },
+        {
+          "title": "Moonlight",
+          "year": 2016,
+          "note": "Cited among the long-gestating films that only looked like a coordinated response."
+        },
+        {
+          "title": "Fences",
+          "year": 2016,
+          "note": "Melfi points to how long Denzel had been circling it. Later the subject of the 'Hidden Fences' red-carpet flubs."
+        },
+        {
+          "title": "Going in Style",
+          "year": 2017,
+          "note": "Where Melfi befriended Dustin Hoffman, who called about Hidden Figures, though Hoffman didn't end up in the film."
+        },
+        {
+          "title": "The Jungle Book",
+          "year": 2016,
+          "note": "His example of a big-budget studio movie that still carries a moral; he praises Jon Favreau's version."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The 'Hidden Fences' Twitter mashups",
+      "films": [
+        "12 Years a Slave",
+        "Lee Daniels' The Butler",
+        "The Color Purple",
+        "Precious"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Precious": 25793,
+    "Lee Daniels' The Butler": 132363
+  },
+  "excluded": {
+    "Not films": [
+      "Hidden Fences (the red-carpet title flub by Jenna Bush Hager and Michael Keaton, not a real movie)"
+    ],
+    "Ads": [
+      "SeatGeek"
+    ]
+  },
+  "tmdb": {
+    "Hidden Figures": {
+      "id": 381284,
+      "poster": "/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg",
+      "title": "Hidden Figures",
+      "year": 2016
+    },
+    "St. Vincent": {
+      "id": 239563,
+      "poster": "/1bb7MTHCIPhpKZFysDpxNaNrdMk.jpg",
+      "title": "St. Vincent",
+      "year": 2014
+    },
+    "The Curious Case of Benjamin Button": {
+      "id": 4922,
+      "poster": "/26wEWZYt6yJkwRVkjcbwJEFh9IS.jpg",
+      "title": "The Curious Case of Benjamin Button",
+      "year": 2008
+    },
+    "Loving": {
+      "id": 339419,
+      "poster": "/teNPeDIRGWxtvMaJsNa7lw5IgiL.jpg",
+      "title": "Loving",
+      "year": 2016
+    },
+    "The Birth of a Nation": {
+      "id": 339408,
+      "poster": "/vlbvPL3uXem7JaVWM2mVHJLkRqW.jpg",
+      "title": "The Birth of a Nation",
+      "year": 2016
+    },
+    "Moonlight": {
+      "id": 376867,
+      "poster": "/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+      "title": "Moonlight",
+      "year": 2016
+    },
+    "Fences": {
+      "id": 393457,
+      "poster": "/8NvnB8aeWQvBEz2ruN4g313j991.jpg",
+      "title": "Fences",
+      "year": 2016
+    },
+    "Going in Style": {
+      "id": 353070,
+      "poster": "/4nfWsdsJfO5srRZgxiWC9xHub0W.jpg",
+      "title": "Going in Style",
+      "year": 2017
+    },
+    "The Jungle Book": {
+      "id": 278927,
+      "poster": "/2Epx7F9X7DrFptn4seqn4mzBVks.jpg",
+      "title": "The Jungle Book",
+      "year": 2016
+    },
+    "12 Years a Slave": {
+      "id": 76203,
+      "poster": "/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+      "title": "12 Years a Slave",
+      "year": 2013
+    },
+    "Lee Daniels' The Butler": {
+      "id": 132363,
+      "poster": "/pAi8Bl3ZKX6pANPVhNwbhbQANop.jpg",
+      "title": "The Butler",
+      "year": 2013
+    },
+    "The Color Purple": {
+      "id": 873,
+      "poster": "/6bvxkcTAXyqxGRwo38mxw92D6Xr.jpg",
+      "title": "The Color Purple",
+      "year": 1985
+    },
+    "Precious": {
+      "id": 25793,
+      "poster": "/d4ltLIDbvZskSwbzXqi0Hfv5ma4.jpg",
+      "title": "Precious: Based on the Novel 'Push' by Sapphire",
+      "year": 2009
+    }
+  },
+  "spotifyEpisodeId": "1RW0p9qbuDjrgaXl0Fccqy"
+}

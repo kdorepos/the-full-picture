@@ -1,0 +1,626 @@
+{
+  "slug": "argylle-and-the-death-of-the-winking-action-movie",
+  "title": "‘Argylle’ and the Death of the Winking Action Movie",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2024-02-07",
+  "runtimeMin": 112,
+  "format": "Sean Fennessey and Amanda Dobbins pan Matthew Vaughn's ‘Argylle’ and use it to chart the rise and fall of the ‘wink action’ movie, then Sean talks to Mads Mikkelsen and Nikolaj Arcel about ‘The Promised Land.’",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "‘Argylle’ and the Death of the Winking Action Movie",
+      "note": "with producer Bobby Wagner",
+      "films": [
+        {
+          "title": "Argylle",
+          "year": 2024,
+          "note": "Matthew Vaughn's roughly $200M spy comedy, which the hosts saw alone and hated. Bryce Dallas Howard plays novelist Ellie Conway, revealed as amnesiac, MK-ULTRA'd agent Rachel Kyle (R. Kyle → \"Argylle\"); Sam Rockwell, Henry Cavill, John Cena, Dua Lipa, Ariana DeBose, and a one-day Samuel L. Jackson fill it out. A C+ CinemaScore and a ~$16M opening against a reported $200M budget. Sean calls it the definitional \"wink action\" movie and the sign the genre is dying."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Mads Mikkelsen and Nikolaj Arcel on ‘The Promised Land’",
+      "guest": "Mads Mikkelsen & Nikolaj Arcel on",
+      "films": [
+        {
+          "title": "The Promised Land",
+          "year": 2023,
+          "note": "Arcel's 1750s Danish historical epic (Danish title \"The Bastard\"), with Mikkelsen as Captain Ludwig Kahlen, a stubborn illegitimate soldier trying to farm the untamable heath. They talk final cut, telling story through Mads's face, and why Danish directors make their worst films in Hollywood."
+        },
+        {
+          "title": "Team America: World Police",
+          "year": 2004,
+          "note": "Mads's last great thing. He'd just watched it for the first time and couldn't stop laughing."
+        },
+        {
+          "title": "Poor Things",
+          "year": 2023,
+          "note": "Arcel's last great thing, seen at Telluride; his favorite Lanthimos."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In the mix (intro)",
+      "films": [
+        "Dune: Part Two",
+        "Monkey Man",
+        "Arthur the King",
+        "The Marvels",
+        "Wish",
+        "Miss Americana",
+        "Lady in the Water",
+        "The Hunt for Red October"
+      ]
+    },
+    {
+      "group": "Action comedies",
+      "films": [
+        "48 Hrs.",
+        "Bad Boys",
+        "Lethal Weapon",
+        "The Last Boy Scout",
+        "Last Action Hero",
+        "Kindergarten Cop",
+        "True Lies",
+        "The Nice Guys",
+        "Child's Play",
+        "Lock, Stock and Two Smoking Barrels",
+        "Snatch"
+      ]
+    },
+    {
+      "group": "Comedy action",
+      "films": [
+        "Rush Hour",
+        "Hot Fuzz",
+        "The Other Guys",
+        "Men in Black",
+        "21 Jump Street",
+        "Midnight Run",
+        "Game Night",
+        "Pineapple Express",
+        "Dungeons & Dragons: Honor Among Thieves"
+      ]
+    },
+    {
+      "group": "Not wink action",
+      "films": [
+        "John Wick"
+      ]
+    },
+    {
+      "group": "Wink action",
+      "films": [
+        "Shoot 'Em Up",
+        "Kick-Ass",
+        "Fast Five",
+        "Deadpool",
+        "Jurassic World",
+        "The Hitman's Bodyguard",
+        "Free Guy",
+        "Red Notice",
+        "Bullet Train",
+        "The Gray Man",
+        "The Fall Guy"
+      ]
+    },
+    {
+      "group": "Matthew Vaughn's other films",
+      "films": [
+        "Layer Cake",
+        "Stardust",
+        "X-Men: First Class",
+        "Kingsman: The Secret Service",
+        "The King's Man"
+      ]
+    },
+    {
+      "group": "The Mark Wahlberg filmography bit",
+      "films": [
+        "Spenser Confidential",
+        "The Family Plan",
+        "Uncharted",
+        "Joe Bell",
+        "Infinite",
+        "Scoob!",
+        "Father Stu",
+        "Me Time",
+        "The Union",
+        "Plane",
+        "Flight Risk"
+      ]
+    },
+    {
+      "group": "Also cited",
+      "films": [
+        "Barbie",
+        "Oppenheimer",
+        "Top Gun: Maverick",
+        "Past Lives",
+        "Mean Girls",
+        "Goodfellas",
+        "Taxi Driver",
+        "King Richard",
+        "Bob Marley: One Love"
+      ]
+    },
+    {
+      "group": "In the Mads Mikkelsen conversation",
+      "films": [
+        "Drive",
+        "Riders of Justice",
+        "Another Round",
+        "Kinds of Kindness"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Mean Girls": 673593,
+    "Child's Play": null
+  },
+  "excluded": {
+    "TV": [
+      "True Detective",
+      "Sesame Street",
+      "Scooby-Doo",
+      "Saturday Night Live"
+    ],
+    "Podcasts": [
+      "The Rewatchables",
+      "The Watch",
+      "The Ringer NFL Draft Show",
+      "Blank Check"
+    ],
+    "Ads": [
+      "Autograph Journey (Wells Fargo)",
+      "Tremfya",
+      "Amazon Prime",
+      "State Farm",
+      "FIFA World Cup (Netflix)"
+    ]
+  },
+  "tmdb": {
+    "Argylle": {
+      "id": 848538,
+      "poster": "/siduVKgOnABO4WH4lOwPQwaGwJp.jpg",
+      "title": "Argylle",
+      "year": 2024
+    },
+    "The Promised Land": {
+      "id": 980026,
+      "poster": "/okVwls2laPGOsLKKhXQCEiTBwpw.jpg",
+      "title": "The Promised Land",
+      "year": 2023
+    },
+    "Team America: World Police": {
+      "id": 3989,
+      "poster": "/m1Q2VFe1DVVbjfu1LDZe7tlp9yb.jpg",
+      "title": "Team America: World Police",
+      "year": 2004
+    },
+    "Poor Things": {
+      "id": 792307,
+      "poster": "/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+      "title": "Poor Things",
+      "year": 2023
+    },
+    "Dune: Part Two": {
+      "id": 693134,
+      "poster": "/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+      "title": "Dune: Part Two",
+      "year": 2024
+    },
+    "Monkey Man": {
+      "id": 560016,
+      "poster": "/4lhR4L2vzzjl68P1zJyCH755Oz4.jpg",
+      "title": "Monkey Man",
+      "year": 2024
+    },
+    "Arthur the King": {
+      "id": 618588,
+      "poster": "/zkKB3kOun5DKAkm61pHvLbrjxfa.jpg",
+      "title": "Arthur the King",
+      "year": 2024
+    },
+    "The Marvels": {
+      "id": 609681,
+      "poster": "/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
+      "title": "The Marvels",
+      "year": 2023
+    },
+    "Wish": {
+      "id": 1022796,
+      "poster": "/nesuSdJakNkf0zs7OfoasB6Clxf.jpg",
+      "title": "Wish",
+      "year": 2023
+    },
+    "Miss Americana": {
+      "id": 653567,
+      "poster": "/z1HiEB1UEfdA5fPkngekjQ2vlCC.jpg",
+      "title": "Miss Americana",
+      "year": 2020
+    },
+    "Lady in the Water": {
+      "id": 9697,
+      "poster": "/ddNmoSy1Jd3PBF5XDZvrrBIfrja.jpg",
+      "title": "Lady in the Water",
+      "year": 2006
+    },
+    "The Hunt for Red October": {
+      "id": 1669,
+      "poster": "/yVl7zidse4KiWtGMqHFtZCx4X3N.jpg",
+      "title": "The Hunt for Red October",
+      "year": 1990
+    },
+    "48 Hrs.": {
+      "id": 150,
+      "poster": "/rvvjXHzEDBIvIVDBHNOwHS7hVPu.jpg",
+      "title": "48 Hrs.",
+      "year": 1982
+    },
+    "Bad Boys": {
+      "id": 9737,
+      "poster": "/x1ygBecKHfXX4M2kRhmFKWfWbJc.jpg",
+      "title": "Bad Boys",
+      "year": 1995
+    },
+    "Lethal Weapon": {
+      "id": 941,
+      "poster": "/fTq4ThIP3pQTYR9eDepsbDHqdcs.jpg",
+      "title": "Lethal Weapon",
+      "year": 1987
+    },
+    "The Last Boy Scout": {
+      "id": 9319,
+      "poster": "/glPswihcZYoAQ4YM2uJF4UACy8T.jpg",
+      "title": "The Last Boy Scout",
+      "year": 1991
+    },
+    "Last Action Hero": {
+      "id": 9593,
+      "poster": "/vkhEaWAv5j3qgrOGp3BgMeiYPKj.jpg",
+      "title": "Last Action Hero",
+      "year": 1993
+    },
+    "Kindergarten Cop": {
+      "id": 951,
+      "poster": "/nKnHWwkXyvhzCYWm3FyRAv3qBrl.jpg",
+      "title": "Kindergarten Cop",
+      "year": 1990
+    },
+    "True Lies": {
+      "id": 36955,
+      "poster": "/pweFTnzzTfGK68woSVkiTgjLzWm.jpg",
+      "title": "True Lies",
+      "year": 1994
+    },
+    "The Nice Guys": {
+      "id": 290250,
+      "poster": "/clq4So9spa9cXk3MZy2iMdqkxP2.jpg",
+      "title": "The Nice Guys",
+      "year": 2016
+    },
+    "Child's Play": null,
+    "Lock, Stock and Two Smoking Barrels": {
+      "id": 100,
+      "poster": "/6pJB2t3MbQUy9m5pFIBHXLqnqNd.jpg",
+      "title": "Lock, Stock and Two Smoking Barrels",
+      "year": 1998
+    },
+    "Snatch": {
+      "id": 107,
+      "poster": "/kJZoAHq1SLDdWjeNGtlHAnGpmFV.jpg",
+      "title": "Snatch",
+      "year": 2000
+    },
+    "Rush Hour": {
+      "id": 2109,
+      "poster": "/nwPhAsfnb7f46bZkWLG7IRP5HXr.jpg",
+      "title": "Rush Hour",
+      "year": 1998
+    },
+    "Hot Fuzz": {
+      "id": 4638,
+      "poster": "/zPib4ukTSdXvHP9pxGkFCe34f3y.jpg",
+      "title": "Hot Fuzz",
+      "year": 2007
+    },
+    "The Other Guys": {
+      "id": 27581,
+      "poster": "/wNEHNqo3MgHmj3BUiPSqqq5czcm.jpg",
+      "title": "The Other Guys",
+      "year": 2010
+    },
+    "Men in Black": {
+      "id": 607,
+      "poster": "/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg",
+      "title": "Men in Black",
+      "year": 1997
+    },
+    "21 Jump Street": {
+      "id": 64688,
+      "poster": "/8v3Sqv9UcIUC4ebmpKWROqPBINZ.jpg",
+      "title": "21 Jump Street",
+      "year": 2012
+    },
+    "Midnight Run": {
+      "id": 9013,
+      "poster": "/yx0touyDQ9enWDsFgS4MbBwCSNd.jpg",
+      "title": "Midnight Run",
+      "year": 1988
+    },
+    "Game Night": {
+      "id": 445571,
+      "poster": "/85R8LMyn9f2Lev2YPBF8Nughrkv.jpg",
+      "title": "Game Night",
+      "year": 2018
+    },
+    "Pineapple Express": {
+      "id": 10189,
+      "poster": "/6E50WjeOYjDZg9HXgPjYdGtY2jG.jpg",
+      "title": "Pineapple Express",
+      "year": 2008
+    },
+    "Dungeons & Dragons: Honor Among Thieves": {
+      "id": 493529,
+      "poster": "/v7UF7ypAqjsFZFdjksjQ7IUpXdn.jpg",
+      "title": "Dungeons & Dragons: Honor Among Thieves",
+      "year": 2023
+    },
+    "John Wick": {
+      "id": 245891,
+      "poster": "/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
+      "title": "John Wick",
+      "year": 2014
+    },
+    "Shoot 'Em Up": {
+      "id": 4141,
+      "poster": "/hZ4p0MvSUWnCCL0IUn47UXTVPCs.jpg",
+      "title": "Shoot 'Em Up",
+      "year": 2007
+    },
+    "Kick-Ass": {
+      "id": 23483,
+      "poster": "/iHMbrTHJwocsNvo5murCBw0CwTo.jpg",
+      "title": "Kick-Ass",
+      "year": 2010
+    },
+    "Fast Five": {
+      "id": 51497,
+      "poster": "/gEfQjjQwY7fh5bI4GlG0RrBu7Pz.jpg",
+      "title": "Fast Five",
+      "year": 2011
+    },
+    "Deadpool": {
+      "id": 293660,
+      "poster": "/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
+      "title": "Deadpool",
+      "year": 2016
+    },
+    "Jurassic World": {
+      "id": 135397,
+      "poster": "/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
+      "title": "Jurassic World",
+      "year": 2015
+    },
+    "The Hitman's Bodyguard": {
+      "id": 390043,
+      "poster": "/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg",
+      "title": "The Hitman's Bodyguard",
+      "year": 2017
+    },
+    "Free Guy": {
+      "id": 550988,
+      "poster": "/dxraF0qPr1OEgJk17ltQTO84kQF.jpg",
+      "title": "Free Guy",
+      "year": 2021
+    },
+    "Red Notice": {
+      "id": 512195,
+      "poster": "/lAXONuqg41NwUMuzMiFvicDET9Y.jpg",
+      "title": "Red Notice",
+      "year": 2021
+    },
+    "Bullet Train": {
+      "id": 718930,
+      "poster": "/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg",
+      "title": "Bullet Train",
+      "year": 2022
+    },
+    "The Gray Man": {
+      "id": 725201,
+      "poster": "/8cXbitsS6dWQ5gfMTZdorpAAzEH.jpg",
+      "title": "The Gray Man",
+      "year": 2022
+    },
+    "The Fall Guy": {
+      "id": 746036,
+      "poster": "/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg",
+      "title": "The Fall Guy",
+      "year": 2024
+    },
+    "Layer Cake": {
+      "id": 4836,
+      "poster": "/rDOxXteqxALBaSa3V3zTjGJuyWB.jpg",
+      "title": "Layer Cake",
+      "year": 2004
+    },
+    "Stardust": {
+      "id": 2270,
+      "poster": "/7zbFmxy3DqKYL2M8Hop6uylp2Uy.jpg",
+      "title": "Stardust",
+      "year": 2007
+    },
+    "X-Men: First Class": {
+      "id": 49538,
+      "poster": "/hNEokmUke0dazoBhttFN0o3L7Xv.jpg",
+      "title": "X-Men: First Class",
+      "year": 2011
+    },
+    "Kingsman: The Secret Service": {
+      "id": 207703,
+      "poster": "/17i5YPTfHOjXoieArpATWGRhLj1.jpg",
+      "title": "Kingsman: The Secret Service",
+      "year": 2015
+    },
+    "The King's Man": {
+      "id": 476669,
+      "poster": "/aq4Pwv5Xeuvj6HZKtxyd23e6bE9.jpg",
+      "title": "The King's Man",
+      "year": 2021
+    },
+    "Spenser Confidential": {
+      "id": 581600,
+      "poster": "/fePczipv6ZzDO2uoww4vTAu2Sq3.jpg",
+      "title": "Spenser Confidential",
+      "year": 2020
+    },
+    "The Family Plan": {
+      "id": 1029575,
+      "poster": "/jLLtx3nTRSLGPAKl4RoIv1FbEBr.jpg",
+      "title": "The Family Plan",
+      "year": 2023
+    },
+    "Uncharted": {
+      "id": 335787,
+      "poster": "/rJHC1RUORuUhtfNb4Npclx0xnOf.jpg",
+      "title": "Uncharted",
+      "year": 2022
+    },
+    "Joe Bell": {
+      "id": 552269,
+      "poster": "/9HfQD60w6f6PPkfdiI6ipJSw0bD.jpg",
+      "title": "Joe Bell",
+      "year": 2020
+    },
+    "Infinite": {
+      "id": 581726,
+      "poster": "/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg",
+      "title": "Infinite",
+      "year": 2021
+    },
+    "Scoob!": {
+      "id": 385103,
+      "poster": "/jHo2M1OiH9Re33jYtUQdfzPeUkx.jpg",
+      "title": "Scoob!",
+      "year": 2020
+    },
+    "Father Stu": {
+      "id": 809140,
+      "poster": "/pLAeWgqXbTeJ2gQtNvRmdIncYsk.jpg",
+      "title": "Father Stu",
+      "year": 2022
+    },
+    "Me Time": {
+      "id": 862551,
+      "poster": "/bkjPoisqAavXUvtoirxTEcLLQyI.jpg",
+      "title": "Me Time",
+      "year": 2022
+    },
+    "The Union": {
+      "id": 704239,
+      "poster": "/d9CTnTHip1RbVi2OQbA2LJJQAGI.jpg",
+      "title": "The Union",
+      "year": 2024
+    },
+    "Plane": {
+      "id": 646389,
+      "poster": "/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg",
+      "title": "Plane",
+      "year": 2023
+    },
+    "Flight Risk": {
+      "id": 1126166,
+      "poster": "/q0bCG4NX32iIEsRFZqRtuvzNCyZ.jpg",
+      "title": "Flight Risk",
+      "year": 2025
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Past Lives": {
+      "id": 666277,
+      "poster": "/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg",
+      "title": "Past Lives",
+      "year": 2023
+    },
+    "Mean Girls": {
+      "id": 673593,
+      "poster": "/fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg",
+      "title": "Mean Girls",
+      "year": 2024
+    },
+    "Goodfellas": {
+      "id": 769,
+      "poster": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+      "title": "GoodFellas",
+      "year": 1990
+    },
+    "Taxi Driver": {
+      "id": 103,
+      "poster": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "title": "Taxi Driver",
+      "year": 1976
+    },
+    "King Richard": {
+      "id": 614917,
+      "poster": "/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg",
+      "title": "King Richard",
+      "year": 2021
+    },
+    "Bob Marley: One Love": {
+      "id": 802219,
+      "poster": "/1lQftpEARVVB9op4TaYiIbactzG.jpg",
+      "title": "Bob Marley: One Love",
+      "year": 2024
+    },
+    "Drive": {
+      "id": 64690,
+      "poster": "/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
+      "title": "Drive",
+      "year": 2011
+    },
+    "Riders of Justice": {
+      "id": 663870,
+      "poster": "/sshNnwmQLk720iBQ0dZg3GVGKfK.jpg",
+      "title": "Riders of Justice",
+      "year": 2020
+    },
+    "Another Round": {
+      "id": 580175,
+      "poster": "/aDcIt4NHURLKnAEu7gow51Yd00Q.jpg",
+      "title": "Another Round",
+      "year": 2020
+    },
+    "Kinds of Kindness": {
+      "id": 1029955,
+      "poster": "/50lPmjIpDs8gKfgK7fPIeKzpllh.jpg",
+      "title": "Kinds of Kindness",
+      "year": 2024
+    }
+  },
+  "spotifyEpisodeId": "2scAZgRaKLIpti2bTTZTmr"
+}

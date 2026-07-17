@@ -1,0 +1,163 @@
+{
+  "slug": "doug-liman-on-the-wall-and-making-movies-his-way-the-big-pic",
+  "title": "Doug Liman on 'The Wall' and Making Movies His Way | The Big Picture (Ep. 13)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Alison Willmore"
+  ],
+  "published": "2017-05-15",
+  "runtimeMin": 41,
+  "format": "Sean Fennessey talks to director Doug Liman about 'The Wall,' his habit of reshooting endings, and stealing shots on 'The Bourne Identity.' BuzzFeed critic Alison Willmore sets up his filmography first.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Placing Doug Liman",
+      "note": "with Alison Willmore",
+      "films": [
+        {
+          "title": "The Wall",
+          "year": 2017,
+          "note": "The new one: a static, near-three-hander war film Willmore calls an inverted 'Bourne Identity,' built on downtime and the tension of deciding when to act."
+        },
+        {
+          "title": "Swingers",
+          "year": 1996,
+          "note": "The L.A. movie that put Jon Favreau in motion."
+        },
+        {
+          "title": "Go",
+          "year": 1999,
+          "note": "Liman's rave picture."
+        },
+        {
+          "title": "Mr. & Mrs. Smith",
+          "year": 2005,
+          "note": "A marriage read into what's on screen; the pair note its newfound resonance."
+        },
+        {
+          "title": "Edge of Tomorrow",
+          "year": 2014,
+          "note": "The Tom Cruise sci-fi film critics loved more than audiences turned out for."
+        },
+        {
+          "title": "Billy Lynn's Long Halftime Walk",
+          "year": 2016,
+          "note": "Cited as another sideways entrance into a present-day war movie."
+        },
+        {
+          "title": "American Sniper",
+          "year": 2014,
+          "note": "Held up as the more black-and-white take, though it still shows war chipping away at a soldier."
+        },
+        {
+          "title": "The Bourne Identity",
+          "year": 2002,
+          "note": "The reference point for how Liman puts you in the car with the character."
+        },
+        {
+          "title": "American Made",
+          "year": 2017,
+          "note": "The next Liman/Cruise film, then months out; a drug-war story with Caleb Landry Jones."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Doug Liman on",
+      "films": [
+        {
+          "title": "The Wall",
+          "year": 2017,
+          "note": "A blacklist script by contest-winner Dwayne, with a villain drawn from the lore of Iraqi sniper Juba. Liman reshot the ending six months later after a friend's screening note, and paid Amazon for the change himself."
+        },
+        {
+          "title": "Mr. & Mrs. Smith",
+          "year": 2005,
+          "note": "A reaction to 'Bourne': maybe it's easy to be an action hero and harder to keep a marriage, so we're celebrating the wrong guy."
+        },
+        {
+          "title": "Edge of Tomorrow",
+          "year": 2014,
+          "note": "Its ending was manufactured in the edit: Cruise laughing at Liman off-camera. They reshot it properly with Emily Blunt but kept the original take."
+        },
+        {
+          "title": "The Bourne Identity",
+          "year": 2002,
+          "note": "The shaky handheld look came from Liman and Matt Damon stealing shots on weekends to dodge a studio telling them what they couldn't do."
+        },
+        {
+          "title": "Swingers",
+          "year": 1996,
+          "note": "Sneaking cameras onto a golf course in mountaineering packs; the ending was fixed with Favreau two weeks before shooting."
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Jetsons"
+    ],
+    "Books": [
+      "The Gargoyle Hunters"
+    ]
+  },
+  "tmdb": {
+    "The Wall": {
+      "id": 405775,
+      "poster": "/8POAZwZpp24l1IgKKM8ZRAQ2kid.jpg",
+      "title": "The Wall",
+      "year": 2017
+    },
+    "Swingers": {
+      "id": 10218,
+      "poster": "/rRjWk68kU3a2so4lgr3TKB7Y5vA.jpg",
+      "title": "Swingers",
+      "year": 1996
+    },
+    "Go": {
+      "id": 9430,
+      "poster": "/7UzD5Dmu3jqb2ls4Lnb4SYQqbYm.jpg",
+      "title": "Go",
+      "year": 1999
+    },
+    "Mr. & Mrs. Smith": {
+      "id": 787,
+      "poster": "/kjD700RtyhveN3ZbOnSvUSne0Qj.jpg",
+      "title": "Mr. & Mrs. Smith",
+      "year": 2005
+    },
+    "Edge of Tomorrow": {
+      "id": 137113,
+      "poster": "/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
+      "title": "Edge of Tomorrow",
+      "year": 2014
+    },
+    "Billy Lynn's Long Halftime Walk": {
+      "id": 293767,
+      "poster": "/jjuDRavgTazvs5ishEgnfZ8YhbV.jpg",
+      "title": "Billy Lynn's Long Halftime Walk",
+      "year": 2016
+    },
+    "American Sniper": {
+      "id": 190859,
+      "poster": "/i1U46OwMc6vlm7OoSUKfqUH615e.jpg",
+      "title": "American Sniper",
+      "year": 2014
+    },
+    "The Bourne Identity": {
+      "id": 2501,
+      "poster": "/aP8swke3gmowbkfZ6lmNidu0y9p.jpg",
+      "title": "The Bourne Identity",
+      "year": 2002
+    },
+    "American Made": {
+      "id": 337170,
+      "poster": "/23ILgoPSO5ShKcTZOuiTVfqFAUB.jpg",
+      "title": "American Made",
+      "year": 2017
+    }
+  }
+}

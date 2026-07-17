@@ -1,0 +1,129 @@
+{
+  "slug": "errol-morris-s-catnip-for-conspiracy-theorists-the-big-pictu",
+  "title": "Errol Morris's Catnip for Conspiracy Theorists",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2017-12-01",
+  "runtimeMin": 28,
+  "format": "Sean Fennessey sits down with documentarian Errol Morris about 'Wormwood,' his MKUltra project for Netflix, the detective work behind his films, and the day he interviewed Donald Trump about 'Citizen Kane.'",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Errol Morris on",
+      "films": [
+        {
+          "title": "Wormwood",
+          "year": 2017,
+          "note": "Morris's four-hour Netflix project on Frank Olson, the army bioweapons scientist dosed with LSD under the CIA's MKUltra program, who went out a 13th-story window of the Statler hotel in 1953. Built from CIA documents that don't quite cohere, it mixes Eric Olson's decades-long investigation into his father's death with dramatic scenes led by Peter Sarsgaard, and shot Eric with ten cameras to match its collage structure."
+        },
+        {
+          "title": "The Thin Blue Line",
+          "year": 1988,
+          "note": "The film Morris is proudest of. A milkshake splat hand-labeled on the Dallas crime-scene diagram told him a police officer's partner never left the car until after the shooting; the investigation freed a wrongly convicted man and named the real killer. The Oscars disqualified it, which still galls him."
+        },
+        {
+          "title": "The Unknown Known",
+          "year": 2013,
+          "note": "His Donald Rumsfeld interview, which Morris found all good cheer and knee-jerk denial with nothing behind it. Rumsfeld reappears in Wormwood, a callback of sorts."
+        },
+        {
+          "title": "An Education",
+          "year": 2009,
+          "note": "The scene of Peter Sarsgaard sitting silently in a car sold Morris on him: 'you're really great when you're doing nothing.' Frank Olson does much the same in Wormwood."
+        },
+        {
+          "title": "Citizen Kane",
+          "year": 1941,
+          "note": "Interviewed by Morris for an Academy Awards piece on favorite films, Trump identified with Charles Foster Kane and, asked what advice he'd give him, said: 'Get yourself a different woman.' Morris files it under irony deficit disorder."
+        },
+        {
+          "title": "King Kong",
+          "year": 1933,
+          "note": "The clip Morris actually used in the Oscars film was Trump talking about King Kong taking over New York."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "The Manchurian Candidate",
+        "Rashomon",
+        "Chappaquiddick",
+        "Darkest Hour"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Nathan for You"
+    ]
+  },
+  "tmdb": {
+    "Wormwood": {
+      "id": 482806,
+      "poster": "/fDNeVq8JJq7BWxVuKnzQ84e88Xw.jpg",
+      "title": "Wormwood",
+      "year": 2017
+    },
+    "The Thin Blue Line": {
+      "id": 14285,
+      "poster": "/4w4BJk3l8y9gYwPPLRs6uPHOmGL.jpg",
+      "title": "The Thin Blue Line",
+      "year": 1988
+    },
+    "The Unknown Known": {
+      "id": 209799,
+      "poster": "/8BiCtoif98SAhSRRNfshRL75xCW.jpg",
+      "title": "The Unknown Known",
+      "year": 2013
+    },
+    "An Education": {
+      "id": 24684,
+      "poster": "/gLIvvUdlocGjm8XVLxhWHAKWrRq.jpg",
+      "title": "An Education",
+      "year": 2009
+    },
+    "Citizen Kane": {
+      "id": 15,
+      "poster": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+      "title": "Citizen Kane",
+      "year": 1941
+    },
+    "King Kong": {
+      "id": 244,
+      "poster": "/lHlnxKL5GbgRibyRFI7n1Ey850i.jpg",
+      "title": "King Kong",
+      "year": 1933
+    },
+    "The Manchurian Candidate": {
+      "id": 982,
+      "poster": "/2xQ856kd9hw6bB3OnusGyTvvkwB.jpg",
+      "title": "The Manchurian Candidate",
+      "year": 1962
+    },
+    "Rashomon": {
+      "id": 548,
+      "poster": "/ijWibsAU1iBcCD8tuIZfTmDzMVE.jpg",
+      "title": "Rashomon",
+      "year": 1950
+    },
+    "Chappaquiddick": {
+      "id": 432301,
+      "poster": "/kkTD7ufZd7AqAnZP5IMnrQXKRpM.jpg",
+      "title": "Chappaquiddick",
+      "year": 2018
+    },
+    "Darkest Hour": {
+      "id": 399404,
+      "poster": "/xa6G3aKlysQeVg9wOb0dRcIGlWu.jpg",
+      "title": "Darkest Hour",
+      "year": 2017
+    }
+  }
+}

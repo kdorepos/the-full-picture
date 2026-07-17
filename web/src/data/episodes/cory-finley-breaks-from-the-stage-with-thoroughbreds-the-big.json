@@ -1,0 +1,120 @@
+{
+  "slug": "cory-finley-breaks-from-the-stage-with-thoroughbreds-the-big",
+  "title": "Cory Finley Breaks From the Stage with 'Thoroughbreds'",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2018-03-09",
+  "runtimeMin": 26,
+  "format": "Playwright-turned-director Cory Finley on making Thoroughbreds, his debut about two Connecticut teenagers plotting a stepfather's murder.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Cory Finley on",
+      "films": [
+        {
+          "title": "Thoroughbreds",
+          "year": 2017,
+          "note": "Finley's first feature, adapted from his own two-hander play; started with the image of a euthanized horse before the characters arrived."
+        },
+        {
+          "title": "The Shining",
+          "year": 1980,
+          "note": "A touchstone with the DP for making a claustrophobic space feel huge."
+        },
+        {
+          "title": "Heathers",
+          "year": 1988,
+          "note": "Named in the intro as a reference point for the film's teenage malice."
+        },
+        {
+          "title": "The Witch",
+          "year": 2015,
+          "note": "The only Anya Taylor-Joy performance Finley had seen when he cast her."
+        },
+        {
+          "title": "Get Out",
+          "year": 2017,
+          "note": "Cited as proof it had been a strong year for thrillers."
+        },
+        {
+          "title": "Dunkirk",
+          "year": 2017,
+          "note": "Finley points to a Nolan interview on suspense as the film's visual language."
+        },
+        {
+          "title": "Raw",
+          "year": 2016,
+          "note": "Finley's top movie of the year so far, in a how-soon-will-I-vomit way."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In the outro",
+      "films": [
+        "A Wrinkle in Time"
+      ]
+    }
+  ],
+  "excluded": {
+    "Ads": [
+      "The JJ Redick podcast"
+    ]
+  },
+  "tmdb": {
+    "Thoroughbreds": {
+      "id": 397722,
+      "poster": "/dBhskn3zQZu1DKy1ZjjmJRxJUxm.jpg",
+      "title": "Thoroughbreds",
+      "year": 2018
+    },
+    "The Shining": {
+      "id": 694,
+      "poster": "/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg",
+      "title": "The Shining",
+      "year": 1980
+    },
+    "Heathers": {
+      "id": 2640,
+      "poster": "/dGbVfM4WlM7uvIbyRehfPZUIgp2.jpg",
+      "title": "Heathers",
+      "year": 1989
+    },
+    "The Witch": {
+      "id": 310131,
+      "poster": "/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
+      "title": "The Witch",
+      "year": 2016
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Dunkirk": {
+      "id": 374720,
+      "poster": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "title": "Dunkirk",
+      "year": 2017
+    },
+    "Raw": {
+      "id": 393519,
+      "poster": "/kc8jT1MAiKM0iwdjAwC5lQrTNry.jpg",
+      "title": "Raw",
+      "year": 2017
+    },
+    "A Wrinkle in Time": {
+      "id": 407451,
+      "poster": "/yAcb58vipewa1BfNit2RjE6boXA.jpg",
+      "title": "A Wrinkle in Time",
+      "year": 2018
+    }
+  },
+  "spotifyEpisodeId": "4LtCC9MjO44sJtEWufjN4p"
+}

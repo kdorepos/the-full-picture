@@ -1,0 +1,145 @@
+{
+  "slug": "do-you-love-scary-dinosaurs-j-a-bayonas-jurassic-world-falle",
+  "title": "Do You Love Scary Dinosaurs? J.A. Bayona’s 'Jurassic World: Fallen Kingdom' Has Scary Dinosaurs",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2018-06-22",
+  "runtimeMin": 19,
+  "format": "Sean Fennessey talks to J.A. Bayona about directing 'Jurassic World: Fallen Kingdom': why he turned down the first film, the gothic-mansion second half, animatronics over green screen, and designing the Indoraptor.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "J.A. Bayona on",
+      "films": [
+        {
+          "title": "Jurassic World: Fallen Kingdom",
+          "year": 2018,
+          "note": "The subject. Bayona took the reins from Colin Trevorrow, pulling the dinosaurs off the island and into a gothic-mansion second half he shot like a haunted-house movie."
+        },
+        {
+          "title": "Jurassic World",
+          "year": 2015,
+          "note": "Trevorrow's revival, the fifth-highest grosser at the time. Frank Marshall offered it to Bayona first, but with no script and a six-month turnaround he passed; they came back to him with the sequel."
+        },
+        {
+          "title": "Jurassic Park",
+          "year": 1993,
+          "note": "Spielberg's 1993 original. Bayona's favorite scenes as a kid were the first T-Rex reveal and the raptors stalking the kitchen."
+        },
+        {
+          "title": "The Orphanage",
+          "year": 2007,
+          "note": "Bayona's debut. Fennessey hears its quiet, lurking mood echoed in Hereditary."
+        },
+        {
+          "title": "A Monster Calls",
+          "year": 2016,
+          "note": "Bayona's tree-monster film, built with CGI plus animatronics. It's where his monster-as-solution idea comes from, an idea he ports onto the T-Rex as the consequence of what humans did wrong."
+        },
+        {
+          "title": "Raiders of the Lost Ark",
+          "year": 1981,
+          "note": "Rewatched as a reference for Spielberg's blend of adventure and visual comedy."
+        },
+        {
+          "title": "Indiana Jones and the Temple of Doom",
+          "year": 1984,
+          "note": "Also rewatched as a reference point."
+        },
+        {
+          "title": "King Kong",
+          "year": 1933,
+          "note": "Bayona revisited the original to study scale, big against small. The Indoraptor's introduction carries a King Kong element."
+        },
+        {
+          "title": "Ready Player One",
+          "year": 2018,
+          "note": "Cited as the kind of big, original fantasy that also talks about the world we live in, which is what Bayona wants to make."
+        },
+        {
+          "title": "The Post",
+          "year": 2017,
+          "note": "Spielberg's other recent film, held up as the small, meaningful counterpart to the blockbuster."
+        },
+        {
+          "title": "Hereditary",
+          "year": 2018,
+          "note": "Bayona's last great thing, seen two days before taping. He calls it fascinating and uncomfortable, close to the cinema of David Lynch."
+        }
+      ]
+    }
+  ],
+  "excluded": {},
+  "tmdb": {
+    "Jurassic World: Fallen Kingdom": {
+      "id": 351286,
+      "poster": "/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg",
+      "title": "Jurassic World: Fallen Kingdom",
+      "year": 2018
+    },
+    "Jurassic World": {
+      "id": 135397,
+      "poster": "/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
+      "title": "Jurassic World",
+      "year": 2015
+    },
+    "Jurassic Park": {
+      "id": 329,
+      "poster": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "title": "Jurassic Park",
+      "year": 1993
+    },
+    "The Orphanage": {
+      "id": 6537,
+      "poster": "/vIpi1KtHLXUOfSVC2m6MqpjSPgL.jpg",
+      "title": "The Orphanage",
+      "year": 2007
+    },
+    "A Monster Calls": {
+      "id": 258230,
+      "poster": "/vNzWJwVqjszWwXrA7ZfsrJmhgV9.jpg",
+      "title": "A Monster Calls",
+      "year": 2016
+    },
+    "Raiders of the Lost Ark": {
+      "id": 85,
+      "poster": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+      "title": "Raiders of the Lost Ark",
+      "year": 1981
+    },
+    "Indiana Jones and the Temple of Doom": {
+      "id": 87,
+      "poster": "/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg",
+      "title": "Indiana Jones and the Temple of Doom",
+      "year": 1984
+    },
+    "King Kong": {
+      "id": 244,
+      "poster": "/lHlnxKL5GbgRibyRFI7n1Ey850i.jpg",
+      "title": "King Kong",
+      "year": 1933
+    },
+    "Ready Player One": {
+      "id": 333339,
+      "poster": "/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
+      "title": "Ready Player One",
+      "year": 2018
+    },
+    "The Post": {
+      "id": 446354,
+      "poster": "/h4XG3g6uMMPIBPjAoQhC2QIMdkl.jpg",
+      "title": "The Post",
+      "year": 2017
+    },
+    "Hereditary": {
+      "id": 493922,
+      "poster": "/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+      "title": "Hereditary",
+      "year": 2018
+    }
+  }
+}

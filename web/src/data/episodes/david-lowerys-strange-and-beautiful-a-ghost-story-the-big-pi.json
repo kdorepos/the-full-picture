@@ -1,0 +1,255 @@
+{
+  "slug": "david-lowerys-strange-and-beautiful-a-ghost-story-the-big-pi",
+  "title": "David Lowery's Strange and Beautiful 'A Ghost Story' | The Big Picture (Ep. 17)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2017-07-06",
+  "runtimeMin": 48,
+  "format": "Sean Fennessey sets the scene on 'A Ghost Story' with Vanity Fair critic Richard Lawson, then talks to David Lowery the week the film opens: the bedsheet ghost he sat on for a decade, a 30-page script, the movie made in secret, and the existential crisis behind it.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Setting the scene at Sundance",
+      "note": "with Richard Lawson, Vanity Fair",
+      "films": [
+        {
+          "title": "A Ghost Story",
+          "year": 2017,
+          "note": "Lawson was at the film's off-the-radar Sundance premiere. Casey Affleck dies early and haunts the home he shared with Rooney Mara as a sheet with eye holes cut out; divisive for its lack of conventional structure, but Lawson found it hopeful. He praises Lowery's warmth over the bleakness he sees in a lot of young filmmakers."
+        },
+        {
+          "title": "Pete's Dragon",
+          "year": 2016,
+          "note": "Lowery's Disney remake, the film he made just before this one; Lawson likes how he folds a Disney ethos and folkloric quality into work at any budget."
+        },
+        {
+          "title": "It Comes at Night",
+          "year": 2017,
+          "note": "Lawson's example of the bleak direction young independent filmmakers tend toward, the trend he thinks Lowery refreshingly avoids."
+        },
+        {
+          "title": "Ain't Them Bodies Saints",
+          "year": 2013,
+          "note": "Cited as evidence Lowery keeps jumping genres while holding onto a consistent core."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "David Lowery on",
+      "films": [
+        {
+          "title": "A Ghost Story",
+          "year": 2017,
+          "note": "The bedsheet-ghost image had been in his head almost 10 years. He wrote it in a spontaneous burst finishing post on 'Pete's Dragon' (10 pages the first night, 30 by the next day) and wrote running times into scenes so the crew understood a single line of action might hold for a five-minute take. Shot in secret; kept quiet so a failure could be buried. The 1.33:1 frame with vignettes suits a character trapped in a box, and evokes his parents' slide projections."
+        },
+        {
+          "title": "St. Nick",
+          "year": 2009,
+          "note": "His first feature, written the same dialogue-light way from a 20-page script; his proof to himself that a thin script could yield a feature-length film."
+        },
+        {
+          "title": "Pete's Dragon",
+          "year": 2016,
+          "note": "The six-month shoot left him worn out and, turning 34, sinking into nihilistic thoughts about mortality: the existential crisis that produced 'A Ghost Story.' Still, he calls it the work he's most proud of."
+        },
+        {
+          "title": "Ain't Them Bodies Saints",
+          "year": 2013,
+          "note": "He stopped reading his own reviews during its release. He hasn't watched it in four years and doesn't want to."
+        },
+        {
+          "title": "The Conjuring 2",
+          "year": 2016,
+          "note": "He saw it right before production and flipped for it; the family-haunting sequence became a surprising visual touchstone for the film's language."
+        },
+        {
+          "title": "Syndromes and a Century",
+          "year": 2006,
+          "note": "The Apichatpong Weerasethakul film he and his cinematographer watched before shooting."
+        },
+        {
+          "title": "Uncle Boonmee Who Can Recall His Past Lives",
+          "year": 2010,
+          "note": "He started to rewatch it and stopped, worried they'd get too close to it. The man in a gorilla suit with light-up LED eyes, goofy yet haunting, was a model for their own Halloween-costume spirit."
+        },
+        {
+          "title": "The Lost City of Z",
+          "year": 2017,
+          "note": "Comes up as he talks about his next film, another David Grann adaptation; he cites James Gray's version as proof Grann's journalism already reads like a finished movie."
+        },
+        {
+          "title": "The Beguiled",
+          "year": 2017,
+          "note": "He saw the new Sofia Coppola the other night, loved it, and caught himself wondering mid-screening whether it would feel great to him in a year or two."
+        },
+        {
+          "title": "Marie Antoinette",
+          "year": 2006,
+          "note": "His favorite Coppola and, he says, a masterpiece, though he can't remember whether he felt that on first viewing."
+        },
+        {
+          "title": "A Quiet Passion",
+          "year": 2016,
+          "note": "One of his recent favorites; Terence Davies's Emily Dickinson film, which he found passionate despite its muted title."
+        },
+        {
+          "title": "Nocturama",
+          "year": 2016,
+          "note": "Bertrand Bonello's film, which he caught at the Seattle festival and called extraordinarily provocative and well-made."
+        },
+        {
+          "title": "Personal Shopper",
+          "year": 2016,
+          "note": "His favorite film of the year so far; he suggests it would make a fantastic double feature with 'A Ghost Story.'"
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Genre reference points",
+      "films": [
+        "Poltergeist",
+        "The Conjuring"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Zodiac",
+        "House of Pleasures",
+        "Manchester by the Sea"
+      ]
+    }
+  ],
+  "excluded": {
+    "Ads": [
+      "Dolby Voice",
+      "Dolby Conference Phone",
+      "BlueJeans Huddle",
+      "Mack Weldon"
+    ]
+  },
+  "tmdb": {
+    "A Ghost Story": {
+      "id": 428449,
+      "poster": "/rp5JPIyZi9sMob15l46zNQLe5cO.jpg",
+      "title": "A Ghost Story",
+      "year": 2017
+    },
+    "Pete's Dragon": {
+      "id": 294272,
+      "poster": "/A9x4Ogk8KUXTfU649NS6lS9TCmu.jpg",
+      "title": "Pete's Dragon",
+      "year": 2016
+    },
+    "It Comes at Night": {
+      "id": 418078,
+      "poster": "/rNKJpFMlOZn5zkzBPZxEJrQn5Km.jpg",
+      "title": "It Comes at Night",
+      "year": 2017
+    },
+    "Ain't Them Bodies Saints": {
+      "id": 152748,
+      "poster": "/xkGkVjeMcvEg7P3VxWy8wYBJ7Dv.jpg",
+      "title": "Ain't Them Bodies Saints",
+      "year": 2013
+    },
+    "St. Nick": {
+      "id": 145874,
+      "poster": "/nSgzBNs5w2zupGHPZA76MVA04rX.jpg",
+      "title": "St. Nick",
+      "year": 2009
+    },
+    "The Conjuring 2": {
+      "id": 259693,
+      "poster": "/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg",
+      "title": "The Conjuring 2",
+      "year": 2016
+    },
+    "Syndromes and a Century": {
+      "id": 27904,
+      "poster": "/1XUMd93PRMUkCtE2NWn0zQb1NC6.jpg",
+      "title": "Syndromes and a Century",
+      "year": 2006
+    },
+    "Uncle Boonmee Who Can Recall His Past Lives": {
+      "id": 38368,
+      "poster": "/kPFkC9EBvllCIuDTR7A0DSEK6gJ.jpg",
+      "title": "Uncle Boonmee Who Can Recall His Past Lives",
+      "year": 2010
+    },
+    "The Lost City of Z": {
+      "id": 314095,
+      "poster": "/8SxHVNk6tqXYwygmDzz1YuJEm2J.jpg",
+      "title": "The Lost City of Z",
+      "year": 2017
+    },
+    "The Beguiled": {
+      "id": 399019,
+      "poster": "/x4R9jyiZhJzevASus5n6WyHQTdR.jpg",
+      "title": "The Beguiled",
+      "year": 2017
+    },
+    "Marie Antoinette": {
+      "id": 1887,
+      "poster": "/cybXGmv8Rjd5Os8Xml6YxMBQ0Zt.jpg",
+      "title": "Marie Antoinette",
+      "year": 2006
+    },
+    "A Quiet Passion": {
+      "id": 368942,
+      "poster": "/k2WWlrMbuINyzDCfBuD48eN22QY.jpg",
+      "title": "A Quiet Passion",
+      "year": 2016
+    },
+    "Nocturama": {
+      "id": 380623,
+      "poster": "/wvIYfhw1OJXbsAXqYQhfB2F7DTI.jpg",
+      "title": "Nocturama",
+      "year": 2016
+    },
+    "Personal Shopper": {
+      "id": 340676,
+      "poster": "/cdm6qZgmbaIwjKBZnUSGWS4eyM2.jpg",
+      "title": "Personal Shopper",
+      "year": 2016
+    },
+    "Poltergeist": {
+      "id": 609,
+      "poster": "/4eMN3GANH5GG4kXdHkrTZEUuQ9M.jpg",
+      "title": "Poltergeist",
+      "year": 1982
+    },
+    "The Conjuring": {
+      "id": 138843,
+      "poster": "/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+      "title": "The Conjuring",
+      "year": 2013
+    },
+    "Zodiac": {
+      "id": 1949,
+      "poster": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+      "title": "Zodiac",
+      "year": 2007
+    },
+    "House of Pleasures": {
+      "id": 84427,
+      "poster": "/adkiqkEOKW8nMlfF8hVcaPWTAwB.jpg",
+      "title": "House of Pleasures",
+      "year": 2011
+    },
+    "Manchester by the Sea": {
+      "id": 334541,
+      "poster": "/o9VXYOuaJxCEKOxbA86xqtwmqYn.jpg",
+      "title": "Manchester by the Sea",
+      "year": 2016
+    }
+  },
+  "spotifyEpisodeId": "0pMbwxcEUCIix4NvBjZX9D"
+}

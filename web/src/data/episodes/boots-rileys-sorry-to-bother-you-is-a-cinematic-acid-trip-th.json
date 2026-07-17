@@ -1,0 +1,191 @@
+{
+  "slug": "boots-rileys-sorry-to-bother-you-is-a-cinematic-acid-trip-th",
+  "title": "Boots Riley’s ‘Sorry to Bother You’ Is a Cinematic Acid Trip",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2018-07-09",
+  "runtimeMin": 41,
+  "format": "Sean Fennessey talks with Boots Riley about his debut feature: the white-voice telemarketing satire, the seven-year road from screenplay to Sundance, and how a musician with no film credits got this cast to sign on.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "Boots Riley on his debut feature",
+      "guest": "Boots Riley on",
+      "films": [
+        {
+          "title": "Sorry to Bother You",
+          "year": 2018,
+          "note": "Lakeith Stanfield plays an Oakland telemarketer who strikes gold once he adopts a \"white voice.\" Riley wrote it in 2011-12, put out a Coup album inspired by the script to drum up interest, then got it into print via Dave Eggers before Sundance's screenwriters and directors labs. Shot 61 locations in 28 days on a union budget."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Touchstones he named",
+      "films": [
+        {
+          "title": "Putney Swope",
+          "year": 1969,
+          "note": "Fennessey's reference point for the film's absurdist streak."
+        },
+        {
+          "title": "Pee-wee's Big Adventure",
+          "year": 1985,
+          "note": "Another comparison for the \"I don't know what's going on right now\" register."
+        },
+        {
+          "title": "Mishima: A Life in Four Chapters",
+          "year": 1985,
+          "note": "Paul Schrader's golden-pavilion scene was Riley's model for an entranced elevator moment; he had to pull it up on YouTube to show the crew."
+        },
+        {
+          "title": "The Killing of a Sacred Deer",
+          "year": 2017,
+          "note": "Riley's answer for the last great thing he'd seen: he liked how its off-kilter performances unsettled him and primed him for anything."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Careers and comparisons",
+      "films": [
+        "Get Out",
+        "Swiss Army Man",
+        "The Florida Project",
+        "Nashville",
+        "Madame Satã",
+        "Futuro Beach",
+        "Ocean's Eight",
+        "Tron",
+        "Park"
+      ]
+    },
+    {
+      "group": "On the way out",
+      "films": [
+        "Don't Worry, He Won't Get Far on Foot",
+        "The First Purge"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Park": 413600
+  },
+  "excluded": {
+    "TV": [
+      "Atlanta"
+    ],
+    "Books": [
+      "Song of Solomon",
+      "Midnight's Children"
+    ],
+    "Music": [
+      "The Coup",
+      "Ass-Breath Killers",
+      "Me and Jesus the Pimp"
+    ]
+  },
+  "tmdb": {
+    "Sorry to Bother You": {
+      "id": 424781,
+      "poster": "/peTl1V04E9ppvhgvNmSX0r2ALqO.jpg",
+      "title": "Sorry to Bother You",
+      "year": 2018
+    },
+    "Putney Swope": {
+      "id": 32575,
+      "poster": "/77hzrjyRGCuytrz6xYc8Cv2JPDy.jpg",
+      "title": "Putney Swope",
+      "year": 1969
+    },
+    "Pee-wee's Big Adventure": {
+      "id": 5683,
+      "poster": "/414IUXc54mrhX88ZUQiRDLXn01i.jpg",
+      "title": "Pee-wee's Big Adventure",
+      "year": 1985
+    },
+    "Mishima: A Life in Four Chapters": {
+      "id": 27064,
+      "poster": "/4kIXsE4SwUjO0eUqpolsHNO5GLH.jpg",
+      "title": "Mishima: A Life in Four Chapters",
+      "year": 1985
+    },
+    "The Killing of a Sacred Deer": {
+      "id": 399057,
+      "poster": "/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg",
+      "title": "The Killing of a Sacred Deer",
+      "year": 2017
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Swiss Army Man": {
+      "id": 347031,
+      "poster": "/xE2QfqvAGI8n8ckIiy9FzS9XF94.jpg",
+      "title": "Swiss Army Man",
+      "year": 2016
+    },
+    "The Florida Project": {
+      "id": 394117,
+      "poster": "/5QnDxdJg1fi6uMSkSi4x8tHsltm.jpg",
+      "title": "The Florida Project",
+      "year": 2017
+    },
+    "Nashville": {
+      "id": 3121,
+      "poster": "/twl4ovyjb8muFKvZmcCDzPR0hy1.jpg",
+      "title": "Nashville",
+      "year": 1975
+    },
+    "Madame Satã": {
+      "id": 46993,
+      "poster": "/rgsrsLJXzzmMiTvatmEhXU8fMY2.jpg",
+      "title": "Madame Satã",
+      "year": 2002
+    },
+    "Futuro Beach": {
+      "id": 227975,
+      "poster": "/lologg70UiUMok8ijdSfDzBwR0N.jpg",
+      "title": "Futuro Beach",
+      "year": 2014
+    },
+    "Ocean's Eight": {
+      "id": 402900,
+      "poster": "/MvYpKlpFukTivnlBhizGbkAe3v.jpg",
+      "title": "Ocean's Eight",
+      "year": 2018
+    },
+    "Tron": {
+      "id": 97,
+      "poster": "/jigY9B6TKz4qlfikZcd18qtzTK4.jpg",
+      "title": "Tron",
+      "year": 1982
+    },
+    "Park": {
+      "id": 413600,
+      "poster": "/eLlOhbyWcV9MIk5nfFENww79e77.jpg",
+      "title": "Park",
+      "year": 2016
+    },
+    "Don't Worry, He Won't Get Far on Foot": {
+      "id": 443009,
+      "poster": "/rKsiN37qMt8jad5GikZzSeevyI9.jpg",
+      "title": "Don't Worry, He Won't Get Far on Foot",
+      "year": 2018
+    },
+    "The First Purge": {
+      "id": 442249,
+      "poster": "/litjsBoiydO6JlO70uOX4N3WnNL.jpg",
+      "title": "The First Purge",
+      "year": 2018
+    }
+  },
+  "spotifyEpisodeId": "3zdK67cuIoDc62CQnKVbEq"
+}

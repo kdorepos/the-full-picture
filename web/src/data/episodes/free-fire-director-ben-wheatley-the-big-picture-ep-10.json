@@ -1,0 +1,152 @@
+{
+  "slug": "free-fire-director-ben-wheatley-the-big-picture-ep-10",
+  "title": "'Free Fire' Director Ben Wheatley | The Big Picture (Ep. 10)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2017-04-21",
+  "runtimeMin": 30,
+  "format": "Sean Fennessey talks to Ben Wheatley about 'Free Fire,' contained action, and pre-vising a shootout in Minecraft.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "Ben Wheatley on 'Free Fire'",
+      "guest": "Ben Wheatley on",
+      "films": [
+        {
+          "title": "Free Fire",
+          "year": 2016,
+          "note": "A 1970s arms deal that collapses into a single-warehouse shootout, with Brie Larson, Armie Hammer, and Cillian Murphy. Wheatley traced it back to a forensic FBI report on a Miami gunfight, and built the set in Minecraft to walk the space before shooting; executive produced by Martin Scorsese."
+        },
+        {
+          "title": "Kill List",
+          "year": 2011,
+          "note": "The film that got Scorsese's attention. Wheatley uses it as his benchmark for how much dread an audience can take."
+        },
+        {
+          "title": "A Field in England",
+          "year": 2013,
+          "note": "Wheatley's bucket-list shot: a musket firing into a puff of dust."
+        },
+        {
+          "title": "High-Rise",
+          "year": 2015,
+          "note": "The cerebral, talky film 'Free Fire' was a deliberate reaction against."
+        },
+        {
+          "title": "Sightseers",
+          "year": 2012,
+          "note": "His prior comedy — 120 hours of rushes, he notes, arguing the case for shooting digital."
+        },
+        {
+          "title": "Battles Without Honor and Humanity",
+          "year": 1973,
+          "note": "Kinji Fukasaku's Yakuza saga, which Wheatley picks as the thing that recently knocked his socks off — a box set he watched over three or four days."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Taxi Driver",
+        "Mean Streets",
+        "The Friends of Eddie Coyle",
+        "The Wolf of Wall Street",
+        "The Terminator"
+      ]
+    },
+    {
+      "group": "In development",
+      "films": [
+        "Freak Shift"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Doctor Who",
+      "Deep Breath"
+    ],
+    "Comics": [
+      "Hard Boiled"
+    ]
+  },
+  "tmdb": {
+    "Free Fire": {
+      "id": 334521,
+      "poster": "/olpgs0OPE8sdBGcuuWhKYzxAwN4.jpg",
+      "title": "Free Fire",
+      "year": 2017
+    },
+    "Kill List": {
+      "id": 74725,
+      "poster": "/qwT2I3ons0oD58jIppKmd4qLtvB.jpg",
+      "title": "Kill List",
+      "year": 2011
+    },
+    "A Field in England": {
+      "id": 179111,
+      "poster": "/dKhMJr8yoHVyvxyUiAeIn2hKVdL.jpg",
+      "title": "A Field in England",
+      "year": 2013
+    },
+    "High-Rise": {
+      "id": 254302,
+      "poster": "/47aaJXO87scDABLUT7vg2bHsdrF.jpg",
+      "title": "High-Rise",
+      "year": 2015
+    },
+    "Sightseers": {
+      "id": 117974,
+      "poster": "/l52cpdZcVkEVTaLqga6xxSQoaKX.jpg",
+      "title": "Sightseers",
+      "year": 2012
+    },
+    "Battles Without Honor and Humanity": {
+      "id": 34326,
+      "poster": "/qQmEEj5B3bTQI8Dq8u4zq80Z7JL.jpg",
+      "title": "Battles Without Honor and Humanity",
+      "year": 1973
+    },
+    "Taxi Driver": {
+      "id": 103,
+      "poster": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "title": "Taxi Driver",
+      "year": 1976
+    },
+    "Mean Streets": {
+      "id": 203,
+      "poster": "/9msfwOeGc9uL1iRRTBdEf15XonC.jpg",
+      "title": "Mean Streets",
+      "year": 1973
+    },
+    "The Friends of Eddie Coyle": {
+      "id": 25680,
+      "poster": "/tyV8Bgf2huCIbGUxTdGgnzdIRKZ.jpg",
+      "title": "The Friends of Eddie Coyle",
+      "year": 1973
+    },
+    "The Wolf of Wall Street": {
+      "id": 106646,
+      "poster": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+      "title": "The Wolf of Wall Street",
+      "year": 2013
+    },
+    "The Terminator": {
+      "id": 218,
+      "poster": "/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+      "title": "The Terminator",
+      "year": 1984
+    },
+    "Freak Shift": {
+      "id": 748855,
+      "poster": null,
+      "title": "Freak Shift",
+      "year": null
+    }
+  }
+}

@@ -167,7 +167,7 @@
               "title": "Moonlight",
               "year": 2016,
               "category": "Drama",
-              "note": "The Best Picture winner. Amanda points to how it conveys who a person is, not just what happens to them."
+              "note": "The Best Picture winner. Amanda points to how it conveys who a person is, rather than what happens to them."
             },
             {
               "title": "The Invitation",
@@ -283,6 +283,10 @@
       "Botox",
       "Athletic Brewing Company"
     ]
+  },
+  "tmdbOverrides": {
+    "Moana": 277834,
+    "The Magnificent Seven": 333484
   },
   "tmdb": {
     "California Split": {
@@ -586,10 +590,10 @@
       "year": 2016
     },
     "Moana": {
-      "id": 1108427,
-      "poster": "/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+      "id": 277834,
+      "poster": "/m5MDZOIFEFlxGiLuAzWzFSsWcye.jpg",
       "title": "Moana",
-      "year": 2026
+      "year": 2016
     },
     "Fantastic Beasts and Where to Find Them": {
       "id": 259316,
@@ -598,10 +602,10 @@
       "year": 2016
     },
     "The Magnificent Seven": {
-      "id": 966,
-      "poster": "/e5ToxOyJwuZD4VOfI0qEn5uIjeJ.jpg",
+      "id": 333484,
+      "poster": "/ezcS78TIjgr85pVdaPDd2rSPVNs.jpg",
       "title": "The Magnificent Seven",
-      "year": 1960
+      "year": 2016
     },
     "Doctor Strange": {
       "id": 284052,

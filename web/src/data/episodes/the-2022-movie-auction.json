@@ -1,0 +1,873 @@
+{
+  "slug": "the-2022-movie-auction",
+  "title": "The 2022 Movie Auction!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2022-01-21",
+  "runtimeMin": 83,
+  "format": "The fake-money movie auction returns for 2022, after a heated pre-show fight over what happens to last year's unreleased picks. Sean, Amanda, and Chris Ryan each get $1,000 to draft five upcoming films.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "Scream",
+      "note": "quick hit before the auction",
+      "films": [
+        {
+          "title": "Scream",
+          "year": 2022,
+          "note": "the fifth entry, directed by Matt Bettinelli-Olpin and Tyler Gillette; a requel, not a reboot."
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "heading": "Recapping the 2021 auctions",
+      "note": "what each host got last time, and what never came out",
+      "picks": [
+        {
+          "title": "Top Gun: Maverick",
+          "year": 2022,
+          "by": "Sean Fennessey"
+        },
+        {
+          "title": "Dune",
+          "year": 2021,
+          "by": "Sean Fennessey"
+        },
+        {
+          "title": "The Matrix Resurrections",
+          "year": 2021,
+          "by": "Sean Fennessey"
+        },
+        {
+          "title": "Black Widow",
+          "year": 2021,
+          "by": "Sean Fennessey",
+          "note": "a pick Sean now regrets."
+        },
+        {
+          "title": "Cry Macho",
+          "year": 2021,
+          "by": "Sean Fennessey"
+        },
+        {
+          "title": "The Tragedy of Macbeth",
+          "year": 2021,
+          "by": "Sean Fennessey"
+        },
+        {
+          "title": "Halloween Kills",
+          "year": 2021,
+          "by": "Sean Fennessey"
+        },
+        {
+          "title": "Licorice Pizza",
+          "year": 2021,
+          "by": "Sean Fennessey",
+          "note": "drafted under its working title, Soggy Bottom."
+        },
+        {
+          "title": "The Harder They Fall",
+          "year": 2021,
+          "by": "Sean Fennessey"
+        },
+        {
+          "title": "The Card Counter",
+          "year": 2021,
+          "by": "Sean Fennessey"
+        },
+        {
+          "title": "The Beatles: Get Back",
+          "year": 2021,
+          "by": "Amanda Dobbins"
+        },
+        {
+          "title": "No Time to Die",
+          "year": 2021,
+          "by": "Amanda Dobbins"
+        },
+        {
+          "title": "No Sudden Move",
+          "year": 2021,
+          "by": "Amanda Dobbins"
+        },
+        {
+          "title": "The Last Duel",
+          "year": 2021,
+          "by": "Amanda Dobbins"
+        },
+        {
+          "title": "The French Dispatch",
+          "year": 2021,
+          "by": "Amanda Dobbins"
+        },
+        {
+          "title": "Blonde",
+          "year": 2022,
+          "by": "Amanda Dobbins",
+          "note": "still had no release date at auction time."
+        },
+        {
+          "title": "Don't Look Up",
+          "year": 2021,
+          "by": "Amanda Dobbins"
+        },
+        {
+          "title": "The Power of the Dog",
+          "year": 2021,
+          "by": "Amanda Dobbins"
+        },
+        {
+          "title": "King Richard",
+          "year": 2021,
+          "by": "Amanda Dobbins"
+        },
+        {
+          "title": "West Side Story",
+          "year": 2021,
+          "by": "Amanda Dobbins"
+        },
+        {
+          "title": "House of Gucci",
+          "year": 2021,
+          "by": "Chris Ryan"
+        },
+        {
+          "title": "The Velvet Underground",
+          "year": 2021,
+          "by": "Chris Ryan",
+          "note": "Chris's favorite film of 2021."
+        },
+        {
+          "title": "The Guilty",
+          "year": 2021,
+          "by": "Chris Ryan",
+          "note": "Chris admits he never actually watched it."
+        },
+        {
+          "title": "Next Goal Wins",
+          "year": 2023,
+          "by": "Chris Ryan",
+          "note": "didn't come out that year."
+        },
+        {
+          "title": "Last Night in Soho",
+          "year": 2021,
+          "by": "Chris Ryan"
+        },
+        {
+          "title": "Eternals",
+          "year": 2021,
+          "by": "Chris Ryan",
+          "note": "Chris later trashed it on the podcast."
+        },
+        {
+          "title": "Spiderhead",
+          "year": 2022,
+          "by": "Chris Ryan",
+          "note": "drafted as 'Escape From Spider-Head'; nobody was sure it had even been shot yet."
+        },
+        {
+          "title": "Venom: Let There Be Carnage",
+          "year": 2021,
+          "by": "Chris Ryan"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "year": 2021,
+          "by": "Chris Ryan"
+        },
+        {
+          "title": "Red, White and Water",
+          "year": 2022,
+          "by": "Chris Ryan",
+          "note": "an unreleased Jennifer Lawrence project Chris paid a surprising $490 for."
+        }
+      ]
+    },
+    {
+      "kind": "auction",
+      "heading": "The 2022 movie auction",
+      "saleLabel": "The 2022 movie auction",
+      "slates": [
+        {
+          "host": "Sean Fennessey",
+          "spent": 907,
+          "budgetLeft": 93,
+          "picks": [
+            {
+              "title": "Nope",
+              "year": 2022,
+              "price": 410,
+              "note": "Jordan Peele; won a long bidding war with Chris."
+            },
+            {
+              "title": "Babylon",
+              "year": 2022,
+              "price": 180,
+              "note": "Damien Chazelle; Brad Pitt, Margot Robbie."
+            },
+            {
+              "title": "The Killer",
+              "year": 2022,
+              "price": 170,
+              "note": "David Fincher; Michael Fassbender."
+            },
+            {
+              "title": "Spider-Man: Across the Spider-Verse",
+              "year": 2022,
+              "price": 81,
+              "note": "billed at the time as 'Part 1'; Amanda bid it up despite her no-animation rule."
+            },
+            {
+              "title": "The Northman",
+              "year": 2022,
+              "price": 66,
+              "note": "Robert Eggers; outbid Chris by a dollar over his ceiling."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "spent": 970,
+          "budgetLeft": 30,
+          "picks": [
+            {
+              "title": "Top Gun: Maverick",
+              "year": 2022,
+              "price": 375,
+              "note": "rolled over from last year's auction after a rules fight; Amanda says she'd have paid more."
+            },
+            {
+              "title": "Mission: Impossible – Dead Reckoning Part One",
+              "year": 2022,
+              "price": 330,
+              "note": "referred to on air as 'Mission Impossible 7'."
+            },
+            {
+              "title": "Maestro",
+              "year": 2022,
+              "price": 100,
+              "note": "Bradley Cooper directs and stars as Leonard Bernstein; Carey Mulligan, Jeremy Strong."
+            },
+            {
+              "title": "She Said",
+              "year": 2022,
+              "price": 100,
+              "note": "adaptation of the Jodi Kantor/Megan Twohey book on the Weinstein investigation; Carey Mulligan, Zoe Kazan."
+            },
+            {
+              "title": "Don't Worry Darling",
+              "year": 2022,
+              "price": 65,
+              "note": "Olivia Wilde; Florence Pugh, Harry Styles."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "spent": 1000,
+          "budgetLeft": 0,
+          "picks": [
+            {
+              "title": "Glass Onion: A Knives Out Mystery",
+              "year": 2022,
+              "price": 250,
+              "note": "called 'Knives Out 2' on air; set in Greece, with Daniel Craig, Dave Bautista, Edward Norton, Janelle Monae, Kathryn Hahn, Leslie Odom Jr., Kate Hudson, and Ethan Hawke."
+            },
+            {
+              "title": "Killers of the Flower Moon",
+              "year": 2022,
+              "price": 450,
+              "note": "Martin Scorsese adapts David Grann's book; Leonardo DiCaprio, Robert De Niro, Jesse Plemons, Jason Isbell."
+            },
+            {
+              "title": "White Noise",
+              "year": 2022,
+              "price": 200,
+              "note": "Noah Baumbach adapts Don DeLillo's novel; Adam Driver, Greta Gerwig, Don Cheadle."
+            },
+            {
+              "title": "Bullet Train",
+              "year": 2022,
+              "price": 35,
+              "note": "David Leitch; Brad Pitt, Sandra Bullock, Aaron Taylor-Johnson, Brian Tyree Henry, Michael Shannon."
+            },
+            {
+              "title": "Men",
+              "year": 2022,
+              "price": 65,
+              "note": "Alex Garland's follow-up to Annihilation; Jessie Buckley."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Avatar: The Way of Water",
+        "Black Panther: Wakanda Forever",
+        "Doctor Strange in the Multiverse of Madness",
+        "Thor: Love and Thunder",
+        "Creed III",
+        "Minions: The Rise of Gru",
+        "Napoleon",
+        "The Fabelmans",
+        "Asteroid City",
+        "Halloween Ends",
+        "Amsterdam",
+        "Armageddon Time",
+        "The Super Mario Bros. Movie",
+        "Beau Is Afraid",
+        "The Batman",
+        "Turning Red",
+        "Chip 'n Dale: Rescue Rangers",
+        "Trolls Band Together",
+        "DC League of Super-Pets",
+        "Lyle, Lyle, Crocodile"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Scream talk",
+      "films": [
+        "Halloween Kills",
+        "Clerks"
+      ]
+    },
+    {
+      "group": "Scorsese rewatchables, name-checked",
+      "films": [
+        "Color of Money",
+        "Casino",
+        "Goodfellas",
+        "The Departed",
+        "The Age of Innocence",
+        "The Wolf of Wall Street"
+      ]
+    },
+    {
+      "group": "Comparisons and asides",
+      "films": [
+        "Get Out",
+        "Shutter Island",
+        "Marriage Story",
+        "Nightmare Alley",
+        "A Star Is Born",
+        "The Lost City of Z",
+        "Good Time",
+        "Cosmopolis",
+        "Game 6"
+      ]
+    },
+    {
+      "group": "Teased for the Sundance retrospective",
+      "films": [
+        "Reservoir Dogs",
+        "In the Soup"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Vigil",
+      "The Book of Boba Fett",
+      "Moon Knight",
+      "Hacks",
+      "Ozark"
+    ],
+    "Games": [
+      "FIFA World Cup Launch Edition"
+    ],
+    "Ads": [
+      "Higher Learning",
+      "FanDuel Sportsbook",
+      "Carvana",
+      "Boar's Head"
+    ]
+  },
+  "tmdb": {
+    "Scream": {
+      "id": 646385,
+      "poster": "/nD4M4Bx457ryLuKYpxFwQ2IBJ5w.jpg",
+      "title": "Scream",
+      "year": 2022
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Dune": {
+      "id": 438631,
+      "poster": "/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "title": "Dune",
+      "year": 2021
+    },
+    "The Matrix Resurrections": {
+      "id": 624860,
+      "poster": "/8c4a8kE7PizaGQQnditMmI1xbRp.jpg",
+      "title": "The Matrix Resurrections",
+      "year": 2021
+    },
+    "Black Widow": {
+      "id": 497698,
+      "poster": "/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+      "title": "Black Widow",
+      "year": 2021
+    },
+    "Cry Macho": {
+      "id": 749274,
+      "poster": "/esrzqq7Ud8yoslFTu3J5HqTJVOQ.jpg",
+      "title": "Cry Macho",
+      "year": 2021
+    },
+    "The Tragedy of Macbeth": {
+      "id": 591538,
+      "poster": "/tDNJEhcLbX3jIk3BMCur9pCdaVD.jpg",
+      "title": "The Tragedy of Macbeth",
+      "year": 2021
+    },
+    "Halloween Kills": {
+      "id": 610253,
+      "poster": "/ir9eyz1mtgsohjvo7UYtqUfFuES.jpg",
+      "title": "Halloween Kills",
+      "year": 2021
+    },
+    "Licorice Pizza": {
+      "id": 718032,
+      "poster": "/ivXtvzfliGvoJ1DhSHIGyYBToWe.jpg",
+      "title": "Licorice Pizza",
+      "year": 2021
+    },
+    "The Harder They Fall": {
+      "id": 618162,
+      "poster": "/su9WzL7lwUZPhjH6eZByAYFx2US.jpg",
+      "title": "The Harder They Fall",
+      "year": 2021
+    },
+    "The Card Counter": {
+      "id": 643532,
+      "poster": "/y5DNLVg0gPiGSkuK4yFc4fjQ42Q.jpg",
+      "title": "The Card Counter",
+      "year": 2021
+    },
+    "The Beatles: Get Back": null,
+    "No Time to Die": {
+      "id": 370172,
+      "poster": "/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+      "title": "No Time to Die",
+      "year": 2021
+    },
+    "No Sudden Move": {
+      "id": 649409,
+      "poster": "/kARdPEc4b32GQlHmJXMhGOCplEA.jpg",
+      "title": "No Sudden Move",
+      "year": 2021
+    },
+    "The Last Duel": {
+      "id": 617653,
+      "poster": "/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg",
+      "title": "The Last Duel",
+      "year": 2021
+    },
+    "The French Dispatch": null,
+    "Blonde": {
+      "id": 301502,
+      "poster": "/mEeHqtnWOR44vLCutEFku2WK6ou.jpg",
+      "title": "Blonde",
+      "year": 2022
+    },
+    "Don't Look Up": {
+      "id": 646380,
+      "poster": "/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+      "title": "Don't Look Up",
+      "year": 2021
+    },
+    "The Power of the Dog": {
+      "id": 600583,
+      "poster": "/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg",
+      "title": "The Power of the Dog",
+      "year": 2021
+    },
+    "King Richard": {
+      "id": 614917,
+      "poster": "/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg",
+      "title": "King Richard",
+      "year": 2021
+    },
+    "West Side Story": {
+      "id": 511809,
+      "poster": "/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+      "title": "West Side Story",
+      "year": 2021
+    },
+    "House of Gucci": {
+      "id": 644495,
+      "poster": "/oJCQjD2byiVF1EG408F9dBn9ndU.jpg",
+      "title": "House of Gucci",
+      "year": 2021
+    },
+    "The Velvet Underground": {
+      "id": 543836,
+      "poster": "/9uRF6vERWfhlSZKc1sAJTTdG2Ix.jpg",
+      "title": "The Velvet Underground",
+      "year": 2021
+    },
+    "The Guilty": {
+      "id": 567748,
+      "poster": "/m8aR1k35oZMOzZ1kYWUyt401mwq.jpg",
+      "title": "The Guilty",
+      "year": 2021
+    },
+    "Next Goal Wins": {
+      "id": 621587,
+      "poster": "/xTQCL1zGugIck8MgvJ2lXSrxENR.jpg",
+      "title": "Next Goal Wins",
+      "year": 2023
+    },
+    "Last Night in Soho": {
+      "id": 576845,
+      "poster": "/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg",
+      "title": "Last Night in Soho",
+      "year": 2021
+    },
+    "Eternals": {
+      "id": 524434,
+      "poster": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+      "title": "Eternals",
+      "year": 2021
+    },
+    "Spiderhead": {
+      "id": 615469,
+      "poster": "/7COPO5B9AOKIB4sEkvNu0wfve3c.jpg",
+      "title": "Spiderhead",
+      "year": 2022
+    },
+    "Venom: Let There Be Carnage": {
+      "id": 580489,
+      "poster": "/pzKsRuKLFmYrW5Q0q8E8G78Tcgo.jpg",
+      "title": "Venom: Let There Be Carnage",
+      "year": 2021
+    },
+    "Spider-Man: No Way Home": {
+      "id": 634649,
+      "poster": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "title": "Spider-Man: No Way Home",
+      "year": 2021
+    },
+    "Red, White and Water": null,
+    "Nope": {
+      "id": 762504,
+      "poster": "/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
+      "title": "Nope",
+      "year": 2022
+    },
+    "Babylon": {
+      "id": 615777,
+      "poster": "/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+      "title": "Babylon",
+      "year": 2022
+    },
+    "The Killer": {
+      "id": 800158,
+      "poster": "/ipkcgvN7h3yZnbYowthloHLKsf4.jpg",
+      "title": "The Killer",
+      "year": 2023
+    },
+    "Spider-Man: Across the Spider-Verse": {
+      "id": 569094,
+      "poster": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "year": 2023
+    },
+    "The Northman": {
+      "id": 639933,
+      "poster": "/aSSJMnHknzKjlZ6zybwD7eyJ4Po.jpg",
+      "title": "The Northman",
+      "year": 2022
+    },
+    "Mission: Impossible – Dead Reckoning Part One": {
+      "id": 575264,
+      "poster": "/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "year": 2023
+    },
+    "Maestro": {
+      "id": 523607,
+      "poster": "/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg",
+      "title": "Maestro",
+      "year": 2023
+    },
+    "She Said": {
+      "id": 837881,
+      "poster": "/jG4UI2dbNWlWtTTupjeU3fRJ5Fn.jpg",
+      "title": "She Said",
+      "year": 2022
+    },
+    "Don't Worry Darling": {
+      "id": 619730,
+      "poster": "/jOqxKIOC92BVyinYO1Fm73XY7Tc.jpg",
+      "title": "Don't Worry Darling",
+      "year": 2022
+    },
+    "Glass Onion: A Knives Out Mystery": {
+      "id": 661374,
+      "poster": "/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
+      "title": "Glass Onion: A Knives Out Mystery",
+      "year": 2022
+    },
+    "Killers of the Flower Moon": {
+      "id": 466420,
+      "poster": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+      "title": "Killers of the Flower Moon",
+      "year": 2023
+    },
+    "White Noise": {
+      "id": 744594,
+      "poster": "/kesxNdLZlmGoTRspDHU1WgdEuGw.jpg",
+      "title": "White Noise",
+      "year": 2022
+    },
+    "Bullet Train": {
+      "id": 718930,
+      "poster": "/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg",
+      "title": "Bullet Train",
+      "year": 2022
+    },
+    "Men": {
+      "id": 780609,
+      "poster": "/jo1Kv3P3UgDVk7JnUFr2Cl8WWUM.jpg",
+      "title": "Men",
+      "year": 2022
+    },
+    "Avatar: The Way of Water": {
+      "id": 76600,
+      "poster": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "title": "Avatar: The Way of Water",
+      "year": 2022
+    },
+    "Black Panther: Wakanda Forever": {
+      "id": 505642,
+      "poster": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+      "title": "Black Panther: Wakanda Forever",
+      "year": 2022
+    },
+    "Doctor Strange in the Multiverse of Madness": {
+      "id": 453395,
+      "poster": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "year": 2022
+    },
+    "Thor: Love and Thunder": {
+      "id": 616037,
+      "poster": "/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+      "title": "Thor: Love and Thunder",
+      "year": 2022
+    },
+    "Creed III": {
+      "id": 677179,
+      "poster": "/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg",
+      "title": "Creed III",
+      "year": 2023
+    },
+    "Minions: The Rise of Gru": {
+      "id": 438148,
+      "poster": "/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg",
+      "title": "Minions: The Rise of Gru",
+      "year": 2022
+    },
+    "Napoleon": {
+      "id": 753342,
+      "poster": "/ytFOXyghxLzAM4KZyazDdEkM66q.jpg",
+      "title": "Napoleon",
+      "year": 2023
+    },
+    "The Fabelmans": {
+      "id": 804095,
+      "poster": "/h7llKkqkkJtJrTOaDLuVeUYDQ7I.jpg",
+      "title": "The Fabelmans",
+      "year": 2022
+    },
+    "Asteroid City": {
+      "id": 747188,
+      "poster": "/hfo7pvL9Fys7rocfL4VOzw9qDEQ.jpg",
+      "title": "Asteroid City",
+      "year": 2023
+    },
+    "Halloween Ends": {
+      "id": 616820,
+      "poster": "/q06saepaXeBdkMibuN4R2fXmgIw.jpg",
+      "title": "Halloween Ends",
+      "year": 2022
+    },
+    "Amsterdam": {
+      "id": 664469,
+      "poster": "/6sJcVzGCwrDCBMV0DU6eRzA2UxM.jpg",
+      "title": "Amsterdam",
+      "year": 2022
+    },
+    "Armageddon Time": {
+      "id": 615952,
+      "poster": "/wMK717aDWhboXOiVbZ9sLBqLmKh.jpg",
+      "title": "Armageddon Time",
+      "year": 2022
+    },
+    "The Super Mario Bros. Movie": {
+      "id": 502356,
+      "poster": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+      "title": "The Super Mario Bros. Movie",
+      "year": 2023
+    },
+    "Beau Is Afraid": {
+      "id": 798286,
+      "poster": "/wgVkkjigF31r1nZV80uV0xNIoun.jpg",
+      "title": "Beau Is Afraid",
+      "year": 2023
+    },
+    "The Batman": {
+      "id": 414906,
+      "poster": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "title": "The Batman",
+      "year": 2022
+    },
+    "Turning Red": {
+      "id": 508947,
+      "poster": "/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
+      "title": "Turning Red",
+      "year": 2022
+    },
+    "Chip 'n Dale: Rescue Rangers": {
+      "id": 420821,
+      "poster": "/7UGmn8TyWPPzkjhLUW58cOUHjPS.jpg",
+      "title": "Chip 'n Dale: Rescue Rangers",
+      "year": 2022
+    },
+    "Trolls Band Together": {
+      "id": 901362,
+      "poster": "/3ySgD2xwasTHOK6R9bNZiEwKgYo.jpg",
+      "title": "Trolls Band Together",
+      "year": 2023
+    },
+    "DC League of Super-Pets": {
+      "id": 539681,
+      "poster": "/qpPMewlugFaejXjz4YNDnpTniFX.jpg",
+      "title": "DC League of Super-Pets",
+      "year": 2022
+    },
+    "Lyle, Lyle, Crocodile": {
+      "id": 830784,
+      "poster": "/dN6XnCEP3AO7N4XFOFyZ8V8kZF5.jpg",
+      "title": "Lyle, Lyle, Crocodile",
+      "year": 2022
+    },
+    "Clerks": {
+      "id": 2292,
+      "poster": "/9IiSgiq4h4siTIS9H3o4nZ3h5L9.jpg",
+      "title": "Clerks",
+      "year": 1994
+    },
+    "Color of Money": null,
+    "Casino": {
+      "id": 524,
+      "poster": "/gziIkUSnYuj9ChCi8qOu2ZunpSC.jpg",
+      "title": "Casino",
+      "year": 1995
+    },
+    "Goodfellas": {
+      "id": 769,
+      "poster": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+      "title": "GoodFellas",
+      "year": 1990
+    },
+    "The Departed": {
+      "id": 1422,
+      "poster": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+      "title": "The Departed",
+      "year": 2006
+    },
+    "The Age of Innocence": {
+      "id": 10436,
+      "poster": "/5Tuyt26v7qNR8Cl3m7ZRx36rduf.jpg",
+      "title": "The Age of Innocence",
+      "year": 1993
+    },
+    "The Wolf of Wall Street": {
+      "id": 106646,
+      "poster": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+      "title": "The Wolf of Wall Street",
+      "year": 2013
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Shutter Island": {
+      "id": 11324,
+      "poster": "/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+      "title": "Shutter Island",
+      "year": 2010
+    },
+    "Marriage Story": {
+      "id": 492188,
+      "poster": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+      "title": "Marriage Story",
+      "year": 2019
+    },
+    "Nightmare Alley": {
+      "id": 597208,
+      "poster": "/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg",
+      "title": "Nightmare Alley",
+      "year": 2021
+    },
+    "A Star Is Born": {
+      "id": 332562,
+      "poster": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "title": "A Star Is Born",
+      "year": 2018
+    },
+    "The Lost City of Z": {
+      "id": 314095,
+      "poster": "/8SxHVNk6tqXYwygmDzz1YuJEm2J.jpg",
+      "title": "The Lost City of Z",
+      "year": 2017
+    },
+    "Good Time": {
+      "id": 429200,
+      "poster": "/yE1c9hj5Hf8a9KplAdRdhADqUro.jpg",
+      "title": "Good Time",
+      "year": 2017
+    },
+    "Cosmopolis": {
+      "id": 49014,
+      "poster": "/kXoaAmh0kkcAqW0ikafWEvqVezJ.jpg",
+      "title": "Cosmopolis",
+      "year": 2012
+    },
+    "Game 6": {
+      "id": 80919,
+      "poster": "/nwXLO5SWMt7xTIPhPMcM1qBZJxg.jpg",
+      "title": "Game 6",
+      "year": 2006
+    },
+    "Reservoir Dogs": {
+      "id": 500,
+      "poster": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+      "title": "Reservoir Dogs",
+      "year": 1992
+    },
+    "In the Soup": {
+      "id": 52936,
+      "poster": "/kj7j6q8g3kptgqnpjpZlr5det2I.jpg",
+      "title": "In the Soup",
+      "year": 1992
+    }
+  }
+}

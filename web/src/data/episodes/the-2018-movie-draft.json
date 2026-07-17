@@ -19,7 +19,7 @@
         {
           "title": "Green Book",
           "year": 2018,
-          "note": "The Best Picture winner. The hosts liked it fine on first viewing as a lighthearted crowd-pleaser, but say it hasn't aged well against everything the backlash over its handling of the real-life story surfaced afterward."
+          "note": "The Best Picture winner. The hosts liked it fine on first viewing, a lighthearted crowd-pleaser, but say it hasn't aged well once you factor in the backlash over how it handled the real-life story."
         },
         {
           "title": "Roma",
@@ -49,7 +49,7 @@
         {
           "title": "Avengers: Infinity War",
           "year": 2018,
-          "note": "The hosts call it the moment the MCU fully became 'the movies now' -- stars, directors, and studios all funneling into one franchise."
+          "note": "The hosts call it the moment the MCU fully became 'the movies now': stars, directors, and studios all funneling into one franchise."
         },
         {
           "title": "Widows",
@@ -90,7 +90,7 @@
               "title": "Black Panther",
               "year": 2018,
               "category": "Oscar Nominee",
-              "note": "Her first-overall pick. She remembers an electric opening-weekend screening at the Hollywood Arclight and says it made her believe again that these movies could hold real ideas."
+              "note": "Her first-overall pick. She remembers a packed opening-weekend screening at the Hollywood Arclight and says it made her believe again that these movies could hold real ideas."
             },
             {
               "title": "A Quiet Place",
@@ -102,7 +102,7 @@
               "title": "Crazy Rich Asians",
               "year": 2018,
               "category": "Blockbuster",
-              "note": "Jon M. Chu's adaptation of Kevin Kwan's novel. She calls it smart, funny, and knowingly frivolous, and wishes the delayed sequel had a bigger budget."
+              "note": "Jon M. Chu's adaptation of Kevin Kwan's novel. She calls it smart and funny in a knowingly frivolous way, and wishes the delayed sequel had a bigger budget."
             },
             {
               "title": "Wildlife",
@@ -166,7 +166,7 @@
               "title": "The Favourite",
               "year": 2018,
               "category": "Comedy",
-              "note": "Yorgos Lanthimos's Queen Anne court drama, written by Deborah Davis and Tony McNamara. Emma Stone won Best Actress for it, and Olivia Colman won Best Actress too -- for a role the hosts debate whether was actually lead."
+              "note": "Yorgos Lanthimos's Queen Anne court drama, written by Deborah Davis and Tony McNamara. Emma Stone won Best Actress for it, and Olivia Colman won Best Actress too, for a role the hosts debate was actually lead."
             },
             {
               "title": "A Star Is Born",
@@ -184,7 +184,7 @@
               "title": "Spider-Man: Into the Spider-Verse",
               "year": 2018,
               "category": "Blockbuster",
-              "note": "He calls it a masterpiece not just of the decade but the century, and credits it with raising the bar for what an animated movie could look like."
+              "note": "He calls it a masterpiece of the decade, maybe the century, and credits it with raising the bar for what an animated movie could look like."
             },
             {
               "title": "First Reformed",
@@ -266,6 +266,10 @@
       "Boar's Head",
       "Netflix FIFA World Cup Launch Edition"
     ]
+  },
+  "tmdbOverrides": {
+    "Thunder Road": 502422,
+    "Cold War": 440298
   },
   "tmdb": {
     "Green Book": {
@@ -491,16 +495,16 @@
       "year": 2018
     },
     "Thunder Road": {
-      "id": 19368,
-      "poster": "/zLvETidTYiTWR6XtWE4A6myQ3lD.jpg",
+      "id": 502422,
+      "poster": "/ynljTdiGVUCJJ6THSZi22SBoQAR.jpg",
       "title": "Thunder Road",
-      "year": 1958
+      "year": 2018
     },
     "Cold War": {
-      "id": 137409,
-      "poster": "/zFiHdFJHppW43xmsnS8whzYnVQ8.jpg",
+      "id": 440298,
+      "poster": "/6rbS8oPIgUMhQgIX8oGVTtlNgLR.jpg",
       "title": "Cold War",
-      "year": 2012
+      "year": 2018
     },
     "Shoplifters": {
       "id": 505192,

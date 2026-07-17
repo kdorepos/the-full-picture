@@ -10,7 +10,7 @@
   ],
   "published": "2021-05-25",
   "runtimeMin": 80,
-  "format": "Sean, Amanda, and guest Chris Ryan draft what they call the best movie year of the last decade — Get Out, Lady Bird, Dunkirk, Phantom Thread — with enough left over (Logan, Mudbound, Call Me by Your Name) to run it back.",
+  "format": "Sean, Amanda, and guest Chris Ryan draft what they call the best movie year of the last decade: Get Out, Lady Bird, Dunkirk, Phantom Thread, with enough left over (Logan, Mudbound, Call Me by Your Name) to run it back.",
   "segments": [
     {
       "kind": "discussion",
@@ -20,7 +20,7 @@
         {
           "title": "Dunkirk",
           "year": 2017,
-          "note": "Chris's most cherished 2017 theater memory — a 70mm screening, free hats included."
+          "note": "Chris's favorite theater memory from 2017: a 70mm screening with free hats."
         },
         {
           "title": "Logan",
@@ -40,7 +40,7 @@
         {
           "title": "Phantom Thread",
           "year": 2017,
-          "note": "Another solo Amanda trip — she rewatched it and still remembers the words."
+          "note": "Another solo Amanda trip. She rewatched it and still remembers the words."
         },
         {
           "title": "Beauty and the Beast",
@@ -52,7 +52,7 @@
     {
       "kind": "awards",
       "heading": "The Oscars, in retrospect",
-      "note": "90th Academy Awards — a comedown from the year's actual movies, in their telling",
+      "note": "90th Academy Awards, a comedown from the year's actual movies, in their telling",
       "ceremony": "90th Academy Awards",
       "categories": [
         {
@@ -176,13 +176,13 @@
               "title": "Get Out",
               "year": 2017,
               "category": "Comedy or Horror",
-              "note": "The No. 1 overall pick — Sean calls it maybe the most important movie of the last five years."
+              "note": "The No. 1 overall pick. Sean calls it maybe the most important movie of the last five years."
             },
             {
               "title": "Coco",
               "year": 2017,
               "category": "Animated and Foreign Language",
-              "note": "A Pixar classic in an otherwise thin year for animation."
+              "note": "The default Pixar pick in an otherwise thin year for animation."
             },
             {
               "title": "Thor: Ragnarok",
@@ -194,7 +194,7 @@
               "title": "Good Time",
               "year": 2017,
               "category": "Drama",
-              "note": "The Safdie Brothers' breakout — a warmup for Uncut Gems."
+              "note": "The Safdie Brothers' breakout, a warmup for Uncut Gems."
             },
             {
               "title": "Baby Driver",
@@ -206,7 +206,7 @@
               "title": "The Meyerowitz Stories (New and Selected)",
               "year": 2017,
               "category": "Wildcard",
-              "note": "Passed over mother! for Baumbach's ensemble — Sandler, Stiller, Hoffman, Thompson."
+              "note": "Passed over mother! for Baumbach's ensemble cast: Sandler, Stiller, Hoffman, Thompson."
             }
           ]
         },
@@ -223,7 +223,7 @@
               "title": "Okja",
               "year": 2017,
               "category": "Animated and Foreign Language",
-              "note": "Bong Joon Ho's Netflix film — half in English, but she says it still counts."
+              "note": "Bong Joon Ho's Netflix film, half in English, but she says it still counts."
             },
             {
               "title": "Star Wars: The Last Jedi",
@@ -241,13 +241,13 @@
               "title": "Wonder Woman",
               "year": 2017,
               "category": "Blockbuster",
-              "note": "A pick for Bill Simmons, still mad she liked it — the Themyscira opening finally made superhero movies click for her."
+              "note": "A pick for Bill Simmons, still mad she liked it. The Themyscira opening finally made superhero movies click for her."
             },
             {
               "title": "The Big Sick",
               "year": 2017,
               "category": "Wildcard",
-              "note": "Kumail Nanjiani and Emily V. Gordon's script, with a standout Ray Romano performance."
+              "note": "Kumail Nanjiani and Emily V. Gordon's script, with a notable Ray Romano performance."
             }
           ]
         },
@@ -311,7 +311,7 @@
         "Downsizing",
         "Three Billboards Outside Ebbing, Missouri",
         "All the Money in the World",
-        "Boss Baby"
+        "The Boss Baby"
       ]
     }
   ],
@@ -591,7 +591,12 @@
       "title": "All the Money in the World",
       "year": 2017
     },
-    "Boss Baby": null,
+    "The Boss Baby": {
+      "id": 295693,
+      "poster": "/9MsQJKe4cUAGxc7R2NGaFQLqOPc.jpg",
+      "title": "The Boss Baby",
+      "year": 2017
+    },
     "Jumanji: Welcome to the Jungle": {
       "id": 353486,
       "poster": "/pSgXKPU5h6U89ipF7HBYajvYt7j.jpg",

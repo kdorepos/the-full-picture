@@ -1,0 +1,767 @@
+{
+  "slug": "wonka-and-the-timothee-chalamet-movie-star-playbook-plus-jon",
+  "title": "‘Wonka’ and the Timothee Chalamet Movie Star Playbook. Plus: Jonathan Glazer on ‘The Zone of Interest.’",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2023-12-15",
+  "runtimeMin": 101,
+  "format": "Joanna Robinson joins Sean and Amanda to argue about 'Wonka' (two of them cried, one calls it cynical and not good), then walk Timothee Chalamet's career from 'Interstellar' to 'A Complete Unknown' against the Leo DiCaprio template. Then Sean's interview with Jonathan Glazer and sound designer Johnnie Burn on building 'The Zone of Interest.'",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "‘Wonka’",
+      "note": "Sean and Amanda with Joanna Robinson, opinions split",
+      "films": [
+        {
+          "title": "Wonka",
+          "year": 2023,
+          "note": "Paul King's non-canonical Willy Wonka origin story, an 'alternate reality' prequel to the 1971 film. Amanda and Joanna both cried (twice, for Joanna), crediting King's shameless deployment of Sally Hawkins and the late arrival of 'Pure Imagination.' Sean thinks it's a fine kids' movie sold as prestige, with bad songs and worse production design, and reads Chalamet as miscast and the Oompa-Loompas as a cynical IP signal. Chalamet was up for Best Actor (Musical/Comedy) at the Golden Globes."
+        },
+        {
+          "title": "Paddington",
+          "year": 2014,
+          "note": "Paul King's first film. Joanna calls the Paddington movies two of her favorite cinema experiences; the table agrees 'Wonka' runs the same playbook, less well."
+        },
+        {
+          "title": "Paddington 2",
+          "year": 2017,
+          "note": "Held up as King's high-water mark. Sean notes its cult status is a film-Twitter bubble, boosted by its role in 'The Unbearable Weight of Massive Talent,' not the wide consensus he'd assumed."
+        },
+        {
+          "title": "Willy Wonka & the Chocolate Factory",
+          "year": 1971,
+          "note": "The Gene Wilder version everyone measures against. Sean's core objection: Wilder's Wonka is deranged and mean-spirited, and Chalamet doesn't attempt any of that. The new film lightly borrows a song or two and the Slugworth name."
+        },
+        {
+          "title": "Charlie and the Chocolate Factory",
+          "year": 2005,
+          "note": "The Tim Burton / Johnny Depp version. Nobody defends it: 'absolutely horrifying, terrible.'"
+        },
+        {
+          "title": "Mary Poppins",
+          "year": 1964,
+          "note": "Amanda's main comparison: a long, faintly anti-capitalist musical for children with a magical outsider who arrives to teach a lesson, plus varying degrees of performance from Julie Andrews to Dick Van Dyke ('Man,' per her son)."
+        },
+        {
+          "title": "Mary Poppins Returns",
+          "year": 2018,
+          "note": "The more honest comparison, Sean concedes: the nostalgic-but-lesser one Amanda also openly cried at."
+        },
+        {
+          "title": "Roald Dahl's Matilda the Musical",
+          "year": 2022,
+          "note": "Sean's preferred recent Dahl musical: meaner, more interesting, and closer to the source's cruelty than 'Wonka' gets."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The Timothee Chalamet Movie Star Playbook",
+      "note": "The career so far, measured against the Leo DiCaprio template",
+      "films": [
+        {
+          "title": "Men, Women & Children",
+          "year": 2014,
+          "note": "Chalamet's screen debut, buried as roughly the eighth lead in a widely rejected Jason Reitman ensemble. Made no impression."
+        },
+        {
+          "title": "Interstellar",
+          "year": 2014,
+          "note": "Where Sean first clocked him, as young Tom, a hair-based casting decision that pays off when Casey Affleck takes over the older role. Amanda is an open Interstellar hater; Joanna thinks it makes emotional sense but not logistical sense."
+        },
+        {
+          "title": "Worst Friends",
+          "year": 2014,
+          "note": "A pre-fame title nobody on the show has seen."
+        },
+        {
+          "title": "One & Two",
+          "year": 2015,
+          "note": "Joanna caught it at South by Southwest (Kiernan Shipka co-stars) and pitches it as 'X-Men but make them Amish.' Verdict: very bad."
+        },
+        {
+          "title": "The Adderall Diaries",
+          "year": 2015,
+          "note": "He plays a teenage Stephen Elliott, one half of a Bay Area author two-fer with 'Beautiful Boy.'"
+        },
+        {
+          "title": "Love the Coopers",
+          "year": 2015,
+          "note": "Studio family Christmas comedy from the prepping-for-his-moment stretch."
+        },
+        {
+          "title": "Miss Stevens",
+          "year": 2016,
+          "note": "Lily Rabe as an acting teacher; Joanna rates it 'very good.'"
+        },
+        {
+          "title": "Call Me by Your Name",
+          "year": 2017,
+          "note": "The breakout. With 'Lady Bird' it establishes his two archetypes in one year (disaffected impossible boy and wildly sensitive, sensual one), in what Sean calls one of the most significant single years any actor has had in a decade."
+        },
+        {
+          "title": "Lady Bird",
+          "year": 2017,
+          "note": "The other half of the 2017 breakout. Sean flags the fork with Lucas Hedges here (both rising, both in this film) before Hedges 'evaporated into the morning mist.'"
+        },
+        {
+          "title": "Hostiles",
+          "year": 2017,
+          "note": "The Scott Cooper Western, part of his loaded 2017."
+        },
+        {
+          "title": "Hot Summer Nights",
+          "year": 2017,
+          "note": "A 2015 South by title acquired and released to catch the Chalamet wave."
+        },
+        {
+          "title": "Wonder Wheel",
+          "year": 2017,
+          "note": "His first Woody Allen film, released amid the drama that had its cast answering for participating."
+        },
+        {
+          "title": "Beautiful Boy",
+          "year": 2018,
+          "note": "The Oscar play after 'Call Me' that didn't land, one of two addiction dramas he and Lucas Hedges made in parallel (Hedges did 'Ben Is Back'). Sean thinks both are flawed."
+        },
+        {
+          "title": "Ben Is Back",
+          "year": 2018,
+          "note": "Lucas Hedges and Julia Roberts, directed by Peter Hedges. Sean's pick as the superior of the two twinned opioid dramas."
+        },
+        {
+          "title": "A Rainy Day in New York",
+          "year": 2019,
+          "note": "The second Woody Allen film, effectively deleted from culture; Chalamet later walked it back. A spirited try at a lesser Allen script, not a good movie."
+        },
+        {
+          "title": "The King",
+          "year": 2019,
+          "note": "The big Netflix historical swing: Robert Pattinson doing 'remarkable hair and accent work,' Joel Edgerton giving it his all. Sean doesn't like it but likes that it happened."
+        },
+        {
+          "title": "Little Women",
+          "year": 2019,
+          "note": "Greta Gerwig's film, and 'an all-time move.' He's excellent as Laurie, a role Joanna frames as the Christian Bale part. Gerwig tried to write him a Barbie cameo but Dune scheduling killed it."
+        },
+        {
+          "title": "The French Dispatch",
+          "year": 2021,
+          "note": "One of three 2021 films (the Wes Anderson leg of a Villeneuve / Anderson / McKay trifecta). He's in the black-and-white French-resistance segment."
+        },
+        {
+          "title": "Dune",
+          "year": 2021,
+          "note": "The franchise bet that works. Sean wasn't sure he'd buy Paul Atreides until the last 30 minutes, and did. Joanna, a self-described Dune expert on a show that coined 'spice heads,' calls him a great Paul. His 'Titanic,' the table decides: sandworms for icebergs."
+        },
+        {
+          "title": "Don't Look Up",
+          "year": 2021,
+          "note": "The Adam McKay leg: a freegan named Yule romancing Jennifer Lawrence. A Best Picture nominee and one of Netflix's most-watched, which helps the trajectory even if the film underwhelms."
+        },
+        {
+          "title": "Bones and All",
+          "year": 2022,
+          "note": "The Luca Guadagnino cannibal romance almost no one saw. Sean and Joanna both love it: a Coppola-in-the-'80s, 'Rumble Fish' kind of performance, additive even though Taylor Russell is the lead."
+        },
+        {
+          "title": "Barbie",
+          "year": 2023,
+          "note": "The cameo that didn't happen. Gerwig wrote parts for him and Saoirse Ronan, but Dune tied him up."
+        },
+        {
+          "title": "Dune: Part Two",
+          "year": 2024,
+          "note": "Named, with 'Furiosa,' as one of the movie events of 2024."
+        },
+        {
+          "title": "Furiosa: A Mad Max Saga",
+          "year": 2024,
+          "note": "The other tentpole the table pegs as a 2024 event (not a Chalamet film, a marker for the year)."
+        },
+        {
+          "title": "A Complete Unknown",
+          "year": 2024,
+          "note": "James Mangold's Bob Dylan biopic. The riskiest move on the board for Sean, a devout Dylan fan who'll hold it to a very high standard. Perfect title; Todd Haynes's 'I'm Not There' already refracted the subject."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Jonathan Glazer and Johnnie Burn on ‘The Zone of Interest’",
+      "guest": "Jonathan Glazer & Johnnie Burn on",
+      "films": [
+        {
+          "title": "The Zone of Interest",
+          "year": 2023,
+          "note": "Glazer read a preview of Martin Amis's novel in the Observer and it sparked the point of view the film committed to: the perpetrators' side of the wall in the picture, the prisoners' side in the sound, the intersection being the experience of the film. Burn spent a year assembling the soundscape as field recordings, 'ambient genocide,' traveling Europe because a person in real pain can't be faked in a voice booth. Christian Friedel was put on an actual horse so his diaphragm would work right off-camera. The garden-into-the-red sequence was born on the final mixing stage a week and a half before finishing."
+        },
+        {
+          "title": "Under the Skin",
+          "year": 2013,
+          "note": "Glazer's earlier collaboration with composer Mica Levi, who he's worked with since 2012-13; the conversation with her is 'ongoing,' never a formal per-project meeting."
+        },
+        {
+          "title": "Wings of Desire",
+          "year": 1987,
+          "note": "Glazer's touchstone for off-screen interior sound giving a wider context than the eye sees, though he only thought of it after the fact. Sean hears its sound as operating inside an angel's mind, versus the real-world horror here."
+        },
+        {
+          "title": "Blue",
+          "year": 1993,
+          "note": "Derek Jarman's film, made as his eyesight failed: a blue screen where the sound supplies the pictures in your mind. Glazer's other reference for sound doing the seeing."
+        },
+        {
+          "title": "Airplane!",
+          "year": 1980,
+          "note": "Glazer's 'last great thing.' He'd just rewatched it. Sean calls it and Burn's Philip Guston exhibition the two most divergent answers he's ever gotten to that closing question."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Around the ‘Wonka’ table",
+      "films": [
+        "Don't Worry Darling",
+        "Saltburn",
+        "The Super Mario Bros. Movie",
+        "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+        "Spider-Man: Across the Spider-Verse",
+        "Wish",
+        "The Boy and the Heron",
+        "Migration",
+        "Return to Oz",
+        "Labyrinth",
+        "Mean Girls",
+        "The Color Purple",
+        "The Unbearable Weight of Massive Talent"
+      ]
+    },
+    {
+      "group": "Movie-star-playbook comps",
+      "films": [
+        "Romeo + Juliet",
+        "Titanic",
+        "Marvin's Room",
+        "Don's Plum",
+        "Gangs of New York",
+        "Catch Me If You Can",
+        "The Aviator",
+        "The Departed",
+        "Blood Diamond",
+        "Manchester by the Sea",
+        "Nightcrawler",
+        "Mickey 17",
+        "The Batman",
+        "Walk the Line",
+        "Logan",
+        "Ford v Ferrari",
+        "Heavy",
+        "3:10 to Yuma",
+        "Punch-Drunk Love",
+        "Boogie Nights",
+        "I'm Not There",
+        "The Lion, the Witch and the Wardrobe",
+        "The Outsiders",
+        "Rumble Fish",
+        "Spider-Man"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Blue": 94794,
+    "The French Dispatch": 542178,
+    "3:10 to Yuma": 5176,
+    "The Lion, the Witch and the Wardrobe": 411,
+    "Mean Girls": 673593,
+    "The Color Purple": 558915
+  },
+  "excluded": {
+    "TV": [
+      "Beef",
+      "Succession",
+      "Fargo",
+      "The Crown",
+      "Saturday Night Live",
+      "Horrible Histories",
+      "Ghosts"
+    ],
+    "Podcasts": [
+      "House of R",
+      "The Watch",
+      "Prestige TV Podcast",
+      "Dissect"
+    ],
+    "Ads": [
+      "Tremfya",
+      "NOS Energy",
+      "Boar's Head",
+      "Whole Foods",
+      "Netflix"
+    ]
+  },
+  "tmdb": {
+    "Wonka": {
+      "id": 787699,
+      "poster": "/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+      "title": "Wonka",
+      "year": 2023
+    },
+    "Paddington": {
+      "id": 116149,
+      "poster": "/wpchRGhRhvhtU083PfX2yixXtiw.jpg",
+      "title": "Paddington",
+      "year": 2014
+    },
+    "Paddington 2": {
+      "id": 346648,
+      "poster": "/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
+      "title": "Paddington 2",
+      "year": 2017
+    },
+    "Willy Wonka & the Chocolate Factory": {
+      "id": 252,
+      "poster": "/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg",
+      "title": "Willy Wonka & the Chocolate Factory",
+      "year": 1971
+    },
+    "Charlie and the Chocolate Factory": {
+      "id": 118,
+      "poster": "/iKP6wg3c6COUe8gYutoGG7qcPnO.jpg",
+      "title": "Charlie and the Chocolate Factory",
+      "year": 2005
+    },
+    "Mary Poppins": {
+      "id": 433,
+      "poster": "/o4Wsby4ydIXhWmtmfvb451D5Np1.jpg",
+      "title": "Mary Poppins",
+      "year": 1964
+    },
+    "Mary Poppins Returns": {
+      "id": 400650,
+      "poster": "/uTVGku4LibMGyKgQvjBtv3OYfAX.jpg",
+      "title": "Mary Poppins Returns",
+      "year": 2018
+    },
+    "Roald Dahl's Matilda the Musical": {
+      "id": 668482,
+      "poster": "/ga8R3OiOMMgSvZ4cOj8x7prUNYZ.jpg",
+      "title": "Roald Dahl's Matilda the Musical",
+      "year": 2022
+    },
+    "Men, Women & Children": {
+      "id": 243684,
+      "poster": "/dzFHIxCcvq2CZVFCsgz7n1z5oIM.jpg",
+      "title": "Men, Women & Children",
+      "year": 2014
+    },
+    "Interstellar": {
+      "id": 157336,
+      "poster": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+      "title": "Interstellar",
+      "year": 2014
+    },
+    "Worst Friends": {
+      "id": 303760,
+      "poster": "/31rVYAzJidrq1UIH6FcM5DrFzKN.jpg",
+      "title": "Worst Friends",
+      "year": 2014
+    },
+    "One & Two": {
+      "id": 323435,
+      "poster": "/dc70oCMrHE8hE9EOGdYZ7GjPZfn.jpg",
+      "title": "One & Two",
+      "year": 2015
+    },
+    "The Adderall Diaries": {
+      "id": 274504,
+      "poster": "/8tkGOlNtKyqQO3esZQRlnkSTANY.jpg",
+      "title": "The Adderall Diaries",
+      "year": 2016
+    },
+    "Love the Coopers": {
+      "id": 333348,
+      "poster": "/fPW1BHZhUEViOmDAHFfyLezoQdI.jpg",
+      "title": "Love the Coopers",
+      "year": 2015
+    },
+    "Miss Stevens": {
+      "id": 346134,
+      "poster": "/7pWcZa8ANeRCIlddbBZu8QconsU.jpg",
+      "title": "Miss Stevens",
+      "year": 2016
+    },
+    "Call Me by Your Name": {
+      "id": 398818,
+      "poster": "/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
+      "title": "Call Me by Your Name",
+      "year": 2017
+    },
+    "Lady Bird": {
+      "id": 391713,
+      "poster": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+      "title": "Lady Bird",
+      "year": 2017
+    },
+    "Hostiles": {
+      "id": 384680,
+      "poster": "/rqoezyB51GfhiloOB5ZErg5HXas.jpg",
+      "title": "Hostiles",
+      "year": 2017
+    },
+    "Hot Summer Nights": {
+      "id": 347866,
+      "poster": "/kPfNAax3PbHj5pAYiO9mc9jDvzt.jpg",
+      "title": "Hot Summer Nights",
+      "year": 2018
+    },
+    "Wonder Wheel": {
+      "id": 429189,
+      "poster": "/gKYpAL1A01T9a1taGXAyfqXjI5x.jpg",
+      "title": "Wonder Wheel",
+      "year": 2017
+    },
+    "Beautiful Boy": {
+      "id": 451915,
+      "poster": "/u2Gfv0mz3xePsgyCPHovrnFL1sB.jpg",
+      "title": "Beautiful Boy",
+      "year": 2018
+    },
+    "Ben Is Back": {
+      "id": 492452,
+      "poster": "/eSPiprXuWqwMGi6t8BkdiTz9Ou3.jpg",
+      "title": "Ben Is Back",
+      "year": 2018
+    },
+    "A Rainy Day in New York": {
+      "id": 475303,
+      "poster": "/z4A6mFOLTMZAhCSPRyrtzG0SPbd.jpg",
+      "title": "A Rainy Day in New York",
+      "year": 2019
+    },
+    "The King": {
+      "id": 504949,
+      "poster": "/8u0QBGUbZcBW59VEAdmeFl9g98N.jpg",
+      "title": "The King",
+      "year": 2019
+    },
+    "Little Women": {
+      "id": 331482,
+      "poster": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+      "title": "Little Women",
+      "year": 2019
+    },
+    "The French Dispatch": {
+      "id": 542178,
+      "poster": "/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg",
+      "title": "The French Dispatch of the Liberty, Kansas Evening Sun",
+      "year": 2021
+    },
+    "Dune": {
+      "id": 438631,
+      "poster": "/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "title": "Dune",
+      "year": 2021
+    },
+    "Don't Look Up": {
+      "id": 646380,
+      "poster": "/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+      "title": "Don't Look Up",
+      "year": 2021
+    },
+    "Bones and All": {
+      "id": 791177,
+      "poster": "/dBQuk2LkHjrDsSjueirPQg96GCc.jpg",
+      "title": "Bones and All",
+      "year": 2022
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Dune: Part Two": {
+      "id": 693134,
+      "poster": "/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+      "title": "Dune: Part Two",
+      "year": 2024
+    },
+    "Furiosa: A Mad Max Saga": {
+      "id": 786892,
+      "poster": "/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
+      "title": "Furiosa: A Mad Max Saga",
+      "year": 2024
+    },
+    "A Complete Unknown": {
+      "id": 661539,
+      "poster": "/llWl3GtNoXosbvYboelmoT459NM.jpg",
+      "title": "A Complete Unknown",
+      "year": 2024
+    },
+    "The Zone of Interest": {
+      "id": 467244,
+      "poster": "/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg",
+      "title": "The Zone of Interest",
+      "year": 2023
+    },
+    "Under the Skin": {
+      "id": 97370,
+      "poster": "/55wmcXJIDYITr7JDijJTdvwSaAv.jpg",
+      "title": "Under the Skin",
+      "year": 2014
+    },
+    "Wings of Desire": {
+      "id": 144,
+      "poster": "/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
+      "title": "Wings of Desire",
+      "year": 1987
+    },
+    "Blue": {
+      "id": 94794,
+      "poster": "/4ktqO8EvVE7NS3NuykukophhNtl.jpg",
+      "title": "Blue",
+      "year": 1993
+    },
+    "Airplane!": {
+      "id": 813,
+      "poster": "/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg",
+      "title": "Airplane!",
+      "year": 1980
+    },
+    "Don't Worry Darling": {
+      "id": 619730,
+      "poster": "/jOqxKIOC92BVyinYO1Fm73XY7Tc.jpg",
+      "title": "Don't Worry Darling",
+      "year": 2022
+    },
+    "Saltburn": {
+      "id": 930564,
+      "poster": "/zGTfMwG112BC66mpaveVxoWPOaB.jpg",
+      "title": "Saltburn",
+      "year": 2023
+    },
+    "The Super Mario Bros. Movie": {
+      "id": 502356,
+      "poster": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+      "title": "The Super Mario Bros. Movie",
+      "year": 2023
+    },
+    "Teenage Mutant Ninja Turtles: Mutant Mayhem": {
+      "id": 614930,
+      "poster": "/gyh0eECE2IqrW8GWl3KoHBfc45j.jpg",
+      "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+      "year": 2023
+    },
+    "Spider-Man: Across the Spider-Verse": {
+      "id": 569094,
+      "poster": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "year": 2023
+    },
+    "Wish": {
+      "id": 1022796,
+      "poster": "/nesuSdJakNkf0zs7OfoasB6Clxf.jpg",
+      "title": "Wish",
+      "year": 2023
+    },
+    "The Boy and the Heron": {
+      "id": 508883,
+      "poster": "/f4oZTcfGrVTXKTWg157AwikXqmP.jpg",
+      "title": "The Boy and the Heron",
+      "year": 2023
+    },
+    "Migration": {
+      "id": 940551,
+      "poster": "/ldfCF9RhR40mppkzmftxapaHeTo.jpg",
+      "title": "Migration",
+      "year": 2023
+    },
+    "Return to Oz": {
+      "id": 13155,
+      "poster": "/dyMwaXA9nVhPiA5wYHsvfUAnbaB.jpg",
+      "title": "Return to Oz",
+      "year": 1985
+    },
+    "Labyrinth": {
+      "id": 13597,
+      "poster": "/pejayhTVBEL4w8YKSfrhOjjWVlH.jpg",
+      "title": "Labyrinth",
+      "year": 1986
+    },
+    "Mean Girls": {
+      "id": 673593,
+      "poster": "/fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg",
+      "title": "Mean Girls",
+      "year": 2024
+    },
+    "The Color Purple": {
+      "id": 558915,
+      "poster": "/h5bqIxM8GO4TewJ0u6Rzkg58ssJ.jpg",
+      "title": "The Color Purple",
+      "year": 2023
+    },
+    "The Unbearable Weight of Massive Talent": {
+      "id": 648579,
+      "poster": "/aqhLeieyTpTUKPOfZ3jzo2La0Mq.jpg",
+      "title": "The Unbearable Weight of Massive Talent",
+      "year": 2022
+    },
+    "Romeo + Juliet": {
+      "id": 454,
+      "poster": "/eLf4jclPijOqfEp6bDAmezRFxk5.jpg",
+      "title": "Romeo + Juliet",
+      "year": 1996
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "Marvin's Room": {
+      "id": 9819,
+      "poster": "/lTHq1K5Y6EDRjxTBvReXHY6AKQ3.jpg",
+      "title": "Marvin's Room",
+      "year": 1996
+    },
+    "Don's Plum": {
+      "id": 37857,
+      "poster": "/pXWiYyWaNUfZaud5maDWDFJ5AG7.jpg",
+      "title": "Don's Plum",
+      "year": 2002
+    },
+    "Gangs of New York": {
+      "id": 3131,
+      "poster": "/lemqKtcCuAano5aqrzxYiKC8kkn.jpg",
+      "title": "Gangs of New York",
+      "year": 2002
+    },
+    "Catch Me If You Can": {
+      "id": 640,
+      "poster": "/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+      "title": "Catch Me If You Can",
+      "year": 2002
+    },
+    "The Aviator": {
+      "id": 2567,
+      "poster": "/lx4kWcZc3o9PaNxlQpEJZM17XUI.jpg",
+      "title": "The Aviator",
+      "year": 2004
+    },
+    "The Departed": {
+      "id": 1422,
+      "poster": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+      "title": "The Departed",
+      "year": 2006
+    },
+    "Blood Diamond": {
+      "id": 1372,
+      "poster": "/tnLxPpajkbVdbQl5B9CuD7sSpz9.jpg",
+      "title": "Blood Diamond",
+      "year": 2006
+    },
+    "Manchester by the Sea": {
+      "id": 334541,
+      "poster": "/o9VXYOuaJxCEKOxbA86xqtwmqYn.jpg",
+      "title": "Manchester by the Sea",
+      "year": 2016
+    },
+    "Nightcrawler": {
+      "id": 242582,
+      "poster": "/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
+      "title": "Nightcrawler",
+      "year": 2014
+    },
+    "Mickey 17": {
+      "id": 696506,
+      "poster": "/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
+      "title": "Mickey 17",
+      "year": 2025
+    },
+    "The Batman": {
+      "id": 414906,
+      "poster": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "title": "The Batman",
+      "year": 2022
+    },
+    "Walk the Line": {
+      "id": 69,
+      "poster": "/p8lPTjvjOjTfvC1E9pmMwcF9vkn.jpg",
+      "title": "Walk the Line",
+      "year": 2005
+    },
+    "Logan": {
+      "id": 263115,
+      "poster": "/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+      "title": "Logan",
+      "year": 2017
+    },
+    "Ford v Ferrari": {
+      "id": 359724,
+      "poster": "/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+      "title": "Ford v Ferrari",
+      "year": 2019
+    },
+    "Heavy": {
+      "id": 22621,
+      "poster": "/xo2KsY7hOHDqpgYlDStL56zmgaq.jpg",
+      "title": "Heavy",
+      "year": 1995
+    },
+    "3:10 to Yuma": {
+      "id": 5176,
+      "poster": "/voMB69AsLnPNmtfbrBl0lbeFKDH.jpg",
+      "title": "3:10 to Yuma",
+      "year": 2007
+    },
+    "Punch-Drunk Love": {
+      "id": 8051,
+      "poster": "/htYp4yqFu4rzBEIa6j9jP8miDm3.jpg",
+      "title": "Punch-Drunk Love",
+      "year": 2002
+    },
+    "Boogie Nights": {
+      "id": 4995,
+      "poster": "/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg",
+      "title": "Boogie Nights",
+      "year": 1997
+    },
+    "I'm Not There": {
+      "id": 3902,
+      "poster": "/bucgvB7gQqcl1m71efHkenfIMTj.jpg",
+      "title": "I'm Not There",
+      "year": 2007
+    },
+    "The Lion, the Witch and the Wardrobe": {
+      "id": 411,
+      "poster": "/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",
+      "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "year": 2005
+    },
+    "The Outsiders": {
+      "id": 227,
+      "poster": "/l9os0HcXY8BOkvUWAx4rvby3j6L.jpg",
+      "title": "The Outsiders",
+      "year": 1983
+    },
+    "Rumble Fish": {
+      "id": 232,
+      "poster": "/nwIUWs7cexC8Wk9c6ey8nFltAZd.jpg",
+      "title": "Rumble Fish",
+      "year": 1983
+    },
+    "Spider-Man": {
+      "id": 557,
+      "poster": "/kjdJntyBeEvqm9w97QGBdxPptzj.jpg",
+      "title": "Spider-Man",
+      "year": 2002
+    }
+  },
+  "spotifyEpisodeId": "0QlzBlZESY3wGMBj9kSqbQ"
+}

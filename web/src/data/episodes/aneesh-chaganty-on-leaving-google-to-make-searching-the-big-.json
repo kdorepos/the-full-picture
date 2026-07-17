@@ -1,0 +1,110 @@
+{
+  "slug": "aneesh-chaganty-on-leaving-google-to-make-searching-the-big-",
+  "title": "Aneesh Chaganty on Leaving Google to Make 'Searching'",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2018-08-31",
+  "runtimeMin": 34,
+  "format": "Sean Fennessey talks to Aneesh Chaganty the week 'Searching' opens wide: quitting his Google job for a movie told entirely on computer screens, writing a script that isn't a script, losing and re-landing John Cho, and shooting the whole thing in 13 days.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Aneesh Chaganty on",
+      "films": [
+        {
+          "title": "Searching",
+          "year": 2018,
+          "note": "His first feature, a thriller that plays out entirely on computer screens: John Cho's David Kim hunts for his missing teenage daughter through her laptop. Grew out of a Basilevs pitch to follow 'Unfriended' with a screen-based anthology; Chaganty and co-writer Sev Ohanian broke it open with a seven-minute opening montage he pitched as 'Up meets a Google commercial.' Shot in 13 days off a scriptment rather than a screenplay, then cut over a year and a half. Premiered at Sundance; Sony bought it 12 hours later."
+        },
+        {
+          "title": "Unfriended",
+          "year": 2014,
+          "note": "The earlier Basilevs/Timur Bekmambetov screen-based movie that seeded the pitch and became the comp Chaganty kept trying to escape; John Cho watched it before initially passing."
+        },
+        {
+          "title": "Up",
+          "year": 2009,
+          "note": "The reference point for the wordless prologue told through 17 years of a family's home computer; he pitched the sequence as 'Up meets a Google commercial.'"
+        },
+        {
+          "title": "The Oath",
+          "year": 2018,
+          "note": "Sean caught Cho in a supporting role the day after screening 'Searching' and wanted more of him; opens that October."
+        },
+        {
+          "title": "Tigertail",
+          "year": 2020,
+          "note": "Named as a just-announced Cho project with Alan Yang, co-creator of 'Master of None,' as evidence Cho should be getting leads."
+        },
+        {
+          "title": "Run",
+          "year": 2020,
+          "note": "Chaganty's next feature, described here as an in-the-works contained thriller about a mother and daughter, shot with regular cameras in regular spaces."
+        },
+        {
+          "title": "Election",
+          "year": 1999,
+          "note": "His pick for the last great thing he'd seen: an old favorite he rewatched for Alexander Payne and Jim Taylor's framing, which he says he plans to steal for a thriller."
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Master of None"
+    ],
+    "Ads": [
+      "Drive Sober or Get Pulled Over (NHTSA)",
+      "Dual Threat podcast"
+    ]
+  },
+  "tmdb": {
+    "Searching": {
+      "id": 489999,
+      "poster": "/yuAPCsCGJGSxA7YOW4elF5JNrzK.jpg",
+      "title": "Searching",
+      "year": 2018
+    },
+    "Unfriended": {
+      "id": 277685,
+      "poster": "/8byPxREr3BqBNyyij5WHVSOVtYk.jpg",
+      "title": "Unfriended",
+      "year": 2014
+    },
+    "Up": {
+      "id": 14160,
+      "poster": "/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
+      "title": "Up",
+      "year": 2009
+    },
+    "The Oath": {
+      "id": 520596,
+      "poster": "/kHB7Nq93pQxGOit1Lyz1ELfUvy0.jpg",
+      "title": "The Oath",
+      "year": 2018
+    },
+    "Tigertail": {
+      "id": 544415,
+      "poster": "/416Pzzz2xzkSEOdiGMz1EOrKcBm.jpg",
+      "title": "Tigertail",
+      "year": 2020
+    },
+    "Run": {
+      "id": 546121,
+      "poster": "/ilHG4EayOVoYeKqslspY3pR4wzC.jpg",
+      "title": "Run",
+      "year": 2020
+    },
+    "Election": {
+      "id": 9451,
+      "poster": "/fbo0IYzBc32dD5SjFzKIgfp4O4F.jpg",
+      "title": "Election",
+      "year": 1999
+    }
+  },
+  "spotifyEpisodeId": "1oQvoj82mNAA8f7cjrh20w"
+}

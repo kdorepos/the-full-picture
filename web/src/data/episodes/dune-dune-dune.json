@@ -1,0 +1,471 @@
+{
+  "slug": "dune-dune-dune",
+  "title": "Dune. DUNE. DUNE!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2021-10-25",
+  "runtimeMin": 74,
+  "format": "Sean, Amanda, and Chris Ryan spend an hour on Denis Villeneuve's Dune — the spectacle, the mid-movie downshift, the unmarked part-one problem, the box office — then rank Villeneuve's filmography and fight about where Enemy belongs.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Dune",
+      "note": "Sean and Amanda with Chris Ryan",
+      "films": [
+        {
+          "title": "Dune",
+          "year": 2021,
+          "note": "The main text. Amanda's mind was blown for the first hour, then wandered; all three agree the last 45 minutes downshift into a mother-son picnic. Chris's read: it doesn't insult the audience. Debated at length — Zimmer's percussive-choral score, Greg Fraser's photography, the ornithopters and sandworms, the gun-free hand-to-hand combat, the fact that the theatrical print didn't label itself 'Part One,' and the near-certain sequel. $40M domestic, north of $220M worldwide, likely a lock for the below-the-line Oscars."
+        },
+        {
+          "title": "Dune",
+          "year": 1984,
+          "note": "David Lynch's version, which Sean and Amanda rewatched — compresses two books into 2h15m, a mistake Lynch essentially disowned; its 1984 sandworms hold up better than expected."
+        },
+        {
+          "title": "Jodorowsky's Dune",
+          "year": 2013,
+          "note": "The documentary on Alejandro Jodorowsky's unmade 1970s adaptation; Sean floats Jodorowsky as the filmmaker better suited to the book's 'space acid' register that Villeneuve avoids."
+        }
+      ]
+    },
+    {
+      "kind": "ranking",
+      "heading": "The Villeneuve Rankings",
+      "note": "the brokered top seven",
+      "subject": "Denis Villeneuve",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Sicario",
+          "year": 2015,
+          "note": "No. 1 — where Sean and Chris meet; Sean holds it as the best. 'Sicario means hitman.'"
+        },
+        {
+          "title": "Arrival",
+          "year": 2016,
+          "note": "No. 2 and Amanda's No. 1; the hopeful one, the movie she's championed on the show for years."
+        },
+        {
+          "title": "Dune",
+          "year": 2021,
+          "note": "No. 3, everyone 'high off the spice.' Chris slotted it here fresh out of the theater."
+        },
+        {
+          "title": "Blade Runner 2049",
+          "year": 2017,
+          "note": "No. 4; Chris thinks it gets mired in its own navel-gazing, Amanda rates it above Prisoners."
+        },
+        {
+          "title": "Prisoners",
+          "year": 2013,
+          "note": "No. 5, the compromise slot. Shot by Deakins, which the group agrees is the only thing keeping it from being 'banned from society.'"
+        },
+        {
+          "title": "Incendies",
+          "year": 2010,
+          "note": "No. 6; his English-language-adjacent breakthrough for American audiences, adapted from a play, with a traumatic ending."
+        },
+        {
+          "title": "Enemy",
+          "year": 2013,
+          "note": "No. 7 — 'just shameful,' per Sean, who wanted it at No. 3. Opens on the title card 'chaos is order yet undeciphered.'"
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The sci-fi lineage",
+      "films": [
+        "Star Wars",
+        "The Matrix",
+        "Blade Runner",
+        "Alien",
+        "2001: A Space Odyssey"
+      ]
+    },
+    {
+      "group": "Touchstones in the conversation",
+      "films": [
+        "Apocalypse Now",
+        "Braveheart",
+        "Easy Rider",
+        "Rogue One: A Star Wars Story",
+        "Zero Dark Thirty",
+        "Tenet",
+        "Michael Clayton"
+      ]
+    },
+    {
+      "group": "The cast, elsewhere",
+      "films": [
+        "Assassin's Creed",
+        "Red Sparrow",
+        "Doctor Sleep",
+        "Reminiscence",
+        "The Greatest Showman",
+        "Men in Black: International",
+        "The Card Counter"
+      ]
+    },
+    {
+      "group": "The 2021 Oscar field",
+      "films": [
+        "The Power of the Dog",
+        "Belfast",
+        "King Richard",
+        "West Side Story",
+        "Nightmare Alley",
+        "The Tragedy of Macbeth",
+        "Licorice Pizza",
+        "House of Gucci",
+        "The Last Duel",
+        "Eternals"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Zodiac",
+        "The Social Network",
+        "No Country for Old Men",
+        "Rango",
+        "The Ballad of Buster Scruggs",
+        "The Avengers",
+        "Star Trek Into Darkness",
+        "Spider-Man 3",
+        "The Dark Knight",
+        "The Ten Commandments",
+        "Ben-Hur",
+        "Last Night in Soho"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "The Last Duel": 617653
+  },
+  "excluded": {
+    "TV": [
+      "The Expanse",
+      "Foundation",
+      "Succession",
+      "Insecure",
+      "The Sopranos",
+      "Sex and the City",
+      "Lost",
+      "Dune: The Sisterhood",
+      "Dune (2000 miniseries)"
+    ],
+    "Podcasts": [
+      "Serial"
+    ],
+    "Ads": [
+      "Netflix FIFA World Cup Launch Edition",
+      "Boar's Head",
+      "NOS Energy",
+      "Spotify"
+    ]
+  },
+  "tmdb": {
+    "Dune": {
+      "id": 438631,
+      "poster": "/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "title": "Dune",
+      "year": 2021
+    },
+    "Jodorowsky's Dune": {
+      "id": 191720,
+      "poster": "/mv1zSd6P59D43iYQXs7qx01nSiX.jpg",
+      "title": "Jodorowsky's Dune",
+      "year": 2013
+    },
+    "Sicario": {
+      "id": 273481,
+      "poster": "/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+      "title": "Sicario",
+      "year": 2015
+    },
+    "Arrival": {
+      "id": 329865,
+      "poster": "/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
+      "title": "Arrival",
+      "year": 2016
+    },
+    "Blade Runner 2049": {
+      "id": 335984,
+      "poster": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+      "title": "Blade Runner 2049",
+      "year": 2017
+    },
+    "Prisoners": {
+      "id": 146233,
+      "poster": "/uhviyknTT5cEQXbn6vWIqfM4vGm.jpg",
+      "title": "Prisoners",
+      "year": 2013
+    },
+    "Incendies": {
+      "id": 46738,
+      "poster": "/yH6DAQVgbyj72S66gN4WWVoTjuf.jpg",
+      "title": "Incendies",
+      "year": 2010
+    },
+    "Enemy": {
+      "id": 181886,
+      "poster": "/vf40tyDRKZsBmaLsYeopzfFLzLx.jpg",
+      "title": "Enemy",
+      "year": 2014
+    },
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
+    },
+    "The Matrix": {
+      "id": 603,
+      "poster": "/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+      "title": "The Matrix",
+      "year": 1999
+    },
+    "Blade Runner": {
+      "id": 78,
+      "poster": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+      "title": "Blade Runner",
+      "year": 1982
+    },
+    "Alien": {
+      "id": 348,
+      "poster": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "title": "Alien",
+      "year": 1979
+    },
+    "2001: A Space Odyssey": {
+      "id": 62,
+      "poster": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "title": "2001: A Space Odyssey",
+      "year": 1968
+    },
+    "Apocalypse Now": {
+      "id": 28,
+      "poster": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "title": "Apocalypse Now",
+      "year": 1979
+    },
+    "Braveheart": {
+      "id": 197,
+      "poster": "/or1gBugydmjToAEq7OZY0owwFk.jpg",
+      "title": "Braveheart",
+      "year": 1995
+    },
+    "Easy Rider": {
+      "id": 624,
+      "poster": "/3H3vwPGX6EbBRffIVHp3eHHcjka.jpg",
+      "title": "Easy Rider",
+      "year": 1969
+    },
+    "Rogue One: A Star Wars Story": {
+      "id": 330459,
+      "poster": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+      "title": "Rogue One: A Star Wars Story",
+      "year": 2016
+    },
+    "Zero Dark Thirty": {
+      "id": 97630,
+      "poster": "/wNSdSSxowM3WIqmPJNg3RagYbwP.jpg",
+      "title": "Zero Dark Thirty",
+      "year": 2012
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "Michael Clayton": {
+      "id": 4566,
+      "poster": "/hhkW4yVIGo8Bee3UITKvqOvhNMG.jpg",
+      "title": "Michael Clayton",
+      "year": 2007
+    },
+    "Assassin's Creed": {
+      "id": 121856,
+      "poster": "/kDXewoEcvbn0pUvJ8W3vfkuWgHw.jpg",
+      "title": "Assassin's Creed",
+      "year": 2016
+    },
+    "Red Sparrow": {
+      "id": 401981,
+      "poster": "/cdefNr6aS00IwVbSlxdFJnfmzKh.jpg",
+      "title": "Red Sparrow",
+      "year": 2018
+    },
+    "Doctor Sleep": {
+      "id": 501170,
+      "poster": "/p69QzIBbN06aTYqRRiCOY1emNBh.jpg",
+      "title": "Doctor Sleep",
+      "year": 2019
+    },
+    "Reminiscence": {
+      "id": 579047,
+      "poster": "/17siH6wJRQ2jZiqz9BWUhy1UtZ.jpg",
+      "title": "Reminiscence",
+      "year": 2021
+    },
+    "The Greatest Showman": {
+      "id": 316029,
+      "poster": "/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg",
+      "title": "The Greatest Showman",
+      "year": 2017
+    },
+    "Men in Black: International": {
+      "id": 479455,
+      "poster": "/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg",
+      "title": "Men in Black: International",
+      "year": 2019
+    },
+    "The Card Counter": {
+      "id": 643532,
+      "poster": "/y5DNLVg0gPiGSkuK4yFc4fjQ42Q.jpg",
+      "title": "The Card Counter",
+      "year": 2021
+    },
+    "The Power of the Dog": {
+      "id": 600583,
+      "poster": "/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg",
+      "title": "The Power of the Dog",
+      "year": 2021
+    },
+    "Belfast": {
+      "id": 777270,
+      "poster": "/3mInLZyPOVLsZRsBwNHi3UJXXnm.jpg",
+      "title": "Belfast",
+      "year": 2021
+    },
+    "King Richard": {
+      "id": 614917,
+      "poster": "/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg",
+      "title": "King Richard",
+      "year": 2021
+    },
+    "West Side Story": {
+      "id": 511809,
+      "poster": "/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+      "title": "West Side Story",
+      "year": 2021
+    },
+    "Nightmare Alley": {
+      "id": 597208,
+      "poster": "/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg",
+      "title": "Nightmare Alley",
+      "year": 2021
+    },
+    "The Tragedy of Macbeth": {
+      "id": 591538,
+      "poster": "/tDNJEhcLbX3jIk3BMCur9pCdaVD.jpg",
+      "title": "The Tragedy of Macbeth",
+      "year": 2021
+    },
+    "Licorice Pizza": {
+      "id": 718032,
+      "poster": "/ivXtvzfliGvoJ1DhSHIGyYBToWe.jpg",
+      "title": "Licorice Pizza",
+      "year": 2021
+    },
+    "House of Gucci": {
+      "id": 644495,
+      "poster": "/oJCQjD2byiVF1EG408F9dBn9ndU.jpg",
+      "title": "House of Gucci",
+      "year": 2021
+    },
+    "The Last Duel": {
+      "id": 617653,
+      "poster": "/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg",
+      "title": "The Last Duel",
+      "year": 2021
+    },
+    "Eternals": {
+      "id": 524434,
+      "poster": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+      "title": "Eternals",
+      "year": 2021
+    },
+    "Zodiac": {
+      "id": 1949,
+      "poster": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+      "title": "Zodiac",
+      "year": 2007
+    },
+    "The Social Network": {
+      "id": 37799,
+      "poster": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+      "title": "The Social Network",
+      "year": 2010
+    },
+    "No Country for Old Men": {
+      "id": 6977,
+      "poster": "/uB7RDZby43Wvu8SKGHHTwGyTDBX.jpg",
+      "title": "No Country for Old Men",
+      "year": 2007
+    },
+    "Rango": {
+      "id": 44896,
+      "poster": "/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
+      "title": "Rango",
+      "year": 2011
+    },
+    "The Ballad of Buster Scruggs": {
+      "id": 537996,
+      "poster": "/voxl654m7p36y8FLu8oQD7dfwwK.jpg",
+      "title": "The Ballad of Buster Scruggs",
+      "year": 2018
+    },
+    "The Avengers": {
+      "id": 24428,
+      "poster": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "title": "The Avengers",
+      "year": 2012
+    },
+    "Star Trek Into Darkness": {
+      "id": 54138,
+      "poster": "/Aim3kVNh1MPIxPEFeJrl9e9Uf1a.jpg",
+      "title": "Star Trek Into Darkness",
+      "year": 2013
+    },
+    "Spider-Man 3": {
+      "id": 559,
+      "poster": "/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
+      "title": "Spider-Man 3",
+      "year": 2007
+    },
+    "The Dark Knight": {
+      "id": 155,
+      "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    "The Ten Commandments": {
+      "id": 6844,
+      "poster": "/3Ei59AR64x6dMZfWobPCkZjbqTL.jpg",
+      "title": "The Ten Commandments",
+      "year": 1956
+    },
+    "Ben-Hur": {
+      "id": 665,
+      "poster": "/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+      "title": "Ben-Hur",
+      "year": 1959
+    },
+    "Last Night in Soho": {
+      "id": 576845,
+      "poster": "/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg",
+      "title": "Last Night in Soho",
+      "year": 2021
+    }
+  }
+}

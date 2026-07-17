@@ -1,0 +1,152 @@
+{
+  "slug": "what-inspires-gus-van-sant-the-big-picture-ep-76",
+  "title": "What Inspires Gus Van Sant? | The Big Picture (Ep. 76)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2018-07-13",
+  "runtimeMin": 19,
+  "format": "Sean Fennessey talks to Gus Van Sant about Don't Worry, He Won't Get Far on Foot and reuniting with Joaquin Phoenix. They also get into the outsider streak running through his filmography.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "Gus Van Sant on 'Don't Worry, He Won't Get Far on Foot'",
+      "guest": "Gus Van Sant on",
+      "films": [
+        {
+          "title": "Don't Worry, He Won't Get Far on Foot",
+          "year": 2018,
+          "note": "Van Sant's 17th film, adapting cartoonist John Callahan's memoir with Joaquin Phoenix as the alcoholic left quadriplegic at 21. Robin Williams optioned the book and brought Van Sant on to write it in the '90s; after Williams died, Sony called to see if he was still interested, and he wrote a new spec draft that ended up going elsewhere. Jonah Hill plays Donnie, the AA sponsor built out from a few pages in the book plus Callahan's own stories about him."
+        },
+        {
+          "title": "Drugstore Cowboy",
+          "year": 1989,
+          "note": "One of the run of outsider films, alongside Mala Noche and My Own Private Idaho, that first got him typed as a director of fringe characters."
+        },
+        {
+          "title": "My Own Private Idaho",
+          "year": 1991,
+          "note": "The third in that early run before he deliberately changed things up with Even Cowgirls Get the Blues."
+        },
+        {
+          "title": "Good Will Hunting",
+          "year": 1997,
+          "note": "The mainstream breakthrough that also gave him his working relationship with Robin Williams, who'd go on to option the Callahan book."
+        },
+        {
+          "title": "Milk",
+          "year": 2008,
+          "note": "One of his mainstream successes. The intro sums up his career as 17 movies, 33 years, and two Oscar nominations."
+        },
+        {
+          "title": "To Die For",
+          "year": 1995,
+          "note": "Where a 20-year-old Joaquin Phoenix got his start with Van Sant; the two hadn't worked together again until this film."
+        },
+        {
+          "title": "Mala Noche",
+          "year": 1987,
+          "note": "The first of his outsider films, the one he says the fringe-character pattern started with."
+        },
+        {
+          "title": "Even Cowgirls Get the Blues",
+          "year": 1994,
+          "note": "The deliberate break from the fringe streak, a story set outside that world, and less acclaimed than the films before it."
+        },
+        {
+          "title": "The Sea of Trees",
+          "year": 2016,
+          "note": "Brought up alongside Even Cowgirls Get the Blues as one of the films that didn't land with critics."
+        },
+        {
+          "title": "Brokeback Mountain",
+          "year": 2005,
+          "note": "The one he says he regrets walking away from. He calls it his own fault and says his version probably wouldn't have turned out as well."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Mentioned in the outro",
+      "films": [
+        "Step Brothers"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Pose"
+    ]
+  },
+  "tmdb": {
+    "Don't Worry, He Won't Get Far on Foot": {
+      "id": 443009,
+      "poster": "/rKsiN37qMt8jad5GikZzSeevyI9.jpg",
+      "title": "Don't Worry, He Won't Get Far on Foot",
+      "year": 2018
+    },
+    "Drugstore Cowboy": {
+      "id": 476,
+      "poster": "/nxITSEh80jvMEGGsU8RgCzLL340.jpg",
+      "title": "Drugstore Cowboy",
+      "year": 1989
+    },
+    "My Own Private Idaho": {
+      "id": 468,
+      "poster": "/p9TF90Pb5yg2MNb2UztzyXktMm4.jpg",
+      "title": "My Own Private Idaho",
+      "year": 1991
+    },
+    "Good Will Hunting": {
+      "id": 489,
+      "poster": "/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+      "title": "Good Will Hunting",
+      "year": 1997
+    },
+    "Milk": {
+      "id": 10139,
+      "poster": "/ot4ImF4b7QbS6XsTdMH3pWxNmX2.jpg",
+      "title": "Milk",
+      "year": 2008
+    },
+    "To Die For": {
+      "id": 577,
+      "poster": "/whz4bwvqE1OmQHIyqHdZD8jU9CO.jpg",
+      "title": "To Die For",
+      "year": 1995
+    },
+    "Mala Noche": {
+      "id": 383,
+      "poster": "/gAtkeNjk054tEl3jCHtF1wOFCx1.jpg",
+      "title": "Mala Noche",
+      "year": 1987
+    },
+    "Even Cowgirls Get the Blues": {
+      "id": 34444,
+      "poster": "/20x8nm0nPXkYv04COAHFA2AHyAl.jpg",
+      "title": "Even Cowgirls Get the Blues",
+      "year": 1994
+    },
+    "The Sea of Trees": {
+      "id": 291351,
+      "poster": "/gmVGIEfzxupZUTer1Z5n80CHFnD.jpg",
+      "title": "The Sea of Trees",
+      "year": 2016
+    },
+    "Brokeback Mountain": {
+      "id": 142,
+      "poster": "/aByfQOQBNa4CMFwIgq3QrqY2ZHh.jpg",
+      "title": "Brokeback Mountain",
+      "year": 2005
+    },
+    "Step Brothers": {
+      "id": 12133,
+      "poster": "/nvggBbEraUTAVR6ffP3AaBUWSHs.jpg",
+      "title": "Step Brothers",
+      "year": 2008
+    }
+  }
+}

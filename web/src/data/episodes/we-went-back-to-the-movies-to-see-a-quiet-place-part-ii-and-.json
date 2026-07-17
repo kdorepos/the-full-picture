@@ -9,7 +9,7 @@
   ],
   "published": "2021-06-01",
   "runtimeMin": 69,
-  "format": "Sean and Amanda's first trips back to an actual theater since the shutdown, then a full spoiler dive on 'A Quiet Place Part II' — the bear traps, the oxygen math, and whether the sequel earns its scale.",
+  "format": "Sean and Amanda's first trips back to an actual theater since the shutdown, then a full spoiler dive on 'A Quiet Place Part II': the bear traps, the oxygen math, whether the sequel earns its scale.",
   "segments": [
     {
       "kind": "discussion",
@@ -19,7 +19,7 @@
         {
           "title": "A Quiet Place Part II",
           "year": 2021,
-          "note": "Seen in the Dolby room at an AMC — the loud, big-screen return they'd been waiting for."
+          "note": "Seen in the Dolby room at an AMC, the loud, big-screen return they'd been waiting for."
         },
         {
           "title": "In the Heights",
@@ -27,9 +27,9 @@
           "note": "Caught at a Warner Bros. lot screening room; gets its own movie-musical episode in a couple weeks."
         },
         {
-          "title": "Spiral",
+          "title": "Spiral: From the Book of Saw",
           "year": 2021,
-          "note": "The eighth or ninth 'Saw' movie, not well reviewed, but a tight 93 minutes with Chris Rock and Samuel L. Jackson — fun on an IMAX screen anyway."
+          "note": "The eighth or ninth 'Saw' movie, not well reviewed, but a tight 93 minutes with Chris Rock and Samuel L. Jackson. Fun on an IMAX screen anyway."
         }
       ]
     },
@@ -41,12 +41,12 @@
         {
           "title": "A Quiet Place Part II",
           "year": 2021,
-          "note": "A prequel-cold-open into a direct pickup from the first film's cliffhanger. More alien than the original, but Krasinski keeps the scale mostly contained to one family — plus Cillian Murphy's grieving survivor and a boat chase with a mute Scoot McNairy. The oxygen-canister math for the newborn is the whole podcast's real source of anxiety. Held to theaters exclusively for 45 days before Paramount+, a shorter window than Krasinski and Emily Blunt reportedly wanted."
+          "note": "A prequel-cold-open into a direct pickup from the first film's cliffhanger. More alien than the original, but Krasinski keeps the scale mostly contained to one family, plus Cillian Murphy's grieving survivor and a boat chase with a mute Scoot McNairy. The oxygen-canister math for the newborn is the whole podcast's real source of anxiety. Held to theaters exclusively for 45 days before Paramount+, a shorter window than Krasinski and Emily Blunt reportedly wanted."
         },
         {
           "title": "A Quiet Place",
           "year": 2018,
-          "note": "The standalone original — five characters, a clean ending, the benchmark the sequel keeps getting measured against."
+          "note": "The standalone original: five characters, a clean ending, the benchmark the sequel keeps getting measured against."
         }
       ]
     }
@@ -108,6 +108,9 @@
       "Talk About PD"
     ]
   },
+  "tmdbOverrides": {
+    "Without Remorse": 567189
+  },
   "tmdb": {
     "A Quiet Place Part II": {
       "id": 520763,
@@ -121,10 +124,10 @@
       "title": "In the Heights",
       "year": 2021
     },
-    "Spiral": {
-      "id": 940997,
-      "poster": "/nH5RSujFWZiSly0s9gjI99DmsHB.jpg",
-      "title": "Spiral",
+    "Spiral: From the Book of Saw": {
+      "id": 602734,
+      "poster": "/cTvSDfBuXTZTdRCNduGMANd7VEP.jpg",
+      "title": "Spiral: From the Book of Saw",
       "year": 2021
     },
     "A Quiet Place": {
@@ -146,10 +149,10 @@
       "year": 2020
     },
     "Without Remorse": {
-      "id": 1280790,
-      "poster": "/h5KVPn1P74eCvXDqMeLoXvb1yiX.jpg",
-      "title": "Without Remorse",
-      "year": null
+      "id": 567189,
+      "poster": "/6OnlqShdRinhJwV1uGiRE70lD63.jpg",
+      "title": "Tom Clancy's Without Remorse",
+      "year": 2021
     },
     "The Lovebirds": {
       "id": 576156,

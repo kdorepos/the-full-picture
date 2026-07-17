@@ -1,0 +1,439 @@
+{
+  "slug": "were-debating-the-lion-king-in-2019-why-exit-survey",
+  "title": "We’re Debating ‘The Lion King’ in 2019. Why? | Exit Survey",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2019-07-19",
+  "runtimeMin": 61,
+  "format": "Sean and Amanda review Jon Favreau's photorealistic Lion King remake against the 1994 original: the visuals, a script nobody bothered to rewrite, a voice cast that only sometimes works, and where all of it lands at the Oscars. Plus, a run through Favreau's directing career from Swingers to Iron Man.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The Lion King, 2019 vs. 1994",
+      "note": "the remake against the original",
+      "films": [
+        {
+          "title": "The Lion King (2019)",
+          "year": 2019,
+          "note": "Directed by Jon Favreau, with Rob Legato overseeing the photorealistic digital animation. Thirty minutes longer than the original but running on a script that was never rewritten for the new format; the extra time mostly goes to a genuinely scary new hyena chase. James Earl Jones reprises Mufasa note for note; Billy Eichner and Seth Rogen (Timon and Pumbaa) are the best part of the movie; Chiwetel Ejiofor's Scar is too dignified for the camp Jeremy Irons brought; Donald Glover's older Simba is flat; Beyoncé's Nala doesn't work as a vocal performance. Sean is won over by the visuals; Amanda finds it inert without the original's more stylized, physical musical numbers. Expected to compete for Best Visual Effects and Best Original Song, with a harder path into Best Animated Feature behind Toy Story 4."
+        },
+        {
+          "title": "The Lion King (1994)",
+          "year": 1994,
+          "note": "Nominated for two Oscars (original score and \"Can You Feel the Love Tonight\" for original song), back before there was a Best Animated Feature category. Amanda's entry point into Elton John, and, both hosts agree, the peak of Disney's '90s renaissance: no princess, no central love story, Shakespeare and the Joseph/Moses story underneath a kids' cartoon. Voice highlights include Jeremy Irons's campy Scar, James Earl Jones's Mufasa, Nathan Lane, and Rowan Atkinson. The animated \"Hakuna Matata\" number choreographs its characters like a Busby Berkeley routine, something the hosts say the remake's more naturalistic staging can't touch."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Jon Favreau's Career, Before The Lion King",
+      "films": [
+        {
+          "title": "Swingers",
+          "year": 1996,
+          "note": "Favreau wrote and starred, directed by Doug Liman; his breakthrough, made with Vince Vaughn."
+        },
+        {
+          "title": "Made",
+          "year": 2001,
+          "note": "Favreau's directorial debut and a Swingers reunion with Vince Vaughn; Sean singles out a great Diddy performance."
+        },
+        {
+          "title": "Elf",
+          "year": 2003,
+          "note": "Became a classic almost immediately."
+        },
+        {
+          "title": "Zathura: A Space Adventure",
+          "year": 2005,
+          "note": "Underperformed at the box office."
+        },
+        {
+          "title": "Iron Man",
+          "year": 2008,
+          "note": "Arguably the most important movie of the century regardless of how you feel about comic-book movies: it set the template for the genre."
+        },
+        {
+          "title": "Iron Man 2",
+          "year": 2010,
+          "note": "The weak link in the run, by Sean's own admission."
+        },
+        {
+          "title": "Cowboys & Aliens",
+          "year": 2011,
+          "note": "Not good, despite a stacked cast: Harrison Ford, Daniel Craig, Olivia Wilde, Sam Rockwell."
+        },
+        {
+          "title": "Chef",
+          "year": 2014,
+          "note": "A small, personal palate-cleanser after Cowboys & Aliens, with Favreau back in front of the camera."
+        },
+        {
+          "title": "The Jungle Book (2016)",
+          "year": 2016,
+          "note": "Its unpredictable billion-dollar gross is, per Sean, the reason The Lion King exists at all."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Disney live-action remakes",
+      "films": [
+        "Aladdin (2019)",
+        "Aladdin (1992)",
+        "Dumbo (2019)",
+        "Beauty and the Beast (2017)",
+        "Cinderella (2015)"
+      ]
+    },
+    {
+      "group": "Is this actually a great movie, the comparison points",
+      "films": [
+        "Avatar (2009)",
+        "Gone with the Wind",
+        "Citizen Kane",
+        "It Happened One Night",
+        "The Godfather",
+        "Snow White and the Seven Dwarfs",
+        "Ant-Man and the Wasp"
+      ]
+    },
+    {
+      "group": "Best Visual Effects, the last decade of winners",
+      "films": [
+        "Hugo",
+        "Life of Pi",
+        "Gravity",
+        "Interstellar",
+        "Ex Machina",
+        "Blade Runner 2049",
+        "First Man"
+      ]
+    },
+    {
+      "group": "2019's Oscar-season crowd",
+      "films": [
+        "Avengers: Endgame",
+        "Toy Story 4",
+        "Star Wars: The Rise of Skywalker",
+        "Fast & Furious Presents: Hobbs & Shaw",
+        "Zootopia",
+        "Dawn of the Planet of the Apes"
+      ]
+    },
+    {
+      "group": "Disney songbook favorites",
+      "films": [
+        "Mulan (1998)",
+        "Frozen (2013)",
+        "Robin Hood (1973)",
+        "The Little Mermaid (1989)",
+        "Pocahontas"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Men in Black: International",
+        "The Hustle",
+        "Us",
+        "Reservoir Dogs",
+        "Once Upon a Time in Hollywood"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Big Little Lies"
+    ]
+  },
+  "tmdbOverrides": {
+    "Aladdin (2019)": 420817,
+    "Robin Hood (1973)": 11886,
+    "The Little Mermaid (1989)": 10144,
+    "Dumbo (2019)": 329996
+  },
+  "tmdb": {
+    "The Lion King (2019)": {
+      "id": 420818,
+      "poster": "/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg",
+      "title": "The Lion King",
+      "year": 2019
+    },
+    "The Lion King (1994)": {
+      "id": 8587,
+      "poster": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+      "title": "The Lion King",
+      "year": 1994
+    },
+    "Swingers": {
+      "id": 10218,
+      "poster": "/rRjWk68kU3a2so4lgr3TKB7Y5vA.jpg",
+      "title": "Swingers",
+      "year": 1996
+    },
+    "Made": {
+      "id": 15745,
+      "poster": "/4HC6ieptXO2gjqbSEsfkOwsGubN.jpg",
+      "title": "Made",
+      "year": 2001
+    },
+    "Elf": {
+      "id": 10719,
+      "poster": "/oOleziEempUPu96jkGs0Pj6tKxj.jpg",
+      "title": "Elf",
+      "year": 2003
+    },
+    "Zathura: A Space Adventure": {
+      "id": 6795,
+      "poster": "/gDb5BW2NLqZ9cvg9nyzkZVvmgze.jpg",
+      "title": "Zathura: A Space Adventure",
+      "year": 2005
+    },
+    "Iron Man": {
+      "id": 1726,
+      "poster": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "title": "Iron Man",
+      "year": 2008
+    },
+    "Iron Man 2": {
+      "id": 10138,
+      "poster": "/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+      "title": "Iron Man 2",
+      "year": 2010
+    },
+    "Cowboys & Aliens": {
+      "id": 49849,
+      "poster": "/9uZsGCP4rvOHVGCpMpYq5gNCuNI.jpg",
+      "title": "Cowboys & Aliens",
+      "year": 2011
+    },
+    "Chef": {
+      "id": 212778,
+      "poster": "/hyp8EXDmO4dSC8V6Q5jU7gD1kcg.jpg",
+      "title": "Chef",
+      "year": 2014
+    },
+    "The Jungle Book (2016)": {
+      "id": 278927,
+      "poster": "/2Epx7F9X7DrFptn4seqn4mzBVks.jpg",
+      "title": "The Jungle Book",
+      "year": 2016
+    },
+    "Aladdin (2019)": {
+      "id": 420817,
+      "poster": "/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg",
+      "title": "Aladdin",
+      "year": 2019
+    },
+    "Aladdin (1992)": {
+      "id": 812,
+      "poster": "/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
+      "title": "Aladdin",
+      "year": 1992
+    },
+    "Dumbo (2019)": {
+      "id": 329996,
+      "poster": "/A7XkpLfNH0El2yyDLc4b0KLAKvE.jpg",
+      "title": "Dumbo",
+      "year": 2019
+    },
+    "Beauty and the Beast (2017)": {
+      "id": 321612,
+      "poster": "/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg",
+      "title": "Beauty and the Beast",
+      "year": 2017
+    },
+    "Cinderella (2015)": {
+      "id": 150689,
+      "poster": "/j91LJmcWo16CArFOoapsz84bwxb.jpg",
+      "title": "Cinderella",
+      "year": 2015
+    },
+    "Avatar (2009)": {
+      "id": 19995,
+      "poster": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "title": "Avatar",
+      "year": 2009
+    },
+    "Gone with the Wind": {
+      "id": 770,
+      "poster": "/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg",
+      "title": "Gone with the Wind",
+      "year": 1939
+    },
+    "Citizen Kane": {
+      "id": 15,
+      "poster": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+      "title": "Citizen Kane",
+      "year": 1941
+    },
+    "It Happened One Night": {
+      "id": 3078,
+      "poster": "/2PNUGWAflH6UUumas0POMmokHlc.jpg",
+      "title": "It Happened One Night",
+      "year": 1934
+    },
+    "The Godfather": {
+      "id": 238,
+      "poster": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "title": "The Godfather",
+      "year": 1972
+    },
+    "Snow White and the Seven Dwarfs": {
+      "id": 408,
+      "poster": "/3VAHfuNb6Z7UiW12iYKANSPBl8m.jpg",
+      "title": "Snow White and the Seven Dwarfs",
+      "year": 1938
+    },
+    "Ant-Man and the Wasp": {
+      "id": 363088,
+      "poster": "/cFQEO687n1K6umXbInzocxcnAQz.jpg",
+      "title": "Ant-Man and the Wasp",
+      "year": 2018
+    },
+    "Hugo": {
+      "id": 44826,
+      "poster": "/1dxRq3o3l3bVWNRvvSb7rRf68qp.jpg",
+      "title": "Hugo",
+      "year": 2011
+    },
+    "Life of Pi": {
+      "id": 87827,
+      "poster": "/iLgRu4hhSr6V1uManX6ukDriiSc.jpg",
+      "title": "Life of Pi",
+      "year": 2012
+    },
+    "Gravity": {
+      "id": 49047,
+      "poster": "/kZ2nZw8D681aphje8NJi8EfbL1U.jpg",
+      "title": "Gravity",
+      "year": 2013
+    },
+    "Interstellar": {
+      "id": 157336,
+      "poster": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+      "title": "Interstellar",
+      "year": 2014
+    },
+    "Ex Machina": {
+      "id": 264660,
+      "poster": "/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
+      "title": "Ex Machina",
+      "year": 2015
+    },
+    "Blade Runner 2049": {
+      "id": 335984,
+      "poster": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+      "title": "Blade Runner 2049",
+      "year": 2017
+    },
+    "First Man": {
+      "id": 369972,
+      "poster": "/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
+      "title": "First Man",
+      "year": 2018
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Toy Story 4": {
+      "id": 301528,
+      "poster": "/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+      "title": "Toy Story 4",
+      "year": 2019
+    },
+    "Star Wars: The Rise of Skywalker": {
+      "id": 181812,
+      "poster": "/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+      "title": "Star Wars: The Rise of Skywalker",
+      "year": 2019
+    },
+    "Fast & Furious Presents: Hobbs & Shaw": {
+      "id": 384018,
+      "poster": "/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg",
+      "title": "Fast & Furious Presents: Hobbs & Shaw",
+      "year": 2019
+    },
+    "Zootopia": {
+      "id": 269149,
+      "poster": "/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+      "title": "Zootopia",
+      "year": 2016
+    },
+    "Dawn of the Planet of the Apes": {
+      "id": 119450,
+      "poster": "/mSmAc9G25fhOHH45SLEeagR0qi7.jpg",
+      "title": "Dawn of the Planet of the Apes",
+      "year": 2014
+    },
+    "Mulan (1998)": {
+      "id": 10674,
+      "poster": "/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg",
+      "title": "Mulan",
+      "year": 1998
+    },
+    "Frozen (2013)": {
+      "id": 109445,
+      "poster": "/itAKcobTYGpYT8Phwjd8c9hleTo.jpg",
+      "title": "Frozen",
+      "year": 2013
+    },
+    "Robin Hood (1973)": {
+      "id": 11886,
+      "poster": "/x9AvkYek0bGdxQSZ8W3lAjGrREm.jpg",
+      "title": "Robin Hood",
+      "year": 1973
+    },
+    "The Little Mermaid (1989)": {
+      "id": 10144,
+      "poster": "/plcZXvI310FkbwIptvd6rqk63LP.jpg",
+      "title": "The Little Mermaid",
+      "year": 1989
+    },
+    "Pocahontas": {
+      "id": 10530,
+      "poster": "/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg",
+      "title": "Pocahontas",
+      "year": 1995
+    },
+    "Men in Black: International": {
+      "id": 479455,
+      "poster": "/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg",
+      "title": "Men in Black: International",
+      "year": 2019
+    },
+    "The Hustle": {
+      "id": 449562,
+      "poster": "/qZniBGQRESLIfxw6GeZLZ2G1osa.jpg",
+      "title": "The Hustle",
+      "year": 2019
+    },
+    "Us": {
+      "id": 458723,
+      "poster": "/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+      "title": "Us",
+      "year": 2019
+    },
+    "Reservoir Dogs": {
+      "id": 500,
+      "poster": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+      "title": "Reservoir Dogs",
+      "year": 1992
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    }
+  }
+}

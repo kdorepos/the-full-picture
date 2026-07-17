@@ -1,0 +1,652 @@
+{
+  "slug": "we-have-to-blow-up-the-oscars-and-start-again",
+  "title": "We Have to Blow Up the Oscars and Start Again",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessy",
+    "Amanda Dobbins"
+  ],
+  "published": "2021-04-30",
+  "runtimeMin": 107,
+  "format": "Sean and Amanda pick through the wreckage of a record-low-rated Oscars telecast, run the 2019-2020 best-picture field through a combined re-nomination exercise, and Sean talks to Adam McKay about producing and hosting his NBA history podcast, Death at the Wing.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The Morning After the Oscars",
+      "note": "ratings, the ending, and what went wrong",
+      "films": [
+        {
+          "title": "Parasite",
+          "year": 2019,
+          "note": "Comes up via Trump's old complaint about a Best Picture winner from South Korea."
+        },
+        {
+          "title": "Nomadland",
+          "year": 2020,
+          "note": "Chloe Zhao's Best Director win, barely acknowledged on the show, gets its due here."
+        },
+        {
+          "title": "In the Heights",
+          "year": 2021,
+          "note": "Its trailer aired during the telecast; Sean and Amanda flag it as the next awards-season conversation."
+        },
+        {
+          "title": "F9",
+          "year": 2021
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Soderbergh's Gamble",
+      "note": "the Anthony Hopkins ending, and what Tenet deserved",
+      "films": [
+        {
+          "title": "The Father",
+          "year": 2020,
+          "note": "Anthony Hopkins's surprise Best Actor win, and his absence from the ceremony, becomes the whole postmortem."
+        },
+        {
+          "title": "Ma Rainey's Black Bottom",
+          "year": 2020,
+          "note": "The show was built around a Chadwick Boseman win that didn't happen."
+        },
+        {
+          "title": "Tenet",
+          "year": 2020,
+          "note": "Sean argues the Academy could have used a bigger push behind it; got no campaign after the Nolan-Warner Bros. rift."
+        },
+        {
+          "title": "Joker",
+          "year": 2019,
+          "note": "Cited as proof a prestige-adjacent blockbuster can sneak into Best Picture."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Mailbag: Fix the Broadcast",
+      "note": "streaming, hosts, and viewership",
+      "films": [
+        {
+          "title": "Triple Frontier",
+          "year": 2019,
+          "note": "Cited as a Netflix numbers game example nobody actually loved."
+        },
+        {
+          "title": "Spenser Confidential",
+          "year": 2020
+        },
+        {
+          "title": "Black Panther",
+          "year": 2018,
+          "note": "Amanda's answer for how the Oscars actually reach young viewers: better movies aimed at them."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Mailbag: Citizen Kane vs. Paddington 2",
+      "note": "plus a Terminator 2 origin story",
+      "films": [
+        {
+          "title": "Citizen Kane",
+          "year": 1941
+        },
+        {
+          "title": "Paddington 2",
+          "year": 2017,
+          "note": "A listener's joke about its inflated internet reputation."
+        },
+        {
+          "title": "Rango",
+          "year": 2011,
+          "note": "Amanda's own example of overrating a charming kids' movie."
+        },
+        {
+          "title": "Mank",
+          "year": 2020
+        },
+        {
+          "title": "Terminator 2: Judgment Day",
+          "year": 1991,
+          "note": "Sean's account of seeing it at nine years old, prompted by a listener question about Steven Yeun's Oscars-night story."
+        },
+        {
+          "title": "Palm Springs",
+          "year": 2020,
+          "note": "The one comedy either of them thinks was actually Oscar-worthy this year."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Combining the 2020 and 2021 Best Picture Fields",
+      "note": "17 nominees, cut down to 10",
+      "films": [
+        {
+          "title": "Parasite",
+          "year": 2019,
+          "note": "The obvious keep, no debate."
+        },
+        {
+          "title": "1917",
+          "year": 2019,
+          "note": "Amanda's a no; Sean would still find room for it."
+        },
+        {
+          "title": "Ford v Ferrari",
+          "year": 2019,
+          "note": "Cut, a movie for Bobby's father-in-law."
+        },
+        {
+          "title": "The Irishman",
+          "year": 2019,
+          "note": "In."
+        },
+        {
+          "title": "Jojo Rabbit",
+          "year": 2019,
+          "note": "Out."
+        },
+        {
+          "title": "Joker",
+          "year": 2019,
+          "note": "Out."
+        },
+        {
+          "title": "Little Women",
+          "year": 2019,
+          "note": "In."
+        },
+        {
+          "title": "Marriage Story",
+          "year": 2019,
+          "note": "In."
+        },
+        {
+          "title": "Once Upon a Time... in Hollywood",
+          "year": 2019,
+          "note": "In."
+        },
+        {
+          "title": "Nomadland",
+          "year": 2020,
+          "note": "Would've been nominated in almost any year."
+        },
+        {
+          "title": "The Father",
+          "year": 2020,
+          "note": "Amanda sets it aside despite loving Hopkins's performance."
+        },
+        {
+          "title": "Judas and the Black Messiah",
+          "year": 2021,
+          "note": "Debated, ultimately doesn't survive the cut to 10."
+        },
+        {
+          "title": "Mank",
+          "year": 2020,
+          "note": "In, largely on the strength of Fincher's craft."
+        },
+        {
+          "title": "Minari",
+          "year": 2020,
+          "note": "Makes the cut once the field is set at 10 movies."
+        },
+        {
+          "title": "Promising Young Woman",
+          "year": 2020,
+          "note": "Didn't click for Sean."
+        },
+        {
+          "title": "Sound of Metal",
+          "year": 2020,
+          "note": "Didn't click for Sean."
+        },
+        {
+          "title": "The Trial of the Chicago 7",
+          "year": 2020,
+          "note": "Didn't click for Sean."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Mailbag: Oscar Bait, Voice Acting, and What's Next",
+      "films": [
+        {
+          "title": "Terms of Endearment",
+          "year": 1983,
+          "note": "Amanda's example of an '80s family coming-of-age film built the same way as Minari."
+        },
+        {
+          "title": "Hillbilly Elegy",
+          "year": 2020,
+          "note": "Cited as the kind of prestige-bestseller adaptation that no longer plays."
+        },
+        {
+          "title": "West Side Story",
+          "year": 2021,
+          "note": "The Spielberg remake; Amanda is nervous after seeing its Oscars-night promo."
+        },
+        {
+          "title": "Nightmare Alley",
+          "year": 2021
+        },
+        {
+          "title": "The French Dispatch",
+          "year": 2021
+        },
+        {
+          "title": "House of Gucci",
+          "year": 2021
+        },
+        {
+          "title": "Dune",
+          "year": 2021
+        },
+        {
+          "title": "Licorice Pizza",
+          "year": 2021,
+          "note": "Referred to by its then-rumored working title, Soggy Bottom."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Adam McKay on",
+      "films": [
+        {
+          "title": "Anchorman: The Legend of Ron Burgundy",
+          "year": 2004
+        },
+        {
+          "title": "Step Brothers",
+          "year": 2008
+        },
+        {
+          "title": "The Big Short",
+          "year": 2015,
+          "note": "McKay's father lost his house in the crash; the film came from that."
+        },
+        {
+          "title": "Vice",
+          "year": 2018,
+          "note": "The most personal and, he says, most polarizing thing he's made."
+        },
+        {
+          "title": "The Man Who Would Be King",
+          "year": 1975,
+          "note": "The film that hooked him on movies as a kid."
+        },
+        {
+          "title": "Sound of Metal",
+          "year": 2020,
+          "note": "His favorite of this year's crop, mentioned again unprompted."
+        },
+        {
+          "title": "Godzilla vs. Kong",
+          "year": 2021,
+          "note": "Its day-and-date streaming numbers, to McKay, as proof theatrical isn't dead."
+        },
+        {
+          "title": "Don't Look Up",
+          "year": 2021,
+          "note": "His then-unreleased Netflix film, discussed at length re: cut length and theatrical rollout."
+        },
+        {
+          "title": "The Wolf of Wall Street",
+          "year": 2013,
+          "note": "His example of a film that played too long in theaters and perfectly on a TV rewatch."
+        },
+        {
+          "title": "Casino",
+          "year": 1995
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "The Lord of the Rings: The Fellowship of the Ring",
+        "Rise of the Planet of the Apes",
+        "Shrek",
+        "Gone with the Wind",
+        "Avengers: Endgame"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Small Axe",
+      "Schitt's Creek",
+      "Succession",
+      "Q: Into the Storm"
+    ],
+    "Podcasts": [
+      "Death at the Wing",
+      "S-Town"
+    ],
+    "Ads": [
+      "Black Girl Songbook",
+      "Boar's Head",
+      "American Express Business"
+    ]
+  },
+  "tmdb": {
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Nomadland": {
+      "id": 581734,
+      "poster": "/8Vc5EOUEIF1EUXuX9eLFf7BvN3P.jpg",
+      "title": "Nomadland",
+      "year": 2021
+    },
+    "In the Heights": {
+      "id": 467909,
+      "poster": "/RO4KoJyoQMQzh9z76d4v4FJMmJ.jpg",
+      "title": "In the Heights",
+      "year": 2021
+    },
+    "F9": {
+      "id": 385128,
+      "poster": "/deEmLILTPejEb6OGsXRJ5MCvyDW.jpg",
+      "title": "F9",
+      "year": 2021
+    },
+    "The Father": {
+      "id": 600354,
+      "poster": "/pr3bEQ517uMb5loLvjFQi8uLAsp.jpg",
+      "title": "The Father",
+      "year": 2020
+    },
+    "Ma Rainey's Black Bottom": {
+      "id": 615667,
+      "poster": "/pvtyxijaBrCSbByXLcUIDDSvc40.jpg",
+      "title": "Ma Rainey's Black Bottom",
+      "year": 2020
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "Joker": {
+      "id": 475557,
+      "poster": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "title": "Joker",
+      "year": 2019
+    },
+    "Triple Frontier": {
+      "id": 399361,
+      "poster": "/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg",
+      "title": "Triple Frontier",
+      "year": 2019
+    },
+    "Spenser Confidential": {
+      "id": 581600,
+      "poster": "/fePczipv6ZzDO2uoww4vTAu2Sq3.jpg",
+      "title": "Spenser Confidential",
+      "year": 2020
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "Citizen Kane": {
+      "id": 15,
+      "poster": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+      "title": "Citizen Kane",
+      "year": 1941
+    },
+    "Paddington 2": {
+      "id": 346648,
+      "poster": "/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
+      "title": "Paddington 2",
+      "year": 2017
+    },
+    "Rango": {
+      "id": 44896,
+      "poster": "/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
+      "title": "Rango",
+      "year": 2011
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "Terminator 2: Judgment Day": {
+      "id": 280,
+      "poster": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991
+    },
+    "Palm Springs": {
+      "id": 587792,
+      "poster": "/gnAfqiV7yO3Jq9IntTmwkcaICqc.jpg",
+      "title": "Palm Springs",
+      "year": 2020
+    },
+    "1917": {
+      "id": 530915,
+      "poster": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+      "title": "1917",
+      "year": 2019
+    },
+    "Ford v Ferrari": {
+      "id": 359724,
+      "poster": "/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+      "title": "Ford v Ferrari",
+      "year": 2019
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Jojo Rabbit": {
+      "id": 515001,
+      "poster": "/1mqL7VG4Ix8wmxwypmCA1HTHBky.jpg",
+      "title": "Jojo Rabbit",
+      "year": 2019
+    },
+    "Little Women": {
+      "id": 331482,
+      "poster": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+      "title": "Little Women",
+      "year": 2019
+    },
+    "Marriage Story": {
+      "id": 492188,
+      "poster": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+      "title": "Marriage Story",
+      "year": 2019
+    },
+    "Once Upon a Time... in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Judas and the Black Messiah": {
+      "id": 583406,
+      "poster": "/iIgr75GoqFxe1X5Wz9siOODGe9u.jpg",
+      "title": "Judas and the Black Messiah",
+      "year": 2021
+    },
+    "Minari": {
+      "id": 615643,
+      "poster": "/6mPNdmjdbVKPITv3LLCmQoKs9Zw.jpg",
+      "title": "Minari",
+      "year": 2021
+    },
+    "Promising Young Woman": {
+      "id": 582014,
+      "poster": "/73QoFJFmUrJfDG2EynFjNc5gJxk.jpg",
+      "title": "Promising Young Woman",
+      "year": 2020
+    },
+    "Sound of Metal": {
+      "id": 502033,
+      "poster": "/3178oOJKKPDeQ2legWQvMPpllv.jpg",
+      "title": "Sound of Metal",
+      "year": 2020
+    },
+    "The Trial of the Chicago 7": {
+      "id": 556984,
+      "poster": "/ahf5cVdooMAlDRiJOZQNuLqa1Is.jpg",
+      "title": "The Trial of the Chicago 7",
+      "year": 2020
+    },
+    "Terms of Endearment": {
+      "id": 11050,
+      "poster": "/l77DRjJuykqKMtD9GTK4YT7qKHW.jpg",
+      "title": "Terms of Endearment",
+      "year": 1983
+    },
+    "Hillbilly Elegy": {
+      "id": 592984,
+      "poster": "/aA0D6DKIfLtXYNy94Qq2IW5NiGR.jpg",
+      "title": "Hillbilly Elegy",
+      "year": 2020
+    },
+    "West Side Story": {
+      "id": 511809,
+      "poster": "/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+      "title": "West Side Story",
+      "year": 2021
+    },
+    "Nightmare Alley": {
+      "id": 597208,
+      "poster": "/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg",
+      "title": "Nightmare Alley",
+      "year": 2021
+    },
+    "The French Dispatch": {
+      "id": 542178,
+      "poster": "/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg",
+      "title": "The French Dispatch of the Liberty, Kansas Evening Sun",
+      "year": 2021
+    },
+    "House of Gucci": {
+      "id": 644495,
+      "poster": "/oJCQjD2byiVF1EG408F9dBn9ndU.jpg",
+      "title": "House of Gucci",
+      "year": 2021
+    },
+    "Dune": {
+      "id": 438631,
+      "poster": "/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "title": "Dune",
+      "year": 2021
+    },
+    "Licorice Pizza": {
+      "id": 718032,
+      "poster": "/ivXtvzfliGvoJ1DhSHIGyYBToWe.jpg",
+      "title": "Licorice Pizza",
+      "year": 2021
+    },
+    "Anchorman: The Legend of Ron Burgundy": {
+      "id": 8699,
+      "poster": "/mhZIcRePT7U8viFQVjt1ZjYIsR4.jpg",
+      "title": "Anchorman: The Legend of Ron Burgundy",
+      "year": 2004
+    },
+    "Step Brothers": {
+      "id": 12133,
+      "poster": "/nvggBbEraUTAVR6ffP3AaBUWSHs.jpg",
+      "title": "Step Brothers",
+      "year": 2008
+    },
+    "The Big Short": {
+      "id": 318846,
+      "poster": "/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg",
+      "title": "The Big Short",
+      "year": 2015
+    },
+    "Vice": {
+      "id": 429197,
+      "poster": "/1gCab6rNv1r6V64cwsU4oEr649Y.jpg",
+      "title": "Vice",
+      "year": 2018
+    },
+    "The Man Who Would Be King": {
+      "id": 983,
+      "poster": "/xnEhm0CtgJoM9Z1dGGSQAwxU7oJ.jpg",
+      "title": "The Man Who Would Be King",
+      "year": 1975
+    },
+    "Godzilla vs. Kong": {
+      "id": 399566,
+      "poster": "/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+      "title": "Godzilla vs. Kong",
+      "year": 2021
+    },
+    "Don't Look Up": {
+      "id": 646380,
+      "poster": "/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+      "title": "Don't Look Up",
+      "year": 2021
+    },
+    "The Wolf of Wall Street": {
+      "id": 106646,
+      "poster": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+      "title": "The Wolf of Wall Street",
+      "year": 2013
+    },
+    "Casino": {
+      "id": 524,
+      "poster": "/gziIkUSnYuj9ChCi8qOu2ZunpSC.jpg",
+      "title": "Casino",
+      "year": 1995
+    },
+    "The Lord of the Rings: The Fellowship of the Ring": {
+      "id": 120,
+      "poster": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001
+    },
+    "Rise of the Planet of the Apes": {
+      "id": 61791,
+      "poster": "/oqA45qMyyo1TtrnVEBKxqmTPhbN.jpg",
+      "title": "Rise of the Planet of the Apes",
+      "year": 2011
+    },
+    "Shrek": {
+      "id": 808,
+      "poster": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+      "title": "Shrek",
+      "year": 2001
+    },
+    "Gone with the Wind": {
+      "id": 770,
+      "poster": "/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg",
+      "title": "Gone with the Wind",
+      "year": 1939
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    }
+  },
+  "tmdbOverrides": {
+    "The French Dispatch": 542178
+  }
+}

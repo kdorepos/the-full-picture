@@ -1,0 +1,775 @@
+{
+  "slug": "the-1995-movie-draft",
+  "title": "The 1995 Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2020-12-29",
+  "runtimeMin": 69,
+  "format": "Sean, Amanda, and reigning champion Chris Ryan close out the year by drafting 1995, the year all three say made them into moviegoers.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Who were you in 1995?",
+      "note": "before the draft",
+      "films": [
+        {
+          "title": "Pulp Fiction",
+          "year": 1994,
+          "note": "What Sean calls \"a real catalyzing agent of my life\"; he says 1995 was basically its sequel year. Amanda was 9, too young for it at the time."
+        },
+        {
+          "title": "Get Shorty",
+          "year": 1995,
+          "note": "Sent Sean down an Elmore Leonard rabbit hole that year."
+        },
+        {
+          "title": "Il Postino",
+          "year": 1994,
+          "note": "One of the Oscar nominees that baffled a 12-year-old Sean that year."
+        },
+        {
+          "title": "Leaving Las Vegas",
+          "year": 1995,
+          "note": "Another of that year's Oscar bewilderments, per Sean."
+        },
+        {
+          "title": "Laws of Gravity",
+          "year": 1992,
+          "note": "Nick Gomez's NYC crime debut, the movie that first put him on Sean's radar."
+        },
+        {
+          "title": "New Jersey Drive",
+          "year": 1995,
+          "note": "Gomez's follow-up; an interview about it is where Sean first heard the name Richard Price."
+        },
+        {
+          "title": "Clockers",
+          "year": 1995,
+          "note": "The Richard Price adaptation Gomez was asked about directing in that interview; Spike Lee made it instead, with Harvey Keitel stepping in after Robert De Niro dropped out."
+        }
+      ]
+    },
+    {
+      "kind": "draft",
+      "heading": "The 1995 Movie Draft",
+      "note": "snake draft, six categories, draft order set by a spin of the wheel: Amanda, Chris, Sean",
+      "draftOf": "1995 movies",
+      "categories": [
+        "Drama",
+        "Comedy or Horror",
+        "Blockbuster",
+        "Animated or Foreign Language",
+        "Sequel",
+        "Wildcard"
+      ],
+      "teams": [
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Kicking and Screaming",
+              "year": 1995,
+              "category": "Drama",
+              "note": "Amanda didn't see it until a decade later; the first Noah Baumbach movie she saw."
+            },
+            {
+              "title": "Clueless",
+              "year": 1995,
+              "category": "Comedy or Horror",
+              "note": "Her own Pulp Fiction moment, and still, by her count, the best Jane Austen adaptation."
+            },
+            {
+              "title": "Apollo 13",
+              "year": 1995,
+              "category": "Blockbuster",
+              "note": "Her first pick, taken with genuine nerves about beating Chris to it. Best Ron Howard movie, her favorite Tom Hanks performance, watched on VHS \"at least a hundred times.\""
+            },
+            {
+              "title": "Casper",
+              "year": 1995,
+              "category": "Animated or Foreign Language",
+              "note": "\"This one goes out to all the 90s millennials, the true Devon Sawa fans.\""
+            },
+            {
+              "title": "GoldenEye",
+              "year": 1995,
+              "category": "Sequel",
+              "note": "The first Bond movie she saw, though she doesn't rate it among the best. Concedes the N64 game it spawned is another matter."
+            },
+            {
+              "title": "Sense and Sensibility",
+              "year": 1995,
+              "category": "Wildcard",
+              "note": "Ang Lee's adaptation, screenplay by Emma Thompson; her comfort-watch. Passed on Father of the Bride Part II for it."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Heat",
+              "year": 1995,
+              "category": "Drama",
+              "note": "\"It's not only my Apollo 13. It is literally my moon landing.\" Saw it twice in one weekend during the Blizzard of '96."
+            },
+            {
+              "title": "Mallrats",
+              "year": 1995,
+              "category": "Comedy or Horror",
+              "note": "Picked with his heart; saw it two or three times in theaters. Kevin Smith's Clerks follow-up."
+            },
+            {
+              "title": "Crimson Tide",
+              "year": 1995,
+              "category": "Blockbuster",
+              "note": "Denzel Washington and Gene Hackman; Tarantino did an uncredited dialogue polish."
+            },
+            {
+              "title": "Ghost in the Shell",
+              "year": 1995,
+              "category": "Animated or Foreign Language",
+              "note": "By his own admission he's never actually watched it start to finish, only caught it playing on a bar TV."
+            },
+            {
+              "title": "Die Hard with a Vengeance",
+              "year": 1995,
+              "category": "Sequel",
+              "note": "\"DH with a V\" to him and his friends growing up. Started life as an original script, Simon Says, retrofitted into a McClane movie; Samuel L. Jackson's role was reportedly once meant for Laurence Fishburne."
+            },
+            {
+              "title": "Before Sunrise",
+              "year": 1995,
+              "category": "Wildcard",
+              "note": "Making up for once passing on it in a prior draft in favor of Iron Man 3."
+            }
+          ]
+        },
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Casino",
+              "year": 1995,
+              "category": "Drama",
+              "note": "Scorsese; Sean first saw it on a VHS academy screener he lifted from his uncle's TV console as a teenager."
+            },
+            {
+              "title": "Billy Madison",
+              "year": 1995,
+              "category": "Comedy or Horror",
+              "note": "\"I worship and have always worshiped\" it, per Sean."
+            },
+            {
+              "title": "Se7en",
+              "year": 1995,
+              "category": "Blockbuster",
+              "note": "David Fincher, after the studio battles of Alien 3. Deliberately drafted as Blockbuster, not Drama, to save his Drama pick for Casino."
+            },
+            {
+              "title": "Toy Story",
+              "year": 1995,
+              "category": "Animated or Foreign Language",
+              "note": "\"An absolute game-changing movie in the history of movies,\" by his own account."
+            },
+            {
+              "title": "Batman Forever",
+              "year": 1995,
+              "category": "Sequel",
+              "note": "Joel Schumacher's Val Kilmer entry, with Jim Carrey and Tommy Lee Jones as Riddler and Two-Face. Sean calls it a weak year for sequels overall."
+            },
+            {
+              "title": "The Usual Suspects",
+              "year": 1995,
+              "category": "Wildcard",
+              "note": "Chris McQuarrie's script; Sean says it \"flipped a switch\" in how he thought about movies."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Braveheart",
+        "Under Siege 2: Dark Territory",
+        "Father of the Bride Part II",
+        "Ace Ventura: When Nature Calls",
+        "Candyman: Farewell to the Flesh",
+        "The Land Before Time III: The Time of the Great Giving",
+        "Bad Boys"
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Notable omissions",
+      "note": "movies left off the board",
+      "films": [
+        {
+          "title": "Braveheart",
+          "year": 1995,
+          "note": "That year's Best Picture winner; nobody at the table would defend it as an all-time great now."
+        },
+        {
+          "title": "Devil in a Blue Dress",
+          "year": 1995,
+          "note": "Denzel Washington's Walter Mosley adaptation."
+        },
+        {
+          "title": "The Basketball Diaries",
+          "year": 1995
+        },
+        {
+          "title": "Dead Presidents",
+          "year": 1995,
+          "note": "Chris's favorite of that year's crop of NYC crime pictures."
+        },
+        {
+          "title": "Shallow Grave",
+          "year": 1994,
+          "note": "Danny Boyle's debut, an early Ewan McGregor role before Trainspotting."
+        },
+        {
+          "title": "The American President",
+          "year": 1995,
+          "note": "Amanda saw it four times in theaters with her dad; her introduction to Aaron Sorkin."
+        },
+        {
+          "title": "Bad Boys",
+          "year": 1995,
+          "note": "Sean's runner-up wildcard pick, behind The Usual Suspects."
+        },
+        {
+          "title": "The Baby-Sitters Club",
+          "year": 1995
+        },
+        {
+          "title": "Now and Then",
+          "year": 1995
+        },
+        {
+          "title": "A Little Princess",
+          "year": 1995,
+          "note": "Alfonso Cuarón's American debut."
+        },
+        {
+          "title": "Kids",
+          "year": 1995,
+          "note": "Larry Clark's film, which Sean remembers watching on a bus TV during a high school ski trip."
+        },
+        {
+          "title": "Empire Records",
+          "year": 1995
+        },
+        {
+          "title": "Outbreak",
+          "year": 1995
+        },
+        {
+          "title": "Safe",
+          "year": 1995,
+          "note": "Todd Haynes; the group says it's the kind of movie that never fits neatly into a draft category."
+        },
+        {
+          "title": "Desperado",
+          "year": 1995
+        },
+        {
+          "title": "To Die For",
+          "year": 1995
+        },
+        {
+          "title": "Strange Days",
+          "year": 1995,
+          "note": "Kathryn Bigelow; still hard to find on U.S. home video, per Chris."
+        },
+        {
+          "title": "Hackers",
+          "year": 1995
+        },
+        {
+          "title": "Dolores Claiborne",
+          "year": 1995
+        },
+        {
+          "title": "The Net",
+          "year": 1995
+        },
+        {
+          "title": "Friday",
+          "year": 1995
+        },
+        {
+          "title": "Showgirls",
+          "year": 1995
+        },
+        {
+          "title": "La Haine",
+          "year": 1995,
+          "note": "French film about a day in the Paris banlieue; Vincent Cassel's breakout."
+        },
+        {
+          "title": "Fallen Angels",
+          "year": 1995,
+          "note": "Wong Kar-wai."
+        },
+        {
+          "title": "The City of Lost Children",
+          "year": 1995,
+          "note": "Jean-Pierre Jeunet."
+        },
+        {
+          "title": "Babe",
+          "year": 1995,
+          "note": "Debated whether it could even qualify as animated, since only the pig's mouth is."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Alien 3",
+        "Mank",
+        "Goodfellas",
+        "Lawrence of Arabia",
+        "Clerks",
+        "Chasing Amy",
+        "Batman & Robin",
+        "Skyfall",
+        "Iron Man 3",
+        "Before Midnight",
+        "Top Gun: Maverick"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Homicide: Life on the Street",
+      "Game of Thrones"
+    ],
+    "Video games": [
+      "GoldenEye 007 (N64)",
+      "NBA 2K"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "Netflix FIFA World Cup Launch Edition",
+      "Carvana",
+      "NOS Energy",
+      "FanDuel",
+      "Blinds.com"
+    ]
+  },
+  "tmdbOverrides": {
+    "Il Postino": 11010,
+    "Alien 3": 8077
+  },
+  "tmdb": {
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "Get Shorty": {
+      "id": 8012,
+      "poster": "/r82SdPhg4fnIcLt0ogIjQxqjdcO.jpg",
+      "title": "Get Shorty",
+      "year": 1995
+    },
+    "Il Postino": {
+      "id": 11010,
+      "poster": "/cUaCpjVDefYShKyLmkcDsiPaBHn.jpg",
+      "title": "The Postman",
+      "year": 1994
+    },
+    "Leaving Las Vegas": {
+      "id": 451,
+      "poster": "/wTrFpGe3U65kXTldIUxuM2hmOAK.jpg",
+      "title": "Leaving Las Vegas",
+      "year": 1995
+    },
+    "Laws of Gravity": {
+      "id": 1482,
+      "poster": "/zFN3C7flx1xj3dxGEAsSK7Uz7bB.jpg",
+      "title": "Laws of Gravity",
+      "year": 1992
+    },
+    "New Jersey Drive": {
+      "id": 39310,
+      "poster": "/lXJWJT6lfAg2NEqEueJcI4ESWSG.jpg",
+      "title": "New Jersey Drive",
+      "year": 1995
+    },
+    "Clockers": {
+      "id": 20649,
+      "poster": "/c79uqLJleho2a7OQayfrW5Ypphf.jpg",
+      "title": "Clockers",
+      "year": 1995
+    },
+    "Kicking and Screaming": {
+      "id": 28387,
+      "poster": "/ynAtSpTou7snNOq32djzILw9VCA.jpg",
+      "title": "Kicking and Screaming",
+      "year": 1995
+    },
+    "Clueless": {
+      "id": 9603,
+      "poster": "/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",
+      "title": "Clueless",
+      "year": 1995
+    },
+    "Apollo 13": {
+      "id": 568,
+      "poster": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+      "title": "Apollo 13",
+      "year": 1995
+    },
+    "Casper": {
+      "id": 8839,
+      "poster": "/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg",
+      "title": "Casper",
+      "year": 1995
+    },
+    "GoldenEye": {
+      "id": 710,
+      "poster": "/z0ljRnNxIO7CRBhLEO0DvLgAFPR.jpg",
+      "title": "GoldenEye",
+      "year": 1995
+    },
+    "Sense and Sensibility": {
+      "id": 4584,
+      "poster": "/9YdQ73YmvInxpXZVNjEKePw9tRO.jpg",
+      "title": "Sense and Sensibility",
+      "year": 1995
+    },
+    "Heat": {
+      "id": 949,
+      "poster": "/e09dLw1Ljtccd2P4NsuUvVtS5du.jpg",
+      "title": "Heat",
+      "year": 1995
+    },
+    "Mallrats": {
+      "id": 2293,
+      "poster": "/2ip0sGIMPN0XEN6q3lQIoaNI6tP.jpg",
+      "title": "Mallrats",
+      "year": 1995
+    },
+    "Crimson Tide": {
+      "id": 8963,
+      "poster": "/21nqRJ6ofEgVvEl68J4O9V26Xzy.jpg",
+      "title": "Crimson Tide",
+      "year": 1995
+    },
+    "Ghost in the Shell": {
+      "id": 9323,
+      "poster": "/9gC88zYUBARRSThcG93MvW14sqx.jpg",
+      "title": "Ghost in the Shell",
+      "year": 1995
+    },
+    "Die Hard with a Vengeance": {
+      "id": 1572,
+      "poster": "/buqmCdFQEWwEpL3agGgg2GVjN2d.jpg",
+      "title": "Die Hard: With a Vengeance",
+      "year": 1995
+    },
+    "Before Sunrise": {
+      "id": 76,
+      "poster": "/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg",
+      "title": "Before Sunrise",
+      "year": 1995
+    },
+    "Casino": {
+      "id": 524,
+      "poster": "/gziIkUSnYuj9ChCi8qOu2ZunpSC.jpg",
+      "title": "Casino",
+      "year": 1995
+    },
+    "Billy Madison": {
+      "id": 11017,
+      "poster": "/sOdgtJdFalL9kRKaeJItARLTAEq.jpg",
+      "title": "Billy Madison",
+      "year": 1995
+    },
+    "Se7en": {
+      "id": 807,
+      "poster": "/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+      "title": "Se7en",
+      "year": 1995
+    },
+    "Toy Story": {
+      "id": 862,
+      "poster": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+      "title": "Toy Story",
+      "year": 1995
+    },
+    "Batman Forever": {
+      "id": 414,
+      "poster": "/i0fJS8M5UKoETjjJ0zwUiKaR8tr.jpg",
+      "title": "Batman Forever",
+      "year": 1995
+    },
+    "The Usual Suspects": {
+      "id": 629,
+      "poster": "/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg",
+      "title": "The Usual Suspects",
+      "year": 1995
+    },
+    "Braveheart": {
+      "id": 197,
+      "poster": "/or1gBugydmjToAEq7OZY0owwFk.jpg",
+      "title": "Braveheart",
+      "year": 1995
+    },
+    "Under Siege 2: Dark Territory": {
+      "id": 3512,
+      "poster": "/gElwFCQTbSK5hdK0PVyia547nst.jpg",
+      "title": "Under Siege 2: Dark Territory",
+      "year": 1995
+    },
+    "Father of the Bride Part II": {
+      "id": 11862,
+      "poster": "/rj4LBtwQ0uGrpBnCELr716Qo3mw.jpg",
+      "title": "Father of the Bride Part II",
+      "year": 1995
+    },
+    "Ace Ventura: When Nature Calls": {
+      "id": 9273,
+      "poster": "/wcinCf1ov2D6M3P7BBZkzQFOiIb.jpg",
+      "title": "Ace Ventura: When Nature Calls",
+      "year": 1995
+    },
+    "Candyman: Farewell to the Flesh": {
+      "id": 10824,
+      "poster": "/2scgM9dFaHEppWb3tS99gCAh8KX.jpg",
+      "title": "Candyman: Farewell to the Flesh",
+      "year": 1995
+    },
+    "The Land Before Time III: The Time of the Great Giving": {
+      "id": 19004,
+      "poster": "/abcJUBDHi6hxibSgm2bxYK1wAZK.jpg",
+      "title": "The Land Before Time III: The Time of the Great Giving",
+      "year": 1995
+    },
+    "Bad Boys": {
+      "id": 9737,
+      "poster": "/x1ygBecKHfXX4M2kRhmFKWfWbJc.jpg",
+      "title": "Bad Boys",
+      "year": 1995
+    },
+    "Devil in a Blue Dress": {
+      "id": 8512,
+      "poster": "/5lcJhwKGavLbPva17QkTBhLfqEk.jpg",
+      "title": "Devil in a Blue Dress",
+      "year": 1995
+    },
+    "The Basketball Diaries": {
+      "id": 10474,
+      "poster": "/AhvO1GGDPIgN0hOqZEgaFCbswMK.jpg",
+      "title": "The Basketball Diaries",
+      "year": 1995
+    },
+    "Dead Presidents": {
+      "id": 11443,
+      "poster": "/eGfsSXizR11tTHVo0kuOOFPAxZt.jpg",
+      "title": "Dead Presidents",
+      "year": 1995
+    },
+    "Shallow Grave": {
+      "id": 9905,
+      "poster": "/gqvSKLbfIg1mja1ulVkVcLhdwWF.jpg",
+      "title": "Shallow Grave",
+      "year": 1994
+    },
+    "The American President": {
+      "id": 9087,
+      "poster": "/yObOAYFIHXHkFPQ3jhgkN2ezaD.jpg",
+      "title": "The American President",
+      "year": 1995
+    },
+    "The Baby-Sitters Club": {
+      "id": 48287,
+      "poster": "/cdICP1AzQPgBWsEHwKTZH9ziNyE.jpg",
+      "title": "The Baby-Sitters Club",
+      "year": 1995
+    },
+    "Now and Then": {
+      "id": 9263,
+      "poster": "/q31Ks8oAmM4Nq2CcGjyYYpdBAmh.jpg",
+      "title": "Now and Then",
+      "year": 1995
+    },
+    "A Little Princess": {
+      "id": 19101,
+      "poster": "/9V4bAVEskSNbEqjVI0YmeuB0n8I.jpg",
+      "title": "A Little Princess",
+      "year": 1995
+    },
+    "Kids": {
+      "id": 9344,
+      "poster": "/8qV8hUVCUnFIQKewzlhaFWhdszK.jpg",
+      "title": "Kids",
+      "year": 1995
+    },
+    "Empire Records": {
+      "id": 13531,
+      "poster": "/qKP7hVdjAAvRvbF3GBCbzi5LzMf.jpg",
+      "title": "Empire Records",
+      "year": 1995
+    },
+    "Outbreak": {
+      "id": 6950,
+      "poster": "/4KymNvlWR0XF0sqX2BWRd9Z3yXR.jpg",
+      "title": "Outbreak",
+      "year": 1995
+    },
+    "Safe": {
+      "id": 32646,
+      "poster": "/2O71QsBkbqdLqQdx2yuNpJ4pFPq.jpg",
+      "title": "Safe",
+      "year": 1995
+    },
+    "Desperado": {
+      "id": 8068,
+      "poster": "/e3gwpBeXpvGZsxUya9zNym5QXrw.jpg",
+      "title": "Desperado",
+      "year": 1995
+    },
+    "To Die For": {
+      "id": 577,
+      "poster": "/whz4bwvqE1OmQHIyqHdZD8jU9CO.jpg",
+      "title": "To Die For",
+      "year": 1995
+    },
+    "Strange Days": {
+      "id": 281,
+      "poster": "/rY5BrDRcYAKE0BYmmT66YG6Uy5Q.jpg",
+      "title": "Strange Days",
+      "year": 1995
+    },
+    "Hackers": {
+      "id": 10428,
+      "poster": "/w8H2KpRtpzwlxz5KrvINCVihok1.jpg",
+      "title": "Hackers",
+      "year": 1995
+    },
+    "Dolores Claiborne": {
+      "id": 11929,
+      "poster": "/yqY5h9kI456xXRWv6u9t0Axn9CS.jpg",
+      "title": "Dolores Claiborne",
+      "year": 1995
+    },
+    "The Net": {
+      "id": 1642,
+      "poster": "/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+      "title": "The Net",
+      "year": 1995
+    },
+    "Friday": {
+      "id": 10634,
+      "poster": "/3Ya1RurP2NqaYoiok4DmfO41rCC.jpg",
+      "title": "Friday",
+      "year": 1995
+    },
+    "Showgirls": {
+      "id": 10802,
+      "poster": "/o4HT3Ap5c99W4FYpdXUtTvxGgPc.jpg",
+      "title": "Showgirls",
+      "year": 1995
+    },
+    "La Haine": {
+      "id": 406,
+      "poster": "/hY4exng4s29RzDbtQInjx9MA3PZ.jpg",
+      "title": "La Haine",
+      "year": 1995
+    },
+    "Fallen Angels": {
+      "id": 11220,
+      "poster": "/yyM9BPdwttK5LKZSLvHae7QPKo1.jpg",
+      "title": "Fallen Angels",
+      "year": 1995
+    },
+    "The City of Lost Children": {
+      "id": 902,
+      "poster": "/whwT3Q9JxbAYzEc3t7uYYcCbTMf.jpg",
+      "title": "The City of Lost Children",
+      "year": 1995
+    },
+    "Babe": {
+      "id": 9598,
+      "poster": "/zKuQMtnbVTz9DsOnOJmlW71v4qH.jpg",
+      "title": "Babe",
+      "year": 1995
+    },
+    "Alien 3": {
+      "id": 8077,
+      "poster": "/xh5wI0UoW7DfS1IyLy3d2CgrCEP.jpg",
+      "title": "Alien³",
+      "year": 1992
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "Goodfellas": {
+      "id": 769,
+      "poster": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+      "title": "GoodFellas",
+      "year": 1990
+    },
+    "Lawrence of Arabia": {
+      "id": 947,
+      "poster": "/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg",
+      "title": "Lawrence of Arabia",
+      "year": 1962
+    },
+    "Clerks": {
+      "id": 2292,
+      "poster": "/9IiSgiq4h4siTIS9H3o4nZ3h5L9.jpg",
+      "title": "Clerks",
+      "year": 1994
+    },
+    "Chasing Amy": {
+      "id": 2255,
+      "poster": "/tqydORBcNlQxy3ijgSpPurgDHM2.jpg",
+      "title": "Chasing Amy",
+      "year": 1997
+    },
+    "Batman & Robin": {
+      "id": 415,
+      "poster": "/i7hEUpDuMN2LOrCEifFyGSHZQSY.jpg",
+      "title": "Batman & Robin",
+      "year": 1997
+    },
+    "Skyfall": {
+      "id": 37724,
+      "poster": "/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
+      "title": "Skyfall",
+      "year": 2012
+    },
+    "Iron Man 3": {
+      "id": 68721,
+      "poster": "/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+      "title": "Iron Man 3",
+      "year": 2013
+    },
+    "Before Midnight": {
+      "id": 132344,
+      "poster": "/qbGKJmNUroDz75kh5Oafoall89e.jpg",
+      "title": "Before Midnight",
+      "year": 2013
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    }
+  }
+}

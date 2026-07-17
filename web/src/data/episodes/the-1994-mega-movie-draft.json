@@ -1,0 +1,635 @@
+{
+  "slug": "the-1994-mega-movie-draft",
+  "title": "The 1994 Mega-Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2021-11-02",
+  "runtimeMin": 90,
+  "format": "Sean, Amanda, and Chris Ryan hand two picks to first-timers Shea Serrano and Van Lathan for a five-person, 30-movie snake draft of 1994: the year of Pulp Fiction, Forrest Gump, and The Shawshank Redemption, with Spanking the Monkey and Baby's Day Out still on the board when it ends.",
+  "segments": [
+    {
+      "kind": "draft",
+      "heading": "The 1994 Movie Draft",
+      "note": "drama, comedy, Oscar nominee, action/horror, blockbuster, wildcard",
+      "draftOf": "1994 movies",
+      "categories": [
+        "Drama",
+        "Comedy",
+        "Oscar Nominee",
+        "Action/Horror",
+        "Blockbuster",
+        "Wildcard"
+      ],
+      "teams": [
+        {
+          "host": "Shea Serrano",
+          "picks": [
+            {
+              "title": "The Lion King",
+              "year": 1994,
+              "category": "Blockbuster",
+              "note": "First overall pick: $763 million worldwide, nearly $100 million ahead of Forrest Gump. Shay snuck into a screening with a childhood friend and says Rafiki's kung-fu homage was the first time he clocked one movie referencing another."
+            },
+            {
+              "title": "Timecop",
+              "year": 1994,
+              "category": "Action/Horror",
+              "note": "Turned down a joke pick of Three Colors: Red for Jean-Claude Van Damme instead. Argues Timecop's three rules of time travel are cleaner than Back to the Future's or Primer's."
+            },
+            {
+              "title": "Above the Rim",
+              "year": 1994,
+              "category": "Drama",
+              "note": "Dwayne Martin, Tupac, Marlon Wayans, and a young Bernie Mac. Shay notes Suge Knight's Source Awards speech was accepting the award for this movie's soundtrack, not for a Death Row release."
+            },
+            {
+              "title": "Airheads",
+              "year": 1994,
+              "category": "Comedy",
+              "note": "Early Adam Sandler and Steve Buscemi, a year before Sandler broke out with Billy Madison."
+            },
+            {
+              "title": "Surviving the Game",
+              "year": 1994,
+              "category": "Wildcard",
+              "note": "Ice-T vehicle Shay says taught him two things: don't take a trip with rich white people, and check the barrel of a gun. Sean calls it a letdown after Juice."
+            },
+            {
+              "title": "Wyatt Earp",
+              "year": 1994,
+              "category": "Oscar Nominee",
+              "note": "The last pick of the draft: Shay says he cares little about it beyond liking Kevin Costner, and that it lives in Tombstone's shadow."
+            }
+          ]
+        },
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Pulp Fiction",
+              "year": 1994,
+              "category": "Oscar Nominee",
+              "note": "Sean had already bought two books about Quentin Tarantino before this came out. Calls the needle-drop opening credits the moment everything changed for how he thought about movies."
+            },
+            {
+              "title": "Forrest Gump",
+              "year": 1994,
+              "category": "Blockbuster",
+              "note": "A churn-through-cable classic Sean ranks alongside Shawshank, unsophisticated parts and all."
+            },
+            {
+              "title": "Léon: The Professional",
+              "year": 1994,
+              "category": "Action/Horror",
+              "note": "Luc Besson's Natalie Portman debut opposite Jean Reno and Gary Oldman. Sean says he's built a chunk of his podcasting career quoting it."
+            },
+            {
+              "title": "Quiz Show",
+              "year": 1994,
+              "category": "Drama",
+              "note": "Robert Redford's quiz-fixing drama with John Turturro, Ralph Fiennes, and Paul Scofield. Sean says it fed a Jeopardy addiction he had going at the time."
+            },
+            {
+              "title": "The Hudsucker Proxy",
+              "year": 1994,
+              "category": "Comedy",
+              "note": "A box-office flop Sean calls a fork in the road for the Coens, the movie that forced the pivot toward Fargo."
+            },
+            {
+              "title": "Blue Chips",
+              "year": 1994,
+              "category": "Wildcard",
+              "note": "William Friedkin's college-basketball drama with Nick Nolte as coach Pete Bell. Sean calls it one of Nolte's best performances."
+            }
+          ]
+        },
+        {
+          "host": "Van Lathan",
+          "picks": [
+            {
+              "title": "The Shawshank Redemption",
+              "year": 1994,
+              "category": "Drama",
+              "note": "Van saw it with his father and remembers grown men crying in the theater. Argues that in a redraft of that year's Oscars, it beats Forrest Gump for Best Picture."
+            },
+            {
+              "title": "True Lies",
+              "year": 1994,
+              "category": "Action/Horror",
+              "note": "Van was 14 when this came out. Credits Tom Arnold's chemistry and James Cameron's pacing, and says it's the first action movie he remembers centering the hero's home life."
+            },
+            {
+              "title": "Fresh",
+              "year": 1994,
+              "category": "Wildcard",
+              "note": "Van's most personal pick of the draft, a movie that sent him into a chess phase. He later got to ask producer Lawrence Bender about it on an unrelated shoot, while everyone else only wanted to talk to Bender about Pulp Fiction."
+            },
+            {
+              "title": "The Mask",
+              "year": 1994,
+              "category": "Blockbuster",
+              "note": "Taken over Wolf, which Van wanted but couldn't slot anywhere else. Calls Jim Carrey too hot at that moment for the pick to go wrong."
+            },
+            {
+              "title": "Legends of the Fall",
+              "year": 1994,
+              "category": "Oscar Nominee",
+              "note": "Nominated for Best Cinematography. Van calls it \"top tier mess\" and peak Brad Pitt, ahead of Thelma & Louise or Troy."
+            },
+            {
+              "title": "Blankman",
+              "year": 1994,
+              "category": "Comedy",
+              "note": "Damon Wayans's post-In Living Color superhero comedy, picked over Ace Ventura on principle. Sean calls it one of the worst picks in movie-draft history."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Speed",
+              "year": 1994,
+              "category": "Blockbuster",
+              "note": "One of the rare movies Chris saw in theaters twice back to back, same category as Training Day and Sicario for him. Ranks Keanu Reeves and Sandra Bullock's chemistry above Schwarzenegger and Curtis in True Lies."
+            },
+            {
+              "title": "Clerks",
+              "year": 1994,
+              "category": "Comedy",
+              "note": "Chris calls the two clerks' Death Star conversation the actual birth of podcasting."
+            },
+            {
+              "title": "Hoop Dreams",
+              "year": 1994,
+              "category": "Oscar Nominee",
+              "note": "Nominated for Best Editing, not Best Documentary, a snub Chris and Van needle by naming the four films that actually got the doc nomination that year."
+            },
+            {
+              "title": "Chungking Express",
+              "year": 1994,
+              "category": "Drama",
+              "note": "Chris's entry point into world cinema, citing Christopher Doyle's cinematography and still calling it one of the most romantic movies he's seen."
+            },
+            {
+              "title": "Shallow Grave",
+              "year": 1994,
+              "category": "Action/Horror",
+              "note": "Danny Boyle's directorial debut, introducing Ewan McGregor opposite Christopher Eccleston."
+            },
+            {
+              "title": "Natural Born Killers",
+              "year": 1994,
+              "category": "Wildcard",
+              "note": "Chris calls it the year's most controversial and most covered production, even while admitting it \"comes up really short.\""
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Reality Bites",
+              "year": 1994,
+              "category": "Comedy",
+              "note": "Amanda's introduction to Gen X and Winona Ryder. She says her opinion on whether Winona should end up with Ethan Hawke or Ben Stiller has flipped more than once with age."
+            },
+            {
+              "title": "Four Weddings and a Funeral",
+              "year": 1994,
+              "category": "Oscar Nominee",
+              "note": "Watched it at age 10 on a rental. Calls it her introduction to Hugh Grant, whose Twitter account she recommends."
+            },
+            {
+              "title": "Dumb and Dumber",
+              "year": 1994,
+              "category": "Blockbuster",
+              "note": "A family movie-night rewatch pick. Amanda cites \"our pets' heads are falling off\" as her all-purpose line for when everything's going wrong."
+            },
+            {
+              "title": "Clear and Present Danger",
+              "year": 1994,
+              "category": "Action/Horror",
+              "note": "Amanda names 1988 to 1994 as peak Harrison Ford and singles out the \"how dare you, sir\" Oval Office confrontation."
+            },
+            {
+              "title": "Little Women",
+              "year": 1994,
+              "category": "Drama",
+              "note": "Credits its box-office success with kicking off the wave of Austen adaptations later in the decade, including Sense and Sensibility. Cast: Winona Ryder, Kirsten Dunst, Claire Danes, Christian Bale."
+            },
+            {
+              "title": "Barcelona",
+              "year": 1994,
+              "category": "Wildcard",
+              "note": "A Whit Stillman film with Chris Eigeman, whom Amanda also flags from Kicking and Screaming."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Spanking the Monkey",
+        "Baby's Day Out"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "1994 films mentioned but not drafted",
+      "films": [
+        "The Flintstones",
+        "The Santa Clause",
+        "Ed Wood",
+        "Blue Sky",
+        "Bullets Over Broadway",
+        "The Little Rascals",
+        "Andre",
+        "Interview with the Vampire",
+        "Wolf",
+        "Three Colors: Red",
+        "Mi Vida Loca",
+        "Crooklyn",
+        "The Client",
+        "The River Wild",
+        "The Paper",
+        "The Madness of King George",
+        "Miracle on 34th Street",
+        "Little Big League",
+        "Angels in the Outfield",
+        "Little Giants",
+        "D2: The Mighty Ducks",
+        "Major League II",
+        "PCU",
+        "Red Rock West",
+        "The Last Seduction"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Homeland"
+    ],
+    "Ads": [
+      "Higher Learning (show promo)",
+      "Boar's Head",
+      "White Claw"
+    ],
+    "Not 1994 releases": [
+      "Working Girl (1988)",
+      "The Adventures of Baron Munchausen (1988)",
+      "True Romance (1993)",
+      "Reservoir Dogs (1992)",
+      "A River Runs Through It (1992)",
+      "Clueless (1995)",
+      "Free Willy (1993)"
+    ]
+  },
+  "tmdb": {
+    "The Lion King": {
+      "id": 8587,
+      "poster": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+      "title": "The Lion King",
+      "year": 1994
+    },
+    "Timecop": {
+      "id": 8831,
+      "poster": "/bgxP6ws8ErBiarnb4S93vv0lkf4.jpg",
+      "title": "Timecop",
+      "year": 1994
+    },
+    "Above the Rim": {
+      "id": 19092,
+      "poster": "/56NFHuZXdgZbVxvCyYw92E5uLQa.jpg",
+      "title": "Above the Rim",
+      "year": 1994
+    },
+    "Airheads": {
+      "id": 13595,
+      "poster": "/4xPG8pPMyeoec48gKWbbC85EC8j.jpg",
+      "title": "Airheads",
+      "year": 1994
+    },
+    "Surviving the Game": {
+      "id": 17585,
+      "poster": "/wRtpJFGney5gqHmMb3JjT5WN3FH.jpg",
+      "title": "Surviving the Game",
+      "year": 1994
+    },
+    "Wyatt Earp": {
+      "id": 12160,
+      "poster": "/51LItgyecu2KMAtIchYogEykCIu.jpg",
+      "title": "Wyatt Earp",
+      "year": 1994
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "Forrest Gump": {
+      "id": 13,
+      "poster": "/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
+      "title": "Forrest Gump",
+      "year": 1994
+    },
+    "Léon: The Professional": {
+      "id": 101,
+      "poster": "/bxB2q91nKYp8JNzqE7t7TWBVupB.jpg",
+      "title": "Léon: The Professional",
+      "year": 1994
+    },
+    "Quiz Show": {
+      "id": 11450,
+      "poster": "/yoGJo1h3Hl2exXPVcG9UXWDENtX.jpg",
+      "title": "Quiz Show",
+      "year": 1994
+    },
+    "The Hudsucker Proxy": {
+      "id": 11934,
+      "poster": "/xBQBr6Q1OTivouBK66oFgy86n03.jpg",
+      "title": "The Hudsucker Proxy",
+      "year": 1994
+    },
+    "Blue Chips": {
+      "id": 19819,
+      "poster": "/tO71i4Ob64tchCRBB5MoqonPKAF.jpg",
+      "title": "Blue Chips",
+      "year": 1994
+    },
+    "The Shawshank Redemption": {
+      "id": 278,
+      "poster": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+      "title": "The Shawshank Redemption",
+      "year": 1994
+    },
+    "True Lies": {
+      "id": 36955,
+      "poster": "/pweFTnzzTfGK68woSVkiTgjLzWm.jpg",
+      "title": "True Lies",
+      "year": 1994
+    },
+    "Fresh": {
+      "id": 13815,
+      "poster": "/uXRIIUzjDZZdWR2cUzPJ9eAqaHv.jpg",
+      "title": "Fresh",
+      "year": 1994
+    },
+    "The Mask": {
+      "id": 854,
+      "poster": "/jPC2eYub74zwf2tPGVtzSlBW6Oy.jpg",
+      "title": "The Mask",
+      "year": 1994
+    },
+    "Legends of the Fall": {
+      "id": 4476,
+      "poster": "/t1KPGlW0UGd0m515LPQmk2F4nu1.jpg",
+      "title": "Legends of the Fall",
+      "year": 1994
+    },
+    "Blankman": {
+      "id": 20678,
+      "poster": "/9b1zje1Yp3kaJOn8pJqaQ1WLmoj.jpg",
+      "title": "Blankman",
+      "year": 1994
+    },
+    "Speed": {
+      "id": 1637,
+      "poster": "/82PkCE4R95KhHICUDF7G4Ly2z3l.jpg",
+      "title": "Speed",
+      "year": 1994
+    },
+    "Clerks": {
+      "id": 2292,
+      "poster": "/9IiSgiq4h4siTIS9H3o4nZ3h5L9.jpg",
+      "title": "Clerks",
+      "year": 1994
+    },
+    "Hoop Dreams": {
+      "id": 14275,
+      "poster": "/gLzHl2XBtVwycl8DxdOXRHPm8G3.jpg",
+      "title": "Hoop Dreams",
+      "year": 1994
+    },
+    "Chungking Express": {
+      "id": 11104,
+      "poster": "/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg",
+      "title": "Chungking Express",
+      "year": 1994
+    },
+    "Shallow Grave": {
+      "id": 9905,
+      "poster": "/gqvSKLbfIg1mja1ulVkVcLhdwWF.jpg",
+      "title": "Shallow Grave",
+      "year": 1994
+    },
+    "Natural Born Killers": {
+      "id": 241,
+      "poster": "/fEKZwT91gxvkAoyPgpNXo8W5fu0.jpg",
+      "title": "Natural Born Killers",
+      "year": 1994
+    },
+    "Reality Bites": {
+      "id": 2788,
+      "poster": "/qGDhodtpkpxkrFqokenGNJlzt6w.jpg",
+      "title": "Reality Bites",
+      "year": 1994
+    },
+    "Four Weddings and a Funeral": {
+      "id": 712,
+      "poster": "/qa72G2VS0bpxms6yo0tI9vsHm2e.jpg",
+      "title": "Four Weddings and a Funeral",
+      "year": 1994
+    },
+    "Dumb and Dumber": {
+      "id": 8467,
+      "poster": "/4LdpBXiCyGKkR8FGHgjKlphrfUc.jpg",
+      "title": "Dumb and Dumber",
+      "year": 1994
+    },
+    "Clear and Present Danger": {
+      "id": 9331,
+      "poster": "/6xTM8FPxrLRYwz6I3fqtwh7xybs.jpg",
+      "title": "Clear and Present Danger",
+      "year": 1994
+    },
+    "Little Women": {
+      "id": 9587,
+      "poster": "/1ZzH1XMcKAe5NdrKL5MfcqZHHsZ.jpg",
+      "title": "Little Women",
+      "year": 1994
+    },
+    "Barcelona": {
+      "id": 16771,
+      "poster": "/7dgX3naR9EsFMvQhwHY8My6r5FR.jpg",
+      "title": "Barcelona",
+      "year": 1994
+    },
+    "Spanking the Monkey": {
+      "id": 17600,
+      "poster": "/fuID31Ft8nWLcFRSQ7qZRlu49o7.jpg",
+      "title": "Spanking the Monkey",
+      "year": 1994
+    },
+    "Baby's Day Out": {
+      "id": 11212,
+      "poster": "/21U2jwl36hoTHsXB3fDuIQkcchu.jpg",
+      "title": "Baby's Day Out",
+      "year": 1994
+    },
+    "The Flintstones": {
+      "id": 888,
+      "poster": "/k7gkf5Wa8YZ9iyEOylBMfw9pnkp.jpg",
+      "title": "The Flintstones",
+      "year": 1994
+    },
+    "The Santa Clause": {
+      "id": 11395,
+      "poster": "/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg",
+      "title": "The Santa Clause",
+      "year": 1994
+    },
+    "Ed Wood": {
+      "id": 522,
+      "poster": "/n8SrO3WbyuY2b6KazogqbQF348C.jpg",
+      "title": "Ed Wood",
+      "year": 1994
+    },
+    "Blue Sky": {
+      "id": 57834,
+      "poster": "/zG40OnO4Y98lo1iDHyFo5TaZyP1.jpg",
+      "title": "Blue Sky",
+      "year": 1994
+    },
+    "Bullets Over Broadway": {
+      "id": 11382,
+      "poster": "/mY9D1oCLeDKNMdUO8EV7MoCZ3up.jpg",
+      "title": "Bullets Over Broadway",
+      "year": 1994
+    },
+    "The Little Rascals": {
+      "id": 10897,
+      "poster": "/qI7PKX2JSw4yD2iQm3pyHvKir28.jpg",
+      "title": "The Little Rascals",
+      "year": 1994
+    },
+    "Andre": {
+      "id": 21352,
+      "poster": "/uo5BozBpQfKXGLPUeUkwBGLG0XW.jpg",
+      "title": "Andre",
+      "year": 1994
+    },
+    "Interview with the Vampire": {
+      "id": 628,
+      "poster": "/2162lAT2MP36MyJd2sttmj5du5T.jpg",
+      "title": "Interview with the Vampire",
+      "year": 1994
+    },
+    "Wolf": {
+      "id": 10395,
+      "poster": "/5TprU55U2zjAMCwr2jQra3zj1zu.jpg",
+      "title": "Wolf",
+      "year": 1994
+    },
+    "Three Colors: Red": {
+      "id": 110,
+      "poster": "/JHmsBiX1tjCKqAul1lzC20WcAW.jpg",
+      "title": "Three Colors: Red",
+      "year": 1994
+    },
+    "Mi Vida Loca": {
+      "id": 32325,
+      "poster": "/gtKIaHUqkNqdgVnMFosyVJXvKMC.jpg",
+      "title": "Mi Vida Loca",
+      "year": 1994
+    },
+    "Crooklyn": {
+      "id": 34152,
+      "poster": "/iFqe07F78SO0SIBzWcK4I5MwNvP.jpg",
+      "title": "Crooklyn",
+      "year": 1994
+    },
+    "The Client": {
+      "id": 10731,
+      "poster": "/oLdkJ4ZjxPtFSUChdjDQvHM9l75.jpg",
+      "title": "The Client",
+      "year": 1994
+    },
+    "The River Wild": {
+      "id": 8987,
+      "poster": "/wVgQ2T63ThjIsY4R0qoHXjyllql.jpg",
+      "title": "The River Wild",
+      "year": 1994
+    },
+    "The Paper": {
+      "id": 12280,
+      "poster": "/pGPrFbucRLwVtCKCeinwAklAl0l.jpg",
+      "title": "The Paper",
+      "year": 1994
+    },
+    "The Madness of King George": {
+      "id": 11318,
+      "poster": "/1dTSY023ZyBbgVSKDRuA6JLGSnZ.jpg",
+      "title": "The Madness of King George",
+      "year": 1994
+    },
+    "Miracle on 34th Street": {
+      "id": 10510,
+      "poster": "/iUTPKkljdEjPlcPPYgbUz7APnHu.jpg",
+      "title": "Miracle on 34th Street",
+      "year": 1994
+    },
+    "Little Big League": {
+      "id": 31504,
+      "poster": "/ps0GapKs4vuV38XX6VUbTZm8QS6.jpg",
+      "title": "Little Big League",
+      "year": 1994
+    },
+    "Angels in the Outfield": {
+      "id": 24795,
+      "poster": "/7WRt6l7tiXVPG9zLco1rwy5Ffw9.jpg",
+      "title": "Angels in the Outfield",
+      "year": 1994
+    },
+    "Little Giants": {
+      "id": 20726,
+      "poster": "/AkfXNOeKgJSOD08StGd0599auiZ.jpg",
+      "title": "Little Giants",
+      "year": 1994
+    },
+    "D2: The Mighty Ducks": {
+      "id": 11164,
+      "poster": "/veGW1N6QUglP4osDdOUI6CZCcBI.jpg",
+      "title": "D2: The Mighty Ducks",
+      "year": 1994
+    },
+    "Major League II": {
+      "id": 11067,
+      "poster": "/2QAb0gZusyMsZ1W5ce85plVciDp.jpg",
+      "title": "Major League II",
+      "year": 1994
+    },
+    "PCU": {
+      "id": 14425,
+      "poster": "/xTToUzy9Im9nu2W8fz7TPWoDWN5.jpg",
+      "title": "PCU",
+      "year": 1994
+    },
+    "Red Rock West": {
+      "id": 10427,
+      "poster": "/ewofUEqU3Gpr7WSgSz3TEVPIfBg.jpg",
+      "title": "Red Rock West",
+      "year": 1993
+    },
+    "The Last Seduction": {
+      "id": 25284,
+      "poster": "/kK8IiJDkz2Tv6DwaK60vJVHKH85.jpg",
+      "title": "The Last Seduction",
+      "year": 1994
+    }
+  }
+}

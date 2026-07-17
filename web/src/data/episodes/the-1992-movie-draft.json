@@ -1,0 +1,717 @@
+{
+  "slug": "the-1992-movie-draft",
+  "title": "The 1992 Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2022-05-17",
+  "runtimeMin": 86,
+  "format": "Sean, Amanda, and Chris Ryan draft the year they all learned to love movies, six categories deep, with Amanda still smarting about the one that got away.",
+  "segments": [
+    {
+      "kind": "draft",
+      "heading": "The 1992 Movie Draft",
+      "note": "snake draft, six categories",
+      "draftOf": "1992 movies",
+      "categories": [
+        "Drama",
+        "Comedy",
+        "Oscar Nominee",
+        "Action/Horror/Thriller",
+        "Blockbuster",
+        "Wildcard"
+      ],
+      "teams": [
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "A Few Good Men",
+              "year": 1992,
+              "category": "Blockbuster",
+              "note": "The pick Amanda was banking on; Sean got it with the first spin of the wheel."
+            },
+            {
+              "title": "My Cousin Vinny",
+              "year": 1992,
+              "category": "Comedy",
+              "note": "Marisa Tomei's Oscar-winning turn; a rewatchables staple for Sean's family."
+            },
+            {
+              "title": "Unforgiven",
+              "year": 1992,
+              "category": "Oscar Nominee",
+              "note": "Best Picture and Best Director winner; Hackman, Freeman, and Harris in support."
+            },
+            {
+              "title": "Batman Returns",
+              "year": 1992,
+              "category": "Action/Horror/Thriller",
+              "note": "Burton's follow-up, with Pfeiffer and DeVito as Catwoman and Penguin."
+            },
+            {
+              "title": "Glengarry Glen Ross",
+              "year": 1992,
+              "category": "Drama",
+              "note": "Mamet's ensemble, with the Alec Baldwin \"always be closing\" speech written fresh for the film."
+            },
+            {
+              "title": "Juice",
+              "year": 1992,
+              "category": "Wildcard",
+              "note": "Ernest Dickerson's film; Sean calls it one of his ten favorite movies of all time."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Reservoir Dogs",
+              "year": 1992,
+              "category": "Drama",
+              "note": "Tarantino's debut. Chris took it over Glengarry Glen Ross, which he later regretted."
+            },
+            {
+              "title": "White Men Can't Jump",
+              "year": 1992,
+              "category": "Comedy",
+              "note": "The movie that hooked 15-year-old Chris on basketball and hip-hop at the same time."
+            },
+            {
+              "title": "Scent of a Woman",
+              "year": 1992,
+              "category": "Oscar Nominee",
+              "note": "Pacino's makeup Oscar; Chris says Glengarry Glen Ross was his real favorite Pacino performance that year."
+            },
+            {
+              "title": "One False Move",
+              "year": 1992,
+              "category": "Action/Horror/Thriller",
+              "note": "Billy Bob Thornton co-wrote and starred; Chris saw it in theaters and thought it was the best movie he'd ever seen."
+            },
+            {
+              "title": "The Last of the Mohicans",
+              "year": 1992,
+              "category": "Blockbuster",
+              "note": "Michael Mann and Daniel Day-Lewis; made just over the $75 million blockbuster threshold."
+            },
+            {
+              "title": "Sneakers",
+              "year": 1992,
+              "category": "Wildcard",
+              "note": "Redford, Aykroyd, Poitier, and Kingsley. Sean calls it the blunder of the draft since it cost Chris Glengarry Glen Ross."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Basic Instinct",
+              "year": 1992,
+              "category": "Action/Horror/Thriller",
+              "note": "Verhoeven's neo-noir, with Sharon Stone."
+            },
+            {
+              "title": "The Player",
+              "year": 1992,
+              "category": "Drama",
+              "note": "Altman's Hollywood satire. Recorded the day Fred Ward, who plays the head of security, died."
+            },
+            {
+              "title": "Malcolm X",
+              "year": 1992,
+              "category": "Oscar Nominee",
+              "note": "Spike Lee's biopic with Denzel Washington."
+            },
+            {
+              "title": "A League of Their Own",
+              "year": 1992,
+              "category": "Blockbuster",
+              "note": "Hanks, Davis, and Madonna; a childhood favorite Amanda wanted."
+            },
+            {
+              "title": "Sister Act",
+              "year": 1992,
+              "category": "Comedy",
+              "note": "Whoopi Goldberg, directed by the underrecognized Emile Ardolino, who also made Dirty Dancing."
+            },
+            {
+              "title": "The Cutting Edge",
+              "year": 1992,
+              "category": "Wildcard",
+              "note": "Figure-skating romantic comedy set against the 1992 Olympics."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Aladdin",
+        "Home Alone 2: Lost in New York",
+        "Lethal Weapon 3",
+        "Howard's End",
+        "Final Analysis",
+        "Article 99",
+        "Jennifer 8",
+        "Patriot Games",
+        "Twin Peaks: Fire Walk with Me",
+        "Deep Cover",
+        "Light Sleeper",
+        "Singles",
+        "Wayne's World",
+        "Under Siege",
+        "Passenger 57",
+        "Trespass",
+        "Passion Fish",
+        "Night and the City",
+        "Bad Lieutenant",
+        "Candyman",
+        "Bram Stoker's Dracula",
+        "Alien 3",
+        "El Mariachi",
+        "Hoffa",
+        "The Mighty Ducks",
+        "A River Runs Through It",
+        "Boomerang",
+        "Death Becomes Her",
+        "School Ties",
+        "Big Girls Don't Cry... They Get Even",
+        "The Bodyguard",
+        "Mississippi Masala",
+        "American Me",
+        "Where the Day Takes You",
+        "Cool World",
+        "The Muppet Christmas Carol",
+        "Single White Female",
+        "Buffy the Vampire Slayer",
+        "The Long Day Closes",
+        "Night on Earth",
+        "Army of Darkness"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Top Gun: Maverick",
+        "Spider-Head",
+        "Finding Nemo",
+        "Seabiscuit",
+        "Marry Me",
+        "Captain America: The Winter Soldier",
+        "Up Close & Personal",
+        "The American President",
+        "Batman",
+        "Clear and Present Danger",
+        "Sex, Lies, and Videotape",
+        "Glory",
+        "Cry Freedom",
+        "Do the Right Thing",
+        "Eden",
+        "We Are Your Friends",
+        "That Awkward Moment",
+        "The Unbearable Weight of Massive Talent",
+        "Margin Call"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Night and the City": 36288,
+    "Deep Cover": 20676,
+    "Singles": 11068,
+    "Trespass": 22004,
+    "Alien 3": 8077,
+    "Jennifer 8": 10424,
+    "Spider-Head": 615469,
+    "Eden": 283330
+  },
+  "excluded": {
+    "TV": [
+      "NCIS"
+    ],
+    "Ads/Promos": [
+      "Morally Corrupt",
+      "Boar's Head",
+      "Netflix FIFA World Cup Launch Edition",
+      "White Claw",
+      "Botox",
+      "Sam's Club"
+    ]
+  },
+  "tmdb": {
+    "A Few Good Men": {
+      "id": 881,
+      "poster": "/rLOk4z9zL1tTukIYV56P94aZXKk.jpg",
+      "title": "A Few Good Men",
+      "year": 1992
+    },
+    "My Cousin Vinny": {
+      "id": 10377,
+      "poster": "/iwSURa8nS2ujwrU3s1lfxxX7voH.jpg",
+      "title": "My Cousin Vinny",
+      "year": 1992
+    },
+    "Unforgiven": {
+      "id": 33,
+      "poster": "/54roTwbX9fltg85zjsmrooXAs12.jpg",
+      "title": "Unforgiven",
+      "year": 1992
+    },
+    "Batman Returns": {
+      "id": 364,
+      "poster": "/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg",
+      "title": "Batman Returns",
+      "year": 1992
+    },
+    "Glengarry Glen Ross": {
+      "id": 9504,
+      "poster": "/zcaEDx8KlVfh4vKfMNLhiSi5Oz4.jpg",
+      "title": "Glengarry Glen Ross",
+      "year": 1992
+    },
+    "Juice": {
+      "id": 16136,
+      "poster": "/hfXFPMhNjLnCugBHMN0nrtKW7Ra.jpg",
+      "title": "Juice",
+      "year": 1992
+    },
+    "Reservoir Dogs": {
+      "id": 500,
+      "poster": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+      "title": "Reservoir Dogs",
+      "year": 1992
+    },
+    "White Men Can't Jump": {
+      "id": 10158,
+      "poster": "/jnI05Z2Cm9ACEJo8FGen7tdHKLl.jpg",
+      "title": "White Men Can't Jump",
+      "year": 1992
+    },
+    "Scent of a Woman": {
+      "id": 9475,
+      "poster": "/4adI7IaveWb7EidYXfLb3MK3CgO.jpg",
+      "title": "Scent of a Woman",
+      "year": 1992
+    },
+    "One False Move": {
+      "id": 21128,
+      "poster": "/x5xCkGw4jutMcc8nmWLKNzbDKht.jpg",
+      "title": "One False Move",
+      "year": 1992
+    },
+    "The Last of the Mohicans": {
+      "id": 9361,
+      "poster": "/qzJMPWRtZveBkxXOv3ucWhoJuyj.jpg",
+      "title": "The Last of the Mohicans",
+      "year": 1992
+    },
+    "Sneakers": {
+      "id": 2322,
+      "poster": "/l2pIGwCvpZEpBuMb55YBl6A04Jv.jpg",
+      "title": "Sneakers",
+      "year": 1992
+    },
+    "Basic Instinct": {
+      "id": 402,
+      "poster": "/76Ts0yoHk8kVQj9MMnoMixhRWoh.jpg",
+      "title": "Basic Instinct",
+      "year": 1992
+    },
+    "The Player": {
+      "id": 10403,
+      "poster": "/tZ3kDut2dhFVGkWNEn9xoCHCNAx.jpg",
+      "title": "The Player",
+      "year": 1992
+    },
+    "Malcolm X": {
+      "id": 1883,
+      "poster": "/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
+      "title": "Malcolm X",
+      "year": 1992
+    },
+    "A League of Their Own": {
+      "id": 11287,
+      "poster": "/f9BtX6wYOwJUyfUr4vyeT3COz6m.jpg",
+      "title": "A League of Their Own",
+      "year": 1992
+    },
+    "Sister Act": {
+      "id": 2005,
+      "poster": "/xZvVSZ0RTxIjblLV87vs7ADM12m.jpg",
+      "title": "Sister Act",
+      "year": 1992
+    },
+    "The Cutting Edge": {
+      "id": 16562,
+      "poster": "/sx4qf2XoW0xaLITQLpajsYc4mcj.jpg",
+      "title": "The Cutting Edge",
+      "year": 1992
+    },
+    "Aladdin": {
+      "id": 812,
+      "poster": "/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
+      "title": "Aladdin",
+      "year": 1992
+    },
+    "Home Alone 2: Lost in New York": {
+      "id": 772,
+      "poster": "/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
+      "title": "Home Alone 2: Lost in New York",
+      "year": 1992
+    },
+    "Lethal Weapon 3": {
+      "id": 943,
+      "poster": "/efOCSdTquRGQFTpTsLYApfBWmJK.jpg",
+      "title": "Lethal Weapon 3",
+      "year": 1992
+    },
+    "Howard's End": {
+      "id": 8293,
+      "poster": "/1009nhfj28VhhQnVadtjkOacduX.jpg",
+      "title": "Howards End",
+      "year": 1992
+    },
+    "Final Analysis": {
+      "id": 4823,
+      "poster": "/bQZT83mRoNINRsCaKtKOpUQQdY.jpg",
+      "title": "Final Analysis",
+      "year": 1992
+    },
+    "Article 99": {
+      "id": 25269,
+      "poster": "/vqgKO2qredWaXjwHg3GBDOzLErx.jpg",
+      "title": "Article 99",
+      "year": 1992
+    },
+    "Jennifer 8": {
+      "id": 10424,
+      "poster": "/pMlk8spEliRD6hr4ILs5ubHeBGT.jpg",
+      "title": "Jennifer Eight",
+      "year": 1992
+    },
+    "Patriot Games": {
+      "id": 9869,
+      "poster": "/9IT7gnszrRthduYxCLqaIkM55Un.jpg",
+      "title": "Patriot Games",
+      "year": 1992
+    },
+    "Twin Peaks: Fire Walk with Me": {
+      "id": 1923,
+      "poster": "/mxsGXqetGnirf99qapYd5MMY1VL.jpg",
+      "title": "Twin Peaks: Fire Walk with Me",
+      "year": 1992
+    },
+    "Deep Cover": {
+      "id": 20676,
+      "poster": "/vVLNUxxT2BHeBsNKET0tfnUUmwZ.jpg",
+      "title": "Deep Cover",
+      "year": 1992
+    },
+    "Light Sleeper": {
+      "id": 36351,
+      "poster": "/fFSdOYKp80rcK81KuNW3rz7FcLX.jpg",
+      "title": "Light Sleeper",
+      "year": 1992
+    },
+    "Singles": {
+      "id": 11068,
+      "poster": "/4T7OKBdkNBorRKWw7VSeuA225z1.jpg",
+      "title": "Singles",
+      "year": 1992
+    },
+    "Wayne's World": {
+      "id": 8872,
+      "poster": "/fHwZnFNWR7PaS9t5EBwTvGPeoYQ.jpg",
+      "title": "Wayne's World",
+      "year": 1992
+    },
+    "Under Siege": {
+      "id": 8845,
+      "poster": "/myHxm9p8fhEsXyaLO6DawYJKolg.jpg",
+      "title": "Under Siege",
+      "year": 1992
+    },
+    "Passenger 57": {
+      "id": 10538,
+      "poster": "/4VBN8pQxGHjeZWcNv1V1xSw0OKC.jpg",
+      "title": "Passenger 57",
+      "year": 1992
+    },
+    "Trespass": {
+      "id": 22004,
+      "poster": "/GSeicpK571uoM2ZCRb1YyW2YMG.jpg",
+      "title": "Trespass",
+      "year": 1992
+    },
+    "Passion Fish": {
+      "id": 41768,
+      "poster": "/g60GELLr2oGnlJX5Yidkl9ufFYv.jpg",
+      "title": "Passion Fish",
+      "year": 1992
+    },
+    "Night and the City": {
+      "id": 36288,
+      "poster": "/tyImRcDzTdwIhRReKla6CFpXnPX.jpg",
+      "title": "Night and the City",
+      "year": 1992
+    },
+    "Bad Lieutenant": {
+      "id": 12143,
+      "poster": "/mVJ2mXykqq3t2v1nuouf1P10g0d.jpg",
+      "title": "Bad Lieutenant",
+      "year": 1992
+    },
+    "Candyman": {
+      "id": 9529,
+      "poster": "/jQtgkgDZE7egMq532sOt83DnT83.jpg",
+      "title": "Candyman",
+      "year": 1992
+    },
+    "Bram Stoker's Dracula": {
+      "id": 6114,
+      "poster": "/4ZbUxjY5DZ7RCxGwvzSEr4rThd1.jpg",
+      "title": "Bram Stoker's Dracula",
+      "year": 1992
+    },
+    "Alien 3": {
+      "id": 8077,
+      "poster": "/xh5wI0UoW7DfS1IyLy3d2CgrCEP.jpg",
+      "title": "Alien³",
+      "year": 1992
+    },
+    "El Mariachi": {
+      "id": 9367,
+      "poster": "/zRh7K4SV1xQ419m8gzGITak51vc.jpg",
+      "title": "El Mariachi",
+      "year": 1993
+    },
+    "Hoffa": {
+      "id": 10410,
+      "poster": "/aMGhaSkhkFwz33hKEsBrJ3ptx3g.jpg",
+      "title": "Hoffa",
+      "year": 1992
+    },
+    "The Mighty Ducks": {
+      "id": 10414,
+      "poster": "/zxaCHxKDFNi6frh1Q0dj19L216o.jpg",
+      "title": "The Mighty Ducks",
+      "year": 1992
+    },
+    "A River Runs Through It": {
+      "id": 293,
+      "poster": "/aVP45oS2cBL4WtZ1kB7r8uarruB.jpg",
+      "title": "A River Runs Through It",
+      "year": 1992
+    },
+    "Boomerang": {
+      "id": 11066,
+      "poster": "/apwkBVaJqLuK6mxe6sOABCeNjRw.jpg",
+      "title": "Boomerang",
+      "year": 1992
+    },
+    "Death Becomes Her": {
+      "id": 9374,
+      "poster": "/kkWxyyyWFK5KNk9WVwQuGEC9H9H.jpg",
+      "title": "Death Becomes Her",
+      "year": 1992
+    },
+    "School Ties": {
+      "id": 14684,
+      "poster": "/h9u6VSyEPlF5L69QSzOh1eo4F5q.jpg",
+      "title": "School Ties",
+      "year": 1992
+    },
+    "Big Girls Don't Cry... They Get Even": {
+      "id": 46972,
+      "poster": "/gWG6PMlu1jTst0HPokQ1FjskxLg.jpg",
+      "title": "Big Girls Don't Cry... They Get Even",
+      "year": 1992
+    },
+    "The Bodyguard": {
+      "id": 619,
+      "poster": "/ihWF0uY1xnKqw9YK7ZHNLUZOhcO.jpg",
+      "title": "The Bodyguard",
+      "year": 1992
+    },
+    "Mississippi Masala": {
+      "id": 41791,
+      "poster": "/b2Gks4Stt98FRI5isaL6Wu1luhh.jpg",
+      "title": "Mississippi Masala",
+      "year": 1991
+    },
+    "American Me": {
+      "id": 13199,
+      "poster": "/mrcdh66L6K1Nb5xPORuZufvE9aE.jpg",
+      "title": "American Me",
+      "year": 1992
+    },
+    "Where the Day Takes You": {
+      "id": 17736,
+      "poster": "/6W7pwB1o601kN8zySjHNz5X3QDK.jpg",
+      "title": "Where the Day Takes You",
+      "year": 1992
+    },
+    "Cool World": {
+      "id": 14239,
+      "poster": "/mqzRUHNtFwmgJCmSnvq3JnX0xgZ.jpg",
+      "title": "Cool World",
+      "year": 1992
+    },
+    "The Muppet Christmas Carol": {
+      "id": 10437,
+      "poster": "/ssrV29QSVVJuemBHho0Qx7pFYak.jpg",
+      "title": "The Muppet Christmas Carol",
+      "year": 1992
+    },
+    "Single White Female": {
+      "id": 9605,
+      "poster": "/yPGK58CcAM8NAX8ycR1jdjo2wiE.jpg",
+      "title": "Single White Female",
+      "year": 1992
+    },
+    "Buffy the Vampire Slayer": {
+      "id": 10206,
+      "poster": "/tcF3S4UdFpuoZEWovMDq5AXazNF.jpg",
+      "title": "Buffy the Vampire Slayer",
+      "year": 1992
+    },
+    "The Long Day Closes": {
+      "id": 49956,
+      "poster": "/4cbgr67H4qV2RHqeFqlf4hMIl1Y.jpg",
+      "title": "The Long Day Closes",
+      "year": 1992
+    },
+    "Night on Earth": {
+      "id": 339,
+      "poster": "/ktejUHCo6c8DekpOtR3uSb6oDXr.jpg",
+      "title": "Night on Earth",
+      "year": 1991
+    },
+    "Army of Darkness": {
+      "id": 766,
+      "poster": "/xsgTuAtR2zSH8Umg3jWZcZjlDpe.jpg",
+      "title": "Army of Darkness",
+      "year": 1992
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Spider-Head": {
+      "id": 615469,
+      "poster": "/7COPO5B9AOKIB4sEkvNu0wfve3c.jpg",
+      "title": "Spiderhead",
+      "year": 2022
+    },
+    "Finding Nemo": {
+      "id": 12,
+      "poster": "/5lc6nQc0VhWFYFbNv016xze8Jvy.jpg",
+      "title": "Finding Nemo",
+      "year": 2003
+    },
+    "Seabiscuit": {
+      "id": 4464,
+      "poster": "/5m7NfZvxYsSm2YBCJ2VPQf8ziKr.jpg",
+      "title": "Seabiscuit",
+      "year": 2003
+    },
+    "Marry Me": {
+      "id": 615904,
+      "poster": "/ko1JVbGj4bT8IhCWqjBQ6ZtF2t.jpg",
+      "title": "Marry Me",
+      "year": 2022
+    },
+    "Captain America: The Winter Soldier": {
+      "id": 100402,
+      "poster": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+      "title": "Captain America: The Winter Soldier",
+      "year": 2014
+    },
+    "Up Close & Personal": {
+      "id": 9302,
+      "poster": "/zF67qcf7skMHLpXnifodinUqCFr.jpg",
+      "title": "Up Close & Personal",
+      "year": 1996
+    },
+    "The American President": {
+      "id": 9087,
+      "poster": "/yObOAYFIHXHkFPQ3jhgkN2ezaD.jpg",
+      "title": "The American President",
+      "year": 1995
+    },
+    "Batman": {
+      "id": 268,
+      "poster": "/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
+      "title": "Batman",
+      "year": 1989
+    },
+    "Clear and Present Danger": {
+      "id": 9331,
+      "poster": "/6xTM8FPxrLRYwz6I3fqtwh7xybs.jpg",
+      "title": "Clear and Present Danger",
+      "year": 1994
+    },
+    "Sex, Lies, and Videotape": {
+      "id": 1412,
+      "poster": "/pj1uKm07svgXZDHbYE8AzRfNHcu.jpg",
+      "title": "sex, lies, and videotape",
+      "year": 1989
+    },
+    "Glory": {
+      "id": 9665,
+      "poster": "/pGDzBjZvzmSCIEduQBfESLMiwtp.jpg",
+      "title": "Glory",
+      "year": 1989
+    },
+    "Cry Freedom": {
+      "id": 12506,
+      "poster": "/zEONV1NAzzoQGFFgSIEs7vJzDrN.jpg",
+      "title": "Cry Freedom",
+      "year": 1987
+    },
+    "Do the Right Thing": {
+      "id": 925,
+      "poster": "/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+      "title": "Do the Right Thing",
+      "year": 1989
+    },
+    "Eden": {
+      "id": 283330,
+      "poster": "/9Cy49FxqqcW4ybj1EWtTaahRIRv.jpg",
+      "title": "Eden",
+      "year": 2014
+    },
+    "We Are Your Friends": {
+      "id": 301351,
+      "poster": "/7RzpN4aLjM5FUc7Q3WsvNn2MuaR.jpg",
+      "title": "We Are Your Friends",
+      "year": 2015
+    },
+    "That Awkward Moment": {
+      "id": 225565,
+      "poster": "/tjDAdesZNYFyRNnZvLT0osc7S2t.jpg",
+      "title": "That Awkward Moment",
+      "year": 2014
+    },
+    "The Unbearable Weight of Massive Talent": {
+      "id": 648579,
+      "poster": "/aqhLeieyTpTUKPOfZ3jzo2La0Mq.jpg",
+      "title": "The Unbearable Weight of Massive Talent",
+      "year": 2022
+    },
+    "Margin Call": {
+      "id": 50839,
+      "poster": "/qtO57obCJuUBS0en3HLgFgZ19Xk.jpg",
+      "title": "Margin Call",
+      "year": 2011
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "slug": "morgan-nevilles-mister-rogers-documentary-reminds-us-to-be-a",
+  "title": "Morgan Neville’s Mister Rogers Documentary Reminds Us to Be a Good Neighbor",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2018-06-13",
+  "runtimeMin": 33,
+  "format": "Sean Fennessey talks with Morgan Neville about his Mr. Rogers documentary, radical kindness in an uncivil moment, and why documentary went from the spinach of filmmaking to a boom.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Morgan Neville on",
+      "films": [
+        {
+          "title": "Won't You Be My Neighbor?",
+          "year": 2018,
+          "note": "Neville's Mr. Rogers film — pitched as a movie about ideas, not a biography. He boils Rogers down to \"radical kindness\" and argues its opposite is fear. Joanne Rogers' instruction: don't make Fred a saint."
+        },
+        {
+          "title": "20 Feet from Stardom",
+          "year": 2013,
+          "note": "His Oscar winner, on backup singers. The win cut his fundraising from 50% of his time to 6%, which is why he can be this prolific."
+        },
+        {
+          "title": "Best of Enemies",
+          "year": 2015,
+          "note": "The Gore Vidal–William F. Buckley debates; Neville calls it a mirror to the Rogers film — both about civility and common ground. Nobody wanted to fund \"two old dead white guys talking on TV\" until after the Oscar."
+        },
+        {
+          "title": "They'll Love Me When I'm Dead",
+          "year": 2018,
+          "note": "His next film, on Orson Welles' last 15 years back in Hollywood, made with Frank Marshall."
+        },
+        {
+          "title": "The Other Side of the Wind",
+          "year": 2018,
+          "note": "Welles' unfinished film about a director who can't finish a movie; the dailies sat in a Paris vault 42 years before Neville and Marshall liberated them."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Easy Rider",
+        "Spellbound"
+      ]
+    },
+    {
+      "group": "Ringer cross-promo",
+      "films": [
+        "Jurassic Park",
+        "Jurassic World: Fallen Kingdom",
+        "The Incredibles",
+        "Incredibles 2"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Mister Rogers' Neighborhood",
+      "Ugly Delicious",
+      "Abstract: The Art of Design",
+      "Wild Wild Country"
+    ],
+    "Podcasts": [
+      "The Rewatchables"
+    ]
+  },
+  "tmdb": {
+    "Won't You Be My Neighbor?": {
+      "id": 490003,
+      "poster": "/8qE8NZjiP2M884baH0VoLF828Vp.jpg",
+      "title": "Won't You Be My Neighbor?",
+      "year": 2018
+    },
+    "20 Feet from Stardom": {
+      "id": 159014,
+      "poster": "/6iRxKxfE6SB586cQV3BH8NSMzoZ.jpg",
+      "title": "20 Feet from Stardom",
+      "year": 2013
+    },
+    "Best of Enemies": {
+      "id": 319067,
+      "poster": "/fZoEfqzhuGEikvnVLLn5aJPhrm3.jpg",
+      "title": "Best of Enemies",
+      "year": 2015
+    },
+    "They'll Love Me When I'm Dead": {
+      "id": 538002,
+      "poster": "/h7YHg3BOEjlZSCJ41FBHyeQkoUG.jpg",
+      "title": "They'll Love Me When I'm Dead",
+      "year": 2018
+    },
+    "The Other Side of the Wind": {
+      "id": 299782,
+      "poster": "/pFeWBVcCehkdr1BvXaVrepGUJQK.jpg",
+      "title": "The Other Side of the Wind",
+      "year": 2018
+    },
+    "Easy Rider": {
+      "id": 624,
+      "poster": "/3H3vwPGX6EbBRffIVHp3eHHcjka.jpg",
+      "title": "Easy Rider",
+      "year": 1969
+    },
+    "Spellbound": {
+      "id": 592983,
+      "poster": "/4dSrwXJNKtMtlkwJPgZMkjjuHvD.jpg",
+      "title": "Spellbound",
+      "year": 2024
+    },
+    "Jurassic Park": {
+      "id": 329,
+      "poster": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "title": "Jurassic Park",
+      "year": 1993
+    },
+    "Jurassic World: Fallen Kingdom": {
+      "id": 351286,
+      "poster": "/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg",
+      "title": "Jurassic World: Fallen Kingdom",
+      "year": 2018
+    },
+    "The Incredibles": {
+      "id": 9806,
+      "poster": "/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+      "title": "The Incredibles",
+      "year": 2004
+    },
+    "Incredibles 2": {
+      "id": 260513,
+      "poster": "/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
+      "title": "Incredibles 2",
+      "year": 2018
+    }
+  },
+  "spotifyEpisodeId": "47ts5Cbwpkg3AOKMbfHmrR"
+}

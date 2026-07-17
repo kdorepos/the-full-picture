@@ -1,0 +1,701 @@
+{
+  "slug": "the-1990s-oscar-winners-draft-plus-ryusuke-hamaguchi",
+  "title": "The 1990s Oscar Winners Draft. Plus: Ryusuke Hamaguchi!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2022-03-21",
+  "runtimeMin": 99,
+  "format": "A stricter version of the movie draft: eight Oscar categories from the 1990s, but once a film wins anything, every other award it took is off the board too. Plus, Sean talks to Drive My Car director Ryusuke Hamaguchi.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Oscars week check-in",
+      "note": "predicting this year's ceremony before getting into the 90s",
+      "films": [
+        {
+          "title": "The Power of the Dog",
+          "year": 2021,
+          "note": "Amanda's tentative best picture favorite."
+        },
+        {
+          "title": "Belfast",
+          "year": 2021
+        },
+        {
+          "title": "Dune",
+          "year": 2021,
+          "note": "Chris wants a bigger movie muscling into the race."
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "year": 2021,
+          "note": "Discussed as a long-shot best picture campaign."
+        },
+        {
+          "title": "Suicide Squad",
+          "year": 2016,
+          "note": "Joke nomination pitch."
+        },
+        {
+          "title": "Malignant",
+          "year": 2021,
+          "note": "Chris's joke best picture pick."
+        },
+        {
+          "title": "Paranormal Activity",
+          "year": 2007,
+          "note": "Joke nomination pitch."
+        },
+        {
+          "title": "Next of Kin",
+          "year": 1989,
+          "note": "Joke nomination pitch."
+        }
+      ]
+    },
+    {
+      "kind": "draft",
+      "heading": "The 1990s Oscar Winners Draft",
+      "note": "new rule: once a movie wins anything, the whole film is off the board",
+      "draftOf": "1990s Oscar winners",
+      "categories": [
+        "Best Original Screenplay",
+        "Best Adapted Screenplay",
+        "Best Supporting Actress",
+        "Best Supporting Actor",
+        "Best Actress",
+        "Best Actor",
+        "Best Director",
+        "Best Picture"
+      ],
+      "teams": [
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Pulp Fiction",
+              "year": 1994,
+              "category": "Best Original Screenplay",
+              "note": "First overall pick; Chris's only 1994 Oscar win, so it took nothing else off the board."
+            },
+            {
+              "title": "L.A. Confidential",
+              "year": 1997,
+              "category": "Best Adapted Screenplay",
+              "note": "Brian Helgeland and Curtis Hanson's script; also took Kim Basinger's supporting actress win off the board."
+            },
+            {
+              "title": "My Cousin Vinny",
+              "year": 1992,
+              "category": "Best Supporting Actress",
+              "note": "Marisa Tomei."
+            },
+            {
+              "title": "Jerry Maguire",
+              "year": 1996,
+              "category": "Best Supporting Actor",
+              "note": "Cuba Gooding Jr."
+            },
+            {
+              "title": "Fargo",
+              "year": 1996,
+              "category": "Best Actress",
+              "note": "Frances McDormand."
+            },
+            {
+              "title": "Philadelphia",
+              "year": 1993,
+              "category": "Best Actor",
+              "note": "Tom Hanks's first Oscar; Chris cited Denzel Washington's performance in the same film."
+            },
+            {
+              "title": "Dances with Wolves",
+              "year": 1990,
+              "category": "Best Director",
+              "note": "Kevin Costner, over Chris's own hero Martin Scorsese."
+            },
+            {
+              "title": "Schindler's List",
+              "year": 1993,
+              "category": "Best Picture",
+              "note": "Also took Spielberg's directing and adapted-screenplay wins off the board."
+            }
+          ]
+        },
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "The Usual Suspects",
+              "year": 1995,
+              "category": "Best Original Screenplay",
+              "note": "Christopher McQuarrie's script."
+            },
+            {
+              "title": "Sling Blade",
+              "year": 1996,
+              "category": "Best Adapted Screenplay",
+              "note": "Billy Bob Thornton, technically adapting his own short film."
+            },
+            {
+              "title": "Ghost",
+              "year": 1990,
+              "category": "Best Supporting Actress",
+              "note": "Whoopi Goldberg."
+            },
+            {
+              "title": "Goodfellas",
+              "year": 1990,
+              "category": "Best Supporting Actor",
+              "note": "Joe Pesci."
+            },
+            {
+              "title": "Misery",
+              "year": 1990,
+              "category": "Best Actress",
+              "note": "Kathy Bates."
+            },
+            {
+              "title": "The Silence of the Lambs",
+              "year": 1991,
+              "category": "Best Actor",
+              "note": "Anthony Hopkins; also cleared best picture, actress, adapted screenplay and director for the same film in one pick."
+            },
+            {
+              "title": "The English Patient",
+              "year": 1996,
+              "category": "Best Director",
+              "note": "Anthony Minghella. Sean admits on tape he has never seen the movie."
+            },
+            {
+              "title": "Unforgiven",
+              "year": 1992,
+              "category": "Best Picture",
+              "note": "Also took Gene Hackman's supporting actor win off the board."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Good Will Hunting",
+              "year": 1997,
+              "category": "Best Original Screenplay",
+              "note": "Ben Affleck and Matt Damon."
+            },
+            {
+              "title": "Sense and Sensibility",
+              "year": 1995,
+              "category": "Best Adapted Screenplay",
+              "note": "Emma Thompson."
+            },
+            {
+              "title": "Girl, Interrupted",
+              "year": 1999,
+              "category": "Best Supporting Actress",
+              "note": "Angelina Jolie."
+            },
+            {
+              "title": "The Fugitive",
+              "year": 1993,
+              "category": "Best Supporting Actor",
+              "note": "Tommy Lee Jones."
+            },
+            {
+              "title": "Shakespeare in Love",
+              "year": 1998,
+              "category": "Best Actress",
+              "note": "Gwyneth Paltrow."
+            },
+            {
+              "title": "Forrest Gump",
+              "year": 1994,
+              "category": "Best Actor",
+              "note": "Tom Hanks's second consecutive Oscar."
+            },
+            {
+              "title": "Saving Private Ryan",
+              "year": 1998,
+              "category": "Best Director",
+              "note": "Steven Spielberg, called out as a strategic move to box in Sean and Chris."
+            },
+            {
+              "title": "Titanic",
+              "year": 1997,
+              "category": "Best Picture",
+              "note": "Also took James Cameron's directing win off the board."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "The Piano",
+        "Reversal of Fortune",
+        "American Beauty",
+        "City Slickers",
+        "The Crying Game",
+        "Braveheart",
+        "Thelma & Louise",
+        "Leaving Las Vegas",
+        "The Cider House Rules",
+        "Gods and Monsters",
+        "Life Is Beautiful",
+        "Apollo 13",
+        "Howards End",
+        "Dead Man Walking",
+        "Boys Don't Cry"
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Cinematographer tangent",
+      "note": "a detour into Andrzej Sekula's IMDb page",
+      "films": [
+        {
+          "title": "Reservoir Dogs",
+          "year": 1992
+        },
+        {
+          "title": "Hackers",
+          "year": 1995
+        },
+        {
+          "title": "The Thin Red Line",
+          "year": 1998,
+          "note": "Malick film, cited as an example of great DPs taking unglamorous jobs."
+        },
+        {
+          "title": "Bowfinger",
+          "year": 1999,
+          "note": "Cited via Vilmos Zsigmond."
+        },
+        {
+          "title": "Rebecca",
+          "year": 1940,
+          "note": "Referenced in a running ghost-hunting bit."
+        },
+        {
+          "title": "Sleep with Me",
+          "year": 1994,
+          "note": "Referenced for Quentin Tarantino's cameo monologue."
+        },
+        {
+          "title": "Killers of the Flower Moon",
+          "year": 2023,
+          "note": "Mentioned as Scorsese's next best-director run, ahead of its release."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Ryusuke Hamaguchi",
+      "note": "nominated for four Oscars this week, including best picture",
+      "films": [
+        {
+          "title": "Drive My Car",
+          "year": 2021,
+          "note": "Adapted from a Haruki Murakami short story; Murakami gave Hamaguchi free rein. Hamaguchi explains withholding the title card until 40 minutes in."
+        },
+        {
+          "title": "Happy Hour",
+          "year": 2015,
+          "note": "Cited as a low-budget, open-ended project, unlike the tighter mandate on Drive My Car."
+        },
+        {
+          "title": "Wheel of Fortune and Fantasy",
+          "year": 2021,
+          "note": "Hamaguchi's other 2021 release, which he says didn't land the same way stateside."
+        },
+        {
+          "title": "Asako I & II",
+          "year": 2018
+        },
+        {
+          "title": "First Cow",
+          "year": 2020,
+          "note": "Kelly Reichardt film Hamaguchi names as the last great thing he's seen."
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "1883",
+      "Yellowstone",
+      "Goliath",
+      "Hawkeye",
+      "Seinfeld"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "Netflix (FIFA World Cup Launch Edition)",
+      "White Claw"
+    ],
+    "Podcasts": [
+      "The Town (Puck)"
+    ]
+  },
+  "tmdb": {
+    "The Power of the Dog": {
+      "id": 600583,
+      "poster": "/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg",
+      "title": "The Power of the Dog",
+      "year": 2021
+    },
+    "Belfast": {
+      "id": 777270,
+      "poster": "/3mInLZyPOVLsZRsBwNHi3UJXXnm.jpg",
+      "title": "Belfast",
+      "year": 2021
+    },
+    "Dune": {
+      "id": 438631,
+      "poster": "/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "title": "Dune",
+      "year": 2021
+    },
+    "Spider-Man: No Way Home": {
+      "id": 634649,
+      "poster": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "title": "Spider-Man: No Way Home",
+      "year": 2021
+    },
+    "Suicide Squad": {
+      "id": 297761,
+      "poster": "/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg",
+      "title": "Suicide Squad",
+      "year": 2016
+    },
+    "Malignant": {
+      "id": 619778,
+      "poster": "/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg",
+      "title": "Malignant",
+      "year": 2021
+    },
+    "Paranormal Activity": {
+      "id": 23827,
+      "poster": "/tmclkEpjeo4Zu564gf3KrwIOuKw.jpg",
+      "title": "Paranormal Activity",
+      "year": 2007
+    },
+    "Next of Kin": {
+      "id": 27418,
+      "poster": "/ieM9upg9O4agtodEvlZIiuNKZsN.jpg",
+      "title": "Next of Kin",
+      "year": 1989
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "L.A. Confidential": {
+      "id": 2118,
+      "poster": "/lWCgf5sD5FpMljjpkRhcC8pXcch.jpg",
+      "title": "L.A. Confidential",
+      "year": 1997
+    },
+    "My Cousin Vinny": {
+      "id": 10377,
+      "poster": "/iwSURa8nS2ujwrU3s1lfxxX7voH.jpg",
+      "title": "My Cousin Vinny",
+      "year": 1992
+    },
+    "Jerry Maguire": {
+      "id": 9390,
+      "poster": "/lABvGN7fDk5ifnwZoxij6G96t2w.jpg",
+      "title": "Jerry Maguire",
+      "year": 1996
+    },
+    "Fargo": {
+      "id": 275,
+      "poster": "/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+      "title": "Fargo",
+      "year": 1996
+    },
+    "Philadelphia": {
+      "id": 9800,
+      "poster": "/tFe5Yoo5zT495okA49bq1vPPkiV.jpg",
+      "title": "Philadelphia",
+      "year": 1993
+    },
+    "Dances with Wolves": {
+      "id": 581,
+      "poster": "/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg",
+      "title": "Dances with Wolves",
+      "year": 1990
+    },
+    "Schindler's List": {
+      "id": 424,
+      "poster": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+      "title": "Schindler's List",
+      "year": 1993
+    },
+    "The Usual Suspects": {
+      "id": 629,
+      "poster": "/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg",
+      "title": "The Usual Suspects",
+      "year": 1995
+    },
+    "Sling Blade": {
+      "id": 12498,
+      "poster": "/rioWUWXPFNSjwm9NO2aau9x0wlP.jpg",
+      "title": "Sling Blade",
+      "year": 1996
+    },
+    "Ghost": {
+      "id": 251,
+      "poster": "/w9RaPHov8oM5cnzeE27isnFMsvS.jpg",
+      "title": "Ghost",
+      "year": 1990
+    },
+    "Goodfellas": {
+      "id": 769,
+      "poster": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+      "title": "GoodFellas",
+      "year": 1990
+    },
+    "Misery": {
+      "id": 1700,
+      "poster": "/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg",
+      "title": "Misery",
+      "year": 1990
+    },
+    "The Silence of the Lambs": {
+      "id": 274,
+      "poster": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+      "title": "The Silence of the Lambs",
+      "year": 1991
+    },
+    "The English Patient": {
+      "id": 409,
+      "poster": "/8eHHqMg8qEYtVw8LQLygsHXSR2q.jpg",
+      "title": "The English Patient",
+      "year": 1996
+    },
+    "Unforgiven": {
+      "id": 33,
+      "poster": "/54roTwbX9fltg85zjsmrooXAs12.jpg",
+      "title": "Unforgiven",
+      "year": 1992
+    },
+    "Good Will Hunting": {
+      "id": 489,
+      "poster": "/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+      "title": "Good Will Hunting",
+      "year": 1997
+    },
+    "Sense and Sensibility": {
+      "id": 4584,
+      "poster": "/9YdQ73YmvInxpXZVNjEKePw9tRO.jpg",
+      "title": "Sense and Sensibility",
+      "year": 1995
+    },
+    "Girl, Interrupted": {
+      "id": 3558,
+      "poster": "/dOBdatHIVppvmRFw2z7bf9VKJr9.jpg",
+      "title": "Girl, Interrupted",
+      "year": 1999
+    },
+    "The Fugitive": {
+      "id": 5503,
+      "poster": "/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg",
+      "title": "The Fugitive",
+      "year": 1993
+    },
+    "Shakespeare in Love": {
+      "id": 1934,
+      "poster": "/zdW7jdzPi4J9KZR3TyY2jn3Xh5e.jpg",
+      "title": "Shakespeare in Love",
+      "year": 1998
+    },
+    "Forrest Gump": {
+      "id": 13,
+      "poster": "/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
+      "title": "Forrest Gump",
+      "year": 1994
+    },
+    "Saving Private Ryan": {
+      "id": 857,
+      "poster": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+      "title": "Saving Private Ryan",
+      "year": 1998
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "The Piano": {
+      "id": 713,
+      "poster": "/rx8RKXn8OtuS6lqloYsjyrGOUp4.jpg",
+      "title": "The Piano",
+      "year": 1993
+    },
+    "Reversal of Fortune": {
+      "id": 38718,
+      "poster": "/jEmFeHPsoyHk6RRZslKzC5NVFad.jpg",
+      "title": "Reversal of Fortune",
+      "year": 1990
+    },
+    "American Beauty": {
+      "id": 14,
+      "poster": "/wby9315QzVKdW9BonAefg8jGTTb.jpg",
+      "title": "American Beauty",
+      "year": 1999
+    },
+    "City Slickers": {
+      "id": 1406,
+      "poster": "/9DVZpm9pQNB3M17cRo752zqUYhL.jpg",
+      "title": "City Slickers",
+      "year": 1991
+    },
+    "The Crying Game": {
+      "id": 11386,
+      "poster": "/9BXGoat9TYgdDqGk2WJmaX9dVoe.jpg",
+      "title": "The Crying Game",
+      "year": 1992
+    },
+    "Braveheart": {
+      "id": 197,
+      "poster": "/or1gBugydmjToAEq7OZY0owwFk.jpg",
+      "title": "Braveheart",
+      "year": 1995
+    },
+    "Thelma & Louise": {
+      "id": 1541,
+      "poster": "/vbRAGLzbC75QfiKD1lKjmnQGuph.jpg",
+      "title": "Thelma & Louise",
+      "year": 1991
+    },
+    "Leaving Las Vegas": {
+      "id": 451,
+      "poster": "/wTrFpGe3U65kXTldIUxuM2hmOAK.jpg",
+      "title": "Leaving Las Vegas",
+      "year": 1995
+    },
+    "The Cider House Rules": {
+      "id": 1715,
+      "poster": "/qAECAgqjSFRVZzEEGbFAZqZNiDh.jpg",
+      "title": "The Cider House Rules",
+      "year": 1999
+    },
+    "Gods and Monsters": {
+      "id": 3033,
+      "poster": "/awvJH3NtXoStsjAtXKr99hfuVaG.jpg",
+      "title": "Gods and Monsters",
+      "year": 1998
+    },
+    "Life Is Beautiful": {
+      "id": 637,
+      "poster": "/74hLDKjD5aGYOotO6esUVaeISa2.jpg",
+      "title": "Life Is Beautiful",
+      "year": 1997
+    },
+    "Apollo 13": {
+      "id": 568,
+      "poster": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+      "title": "Apollo 13",
+      "year": 1995
+    },
+    "Howards End": {
+      "id": 8293,
+      "poster": "/1009nhfj28VhhQnVadtjkOacduX.jpg",
+      "title": "Howards End",
+      "year": 1992
+    },
+    "Dead Man Walking": {
+      "id": 687,
+      "poster": "/eShxyjhWoFl3BwsuEmVsr4nLaMZ.jpg",
+      "title": "Dead Man Walking",
+      "year": 1995
+    },
+    "Boys Don't Cry": {
+      "id": 226,
+      "poster": "/eB505ycEhFVfMwGglIzXNUyKAIs.jpg",
+      "title": "Boys Don't Cry",
+      "year": 1999
+    },
+    "Reservoir Dogs": {
+      "id": 500,
+      "poster": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+      "title": "Reservoir Dogs",
+      "year": 1992
+    },
+    "Hackers": {
+      "id": 10428,
+      "poster": "/w8H2KpRtpzwlxz5KrvINCVihok1.jpg",
+      "title": "Hackers",
+      "year": 1995
+    },
+    "The Thin Red Line": {
+      "id": 8741,
+      "poster": "/seMydAaoxQP6F0xbE1jOcTmn5Jr.jpg",
+      "title": "The Thin Red Line",
+      "year": 1998
+    },
+    "Bowfinger": {
+      "id": 11353,
+      "poster": "/iGuiFYEYwFkaRPl3FgLJYEm6dWq.jpg",
+      "title": "Bowfinger",
+      "year": 1999
+    },
+    "Rebecca": {
+      "id": 223,
+      "poster": "/1qz3qUOHnVy7dL7M7G8jSErxE4b.jpg",
+      "title": "Rebecca",
+      "year": 1940
+    },
+    "Sleep with Me": {
+      "id": 19361,
+      "poster": "/gDmoa5nCDpOnwyePTHTAND3GmFW.jpg",
+      "title": "Sleep with Me",
+      "year": 1994
+    },
+    "Killers of the Flower Moon": {
+      "id": 466420,
+      "poster": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+      "title": "Killers of the Flower Moon",
+      "year": 2023
+    },
+    "Drive My Car": {
+      "id": 758866,
+      "poster": "/a2lxHS6Au35k5XtFQEQW44yWHeH.jpg",
+      "title": "Drive My Car",
+      "year": 2021
+    },
+    "Happy Hour": {
+      "id": 354759,
+      "poster": "/qUSbCLhKyiO3BZn9ywYJwSOXBza.jpg",
+      "title": "Happy Hour",
+      "year": 2015
+    },
+    "Wheel of Fortune and Fantasy": {
+      "id": 795811,
+      "poster": "/z3xqVWOsetW6pSEgx1uiqXfzRet.jpg",
+      "title": "Wheel of Fortune and Fantasy",
+      "year": 2021
+    },
+    "Asako I & II": {
+      "id": 487850,
+      "poster": "/nqwfB2GMMjrjAJnQj1hxD97sQXF.jpg",
+      "title": "Asako I & II",
+      "year": 2018
+    },
+    "First Cow": {
+      "id": 558582,
+      "poster": "/yS41crZ1i0fFxCQbuL7I1Y1VBwm.jpg",
+      "title": "First Cow",
+      "year": 2020
+    }
+  }
+}

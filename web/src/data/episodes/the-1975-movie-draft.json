@@ -1,0 +1,473 @@
+{
+  "slug": "the-1975-movie-draft",
+  "title": "The 1975 Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2021-06-22",
+  "runtimeMin": 78,
+  "format": "A three-person snake draft of 1975 movies, with Chris Ryan joining Sean and Amanda. Each drafter fills a six-slot roster: Drama, Comedy, Action Thriller, Oscar Winner, Blockbuster (min. $30 million at the box office), and Wild Card. A wheel spin gave Sean the first pick, then Chris, then Amanda, snaking back each round. Every pick below is confirmed by the hosts' end-of-episode recap.",
+  "segments": [
+    {
+      "kind": "draft",
+      "heading": "The teams",
+      "draftOf": "1975 movies",
+      "categories": [
+        "Drama",
+        "Comedy",
+        "Action Thriller",
+        "Oscar Winner",
+        "Blockbuster",
+        "Wild Card"
+      ],
+      "teams": [
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Barry Lyndon",
+              "year": 1975,
+              "category": "Drama",
+              "note": "Kubrick's Thackeray adaptation. Sean avoided it for years for being long and slow, then first saw it in 2006 recovering from having his wisdom teeth out and says it 'poured over me like a warm bath.' Ryan O'Neal, Marisa Berenson, shot by John Alcott."
+            },
+            {
+              "title": "Dolemite",
+              "year": 1975,
+              "category": "Comedy",
+              "note": "Rudy Ray Moore's blaxploitation vehicle, recently the subject of Eddie Murphy's Netflix movie about its making. 'Real-time satire' of the format rather than nostalgia for it, and an early Black independent film."
+            },
+            {
+              "title": "The Man Who Would Be King",
+              "year": 1975,
+              "category": "Action Thriller",
+              "note": "John Huston's Kipling adaptation, Michael Caine and Sean Connery as two men trying to become rulers of a land they've never seen, Christopher Plummer as Kipling. 'One of the best endings of any movie I've ever seen.'"
+            },
+            {
+              "title": "One Flew Over the Cuckoo's Nest",
+              "year": 1975,
+              "category": "Oscar Winner",
+              "note": "Swept Best Picture, Director, Actor, and Actress. Milos Forman's Ken Kesey adaptation, Nicholson and Louise Fletcher, who was 39 when it was shot."
+            },
+            {
+              "title": "Jaws",
+              "year": 1975,
+              "category": "Blockbuster",
+              "note": "'The most important film of this year, one of the most important movies ever made.' Taken first overall, days after Spielberg's Netflix deal was announced. Often called the first modern blockbuster."
+            },
+            {
+              "title": "Rollerball",
+              "year": 1975,
+              "category": "Wild Card",
+              "note": "Norman Jewison's dystopian sports drama, James Caan as an athlete the corporate powers want retired for getting too popular. Sean's last pick of the draft."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "The Passenger",
+              "year": 1975,
+              "category": "Drama",
+              "note": "Antonioni, with Jack Nicholson as a journalist in Africa who assumes a dead man's identity. Maria Schneider co-stars. Ends on a long unbroken take that's one of the best-known closing shots in movies."
+            },
+            {
+              "title": "The Rocky Horror Picture Show",
+              "year": 1975,
+              "category": "Comedy",
+              "note": "Chris grew up on the midnight showings in Philadelphia. He says it's more a great time than a great movie, and calls Tim Curry's performance one of the best leading turns ever."
+            },
+            {
+              "title": "Night Moves",
+              "year": 1975,
+              "category": "Action Thriller",
+              "note": "Arthur Penn's Hammett-style noir, Gene Hackman as an ex-football-player-turned-PI hired to find a runaway teenager, played by Melanie Griffith. 'A top five, top 10 detective film of all time.'"
+            },
+            {
+              "title": "Nashville",
+              "year": 1975,
+              "category": "Oscar Winner",
+              "note": "Robert Altman's big ensemble film. Chris first tried it in Blockbuster, then Comedy, before it landed here, where it did in fact qualify."
+            },
+            {
+              "title": "Shampoo",
+              "year": 1975,
+              "category": "Blockbuster",
+              "note": "Warren Beatty as a womanizing Beverly Hills hairdresser, set over one day on the 1968 election. Julie Christie, Goldie Hawn, Lee Grant (who won an Oscar for it), a young Carrie Fisher. Chris calls it pound for pound the best movie of the year."
+            },
+            {
+              "title": "Race with the Devil",
+              "year": 1975,
+              "category": "Wild Card",
+              "note": "Peter Fonda and Warren Oates chased across Texas by a satanic cult. Chris says the trailer-set cobra sequence is the direct model for a scene in Kill Bill: Vol. 2."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Picnic at Hanging Rock",
+              "year": 1975,
+              "category": "Drama",
+              "note": "Peter Weir, three girls vanish from a Victorian-era Australian boarding school. Marketed at the time as based on a true story with the records lost; Amanda calls it a forerunner of true crime."
+            },
+            {
+              "title": "Monty Python and the Holy Grail",
+              "year": 1975,
+              "category": "Comedy",
+              "note": "Amanda's introduction to Monty Python, via PBS reruns rather than the Flying Circus DVDs. 'The really only type of comedy that I enjoy.'"
+            },
+            {
+              "title": "The Stepford Wives",
+              "year": 1975,
+              "category": "Action Thriller",
+              "note": "Bryan Forbes directs a William Goldman script, Katharine Ross. Schlocky but pointed commentary on the women's movement, with a grocery-store ending Amanda calls genuinely unsettling."
+            },
+            {
+              "title": "Dog Day Afternoon",
+              "year": 1975,
+              "category": "Oscar Winner",
+              "note": "Originally drafted in Blockbuster, then moved here once Amanda realized the Oscar Winner pool had dried up to just The Sunshine Boys. Pacino's bank-robbery-gone-wrong; Chris calls the 'Attica' scene one of the only times Pacino truly plays off every other actor in a scene."
+            },
+            {
+              "title": "Three Days of the Condor",
+              "year": 1975,
+              "category": "Blockbuster",
+              "note": "Robert Redford as a CIA researcher who trusts no one, running around a very paranoid, post-Watergate New York."
+            },
+            {
+              "title": "Grey Gardens",
+              "year": 1975,
+              "category": "Wild Card",
+              "note": "The Maysles brothers' documentary on Big and Little Edie Beale. Amanda says she thought of it constantly during lockdown."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Rancho Deluxe",
+        "92 in the Shade",
+        "Tommy",
+        "Lisztomania",
+        "Mahler",
+        "Funny Lady",
+        "At Long Last Love",
+        "Deep Red",
+        "The Return of the Pink Panther",
+        "The Other Side of the Mountain",
+        "The Apple Dumpling Gang",
+        "Salò, or the 120 Days of Sodom",
+        "Supervixens",
+        "The Happy Hooker",
+        "Emmanuelle 2",
+        "Dersu Uzala",
+        "The Sunshine Boys",
+        "Friday Foster",
+        "Sheba, Baby",
+        "Hester Street"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Godzilla vs. Kong",
+        "Excalibur",
+        "Kill Bill: Vol. 2",
+        "Big Trouble in Little China",
+        "The Devil's Advocate",
+        "Crossing Delancey"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Saturday Night Live",
+      "Mare of Easttown"
+    ],
+    "Podcasts": [
+      "Larry Wilmore: Black on the Air"
+    ],
+    "Ads": [
+      "FIFA World Cup Launch Edition",
+      "Boar's Head",
+      "Nespresso Vertuo"
+    ]
+  },
+  "tmdb": {
+    "Barry Lyndon": {
+      "id": 3175,
+      "poster": "/znfLskGQnXYB2xcOGM9eInRHPAV.jpg",
+      "title": "Barry Lyndon",
+      "year": 1975
+    },
+    "Dolemite": {
+      "id": 19174,
+      "poster": "/sc81lG0MdHq1UCY5b2B10c9wSKw.jpg",
+      "title": "Dolemite",
+      "year": 1975
+    },
+    "The Man Who Would Be King": {
+      "id": 983,
+      "poster": "/xnEhm0CtgJoM9Z1dGGSQAwxU7oJ.jpg",
+      "title": "The Man Who Would Be King",
+      "year": 1975
+    },
+    "One Flew Over the Cuckoo's Nest": {
+      "id": 510,
+      "poster": "/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": 1975
+    },
+    "Jaws": {
+      "id": 578,
+      "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "title": "Jaws",
+      "year": 1975
+    },
+    "Rollerball": {
+      "id": 11484,
+      "poster": "/cmcipEfexlhVLYQXqeSWp1YcsPY.jpg",
+      "title": "Rollerball",
+      "year": 1975
+    },
+    "The Passenger": {
+      "id": 9652,
+      "poster": "/A8jYH43plz70dNmHy82zAHGTqxN.jpg",
+      "title": "The Passenger",
+      "year": 1975
+    },
+    "The Rocky Horror Picture Show": {
+      "id": 36685,
+      "poster": "/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
+      "title": "The Rocky Horror Picture Show",
+      "year": 1975
+    },
+    "Night Moves": {
+      "id": 32042,
+      "poster": "/j3zMCyvhGlpw31BAWLVMEZNPfOX.jpg",
+      "title": "Night Moves",
+      "year": 1975
+    },
+    "Nashville": {
+      "id": 3121,
+      "poster": "/twl4ovyjb8muFKvZmcCDzPR0hy1.jpg",
+      "title": "Nashville",
+      "year": 1975
+    },
+    "Shampoo": {
+      "id": 31121,
+      "poster": "/6jmFvXPV6OhtX3AkAVnH7rwdeUJ.jpg",
+      "title": "Shampoo",
+      "year": 1975
+    },
+    "Race with the Devil": {
+      "id": 32051,
+      "poster": "/4ezD93ytLd8707j3Qvg53Mpz5ff.jpg",
+      "title": "Race with the Devil",
+      "year": 1975
+    },
+    "Picnic at Hanging Rock": {
+      "id": 11020,
+      "poster": "/7BAXwmFN4pZDNb9N6kzmAAwdssi.jpg",
+      "title": "Picnic at Hanging Rock",
+      "year": 1975
+    },
+    "Monty Python and the Holy Grail": {
+      "id": 762,
+      "poster": "/7nTkHjETdGMYK1phHwDbPsrzbYl.jpg",
+      "title": "Monty Python and the Holy Grail",
+      "year": 1975
+    },
+    "The Stepford Wives": {
+      "id": 12223,
+      "poster": "/5z1ogJJmQkCoU62VJmut4nnc2qs.jpg",
+      "title": "The Stepford Wives",
+      "year": 1975
+    },
+    "Dog Day Afternoon": {
+      "id": 968,
+      "poster": "/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg",
+      "title": "Dog Day Afternoon",
+      "year": 1975
+    },
+    "Three Days of the Condor": {
+      "id": 11963,
+      "poster": "/zinwtZqdb7gnc4zMu8dfkK1fMN3.jpg",
+      "title": "Three Days of the Condor",
+      "year": 1975
+    },
+    "Grey Gardens": {
+      "id": 17346,
+      "poster": "/qFPj6Eh3ijA4ISRujHu4GKKeAWT.jpg",
+      "title": "Grey Gardens",
+      "year": 1976
+    },
+    "Rancho Deluxe": {
+      "id": 42261,
+      "poster": "/4YiawzqRAQZ6BdPLJfvzFFxm18k.jpg",
+      "title": "Rancho Deluxe",
+      "year": 1975
+    },
+    "92 in the Shade": {
+      "id": 38314,
+      "poster": "/g5GY1gRh59mf5e4pc5KOvqCL4AC.jpg",
+      "title": "92 in the Shade",
+      "year": 1975
+    },
+    "Tommy": {
+      "id": 11326,
+      "poster": "/pAImVnqBJwoFAKrcpAe17JjLGUs.jpg",
+      "title": "Tommy",
+      "year": 1975
+    },
+    "Lisztomania": {
+      "id": 67298,
+      "poster": "/slkgkRL8hu0Sj4sOkcb8NSkwdGd.jpg",
+      "title": "Lisztomania",
+      "year": 1975
+    },
+    "Mahler": {
+      "id": 84922,
+      "poster": "/qtKHqPr8llaSk4BSFczsopmsIP.jpg",
+      "title": "Mahler",
+      "year": 1974
+    },
+    "Funny Lady": {
+      "id": 39282,
+      "poster": "/3F6BcS3hW9YolzHuAMluXSiDES7.jpg",
+      "title": "Funny Lady",
+      "year": 1975
+    },
+    "At Long Last Love": {
+      "id": 4704,
+      "poster": "/5bAMJ8SU3zdggtyJ3Iy2tyXXSf2.jpg",
+      "title": "At Long Last Love",
+      "year": 1975
+    },
+    "Deep Red": {
+      "id": 20126,
+      "poster": "/wq7RxV5gMvgO0EKeWpNhegnpJBh.jpg",
+      "title": "Deep Red",
+      "year": 1975
+    },
+    "The Return of the Pink Panther": {
+      "id": 11843,
+      "poster": "/vMyjHGfCT89RpwLeN7ofmfgDru7.jpg",
+      "title": "The Return of the Pink Panther",
+      "year": 1975
+    },
+    "The Other Side of the Mountain": {
+      "id": 86233,
+      "poster": "/eikUqnTC2DxVCZGwEUiuNzFpQVk.jpg",
+      "title": "The Other Side of the Mountain",
+      "year": 1975
+    },
+    "The Apple Dumpling Gang": {
+      "id": 18660,
+      "poster": "/cSbRtW2rSpz6AxS4BwtunpFHma.jpg",
+      "title": "The Apple Dumpling Gang",
+      "year": 1975
+    },
+    "Salò, or the 120 Days of Sodom": {
+      "id": 5336,
+      "poster": "/xnaDdiRfZlJaTf6JRc4in40eaeI.jpg",
+      "title": "Salò, or the 120 Days of Sodom",
+      "year": 1976
+    },
+    "Supervixens": {
+      "id": 5725,
+      "poster": "/ymlxw3Gt2F9PuWek9Nkf4zeUeLz.jpg",
+      "title": "Supervixens",
+      "year": 1975
+    },
+    "The Happy Hooker": {
+      "id": 75848,
+      "poster": "/l7STxtixaSexX98SdWU55EHGffJ.jpg",
+      "title": "The Happy Hooker",
+      "year": 1975
+    },
+    "Emmanuelle 2": {
+      "id": 28209,
+      "poster": "/cuG4YTomxIOw2yxIcTJMvRiQNYK.jpg",
+      "title": "Emmanuelle: The Joys of a Woman",
+      "year": 1975
+    },
+    "Dersu Uzala": {
+      "id": 9764,
+      "poster": "/bIOrDQ3Gg68k3qJAnRU7nIZr0BW.jpg",
+      "title": "Dersu Uzala",
+      "year": 1975
+    },
+    "The Sunshine Boys": {
+      "id": 16561,
+      "poster": "/e8g6sy7rBSzuBBgOZqH1Bkjquy7.jpg",
+      "title": "The Sunshine Boys",
+      "year": 1975
+    },
+    "Friday Foster": {
+      "id": 56539,
+      "poster": "/dGADshou0bUIGGt0vompPORdKtn.jpg",
+      "title": "Friday Foster",
+      "year": 1975
+    },
+    "Sheba, Baby": {
+      "id": 34459,
+      "poster": "/f1EWm3EoomLEMBJqIZzq61O0GBx.jpg",
+      "title": "Sheba, Baby",
+      "year": 1975
+    },
+    "Hester Street": {
+      "id": 42257,
+      "poster": "/sEYKnLShvnJuXzYWFI870F1hqZK.jpg",
+      "title": "Hester Street",
+      "year": 1975
+    },
+    "Godzilla vs. Kong": {
+      "id": 399566,
+      "poster": "/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+      "title": "Godzilla vs. Kong",
+      "year": 2021
+    },
+    "Excalibur": {
+      "id": 11527,
+      "poster": "/cTWF6zkr5mUOnheowKODIijWYcN.jpg",
+      "title": "Excalibur",
+      "year": 1981
+    },
+    "Kill Bill: Vol. 2": {
+      "id": 393,
+      "poster": "/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
+      "title": "Kill Bill: Vol. 2",
+      "year": 2004
+    },
+    "Big Trouble in Little China": {
+      "id": 6978,
+      "poster": "/rCy3CFJfWVBSyiVcFOQMcMAh5R2.jpg",
+      "title": "Big Trouble in Little China",
+      "year": 1986
+    },
+    "The Devil's Advocate": {
+      "id": 1813,
+      "poster": "/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg",
+      "title": "The Devil's Advocate",
+      "year": 1997
+    },
+    "Crossing Delancey": {
+      "id": 27397,
+      "poster": "/62GF6vgxIvEpSPrH0WXHtCHm3zB.jpg",
+      "title": "Crossing Delancey",
+      "year": 1988
+    }
+  },
+  "tmdbOverrides": {
+    "Tommy": 11326,
+    "Emmanuelle 2": 28209
+  }
+}

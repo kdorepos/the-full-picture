@@ -20,7 +20,7 @@
           "by": "Chris Ryan",
           "title": "John Wick: Chapter 4",
           "year": 2023,
-          "note": "Chad Stahelski's fourth installment, with Keanu Reeves and Donnie Yen. Chris calls it pure choreography over story — he owns it digitally just to rewatch the Paris steps and the Osaka nightclub sequence on their own."
+          "note": "Chad Stahelski's fourth installment, with Keanu Reeves and Donnie Yen. Chris calls it pure choreography over story. He owns it digitally just to rewatch the Paris steps and the Osaka nightclub sequence on their own."
         },
         {
           "by": "Van Lathan",
@@ -153,6 +153,10 @@
       ]
     }
   ],
+  "tmdbOverrides": {
+    "Batgirl": null,
+    "The Lion King": 420818
+  },
   "excluded": {
     "TV": [
       "Peep Show",
@@ -321,12 +325,7 @@
       "title": "The Fabelmans",
       "year": 2022
     },
-    "Batgirl": {
-      "id": 553753,
-      "poster": "/wdZTsxGETMgxAGFfVnSfo33BF6s.jpg",
-      "title": "Batgirl",
-      "year": 1972
-    },
+    "Batgirl": null,
     "Fast X": {
       "id": 385687,
       "poster": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
@@ -352,10 +351,10 @@
       "year": 1999
     },
     "The Lion King": {
-      "id": 8587,
-      "poster": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+      "id": 420818,
+      "poster": "/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg",
       "title": "The Lion King",
-      "year": 1994
+      "year": 2019
     },
     "The Grand Budapest Hotel": {
       "id": 120467,

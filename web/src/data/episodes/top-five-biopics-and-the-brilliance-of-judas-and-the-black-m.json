@@ -1,0 +1,680 @@
+{
+  "slug": "top-five-biopics-and-the-brilliance-of-judas-and-the-black-m",
+  "title": "Top Five Biopics and the Brilliance of ‘Judas and the Black Messiah’",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2021-02-12",
+  "runtimeMin": 93,
+  "format": "Sean and Amanda go through the Oscar shortlist, argue about what makes a good biopic, and each name five favorites, then Sean talks to Shaka King about writing and directing ‘Judas and the Black Messiah’.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The documentary and international feature shortlists",
+      "films": [
+        {
+          "title": "Dick Johnson Is Dead",
+          "year": 2020,
+          "note": "Documentary shortlist."
+        },
+        {
+          "title": "Crip Camp",
+          "year": 2020,
+          "note": "Documentary shortlist."
+        },
+        {
+          "title": "Boys State",
+          "year": 2020,
+          "note": "Documentary shortlist."
+        },
+        {
+          "title": "Time",
+          "year": 2020,
+          "note": "Documentary shortlist."
+        },
+        {
+          "title": "Another Round",
+          "year": 2020,
+          "note": "International feature shortlist, Thomas Vinterberg directing Mads Mikkelsen. Amanda still hadn't seen it."
+        },
+        {
+          "title": "La Llorona",
+          "year": 2019,
+          "note": "International feature shortlist, the Guatemalan film streaming on Shudder."
+        },
+        {
+          "title": "Dear Comrades!",
+          "year": 2020,
+          "note": "International feature shortlist, the Russian entry."
+        },
+        {
+          "title": "A Sun",
+          "year": 2019,
+          "note": "International feature shortlist, the Taiwanese entry, streaming on Netflix."
+        },
+        {
+          "title": "Honeyland",
+          "year": 2019,
+          "note": "Not this year's shortlist, but the comparison point: last year's Macedonian beekeeper documentary that landed nods in both documentary and international feature."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The original song and score shortlists",
+      "films": [
+        {
+          "title": "Borat Subsequent Moviefilm",
+          "year": 2020,
+          "note": "Its end-credits song, 'Wuhan Flu,' made the original song shortlist."
+        },
+        {
+          "title": "Eurovision Song Contest: The Story of Fire Saga",
+          "year": 2020,
+          "note": "'Husavik' was last year's shortlisted example of the category doing something weird."
+        },
+        {
+          "title": "A Star Is Born",
+          "year": 2018,
+          "note": "Sean's example of a song actually written into the plot: 'Shallow.'"
+        },
+        {
+          "title": "Belly of the Beast",
+          "year": 2020,
+          "note": "Original song shortlist; neither host had heard of the film."
+        },
+        {
+          "title": "Giving Voice",
+          "year": 2020,
+          "note": "Original song shortlist, for 'Never Break'; same complaint."
+        },
+        {
+          "title": "Judas and the Black Messiah",
+          "year": 2021,
+          "note": "Its song also made the shortlist; the film gets its own segment below."
+        },
+        {
+          "title": "Mank",
+          "year": 2020,
+          "note": "Original score shortlist, one of two Trent Reznor/Atticus Ross nominations."
+        },
+        {
+          "title": "Soul",
+          "year": 2020,
+          "note": "Original score shortlist, the other Reznor/Ross nomination."
+        },
+        {
+          "title": "Tenet",
+          "year": 2020,
+          "note": "Original score shortlist, Ludwig Göransson."
+        },
+        {
+          "title": "Minari",
+          "year": 2020,
+          "note": "Original score shortlist, Emile Mosseri."
+        },
+        {
+          "title": "The Last Black Man in San Francisco",
+          "year": 2019,
+          "note": "Mosseri's earlier score, which Sean calls one of the best of the last five years."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "What makes a good biopic?",
+      "films": [
+        {
+          "title": "Gandhi",
+          "year": 1982,
+          "note": "Their example of the airless 'great man' biopic: Richard Attenborough's film, a Ben Kingsley Oscar, and, in Amanda's words, 'kind of boring.'"
+        },
+        {
+          "title": "Malcolm X",
+          "year": 1992,
+          "note": "The exception that proves the rule: a cradle-to-grave biopic that still works. Left off both of their five-favorites lists because they'd covered it recently on the show."
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "heading": "Five favorite biopics",
+      "note": "each picked five, not strictly ranked",
+      "picks": [
+        {
+          "title": "Amadeus",
+          "year": 1984,
+          "by": "Sean Fennessey",
+          "note": "Milos Forman's Mozart/Salieri film, told through Salieri's jealousy. Tom Hulce plays Mozart as 'a little maniac,' nothing like the solemn historical bust."
+        },
+        {
+          "title": "Julie & Julia",
+          "year": 2009,
+          "by": "Sean Fennessey",
+          "note": "Nora Ephron's film splits between Julia Child in Paris and a blogger cooking through her cookbook; Meryl Streep's performance goes past impersonation."
+        },
+        {
+          "title": "Catch Me If You Can",
+          "year": 2002,
+          "by": "Sean Fennessey",
+          "note": "Spielberg's Frank Abagnale film, a con-man story about someone unfamous, and Sean's pick for best Leo DiCaprio biopic."
+        },
+        {
+          "title": "The Queen",
+          "year": 2006,
+          "by": "Sean Fennessey",
+          "note": "Stephen Frears and Peter Morgan's film, Helen Mirren as Elizabeth II in the week after Princess Diana's death. Peter Morgan later expanded the same source material into 'The Crown.'"
+        },
+        {
+          "title": "The Elephant Man",
+          "year": 1980,
+          "by": "Sean Fennessey",
+          "note": "David Lynch's John Hurt/Anthony Hopkins film about Joseph Merrick, shot in black and white: a hushed, classically staged outlier in Lynch's filmography."
+        },
+        {
+          "title": "Mishima: A Life in Four Chapters",
+          "year": 1985,
+          "by": "Sean Fennessey",
+          "note": "Paul Schrader's Yukio Mishima film, built from dramatized chapters of Mishima's own fiction."
+        },
+        {
+          "title": "Love & Mercy",
+          "year": 2015,
+          "by": "Sean Fennessey",
+          "note": "Brian Wilson split across two eras and two actors, Paul Dano and John Cusack, with no attempt at physical continuity between them."
+        },
+        {
+          "title": "Jackie",
+          "year": 2016,
+          "by": "Amanda Dobbins",
+          "note": "Pablo Larraín's film, Natalie Portman as Jackie Kennedy in the days after JFK's assassination: more about image-making than impersonation."
+        },
+        {
+          "title": "32 Short Films About Glenn Gould",
+          "year": 1993,
+          "by": "Amanda Dobbins",
+          "note": "François Girard's patchwork portrait of the pianist, structured after Gould's own Goldberg Variations recording. Amanda's dad showed it to her at age nine."
+        },
+        {
+          "title": "I'm Not There",
+          "year": 2007,
+          "by": "Amanda Dobbins",
+          "note": "Todd Haynes splits Bob Dylan into seven different performers and personas."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "Judas and the Black Messiah",
+      "films": [
+        {
+          "title": "Judas and the Black Messiah",
+          "year": 2021,
+          "note": "Shaka King's Fred Hampton film, out on HBO Max. LaKeith Stanfield plays FBI informant William O'Neill (the Judas of the title), Daniel Kaluuya plays Hampton, Dominique Fishback plays Deborah Johnson (Akua Njeri), and Jesse Plemons plays O'Neill's handler, Roy Mitchell. Martin Sheen plays J. Edgar Hoover. Sean and Amanda call it a Trojan-horse biopic: a crime thriller and cat-and-mouse movie about a socialist revolution, funded by Warner Bros."
+        },
+        {
+          "title": "MLK/FBI",
+          "year": 2020,
+          "note": "Sam Pollard's documentary, also on this year's shortlist. Sean recommends pairing it with 'Judas and the Black Messiah' as a double feature, for more on Hoover's playbook against Martin Luther King Jr. and then Hampton."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Shaka King on ‘Judas and the Black Messiah’",
+      "guest": "Shaka King on",
+      "films": [
+        {
+          "title": "Judas and the Black Messiah",
+          "year": 2021,
+          "note": "How it came together: the Lucas Brothers pitched King on 'The Conformist' meets 'The Departed' inside COINTELPRO. King brought in writer Will Berson to combine drafts, Ryan Coogler and Charles King's Macro came on to produce, and the cast (Kaluuya, Stanfield, Fishback, Plemons) was attached before the studio deal closed. Fred Hampton Jr. and Akua Njeri signed on as cultural consultants during the second week of filming."
+        },
+        {
+          "title": "Newlyweeds",
+          "year": 2013,
+          "note": "King's debut feature, which premiered at Sundance the same year as Ryan Coogler's 'Fruitvale Station,' where the two met."
+        },
+        {
+          "title": "Lovers Rock",
+          "year": 2020,
+          "note": "The 'Small Axe' installment King calls the last thing that blew him away, for capturing what loving music feels like without being a musical."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The pop-star biopic wave",
+      "films": [
+        "Judy",
+        "Straight Outta Compton",
+        "Rocketman",
+        "Bohemian Rhapsody",
+        "Ray"
+      ]
+    },
+    {
+      "group": "More of the genre they didn't get to",
+      "films": [
+        "The Social Network",
+        "Moneyball",
+        "Marie Antoinette",
+        "Yankee Doodle Dandy",
+        "A Man for All Seasons",
+        "Coal Miner's Daughter",
+        "Serpico"
+      ]
+    },
+    {
+      "group": "Comparisons for 'Judas and the Black Messiah'",
+      "films": [
+        "J. Edgar",
+        "Reds"
+      ]
+    },
+    {
+      "group": "Shaka King's references while making the film",
+      "films": [
+        "Heat",
+        "The Killing of a Chinese Bookie",
+        "The Friends of Eddie Coyle",
+        "The Battle of Algiers",
+        "When We Were Kings",
+        "Gloria",
+        "The Conformist",
+        "The Departed",
+        "Once Upon a Time in Hollywood",
+        "Black Panther",
+        "Fruitvale Station"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Crown",
+      "Eyes on the Prize",
+      "Mike L. Mike (Netflix pilot presentation)"
+    ],
+    "Games": [
+      "FIFA World Cup Launch Edition (Netflix)"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "FanDuel",
+      "NOS Energy",
+      "Priceline",
+      "Uber",
+      "Stamps.com"
+    ]
+  },
+  "tmdbOverrides": {
+    "Crip Camp": 653725,
+    "Time": 653729,
+    "Borat Subsequent Moviefilm": 740985,
+    "32 Short Films About Glenn Gould": 20967,
+    "Belly of the Beast": 717245,
+    "Gloria": 10889,
+    "The Killing of a Chinese Bookie": 32040
+  },
+  "tmdb": {
+    "Dick Johnson Is Dead": {
+      "id": 653574,
+      "poster": "/vnfI34kmi3fcdgP7HZjIgGOJHGY.jpg",
+      "title": "Dick Johnson Is Dead",
+      "year": 2020
+    },
+    "Crip Camp": {
+      "id": 653725,
+      "poster": "/iALSypN3MhC6kBVwc9VpuJUlm1j.jpg",
+      "title": "Crip Camp: A Disability Revolution",
+      "year": 2020
+    },
+    "Boys State": {
+      "id": 653723,
+      "poster": "/cuvt3ImM3wQdijib7OeIH48uRfQ.jpg",
+      "title": "Boys State",
+      "year": 2020
+    },
+    "Time": {
+      "id": 653729,
+      "poster": "/2yLZmlf6vdpkhTaD0oUmIFu8SsM.jpg",
+      "title": "Time",
+      "year": 2020
+    },
+    "Another Round": {
+      "id": 580175,
+      "poster": "/aDcIt4NHURLKnAEu7gow51Yd00Q.jpg",
+      "title": "Another Round",
+      "year": 2020
+    },
+    "La Llorona": {
+      "id": 617708,
+      "poster": "/n2O3cSuxSKlnCiEXI2CB5auXA2G.jpg",
+      "title": "La Llorona",
+      "year": 2019
+    },
+    "Dear Comrades!": {
+      "id": 587609,
+      "poster": "/ds7T5PEplJQeKzpLWbIvW9xpHX1.jpg",
+      "title": "Dear Comrades!",
+      "year": 2020
+    },
+    "A Sun": {
+      "id": 622951,
+      "poster": "/oMdGYF0IBSJKgiNOuDoagmnOstu.jpg",
+      "title": "A Sun",
+      "year": 2019
+    },
+    "Honeyland": {
+      "id": 566213,
+      "poster": "/3IxGhQEzLWOxkZlcNMAIiYlOT8D.jpg",
+      "title": "Honeyland",
+      "year": 2019
+    },
+    "Borat Subsequent Moviefilm": {
+      "id": 740985,
+      "poster": "/3L1Ml5RWjFVfVq3rQENvgFymT0U.jpg",
+      "title": "Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan",
+      "year": 2020
+    },
+    "Eurovision Song Contest: The Story of Fire Saga": {
+      "id": 531454,
+      "poster": "/9zrbgYyFvwH8sy5mv9eT25xsAzL.jpg",
+      "title": "Eurovision Song Contest: The Story of Fire Saga",
+      "year": 2020
+    },
+    "A Star Is Born": {
+      "id": 332562,
+      "poster": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "title": "A Star Is Born",
+      "year": 2018
+    },
+    "Belly of the Beast": {
+      "id": 717245,
+      "poster": "/pvPWIHWqG35JCZgdCiCNIRbNlrf.jpg",
+      "title": "Belly of the Beast",
+      "year": 2020
+    },
+    "Giving Voice": {
+      "id": 653747,
+      "poster": "/2qlQceN0IrqXXEIcFCcpm6B3jQb.jpg",
+      "title": "Giving Voice",
+      "year": 2020
+    },
+    "Judas and the Black Messiah": {
+      "id": 583406,
+      "poster": "/iIgr75GoqFxe1X5Wz9siOODGe9u.jpg",
+      "title": "Judas and the Black Messiah",
+      "year": 2021
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "Soul": {
+      "id": 508442,
+      "poster": "/6jmppcaubzLF8wkXM36ganVISCo.jpg",
+      "title": "Soul",
+      "year": 2020
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "Minari": {
+      "id": 615643,
+      "poster": "/6mPNdmjdbVKPITv3LLCmQoKs9Zw.jpg",
+      "title": "Minari",
+      "year": 2021
+    },
+    "The Last Black Man in San Francisco": {
+      "id": 522039,
+      "poster": "/ow9zjibNrz5TYVZ6cqwmvCR1YX1.jpg",
+      "title": "The Last Black Man in San Francisco",
+      "year": 2019
+    },
+    "Gandhi": {
+      "id": 783,
+      "poster": "/rOXftt7SluxskrFrvU7qFJa5zeN.jpg",
+      "title": "Gandhi",
+      "year": 1982
+    },
+    "Malcolm X": {
+      "id": 1883,
+      "poster": "/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
+      "title": "Malcolm X",
+      "year": 1992
+    },
+    "Amadeus": {
+      "id": 279,
+      "poster": "/gQRfiyfGvr1az0quaYyMram3Aqt.jpg",
+      "title": "Amadeus",
+      "year": 1984
+    },
+    "Julie & Julia": {
+      "id": 24803,
+      "poster": "/1QZNWOOwfRi86ZApGvr2TtJZPBK.jpg",
+      "title": "Julie & Julia",
+      "year": 2009
+    },
+    "Catch Me If You Can": {
+      "id": 640,
+      "poster": "/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+      "title": "Catch Me If You Can",
+      "year": 2002
+    },
+    "The Queen": {
+      "id": 1165,
+      "poster": "/v08RH5Cx9EFAQMBWQuE5jHAgHYs.jpg",
+      "title": "The Queen",
+      "year": 2006
+    },
+    "The Elephant Man": {
+      "id": 1955,
+      "poster": "/u0wpPYjuSt8DIe1Y3Vapnh8jcKE.jpg",
+      "title": "The Elephant Man",
+      "year": 1980
+    },
+    "Mishima: A Life in Four Chapters": {
+      "id": 27064,
+      "poster": "/4kIXsE4SwUjO0eUqpolsHNO5GLH.jpg",
+      "title": "Mishima: A Life in Four Chapters",
+      "year": 1985
+    },
+    "Love & Mercy": {
+      "id": 271714,
+      "poster": "/4jn0hDsl6lsv4qEc7aiLlgbaIjo.jpg",
+      "title": "Love & Mercy",
+      "year": 2015
+    },
+    "Jackie": {
+      "id": 376866,
+      "poster": "/nF9N33PfhizMEzbfxHoxXBo2vx9.jpg",
+      "title": "Jackie",
+      "year": 2016
+    },
+    "32 Short Films About Glenn Gould": {
+      "id": 20967,
+      "poster": "/3GTmkUpCb1uL7psLYqAHyIyld51.jpg",
+      "title": "Thirty Two Short Films About Glenn Gould",
+      "year": 1993
+    },
+    "I'm Not There": {
+      "id": 3902,
+      "poster": "/bucgvB7gQqcl1m71efHkenfIMTj.jpg",
+      "title": "I'm Not There",
+      "year": 2007
+    },
+    "MLK/FBI": {
+      "id": 728868,
+      "poster": "/qYG0J3tKCTj8otQQ7buVs3YATBI.jpg",
+      "title": "MLK/FBI",
+      "year": 2020
+    },
+    "Newlyweeds": {
+      "id": 158870,
+      "poster": "/pUmgwa0gjrFQoEfBkB28YfMl0S3.jpg",
+      "title": "Newlyweeds",
+      "year": 2013
+    },
+    "Lovers Rock": null,
+    "Judy": {
+      "id": 491283,
+      "poster": "/iqJhHjD6k6T07waELjMKDpQJUP.jpg",
+      "title": "Judy",
+      "year": 2019
+    },
+    "Straight Outta Compton": {
+      "id": 277216,
+      "poster": "/1CiLJx8Xtv3TbbFj6k7BboSmKgC.jpg",
+      "title": "Straight Outta Compton",
+      "year": 2015
+    },
+    "Rocketman": {
+      "id": 504608,
+      "poster": "/f4FF18ia7yTvHf2izNrHqBmgH8U.jpg",
+      "title": "Rocketman",
+      "year": 2019
+    },
+    "Bohemian Rhapsody": {
+      "id": 424694,
+      "poster": "/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+      "title": "Bohemian Rhapsody",
+      "year": 2018
+    },
+    "Ray": {
+      "id": 1677,
+      "poster": "/tSPC7sO2XYNL9QcMmK88tuUALL5.jpg",
+      "title": "Ray",
+      "year": 2004
+    },
+    "The Social Network": {
+      "id": 37799,
+      "poster": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+      "title": "The Social Network",
+      "year": 2010
+    },
+    "Moneyball": {
+      "id": 60308,
+      "poster": "/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+      "title": "Moneyball",
+      "year": 2011
+    },
+    "Marie Antoinette": {
+      "id": 1887,
+      "poster": "/cybXGmv8Rjd5Os8Xml6YxMBQ0Zt.jpg",
+      "title": "Marie Antoinette",
+      "year": 2006
+    },
+    "Yankee Doodle Dandy": {
+      "id": 3087,
+      "poster": "/cqLLIyJFjLr6jGOxWVEHG11WGzB.jpg",
+      "title": "Yankee Doodle Dandy",
+      "year": 1942
+    },
+    "A Man for All Seasons": {
+      "id": 874,
+      "poster": "/1AhIatyuSxymFNHhNTzDiUrE6kn.jpg",
+      "title": "A Man for All Seasons",
+      "year": 1966
+    },
+    "Coal Miner's Daughter": {
+      "id": 16769,
+      "poster": "/bzHFDAdUad4QcHPi2UOqvaQKNWA.jpg",
+      "title": "Coal Miner's Daughter",
+      "year": 1980
+    },
+    "Serpico": {
+      "id": 9040,
+      "poster": "/pRagfd10PPWryFRSzLPIivfAXHJ.jpg",
+      "title": "Serpico",
+      "year": 1973
+    },
+    "J. Edgar": {
+      "id": 88794,
+      "poster": "/gltciP2dIaEQmm4JeYfB088k40n.jpg",
+      "title": "J. Edgar",
+      "year": 2011
+    },
+    "Reds": {
+      "id": 18254,
+      "poster": "/AeiKdVVM93fwfQG1m3N0cgVZgHl.jpg",
+      "title": "Reds",
+      "year": 1981
+    },
+    "Heat": {
+      "id": 949,
+      "poster": "/e09dLw1Ljtccd2P4NsuUvVtS5du.jpg",
+      "title": "Heat",
+      "year": 1995
+    },
+    "The Killing of a Chinese Bookie": {
+      "id": 32040,
+      "poster": "/lShPFOAbQ6y6oFYUfecmrj7BUu6.jpg",
+      "title": "The Killing of a Chinese Bookie",
+      "year": 1976
+    },
+    "The Friends of Eddie Coyle": {
+      "id": 25680,
+      "poster": "/tyV8Bgf2huCIbGUxTdGgnzdIRKZ.jpg",
+      "title": "The Friends of Eddie Coyle",
+      "year": 1973
+    },
+    "The Battle of Algiers": {
+      "id": 17295,
+      "poster": "/2p3AFtOHFvP6OeVMqlnL1zLKOqL.jpg",
+      "title": "The Battle of Algiers",
+      "year": 1966
+    },
+    "When We Were Kings": {
+      "id": 10548,
+      "poster": "/yBkZK1JZOOJ3q5Jj1H9UP9T8YuV.jpg",
+      "title": "When We Were Kings",
+      "year": 1996
+    },
+    "Gloria": {
+      "id": 10889,
+      "poster": "/mrYZInXp0JEoZYXs0Z108l2jN0C.jpg",
+      "title": "Gloria",
+      "year": 1980
+    },
+    "The Conformist": {
+      "id": 8416,
+      "poster": "/nLJjFRqIJAK8qz0OKYnpKCblZNK.jpg",
+      "title": "The Conformist",
+      "year": 1971
+    },
+    "The Departed": {
+      "id": 1422,
+      "poster": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+      "title": "The Departed",
+      "year": 2006
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "Fruitvale Station": {
+      "id": 157354,
+      "poster": "/oXSy3nEKFtfw5iRxdG8ouEFAnxs.jpg",
+      "title": "Fruitvale Station",
+      "year": 2013
+    }
+  },
+  "spotifyEpisodeId": "6NeFiwWiYdLvgOX0L1DOdC"
+}

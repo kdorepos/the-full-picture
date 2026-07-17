@@ -1,0 +1,318 @@
+{
+  "slug": "top-five-christopher-nolan-movies-and-a-tenet-review-from-ca",
+  "title": "Top Five Christopher Nolan Movies and a ‘Tenet’ Review From Canada",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Adam Nayman"
+  ],
+  "published": "2020-09-01",
+  "runtimeMin": 52,
+  "format": "Sean, Amanda, and critic Adam Nayman argue through the Christopher Nolan filmography and each name their favorites, then Nayman, watching from Toronto ahead of the U.S. release, reviews Tenet spoiler-free.",
+  "tmdbOverrides": {
+    "Crash (2004)": 1640,
+    "The Trip": 63578
+  },
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Talking Nolan",
+      "note": "career overview, ahead of Tenet",
+      "films": [
+        {
+          "title": "Phantom Thread",
+          "year": 2017,
+          "note": "Adam's favorite piece of Nolan criticism isn't criticism at all: a Vulture item about his kids calling him Reynolds Woodcock for six months."
+        },
+        {
+          "title": "Memento",
+          "year": 2000,
+          "note": "Adam rewatched it early in the pandemic and noticed it's funny on purpose, in Guy Pearce's ‘Am I chasing this guy? Is he chasing me?’"
+        },
+        {
+          "title": "Inception",
+          "year": 2010,
+          "note": "The episode's longest tangent: the memes, and ‘incepted’ turning up as a verb in a novel Amanda's reading, have it existing outside the movie itself now."
+        },
+        {
+          "title": "The Dark Knight Rises",
+          "year": 2012,
+          "note": "Adam hasn't thought about it since he sat through it, aside from the Bane-inaudibility jokes."
+        },
+        {
+          "title": "Insomnia",
+          "year": 2002,
+          "note": "Sean floated it for his own top five, maybe the one Nolan film without that sense of something coming, then talked himself out of it as too contrarian a pick."
+        },
+        {
+          "title": "Batman Begins",
+          "year": 2005,
+          "note": "On nobody's list. Adam calls it an early, table-setting entry in the world-building game Marvel would later industrialize."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Sean Fennessey's Top Five Nolan Movies",
+      "note": "his picks",
+      "subject": "Nolan movies",
+      "ranked": false,
+      "films": [
+        {
+          "title": "The Dark Knight",
+          "year": 2008,
+          "note": "Still his No. 1: ‘the electrifying feeling I like in a mainstream movie,’ flaws and all."
+        },
+        {
+          "title": "Memento",
+          "year": 2000,
+          "note": "More clever, and funnier, than the one above it, he says."
+        },
+        {
+          "title": "Dunkirk",
+          "year": 2017,
+          "note": "Grown on him more than any other Nolan film since he first saw it."
+        },
+        {
+          "title": "The Prestige",
+          "year": 2006,
+          "note": "One he's happy to revisit."
+        },
+        {
+          "title": "Interstellar",
+          "year": 2014,
+          "note": "Doesn't crack his top tier but has real strengths, he thinks."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Amanda Dobbins' Top Five Nolan Movies",
+      "note": "her picks",
+      "subject": "Nolan movies",
+      "ranked": false,
+      "films": [
+        {
+          "title": "The Dark Knight",
+          "year": 2008,
+          "note": "A rewatch the night before confirmed it: the first 90 minutes are as good as blockbuster filmmaking gets."
+        },
+        {
+          "title": "Inception",
+          "year": 2010,
+          "note": "Her known minority position; she says she's the only one still fond of it."
+        },
+        {
+          "title": "Memento",
+          "year": 2000,
+          "note": "Actual household shorthand: she and her husband invoke the tattoo trick over his memory."
+        },
+        {
+          "title": "Dunkirk",
+          "year": 2017,
+          "note": "Nolan's solemn, serious side executed at its best, she says, and genuinely moving."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Adam Nayman's Top Five Nolan Movies",
+      "note": "his picks",
+      "subject": "Nolan movies",
+      "ranked": false,
+      "films": [
+        {
+          "title": "The Prestige",
+          "year": 2006,
+          "note": "His favorite ‘by a lot,’ a fatalistic movie about entertainers destroying each other and themselves, which he half-jokingly calls Nolan's most personal work."
+        },
+        {
+          "title": "Memento",
+          "year": 2000,
+          "note": "A leaner, less self-serious version of the same forward drive he finds in The Prestige."
+        },
+        {
+          "title": "The Dark Knight",
+          "year": 2008,
+          "note": "One of the three films all three panelists share."
+        },
+        {
+          "title": "Dunkirk",
+          "year": 2017,
+          "note": "The other of the three consensus picks."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "A ‘Tenet’ Review From Canada",
+      "guest": "Adam Nayman on",
+      "note": "no-spoilers conversation",
+      "films": [
+        {
+          "title": "Tenet",
+          "year": 2020,
+          "note": "Adam's verdict: didn't fully understand it, didn't quite feel it either, but had a good time anyway. Strong first hour, shakier last ninety minutes. Plays closest to a Bond movie of anything in Nolan's catalog, dialogue famously buried in the sound mix, and he doesn't think it's a spoiler-landmark movie the way The Usual Suspects or The Sixth Sense are."
+        },
+        {
+          "title": "The Killing",
+          "year": 1956,
+          "note": "Kubrick's heist film with the clown masks. Adam figures Nolan loves it enough to have remade it twice, as Inception and now Tenet."
+        },
+        {
+          "title": "Crash (1996)",
+          "year": 1996,
+          "note": "The last movie Adam saw in a theater before Tenet, at a drive-in. Didn't tear up for that one; he did for Tenet."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Transformers: Dark of the Moon",
+        "The Trip",
+        "The Usual Suspects",
+        "The Sixth Sense",
+        "Labor Day",
+        "The Crying Game",
+        "Crash (2004)"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Peppa Pig"
+    ],
+    "Ads": [
+      "Heineken",
+      "MasterClass"
+    ]
+  },
+  "tmdb": {
+    "Phantom Thread": {
+      "id": 400617,
+      "poster": "/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg",
+      "title": "Phantom Thread",
+      "year": 2017
+    },
+    "Memento": {
+      "id": 77,
+      "poster": "/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+      "title": "Memento",
+      "year": 2000
+    },
+    "Inception": {
+      "id": 27205,
+      "poster": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+      "title": "Inception",
+      "year": 2010
+    },
+    "The Dark Knight Rises": {
+      "id": 49026,
+      "poster": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+      "title": "The Dark Knight Rises",
+      "year": 2012
+    },
+    "Insomnia": {
+      "id": 320,
+      "poster": "/riVXh3EimGO0y5dgQxEWPRy5Itg.jpg",
+      "title": "Insomnia",
+      "year": 2002
+    },
+    "Batman Begins": {
+      "id": 272,
+      "poster": "/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+      "title": "Batman Begins",
+      "year": 2005
+    },
+    "The Dark Knight": {
+      "id": 155,
+      "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    "Dunkirk": {
+      "id": 374720,
+      "poster": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "title": "Dunkirk",
+      "year": 2017
+    },
+    "The Prestige": {
+      "id": 1124,
+      "poster": "/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg",
+      "title": "The Prestige",
+      "year": 2006
+    },
+    "Interstellar": {
+      "id": 157336,
+      "poster": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+      "title": "Interstellar",
+      "year": 2014
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "The Killing": {
+      "id": 247,
+      "poster": "/A6VzUPcADZGYdGHlVdWvpMNDF5d.jpg",
+      "title": "The Killing",
+      "year": 1956
+    },
+    "Crash (1996)": {
+      "id": 884,
+      "poster": "/gpai5oUFyFGLHOCsYTvVMqlbY7A.jpg",
+      "title": "Crash",
+      "year": 1996
+    },
+    "Transformers: Dark of the Moon": {
+      "id": 38356,
+      "poster": "/28YlCLrFhONteYSs9hKjD1Km0Cj.jpg",
+      "title": "Transformers: Dark of the Moon",
+      "year": 2011
+    },
+    "The Trip": {
+      "id": 63578,
+      "poster": "/tjGrjHNjsR0klih0bkGBHbukMdX.jpg",
+      "title": "The Trip",
+      "year": 2011
+    },
+    "The Usual Suspects": {
+      "id": 629,
+      "poster": "/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg",
+      "title": "The Usual Suspects",
+      "year": 1995
+    },
+    "The Sixth Sense": {
+      "id": 745,
+      "poster": "/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg",
+      "title": "The Sixth Sense",
+      "year": 1999
+    },
+    "Labor Day": {
+      "id": 130150,
+      "poster": "/iQdbCtk1Q3TdZRBKSLU1Vh870l7.jpg",
+      "title": "Labor Day",
+      "year": 2013
+    },
+    "The Crying Game": {
+      "id": 11386,
+      "poster": "/9BXGoat9TYgdDqGk2WJmaX9dVoe.jpg",
+      "title": "The Crying Game",
+      "year": 1992
+    },
+    "Crash (2004)": {
+      "id": 1640,
+      "poster": "/86BdPC6RDX88NC880pLidKn2LCj.jpg",
+      "title": "Crash",
+      "year": 2005
+    }
+  },
+  "spotifyEpisodeId": "2qbtWfnyde3iLs0dFsOAUX"
+}

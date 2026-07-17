@@ -1,0 +1,196 @@
+{
+  "slug": "2-is-the-room-big-enough-for-both-these-guys-gene-and-roger",
+  "title": "2. “Is the Room Big Enough for Both These Guys?” | Gene and Roger",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Brian Raftery"
+  ],
+  "published": "2021-07-20",
+  "runtimeMin": 32,
+  "format": "A narrative doc on how two rival Chicago newspaper critics who could barely share a room became TV's first movie-review double act.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The films that made Gene and Roger",
+      "note": "the movies threaded through the origin story",
+      "films": [
+        {
+          "title": "Taxi Driver",
+          "year": 1976,
+          "note": "The stiff, bored early review that opens the episode, proof the writing hadn't yet translated to TV."
+        },
+        {
+          "title": "The Devil Within Her",
+          "year": 1975,
+          "note": "Roger's \"Dog of the Month,\" panned as an Exorcist rip-off, back when the show was still dry banter."
+        },
+        {
+          "title": "Dumbo",
+          "year": 1941,
+          "note": "A childhood matinee (Mrs. Jumbo chained up) that stuck with Gene his whole life."
+        },
+        {
+          "title": "Butch Cassidy and the Sundance Kid",
+          "year": 1969,
+          "note": "Gene's contrarian early call: \"laughable, but not very memorable.\""
+        },
+        {
+          "title": "The French Connection",
+          "year": 1971,
+          "note": "One of the future classics Gene raved about early at the Tribune."
+        },
+        {
+          "title": "Z",
+          "year": 1969,
+          "note": "Another early Siskel rave."
+        },
+        {
+          "title": "Chinatown",
+          "year": 1974,
+          "note": "Gene found it \"tedious from beginning to just before the end.\""
+        },
+        {
+          "title": "Beyond the Valley of the Dolls",
+          "year": 1970,
+          "note": "Gene gave it zero stars and called it a cesspool, not knowing it was written by Roger Ebert."
+        },
+        {
+          "title": "Ikiru",
+          "year": 1952,
+          "note": "Kurosawa's dying-man drama that hit Roger in college (the transcript mishears it as \"Akira\")."
+        },
+        {
+          "title": "The 400 Blows",
+          "year": 1959,
+          "note": "Truffaut's coming-of-age film, another Roger college awakening."
+        },
+        {
+          "title": "2001: A Space Odyssey",
+          "year": 1968,
+          "note": "Roger's lifelong obsession: four stars, and he kept going back. Gene once tried to buy the monolith prop."
+        },
+        {
+          "title": "Saturday Night Fever",
+          "year": 1977,
+          "note": "Gene's fixation: he saw it 17 times and outbid Jane Fonda for Travolta's white disco suit."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "New Hollywood name-checks",
+      "films": [
+        "Easy Rider",
+        "MASH",
+        "The Exorcist"
+      ]
+    }
+  ],
+  "excluded": {
+    "Ads": [
+      "Boar's Head",
+      "White Claw",
+      "Netflix"
+    ],
+    "Games": [
+      "FIFA World Cup Launch Edition"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Devil Within Her": 28271
+  },
+  "tmdb": {
+    "Taxi Driver": {
+      "id": 103,
+      "poster": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "title": "Taxi Driver",
+      "year": 1976
+    },
+    "The Devil Within Her": {
+      "id": 28271,
+      "poster": "/5CYgf4kyNWe2XlCKEpxn9cZsHH3.jpg",
+      "title": "I Don't Want to Be Born",
+      "year": 1976
+    },
+    "Dumbo": {
+      "id": 11360,
+      "poster": "/4x9FmvdJ464Fg7A9XcbYSmxfVw3.jpg",
+      "title": "Dumbo",
+      "year": 1941
+    },
+    "Butch Cassidy and the Sundance Kid": {
+      "id": 642,
+      "poster": "/gFmmykF1Ym3OGzENo50nZQaD1dx.jpg",
+      "title": "Butch Cassidy and the Sundance Kid",
+      "year": 1969
+    },
+    "The French Connection": {
+      "id": 1051,
+      "poster": "/pH4saPwMjhnVGwmSH6RkMaHrt3s.jpg",
+      "title": "The French Connection",
+      "year": 1971
+    },
+    "Z": {
+      "id": 2721,
+      "poster": "/dFAJyFNgvOv24f2RQyI9KDxjGr3.jpg",
+      "title": "Z",
+      "year": 1969
+    },
+    "Chinatown": {
+      "id": 829,
+      "poster": "/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg",
+      "title": "Chinatown",
+      "year": 1974
+    },
+    "Beyond the Valley of the Dolls": {
+      "id": 5722,
+      "poster": "/eslylQSssnNIV4f06fHtfxPTH3I.jpg",
+      "title": "Beyond the Valley of the Dolls",
+      "year": 1970
+    },
+    "Ikiru": {
+      "id": 3782,
+      "poster": "/dgNTS4EQDDVfkzJI5msKuHu2Ei3.jpg",
+      "title": "Ikiru",
+      "year": 1952
+    },
+    "The 400 Blows": {
+      "id": 147,
+      "poster": "/12PuU23kkDLvTd0nb8hMlE3oShB.jpg",
+      "title": "The 400 Blows",
+      "year": 1959
+    },
+    "2001: A Space Odyssey": {
+      "id": 62,
+      "poster": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "title": "2001: A Space Odyssey",
+      "year": 1968
+    },
+    "Saturday Night Fever": {
+      "id": 11009,
+      "poster": "/ylA7E5Md21aqgzxbwa2dFxX8LKV.jpg",
+      "title": "Saturday Night Fever",
+      "year": 1977
+    },
+    "Easy Rider": {
+      "id": 624,
+      "poster": "/3H3vwPGX6EbBRffIVHp3eHHcjka.jpg",
+      "title": "Easy Rider",
+      "year": 1969
+    },
+    "MASH": {
+      "id": 651,
+      "poster": "/on8Q9LhtHYNhmITjUMpgOUkIG8o.jpg",
+      "title": "M*A*S*H",
+      "year": 1970
+    },
+    "The Exorcist": {
+      "id": 9552,
+      "poster": "/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
+      "title": "The Exorcist",
+      "year": 1973
+    }
+  }
+}

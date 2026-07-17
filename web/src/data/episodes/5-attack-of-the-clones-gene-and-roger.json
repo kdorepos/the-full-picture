@@ -1,0 +1,109 @@
+{
+  "slug": "5-attack-of-the-clones-gene-and-roger",
+  "title": "5. Attack of the Clones | Gene and Roger",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Brian Raftery"
+  ],
+  "published": "2021-08-10",
+  "runtimeMin": 25,
+  "format": "Part five of Brian Raftery's Gene and Roger series: the 80s wave of Siskel-and-Ebert imitators, and why none of the copycats could match the original pair.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Attack of the clones",
+      "note": "The critics who tried to replace Siskel and Ebert",
+      "films": [
+        {
+          "title": "Platoon",
+          "year": 1986,
+          "note": "The clip both replacement duos leaned on: Medved and Lyons praising it on the new Sneak Previews, Reed and Harris arguing over it on the relaunched At the Movies."
+        },
+        {
+          "title": "Full Metal Jacket",
+          "year": 1987,
+          "note": "Rex Reed and Bill Harris review it on At the Movies, sliding into a Platoon comparison."
+        },
+        {
+          "title": "Project X",
+          "year": 1987,
+          "note": "The Matthew Broderick movie about rescuing a lab chimp, reviewed by the teens on Nickelodeon's Rated K, who debated it against Siskel and Ebert."
+        },
+        {
+          "title": "King Kong",
+          "year": 1933,
+          "note": "Leonard Maltin, reviewing for Entertainment Tonight, plugged Criterion's Laserdisc restoration of it in 1985."
+        },
+        {
+          "title": "Red Heat",
+          "year": 1988,
+          "note": "Cited as an example of the era's throwaway blurb raves: 'Red Heat is red hot.'"
+        },
+        {
+          "title": "Some Kind of Wonderful",
+          "year": 1987,
+          "note": "Another blurb-bait title from the same run of 80s billboard raves."
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Sneak Previews",
+      "At the Movies",
+      "Siskel & Ebert",
+      "Rated K: For Kids by Kids",
+      "Entertainment Tonight"
+    ],
+    "Web": [
+      "Rotten Tomatoes"
+    ],
+    "Games": [
+      "FIFA World Cup Launch Edition"
+    ],
+    "Ads": [
+      "Netflix",
+      "Boar's Head",
+      "White Claw"
+    ]
+  },
+  "tmdb": {
+    "Platoon": {
+      "id": 792,
+      "poster": "/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg",
+      "title": "Platoon",
+      "year": 1986
+    },
+    "Full Metal Jacket": {
+      "id": 600,
+      "poster": "/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+      "title": "Full Metal Jacket",
+      "year": 1987
+    },
+    "Project X": {
+      "id": 18410,
+      "poster": "/odUw1Th64wqGF8hQLyNJoKWbAXX.jpg",
+      "title": "Project X",
+      "year": 1987
+    },
+    "King Kong": {
+      "id": 244,
+      "poster": "/lHlnxKL5GbgRibyRFI7n1Ey850i.jpg",
+      "title": "King Kong",
+      "year": 1933
+    },
+    "Red Heat": {
+      "id": 9604,
+      "poster": "/AoJTHXmO01EZgT0p1YTsGBEQxLj.jpg",
+      "title": "Red Heat",
+      "year": 1988
+    },
+    "Some Kind of Wonderful": {
+      "id": 15143,
+      "poster": "/6z6ZUrwbAJl9Nq43OY77O7iY80x.jpg",
+      "title": "Some Kind of Wonderful",
+      "year": 1987
+    }
+  }
+}

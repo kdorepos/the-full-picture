@@ -1,0 +1,166 @@
+{
+  "slug": "a-deep-reading-of-jordan-peeles-us-feat-spoilers-exit-survey",
+  "title": "A Deep Reading of Jordan Peele’s ‘Us’ (Feat. SPOILERS) | Exit Survey",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2019-03-22",
+  "runtimeMin": 57,
+  "format": "Sean Fennessey and Amanda Dobbins spoil Jordan Peele's 'Us' from the funhouse to the final twist, covering the tethered, the scissors, the rabbits, and whether the metaphor survives being explained out loud.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "A Deep Reading of 'Us'",
+      "note": "full spoilers",
+      "films": [
+        {
+          "title": "Us",
+          "year": 2019,
+          "note": "Peele's second feature, seen at the South by Southwest premiere. They work through the tethered mythology, Red's 'we're Americans' speech, the swap twist, and the loose logic (the rabbits, the scissors, what happens when a tethered person leaves the country). Lupita Nyong'o's dual performance is the best thing in it; Winston Duke plays the dad for laughs, and Elisabeth Moss and Tim Heidecker turn up as the doomed vacation family partway through."
+        },
+        {
+          "title": "Get Out",
+          "year": 2017,
+          "note": "Peele's debut, the benchmark here: a Best Picture nominee whose social commentary (the Sunken Place) outlived the scares. They argue Us is wider and messier by design, an indictment of everyone rather than a targeted one."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The VHS shelf and 80s references",
+      "films": [
+        "C.H.U.D.",
+        "The Goonies",
+        "The Right Stuff",
+        "The Man with Two Brains"
+      ]
+    },
+    {
+      "group": "Horror lineage",
+      "films": [
+        "The Shining",
+        "Jaws",
+        "They Live",
+        "A Nightmare on Elm Street"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Avengers: Infinity War",
+        "Captain Marvel",
+        "12 Years a Slave",
+        "The Lion King",
+        "Flowers in the Attic"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Twilight Zone"
+    ],
+    "Ads": [
+      "One Shiny Podcast (Ringer promo)"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Lion King": 420818,
+    "Flowers in the Attic": 15658
+  },
+  "tmdb": {
+    "Us": {
+      "id": 458723,
+      "poster": "/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+      "title": "Us",
+      "year": 2019
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "C.H.U.D.": {
+      "id": 23730,
+      "poster": "/8BVw5RIDBTZwdMAR1VKpAkwrMjj.jpg",
+      "title": "C.H.U.D.",
+      "year": 1984
+    },
+    "The Goonies": {
+      "id": 9340,
+      "poster": "/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
+      "title": "The Goonies",
+      "year": 1985
+    },
+    "The Right Stuff": {
+      "id": 9549,
+      "poster": "/btqTjNRxecYgQ1FGfVlLqSSNjz.jpg",
+      "title": "The Right Stuff",
+      "year": 1983
+    },
+    "The Man with Two Brains": {
+      "id": 11591,
+      "poster": "/jSnGiPE17sgicRyTPrE6UB0pnEU.jpg",
+      "title": "The Man with Two Brains",
+      "year": 1983
+    },
+    "The Shining": {
+      "id": 694,
+      "poster": "/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg",
+      "title": "The Shining",
+      "year": 1980
+    },
+    "Jaws": {
+      "id": 578,
+      "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "title": "Jaws",
+      "year": 1975
+    },
+    "They Live": {
+      "id": 8337,
+      "poster": "/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg",
+      "title": "They Live",
+      "year": 1988
+    },
+    "A Nightmare on Elm Street": {
+      "id": 377,
+      "poster": "/b9rMHAAKISRmIonaQd9Cccx0S4X.jpg",
+      "title": "A Nightmare on Elm Street",
+      "year": 1984
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    },
+    "Captain Marvel": {
+      "id": 299537,
+      "poster": "/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+      "title": "Captain Marvel",
+      "year": 2019
+    },
+    "12 Years a Slave": {
+      "id": 76203,
+      "poster": "/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+      "title": "12 Years a Slave",
+      "year": 2013
+    },
+    "The Lion King": {
+      "id": 420818,
+      "poster": "/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg",
+      "title": "The Lion King",
+      "year": 2019
+    },
+    "Flowers in the Attic": {
+      "id": 15658,
+      "poster": "/upcJxm5AquYh9lTPaJEQ6tgoVbg.jpg",
+      "title": "Flowers in the Attic",
+      "year": 1987
+    }
+  }
+}

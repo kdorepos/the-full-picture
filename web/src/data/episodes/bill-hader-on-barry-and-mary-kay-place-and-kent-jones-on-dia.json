@@ -1,0 +1,360 @@
+{
+  "slug": "bill-hader-on-barry-and-mary-kay-place-and-kent-jones-on-dia",
+  "title": "Bill Hader on ‘Barry,’ and Mary Kay Place and Kent Jones on ‘Diane’ | Interview",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2019-04-01",
+  "runtimeMin": 69,
+  "format": "A double interview: Bill Hader on writing 'Barry' and the old movies behind it, then Mary Kay Place and Kent Jones on their film 'Diane.'",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "Bill Hader on ‘Barry’",
+      "guest": "Bill Hader on",
+      "films": [
+        {
+          "title": "Being There",
+          "year": 1979,
+          "note": "Hader's example of a loose, meandering '70s film that still runs on tight structure."
+        },
+        {
+          "title": "The Last Detail",
+          "year": 1973,
+          "note": "The other Hal Ashby he cites: a quest movie under an emotional surface, maybe outlined from Robert Towne's script."
+        },
+        {
+          "title": "It's a Wonderful Life",
+          "year": 1946,
+          "note": "His model for the 'clean pitch': a complicated story you can still summarize in a breath, and shot for it."
+        },
+        {
+          "title": "Where Is the Friend's House?",
+          "year": 1987,
+          "note": "Kiarostami. Hader watched it three times on FilmStruck and told Alec Berg to; a kid returning a classmate's notebook, and the writing he keeps striving for."
+        },
+        {
+          "title": "Roma",
+          "year": 2018,
+          "note": "His favorite of the prior year: the anti-Barry, structured like a Tarkovsky mood you let wash over you."
+        },
+        {
+          "title": "Shoplifters",
+          "year": 2018,
+          "note": "Named alongside Roma as a film you sink into rather than plot tightly."
+        },
+        {
+          "title": "Woman in the Dunes",
+          "year": 1964,
+          "note": "The Blu-ray he watched the night before: a 'super disturbing Japanese movie' he rewatches between the freeway TV."
+        },
+        {
+          "title": "Bull Durham",
+          "year": 1988,
+          "note": "First-time watch; likes that it isn't really a baseball movie, and calls it Kevin Costner's best."
+        },
+        {
+          "title": "Wolf Guy",
+          "year": 1975,
+          "note": "A Sonny Chiba movie he saw, 'crazy and not great.'"
+        },
+        {
+          "title": "Hangmen Also Die!",
+          "year": 1943,
+          "note": "The Fritz Lang he'd recommend; Brecht co-wrote it, a fictional telling of a Nazi assassination and the hostage reprisals that follow."
+        },
+        {
+          "title": "The Big Heat",
+          "year": 1953,
+          "note": "His proof Lang had seen real violence: Lee Marvin throwing scalding coffee in a woman's face."
+        },
+        {
+          "title": "Kiss of the Spider Woman",
+          "year": 1985,
+          "note": "The film his truck-driver father loved and broke down unpretentiously, the way Hader learned to talk about movies."
+        },
+        {
+          "title": "The Skeleton Twins",
+          "year": 2014,
+          "note": "The Hader movie HBO liked, which led to the meeting that became Barry."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Mary Kay Place and Kent Jones on ‘Diane’",
+      "guest": "Mary Kay Place & Kent Jones on",
+      "films": [
+        {
+          "title": "Diane",
+          "year": 2018,
+          "note": "Jones's first narrative feature, written for Place: the world of his New England aunts and uncles, and a life nearing its end."
+        },
+        {
+          "title": "The Big Chill",
+          "year": 1983,
+          "note": "Where Sean recalls Place from; part of 40 years of steady work."
+        },
+        {
+          "title": "The Rainmaker",
+          "year": 1997,
+          "note": "Place as Dot Black in the Coppola film, the role that made Jones think she could play his mother."
+        },
+        {
+          "title": "Time Out of Mind",
+          "year": 2014,
+          "note": "The Oren Moverman film Jones admired before Moverman's company, Sight Unseen, backed Diane."
+        },
+        {
+          "title": "Hitchcock/Truffaut",
+          "year": 2015,
+          "note": "Jones's documentary; he cut a late, sick-sounding Truffaut radio interview about filmmaking as a fugue state."
+        },
+        {
+          "title": "Capernaum",
+          "year": 2018,
+          "note": "Among Place's recent picks."
+        },
+        {
+          "title": "The Letter",
+          "year": 1940,
+          "note": "One of the William Wyler films Jones revisited (a director who only grows for him)."
+        },
+        {
+          "title": "Jezebel",
+          "year": 1938,
+          "note": "Another Wyler he looked at again recently."
+        },
+        {
+          "title": "The Best Years of Our Lives",
+          "year": 1946,
+          "note": "The Wyler he knows by heart and found more shattering than ever; his father lived the coming-home experience it depicts."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Certified Copy",
+        "Taxi Driver",
+        "Raging Bull",
+        "Predator",
+        "Police Academy 5: Assignment Miami Beach",
+        "Doberman Cop",
+        "Hateship Loveship",
+        "Boyhood"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Barry",
+      "South Park",
+      "Saturday Night Live",
+      "Silicon Valley",
+      "Deadwood",
+      "Atlanta",
+      "The Sopranos",
+      "Breaking Bad",
+      "Bodyguard",
+      "Sex Education",
+      "Lady Dynamite"
+    ],
+    "Theater": [
+      "True West",
+      "The Prisoner",
+      "The Waverly Gallery"
+    ],
+    "Promos": [
+      "The Bill Simmons Podcast",
+      "The Rewatchables",
+      "Winging It"
+    ]
+  },
+  "tmdb": {
+    "Being There": {
+      "id": 10322,
+      "poster": "/2eZTUGNYijOoeq4829P6HNqyZui.jpg",
+      "title": "Being There",
+      "year": 1979
+    },
+    "The Last Detail": {
+      "id": 14886,
+      "poster": "/zQoNkO99qfaBjh5aoA0pKau1prp.jpg",
+      "title": "The Last Detail",
+      "year": 1973
+    },
+    "It's a Wonderful Life": {
+      "id": 1585,
+      "poster": "/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+      "title": "It's a Wonderful Life",
+      "year": 1946
+    },
+    "Where Is the Friend's House?": {
+      "id": 49964,
+      "poster": "/lrrtMVv2X8PNO7UA0Ce0gTtfuC8.jpg",
+      "title": "Where Is The Friend's House?",
+      "year": 1987
+    },
+    "Roma": {
+      "id": 426426,
+      "poster": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+      "title": "Roma",
+      "year": 2018
+    },
+    "Shoplifters": {
+      "id": 505192,
+      "poster": "/4nfRUOv3LX5zLn98WS1WqVBk9E9.jpg",
+      "title": "Shoplifters",
+      "year": 2018
+    },
+    "Woman in the Dunes": {
+      "id": 16672,
+      "poster": "/xiBr3bIT2xpbuIKo5bLK7ebP4O1.jpg",
+      "title": "Woman in the Dunes",
+      "year": 1964
+    },
+    "Bull Durham": {
+      "id": 287,
+      "poster": "/q3T9bO6p74NcTxWOhdUA6fASQ5T.jpg",
+      "title": "Bull Durham",
+      "year": 1988
+    },
+    "Wolf Guy": {
+      "id": 165282,
+      "poster": "/oNQvi7sxrDUwf3ezgXmmmpl543r.jpg",
+      "title": "Wolf Guy",
+      "year": 1975
+    },
+    "Hangmen Also Die!": {
+      "id": 22178,
+      "poster": "/d9J86BpP7NLreJJ9VCbr1SDMRii.jpg",
+      "title": "Hangmen Also Die!",
+      "year": 1943
+    },
+    "The Big Heat": {
+      "id": 14580,
+      "poster": "/ezt6fb4JbghGKmaMzzuMtxpz0Kb.jpg",
+      "title": "The Big Heat",
+      "year": 1953
+    },
+    "Kiss of the Spider Woman": {
+      "id": 11703,
+      "poster": "/lbrn4gOjYKrLrINn3uUJRlV2NZO.jpg",
+      "title": "Kiss of the Spider Woman",
+      "year": 1985
+    },
+    "The Skeleton Twins": {
+      "id": 244772,
+      "poster": "/lDygTdg1KlrVJVzqsFL515uGzSe.jpg",
+      "title": "The Skeleton Twins",
+      "year": 2014
+    },
+    "Diane": {
+      "id": 510034,
+      "poster": "/vQsWX0B6G5wajvCiUh4tmMHd1I8.jpg",
+      "title": "Diane",
+      "year": 2019
+    },
+    "The Big Chill": {
+      "id": 12560,
+      "poster": "/rU8kjMEL5Mn0EWm3gOShPHBEZ4l.jpg",
+      "title": "The Big Chill",
+      "year": 1983
+    },
+    "The Rainmaker": {
+      "id": 11975,
+      "poster": "/twLGHXPjQtS8UyVGp5GXmhJiTM7.jpg",
+      "title": "The Rainmaker",
+      "year": 1997
+    },
+    "Time Out of Mind": {
+      "id": 284294,
+      "poster": "/856FAOM1FrHoxDqVFIUuUIwYOFW.jpg",
+      "title": "Time Out of Mind",
+      "year": 2015
+    },
+    "Hitchcock/Truffaut": {
+      "id": 339751,
+      "poster": "/hzNasVeTKenNnS8eS4EOtQA5TVY.jpg",
+      "title": "Hitchcock/Truffaut",
+      "year": 2015
+    },
+    "Capernaum": {
+      "id": 517814,
+      "poster": "/mFnfTVADj8yOxwzprYOmTPselk8.jpg",
+      "title": "Capernaum",
+      "year": 2018
+    },
+    "The Letter": {
+      "id": 17801,
+      "poster": "/fe43qXp2sRAZbPDKX1puKGEwOon.jpg",
+      "title": "The Letter",
+      "year": 1940
+    },
+    "Jezebel": {
+      "id": 1976,
+      "poster": "/xewvSLrr0Ru6qVMwVqVheFLaGm4.jpg",
+      "title": "Jezebel",
+      "year": 1938
+    },
+    "The Best Years of Our Lives": {
+      "id": 887,
+      "poster": "/gd5EoAU4MM57sW3vlWxJ0NMM8cV.jpg",
+      "title": "The Best Years of Our Lives",
+      "year": 1946
+    },
+    "Certified Copy": {
+      "id": 48303,
+      "poster": "/soBvtCR33Gv1j6gXwXOIc3JTlNc.jpg",
+      "title": "Certified Copy",
+      "year": 2010
+    },
+    "Taxi Driver": {
+      "id": 103,
+      "poster": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "title": "Taxi Driver",
+      "year": 1976
+    },
+    "Raging Bull": {
+      "id": 1578,
+      "poster": "/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
+      "title": "Raging Bull",
+      "year": 1980
+    },
+    "Predator": {
+      "id": 106,
+      "poster": "/aN3cdjIK70KGmD84et8MMblU87Q.jpg",
+      "title": "Predator",
+      "year": 1987
+    },
+    "Police Academy 5: Assignment Miami Beach": {
+      "id": 11825,
+      "poster": "/4m1qfTiVxdEDv0fgUf0FI7CA9Fe.jpg",
+      "title": "Police Academy 5: Assignment Miami Beach",
+      "year": 1988
+    },
+    "Doberman Cop": {
+      "id": 91888,
+      "poster": "/cxtz3BwFZEzyUIF9PPkpB4o4pGy.jpg",
+      "title": "Doberman Cop",
+      "year": 1977
+    },
+    "Hateship Loveship": {
+      "id": 209271,
+      "poster": "/kvdVpjrRREFBCowBhOGs6Tj14ld.jpg",
+      "title": "Hateship Loveship",
+      "year": 2014
+    },
+    "Boyhood": {
+      "id": 85350,
+      "poster": "/2BvtvDUyxiMJ4dmKfiQf4qdOHQN.jpg",
+      "title": "Boyhood",
+      "year": 2014
+    }
+  }
+}

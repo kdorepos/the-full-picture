@@ -1,0 +1,353 @@
+{
+  "slug": "top-five-wes-anderson-movies-and-the-french-dispatch",
+  "title": "Top Five Wes Anderson Movies and ‘The French Dispatch’",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2021-10-22",
+  "runtimeMin": 99,
+  "format": "Sean, Amanda, and Chris Ryan review The French Dispatch, then each bring an individual top-five Wes Anderson list. Later, Sean talks to Mia Hansen-Løve about Bergman Island.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "The French Dispatch",
+      "note": "out this weekend in limited release",
+      "films": [
+        {
+          "title": "The French Dispatch",
+          "year": 2021,
+          "note": "Anderson's first anthology feature, structured like an issue of The New Yorker. Bill Murray plays magazine editor Arthur Howitzer Jr., a Harold Ross-esque figure holding together four stories: Owen Wilson's bicycling reporter piece up top, \"The Concrete Masterpiece\" (Benicio del Toro as an imprisoned artist managed by his guard and lover, played by Léa Seydoux, Sean's favorite of the three), \"Revisions to a Manifesto\" (Frances McDormand and Timothée Chalamet amid the 1968 Paris student protests, Amanda's favorite), and \"The Private Dining Room of the Police Commissioner\" (Jeffrey Wright as a James Baldwin-esque writer narrating a kidnapping story through a talk-show frame, Chris's favorite, and the one he found closest to the Richie Tenenbaum pathos he wants more of from Anderson). All three think any of the three could've carried its own feature; the framing device around Murray's magazine was, for Amanda, the least involving part."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Amanda's Top Five Wes Anderson",
+      "note": "ranked best to worst",
+      "subject": "Wes Anderson",
+      "ranked": true,
+      "films": [
+        {
+          "title": "The Royal Tenenbaums",
+          "year": 2001,
+          "note": "No. 1. Shared with Sean and Chris. The movie where Anderson's whole style arrives fully formed, for Amanda: the real Harlem townhouse he redesigned, the Gene Hackman-powered chaos, and the Nico and Van Morrison needle-drops she still can't separate from the images."
+        },
+        {
+          "title": "The Grand Budapest Hotel",
+          "year": 2014,
+          "note": "No. 2. Shared with Chris, at No. 3 on his list. Amanda's pick for the funniest of the bunch, anchored by Ralph Fiennes' first performance for Anderson. She also argues it invented millennial pink as a design cliché."
+        },
+        {
+          "title": "The Life Aquatic with Steve Zissou",
+          "year": 2004,
+          "note": "No. 3. Shared with Sean (also No. 3) and Chris (No. 2). Amanda thinks this one is underrated in the Bill Murray canon: she loves the Mediterranean setting, the blue leisure suits, and an underrated Anjelica Huston performance."
+        },
+        {
+          "title": "Rushmore",
+          "year": 1998,
+          "note": "No. 4. Not on Chris's list. Amanda came to it after Election, with Tracy Flick as her own Max Fisher reference point, an easier character to find annoying, she says, when you're not a teenage boy."
+        },
+        {
+          "title": "Fantastic Mr. Fox",
+          "year": 2009,
+          "note": "No. 5. Shared with Sean at No. 4. A pick Amanda didn't expect to make. She saw it in a theater with her non-movie-person mother, and both walked out delighted, for what she guesses were different reasons."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Chris's Top Five Wes Anderson",
+      "note": "ranked best to worst",
+      "subject": "Wes Anderson",
+      "ranked": true,
+      "films": [
+        {
+          "title": "The Royal Tenenbaums",
+          "year": 2001,
+          "note": "No. 1. Shared with Sean and Amanda. Chris still calls it Anderson's masterpiece, the best mix of drama and comedy, with Gene Hackman's Royal as the engine of the whole movie."
+        },
+        {
+          "title": "The Life Aquatic with Steve Zissou",
+          "year": 2004,
+          "note": "No. 2. Shared with Sean and Amanda (both No. 3). Chris's pick for where Anderson's emotional side and his built-world instincts fuse most effectively. Willem Dafoe's surrogate-son turn and a very funny Jeff Goldblum both stood out on rewatch."
+        },
+        {
+          "title": "The Grand Budapest Hotel",
+          "year": 2014,
+          "note": "No. 3. Shared with Amanda, at No. 2 on her list."
+        },
+        {
+          "title": "Bottle Rocket",
+          "year": 1996,
+          "note": "No. 4. Changed at the last second after his original pick doubled up with Amanda and Sean. Anderson's cheap, scrappy first feature, the one that got him noticed by James L. Brooks and Martin Scorsese, with the Owen-and-Luke-Wilson rhythm already intact."
+        },
+        {
+          "title": "The Darjeeling Limited",
+          "year": 2007,
+          "note": "No. 5. Chris calls it the most maligned and the most emotionally probing entry in the filmography: three drug-addled brothers (Owen Wilson, Adrien Brody, Jason Schwartzman) on a train through India after their father's death, built around a flashback funeral sequence he considers one of Anderson's best."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Sean's Top Five Wes Anderson",
+      "note": "ranked best to worst",
+      "subject": "Wes Anderson",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Rushmore",
+          "year": 1998,
+          "note": "No. 1. One of the five most important movies Sean saw as a teenager. Max Fisher is, to him, still Anderson's most damaged and sociopathic creation, working through his mother's death via insecurity and elaborate schemes. Bill Murray's Herman Blume, the Mark Mothersbaugh score, and The Creation's needle drop over the group's dirty tricks all still land."
+        },
+        {
+          "title": "The Royal Tenenbaums",
+          "year": 2001,
+          "note": "No. 2. Shared with Amanda and Chris at No. 1. Sean calls it Anderson's masterpiece: the deepest cast of performances, with Gene Hackman's Royal as the engine (the two reportedly didn't get along on set) and the closet screaming match with Chaz as the movie's best scene."
+        },
+        {
+          "title": "The Life Aquatic with Steve Zissou",
+          "year": 2004,
+          "note": "No. 3. Shared with Amanda (also No. 3) and Chris (No. 2). Sean's pick for Anderson's biggest swing: the built ship, the Henry Selick stop-motion creatures, and a Jacques Cousteau-esque figure forced to choose between family and work."
+        },
+        {
+          "title": "Fantastic Mr. Fox",
+          "year": 2009,
+          "note": "No. 4. Shared with Amanda at No. 5. One of the best animated films of the century in Sean's view, and one of Anderson's most mature: a story about middle age and thwarted ambition filtered through Roald Dahl and Jason Schwartzman's son character."
+        },
+        {
+          "title": "Moonrise Kingdom",
+          "year": 2012,
+          "note": "No. 5. Not on Amanda's or Chris's list. Sean calls it the one people forget about: a melancholy kids' movie about two 12-year-olds falling in love, built out of Boy Scout Texas childhood and broken-family themes."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "note": "on Bergman Island",
+      "guest": "Mia Hansen-Løve on",
+      "films": [
+        {
+          "title": "Bergman Island",
+          "year": 2021,
+          "note": "Shot across two separate summers (2018 and 2019) on Fårö, the island where Ingmar Bergman lived and worked. Hansen-Løve says the idea took root after she saw a book made from the auction of Bergman's estate. The film pairs a filmmaking couple (Vicky Krieps and Tim Roth) with a film-within-the-film starring Mia Wasikowska and Anders Danielsen Lie, and closes on ABBA's \"The Winner Takes It All.\""
+        },
+        {
+          "title": "First Cow",
+          "year": 2020,
+          "note": "Her answer to the show's closing question about the last great film she'd seen, and, unprompted, Sean's pick for a Bergman Island double feature."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "More Wes Anderson, in passing",
+      "films": [
+        "Isle of Dogs",
+        "Asteroid City"
+      ]
+    },
+    {
+      "group": "Beyond Wes Anderson, in passing",
+      "films": [
+        "Crimson Tide",
+        "Willy Wonka & the Chocolate Factory",
+        "Matilda",
+        "Election",
+        "Burnt",
+        "Godzilla vs. Kong"
+      ]
+    },
+    {
+      "group": "Bergman and beyond, from the interview",
+      "films": [
+        "Saraband",
+        "The Seventh Seal",
+        "Cries and Whispers",
+        "Summer with Monika",
+        "Goodbye First Love",
+        "Eden"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "The French Dispatch": 542178,
+    "Election": 9451,
+    "Eden": 283330,
+    "Saraband": 55650
+  },
+  "excluded": {
+    "TV": [
+      "Succession"
+    ],
+    "Podcasts": [
+      "You Must Remember This",
+      "60 Songs That Explain the '90s"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "Netflix (FIFA World Cup Launch Edition)",
+      "Carvana",
+      "NOS Energy"
+    ]
+  },
+  "tmdb": {
+    "The French Dispatch": {
+      "id": 542178,
+      "poster": "/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg",
+      "title": "The French Dispatch of the Liberty, Kansas Evening Sun",
+      "year": 2021
+    },
+    "The Royal Tenenbaums": {
+      "id": 9428,
+      "poster": "/nG7hZJn7wQTSDCQT39Gy3s3tbrp.jpg",
+      "title": "The Royal Tenenbaums",
+      "year": 2001
+    },
+    "The Grand Budapest Hotel": {
+      "id": 120467,
+      "poster": "/zOVCqKUzjFKqa1eDMcOzvXwthY4.jpg",
+      "title": "The Grand Budapest Hotel",
+      "year": 2014
+    },
+    "The Life Aquatic with Steve Zissou": {
+      "id": 421,
+      "poster": "/qZoFLNBC78jzboWeDH6Ha0qavF2.jpg",
+      "title": "The Life Aquatic with Steve Zissou",
+      "year": 2004
+    },
+    "Rushmore": {
+      "id": 11545,
+      "poster": "/hSJ6swahAuZ8wM96lHDTwQPXUvZ.jpg",
+      "title": "Rushmore",
+      "year": 1998
+    },
+    "Fantastic Mr. Fox": {
+      "id": 10315,
+      "poster": "/euZyZb6iGreujYKrGyZHRddhUYh.jpg",
+      "title": "Fantastic Mr. Fox",
+      "year": 2009
+    },
+    "Bottle Rocket": {
+      "id": 13685,
+      "poster": "/6E7mJ5wpzTFbYFbJvTzzZ8Til9C.jpg",
+      "title": "Bottle Rocket",
+      "year": 1996
+    },
+    "The Darjeeling Limited": {
+      "id": 4538,
+      "poster": "/oSW5OVXTulaIXcoNwJAp5YEKpbP.jpg",
+      "title": "The Darjeeling Limited",
+      "year": 2007
+    },
+    "Moonrise Kingdom": {
+      "id": 83666,
+      "poster": "/y4SXcbNl6CEF2t36icuzuBioj7K.jpg",
+      "title": "Moonrise Kingdom",
+      "year": 2012
+    },
+    "Bergman Island": {
+      "id": 477044,
+      "poster": "/q8bQfC7SbaTDVKywhCiNL3ZVSyy.jpg",
+      "title": "Bergman Island",
+      "year": 2021
+    },
+    "First Cow": {
+      "id": 558582,
+      "poster": "/yS41crZ1i0fFxCQbuL7I1Y1VBwm.jpg",
+      "title": "First Cow",
+      "year": 2020
+    },
+    "Isle of Dogs": {
+      "id": 399174,
+      "poster": "/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg",
+      "title": "Isle of Dogs",
+      "year": 2018
+    },
+    "Asteroid City": {
+      "id": 747188,
+      "poster": "/hfo7pvL9Fys7rocfL4VOzw9qDEQ.jpg",
+      "title": "Asteroid City",
+      "year": 2023
+    },
+    "Crimson Tide": {
+      "id": 8963,
+      "poster": "/21nqRJ6ofEgVvEl68J4O9V26Xzy.jpg",
+      "title": "Crimson Tide",
+      "year": 1995
+    },
+    "Willy Wonka & the Chocolate Factory": {
+      "id": 252,
+      "poster": "/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg",
+      "title": "Willy Wonka & the Chocolate Factory",
+      "year": 1971
+    },
+    "Matilda": {
+      "id": 10830,
+      "poster": "/wYoDpWInsBEVSmWStnRH06ddoyk.jpg",
+      "title": "Matilda",
+      "year": 1996
+    },
+    "Election": {
+      "id": 9451,
+      "poster": "/fbo0IYzBc32dD5SjFzKIgfp4O4F.jpg",
+      "title": "Election",
+      "year": 1999
+    },
+    "Burnt": {
+      "id": 295964,
+      "poster": "/iptu4zfvbeULkeuoVkTl2mOqTPS.jpg",
+      "title": "Burnt",
+      "year": 2015
+    },
+    "Godzilla vs. Kong": {
+      "id": 399566,
+      "poster": "/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+      "title": "Godzilla vs. Kong",
+      "year": 2021
+    },
+    "Saraband": {
+      "id": 55650,
+      "poster": "/8Lt35scCMOh3HhnG81Ndc6dhazA.jpg",
+      "title": "Saraband",
+      "year": 2003
+    },
+    "The Seventh Seal": {
+      "id": 490,
+      "poster": "/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
+      "title": "The Seventh Seal",
+      "year": 1957
+    },
+    "Cries and Whispers": {
+      "id": 10238,
+      "poster": "/a1bMgB09YDvvRN9SitCclUYragr.jpg",
+      "title": "Cries and Whispers",
+      "year": 1972
+    },
+    "Summer with Monika": {
+      "id": 47735,
+      "poster": "/82hLsn67V9TjgrLOZCFL7247pJd.jpg",
+      "title": "Summer with Monika",
+      "year": 1953
+    },
+    "Goodbye First Love": {
+      "id": 82327,
+      "poster": "/qj1P2hZJxMO3bXiC39JxbTWTNa5.jpg",
+      "title": "Goodbye First Love",
+      "year": 2011
+    },
+    "Eden": {
+      "id": 283330,
+      "poster": "/9Cy49FxqqcW4ybj1EWtTaahRIRv.jpg",
+      "title": "Eden",
+      "year": 2014
+    }
+  },
+  "spotifyEpisodeId": "45Pff3Ix9S1WpjCMz7ncvq"
+}

@@ -1,0 +1,239 @@
+{
+  "slug": "we-went-back-to-the-movies-to-see-a-quiet-place-part-ii-and-",
+  "title": "We Went Back to the Movies to See ‘A Quiet Place Part II’! And It Rocked.",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2021-06-01",
+  "runtimeMin": 69,
+  "format": "Sean and Amanda's first trips back to an actual theater since the shutdown, then a full spoiler dive on 'A Quiet Place Part II' — the bear traps, the oxygen math, and whether the sequel earns its scale.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Back at the Movies",
+      "note": "first trips back since the shutdown",
+      "films": [
+        {
+          "title": "A Quiet Place Part II",
+          "year": 2021,
+          "note": "Seen in the Dolby room at an AMC — the loud, big-screen return they'd been waiting for."
+        },
+        {
+          "title": "In the Heights",
+          "year": 2021,
+          "note": "Caught at a Warner Bros. lot screening room; gets its own movie-musical episode in a couple weeks."
+        },
+        {
+          "title": "Spiral",
+          "year": 2021,
+          "note": "The eighth or ninth 'Saw' movie, not well reviewed, but a tight 93 minutes with Chris Rock and Samuel L. Jackson — fun on an IMAX screen anyway."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "A Quiet Place Part II",
+      "note": "spoilers from here on",
+      "films": [
+        {
+          "title": "A Quiet Place Part II",
+          "year": 2021,
+          "note": "A prequel-cold-open into a direct pickup from the first film's cliffhanger. More alien than the original, but Krasinski keeps the scale mostly contained to one family — plus Cillian Murphy's grieving survivor and a boat chase with a mute Scoot McNairy. The oxygen-canister math for the newborn is the whole podcast's real source of anxiety. Held to theaters exclusively for 45 days before Paramount+, a shorter window than Krasinski and Emily Blunt reportedly wanted."
+        },
+        {
+          "title": "A Quiet Place",
+          "year": 2018,
+          "note": "The standalone original — five characters, a clean ending, the benchmark the sequel keeps getting measured against."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Paramount's shuffled slate",
+      "films": [
+        "Coming 2 America",
+        "The Trial of the Chicago 7",
+        "Without Remorse",
+        "The Lovebirds",
+        "Top Gun",
+        "Top Gun: Maverick"
+      ]
+    },
+    {
+      "group": "Reopening comps",
+      "films": [
+        "Godzilla vs. Kong",
+        "Tenet"
+      ]
+    },
+    {
+      "group": "Spielberg's fingerprints",
+      "films": [
+        "Jaws",
+        "Jurassic Park"
+      ]
+    },
+    {
+      "group": "Also namechecked",
+      "films": [
+        "Brief Interviews with Hideous Men",
+        "The Irishman",
+        "Cruella",
+        "F9",
+        "The Conjuring: The Devil Made Me Do It",
+        "The SpongeBob Movie: Sponge on the Run",
+        "The Rugrats Movie"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Challenge: All Stars",
+      "Girls5eva",
+      "Star Trek: Picard",
+      "Stranger Things",
+      "Rugrats"
+    ],
+    "Podcasts": [
+      "Sound Only",
+      "Ringer Dish"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "NOS Energy",
+      "Talk About PD"
+    ]
+  },
+  "tmdb": {
+    "A Quiet Place Part II": {
+      "id": 520763,
+      "poster": "/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",
+      "title": "A Quiet Place Part II",
+      "year": 2021
+    },
+    "In the Heights": {
+      "id": 467909,
+      "poster": "/RO4KoJyoQMQzh9z76d4v4FJMmJ.jpg",
+      "title": "In the Heights",
+      "year": 2021
+    },
+    "Spiral": {
+      "id": 940997,
+      "poster": "/nH5RSujFWZiSly0s9gjI99DmsHB.jpg",
+      "title": "Spiral",
+      "year": 2021
+    },
+    "A Quiet Place": {
+      "id": 447332,
+      "poster": "/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+      "title": "A Quiet Place",
+      "year": 2018
+    },
+    "Coming 2 America": {
+      "id": 484718,
+      "poster": "/nWBPLkqNApY5pgrJFMiI9joSI30.jpg",
+      "title": "Coming 2 America",
+      "year": 2021
+    },
+    "The Trial of the Chicago 7": {
+      "id": 556984,
+      "poster": "/ahf5cVdooMAlDRiJOZQNuLqa1Is.jpg",
+      "title": "The Trial of the Chicago 7",
+      "year": 2020
+    },
+    "Without Remorse": {
+      "id": 1280790,
+      "poster": "/h5KVPn1P74eCvXDqMeLoXvb1yiX.jpg",
+      "title": "Without Remorse",
+      "year": null
+    },
+    "The Lovebirds": {
+      "id": 576156,
+      "poster": "/5jdLnvALCpK1NkeQU1z4YvOe2dZ.jpg",
+      "title": "The Lovebirds",
+      "year": 2020
+    },
+    "Top Gun": {
+      "id": 744,
+      "poster": "/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+      "title": "Top Gun",
+      "year": 1986
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Godzilla vs. Kong": {
+      "id": 399566,
+      "poster": "/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+      "title": "Godzilla vs. Kong",
+      "year": 2021
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "Jaws": {
+      "id": 578,
+      "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "title": "Jaws",
+      "year": 1975
+    },
+    "Jurassic Park": {
+      "id": 329,
+      "poster": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "title": "Jurassic Park",
+      "year": 1993
+    },
+    "Brief Interviews with Hideous Men": {
+      "id": 29151,
+      "poster": "/zCPz6WJLs4WAHcLnwbHfkiO578O.jpg",
+      "title": "Brief Interviews with Hideous Men",
+      "year": 2009
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Cruella": {
+      "id": 337404,
+      "poster": "/hjS9mH8KvRiGHgjk6VUZH7OT0Ng.jpg",
+      "title": "Cruella",
+      "year": 2021
+    },
+    "F9": {
+      "id": 385128,
+      "poster": "/deEmLILTPejEb6OGsXRJ5MCvyDW.jpg",
+      "title": "F9",
+      "year": 2021
+    },
+    "The Conjuring: The Devil Made Me Do It": {
+      "id": 423108,
+      "poster": "/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg",
+      "title": "The Conjuring: The Devil Made Me Do It",
+      "year": 2021
+    },
+    "The SpongeBob Movie: Sponge on the Run": {
+      "id": 400160,
+      "poster": "/jlJ8nDhMhCYJuzOw3f52CP1W8MW.jpg",
+      "title": "The SpongeBob Movie: Sponge on the Run",
+      "year": 2020
+    },
+    "The Rugrats Movie": {
+      "id": 14444,
+      "poster": "/uZejGKCSd6nwfMx8U0Td37U2fTc.jpg",
+      "title": "The Rugrats Movie",
+      "year": 1998
+    }
+  }
+}

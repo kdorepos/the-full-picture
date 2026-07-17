@@ -29,7 +29,7 @@
         {
           "title": "Mulan",
           "year": 2020,
-          "note": "Now technically the first wide theatrical release, July 24 — neither host expects that date to hold."
+          "note": "Now technically the first wide theatrical release, July 24, though neither host expects that date to hold."
         },
         {
           "title": "Wonder Woman 1984",
@@ -168,7 +168,9 @@
       "group": "In passing",
       "films": [
         "Dunkirk",
-        "Ender's Game"
+        "Ender's Game",
+        "Moonlight",
+        "Green Book"
       ]
     }
   ],

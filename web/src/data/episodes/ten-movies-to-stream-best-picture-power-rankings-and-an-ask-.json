@@ -19,7 +19,7 @@
         {
           "title": "Being the Ricardos",
           "year": 2021,
-          "note": "The Ace Eddie nominee they agree is 'the ultimate SAG movie' - built for guild recognition even if neither is a fan."
+          "note": "The Ace Eddie nominee they agree is 'the ultimate SAG movie,' built for guild recognition even if neither is a fan."
         },
         {
           "title": "Belfast",
@@ -34,7 +34,7 @@
         {
           "title": "Don't Look Up",
           "year": 2021,
-          "note": "Sean's pick for the contender in the most comfortable position - a streaming event movie from a filmmaker (Adam McKay) on his third straight awards-season run."
+          "note": "Sean's pick for the contender in the most comfortable position: a streaming event movie from a filmmaker (Adam McKay) on his third straight awards-season run."
         },
         {
           "title": "Dune",
@@ -69,7 +69,7 @@
         {
           "title": "Spider-Man: No Way Home",
           "year": 2021,
-          "note": "Missed the PGA's top 10 - the group that historically rewards a blockbuster - which Sean reads as a bad sign for its Best Picture chances."
+          "note": "Missed the PGA's top 10 (the group that historically rewards a blockbuster), which Sean reads as a bad sign for its Best Picture chances."
         },
         {
           "title": "No Time to Die",
@@ -94,7 +94,7 @@
         {
           "title": "House of Gucci",
           "year": 2021,
-          "note": "Sean eulogizes it - 'pour out a gigantic magnum of Barolo' - after it missed the PGA nominations entirely."
+          "note": "Sean eulogizes it ('pour out a gigantic magnum of Barolo') after it missed the PGA nominations entirely."
         },
         {
           "title": "Nightmare Alley",
@@ -153,7 +153,7 @@
         {
           "title": "The Lost Daughter",
           "year": 2021,
-          "note": "Amanda swaps this in for Tick, Tick... Boom! - the one change she makes from the PGA lineup."
+          "note": "Amanda swaps this in for Tick, Tick... Boom!, the one change she makes from the PGA lineup."
         },
         {
           "title": "West Side Story",
@@ -261,7 +261,7 @@
         {
           "title": "Spencer",
           "year": 2021,
-          "note": "Amanda's dream-biopic answer starts here - 'Spencer wasn't it for me' - before she pitches an Agatha Christie biopic instead."
+          "note": "Amanda's dream-biopic answer starts with 'Spencer wasn't it for me,' before she pitches an Agatha Christie biopic instead."
         },
         {
           "title": "The American President",
@@ -341,7 +341,7 @@
         {
           "title": "Top Gun: Maverick",
           "year": 2022,
-          "note": "Referenced via the movie-draft-rules blowup - Amanda's 'fealty to Maverick' when Sean bent the rules on a past auction."
+          "note": "Referenced via the movie-draft-rules blowup: Amanda's 'fealty to Maverick' when Sean bent the rules on a past auction."
         },
         {
           "title": "Heat",
@@ -389,7 +389,9 @@
     ]
   },
   "tmdbOverrides": {
-    "The French Dispatch": 542178
+    "The French Dispatch": 542178,
+    "Swan Song": 765245,
+    "Borat Subsequent Moviefilm": 740985
   },
   "tmdb": {
     "Being the Ricardos": {
@@ -525,8 +527,8 @@
       "year": 2021
     },
     "Swan Song": {
-      "id": 794602,
-      "poster": "/wvjlNWpwtAwVksnMirtNKohf1kh.jpg",
+      "id": 765245,
+      "poster": "/zzCdikGD9Qa5NT8lZtUv9dXNgsm.jpg",
       "title": "Swan Song",
       "year": 2021
     },
@@ -764,7 +766,12 @@
       "title": "Maestro",
       "year": 2023
     },
-    "Borat Subsequent Moviefilm": null,
+    "Borat Subsequent Moviefilm": {
+      "id": 740985,
+      "poster": "/3L1Ml5RWjFVfVq3rQENvgFymT0U.jpg",
+      "title": "Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan",
+      "year": 2020
+    },
     "Knives Out": {
       "id": 546554,
       "poster": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",

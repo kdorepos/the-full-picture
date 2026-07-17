@@ -1,0 +1,147 @@
+{
+  "slug": "5-nothing-is-over-do-we-get-to-win-this-time",
+  "title": "5. Nothing Is Over | Do We Get to Win This Time?",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Brian Raftery"
+  ],
+  "published": "2023-08-18",
+  "runtimeMin": 47,
+  "format": "The Vietnam-on-film series traces how First Blood turned a doomed-vet novel into a franchise, and how the POW-rescue movies let Reagan-era audiences re-fight the war.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "How Hollywood Made the Vietnam War",
+      "note": "First Blood and the Vetsploitation wave",
+      "films": [
+        {
+          "title": "The Deer Hunter",
+          "year": 1978,
+          "note": "The 1979 screening that shook vet Jan Scruggs and set him on the path to the Vietnam memorial wall."
+        },
+        {
+          "title": "First Blood",
+          "year": 1982,
+          "note": "David Morrell's novel adapted for the screen by Kotcheff and Stallone, who flipped the ending so Rambo survives instead of dying with Teasle as in the book."
+        },
+        {
+          "title": "North Dallas Forty",
+          "year": 1979,
+          "note": "Cited as one end of director Ted Kotcheff's range before First Blood."
+        },
+        {
+          "title": "Fun with Dick and Jane",
+          "year": 1977,
+          "note": "The Jane Fonda caper, cited as the other end of Kotcheff's filmography."
+        },
+        {
+          "title": "Uncommon Valor",
+          "year": 1983,
+          "note": "Kotcheff's follow-up; Gene Hackman leads a POW-rescue mission. Paramount recut the marketing to sell it as feel-good after fans said they liked it because 'we get to win the Vietnam War.'"
+        },
+        {
+          "title": "Missing in Action",
+          "year": 1984,
+          "note": "Chuck Norris as Braddock returning to free POWs; Norris's brother Wieland was killed in Vietnam in 1970."
+        },
+        {
+          "title": "Rambo: First Blood Part II",
+          "year": 1985,
+          "note": "James Cameron drafted the script, Stallone revised it; Julia Nixon plays Co. A number-one hit that Reagan quoted and that vets picketed as pro-war propaganda."
+        },
+        {
+          "title": "Cobra",
+          "year": 1986,
+          "note": "Cited as director George P. Cosmatos's later collaboration with Stallone."
+        },
+        {
+          "title": "Strike Commando",
+          "year": 1987,
+          "note": "Named as one of the Vetsploitation knockoffs that filled 80s video-store shelves."
+        },
+        {
+          "title": "Deadly Prey",
+          "year": 1987,
+          "note": "Another Vetsploitation title cited in the same breath as Strike Commando."
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Magnum, P.I.",
+      "Hawaii Five-0"
+    ],
+    "Ads": [
+      "Carvana",
+      "Netflix FIFA World Cup Launch Edition",
+      "Boar's Head",
+      "22 Goals",
+      "Just Like Us",
+      "Gene and Roger"
+    ]
+  },
+  "tmdb": {
+    "The Deer Hunter": {
+      "id": 11778,
+      "poster": "/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
+      "title": "The Deer Hunter",
+      "year": 1978
+    },
+    "First Blood": {
+      "id": 1368,
+      "poster": "/a9sa6ERZCpplbPEO7OMWE763CLD.jpg",
+      "title": "First Blood",
+      "year": 1982
+    },
+    "North Dallas Forty": {
+      "id": 29786,
+      "poster": "/5e9IeZPFmApZZ37ixq9QhYZXURq.jpg",
+      "title": "North Dallas Forty",
+      "year": 1979
+    },
+    "Fun with Dick and Jane": {
+      "id": 24109,
+      "poster": "/obBXkCU29eRzbVX5erjrAxugOpN.jpg",
+      "title": "Fun with Dick and Jane",
+      "year": 1977
+    },
+    "Uncommon Valor": {
+      "id": 9967,
+      "poster": "/92gPncxWevFlPLOz0a0uoob7jFL.jpg",
+      "title": "Uncommon Valor",
+      "year": 1983
+    },
+    "Missing in Action": {
+      "id": 15379,
+      "poster": "/nBrDcnNQca88ed1gRwZ1Q5cjNxE.jpg",
+      "title": "Missing in Action",
+      "year": 1984
+    },
+    "Rambo: First Blood Part II": {
+      "id": 1369,
+      "poster": "/fVwRtWqEPdsCH21BVDGqgkAQcff.jpg",
+      "title": "Rambo: First Blood Part II",
+      "year": 1985
+    },
+    "Cobra": {
+      "id": 9874,
+      "poster": "/jCxfbTh8JvJil5edhNywxaTHoWv.jpg",
+      "title": "Cobra",
+      "year": 1986
+    },
+    "Strike Commando": {
+      "id": 86251,
+      "poster": "/bwjLhZ781E6tOHPT3TEaAjcUU7e.jpg",
+      "title": "Strike Commando",
+      "year": 1987
+    },
+    "Deadly Prey": {
+      "id": 5753,
+      "poster": "/aG4hUQ0vw56B1zx0YJJKhaMR1DT.jpg",
+      "title": "Deadly Prey",
+      "year": 1987
+    }
+  }
+}

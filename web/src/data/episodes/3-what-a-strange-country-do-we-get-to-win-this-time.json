@@ -1,0 +1,280 @@
+{
+  "slug": "3-what-a-strange-country-do-we-get-to-win-this-time",
+  "title": "3. What a Strange Country | Do We Get to Win This Time?",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Brian Raftery"
+  ],
+  "published": "2023-08-14",
+  "runtimeMin": 48,
+  "format": "Brian Raftery's Vietnam-film history reaches 1978, when The Deer Hunter and Coming Home dragged the war onto the big screen and split the Oscars between them.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "How Hollywood brought Vietnam to the screen",
+      "note": "1977-79, told through the films that fought over the war",
+      "films": [
+        {
+          "title": "The Deer Hunter",
+          "year": 1978,
+          "note": "Michael Cimino's three-hour epic, built entirely to reach its Russian roulette scene. De Niro, Walken, Savage, Cazale and Streep; nearly four hours in Cimino's cut before Verna Fields was secretly hired to trim it. Won Best Picture and Best Director at the 51st Oscars."
+        },
+        {
+          "title": "Coming Home",
+          "year": 1978,
+          "note": "Jane Fonda's five-year passion project, from a love triangle between a paralyzed vet (Jon Voight) and her angry husband (Bruce Dern). Directed by Hal Ashby. Won acting Oscars for Fonda and Voight plus original screenplay."
+        },
+        {
+          "title": "The Green Berets",
+          "year": 1968,
+          "note": "John Wayne's pro-war film, the old model the '78 films were reacting against; the military lent Wayne equipment it later denied Coming Home."
+        },
+        {
+          "title": "Twilight's Last Gleaming",
+          "year": 1977,
+          "note": "Robert Aldrich's missile-silo thriller with Burt Lancaster as a POW blackmailing the president over Vietnam. Its ads never said the word 'Vietnam.'"
+        },
+        {
+          "title": "Heroes",
+          "year": 1977,
+          "note": "Henry Winkler as a struggling vet, sold as a Fonz-and-Sally-Field rom-com to hide the war."
+        },
+        {
+          "title": "Big Wednesday",
+          "year": 1978,
+          "note": "John Milius's surf coming-of-age epic (Busey, Katt, Jan-Michael Vincent) with Vietnam in the background, marketed as a feel-good beach movie."
+        },
+        {
+          "title": "Soldier Blue",
+          "year": 1970,
+          "note": "Referenced from the previous episode as a cavalry-vs-Native-Americans western read as a Vietnam allegory."
+        },
+        {
+          "title": "Ulzana's Raid",
+          "year": 1972,
+          "note": "Aldrich and Lancaster's harsh cavalry western, another Vietnam allegory."
+        },
+        {
+          "title": "F.T.A.",
+          "year": 1972,
+          "note": "Fonda and Donald Sutherland's anti-war revue documentary; pulled from theaters after her North Vietnam trip."
+        },
+        {
+          "title": "Midnight Express",
+          "year": 1978,
+          "note": "Won adapted screenplay for a young veteran named Oliver Stone, whose own Vietnam scripts were still stalled."
+        },
+        {
+          "title": "Born on the Fourth of July",
+          "year": 1989,
+          "note": "One of Stone's two Vietnam projects stuck in development limbo in 1979."
+        },
+        {
+          "title": "Platoon",
+          "year": 1986,
+          "note": "Stone's other stalled Vietnam script, then titled 'The Platoon.'"
+        },
+        {
+          "title": "Apocalypse Now",
+          "year": 1979,
+          "note": "Teased at the close: Coppola, on the Oscar stage, still trying to finish the decade's maddest Vietnam film."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Easy Rider",
+        "Car Wash",
+        "Thunderbolt and Lightfoot",
+        "Silent Running",
+        "Barbarella",
+        "Klute",
+        "The Grapes of Wrath",
+        "My Darling Clementine",
+        "The Last Detail",
+        "Jaws",
+        "Saturday Night Fever",
+        "Midnight Cowboy",
+        "Cleopatra"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Tonight Show Starring Johnny Carson",
+      "The Barbara Walters interview (1988)"
+    ],
+    "Podcasts": [
+      "22 Goals",
+      "Just Like Us",
+      "Gene and Roger"
+    ],
+    "Ads": [
+      "Carvana",
+      "Boar's Head",
+      "FIFA World Cup Launch Edition (Netflix)"
+    ]
+  },
+  "tmdb": {
+    "The Deer Hunter": {
+      "id": 11778,
+      "poster": "/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
+      "title": "The Deer Hunter",
+      "year": 1978
+    },
+    "Coming Home": {
+      "id": 31657,
+      "poster": "/jBsYWNBYNEi5EhT1hC8iexcTsWT.jpg",
+      "title": "Coming Home",
+      "year": 1978
+    },
+    "The Green Berets": {
+      "id": 22377,
+      "poster": "/c5WG23iqf3RakGOTjZnBATbYM1f.jpg",
+      "title": "The Green Berets",
+      "year": 1968
+    },
+    "Twilight's Last Gleaming": {
+      "id": 75938,
+      "poster": "/1qVUuzYepmj3lGyTgM43gztCH14.jpg",
+      "title": "Twilight's Last Gleaming",
+      "year": 1977
+    },
+    "Heroes": {
+      "id": 83061,
+      "poster": "/ixScBPEizfgCM7BogZTpx3jgdVx.jpg",
+      "title": "Heroes",
+      "year": 1977
+    },
+    "Big Wednesday": {
+      "id": 18387,
+      "poster": "/zMOZoNszmmlf3jUivDUEFgCrReo.jpg",
+      "title": "Big Wednesday",
+      "year": 1978
+    },
+    "Soldier Blue": {
+      "id": 14384,
+      "poster": "/2fRfVQpdrjAhvxwytG0scOqdQOJ.jpg",
+      "title": "Soldier Blue",
+      "year": 1970
+    },
+    "Ulzana's Raid": {
+      "id": 42491,
+      "poster": "/mftnQcqDDFEIOLc8M4rA626MaEC.jpg",
+      "title": "Ulzana's Raid",
+      "year": 1972
+    },
+    "F.T.A.": {
+      "id": 102812,
+      "poster": "/yndNTKkNsHO3EILi5dma2RxC8Hn.jpg",
+      "title": "FTA",
+      "year": 1972
+    },
+    "Midnight Express": {
+      "id": 11327,
+      "poster": "/6GXioArQEdxcYqOcEfMdpyJPlwx.jpg",
+      "title": "Midnight Express",
+      "year": 1978
+    },
+    "Born on the Fourth of July": {
+      "id": 2604,
+      "poster": "/c5gSie6ZA90iBs62yNM5MV4y9R7.jpg",
+      "title": "Born on the Fourth of July",
+      "year": 1989
+    },
+    "Platoon": {
+      "id": 792,
+      "poster": "/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg",
+      "title": "Platoon",
+      "year": 1986
+    },
+    "Apocalypse Now": {
+      "id": 28,
+      "poster": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "title": "Apocalypse Now",
+      "year": 1979
+    },
+    "Easy Rider": {
+      "id": 624,
+      "poster": "/3H3vwPGX6EbBRffIVHp3eHHcjka.jpg",
+      "title": "Easy Rider",
+      "year": 1969
+    },
+    "Car Wash": {
+      "id": 15462,
+      "poster": "/bty0IdXh4l2BmoQNVeAH5PYKrMK.jpg",
+      "title": "Car Wash",
+      "year": 1976
+    },
+    "Thunderbolt and Lightfoot": {
+      "id": 8348,
+      "poster": "/530RZ2HsxAgKVO4joNFjAgucbri.jpg",
+      "title": "Thunderbolt and Lightfoot",
+      "year": 1974
+    },
+    "Silent Running": {
+      "id": 811,
+      "poster": "/ahasZ5HILZHtlrl6cbXgpfk0y8H.jpg",
+      "title": "Silent Running",
+      "year": 1972
+    },
+    "Barbarella": {
+      "id": 8069,
+      "poster": "/facTz5BZz4AkJal1FWgjYciekih.jpg",
+      "title": "Barbarella",
+      "year": 1968
+    },
+    "Klute": {
+      "id": 466,
+      "poster": "/tVyINAsNGSgD1OIstqwCcs7wyGH.jpg",
+      "title": "Klute",
+      "year": 1971
+    },
+    "The Grapes of Wrath": {
+      "id": 596,
+      "poster": "/eUcxMVBIA0Jg8l1RGUqycrc3eIQ.jpg",
+      "title": "The Grapes of Wrath",
+      "year": 1940
+    },
+    "My Darling Clementine": {
+      "id": 3088,
+      "poster": "/o7G5klSt9i8LQZdUNvrWUJbbxAO.jpg",
+      "title": "My Darling Clementine",
+      "year": 1946
+    },
+    "The Last Detail": {
+      "id": 14886,
+      "poster": "/zQoNkO99qfaBjh5aoA0pKau1prp.jpg",
+      "title": "The Last Detail",
+      "year": 1973
+    },
+    "Jaws": {
+      "id": 578,
+      "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "title": "Jaws",
+      "year": 1975
+    },
+    "Saturday Night Fever": {
+      "id": 11009,
+      "poster": "/ylA7E5Md21aqgzxbwa2dFxX8LKV.jpg",
+      "title": "Saturday Night Fever",
+      "year": 1977
+    },
+    "Midnight Cowboy": {
+      "id": 3116,
+      "poster": "/ckklq45UxUkwgHve9xItXqXr06r.jpg",
+      "title": "Midnight Cowboy",
+      "year": 1969
+    },
+    "Cleopatra": {
+      "id": 8095,
+      "poster": "/bj7rUGUewofA9cpHt1h36gvDFfy.jpg",
+      "title": "Cleopatra",
+      "year": 1963
+    }
+  }
+}

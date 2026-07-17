@@ -1,0 +1,464 @@
+{
+  "slug": "introducing-the-2021-movie-auction",
+  "title": "Introducing the 2021 Movie Auction",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2021-04-16",
+  "runtimeMin": 89,
+  "format": "The first movie auction. After mourning the ArcLight's closure and a rules primer from Danny Heifetz, Sean, Amanda, and Chris each get $1,000 to buy five upcoming 2021 films. Bobby Wagner keeps the books.",
+  "segments": [
+    {
+      "kind": "auction",
+      "heading": "The paddles",
+      "saleLabel": "Inaugural sale · 2021",
+      "slates": [
+        {
+          "host": "Sean Fennessey",
+          "spent": 917,
+          "budgetLeft": 83,
+          "picks": [
+            {
+              "title": "The Matrix Resurrections",
+              "year": 2021,
+              "price": 355,
+              "note": "Sean's costliest lot, run up by Chris out of pure mischief. Lana Wachowski returns with Keanu Reeves and Yahya Abdul-Mateen II."
+            },
+            {
+              "title": "Top Gun: Maverick",
+              "year": 2022,
+              "price": 255,
+              "note": "Amanda nominated it to bait a bidding war, then let Sean have it. Tom Cruise, Miles Teller, Glen Powell, Jon Hamm."
+            },
+            {
+              "title": "Dune",
+              "year": 2021,
+              "price": 225,
+              "note": "Denis Villeneuve's Frank Herbert adaptation with Timothée Chalamet. Chris tapped out and later regretted it."
+            },
+            {
+              "title": "Black Widow",
+              "year": 2021,
+              "price": 81,
+              "note": "Chris bid him up on a movie Sean called a turkey Marvel was dumping. Scarlett Johansson's solo turn."
+            },
+            {
+              "title": "Cry Macho",
+              "year": 2021,
+              "price": 1,
+              "note": "A $1 uncontested grab. Clint Eastwood directs and stars."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "spent": 1000,
+          "budgetLeft": 0,
+          "picks": [
+            {
+              "title": "No Time to Die",
+              "year": 2021,
+              "price": 370,
+              "note": "The one she came for. Cary Joji Fukunaga's Bond, with Daniel Craig; she says she'd have gone to $600."
+            },
+            {
+              "title": "The French Dispatch",
+              "year": 2021,
+              "price": 310,
+              "note": "Spent her entire remaining budget on the last pick, uncontested. Wes Anderson."
+            },
+            {
+              "title": "The Beatles: Get Back",
+              "year": 2021,
+              "price": 135,
+              "note": "Stolen from Sean over his objection that he doesn't care about the Beatles. Peter Jackson's documentary."
+            },
+            {
+              "title": "No Sudden Move",
+              "year": 2021,
+              "price": 110,
+              "note": "Steven Soderbergh's HBO Max heist picture; Chris nominated it and lost it. Don Cheadle, Benicio del Toro, Jon Hamm."
+            },
+            {
+              "title": "The Last Duel",
+              "year": 2021,
+              "price": 75,
+              "note": "Uncontested at her opening bid. Ridley Scott; Matt Damon, Adam Driver, Jodie Comer, Ben Affleck."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "spent": 1000,
+          "budgetLeft": 0,
+          "picks": [
+            {
+              "title": "House of Gucci",
+              "year": 2021,
+              "price": 275,
+              "note": "The market-setting first lot, more than a quarter of his budget. Ridley Scott; Lady Gaga, Adam Driver, Al Pacino, Jared Leto."
+            },
+            {
+              "title": "The Velvet Underground",
+              "year": 2021,
+              "price": null,
+              "note": "One of four uncontested end-game picks: Chris swept his final slots with his remaining $725, 'divided equally.' Todd Haynes's music documentary."
+            },
+            {
+              "title": "The Guilty",
+              "year": 2021,
+              "price": null,
+              "note": "Antoine Fuqua's 911-dispatcher thriller with Jake Gyllenhaal and Peter Sarsgaard."
+            },
+            {
+              "title": "Last Night in Soho",
+              "year": 2021,
+              "price": null,
+              "note": "Edgar Wright's psychological horror with Anya Taylor-Joy."
+            },
+            {
+              "title": "Next Goal Wins",
+              "year": 2023,
+              "price": null,
+              "note": "Taika Waititi's soccer comedy with Michael Fassbender; delayed to 2023."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "2021 films raised in passing",
+      "films": [
+        "Clifford the Big Red Dog",
+        "F9",
+        "Don't Look Up",
+        "The Souvenir Part II",
+        "The Tragedy of Macbeth",
+        "King Richard",
+        "Shang-Chi and the Legend of the Ten Rings",
+        "Venom: Let There Be Carnage",
+        "Godzilla vs. Kong",
+        "Eternals",
+        "Jackass Forever"
+      ]
+    },
+    {
+      "group": "Older films name-checked",
+      "films": [
+        "Top Gun",
+        "The Souvenir",
+        "Joker",
+        "Apollo 13",
+        "Exodus: Gods and Kings",
+        "Uncut Gems",
+        "The Killing of a Chinese Bookie",
+        "Michael Clayton",
+        "The Princess Bride",
+        "The Matrix",
+        "The Matrix Revolutions",
+        "Thor: The Dark World",
+        "Thor: Ragnarok",
+        "Captain America: Civil War",
+        "Captain America: The Winter Soldier",
+        "Black Panther",
+        "Guardians of the Galaxy",
+        "Out of Sight"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Falcon and the Winter Soldier",
+      "WandaVision",
+      "Watchmen",
+      "Full House",
+      "Top Chef",
+      "Mare of Easttown"
+    ],
+    "Podcasts": [
+      "The Watch",
+      "The Ringer Fantasy Football Show",
+      "The Ringerverse"
+    ],
+    "Ads": [
+      "Tremfya",
+      "Wells Fargo Active Cash",
+      "Get Vaccine Answers",
+      "TalkAboutPD",
+      "FanDuel",
+      "Boar's Head",
+      "FIFA World Cup Launch Edition",
+      "Athletic Brewing"
+    ]
+  },
+  "tmdbOverrides": {
+    "The French Dispatch": 542178
+  },
+  "tmdb": {
+    "The Matrix Resurrections": {
+      "id": 624860,
+      "poster": "/8c4a8kE7PizaGQQnditMmI1xbRp.jpg",
+      "title": "The Matrix Resurrections",
+      "year": 2021
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Dune": {
+      "id": 438631,
+      "poster": "/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "title": "Dune",
+      "year": 2021
+    },
+    "Black Widow": {
+      "id": 497698,
+      "poster": "/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+      "title": "Black Widow",
+      "year": 2021
+    },
+    "Cry Macho": {
+      "id": 749274,
+      "poster": "/esrzqq7Ud8yoslFTu3J5HqTJVOQ.jpg",
+      "title": "Cry Macho",
+      "year": 2021
+    },
+    "No Time to Die": {
+      "id": 370172,
+      "poster": "/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+      "title": "No Time to Die",
+      "year": 2021
+    },
+    "The French Dispatch": {
+      "id": 542178,
+      "poster": "/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg",
+      "title": "The French Dispatch of the Liberty, Kansas Evening Sun",
+      "year": 2021
+    },
+    "The Beatles: Get Back": null,
+    "No Sudden Move": {
+      "id": 649409,
+      "poster": "/kARdPEc4b32GQlHmJXMhGOCplEA.jpg",
+      "title": "No Sudden Move",
+      "year": 2021
+    },
+    "The Last Duel": {
+      "id": 617653,
+      "poster": "/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg",
+      "title": "The Last Duel",
+      "year": 2021
+    },
+    "House of Gucci": {
+      "id": 644495,
+      "poster": "/oJCQjD2byiVF1EG408F9dBn9ndU.jpg",
+      "title": "House of Gucci",
+      "year": 2021
+    },
+    "The Velvet Underground": {
+      "id": 543836,
+      "poster": "/9uRF6vERWfhlSZKc1sAJTTdG2Ix.jpg",
+      "title": "The Velvet Underground",
+      "year": 2021
+    },
+    "The Guilty": {
+      "id": 567748,
+      "poster": "/m8aR1k35oZMOzZ1kYWUyt401mwq.jpg",
+      "title": "The Guilty",
+      "year": 2021
+    },
+    "Last Night in Soho": {
+      "id": 576845,
+      "poster": "/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg",
+      "title": "Last Night in Soho",
+      "year": 2021
+    },
+    "Next Goal Wins": {
+      "id": 621587,
+      "poster": "/xTQCL1zGugIck8MgvJ2lXSrxENR.jpg",
+      "title": "Next Goal Wins",
+      "year": 2023
+    },
+    "Clifford the Big Red Dog": {
+      "id": 585245,
+      "poster": "/30ULVKdjBcQTsj2aOSThXXZNSxF.jpg",
+      "title": "Clifford the Big Red Dog",
+      "year": 2021
+    },
+    "F9": {
+      "id": 385128,
+      "poster": "/deEmLILTPejEb6OGsXRJ5MCvyDW.jpg",
+      "title": "F9",
+      "year": 2021
+    },
+    "Don't Look Up": {
+      "id": 646380,
+      "poster": "/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+      "title": "Don't Look Up",
+      "year": 2021
+    },
+    "The Souvenir Part II": {
+      "id": 473021,
+      "poster": "/fYNvmZ1vW7bNcUhrAzYjUBgKJWP.jpg",
+      "title": "The Souvenir: Part II",
+      "year": 2021
+    },
+    "The Tragedy of Macbeth": {
+      "id": 591538,
+      "poster": "/tDNJEhcLbX3jIk3BMCur9pCdaVD.jpg",
+      "title": "The Tragedy of Macbeth",
+      "year": 2021
+    },
+    "King Richard": {
+      "id": 614917,
+      "poster": "/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg",
+      "title": "King Richard",
+      "year": 2021
+    },
+    "Shang-Chi and the Legend of the Ten Rings": {
+      "id": 566525,
+      "poster": "/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "year": 2021
+    },
+    "Venom: Let There Be Carnage": {
+      "id": 580489,
+      "poster": "/pzKsRuKLFmYrW5Q0q8E8G78Tcgo.jpg",
+      "title": "Venom: Let There Be Carnage",
+      "year": 2021
+    },
+    "Godzilla vs. Kong": {
+      "id": 399566,
+      "poster": "/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+      "title": "Godzilla vs. Kong",
+      "year": 2021
+    },
+    "Eternals": {
+      "id": 524434,
+      "poster": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+      "title": "Eternals",
+      "year": 2021
+    },
+    "Jackass Forever": {
+      "id": 656663,
+      "poster": "/ruHDFumJfW7F2vEqTZEQQ9xT7CA.jpg",
+      "title": "Jackass Forever",
+      "year": 2022
+    },
+    "Top Gun": {
+      "id": 744,
+      "poster": "/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+      "title": "Top Gun",
+      "year": 1986
+    },
+    "The Souvenir": {
+      "id": 473019,
+      "poster": "/2Nj04HsZ0lNkv07JnfBZ0bAIECn.jpg",
+      "title": "The Souvenir",
+      "year": 2019
+    },
+    "Joker": {
+      "id": 475557,
+      "poster": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "title": "Joker",
+      "year": 2019
+    },
+    "Apollo 13": {
+      "id": 568,
+      "poster": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+      "title": "Apollo 13",
+      "year": 1995
+    },
+    "Exodus: Gods and Kings": {
+      "id": 147441,
+      "poster": "/uaDj37JtvLan9tihxZ18e6qL33b.jpg",
+      "title": "Exodus: Gods and Kings",
+      "year": 2014
+    },
+    "Uncut Gems": {
+      "id": 473033,
+      "poster": "/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+      "title": "Uncut Gems",
+      "year": 2019
+    },
+    "The Killing of a Chinese Bookie": {
+      "id": 32040,
+      "poster": "/lShPFOAbQ6y6oFYUfecmrj7BUu6.jpg",
+      "title": "The Killing of a Chinese Bookie",
+      "year": 1976
+    },
+    "Michael Clayton": {
+      "id": 4566,
+      "poster": "/hhkW4yVIGo8Bee3UITKvqOvhNMG.jpg",
+      "title": "Michael Clayton",
+      "year": 2007
+    },
+    "The Princess Bride": {
+      "id": 2493,
+      "poster": "/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+      "title": "The Princess Bride",
+      "year": 1987
+    },
+    "The Matrix": {
+      "id": 603,
+      "poster": "/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+      "title": "The Matrix",
+      "year": 1999
+    },
+    "The Matrix Revolutions": {
+      "id": 605,
+      "poster": "/bkkS61w94ZVMNVd8KEyyJl2tnY5.jpg",
+      "title": "The Matrix Revolutions",
+      "year": 2003
+    },
+    "Thor: The Dark World": {
+      "id": 76338,
+      "poster": "/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",
+      "title": "Thor: The Dark World",
+      "year": 2013
+    },
+    "Thor: Ragnarok": {
+      "id": 284053,
+      "poster": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "title": "Thor: Ragnarok",
+      "year": 2017
+    },
+    "Captain America: Civil War": {
+      "id": 271110,
+      "poster": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+      "title": "Captain America: Civil War",
+      "year": 2016
+    },
+    "Captain America: The Winter Soldier": {
+      "id": 100402,
+      "poster": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+      "title": "Captain America: The Winter Soldier",
+      "year": 2014
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "Guardians of the Galaxy": {
+      "id": 118340,
+      "poster": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "title": "Guardians of the Galaxy",
+      "year": 2014
+    },
+    "Out of Sight": {
+      "id": 1389,
+      "poster": "/v49q7AMR3pB4M762woWB1NYMCLF.jpg",
+      "title": "Out of Sight",
+      "year": 1998
+    }
+  }
+}

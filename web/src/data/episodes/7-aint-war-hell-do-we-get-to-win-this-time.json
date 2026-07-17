@@ -1,0 +1,358 @@
+{
+  "slug": "7-aint-war-hell-do-we-get-to-win-this-time",
+  "title": "7. Ain’t War Hell? | Do We Get to Win This Time?",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Brian Raftery"
+  ],
+  "published": "2023-08-23",
+  "runtimeMin": 56,
+  "format": "Episode 7 of Brian Raftery's Vietnam-at-the-movies series, on how Platoon's success set off a late-'80s glut of Vietnam films, and what that boom actually showed (and what it didn't).",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The post-Platoon Vietnam movie boom",
+      "note": "the films this episode is built around",
+      "films": [
+        {
+          "title": "Platoon",
+          "year": 1986,
+          "note": "Oliver Stone's low-budget epic made nearly $140M and set off what one journalist called the Vietnam Vogue."
+        },
+        {
+          "title": "Full Metal Jacket",
+          "year": 1987,
+          "note": "Kubrick's two-part film (Parris Island, then Hue during Tet), shot in cloudy England. R. Lee Ermey's drill sergeant made it a must-see."
+        },
+        {
+          "title": "Hamburger Hill",
+          "year": 1987,
+          "note": "John Irvin's gruesome account of a real battle, shot in the Philippines with Department of Defense cooperation. Flopped in theaters, then became a video-store hit."
+        },
+        {
+          "title": "Paths of Glory",
+          "year": 1957,
+          "note": "Kubrick's earlier WWI anti-war film with Kirk Douglas; one of Oliver Stone's favorites, banned for years in France and Switzerland."
+        },
+        {
+          "title": "The Deer Hunter",
+          "year": 1978,
+          "note": "Irvin called it racist and unlike the war he'd witnessed, which is why he wanted to make Hamburger Hill."
+        },
+        {
+          "title": "Good Morning, Vietnam",
+          "year": 1987,
+          "note": "Robin Williams as DJ Adrian Cronauer; sold by Disney as an upbeat romp, it sat at No. 1 for over two months in early 1988."
+        },
+        {
+          "title": "Casualties of War",
+          "year": 1989,
+          "note": "Brian De Palma's brutal true-story film with Michael J. Fox and Sean Penn; a box-office failure that found its audience on cable and home video."
+        },
+        {
+          "title": "Apocalypse Now",
+          "year": 1979,
+          "note": "Michael Herr wrote its narration; a cable and VHS staple that hooked a generation of underage viewers."
+        },
+        {
+          "title": "The Green Berets",
+          "year": 1968,
+          "note": "John Wayne's pro-war film, mocked by the Marines in Gustav Hasford's The Short Timers."
+        },
+        {
+          "title": "Coming Home",
+          "year": 1978,
+          "note": "Cited as the kind of tough reckoning with the war that Good Morning Vietnam wasn't."
+        },
+        {
+          "title": "Welcome Home",
+          "year": 1989,
+          "note": "Drama about a presumed-dead vet (Kris Kristofferson); Kieu Chinh plays his Cambodian wife, then vanishes from the film."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Kubrick's other films",
+      "films": [
+        "Dr. Strangelove",
+        "A Clockwork Orange",
+        "Barry Lyndon",
+        "The Shining",
+        "Eyes Wide Shut"
+      ]
+    },
+    {
+      "group": "Rambo-era action",
+      "films": [
+        "Rambo: First Blood Part II",
+        "The Dogs of War",
+        "Raw Deal"
+      ]
+    },
+    {
+      "group": "Brian De Palma",
+      "films": [
+        "Sisters",
+        "Scarface",
+        "Body Double"
+      ]
+    },
+    {
+      "group": "Michael J. Fox",
+      "films": [
+        "Back to the Future",
+        "Teen Wolf"
+      ]
+    },
+    {
+      "group": "1989 competition",
+      "films": [
+        "Uncle Buck",
+        "Parenthood"
+      ]
+    },
+    {
+      "group": "Kieu Chinh",
+      "films": [
+        "The Joy Luck Club",
+        "Operation CIA"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "The Birds",
+        "E.T. the Extra-Terrestrial",
+        "The 40-Year-Old Virgin"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Magnum, P.I.",
+      "The A-Team",
+      "M*A*S*H",
+      "Fantasy Island",
+      "ER",
+      "Family Ties",
+      "South Park",
+      "Welcome Home, Veterans (HBO telethon)"
+    ],
+    "Comics": [
+      "The 'Nam"
+    ],
+    "Video games": [
+      "Rambo (Nintendo)",
+      "FIFA World Cup Launch Edition"
+    ],
+    "Music": [
+      "Freedom Rock",
+      "Vietnam: Rockin' the Delta"
+    ],
+    "Podcasts": [
+      "22 Goals",
+      "Just Like Us",
+      "Gene and Roger"
+    ],
+    "Ads": [
+      "Netflix",
+      "Boar's Head",
+      "Carvana"
+    ]
+  },
+  "tmdbOverrides": {
+    "Sisters": 22307,
+    "Dr. Strangelove": 935
+  },
+  "tmdb": {
+    "Platoon": {
+      "id": 792,
+      "poster": "/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg",
+      "title": "Platoon",
+      "year": 1986
+    },
+    "Full Metal Jacket": {
+      "id": 600,
+      "poster": "/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+      "title": "Full Metal Jacket",
+      "year": 1987
+    },
+    "Hamburger Hill": {
+      "id": 10652,
+      "poster": "/a84FDoIm64qcyKq6BEMB9Ycldpt.jpg",
+      "title": "Hamburger Hill",
+      "year": 1987
+    },
+    "Paths of Glory": {
+      "id": 975,
+      "poster": "/hGg1UCQSHlXfv2HI9bDHT2OQBam.jpg",
+      "title": "Paths of Glory",
+      "year": 1957
+    },
+    "The Deer Hunter": {
+      "id": 11778,
+      "poster": "/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
+      "title": "The Deer Hunter",
+      "year": 1978
+    },
+    "Good Morning, Vietnam": {
+      "id": 801,
+      "poster": "/sreISlFUn5TyR41QNjlfAdX5SEW.jpg",
+      "title": "Good Morning, Vietnam",
+      "year": 1987
+    },
+    "Casualties of War": {
+      "id": 10142,
+      "poster": "/3SerZUDoU9TMCXMsQqiXvSWm0uL.jpg",
+      "title": "Casualties of War",
+      "year": 1989
+    },
+    "Apocalypse Now": {
+      "id": 28,
+      "poster": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "title": "Apocalypse Now",
+      "year": 1979
+    },
+    "The Green Berets": {
+      "id": 22377,
+      "poster": "/c5WG23iqf3RakGOTjZnBATbYM1f.jpg",
+      "title": "The Green Berets",
+      "year": 1968
+    },
+    "Coming Home": {
+      "id": 31657,
+      "poster": "/jBsYWNBYNEi5EhT1hC8iexcTsWT.jpg",
+      "title": "Coming Home",
+      "year": 1978
+    },
+    "Welcome Home": {
+      "id": 56346,
+      "poster": "/9b6NYeKMSomxp6Oacj0OKTjXHKe.jpg",
+      "title": "Welcome Home",
+      "year": 1989
+    },
+    "Dr. Strangelove": {
+      "id": 935,
+      "poster": "/6x7MzQ6BOMlRzam1StcmPO9v61g.jpg",
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "year": 1964
+    },
+    "A Clockwork Orange": {
+      "id": 185,
+      "poster": "/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+      "title": "A Clockwork Orange",
+      "year": 1971
+    },
+    "Barry Lyndon": {
+      "id": 3175,
+      "poster": "/znfLskGQnXYB2xcOGM9eInRHPAV.jpg",
+      "title": "Barry Lyndon",
+      "year": 1975
+    },
+    "The Shining": {
+      "id": 694,
+      "poster": "/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg",
+      "title": "The Shining",
+      "year": 1980
+    },
+    "Eyes Wide Shut": {
+      "id": 345,
+      "poster": "/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+      "title": "Eyes Wide Shut",
+      "year": 1999
+    },
+    "Rambo: First Blood Part II": {
+      "id": 1369,
+      "poster": "/fVwRtWqEPdsCH21BVDGqgkAQcff.jpg",
+      "title": "Rambo: First Blood Part II",
+      "year": 1985
+    },
+    "The Dogs of War": {
+      "id": 20681,
+      "poster": "/zAVFOLcjqYoEDYBF7UPNY4DIV2I.jpg",
+      "title": "The Dogs of War",
+      "year": 1980
+    },
+    "Raw Deal": {
+      "id": 2099,
+      "poster": "/1Y2GgDyNJFELoSIVlRhFQSs23Uo.jpg",
+      "title": "Raw Deal",
+      "year": 1986
+    },
+    "Sisters": {
+      "id": 22307,
+      "poster": "/hqxzpgJse54AcX1Mt1c6raXS290.jpg",
+      "title": "Sisters",
+      "year": 1973
+    },
+    "Scarface": {
+      "id": 111,
+      "poster": "/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+      "title": "Scarface",
+      "year": 1983
+    },
+    "Body Double": {
+      "id": 11507,
+      "poster": "/lRFm5P2AdOGpELwm3HHhmUz6k5I.jpg",
+      "title": "Body Double",
+      "year": 1984
+    },
+    "Back to the Future": {
+      "id": 105,
+      "poster": "/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+      "title": "Back to the Future",
+      "year": 1985
+    },
+    "Teen Wolf": {
+      "id": 11824,
+      "poster": "/bv9rY9eoue2Hat6tcvrKVQ0ow8v.jpg",
+      "title": "Teen Wolf",
+      "year": 1985
+    },
+    "Uncle Buck": {
+      "id": 2616,
+      "poster": "/euWPWqpujKQg2KnfBUVkBSZ6kf4.jpg",
+      "title": "Uncle Buck",
+      "year": 1989
+    },
+    "Parenthood": {
+      "id": 1552,
+      "poster": "/e51tNNQBJpJi9xkyuj0QFhyBcz7.jpg",
+      "title": "Parenthood",
+      "year": 1989
+    },
+    "The Joy Luck Club": {
+      "id": 19931,
+      "poster": "/s1Sk0hhVARNs7i9wqRHqbCriu8n.jpg",
+      "title": "The Joy Luck Club",
+      "year": 1993
+    },
+    "Operation CIA": {
+      "id": 107335,
+      "poster": "/rem4KjNsoWRBckmNaL7jmnu1UsV.jpg",
+      "title": "Operation C.I.A.",
+      "year": 1965
+    },
+    "The Birds": {
+      "id": 571,
+      "poster": "/eClg8QPg8mwB6INIC4pyR5pAbDr.jpg",
+      "title": "The Birds",
+      "year": 1963
+    },
+    "E.T. the Extra-Terrestrial": {
+      "id": 601,
+      "poster": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+      "title": "E.T. the Extra-Terrestrial",
+      "year": 1982
+    },
+    "The 40-Year-Old Virgin": {
+      "id": 6957,
+      "poster": "/mVeoqL37gzhMXQVpONi9DGOQ3tZ.jpg",
+      "title": "The 40 Year Old Virgin",
+      "year": 2005
+    }
+  }
+}

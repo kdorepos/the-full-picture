@@ -1,0 +1,636 @@
+{
+  "slug": "how-to-direct-a-movie-with-sam-esmail",
+  "title": "How to Direct a Movie, With Sam Esmail",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2022-11-21",
+  "runtimeMin": 111,
+  "format": "Sam Esmail joins Sean and Amanda to talk through directing a movie stage by stage, after an opening detour through horror vs. rom-coms and the fall's slate.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Catching up on the year",
+      "note": "horror vs. rom-coms, the summer drought, working through the lists",
+      "films": [
+        {
+          "title": "Barbarian",
+          "year": 2022,
+          "note": "Amanda's exception - plays the tropes for laughs, closer to Scream than to a straight scare."
+        },
+        {
+          "title": "Armageddon Time",
+          "year": 2022,
+          "note": "Esmail's one recent theater trip; loved the movie, hated the crowd."
+        },
+        {
+          "title": "Top Gun: Maverick",
+          "year": 2022,
+          "note": "Held No. 1 from Memorial Day to Labor Day because the studios left the calendar empty behind it."
+        },
+        {
+          "title": "Nope",
+          "year": 2022,
+          "note": "Sean's late-breaking top-five charge on a second watch."
+        },
+        {
+          "title": "2001: A Space Odyssey",
+          "year": 1968,
+          "note": "Esmail tried it on his daughter; she lasted ten seconds."
+        },
+        {
+          "title": "M3GAN",
+          "year": 2023,
+          "note": "The Blumhouse trailer that made Esmail laugh out loud - his potential Barbarian."
+        },
+        {
+          "title": "Scream",
+          "year": 1996,
+          "note": "The horror Amanda does like."
+        },
+        {
+          "title": "Crimes of the Future",
+          "year": 2022
+        },
+        {
+          "title": "Eastern Promises",
+          "year": 2007
+        },
+        {
+          "title": "Fast Company",
+          "year": 1979,
+          "note": "Cronenberg's oddball car-racing film; Esmail's verdict: you don't need to watch it."
+        },
+        {
+          "title": "Watcher",
+          "year": 2022,
+          "note": "The stalker thriller Esmail wouldn't recommend to Amanda - it would land too well."
+        },
+        {
+          "title": "Citizen Kane",
+          "year": 1941
+        },
+        {
+          "title": "How Green Was My Valley",
+          "year": 1941,
+          "note": "The Best Picture winner that beat Kane - Esmail's example of a canon entry worth re-litigating."
+        },
+        {
+          "title": "Get to Know Your Rabbit",
+          "year": 1972,
+          "note": "De Palma's hard-to-find first studio movie, cited as completist trivia."
+        },
+        {
+          "title": "Everyone Says I Love You",
+          "year": 1996,
+          "note": "Amanda revisited it for the Julia Roberts Hall of Fame and bounced off the Woody Allen wish-fulfillment."
+        },
+        {
+          "title": "The Philadelphia Story",
+          "year": 1940,
+          "note": "Sean finally caught it off the AFI list; not a favorite."
+        },
+        {
+          "title": "His Girl Friday",
+          "year": 1940,
+          "note": "Shared favorite - a Howard Hawks point of connection."
+        },
+        {
+          "title": "It Happened One Night",
+          "year": 1934
+        },
+        {
+          "title": "Bringing Up Baby",
+          "year": 1938,
+          "note": "Both prefer it to Philadelphia Story."
+        },
+        {
+          "title": "High Society",
+          "year": 1956,
+          "note": "Sean's blasphemous take: the soft Philadelphia Story remake he likes better."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "How to Direct a Movie",
+      "note": "Esmail on the five stages, built around Leave the World Behind",
+      "guest": "Sam Esmail on",
+      "films": [
+        {
+          "title": "Leave the World Behind",
+          "year": 2023,
+          "note": "The new film - his Rumaan Alam adaptation with Julia Roberts, changed heavily from the book. Prep and post are the joys; production is the nightmare."
+        },
+        {
+          "title": "Comet",
+          "year": 2014,
+          "note": "Esmail's first feature, where he met Emmy Rossum."
+        },
+        {
+          "title": "Tár",
+          "year": 2022,
+          "note": "The heavily written movie Sean would tighten in a spot or two; near five stars for him."
+        },
+        {
+          "title": "Taxi Driver",
+          "year": 1976,
+          "note": "The subject of Tarantino's \"what if De Palma directed it\" chapter - imagining other turns while flagging what Scorsese got wrong."
+        },
+        {
+          "title": "The Good Nurse",
+          "year": 2022,
+          "note": "Esmail defends the craft - Redmayne, Chastain, Jodie Lee Lipes's photography - against a script the hosts call the problem."
+        },
+        {
+          "title": "Ambulance",
+          "year": 2022,
+          "note": "Sean's cause: Michael Bay's drone work as a model for where action movies should go; Esmail and Amanda unmoved."
+        },
+        {
+          "title": "Raiders of the Lost Ark",
+          "year": 1981,
+          "note": "Sean's counter-model - Spielberg always knowing where to put the camera."
+        },
+        {
+          "title": "The Gray Man",
+          "year": 2022,
+          "note": "Same drone toys as Ambulance, but it showed Sean nothing new."
+        },
+        {
+          "title": "Avatar",
+          "year": 2009,
+          "note": "Sean's proof that a huge action film needn't rely on fast cutting."
+        },
+        {
+          "title": "Avatar: The Way of Water",
+          "year": 2022,
+          "note": "The sequel, not yet seen at recording."
+        },
+        {
+          "title": "The Hospital",
+          "year": 1971,
+          "note": "Paddy Chayefsky reference Sean drops - not the bar he's holding The Good Nurse to."
+        },
+        {
+          "title": "Parasite",
+          "year": 2019,
+          "note": "Best Picture winner Esmail still can't fully explain the scale of; also his Halloween costume source."
+        },
+        {
+          "title": "Devil in a Blue Dress",
+          "year": 1995,
+          "note": "Carl Franklin, whom Esmail floats as a Big Picture subject."
+        },
+        {
+          "title": "West Side Story",
+          "year": 2021,
+          "note": "Scouted Sean's old Echo Park house; ended up elsewhere."
+        },
+        {
+          "title": "Ticket to Paradise",
+          "year": 2022,
+          "note": "Amanda on Julia Roberts's jumpsuits as costume-design intent."
+        },
+        {
+          "title": "Mother!",
+          "year": 2017,
+          "note": "The kind of allegorical child-in-danger film that doesn't hit Esmail the way a realistic one now does."
+        },
+        {
+          "title": "Inglourious Basterds",
+          "year": 2009,
+          "note": "The 30-minute bar scene as Esmail's runtime argument: length isn't the problem, quality is."
+        },
+        {
+          "title": "The Banshees of Inisherin",
+          "year": 2022,
+          "note": "Esmail's AD worked on it; nobody expected how big the small, intimate film would land."
+        },
+        {
+          "title": "First Man",
+          "year": 2018,
+          "note": "Sean's only knock: too tight; why he's excited for Chazelle to go zanier."
+        },
+        {
+          "title": "Babylon",
+          "year": 2022,
+          "note": "Sean's most-anticipated - the film he can predict least."
+        },
+        {
+          "title": "The Fabelmans",
+          "year": 2022
+        },
+        {
+          "title": "Black Panther: Wakanda Forever",
+          "year": 2022
+        },
+        {
+          "title": "She Said",
+          "year": 2022,
+          "note": "Amanda's most-anticipated; a Carey Mulligan and investigative-journalism draw."
+        },
+        {
+          "title": "White Noise",
+          "year": 2022,
+          "note": "Already seen; would've made the anticipation list otherwise."
+        },
+        {
+          "title": "Titanic",
+          "year": 1997,
+          "note": "Amanda's long-movie exception."
+        },
+        {
+          "title": "Sunrise: A Song of Two Humans",
+          "year": 1927,
+          "note": "Esmail's last-great-thing - a Murnau silent that flew by."
+        },
+        {
+          "title": "The Bridge on the River Kwai",
+          "year": 1957,
+          "note": "A recent catch-up he loves - one of the great endings."
+        },
+        {
+          "title": "The Passion of Joan of Arc",
+          "year": 1928,
+          "note": "From his BFI-list run - Dreyer."
+        },
+        {
+          "title": "The Cabinet of Dr. Caligari",
+          "year": 1920,
+          "note": "Among the silents his film-school sister finds boring; context comes later."
+        },
+        {
+          "title": "Battleship Potemkin",
+          "year": 1925,
+          "note": "\"The one with the staircase.\""
+        },
+        {
+          "title": "Chimes at Midnight",
+          "year": 1966,
+          "note": "Welles as Falstaff - a four-hour film Esmail weirdly loved young."
+        },
+        {
+          "title": "Tokyo Story",
+          "year": 1953,
+          "note": "The Ozu he couldn't get through - a Greenwald favorite."
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Homecoming",
+      "Mr. Robot",
+      "Euphoria",
+      "Bluey",
+      "It's the Great Pumpkin, Charlie Brown",
+      "Monster: The Jeffrey Dahmer Story",
+      "Squid Game",
+      "House of the Dragon",
+      "Succession",
+      "The Watcher"
+    ],
+    "Books": [
+      "Cinema Speculation",
+      "Rich and Pretty"
+    ],
+    "Music": [
+      "Bitches Brew",
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Ready to Die",
+      "The Low End Theory",
+      "Illmatic"
+    ],
+    "Podcasts": [
+      "Unspooled",
+      "JMO",
+      "Rumaan and Me",
+      "This Blew Up"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "Netflix FIFA World Cup",
+      "FanDuel",
+      "White Claw",
+      "Storm"
+    ]
+  },
+  "tmdb": {
+    "Barbarian": {
+      "id": 913290,
+      "poster": "/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
+      "title": "Barbarian",
+      "year": 2022
+    },
+    "Armageddon Time": {
+      "id": 615952,
+      "poster": "/wMK717aDWhboXOiVbZ9sLBqLmKh.jpg",
+      "title": "Armageddon Time",
+      "year": 2022
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Nope": {
+      "id": 762504,
+      "poster": "/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
+      "title": "Nope",
+      "year": 2022
+    },
+    "2001: A Space Odyssey": {
+      "id": 62,
+      "poster": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "title": "2001: A Space Odyssey",
+      "year": 1968
+    },
+    "M3GAN": {
+      "id": 536554,
+      "poster": "/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
+      "title": "M3GAN",
+      "year": 2022
+    },
+    "Scream": {
+      "id": 4232,
+      "poster": "/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+      "title": "Scream",
+      "year": 1996
+    },
+    "Crimes of the Future": {
+      "id": 819876,
+      "poster": "/RAFYMC0NgK9In9aGY6k6wsIL8w.jpg",
+      "title": "Crimes of the Future",
+      "year": 2022
+    },
+    "Eastern Promises": {
+      "id": 2252,
+      "poster": "/nLwv1pxRCRZucQaqs6oPkq7HH3K.jpg",
+      "title": "Eastern Promises",
+      "year": 2007
+    },
+    "Fast Company": {
+      "id": 38493,
+      "poster": "/rNpBNzzLUPl1df3nCUhEvfNzOEE.jpg",
+      "title": "Fast Company",
+      "year": 1979
+    },
+    "Watcher": {
+      "id": 807356,
+      "poster": "/dXCjoI3jdtBrwPHgVsyNLkl8Rvs.jpg",
+      "title": "Watcher",
+      "year": 2022
+    },
+    "Citizen Kane": {
+      "id": 15,
+      "poster": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+      "title": "Citizen Kane",
+      "year": 1941
+    },
+    "How Green Was My Valley": {
+      "id": 43266,
+      "poster": "/8N7OmxBqjRVUrqergUduGgr6exy.jpg",
+      "title": "How Green Was My Valley",
+      "year": 1941
+    },
+    "Get to Know Your Rabbit": {
+      "id": 89417,
+      "poster": "/tj3xzcFBbcmcrq4j0ZyjZhlN5AS.jpg",
+      "title": "Get to Know Your Rabbit",
+      "year": 1972
+    },
+    "Everyone Says I Love You": {
+      "id": 9716,
+      "poster": "/cFOZ4bNbWtnIIboc43M86yhwPBX.jpg",
+      "title": "Everyone Says I Love You",
+      "year": 1996
+    },
+    "The Philadelphia Story": {
+      "id": 981,
+      "poster": "/dKUubjvxO78XDts6VP1Ggcp4R9O.jpg",
+      "title": "The Philadelphia Story",
+      "year": 1940
+    },
+    "His Girl Friday": {
+      "id": 3085,
+      "poster": "/lu86Y9zTPH3neCiUzLzHCEFHf7f.jpg",
+      "title": "His Girl Friday",
+      "year": 1940
+    },
+    "It Happened One Night": {
+      "id": 3078,
+      "poster": "/2PNUGWAflH6UUumas0POMmokHlc.jpg",
+      "title": "It Happened One Night",
+      "year": 1934
+    },
+    "Bringing Up Baby": {
+      "id": 900,
+      "poster": "/vTNNOtemaYmtx3k2NpsLMRJKEwZ.jpg",
+      "title": "Bringing Up Baby",
+      "year": 1938
+    },
+    "High Society": {
+      "id": 11424,
+      "poster": "/eOKLignOrNN7pgTQbwCzW6WPwbD.jpg",
+      "title": "High Society",
+      "year": 1956
+    },
+    "Leave the World Behind": {
+      "id": 726209,
+      "poster": "/29rhl1xopxA7JlGVVsf1UHfYPvN.jpg",
+      "title": "Leave the World Behind",
+      "year": 2023
+    },
+    "Comet": {
+      "id": 276908,
+      "poster": "/4zOOSa5zyJDvqDDKFwUQVMK6eDe.jpg",
+      "title": "Comet",
+      "year": 2014
+    },
+    "Tár": {
+      "id": 817758,
+      "poster": "/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg",
+      "title": "TÁR",
+      "year": 2022
+    },
+    "Taxi Driver": {
+      "id": 103,
+      "poster": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "title": "Taxi Driver",
+      "year": 1976
+    },
+    "The Good Nurse": {
+      "id": 541134,
+      "poster": "/rSq6cq0LCcbro10jbEaPTEb3WmW.jpg",
+      "title": "The Good Nurse",
+      "year": 2022
+    },
+    "Ambulance": {
+      "id": 763285,
+      "poster": "/hUbgg3mMSbY9PlpTxBo4IFUVSd6.jpg",
+      "title": "Ambulance",
+      "year": 2022
+    },
+    "Raiders of the Lost Ark": {
+      "id": 85,
+      "poster": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+      "title": "Raiders of the Lost Ark",
+      "year": 1981
+    },
+    "The Gray Man": {
+      "id": 725201,
+      "poster": "/8cXbitsS6dWQ5gfMTZdorpAAzEH.jpg",
+      "title": "The Gray Man",
+      "year": 2022
+    },
+    "Avatar": {
+      "id": 19995,
+      "poster": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "title": "Avatar",
+      "year": 2009
+    },
+    "Avatar: The Way of Water": {
+      "id": 76600,
+      "poster": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "title": "Avatar: The Way of Water",
+      "year": 2022
+    },
+    "The Hospital": {
+      "id": 32082,
+      "poster": "/mOxi0lUCv8F9HqS8u0cEIthwhc7.jpg",
+      "title": "The Hospital",
+      "year": 1971
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Devil in a Blue Dress": {
+      "id": 8512,
+      "poster": "/5lcJhwKGavLbPva17QkTBhLfqEk.jpg",
+      "title": "Devil in a Blue Dress",
+      "year": 1995
+    },
+    "West Side Story": {
+      "id": 511809,
+      "poster": "/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+      "title": "West Side Story",
+      "year": 2021
+    },
+    "Ticket to Paradise": {
+      "id": 800939,
+      "poster": "/1tzERH50P5c2mFWtLbgixzLZS1L.jpg",
+      "title": "Ticket to Paradise",
+      "year": 2022
+    },
+    "Mother!": {
+      "id": 381283,
+      "poster": "/fjny9chXPx69ln1LMJxbwi5yHMt.jpg",
+      "title": "mother!",
+      "year": 2017
+    },
+    "Inglourious Basterds": {
+      "id": 16869,
+      "poster": "/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg",
+      "title": "Inglourious Basterds",
+      "year": 2009
+    },
+    "The Banshees of Inisherin": {
+      "id": 674324,
+      "poster": "/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg",
+      "title": "The Banshees of Inisherin",
+      "year": 2022
+    },
+    "First Man": {
+      "id": 369972,
+      "poster": "/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
+      "title": "First Man",
+      "year": 2018
+    },
+    "Babylon": {
+      "id": 615777,
+      "poster": "/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+      "title": "Babylon",
+      "year": 2022
+    },
+    "The Fabelmans": {
+      "id": 804095,
+      "poster": "/h7llKkqkkJtJrTOaDLuVeUYDQ7I.jpg",
+      "title": "The Fabelmans",
+      "year": 2022
+    },
+    "Black Panther: Wakanda Forever": {
+      "id": 505642,
+      "poster": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+      "title": "Black Panther: Wakanda Forever",
+      "year": 2022
+    },
+    "She Said": {
+      "id": 837881,
+      "poster": "/jG4UI2dbNWlWtTTupjeU3fRJ5Fn.jpg",
+      "title": "She Said",
+      "year": 2022
+    },
+    "White Noise": {
+      "id": 744594,
+      "poster": "/kesxNdLZlmGoTRspDHU1WgdEuGw.jpg",
+      "title": "White Noise",
+      "year": 2022
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "Sunrise: A Song of Two Humans": {
+      "id": 631,
+      "poster": "/5V9jDm4u2QemGHbqjUyP5HmFmzf.jpg",
+      "title": "Sunrise: A Song of Two Humans",
+      "year": 1927
+    },
+    "The Bridge on the River Kwai": {
+      "id": 826,
+      "poster": "/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
+      "title": "The Bridge on the River Kwai",
+      "year": 1957
+    },
+    "The Passion of Joan of Arc": {
+      "id": 780,
+      "poster": "/tAgV9yxY6AC1bsPt3qJJQpD4s8.jpg",
+      "title": "The Passion of Joan of Arc",
+      "year": 1928
+    },
+    "The Cabinet of Dr. Caligari": {
+      "id": 234,
+      "poster": "/myK9DeIsXWGKgUTZyGXg2IfFk0W.jpg",
+      "title": "The Cabinet of Dr. Caligari",
+      "year": 1920
+    },
+    "Battleship Potemkin": {
+      "id": 643,
+      "poster": "/hZmsRLsCnE9Zshf1YJONUpCOhds.jpg",
+      "title": "Battleship Potemkin",
+      "year": 1925
+    },
+    "Chimes at Midnight": {
+      "id": 986,
+      "poster": "/5Fjxyz3u2Zdco4WeuC3wQ6O5tYQ.jpg",
+      "title": "Chimes at Midnight",
+      "year": 1965
+    },
+    "Tokyo Story": {
+      "id": 18148,
+      "poster": "/g2YbTYKpY7N2yDSk7BfXZ18I5QV.jpg",
+      "title": "Tokyo Story",
+      "year": 1953
+    }
+  }
+}

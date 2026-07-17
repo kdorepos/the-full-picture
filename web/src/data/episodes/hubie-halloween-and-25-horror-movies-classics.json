@@ -1,0 +1,75 @@
+{
+  "slug": "hubie-halloween-and-25-horror-movies-classics",
+  "title": "‘Hubie Halloween’ and 25 Horror Movies Classics",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": ["Sean Fennessey", "Chris Ryan"],
+  "published": "2020-10-20",
+  "runtimeMin": 84,
+  "format": "Sean and Chris check the state of 2020 horror, review Adam Sandler's 'Hubie Halloween,' then trade a 20-deep countdown of under-seen scary movies, each pitched by its premise.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Horror in the terrifying year of 2020",
+      "note": "state of the genre",
+      "films": [
+        { "title": "Host", "year": 2020, "note": "Their pick for horror movie of the year, 'if only by circumstance' — a séance-over-Zoom feature born entirely of lockdown." },
+        { "title": "Possessor", "year": 2020, "note": "Brandon Cronenberg's extreme body horror; Sean interviewed him the week before." },
+        { "title": "The Wolf of Snow Hollow", "year": 2020, "note": "Jim Cummings's small-town monster-movie riff, a follow-up in spirit to 'Thunder Road.'" },
+        { "title": "Bad Hair", "year": 2020, "note": "Justin Simien's '70s/'80s-influenced horror satire, hitting Hulu the week of taping." },
+        { "title": "Synchronic", "year": 2019, "note": "Benson and Moorhead's time-travel sci-fi with Anthony Mackie and Jamie Dornan; a sister film to 'The Endless.'" },
+        { "title": "The Dark and the Wicked", "year": 2020, "note": "Brian Bertino ('The Strangers') returns with what Sean calls one of the most depraved movies he's seen; out that November." }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "'Hubie Halloween'",
+      "note": "the new Adam Sandler Netflix vehicle",
+      "films": [
+        { "title": "Hubie Halloween", "year": 2020, "note": "Stephen Brill directs Sandler as Salem's bullied Halloween safety coordinator. Sean sees a return to form; Chris was 'on mushrooms' at the cast of walk-ons and Ray Liotta's presence." }
+      ]
+    },
+    {
+      "kind": "list",
+      "heading": "20 underrated scary-movie classics",
+      "note": "counting down 10 to 1, one pick per host, each pitched by its premise",
+      "picks": [
+        { "title": "The Houses October Built", "year": 2014, "by": "Chris Ryan", "note": "No. 10 — found-footage RV trip across Texas hunting an underground haunted house. Chris compared the dread to first seeing 'Texas Chain Saw.'" },
+        { "title": "La Llorona", "year": 2019, "by": "Sean Fennessey", "note": "No. 10 — Jayro Bustamante's Guatemalan film folds the folk legend into a general's genocide trial, protest as haunting. On Shudder. Not the Conjuring-universe 'Curse of La Llorona.'" },
+        { "title": "As Above, So Below", "year": 2014, "by": "Chris Ryan", "note": "No. 9 — a treasure hunt gone wrong in the Paris catacombs; a solid C-plus scare on Netflix." },
+        { "title": "Salem's Lot", "year": 1979, "by": "Sean Fennessey", "note": "No. 9 — Tobe Hooper's three-hour Stephen King miniseries; Sean rates the window reveal the scariest moment ever on broadcast TV." },
+        { "title": "Pontypool", "year": 2008, "by": "Chris Ryan", "note": "No. 8 — Canadian one-location horror: a radio DJ works through a language-borne virus. 'It's such a great movie.'" },
+        { "title": "Witchfinder General", "year": 1968, "by": "Sean Fennessey", "note": "No. 8 — Michael Reeves at 25; Vincent Price hangs witches during the English Civil War. Brutal, hard to find, 85 minutes." },
+        { "title": "The Bay", "year": 2012, "by": "Chris Ryan", "note": "No. 7 — Barry Levinson's eco found-footage horror on a July 4th weekend in Chesapeake Bay; a 'JV Cloverfield' with Heather Donahue." },
+        { "title": "Halloween III: Season of the Witch", "year": 1982, "by": "Sean Fennessey", "note": "No. 7 — the Michael-Myers-free anthology entry: Silver Shamrock masks and Tom Atkins. The franchise's original vision." },
+        { "title": "House of the Devil", "year": 2009, "by": "Chris Ryan", "note": "No. 6 — Ti West's slow-burn '80s throwback: a broke babysitter takes a too-good gig at Tom Noonan's house. Early Greta Gerwig." },
+        { "title": "Def by Temptation", "year": 1990, "by": "Sean Fennessey", "note": "No. 6 — James Bond III's all-Black indie: a succubus (Cynthia Bond) preys on a preacher's son. Shot by Ernest Dickerson, with Samuel L. Jackson and Kadeem Hardison." },
+        { "title": "Witches in the Woods", "year": 2019, "by": "Chris Ryan", "note": "No. 5 — teens stranded in a Jeep on a haunted mountainside; Chris singles out an inventive 360-degree interior shot. On Showtime." },
+        { "title": "Rabid", "year": 1977, "by": "Sean Fennessey", "note": "No. 5 — early Cronenberg outbreak movie with Marilyn Chambers; on Kanopy and the Criterion Channel. COVID-brain viewing." },
+        { "title": "Stake Land", "year": 2010, "by": "Chris Ryan", "note": "Moved up to pair with 'Rabid' — Jim Mickle's road movie across a vampire-ravaged America. 'The Walking Dead, but good'; a fucked-up 'Goonies.'" },
+        { "title": "Tales from the Darkside: The Movie", "year": 1990, "by": "Sean Fennessey", "note": "No. 4 — Romero-lineage horror anthology; a stacked cast (Buscemi, Julianne Moore, Christian Slater) and a nasty transformation. Free on Pluto TV." },
+        { "title": "Southbound", "year": 2015, "by": "Chris Ryan", "note": "No. 3 — interlocking anthology on a cursed Texas highway; segments by Radio Silence, Roxanne Benjamin and David Bruckner." },
+        { "title": "The Ghost Ship", "year": 1943, "by": "Sean Fennessey", "note": "No. 3 — Val Lewton production directed by Mark Robson; claustrophobic shipboard dread. On Vudu." },
+        { "title": "Pod", "year": 2015, "by": "Chris Ryan", "note": "No. 2 — micro-budget siblings-vs-basement-alien creeper from Mickey Keating, produced by and featuring Larry Fessenden. On Shudder." },
+        { "title": "REC", "year": 2007, "by": "Sean Fennessey", "note": "No. 2 — the Spanish found-footage landmark Alex Ross Perry named the genre's best. Seek the subtitled cut." },
+        { "title": "Hell House LLC", "year": 2015, "by": "Chris Ryan", "note": "No. 1 — found-footage crew stages a haunted house in an abandoned upstate hotel; a whole trilogy Chris never knew existed. On Shudder." },
+        { "title": "Let's Scare Jessica to Death", "year": 1971, "by": "Sean Fennessey", "note": "No. 1 (a 'cheat' pick) — gateway to the Criterion Channel's '70s social-paranoia horror wave." }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The 2020 genre check-in",
+      "films": ["Midsommar", "Candyman", "The Invisible Man", "Relic", "Blood Quantum", "The Beach House", "Hereditary", "The Lodge", "The Rental", "Thunder Road", "The Endless", "Cannibal Holocaust", "Get Out", "The Strangers"]
+    },
+    {
+      "group": "Touchstones and comparisons",
+      "films": ["The Descent", "The Blair Witch Project", "The Texas Chain Saw Massacre", "Nocturnal Animals", "The Curse of La Llorona", "The Conjuring", "What We Do in the Shadows", "Cloverfield", "Jaws", "Halloween", "Halloween II", "A Nightmare on Elm Street", "New Nightmare", "Friday the 13th", "Friday the 13th Part 2", "Doctor Sleep", "The Sacrament", "The Innkeepers", "Dinner in America", "Run", "Vampire in Brooklyn", "Juice", "The Ritual", "Creepshow", "Creepshow 2", "An American Werewolf in London", "Cold in July", "Ghost Ship", "Citizen Kane", "The Magnificent Ambersons", "Mank", "I Walked with a Zombie", "The Leopard Man", "Cat People", "The Seventh Victim", "Silver Bullet", "The Dead Zone", "Pulp Fiction", "The Crazies", "Invasion of the Body Snatchers", "The Hills Have Eyes", "Ganja & Hess", "Contagion", "Shivers", "The Brood", "The Wicker Man", "Once Upon a Time in Hollywood", "Poltergeist", "School Daze", "Baby Blue Marine", "Bang the Drum Slowly", "The New Mutants", "The Godfather", "Goodfellas", "Palm Springs"]
+    }
+  ],
+  "excluded": {
+    "TV": ["Wolf Hall", "The Stand", "Castle Rock", "The Haunting of Bly Manor", "You're the Worst", "Homicide: Life on the Street", "Euphoria", "Below Deck Mediterranean", "Borgen", "The X-Files", "Millennium", "The Twilight Zone", "Tales from the Darkside (series)"],
+    "Podcasts": ["The Rewatchables", "Halloween Unmasked", "The Bill Simmons Podcast", "The Watch"],
+    "Ads": ["Tremfya", "Netflix FIFA World Cup", "FanDuel", "Carvana", "Boar's Head", "TalkAboutPD"]
+  }
+}

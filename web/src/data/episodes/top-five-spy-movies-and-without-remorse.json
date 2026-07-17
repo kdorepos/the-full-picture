@@ -1,0 +1,591 @@
+{
+  "slug": "top-five-spy-movies-and-without-remorse",
+  "title": "Top Five Spy Movies and ‘Without Remorse’",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2021-05-04",
+  "runtimeMin": 93,
+  "format": "Sean, Amanda, and Chris Ryan rank their favorite spy movies to mark 'Without Remorse,' then Sean talks to director Stefano Sollima about entering the Clancyverse.",
+  "tmdbOverrides": {
+    "Without Remorse": 567189
+  },
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘Without Remorse’",
+      "note": "Sean Fennessey, Amanda Dobbins, and Chris Ryan",
+      "films": [
+        {
+          "title": "Without Remorse",
+          "year": 2021,
+          "note": "Expected a spy movie, got a revenge-origin action movie about John Kelly, the meaner, brawnier flip side of Jack Ryan. Chris says it plays like an '80s action movie, true to the Cold War-era Clancy source; Amanda says the punching is the point and the international intrigue barely registers."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The State of the Spy Movie",
+      "note": "genre chat before the lists",
+      "films": [
+        {
+          "title": "Tinker Tailor Soldier Spy",
+          "year": 2011,
+          "note": "Beautifully shot, Chris says, but plays like a trailer for the novel; the BBC original with Alec Guinness is the one that's page-for-page."
+        },
+        {
+          "title": "The Constant Gardener",
+          "year": 2005,
+          "note": "Chris argues it only reads as a spy movie because Le Carré wrote the source novel."
+        },
+        {
+          "title": "The Spy Who Came in From the Cold",
+          "year": 1965,
+          "note": "The Richard Burton adaptation Sean says captures the Le Carré vibe but lacks energy."
+        },
+        {
+          "title": "A Most Wanted Man",
+          "year": 2014
+        },
+        {
+          "title": "Our Kind of Traitor",
+          "year": 2016
+        },
+        {
+          "title": "The Hunt for Red October",
+          "year": 1990,
+          "note": "Chris's marker for the pre-internet, spy-as-expertise era of the genre."
+        },
+        {
+          "title": "Enemy of the State",
+          "year": 1998,
+          "note": "The shift from scholarly expertise to guys in a van hacking phones, per Chris."
+        },
+        {
+          "title": "Atomic Blonde",
+          "year": 2017,
+          "note": "A spy movie mostly as an excuse to watch Charlize Theron punch people, Sean says."
+        },
+        {
+          "title": "Red Sparrow",
+          "year": 2018
+        },
+        {
+          "title": "The Courier",
+          "year": 2020
+        },
+        {
+          "title": "Tenet",
+          "year": 2020,
+          "note": "Teased as the group's next watch-along; cited as the rare spy story without a clean answer at the end."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Sean's Top Five Spy Movies",
+      "subject": "Spy Movies",
+      "ranked": true,
+      "films": [
+        {
+          "title": "The Third Man",
+          "year": 1949,
+          "note": "Sean's favorite movie ever made: Carol Reed, Graham Greene, Orson Welles, postwar Vienna, the zither score."
+        },
+        {
+          "title": "Mission: Impossible",
+          "year": 1996,
+          "note": "His entry point into spy movies at 14, and the reason he never fell for Bond."
+        },
+        {
+          "title": "The Conformist",
+          "year": 1970,
+          "note": "Bertolucci's study of a fascist-era spy's psychology, and one of the best-looking movies ever made."
+        },
+        {
+          "title": "The Parallax View",
+          "year": 1974,
+          "note": "The scariest movie of the '70s, Sean says on rewatch, with Warren Beatty in the middle of Pakula's paranoia trilogy."
+        },
+        {
+          "title": "The IPCRESS File",
+          "year": 1965,
+          "note": "Michael Caine's working-class answer to Bond, from the same producers and composer."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Amanda's Top Five Spy Movies",
+      "subject": "Spy Movies",
+      "ranked": true,
+      "films": [
+        {
+          "title": "North by Northwest",
+          "year": 1959,
+          "note": "An accidental-spy Bond movie before Bond existed, Amanda says."
+        },
+        {
+          "title": "The Lives of Others",
+          "year": 2006,
+          "note": "A Stasi surveillance drama about complicity, the un-fun kind of spy movie."
+        },
+        {
+          "title": "Mission: Impossible",
+          "year": 1996,
+          "note": "Her entry point too, at 12."
+        },
+        {
+          "title": "Argo",
+          "year": 2012,
+          "note": "The Best Picture win made people hold it to an unfair standard; it's just a fun, well-made spy movie."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Chris Ryan's Top Five Spy Movies",
+      "subject": "Spy Movies",
+      "ranked": true,
+      "films": [
+        {
+          "title": "The Third Man",
+          "year": 1949
+        },
+        {
+          "title": "Three Days of the Condor",
+          "year": 1975,
+          "note": "Chris's admitted cheat: grouped with Sneakers and Spy Game as a Redford spy trilogy. The most harrowing of the three."
+        },
+        {
+          "title": "The Bourne Legacy",
+          "year": 2012,
+          "note": "The best spy movie of the Bourne franchise, per Chris, for its web of interdepartmental agencies with no clear boss."
+        },
+        {
+          "title": "From Russia With Love",
+          "year": 1963,
+          "note": "The platonic ideal of a pre-Craig Bond movie."
+        },
+        {
+          "title": "Ronin",
+          "year": 1998,
+          "note": "John Frankenheimer's Paris/Nice chase movie, David Mamet script, two of the best car chases Chris has ever seen."
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "heading": "Honorable mentions",
+      "note": "one host, one shoutout",
+      "picks": [
+        {
+          "title": "The Manchurian Candidate",
+          "year": 1962,
+          "by": "Chris Ryan"
+        },
+        {
+          "title": "Marathon Man",
+          "year": 1976,
+          "by": "Chris Ryan",
+          "note": "for the Roy Scheider subplot"
+        },
+        {
+          "title": "Mission: Impossible III",
+          "year": 2006,
+          "by": "Chris Ryan",
+          "note": "Philip Seymour Hoffman's “count to ten” scene"
+        },
+        {
+          "title": "A Most Wanted Man",
+          "year": 2014,
+          "by": "Chris Ryan",
+          "note": "Hoffman again, as a German intelligence chief"
+        },
+        {
+          "title": "Munich",
+          "year": 2005,
+          "by": "Chris Ryan"
+        },
+        {
+          "title": "Our Man in Havana",
+          "year": 1959,
+          "by": "Chris Ryan",
+          "note": "Carol Reed's other spy movie, with Alec Guinness"
+        },
+        {
+          "title": "Charlie Wilson's War",
+          "year": 2007,
+          "by": "Amanda Dobbins",
+          "note": "for Hoffman's Greek-junta monologue alone"
+        },
+        {
+          "title": "Skyfall",
+          "year": 2012,
+          "by": "Amanda Dobbins"
+        },
+        {
+          "title": "Casino Royale",
+          "year": 2006,
+          "by": "Amanda Dobbins"
+        },
+        {
+          "title": "The Bourne Identity",
+          "year": 2002,
+          "by": "Amanda Dobbins",
+          "note": "mostly for the safe house"
+        },
+        {
+          "title": "Tinker Tailor Soldier Spy",
+          "year": 2011,
+          "by": "Amanda Dobbins",
+          "note": "prefers the miniseries, but the movie holds up on its own"
+        },
+        {
+          "title": "The Hunt for Red October",
+          "year": 1990,
+          "by": "Amanda Dobbins"
+        },
+        {
+          "title": "Bridge of Spies",
+          "year": 2015,
+          "by": "Amanda Dobbins"
+        },
+        {
+          "title": "No Way Out",
+          "year": 1987,
+          "by": "Amanda Dobbins"
+        },
+        {
+          "title": "Revenge",
+          "year": 1990,
+          "by": "Amanda Dobbins"
+        },
+        {
+          "title": "Duplicity",
+          "year": 2009,
+          "by": "Amanda Dobbins"
+        },
+        {
+          "title": "Burn After Reading",
+          "year": 2008,
+          "by": "Amanda Dobbins"
+        },
+        {
+          "title": "Spies Like Us",
+          "year": 1985,
+          "by": "Amanda Dobbins"
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Stefano Sollima on ‘Without Remorse’",
+      "guest": "Stefano Sollima on",
+      "films": [
+        {
+          "title": "Without Remorse",
+          "year": 2021,
+          "note": "Sollima pitched Michael B. Jordan on doing his own stunts to keep the film locked to John Kelly's point of view, and calls the underwater plane sequence the one he most regrets audiences won't see in theaters."
+        },
+        {
+          "title": "The Father",
+          "year": 2020,
+          "note": "His pick for the last great thing he's seen."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Jack Ryan: Shadow Recruit",
+        "Sicario: Day of the Soldado",
+        "The Big Gundown"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Zero Zero Zero",
+      "Le Bureau",
+      "Tinker Tailor Soldier Spy (1979 BBC miniseries)",
+      "Smiley's People",
+      "Mr. Robot",
+      "The Little Drummer Girl",
+      "The Night Manager"
+    ],
+    "Games": [
+      "Rainbow Six"
+    ],
+    "Ads": [
+      "Boar's Head"
+    ]
+  },
+  "tmdb": {
+    "Without Remorse": {
+      "id": 567189,
+      "poster": "/6OnlqShdRinhJwV1uGiRE70lD63.jpg",
+      "title": "Tom Clancy's Without Remorse",
+      "year": 2021
+    },
+    "Tinker Tailor Soldier Spy": {
+      "id": 49517,
+      "poster": "/e0dZ7TapGY9HtJ9xk1TUHPEOccl.jpg",
+      "title": "Tinker Tailor Soldier Spy",
+      "year": 2011
+    },
+    "The Constant Gardener": {
+      "id": 1985,
+      "poster": "/nkXq7V7mmJVbvwZGr3nxkHo7HkS.jpg",
+      "title": "The Constant Gardener",
+      "year": 2005
+    },
+    "The Spy Who Came in From the Cold": {
+      "id": 13580,
+      "poster": "/lN3PWv6cW22mqXDcgGZgK1Aa2gh.jpg",
+      "title": "The Spy Who Came In from the Cold",
+      "year": 1965
+    },
+    "A Most Wanted Man": {
+      "id": 157849,
+      "poster": "/6B76Z5Ct758RfKFoFg37skVRiMp.jpg",
+      "title": "A Most Wanted Man",
+      "year": 2014
+    },
+    "Our Kind of Traitor": {
+      "id": 205588,
+      "poster": "/sYKzETDzreQKKazVj11J4Oy5Wgt.jpg",
+      "title": "Our Kind of Traitor",
+      "year": 2016
+    },
+    "The Hunt for Red October": {
+      "id": 1669,
+      "poster": "/yVl7zidse4KiWtGMqHFtZCx4X3N.jpg",
+      "title": "The Hunt for Red October",
+      "year": 1990
+    },
+    "Enemy of the State": {
+      "id": 9798,
+      "poster": "/x9pXrMKLsBGGOFyyZ0Gwt9YpVub.jpg",
+      "title": "Enemy of the State",
+      "year": 1998
+    },
+    "Atomic Blonde": {
+      "id": 341013,
+      "poster": "/kV9R5h0Yct1kR8Hf8sJ1nX0Vz4x.jpg",
+      "title": "Atomic Blonde",
+      "year": 2017
+    },
+    "Red Sparrow": {
+      "id": 401981,
+      "poster": "/cdefNr6aS00IwVbSlxdFJnfmzKh.jpg",
+      "title": "Red Sparrow",
+      "year": 2018
+    },
+    "The Courier": {
+      "id": 522241,
+      "poster": "/zFIjKtZrzhmc7HecdFXXjsLR2Ig.jpg",
+      "title": "The Courier",
+      "year": 2020
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "The Third Man": {
+      "id": 1092,
+      "poster": "/rO2Fq0AZZx9obs52KJdx4mRE8p5.jpg",
+      "title": "The Third Man",
+      "year": 1949
+    },
+    "Mission: Impossible": {
+      "id": 954,
+      "poster": "/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
+      "title": "Mission: Impossible",
+      "year": 1996
+    },
+    "The Conformist": {
+      "id": 8416,
+      "poster": "/nLJjFRqIJAK8qz0OKYnpKCblZNK.jpg",
+      "title": "The Conformist",
+      "year": 1971
+    },
+    "The Parallax View": {
+      "id": 17365,
+      "poster": "/83mQRrNO9ewz0qLSJcGp4nGBRr.jpg",
+      "title": "The Parallax View",
+      "year": 1974
+    },
+    "The IPCRESS File": {
+      "id": 15247,
+      "poster": "/iCNRK7NVhBvNpiyMRmCpTBFNoLO.jpg",
+      "title": "The Ipcress File",
+      "year": 1965
+    },
+    "North by Northwest": {
+      "id": 213,
+      "poster": "/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg",
+      "title": "North by Northwest",
+      "year": 1959
+    },
+    "The Lives of Others": {
+      "id": 582,
+      "poster": "/cVUDMnskSc01rdbyH0tLATTJUdP.jpg",
+      "title": "The Lives of Others",
+      "year": 2006
+    },
+    "Argo": {
+      "id": 68734,
+      "poster": "/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
+      "title": "Argo",
+      "year": 2012
+    },
+    "Three Days of the Condor": {
+      "id": 11963,
+      "poster": "/zinwtZqdb7gnc4zMu8dfkK1fMN3.jpg",
+      "title": "Three Days of the Condor",
+      "year": 1975
+    },
+    "The Bourne Legacy": {
+      "id": 49040,
+      "poster": "/1aExL5DTGHj25ZfIC3dDwS84RWi.jpg",
+      "title": "The Bourne Legacy",
+      "year": 2012
+    },
+    "From Russia With Love": {
+      "id": 657,
+      "poster": "/zx4V17FP8oclNvOpTgs2iCCtiYk.jpg",
+      "title": "From Russia with Love",
+      "year": 1963
+    },
+    "Ronin": {
+      "id": 8195,
+      "poster": "/AirrhRJjHwytOV0pdLu7YZ4DEyr.jpg",
+      "title": "Ronin",
+      "year": 1998
+    },
+    "The Manchurian Candidate": {
+      "id": 982,
+      "poster": "/2xQ856kd9hw6bB3OnusGyTvvkwB.jpg",
+      "title": "The Manchurian Candidate",
+      "year": 1962
+    },
+    "Marathon Man": {
+      "id": 10518,
+      "poster": "/uPNgubSiri2yvBQRPtP77ViYjN.jpg",
+      "title": "Marathon Man",
+      "year": 1976
+    },
+    "Mission: Impossible III": {
+      "id": 956,
+      "poster": "/vKGYCpmQyV9uHybWDzXuII8Los5.jpg",
+      "title": "Mission: Impossible III",
+      "year": 2006
+    },
+    "Munich": {
+      "id": 612,
+      "poster": "/iUekaw96QLInZpsNwRTlRKrZgwm.jpg",
+      "title": "Munich",
+      "year": 2005
+    },
+    "Our Man in Havana": {
+      "id": 25495,
+      "poster": "/6R6zIKywC8rNo6fT1YBDeEAUmEb.jpg",
+      "title": "Our Man in Havana",
+      "year": 1960
+    },
+    "Charlie Wilson's War": {
+      "id": 6538,
+      "poster": "/45FghqcdSYRWK7PsHUInaFPNd8l.jpg",
+      "title": "Charlie Wilson's War",
+      "year": 2007
+    },
+    "Skyfall": {
+      "id": 37724,
+      "poster": "/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
+      "title": "Skyfall",
+      "year": 2012
+    },
+    "Casino Royale": {
+      "id": 36557,
+      "poster": "/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
+      "title": "Casino Royale",
+      "year": 2006
+    },
+    "The Bourne Identity": {
+      "id": 2501,
+      "poster": "/aP8swke3gmowbkfZ6lmNidu0y9p.jpg",
+      "title": "The Bourne Identity",
+      "year": 2002
+    },
+    "Bridge of Spies": {
+      "id": 296098,
+      "poster": "/fmOOjHAQzxr0c1sfcY4qkiSRBH6.jpg",
+      "title": "Bridge of Spies",
+      "year": 2015
+    },
+    "No Way Out": {
+      "id": 10083,
+      "poster": "/93CzsBvRhg035yvQosRtSsTL19v.jpg",
+      "title": "No Way Out",
+      "year": 1987
+    },
+    "Revenge": {
+      "id": 14249,
+      "poster": "/83diOZcg6ZiY8voNy2k4BX9TsMf.jpg",
+      "title": "Revenge",
+      "year": 1990
+    },
+    "Duplicity": {
+      "id": 16558,
+      "poster": "/vpWQs3CjwG6Er3DgZlv4L3NFjXg.jpg",
+      "title": "Duplicity",
+      "year": 2009
+    },
+    "Burn After Reading": {
+      "id": 4944,
+      "poster": "/jdwSkQu3XirmX18MNj8CqFWsCk.jpg",
+      "title": "Burn After Reading",
+      "year": 2008
+    },
+    "Spies Like Us": {
+      "id": 9080,
+      "poster": "/s0Sx8nd9Irq0aCPbsN78s0DYVlG.jpg",
+      "title": "Spies Like Us",
+      "year": 1985
+    },
+    "The Father": {
+      "id": 600354,
+      "poster": "/pr3bEQ517uMb5loLvjFQi8uLAsp.jpg",
+      "title": "The Father",
+      "year": 2020
+    },
+    "Jack Ryan: Shadow Recruit": {
+      "id": 137094,
+      "poster": "/m7HcLUodrD4lM4s0Hui1tzO2pjO.jpg",
+      "title": "Jack Ryan: Shadow Recruit",
+      "year": 2014
+    },
+    "Sicario: Day of the Soldado": {
+      "id": 400535,
+      "poster": "/qcLYofEhNh51Sk1jUWjmKHLzkqw.jpg",
+      "title": "Sicario: Day of the Soldado",
+      "year": 2018
+    },
+    "The Big Gundown": {
+      "id": 16662,
+      "poster": "/a03mr7GwtyTz8EvmZYcugOBH7hN.jpg",
+      "title": "The Big Gundown",
+      "year": 1967
+    }
+  },
+  "spotifyEpisodeId": "3bCPSrPv0aNyADD9nt0cz0"
+}

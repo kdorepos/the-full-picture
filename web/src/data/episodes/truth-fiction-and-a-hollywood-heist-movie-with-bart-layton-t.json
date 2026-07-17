@@ -1,0 +1,136 @@
+{
+  "slug": "truth-fiction-and-a-hollywood-heist-movie-with-bart-layton-t",
+  "title": "Truth, Fiction, and a Hollywood Heist Movie, With Bart Layton",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2018-06-01",
+  "runtimeMin": 30,
+  "format": "Sean Fennessey talks to Bart Layton about 'American Animals,' the true story of a college heist gone wrong, and why he built the film out of both actors and the real men who committed the crime.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Bart Layton on",
+      "films": [
+        {
+          "title": "American Animals",
+          "year": 2018,
+          "note": "Layton's fiction debut, about four college students who planned an elaborate heist of rare books from their university library. He cast Evan Peters and Barry Keoghan as leads, then wove in the real men recounting the crime documentary-style, rewriting the script after they wouldn't say his scripted lines verbatim. Premiered at Sundance; The Orchard and MoviePass co-distributed it."
+        },
+        {
+          "title": "The Imposter",
+          "year": 2012,
+          "note": "Layton's documentary debut. Two of the real subjects had seen it before he wrote to them in prison, which helped him win their trust to tell this story."
+        },
+        {
+          "title": "21",
+          "year": 2008,
+          "note": "One of the real men feared his story would get told as a sensationalized version like this one."
+        },
+        {
+          "title": "Ocean's Eleven",
+          "year": 2001,
+          "note": "Layton's shorthand for how the men imagined the heist would go."
+        },
+        {
+          "title": "Dog Day Afternoon",
+          "year": 1975,
+          "note": "Layton's shorthand for how the heist actually went, and the last great thing he'd seen (he'd rewatched it that morning). Cites Sidney Lumet's opening, real New Yorkers cut into staged shots, as a template for blurring documentary and drama."
+        },
+        {
+          "title": "Fight Club",
+          "year": 1999,
+          "note": "One of the men, Eric, described the heist as their version of this: a secret that set them apart from everyone else."
+        },
+        {
+          "title": "The Usual Suspects",
+          "year": 1995,
+          "note": "Layton's example of a film that keeps you confused for two-thirds of its runtime without losing you, the kind of patience he says TV can't get away with."
+        },
+        {
+          "title": "Molly's Game",
+          "year": 2017,
+          "note": "Layton's example of the reflex to Google the real person after a 'based on a true story' movie."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Teased for next week",
+      "films": [
+        "Hereditary"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "American Horror Story"
+    ],
+    "Books": [
+      "Ravens"
+    ],
+    "Ads": [
+      "MUBI"
+    ]
+  },
+  "tmdb": {
+    "American Animals": {
+      "id": 489931,
+      "poster": "/aLbdKxgxuOPvs6CTlmzoOQ4Yg3j.jpg",
+      "title": "American Animals",
+      "year": 2018
+    },
+    "The Imposter": {
+      "id": 84287,
+      "poster": "/bhdGcqZqPju3KEaT9J6lMxRO0TI.jpg",
+      "title": "The Imposter",
+      "year": 2012
+    },
+    "21": {
+      "id": 8065,
+      "poster": "/efG8Po57alqSlhqHU1lXJ3duG6t.jpg",
+      "title": "21",
+      "year": 2008
+    },
+    "Ocean's Eleven": {
+      "id": 161,
+      "poster": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+      "title": "Ocean's Eleven",
+      "year": 2001
+    },
+    "Dog Day Afternoon": {
+      "id": 968,
+      "poster": "/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg",
+      "title": "Dog Day Afternoon",
+      "year": 1975
+    },
+    "Fight Club": {
+      "id": 550,
+      "poster": "/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+      "title": "Fight Club",
+      "year": 1999
+    },
+    "The Usual Suspects": {
+      "id": 629,
+      "poster": "/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg",
+      "title": "The Usual Suspects",
+      "year": 1995
+    },
+    "Molly's Game": {
+      "id": 396371,
+      "poster": "/zrGQwKNmAz5awZI2V1k5M4eTTTN.jpg",
+      "title": "Molly's Game",
+      "year": 2017
+    },
+    "Hereditary": {
+      "id": 493922,
+      "poster": "/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+      "title": "Hereditary",
+      "year": 2018
+    }
+  }
+}

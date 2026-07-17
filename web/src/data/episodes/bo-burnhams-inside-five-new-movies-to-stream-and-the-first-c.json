@@ -1,0 +1,822 @@
+{
+  "slug": "bo-burnhams-inside-five-new-movies-to-stream-and-the-first-c",
+  "title": "Bo Burnham’s ‘Inside,’ Five New Movies to Stream, and the First Couple of ‘The Big Picture’",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2021-06-08",
+  "runtimeMin": 98,
+  "format": "Sean and Amanda argue over whether Bo Burnham's Netflix special 'Inside' is a movie, hand out five streaming picks, work through a mailbag, and close with two listeners who met over Letterboxd.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Bo Burnham's 'Inside': Is It a Movie?",
+      "note": "the Netflix special, debated",
+      "films": [
+        {
+          "title": "Inside",
+          "year": 2021,
+          "note": "Burnham wrote, shot, edited, and directed it alone in one room over the pandemic. Amanda, a stated skeptic of sad-boy musical comedy, was won over; both land on movie status for its self-contained intentionality."
+        },
+        {
+          "title": "Eighth Grade",
+          "year": 2018,
+          "note": "Burnham's feature debut. Amanda wasn't a fan; Sean marks it as where his interest in Burnham started."
+        },
+        {
+          "title": "On the Count of Three",
+          "year": 2021,
+          "note": "Jerrod Carmichael's Sundance directorial debut, cited as a comedian-goes-serious swing neither host thought quite worked; Carmichael is a close friend of Burnham's."
+        },
+        {
+          "title": "Stop Making Sense",
+          "year": 1984,
+          "note": "Named as one of the concert-film DNA strands Sean hears in the special's staging."
+        },
+        {
+          "title": "Anchorman",
+          "year": 2004,
+          "note": "Shorthand for the old comedian career path (leave the stage, go make the broad mainstream comedy) that Sean thinks 'Inside' upends."
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "heading": "Five New Movies to Stream",
+      "note": "Sean's streaming recommendations",
+      "picks": [
+        {
+          "title": "Riders of Justice",
+          "year": 2020,
+          "by": "Sean Fennessey",
+          "note": "Anders Thomas Jensen's revenge drama-comedy with Mads Mikkelsen, a very different turn from Another Round. Both hosts liked its odd tonal collision of grief and buffoonery."
+        },
+        {
+          "title": "Plan B",
+          "year": 2021,
+          "by": "Sean Fennessey",
+          "note": "Natalie Morales's raunchy teen road comedy on Hulu, chasing the morning-after pill. Winning leads in Kuhoo Verma and Victoria Moroles; Amanda flagged the politics as a little uneasy."
+        },
+        {
+          "title": "Skull: The Mask",
+          "year": 2020,
+          "by": "Sean Fennessey",
+          "note": "A gross, well-executed Brazilian slasher Sean holds up against the elevated-horror wave. He promised Amanda she'll never watch it."
+        },
+        {
+          "title": "Happily",
+          "year": 2021,
+          "by": "Sean Fennessey",
+          "note": "Ben David Grabinski's disorienting couples-in-an-Airbnb fantasy with Joel McHale and Kerry Bishé, plus a deep who's-that supporting cast. Its closing song sent Sean to the fifth pick."
+        },
+        {
+          "title": "Streets of Fire",
+          "year": 1984,
+          "by": "Sean Fennessey",
+          "note": "Walter Hill's rock-and-roll fable, newly on Netflix, surfaced via a song in 'Happily.' Sean hadn't seen it in 20 years and reports it still kicks ass."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "A Criterion Commentary",
+      "note": "the plug",
+      "films": [
+        {
+          "title": "Visions of Eight",
+          "year": 1973,
+          "note": "The 1972 Munich Olympics documentary by eight directors. Sean, Amanda, Chris Ryan, and producer Bobby Wagner recorded a commentary for Criterion's new Blu-ray, out June 22."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The Mailbag",
+      "note": "Oscar strategy, the Apatow guys, TV vs. film, box office, and Jaws",
+      "films": [
+        {
+          "title": "Dances with Wolves",
+          "year": 1990,
+          "note": "Floated (as a hypothetical sequel from Taylor Sheridan) in the win-an-Oscar-at-any-cost question; Amanda swears it's more than you remember."
+        },
+        {
+          "title": "Field of Dreams",
+          "year": 1989,
+          "note": "The Kevin Costner box Amanda wants to keep him in."
+        },
+        {
+          "title": "Foxcatcher",
+          "year": 2014,
+          "note": "Sean's example of Steve Carell reaching for prestige; he rates Bennett Miller's film higher than most."
+        },
+        {
+          "title": "Steve Jobs",
+          "year": 2015,
+          "note": "Seth Rogen as Wozniak, offered as evidence the Apatow guys keep circling seriousness."
+        },
+        {
+          "title": "Don't Look Up",
+          "year": 2021,
+          "note": "Jonah Hill's next, an Adam McKay ensemble; hard to gauge how large the role is."
+        },
+        {
+          "title": "The 40-Year-Old Virgin",
+          "year": 2005,
+          "note": "Raised in the who-owns-Steve-Carell question of Apatow vs. McKay vs. the Office universe."
+        },
+        {
+          "title": "Marriage Story",
+          "year": 2019,
+          "note": "One of the few Netflix films that made it to a Criterion physical release, in Sean's link-rot argument for owning what you love."
+        },
+        {
+          "title": "Roma",
+          "year": 2018,
+          "note": "Cited alongside Marriage Story as a purchasable Netflix title, the exception to the rule."
+        },
+        {
+          "title": "The Irishman",
+          "year": 2019,
+          "note": "Another Netflix-to-Criterion title, and a punchline about historically significant movies that don't win."
+        },
+        {
+          "title": "Blow Out",
+          "year": 1981,
+          "note": "Sean's example of memorializing fandom with a hard copy; a De Palma favorite he'd pull off the shelf."
+        },
+        {
+          "title": "Chinatown",
+          "year": 1974,
+          "note": "Surfaces via Sam Wasson's The Big Goodbye in the best New Hollywood book question."
+        },
+        {
+          "title": "Black Widow",
+          "year": 2021,
+          "note": "Box office prediction; the Disney+ Premier Access wrinkle makes it the odd Marvel proposition."
+        },
+        {
+          "title": "F9",
+          "year": 2021,
+          "note": "On the table as a theaters-only tentpole."
+        },
+        {
+          "title": "Dune",
+          "year": 2021,
+          "note": "Going to HBO Max but still feels like a big-ticket item."
+        },
+        {
+          "title": "No Time to Die",
+          "year": 2021,
+          "note": "Theaters-only Bond, a safe bet among the year's biggest."
+        },
+        {
+          "title": "Top Gun: Maverick",
+          "year": 2022,
+          "note": "Named 'Top Gun 2' in the 2021 box office guesses."
+        },
+        {
+          "title": "A Quiet Place Part II",
+          "year": 2021,
+          "note": "Headed to Paramount+ soon; interesting as one of the first movies back."
+        },
+        {
+          "title": "Venom",
+          "year": 2018,
+          "note": "The surprise first hit, cited to argue its sequel will be huge too."
+        },
+        {
+          "title": "Venom: Let There Be Carnage",
+          "year": 2021,
+          "note": "Part of the busy October Sean expects."
+        },
+        {
+          "title": "Jaws",
+          "year": 1975,
+          "note": "Would you CGI the shark to look more believable? Absolute no from both. Sean rewatched it the night before and loves the shark on the boat most."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "The First Couple of 'The Big Picture'",
+      "note": "Ben and Erica, who met over Letterboxd",
+      "guest": "Ben and Erica on",
+      "films": [
+        {
+          "title": "Mank",
+          "year": 2020,
+          "note": "The shared enthusiasm that first connected them; Ben calls his relationship 'equal parts Mank and equal parts Sean Fennessey.'"
+        },
+        {
+          "title": "Sicario",
+          "year": 2015,
+          "note": "Ben watched one of Erica's favorites on purpose as an early signal; she only learned it was deliberate later."
+        },
+        {
+          "title": "Brief Encounter",
+          "year": 1945,
+          "note": "His Valentine's Day review of it, which Erica read as a signal without realizing."
+        },
+        {
+          "title": "I Think I Love My Wife",
+          "year": 2007,
+          "note": "Ben's Chris Rock review mentioned he was single; Erica took it as a hint to message him."
+        },
+        {
+          "title": "House",
+          "year": 1977,
+          "note": "Nobuhiko Obayashi's 'Hausu,' their first movie watched together in person, five stars from both."
+        },
+        {
+          "title": "Under Siege",
+          "year": 1992,
+          "note": "Their first long-distance Zoom-night date."
+        },
+        {
+          "title": "Kill Bill: Vol. 1",
+          "year": 2003,
+          "note": "Erica's contested opinion: two stars for Vol. 1, which Ben can't abide."
+        },
+        {
+          "title": "Kill Bill: Vol. 2",
+          "year": 2004,
+          "note": "Four stars from Erica, who's in it for the narrative and the heart, not the fight scenes."
+        },
+        {
+          "title": "Before Sunrise",
+          "year": 1995,
+          "note": "The basis for Ben's viral joke Letterboxd-dating-app meme, with Hawke and Delpy's profiles."
+        },
+        {
+          "title": "The Lost City of Z",
+          "year": 2017,
+          "note": "Amanda's movie-draft pick that she thought was a slam dunk: a James Gray movie beloved by her and the show, big in Europe, ignored at home."
+        },
+        {
+          "title": "Thor: Ragnarok",
+          "year": 2017,
+          "note": "The crowd-pleaser that, Amanda jokes, wins the draft over her prestige picks anyway."
+        },
+        {
+          "title": "Ghost World",
+          "year": 2001,
+          "note": "A core text for Ben and Erica; Ben says its disgust-but-yearning tone is the tone of their relationship."
+        },
+        {
+          "title": "Crumb",
+          "year": 1994,
+          "note": "Named among Terry Zwigoff's range as Sean's example of an underserved filmmaker."
+        },
+        {
+          "title": "Bad Santa",
+          "year": 2003,
+          "note": "The other end of Zwigoff's diverse, mainstream filmography."
+        },
+        {
+          "title": "The Love Witch",
+          "year": 2016,
+          "note": "Anna Biller's film, raised by Erica as a fascinating director who gets little coverage; Sean once tried and failed to interview her for its release."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Named in the 'Riders of Justice' action-comedy riff",
+      "films": [
+        "The Hitman's Bodyguard",
+        "The Gentlemen",
+        "Hobbs & Shaw",
+        "Birds of Prey",
+        "Game Night",
+        "Lethal Weapon",
+        "Hitman's Wife's Bodyguard",
+        "Another Round",
+        "The Conjuring: The Devil Made Me Do It"
+      ]
+    },
+    {
+      "group": "Altman's New Hollywood, rattled off in the book question",
+      "films": [
+        "The Long Goodbye",
+        "MASH",
+        "California Split",
+        "Images",
+        "3 Women",
+        "Bonnie and Clyde",
+        "The Wild Bunch",
+        "Shampoo"
+      ]
+    },
+    {
+      "group": "In the mailbag, in passing",
+      "films": [
+        "Florence Foster Jenkins",
+        "Rango"
+      ]
+    },
+    {
+      "group": "In the interview, in passing",
+      "films": [
+        "Ghostbusters",
+        "Se7en",
+        "Fight Club",
+        "Fear Street Part One: 1994",
+        "Scream",
+        "Dazed and Confused",
+        "Lady Bird"
+      ]
+    },
+    {
+      "group": "Teased for next episode",
+      "films": [
+        "In the Heights"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Frasier",
+      "Seinfeld",
+      "The Office",
+      "Mare of Easttown",
+      "The Underground Railroad",
+      "Lisey's Story",
+      "The Falcon and the Winter Soldier",
+      "George Carlin: Back in Town"
+    ],
+    "Podcasts": [
+      "Higher Learning",
+      "The Rewatchables",
+      "You Must Remember This",
+      "The Watch"
+    ],
+    "Books": [
+      "Easy Riders, Raging Bulls",
+      "The Big Goodbye",
+      "Pictures at a Revolution",
+      "Robert Altman: The Oral Biography",
+      "The Dream Life",
+      "Make My Day"
+    ],
+    "Not a film": [
+      "The Muppets Great Gatsby (a viral spec script)"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "Nespresso",
+      "White Claw"
+    ]
+  },
+  "tmdbOverrides": {
+    "Inside": 823754,
+    "Anchorman": 8699,
+    "Ghostbusters": 620,
+    "Birds of Prey": 495764,
+    "Hobbs & Shaw": 384018,
+    "Fear Street Part One: 1994": 591273
+  },
+  "tmdb": {
+    "Inside": {
+      "id": 823754,
+      "poster": "/ku1UvTWYvhFQbSesOD6zteY7bXT.jpg",
+      "title": "Bo Burnham: Inside",
+      "year": 2021
+    },
+    "Eighth Grade": {
+      "id": 489925,
+      "poster": "/xTa9cLhGHfQ7084UvoPQ2bBXKqd.jpg",
+      "title": "Eighth Grade",
+      "year": 2018
+    },
+    "On the Count of Three": {
+      "id": 776512,
+      "poster": "/mv5v3xtiRqpMyP1XWRnRl5s38lV.jpg",
+      "title": "On the Count of Three",
+      "year": 2022
+    },
+    "Stop Making Sense": {
+      "id": 24128,
+      "poster": "/utNpurUe1MMjEaHqvpkfxgfpSnV.jpg",
+      "title": "Stop Making Sense",
+      "year": 1984
+    },
+    "Anchorman": {
+      "id": 8699,
+      "poster": "/mhZIcRePT7U8viFQVjt1ZjYIsR4.jpg",
+      "title": "Anchorman: The Legend of Ron Burgundy",
+      "year": 2004
+    },
+    "Riders of Justice": {
+      "id": 663870,
+      "poster": "/sshNnwmQLk720iBQ0dZg3GVGKfK.jpg",
+      "title": "Riders of Justice",
+      "year": 2020
+    },
+    "Plan B": {
+      "id": 743599,
+      "poster": "/fYWWORzYJrs6qXUO4JeRll2zdAZ.jpg",
+      "title": "Plan B",
+      "year": 2021
+    },
+    "Skull: The Mask": {
+      "id": 704269,
+      "poster": "/2Bt11FIme9eFM6jUTZd5Tnc8Jwb.jpg",
+      "title": "Skull: The Mask",
+      "year": 2020
+    },
+    "Happily": {
+      "id": 673319,
+      "poster": "/uCV98jOIxwd0SMICfHFNcuo5CHS.jpg",
+      "title": "Happily",
+      "year": 2021
+    },
+    "Streets of Fire": {
+      "id": 14746,
+      "poster": "/tmYHBKCZkbmiUfhfOQKgfh0jvXK.jpg",
+      "title": "Streets of Fire",
+      "year": 1984
+    },
+    "Visions of Eight": {
+      "id": 73319,
+      "poster": "/mzVkecyq9ZUh5kaF8caVwr7tHso.jpg",
+      "title": "Visions of Eight",
+      "year": 1973
+    },
+    "Dances with Wolves": {
+      "id": 581,
+      "poster": "/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg",
+      "title": "Dances with Wolves",
+      "year": 1990
+    },
+    "Field of Dreams": {
+      "id": 2323,
+      "poster": "/oeM7nAw6FVFICwUaXKCRkDsKjqO.jpg",
+      "title": "Field of Dreams",
+      "year": 1989
+    },
+    "Foxcatcher": {
+      "id": 87492,
+      "poster": "/w6Sl079QtUcQ9dVQ2RP6aN9NBXx.jpg",
+      "title": "Foxcatcher",
+      "year": 2014
+    },
+    "Steve Jobs": {
+      "id": 321697,
+      "poster": "/ljiRO29Y9khEERRqMluptUYunJ9.jpg",
+      "title": "Steve Jobs",
+      "year": 2015
+    },
+    "Don't Look Up": {
+      "id": 646380,
+      "poster": "/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+      "title": "Don't Look Up",
+      "year": 2021
+    },
+    "The 40-Year-Old Virgin": {
+      "id": 6957,
+      "poster": "/mVeoqL37gzhMXQVpONi9DGOQ3tZ.jpg",
+      "title": "The 40 Year Old Virgin",
+      "year": 2005
+    },
+    "Marriage Story": {
+      "id": 492188,
+      "poster": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+      "title": "Marriage Story",
+      "year": 2019
+    },
+    "Roma": {
+      "id": 426426,
+      "poster": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+      "title": "Roma",
+      "year": 2018
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Blow Out": {
+      "id": 11644,
+      "poster": "/uFzMscVLDrTaYd6KXOXlr6dly7w.jpg",
+      "title": "Blow Out",
+      "year": 1981
+    },
+    "Chinatown": {
+      "id": 829,
+      "poster": "/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg",
+      "title": "Chinatown",
+      "year": 1974
+    },
+    "Black Widow": {
+      "id": 497698,
+      "poster": "/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+      "title": "Black Widow",
+      "year": 2021
+    },
+    "F9": {
+      "id": 385128,
+      "poster": "/deEmLILTPejEb6OGsXRJ5MCvyDW.jpg",
+      "title": "F9",
+      "year": 2021
+    },
+    "Dune": {
+      "id": 438631,
+      "poster": "/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "title": "Dune",
+      "year": 2021
+    },
+    "No Time to Die": {
+      "id": 370172,
+      "poster": "/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+      "title": "No Time to Die",
+      "year": 2021
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "A Quiet Place Part II": {
+      "id": 520763,
+      "poster": "/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",
+      "title": "A Quiet Place Part II",
+      "year": 2021
+    },
+    "Venom": {
+      "id": 335983,
+      "poster": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+      "title": "Venom",
+      "year": 2018
+    },
+    "Venom: Let There Be Carnage": {
+      "id": 580489,
+      "poster": "/pzKsRuKLFmYrW5Q0q8E8G78Tcgo.jpg",
+      "title": "Venom: Let There Be Carnage",
+      "year": 2021
+    },
+    "Jaws": {
+      "id": 578,
+      "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "title": "Jaws",
+      "year": 1975
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "Sicario": {
+      "id": 273481,
+      "poster": "/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+      "title": "Sicario",
+      "year": 2015
+    },
+    "Brief Encounter": {
+      "id": 851,
+      "poster": "/jC9EwLJcGhYMSQAHu2LxkKN5v7O.jpg",
+      "title": "Brief Encounter",
+      "year": 1945
+    },
+    "I Think I Love My Wife": {
+      "id": 14434,
+      "poster": "/lJHg7ExSTszC8ItsufcmSPeN0vW.jpg",
+      "title": "I Think I Love My Wife",
+      "year": 2007
+    },
+    "House": {
+      "id": 25623,
+      "poster": "/myMnHnG6kxYaQYknnW76VCHBpYT.jpg",
+      "title": "House",
+      "year": 1977
+    },
+    "Under Siege": {
+      "id": 8845,
+      "poster": "/myHxm9p8fhEsXyaLO6DawYJKolg.jpg",
+      "title": "Under Siege",
+      "year": 1992
+    },
+    "Kill Bill: Vol. 1": {
+      "id": 24,
+      "poster": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+      "title": "Kill Bill: Vol. 1",
+      "year": 2003
+    },
+    "Kill Bill: Vol. 2": {
+      "id": 393,
+      "poster": "/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
+      "title": "Kill Bill: Vol. 2",
+      "year": 2004
+    },
+    "Before Sunrise": {
+      "id": 76,
+      "poster": "/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg",
+      "title": "Before Sunrise",
+      "year": 1995
+    },
+    "The Lost City of Z": {
+      "id": 314095,
+      "poster": "/8SxHVNk6tqXYwygmDzz1YuJEm2J.jpg",
+      "title": "The Lost City of Z",
+      "year": 2017
+    },
+    "Thor: Ragnarok": {
+      "id": 284053,
+      "poster": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "title": "Thor: Ragnarok",
+      "year": 2017
+    },
+    "Ghost World": {
+      "id": 1548,
+      "poster": "/uwKqnUPE4dSM0kKuMW0vXpURh2T.jpg",
+      "title": "Ghost World",
+      "year": 2001
+    },
+    "Crumb": {
+      "id": 26564,
+      "poster": "/9ocTHdBCJdwJ65Tubg3lYlfMxEY.jpg",
+      "title": "Crumb",
+      "year": 1995
+    },
+    "Bad Santa": {
+      "id": 10147,
+      "poster": "/rfClLIyeHqpMofmrPY8DaLe4z9x.jpg",
+      "title": "Bad Santa",
+      "year": 2003
+    },
+    "The Love Witch": {
+      "id": 374052,
+      "poster": "/q6mZjCwGn9KCTrStTRM88pui0is.jpg",
+      "title": "The Love Witch",
+      "year": 2016
+    },
+    "The Hitman's Bodyguard": {
+      "id": 390043,
+      "poster": "/5CGjlz2vyBhW5xHW4eNOZIdgzYq.jpg",
+      "title": "The Hitman's Bodyguard",
+      "year": 2017
+    },
+    "The Gentlemen": {
+      "id": 522627,
+      "poster": "/jtrhTYB7xSrJxR1vusu99nvnZ1g.jpg",
+      "title": "The Gentlemen",
+      "year": 2020
+    },
+    "Hobbs & Shaw": {
+      "id": 384018,
+      "poster": "/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg",
+      "title": "Fast & Furious Presents: Hobbs & Shaw",
+      "year": 2019
+    },
+    "Birds of Prey": {
+      "id": 495764,
+      "poster": "/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
+      "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "year": 2020
+    },
+    "Game Night": {
+      "id": 445571,
+      "poster": "/85R8LMyn9f2Lev2YPBF8Nughrkv.jpg",
+      "title": "Game Night",
+      "year": 2018
+    },
+    "Lethal Weapon": {
+      "id": 941,
+      "poster": "/fTq4ThIP3pQTYR9eDepsbDHqdcs.jpg",
+      "title": "Lethal Weapon",
+      "year": 1987
+    },
+    "Hitman's Wife's Bodyguard": {
+      "id": 522931,
+      "poster": "/6zwGWDpY8Zu0L6W4SYWERBR8Msw.jpg",
+      "title": "Hitman's Wife's Bodyguard",
+      "year": 2021
+    },
+    "Another Round": {
+      "id": 580175,
+      "poster": "/aDcIt4NHURLKnAEu7gow51Yd00Q.jpg",
+      "title": "Another Round",
+      "year": 2020
+    },
+    "The Conjuring: The Devil Made Me Do It": {
+      "id": 423108,
+      "poster": "/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg",
+      "title": "The Conjuring: The Devil Made Me Do It",
+      "year": 2021
+    },
+    "The Long Goodbye": {
+      "id": 1847,
+      "poster": "/16Gu0Vg7tBdoRxg1NJDwlTKx1hG.jpg",
+      "title": "The Long Goodbye",
+      "year": 1973
+    },
+    "MASH": {
+      "id": 651,
+      "poster": "/on8Q9LhtHYNhmITjUMpgOUkIG8o.jpg",
+      "title": "M*A*S*H",
+      "year": 1970
+    },
+    "California Split": {
+      "id": 32044,
+      "poster": "/sohTpACV6S7Af07XKkRUUvLNf4k.jpg",
+      "title": "California Split",
+      "year": 1974
+    },
+    "Images": {
+      "id": 29449,
+      "poster": "/d9EobHDOwYc1c59vgzEgtTDS1lM.jpg",
+      "title": "Images",
+      "year": 1972
+    },
+    "3 Women": {
+      "id": 41662,
+      "poster": "/uL5Yg8MEgHGXymTaJBYXn9g0xsH.jpg",
+      "title": "3 Women",
+      "year": 1977
+    },
+    "Bonnie and Clyde": {
+      "id": 475,
+      "poster": "/sCSQFK9kMsprT4jgWqgw82dT6WI.jpg",
+      "title": "Bonnie and Clyde",
+      "year": 1967
+    },
+    "The Wild Bunch": {
+      "id": 576,
+      "poster": "/8j9yEC3xjy1PJDSizIbaxcHaSph.jpg",
+      "title": "The Wild Bunch",
+      "year": 1969
+    },
+    "Shampoo": {
+      "id": 31121,
+      "poster": "/6jmFvXPV6OhtX3AkAVnH7rwdeUJ.jpg",
+      "title": "Shampoo",
+      "year": 1975
+    },
+    "Florence Foster Jenkins": {
+      "id": 315664,
+      "poster": "/1HAdtUchzWEo0LMFHrgD2UBIBS3.jpg",
+      "title": "Florence Foster Jenkins",
+      "year": 2016
+    },
+    "Rango": {
+      "id": 44896,
+      "poster": "/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
+      "title": "Rango",
+      "year": 2011
+    },
+    "Ghostbusters": {
+      "id": 620,
+      "poster": "/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
+      "title": "Ghostbusters",
+      "year": 1984
+    },
+    "Se7en": {
+      "id": 807,
+      "poster": "/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+      "title": "Se7en",
+      "year": 1995
+    },
+    "Fight Club": {
+      "id": 550,
+      "poster": "/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+      "title": "Fight Club",
+      "year": 1999
+    },
+    "Fear Street Part One: 1994": {
+      "id": 591273,
+      "poster": "/9J9Wy39ZjrVmfk7yMkulpcI5sy0.jpg",
+      "title": "Fear Street: 1994",
+      "year": 2021
+    },
+    "Scream": {
+      "id": 4232,
+      "poster": "/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+      "title": "Scream",
+      "year": 1996
+    },
+    "Dazed and Confused": {
+      "id": 9571,
+      "poster": "/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+      "title": "Dazed and Confused",
+      "year": 1993
+    },
+    "Lady Bird": {
+      "id": 391713,
+      "poster": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+      "title": "Lady Bird",
+      "year": 2017
+    },
+    "In the Heights": {
+      "id": 467909,
+      "poster": "/RO4KoJyoQMQzh9z76d4v4FJMmJ.jpg",
+      "title": "In the Heights",
+      "year": 2021
+    }
+  }
+}

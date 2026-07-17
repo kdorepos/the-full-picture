@@ -1,0 +1,889 @@
+{
+  "slug": "halloween-ends-and-the-halloween-movie-rankings",
+  "title": "'Halloween Ends' and the 'Halloween' Movie Rankings",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Chris Ryan"
+  ],
+  "published": "2022-10-18",
+  "runtimeMin": 77,
+  "format": "Sean Fennessey and Chris Ryan on 'Halloween Ends,' a loaded year for horror, and a ranking of all 13 'Halloween' films.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "A loaded year for horror",
+      "note": "the genre keeping non-franchise movies alive",
+      "films": [
+        {
+          "title": "Scream",
+          "year": 2022,
+          "note": "The Radio Silence sequel, which both hosts liked."
+        },
+        {
+          "title": "Doctor Strange in the Multiverse of Madness",
+          "year": 2022,
+          "note": "Basically a horror film for its second act; maybe the last good MCU movie, Ryan says."
+        },
+        {
+          "title": "Nope",
+          "year": 2022,
+          "note": "Sold as a conspiracy thriller but built like Spielbergian horror."
+        },
+        {
+          "title": "Barbarian",
+          "year": 2022,
+          "note": "They spent an hour explaining the whole film to Amanda Dobbins on the show."
+        },
+        {
+          "title": "Smile",
+          "year": 2022,
+          "note": "A box-office sensation neither host had seen yet."
+        },
+        {
+          "title": "X",
+          "year": 2022,
+          "note": "One of Ti West's two A24 films this year."
+        },
+        {
+          "title": "Pearl",
+          "year": 2022,
+          "note": "West's other 2022 release, a prequel to X."
+        },
+        {
+          "title": "Prey",
+          "year": 2022,
+          "note": "The Predator movie they loved; action-horror."
+        },
+        {
+          "title": "The Invitation",
+          "year": 2022,
+          "note": "A box-office success Fennessey still hadn't seen."
+        },
+        {
+          "title": "Resurrection",
+          "year": 2022,
+          "note": "Rebecca Hall thriller."
+        },
+        {
+          "title": "Terrifier 2",
+          "year": 2022,
+          "note": "Crowdfunded Dread Central splatter sequel with Tom Savini-level practical effects; an indie sensation."
+        },
+        {
+          "title": "Watcher",
+          "year": 2022,
+          "note": "Sundance movie with Maika Monroe that debuted on Shudder."
+        },
+        {
+          "title": "Hellraiser",
+          "year": 2022,
+          "note": "The Hulu reboot Ryan didn't care for."
+        },
+        {
+          "title": "Men",
+          "year": 2022,
+          "note": "Alex Garland's soft-horror A24 title."
+        },
+        {
+          "title": "Bodies Bodies Bodies",
+          "year": 2022,
+          "note": "The other soft-horror A24 movie."
+        },
+        {
+          "title": "Orphan: First Kill",
+          "year": 2022,
+          "note": "The prequel Ryan thought was quality."
+        },
+        {
+          "title": "Bones and All",
+          "year": 2022,
+          "note": "Luca Guadagnino cannibal drama with Mark Rylance; Fennessey is out on cannibalism."
+        },
+        {
+          "title": "Speak No Evil",
+          "year": 2022,
+          "note": "Fennessey's favorite horror movie of the year and the most demented; listeners were mad he recommended it."
+        },
+        {
+          "title": "Hellbender",
+          "year": 2021,
+          "note": "Small family-made psychedelic horror on Shudder."
+        },
+        {
+          "title": "The Sadness",
+          "year": 2021,
+          "note": "An extremely violent COVID allegory."
+        },
+        {
+          "title": "Glorious",
+          "year": 2022,
+          "note": "A god in a bathroom glory hole, with Ryan Kwanten; cleverer than it sounds."
+        },
+        {
+          "title": "What Josiah Saw",
+          "year": 2021,
+          "note": "Shudder pickup."
+        },
+        {
+          "title": "Who Invited Them",
+          "year": 2022,
+          "note": "Shudder release Ryan mentioned the week before."
+        },
+        {
+          "title": "Saloum",
+          "year": 2023,
+          "note": "Senegalese warlord drama that turns supernatural; From Dusk Till Dawn energy."
+        },
+        {
+          "title": "Mad God",
+          "year": 2021,
+          "note": "Stop-motion from effects artist Phil Tippett."
+        },
+        {
+          "title": "Deadstream",
+          "year": 2022,
+          "note": "Found-footage comedy that just premiered."
+        },
+        {
+          "title": "Dark Glasses",
+          "year": 2022,
+          "note": "New Dario Argento."
+        },
+        {
+          "title": "V/H/S/99",
+          "year": 2022,
+          "note": "The anthology entry Fennessey was most jacked for."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "'Halloween Ends'",
+      "note": "David Gordon Green's final Myers film",
+      "films": [
+        {
+          "title": "Halloween Ends",
+          "year": 2022,
+          "note": "The trilogy closer runs 50-plus minutes without Michael and is largely a River's Edge-style story about outcast Corey Campbell. Fennessey felt it served too many masters; Ryan liked the bracing opening and the wood-chipper finale."
+        }
+      ]
+    },
+    {
+      "kind": "ranking",
+      "heading": "Ranking all 13 'Halloween' films",
+      "note": "best to worst",
+      "subject": "Halloween",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Halloween (Carpenter)",
+          "year": 1978,
+          "note": "The easiest No. 1 on the list; Carpenter's original."
+        },
+        {
+          "title": "Halloween III: Season of the Witch",
+          "year": 1982,
+          "note": "The Michael-free anthology swing, reclaimed as a fan favorite; feels the most Carpenter."
+        },
+        {
+          "title": "Halloween II (Rosenthal)",
+          "year": 1981,
+          "note": "Rosenthal's very good slasher, home of the hot-tub kill."
+        },
+        {
+          "title": "Halloween H20: 20 Years Later",
+          "year": 1998,
+          "note": "Fennessey's favorite use of Jamie Lee Curtis, with an uncredited Kevin Williamson rewrite; Ryan would drop it lower solo."
+        },
+        {
+          "title": "Halloween (Green)",
+          "year": 2018,
+          "note": "David Gordon Green's table-setter."
+        },
+        {
+          "title": "Halloween 4: The Return of Michael Myers",
+          "year": 1988,
+          "note": "Dwight H. Little starts the Jamie Lloyd trilogy; the Kathleen Kinmont wall-mount kill."
+        },
+        {
+          "title": "Halloween 5: The Revenge of Michael Myers",
+          "year": 1989,
+          "note": "The rushed direct sequel; the Man in Black."
+        },
+        {
+          "title": "Halloween II (Zombie)",
+          "year": 2009,
+          "note": "Rob Zombie's ultimate feel-bad movie, and Ryan's favorite of the pair."
+        },
+        {
+          "title": "Halloween Kills",
+          "year": 2021,
+          "note": "Fennessey defended its mob-mentality idea; Ryan cared for it less."
+        },
+        {
+          "title": "Halloween (Zombie)",
+          "year": 2007,
+          "note": "Rob Zombie's mangy but technically striking reboot with an unsympathetic Haddonfield."
+        },
+        {
+          "title": "Halloween: The Curse of Michael Myers",
+          "year": 1995,
+          "note": "Paul Rudd as grown-up Tommy Doyle in the druid-cult entry; confusing and disliked."
+        },
+        {
+          "title": "Halloween Ends",
+          "year": 2022,
+          "note": "Fennessey slots it at 12; he really didn't care for it."
+        },
+        {
+          "title": "Halloween: Resurrection",
+          "year": 2002,
+          "note": "The agreed-upon worst, redeemed only by Busta Rhymes."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The Mark Rylance tangent",
+      "films": [
+        "The Outfit",
+        "Don't Look Up",
+        "Bridge of Spies"
+      ]
+    },
+    {
+      "group": "'Halloween Ends' touchstones",
+      "films": [
+        "The Thing",
+        "Badlands",
+        "River's Edge",
+        "Bonnie and Clyde",
+        "Over the Edge",
+        "Blackboard Jungle"
+      ]
+    },
+    {
+      "group": "Phil Tippett's résumé",
+      "films": [
+        "RoboCop",
+        "Jurassic Park"
+      ]
+    },
+    {
+      "group": "More from the Shudder library",
+      "films": [
+        "Four Flies on Grey Velvet"
+      ]
+    },
+    {
+      "group": "Rob Zombie beyond Halloween",
+      "films": [
+        "The Munsters",
+        "House of 1000 Corpses",
+        "The Devil's Rejects",
+        "The Lords of Salem"
+      ]
+    },
+    {
+      "group": "The 2000s slasher reboots",
+      "films": [
+        "The Texas Chainsaw Massacre",
+        "Friday the 13th",
+        "A Nightmare on Elm Street"
+      ]
+    },
+    {
+      "group": "A Final Destination detour",
+      "films": [
+        "Final Destination",
+        "Final Destination 3"
+      ]
+    },
+    {
+      "group": "The Dwight H. Little filmography",
+      "films": [
+        "Marked for Death",
+        "Free Willy 2: The Adventure Home",
+        "Free Willy",
+        "Murder at 1600",
+        "Tekken",
+        "The Phantom of the Opera",
+        "Broken Arrow"
+      ]
+    },
+    {
+      "group": "Josh Hartnett, what could've been",
+      "films": [
+        "The Faculty",
+        "40 Days and 40 Nights",
+        "Hollywood Homicide",
+        "The Last Boy Scout"
+      ]
+    },
+    {
+      "group": "Fennessey's October watchlist",
+      "films": [
+        "Dominion: Prequel to the Exorcist",
+        "Exorcist: The Beginning",
+        "Amityville II: The Possession",
+        "Laura Hasn't Slept",
+        "Road Games",
+        "Psycho II",
+        "Patrick",
+        "V/H/S/94",
+        "Significant Other"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Escape from L.A.",
+        "Dazed and Confused",
+        "Ticket to Paradise"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Road Games": 43089,
+    "Patrick": 17212,
+    "The Phantom of the Opera": 86962
+  },
+  "excluded": {
+    "TV": [
+      "Werewolf by Night",
+      "House of the Dragon",
+      "The Munsters (1960s series)",
+      "The Twilight Zone",
+      "True Blood",
+      "Mayor of Kingstown",
+      "Tulsa King",
+      "The Last Drive-In with Joe Bob Briggs",
+      "The 101 Scariest Movie Moments of All Time"
+    ],
+    "Ads": [
+      "Netflix FIFA World Cup game",
+      "Carvana",
+      "Boar's Head",
+      "NOS Energy",
+      "FanDuel",
+      "Whole Foods",
+      "Wayfair",
+      "Gamblers (podcast)"
+    ]
+  },
+  "tmdb": {
+    "Scream": {
+      "id": 646385,
+      "poster": "/nD4M4Bx457ryLuKYpxFwQ2IBJ5w.jpg",
+      "title": "Scream",
+      "year": 2022
+    },
+    "Doctor Strange in the Multiverse of Madness": {
+      "id": 453395,
+      "poster": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "year": 2022
+    },
+    "Nope": {
+      "id": 762504,
+      "poster": "/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
+      "title": "Nope",
+      "year": 2022
+    },
+    "Barbarian": {
+      "id": 913290,
+      "poster": "/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
+      "title": "Barbarian",
+      "year": 2022
+    },
+    "Smile": {
+      "id": 882598,
+      "poster": "/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg",
+      "title": "Smile",
+      "year": 2022
+    },
+    "X": {
+      "id": 760104,
+      "poster": "/lopZSVtXzhFY603E9OqF7O1YKsh.jpg",
+      "title": "X",
+      "year": 2022
+    },
+    "Pearl": {
+      "id": 949423,
+      "poster": "/z5uIG81pXyHKg7cUFIu84Wjn4NS.jpg",
+      "title": "Pearl",
+      "year": 2022
+    },
+    "Prey": {
+      "id": 766507,
+      "poster": "/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg",
+      "title": "Prey",
+      "year": 2022
+    },
+    "The Invitation": {
+      "id": 830788,
+      "poster": "/jcTq6gIskCsHlKDvCKKouEfiU66.jpg",
+      "title": "The Invitation",
+      "year": 2022
+    },
+    "Resurrection": {
+      "id": 872497,
+      "poster": "/kfRr8Jm1gaEnLTXCIfHkSw8QW6t.jpg",
+      "title": "Resurrection",
+      "year": 2022
+    },
+    "Terrifier 2": {
+      "id": 663712,
+      "poster": "/qEAlwXbYk6IHA4ztoS2XFFaa7Xo.jpg",
+      "title": "Terrifier 2",
+      "year": 2022
+    },
+    "Watcher": {
+      "id": 807356,
+      "poster": "/dXCjoI3jdtBrwPHgVsyNLkl8Rvs.jpg",
+      "title": "Watcher",
+      "year": 2022
+    },
+    "Hellraiser": {
+      "id": 338947,
+      "poster": "/f9ZAIUxTTk23vo1BC9Ur1Rx5c2E.jpg",
+      "title": "Hellraiser",
+      "year": 2022
+    },
+    "Men": {
+      "id": 780609,
+      "poster": "/jo1Kv3P3UgDVk7JnUFr2Cl8WWUM.jpg",
+      "title": "Men",
+      "year": 2022
+    },
+    "Bodies Bodies Bodies": {
+      "id": 520023,
+      "poster": "/hSuTjDmqRdy7Dii8ymnF2WILTeP.jpg",
+      "title": "Bodies Bodies Bodies",
+      "year": 2022
+    },
+    "Orphan: First Kill": {
+      "id": 760161,
+      "poster": "/pHkKbIRoCe7zIFvqan9LFSaQAde.jpg",
+      "title": "Orphan: First Kill",
+      "year": 2022
+    },
+    "Bones and All": {
+      "id": 791177,
+      "poster": "/dBQuk2LkHjrDsSjueirPQg96GCc.jpg",
+      "title": "Bones and All",
+      "year": 2022
+    },
+    "Speak No Evil": {
+      "id": 833339,
+      "poster": "/ukYuuFzPTumN1QNpQyz863bcNvr.jpg",
+      "title": "Speak No Evil",
+      "year": 2022
+    },
+    "Hellbender": {
+      "id": 848886,
+      "poster": "/uLDYfeJ9BvrQsC3MBqMUjG4Hgaz.jpg",
+      "title": "Hellbender",
+      "year": 2021
+    },
+    "The Sadness": {
+      "id": 776797,
+      "poster": "/a7VHvhROWorsWrtNKQnLZTxpxuG.jpg",
+      "title": "The Sadness",
+      "year": 2021
+    },
+    "Glorious": {
+      "id": 939914,
+      "poster": "/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg",
+      "title": "Glorious",
+      "year": 2022
+    },
+    "What Josiah Saw": {
+      "id": 696605,
+      "poster": "/sfKY55tfwyg0D0m9aWibmRoKLq4.jpg",
+      "title": "What Josiah Saw",
+      "year": 2021
+    },
+    "Who Invited Them": {
+      "id": 931346,
+      "poster": "/2aY7M59bGPRqPHtUz6qGArN7bed.jpg",
+      "title": "Who Invited Them",
+      "year": 2022
+    },
+    "Saloum": {
+      "id": 858096,
+      "poster": "/yEWO77ClYNqNGMg98v2XNzV8Vx1.jpg",
+      "title": "Saloum",
+      "year": 2023
+    },
+    "Mad God": {
+      "id": 846867,
+      "poster": "/105stT9GkiENXiYqvWYKoAuHKQL.jpg",
+      "title": "Mad God",
+      "year": 2021
+    },
+    "Deadstream": {
+      "id": 886083,
+      "poster": "/dC38JMmb17geWFIjIBgNoKRMFnL.jpg",
+      "title": "Deadstream",
+      "year": 2022
+    },
+    "Dark Glasses": {
+      "id": 630720,
+      "poster": "/6dgpZwoNNlho0ZYWWTSFzjUpgA1.jpg",
+      "title": "Dark Glasses",
+      "year": 2022
+    },
+    "V/H/S/99": {
+      "id": 1005776,
+      "poster": "/1bOMmFtnykBmvhFcx8zdXO6bCAa.jpg",
+      "title": "V/H/S/99",
+      "year": 2022
+    },
+    "Halloween Ends": {
+      "id": 616820,
+      "poster": "/q06saepaXeBdkMibuN4R2fXmgIw.jpg",
+      "title": "Halloween Ends",
+      "year": 2022
+    },
+    "Halloween (Carpenter)": {
+      "id": 948,
+      "poster": "/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+      "title": "Halloween",
+      "year": 1978
+    },
+    "Halloween III: Season of the Witch": {
+      "id": 10676,
+      "poster": "/WABfdeaThFYXCySGIOvRNv2sSW.jpg",
+      "title": "Halloween III: Season of the Witch",
+      "year": 1982
+    },
+    "Halloween II (Rosenthal)": {
+      "id": 11281,
+      "poster": "/3nX5HHGgOKaVMxXwMLT9DHO1Ne6.jpg",
+      "title": "Halloween II",
+      "year": 1981
+    },
+    "Halloween H20: 20 Years Later": {
+      "id": 11675,
+      "poster": "/lqLXUm3oK59sGJKRH2Zjj2m3iMg.jpg",
+      "title": "Halloween H20: 20 Years Later",
+      "year": 1998
+    },
+    "Halloween (Green)": {
+      "id": 424139,
+      "poster": "/f7JAX5EGk4GgsEnus6OxyzwpFp7.jpg",
+      "title": "Halloween",
+      "year": 2018
+    },
+    "Halloween 4: The Return of Michael Myers": {
+      "id": 11357,
+      "poster": "/eFSOkXF9n9hsfGv45MDsPixiOyx.jpg",
+      "title": "Halloween 4: The Return of Michael Myers",
+      "year": 1988
+    },
+    "Halloween 5: The Revenge of Michael Myers": {
+      "id": 11361,
+      "poster": "/rYvP6yMXCIVHnkVtwGaAXFmpzkB.jpg",
+      "title": "Halloween 5: The Revenge of Michael Myers",
+      "year": 1989
+    },
+    "Halloween II (Zombie)": {
+      "id": 24150,
+      "poster": "/vSHPM4LQDpWdQrD5KZWK6wNqSOD.jpg",
+      "title": "Halloween II",
+      "year": 2009
+    },
+    "Halloween Kills": {
+      "id": 610253,
+      "poster": "/ir9eyz1mtgsohjvo7UYtqUfFuES.jpg",
+      "title": "Halloween Kills",
+      "year": 2021
+    },
+    "Halloween (Zombie)": {
+      "id": 2082,
+      "poster": "/cD8JrfSEI4j7WVnKM1GdiYzMoUh.jpg",
+      "title": "Halloween",
+      "year": 2007
+    },
+    "Halloween: The Curse of Michael Myers": {
+      "id": 10987,
+      "poster": "/noCnM8nEI2bEDSdKHh0RKbwBwbC.jpg",
+      "title": "Halloween: The Curse of Michael Myers",
+      "year": 1995
+    },
+    "Halloween: Resurrection": {
+      "id": 11442,
+      "poster": "/1mlKwbNzJCGzqe4i0ZEJtUUL290.jpg",
+      "title": "Halloween: Resurrection",
+      "year": 2002
+    },
+    "The Outfit": {
+      "id": 799876,
+      "poster": "/lZa5EB6PVJBT5mxhgZS5ftqdAm6.jpg",
+      "title": "The Outfit",
+      "year": 2022
+    },
+    "Don't Look Up": {
+      "id": 646380,
+      "poster": "/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+      "title": "Don't Look Up",
+      "year": 2021
+    },
+    "Bridge of Spies": {
+      "id": 296098,
+      "poster": "/fmOOjHAQzxr0c1sfcY4qkiSRBH6.jpg",
+      "title": "Bridge of Spies",
+      "year": 2015
+    },
+    "The Thing": {
+      "id": 1091,
+      "poster": "/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+      "title": "The Thing",
+      "year": 1982
+    },
+    "Badlands": {
+      "id": 3133,
+      "poster": "/z81rBzHNgiNLean2JTGHgxjJ8nq.jpg",
+      "title": "Badlands",
+      "year": 1974
+    },
+    "River's Edge": {
+      "id": 21309,
+      "poster": "/bT68aKa9d7zDF7Z8MaskbWBRqzb.jpg",
+      "title": "River's Edge",
+      "year": 1986
+    },
+    "Bonnie and Clyde": {
+      "id": 475,
+      "poster": "/sCSQFK9kMsprT4jgWqgw82dT6WI.jpg",
+      "title": "Bonnie and Clyde",
+      "year": 1967
+    },
+    "Over the Edge": {
+      "id": 23957,
+      "poster": "/qSOYYtslBhH1kXIqA3h8FgecQe7.jpg",
+      "title": "Over the Edge",
+      "year": 1979
+    },
+    "Blackboard Jungle": {
+      "id": 26516,
+      "poster": "/vPGvWlsMg4niyuGCSzvAiyjYNWC.jpg",
+      "title": "Blackboard Jungle",
+      "year": 1955
+    },
+    "RoboCop": {
+      "id": 97020,
+      "poster": "/gM5ql3BKYmHG3WtZ0buKXN7xY8O.jpg",
+      "title": "RoboCop",
+      "year": 2014
+    },
+    "Jurassic Park": {
+      "id": 329,
+      "poster": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "title": "Jurassic Park",
+      "year": 1993
+    },
+    "Four Flies on Grey Velvet": {
+      "id": 30689,
+      "poster": "/dLwvOsuZ2pklMZQOGMWe6O2i7Gw.jpg",
+      "title": "Four Flies on Grey Velvet",
+      "year": 1971
+    },
+    "The Munsters": {
+      "id": 804413,
+      "poster": "/kJaEVFhDouD72GKANMkYqzQky9n.jpg",
+      "title": "The Munsters",
+      "year": 2022
+    },
+    "House of 1000 Corpses": {
+      "id": 2662,
+      "poster": "/29c2qgXmSREosLBevOILEuMWzQC.jpg",
+      "title": "House of 1000 Corpses",
+      "year": 2003
+    },
+    "The Devil's Rejects": {
+      "id": 1696,
+      "poster": "/drZz4AuI7trq6BxlH9Xa4v4O0Pb.jpg",
+      "title": "The Devil's Rejects",
+      "year": 2005
+    },
+    "The Lords of Salem": {
+      "id": 104755,
+      "poster": "/nqZ6CGGZpQWt139YioekSYHvvkU.jpg",
+      "title": "The Lords of Salem",
+      "year": 2013
+    },
+    "The Texas Chainsaw Massacre": {
+      "id": 9373,
+      "poster": "/781px1eOtfVt1RdIsL4Dt1s3x7R.jpg",
+      "title": "The Texas Chainsaw Massacre",
+      "year": 2003
+    },
+    "Friday the 13th": {
+      "id": 4488,
+      "poster": "/uGGpnWHOmWTARVN9wbC1nPxNgps.jpg",
+      "title": "Friday the 13th",
+      "year": 1980
+    },
+    "A Nightmare on Elm Street": {
+      "id": 377,
+      "poster": "/b9rMHAAKISRmIonaQd9Cccx0S4X.jpg",
+      "title": "A Nightmare on Elm Street",
+      "year": 1984
+    },
+    "Final Destination": {
+      "id": 9532,
+      "poster": "/1mXhlQMnlfvJ2frxTjZSQNnA9Vp.jpg",
+      "title": "Final Destination",
+      "year": 2000
+    },
+    "Final Destination 3": {
+      "id": 9286,
+      "poster": "/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg",
+      "title": "Final Destination 3",
+      "year": 2006
+    },
+    "Marked for Death": {
+      "id": 10173,
+      "poster": "/xYaetJsSm5FC1zxhdW8UR1NVXzc.jpg",
+      "title": "Marked for Death",
+      "year": 1990
+    },
+    "Free Willy 2: The Adventure Home": {
+      "id": 9073,
+      "poster": "/3wpug3W5rYBdqeAnhc1UeXLE5ZF.jpg",
+      "title": "Free Willy 2: The Adventure Home",
+      "year": 1995
+    },
+    "Free Willy": {
+      "id": 1634,
+      "poster": "/9iBgd9gi9ztWiVcYSG6zl8wDFBN.jpg",
+      "title": "Free Willy",
+      "year": 1993
+    },
+    "Murder at 1600": {
+      "id": 9415,
+      "poster": "/4WPR0m8zuzFAcRJAHcGs1AxkkpB.jpg",
+      "title": "Murder at 1600",
+      "year": 1997
+    },
+    "Tekken": {
+      "id": 42194,
+      "poster": "/1xO2LirDZstkqZic1FwfK6GJIHH.jpg",
+      "title": "Tekken",
+      "year": 2010
+    },
+    "The Phantom of the Opera": {
+      "id": 86962,
+      "poster": "/ie03D5WcIKW5AHXM59KTU6TRvmf.jpg",
+      "title": "The Phantom of the Opera",
+      "year": 1989
+    },
+    "Broken Arrow": {
+      "id": 9208,
+      "poster": "/iBPMwYYJFvdCBkXrwV75peo5Lz2.jpg",
+      "title": "Broken Arrow",
+      "year": 1996
+    },
+    "The Faculty": {
+      "id": 9276,
+      "poster": "/5XetJwmAiDC0EtH23NIXaqFn3Wl.jpg",
+      "title": "The Faculty",
+      "year": 1998
+    },
+    "40 Days and 40 Nights": {
+      "id": 2752,
+      "poster": "/pQTZX4gOEEkkMVFIRWtIrCpozeu.jpg",
+      "title": "40 Days and 40 Nights",
+      "year": 2002
+    },
+    "Hollywood Homicide": {
+      "id": 11375,
+      "poster": "/Am7AhZYG7HLksY5E35oaEJ3Desz.jpg",
+      "title": "Hollywood Homicide",
+      "year": 2003
+    },
+    "The Last Boy Scout": {
+      "id": 9319,
+      "poster": "/glPswihcZYoAQ4YM2uJF4UACy8T.jpg",
+      "title": "The Last Boy Scout",
+      "year": 1991
+    },
+    "Dominion: Prequel to the Exorcist": {
+      "id": 12700,
+      "poster": "/nEkB6Y7DdEvWNCKWsHis76XYciR.jpg",
+      "title": "Dominion: Prequel to The Exorcist",
+      "year": 2005
+    },
+    "Exorcist: The Beginning": {
+      "id": 11026,
+      "poster": "/4b7Mhc4HZN7XzMMLukaQ9C0x1Dx.jpg",
+      "title": "Exorcist: The Beginning",
+      "year": 2004
+    },
+    "Amityville II: The Possession": {
+      "id": 16235,
+      "poster": "/xx9K2m2Arr5EZUQtmggKtEK1f2a.jpg",
+      "title": "Amityville II: The Possession",
+      "year": 1982
+    },
+    "Laura Hasn't Slept": {
+      "id": 689397,
+      "poster": "/8IhmHyVaN3wWE806o7VpvjgyFU9.jpg",
+      "title": "Laura Hasn't Slept",
+      "year": 2020
+    },
+    "Road Games": {
+      "id": 43089,
+      "poster": "/zj3eE1lNkp3oWWnOHu4Aj7Gkqj2.jpg",
+      "title": "Roadgames",
+      "year": 1981
+    },
+    "Psycho II": {
+      "id": 10576,
+      "poster": "/sJAPRj3vHmjV4z97YK84iDovYlm.jpg",
+      "title": "Psycho II",
+      "year": 1983
+    },
+    "Patrick": {
+      "id": 17212,
+      "poster": "/qxydnHE4D5ArBRNtihlVs5rhhO2.jpg",
+      "title": "Patrick",
+      "year": 1978
+    },
+    "V/H/S/94": {
+      "id": 753453,
+      "poster": "/9fSogEkqDfJQTuGHsTFloQz3Tw8.jpg",
+      "title": "V/H/S/94",
+      "year": 2021
+    },
+    "Significant Other": {
+      "id": 901385,
+      "poster": "/liGvBdUsyOfiTJjNCD55JJfISzb.jpg",
+      "title": "Significant Other",
+      "year": 2022
+    },
+    "Escape from L.A.": {
+      "id": 10061,
+      "poster": "/3L9lL2eUsmLNNfENPwNOc82Hzpw.jpg",
+      "title": "Escape from L.A.",
+      "year": 1996
+    },
+    "Dazed and Confused": {
+      "id": 9571,
+      "poster": "/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+      "title": "Dazed and Confused",
+      "year": 1993
+    },
+    "Ticket to Paradise": {
+      "id": 800939,
+      "poster": "/1tzERH50P5c2mFWtLbgixzLZS1L.jpg",
+      "title": "Ticket to Paradise",
+      "year": 2022
+    }
+  }
+}

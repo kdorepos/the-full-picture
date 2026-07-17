@@ -1,0 +1,359 @@
+{
+  "slug": "asteroid-city-and-the-wes-anderson-movie-rankings",
+  "title": "'Asteroid City' and the Wes Anderson Movie Rankings",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2023-06-20",
+  "runtimeMin": 84,
+  "format": "Sean Fennessey and Amanda Dobbins are joined by critic Adam Naiman to talk through 'Asteroid City,' then rank all 11 Wes Anderson features. Amanda wins the argument by planting 'The Royal Tenenbaums' at No. 1.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "'Asteroid City'",
+      "note": "the 11th Wes Anderson feature",
+      "guest": "With Adam Naiman on",
+      "films": [
+        {
+          "title": "Asteroid City",
+          "year": 2023,
+          "note": "A black-and-white TV documentary about the staging of a play, whose color film-within is set in a 1955 desert town during a Junior Stargazer convention interrupted by an alien; Jason Schwartzman and Scarlett Johansson lead a cast that runs from Tom Hanks to Jeff Goldblum. Sean was moved and calls it a bold experiment he hasn't fully locked into; Amanda read it as a synthesis and a 'summit'; Adam admired the engineering but felt the emotions were engineered too, and parked it in Anderson's 'vast accomplished middle.'"
+        }
+      ]
+    },
+    {
+      "kind": "ranking",
+      "heading": "The Wes Anderson Movie Rankings",
+      "note": "best to worst",
+      "subject": "Wes Anderson",
+      "ranked": true,
+      "films": [
+        {
+          "title": "The Royal Tenenbaums",
+          "year": 2001,
+          "note": "Amanda's hard-won No. 1: 'quintessential,' the Gene Hackman performance maybe the best in any of his films. Hackman and Anderson famously didn't get along, which Sean argues is exactly why it works."
+        },
+        {
+          "title": "Rushmore",
+          "year": 1998,
+          "note": "Sean's touchstone and 'the last time he was emotionally dangerous'; the movie that changed his moviegoing at 17."
+        },
+        {
+          "title": "Moonrise Kingdom",
+          "year": 2012,
+          "note": "Sean calls it a perfect movie and the end of Anderson's middle period; producer Bobby Wagner named it a co-favorite with Grand Budapest."
+        },
+        {
+          "title": "Asteroid City",
+          "year": 2023,
+          "note": "Slotted at No. 4 after a fight; both reserve the right to move it, and Amanda argues it's more emotionally impactful than the film below it."
+        },
+        {
+          "title": "The Grand Budapest Hotel",
+          "year": 2014,
+          "note": "'Maybe the best made of all of his movies' and his biggest commercial hit; Ralph Fiennes' performance 'sort of invented millennial pink.' Amanda ceded it to five, though she rates it far higher."
+        },
+        {
+          "title": "Fantastic Mr. Fox",
+          "year": 2009,
+          "note": "The stop-motion film both love but keep just outside the top five; a fascinating innovation and his most dollhouse-like to that point."
+        },
+        {
+          "title": "The Life Aquatic with Steve Zissou",
+          "year": 2004,
+          "note": "Amanda thinks it's underrated; home of the Jaguar Shark moment Adam once cried at and later resented as manipulative."
+        },
+        {
+          "title": "Bottle Rocket",
+          "year": 1996,
+          "note": "Adam (and Steely Dan) rate it near the top; Sean docks it for a supporting cast that can't keep up with Owen Wilson."
+        },
+        {
+          "title": "The French Dispatch",
+          "year": 2021,
+          "note": "Dense and cerebral without the emotional payoff of the best; Sean expects it to grow on rewatch the way it did for him after Telluride."
+        },
+        {
+          "title": "The Darjeeling Limited",
+          "year": 2007,
+          "note": "The consensus low: improved over time but still 'deeply flawed'; Sean thinks its perceived failure pushed Anderson into his current phase."
+        },
+        {
+          "title": "Isle of Dogs",
+          "year": 2018,
+          "note": "Least essential for both; feels redundant after Fantastic Mr. Fox, though the sushi scene is glorious."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In the 'Asteroid City' conversation",
+      "films": [
+        "Oppenheimer",
+        "Tenet",
+        "The Searchers",
+        "The Man Who Wasn't There",
+        "Magic Mike's Last Dance",
+        "Priscilla",
+        "There Will Be Blood",
+        "No Country for Old Men",
+        "A Streetcar Named Desire",
+        "Reality Bites",
+        "Little Murders"
+      ]
+    },
+    {
+      "group": "Wes Anderson shorts, left off the list",
+      "films": [
+        "The Wonderful Story of Henry Sugar",
+        "Hotel Chevalier"
+      ]
+    },
+    {
+      "group": "The box-office postscript",
+      "films": [
+        "The Flash",
+        "Elemental",
+        "Turning Red",
+        "The Super Mario Bros. Movie",
+        "Spider-Man: Across the Spider-Verse",
+        "Past Lives",
+        "No Hard Feelings",
+        "Amour",
+        "Witness",
+        "The Marvels"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "The French Dispatch": 542178
+  },
+  "excluded": {
+    "TV / sketches": [
+      "The Twilight Zone",
+      "The Midnight Coterie of Sinister Intruders"
+    ],
+    "Podcasts": [
+      "The Rewatchables",
+      "Prestige TV"
+    ],
+    "Ads": [
+      "FanDuel",
+      "Carvana",
+      "Mint Mobile",
+      "Whole Foods",
+      "NOS Energy",
+      "TalkAboutPD"
+    ]
+  },
+  "tmdb": {
+    "Asteroid City": {
+      "id": 747188,
+      "poster": "/hfo7pvL9Fys7rocfL4VOzw9qDEQ.jpg",
+      "title": "Asteroid City",
+      "year": 2023
+    },
+    "The Royal Tenenbaums": {
+      "id": 9428,
+      "poster": "/nG7hZJn7wQTSDCQT39Gy3s3tbrp.jpg",
+      "title": "The Royal Tenenbaums",
+      "year": 2001
+    },
+    "Rushmore": {
+      "id": 11545,
+      "poster": "/hSJ6swahAuZ8wM96lHDTwQPXUvZ.jpg",
+      "title": "Rushmore",
+      "year": 1998
+    },
+    "Moonrise Kingdom": {
+      "id": 83666,
+      "poster": "/y4SXcbNl6CEF2t36icuzuBioj7K.jpg",
+      "title": "Moonrise Kingdom",
+      "year": 2012
+    },
+    "The Grand Budapest Hotel": {
+      "id": 120467,
+      "poster": "/zOVCqKUzjFKqa1eDMcOzvXwthY4.jpg",
+      "title": "The Grand Budapest Hotel",
+      "year": 2014
+    },
+    "Fantastic Mr. Fox": {
+      "id": 10315,
+      "poster": "/euZyZb6iGreujYKrGyZHRddhUYh.jpg",
+      "title": "Fantastic Mr. Fox",
+      "year": 2009
+    },
+    "The Life Aquatic with Steve Zissou": {
+      "id": 421,
+      "poster": "/qZoFLNBC78jzboWeDH6Ha0qavF2.jpg",
+      "title": "The Life Aquatic with Steve Zissou",
+      "year": 2004
+    },
+    "Bottle Rocket": {
+      "id": 13685,
+      "poster": "/6E7mJ5wpzTFbYFbJvTzzZ8Til9C.jpg",
+      "title": "Bottle Rocket",
+      "year": 1996
+    },
+    "The French Dispatch": {
+      "id": 542178,
+      "poster": "/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg",
+      "title": "The French Dispatch of the Liberty, Kansas Evening Sun",
+      "year": 2021
+    },
+    "The Darjeeling Limited": {
+      "id": 4538,
+      "poster": "/oSW5OVXTulaIXcoNwJAp5YEKpbP.jpg",
+      "title": "The Darjeeling Limited",
+      "year": 2007
+    },
+    "Isle of Dogs": {
+      "id": 399174,
+      "poster": "/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg",
+      "title": "Isle of Dogs",
+      "year": 2018
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "The Searchers": {
+      "id": 3114,
+      "poster": "/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg",
+      "title": "The Searchers",
+      "year": 1956
+    },
+    "The Man Who Wasn't There": {
+      "id": 10778,
+      "poster": "/lrCgt8NNMyFsfmXyXiSSCRXNH4u.jpg",
+      "title": "The Man Who Wasn't There",
+      "year": 2001
+    },
+    "Magic Mike's Last Dance": {
+      "id": 906221,
+      "poster": "/9a9pyJZRhUWUSBT8BQqWihtqbI8.jpg",
+      "title": "Magic Mike's Last Dance",
+      "year": 2023
+    },
+    "Priscilla": {
+      "id": 1020006,
+      "poster": "/uDCeELWWpsNq7ErM61Yuq70WAE9.jpg",
+      "title": "Priscilla",
+      "year": 2023
+    },
+    "There Will Be Blood": {
+      "id": 7345,
+      "poster": "/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+      "title": "There Will Be Blood",
+      "year": 2007
+    },
+    "No Country for Old Men": {
+      "id": 6977,
+      "poster": "/uB7RDZby43Wvu8SKGHHTwGyTDBX.jpg",
+      "title": "No Country for Old Men",
+      "year": 2007
+    },
+    "A Streetcar Named Desire": {
+      "id": 702,
+      "poster": "/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg",
+      "title": "A Streetcar Named Desire",
+      "year": 1951
+    },
+    "Reality Bites": {
+      "id": 2788,
+      "poster": "/qGDhodtpkpxkrFqokenGNJlzt6w.jpg",
+      "title": "Reality Bites",
+      "year": 1994
+    },
+    "Little Murders": {
+      "id": 27459,
+      "poster": "/i2QOxh6pwgy1MUF4bBYDVdPwbWa.jpg",
+      "title": "Little Murders",
+      "year": 1971
+    },
+    "The Wonderful Story of Henry Sugar": {
+      "id": 923939,
+      "poster": "/fDUywEHwHh6nsLnVXAdPN9m4ZUG.jpg",
+      "title": "The Wonderful Story of Henry Sugar",
+      "year": 2023
+    },
+    "Hotel Chevalier": {
+      "id": 6418,
+      "poster": "/fiWLuGIUAcJtu2hs7KlcZ0O2Ix3.jpg",
+      "title": "Hotel Chevalier",
+      "year": 2007
+    },
+    "The Flash": {
+      "id": 298618,
+      "poster": "/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+      "title": "The Flash",
+      "year": 2023
+    },
+    "Elemental": {
+      "id": 976573,
+      "poster": "/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg",
+      "title": "Elemental",
+      "year": 2023
+    },
+    "Turning Red": {
+      "id": 508947,
+      "poster": "/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
+      "title": "Turning Red",
+      "year": 2022
+    },
+    "The Super Mario Bros. Movie": {
+      "id": 502356,
+      "poster": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+      "title": "The Super Mario Bros. Movie",
+      "year": 2023
+    },
+    "Spider-Man: Across the Spider-Verse": {
+      "id": 569094,
+      "poster": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "year": 2023
+    },
+    "Past Lives": {
+      "id": 666277,
+      "poster": "/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg",
+      "title": "Past Lives",
+      "year": 2023
+    },
+    "No Hard Feelings": {
+      "id": 884605,
+      "poster": "/gD72DhJ7NbfxvtxGiAzLaa0xaoj.jpg",
+      "title": "No Hard Feelings",
+      "year": 2023
+    },
+    "Amour": {
+      "id": 86837,
+      "poster": "/19hyCudualHxCD0GrEngqsi0wBF.jpg",
+      "title": "Amour",
+      "year": 2012
+    },
+    "Witness": {
+      "id": 9281,
+      "poster": "/kOymD1rChAMykmDVEzJpIh4OYS7.jpg",
+      "title": "Witness",
+      "year": 1985
+    },
+    "The Marvels": {
+      "id": 609681,
+      "poster": "/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
+      "title": "The Marvels",
+      "year": 2023
+    }
+  }
+}

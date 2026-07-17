@@ -81,7 +81,7 @@
         {
           "title": "Last Night in Soho",
           "year": 2021,
-          "note": "Edgar Wright's film, cited as the opposite extreme — already on VOD after about six weeks in theaters."
+          "note": "Edgar Wright's film, cited as the opposite extreme: already on VOD after about six weeks in theaters."
         },
         {
           "title": "King Richard",
@@ -109,7 +109,7 @@
         {
           "title": "The Power of the Dog",
           "year": 2021,
-          "note": "Jane Campion's first film in 13 years, adapted from Thomas Savage's 1967 novel, with Benedict Cumberbatch, Jesse Plemons, Kirsten Dunst, and Kodi Smit-McPhee. Amanda calls it a masterwork that left her alienated rather than cold — partly the film's intent, partly because a Telluride review spoiled the plot for her. Sean and Chris were both floored by the last 30 minutes; Adam ranks it among Campion's best and expects it in the Best Picture conversation alongside Spielberg, Paul Thomas Anderson, Kenneth Branagh, and Denis Villeneuve."
+          "note": "Jane Campion's first film in 13 years, adapted from Thomas Savage's 1967 novel, with Benedict Cumberbatch, Jesse Plemons, Kirsten Dunst, and Kodi Smit-McPhee. Amanda calls it a masterwork that left her alienated rather than cold, partly the film's intent and partly because a Telluride review spoiled the plot for her. Sean and Chris were both floored by the last 30 minutes; Adam ranks it among Campion's best and expects it in the Best Picture conversation alongside Spielberg, Paul Thomas Anderson, Kenneth Branagh, and Denis Villeneuve."
         }
       ]
     },
@@ -150,7 +150,7 @@
         {
           "title": "The Worst Person in the World",
           "year": 2021,
-          "note": "No. 1. Shared with Sean at No. 2. Joachim Trier's Oslo trilogy closer, about a woman turning 30 who doesn't have her life together — which Amanda calls her Norwegian Francis Ha, the highest compliment she has. Renate Reinsve, the lead, gave her favorite performance of the year."
+          "note": "No. 1. Shared with Sean at No. 2. Joachim Trier's Oslo trilogy closer, about a woman turning 30 who doesn't have her life together. Amanda calls it her Norwegian Francis Ha, the highest compliment she has. Renate Reinsve, the lead, gave her favorite performance of the year."
         },
         {
           "title": "The Beatles: Get Back",
@@ -165,7 +165,7 @@
         {
           "title": "West Side Story",
           "year": 2021,
-          "note": "No. 4. Steven Spielberg and Tony Kushner's remake, which Amanda went in skeptical of and came out of joyous — an act of, in her words, personal accountability."
+          "note": "No. 4. Steven Spielberg and Tony Kushner's remake, which Amanda went in skeptical of and came out of joyous, an act of, in her words, personal accountability."
         },
         {
           "title": "C'mon C'mon",
@@ -184,7 +184,7 @@
         {
           "title": "Drive My Car",
           "year": 2021,
-          "note": "No. 1. Shared with Chris. Ryusuke Hamaguchi's three-hour film about a theater director staging a multilingual Uncle Vanya while working through grief. Adam calls the pick a bit of a cheat — Hamaguchi also wrote Wife of a Spy and directed Wheel of Fortune and Fantasy this year — but Drive My Car is the official one."
+          "note": "No. 1. Shared with Chris. Ryusuke Hamaguchi's three-hour film about a theater director staging a multilingual Uncle Vanya while working through grief. Adam calls the pick a bit of a cheat (Hamaguchi also wrote Wife of a Spy and directed Wheel of Fortune and Fantasy this year), but Drive My Car is the official one."
         },
         {
           "title": "Licorice Pizza",
@@ -228,7 +228,7 @@
         {
           "title": "Dune",
           "year": 2021,
-          "note": "No. 3. Shared with Sean. His most magical theater experience of the year, and, per a filmmaker friend of Sean's, one of the more sophisticated blockbuster endings in years for choosing to close on a grounded, one-on-one fight instead of noisy CGI."
+          "note": "No. 3. Shared with Sean. The best time he had in a theater all year, and, per a filmmaker friend of Sean's, one of the more sophisticated blockbuster endings in years for choosing to close on a grounded, one-on-one fight instead of noisy CGI."
         },
         {
           "title": "No Sudden Move",
@@ -252,7 +252,7 @@
         {
           "title": "The Velvet Underground",
           "year": 2021,
-          "note": "No. 1. Todd Haynes's split-screen documentary about the band, built from archival footage and first-person interviews with John Cale, Mo Tucker, and others from the Warhol Factory years. Sean's deepest experience with a movie this year."
+          "note": "No. 1. Todd Haynes's split-screen documentary about the band, built from archival footage and first-person interviews with John Cale, Mo Tucker, and others from the Warhol Factory years. The movie that hit Sean hardest this year."
         },
         {
           "title": "The Worst Person in the World",
@@ -262,7 +262,7 @@
         {
           "title": "Dune",
           "year": 2021,
-          "note": "No. 3. Shared with Chris. What sells it for Sean is the fusion of practical production and digital effects — something Denis Villeneuve credits to what he learned working with Roger Deakins on Blade Runner 2049."
+          "note": "No. 3. Shared with Chris. What sells it for Sean is the fusion of practical production and digital effects, something Denis Villeneuve credits to what he learned working with Roger Deakins on Blade Runner 2049."
         },
         {
           "title": "Can't Get You Out of My Head",
@@ -294,7 +294,7 @@
         {
           "title": "2001: A Space Odyssey",
           "year": 1968,
-          "note": "His reference point for the kind of intellectual vertigo he chases as a filmmaker, and for how much a theatrical screen changes a film — he says you lose something like 35 percent of a movie like this watching it on TV."
+          "note": "His reference point for the kind of intellectual vertigo he chases as a filmmaker, and for how much a theatrical screen changes a film: he says you lose something like 35 percent of a movie like this watching it on TV."
         },
         {
           "title": "Tenet",
@@ -342,6 +342,9 @@
     "Podcasts": [
       "60 Songs That Explain the 90s"
     ]
+  },
+  "tmdbOverrides": {
+    "Memoria": 511819
   },
   "tmdb": {
     "Shang-Chi and the Legend of the Ten Rings": {
@@ -405,10 +408,10 @@
       "year": 2021
     },
     "Memoria": {
-      "id": 802810,
-      "poster": "/ad3GNfqShD70bE5IvPbALzlGfCg.jpg",
+      "id": 511819,
+      "poster": "/mkJl2dVJnPgWAALCuIXJ61TlwHf.jpg",
       "title": "Memoria",
-      "year": null
+      "year": 2021
     },
     "Last Night in Soho": {
       "id": 576845,

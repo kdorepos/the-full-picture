@@ -1,0 +1,201 @@
+{
+  "slug": "barbarian",
+  "title": "'Barbarian'!!!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2022-09-13",
+  "runtimeMin": 82,
+  "format": "The number-one movie in America is a horror film you can't describe without spoiling it, so Sean and Chris recount 'Barbarian' beat by beat for Amanda, who hasn't seen it. Then Sean sits down with writer-director Zach Cregger.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Recounting 'Barbarian'",
+      "note": "Sean and Chris, spoilers throughout; Amanda asks the questions",
+      "films": [
+        {
+          "title": "Barbarian",
+          "year": 2022,
+          "note": "Zach Cregger's horror movie is set in a Detroit Airbnb. It opens as double-booked-rental dread, swerves into a Justin Long cancellation comedy, then flashes back to the 1980s serial killer who built the tunnels underneath. Georgina Campbell plays Tess. Bill Skarsgard plays the too-reassuring stranger. The monster in the sub-basement is called 'Mother.'"
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Zach Cregger on 'Barbarian'",
+      "guest": "Zach Cregger on",
+      "films": [
+        {
+          "title": "Barbarian",
+          "year": 2022,
+          "note": "Cregger, formerly of the comedy troupe The Whitest Kids U' Know, wrote it blind in his garage and stopped at 45 pages when the giant naked woman appeared. The 1980s flashback and the old man in the bed were a later retrofit, prompted by a producer's one note before he ghosted. Financed at ~$4.5M through Roy Lee and New Regency after the original backer died on the eve of the shoot."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Horror touchstones and comparisons",
+      "films": [
+        "It",
+        "Spree",
+        "Dash Cam",
+        "Superhost",
+        "Nope",
+        "The Texas Chain Saw Massacre",
+        "From Dusk Till Dawn",
+        "Angst",
+        "Empire of Light",
+        "Austin Powers: International Man of Mystery"
+      ]
+    },
+    {
+      "group": "Cregger's references and recommendations",
+      "films": [
+        "Speak No Evil",
+        "Saint Maud",
+        "Cure",
+        "Nightcrawler",
+        "Notes on a Scandal",
+        "The Departed",
+        "The Lego Movie"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Dash Cam": 858015,
+    "Angst": 18912,
+    "Speak No Evil": 833339
+  },
+  "excluded": {
+    "TV / sketch": [
+      "Better Call Saul",
+      "Black Mirror",
+      "The Whitest Kids U' Know"
+    ],
+    "Games": [
+      "Demon's Souls"
+    ],
+    "Ads": [
+      "Tremfya",
+      "Boar's Head",
+      "NOS Energy",
+      "Carvana",
+      "Netflix FIFA World Cup"
+    ]
+  },
+  "tmdb": {
+    "Barbarian": {
+      "id": 913290,
+      "poster": "/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
+      "title": "Barbarian",
+      "year": 2022
+    },
+    "It": {
+      "id": 346364,
+      "poster": "/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",
+      "title": "It",
+      "year": 2017
+    },
+    "Spree": {
+      "id": 653598,
+      "poster": "/tbYvzpy4QFhUHRBHe4VeUKJst96.jpg",
+      "title": "Spree",
+      "year": 2020
+    },
+    "Dash Cam": {
+      "id": 858015,
+      "poster": "/xdddNi35jI3u7e8vgXpo5eQVKrG.jpg",
+      "title": "Dashcam",
+      "year": 2022
+    },
+    "Superhost": {
+      "id": 849369,
+      "poster": "/3YBdvIrYlWGXAp2jJGNMbwXp7tZ.jpg",
+      "title": "Superhost",
+      "year": 2021
+    },
+    "Nope": {
+      "id": 762504,
+      "poster": "/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
+      "title": "Nope",
+      "year": 2022
+    },
+    "The Texas Chain Saw Massacre": {
+      "id": 30497,
+      "poster": "/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg",
+      "title": "The Texas Chain Saw Massacre",
+      "year": 1974
+    },
+    "From Dusk Till Dawn": {
+      "id": 755,
+      "poster": "/sV3kIAmvJ9tPz4Lq5fuf9LLMxte.jpg",
+      "title": "From Dusk Till Dawn",
+      "year": 1996
+    },
+    "Angst": {
+      "id": 18912,
+      "poster": "/nSYdWrPPwvcs5t5hG67XqDbwncG.jpg",
+      "title": "Angst",
+      "year": 1983
+    },
+    "Empire of Light": {
+      "id": 814757,
+      "poster": "/h84SnIQF91Gz2Fv1OpMJ3245t4i.jpg",
+      "title": "Empire of Light",
+      "year": 2022
+    },
+    "Austin Powers: International Man of Mystery": {
+      "id": 816,
+      "poster": "/5uD4dxNX8JKFjWKYMHyOsqhi5pN.jpg",
+      "title": "Austin Powers: International Man of Mystery",
+      "year": 1997
+    },
+    "Speak No Evil": {
+      "id": 833339,
+      "poster": "/ukYuuFzPTumN1QNpQyz863bcNvr.jpg",
+      "title": "Speak No Evil",
+      "year": 2022
+    },
+    "Saint Maud": {
+      "id": 575776,
+      "poster": "/ArNYeeDFLVye7JpqLElYdbE6fOa.jpg",
+      "title": "Saint Maud",
+      "year": 2020
+    },
+    "Cure": {
+      "id": 36095,
+      "poster": "/xNVJr9q6AtSbjosS6Ed9YirOkSo.jpg",
+      "title": "Cure",
+      "year": 1997
+    },
+    "Nightcrawler": {
+      "id": 242582,
+      "poster": "/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
+      "title": "Nightcrawler",
+      "year": 2014
+    },
+    "Notes on a Scandal": {
+      "id": 1259,
+      "poster": "/ieX6ZO2Kf2qjoIBXbQW5awivbhY.jpg",
+      "title": "Notes on a Scandal",
+      "year": 2006
+    },
+    "The Departed": {
+      "id": 1422,
+      "poster": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+      "title": "The Departed",
+      "year": 2006
+    },
+    "The Lego Movie": {
+      "id": 137106,
+      "poster": "/lbctonEnewCYZ4FYoTZhs8cidAl.jpg",
+      "title": "The Lego Movie",
+      "year": 2014
+    }
+  }
+}

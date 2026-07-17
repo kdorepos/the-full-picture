@@ -1,0 +1,229 @@
+{
+  "slug": "beastie-boys-made-a-movie-we-made-a-beastie-boys-podcast-the",
+  "title": "Beastie Boys Made a Movie. We Made a Beastie Boys Podcast.",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Chris Ryan"
+  ],
+  "published": "2020-04-27",
+  "runtimeMin": 87,
+  "format": "Sean and Chris Ryan on the Spike Jonze documentary Beastie Boys Story and what the band meant to them, then Sean's interview with Adrock and Mike D about the film, quarantine, The Last Dance, and the movies they grew up on.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Beastie Boys Story",
+      "note": "Sean and Chris Ryan on the film and the band",
+      "films": [
+        {
+          "title": "Beastie Boys Story",
+          "year": 2020,
+          "note": "The Spike Jonze documentary on Apple TV+, built from the live stage show Adrock and Mike D toured to promote their book. Sean and Chris admire it as a sincere, self-effacing tribute to Adam Yauch, while wishing it had brought in outside voices like Nas, Roman Coppola, the Dust Brothers, or Spike himself."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Adrock and Mike D on",
+      "films": [
+        {
+          "title": "The Harder They Come",
+          "year": 1972,
+          "note": "Mike D's first example of a rare good dramatized music movie."
+        },
+        {
+          "title": "This Is Spinal Tap",
+          "year": 1984,
+          "note": "The other exception Mike D names to his rule that dramatized music movies suck."
+        },
+        {
+          "title": "Krush Groove",
+          "year": 1985,
+          "note": "The Beastie Boys appear in it. Mike D offers it as an example of a not-so-good one; Adam has a soft spot for it anyway."
+        },
+        {
+          "title": "The Filth and the Fury",
+          "year": 2000,
+          "note": "The Sex Pistols documentary Mike D holds up as the real thing, versus dramatized music movies."
+        },
+        {
+          "title": "24 Hour Party People",
+          "year": 2002,
+          "note": "The Manchester/Factory Records film Mike D loves and had put on Adam's homework list. Adam never watched it."
+        },
+        {
+          "title": "Footloose",
+          "year": 1984,
+          "note": "Mike D's foil for pure nostalgia: a moment frozen in time, unlike the band's ongoing relationship with its fans. Adam admits he's never seen the whole thing."
+        },
+        {
+          "title": "Lost Angels",
+          "year": 1989,
+          "note": "Adam gets a kick out of seeing his own clip from it turn up in Beastie Boys Story."
+        },
+        {
+          "title": "Look Who's Talking",
+          "year": 1989,
+          "note": "The reference behind Adam's riff on pitching a talking-baby co-parenting franchise with Mike D."
+        },
+        {
+          "title": "Pineapple Express",
+          "year": 2008,
+          "note": "One of the not-so-mature comedies Mike D has been binge-watching with his teens in quarantine. Holds up, he says."
+        },
+        {
+          "title": "Step Brothers",
+          "year": 2008,
+          "note": "Part of Mike D's quarantine teen-comedy rotation. Still holds up, he says."
+        },
+        {
+          "title": "Tropic Thunder",
+          "year": 2008,
+          "note": "In the rotation too; Mike D notes it couldn't be made today."
+        },
+        {
+          "title": "Superbad",
+          "year": 2007,
+          "note": "Also on the list, though Mike D found it too uncomfortable to watch with his teenagers."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Singles",
+        "Old School",
+        "Ferris Bueller's Day Off",
+        "The Cannonball Run",
+        "Raw"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Last Dance",
+      "Devs"
+    ],
+    "Ads": [
+      "World Central Kitchen",
+      "Spotify"
+    ]
+  },
+  "tmdbOverrides": {
+    "Raw": 17159
+  },
+  "tmdb": {
+    "Beastie Boys Story": {
+      "id": 664416,
+      "poster": "/mph9vxXnEgiFrkrUqMk40DpPtEX.jpg",
+      "title": "Beastie Boys Story",
+      "year": 2020
+    },
+    "The Harder They Come": {
+      "id": 7514,
+      "poster": "/nXcWgfds0E8T2pQLvgWLCiUmlV6.jpg",
+      "title": "The Harder They Come",
+      "year": 1972
+    },
+    "This Is Spinal Tap": {
+      "id": 11031,
+      "poster": "/b3lllDltoBws5uKZzBYVSjpjjJx.jpg",
+      "title": "This Is Spinal Tap",
+      "year": 1984
+    },
+    "Krush Groove": {
+      "id": 29463,
+      "poster": "/83jp1uZp9405rkHKzDuX8qnJbhw.jpg",
+      "title": "Krush Groove",
+      "year": 1985
+    },
+    "The Filth and the Fury": {
+      "id": 27745,
+      "poster": "/kdNkiqmMeJfaD8ybjiV6bVOrcQ8.jpg",
+      "title": "The Filth and the Fury",
+      "year": 2000
+    },
+    "24 Hour Party People": {
+      "id": 2750,
+      "poster": "/8f50NQ1wz6hdxfCISCPV8XQ6DII.jpg",
+      "title": "24 Hour Party People",
+      "year": 2002
+    },
+    "Footloose": {
+      "id": 1788,
+      "poster": "/9JEDjBCXCx3eKTSkXwispf0UN3O.jpg",
+      "title": "Footloose",
+      "year": 1984
+    },
+    "Lost Angels": {
+      "id": 43990,
+      "poster": "/zjOpYWWEijff5hIkSqVOQyMpMJy.jpg",
+      "title": "Lost Angels",
+      "year": 1989
+    },
+    "Look Who's Talking": {
+      "id": 9494,
+      "poster": "/uVM0D7Q6U9H6xMSZmMdfwECih5h.jpg",
+      "title": "Look Who's Talking",
+      "year": 1989
+    },
+    "Pineapple Express": {
+      "id": 10189,
+      "poster": "/6E50WjeOYjDZg9HXgPjYdGtY2jG.jpg",
+      "title": "Pineapple Express",
+      "year": 2008
+    },
+    "Step Brothers": {
+      "id": 12133,
+      "poster": "/nvggBbEraUTAVR6ffP3AaBUWSHs.jpg",
+      "title": "Step Brothers",
+      "year": 2008
+    },
+    "Tropic Thunder": {
+      "id": 7446,
+      "poster": "/zAurB9mNxfYRoVrVjAJJwGV3sPg.jpg",
+      "title": "Tropic Thunder",
+      "year": 2008
+    },
+    "Superbad": {
+      "id": 8363,
+      "poster": "/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg",
+      "title": "Superbad",
+      "year": 2007
+    },
+    "Singles": {
+      "id": 11068,
+      "poster": "/4T7OKBdkNBorRKWw7VSeuA225z1.jpg",
+      "title": "Singles",
+      "year": 1992
+    },
+    "Old School": {
+      "id": 11635,
+      "poster": "/nYtuwNHpEoIbTgS3aFPSEwZNN6l.jpg",
+      "title": "Old School",
+      "year": 2003
+    },
+    "Ferris Bueller's Day Off": {
+      "id": 9377,
+      "poster": "/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg",
+      "title": "Ferris Bueller's Day Off",
+      "year": 1986
+    },
+    "The Cannonball Run": {
+      "id": 11286,
+      "poster": "/pvn9SbMq9q8wJXt3KAp9kP7pmpb.jpg",
+      "title": "The Cannonball Run",
+      "year": 1981
+    },
+    "Raw": {
+      "id": 17159,
+      "poster": "/irVU3PHIdg36Rh8tSKnKCdmHLEO.jpg",
+      "title": "Eddie Murphy Raw",
+      "year": 1987
+    }
+  }
+}

@@ -1,0 +1,458 @@
+{
+  "slug": "bane-venom-and-capone-the-tom-hardy-hall-of-fame-the-big-pic",
+  "title": "Bane, Venom, and 'Capone': The Tom Hardy Hall of Fame | The Big Picture",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2020-05-14",
+  "runtimeMin": 87,
+  "format": "Sean, Amanda, and Chris Ryan sit through Josh Trank's 'Capone,' then build a 10-film Tom Hardy Hall of Fame.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "'Capone'",
+      "note": "Tom Hardy's new release",
+      "films": [
+        {
+          "title": "Capone",
+          "year": 2020,
+          "note": "Josh Trank's return from director jail: Al Capone at the end of his life, dementia and decay under six inches of makeup. Amanda's a hard no, Chris sees a better movie buried in it, and even Sean can't fully zag on the poop-and-mania of it. Nobody puts it in the Hall of Fame."
+        }
+      ]
+    },
+    {
+      "kind": "halloffame",
+      "heading": "The Tom Hardy Hall of Fame",
+      "note": "10 films, plus the Bane wing",
+      "honoree": "Tom Hardy",
+      "films": [
+        {
+          "title": "RocknRolla",
+          "year": 2008,
+          "note": "Handsome Bob in Guy Ritchie's Russian-money crime ensemble. Evidence of the heartthrob Hardy could have been. Chris keeps it over The Drop because he rewatches it more."
+        },
+        {
+          "title": "Bronson",
+          "year": 2008,
+          "note": "Nicolas Winding Refn's theatrical account of Michael Peterson, the British inmate who renamed himself Charles Bronson. Hardy plays half of it straight into camera; for a lot of people it was their introduction to him."
+        },
+        {
+          "title": "Inception",
+          "year": 2010,
+          "note": "Eames, the forger. On screen eight minutes and the movie should be about him. Amanda's peak Hardy; a faded Graham Greene diplomat calling everyone darling."
+        },
+        {
+          "title": "Tinker Tailor Soldier Spy",
+          "year": 2011,
+          "note": "Ricki Tarr, the emotional center of the Le Carre adaptation and the last time Hardy really lets a character show you feeling. Only the wig gets in the way."
+        },
+        {
+          "title": "Warrior",
+          "year": 2011,
+          "note": "Fewer than 20 lines as one of two estranged MMA brothers opposite Joel Edgerton and Nick Nolte. Sean's best sports movie of the 2010s: a physical force that stays vulnerable and raw."
+        },
+        {
+          "title": "The Dark Knight Rises",
+          "year": 2012,
+          "note": "Bane. Redubbed into a mutant-dandy purr, eight monologues, huge and unnerving, funny despite itself. The Bane wing exists because of this."
+        },
+        {
+          "title": "Locke",
+          "year": 2013,
+          "note": "90 minutes in a car, a Welsh concrete manager working the phones through one bad night. First real collaboration with Steven Knight. Proof a movie star can carry a whole film alone."
+        },
+        {
+          "title": "Mad Max: Fury Road",
+          "year": 2015,
+          "note": "The title role, voice dubbed and half-masked, fitted into George Miller's chaos in eight-second pieces. The best action movie of the 2010s, and one of the great mask performances."
+        },
+        {
+          "title": "Dunkirk",
+          "year": 2017,
+          "note": "The RAF pilot, mostly masked, acting with his eyes while flying a vintage plane. That last shot on the beach is the whole case."
+        },
+        {
+          "title": "Venom",
+          "year": 2018,
+          "note": "Eddie Brock doing id-versus-superego with himself, willing a slapstick alien-suit comedy into his biggest standalone hit. Not really good, and Sean doesn't care."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Considered for the Hall of Fame",
+      "films": [
+        "Black Hawk Down",
+        "Star Trek Nemesis",
+        "Layer Cake",
+        "Marie Antoinette",
+        "Thick as Thieves",
+        "This Means War",
+        "Lawless",
+        "The Drop",
+        "Child 44",
+        "Legend",
+        "The Revenant"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Chronicle",
+        "Fantastic Four",
+        "Casino Royale",
+        "Skyfall",
+        "Snatch",
+        "The Proposition",
+        "The Road",
+        "Hunger",
+        "Drive",
+        "A Clockwork Orange",
+        "Pulp Fiction",
+        "Jackie Brown",
+        "Prince of Persia: The Sands of Time",
+        "The Krays",
+        "Dead Ringers",
+        "Adaptation",
+        "The Social Network",
+        "Twins",
+        "A Star Is Born",
+        "Braveheart",
+        "The Hunt for Red October",
+        "Saving Private Ryan",
+        "Star Trek",
+        "The Way Back",
+        "Star Wars: The Last Jedi",
+        "The Road Warrior",
+        "Venom: Let There Be Carnage",
+        "Tenet"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Band of Brothers",
+      "Taboo",
+      "The Deuce",
+      "The Morning Show"
+    ],
+    "Podcasts": [
+      "The Rewatchables",
+      "Chapo Trap House",
+      "Baseball Barbecue"
+    ]
+  },
+  "tmdbOverrides": {
+    "Thick as Thieves": 14979,
+    "The Way Back": 529485,
+    "The Road Warrior": 8810,
+    "Hunger": 10360,
+    "Fantastic Four": 166424
+  },
+  "tmdb": {
+    "Capone": {
+      "id": 429422,
+      "poster": "/4dIo9k7aoJDi6OHK62YBAH3skOZ.jpg",
+      "title": "Capone",
+      "year": 2020
+    },
+    "RocknRolla": {
+      "id": 13809,
+      "poster": "/6mLXG2f7LBRpbZZgxsOFO5scgzd.jpg",
+      "title": "RocknRolla",
+      "year": 2008
+    },
+    "Bronson": {
+      "id": 18533,
+      "poster": "/6diyyGIbBNiANsdIaCGtyv4IofR.jpg",
+      "title": "Bronson",
+      "year": 2009
+    },
+    "Inception": {
+      "id": 27205,
+      "poster": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+      "title": "Inception",
+      "year": 2010
+    },
+    "Tinker Tailor Soldier Spy": {
+      "id": 49517,
+      "poster": "/e0dZ7TapGY9HtJ9xk1TUHPEOccl.jpg",
+      "title": "Tinker Tailor Soldier Spy",
+      "year": 2011
+    },
+    "Warrior": {
+      "id": 59440,
+      "poster": "/iM8n4nZJPR2abpnyZ36FUgHiRjr.jpg",
+      "title": "Warrior",
+      "year": 2011
+    },
+    "The Dark Knight Rises": {
+      "id": 49026,
+      "poster": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+      "title": "The Dark Knight Rises",
+      "year": 2012
+    },
+    "Locke": {
+      "id": 210479,
+      "poster": "/tTREq5tTyYwmSLDRMhybJ82zXcX.jpg",
+      "title": "Locke",
+      "year": 2014
+    },
+    "Mad Max: Fury Road": {
+      "id": 76341,
+      "poster": "/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+      "title": "Mad Max: Fury Road",
+      "year": 2015
+    },
+    "Dunkirk": {
+      "id": 374720,
+      "poster": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "title": "Dunkirk",
+      "year": 2017
+    },
+    "Venom": {
+      "id": 335983,
+      "poster": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+      "title": "Venom",
+      "year": 2018
+    },
+    "Black Hawk Down": {
+      "id": 855,
+      "poster": "/7fU5dSqKRL4XHeEUz62rCKBfYok.jpg",
+      "title": "Black Hawk Down",
+      "year": 2001
+    },
+    "Star Trek Nemesis": {
+      "id": 201,
+      "poster": "/cldAwhvBmOv9jrd3bXWuqRHoXyq.jpg",
+      "title": "Star Trek: Nemesis",
+      "year": 2002
+    },
+    "Layer Cake": {
+      "id": 4836,
+      "poster": "/rDOxXteqxALBaSa3V3zTjGJuyWB.jpg",
+      "title": "Layer Cake",
+      "year": 2004
+    },
+    "Marie Antoinette": {
+      "id": 1887,
+      "poster": "/cybXGmv8Rjd5Os8Xml6YxMBQ0Zt.jpg",
+      "title": "Marie Antoinette",
+      "year": 2006
+    },
+    "Thick as Thieves": {
+      "id": 14979,
+      "poster": "/4TOJiqayrIZQGtmmGjM3d7lp5gM.jpg",
+      "title": "Thick as Thieves",
+      "year": 2009
+    },
+    "This Means War": {
+      "id": 59962,
+      "poster": "/7d1hwECRc1NZlGfAeYE42ki7Fem.jpg",
+      "title": "This Means War",
+      "year": 2012
+    },
+    "Lawless": {
+      "id": 82633,
+      "poster": "/Ahtzwts22ayviD3LEVslfL4nRWB.jpg",
+      "title": "Lawless",
+      "year": 2012
+    },
+    "The Drop": {
+      "id": 154400,
+      "poster": "/olQInYvVCW2wycMSU1ogo9Jshml.jpg",
+      "title": "The Drop",
+      "year": 2014
+    },
+    "Child 44": {
+      "id": 181283,
+      "poster": "/p8uTx2xm72vXqI0H4W5kU3ku9ND.jpg",
+      "title": "Child 44",
+      "year": 2015
+    },
+    "Legend": {
+      "id": 276907,
+      "poster": "/4shf5Alq4KWCKqrAAQe0JGJHYp5.jpg",
+      "title": "Legend",
+      "year": 2015
+    },
+    "The Revenant": {
+      "id": 281957,
+      "poster": "/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",
+      "title": "The Revenant",
+      "year": 2015
+    },
+    "Chronicle": {
+      "id": 76726,
+      "poster": "/kdyrdFIt29FUmLIKvedAc2j4rpo.jpg",
+      "title": "Chronicle",
+      "year": 2012
+    },
+    "Fantastic Four": {
+      "id": 166424,
+      "poster": "/cDroz5qSlP8xZ6tOpeYoPkBvKyL.jpg",
+      "title": "Fantastic Four",
+      "year": 2015
+    },
+    "Casino Royale": {
+      "id": 36557,
+      "poster": "/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
+      "title": "Casino Royale",
+      "year": 2006
+    },
+    "Skyfall": {
+      "id": 37724,
+      "poster": "/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
+      "title": "Skyfall",
+      "year": 2012
+    },
+    "Snatch": {
+      "id": 107,
+      "poster": "/kJZoAHq1SLDdWjeNGtlHAnGpmFV.jpg",
+      "title": "Snatch",
+      "year": 2000
+    },
+    "The Proposition": {
+      "id": 16608,
+      "poster": "/bbSHSJuO5XjrIKMh6QXXLTg3Yzr.jpg",
+      "title": "The Proposition",
+      "year": 2005
+    },
+    "The Road": {
+      "id": 20766,
+      "poster": "/qLaXnLzqleBWQtjvZ6JGVSaKoC3.jpg",
+      "title": "The Road",
+      "year": 2009
+    },
+    "Hunger": {
+      "id": 10360,
+      "poster": "/84HdTM39G2MzyTl8N9R0wVU9I5b.jpg",
+      "title": "Hunger",
+      "year": 2008
+    },
+    "Drive": {
+      "id": 64690,
+      "poster": "/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
+      "title": "Drive",
+      "year": 2011
+    },
+    "A Clockwork Orange": {
+      "id": 185,
+      "poster": "/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+      "title": "A Clockwork Orange",
+      "year": 1971
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "Jackie Brown": {
+      "id": 184,
+      "poster": "/rOUx7qg4KmEh1juEDwqzbDSL1Nr.jpg",
+      "title": "Jackie Brown",
+      "year": 1997
+    },
+    "Prince of Persia: The Sands of Time": {
+      "id": 9543,
+      "poster": "/siNGMLdOUNYLEGtlsnmQcpO2XZX.jpg",
+      "title": "Prince of Persia: The Sands of Time",
+      "year": 2010
+    },
+    "The Krays": {
+      "id": 21344,
+      "poster": "/e7GqmnQJRWXYs8Y8uXma6p7Amcw.jpg",
+      "title": "The Krays",
+      "year": 1990
+    },
+    "Dead Ringers": {
+      "id": 9540,
+      "poster": "/ofXwDfM8uYAaftD7cBPcIWdCpMn.jpg",
+      "title": "Dead Ringers",
+      "year": 1988
+    },
+    "Adaptation": {
+      "id": 2757,
+      "poster": "/ffEmHQAiD0m5dEQ6rlsuA9vlllW.jpg",
+      "title": "Adaptation.",
+      "year": 2002
+    },
+    "The Social Network": {
+      "id": 37799,
+      "poster": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+      "title": "The Social Network",
+      "year": 2010
+    },
+    "Twins": {
+      "id": 9493,
+      "poster": "/stJx9BQZbXrZnTGf9Erc7d2UMVc.jpg",
+      "title": "Twins",
+      "year": 1988
+    },
+    "A Star Is Born": {
+      "id": 332562,
+      "poster": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "title": "A Star Is Born",
+      "year": 2018
+    },
+    "Braveheart": {
+      "id": 197,
+      "poster": "/or1gBugydmjToAEq7OZY0owwFk.jpg",
+      "title": "Braveheart",
+      "year": 1995
+    },
+    "The Hunt for Red October": {
+      "id": 1669,
+      "poster": "/yVl7zidse4KiWtGMqHFtZCx4X3N.jpg",
+      "title": "The Hunt for Red October",
+      "year": 1990
+    },
+    "Saving Private Ryan": {
+      "id": 857,
+      "poster": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+      "title": "Saving Private Ryan",
+      "year": 1998
+    },
+    "Star Trek": {
+      "id": 13475,
+      "poster": "/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
+      "title": "Star Trek",
+      "year": 2009
+    },
+    "The Way Back": {
+      "id": 529485,
+      "poster": "/ylPnfaphW3FrLBUVwAREVtiL9My.jpg",
+      "title": "The Way Back",
+      "year": 2020
+    },
+    "Star Wars: The Last Jedi": {
+      "id": 181808,
+      "poster": "/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
+      "title": "Star Wars: The Last Jedi",
+      "year": 2017
+    },
+    "The Road Warrior": {
+      "id": 8810,
+      "poster": "/l1KVEhkGDpWRzQ0VqIhZqDDuOim.jpg",
+      "title": "Mad Max 2",
+      "year": 1981
+    },
+    "Venom: Let There Be Carnage": {
+      "id": 580489,
+      "poster": "/pzKsRuKLFmYrW5Q0q8E8G78Tcgo.jpg",
+      "title": "Venom: Let There Be Carnage",
+      "year": 2021
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    }
+  }
+}

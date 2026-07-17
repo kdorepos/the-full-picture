@@ -1,0 +1,306 @@
+{
+  "slug": "borat-subsequent-moviefilm-is-the-movie-america-deserves",
+  "title": "‘Borat Subsequent Moviefilm’ Is the Movie America Deserves",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2020-10-27",
+  "runtimeMin": 77,
+  "format": "Sean and Amanda bring on The Press Box's Brian Curtis and David Shoemaker for Borat's election-season return, then close the month with two remakes nobody asked for.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "‘Borat Subsequent Moviefilm’",
+      "note": "with Brian Curtis and David Shoemaker of The Press Box",
+      "films": [
+        {
+          "title": "Borat Subsequent Moviefilm",
+          "year": 2020,
+          "note": "Sacha Baron Cohen revives the character for the Trump era. Maria Bakalova, as daughter Tutar, draws real Oscar talk, and the Rudy Giuliani hotel scene, already spoiled by pre-release publicity, dominates the conversation. The panel pegs it at 70% scripted framing, 30% stunt, an inversion of the first film, and splits on whether that's a downgrade."
+        },
+        {
+          "title": "Borat",
+          "year": 2006,
+          "note": "The Larry Charles original, an Oscar-nominated adapted-screenplay comedy phenomenon that grew out of Da Ali G Show. The panel uses it as the roughly 70%-stunt benchmark the sequel flips."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The other new releases",
+      "note": "two remakes to close out the month",
+      "films": [
+        {
+          "title": "Rebecca (Wheatley)",
+          "year": 2020,
+          "note": "Ben Wheatley remakes the Daphne du Maurier novel (marketed as 'not the Hitchcock') with Lily James and Armie Hammer. Amanda: it fails on its own terms, all exterior where the book is interior, with the only spark a late Cairo scene."
+        },
+        {
+          "title": "Rebecca (Hitchcock)",
+          "year": 1940,
+          "note": "Hitchcock's gothic original with Joan Fontaine and Laurence Olivier, held up as one of the greatest films ever made and an impossible bar for the remake."
+        },
+        {
+          "title": "Roald Dahl's The Witches",
+          "year": 2020,
+          "note": "The Robert Zemeckis / Guillermo del Toro / Kenya Barris reworking on HBO Max, relocated to 1960s Alabama with a young Black lead. Anne Hathaway's Grand High Witch is the standout and, for Amanda, the thing that's too much for kids."
+        },
+        {
+          "title": "The Witches",
+          "year": 1990,
+          "note": "Nicholas Roeg's Jim Henson-produced adaptation with Anjelica Huston, a cult creepy-classic the hosts argue didn't need redoing."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Ben Wheatley's other films",
+      "films": [
+        "A Field in England",
+        "High-Rise",
+        "Free Fire",
+        "Kill List"
+      ]
+    },
+    {
+      "group": "Zemeckis, then and now",
+      "films": [
+        "Back to the Future",
+        "The Polar Express",
+        "Beowulf",
+        "Allied",
+        "Welcome to Marwen"
+      ]
+    },
+    {
+      "group": "Roald Dahl on screen",
+      "films": [
+        "Matilda",
+        "James and the Giant Peach",
+        "Charlie and the Chocolate Factory"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Return of the Jedi",
+        "Suspicion",
+        "Jane Eyre",
+        "Carrie",
+        "Enola Holmes",
+        "The Kissing Booth",
+        "Don't Look Now",
+        "Forrest Gump",
+        "I'm Thinking of Ending Things",
+        "Four Weddings and a Funeral",
+        "Aliens"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Da Ali G Show",
+      "Who Is America?",
+      "The Daily Show",
+      "Primetime Glick"
+    ],
+    "Web series": [
+      "Between Two Ferns"
+    ],
+    "Ads": [
+      "Tremfya",
+      "FanDuel",
+      "Boar's Head",
+      "Netflix FIFA World Cup game",
+      "TalkAboutPD",
+      "Carvana",
+      "Blinds.com",
+      "Storm energy"
+    ]
+  },
+  "tmdbOverrides": {
+    "Borat Subsequent Moviefilm": 740985,
+    "Borat": 496,
+    "Jane Eyre": 22744
+  },
+  "tmdb": {
+    "Borat Subsequent Moviefilm": {
+      "id": 740985,
+      "poster": "/3L1Ml5RWjFVfVq3rQENvgFymT0U.jpg",
+      "title": "Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan",
+      "year": 2020
+    },
+    "Borat": {
+      "id": 496,
+      "poster": "/kfkyALfD4G1mlBJI1lOt2QCra4i.jpg",
+      "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+      "year": 2006
+    },
+    "Rebecca (Wheatley)": {
+      "id": 505379,
+      "poster": "/kGhllBArW7ImDycSMIG5bj6GEPL.jpg",
+      "title": "Rebecca",
+      "year": 2020
+    },
+    "Rebecca (Hitchcock)": {
+      "id": 223,
+      "poster": "/1qz3qUOHnVy7dL7M7G8jSErxE4b.jpg",
+      "title": "Rebecca",
+      "year": 1940
+    },
+    "Roald Dahl's The Witches": {
+      "id": 531219,
+      "poster": "/betExZlgK0l7CZ9CsCBVcwO1OjL.jpg",
+      "title": "Roald Dahl's The Witches",
+      "year": 2020
+    },
+    "The Witches": {
+      "id": 10166,
+      "poster": "/mPYBjVkeHakkPGY7WaKyyNU4RWm.jpg",
+      "title": "The Witches",
+      "year": 1990
+    },
+    "A Field in England": {
+      "id": 179111,
+      "poster": "/dKhMJr8yoHVyvxyUiAeIn2hKVdL.jpg",
+      "title": "A Field in England",
+      "year": 2013
+    },
+    "High-Rise": {
+      "id": 254302,
+      "poster": "/47aaJXO87scDABLUT7vg2bHsdrF.jpg",
+      "title": "High-Rise",
+      "year": 2015
+    },
+    "Free Fire": {
+      "id": 334521,
+      "poster": "/olpgs0OPE8sdBGcuuWhKYzxAwN4.jpg",
+      "title": "Free Fire",
+      "year": 2017
+    },
+    "Kill List": {
+      "id": 74725,
+      "poster": "/qwT2I3ons0oD58jIppKmd4qLtvB.jpg",
+      "title": "Kill List",
+      "year": 2011
+    },
+    "Back to the Future": {
+      "id": 105,
+      "poster": "/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+      "title": "Back to the Future",
+      "year": 1985
+    },
+    "The Polar Express": {
+      "id": 5255,
+      "poster": "/eOoCzH0MqeGr2taUZO4SwG416PF.jpg",
+      "title": "The Polar Express",
+      "year": 2004
+    },
+    "Beowulf": {
+      "id": 2310,
+      "poster": "/7QsWYyJAV97N9jOh21pdRIqJeJq.jpg",
+      "title": "Beowulf",
+      "year": 2007
+    },
+    "Allied": {
+      "id": 369885,
+      "poster": "/sV4lXM32quwminL3TP36nlNPp7Q.jpg",
+      "title": "Allied",
+      "year": 2016
+    },
+    "Welcome to Marwen": {
+      "id": 351044,
+      "poster": "/dOULsxYQFsOR0cEBBB20xnjJkPD.jpg",
+      "title": "Welcome to Marwen",
+      "year": 2018
+    },
+    "Matilda": {
+      "id": 10830,
+      "poster": "/wYoDpWInsBEVSmWStnRH06ddoyk.jpg",
+      "title": "Matilda",
+      "year": 1996
+    },
+    "James and the Giant Peach": {
+      "id": 10539,
+      "poster": "/vNEGobe23vW43mSPYVaVaBLP6qV.jpg",
+      "title": "James and the Giant Peach",
+      "year": 1996
+    },
+    "Charlie and the Chocolate Factory": {
+      "id": 118,
+      "poster": "/iKP6wg3c6COUe8gYutoGG7qcPnO.jpg",
+      "title": "Charlie and the Chocolate Factory",
+      "year": 2005
+    },
+    "Return of the Jedi": {
+      "id": 1892,
+      "poster": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+      "title": "Return of the Jedi",
+      "year": 1983
+    },
+    "Suspicion": {
+      "id": 11462,
+      "poster": "/clWNlzlbyaEoIK63lcFjqBmXoQz.jpg",
+      "title": "Suspicion",
+      "year": 1941
+    },
+    "Jane Eyre": {
+      "id": 22744,
+      "poster": "/stD4BQiN4TLNf6P5ju95AVRPdto.jpg",
+      "title": "Jane Eyre",
+      "year": 1943
+    },
+    "Carrie": {
+      "id": 7340,
+      "poster": "/8tT1rqlsTguyfUBMrbHR9cv1rxM.jpg",
+      "title": "Carrie",
+      "year": 1976
+    },
+    "Enola Holmes": {
+      "id": 497582,
+      "poster": "/riYInlsq2kf1AWoGm80JQW5dLKp.jpg",
+      "title": "Enola Holmes",
+      "year": 2020
+    },
+    "The Kissing Booth": {
+      "id": 454983,
+      "poster": "/vcQNnnXgKLacoYF4LNWgkNiDXPd.jpg",
+      "title": "The Kissing Booth",
+      "year": 2018
+    },
+    "Don't Look Now": {
+      "id": 931,
+      "poster": "/ivWsU3QtcstImCTOjItsH0SAbNn.jpg",
+      "title": "Don't Look Now",
+      "year": 1973
+    },
+    "Forrest Gump": {
+      "id": 13,
+      "poster": "/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
+      "title": "Forrest Gump",
+      "year": 1994
+    },
+    "I'm Thinking of Ending Things": {
+      "id": 500840,
+      "poster": "/5ynWWapdl45hJXUh0KIevxSG9JQ.jpg",
+      "title": "I'm Thinking of Ending Things",
+      "year": 2020
+    },
+    "Four Weddings and a Funeral": {
+      "id": 712,
+      "poster": "/qa72G2VS0bpxms6yo0tI9vsHm2e.jpg",
+      "title": "Four Weddings and a Funeral",
+      "year": 1994
+    },
+    "Aliens": {
+      "id": 679,
+      "poster": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "title": "Aliens",
+      "year": 1986
+    }
+  }
+}

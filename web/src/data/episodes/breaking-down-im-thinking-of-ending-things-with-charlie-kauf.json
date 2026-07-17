@@ -1,0 +1,242 @@
+{
+  "slug": "breaking-down-im-thinking-of-ending-things-with-charlie-kauf",
+  "title": "Breaking Down ‘I’m Thinking of Ending Things,’ With Charlie Kaufman",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2020-09-10",
+  "runtimeMin": 98,
+  "format": "Sean and Amanda are joined by critic Amy Nicholson to argue about Charlie Kaufman's Netflix film 'I'm Thinking of Ending Things,' then Sean sits down with Kaufman and novelist Ian Reid.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Charlie Kaufman and ‘I’m Thinking of Ending Things’",
+      "note": "with Amy Nicholson",
+      "films": [
+        {
+          "title": "I'm Thinking of Ending Things",
+          "year": 2020,
+          "note": "The main event: Kaufman's adaptation of Ian Reid's novel, dropped on Netflix. The table splits over whether to solve it as a puzzle or, as Amy argues, just let it wash over you like a moving painting, and over whether Jessie Buckley's character is a real woman or a projection of the old man's regrets."
+        },
+        {
+          "title": "Being John Malkovich",
+          "year": 1999,
+          "note": "The Spike Jonze breakout Sean calls one of his favorite movies of the last 50 years, and his own gateway into deconstructing a text."
+        },
+        {
+          "title": "Adaptation",
+          "year": 2002,
+          "note": "Amanda's top-five movie about making movies; she saw it in college and it taught her how far you can push a piece of writing."
+        },
+        {
+          "title": "Eternal Sunshine of the Spotless Mind",
+          "year": 2004,
+          "note": "The Michel Gondry collaboration where, as Amy puts it, Kaufman's cynicism and Gondry's romanticism fight in the soul of the film. Also cited as the source of Kaufman's manic-pixie problem."
+        },
+        {
+          "title": "Synecdoche, New York",
+          "year": 2008,
+          "note": "His directorial debut and Amy's top-two film of all time. She compares it to Pennies from Heaven and saw it on Thanksgiving with her family."
+        },
+        {
+          "title": "Anomalisa",
+          "year": 2015,
+          "note": "The stop-motion film he co-directed from his own radio play; Kaufman doesn't fully count it as one of his movies. Every character but two shares David Thewlis's voice."
+        },
+        {
+          "title": "Human Nature",
+          "year": 2001,
+          "note": "Brought up for Patricia Arquette's character as another Kaufman lead built around public performance."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Charlie Kaufman & Ian Reid on",
+      "films": [
+        {
+          "title": "I'm Thinking of Ending Things",
+          "year": 2020,
+          "note": "Kaufman says he went looking for something to adapt to improve his odds of getting a film financed, and Amazon recommended Reid's book. He explains changing the ending to give the woman real agency and resistance, and calls the film his likely swan song, his first movie made since 2008."
+        },
+        {
+          "title": "Under the Skin",
+          "year": 2014,
+          "note": "Reid's last-great-thing pick: he loves both Michel Faber's novel and Jonathan Glazer's film precisely because they're so different. Sean notes he profiled Glazer and never got a satisfying answer about the gap between them."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Kaufman touchstones and comparisons",
+      "films": [
+        "Pennies from Heaven",
+        "A Woman Under the Influence",
+        "The Savages",
+        "Wild Rose",
+        "Oklahoma!",
+        "Contact"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Tenet",
+        "Interstellar",
+        "The Birth of a Nation",
+        "The Ballad of Buster Scruggs",
+        "Raiders of the Lost Ark"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Get a Life",
+      "The Dana Carvey Show",
+      "Breaking Bad",
+      "Chernobyl",
+      "PEN15"
+    ],
+    "Books": [
+      "Antkind",
+      "I'm Thinking of Ending Things (Ian Reid novel)",
+      "Under the Skin (Michel Faber novel)",
+      "For Keeps (Pauline Kael)",
+      "A Supposedly Fun Thing I'll Never Do Again (David Foster Wallace)"
+    ],
+    "Podcasts": [
+      "Unspooled",
+      "Jam Session"
+    ],
+    "Ads": [
+      "AFI Conservatory",
+      "Heineken",
+      "Quibi (Wireless)"
+    ]
+  },
+  "tmdbOverrides": {
+    "Pennies from Heaven": 17450,
+    "The Birth of a Nation": 339408
+  },
+  "tmdb": {
+    "I'm Thinking of Ending Things": {
+      "id": 500840,
+      "poster": "/5ynWWapdl45hJXUh0KIevxSG9JQ.jpg",
+      "title": "I'm Thinking of Ending Things",
+      "year": 2020
+    },
+    "Being John Malkovich": {
+      "id": 492,
+      "poster": "/31FGQu3OnwdmS4COquENe0vMZc0.jpg",
+      "title": "Being John Malkovich",
+      "year": 1999
+    },
+    "Adaptation": {
+      "id": 2757,
+      "poster": "/ffEmHQAiD0m5dEQ6rlsuA9vlllW.jpg",
+      "title": "Adaptation.",
+      "year": 2002
+    },
+    "Eternal Sunshine of the Spotless Mind": {
+      "id": 38,
+      "poster": "/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year": 2004
+    },
+    "Synecdoche, New York": {
+      "id": 4960,
+      "poster": "/5UwdhrjXhUgsiDhe1dpS9z4yj7q.jpg",
+      "title": "Synecdoche, New York",
+      "year": 2008
+    },
+    "Anomalisa": {
+      "id": 291270,
+      "poster": "/4DJ1zNr4Y6q7zQ27goEYla46VdO.jpg",
+      "title": "Anomalisa",
+      "year": 2015
+    },
+    "Human Nature": {
+      "id": 441,
+      "poster": "/eyEgsPIwsr9bUV9n9INH46L5KuM.jpg",
+      "title": "Human Nature",
+      "year": 2001
+    },
+    "Under the Skin": {
+      "id": 97370,
+      "poster": "/55wmcXJIDYITr7JDijJTdvwSaAv.jpg",
+      "title": "Under the Skin",
+      "year": 2014
+    },
+    "Pennies from Heaven": {
+      "id": 17450,
+      "poster": "/7dlangnB2vOcviHEwWy1IRGHLtk.jpg",
+      "title": "Pennies from Heaven",
+      "year": 1981
+    },
+    "A Woman Under the Influence": {
+      "id": 29845,
+      "poster": "/6EJ4JoTxnH1QmGTE9pPzgtW1cLW.jpg",
+      "title": "A Woman Under the Influence",
+      "year": 1974
+    },
+    "The Savages": {
+      "id": 8272,
+      "poster": "/nY54gSmTOmSXlQpWDB7DWp4u8a7.jpg",
+      "title": "The Savages",
+      "year": 2007
+    },
+    "Wild Rose": {
+      "id": 482981,
+      "poster": "/79THplH9WM7y3gRPYM4dcC0IRPw.jpg",
+      "title": "Wild Rose",
+      "year": 2019
+    },
+    "Oklahoma!": {
+      "id": 13936,
+      "poster": "/ztqT5GmJVI2o8vShGWRVVqykQqA.jpg",
+      "title": "Oklahoma!",
+      "year": 1955
+    },
+    "Contact": {
+      "id": 686,
+      "poster": "/bCpMIywuNZeWt3i5UMLEIc0VSwM.jpg",
+      "title": "Contact",
+      "year": 1997
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "Interstellar": {
+      "id": 157336,
+      "poster": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+      "title": "Interstellar",
+      "year": 2014
+    },
+    "The Birth of a Nation": {
+      "id": 339408,
+      "poster": "/vlbvPL3uXem7JaVWM2mVHJLkRqW.jpg",
+      "title": "The Birth of a Nation",
+      "year": 2016
+    },
+    "The Ballad of Buster Scruggs": {
+      "id": 537996,
+      "poster": "/voxl654m7p36y8FLu8oQD7dfwwK.jpg",
+      "title": "The Ballad of Buster Scruggs",
+      "year": 2018
+    },
+    "Raiders of the Lost Ark": {
+      "id": 85,
+      "poster": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+      "title": "Raiders of the Lost Ark",
+      "year": 1981
+    }
+  }
+}

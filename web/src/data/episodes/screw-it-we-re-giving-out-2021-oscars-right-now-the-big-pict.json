@@ -1,0 +1,634 @@
+{
+  "slug": "screw-it-we-re-giving-out-2021-oscars-right-now-the-big-pict",
+  "title": "Screw It, We're Giving Out 2021 Oscars Right Now",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2020-03-31",
+  "runtimeMin": 80,
+  "format": "With no new releases to argue about, Sean and Amanda hand out their own quarter-turn Oscars for the movies of Q1 2020, then take wild, sight-unseen guesses at what might actually win a year from now.",
+  "segments": [
+    {
+      "kind": "awards",
+      "heading": "The Quarter-Turn Awards",
+      "note": "Sean and Amanda's own six categories for the movies of Q1 2020",
+      "categories": [
+        {
+          "name": "Best Supporting Actress",
+          "winner": "Portrait of a Lady on Fire",
+          "nominees": [
+            {
+              "title": "Bacurau",
+              "year": 2019,
+              "person": "Sônia Braga"
+            },
+            {
+              "title": "Bad Boys for Life",
+              "year": 2020,
+              "person": "Kate del Castillo"
+            },
+            {
+              "title": "All the Bright Places",
+              "year": 2020,
+              "person": "Elle Fanning"
+            },
+            {
+              "title": "Portrait of a Lady on Fire",
+              "year": 2019,
+              "person": "Adèle Haenel"
+            },
+            {
+              "title": "Spenser Confidential",
+              "year": 2020,
+              "person": "Iliza Shlesinger"
+            }
+          ]
+        },
+        {
+          "name": "Best Supporting Actor",
+          "winner": "The Banker",
+          "nominees": [
+            {
+              "title": "Sonic the Hedgehog",
+              "year": 2020,
+              "person": "Jim Carrey"
+            },
+            {
+              "title": "Big Time Adolescence",
+              "year": 2019,
+              "person": "Pete Davidson"
+            },
+            {
+              "title": "The Banker",
+              "year": 2020,
+              "person": "Samuel L. Jackson"
+            },
+            {
+              "title": "First Cow",
+              "year": 2019,
+              "person": "Orion Lee"
+            },
+            {
+              "title": "Birds of Prey",
+              "year": 2020,
+              "person": "Ewan McGregor"
+            }
+          ]
+        },
+        {
+          "name": "Best Actor",
+          "winner": "The Way Back",
+          "nominees": [
+            {
+              "title": "The Way Back",
+              "year": 2020,
+              "person": "Ben Affleck"
+            },
+            {
+              "title": "The Traitor",
+              "year": 2019,
+              "person": "Pierfrancesco Favino"
+            },
+            {
+              "title": "Downhill",
+              "year": 2020,
+              "person": "Will Ferrell"
+            },
+            {
+              "title": "First Cow",
+              "year": 2019,
+              "person": "John Magaro"
+            },
+            {
+              "title": "The Photograph",
+              "year": 2020,
+              "person": "Lakeith Stanfield"
+            }
+          ]
+        },
+        {
+          "name": "Best Actress",
+          "winner": "The Invisible Man",
+          "nominees": [
+            {
+              "title": "Never Rarely Sometimes Always",
+              "year": 2020,
+              "person": "Sidney Flanigan"
+            },
+            {
+              "title": "The Assistant",
+              "year": 2019,
+              "person": "Julia Garner"
+            },
+            {
+              "title": "The Hunt",
+              "year": 2020,
+              "person": "Betty Gilpin"
+            },
+            {
+              "title": "Portrait of a Lady on Fire",
+              "year": 2019,
+              "person": "Noémie Merlant"
+            },
+            {
+              "title": "The Invisible Man",
+              "year": 2020,
+              "person": "Elisabeth Moss"
+            }
+          ]
+        },
+        {
+          "name": "Best Director",
+          "winner": "First Cow",
+          "nominees": [
+            {
+              "title": "Emma",
+              "year": 2020,
+              "person": "Autumn de Wilde"
+            },
+            {
+              "title": "The Assistant",
+              "year": 2019,
+              "person": "Kitty Green"
+            },
+            {
+              "title": "Never Rarely Sometimes Always",
+              "year": 2020,
+              "person": "Eliza Hittman"
+            },
+            {
+              "title": "First Cow",
+              "year": 2019,
+              "person": "Kelly Reichardt"
+            },
+            {
+              "title": "Portrait of a Lady on Fire",
+              "year": 2019,
+              "person": "Céline Sciamma"
+            }
+          ]
+        },
+        {
+          "name": "Best Picture",
+          "winner": "Portrait of a Lady on Fire",
+          "nominees": [
+            {
+              "title": "The Assistant",
+              "year": 2019
+            },
+            {
+              "title": "Bacurau",
+              "year": 2019
+            },
+            {
+              "title": "First Cow",
+              "year": 2019
+            },
+            {
+              "title": "The Invisible Man",
+              "year": 2020
+            },
+            {
+              "title": "Never Rarely Sometimes Always",
+              "year": 2020
+            },
+            {
+              "title": "Onward",
+              "year": 2020
+            },
+            {
+              "title": "Portrait of a Lady on Fire",
+              "year": 2019
+            },
+            {
+              "title": "The Way Back",
+              "year": 2020
+            },
+            {
+              "title": "The Whistlers",
+              "year": 2019
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "heading": "Forecasting the Real Oscars",
+      "note": "sight-unseen picks for what actually wins a year from now, same six categories",
+      "picks": [
+        {
+          "title": "Hillbilly Elegy",
+          "year": 2020,
+          "by": "Sean Fennessey",
+          "note": "Best Supporting Actress pick: Glenn Close."
+        },
+        {
+          "title": "Ammonite",
+          "year": 2020,
+          "by": "Amanda Dobbins",
+          "note": "Best Supporting Actress pick: Saoirse Ronan."
+        },
+        {
+          "title": "Minari",
+          "year": 2020,
+          "by": "Sean Fennessey",
+          "note": "Best Supporting Actor pick: Steven Yeun, with a caveat about possible category fraud."
+        },
+        {
+          "title": "On the Rocks",
+          "year": 2020,
+          "by": "Amanda Dobbins",
+          "note": "Best Supporting Actor pick: Bill Murray."
+        },
+        {
+          "title": "The Father",
+          "year": 2020,
+          "by": "Sean Fennessey",
+          "note": "Best Actor pick: Anthony Hopkins."
+        },
+        {
+          "title": "Stillwater",
+          "year": 2021,
+          "by": "Amanda Dobbins",
+          "note": "Best Actor pick: Matt Damon."
+        },
+        {
+          "title": "French Exit",
+          "year": 2020,
+          "by": "Sean Fennessey",
+          "note": "Best Actress pick: Michelle Pfeiffer."
+        },
+        {
+          "title": "West Side Story",
+          "year": 2021,
+          "by": "Amanda Dobbins",
+          "note": "Best Actress pick: Rachel Zegler."
+        },
+        {
+          "title": "Mank",
+          "year": 2020,
+          "by": "Sean Fennessey",
+          "note": "Best Director pick: David Fincher."
+        },
+        {
+          "title": "Da 5 Bloods",
+          "year": 2020,
+          "by": "Amanda Dobbins",
+          "note": "Best Director pick: Spike Lee."
+        },
+        {
+          "title": "The Trial of the Chicago 7",
+          "year": 2020,
+          "by": "Sean Fennessey",
+          "note": "Best Picture pick."
+        },
+        {
+          "title": "Mank",
+          "year": 2020,
+          "by": "Amanda Dobbins",
+          "note": "Best Picture pick."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Water Lilies",
+        "Kingpin",
+        "Meek's Cutoff",
+        "Wendy and Lucy",
+        "Her Smell",
+        "The Wife",
+        "Carol",
+        "Les Misérables",
+        "Ford v Ferrari",
+        "Once Upon a Time in Hollywood",
+        "A Star Is Born",
+        "Gone Girl",
+        "Police, Adjective",
+        "Infinite Football",
+        "Mo' Better Blues",
+        "Bamboozled",
+        "Blonde",
+        "Respect"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The West Wing",
+      "Mad Men",
+      "The Handmaid's Tale",
+      "Ozark",
+      "Game of Thrones"
+    ]
+  },
+  "tmdb": {
+    "Bacurau": {
+      "id": 446159,
+      "poster": "/tBa4zMGzZUco26XT3WfZZCwQ76i.jpg",
+      "title": "Bacurau",
+      "year": 2019
+    },
+    "Bad Boys for Life": {
+      "id": 38700,
+      "poster": "/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
+      "title": "Bad Boys for Life",
+      "year": 2020
+    },
+    "All the Bright Places": {
+      "id": 342470,
+      "poster": "/4SafxuMKQiw4reBiWKVZJpJn80I.jpg",
+      "title": "All the Bright Places",
+      "year": 2020
+    },
+    "Portrait of a Lady on Fire": {
+      "id": 531428,
+      "poster": "/rUDuOKpkKBHxx41BScqKej72iT3.jpg",
+      "title": "Portrait of a Lady on Fire",
+      "year": 2019
+    },
+    "Spenser Confidential": {
+      "id": 581600,
+      "poster": "/fePczipv6ZzDO2uoww4vTAu2Sq3.jpg",
+      "title": "Spenser Confidential",
+      "year": 2020
+    },
+    "Sonic the Hedgehog": {
+      "id": 454626,
+      "poster": "/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+      "title": "Sonic the Hedgehog",
+      "year": 2020
+    },
+    "Big Time Adolescence": {
+      "id": 539617,
+      "poster": "/iaoIzpakgSm0IQEz3edfAttr4YC.jpg",
+      "title": "Big Time Adolescence",
+      "year": 2020
+    },
+    "The Banker": {
+      "id": 627725,
+      "poster": "/biXzsw22U6vSd0XktmZwAOc4uik.jpg",
+      "title": "The Banker",
+      "year": 2020
+    },
+    "First Cow": {
+      "id": 558582,
+      "poster": "/yS41crZ1i0fFxCQbuL7I1Y1VBwm.jpg",
+      "title": "First Cow",
+      "year": 2020
+    },
+    "Birds of Prey": {
+      "id": 1125037,
+      "poster": null,
+      "title": "Birds of Prey",
+      "year": null
+    },
+    "The Way Back": {
+      "id": 529485,
+      "poster": "/ylPnfaphW3FrLBUVwAREVtiL9My.jpg",
+      "title": "The Way Back",
+      "year": 2020
+    },
+    "The Traitor": {
+      "id": 575452,
+      "poster": "/bjb1zKlyw85hYwDXzz2UM6XqjUU.jpg",
+      "title": "The Traitor",
+      "year": 2019
+    },
+    "Downhill": {
+      "id": 560391,
+      "poster": "/ruLqLb2bfWKykckxVlVZayuBOgW.jpg",
+      "title": "Downhill",
+      "year": 2020
+    },
+    "The Photograph": {
+      "id": 589049,
+      "poster": "/cdqZqIcWt0Ne2Io2OA9iWqqMuCA.jpg",
+      "title": "The Photograph",
+      "year": 2020
+    },
+    "Never Rarely Sometimes Always": {
+      "id": 595671,
+      "poster": "/7yiSyQhhjTFphhfCUcn05tCQxyG.jpg",
+      "title": "Never Rarely Sometimes Always",
+      "year": 2020
+    },
+    "The Assistant": {
+      "id": 627463,
+      "poster": "/zJpJkVgezsR7dp6KQwyxtGIAOZv.jpg",
+      "title": "The Assistant",
+      "year": 2020
+    },
+    "The Hunt": {
+      "id": 514847,
+      "poster": "/wxPhn4ef1EAo5njxwBkAEVrlJJG.jpg",
+      "title": "The Hunt",
+      "year": 2020
+    },
+    "The Invisible Man": {
+      "id": 570670,
+      "poster": "/5EufsDwXdY2CVttYOk2WtYhgKpa.jpg",
+      "title": "The Invisible Man",
+      "year": 2020
+    },
+    "Emma": {
+      "id": 556678,
+      "poster": "/uHpHzbHLSsVmAuuGuQSpyVDZmDc.jpg",
+      "title": "Emma.",
+      "year": 2020
+    },
+    "Onward": {
+      "id": 508439,
+      "poster": "/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg",
+      "title": "Onward",
+      "year": 2020
+    },
+    "The Whistlers": {
+      "id": 504582,
+      "poster": "/osVaEZasM0LH6l5OPflFIT4G1H8.jpg",
+      "title": "The Whistlers",
+      "year": 2019
+    },
+    "Hillbilly Elegy": {
+      "id": 592984,
+      "poster": "/aA0D6DKIfLtXYNy94Qq2IW5NiGR.jpg",
+      "title": "Hillbilly Elegy",
+      "year": 2020
+    },
+    "Ammonite": {
+      "id": 568467,
+      "poster": "/5lx4pUHWZoOKJWsVsvurRRNW9FK.jpg",
+      "title": "Ammonite",
+      "year": 2020
+    },
+    "Minari": {
+      "id": 615643,
+      "poster": "/6mPNdmjdbVKPITv3LLCmQoKs9Zw.jpg",
+      "title": "Minari",
+      "year": 2021
+    },
+    "On the Rocks": {
+      "id": 575417,
+      "poster": "/fcijRCmB7yTtloh4Pumy9b1rkwU.jpg",
+      "title": "On the Rocks",
+      "year": 2020
+    },
+    "The Father": {
+      "id": 600354,
+      "poster": "/pr3bEQ517uMb5loLvjFQi8uLAsp.jpg",
+      "title": "The Father",
+      "year": 2020
+    },
+    "Stillwater": {
+      "id": 616651,
+      "poster": "/1lrPR7ah1KElPKnCsxmIRE1OlIh.jpg",
+      "title": "Stillwater",
+      "year": 2021
+    },
+    "French Exit": {
+      "id": 599960,
+      "poster": "/l5iZuQr62YCs72AZ9P3HwApowaC.jpg",
+      "title": "French Exit",
+      "year": 2021
+    },
+    "West Side Story": {
+      "id": 511809,
+      "poster": "/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+      "title": "West Side Story",
+      "year": 2021
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "Da 5 Bloods": {
+      "id": 581859,
+      "poster": "/yx4cp1ljJMDSFeEex0Zjv45b55E.jpg",
+      "title": "Da 5 Bloods",
+      "year": 2020
+    },
+    "The Trial of the Chicago 7": {
+      "id": 556984,
+      "poster": "/ahf5cVdooMAlDRiJOZQNuLqa1Is.jpg",
+      "title": "The Trial of the Chicago 7",
+      "year": 2020
+    },
+    "Water Lilies": {
+      "id": 10818,
+      "poster": "/oNrs9disgGDtOORToDt5dIqYFBi.jpg",
+      "title": "Water Lilies",
+      "year": 2007
+    },
+    "Kingpin": {
+      "id": 11543,
+      "poster": "/lVpejjxzBujSjLpxQ7hGe1s0wP2.jpg",
+      "title": "Kingpin",
+      "year": 1996
+    },
+    "Meek's Cutoff": {
+      "id": 57120,
+      "poster": "/oc28NmVqLx0x8epu3Ih3LvX4zE9.jpg",
+      "title": "Meek's Cutoff",
+      "year": 2011
+    },
+    "Wendy and Lucy": {
+      "id": 8942,
+      "poster": "/cVtF8SW4zMbculTXD52RDvmQAAR.jpg",
+      "title": "Wendy and Lucy",
+      "year": 2008
+    },
+    "Her Smell": {
+      "id": 520679,
+      "poster": "/qEvgdGBMORPS0rz8pqkVH3obLee.jpg",
+      "title": "Her Smell",
+      "year": 2019
+    },
+    "The Wife": {
+      "id": 340613,
+      "poster": "/d4Qyuy0Ul549f6SOdUqGvIdYKD2.jpg",
+      "title": "The Wife",
+      "year": 2017
+    },
+    "Carol": {
+      "id": 258480,
+      "poster": "/cJeled7EyPdur6TnCA5GYg0UVna.jpg",
+      "title": "Carol",
+      "year": 2015
+    },
+    "Les Misérables": {
+      "id": 82695,
+      "poster": "/6CuzBs2Lb8At7qQr64mLXg2RYRb.jpg",
+      "title": "Les Misérables",
+      "year": 2012
+    },
+    "Ford v Ferrari": {
+      "id": 359724,
+      "poster": "/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+      "title": "Ford v Ferrari",
+      "year": 2019
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "A Star Is Born": {
+      "id": 332562,
+      "poster": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "title": "A Star Is Born",
+      "year": 2018
+    },
+    "Gone Girl": {
+      "id": 210577,
+      "poster": "/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+      "title": "Gone Girl",
+      "year": 2014
+    },
+    "Police, Adjective": {
+      "id": 32511,
+      "poster": "/yiimBQLll8l6SXyNjder7ToilDi.jpg",
+      "title": "Police, Adjective",
+      "year": 2010
+    },
+    "Infinite Football": {
+      "id": 499558,
+      "poster": "/7Zlx4CXHP5GWTCNA0hUfqAasnHS.jpg",
+      "title": "Infinite Football",
+      "year": 2018
+    },
+    "Mo' Better Blues": {
+      "id": 41823,
+      "poster": "/sEa6m5RjfrqfTzY1eHkC85shiUF.jpg",
+      "title": "Mo' Better Blues",
+      "year": 1990
+    },
+    "Bamboozled": {
+      "id": 24664,
+      "poster": "/oAg1mUUxdWJNLa6t1gctbQhXHVN.jpg",
+      "title": "Bamboozled",
+      "year": 2000
+    },
+    "Blonde": {
+      "id": 301502,
+      "poster": "/mEeHqtnWOR44vLCutEFku2WK6ou.jpg",
+      "title": "Blonde",
+      "year": 2022
+    },
+    "Respect": {
+      "id": 592863,
+      "poster": "/iUtPwOBZJc8uJnDqlCXTibdgxKz.jpg",
+      "title": "Respect",
+      "year": 2021
+    }
+  }
+}

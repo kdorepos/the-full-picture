@@ -95,7 +95,7 @@
         {
           "title": "Delicatessen",
           "year": 1991,
-          "note": "Jean-Pierre Jeunet's post-apocalyptic import — 'Mad Max if it didn't go outside.'"
+          "note": "Jean-Pierre Jeunet's post-apocalyptic import: 'Mad Max if it didn't go outside.'"
         },
         {
           "title": "Edward II",
@@ -149,7 +149,7 @@
         {
           "title": "River of Grass",
           "year": 1994,
-          "note": "Kelly Reichardt's debut two years later at Sundance — it also cost her nearly a decade before her next feature."
+          "note": "Kelly Reichardt's debut two years later at Sundance, which also cost her nearly a decade before her next feature."
         },
         {
           "title": "Kafka",
@@ -189,12 +189,7 @@
         {
           "title": "Color Adjustment",
           "year": 1992,
-          "note": "Marlon Riggs's history of Black identity on television — called ahead of its time, only now getting real distribution."
-        },
-        {
-          "title": "The Exiles",
-          "year": 1961,
-          "note": "Mentioned via a recent rewatch on Criterion Channel; the transcript's description of its subject is unclear — worth double-checking against the actual film."
+          "note": "Marlon Riggs's history of Black identity on television, called ahead of its time and only now getting real distribution."
         },
         {
           "title": "Zebrahead",
@@ -231,9 +226,9 @@
           "note": "Michael Moore, cited as the prior political touchstone before Reservoir Dogs."
         },
         {
-          "title": "Tree's Lounge",
+          "title": "Trees Lounge",
           "year": 1996,
-          "note": "Buscemi's directorial debut — 'the platonic idea of a Sundance movie.'"
+          "note": "Buscemi's directorial debut, called 'the platonic idea of a Sundance movie.'"
         },
         {
           "title": "Living in Oblivion",
@@ -288,6 +283,17 @@
       ]
     }
   ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "The Exiles"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "The Exiles": 913827
+  },
   "excluded": {
     "TV": [
       "Succession",
@@ -514,12 +520,6 @@
       "title": "Color Adjustment",
       "year": 1992
     },
-    "The Exiles": {
-      "id": 84249,
-      "poster": "/t0ryDIbU9uh0WNg9QZFVr3xfFRS.jpg",
-      "title": "The Exiles",
-      "year": 1961
-    },
     "Zebrahead": {
       "id": 70489,
       "poster": "/yM5faEnpRmYHGyMerTY1GZUErUy.jpg",
@@ -562,7 +562,12 @@
       "title": "Roger & Me",
       "year": 1989
     },
-    "Tree's Lounge": null,
+    "Trees Lounge": {
+      "id": 27845,
+      "poster": "/2DtoVhI9RkArGbzkvctGxY578QN.jpg",
+      "title": "Trees Lounge",
+      "year": 1996
+    },
     "Living in Oblivion": {
       "id": 9071,
       "poster": "/b54xDk98oWtEtAso9sj1wjaZDDH.jpg",
@@ -621,6 +626,12 @@
       "id": 833339,
       "poster": "/ukYuuFzPTumN1QNpQyz863bcNvr.jpg",
       "title": "Speak No Evil",
+      "year": 2022
+    },
+    "The Exiles": {
+      "id": 913827,
+      "poster": "/uNSHXaklDG9G9ioXvy73lBCqd8t.jpg",
+      "title": "The Exiles",
       "year": 2022
     }
   }

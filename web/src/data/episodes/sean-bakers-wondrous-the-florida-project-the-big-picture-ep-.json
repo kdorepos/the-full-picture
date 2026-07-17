@@ -1,0 +1,108 @@
+{
+  "slug": "sean-bakers-wondrous-the-florida-project-the-big-picture-ep-",
+  "title": "Sean Baker’s Wondrous ‘The Florida Project’ | The Big Picture (Ep. 39)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2017-12-08",
+  "runtimeMin": 33,
+  "format": "Sean Fennessey talks to Sean Baker about The Florida Project, casting Willem Dafoe against a cast of first-timers, and why he keeps making movies about people Hollywood ignores.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Sean Baker on",
+      "films": [
+        {
+          "title": "The Florida Project",
+          "year": 2017,
+          "note": "Baker's fifth feature, shot largely on 35mm around a budget motel outside Disney World; just named Best Director by the New York Film Critics Circle."
+        },
+        {
+          "title": "Tangerine",
+          "year": 2015,
+          "note": "Shot entirely on an iPhone 5S for a fraction of Starlet's budget; the film that got June Pictures to bankroll The Florida Project."
+        },
+        {
+          "title": "Starlet",
+          "year": 2012,
+          "note": "A quarter-million-dollar budget Baker says he tried to make look like a million."
+        },
+        {
+          "title": "Prince of Broadway",
+          "year": 2008,
+          "note": "Shot among counterfeit-goods sellers on lower Broadway; where Baker learned the ground-level, earn-their-trust approach to casting real communities."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Baker's influences and mentions",
+      "films": [
+        "Oasis",
+        "Harold and Maude",
+        "Do the Right Thing",
+        "BPM (Beats per Minute)"
+      ]
+    }
+  ],
+  "excluded": {},
+  "tmdbOverrides": {
+    "Prince of Broadway": 87081,
+    "Oasis": 26955,
+    "BPM (Beats per Minute)": 451945
+  },
+  "tmdb": {
+    "The Florida Project": {
+      "id": 394117,
+      "poster": "/5QnDxdJg1fi6uMSkSi4x8tHsltm.jpg",
+      "title": "The Florida Project",
+      "year": 2017
+    },
+    "Tangerine": {
+      "id": 308084,
+      "poster": "/EKLR5c61XQzBTeMokFrmS3kdt8.jpg",
+      "title": "Tangerine",
+      "year": 2015
+    },
+    "Starlet": {
+      "id": 91679,
+      "poster": "/8mVU5KjD5b4Df3CRTnJqKFSwg5y.jpg",
+      "title": "Starlet",
+      "year": 2012
+    },
+    "Prince of Broadway": {
+      "id": 87081,
+      "poster": "/6rcVFsEwOyXsG0e7L9ql6KEPGJX.jpg",
+      "title": "Prince of Broadway",
+      "year": 2010
+    },
+    "Oasis": {
+      "id": 26955,
+      "poster": "/aaajiBpeBVbVwovpSQKaMfKRGKw.jpg",
+      "title": "Oasis",
+      "year": 2002
+    },
+    "Harold and Maude": {
+      "id": 343,
+      "poster": "/t7qEuGwDjcYu8ajaKZ68DeDnOxw.jpg",
+      "title": "Harold and Maude",
+      "year": 1971
+    },
+    "Do the Right Thing": {
+      "id": 925,
+      "poster": "/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+      "title": "Do the Right Thing",
+      "year": 1989
+    },
+    "BPM (Beats per Minute)": {
+      "id": 451945,
+      "poster": "/azLtGx5ZhdTSP2b4oNLWtiE51OW.jpg",
+      "title": "BPM (Beats per Minute)",
+      "year": 2017
+    }
+  }
+}

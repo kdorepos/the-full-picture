@@ -1,0 +1,219 @@
+{
+  "slug": "james-cameron-an-oral-history",
+  "title": "James Cameron: An Oral History",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Alan Siegel"
+  ],
+  "published": "2022-12-13",
+  "runtimeMin": 50,
+  "format": "A Ringer oral history of James Cameron, told by the actors and producers who made his films, from a debut he was fired off a week in to Avatar.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Part one: Corman's model shop to The Terminator",
+      "note": "the early years",
+      "films": [
+        {
+          "title": "Piranha II: The Spawning",
+          "year": 1982,
+          "note": "Cameron's technical directing debut, a Jaws ripoff he was fired off a week into filming. \"It was a piece of garbage,\" he later told Entertainment Weekly."
+        },
+        {
+          "title": "The Terminator",
+          "year": 1984,
+          "note": "Born from a fever dream of a metal endoskeleton walking out of flames. Schwarzenegger wanted to play the hero; Cameron cast him as the machine. The financing hinged on a Scandia lunch the broke director and Gail Ann Hurd couldn't pay for. Schwarzenegger bonded over it instead of walking. The moving-car shot was faked by driving a brick wall past on a grip truck."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Part two: Aliens",
+      "note": "the war movie in space",
+      "films": [
+        {
+          "title": "Aliens",
+          "year": 1986,
+          "note": "Cameron landed it on the Terminator script alone, before that film even opened. Sigourney Weaver, a gun-control advocate, balked at the machine guns until Cameron took her to a shooting range. The studio told him to write Ripley out; he refused. The climax pit her power loader against an animatronic xenomorph queen. Won two Oscars, seven nominations, Weaver's first."
+        },
+        {
+          "title": "Alien",
+          "year": 1979,
+          "note": "Ridley Scott's original, the horror classic Cameron's sequel had to follow."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Part three: True Lies and the Cameron method",
+      "note": "how he runs a set",
+      "films": [
+        {
+          "title": "True Lies",
+          "year": 1994,
+          "note": "Cameron threatened to move the most expensive movie ever made from Fox to Paramount to get Tom Arnold cast as Schwarzenegger's sidekick. When Arnold slipped away for an unscheduled monument tour mid-shoot, Cameron slammed the car hood on his return."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Part four: The Abyss and Titanic",
+      "note": "inventing the tech to shoot it",
+      "films": [
+        {
+          "title": "The Abyss",
+          "year": 1989,
+          "note": "The CGI water-tentacle pseudopod didn't exist, so ILM's Dennis Muren took months off to learn to code it. Shot in a flooded, unfinished nuclear plant in Gaffney, South Carolina, on brutal six-day weeks. The crew's motto: \"life's abyss, and then you dive.\""
+        },
+        {
+          "title": "Terminator 2: Judgment Day",
+          "year": 1991,
+          "note": "Cameron wrote the Abyss pseudopod partly as proof of concept: crack liquid CGI there, or never be able to do the T-1000."
+        },
+        {
+          "title": "Titanic",
+          "year": 1997,
+          "note": "Someone spiked the set chowder with PCP; Cameron's drive still broke box-office records. Told Danny Nucci mid-shoot that acting is the one on-set job he can't do better than anyone, and that his dream is a movie with four people in a room, which is why Avatar made sense to everyone afterward."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Part five: Titanic's crown and the road to Avatar",
+      "note": "king of the world",
+      "films": [
+        {
+          "title": "Ghosts of the Abyss",
+          "year": 2003,
+          "note": "Documentary; Cameron literally returned to the Titanic wreck."
+        },
+        {
+          "title": "Aliens of the Deep",
+          "year": 2005,
+          "note": "A second ocean documentary before he turned to Pandora."
+        },
+        {
+          "title": "Avatar",
+          "year": 2009,
+          "note": "Cameron sat on the script until the technology caught up, choosing it over Alita. Weaver said yes to a movie so ambitious she couldn't picture how it would work. It beat Titanic's all-time box-office record."
+        },
+        {
+          "title": "Alita: Battle Angel",
+          "year": 2019,
+          "note": "The other script Cameron pulled from his desk drawer alongside Avatar; he handed it to Robert Rodriguez to direct."
+        },
+        {
+          "title": "Avatar: The Way of Water",
+          "year": 2022,
+          "note": "More than a decade in the making, out December 16th. Cameron wrote 1,500 pages of story notes and put the cast through underwater training for the performance-capture sequences."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Avengers: Endgame"
+      ]
+    }
+  ],
+  "excluded": {
+    "Ads": [
+      "This Blew Up",
+      "TalkAboutPD.com",
+      "FIFA World Cup Launch Edition",
+      "FanDuel",
+      "Boar's Head",
+      "White Claw",
+      "Athletic Brewing"
+    ]
+  },
+  "tmdb": {
+    "Piranha II: The Spawning": {
+      "id": 31646,
+      "poster": "/rbcbLYbhc8ZmQmNHAt8E8knij88.jpg",
+      "title": "Piranha II: The Spawning",
+      "year": 1982
+    },
+    "The Terminator": {
+      "id": 218,
+      "poster": "/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+      "title": "The Terminator",
+      "year": 1984
+    },
+    "Aliens": {
+      "id": 679,
+      "poster": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "title": "Aliens",
+      "year": 1986
+    },
+    "Alien": {
+      "id": 348,
+      "poster": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "title": "Alien",
+      "year": 1979
+    },
+    "True Lies": {
+      "id": 36955,
+      "poster": "/pweFTnzzTfGK68woSVkiTgjLzWm.jpg",
+      "title": "True Lies",
+      "year": 1994
+    },
+    "The Abyss": {
+      "id": 2756,
+      "poster": "/2dCit3XAtv9KWCJvRKdPkJ0FAkH.jpg",
+      "title": "The Abyss",
+      "year": 1989
+    },
+    "Terminator 2: Judgment Day": {
+      "id": 280,
+      "poster": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "Ghosts of the Abyss": {
+      "id": 24982,
+      "poster": "/aSht7L9Mnr1zc4hDJTOwPuTfnV8.jpg",
+      "title": "Ghosts of the Abyss",
+      "year": 2003
+    },
+    "Aliens of the Deep": {
+      "id": 22559,
+      "poster": "/fr93LZw0vilOK42vbWCgtekyMpQ.jpg",
+      "title": "Aliens of the Deep",
+      "year": 2005
+    },
+    "Avatar": {
+      "id": 19995,
+      "poster": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "title": "Avatar",
+      "year": 2009
+    },
+    "Alita: Battle Angel": {
+      "id": 399579,
+      "poster": "/xRWht48C2V8XNfzvPehyClOvDni.jpg",
+      "title": "Alita: Battle Angel",
+      "year": 2019
+    },
+    "Avatar: The Way of Water": {
+      "id": 76600,
+      "poster": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "title": "Avatar: The Way of Water",
+      "year": 2022
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    }
+  }
+}

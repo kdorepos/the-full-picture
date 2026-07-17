@@ -1,0 +1,174 @@
+{
+  "slug": "lets-talk-licorice-pizza",
+  "title": "Let’s Talk ‘Licorice Pizza’",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan",
+    "Wasney Lambre"
+  ],
+  "published": "2022-01-11",
+  "runtimeMin": 93,
+  "format": "A spoiler-heavy roundtable on Paul Thomas Anderson's ninth feature: the Gary/Alana age gap, the Jerry Frick scenes, Bradley Cooper's John Peters, and where it sits in the PTA run.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘Licorice Pizza’",
+      "note": "spoilers throughout",
+      "films": [
+        {
+          "title": "Licorice Pizza",
+          "year": 2021,
+          "note": "PTA back in the San Fernando Valley for the first time since Boogie Nights. Cooper Hoffman (Philip Seymour Hoffman's son) and first-timer Alana Haim anchor it; the panel reads it as an Alana movie that drifts her way in the edit. They dig into the Gary/Alana age gap and the John Michael Higgins 'Jerry Frick' mock-accent scenes, plus Bradley Cooper's John Peters, the down-the-hill set piece, the Let Me Roll It needle drop, and its Oscar odds (screenplay over Best Picture)."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The PTA filmography",
+      "films": [
+        "Boogie Nights",
+        "Magnolia",
+        "Punch-Drunk Love",
+        "There Will Be Blood",
+        "The Master",
+        "Inherent Vice",
+        "Phantom Thread"
+      ]
+    },
+    {
+      "group": "Comparisons and asides",
+      "films": [
+        "Once Upon a Time in Hollywood",
+        "Dazed and Confused",
+        "American Graffiti",
+        "Boyz n the Hood",
+        "Juice",
+        "The Town",
+        "The Fighter",
+        "Yours, Mine and Ours"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Yellowjackets",
+      "Station Eleven",
+      "Succession",
+      "Yellowstone"
+    ],
+    "Podcasts": [
+      "The Watch",
+      "The Rewatchables"
+    ],
+    "Fictional": [
+      "Under One Roof (the fake movie within Licorice Pizza)"
+    ],
+    "Ads": [
+      "Netflix FIFA World Cup",
+      "Boar's Head",
+      "Pepsi"
+    ]
+  },
+  "tmdb": {
+    "Licorice Pizza": {
+      "id": 718032,
+      "poster": "/ivXtvzfliGvoJ1DhSHIGyYBToWe.jpg",
+      "title": "Licorice Pizza",
+      "year": 2021
+    },
+    "Boogie Nights": {
+      "id": 4995,
+      "poster": "/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg",
+      "title": "Boogie Nights",
+      "year": 1997
+    },
+    "Magnolia": {
+      "id": 334,
+      "poster": "/tpfC325Jk6S38VTe5dDWjWtoyxr.jpg",
+      "title": "Magnolia",
+      "year": 1999
+    },
+    "Punch-Drunk Love": {
+      "id": 8051,
+      "poster": "/htYp4yqFu4rzBEIa6j9jP8miDm3.jpg",
+      "title": "Punch-Drunk Love",
+      "year": 2002
+    },
+    "There Will Be Blood": {
+      "id": 7345,
+      "poster": "/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+      "title": "There Will Be Blood",
+      "year": 2007
+    },
+    "The Master": {
+      "id": 68722,
+      "poster": "/rUSjbyvYWN9H4az8xt0tDtU7I6v.jpg",
+      "title": "The Master",
+      "year": 2012
+    },
+    "Inherent Vice": {
+      "id": 171274,
+      "poster": "/pfVua7TzzttOh3RTOuBqT7xN0oY.jpg",
+      "title": "Inherent Vice",
+      "year": 2014
+    },
+    "Phantom Thread": {
+      "id": 400617,
+      "poster": "/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg",
+      "title": "Phantom Thread",
+      "year": 2017
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Dazed and Confused": {
+      "id": 9571,
+      "poster": "/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+      "title": "Dazed and Confused",
+      "year": 1993
+    },
+    "American Graffiti": {
+      "id": 838,
+      "poster": "/1tjLivPad2PX8FAzWko7FPIb8d2.jpg",
+      "title": "American Graffiti",
+      "year": 1973
+    },
+    "Boyz n the Hood": {
+      "id": 650,
+      "poster": "/v4ox4aSCNT5vyLXl4Q71JiWwCXW.jpg",
+      "title": "Boyz n the Hood",
+      "year": 1991
+    },
+    "Juice": {
+      "id": 16136,
+      "poster": "/hfXFPMhNjLnCugBHMN0nrtKW7Ra.jpg",
+      "title": "Juice",
+      "year": 1992
+    },
+    "The Town": {
+      "id": 23168,
+      "poster": "/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
+      "title": "The Town",
+      "year": 2010
+    },
+    "The Fighter": {
+      "id": 45317,
+      "poster": "/xfsFerGhO1h6rLk8vwLgMyQ8WVJ.jpg",
+      "title": "The Fighter",
+      "year": 2010
+    },
+    "Yours, Mine and Ours": {
+      "id": 27983,
+      "poster": "/ejbrAFkAHP5W5mzI8wA0zUTcDdg.jpg",
+      "title": "Yours, Mine and Ours",
+      "year": 1968
+    }
+  }
+}

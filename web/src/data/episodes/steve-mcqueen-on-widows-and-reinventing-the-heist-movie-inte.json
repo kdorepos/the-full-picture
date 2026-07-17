@@ -1,0 +1,107 @@
+{
+  "slug": "steve-mcqueen-on-widows-and-reinventing-the-heist-movie-inte",
+  "title": "Steve McQueen on ‘Widows’ and Reinventing the Heist Movie | Interview (Ep. 100)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2018-11-19",
+  "runtimeMin": 33,
+  "format": "Sean Fennessey talks with Steve McQueen about turning a 1983 British miniseries into a Chicago heist movie about four women, and why he thinks the genre had no rules to begin with.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Steve McQueen on",
+      "films": [
+        {
+          "title": "Widows",
+          "year": 2018,
+          "note": "McQueen saw the Lynda La Plante TV series at 13 and identified with the widows; he and Gillian Flynn moved the story to Chicago to fold in race, politics, and gender."
+        },
+        {
+          "title": "Ocean's Eleven",
+          "year": 2001,
+          "note": "The heist template McQueen is deliberately not making: he wanted the domestic stuff, like childcare and dogs, that heist movies usually skip."
+        },
+        {
+          "title": "Some Like It Hot",
+          "year": 1959,
+          "note": "His answer to the last-great-thing-you've-seen question. He rewatched it and marveled at how fast Billy Wilder gets moving: a train to Florida inside ten minutes."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "McQueen's filmography, cited in the intro",
+      "films": [
+        "Hunger",
+        "Shame",
+        "12 Years a Slave"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Creed II"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Widows (the 1983 Lynda La Plante ITV miniseries Widows is adapted from)"
+    ],
+    "Cross-promo": [
+      "Villains (new Ringer podcast promoted in the cold open)"
+    ]
+  },
+  "tmdbOverrides": {
+    "Hunger": 10360
+  },
+  "tmdb": {
+    "Widows": {
+      "id": 401469,
+      "poster": "/d31SGJSaX29ba5ZUbZcesGoDE7I.jpg",
+      "title": "Widows",
+      "year": 2018
+    },
+    "Ocean's Eleven": {
+      "id": 161,
+      "poster": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+      "title": "Ocean's Eleven",
+      "year": 2001
+    },
+    "Some Like It Hot": {
+      "id": 239,
+      "poster": "/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+      "title": "Some Like It Hot",
+      "year": 1959
+    },
+    "Hunger": {
+      "id": 10360,
+      "poster": "/84HdTM39G2MzyTl8N9R0wVU9I5b.jpg",
+      "title": "Hunger",
+      "year": 2008
+    },
+    "Shame": {
+      "id": 76025,
+      "poster": "/cAWLz9kFv4xc6IsEXTj2DrcqD55.jpg",
+      "title": "Shame",
+      "year": 2011
+    },
+    "12 Years a Slave": {
+      "id": 76203,
+      "poster": "/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+      "title": "12 Years a Slave",
+      "year": 2013
+    },
+    "Creed II": {
+      "id": 480530,
+      "poster": "/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg",
+      "title": "Creed II",
+      "year": 2018
+    }
+  }
+}

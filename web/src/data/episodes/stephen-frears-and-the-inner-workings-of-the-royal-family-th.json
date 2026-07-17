@@ -1,0 +1,201 @@
+{
+  "slug": "stephen-frears-and-the-inner-workings-of-the-royal-family-th",
+  "title": "Stephen Frears and the Inner Workings of the Royal Family | The Big Picture (Ep. 27)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2017-09-29",
+  "runtimeMin": 27,
+  "format": "Amanda Dobbins ranks the best movies about royalty, then Stephen Frears talks Victoria and Abdul and insists the monarchy itself doesn't interest him.",
+  "segments": [
+    {
+      "kind": "ranking",
+      "heading": "Amanda's Royals-on-Film Ranking",
+      "note": "Shakespeare adaptations excluded on principle",
+      "subject": "Royals on film",
+      "ranked": true,
+      "films": [
+        {
+          "title": "The Queen",
+          "year": 2006,
+          "note": "No. 1 - the week after Diana's death, and the gap between public duty and private grief."
+        },
+        {
+          "title": "The Lion in Winter",
+          "year": 1968,
+          "note": "Peter O'Toole and Katharine Hepburn going at each other like Who's Afraid of Virginia Woolf in crowns."
+        },
+        {
+          "title": "Marie Antoinette",
+          "year": 2006,
+          "note": "Sofia Coppola's take on a teenager handed a job she wasn't ready for."
+        },
+        {
+          "title": "The Madness of King George",
+          "year": 1994,
+          "note": "Nigel Hawthorne, from Alan Bennett's play, played as comedy instead of tragedy."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Stephen Frears on",
+      "films": [
+        {
+          "title": "Victoria & Abdul",
+          "year": 2017,
+          "note": "His new film, on Victoria's friendship with an Indian Muslim clerk."
+        },
+        {
+          "title": "The Queen",
+          "year": 2006,
+          "note": "Written by Peter Morgan; the imagined weekly conversations with Tony Blair."
+        },
+        {
+          "title": "My Beautiful Laundrette",
+          "year": 1985,
+          "note": "Frears on the racial politics running through it and Victoria and Abdul both."
+        },
+        {
+          "title": "Dangerous Liaisons",
+          "year": 1988
+        },
+        {
+          "title": "High Fidelity",
+          "year": 2000
+        },
+        {
+          "title": "The Grifters",
+          "year": 1990
+        },
+        {
+          "title": "Philomena",
+          "year": 2013,
+          "note": "Frears recalls telling the producers to slow down despite the momentum."
+        },
+        {
+          "title": "if....",
+          "year": 1968,
+          "note": "Frears worked on set under Lindsay Anderson and Karel Reisz."
+        },
+        {
+          "title": "Manchester by the Sea",
+          "year": 2016,
+          "note": "Frears: he liked it, but \"didn't understand\" La La Land."
+        },
+        {
+          "title": "Margaret",
+          "year": 2011,
+          "note": "Frears on the Kenneth Lonergan film before Manchester by the Sea."
+        },
+        {
+          "title": "La La Land",
+          "year": 2016
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Crown",
+      "The Deal"
+    ],
+    "Stage": [
+      "The Audience"
+    ],
+    "Ads": [
+      "Black on the Air",
+      "The Watch"
+    ]
+  },
+  "tmdb": {
+    "The Queen": {
+      "id": 1165,
+      "poster": "/v08RH5Cx9EFAQMBWQuE5jHAgHYs.jpg",
+      "title": "The Queen",
+      "year": 2006
+    },
+    "The Lion in Winter": {
+      "id": 18988,
+      "poster": "/yMgJnZADJObzfjA70ygXJkjnrFX.jpg",
+      "title": "The Lion in Winter",
+      "year": 1968
+    },
+    "Marie Antoinette": {
+      "id": 1887,
+      "poster": "/cybXGmv8Rjd5Os8Xml6YxMBQ0Zt.jpg",
+      "title": "Marie Antoinette",
+      "year": 2006
+    },
+    "The Madness of King George": {
+      "id": 11318,
+      "poster": "/1dTSY023ZyBbgVSKDRuA6JLGSnZ.jpg",
+      "title": "The Madness of King George",
+      "year": 1994
+    },
+    "Victoria & Abdul": {
+      "id": 423899,
+      "poster": "/uIzQ8zZ0rqjqqJUIpeeovtTryAa.jpg",
+      "title": "Victoria & Abdul",
+      "year": 2017
+    },
+    "My Beautiful Laundrette": {
+      "id": 11240,
+      "poster": "/hfGWxrtbRnxg19ouEYBtQKtMZcN.jpg",
+      "title": "My Beautiful Laundrette",
+      "year": 1985
+    },
+    "Dangerous Liaisons": {
+      "id": 859,
+      "poster": "/hFem30C3uJUd9smNy7rFLGVhKys.jpg",
+      "title": "Dangerous Liaisons",
+      "year": 1988
+    },
+    "High Fidelity": {
+      "id": 243,
+      "poster": "/e2LZGB62GMhv3Fo8tDZjY87I81a.jpg",
+      "title": "High Fidelity",
+      "year": 2000
+    },
+    "The Grifters": {
+      "id": 18129,
+      "poster": "/zMpGfkiDIdg5bB7WGcAT3Fdrfpt.jpg",
+      "title": "The Grifters",
+      "year": 1990
+    },
+    "Philomena": {
+      "id": 205220,
+      "poster": "/eBUv2GmGdXmCk1AaSOmyiu70hN8.jpg",
+      "title": "Philomena",
+      "year": 2013
+    },
+    "if....": {
+      "id": 14794,
+      "poster": "/oqlpAGq4aXhc6ODtxBcGM1SEoIp.jpg",
+      "title": "if....",
+      "year": 1968
+    },
+    "Manchester by the Sea": {
+      "id": 334541,
+      "poster": "/o9VXYOuaJxCEKOxbA86xqtwmqYn.jpg",
+      "title": "Manchester by the Sea",
+      "year": 2016
+    },
+    "Margaret": {
+      "id": 44754,
+      "poster": "/zqBao8uRH6TQAJd13tqC22vPB76.jpg",
+      "title": "Margaret",
+      "year": 2011
+    },
+    "La La Land": {
+      "id": 313369,
+      "poster": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "title": "La La Land",
+      "year": 2016
+    }
+  }
+}

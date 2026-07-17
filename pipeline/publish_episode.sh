@@ -50,7 +50,7 @@ else
   STEP6="6. gh pr merge <#> --merge --delete-branch, then: git checkout main && git pull --ff-only."
 fi
 
-claude -p --dangerously-skip-permissions "Process and publish one already-transcribed episode of The Big Picture for The Full Picture. Working dir /srv/the-full-picture. Follow CLAUDE.md steps 4-6 exactly; the film-title-reviewer and humanizer gates are REQUIRED, not optional.
+claude -p --model claude-opus-4-8 --dangerously-skip-permissions "Process and publish one already-transcribed episode of The Big Picture for The Full Picture. Working dir /srv/the-full-picture. Follow CLAUDE.md steps 4-6 exactly; the film-title-reviewer and humanizer gates are REQUIRED, not optional.
 
 FACTS (use verbatim, do NOT re-derive):
 - slug: $slug

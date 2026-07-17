@@ -1,0 +1,837 @@
+{
+  "slug": "the-2005-upside-down-movie-draft",
+  "title": "The 2005 Upside-Down Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2022-09-02",
+  "runtimeMin": 104,
+  "format": "Sean, Amanda, and Chris draft only movies that bombed, got trashed by critics, or landed a Razzie nod, because 2005 was, in Sean's telling, a genuinely bad year for movies.",
+  "segments": [
+    {
+      "kind": "draft",
+      "heading": "The Upside-Down Draft",
+      "note": "eligible: under $30M on 1,000+ screens, under 70% on Rotten Tomatoes, or a Razzie nominee — plus one wildcard pick, no restrictions",
+      "draftOf": "2005 movies",
+      "categories": [
+        "Drama",
+        "Comedy",
+        "Razzie nominee",
+        "Action/Thriller/Horror",
+        "Bomb",
+        "Wildcard"
+      ],
+      "teams": [
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "The New World",
+              "year": 2005,
+              "category": "Drama",
+              "note": "Malick's first film since \"The Thin Red Line,\" 63% on Rotten Tomatoes. Sean calls it one of the most beautiful movies ever made; Chloé Zhao is a fan too."
+            },
+            {
+              "title": "The Weather Man",
+              "year": 2005,
+              "category": "Comedy",
+              "note": "Nicolas Cage as a disrespected weatherman trying to turn his life around, directed by Gore Verbinski, with Michael Caine and Hope Davis."
+            },
+            {
+              "title": "Star Wars: Episode III - Revenge of the Sith",
+              "year": 2005,
+              "category": "Razzie nominee",
+              "note": "\"Was good then, is good now,\" per Sean, who's held the line since arguing about it with a friend back in 2005."
+            },
+            {
+              "title": "The Devil's Rejects",
+              "year": 2005,
+              "category": "Action/Thriller/Horror",
+              "note": "Rob Zombie's follow-up to \"House of 1000 Corpses,\" tied with Chris's \"Wolf Creek\" at a 54% score."
+            },
+            {
+              "title": "Elizabethtown",
+              "year": 2005,
+              "category": "Bomb",
+              "note": "Cameron Crowe's \"Almost Famous\" follow-up, widely blamed for ending his hot streak. Sean still likes it."
+            },
+            {
+              "title": "The Squid and the Whale",
+              "year": 2005,
+              "category": "Wildcard",
+              "note": "Sean grabbed it before Amanda could; one of his favorite films, period."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "The Family Stone",
+              "year": 2005,
+              "category": "Drama",
+              "note": "Diane Keaton, Craig T. Nelson, Rachel McAdams, and Luke Wilson; 52% on Rotten Tomatoes for a movie Amanda considers a Christmas classic."
+            },
+            {
+              "title": "Hitch",
+              "year": 2005,
+              "category": "Comedy",
+              "note": "Will Smith and Eva Mendes, directed by Andy Tennant. Amanda: \"Hitch is bad,\" but she's taking it anyway."
+            },
+            {
+              "title": "Batman Begins",
+              "year": 2005,
+              "category": "Razzie nominee",
+              "note": "Katie Holmes drew a Worst Supporting Actress nod; the role gets recast in \"The Dark Knight.\""
+            },
+            {
+              "title": "Mr. & Mrs. Smith",
+              "year": 2005,
+              "category": "Action/Thriller/Horror",
+              "note": "Where Brad Pitt and Angelina Jolie met, directed by Doug Liman. 59% on Rotten Tomatoes."
+            },
+            {
+              "title": "Prime",
+              "year": 2005,
+              "category": "Bomb",
+              "note": "Meryl Streep, Uma Thurman, and Bryan Greenberg, chosen over \"Proof\" after \"Mad Hot Ballroom\" turned out to be disqualified."
+            },
+            {
+              "title": "Brokeback Mountain",
+              "year": 2005,
+              "category": "Wildcard",
+              "note": "Ang Lee's film, with Heath Ledger and Jake Gyllenhaal, that lost Best Picture to \"Crash.\""
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Kingdom of Heaven",
+              "year": 2005,
+              "category": "Drama",
+              "note": "Ridley Scott's Crusades epic, 39% on Rotten Tomatoes. Chris prefers the four-hour director's cut but still calls it \"bad Gladiator.\""
+            },
+            {
+              "title": "Fever Pitch",
+              "year": 2005,
+              "category": "Comedy",
+              "note": "The Farrelly brothers adapt Nick Hornby's soccer memoir into a Red Sox movie."
+            },
+            {
+              "title": "War of the Worlds",
+              "year": 2005,
+              "category": "Razzie nominee",
+              "note": "Tom Cruise's Spielberg thriller drew a Worst Actor nomination purely off the Oprah-couch backlash."
+            },
+            {
+              "title": "Wolf Creek",
+              "year": 2005,
+              "category": "Action/Thriller/Horror",
+              "note": "Australian outback horror Chris calls one of the genre's best setups."
+            },
+            {
+              "title": "Domino",
+              "year": 2005,
+              "category": "Bomb",
+              "note": "Tony Scott's Keira Knightley bounty-hunter thriller, scripted by Richard Kelly right after \"Donnie Darko.\""
+            },
+            {
+              "title": "Kiss Kiss Bang Bang",
+              "year": 2005,
+              "category": "Wildcard",
+              "note": "Shane Black's Robert Downey Jr./Val Kilmer neo-noir. Chris still won't pick between this and \"The Nice Guys.\""
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "House of Wax",
+        "Bewitched",
+        "Mad Hot Ballroom",
+        "Rumor Has It",
+        "Proof",
+        "Two for the Money",
+        "Walk the Line",
+        "Pride & Prejudice",
+        "Syriana",
+        "A History of Violence",
+        "Havoc",
+        "Flightplan",
+        "Grizzly Man",
+        "Caché",
+        "Dirty Love",
+        "Alone in the Dark"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "2005's Oscar season",
+      "films": [
+        "Crash",
+        "Good Night, and Good Luck.",
+        "North Country",
+        "Cinderella Man",
+        "Capote",
+        "Munich",
+        "Sense and Sensibility"
+      ]
+    },
+    {
+      "group": "Filmographies discussed",
+      "films": [
+        "Say Anything...",
+        "Singles",
+        "Jerry Maguire",
+        "Almost Famous",
+        "Vanilla Sky",
+        "Eyes Wide Shut",
+        "All the Real Girls",
+        "Donnie Darko",
+        "The Thin Red Line",
+        "The Tree of Life",
+        "House of 1000 Corpses",
+        "The Lords of Salem",
+        "31",
+        "The Munsters",
+        "Rango",
+        "Fool's Gold",
+        "The Bounty Hunter"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "National Treasure",
+        "Fools Rush In",
+        "Ever After",
+        "Anna and the King",
+        "Sweet Home Alabama",
+        "Election",
+        "Inherent Vice",
+        "Home for the Holidays",
+        "Waiting...",
+        "The Ice Harvest",
+        "The Hitchhiker's Guide to the Galaxy",
+        "The Graduate",
+        "Last Action Hero",
+        "Something's Gotta Give",
+        "The Holiday",
+        "Being the Ricardos",
+        "Before Midnight",
+        "Iron Man 3",
+        "Something Borrowed",
+        "Bros",
+        "Funny Pages",
+        "White Noise",
+        "Wedding Crashers",
+        "Spartan",
+        "The Nice Guys",
+        "The Judge",
+        "The Soloist",
+        "Stay",
+        "The Ring",
+        "Walk Hard: The Dewey Cox Story",
+        "Harlan County U.S.A.",
+        "Red Eye",
+        "Don't Worry Darling",
+        "Civil War",
+        "Heat"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Wire",
+      "House of the Dragon",
+      "Yellowstone",
+      "Oprah"
+    ],
+    "Games": [
+      "FIFA World Cup Launch Edition"
+    ],
+    "Ads": [
+      "Netflix",
+      "FanDuel",
+      "Carvana",
+      "Boar's Head",
+      "Starbucks",
+      "The Hottest Take"
+    ]
+  },
+  "tmdbOverrides": {
+    "Havoc": 14695,
+    "Crash": 1640,
+    "Something's Gotta Give": 6964,
+    "Singles": 11068,
+    "Election": 9451,
+    "Stay": 8066,
+    "Ever After": 9454
+  },
+  "tmdb": {
+    "The New World": {
+      "id": 11400,
+      "poster": "/dPyWMlQd54r3pK17GKG3iqjvNZ7.jpg",
+      "title": "The New World",
+      "year": 2005
+    },
+    "The Weather Man": {
+      "id": 6963,
+      "poster": "/oQilVzOxLPxvBn9hAuvGpKTpONM.jpg",
+      "title": "The Weather Man",
+      "year": 2005
+    },
+    "Star Wars: Episode III - Revenge of the Sith": {
+      "id": 1895,
+      "poster": "/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
+      "title": "Star Wars: Episode III - Revenge of the Sith",
+      "year": 2005
+    },
+    "The Devil's Rejects": {
+      "id": 1696,
+      "poster": "/drZz4AuI7trq6BxlH9Xa4v4O0Pb.jpg",
+      "title": "The Devil's Rejects",
+      "year": 2005
+    },
+    "Elizabethtown": {
+      "id": 9621,
+      "poster": "/mOdlzAQxhMgiaazRzif1YtJzg9s.jpg",
+      "title": "Elizabethtown",
+      "year": 2005
+    },
+    "The Squid and the Whale": {
+      "id": 10707,
+      "poster": "/9NbXn1NMdfGM491V3EFjZADR9SX.jpg",
+      "title": "The Squid and the Whale",
+      "year": 2005
+    },
+    "The Family Stone": {
+      "id": 9043,
+      "poster": "/nlqw53HmTP7o3b2NDttYNOtsK4V.jpg",
+      "title": "The Family Stone",
+      "year": 2005
+    },
+    "Hitch": {
+      "id": 8488,
+      "poster": "/x3W9H3nhGQbWSlyI8Amp2F6Z6cz.jpg",
+      "title": "Hitch",
+      "year": 2005
+    },
+    "Batman Begins": {
+      "id": 272,
+      "poster": "/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+      "title": "Batman Begins",
+      "year": 2005
+    },
+    "Mr. & Mrs. Smith": {
+      "id": 787,
+      "poster": "/kjD700RtyhveN3ZbOnSvUSne0Qj.jpg",
+      "title": "Mr. & Mrs. Smith",
+      "year": 2005
+    },
+    "Prime": {
+      "id": 2313,
+      "poster": "/gz17H1jiLI9OrTo8ruS31WkP9Am.jpg",
+      "title": "Prime",
+      "year": 2005
+    },
+    "Brokeback Mountain": {
+      "id": 142,
+      "poster": "/aByfQOQBNa4CMFwIgq3QrqY2ZHh.jpg",
+      "title": "Brokeback Mountain",
+      "year": 2005
+    },
+    "Kingdom of Heaven": {
+      "id": 1495,
+      "poster": "/rNaBe4TwbMef71sgscqabpGKsxh.jpg",
+      "title": "Kingdom of Heaven",
+      "year": 2005
+    },
+    "Fever Pitch": {
+      "id": 11431,
+      "poster": "/xwJBEOM5BVElAgQIA82KBLX10fu.jpg",
+      "title": "Fever Pitch",
+      "year": 2005
+    },
+    "War of the Worlds": {
+      "id": 74,
+      "poster": "/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
+      "title": "War of the Worlds",
+      "year": 2005
+    },
+    "Wolf Creek": {
+      "id": 9885,
+      "poster": "/545PYpfCeDwVgdgydHCQqXFr168.jpg",
+      "title": "Wolf Creek",
+      "year": 2005
+    },
+    "Domino": {
+      "id": 9923,
+      "poster": "/pZdIfYkM5kV5BaUDYzwzgmpUxno.jpg",
+      "title": "Domino",
+      "year": 2005
+    },
+    "Kiss Kiss Bang Bang": {
+      "id": 5236,
+      "poster": "/aWfjIkpENFX6Uw82pET7EQ6jnrd.jpg",
+      "title": "Kiss Kiss Bang Bang",
+      "year": 2005
+    },
+    "House of Wax": {
+      "id": 10066,
+      "poster": "/aCLSgw1DaqkRvosYc3YUttBTtpT.jpg",
+      "title": "House of Wax",
+      "year": 2005
+    },
+    "Bewitched": {
+      "id": 9722,
+      "poster": "/8lx4EXmAZo8ogh4128UBZRQfCjI.jpg",
+      "title": "Bewitched",
+      "year": 2005
+    },
+    "Mad Hot Ballroom": {
+      "id": 14358,
+      "poster": "/1wDU19PTEdR30QdnLFw93scXto7.jpg",
+      "title": "Mad Hot Ballroom",
+      "year": 2005
+    },
+    "Rumor Has It": {
+      "id": 2800,
+      "poster": "/ypirKAqugrpevnEqMJxkBoIlgco.jpg",
+      "title": "Rumor Has It...",
+      "year": 2005
+    },
+    "Proof": {
+      "id": 9777,
+      "poster": "/h5z4JWhaPYMMXhYzwuK7SUgjmMm.jpg",
+      "title": "Proof",
+      "year": 2005
+    },
+    "Two for the Money": {
+      "id": 9910,
+      "poster": "/5SedPYdGLrp6LX9C2cWXLx38w1D.jpg",
+      "title": "Two for the Money",
+      "year": 2005
+    },
+    "Walk the Line": {
+      "id": 69,
+      "poster": "/p8lPTjvjOjTfvC1E9pmMwcF9vkn.jpg",
+      "title": "Walk the Line",
+      "year": 2005
+    },
+    "Pride & Prejudice": {
+      "id": 4348,
+      "poster": "/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg",
+      "title": "Pride & Prejudice",
+      "year": 2005
+    },
+    "Syriana": {
+      "id": 231,
+      "poster": "/mO3hWUTOxmLJxihvDU0YFkb0Mb5.jpg",
+      "title": "Syriana",
+      "year": 2005
+    },
+    "A History of Violence": {
+      "id": 59,
+      "poster": "/3qnO72NHmUgs9JZXAmu4aId9QDl.jpg",
+      "title": "A History of Violence",
+      "year": 2005
+    },
+    "Havoc": {
+      "id": 14695,
+      "poster": "/xY4c4bHPCRrwIvkxJ6qRLoyxQVo.jpg",
+      "title": "Havoc",
+      "year": 2005
+    },
+    "Flightplan": {
+      "id": 9315,
+      "poster": "/oNjZFzbe7PfF3TxztNHDkinOPyB.jpg",
+      "title": "Flightplan",
+      "year": 2005
+    },
+    "Grizzly Man": {
+      "id": 501,
+      "poster": "/zuZWpcuye25rpsiZ4XzsAvmLDHG.jpg",
+      "title": "Grizzly Man",
+      "year": 2005
+    },
+    "Caché": {
+      "id": 445,
+      "poster": "/vTzjRi0Uhy0tt3Rjw8SARZZJHlX.jpg",
+      "title": "Caché",
+      "year": 2005
+    },
+    "Dirty Love": {
+      "id": 18189,
+      "poster": "/aN5hVMCAeqlypwAEAAsORK8dExI.jpg",
+      "title": "Dirty Love",
+      "year": 2005
+    },
+    "Alone in the Dark": {
+      "id": 12142,
+      "poster": "/bSxrbVCyWW077zhtpuYlo3zgyug.jpg",
+      "title": "Alone in the Dark",
+      "year": 2005
+    },
+    "Crash": {
+      "id": 1640,
+      "poster": "/86BdPC6RDX88NC880pLidKn2LCj.jpg",
+      "title": "Crash",
+      "year": 2005
+    },
+    "Good Night, and Good Luck.": {
+      "id": 3291,
+      "poster": "/w4QSEno2xxHqMtSr3mPUhJpO3F2.jpg",
+      "title": "Good Night, and Good Luck.",
+      "year": 2005
+    },
+    "North Country": {
+      "id": 9701,
+      "poster": "/upxUN4zmX79o49mBW9htKZDeNq7.jpg",
+      "title": "North Country",
+      "year": 2005
+    },
+    "Cinderella Man": {
+      "id": 921,
+      "poster": "/wkeOjIcpuqLMW4GnVowlM9VI0JE.jpg",
+      "title": "Cinderella Man",
+      "year": 2005
+    },
+    "Capote": {
+      "id": 398,
+      "poster": "/tzsxkZMnJvozpHQEl1KzO8KwWu.jpg",
+      "title": "Capote",
+      "year": 2005
+    },
+    "Munich": {
+      "id": 612,
+      "poster": "/iUekaw96QLInZpsNwRTlRKrZgwm.jpg",
+      "title": "Munich",
+      "year": 2005
+    },
+    "Sense and Sensibility": {
+      "id": 4584,
+      "poster": "/9YdQ73YmvInxpXZVNjEKePw9tRO.jpg",
+      "title": "Sense and Sensibility",
+      "year": 1995
+    },
+    "Say Anything...": {
+      "id": 2028,
+      "poster": "/nkucKciFGSRalw6dJtsglWqOXMC.jpg",
+      "title": "Say Anything...",
+      "year": 1989
+    },
+    "Singles": {
+      "id": 11068,
+      "poster": "/4T7OKBdkNBorRKWw7VSeuA225z1.jpg",
+      "title": "Singles",
+      "year": 1992
+    },
+    "Jerry Maguire": {
+      "id": 9390,
+      "poster": "/lABvGN7fDk5ifnwZoxij6G96t2w.jpg",
+      "title": "Jerry Maguire",
+      "year": 1996
+    },
+    "Almost Famous": {
+      "id": 786,
+      "poster": "/3rrkyLYbgLj84AYvjhdcJot4JPx.jpg",
+      "title": "Almost Famous",
+      "year": 2000
+    },
+    "Vanilla Sky": {
+      "id": 1903,
+      "poster": "/cAh2pCiNPftsY3aSqJuIOde7uWr.jpg",
+      "title": "Vanilla Sky",
+      "year": 2001
+    },
+    "Eyes Wide Shut": {
+      "id": 345,
+      "poster": "/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+      "title": "Eyes Wide Shut",
+      "year": 1999
+    },
+    "All the Real Girls": {
+      "id": 13132,
+      "poster": "/sQ6dMkwPIFucYSmFQcr38WBYzs.jpg",
+      "title": "All the Real Girls",
+      "year": 2003
+    },
+    "Donnie Darko": {
+      "id": 141,
+      "poster": "/j2AtZFsflxiluaNtajMTI0Avm8C.jpg",
+      "title": "Donnie Darko",
+      "year": 2001
+    },
+    "The Thin Red Line": {
+      "id": 8741,
+      "poster": "/seMydAaoxQP6F0xbE1jOcTmn5Jr.jpg",
+      "title": "The Thin Red Line",
+      "year": 1998
+    },
+    "The Tree of Life": {
+      "id": 8967,
+      "poster": "/l8cwuB5WJSoj4uMAsnzuHBOMaSJ.jpg",
+      "title": "The Tree of Life",
+      "year": 2011
+    },
+    "House of 1000 Corpses": {
+      "id": 2662,
+      "poster": "/29c2qgXmSREosLBevOILEuMWzQC.jpg",
+      "title": "House of 1000 Corpses",
+      "year": 2003
+    },
+    "The Lords of Salem": {
+      "id": 104755,
+      "poster": "/nqZ6CGGZpQWt139YioekSYHvvkU.jpg",
+      "title": "The Lords of Salem",
+      "year": 2013
+    },
+    "31": {
+      "id": 284564,
+      "poster": "/jHkIIkP4O0vUkSACcizOPZQIiF7.jpg",
+      "title": "31",
+      "year": 2016
+    },
+    "The Munsters": {
+      "id": 804413,
+      "poster": "/kJaEVFhDouD72GKANMkYqzQky9n.jpg",
+      "title": "The Munsters",
+      "year": 2022
+    },
+    "Rango": {
+      "id": 44896,
+      "poster": "/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
+      "title": "Rango",
+      "year": 2011
+    },
+    "Fool's Gold": {
+      "id": 8676,
+      "poster": "/f4djEBW3nyGRPLTcDlWYyaO43mx.jpg",
+      "title": "Fool's Gold",
+      "year": 2008
+    },
+    "The Bounty Hunter": {
+      "id": 27573,
+      "poster": "/fJPKar0jnAsS09l3xfP6LL8sUkX.jpg",
+      "title": "The Bounty Hunter",
+      "year": 2010
+    },
+    "National Treasure": {
+      "id": 2059,
+      "poster": "/pxL6E4GBOPUG6CdkO9cUQN5VMwI.jpg",
+      "title": "National Treasure",
+      "year": 2004
+    },
+    "Fools Rush In": {
+      "id": 1968,
+      "poster": "/tcRaMjWoF8K7h1LqOH7FOOLRQ3e.jpg",
+      "title": "Fools Rush In",
+      "year": 1997
+    },
+    "Ever After": {
+      "id": 9454,
+      "poster": "/9TspO5dThMBioF0DFrvy6YqrngH.jpg",
+      "title": "EverAfter",
+      "year": 1998
+    },
+    "Anna and the King": {
+      "id": 1439,
+      "poster": "/PIlOkljucv7HnvATbn4JwrAvSn.jpg",
+      "title": "Anna and the King",
+      "year": 1999
+    },
+    "Sweet Home Alabama": {
+      "id": 11529,
+      "poster": "/698cbxq0SRwCdOPG5Bwi7JDk12d.jpg",
+      "title": "Sweet Home Alabama",
+      "year": 2002
+    },
+    "Election": {
+      "id": 9451,
+      "poster": "/fbo0IYzBc32dD5SjFzKIgfp4O4F.jpg",
+      "title": "Election",
+      "year": 1999
+    },
+    "Inherent Vice": {
+      "id": 171274,
+      "poster": "/pfVua7TzzttOh3RTOuBqT7xN0oY.jpg",
+      "title": "Inherent Vice",
+      "year": 2014
+    },
+    "Home for the Holidays": {
+      "id": 9089,
+      "poster": "/3zqlKdOttWyExzopVxglz50Vjxq.jpg",
+      "title": "Home for the Holidays",
+      "year": 1995
+    },
+    "Waiting...": {
+      "id": 7553,
+      "poster": "/h3NJDiaaliUH35ApXPu8PFKZwWz.jpg",
+      "title": "Waiting...",
+      "year": 2005
+    },
+    "The Ice Harvest": {
+      "id": 9005,
+      "poster": "/8N2X2u6nPoPEwRLIZbKacJw1xrC.jpg",
+      "title": "The Ice Harvest",
+      "year": 2005
+    },
+    "The Hitchhiker's Guide to the Galaxy": {
+      "id": 7453,
+      "poster": "/yr9A3KGQlxBh3yW0cmglsr8aMIz.jpg",
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "year": 2005
+    },
+    "The Graduate": {
+      "id": 37247,
+      "poster": "/8XaDpF0COV1MLsDirJMnxmYc1Wp.jpg",
+      "title": "The Graduate",
+      "year": 1967
+    },
+    "Last Action Hero": {
+      "id": 9593,
+      "poster": "/vkhEaWAv5j3qgrOGp3BgMeiYPKj.jpg",
+      "title": "Last Action Hero",
+      "year": 1993
+    },
+    "Something's Gotta Give": {
+      "id": 6964,
+      "poster": "/1cpdqe0SpiHzzbOLq9GDUUlZdSl.jpg",
+      "title": "Something's Gotta Give",
+      "year": 2003
+    },
+    "The Holiday": {
+      "id": 1581,
+      "poster": "/h1ITOpvJN3Tw4Sy60w2QTfYMvdd.jpg",
+      "title": "The Holiday",
+      "year": 2006
+    },
+    "Being the Ricardos": {
+      "id": 517088,
+      "poster": "/oztBLWdRk5gApYmNdADXvXkLT5m.jpg",
+      "title": "Being the Ricardos",
+      "year": 2021
+    },
+    "Before Midnight": {
+      "id": 132344,
+      "poster": "/qbGKJmNUroDz75kh5Oafoall89e.jpg",
+      "title": "Before Midnight",
+      "year": 2013
+    },
+    "Iron Man 3": {
+      "id": 68721,
+      "poster": "/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+      "title": "Iron Man 3",
+      "year": 2013
+    },
+    "Something Borrowed": {
+      "id": 49022,
+      "poster": "/66VZu75VeLGc6tcAypqyGzWcPeN.jpg",
+      "title": "Something Borrowed",
+      "year": 2011
+    },
+    "Bros": {
+      "id": 614939,
+      "poster": "/op02Hv5i4Z049nGJYmk6BScRqHO.jpg",
+      "title": "Bros",
+      "year": 2022
+    },
+    "Funny Pages": {
+      "id": 1122627,
+      "poster": null,
+      "title": "Funny Pages",
+      "year": null
+    },
+    "White Noise": {
+      "id": 744594,
+      "poster": "/kesxNdLZlmGoTRspDHU1WgdEuGw.jpg",
+      "title": "White Noise",
+      "year": 2022
+    },
+    "Wedding Crashers": {
+      "id": 9522,
+      "poster": "/lFM3lk2zVzC1YFnKm0r6LbFPyRu.jpg",
+      "title": "Wedding Crashers",
+      "year": 2005
+    },
+    "Spartan": {
+      "id": 11169,
+      "poster": "/rcdhS2g1d38NOoeh0PPAN2bLE7w.jpg",
+      "title": "Spartan",
+      "year": 2004
+    },
+    "The Nice Guys": {
+      "id": 290250,
+      "poster": "/clq4So9spa9cXk3MZy2iMdqkxP2.jpg",
+      "title": "The Nice Guys",
+      "year": 2016
+    },
+    "The Judge": {
+      "id": 205587,
+      "poster": "/3K93GWotLXe4FqpErri0xkpLaD5.jpg",
+      "title": "The Judge",
+      "year": 2014
+    },
+    "The Soloist": {
+      "id": 17332,
+      "poster": "/6GnFN9OTkaoeKNzd2Fbp3ZyJjKi.jpg",
+      "title": "The Soloist",
+      "year": 2009
+    },
+    "Stay": {
+      "id": 8066,
+      "poster": "/nrLZVP8jG0KBcabahRPp6UP7Oy2.jpg",
+      "title": "Stay",
+      "year": 2005
+    },
+    "The Ring": {
+      "id": 565,
+      "poster": "/AeRpUynJKDpJveklBJipOYrVxCS.jpg",
+      "title": "The Ring",
+      "year": 2002
+    },
+    "Walk Hard: The Dewey Cox Story": {
+      "id": 6575,
+      "poster": "/Aa1IQ4Cuin3d7qIahvPheMmR4E5.jpg",
+      "title": "Walk Hard: The Dewey Cox Story",
+      "year": 2007
+    },
+    "Harlan County U.S.A.": {
+      "id": 33324,
+      "poster": "/p0cyMNsoP5ap0omfhakhImBWTRw.jpg",
+      "title": "Harlan County U.S.A.",
+      "year": 1977
+    },
+    "Red Eye": {
+      "id": 11460,
+      "poster": "/osLMnQIjDMmzLvXmOlIOlou9olp.jpg",
+      "title": "Red Eye",
+      "year": 2005
+    },
+    "Don't Worry Darling": {
+      "id": 619730,
+      "poster": "/jOqxKIOC92BVyinYO1Fm73XY7Tc.jpg",
+      "title": "Don't Worry Darling",
+      "year": 2022
+    },
+    "Civil War": {
+      "id": 929590,
+      "poster": "/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+      "title": "Civil War",
+      "year": 2024
+    },
+    "Heat": {
+      "id": 949,
+      "poster": "/e09dLw1Ljtccd2P4NsuUvVtS5du.jpg",
+      "title": "Heat",
+      "year": 1995
+    }
+  }
+}

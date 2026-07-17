@@ -1,0 +1,624 @@
+{
+  "slug": "the-2015-movie-draft-plus-amanda-seyfried",
+  "title": "The 2015 Movie Draft. Plus: Amanda Seyfried!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2021-01-26",
+  "runtimeMin": 93,
+  "format": "Sean, Amanda, and Chris Ryan snake-draft the movies of 2015 across six categories, then Sean talks to Amanda Seyfried about playing Marion Davies in Mank.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Cold open: Godzilla vs. Kong and a Snyder Cut watch-along tease",
+      "note": "before the draft",
+      "films": [
+        {
+          "title": "Godzilla vs. Kong",
+          "year": 2021,
+          "note": "The trailer dialogue gets read as some of the best writing Sean's heard in years; Chris compares it to shit-town Kyle Chandler yelling that Godzilla is angry and nobody knows why."
+        },
+        {
+          "title": "Godzilla",
+          "year": 2014,
+          "note": "The Gareth Edwards/Bryan Cranston one. Amanda's contemporaneous verdict, texted to Chris after seeing it: 'don't see it. We will not be discussing it on the podcast.'"
+        },
+        {
+          "title": "Godzilla: King of the Monsters",
+          "year": 2019,
+          "note": "Michael Dougherty's sequel, with Vera Farmiga."
+        },
+        {
+          "title": "Kong: Skull Island",
+          "year": 2017,
+          "note": "An important one for Sean and Chris, who read it as a Vietnam movie minus the actual Vietnam-movie part. John C. Reilly gets singled out."
+        },
+        {
+          "title": "Zack Snyder's Justice League",
+          "year": 2021,
+          "note": "Chris pitches recording a live four-hour commentary track for the eventual HBO Max cut; Sean is not on board with prepping, just drinking milk."
+        }
+      ]
+    },
+    {
+      "kind": "draft",
+      "heading": "The 2015 movie draft",
+      "note": "snake draft, six categories",
+      "draftOf": "the movies of 2015",
+      "categories": [
+        "Drama",
+        "Comedy/Horror",
+        "Blockbuster",
+        "Animated/Foreign Language",
+        "Sequel",
+        "Wildcard"
+      ],
+      "teams": [
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "The Hateful Eight",
+              "year": 2015,
+              "category": "Drama",
+              "note": "Not his favorite Tarantino, but far better than almost anything else in theaters that year. Prefers the extended, chapterized Netflix roadshow cut."
+            },
+            {
+              "title": "It Follows",
+              "year": 2015,
+              "category": "Comedy/Horror",
+              "note": "One of the best horror movies of the last decade for him: David Robert Mitchell's dread about STDs and a hollowed-out urban landscape. Says the pandemic has given it new resonance, and calls Maika Monroe the new Jamie Lee Curtis."
+            },
+            {
+              "title": "Mission: Impossible - Rogue Nation",
+              "year": 2015,
+              "category": "Blockbuster",
+              "note": "Christopher McQuarrie's first in the series, before he'd go on to direct Fallout. Credits it with reviving the franchise and introducing Rebecca Ferguson."
+            },
+            {
+              "title": "Inside Out",
+              "year": 2015,
+              "category": "Animated/Foreign Language",
+              "note": "One of his favorite movies, period. Says he had a full evangelizing reaction in the theater. Pete Docter also just co-directed Soul."
+            },
+            {
+              "title": "Creed",
+              "year": 2015,
+              "category": "Sequel",
+              "note": "Ryan Coogler's Rocky follow-up. Amanda's husband apparently has a rare bad take that the movie isn't good; Sean's rewatched it and still loves it."
+            },
+            {
+              "title": "Mississippi Grind",
+              "year": 2015,
+              "category": "Wildcard",
+              "note": "Amanda and Chris talk him into it. He calls it basically a remake of California Split, a top-ten movie of all time for him."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Sicario",
+              "year": 2015,
+              "category": "Drama",
+              "note": "His pick for best movie of the year, punctuated by the recurring bit about a stranger yelling 'Sicario!' out a car window at him in 2015."
+            },
+            {
+              "title": "The Big Short",
+              "year": 2015,
+              "category": "Comedy/Horror",
+              "note": "One of his most-rewatched movies of the last five years thanks to its Netflix run. Loves the vignette structure and Ryan Gosling's Jared Vennett; Steve Carell's central performance is the one part that doesn't land for him."
+            },
+            {
+              "title": "Ant-Man",
+              "year": 2015,
+              "category": "Blockbuster",
+              "note": "Breaks his stated plan to avoid drafting any MCU movies. Calls it a disposable but fun Paul Rudd/Michael Douglas heist comedy that made $190 million anyway."
+            },
+            {
+              "title": "Güeros",
+              "year": 2015,
+              "category": "Animated/Foreign Language",
+              "note": "A Mexican road movie directed by Alonso Ruizpalacios, described as a French New Wave-inflected portrait of 1999 Mexico City. Says it's grown in his estimation on a recent rewatch."
+            },
+            {
+              "title": "Star Wars: The Force Awakens",
+              "year": 2015,
+              "category": "Sequel",
+              "note": "Called out by the others as the draft's first bad pick. He defends it as a fun romp built on the nostalgia of finally seeing Harrison Ford back as Han Solo."
+            },
+            {
+              "title": "Steve Jobs",
+              "year": 2015,
+              "category": "Wildcard",
+              "note": "Aaron Sorkin's script; a movie he says was overlooked on release but has built a growing cult following since."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Spotlight",
+              "year": 2015,
+              "category": "Drama",
+              "note": "Saw it alone at BAM; singles out the closing title card tallying the places the investigation spread to as a gut punch. Notes it also just won Best Picture."
+            },
+            {
+              "title": "The Intern",
+              "year": 2015,
+              "category": "Comedy/Horror",
+              "note": "Nancy Meyers; likes the Robert De Niro/Anne Hathaway chemistry and reads it as a kind of response to Meyers's own Baby Boom."
+            },
+            {
+              "title": "The Martian",
+              "year": 2015,
+              "category": "Blockbuster",
+              "note": "A one-man-show Matt Damon performance she loves without reservation: 'you're just like, sure, I'll watch you grow potatoes for a while.'"
+            },
+            {
+              "title": "Clouds of Sils Maria",
+              "year": 2015,
+              "category": "Animated/Foreign Language",
+              "note": "Triple-checked the US release date against a New York Times review before taking it, given how messy foreign-film release dates get. Praises Kristen Stewart's performance opposite Juliette Binoche."
+            },
+            {
+              "title": "Mad Max: Fury Road",
+              "year": 2015,
+              "category": "Sequel",
+              "note": "Takes it with the very first pick of the draft. All three call it one of the best movies of the decade; ends up crowned the draft's overall winner."
+            },
+            {
+              "title": "Focus",
+              "year": 2015,
+              "category": "Wildcard",
+              "note": "A Will Smith/Margot Robbie con-artist movie she says is underrated: charming leads, plausible enough heist mechanics."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Ex Machina",
+        "Blackhat",
+        "The Man from U.N.C.L.E.",
+        "Carol",
+        "Bridge of Spies",
+        "Amy",
+        "Brooklyn",
+        "The Lobster",
+        "Straight Outta Compton",
+        "Magic Mike XXL",
+        "Furious 7",
+        "Anomalisa",
+        "The Assassin",
+        "The Gift",
+        "Wild Tales",
+        "Mustang",
+        "Unfriended",
+        "The Invitation",
+        "Green Room",
+        "Dope",
+        "The Gunman",
+        "Mistress America",
+        "While We're Young",
+        "Love & Mercy",
+        "The Visit",
+        "Spectre",
+        "The Revenant"
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Amanda Seyfried on",
+      "films": [
+        {
+          "title": "Mank",
+          "year": 2020,
+          "note": "Plays Marion Davies opposite Gary Oldman's Herman Mankiewicz. Talks through getting the script in pieces on another set, David Fincher's rehearsal process, and shooting the long Sans Simeon walk-and-talk."
+        },
+        {
+          "title": "Citizen Kane",
+          "year": 1941,
+          "note": "The film Mank is about the writing of; Seyfried talks about how Davies's real legacy got flattened by Kane's version of her."
+        },
+        {
+          "title": "Ever Since Eve",
+          "year": 1937,
+          "note": "One of the real Marion Davies pictures Seyfried rewatched to prep, singling out an elevator-hallway scene opposite Robert Montgomery."
+        },
+        {
+          "title": "Lovelace",
+          "year": 2013,
+          "note": "Where she played another real person, Linda Lovelace; comes up when discussing the line between impersonation and embodiment."
+        },
+        {
+          "title": "Chloe",
+          "year": 2009,
+          "note": "Cites it as a deliberate swing against typecasting, taken specifically because Atom Egoyan was directing."
+        },
+        {
+          "title": "While We're Young",
+          "year": 2015
+        },
+        {
+          "title": "First Reformed",
+          "year": 2017,
+          "note": "Calls it one of her absolute favorite films; part of the case Sean makes that she could've coasted as a rom-com lead but chased directors like Paul Schrader instead."
+        },
+        {
+          "title": "Pieces of a Woman",
+          "year": 2020,
+          "note": "Her answer to the last-great-thing-she's-seen question. Says the birth scene is as real as anything she's seen that isn't real, and singles out Shia LaBeouf's performance."
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Great British Bake Off",
+      "Nurse Jackie",
+      "Dead to Me"
+    ],
+    "Ads": [
+      "NOS Energy",
+      "Whole Foods",
+      "Boar's Head",
+      "FanDuel",
+      "Talk About PD (Peyronie's disease PSA)"
+    ]
+  },
+  "tmdbOverrides": {
+    "Amy": 331781,
+    "The Gift": 328425
+  },
+  "tmdb": {
+    "Godzilla vs. Kong": {
+      "id": 399566,
+      "poster": "/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+      "title": "Godzilla vs. Kong",
+      "year": 2021
+    },
+    "Godzilla": {
+      "id": 124905,
+      "poster": "/z0CpCYiaUikJrcftPnb0jYCYmoo.jpg",
+      "title": "Godzilla",
+      "year": 2014
+    },
+    "Godzilla: King of the Monsters": {
+      "id": 373571,
+      "poster": "/mzOHg7Q5q9yUmY0b9Esu8Qe6Nnm.jpg",
+      "title": "Godzilla: King of the Monsters",
+      "year": 2019
+    },
+    "Kong: Skull Island": {
+      "id": 293167,
+      "poster": "/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg",
+      "title": "Kong: Skull Island",
+      "year": 2017
+    },
+    "Zack Snyder's Justice League": {
+      "id": 791373,
+      "poster": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+      "title": "Zack Snyder's Justice League",
+      "year": 2021
+    },
+    "The Hateful Eight": {
+      "id": 273248,
+      "poster": "/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+      "title": "The Hateful Eight",
+      "year": 2015
+    },
+    "It Follows": {
+      "id": 270303,
+      "poster": "/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg",
+      "title": "It Follows",
+      "year": 2015
+    },
+    "Mission: Impossible - Rogue Nation": {
+      "id": 177677,
+      "poster": "/fRJLXQBHK2wyznK5yZbO7vmsuVK.jpg",
+      "title": "Mission: Impossible - Rogue Nation",
+      "year": 2015
+    },
+    "Inside Out": {
+      "id": 150540,
+      "poster": "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+      "title": "Inside Out",
+      "year": 2015
+    },
+    "Creed": {
+      "id": 312221,
+      "poster": "/1BfTsk5VWuw8FCocAhCyqnRbEzq.jpg",
+      "title": "Creed",
+      "year": 2015
+    },
+    "Mississippi Grind": {
+      "id": 309242,
+      "poster": "/vS3Bc6BiuZtAbSQpKhhRzPa7c2d.jpg",
+      "title": "Mississippi Grind",
+      "year": 2015
+    },
+    "Sicario": {
+      "id": 273481,
+      "poster": "/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+      "title": "Sicario",
+      "year": 2015
+    },
+    "The Big Short": {
+      "id": 318846,
+      "poster": "/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg",
+      "title": "The Big Short",
+      "year": 2015
+    },
+    "Ant-Man": {
+      "id": 102899,
+      "poster": "/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg",
+      "title": "Ant-Man",
+      "year": 2015
+    },
+    "Güeros": {
+      "id": 256057,
+      "poster": "/rHyeILjVAejwMKiTHkxk6kaY2kV.jpg",
+      "title": "Güeros",
+      "year": 2014
+    },
+    "Star Wars: The Force Awakens": {
+      "id": 140607,
+      "poster": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+      "title": "Star Wars: The Force Awakens",
+      "year": 2015
+    },
+    "Steve Jobs": {
+      "id": 321697,
+      "poster": "/ljiRO29Y9khEERRqMluptUYunJ9.jpg",
+      "title": "Steve Jobs",
+      "year": 2015
+    },
+    "Spotlight": {
+      "id": 314365,
+      "poster": "/8DPGG400FgaFWaqcv11n8mRd2NG.jpg",
+      "title": "Spotlight",
+      "year": 2015
+    },
+    "The Intern": {
+      "id": 257211,
+      "poster": "/bTQ46fupPbjBfFBHuzfD3hxxL0Q.jpg",
+      "title": "The Intern",
+      "year": 2015
+    },
+    "The Martian": {
+      "id": 286217,
+      "poster": "/fASz8A0yFE3QB6LgGoOfwvFSseV.jpg",
+      "title": "The Martian",
+      "year": 2015
+    },
+    "Clouds of Sils Maria": {
+      "id": 246860,
+      "poster": "/dtCZ31RlokpkAaKMr9jFCJjBngi.jpg",
+      "title": "Clouds of Sils Maria",
+      "year": 2014
+    },
+    "Mad Max: Fury Road": {
+      "id": 76341,
+      "poster": "/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+      "title": "Mad Max: Fury Road",
+      "year": 2015
+    },
+    "Focus": {
+      "id": 256591,
+      "poster": "/lOzGWjceYTd0kd5HyX7Ch46O9kh.jpg",
+      "title": "Focus",
+      "year": 2015
+    },
+    "Ex Machina": {
+      "id": 264660,
+      "poster": "/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
+      "title": "Ex Machina",
+      "year": 2015
+    },
+    "Blackhat": {
+      "id": 201088,
+      "poster": "/7zu6HPnKPjNA7NuR4DGRdaH0PdX.jpg",
+      "title": "Blackhat",
+      "year": 2015
+    },
+    "The Man from U.N.C.L.E.": {
+      "id": 203801,
+      "poster": "/y5yZaForGSJbPD66Cvq9AT5WMAD.jpg",
+      "title": "The Man from U.N.C.L.E.",
+      "year": 2015
+    },
+    "Carol": {
+      "id": 258480,
+      "poster": "/cJeled7EyPdur6TnCA5GYg0UVna.jpg",
+      "title": "Carol",
+      "year": 2015
+    },
+    "Bridge of Spies": {
+      "id": 296098,
+      "poster": "/fmOOjHAQzxr0c1sfcY4qkiSRBH6.jpg",
+      "title": "Bridge of Spies",
+      "year": 2015
+    },
+    "Amy": {
+      "id": 331781,
+      "poster": "/qL0RepWSNUuZoeDXfyhqowVYhrn.jpg",
+      "title": "Amy",
+      "year": 2015
+    },
+    "Brooklyn": {
+      "id": 167073,
+      "poster": "/cs7W8j5lI7qzRW6tKSj9p1Q0Ze7.jpg",
+      "title": "Brooklyn",
+      "year": 2015
+    },
+    "The Lobster": {
+      "id": 254320,
+      "poster": "/7Y9ILV1unpW9mLpGcqyGQU72LUy.jpg",
+      "title": "The Lobster",
+      "year": 2015
+    },
+    "Straight Outta Compton": {
+      "id": 277216,
+      "poster": "/1CiLJx8Xtv3TbbFj6k7BboSmKgC.jpg",
+      "title": "Straight Outta Compton",
+      "year": 2015
+    },
+    "Magic Mike XXL": {
+      "id": 264999,
+      "poster": "/jkuCNd3wOmf4sDlZ89HEt8jmsqr.jpg",
+      "title": "Magic Mike XXL",
+      "year": 2015
+    },
+    "Furious 7": {
+      "id": 168259,
+      "poster": "/ktofZ9Htrjiy0P6LEowsDaxd3Ri.jpg",
+      "title": "Furious 7",
+      "year": 2015
+    },
+    "Anomalisa": {
+      "id": 291270,
+      "poster": "/4DJ1zNr4Y6q7zQ27goEYla46VdO.jpg",
+      "title": "Anomalisa",
+      "year": 2015
+    },
+    "The Assassin": {
+      "id": 253450,
+      "poster": "/10RcGMfzg2lIW1aLcR4ILfNbHK2.jpg",
+      "title": "The Assassin",
+      "year": 2015
+    },
+    "The Gift": {
+      "id": 328425,
+      "poster": "/kH3qLP8pn68Xq5XwvmPkCyaAU7W.jpg",
+      "title": "The Gift",
+      "year": 2015
+    },
+    "Wild Tales": {
+      "id": 265195,
+      "poster": "/bU7IUeTdYFOgeUPtwpWKQNhORMC.jpg",
+      "title": "Wild Tales",
+      "year": 2014
+    },
+    "Mustang": {
+      "id": 336804,
+      "poster": "/8lrsjdydRxhKlKiGuMbbzuFKrdN.jpg",
+      "title": "Mustang",
+      "year": 2015
+    },
+    "Unfriended": {
+      "id": 277685,
+      "poster": "/8byPxREr3BqBNyyij5WHVSOVtYk.jpg",
+      "title": "Unfriended",
+      "year": 2014
+    },
+    "The Invitation": {
+      "id": 306947,
+      "poster": "/otZMaGHWnKPgOODF6SSVNGqbI4X.jpg",
+      "title": "The Invitation",
+      "year": 2016
+    },
+    "Green Room": {
+      "id": 313922,
+      "poster": "/evZicaR7nXe4LiD9G6QYTorcJGO.jpg",
+      "title": "Green Room",
+      "year": 2016
+    },
+    "Dope": {
+      "id": 308639,
+      "poster": "/n6u00imN7AX2NiyWUc5kTgHXmEf.jpg",
+      "title": "Dope",
+      "year": 2015
+    },
+    "The Gunman": {
+      "id": 266396,
+      "poster": "/lnUozDnDANTsDYEdsNsHC6b8IiS.jpg",
+      "title": "The Gunman",
+      "year": 2015
+    },
+    "Mistress America": {
+      "id": 309245,
+      "poster": "/w0V4M9nY9bjsoTKdaAYzL9gRpWY.jpg",
+      "title": "Mistress America",
+      "year": 2015
+    },
+    "While We're Young": {
+      "id": 252512,
+      "poster": "/rdYXGeK3OZjBrd2R8A1sSS0Kxcq.jpg",
+      "title": "While We're Young",
+      "year": 2015
+    },
+    "Love & Mercy": {
+      "id": 271714,
+      "poster": "/4jn0hDsl6lsv4qEc7aiLlgbaIjo.jpg",
+      "title": "Love & Mercy",
+      "year": 2015
+    },
+    "The Visit": {
+      "id": 298312,
+      "poster": "/mtMfKRCa2V5b7d9k4piogB72mcY.jpg",
+      "title": "The Visit",
+      "year": 2015
+    },
+    "Spectre": {
+      "id": 206647,
+      "poster": "/zj8ongFhtWNsVlfjOGo8pSr7PQg.jpg",
+      "title": "Spectre",
+      "year": 2015
+    },
+    "The Revenant": {
+      "id": 281957,
+      "poster": "/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",
+      "title": "The Revenant",
+      "year": 2015
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "Citizen Kane": {
+      "id": 15,
+      "poster": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+      "title": "Citizen Kane",
+      "year": 1941
+    },
+    "Ever Since Eve": {
+      "id": 31899,
+      "poster": "/gmFzLtNC11w1FwfRr7soxz2I4oZ.jpg",
+      "title": "Ever Since Eve",
+      "year": 1937
+    },
+    "Lovelace": {
+      "id": 77805,
+      "poster": "/ibt7chnBsaDbE6ZVwyneuZwYfsC.jpg",
+      "title": "Lovelace",
+      "year": 2013
+    },
+    "Chloe": {
+      "id": 28211,
+      "poster": "/7VC7Q7GvIhEECIU3fiaRf71mxV6.jpg",
+      "title": "Chloe",
+      "year": 2010
+    },
+    "First Reformed": {
+      "id": 458737,
+      "poster": "/8HKA3Hwf8jQWy8TCYWr7C8Wft23.jpg",
+      "title": "First Reformed",
+      "year": 2018
+    },
+    "Pieces of a Woman": {
+      "id": 641662,
+      "poster": "/OgUfLlhfBFx5BPK6LzBWFvBW1w.jpg",
+      "title": "Pieces of a Woman",
+      "year": 2020
+    }
+  }
+}

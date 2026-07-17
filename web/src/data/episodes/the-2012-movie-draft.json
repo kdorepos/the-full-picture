@@ -1,0 +1,665 @@
+{
+  "slug": "the-2012-movie-draft",
+  "title": "The 2012 Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2020-09-29",
+  "runtimeMin": 126,
+  "format": "Sean, Amanda, and Chris Ryan re-run the movie draft, six categories deep, with new rules written in the wake of last time's scandal. Billy Ray joins after to talk The Comey Rule.",
+  "segments": [
+    {
+      "kind": "draft",
+      "heading": "The 2012 Movie Draft",
+      "note": "Sean, Amanda, and Chris Ryan, snake draft, six categories",
+      "draftOf": "2012 movies",
+      "categories": [
+        "Drama",
+        "Comedy or Horror",
+        "Blockbuster",
+        "Animated or Foreign Language",
+        "Wildcard",
+        "Sequel"
+      ],
+      "teams": [
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "The Master",
+              "year": 2012,
+              "category": "Drama",
+              "note": "Paul Thomas Anderson's film; Sean says he's returned to it at the Arclight more than once."
+            },
+            {
+              "title": "The Avengers",
+              "year": 2012,
+              "category": "Blockbuster",
+              "note": "By his own count, not even a top-five MCU movie for him. Amanda calls it a weird pick."
+            },
+            {
+              "title": "Prometheus",
+              "year": 2012,
+              "category": "Sequel",
+              "note": "Ruled eligible as a prequel; Ridley Scott's first Alien-franchise film in almost 35 years."
+            },
+            {
+              "title": "Moonrise Kingdom",
+              "year": 2012,
+              "category": "Wildcard",
+              "note": "Wes Anderson, with Bill Murray, Frances McDormand, Edward Norton, and Bruce Willis."
+            },
+            {
+              "title": "Sinister",
+              "year": 2012,
+              "category": "Comedy or Horror",
+              "note": "Scott Derrickson and Ethan Hawke, before Derrickson went off to direct Doctor Strange."
+            },
+            {
+              "title": "It's Such a Beautiful Day",
+              "year": 2012,
+              "category": "Animated or Foreign Language",
+              "note": "Don Hertzfeldt's stick-figure trilogy, released as one film this year."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Skyfall",
+              "year": 2012,
+              "category": "Sequel",
+              "note": "One of her favorite movies of the decade; she rewatched it the night before the draft."
+            },
+            {
+              "title": "21 Jump Street",
+              "year": 2012,
+              "category": "Comedy or Horror",
+              "note": "A studio comedy she says has made her laugh consistently for a decade."
+            },
+            {
+              "title": "Anna Karenina",
+              "year": 2012,
+              "category": "Drama",
+              "note": "Joe Wright's stage-bound adaptation, with Keira Knightley and Alicia Vikander."
+            },
+            {
+              "title": "Amour",
+              "year": 2012,
+              "category": "Animated or Foreign Language",
+              "note": "Michael Haneke; she saw it at BAM early on with the man she'd go on to marry."
+            },
+            {
+              "title": "The Hunger Games",
+              "year": 2012,
+              "category": "Blockbuster",
+              "note": "Calls it Jennifer Lawrence's better 2012 performance, over Silver Linings Playbook."
+            },
+            {
+              "title": "Argo",
+              "year": 2012,
+              "category": "Wildcard",
+              "note": "That year's Best Picture winner, picked last, with no apologies."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Django Unchained",
+              "year": 2012,
+              "category": "Drama",
+              "note": "Filed under drama despite calling it a stretch; he also calls it very funny and an action movie."
+            },
+            {
+              "title": "Magic Mike",
+              "year": 2012,
+              "category": "Blockbuster",
+              "note": "Steven Soderbergh; one of his favorite films of the decade."
+            },
+            {
+              "title": "The Bourne Legacy",
+              "year": 2012,
+              "category": "Sequel",
+              "note": "Loves Jeremy Renner and especially Edward Norton: 'putting your hand on a train track.'"
+            },
+            {
+              "title": "Looper",
+              "year": 2012,
+              "category": "Wildcard",
+              "note": "Rian Johnson; wonders what could've happened between this and Knives Out."
+            },
+            {
+              "title": "V/H/S",
+              "year": 2012,
+              "category": "Comedy or Horror",
+              "note": "The horror anthology from Ti West, Adam Wingard, David Bruckner, and others."
+            },
+            {
+              "title": "Rust and Bone",
+              "year": 2012,
+              "category": "Animated or Foreign Language",
+              "note": "Marion Cotillard, in a category he says is 'full of pain' next to Amour."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Zero Dark Thirty",
+        "Chronicle",
+        "The Hobbit: An Unexpected Journey",
+        "Lincoln",
+        "Killing Them Softly",
+        "Ted",
+        "The Campaign",
+        "Flight",
+        "Silver Linings Playbook",
+        "Cloud Atlas",
+        "Damsels in Distress",
+        "Searching for Sugar Man",
+        "Jiro Dreams of Sushi",
+        "The Five-Year Engagement",
+        "Holy Motors",
+        "The Hunt",
+        "Wreck-It Ralph",
+        "Brave",
+        "ParaNorman",
+        "Battleship",
+        "John Carter",
+        "Savages",
+        "Lawless",
+        "The Dark Knight Rises"
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Billy Ray on",
+      "note": "The Comey Rule screenwriter-director on adapting Comey's story, and on the movies behind his own work",
+      "films": [
+        {
+          "title": "Shattered Glass",
+          "year": 2003,
+          "note": "The film Ray is still best known for; Sean says journalism students of his generation owe it a debt."
+        },
+        {
+          "title": "Breach",
+          "year": 2007,
+          "note": "His FBI drama with Chris Cooper and Ryan Phillippe, the first film ever allowed to shoot inside the FBI building."
+        },
+        {
+          "title": "Captain Phillips",
+          "year": 2013,
+          "note": "One of his real-event scripts, directed by Paul Greengrass."
+        },
+        {
+          "title": "Richard Jewell",
+          "year": 2019,
+          "note": "Directed by Clint Eastwood; Ray calls an invented detail in the script a 'deep regret.'"
+        },
+        {
+          "title": "All the President's Men",
+          "year": 1976,
+          "note": "His structural touchstone for what he calls 'people talking in rooms' movies."
+        },
+        {
+          "title": "Jaws",
+          "year": 1975,
+          "note": "Studied for how it withholds the shark; modeled The Comey Rule's first half on that reveal."
+        },
+        {
+          "title": "Amadeus",
+          "year": 1984,
+          "note": "Its Salieri narration gave him the idea to frame The Comey Rule through Rod Rosenstein."
+        },
+        {
+          "title": "Schindler's List",
+          "year": 1993,
+          "note": "His example of a film that, without Spielberg attached, wouldn't get made as a theatrical feature today."
+        },
+        {
+          "title": "Parasite",
+          "year": 2019,
+          "note": "One of three scripts from the year prior Ray says he was jealous of."
+        },
+        {
+          "title": "Jojo Rabbit",
+          "year": 2019,
+          "note": "Same group of scripts."
+        },
+        {
+          "title": "1917",
+          "year": 2019,
+          "note": "Same group of scripts."
+        }
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "The Hunt": 103663
+  },
+  "referenced": [
+    {
+      "group": "Banned from this draft (penalized from the 2011 episode)",
+      "films": [
+        "The Cabin in the Woods",
+        "The Raid"
+      ]
+    },
+    {
+      "group": "Cited in the rules argument",
+      "films": [
+        "X-Men: First Class",
+        "Casino Royale"
+      ]
+    },
+    {
+      "group": "Jessica Chastain's post-Zero Dark Thirty run",
+      "films": [
+        "Ava",
+        "It Chapter Two",
+        "Dark Phoenix",
+        "Molly's Game",
+        "The Zookeeper's Wife"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Comey Rule",
+      "The Wire",
+      "Pen15",
+      "All or Nothing: Tottenham",
+      "Chef's Table"
+    ],
+    "Ads": [
+      "Carvana",
+      "Boar's Head",
+      "Heineken",
+      "Quaker",
+      "Pepsi"
+    ],
+    "Games": [
+      "FIFA World Cup Launch Edition"
+    ]
+  },
+  "tmdb": {
+    "The Master": {
+      "id": 68722,
+      "poster": "/rUSjbyvYWN9H4az8xt0tDtU7I6v.jpg",
+      "title": "The Master",
+      "year": 2012
+    },
+    "The Avengers": {
+      "id": 24428,
+      "poster": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "title": "The Avengers",
+      "year": 2012
+    },
+    "Prometheus": {
+      "id": 70981,
+      "poster": "/qsYQflQhOuhDpQ0W2aOcwqgDAeI.jpg",
+      "title": "Prometheus",
+      "year": 2012
+    },
+    "Moonrise Kingdom": {
+      "id": 83666,
+      "poster": "/y4SXcbNl6CEF2t36icuzuBioj7K.jpg",
+      "title": "Moonrise Kingdom",
+      "year": 2012
+    },
+    "Sinister": {
+      "id": 82507,
+      "poster": "/nzx10sca3arCeYBAomHan4Q6wa1.jpg",
+      "title": "Sinister",
+      "year": 2012
+    },
+    "It's Such a Beautiful Day": {
+      "id": 489412,
+      "poster": "/hop0dsM4nxyNENGhBhpJWTCJ5rS.jpg",
+      "title": "It's Such a Beautiful Day",
+      "year": 2012
+    },
+    "Skyfall": {
+      "id": 37724,
+      "poster": "/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
+      "title": "Skyfall",
+      "year": 2012
+    },
+    "21 Jump Street": {
+      "id": 64688,
+      "poster": "/8v3Sqv9UcIUC4ebmpKWROqPBINZ.jpg",
+      "title": "21 Jump Street",
+      "year": 2012
+    },
+    "Anna Karenina": {
+      "id": 96724,
+      "poster": "/b9mvt1kKqDuveD1AJuGSkBEuagU.jpg",
+      "title": "Anna Karenina",
+      "year": 2012
+    },
+    "Amour": {
+      "id": 86837,
+      "poster": "/19hyCudualHxCD0GrEngqsi0wBF.jpg",
+      "title": "Amour",
+      "year": 2012
+    },
+    "The Hunger Games": {
+      "id": 70160,
+      "poster": "/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg",
+      "title": "The Hunger Games",
+      "year": 2012
+    },
+    "Argo": {
+      "id": 68734,
+      "poster": "/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
+      "title": "Argo",
+      "year": 2012
+    },
+    "Django Unchained": {
+      "id": 68718,
+      "poster": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+      "title": "Django Unchained",
+      "year": 2012
+    },
+    "Magic Mike": {
+      "id": 77930,
+      "poster": "/cfRv1INLSSumjvxAqEGOP6b0Aw1.jpg",
+      "title": "Magic Mike",
+      "year": 2012
+    },
+    "The Bourne Legacy": {
+      "id": 49040,
+      "poster": "/1aExL5DTGHj25ZfIC3dDwS84RWi.jpg",
+      "title": "The Bourne Legacy",
+      "year": 2012
+    },
+    "Looper": {
+      "id": 59967,
+      "poster": "/sNjL6SqErDBE8OUZlrDLkexfsCj.jpg",
+      "title": "Looper",
+      "year": 2012
+    },
+    "V/H/S": {
+      "id": 84348,
+      "poster": "/xVGfCaTwVdZt3lFqtOVhTDqmG58.jpg",
+      "title": "V/H/S",
+      "year": 2012
+    },
+    "Rust and Bone": {
+      "id": 97365,
+      "poster": "/6bcerd7CeQ5y5Dilym1O2C8c8Gl.jpg",
+      "title": "Rust and Bone",
+      "year": 2012
+    },
+    "Zero Dark Thirty": {
+      "id": 97630,
+      "poster": "/wNSdSSxowM3WIqmPJNg3RagYbwP.jpg",
+      "title": "Zero Dark Thirty",
+      "year": 2012
+    },
+    "Chronicle": {
+      "id": 76726,
+      "poster": "/kdyrdFIt29FUmLIKvedAc2j4rpo.jpg",
+      "title": "Chronicle",
+      "year": 2012
+    },
+    "The Hobbit: An Unexpected Journey": {
+      "id": 49051,
+      "poster": "/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg",
+      "title": "The Hobbit: An Unexpected Journey",
+      "year": 2012
+    },
+    "Lincoln": {
+      "id": 72976,
+      "poster": "/7mUYEkv9W3ek61eetZCfMQYVoi.jpg",
+      "title": "Lincoln",
+      "year": 2012
+    },
+    "Killing Them Softly": {
+      "id": 64689,
+      "poster": "/heaz45kpFa4Oa7iLis0OBas68ls.jpg",
+      "title": "Killing Them Softly",
+      "year": 2012
+    },
+    "Ted": {
+      "id": 72105,
+      "poster": "/1QVZXQQHCEIj8lyUhdBYd2qOYtq.jpg",
+      "title": "Ted",
+      "year": 2012
+    },
+    "The Campaign": {
+      "id": 77953,
+      "poster": "/jMWjJ13sFTT07DwjNlqh8VY4sK6.jpg",
+      "title": "The Campaign",
+      "year": 2012
+    },
+    "Flight": {
+      "id": 87502,
+      "poster": "/tFsHDNclXoCKy2xMxskzXXMaFJS.jpg",
+      "title": "Flight",
+      "year": 2012
+    },
+    "Silver Linings Playbook": {
+      "id": 82693,
+      "poster": "/fhHB1uvfFKKFbj6bTKE8xdtsjKi.jpg",
+      "title": "Silver Linings Playbook",
+      "year": 2012
+    },
+    "Cloud Atlas": {
+      "id": 83542,
+      "poster": "/8naVv2Xu3rWI5JKHz0vCujx6GaJ.jpg",
+      "title": "Cloud Atlas",
+      "year": 2012
+    },
+    "Damsels in Distress": {
+      "id": 82533,
+      "poster": "/kF5kdsQbRh1U8Bvjyu6iIxOAsEx.jpg",
+      "title": "Damsels in Distress",
+      "year": 2012
+    },
+    "Searching for Sugar Man": {
+      "id": 84334,
+      "poster": "/ucM98HuBHSWmn44oiE83hIDc6VB.jpg",
+      "title": "Searching for Sugar Man",
+      "year": 2012
+    },
+    "Jiro Dreams of Sushi": {
+      "id": 80767,
+      "poster": "/iVrkM4jSJw1IsOpW5jTtY5QxVqj.jpg",
+      "title": "Jiro Dreams of Sushi",
+      "year": 2011
+    },
+    "The Five-Year Engagement": {
+      "id": 72207,
+      "poster": "/4Bj6pw3ZCo1f2DXP4k7AUDwMTFX.jpg",
+      "title": "The Five-Year Engagement",
+      "year": 2012
+    },
+    "Holy Motors": {
+      "id": 103328,
+      "poster": "/4ZuTrrDQhCS9f6KzIX6HfsjjyMd.jpg",
+      "title": "Holy Motors",
+      "year": 2012
+    },
+    "The Hunt": {
+      "id": 103663,
+      "poster": "/jkixsXzRh28q3PCqFoWcf7unghT.jpg",
+      "title": "The Hunt",
+      "year": 2012
+    },
+    "Wreck-It Ralph": {
+      "id": 82690,
+      "poster": "/ihfvxPh5C4rV2WSKWs7k7rzxzzO.jpg",
+      "title": "Wreck-It Ralph",
+      "year": 2012
+    },
+    "Brave": {
+      "id": 62177,
+      "poster": "/1XAuDtMWpL0sYSFK0R6EZate2Ux.jpg",
+      "title": "Brave",
+      "year": 2012
+    },
+    "ParaNorman": {
+      "id": 77174,
+      "poster": "/9DZPtuYTKYxt6vzHvZ5FLThG4fl.jpg",
+      "title": "ParaNorman",
+      "year": 2012
+    },
+    "Battleship": {
+      "id": 44833,
+      "poster": "/9b0Im7SfedHiajTwzSL9zGyBI7M.jpg",
+      "title": "Battleship",
+      "year": 2012
+    },
+    "John Carter": {
+      "id": 49529,
+      "poster": "/lCxz1Yus07QCQQCb6I0Dr3Lmqpx.jpg",
+      "title": "John Carter",
+      "year": 2012
+    },
+    "Savages": {
+      "id": 82525,
+      "poster": "/joyiyBwYY5QCpldqT1FzrTqsTJK.jpg",
+      "title": "Savages",
+      "year": 2012
+    },
+    "Lawless": {
+      "id": 82633,
+      "poster": "/Ahtzwts22ayviD3LEVslfL4nRWB.jpg",
+      "title": "Lawless",
+      "year": 2012
+    },
+    "The Dark Knight Rises": {
+      "id": 49026,
+      "poster": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+      "title": "The Dark Knight Rises",
+      "year": 2012
+    },
+    "Shattered Glass": {
+      "id": 13537,
+      "poster": "/bIFJ49tk79hiFr9Z6bF6QapTg66.jpg",
+      "title": "Shattered Glass",
+      "year": 2003
+    },
+    "Breach": {
+      "id": 4169,
+      "poster": "/m2iVkJPxDrrink7NiE412nFBMQj.jpg",
+      "title": "Breach",
+      "year": 2007
+    },
+    "Captain Phillips": {
+      "id": 109424,
+      "poster": "/8Td0kkocW6sD3uRpzwfMfkqMWhx.jpg",
+      "title": "Captain Phillips",
+      "year": 2013
+    },
+    "Richard Jewell": {
+      "id": 292011,
+      "poster": "/5Lgkm8jt4roAFPZQ52fKMhVmDaZ.jpg",
+      "title": "Richard Jewell",
+      "year": 2019
+    },
+    "All the President's Men": {
+      "id": 891,
+      "poster": "/pCe6lfLxt1B58zPD4lgQrlnDS2j.jpg",
+      "title": "All the President's Men",
+      "year": 1976
+    },
+    "Jaws": {
+      "id": 578,
+      "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "title": "Jaws",
+      "year": 1975
+    },
+    "Amadeus": {
+      "id": 279,
+      "poster": "/gQRfiyfGvr1az0quaYyMram3Aqt.jpg",
+      "title": "Amadeus",
+      "year": 1984
+    },
+    "Schindler's List": {
+      "id": 424,
+      "poster": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+      "title": "Schindler's List",
+      "year": 1993
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Jojo Rabbit": {
+      "id": 515001,
+      "poster": "/1mqL7VG4Ix8wmxwypmCA1HTHBky.jpg",
+      "title": "Jojo Rabbit",
+      "year": 2019
+    },
+    "1917": {
+      "id": 530915,
+      "poster": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+      "title": "1917",
+      "year": 2019
+    },
+    "The Cabin in the Woods": {
+      "id": 22970,
+      "poster": "/zZZe5wn0udlhMtdlDjN4NB72R6e.jpg",
+      "title": "The Cabin in the Woods",
+      "year": 2012
+    },
+    "The Raid": {
+      "id": 94329,
+      "poster": "/Abnm1Ws3JH0ReCfEhLMPwPcMcGO.jpg",
+      "title": "The Raid",
+      "year": 2012
+    },
+    "X-Men: First Class": {
+      "id": 49538,
+      "poster": "/hNEokmUke0dazoBhttFN0o3L7Xv.jpg",
+      "title": "X-Men: First Class",
+      "year": 2011
+    },
+    "Casino Royale": {
+      "id": 36557,
+      "poster": "/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
+      "title": "Casino Royale",
+      "year": 2006
+    },
+    "Ava": {
+      "id": 539885,
+      "poster": "/qzA87Wf4jo1h8JMk9GilyIYvwsA.jpg",
+      "title": "Ava",
+      "year": 2020
+    },
+    "It Chapter Two": {
+      "id": 474350,
+      "poster": "/zfE0R94v1E8cuKAerbskfD3VfUt.jpg",
+      "title": "It Chapter Two",
+      "year": 2019
+    },
+    "Dark Phoenix": {
+      "id": 320288,
+      "poster": "/cCTJPelKGLhALq3r51A9uMonxKj.jpg",
+      "title": "Dark Phoenix",
+      "year": 2019
+    },
+    "Molly's Game": {
+      "id": 396371,
+      "poster": "/zrGQwKNmAz5awZI2V1k5M4eTTTN.jpg",
+      "title": "Molly's Game",
+      "year": 2017
+    },
+    "The Zookeeper's Wife": {
+      "id": 289222,
+      "poster": "/50KGpMiIvSkF4WHOgp0gM6r6sMU.jpg",
+      "title": "The Zookeeper's Wife",
+      "year": 2017
+    }
+  }
+}

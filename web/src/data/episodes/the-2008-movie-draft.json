@@ -19,7 +19,7 @@
         {
           "title": "The Dark Knight",
           "year": 2008,
-          "note": "Christopher Nolan's Batman sequel, which Sean calls a full-blown iconic film of the century. Its Best Picture snub is also credited with pushing the Academy to expand the nominee field to 10."
+          "note": "Christopher Nolan's Batman sequel, which Sean calls one of the defining films of the century. Its Best Picture snub is credited with pushing the Academy to expand the nominee field to 10."
         },
         {
           "title": "Slumdog Millionaire",
@@ -287,7 +287,12 @@
     ]
   },
   "tmdbOverrides": {
-    "WALL-E": 10681
+    "WALL-E": 10681,
+    "Che": 8881,
+    "Happy-Go-Lucky": 10503,
+    "The Visitor": 12473,
+    "The Accountant": 302946,
+    "The Way Back": 529485
   },
   "tmdb": {
     "The Dark Knight": {
@@ -453,10 +458,10 @@
       "year": 2008
     },
     "Che": {
-      "id": 61411,
-      "poster": "/hNPbpo2ar8RFu4VX5ZpZ681WMnp.jpg",
-      "title": "Che!",
-      "year": 1969
+      "id": 8881,
+      "poster": "/ndxoK8RZF1nfHvZzQ3f2sNlkkzg.jpg",
+      "title": "Che: Part One",
+      "year": 2008
     },
     "Quantum of Solace": {
       "id": 10764,
@@ -513,10 +518,10 @@
       "year": 2008
     },
     "Happy-Go-Lucky": {
-      "id": 181862,
-      "poster": "/6wVCINoX4LfKwxGcq6GET3Er5HW.jpg",
-      "title": "Happy Go Lucky",
-      "year": 1943
+      "id": 10503,
+      "poster": "/sO9ZZsqDfreFxiCPrUuBYeqsAHi.jpg",
+      "title": "Happy-Go-Lucky",
+      "year": 2008
     },
     "Marley & Me": {
       "id": 14306,
@@ -579,10 +584,10 @@
       "year": 2008
     },
     "The Visitor": {
-      "id": 881487,
-      "poster": "/1FchVTEnjQw6m5NnQBa8QwjUv6T.jpg",
+      "id": 12473,
+      "poster": "/9XRRSD7swlYrGBhZ8vOR2yngIKZ.jpg",
       "title": "The Visitor",
-      "year": 2022
+      "year": 2008
     },
     "Shotgun Stories": {
       "id": 12247,
@@ -723,10 +728,10 @@
       "year": 2017
     },
     "The Accountant": {
-      "id": 870028,
-      "poster": "/lUvfTcOZiK0sdcX0WNLPbMyKjGm.jpg",
-      "title": "The Accountant²",
-      "year": 2025
+      "id": 302946,
+      "poster": "/fceheXB5fC4WrLVuWJ6OZv9FXYr.jpg",
+      "title": "The Accountant",
+      "year": 2016
     },
     "Warrior": {
       "id": 59440,
@@ -735,10 +740,10 @@
       "year": 2011
     },
     "The Way Back": {
-      "id": 49009,
-      "poster": "/xQ6hxfpD5XQGJz0ekVle5zegam7.jpg",
+      "id": 529485,
+      "poster": "/ylPnfaphW3FrLBUVwAREVtiL9My.jpg",
       "title": "The Way Back",
-      "year": 2010
+      "year": 2020
     },
     "This Is the End": {
       "id": 109414,

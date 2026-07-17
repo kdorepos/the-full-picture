@@ -1,0 +1,879 @@
+{
+  "slug": "the-2020-movie-draft",
+  "title": "The 2020 Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2023-12-18",
+  "runtimeMin": 77,
+  "format": "Sean, Amanda, and Chris Ryan draft the movies of 2020, the year COVID gutted the theatrical slate. The blockbuster threshold drops to $25 million, and the picks skew toward small, streaming-era films. Six categories, snake order, one roster each.",
+  "segments": [
+    {
+      "kind": "draft",
+      "heading": "The teams",
+      "draftOf": "the movies of 2020",
+      "categories": [
+        "Drama",
+        "Action / Horror / Thriller",
+        "Comedy",
+        "Blockbuster",
+        "Oscar Nominee",
+        "Wild Card"
+      ],
+      "teams": [
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "First Cow",
+              "year": 2020,
+              "category": "Drama",
+              "note": "Kelly Reichardt's frontier friendship lost to time; one of the last people he interviewed in person, and she'd only fist-bump as COVID crept in."
+            },
+            {
+              "title": "The Invisible Man",
+              "year": 2020,
+              "category": "Action / Horror / Thriller",
+              "note": "Leigh Whannell's Blumhouse reinvention with Elisabeth Moss; a big surprise hit and the good genre pick still on the board after the blockbusters went."
+            },
+            {
+              "title": "Shithouse",
+              "year": 2020,
+              "category": "Comedy",
+              "note": "Cooper Raiff's college debut, made at 24, with pangs of Linklater and John Hughes; shot in Sean's neighborhood."
+            },
+            {
+              "title": "Tenet",
+              "year": 2020,
+              "category": "Blockbuster",
+              "note": "First overall. The only $25M+ movie worth talking about, seen at a San Diego drive-in reached by driving through a forest fire, cars parked apart."
+            },
+            {
+              "title": "Judas and the Black Messiah",
+              "year": 2021,
+              "category": "Oscar Nominee",
+              "note": "Technically a February 2021 release, allowed under the Oscar-eligibility extension; Daniel Kaluuya's Fred Hampton, a Shaka King they're still waiting to follow up."
+            },
+            {
+              "title": "The Vast of Night",
+              "year": 2020,
+              "category": "Wild Card",
+              "note": "Andrew Patterson's homemade 1950s New Mexico sci-fi built around a long, unbroken tracking shot; his and Sean's favorite of the year, and an Adam Nayman staple."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Never Rarely Sometimes Always",
+              "year": 2020,
+              "category": "Drama",
+              "note": "Eliza Hittman's abortion procedural; Amanda interviewed Hittman at Sundance the day Kobe Bryant died."
+            },
+            {
+              "title": "Extraction",
+              "year": 2020,
+              "category": "Action / Horror / Thriller",
+              "note": "Not an Amanda pick, but Hemsworth throat-punching dudes felt like a release five weeks into lockdown; a top-15 all-time Netflix title."
+            },
+            {
+              "title": "Palm Springs",
+              "year": 2020,
+              "category": "Comedy",
+              "note": "Andy Samberg / Cristin Milioti time-loop rom-com bought at Sundance for a record $17.5M; released on Hulu into a real-life time loop."
+            },
+            {
+              "title": "Bad Boys for Life",
+              "year": 2020,
+              "category": "Blockbuster",
+              "note": "The year's #1 movie at $206M domestic, and the last normal theatrical hang; Chris fixated on the Michael Bay cameo."
+            },
+            {
+              "title": "Quo Vadis, Aida?",
+              "year": 2020,
+              "category": "Oscar Nominee",
+              "note": "Jasmila Zbanic's Bosnian Best International nominee; a UN translator inside the run-up to the Srebrenica massacre, the bottom falling out of everything."
+            },
+            {
+              "title": "The Assistant",
+              "year": 2020,
+              "category": "Wild Card",
+              "note": "Kitty Green's quiet, anxious office-abuse study with Julia Garner and a Matthew Macfadyen HR scene that goes on almost unbearably long; under-seen for when it landed."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Another Round",
+              "year": 2020,
+              "category": "Drama",
+              "note": "Thomas Vinterberg's intentional-alcoholism film with Mads Mikkelsen; sad and funny, unmistakably Scandinavian, capped by that dancing ending. Chris interviewed Mikkelsen and questioned whether he himself was a man."
+            },
+            {
+              "title": "The Rental",
+              "year": 2020,
+              "category": "Action / Horror / Thriller",
+              "note": "Dave Franco and Joe Swanberg's Oregon-Airbnb thriller; a rewatchable, John Carpenter-ish study of class and leisure anxieties."
+            },
+            {
+              "title": "Happiest Season",
+              "year": 2020,
+              "category": "Comedy",
+              "note": "Clea DuVall's Pittsburgh Christmas rom-com with Kristen Stewart, Mackenzie Davis, and Aubrey Plaza; a holiday staple in Chris's house."
+            },
+            {
+              "title": "The Gentlemen",
+              "year": 2020,
+              "category": "Blockbuster",
+              "note": "Guy Ritchie's; taken fourth overall as a pick all three had circled. Charlie Hunnam's AK-47, Hugh Grant's disgusting accent, Michelle Dockery."
+            },
+            {
+              "title": "Mank",
+              "year": 2020,
+              "category": "Oscar Nominee",
+              "note": "David Fincher's Old Hollywood with a dizzying Gary Oldman; Chris's favorite of the year, defended against the anti-Mank crowd."
+            },
+            {
+              "title": "Let Them All Talk",
+              "year": 2020,
+              "category": "Wild Card",
+              "note": "Steven Soderbergh's Queen Mary 2 drama with Meryl Streep and Lucas Hedges; Soderbergh later recognized Chris in person from their Zoom interview."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Sound of Metal",
+        "Minari",
+        "Da 5 Bloods",
+        "Nomadland",
+        "Soul",
+        "News of the World",
+        "The Way Back",
+        "On the Rocks",
+        "Emma",
+        "Sylvie's Love",
+        "Time",
+        "Boys State",
+        "I'm Thinking of Ending Things",
+        "Possessor",
+        "Host",
+        "The Nest",
+        "The Informer",
+        "The King of Staten Island",
+        "Underwater",
+        "Freaky",
+        "The Dark and the Wicked",
+        "The Climb",
+        "Sonic the Hedgehog",
+        "Birds of Prey",
+        "Onward",
+        "The Hunt",
+        "The Lodge",
+        "Dolittle",
+        "The Call of the Wild",
+        "Fantasy Island",
+        "Wonder Woman 1984",
+        "The Croods: A New Age",
+        "The Glorias",
+        "Shiva Baby"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The 2021 slate they argued over",
+      "films": [
+        "Dune",
+        "The French Dispatch",
+        "Spider-Man: No Way Home",
+        "Eternals",
+        "Black Widow",
+        "Shang-Chi and the Legend of the Ten Rings",
+        "The Worst Person in the World",
+        "West Side Story",
+        "Licorice Pizza",
+        "The Power of the Dog",
+        "CODA",
+        "A Quiet Place Part II",
+        "Old"
+      ]
+    },
+    {
+      "group": "The 2019 they were coming off of",
+      "films": [
+        "Avengers: Endgame",
+        "Parasite",
+        "Star Wars: The Rise of Skywalker"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "The Killer",
+        "No Sudden Move",
+        "Ghost Ship",
+        "Duel",
+        "Once Within a Time",
+        "The Royal Hotel",
+        "Poor Things",
+        "Cha Cha Real Smooth",
+        "The Trashers",
+        "Insidious: The Red Door",
+        "Aquaman and the Lost Kingdom",
+        "Small Axe",
+        "Rebecca",
+        "Ferrari",
+        "Maestro",
+        "Civil War",
+        "Spenser Confidential",
+        "The Perfect Storm",
+        "The Gambler",
+        "Aladdin",
+        "O.J.: Made in America",
+        "The Passion of the Christ",
+        "Cop Land",
+        "Sea of Love",
+        "Fletch",
+        "Heat",
+        "Scott Pilgrim vs. the World",
+        "Groundhog Day",
+        "Night Swim",
+        "Imaginary",
+        "Argylle",
+        "Madame Web",
+        "Anyone but You"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Last Dance",
+      "The White Lotus",
+      "A Murder at the End of the World"
+    ],
+    "Ads": [
+      "Stadio (podcast cross-promo)"
+    ]
+  },
+  "tmdbOverrides": {
+    "The French Dispatch": 542178,
+    "Time": 653729,
+    "The Way Back": 529485,
+    "Host": 723072,
+    "The Climb": 595931,
+    "Birds of Prey": 495764,
+    "Aladdin": 420817
+  },
+  "tmdb": {
+    "First Cow": {
+      "id": 558582,
+      "poster": "/yS41crZ1i0fFxCQbuL7I1Y1VBwm.jpg",
+      "title": "First Cow",
+      "year": 2020
+    },
+    "The Invisible Man": {
+      "id": 570670,
+      "poster": "/5EufsDwXdY2CVttYOk2WtYhgKpa.jpg",
+      "title": "The Invisible Man",
+      "year": 2020
+    },
+    "Shithouse": {
+      "id": 637053,
+      "poster": "/lyOajZgP8Iy3JdVgvaiBv9K5OMH.jpg",
+      "title": "Shithouse",
+      "year": 2020
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "Judas and the Black Messiah": {
+      "id": 583406,
+      "poster": "/iIgr75GoqFxe1X5Wz9siOODGe9u.jpg",
+      "title": "Judas and the Black Messiah",
+      "year": 2021
+    },
+    "The Vast of Night": {
+      "id": 565743,
+      "poster": "/q2P9lYkctl5Ory71HEBMaFxbVlD.jpg",
+      "title": "The Vast of Night",
+      "year": 2019
+    },
+    "Never Rarely Sometimes Always": {
+      "id": 595671,
+      "poster": "/7yiSyQhhjTFphhfCUcn05tCQxyG.jpg",
+      "title": "Never Rarely Sometimes Always",
+      "year": 2020
+    },
+    "Extraction": {
+      "id": 545609,
+      "poster": "/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg",
+      "title": "Extraction",
+      "year": 2020
+    },
+    "Palm Springs": {
+      "id": 587792,
+      "poster": "/gnAfqiV7yO3Jq9IntTmwkcaICqc.jpg",
+      "title": "Palm Springs",
+      "year": 2020
+    },
+    "Bad Boys for Life": {
+      "id": 38700,
+      "poster": "/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
+      "title": "Bad Boys for Life",
+      "year": 2020
+    },
+    "Quo Vadis, Aida?": {
+      "id": 728118,
+      "poster": "/eQy2Tgvmx0FkK8vMMqMW4aX5UXQ.jpg",
+      "title": "Quo Vadis, Aida?",
+      "year": 2021
+    },
+    "The Assistant": {
+      "id": 627463,
+      "poster": "/zJpJkVgezsR7dp6KQwyxtGIAOZv.jpg",
+      "title": "The Assistant",
+      "year": 2020
+    },
+    "Another Round": {
+      "id": 580175,
+      "poster": "/aDcIt4NHURLKnAEu7gow51Yd00Q.jpg",
+      "title": "Another Round",
+      "year": 2020
+    },
+    "The Rental": {
+      "id": 587496,
+      "poster": "/3ynPnBXQVT2Y0s19fDIPlWKUlxH.jpg",
+      "title": "The Rental",
+      "year": 2020
+    },
+    "Happiest Season": {
+      "id": 520172,
+      "poster": "/vzec9kkOSE93tygyfOktedkeOQ.jpg",
+      "title": "Happiest Season",
+      "year": 2020
+    },
+    "The Gentlemen": {
+      "id": 522627,
+      "poster": "/jtrhTYB7xSrJxR1vusu99nvnZ1g.jpg",
+      "title": "The Gentlemen",
+      "year": 2020
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "Let Them All Talk": {
+      "id": 623856,
+      "poster": "/4mhZqZ7nXL6Dj6PKZSseJxv1qXZ.jpg",
+      "title": "Let Them All Talk",
+      "year": 2020
+    },
+    "Sound of Metal": {
+      "id": 502033,
+      "poster": "/3178oOJKKPDeQ2legWQvMPpllv.jpg",
+      "title": "Sound of Metal",
+      "year": 2020
+    },
+    "Minari": {
+      "id": 615643,
+      "poster": "/6mPNdmjdbVKPITv3LLCmQoKs9Zw.jpg",
+      "title": "Minari",
+      "year": 2021
+    },
+    "Da 5 Bloods": {
+      "id": 581859,
+      "poster": "/yx4cp1ljJMDSFeEex0Zjv45b55E.jpg",
+      "title": "Da 5 Bloods",
+      "year": 2020
+    },
+    "Nomadland": {
+      "id": 581734,
+      "poster": "/8Vc5EOUEIF1EUXuX9eLFf7BvN3P.jpg",
+      "title": "Nomadland",
+      "year": 2021
+    },
+    "Soul": {
+      "id": 508442,
+      "poster": "/6jmppcaubzLF8wkXM36ganVISCo.jpg",
+      "title": "Soul",
+      "year": 2020
+    },
+    "News of the World": {
+      "id": 581032,
+      "poster": "/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+      "title": "News of the World",
+      "year": 2020
+    },
+    "The Way Back": {
+      "id": 529485,
+      "poster": "/ylPnfaphW3FrLBUVwAREVtiL9My.jpg",
+      "title": "The Way Back",
+      "year": 2020
+    },
+    "On the Rocks": {
+      "id": 575417,
+      "poster": "/fcijRCmB7yTtloh4Pumy9b1rkwU.jpg",
+      "title": "On the Rocks",
+      "year": 2020
+    },
+    "Emma": {
+      "id": 556678,
+      "poster": "/uHpHzbHLSsVmAuuGuQSpyVDZmDc.jpg",
+      "title": "Emma.",
+      "year": 2020
+    },
+    "Sylvie's Love": {
+      "id": 584288,
+      "poster": "/48P3lTdsg19OfmrD5av0VJYcjLM.jpg",
+      "title": "Sylvie's Love",
+      "year": 2020
+    },
+    "Time": {
+      "id": 653729,
+      "poster": "/2yLZmlf6vdpkhTaD0oUmIFu8SsM.jpg",
+      "title": "Time",
+      "year": 2020
+    },
+    "Boys State": {
+      "id": 653723,
+      "poster": "/cuvt3ImM3wQdijib7OeIH48uRfQ.jpg",
+      "title": "Boys State",
+      "year": 2020
+    },
+    "I'm Thinking of Ending Things": {
+      "id": 500840,
+      "poster": "/5ynWWapdl45hJXUh0KIevxSG9JQ.jpg",
+      "title": "I'm Thinking of Ending Things",
+      "year": 2020
+    },
+    "Possessor": {
+      "id": 435615,
+      "poster": "/xC9GZeJZ3NagdkGg9nLQx0aPG6J.jpg",
+      "title": "Possessor",
+      "year": 2020
+    },
+    "Host": {
+      "id": 723072,
+      "poster": "/h7dZpJDORYs5c56dydbrLFkEXpE.jpg",
+      "title": "Host",
+      "year": 2020
+    },
+    "The Nest": {
+      "id": 545237,
+      "poster": "/mSTrRgXGzu2t1jVhTexIqwSHlk7.jpg",
+      "title": "The Nest",
+      "year": 2020
+    },
+    "The Informer": {
+      "id": 466081,
+      "poster": "/pbGveUC8mk0QRkdXpERPLbMFnrg.jpg",
+      "title": "The Informer",
+      "year": 2019
+    },
+    "The King of Staten Island": {
+      "id": 579583,
+      "poster": "/zQFjMmE3K9AX5QrBL1SXIxYQ9jz.jpg",
+      "title": "The King of Staten Island",
+      "year": 2020
+    },
+    "Underwater": {
+      "id": 443791,
+      "poster": "/gzlbb3yeVISpQ3REd3Ga1scWGTU.jpg",
+      "title": "Underwater",
+      "year": 2020
+    },
+    "Freaky": {
+      "id": 551804,
+      "poster": "/8xC6QSyxrpm0D5A6iyHNemEWBVe.jpg",
+      "title": "Freaky",
+      "year": 2020
+    },
+    "The Dark and the Wicked": {
+      "id": 680593,
+      "poster": "/4DB9VFVTp0IQEWFEIf9f3f2z3t5.jpg",
+      "title": "The Dark and the Wicked",
+      "year": 2020
+    },
+    "The Climb": {
+      "id": 595931,
+      "poster": "/x6f60UzIXfkFNofg7GTzMygegFc.jpg",
+      "title": "The Climb",
+      "year": 2020
+    },
+    "Sonic the Hedgehog": {
+      "id": 454626,
+      "poster": "/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+      "title": "Sonic the Hedgehog",
+      "year": 2020
+    },
+    "Birds of Prey": {
+      "id": 495764,
+      "poster": "/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
+      "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "year": 2020
+    },
+    "Onward": {
+      "id": 508439,
+      "poster": "/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg",
+      "title": "Onward",
+      "year": 2020
+    },
+    "The Hunt": {
+      "id": 514847,
+      "poster": "/wxPhn4ef1EAo5njxwBkAEVrlJJG.jpg",
+      "title": "The Hunt",
+      "year": 2020
+    },
+    "The Lodge": {
+      "id": 474764,
+      "poster": "/yake2myhbW7c6dKbmwYDy1i40bm.jpg",
+      "title": "The Lodge",
+      "year": 2020
+    },
+    "Dolittle": {
+      "id": 448119,
+      "poster": "/3Nt3v1uzUgfSuVARD1AnI9g9Zl9.jpg",
+      "title": "Dolittle",
+      "year": 2020
+    },
+    "The Call of the Wild": {
+      "id": 481848,
+      "poster": "/33VdppGbeNxICrFUtW2WpGHvfYc.jpg",
+      "title": "The Call of the Wild",
+      "year": 2020
+    },
+    "Fantasy Island": {
+      "id": 539537,
+      "poster": "/8ZMrZGGW65ePWIgRn1260nA1uUm.jpg",
+      "title": "Fantasy Island",
+      "year": 2020
+    },
+    "Wonder Woman 1984": {
+      "id": 464052,
+      "poster": "/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
+      "title": "Wonder Woman 1984",
+      "year": 2020
+    },
+    "The Croods: A New Age": {
+      "id": 529203,
+      "poster": "/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg",
+      "title": "The Croods: A New Age",
+      "year": 2020
+    },
+    "The Glorias": {
+      "id": 519056,
+      "poster": "/bItFQ4QahfILGj9mA5uyJvAimeD.jpg",
+      "title": "The Glorias",
+      "year": 2020
+    },
+    "Shiva Baby": {
+      "id": 664300,
+      "poster": "/4sdqVsT6SHqtbCYZS7bhVoEftlL.jpg",
+      "title": "Shiva Baby",
+      "year": 2021
+    },
+    "Dune": {
+      "id": 438631,
+      "poster": "/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "title": "Dune",
+      "year": 2021
+    },
+    "The French Dispatch": {
+      "id": 542178,
+      "poster": "/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg",
+      "title": "The French Dispatch of the Liberty, Kansas Evening Sun",
+      "year": 2021
+    },
+    "Spider-Man: No Way Home": {
+      "id": 634649,
+      "poster": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "title": "Spider-Man: No Way Home",
+      "year": 2021
+    },
+    "Eternals": {
+      "id": 524434,
+      "poster": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+      "title": "Eternals",
+      "year": 2021
+    },
+    "Black Widow": {
+      "id": 497698,
+      "poster": "/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+      "title": "Black Widow",
+      "year": 2021
+    },
+    "Shang-Chi and the Legend of the Ten Rings": {
+      "id": 566525,
+      "poster": "/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "year": 2021
+    },
+    "The Worst Person in the World": {
+      "id": 660120,
+      "poster": "/1NxGNQchGBTHXJ6RShLY1IlZqWn.jpg",
+      "title": "The Worst Person in the World",
+      "year": 2021
+    },
+    "West Side Story": {
+      "id": 511809,
+      "poster": "/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+      "title": "West Side Story",
+      "year": 2021
+    },
+    "Licorice Pizza": {
+      "id": 718032,
+      "poster": "/ivXtvzfliGvoJ1DhSHIGyYBToWe.jpg",
+      "title": "Licorice Pizza",
+      "year": 2021
+    },
+    "The Power of the Dog": {
+      "id": 600583,
+      "poster": "/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg",
+      "title": "The Power of the Dog",
+      "year": 2021
+    },
+    "CODA": {
+      "id": 776503,
+      "poster": "/BzVjmm8l23rPsijLiNLUzuQtyd.jpg",
+      "title": "CODA",
+      "year": 2021
+    },
+    "A Quiet Place Part II": {
+      "id": 520763,
+      "poster": "/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",
+      "title": "A Quiet Place Part II",
+      "year": 2021
+    },
+    "Old": {
+      "id": 631843,
+      "poster": "/vclShucpUmPhdAOmKgf3B3Z4POD.jpg",
+      "title": "Old",
+      "year": 2021
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Star Wars: The Rise of Skywalker": {
+      "id": 181812,
+      "poster": "/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+      "title": "Star Wars: The Rise of Skywalker",
+      "year": 2019
+    },
+    "The Killer": {
+      "id": 800158,
+      "poster": "/ipkcgvN7h3yZnbYowthloHLKsf4.jpg",
+      "title": "The Killer",
+      "year": 2023
+    },
+    "No Sudden Move": {
+      "id": 649409,
+      "poster": "/kARdPEc4b32GQlHmJXMhGOCplEA.jpg",
+      "title": "No Sudden Move",
+      "year": 2021
+    },
+    "Ghost Ship": {
+      "id": 9645,
+      "poster": "/qT9jhRnf67dmMNpX2FmNPMeuW57.jpg",
+      "title": "Ghost Ship",
+      "year": 2002
+    },
+    "Duel": {
+      "id": 839,
+      "poster": "/w9Vk1Txx14vWvACELFYFlixrsfr.jpg",
+      "title": "Duel",
+      "year": 1971
+    },
+    "Once Within a Time": {
+      "id": 1061859,
+      "poster": "/lynZTmyyNnL7jfohkerZJvNEXtl.jpg",
+      "title": "Once Within a Time",
+      "year": 2023
+    },
+    "The Royal Hotel": {
+      "id": 944952,
+      "poster": "/oJwb2PV1LGxDp6Q3lynrjADxOIv.jpg",
+      "title": "The Royal Hotel",
+      "year": 2023
+    },
+    "Poor Things": {
+      "id": 792307,
+      "poster": "/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+      "title": "Poor Things",
+      "year": 2023
+    },
+    "Cha Cha Real Smooth": {
+      "id": 814340,
+      "poster": "/iUvoVhvwTlP8DofoqeIu7QAGLAe.jpg",
+      "title": "Cha Cha Real Smooth",
+      "year": 2022
+    },
+    "The Trashers": {
+      "id": 967598,
+      "poster": "/xh46P9YcIgFGtAg5peXDWBAlxCk.jpg",
+      "title": "The Trashers",
+      "year": null
+    },
+    "Insidious: The Red Door": {
+      "id": 614479,
+      "poster": "/d07phJqCx6z5wILDYqkyraorDPi.jpg",
+      "title": "Insidious: The Red Door",
+      "year": 2023
+    },
+    "Aquaman and the Lost Kingdom": {
+      "id": 572802,
+      "poster": "/7lTnXOy0iNtBAdRP3TZvaKJ77F6.jpg",
+      "title": "Aquaman and the Lost Kingdom",
+      "year": 2023
+    },
+    "Small Axe": null,
+    "Rebecca": {
+      "id": 223,
+      "poster": "/1qz3qUOHnVy7dL7M7G8jSErxE4b.jpg",
+      "title": "Rebecca",
+      "year": 1940
+    },
+    "Ferrari": {
+      "id": 365620,
+      "poster": "/LyCOcGqOTyTmaXu2TK8LfGveIb.jpg",
+      "title": "Ferrari",
+      "year": 2023
+    },
+    "Maestro": {
+      "id": 523607,
+      "poster": "/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg",
+      "title": "Maestro",
+      "year": 2023
+    },
+    "Civil War": {
+      "id": 929590,
+      "poster": "/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+      "title": "Civil War",
+      "year": 2024
+    },
+    "Spenser Confidential": {
+      "id": 581600,
+      "poster": "/fePczipv6ZzDO2uoww4vTAu2Sq3.jpg",
+      "title": "Spenser Confidential",
+      "year": 2020
+    },
+    "The Perfect Storm": {
+      "id": 2133,
+      "poster": "/vJPoxqgpfFNbGi0HyoNsjFeLCio.jpg",
+      "title": "The Perfect Storm",
+      "year": 2000
+    },
+    "The Gambler": {
+      "id": 284536,
+      "poster": "/hIgU3cxn7Y87joQGM3srofnXOm5.jpg",
+      "title": "The Gambler",
+      "year": 2014
+    },
+    "Aladdin": {
+      "id": 420817,
+      "poster": "/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg",
+      "title": "Aladdin",
+      "year": 2019
+    },
+    "O.J.: Made in America": {
+      "id": 377462,
+      "poster": "/nFmg2G4IJ0x9mALXkYFN8Gw0Dw5.jpg",
+      "title": "O.J.: Made in America",
+      "year": 2016
+    },
+    "The Passion of the Christ": {
+      "id": 615,
+      "poster": "/rBM5o2HpmCfDejuIPybI09tkY3V.jpg",
+      "title": "The Passion of the Christ",
+      "year": 2004
+    },
+    "Cop Land": {
+      "id": 2142,
+      "poster": "/dyOqXyPCQh8VF0KA5aelBCCQond.jpg",
+      "title": "Cop Land",
+      "year": 1997
+    },
+    "Sea of Love": {
+      "id": 12150,
+      "poster": "/vJ88WmJ12eAK9CRb3cggn9CJthH.jpg",
+      "title": "Sea of Love",
+      "year": 1989
+    },
+    "Fletch": {
+      "id": 9749,
+      "poster": "/nKDnMvVynvj7lwdv1iAZO1DzTYn.jpg",
+      "title": "Fletch",
+      "year": 1985
+    },
+    "Heat": {
+      "id": 949,
+      "poster": "/e09dLw1Ljtccd2P4NsuUvVtS5du.jpg",
+      "title": "Heat",
+      "year": 1995
+    },
+    "Scott Pilgrim vs. the World": {
+      "id": 22538,
+      "poster": "/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg",
+      "title": "Scott Pilgrim vs. the World",
+      "year": 2010
+    },
+    "Groundhog Day": {
+      "id": 137,
+      "poster": "/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
+      "title": "Groundhog Day",
+      "year": 1993
+    },
+    "Night Swim": {
+      "id": 1072342,
+      "poster": "/gSkfBGdxdialBMM7P02V4hcI6Ij.jpg",
+      "title": "Night Swim",
+      "year": 2024
+    },
+    "Imaginary": {
+      "id": 1125311,
+      "poster": "/bPCxkrCEGJmaYfvdXj0x3mCLbGr.jpg",
+      "title": "Imaginary",
+      "year": 2024
+    },
+    "Argylle": {
+      "id": 848538,
+      "poster": "/siduVKgOnABO4WH4lOwPQwaGwJp.jpg",
+      "title": "Argylle",
+      "year": 2024
+    },
+    "Madame Web": {
+      "id": 634492,
+      "poster": "/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",
+      "title": "Madame Web",
+      "year": 2024
+    },
+    "Anyone but You": {
+      "id": 1072790,
+      "poster": "/5qHoazZiaLe7oFBok7XlUhg96f2.jpg",
+      "title": "Anyone but You",
+      "year": 2023
+    }
+  },
+  "spotifyEpisodeId": "27tpPYZki8Y4jF3zLQFz8T"
+}

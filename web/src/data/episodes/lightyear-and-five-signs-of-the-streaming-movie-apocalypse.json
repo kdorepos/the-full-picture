@@ -1,0 +1,412 @@
+{
+  "slug": "lightyear-and-five-signs-of-the-streaming-movie-apocalypse",
+  "title": "‘Lightyear’ and Five Signs of the Streaming Movie Apocalypse",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2022-06-21",
+  "runtimeMin": 80,
+  "format": "Sean and Amanda review the lone new movie in theaters, then work through a week's worth of films dumped to streaming and what it says about the business.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘Lightyear’",
+      "note": "in theaters",
+      "films": [
+        {
+          "title": "Lightyear",
+          "year": 2022,
+          "note": "The Chris Evans-voiced origin story of the movie Andy loved, not the toy. Sean rates it C-tier Pixar: a boy-centric, time-travel plot too complex and too scary for the four-year-olds it's aimed at. Opened to $51M against a projected $70M. Sox the robot cat rated fun."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Five Signs of the Streaming Movie Apocalypse",
+      "note": "a week of films that skipped theaters",
+      "films": [
+        {
+          "title": "Cha Cha Real Smooth",
+          "year": 2022,
+          "note": "On Apple TV+. Cooper Raiff's follow-up to Shithouse; Apple paid $15M at Sundance. Dakota Johnson as a divorced New Jersey mom. 'Sundance Mad Libs': the Raiff character charms, everyone around him is undercooked. Manohla Dargis used it in the Times to indict indie cinema."
+        },
+        {
+          "title": "Father of the Bride",
+          "year": 2022,
+          "note": "On HBO Max, directed by Gary Alazraki. A Cuban-Mexican remake with Andy Garcia and Gloria Estefan as parents heading for divorce. Amanda will watch every version; both agree the divorce subplot and Chloe Fineman's influencer wedding planner keep it from being funny."
+        },
+        {
+          "title": "Good Luck to You, Leo Grande",
+          "year": 2022,
+          "note": "On Hulu via Searchlight. Emma Thompson as a widow who hires a young sex worker (Daryl McCormack). A two-hander chamber piece, very COVID. Thompson is very good; the ideas get stated rather than argued. A rules change makes her Oscar-ineligible."
+        },
+        {
+          "title": "Fire Island",
+          "year": 2022,
+          "note": "On Hulu. Andrew Ahn directs, Joel Kim Booster writes and stars: a Pride and Prejudice transposed one-for-one onto gay Fire Island. Amanda's favorite of the batch; Sean was taken with Conrad Ricamora as the Darcy. 'A modern spin on an old story,' like Clueless."
+        },
+        {
+          "title": "Mad God",
+          "year": 2022,
+          "note": "On Shudder. Phil Tippett (Star Wars, RoboCop, Jurassic Park) animated it largely alone across 30-plus years. Stop-motion, not for kids: 'Coraline gone to hell.' Sean's pick of the week; explicitly not for Amanda."
+        },
+        {
+          "title": "Jerry and Marge Go Large",
+          "year": 2022,
+          "note": "On Paramount+, directed by David Frankel. Bryan Cranston and Annette Bening as retirees working a lottery loophole. Pleasant, forgettable: Sean's example of two geniuses shelved into 'the cupboard of content.'"
+        },
+        {
+          "title": "Halftime",
+          "year": 2022,
+          "note": "On Netflix. The Jennifer Lopez documentary tracking the Hustlers awards run and Super Bowl prep. A-Rod and Ben Affleck almost entirely excised. Both are riveted by the Golden Globe-loss scene, a rare document of how badly a star wants the award she was denied."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "What's actually working at the box office",
+      "films": [
+        "Top Gun Maverick",
+        "Jurassic World Dominion",
+        "Doctor Strange in the Multiverse of Madness"
+      ]
+    },
+    {
+      "group": "Recent Pixar",
+      "films": [
+        "Turning Red",
+        "Luca",
+        "Soul",
+        "Onward",
+        "Toy Story",
+        "Up"
+      ]
+    },
+    {
+      "group": "Also in the conversation",
+      "films": [
+        "Hustlers",
+        "Spiderhead",
+        "CODA",
+        "Nanny",
+        "Shithouse",
+        "Jojo Rabbit",
+        "The Old Man and the Gun"
+      ]
+    },
+    {
+      "group": "Phil Tippett's résumé",
+      "films": [
+        "Star Wars",
+        "RoboCop",
+        "Jurassic Park",
+        "Rango",
+        "Coraline"
+      ]
+    },
+    {
+      "group": "Talky-movie touchstones",
+      "films": [
+        "Tape",
+        "Who's Afraid of Virginia Woolf?",
+        "Clueless",
+        "The Devil Wears Prada",
+        "Nanny McPhee"
+      ]
+    },
+    {
+      "group": "Odds and ends",
+      "films": [
+        "Father of the Bride Part II",
+        "The Thing",
+        "Cinderella",
+        "The Jungle Book",
+        "Scream",
+        "Jackass Forever",
+        "Elvis",
+        "Walk Hard: The Dewey Cox Story"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Old Man",
+      "Severance",
+      "Game of Thrones"
+    ],
+    "Ads": [
+      "The Dave Chang Show",
+      "Boar's Head",
+      "FIFA World Cup Launch Edition",
+      "American Express Business Platinum",
+      "Lululemon Golf",
+      "Pepsi Zero Sugar"
+    ]
+  },
+  "tmdbOverrides": {
+    "Jerry and Marge Go Large": 843847,
+    "The Old Man and the Gun": 429203,
+    "RoboCop": 5548,
+    "Scream": 646385,
+    "The Jungle Book": 9325,
+    "Cinderella": 11224
+  },
+  "tmdb": {
+    "Lightyear": {
+      "id": 718789,
+      "poster": "/b9t3w1loraDh7hjdWmpc9ZsaYns.jpg",
+      "title": "Lightyear",
+      "year": 2022
+    },
+    "Cha Cha Real Smooth": {
+      "id": 814340,
+      "poster": "/iUvoVhvwTlP8DofoqeIu7QAGLAe.jpg",
+      "title": "Cha Cha Real Smooth",
+      "year": 2022
+    },
+    "Father of the Bride": {
+      "id": 746419,
+      "poster": "/chKMG9tzFqSkj24ejXTio156Qo0.jpg",
+      "title": "Father of the Bride",
+      "year": 2022
+    },
+    "Good Luck to You, Leo Grande": {
+      "id": 758330,
+      "poster": "/dxxOmTq4LgQxiyU4rW53qdj9FoN.jpg",
+      "title": "Good Luck to You, Leo Grande",
+      "year": 2022
+    },
+    "Fire Island": {
+      "id": 846250,
+      "poster": "/2vVUdYoqUX5rK8plxPGERGGjQLI.jpg",
+      "title": "Fire Island",
+      "year": 2022
+    },
+    "Mad God": {
+      "id": 846867,
+      "poster": "/105stT9GkiENXiYqvWYKoAuHKQL.jpg",
+      "title": "Mad God",
+      "year": 2021
+    },
+    "Jerry and Marge Go Large": {
+      "id": 843847,
+      "poster": "/bbBGSm1kjgmZ0O3bPUQIbA0xlKQ.jpg",
+      "title": "Jerry & Marge Go Large",
+      "year": 2022
+    },
+    "Halftime": {
+      "id": 962192,
+      "poster": "/jUVglxBw7KSkcVEhvfJs1eipPnk.jpg",
+      "title": "Halftime",
+      "year": 2022
+    },
+    "Top Gun Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Jurassic World Dominion": {
+      "id": 507086,
+      "poster": "/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg",
+      "title": "Jurassic World Dominion",
+      "year": 2022
+    },
+    "Doctor Strange in the Multiverse of Madness": {
+      "id": 453395,
+      "poster": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "year": 2022
+    },
+    "Turning Red": {
+      "id": 508947,
+      "poster": "/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
+      "title": "Turning Red",
+      "year": 2022
+    },
+    "Luca": {
+      "id": 508943,
+      "poster": "/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg",
+      "title": "Luca",
+      "year": 2021
+    },
+    "Soul": {
+      "id": 508442,
+      "poster": "/6jmppcaubzLF8wkXM36ganVISCo.jpg",
+      "title": "Soul",
+      "year": 2020
+    },
+    "Onward": {
+      "id": 508439,
+      "poster": "/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg",
+      "title": "Onward",
+      "year": 2020
+    },
+    "Toy Story": {
+      "id": 862,
+      "poster": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+      "title": "Toy Story",
+      "year": 1995
+    },
+    "Up": {
+      "id": 14160,
+      "poster": "/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
+      "title": "Up",
+      "year": 2009
+    },
+    "Hustlers": {
+      "id": 540901,
+      "poster": "/zBhv8rsLOfpFW2M5b6wW78Uoojs.jpg",
+      "title": "Hustlers",
+      "year": 2019
+    },
+    "Spiderhead": {
+      "id": 615469,
+      "poster": "/7COPO5B9AOKIB4sEkvNu0wfve3c.jpg",
+      "title": "Spiderhead",
+      "year": 2022
+    },
+    "CODA": {
+      "id": 776503,
+      "poster": "/BzVjmm8l23rPsijLiNLUzuQtyd.jpg",
+      "title": "CODA",
+      "year": 2021
+    },
+    "Nanny": {
+      "id": 843932,
+      "poster": "/mPhXHRudGxsXIQq1WM6oVePkFIp.jpg",
+      "title": "Nanny",
+      "year": 2022
+    },
+    "Shithouse": {
+      "id": 637053,
+      "poster": "/lyOajZgP8Iy3JdVgvaiBv9K5OMH.jpg",
+      "title": "Shithouse",
+      "year": 2020
+    },
+    "Jojo Rabbit": {
+      "id": 515001,
+      "poster": "/1mqL7VG4Ix8wmxwypmCA1HTHBky.jpg",
+      "title": "Jojo Rabbit",
+      "year": 2019
+    },
+    "The Old Man and the Gun": {
+      "id": 429203,
+      "poster": "/a4BfxRK8dBgbQqbRxPs8kmLd8LG.jpg",
+      "title": "The Old Man & the Gun",
+      "year": 2018
+    },
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
+    },
+    "RoboCop": {
+      "id": 5548,
+      "poster": "/esmAU0fCO28FbS6bUBKLAzJrohZ.jpg",
+      "title": "RoboCop",
+      "year": 1987
+    },
+    "Jurassic Park": {
+      "id": 329,
+      "poster": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "title": "Jurassic Park",
+      "year": 1993
+    },
+    "Rango": {
+      "id": 44896,
+      "poster": "/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
+      "title": "Rango",
+      "year": 2011
+    },
+    "Coraline": {
+      "id": 14836,
+      "poster": "/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
+      "title": "Coraline",
+      "year": 2009
+    },
+    "Tape": {
+      "id": 23949,
+      "poster": "/4Flz17KOjGdGqJ2dFRhKnB7eg5.jpg",
+      "title": "Tape",
+      "year": 2001
+    },
+    "Who's Afraid of Virginia Woolf?": {
+      "id": 396,
+      "poster": "/wF7ihB5V5gSm6zxjv3ZhHOpgREI.jpg",
+      "title": "Who's Afraid of Virginia Woolf?",
+      "year": 1966
+    },
+    "Clueless": {
+      "id": 9603,
+      "poster": "/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",
+      "title": "Clueless",
+      "year": 1995
+    },
+    "The Devil Wears Prada": {
+      "id": 350,
+      "poster": "/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+      "title": "The Devil Wears Prada",
+      "year": 2006
+    },
+    "Nanny McPhee": {
+      "id": 11283,
+      "poster": "/8tommndfI0W62teXwSmXdmVZ7gz.jpg",
+      "title": "Nanny McPhee",
+      "year": 2005
+    },
+    "Father of the Bride Part II": {
+      "id": 11862,
+      "poster": "/rj4LBtwQ0uGrpBnCELr716Qo3mw.jpg",
+      "title": "Father of the Bride Part II",
+      "year": 1995
+    },
+    "The Thing": {
+      "id": 1091,
+      "poster": "/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+      "title": "The Thing",
+      "year": 1982
+    },
+    "Cinderella": {
+      "id": 11224,
+      "poster": "/ug3ndicuPM1V07vhVFGLMsd4AZl.jpg",
+      "title": "Cinderella",
+      "year": 1950
+    },
+    "The Jungle Book": {
+      "id": 9325,
+      "poster": "/yN1kuupnPTLUprgfvC5WapgrxG4.jpg",
+      "title": "The Jungle Book",
+      "year": 1967
+    },
+    "Scream": {
+      "id": 646385,
+      "poster": "/nD4M4Bx457ryLuKYpxFwQ2IBJ5w.jpg",
+      "title": "Scream",
+      "year": 2022
+    },
+    "Jackass Forever": {
+      "id": 656663,
+      "poster": "/ruHDFumJfW7F2vEqTZEQQ9xT7CA.jpg",
+      "title": "Jackass Forever",
+      "year": 2022
+    },
+    "Elvis": {
+      "id": 614934,
+      "poster": "/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg",
+      "title": "Elvis",
+      "year": 2022
+    },
+    "Walk Hard: The Dewey Cox Story": {
+      "id": 6575,
+      "poster": "/Aa1IQ4Cuin3d7qIahvPheMmR4E5.jpg",
+      "title": "Walk Hard: The Dewey Cox Story",
+      "year": 2007
+    }
+  }
+}

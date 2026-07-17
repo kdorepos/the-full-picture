@@ -1,0 +1,165 @@
+{
+  "slug": "making-hobbs-and-shaw-the-action-movie-event-of-the-summer-w",
+  "title": "Making ‘Hobbs and Shaw’ the Action Movie Event of the Summer, With David Leitch | Interview",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2019-08-02",
+  "runtimeMin": 39,
+  "format": "Sean Fennessey talks to director David Leitch about building Hobbs & Shaw as a comedy-first summer tentpole, coming up as a stuntman, the John Wick credit the DGA wouldn't give him, and why the Oscars still leave stunt work out.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "David Leitch on stunts, credit, and comedy-forward action",
+      "guest": "David Leitch on",
+      "films": [
+        {
+          "title": "Fast & Furious Presents: Hobbs & Shaw",
+          "year": 2019,
+          "note": "The movie at hand. Leitch pitches it as a comedy-first summer spectacle built on the family-and-emotional-stakes earnestness of the Fast series. It used more stunt performers than anything he'd directed before: a 96-day shoot with roughly 1,600 VFX shots crammed into five months of post."
+        },
+        {
+          "title": "John Wick",
+          "year": 2014,
+          "note": "Co-directed with Chad Stahelski for about $28M, sold on foreign pre-sales via Lionsgate International. The DGA let the pair co-direct and watched them do it on set, then denied Leitch a credit, calling the arrangement unprecedented. He's declined to fight it in court."
+        },
+        {
+          "title": "John Wick: Chapter 2",
+          "year": 2017,
+          "note": "Stahelski stayed on the Wick train for the sequel; Leitch passed to chase Atomic Blonde, the point the two began working solo."
+        },
+        {
+          "title": "John Wick: Chapter 3 – Parabellum",
+          "year": 2019,
+          "note": "Stahelski's; Leitch notes his partner had been on the show a few weeks earlier to discuss it."
+        },
+        {
+          "title": "Atomic Blonde",
+          "year": 2017,
+          "note": "His first solo feature, from the graphic novel The Coldest City. He rewrote it toward 'neon noir' with a heavy music sensibility and calls it still the best filmmaking experience of his life."
+        },
+        {
+          "title": "Deadpool 2",
+          "year": 2018,
+          "note": "The 'beloved franchise comedy' on his resume, proof he could do more than straight action. He was still in post on it when Hobbs & Shaw prep began."
+        },
+        {
+          "title": "Fight Club",
+          "year": 1999,
+          "note": "His early break, doubling for Brad Pitt. Almost no stunt work in it (mostly photo-double bits), but he and the team trained Pitt and Edward Norton in basic fist-fighting for Fincher."
+        },
+        {
+          "title": "Ninja Assassin",
+          "year": 2009,
+          "note": "Cited as the turning point for his second-unit career: a 35-to-40-day all-fights shoot handed to him and Stahelski by the Wachowskis, who they'd long mentored under."
+        },
+        {
+          "title": "Serenity",
+          "year": 2005,
+          "note": "Joss Whedon's film, named as the pair's pioneering 'stunt-vis' job: shooting and cutting their own fight previews to show directors and studios."
+        },
+        {
+          "title": "300",
+          "year": 2007,
+          "note": "One of the credits where their stunt-vis approach became their calling card before it was industry standard."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Touchstones and comparisons",
+      "films": [
+        "The Fast and the Furious",
+        "Lethal Weapon"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Barry",
+      "Game of Thrones",
+      "Buffy the Vampire Slayer",
+      "Baywatch"
+    ],
+    "Video games / unmade": [
+      "The Division"
+    ]
+  },
+  "tmdb": {
+    "Fast & Furious Presents: Hobbs & Shaw": {
+      "id": 384018,
+      "poster": "/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg",
+      "title": "Fast & Furious Presents: Hobbs & Shaw",
+      "year": 2019
+    },
+    "John Wick": {
+      "id": 245891,
+      "poster": "/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
+      "title": "John Wick",
+      "year": 2014
+    },
+    "John Wick: Chapter 2": {
+      "id": 324552,
+      "poster": "/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg",
+      "title": "John Wick: Chapter 2",
+      "year": 2017
+    },
+    "John Wick: Chapter 3 – Parabellum": {
+      "id": 458156,
+      "poster": "/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg",
+      "title": "John Wick: Chapter 3 - Parabellum",
+      "year": 2019
+    },
+    "Atomic Blonde": {
+      "id": 341013,
+      "poster": "/kV9R5h0Yct1kR8Hf8sJ1nX0Vz4x.jpg",
+      "title": "Atomic Blonde",
+      "year": 2017
+    },
+    "Deadpool 2": {
+      "id": 383498,
+      "poster": "/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+      "title": "Deadpool 2",
+      "year": 2018
+    },
+    "Fight Club": {
+      "id": 550,
+      "poster": "/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+      "title": "Fight Club",
+      "year": 1999
+    },
+    "Ninja Assassin": {
+      "id": 22832,
+      "poster": "/ipJ4mgqse6uoTRsDyU3TXmva1rt.jpg",
+      "title": "Ninja Assassin",
+      "year": 2009
+    },
+    "Serenity": {
+      "id": 16320,
+      "poster": "/4sqUOaPFoP2W81mq1UYqZqf5WzA.jpg",
+      "title": "Serenity",
+      "year": 2005
+    },
+    "300": {
+      "id": 1271,
+      "poster": "/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg",
+      "title": "300",
+      "year": 2007
+    },
+    "The Fast and the Furious": {
+      "id": 9799,
+      "poster": "/gqY0ITBgT7A82poL9jv851qdnIb.jpg",
+      "title": "The Fast and the Furious",
+      "year": 2001
+    },
+    "Lethal Weapon": {
+      "id": 941,
+      "poster": "/fTq4ThIP3pQTYR9eDepsbDHqdcs.jpg",
+      "title": "Lethal Weapon",
+      "year": 1987
+    }
+  }
+}

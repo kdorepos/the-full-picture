@@ -1,0 +1,485 @@
+{
+  "slug": "matthew-mcconaughey-career-arc",
+  "title": "Matthew McConaughey | Career Arc",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Rob Harvilla"
+  ],
+  "published": "2019-04-02",
+  "runtimeMin": 50,
+  "format": "Sean Fennessey, Amanda Dobbins, and Rob Harvilla trace the McConaissance: each host's breakthrough, each host's personal pinnacle, the rom-com decade and recent bricks in between, and The Beach Bum as the role truest to him.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Breakthroughs",
+      "note": "where McConaughey arrived",
+      "films": [
+        {
+          "title": "Dazed and Confused",
+          "year": 1993,
+          "note": "Rob's pick. Wooderson, on screen maybe ten minutes: 'I get older, they stay the same age.' Instant stardom, and a charming predator the movie can't bear to make pathetic."
+        },
+        {
+          "title": "A Time to Kill",
+          "year": 1996,
+          "note": "Sean's pick. The first time he's in the center of the frame the whole time, playing modern-day Atticus Finch in a ludicrous Grisham thriller he single-handedly holds up. The five-minute 'now imagine she's white' closing."
+        },
+        {
+          "title": "Magic Mike",
+          "year": 2012,
+          "note": "Amanda's pick. Fully greased up and leaning into the voice, a supporting mentor role where the bongo guy finally clicks into the public consciousness and the McConaissance takes off."
+        },
+        {
+          "title": "Angels in the Outfield",
+          "year": 1994
+        },
+        {
+          "title": "Texas Chainsaw Massacre: The Next Generation",
+          "year": 1995,
+          "note": "Quite bad, per Sean."
+        },
+        {
+          "title": "Boys on the Side",
+          "year": 1995,
+          "note": "A small, very charming role."
+        },
+        {
+          "title": "Lone Star",
+          "year": 1996,
+          "note": "A smaller but crucial part."
+        },
+        {
+          "title": "Amistad",
+          "year": 1997,
+          "note": "Back to the courtroom a year later, another racially complicated only-in-the-'90s movie."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Personal pinnacles",
+      "note": "each host's peak McConaughey (True Detective, Rob's actual pick, is TV)",
+      "films": [
+        {
+          "title": "Killer Joe",
+          "year": 2011,
+          "note": "Sean's pinnacle. A purposefully evil Friedkin/Tracy Letts Texas tale of murder and incest; not his most rewatchable, but the choice that signals him taking chances again."
+        },
+        {
+          "title": "How to Lose a Guy in 10 Days",
+          "year": 2003,
+          "note": "Amanda's pinnacle. The most successful of the rom-coms and a real reference point for the genre after it, even if it's a sour, eggshell-walking rewatch. Rob saw it five days ago."
+        },
+        {
+          "title": "The Lincoln Lawyer",
+          "year": 2011,
+          "note": "The start of the turn in 2011 back toward interesting filmmakers; airport-fiction legal thriller, and exactly his soliloquizer register."
+        },
+        {
+          "title": "Bernie",
+          "year": 2011
+        },
+        {
+          "title": "Mud",
+          "year": 2012
+        },
+        {
+          "title": "The Paperboy",
+          "year": 2012,
+          "note": "A ludicrous, everyone-going-for-it totem of a broken society, per Sean."
+        },
+        {
+          "title": "Tropic Thunder",
+          "year": 2008,
+          "note": "One of his best minor-key comic roles, as the agent, from the fallow period."
+        },
+        {
+          "title": "The Wolf of Wall Street",
+          "year": 2013,
+          "note": "Mark Hanna, the chest-beating 'fugazi' speech that sets the agenda for DiCaprio's Belfort."
+        },
+        {
+          "title": "Dallas Buyers Club",
+          "year": 2013,
+          "note": "The Oscar. None of the three love it; Rob calls it the quintessential I-want-an-Oscar movie, Green Book by other means, a year after Magic Mike."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The rom-com decade and the recent bricks",
+      "note": "the fallow stretch, then the good-on-paper misses",
+      "films": [
+        {
+          "title": "EDtv",
+          "year": 1999
+        },
+        {
+          "title": "U-571",
+          "year": 2000
+        },
+        {
+          "title": "The Wedding Planner",
+          "year": 2001,
+          "note": "Beloved by a certain segment; J.Lo and McConaughey both doing things far from what they do now."
+        },
+        {
+          "title": "Sahara",
+          "year": 2005,
+          "note": "Where, with Two for the Money, things start to go south."
+        },
+        {
+          "title": "Two for the Money",
+          "year": 2005
+        },
+        {
+          "title": "Failure to Launch",
+          "year": 2006,
+          "note": "Amanda's example of the tough 2005-2009 leading-man rom-coms, with Fool's Gold and Ghosts of Girlfriends Past."
+        },
+        {
+          "title": "Fool's Gold",
+          "year": 2008,
+          "note": "A tough 2005-2009 leading-man rom-com, not good."
+        },
+        {
+          "title": "Ghosts of Girlfriends Past",
+          "year": 2009
+        },
+        {
+          "title": "Interstellar",
+          "year": 2014,
+          "note": "A big Nolan hit Sean isn't a fan of."
+        },
+        {
+          "title": "The Sea of Trees",
+          "year": 2015,
+          "note": "A Gus Van Sant debacle set in Japan's suicide forest, later infamous from a Logan Paul video."
+        },
+        {
+          "title": "Free State of Jones",
+          "year": 2016,
+          "note": "A forgotten, similarly white-savior movie."
+        },
+        {
+          "title": "Gold",
+          "year": 2016,
+          "note": "Sean found it kind of interesting; it came and went."
+        },
+        {
+          "title": "The Dark Tower",
+          "year": 2017,
+          "note": "The long-awaited Stephen King adaptation. Terrible."
+        },
+        {
+          "title": "White Boy Rick",
+          "year": 2018
+        },
+        {
+          "title": "Serenity",
+          "year": 2019,
+          "note": "An all-time January curio with Anne Hathaway."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "The Beach Bum",
+      "note": "Harmony Korine, the role truest to him",
+      "films": [
+        {
+          "title": "The Beach Bum",
+          "year": 2019,
+          "note": "A leisurely 90-minute movie about a burnout poet married to a wealthy Miami woman: aspirational hedonism, Wooderson taken to his logical conclusion. Snoop Dogg, Isla Fisher, Zac Efron, Jimmy Buffett, Martin Lawrence, and a scene-stealing Jonah Hill. Rob saw it alone at 9:50 a.m."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "The Pelican Brief",
+        "The Firm",
+        "The Client",
+        "Pretty Woman",
+        "Maid in Manhattan",
+        "My Big Fat Greek Wedding",
+        "Deliver Us from Eva",
+        "A Star Is Born",
+        "Green Book"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "True Detective"
+    ],
+    "Video games": [
+      "Grand Theft Auto: Vice City"
+    ],
+    "Web": [
+      "Logan Paul suicide-forest video"
+    ]
+  },
+  "tmdbOverrides": {
+    "Texas Chainsaw Massacre: The Next Generation": 16780
+  },
+  "tmdb": {
+    "Dazed and Confused": {
+      "id": 9571,
+      "poster": "/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+      "title": "Dazed and Confused",
+      "year": 1993
+    },
+    "A Time to Kill": {
+      "id": 1645,
+      "poster": "/w8UCke112E9jrhjKcwG32kyhTx5.jpg",
+      "title": "A Time to Kill",
+      "year": 1996
+    },
+    "Magic Mike": {
+      "id": 77930,
+      "poster": "/cfRv1INLSSumjvxAqEGOP6b0Aw1.jpg",
+      "title": "Magic Mike",
+      "year": 2012
+    },
+    "Angels in the Outfield": {
+      "id": 24795,
+      "poster": "/7WRt6l7tiXVPG9zLco1rwy5Ffw9.jpg",
+      "title": "Angels in the Outfield",
+      "year": 1994
+    },
+    "Texas Chainsaw Massacre: The Next Generation": {
+      "id": 16780,
+      "poster": "/e1ikqofvLBddrZJ73IjmJWhUYus.jpg",
+      "title": "The Return of the Texas Chainsaw Massacre",
+      "year": 1995
+    },
+    "Boys on the Side": {
+      "id": 9382,
+      "poster": "/2dhZnfBjiza5TupvOupRU4hFAcJ.jpg",
+      "title": "Boys on the Side",
+      "year": 1995
+    },
+    "Lone Star": {
+      "id": 26748,
+      "poster": "/lBxY8znsRoqa9Dy2NCe8I6GPsRm.jpg",
+      "title": "Lone Star",
+      "year": 1996
+    },
+    "Amistad": {
+      "id": 11831,
+      "poster": "/6QqNyIHKow0jngiQgTNBOBrLILM.jpg",
+      "title": "Amistad",
+      "year": 1997
+    },
+    "Killer Joe": {
+      "id": 73567,
+      "poster": "/6Tt1TQeOI4TpXu1cBUgNGNGeznW.jpg",
+      "title": "Killer Joe",
+      "year": 2012
+    },
+    "How to Lose a Guy in 10 Days": {
+      "id": 9919,
+      "poster": "/2dlftyPz7mTYbrsPvTogyFmYd7d.jpg",
+      "title": "How to Lose a Guy in 10 Days",
+      "year": 2003
+    },
+    "The Lincoln Lawyer": {
+      "id": 50348,
+      "poster": "/gOn8Ve9Yi8fxjRkmLr5BZoOc7KV.jpg",
+      "title": "The Lincoln Lawyer",
+      "year": 2011
+    },
+    "Bernie": {
+      "id": 92591,
+      "poster": "/rW5CetooG545jpkPNpD4FjFAXfe.jpg",
+      "title": "Bernie",
+      "year": 2012
+    },
+    "Mud": {
+      "id": 103731,
+      "poster": "/o2jT5jQdKh1HAF0fMKuGwBOwOYB.jpg",
+      "title": "Mud",
+      "year": 2013
+    },
+    "The Paperboy": {
+      "id": 82390,
+      "poster": "/AiALtw5Nl4adb6oO4VndBPo3RkQ.jpg",
+      "title": "The Paperboy",
+      "year": 2012
+    },
+    "Tropic Thunder": {
+      "id": 7446,
+      "poster": "/zAurB9mNxfYRoVrVjAJJwGV3sPg.jpg",
+      "title": "Tropic Thunder",
+      "year": 2008
+    },
+    "The Wolf of Wall Street": {
+      "id": 106646,
+      "poster": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+      "title": "The Wolf of Wall Street",
+      "year": 2013
+    },
+    "Dallas Buyers Club": {
+      "id": 152532,
+      "poster": "/7Fdh7gUq3plvQqxRbNYhWvDABXA.jpg",
+      "title": "Dallas Buyers Club",
+      "year": 2013
+    },
+    "EDtv": {
+      "id": 11374,
+      "poster": "/xnnjoMONNamGU6ZX6acbcxyOKv1.jpg",
+      "title": "EDtv",
+      "year": 1999
+    },
+    "U-571": {
+      "id": 3536,
+      "poster": "/7lc7jXmjQmITnfUBX7nN4kxKKbI.jpg",
+      "title": "U-571",
+      "year": 2000
+    },
+    "The Wedding Planner": {
+      "id": 2018,
+      "poster": "/meq4bLUPcBlOG3Z5YdiWuBMlpO.jpg",
+      "title": "The Wedding Planner",
+      "year": 2001
+    },
+    "Sahara": {
+      "id": 7364,
+      "poster": "/kyY1onYxkKBDlJsheRsVbMaoQEM.jpg",
+      "title": "Sahara",
+      "year": 2005
+    },
+    "Two for the Money": {
+      "id": 9910,
+      "poster": "/5SedPYdGLrp6LX9C2cWXLx38w1D.jpg",
+      "title": "Two for the Money",
+      "year": 2005
+    },
+    "Failure to Launch": {
+      "id": 6877,
+      "poster": "/omReuKQ8ItWYD5pOLmsKh3MF24w.jpg",
+      "title": "Failure to Launch",
+      "year": 2006
+    },
+    "Fool's Gold": {
+      "id": 8676,
+      "poster": "/f4djEBW3nyGRPLTcDlWYyaO43mx.jpg",
+      "title": "Fool's Gold",
+      "year": 2008
+    },
+    "Ghosts of Girlfriends Past": {
+      "id": 12556,
+      "poster": "/azzg0lv5vpQRoOrZfNVkJn04f1M.jpg",
+      "title": "Ghosts of Girlfriends Past",
+      "year": 2009
+    },
+    "Interstellar": {
+      "id": 157336,
+      "poster": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+      "title": "Interstellar",
+      "year": 2014
+    },
+    "The Sea of Trees": {
+      "id": 291351,
+      "poster": "/gmVGIEfzxupZUTer1Z5n80CHFnD.jpg",
+      "title": "The Sea of Trees",
+      "year": 2016
+    },
+    "Free State of Jones": {
+      "id": 316152,
+      "poster": "/fTB6p9QwPRKIuK5LtB5CZXlkx5b.jpg",
+      "title": "Free State of Jones",
+      "year": 2016
+    },
+    "Gold": {
+      "id": 334524,
+      "poster": "/ukMXAdr325Tn1mLGkxdG8Lab16l.jpg",
+      "title": "Gold",
+      "year": 2016
+    },
+    "The Dark Tower": {
+      "id": 353491,
+      "poster": "/i9GUSgddIqrroubiLsvvMRYyRy0.jpg",
+      "title": "The Dark Tower",
+      "year": 2017
+    },
+    "White Boy Rick": {
+      "id": 438808,
+      "poster": "/l15r2aLqdifXM9GFsJLkOq5Y8SI.jpg",
+      "title": "White Boy Rick",
+      "year": 2018
+    },
+    "Serenity": {
+      "id": 452832,
+      "poster": "/hgWAcic93phg4DOuQ8NrsgQWiqu.jpg",
+      "title": "Serenity",
+      "year": 2019
+    },
+    "The Beach Bum": {
+      "id": 441384,
+      "poster": "/iXMxdC7T0t3dxislnUNybcvJmAH.jpg",
+      "title": "The Beach Bum",
+      "year": 2019
+    },
+    "The Pelican Brief": {
+      "id": 9944,
+      "poster": "/7B1HS0SqfJR1jbeHS6V0ZWdzLXP.jpg",
+      "title": "The Pelican Brief",
+      "year": 1993
+    },
+    "The Firm": {
+      "id": 37233,
+      "poster": "/kFexXCzidkm4LwlgZqxsJsDQB5v.jpg",
+      "title": "The Firm",
+      "year": 1993
+    },
+    "The Client": {
+      "id": 10731,
+      "poster": "/oLdkJ4ZjxPtFSUChdjDQvHM9l75.jpg",
+      "title": "The Client",
+      "year": 1994
+    },
+    "Pretty Woman": {
+      "id": 114,
+      "poster": "/hVHUfT801LQATGd26VPzhorIYza.jpg",
+      "title": "Pretty Woman",
+      "year": 1990
+    },
+    "Maid in Manhattan": {
+      "id": 7303,
+      "poster": "/gnEuTYH3jhHxl80QyoPfZjEYd0J.jpg",
+      "title": "Maid in Manhattan",
+      "year": 2002
+    },
+    "My Big Fat Greek Wedding": {
+      "id": 8346,
+      "poster": "/ztc05ym0T3stnBpRHdxEs3Zwsmp.jpg",
+      "title": "My Big Fat Greek Wedding",
+      "year": 2002
+    },
+    "Deliver Us from Eva": {
+      "id": 26454,
+      "poster": "/mkCC7wOJ0C1gfEt44ca25x8xTdL.jpg",
+      "title": "Deliver Us from Eva",
+      "year": 2003
+    },
+    "A Star Is Born": {
+      "id": 332562,
+      "poster": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "title": "A Star Is Born",
+      "year": 2018
+    },
+    "Green Book": {
+      "id": 490132,
+      "poster": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+      "title": "Green Book",
+      "year": 2018
+    }
+  }
+}

@@ -29,7 +29,7 @@
         {
           "title": "The Banshees of Inisherin",
           "year": 2022,
-          "note": "Locked in — PGA, SAG ensemble, and DGA."
+          "note": "Locked in: PGA, SAG ensemble, and DGA."
         },
         {
           "title": "The Fabelmans",
@@ -49,7 +49,7 @@
         {
           "title": "Avatar: The Way of Water",
           "year": 2022,
-          "note": "Box-office titan on the PGA list, absent from SAG ensemble."
+          "note": "Highest-grossing film on the PGA list, absent from SAG ensemble."
         },
         {
           "title": "Elvis",
@@ -72,12 +72,12 @@
         {
           "title": "Women Talking",
           "year": 2022,
-          "note": "Barely holding on — SAG ensemble but no individual nods for Jessie Buckley or Claire Foy."
+          "note": "Barely holding on: SAG ensemble but no individual nods for Jessie Buckley or Claire Foy."
         },
         {
           "title": "The Woman King",
           "year": 2022,
-          "note": "No PGA, no SAG ensemble; probably finished."
+          "note": "Missed both PGA and SAG ensemble; probably finished."
         },
         {
           "title": "Aftersun",
@@ -97,7 +97,7 @@
         {
           "title": "Hustle",
           "year": 2022,
-          "note": "Adam Sandler nominated at SAG — and campaigning happily."
+          "note": "Adam Sandler nominated at SAG, and campaigning happily."
         },
         {
           "title": "The Menu",
@@ -124,7 +124,7 @@
         {
           "title": "The Good Son",
           "year": 1993,
-          "note": "Sean's main comp — Macaulay Culkin as an evil kid, camp played under a straight face; written by Ian McEwan, directed by Joseph Ruben."
+          "note": "Sean's main comp: Macaulay Culkin as an evil kid, camp played under a straight face; written by Ian McEwan, directed by Joseph Ruben."
         },
         {
           "title": "Child's Play",
@@ -154,7 +154,7 @@
         {
           "title": "Get Out",
           "year": 2017,
-          "note": "Allison Williams's other great commit-to-the-bit performance."
+          "note": "Allison Williams's other commit-to-the-bit performance."
         }
       ]
     }
@@ -254,6 +254,13 @@
       "Furby",
       "American Girl dolls"
     ]
+  },
+  "tmdbOverrides": {
+    "Magic": 34193,
+    "Dolls": 24341,
+    "The Stepfather": 25155,
+    "The Bad Seed": 42196,
+    "Village of the Damned": 11773
   },
   "tmdb": {
     "Tár": {
@@ -611,22 +618,22 @@
       "year": 1990
     },
     "The Bad Seed": {
-      "id": 532814,
-      "poster": "/1m10QitDjpbZgFP1syXgVOv2pH7.jpg",
+      "id": 42196,
+      "poster": "/iAgSkpZslQ2s3onL9TaHbyWygtC.jpg",
       "title": "The Bad Seed",
-      "year": 2018
+      "year": 1956
     },
     "Village of the Damned": {
-      "id": 12122,
-      "poster": "/zPn5oNDdZSB6QLHjtMIoa0WINT4.jpg",
+      "id": 11773,
+      "poster": "/qcpXud1UjQzlSe9A062w8Wqgira.jpg",
       "title": "Village of the Damned",
-      "year": 1995
+      "year": 1960
     },
     "Magic": {
-      "id": 1104289,
-      "poster": "/iCXNIQC16aDD6NnHl5uptOoMWC1.jpg",
+      "id": 34193,
+      "poster": "/edxr6rPbpLh1V6dTiMIiyHNKRi9.jpg",
       "title": "Magic",
-      "year": 2020
+      "year": 1978
     },
     "Deadly Friend": {
       "id": 33278,
@@ -635,10 +642,10 @@
       "year": 1986
     },
     "Dolls": {
-      "id": 870,
-      "poster": "/vQ9XBpH88jvO3hpHt9Zm5IHe5NP.jpg",
+      "id": 24341,
+      "poster": "/yEE9Ly5r9o2XR35wKiIlkLfvnx6.jpg",
       "title": "Dolls",
-      "year": 2002
+      "year": 1987
     },
     "Sleeping with the Enemy": {
       "id": 7442,
@@ -647,10 +654,10 @@
       "year": 1991
     },
     "The Stepfather": {
-      "id": 19904,
-      "poster": "/bTolBUgHeU4Tcq8HjBxL92f9wLm.jpg",
+      "id": 25155,
+      "poster": "/r5CKg3VJQjYvSWTRojK2tE7LpM0.jpg",
       "title": "The Stepfather",
-      "year": 2009
+      "year": 1987
     },
     "Home Alone": {
       "id": 771,

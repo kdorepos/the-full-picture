@@ -1,0 +1,396 @@
+{
+  "slug": "movie-theaters-are-closed-when-they-reopen-will-the-movies-f",
+  "title": "Movie Theaters Are Closed. When They Reopen, Will the Movies Follow?",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2020-03-17",
+  "runtimeMin": 65,
+  "format": "Recorded in the first weekend of COVID lockdown, as AMC and Alamo Drafthouse go dark and Universal drops three movies to $19.99 VOD.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The Theatrical Shutdown",
+      "note": "the weekend theaters started closing",
+      "films": [
+        {
+          "title": "Vampires",
+          "year": 1998,
+          "note": "John Carpenter's; the last time a weekend was this low was 1998, when it led with $55M."
+        },
+        {
+          "title": "Lost Girls",
+          "year": 2020,
+          "note": "No. 2 on Netflix's top 10 and, per Sean, watched by no one he knows."
+        },
+        {
+          "title": "Never Rarely Sometimes Always",
+          "year": 2020,
+          "note": "Eliza Hittman's Sundance film opened to $18,000; the small-movie casualty they both mourn."
+        },
+        {
+          "title": "Onward",
+          "year": 2020,
+          "note": "No. 1 at $10M with the biggest second-week drop in Pixar history."
+        },
+        {
+          "title": "I Still Believe",
+          "year": 2020,
+          "note": "The Christian melodrama that still pulled $9.5M — the only thing stronger than coronavirus."
+        },
+        {
+          "title": "Bloodshot",
+          "year": 2020,
+          "note": "Vin Diesel comic-book movie at $9.3M, one of the century's worst comic-book openings."
+        },
+        {
+          "title": "The Invisible Man",
+          "year": 2020,
+          "note": "Already a hit and near the end of its run; the savviest of Universal's three VOD moves."
+        },
+        {
+          "title": "The Hunt",
+          "year": 2020,
+          "note": "The cursed satire; releasing it online is smart precisely because it's steeped in discourse."
+        },
+        {
+          "title": "Emma",
+          "year": 2020,
+          "note": "Was supposed to widen to a thousand theaters this weekend; instead goes to VOD."
+        },
+        {
+          "title": "Frozen II",
+          "year": 2019,
+          "note": "Added to Disney+ three months early — a salve for parents locked in at home."
+        },
+        {
+          "title": "Mulan",
+          "year": 2020,
+          "note": "A senior Disney exec told the NYT a Disney+ pivot wasn't under discussion, citing piracy; days later, delayed."
+        },
+        {
+          "title": "Star Wars: The Rise of Skywalker",
+          "year": 2019,
+          "note": "Pushed to iTunes early; Sean won't be rewatching."
+        },
+        {
+          "title": "No Time to Die",
+          "year": 2021,
+          "note": "The Broccoli family got ahead of the curve with a November date; too big to ever price at $19.99."
+        },
+        {
+          "title": "Trolls World Tour",
+          "year": 2020,
+          "note": "Day-and-date theaters + all platforms on April 10; floated as the first big-picture live Zoom watch."
+        },
+        {
+          "title": "F9",
+          "year": 2021,
+          "note": "Universal moved Fast 9 to next spring for room to restart its marketing."
+        },
+        {
+          "title": "Black Widow",
+          "year": 2021,
+          "note": "The one everyone asks about; six weeks out and the most consequential release left on the calendar."
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "heading": "One Movie We'd Take Straight to VOD",
+      "note": "one host, one pick — big tentpoles excepted",
+      "picks": [
+        {
+          "title": "Death on the Nile",
+          "year": 2022,
+          "by": "Amanda Dobbins",
+          "note": "Kenneth Branagh's second Agatha Christie; she doesn't care about the timeline, just release it."
+        },
+        {
+          "title": "The Many Saints of Newark",
+          "year": 2021,
+          "by": "Sean Fennessey",
+          "note": "The Sopranos prequel — functionally a TV show, so he's happy to watch it at home."
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "heading": "What We're Watching at Home",
+      "note": "comfort viewing under quarantine",
+      "picks": [
+        {
+          "title": "Under the Tuscan Sun",
+          "year": 2003,
+          "by": "Amanda Dobbins",
+          "note": "Her group-chat live-watch pick; strange enough to text about, not good enough to require silence."
+        },
+        {
+          "title": "The American President",
+          "year": 1995,
+          "by": "Amanda Dobbins",
+          "note": "Reiner-directed, Sorkin-written West Wing dry run and an underrated '90s rom-com."
+        },
+        {
+          "title": "Magic",
+          "year": 1978,
+          "by": "Sean Fennessey",
+          "note": "William Goldman's ventriloquist horror with Anthony Hopkins; an extended Twilight Zone episode."
+        },
+        {
+          "title": "Fail Safe",
+          "year": 1964,
+          "by": "Sean Fennessey",
+          "note": "The most intense movie ever made — every shot under some man's nose in a war room."
+        },
+        {
+          "title": "All the President's Men",
+          "year": 1976,
+          "by": "Sean Fennessey",
+          "note": "People in a room solving problems and yelling; Goldman comfort food."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "The Irishman",
+        "Marriage Story",
+        "Roma",
+        "Spenser Confidential",
+        "Ted 2",
+        "Gandhi",
+        "Transformers",
+        "Murder on the Orient Express",
+        "El Camino: A Breaking Bad Movie",
+        "VFW",
+        "Slay the Dragon"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Sopranos",
+      "Breaking Bad",
+      "The West Wing",
+      "The Newsroom",
+      "The Falcon and the Winter Soldier",
+      "Lego Masters",
+      "Poirot"
+    ],
+    "Ads": [
+      "Music Exists"
+    ]
+  },
+  "tmdb": {
+    "Vampires": {
+      "id": 9945,
+      "poster": "/4JhaFBPwyC5IM1rKaRR07Gzutse.jpg",
+      "title": "Vampires",
+      "year": 1998
+    },
+    "Lost Girls": {
+      "id": 567970,
+      "poster": "/pDas4DwURlRzjD9xEhSdtkcl1ZV.jpg",
+      "title": "Lost Girls",
+      "year": 2020
+    },
+    "Never Rarely Sometimes Always": {
+      "id": 595671,
+      "poster": "/7yiSyQhhjTFphhfCUcn05tCQxyG.jpg",
+      "title": "Never Rarely Sometimes Always",
+      "year": 2020
+    },
+    "Onward": {
+      "id": 508439,
+      "poster": "/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg",
+      "title": "Onward",
+      "year": 2020
+    },
+    "I Still Believe": {
+      "id": 585244,
+      "poster": "/dqA2FCzz4OMmXLitKopzf476RVB.jpg",
+      "title": "I Still Believe",
+      "year": 2020
+    },
+    "Bloodshot": {
+      "id": 338762,
+      "poster": "/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg",
+      "title": "Bloodshot",
+      "year": 2020
+    },
+    "The Invisible Man": {
+      "id": 570670,
+      "poster": "/5EufsDwXdY2CVttYOk2WtYhgKpa.jpg",
+      "title": "The Invisible Man",
+      "year": 2020
+    },
+    "The Hunt": {
+      "id": 514847,
+      "poster": "/wxPhn4ef1EAo5njxwBkAEVrlJJG.jpg",
+      "title": "The Hunt",
+      "year": 2020
+    },
+    "Emma": {
+      "id": 556678,
+      "poster": "/uHpHzbHLSsVmAuuGuQSpyVDZmDc.jpg",
+      "title": "Emma.",
+      "year": 2020
+    },
+    "Frozen II": {
+      "id": 330457,
+      "poster": "/mINJaa34MtknCYl5AjtNJzWj8cD.jpg",
+      "title": "Frozen II",
+      "year": 2019
+    },
+    "Mulan": {
+      "id": 337401,
+      "poster": "/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg",
+      "title": "Mulan",
+      "year": 2020
+    },
+    "Star Wars: The Rise of Skywalker": {
+      "id": 181812,
+      "poster": "/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+      "title": "Star Wars: The Rise of Skywalker",
+      "year": 2019
+    },
+    "No Time to Die": {
+      "id": 370172,
+      "poster": "/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+      "title": "No Time to Die",
+      "year": 2021
+    },
+    "Trolls World Tour": {
+      "id": 446893,
+      "poster": "/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg",
+      "title": "Trolls World Tour",
+      "year": 2020
+    },
+    "F9": {
+      "id": 385128,
+      "poster": "/deEmLILTPejEb6OGsXRJ5MCvyDW.jpg",
+      "title": "F9",
+      "year": 2021
+    },
+    "Black Widow": {
+      "id": 497698,
+      "poster": "/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+      "title": "Black Widow",
+      "year": 2021
+    },
+    "Death on the Nile": {
+      "id": 505026,
+      "poster": "/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",
+      "title": "Death on the Nile",
+      "year": 2022
+    },
+    "The Many Saints of Newark": {
+      "id": 524369,
+      "poster": "/1UkbPQspPbq1FPbFP4VV1ELCfSN.jpg",
+      "title": "The Many Saints of Newark",
+      "year": 2021
+    },
+    "Under the Tuscan Sun": {
+      "id": 10934,
+      "poster": "/3vQUQwdtfPt1Sl2GZrIECWWA0dk.jpg",
+      "title": "Under the Tuscan Sun",
+      "year": 2003
+    },
+    "The American President": {
+      "id": 9087,
+      "poster": "/yObOAYFIHXHkFPQ3jhgkN2ezaD.jpg",
+      "title": "The American President",
+      "year": 1995
+    },
+    "Magic": {
+      "id": 34193,
+      "poster": "/edxr6rPbpLh1V6dTiMIiyHNKRi9.jpg",
+      "title": "Magic",
+      "year": 1978
+    },
+    "Fail Safe": {
+      "id": 502,
+      "poster": "/qrsj5hort5xkLOKw9NyraGMnlVP.jpg",
+      "title": "Fail Safe",
+      "year": 1964
+    },
+    "All the President's Men": {
+      "id": 891,
+      "poster": "/pCe6lfLxt1B58zPD4lgQrlnDS2j.jpg",
+      "title": "All the President's Men",
+      "year": 1976
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Marriage Story": {
+      "id": 492188,
+      "poster": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+      "title": "Marriage Story",
+      "year": 2019
+    },
+    "Roma": {
+      "id": 426426,
+      "poster": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+      "title": "Roma",
+      "year": 2018
+    },
+    "Spenser Confidential": {
+      "id": 581600,
+      "poster": "/fePczipv6ZzDO2uoww4vTAu2Sq3.jpg",
+      "title": "Spenser Confidential",
+      "year": 2020
+    },
+    "Ted 2": {
+      "id": 214756,
+      "poster": "/38C91I7Xft0gyY7BITm8i4yvuRb.jpg",
+      "title": "Ted 2",
+      "year": 2015
+    },
+    "Gandhi": {
+      "id": 783,
+      "poster": "/rOXftt7SluxskrFrvU7qFJa5zeN.jpg",
+      "title": "Gandhi",
+      "year": 1982
+    },
+    "Transformers": {
+      "id": 1858,
+      "poster": "/4N4sipl8T72tNE4earcctQa2Kw2.jpg",
+      "title": "Transformers",
+      "year": 2007
+    },
+    "Murder on the Orient Express": {
+      "id": 392044,
+      "poster": "/7GtdJU6iAg6fjQu3E3zta3bIAQh.jpg",
+      "title": "Murder on the Orient Express",
+      "year": 2017
+    },
+    "El Camino: A Breaking Bad Movie": {
+      "id": 559969,
+      "poster": "/ePXuKdXZuJx8hHMNr2yM4jY2L7Z.jpg",
+      "title": "El Camino: A Breaking Bad Movie",
+      "year": 2019
+    },
+    "VFW": {
+      "id": 624779,
+      "poster": "/AnVD7Gn14uOTQhcc5xYZGQ9DRvS.jpg",
+      "title": "VFW",
+      "year": 2019
+    },
+    "Slay the Dragon": {
+      "id": 598492,
+      "poster": "/jUipeTbl9uKc2g188quxUR5DNjz.jpg",
+      "title": "Slay the Dragon",
+      "year": 2019
+    }
+  }
+}

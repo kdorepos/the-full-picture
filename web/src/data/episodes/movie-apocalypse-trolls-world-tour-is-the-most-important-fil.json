@@ -1,0 +1,319 @@
+{
+  "slug": "movie-apocalypse-trolls-world-tour-is-the-most-important-fil",
+  "title": "Movie Apocalypse: 'Trolls World Tour' Is the Most Important Film of 2020 | The Big Picture",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2020-04-14",
+  "runtimeMin": 66,
+  "format": "Sean Fennessey and Amanda Dobbins on Universal dumping Trolls World Tour straight to $19.99 rental instead of theaters, then bring in Rob Harvilla to work out why a kids' movie is secretly a fight about rockism.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The movie apocalypse",
+      "note": "Sean Fennessey and Amanda Dobbins on the first blockbuster to skip theaters",
+      "films": [
+        {
+          "title": "Trolls World Tour",
+          "year": 2020,
+          "note": "The first movie planned for a wide theatrical release that Universal sent straight to $19.99 home rental during the shutdown. Roughly $90M to make plus $30M in marketing, per Deadline. Universal told the trades it out-rented the digital opening day of Jurassic World: Fallen Kingdom tenfold; Sean and Amanda note the only source for that number is Universal, and doubt the release model survives past this one strange moment."
+        },
+        {
+          "title": "Trolls",
+          "year": 2016,
+          "note": "The 2016 original, which both hosts watched for the first time this week (a jukebox musical their colleague Jason Gallagher warned is a parent's nightmare by the 30th 6:30 a.m. rewatch). Its actual lesson, they decide, is that drugs are bad: the Bergens eat trolls to feel happy until they learn happiness comes from within."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Into the trolls",
+      "note": "Rob Harvilla on a kids' movie about music criticism",
+      "guest": "Rob Harvilla on",
+      "films": [
+        {
+          "title": "Almost Famous",
+          "year": 2000,
+          "note": "Harvilla's No. 1 among movies explicitly about rock criticism, with Trolls World Tour landing a distant third behind it. Poppy's pop trolls versus Rachel Bloom's Queen Barb and her hard-rock crusade is, he argues, a straight dramatization of the rockism-vs-poptimism debate Kelefa Sanneh took mainstream in the mid-2000s."
+        },
+        {
+          "title": "High Fidelity",
+          "year": 2000,
+          "note": "His No. 2, which he admits he still relates to too closely: ahead of Trolls World Tour, it's the only movie he's watched that's theoretically about his own job, and one he hopes is the last."
+        },
+        {
+          "title": "Rock Dog",
+          "year": 2016,
+          "note": "The one about a Tibetan-monastery guard dog groomed to fight wolves who instead wants an AC/DC-type band, and eventually repels the wolves with rock. Harvilla's Exhibit A for the strange genre of kids' movies that weaponize music history at his children."
+        },
+        {
+          "title": "Hotel Transylvania 3: Summer Vacation",
+          "year": 2018,
+          "note": "Where Adam Sandler's vampire clan defeats a sea monster by DJ-ing, settling on the Macarena: Harvilla's other chewing-ice-in-the-dark low point, and a warning about earworms getting implanted in kids for months."
+        },
+        {
+          "title": "Sing",
+          "year": 2016,
+          "note": "A Christmas Eve karaoke-competition movie that sent his kids into a months-long Baby Got Back loop, his shorthand for how these films regurgitate pop music at children."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Release-strategy talk",
+      "films": [
+        "The Hunt",
+        "Jurassic World: Fallen Kingdom",
+        "Avengers: Endgame",
+        "Soul",
+        "Onward"
+      ]
+    },
+    {
+      "group": "Quarantine watchlist",
+      "films": [
+        "Tangled",
+        "Spaceballs",
+        "Short Circuit",
+        "The Goonies",
+        "Frozen II",
+        "Moana",
+        "The Lego Movie 2: The Second Part",
+        "Sonic the Hedgehog"
+      ]
+    },
+    {
+      "group": "The screenwriters' résumé",
+      "films": [
+        "Monsters vs. Aliens",
+        "Diary of a Wimpy Kid",
+        "A Dog's Purpose",
+        "A Dog's Journey",
+        "The French Dispatch",
+        "Kung Fu Panda"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Dolittle",
+        "Central Intelligence",
+        "San Andreas",
+        "Charlie's Angels"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "The French Dispatch": 542178,
+    "Moana": 277834
+  },
+  "excluded": {
+    "TV": [
+      "Stranger Things",
+      "Trolls: The Beat Goes On",
+      "Top Chef",
+      "Jessica Jones",
+      "Westworld",
+      "SpongeBob SquarePants",
+      "The Wire"
+    ],
+    "Stage": [
+      "Hamilton"
+    ],
+    "Video games": [
+      "Minecraft",
+      "Super Mario"
+    ],
+    "Ads": [
+      "World Central Kitchen",
+      "Spotify",
+      "The Wire: Way Down in the Hole (Ringer podcast)"
+    ]
+  },
+  "tmdb": {
+    "Trolls World Tour": {
+      "id": 446893,
+      "poster": "/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg",
+      "title": "Trolls World Tour",
+      "year": 2020
+    },
+    "Trolls": {
+      "id": 136799,
+      "poster": "/9VlK2j0THZWzhQPq0W3Oc0IIdBB.jpg",
+      "title": "Trolls",
+      "year": 2016
+    },
+    "Almost Famous": {
+      "id": 786,
+      "poster": "/3rrkyLYbgLj84AYvjhdcJot4JPx.jpg",
+      "title": "Almost Famous",
+      "year": 2000
+    },
+    "High Fidelity": {
+      "id": 243,
+      "poster": "/e2LZGB62GMhv3Fo8tDZjY87I81a.jpg",
+      "title": "High Fidelity",
+      "year": 2000
+    },
+    "Rock Dog": {
+      "id": 333667,
+      "poster": "/7RXi2afiNJGU8EB79SD8HYoSz4O.jpg",
+      "title": "Rock Dog",
+      "year": 2016
+    },
+    "Hotel Transylvania 3: Summer Vacation": {
+      "id": 400155,
+      "poster": "/lzE5BwGQea1nek7TPXUuC5AZ6rq.jpg",
+      "title": "Hotel Transylvania 3: Summer Vacation",
+      "year": 2018
+    },
+    "Sing": {
+      "id": 335797,
+      "poster": "/rwopfpHqPCYBSgBuZwkaXXqHp14.jpg",
+      "title": "Sing",
+      "year": 2016
+    },
+    "The Hunt": {
+      "id": 514847,
+      "poster": "/wxPhn4ef1EAo5njxwBkAEVrlJJG.jpg",
+      "title": "The Hunt",
+      "year": 2020
+    },
+    "Jurassic World: Fallen Kingdom": {
+      "id": 351286,
+      "poster": "/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg",
+      "title": "Jurassic World: Fallen Kingdom",
+      "year": 2018
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Soul": {
+      "id": 508442,
+      "poster": "/6jmppcaubzLF8wkXM36ganVISCo.jpg",
+      "title": "Soul",
+      "year": 2020
+    },
+    "Onward": {
+      "id": 508439,
+      "poster": "/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg",
+      "title": "Onward",
+      "year": 2020
+    },
+    "Tangled": {
+      "id": 38757,
+      "poster": "/ym7Kst6a4uodryxqbGOxmewF235.jpg",
+      "title": "Tangled",
+      "year": 2010
+    },
+    "Spaceballs": {
+      "id": 957,
+      "poster": "/aHNeKtkNnyQcietzi2cgiYL8sC9.jpg",
+      "title": "Spaceballs",
+      "year": 1987
+    },
+    "Short Circuit": {
+      "id": 2605,
+      "poster": "/e3eimdUK6lLe0iaSlLrYVQF3yeL.jpg",
+      "title": "Short Circuit",
+      "year": 1986
+    },
+    "The Goonies": {
+      "id": 9340,
+      "poster": "/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
+      "title": "The Goonies",
+      "year": 1985
+    },
+    "Frozen II": {
+      "id": 330457,
+      "poster": "/mINJaa34MtknCYl5AjtNJzWj8cD.jpg",
+      "title": "Frozen II",
+      "year": 2019
+    },
+    "Moana": {
+      "id": 277834,
+      "poster": "/m5MDZOIFEFlxGiLuAzWzFSsWcye.jpg",
+      "title": "Moana",
+      "year": 2016
+    },
+    "The Lego Movie 2: The Second Part": {
+      "id": 280217,
+      "poster": "/QTESAsBVZwjtGJNDP7utiGV37z.jpg",
+      "title": "The Lego Movie 2: The Second Part",
+      "year": 2019
+    },
+    "Sonic the Hedgehog": {
+      "id": 454626,
+      "poster": "/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+      "title": "Sonic the Hedgehog",
+      "year": 2020
+    },
+    "Monsters vs. Aliens": {
+      "id": 15512,
+      "poster": "/hpHarddVj34j53T7NsoUGdKj4mP.jpg",
+      "title": "Monsters vs Aliens",
+      "year": 2009
+    },
+    "Diary of a Wimpy Kid": {
+      "id": 33217,
+      "poster": "/iLAGiPnSuODt9cn332bkFElrRig.jpg",
+      "title": "Diary of a Wimpy Kid",
+      "year": 2010
+    },
+    "A Dog's Purpose": {
+      "id": 381289,
+      "poster": "/3jcNvhtVQe5Neoffdic39fRactM.jpg",
+      "title": "A Dog's Purpose",
+      "year": 2017
+    },
+    "A Dog's Journey": {
+      "id": 522518,
+      "poster": "/wquJChp0NpoqthYdE3YjXNNxvVC.jpg",
+      "title": "A Dog's Journey",
+      "year": 2019
+    },
+    "The French Dispatch": {
+      "id": 542178,
+      "poster": "/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg",
+      "title": "The French Dispatch of the Liberty, Kansas Evening Sun",
+      "year": 2021
+    },
+    "Kung Fu Panda": {
+      "id": 9502,
+      "poster": "/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg",
+      "title": "Kung Fu Panda",
+      "year": 2008
+    },
+    "Dolittle": {
+      "id": 448119,
+      "poster": "/3Nt3v1uzUgfSuVARD1AnI9g9Zl9.jpg",
+      "title": "Dolittle",
+      "year": 2020
+    },
+    "Central Intelligence": {
+      "id": 302699,
+      "poster": "/hXQVMbRNpf7c93e8clMY4W5DRm6.jpg",
+      "title": "Central Intelligence",
+      "year": 2016
+    },
+    "San Andreas": {
+      "id": 254128,
+      "poster": "/2Gfjn962aaFSD6eST6QU3oLDZTo.jpg",
+      "title": "San Andreas",
+      "year": 2015
+    },
+    "Charlie's Angels": {
+      "id": 4327,
+      "poster": "/iHTmZs0BmkwMCYi8rhvMWC5G4EM.jpg",
+      "title": "Charlie's Angels",
+      "year": 2000
+    }
+  }
+}

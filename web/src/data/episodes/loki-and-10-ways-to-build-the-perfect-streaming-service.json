@@ -1,0 +1,405 @@
+{
+  "slug": "loki-and-10-ways-to-build-the-perfect-streaming-service",
+  "title": "‘Loki’ and 10 Ways to Build the Perfect Streaming Service",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2021-06-15",
+  "runtimeMin": 84,
+  "format": "Fennessey and Dobbins talk streaming economics: In the Heights' box office, the Infinite dump, and Loki. Then each draft ten pieces to build a fantasy streaming service from scratch.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Remembering Ned Beatty",
+      "note": "1937-2021",
+      "films": [
+        {
+          "title": "Network",
+          "year": 1976,
+          "note": "His one Oscar-nominated turn: the 'primal forces of nature' speech."
+        },
+        {
+          "title": "All the President's Men",
+          "year": 1976,
+          "note": "Dobbins' pick: the Miami investigator Carl Bernstein cons his way past."
+        },
+        {
+          "title": "Deliverance",
+          "year": 1972
+        },
+        {
+          "title": "Nashville",
+          "year": 1975
+        },
+        {
+          "title": "Superman",
+          "year": 1978
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The content spiral",
+      "note": "box office, streaming, and doing the homework",
+      "films": [
+        {
+          "title": "In the Heights",
+          "year": 2021,
+          "note": "Its $11.4M opening on HBO Max as the test case for a non-IP musical released day-and-date."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "‘Infinite’",
+      "note": "Paramount+ franchise starter",
+      "films": [
+        {
+          "title": "Infinite",
+          "year": 2021,
+          "note": "Antoine Fuqua's Mark Wahlberg vehicle, moved from theaters to Paramount+. Fennessey bailed; Dobbins watched 30 minutes."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Building the perfect streaming service",
+      "note": "ten picks each: libraries, IP, stars, deals",
+      "films": [
+        {
+          "title": "Mission: Impossible",
+          "year": 1996,
+          "note": "Both hosts' one-IP pick: endless spy shows and prequels, with Emily Blunt inheriting Ethan Hunt."
+        },
+        {
+          "title": "The Lighthouse",
+          "year": 2019,
+          "note": "What Fennessey wants out of an A24 output deal, the 8,000-pound prop included."
+        },
+        {
+          "title": "Little Women",
+          "year": 2019,
+          "note": "Cited as proof Greta Gerwig can open a hit."
+        },
+        {
+          "title": "Judas and the Black Messiah",
+          "year": 2021,
+          "note": "Fennessey's case for Ryan Coogler as producer and talent scout."
+        },
+        {
+          "title": "American Factory",
+          "year": 2019,
+          "note": "Fennessey's reason for the Participant output deal."
+        },
+        {
+          "title": "RBG",
+          "year": 2018,
+          "note": "The other Participant title, a hit he liked less."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Warner Bros. library name-drops",
+      "films": [
+        "Casablanca",
+        "Ocean's Eleven",
+        "You've Got Mail",
+        "A Star Is Born",
+        "Michael Clayton",
+        "Before Sunrise",
+        "Before Sunset"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Godzilla vs. Kong",
+        "Tom & Jerry",
+        "The Conjuring: The Devil Made Me Do It",
+        "A Quiet Place Part II",
+        "Hamilton",
+        "The Greatest Showman",
+        "Cruella",
+        "The Fortune",
+        "Bird Box",
+        "Wonder Woman 1984",
+        "Black Widow",
+        "Eternals",
+        "Avengers: Endgame",
+        "The Avengers",
+        "Once Upon a Time in Hollywood",
+        "Return of the Jedi",
+        "Star Wars: The Last Jedi"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Tom & Jerry": 587807
+  },
+  "excluded": {
+    "TV": [
+      "Loki",
+      "The Mandalorian",
+      "What If...?",
+      "Lost",
+      "ER",
+      "Breaking Bad",
+      "Friends",
+      "The Office",
+      "Game of Thrones",
+      "The Sopranos",
+      "Sex and the City",
+      "Mayor of Easttown",
+      "Bridgerton",
+      "Grey's Anatomy",
+      "The Queen's Gambit",
+      "Godless",
+      "Real Housewives",
+      "The Real World",
+      "The Challenge",
+      "Selling Sunset",
+      "The Circle",
+      "Floor Is Lava",
+      "The Great British Bake Off",
+      "Jeopardy!",
+      "Friends Reunion",
+      "Hype House"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "Colgate Optic White",
+      "White Claw",
+      "American Express Business Platinum",
+      "NOS Energy"
+    ]
+  },
+  "tmdb": {
+    "Network": {
+      "id": 10774,
+      "poster": "/qZomlHsaALUtkFeMDwdYmwS2Pbo.jpg",
+      "title": "Network",
+      "year": 1976
+    },
+    "All the President's Men": {
+      "id": 891,
+      "poster": "/pCe6lfLxt1B58zPD4lgQrlnDS2j.jpg",
+      "title": "All the President's Men",
+      "year": 1976
+    },
+    "Deliverance": {
+      "id": 10669,
+      "poster": "/2TrAzNJlHyNYYSkQf6asg3rs2Xr.jpg",
+      "title": "Deliverance",
+      "year": 1972
+    },
+    "Nashville": {
+      "id": 3121,
+      "poster": "/twl4ovyjb8muFKvZmcCDzPR0hy1.jpg",
+      "title": "Nashville",
+      "year": 1975
+    },
+    "Superman": {
+      "id": 1924,
+      "poster": "/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
+      "title": "Superman",
+      "year": 1978
+    },
+    "In the Heights": {
+      "id": 467909,
+      "poster": "/RO4KoJyoQMQzh9z76d4v4FJMmJ.jpg",
+      "title": "In the Heights",
+      "year": 2021
+    },
+    "Infinite": {
+      "id": 581726,
+      "poster": "/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg",
+      "title": "Infinite",
+      "year": 2021
+    },
+    "Mission: Impossible": {
+      "id": 954,
+      "poster": "/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
+      "title": "Mission: Impossible",
+      "year": 1996
+    },
+    "The Lighthouse": {
+      "id": 503919,
+      "poster": "/yAKNmpcUweGH6WMCEWenwU9PsbE.jpg",
+      "title": "The Lighthouse",
+      "year": 2019
+    },
+    "Little Women": {
+      "id": 331482,
+      "poster": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+      "title": "Little Women",
+      "year": 2019
+    },
+    "Judas and the Black Messiah": {
+      "id": 583406,
+      "poster": "/iIgr75GoqFxe1X5Wz9siOODGe9u.jpg",
+      "title": "Judas and the Black Messiah",
+      "year": 2021
+    },
+    "American Factory": {
+      "id": 565716,
+      "poster": "/7jH3dQOJ3CHMrp9tWsI3rRCDiaD.jpg",
+      "title": "American Factory",
+      "year": 2019
+    },
+    "RBG": {
+      "id": 493099,
+      "poster": "/vIenhDe9DuvxODJOIpMjBheYlcS.jpg",
+      "title": "RBG",
+      "year": 2018
+    },
+    "Casablanca": {
+      "id": 289,
+      "poster": "/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+      "title": "Casablanca",
+      "year": 1943
+    },
+    "Ocean's Eleven": {
+      "id": 161,
+      "poster": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+      "title": "Ocean's Eleven",
+      "year": 2001
+    },
+    "You've Got Mail": {
+      "id": 9489,
+      "poster": "/e2uVtH6TpMfUl7WeOM70ezkcjsU.jpg",
+      "title": "You've Got Mail",
+      "year": 1998
+    },
+    "A Star Is Born": {
+      "id": 332562,
+      "poster": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "title": "A Star Is Born",
+      "year": 2018
+    },
+    "Michael Clayton": {
+      "id": 4566,
+      "poster": "/hhkW4yVIGo8Bee3UITKvqOvhNMG.jpg",
+      "title": "Michael Clayton",
+      "year": 2007
+    },
+    "Before Sunrise": {
+      "id": 76,
+      "poster": "/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg",
+      "title": "Before Sunrise",
+      "year": 1995
+    },
+    "Before Sunset": {
+      "id": 80,
+      "poster": "/4sW5XH9ZfYXpvFzev00S1IGAEbg.jpg",
+      "title": "Before Sunset",
+      "year": 2004
+    },
+    "Godzilla vs. Kong": {
+      "id": 399566,
+      "poster": "/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+      "title": "Godzilla vs. Kong",
+      "year": 2021
+    },
+    "Tom & Jerry": {
+      "id": 587807,
+      "poster": "/8XZI9QZ7Pm3fVkigWJPbrXCMzjq.jpg",
+      "title": "Tom & Jerry",
+      "year": 2021
+    },
+    "The Conjuring: The Devil Made Me Do It": {
+      "id": 423108,
+      "poster": "/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg",
+      "title": "The Conjuring: The Devil Made Me Do It",
+      "year": 2021
+    },
+    "A Quiet Place Part II": {
+      "id": 520763,
+      "poster": "/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",
+      "title": "A Quiet Place Part II",
+      "year": 2021
+    },
+    "Hamilton": {
+      "id": 556574,
+      "poster": "/h1B7tW0t399VDjAcWJh8m87469b.jpg",
+      "title": "Hamilton",
+      "year": 2025
+    },
+    "The Greatest Showman": {
+      "id": 316029,
+      "poster": "/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg",
+      "title": "The Greatest Showman",
+      "year": 2017
+    },
+    "Cruella": {
+      "id": 337404,
+      "poster": "/hjS9mH8KvRiGHgjk6VUZH7OT0Ng.jpg",
+      "title": "Cruella",
+      "year": 2021
+    },
+    "The Fortune": {
+      "id": 70259,
+      "poster": "/qdx9noBCQcKDf6Ieci5BbqTjJ6G.jpg",
+      "title": "The Fortune",
+      "year": 1975
+    },
+    "Bird Box": {
+      "id": 405774,
+      "poster": "/rGfGfgL2pEPCfhIvqHXieXFn7gp.jpg",
+      "title": "Bird Box",
+      "year": 2018
+    },
+    "Wonder Woman 1984": {
+      "id": 464052,
+      "poster": "/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
+      "title": "Wonder Woman 1984",
+      "year": 2020
+    },
+    "Black Widow": {
+      "id": 497698,
+      "poster": "/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+      "title": "Black Widow",
+      "year": 2021
+    },
+    "Eternals": {
+      "id": 524434,
+      "poster": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+      "title": "Eternals",
+      "year": 2021
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "The Avengers": {
+      "id": 24428,
+      "poster": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "title": "The Avengers",
+      "year": 2012
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Return of the Jedi": {
+      "id": 1892,
+      "poster": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+      "title": "Return of the Jedi",
+      "year": 1983
+    },
+    "Star Wars: The Last Jedi": {
+      "id": 181808,
+      "poster": "/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
+      "title": "Star Wars: The Last Jedi",
+      "year": 2017
+    }
+  }
+}

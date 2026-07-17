@@ -1,0 +1,195 @@
+{
+  "slug": "barry-jenkins-on-if-beale-street-could-talk-and-life-after-m",
+  "title": "Barry Jenkins on 'If Beale Street Could Talk' and Life After 'Moonlight' | Interview (Ep. 107)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2018-12-13",
+  "runtimeMin": 43,
+  "format": "Sean Fennessey talks with Barry Jenkins about adapting James Baldwin's 'If Beale Street Could Talk,' the fallout from 'Moonlight' winning Best Picture, and the 10-hour 'Underground Railroad' shoot ahead of him.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "Barry Jenkins on 'If Beale Street Could Talk'",
+      "guest": "Barry Jenkins on",
+      "films": [
+        {
+          "title": "If Beale Street Could Talk",
+          "year": 2018,
+          "note": "The new film. Jenkins adapted the Baldwin novel on spec around 2013 and spent four years securing the rights; a New York of interiors, shot on the Alexa 65, with the ending shifted more hopeful than the book's."
+        },
+        {
+          "title": "Moonlight",
+          "year": 2016,
+          "note": "The Best Picture winner. Jenkins made its riskiest choices out of fear; Beale Street was the same instincts made with confidence."
+        },
+        {
+          "title": "Medicine for Melancholy",
+          "year": 2008,
+          "note": "His $12,000 debut, at its 10-year anniversary. The only film Baldwin's estate had seen when it granted him the rights."
+        },
+        {
+          "title": "Claudine",
+          "year": 1974,
+          "note": "One of two period reference films for capturing early-'70s Harlem."
+        },
+        {
+          "title": "Uptight",
+          "year": 1968,
+          "note": "The other period New York reference."
+        },
+        {
+          "title": "Selma",
+          "year": 2014,
+          "note": "Where Jenkins had seen Stephan James as John Lewis, which made him hesitate to cast him as Fonny."
+        },
+        {
+          "title": "Race",
+          "year": 2016,
+          "note": "James as Jesse Owens, the other 'too refined' role Jenkins had to put him through the ringer to get past."
+        },
+        {
+          "title": "Y Tu Mamá También",
+          "year": 2001,
+          "note": "The first film Jenkins saw at a festival, in film school; why he wanted Diego Luna, who said yes to a 45-second part."
+        },
+        {
+          "title": "Straight Outta Compton",
+          "year": 2015,
+          "note": "Casting director Cindy Tolan discovered Jason Mitchell (Eazy-E) here, cited as proof of her instincts."
+        },
+        {
+          "title": "Malcolm X",
+          "year": 1992,
+          "note": "Jenkins joking about James's trajectory: 'Spike made the Malcolm X, and it is the Malcolm X.'"
+        },
+        {
+          "title": "Border",
+          "year": 2018,
+          "note": "One of two foreign films Jenkins caught back-to-back at the Arclight on midterm election night."
+        },
+        {
+          "title": "Burning",
+          "year": 2018,
+          "note": "The other; the sequence scored to Miles Davis's 'Elevator to the Gallows' is 'the kind of thing that makes you jealous.'"
+        },
+        {
+          "title": "Elevator to the Gallows",
+          "year": 1958,
+          "note": "The Louis Malle film whose Miles Davis score is reused in that Burning sequence."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Teased for tomorrow's episode",
+      "films": [
+        "Spider-Man: Into the Spider-Verse"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Underground Railroad",
+      "Homecoming",
+      "Atlanta",
+      "Narcos",
+      "Maniac",
+      "True Detective",
+      "The Knick"
+    ],
+    "Ads": [
+      "Caavo Control Center",
+      "NHTSA \"Drive Sober or Get Pulled Over\""
+    ]
+  },
+  "tmdb": {
+    "If Beale Street Could Talk": {
+      "id": 465914,
+      "poster": "/76NfwnaZI43gOQove0LU9O23Qjz.jpg",
+      "title": "If Beale Street Could Talk",
+      "year": 2018
+    },
+    "Moonlight": {
+      "id": 376867,
+      "poster": "/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+      "title": "Moonlight",
+      "year": 2016
+    },
+    "Medicine for Melancholy": {
+      "id": 24885,
+      "poster": "/gyO8w5lpK3kwBojTulRpYcA4MAo.jpg",
+      "title": "Medicine for Melancholy",
+      "year": 2009
+    },
+    "Claudine": {
+      "id": 55909,
+      "poster": "/9mLM4Vx0L5kjaHPFXSe3ZgBEBCx.jpg",
+      "title": "Claudine",
+      "year": 1974
+    },
+    "Uptight": {
+      "id": 121971,
+      "poster": "/7YUaUs2SVIDvIulLzsrfpTq6kw1.jpg",
+      "title": "Uptight",
+      "year": 1968
+    },
+    "Selma": {
+      "id": 273895,
+      "poster": "/2QyUcitU0hrxy6B2zkyJ0EhNlqm.jpg",
+      "title": "Selma",
+      "year": 2014
+    },
+    "Race": {
+      "id": 323677,
+      "poster": "/ubbNizkhjEYw06XB7b0YMgsHXG1.jpg",
+      "title": "Race",
+      "year": 2016
+    },
+    "Y Tu Mamá También": {
+      "id": 1391,
+      "poster": "/aj3rqjab8jfc2fWmcS3H3c5qbur.jpg",
+      "title": "Y Tu Mamá También",
+      "year": 2001
+    },
+    "Straight Outta Compton": {
+      "id": 277216,
+      "poster": "/1CiLJx8Xtv3TbbFj6k7BboSmKgC.jpg",
+      "title": "Straight Outta Compton",
+      "year": 2015
+    },
+    "Malcolm X": {
+      "id": 1883,
+      "poster": "/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
+      "title": "Malcolm X",
+      "year": 1992
+    },
+    "Border": {
+      "id": 517839,
+      "poster": "/8KzOTRlKjdAKQTemV41hq86ldFS.jpg",
+      "title": "Border",
+      "year": 2018
+    },
+    "Burning": {
+      "id": 491584,
+      "poster": "/kXiF80o74fE9gf3Utf9moAI7ar0.jpg",
+      "title": "Burning",
+      "year": 2018
+    },
+    "Elevator to the Gallows": {
+      "id": 1093,
+      "poster": "/jgeZS97po2luaeElfUh07VAbVfV.jpg",
+      "title": "Elevator to the Gallows",
+      "year": 1958
+    },
+    "Spider-Man: Into the Spider-Verse": {
+      "id": 324857,
+      "poster": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018
+    }
+  }
+}

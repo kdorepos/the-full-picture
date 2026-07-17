@@ -10,7 +10,7 @@
   ],
   "published": "2018-11-16",
   "runtimeMin": 55,
-  "format": "Sean Fennessey drags the two Binge Mode hosts in to litigate the second Fantastic Beasts, fandom versus canon, and whether the movie works for anyone who hasn't read the books.",
+  "format": "Sean Fennessey drags the two Binge Mode hosts in to litigate the second Fantastic Beasts: fandom versus canon, and whether the movie works if you haven't read the books.",
   "segments": [
     {
       "kind": "discussion",
@@ -89,6 +89,9 @@
       "The Tales of Beedle the Bard"
     ]
   },
+  "tmdbOverrides": {
+    "Harry Potter and the Sorcerer's Stone": 671
+  },
   "tmdb": {
     "Fantastic Beasts: The Crimes of Grindelwald": {
       "id": 338952,
@@ -114,7 +117,12 @@
       "title": "The Golden Compass",
       "year": 2007
     },
-    "Harry Potter and the Sorcerer's Stone": null,
+    "Harry Potter and the Sorcerer's Stone": {
+      "id": 671,
+      "poster": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "year": 2001
+    },
     "Harry Potter and the Goblet of Fire": {
       "id": 674,
       "poster": "/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",

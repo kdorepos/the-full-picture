@@ -24,12 +24,12 @@
         {
           "title": "Ex Machina",
           "year": 2014,
-          "note": "His directing debut and, Robinson argues, the real companion piece to 'Men' — the Gleeson and Isaac characters embody two ways men see women. Won the visual-effects Oscar and got him a screenplay nomination after ~15 years writing."
+          "note": "His directing debut and, Robinson argues, the real companion piece to 'Men': the Gleeson and Isaac characters embody two ways men see women. Won the visual-effects Oscar and got him a screenplay nomination after ~15 years writing."
         },
         {
           "title": "Annihilation",
           "year": 2018,
-          "note": "His biggest canvas; a box-office disappointment with loyal champions. He rewrote the VanderMeer novel heavily, treating Portman as a co-author."
+          "note": "His largest-scale film, a box-office disappointment with loyal champions. He rewrote the VanderMeer novel heavily, treating Portman as a co-author."
         },
         {
           "title": "The Beach",
@@ -44,7 +44,7 @@
         {
           "title": "Sunshine",
           "year": 2007,
-          "note": "The other Boyle collaboration — a space movie with a garden on the ship, the nature-inside-technology motif that recurs across his work."
+          "note": "The other Boyle collaboration: a space movie with a garden on the ship, the nature-inside-technology motif that recurs across his work."
         },
         {
           "title": "Never Let Me Go",
@@ -59,7 +59,7 @@
         {
           "title": "Civil War",
           "year": 2024,
-          "note": "His next film, then in production with Kirsten Dunst — named as evidence he isn't waiting on 'Men's' returns before mounting the next one."
+          "note": "His next film, then in production with Kirsten Dunst, named as evidence he isn't waiting on 'Men's' returns before mounting the next one."
         }
       ]
     },
@@ -71,7 +71,7 @@
         {
           "title": "Men",
           "year": 2022,
-          "note": "Garland traces the script back ~15 years (four prior drafts), explains the Sheela na gig and green-man iconography, and defends leaving the same-actor conceit unexplained — two readings, neither right."
+          "note": "Garland traces the script back ~15 years (four prior drafts), explains the Sheela na gig and green-man iconography, and defends leaving the same-actor conceit unexplained: two readings, neither right."
         },
         {
           "title": "Come and See",
@@ -86,7 +86,7 @@
         {
           "title": "The Wicker Man",
           "year": 1973,
-          "note": "The original — the folk-horror touchstone he says is hard to avoid, remake excepted."
+          "note": "The original: the folk-horror touchstone he says is hard to avoid, remake excepted."
         },
         {
           "title": "The Evil Dead",
@@ -128,6 +128,9 @@
       ]
     }
   ],
+  "tmdbOverrides": {
+    "Emergency": 819309
+  },
   "excluded": {
     "TV": [
       "Devs",
@@ -278,10 +281,10 @@
       "year": 2022
     },
     "Emergency": {
-      "id": 1000438,
-      "poster": "/yp5eg70g6LaZoBiApOv9oerzvvX.jpg",
+      "id": 819309,
+      "poster": "/zVIa7Ynom2k96mNRXulOpTWP6SF.jpg",
       "title": "Emergency",
-      "year": 2025
+      "year": 2022
     },
     "Downton Abbey: A New Era": {
       "id": 820446,

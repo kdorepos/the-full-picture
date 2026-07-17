@@ -329,6 +329,10 @@
       "Game of Thrones"
     ]
   },
+  "tmdbOverrides": {
+    "Birds of Prey": 495764,
+    "Les Misérables": 586863
+  },
   "tmdb": {
     "Bacurau": {
       "id": 446159,
@@ -385,10 +389,10 @@
       "year": 2020
     },
     "Birds of Prey": {
-      "id": 1125037,
-      "poster": null,
-      "title": "Birds of Prey",
-      "year": null
+      "id": 495764,
+      "poster": "/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
+      "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "year": 2020
     },
     "The Way Back": {
       "id": 529485,
@@ -565,10 +569,10 @@
       "year": 2015
     },
     "Les Misérables": {
-      "id": 82695,
-      "poster": "/6CuzBs2Lb8At7qQr64mLXg2RYRb.jpg",
+      "id": 586863,
+      "poster": "/2ZQV9rPFXF0iFfKbsAvVIweQ1yM.jpg",
       "title": "Les Misérables",
-      "year": 2012
+      "year": 2019
     },
     "Ford v Ferrari": {
       "id": 359724,

@@ -1,0 +1,265 @@
+{
+  "slug": "shazam-and-the-future-of-the-dceu-with-david-f-sandberg-inte",
+  "title": "'Shazam!' and the Future of the DCEU With David F. Sandberg | Interview",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Miles Surrey"
+  ],
+  "published": "2019-04-08",
+  "runtimeMin": 45,
+  "format": "Miles Surrey stops by to break down Shazam! and where it leaves the DCEU, then Sean sits down with director David Sandberg on jumping from a viral YouTube short to Annabelle: Creation to superhero previs with action figures.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Shazam! and the DCEU's new approach",
+      "note": "with Miles Surrey",
+      "films": [
+        {
+          "title": "Shazam!",
+          "year": 2019,
+          "note": "Miles Surrey's read: an Amblin-style, wish-fulfillment coming-of-age story for its first half (kid discovers powers, buys beer, tries to become a YouTube star), before the back half settles into the standard CG-monster fight with Mark Strong's seven deadly sins."
+        },
+        {
+          "title": "Wonder Woman",
+          "year": 2017,
+          "note": "The comparison point for tonal missteps: charming and well made right up until it also turns into a fight against a demon monster, played by David Thewlis."
+        },
+        {
+          "title": "Aquaman",
+          "year": 2018,
+          "note": "\"Operatically goofy,\" and mostly table-setting for a sequel and a Trench spinoff that never quite arrived."
+        },
+        {
+          "title": "Justice League",
+          "year": 2017,
+          "note": "The DCEU's cautionary tale: a rushed, interconnected tentpole that bombed critically and financially and pushed the studio toward standalone stories instead."
+        },
+        {
+          "title": "Joker",
+          "year": 2019,
+          "note": "Coming that October, tonally standalone from Shazam! and made for a fraction of the budget, which lowers the risk if it doesn't land."
+        },
+        {
+          "title": "Birds of Prey",
+          "year": 2020,
+          "note": "Cathy Yan's five-superhero team-up built around Margot Robbie's Harley Quinn, visually nothing like Shazam! or Joker."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "David Sandberg on",
+      "films": [
+        {
+          "title": "Lights Out",
+          "year": 2016,
+          "note": "The two-and-a-half-minute, no-budget short he and his wife Lotta made in Gothenburg went viral on YouTube and got him signed within a day; it became the basis for his feature debut."
+        },
+        {
+          "title": "Annabelle: Creation",
+          "year": 2017,
+          "note": "His actual first studio film, with about triple the budget of Lights Out. He softened Annabelle's doll design mid-production because it read as too obviously evil for a kid to bring home."
+        },
+        {
+          "title": "Shazam!",
+          "year": 2019,
+          "note": "He inherited a script that was originally \"Shazam versus Black Adam\" and helped pare it down; previs for the big effects sequences was often just Sandberg filming himself acting out scenes with action figures."
+        },
+        {
+          "title": "Dragged Across Concrete",
+          "year": 2019,
+          "note": "His pick for the last great thing he'd seen: \"very long and slow, but I really liked it. And it was so brutal.\""
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Also part of the DCEU conversation",
+      "films": [
+        "Batman v Superman: Dawn of Justice",
+        "Black Adam",
+        "Suicide Squad",
+        "The Flash",
+        "The Batman"
+      ]
+    },
+    {
+      "group": "David's reference points and passing mentions",
+      "films": [
+        "Terminator 2: Judgment Day",
+        "War of the Worlds",
+        "The Girl in the Spider's Web",
+        "Water for Elephants"
+      ]
+    },
+    {
+      "group": "Coming up on the show",
+      "films": [
+        "Her Smell",
+        "Guardians of the Galaxy",
+        "Captain America: The First Avenger",
+        "The Avengers"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Birds of Prey": 495764,
+    "War of the Worlds": 74
+  },
+  "excluded": {
+    "TV": [
+      "Chuck",
+      "Dexter",
+      "The Office",
+      "Game of Thrones",
+      "Killing Eve",
+      "Billions",
+      "The Walking Dead",
+      "Live PD",
+      "SpongeBob SquarePants",
+      "Paw Patrol"
+    ],
+    "Ads": [
+      "Philo",
+      "Recappables (podcast cross-promo)"
+    ]
+  },
+  "tmdb": {
+    "Shazam!": {
+      "id": 287947,
+      "poster": "/xnopI5Xtky18MPhK40cZAGAOVeV.jpg",
+      "title": "Shazam!",
+      "year": 2019
+    },
+    "Wonder Woman": {
+      "id": 297762,
+      "poster": "/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+      "title": "Wonder Woman",
+      "year": 2017
+    },
+    "Aquaman": {
+      "id": 297802,
+      "poster": "/ufl63EFcc5XpByEV2Ecdw6WJZAI.jpg",
+      "title": "Aquaman",
+      "year": 2018
+    },
+    "Justice League": {
+      "id": 141052,
+      "poster": "/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
+      "title": "Justice League",
+      "year": 2017
+    },
+    "Joker": {
+      "id": 475557,
+      "poster": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "title": "Joker",
+      "year": 2019
+    },
+    "Birds of Prey": {
+      "id": 495764,
+      "poster": "/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
+      "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "year": 2020
+    },
+    "Lights Out": {
+      "id": 345911,
+      "poster": "/8BnElzAQQpp7ZgdJJiAe1diomr4.jpg",
+      "title": "Lights Out",
+      "year": 2016
+    },
+    "Annabelle: Creation": {
+      "id": 396422,
+      "poster": "/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg",
+      "title": "Annabelle: Creation",
+      "year": 2017
+    },
+    "Dragged Across Concrete": {
+      "id": 438674,
+      "poster": "/11wQX0gv1kW1cjXsMTnoKXxhaqk.jpg",
+      "title": "Dragged Across Concrete",
+      "year": 2019
+    },
+    "Batman v Superman: Dawn of Justice": {
+      "id": 209112,
+      "poster": "/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
+      "title": "Batman v Superman: Dawn of Justice",
+      "year": 2016
+    },
+    "Black Adam": {
+      "id": 436270,
+      "poster": "/rCtreCr4xiYEWDQTebybolIh6Xe.jpg",
+      "title": "Black Adam",
+      "year": 2022
+    },
+    "Suicide Squad": {
+      "id": 297761,
+      "poster": "/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg",
+      "title": "Suicide Squad",
+      "year": 2016
+    },
+    "The Flash": {
+      "id": 298618,
+      "poster": "/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+      "title": "The Flash",
+      "year": 2023
+    },
+    "The Batman": {
+      "id": 414906,
+      "poster": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "title": "The Batman",
+      "year": 2022
+    },
+    "Terminator 2: Judgment Day": {
+      "id": 280,
+      "poster": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991
+    },
+    "War of the Worlds": {
+      "id": 74,
+      "poster": "/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
+      "title": "War of the Worlds",
+      "year": 2005
+    },
+    "The Girl in the Spider's Web": {
+      "id": 446807,
+      "poster": "/w4ibr8R702DCjwYniry1D1XwQXj.jpg",
+      "title": "The Girl in the Spider's Web",
+      "year": 2018
+    },
+    "Water for Elephants": {
+      "id": 55787,
+      "poster": "/8T7Hvb9trKvCAmbSI8cEIU0Sl2T.jpg",
+      "title": "Water for Elephants",
+      "year": 2011
+    },
+    "Her Smell": {
+      "id": 520679,
+      "poster": "/qEvgdGBMORPS0rz8pqkVH3obLee.jpg",
+      "title": "Her Smell",
+      "year": 2019
+    },
+    "Guardians of the Galaxy": {
+      "id": 118340,
+      "poster": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "title": "Guardians of the Galaxy",
+      "year": 2014
+    },
+    "Captain America: The First Avenger": {
+      "id": 1771,
+      "poster": "/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+      "title": "Captain America: The First Avenger",
+      "year": 2011
+    },
+    "The Avengers": {
+      "id": 24428,
+      "poster": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "title": "The Avengers",
+      "year": 2012
+    }
+  }
+}

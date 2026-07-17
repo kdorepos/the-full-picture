@@ -22,12 +22,12 @@
         {
           "title": "The Talented Mr. Ripley",
           "year": 1999,
-          "note": "No. 1 - the outlier in his career. No overconfidence here, just insecurity underneath a full transformation opposite Jude Law and Philip Seymour Hoffman."
+          "note": "No. 1 - the outlier in his career, playing insecurity instead of overconfidence under a full transformation opposite Jude Law and Philip Seymour Hoffman."
         },
         {
           "title": "Good Will Hunting",
           "year": 1997,
-          "note": "No. 2 - the quintessential performance, and the one every later role gets measured against: prick-headedness, then the big cathartic release."
+          "note": "No. 2 - the performance every later role gets measured against: prick-headedness, then the big cathartic release."
         },
         {
           "title": "The Martian",
@@ -76,7 +76,7 @@
         {
           "title": "Courage Under Fire",
           "year": 1996,
-          "note": "No. 5 - a physical-transformation role as a heroin-addicted medic who cedes an entire scene to Denzel Washington."
+          "note": "No. 5 - a physical-transformation role as a heroin-addicted medic, in a scene where Denzel Washington cedes the moment to him."
         }
       ]
     },
@@ -93,7 +93,7 @@
         {
           "title": "Logan",
           "year": 2017,
-          "note": "His version of an IP movie: no supervillain, no costume Wolverine would ever actually wear, structured like a 'Kramer vs. Kramer' character piece instead of a comic-book plot."
+          "note": "His version of an IP movie, without a supervillain or a costume Wolverine would ever actually wear, structured like a 'Kramer vs. Kramer' character piece instead of a comic-book plot."
         },
         {
           "title": "Walk the Line",
@@ -123,7 +123,7 @@
         {
           "title": "Ad Astra",
           "year": 2019,
-          "note": "James Gray's film, his pick for the last great thing he's seen: patient, unhurried, unwilling to just let the audience escape."
+          "note": "James Gray's film, his pick for the last great thing he's seen. It's patient and unhurried, and it doesn't let the audience off easy."
         }
       ]
     }
@@ -187,6 +187,10 @@
       "The Bill Simmons Podcast",
       "The Moment with Brian Koppelman"
     ]
+  },
+  "tmdbOverrides": {
+    "The Ladykillers": 5506,
+    "Whisky Galore!": 16665
   },
   "tmdb": {
     "The Talented Mr. Ripley": {
@@ -484,16 +488,16 @@
       "year": 1951
     },
     "The Ladykillers": {
-      "id": 5516,
-      "poster": "/l4g9R39NCp6VaYFrw6q8JwKNW9x.jpg",
+      "id": 5506,
+      "poster": "/9LJ6ZV59Q92LAJAbmb7xm9dUBGU.jpg",
       "title": "The Ladykillers",
-      "year": 2004
+      "year": 1955
     },
     "Whisky Galore!": {
-      "id": 399218,
-      "poster": "/A15APXObFPol0J1YqHp1nbAe1A7.jpg",
-      "title": "Whisky Galore",
-      "year": 2016
+      "id": 16665,
+      "poster": "/4qz5Oc3hgXx4eBx7vkqLfG58J9X.jpg",
+      "title": "Whisky Galore!",
+      "year": 1949
     },
     "Kramer vs. Kramer": {
       "id": 12102,

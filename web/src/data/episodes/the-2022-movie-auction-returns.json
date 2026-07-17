@@ -47,10 +47,10 @@
               "note": "Yorgos Lanthimos; Emma Stone, Mark Ruffalo, Willem Dafoe."
             },
             {
-              "title": "Disappointment Boulevard",
-              "year": 2022,
+              "title": "Beau Is Afraid",
+              "year": 2023,
               "price": 94,
-              "note": "Ari Aster's follow-up to Hereditary and Midsommar; Joaquin Phoenix. Reportedly cut at four hours."
+              "note": "Ari Aster's follow-up to Hereditary and Midsommar; Joaquin Phoenix. Announced under the working title Disappointment Boulevard, reportedly cut at four hours."
             }
           ]
         },
@@ -115,10 +115,10 @@
               "note": "Wes Anderson, shot in Spain; Tom Hanks, Tilda Swinton, Bill Murray, Scarlett Johansson, Jeff Goldblum among many others."
             },
             {
-              "title": "Tar",
+              "title": "Tár",
               "year": 2022,
               "price": 59,
-              "note": "Todd Field's first film since 2006's Little Children; Cate Blanchett as a world-renowned conductor."
+              "note": "Todd Field's first film since 2006's Little Children; Cate Blanchett as a famous conductor."
             },
             {
               "title": "Violent Night",
@@ -137,7 +137,7 @@
         "Decision to Leave",
         "Salem's Lot",
         "Halloween Ends",
-        "13 Lives",
+        "Thirteen Lives",
         "Strange World",
         "The Zone of Interest",
         "Empire of Light",
@@ -274,6 +274,11 @@
       "Wells Fargo"
     ]
   },
+  "tmdbOverrides": {
+    "Deep Water": 619979,
+    "Bardo": 685691,
+    "Salem's Lot": 748230
+  },
   "tmdb": {
     "Triangle of Sadness": {
       "id": 497828,
@@ -299,7 +304,12 @@
       "title": "Poor Things",
       "year": 2023
     },
-    "Disappointment Boulevard": null,
+    "Beau Is Afraid": {
+      "id": 798286,
+      "poster": "/wgVkkjigF31r1nZV80uV0xNIoun.jpg",
+      "title": "Beau Is Afraid",
+      "year": 2023
+    },
     "Bros": {
       "id": 614939,
       "poster": "/op02Hv5i4Z049nGJYmk6BScRqHO.jpg",
@@ -348,7 +358,12 @@
       "title": "Asteroid City",
       "year": 2023
     },
-    "Tar": null,
+    "Tár": {
+      "id": 817758,
+      "poster": "/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg",
+      "title": "TÁR",
+      "year": 2022
+    },
     "Violent Night": {
       "id": 899112,
       "poster": "/e8CpMgdyihz9Td7amQDqubPuzfN.jpg",
@@ -475,14 +490,24 @@
       "title": "Decision to Leave",
       "year": 2022
     },
-    "Salem's Lot": null,
+    "Salem's Lot": {
+      "id": 748230,
+      "poster": "/wkx5cdXVo6G8UEeNibthKIZEY3Y.jpg",
+      "title": "Salem's Lot",
+      "year": 2024
+    },
     "Halloween Ends": {
       "id": 616820,
       "poster": "/q06saepaXeBdkMibuN4R2fXmgIw.jpg",
       "title": "Halloween Ends",
       "year": 2022
     },
-    "13 Lives": null,
+    "Thirteen Lives": {
+      "id": 698948,
+      "poster": "/yi5KcJqFxy0D6yP8nCfcF8gJGg5.jpg",
+      "title": "Thirteen Lives",
+      "year": 2022
+    },
     "Strange World": {
       "id": 877269,
       "poster": "/a9x70QUXs6uEwtin1SGNKoFXoia.jpg",
@@ -514,10 +539,10 @@
       "year": 2022
     },
     "Bardo": {
-      "id": 942618,
-      "poster": "/tC18TfpWFhqpBbV3APqxeXYAgMh.jpg",
-      "title": "Bardo",
-      "year": 2021
+      "id": 685691,
+      "poster": "/3e6RA0CzFDC0pz5TqiRlbHcsc2n.jpg",
+      "title": "BARDO, False Chronicle of a Handful of Truths",
+      "year": 2022
     },
     "One Fine Morning": {
       "id": 747779,
@@ -556,10 +581,10 @@
       "year": 2022
     },
     "Deep Water": {
-      "id": 1127384,
-      "poster": "/kjcuS7xaRyqRjVaVcH4t0qHshuX.jpg",
+      "id": 619979,
+      "poster": "/6yRMyWwjuhKg6IU66uiZIGhaSc8.jpg",
       "title": "Deep Water",
-      "year": 2026
+      "year": 2022
     },
     "Watcher": {
       "id": 807356,

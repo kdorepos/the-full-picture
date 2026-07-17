@@ -14,7 +14,7 @@
     {
       "kind": "awards",
       "heading": "Our Golden Globes Ballots",
-      "note": "film categories only — they skip the TV races",
+      "note": "film categories only; they skip the TV races",
       "ceremony": "76th Golden Globe Awards",
       "categories": [
         {
@@ -435,7 +435,7 @@
         {
           "title": "Bird Box",
           "year": 2018,
-          "note": "Netflix says 45 million accounts streamed it in seven days — a number Sean wants a whole podcast to unpack, and isn't sure signifies success or just consumption."
+          "note": "Netflix says 45 million accounts streamed it in seven days. Sean wants a whole podcast to unpack that number and isn't sure it signifies success or just consumption."
         },
         {
           "title": "The Godfather",
@@ -450,7 +450,7 @@
         {
           "title": "Incredibles 2",
           "year": 2018,
-          "note": "The Brad Bird juggernaut and the safe Academy vote — one of two animated films Amanda has actually seen."
+          "note": "The Brad Bird juggernaut and the safe Academy vote: one of two animated films Amanda has actually seen."
         }
       ]
     },
@@ -467,7 +467,7 @@
         {
           "title": "Ida",
           "year": 2013,
-          "note": "The static, meditative film that gave him the confidence — and the money, though only about 20% — to make Cold War; a Paul Schrader favorite Pawlikowski says was a smaller influence on First Reformed than Bresson and Bergman."
+          "note": "The static, meditative film that gave him the confidence (and the money, though only about 20%) to make Cold War. Pawlikowski says it's a Paul Schrader favorite, but a smaller influence on First Reformed than Bresson and Bergman."
         }
       ]
     }
@@ -491,7 +491,7 @@
         "Gone Girl",
         "An Education",
         "Call Me by Your Name",
-        "Withnail and I",
+        "Withnail & I",
         "Sideways",
         "The English Patient",
         "Cars",
@@ -526,6 +526,11 @@
     "Ads": [
       "Sonos Beam"
     ]
+  },
+  "tmdbOverrides": {
+    "Girl": 515916,
+    "Jolly Fellows": 37128,
+    "Withnail & I": 13446
   },
   "tmdb": {
     "Incredibles 2": {
@@ -564,7 +569,12 @@
       "title": "Capernaum",
       "year": 2018
     },
-    "Girl": null,
+    "Girl": {
+      "id": 515916,
+      "poster": "/a6WKjZ1eHrKV8u1DYqjW4yUPuC.jpg",
+      "title": "Girl",
+      "year": 2018
+    },
     "Never Look Away": {
       "id": 423612,
       "poster": "/fn0Tp9SG0IQ3Nx8iHPYPiseLMWd.jpg",
@@ -841,7 +851,12 @@
       "title": "Call Me by Your Name",
       "year": 2017
     },
-    "Withnail and I": null,
+    "Withnail & I": {
+      "id": 13446,
+      "poster": "/i18cIp8A10A2JgByrfA9oIC9299.jpg",
+      "title": "Withnail & I",
+      "year": 1987
+    },
     "Sideways": {
       "id": 9675,
       "poster": "/zOsaxYLgvZVU7cJBpPn8CuE0MrP.jpg",
@@ -921,10 +936,10 @@
       "year": 1943
     },
     "Jolly Fellows": {
-      "id": 71387,
-      "poster": "/3zba9n2NmaiySjo2cbDB7XgVwdW.jpg",
+      "id": 37128,
+      "poster": "/7ws1Wkrq1vHFe6n9eY1F10oMbrH.jpg",
       "title": "Jolly Fellows",
-      "year": 2009
+      "year": 1934
     }
   }
 }

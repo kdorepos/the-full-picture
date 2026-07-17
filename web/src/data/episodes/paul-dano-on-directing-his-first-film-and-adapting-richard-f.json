@@ -1,0 +1,74 @@
+{
+  "slug": "paul-dano-on-directing-his-first-film-and-adapting-richard-f",
+  "title": "Paul Dano on Directing His First Film and Adapting Richard Ford's 'Wildlife' | Interview (Ep. 89)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2018-10-25",
+  "runtimeMin": 30,
+  "format": "Sean Fennessey talks to Paul Dano about directing his debut feature Wildlife, adapting Richard Ford's novel with Zoe Kazan, and the grind of getting a first film made.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Paul Dano on",
+      "films": [
+        {
+          "title": "Wildlife",
+          "year": 2018,
+          "note": "His directorial debut, adapted from Richard Ford's 1990 novel with his partner Zoe Kazan. Carey Mulligan and Jake Gyllenhaal play the parents of a 14-year-old watching a Montana marriage fall apart in 1960; shot over four days in Montana and the rest in Oklahoma for the tax credit."
+        },
+        {
+          "title": "The Grapes of Wrath",
+          "year": 1940,
+          "note": "One of the films he and cinematographer Diego Garcia discussed while prepping Wildlife's look — not for the period, he says, but the spirit."
+        },
+        {
+          "title": "Still Walking",
+          "year": 2008,
+          "note": "The other touchstone he cites alongside The Grapes of Wrath, Hirokazu Kore-eda's family drama."
+        },
+        {
+          "title": "Short Cuts",
+          "year": 1993,
+          "note": "His answer to the show's closing question. He and Zoe rewatched the Altman film recently and he was struck by how fluidly it cross-cuts between its stories."
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Escape at Dannemora",
+      "Big Mouth",
+      "Olive Kitteridge"
+    ]
+  },
+  "tmdb": {
+    "Wildlife": {
+      "id": 417812,
+      "poster": "/hQSUwjSSRtWCA5EBoY22gGzaE8Y.jpg",
+      "title": "Wildlife",
+      "year": 2018
+    },
+    "The Grapes of Wrath": {
+      "id": 596,
+      "poster": "/eUcxMVBIA0Jg8l1RGUqycrc3eIQ.jpg",
+      "title": "The Grapes of Wrath",
+      "year": 1940
+    },
+    "Still Walking": {
+      "id": 25050,
+      "poster": "/FWJbhAPdwiwKhUaAyz841jpYa1.jpg",
+      "title": "Still Walking",
+      "year": 2008
+    },
+    "Short Cuts": {
+      "id": 695,
+      "poster": "/mbNTvbtWfV4soyErimDTdX67OAr.jpg",
+      "title": "Short Cuts",
+      "year": 1993
+    }
+  }
+}

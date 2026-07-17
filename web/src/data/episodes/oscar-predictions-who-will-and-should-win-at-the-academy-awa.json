@@ -741,6 +741,16 @@
       ]
     }
   ],
+  "tmdbOverrides": {
+    "An Irish Goodbye": 889598,
+    "Haulout": 926993,
+    "Icarus": 432976,
+    "Apollo 10½": 664996,
+    "Applause": null,
+    "Hold My Hand": null,
+    "Lift Me Up": null,
+    "This Is a Life": null
+  },
   "excluded": {
     "TV": [
       "Daisy Jones & the Six"
@@ -771,7 +781,12 @@
       "title": "The Elephant Whisperers",
       "year": 2022
     },
-    "Haulout": null,
+    "Haulout": {
+      "id": 926993,
+      "poster": "/i1PH5y9umII7Vxb7StQtkA9Vd2n.jpg",
+      "title": "Haulout",
+      "year": 2024
+    },
     "How Do You Measure a Year?": {
       "id": 846854,
       "poster": "/hoe1yeyRXbDFZXCxCQCxClGgh5y.jpg",
@@ -791,8 +806,8 @@
       "year": 2022
     },
     "An Irish Goodbye": {
-      "id": 1209878,
-      "poster": "/kMbj1Op9itS8CbSVk5KSjQy4lcC.jpg",
+      "id": 889598,
+      "poster": "/gVVMyjGoW7AKG99Eukq0U2ijLIl.jpg",
       "title": "An Irish Goodbye",
       "year": 2022
     },
@@ -922,31 +937,11 @@
       "title": "The Banshees of Inisherin",
       "year": 2022
     },
-    "Applause": {
-      "id": 1185948,
-      "poster": "/6CeoyBLvskEjwzx2aIIRsbWJnho.jpg",
-      "title": "Applause",
-      "year": 2024
-    },
-    "Hold My Hand": {
-      "id": 360156,
-      "poster": "/u4WmFjGVk9wDompjEELOwFWjKNf.jpg",
-      "title": "Hold My Hand",
-      "year": 1938
-    },
-    "Lift Me Up": {
-      "id": 1554020,
-      "poster": "/fzPkMCbhSy3SFINP3yQQbjh3PqO.jpg",
-      "title": "Lift Me Up",
-      "year": 2025
-    },
+    "Applause": null,
+    "Hold My Hand": null,
+    "Lift Me Up": null,
     "Naatu Naatu": null,
-    "This Is a Life": {
-      "id": 235567,
-      "poster": "/iA42fffz6IJW4jNIY7OOndpRI0q.jpg",
-      "title": "This Is a Life?",
-      "year": 1955
-    },
+    "This Is a Life": null,
     "Guillermo del Toro's Pinocchio": {
       "id": 555604,
       "poster": "/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",
@@ -1169,7 +1164,12 @@
       "title": "Puss in Boots",
       "year": 2011
     },
-    "Apollo 10½": null,
+    "Apollo 10½": {
+      "id": 664996,
+      "poster": "/ms3qa9LH9kosaGCSe22NJ7fDPv9.jpg",
+      "title": "Apollo 10½: A Space Age Childhood",
+      "year": 2022
+    },
     "Happy as Lazzaro": {
       "id": 481432,
       "poster": "/j4x1O6G0cbchHQwNsEZ0DntOJMJ.jpg",
@@ -1195,10 +1195,10 @@
       "year": 2018
     },
     "Icarus": {
-      "id": 35402,
-      "poster": "/cmDDkOXzEICJ3v6pIxOsmulwPi9.jpg",
+      "id": 432976,
+      "poster": "/x5azMi1KvZWbBbfjmGqpHNGqjH.jpg",
       "title": "Icarus",
-      "year": 2010
+      "year": 2017
     },
     "My Octopus Teacher": {
       "id": 682110,

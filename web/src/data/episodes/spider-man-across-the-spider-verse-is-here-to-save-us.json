@@ -1,0 +1,273 @@
+{
+  "slug": "spider-man-across-the-spider-verse-is-here-to-save-us",
+  "title": "‘Spider-Man: Across the Spider-Verse’ Is Here to Save Us",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Charles Holmes"
+  ],
+  "published": "2023-06-02",
+  "runtimeMin": 68,
+  "format": "Sean Fennessey and Amanda Dobbins bring in Charles Holmes of The Midnight Boys to talk through Across the Spider-Verse: the animation, the multiversal canon plot, and that cliffhanger ending.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "Across the Spider-Verse",
+      "note": "five stars, Sean's first in three years",
+      "films": [
+        {
+          "title": "Spider-Man: Across the Spider-Verse",
+          "year": 2023,
+          "note": "Directed by Joachim Dos Santos, Kemp Powers, and Justin K. Thompson (three directors this time, versus Bob Persichetti/Peter Ramsey/Rodney Rothman on the first film), scripted by Lord & Miller with Dave Callahan. Every universe gets its own animation style: Gwen's world in watercolor/impressionist brushstrokes, a Bill Sienkiewicz-inspired look elsewhere. Charles reads it as a love letter to the non-house-style Marvel/DC artists. Jason Schwartzman voices the Spot, a D-list Marvel villain since the 1980s; Oscar Isaac plays Miguel O'Hara/Spider-Man 2099, enforcing \"canon events\" against Miles; Hailee Steinfeld's Gwen Stacy gets far more space than in the first film. Runs 2 hours 20 minutes and ends on a hard cliffhanger (originally titled Part One) ahead of Beyond the Spider-Verse, dated for March 2024. Charles's one real reservation: unlike the tightly self-contained first film, this one starts to feel like \"the machine,\" leaning on legacy-actor cameos (Andrew Garfield, Tobey Maguire, Donald Glover's Aaron Davis) the way No Way Home did."
+        },
+        {
+          "title": "Spider-Man: Into the Spider-Verse",
+          "year": 2018,
+          "note": "The 2018 predecessor, a movie Sean calls a masterpiece and once swapped to Amanda. Its tight, self-contained structure (beginning, middle, end) is the yardstick Charles uses for his one complaint about the sequel's cliffhanger."
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "year": 2021,
+          "note": "The film Sean says \"walked so this movie could run,\" training audiences to accept multiple Spider-Men onscreen at once. He liked it; the legacy-cameo playbook here reminds Charles of it a little too much."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Comparisons and reference points",
+      "films": [
+        {
+          "title": "Avatar: The Way of Water",
+          "year": 2022,
+          "note": "Charles's touchstone for a movie that makes you wait years to show what it built, though he thinks it leans on archetypes too heavily where Across the Spider-Verse uses them as \"a trampoline.\""
+        },
+        {
+          "title": "The Shape of Water",
+          "year": 2017,
+          "note": "Charles's other reference for a film that announces the scope of its craft in its first five minutes."
+        },
+        {
+          "title": "Tár",
+          "year": 2022,
+          "note": "Amanda's prior benchmark for five-star filmmaking this year; Sean argues the two movies have real overlap."
+        },
+        {
+          "title": "Licorice Pizza",
+          "year": 2021,
+          "note": "Grouped with Tár as one of the small handful of recent films the hosts have given five stars."
+        },
+        {
+          "title": "Avengers: Endgame",
+          "year": 2019,
+          "note": "Cited for a chaotic final 45 minutes. The live-action MCU color palette, Amanda says, looks flat next to this movie's animation."
+        },
+        {
+          "title": "Ant-Man and the Wasp: Quantumania",
+          "year": 2023,
+          "note": "A passing reference alongside the MCU's live-action house style."
+        },
+        {
+          "title": "Dune",
+          "year": 2021,
+          "note": "The inverse cliffhanger experience: Sean didn't know going in that Dune was only Part One, whereas he knew this film was building toward Beyond the Spider-Verse."
+        },
+        {
+          "title": "Titan A.E.",
+          "year": 2000,
+          "note": "Charles's example of the mid-budget animated movie pitched at 12- and 13-year-olds, a lane he says has largely disappeared."
+        },
+        {
+          "title": "Shrek",
+          "year": 2001,
+          "note": "Another example of that same vanished for-everyone animated lane."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Barbie",
+        "Oppenheimer",
+        "Past Lives",
+        "Marriage Story",
+        "The Little Mermaid",
+        "Fast X",
+        "The Super Mario Bros. Movie",
+        "Elemental",
+        "Back to the Future",
+        "The Matrix",
+        "The Empire Strikes Back",
+        "Spaceballs",
+        "Star Wars"
+      ]
+    }
+  ],
+  "excluded": {
+    "Shows": [
+      "The Midnight Boys"
+    ],
+    "Ads": [
+      "Fairway Rollin'",
+      "Carvana",
+      "Boar's Head",
+      "NOS Energy",
+      "Talk About PD"
+    ]
+  },
+  "tmdb": {
+    "Spider-Man: Across the Spider-Verse": {
+      "id": 569094,
+      "poster": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "year": 2023
+    },
+    "Spider-Man: Into the Spider-Verse": {
+      "id": 324857,
+      "poster": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018
+    },
+    "Spider-Man: No Way Home": {
+      "id": 634649,
+      "poster": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "title": "Spider-Man: No Way Home",
+      "year": 2021
+    },
+    "Avatar: The Way of Water": {
+      "id": 76600,
+      "poster": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "title": "Avatar: The Way of Water",
+      "year": 2022
+    },
+    "The Shape of Water": {
+      "id": 399055,
+      "poster": "/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg",
+      "title": "The Shape of Water",
+      "year": 2017
+    },
+    "Tár": {
+      "id": 817758,
+      "poster": "/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg",
+      "title": "TÁR",
+      "year": 2022
+    },
+    "Licorice Pizza": {
+      "id": 718032,
+      "poster": "/ivXtvzfliGvoJ1DhSHIGyYBToWe.jpg",
+      "title": "Licorice Pizza",
+      "year": 2021
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Ant-Man and the Wasp: Quantumania": {
+      "id": 640146,
+      "poster": "/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "year": 2023
+    },
+    "Dune": {
+      "id": 438631,
+      "poster": "/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "title": "Dune",
+      "year": 2021
+    },
+    "Titan A.E.": {
+      "id": 7450,
+      "poster": "/el2iHk3LTJWfEnwrvcRkvWY501G.jpg",
+      "title": "Titan A.E.",
+      "year": 2000
+    },
+    "Shrek": {
+      "id": 808,
+      "poster": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+      "title": "Shrek",
+      "year": 2001
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Past Lives": {
+      "id": 666277,
+      "poster": "/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg",
+      "title": "Past Lives",
+      "year": 2023
+    },
+    "Marriage Story": {
+      "id": 492188,
+      "poster": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+      "title": "Marriage Story",
+      "year": 2019
+    },
+    "The Little Mermaid": {
+      "id": 447277,
+      "poster": "/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",
+      "title": "The Little Mermaid",
+      "year": 2023
+    },
+    "Fast X": {
+      "id": 385687,
+      "poster": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+      "title": "Fast X",
+      "year": 2023
+    },
+    "The Super Mario Bros. Movie": {
+      "id": 502356,
+      "poster": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+      "title": "The Super Mario Bros. Movie",
+      "year": 2023
+    },
+    "Elemental": {
+      "id": 976573,
+      "poster": "/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg",
+      "title": "Elemental",
+      "year": 2023
+    },
+    "Back to the Future": {
+      "id": 105,
+      "poster": "/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+      "title": "Back to the Future",
+      "year": 1985
+    },
+    "The Matrix": {
+      "id": 603,
+      "poster": "/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+      "title": "The Matrix",
+      "year": 1999
+    },
+    "The Empire Strikes Back": {
+      "id": 1891,
+      "poster": "/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+      "title": "The Empire Strikes Back",
+      "year": 1980
+    },
+    "Spaceballs": {
+      "id": 957,
+      "poster": "/aHNeKtkNnyQcietzi2cgiYL8sC9.jpg",
+      "title": "Spaceballs",
+      "year": 1987
+    },
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
+    }
+  }
+}

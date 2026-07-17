@@ -1,0 +1,231 @@
+{
+  "slug": "spider-man-far-from-home-is-here-and-so-is-the-future-of-mcu",
+  "title": "‘Spider-Man: Far From Home’ Is Here, and So Is the Future of MCU (SPOILERS) | Exit Survey",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Micah Peters"
+  ],
+  "published": "2019-07-02",
+  "runtimeMin": 43,
+  "format": "Sean Fennessey and Micah Peters review Spider-Man: Far From Home, dig into Mysterio's fake-news angle, and plot where the MCU goes next.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘Spider-Man: Far From Home’",
+      "note": "spoilers",
+      "films": [
+        {
+          "title": "Spider-Man: Far From Home",
+          "year": 2019,
+          "note": "Sean and Micah both loved it, from the class trip through Europe and Mysterio's illusion troupe to a J. Jonah Jameson stinger that got the loudest reaction in the theater."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Mysterio, fake news, and the future of the MCU",
+      "films": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "year": 2017,
+          "note": "The MCU's previous Spider-Man movie, from the same director, writers, and producers."
+        },
+        {
+          "title": "Spider-Man: Into the Spider-Verse",
+          "year": 2018,
+          "note": "The animated Spider-Man movie both hosts are \"very fond of.\""
+        },
+        {
+          "title": "Avengers: Endgame",
+          "year": 2019,
+          "note": "The five-year gap it creates, the \"blip,\" is what Far From Home's opening AV-department montage is riffing on."
+        },
+        {
+          "title": "Captain Marvel",
+          "year": 2019,
+          "note": "The comparison for burying the real reveal in the stinger. Micah says the movie itself played like a two-and-a-half-hour commercial for what came next."
+        },
+        {
+          "title": "Captain America: Civil War",
+          "year": 2016,
+          "note": "Cited as the MCU already doing this: smuggling in a real-world theme, there the surveillance state."
+        },
+        {
+          "title": "Avatar",
+          "year": 2009,
+          "note": "The box-office record Endgame is about to pass on its way back into theaters."
+        },
+        {
+          "title": "Lemony Snicket's A Series of Unfortunate Events",
+          "year": 2004,
+          "note": "Jim Carrey's acting troupe of hired illusionists is Sean's comparison for Mysterio's team of visual-effects people."
+        },
+        {
+          "title": "Zodiac",
+          "year": 2007,
+          "note": "David Fincher supposedly ran Gyllenhaal through 99 takes of moving a pencil. Micah reads that history into Gyllenhaal's Mysterio."
+        },
+        {
+          "title": "The Nice Guys",
+          "year": 2016,
+          "note": "Where the hosts first place Angourie Rice, who plays Betty Brant here."
+        },
+        {
+          "title": "Iron Man",
+          "year": 2008,
+          "note": "The novelty Sean measures superhero fatigue against."
+        },
+        {
+          "title": "The Avengers",
+          "year": 2012,
+          "note": "Same comparison. Nothing since has matched the novelty of the first crossover."
+        },
+        {
+          "title": "Eternals",
+          "year": 2021,
+          "note": "Chloe Zhao's next MCU movie, just announced with Angelina Jolie, Kumail Nanjiani, Salma Hayek, and Richard Madden."
+        }
+      ]
+    },
+    {
+      "kind": "ranking",
+      "heading": "Sean's Top Three Spider-Man Movies",
+      "note": "best to worst",
+      "subject": "Spider-Man movies",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Spider-Man: Into the Spider-Verse",
+          "year": 2018,
+          "note": "No. 1, easily, per Sean."
+        },
+        {
+          "title": "Spider-Man: Homecoming",
+          "year": 2017,
+          "note": "No. 2, the car-scene showdown between Michael Keaton and Tom Holland."
+        },
+        {
+          "title": "Spider-Man 2",
+          "year": 2004,
+          "note": "No. 3."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Teased for the next episode",
+      "films": [
+        "Midsommar"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Euphoria",
+      "How I Met Your Mother",
+      "Game of Thrones",
+      "Bodyguard"
+    ],
+    "Podcasts": [
+      "Ringer Dish"
+    ],
+    "Ads": [
+      "CNN's \"The Movies\""
+    ]
+  },
+  "tmdb": {
+    "Spider-Man: Far From Home": {
+      "id": 429617,
+      "poster": "/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+      "title": "Spider-Man: Far From Home",
+      "year": 2019
+    },
+    "Spider-Man: Homecoming": {
+      "id": 315635,
+      "poster": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+      "title": "Spider-Man: Homecoming",
+      "year": 2017
+    },
+    "Spider-Man: Into the Spider-Verse": {
+      "id": 324857,
+      "poster": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Captain Marvel": {
+      "id": 299537,
+      "poster": "/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+      "title": "Captain Marvel",
+      "year": 2019
+    },
+    "Captain America: Civil War": {
+      "id": 271110,
+      "poster": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+      "title": "Captain America: Civil War",
+      "year": 2016
+    },
+    "Avatar": {
+      "id": 19995,
+      "poster": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "title": "Avatar",
+      "year": 2009
+    },
+    "Lemony Snicket's A Series of Unfortunate Events": {
+      "id": 11774,
+      "poster": "/76Xi8z7Whv5WFIdfzzvC5tKSicd.jpg",
+      "title": "Lemony Snicket's A Series of Unfortunate Events",
+      "year": 2004
+    },
+    "Zodiac": {
+      "id": 1949,
+      "poster": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+      "title": "Zodiac",
+      "year": 2007
+    },
+    "The Nice Guys": {
+      "id": 290250,
+      "poster": "/clq4So9spa9cXk3MZy2iMdqkxP2.jpg",
+      "title": "The Nice Guys",
+      "year": 2016
+    },
+    "Iron Man": {
+      "id": 1726,
+      "poster": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "title": "Iron Man",
+      "year": 2008
+    },
+    "The Avengers": {
+      "id": 24428,
+      "poster": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "title": "The Avengers",
+      "year": 2012
+    },
+    "Eternals": {
+      "id": 524434,
+      "poster": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+      "title": "Eternals",
+      "year": 2021
+    },
+    "Spider-Man 2": {
+      "id": 558,
+      "poster": "/aGuvNAaaZuWXYQQ6N2v7DeuP6mB.jpg",
+      "title": "Spider-Man 2",
+      "year": 2004
+    },
+    "Midsommar": {
+      "id": 530385,
+      "poster": "/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+      "title": "Midsommar",
+      "year": 2019
+    }
+  }
+}

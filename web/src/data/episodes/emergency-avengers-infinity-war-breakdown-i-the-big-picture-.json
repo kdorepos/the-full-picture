@@ -9,7 +9,7 @@
   ],
   "published": "2018-04-27",
   "runtimeMin": 66,
-  "format": "Sean Fennessey and David Shoemaker record a late-night emergency breakdown of Avengers: Infinity War — Thanos as a sympathetic villain, whose performances hold it together, and after a spoiler warning, the snap, the deaths, and the Captain Marvel tease.",
+  "format": "Sean Fennessey and David Shoemaker record a late-night emergency breakdown of Avengers: Infinity War: Thanos as a sympathetic villain, the performances that hold it together, and, after a spoiler warning, the snap, who dies, and the Captain Marvel tease.",
   "segments": [
     {
       "kind": "discussion",
@@ -19,7 +19,7 @@
         {
           "title": "Avengers: Infinity War",
           "year": 2018,
-          "note": "A 2-hour-40 culmination 19 films in the making, watched opening night. Both agree it barely holds together as a conventional movie but clears an impossibly high bar. Josh Brolin's Thanos lands as a thoughtful, near-sympathetic villain with a balance-of-the-universe code; Chris Evans, Chris Hemsworth and Tom Holland's Spider-Man singled out, Doctor Strange's quippiness and the crowded IP juggling flagged as strain."
+          "note": "A 2-hour-40 culmination of 19 films, watched opening night. Both agree it barely works as a conventional movie but clears an impossibly high bar. Josh Brolin's Thanos is a thoughtful, near-sympathetic villain with a balance-of-the-universe code. They single out Chris Evans, Chris Hemsworth and Tom Holland's Spider-Man, and flag Doctor Strange's quippiness and the crowded IP juggling as strain points."
         }
       ]
     },
@@ -31,12 +31,12 @@
         {
           "title": "Captain Marvel",
           "year": 2019,
-          "note": "Teased in the lone stinger — Nick Fury pages her insignia as he dusts. The hosts predict Brie Larson's 1990s-set space hero becomes the key to beating Thanos in Avengers 4, while wondering aloud whether anyone actually cares about the character yet."
+          "note": "Teased in the lone stinger: Nick Fury pages her insignia as he dusts. The hosts predict Brie Larson's 1990s-set space hero becomes the key to beating Thanos in Avengers 4, though they wonder whether anyone actually cares about the character yet."
         },
         {
           "title": "Ant-Man and the Wasp",
           "year": 2018,
-          "note": "The other tentpole holding up Marvel's year — a franchise, Sean jokes, whose lead didn't even have his own comic for the MCU's first six years."
+          "note": "The other tentpole holding up Marvel's year. Sean jokes it's a franchise whose lead didn't even have his own comic for the MCU's first six years."
         },
         {
           "title": "Avengers: Endgame",
@@ -74,10 +74,19 @@
         "Spider-Man",
         "Spider-Man 2",
         "Back to the Future",
-        "Transformers"
+        "Transformers",
+        "X-Men",
+        "Superman",
+        "Batman",
+        "The Hunger Games: Mockingjay - Part 1"
       ]
     }
   ],
+  "tmdbOverrides": {
+    "X-Men": 36657,
+    "Superman": 1924,
+    "Batman": 268
+  },
   "excluded": {
     "TV": [
       "Westworld",
@@ -251,6 +260,30 @@
       "poster": "/4N4sipl8T72tNE4earcctQa2Kw2.jpg",
       "title": "Transformers",
       "year": 2007
+    },
+    "X-Men": {
+      "id": 36657,
+      "poster": "/bRDAc4GogyS9ci3ow7UnInOcriN.jpg",
+      "title": "X-Men",
+      "year": 2000
+    },
+    "Superman": {
+      "id": 1924,
+      "poster": "/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
+      "title": "Superman",
+      "year": 1978
+    },
+    "Batman": {
+      "id": 268,
+      "poster": "/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
+      "title": "Batman",
+      "year": 1989
+    },
+    "The Hunger Games: Mockingjay - Part 1": {
+      "id": 131631,
+      "poster": "/4FAA18ZIja70d1Tu5hr5cj2q1sB.jpg",
+      "title": "The Hunger Games: Mockingjay - Part 1",
+      "year": 2014
     }
   }
 }

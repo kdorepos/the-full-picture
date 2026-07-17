@@ -1,0 +1,239 @@
+{
+  "slug": "incredibles-2-and-brad-birds-super-powered-return-to-pixar-t",
+  "title": "‘Incredibles 2’ and Brad Bird’s Super-Powered Return to Pixar",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2018-06-15",
+  "runtimeMin": 31,
+  "format": "Brad Bird on Incredibles 2, why the family always came before the villain, and what makes an action scene you can actually follow.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "Brad Bird on ‘Incredibles 2’",
+      "guest": "Brad Bird on",
+      "films": [
+        {
+          "title": "Incredibles 2",
+          "year": 2018,
+          "note": "Fourteen years after the first, with Helen out saving the world and Bob home with the kids, a swap Bird says he had in mind since the original. He rewrote the superhero plot repeatedly, throwing out what he estimates was two and a half other movies' worth of material."
+        },
+        {
+          "title": "The Incredibles",
+          "year": 2004,
+          "note": "The original. Bird's rule for both films: never do something fantastic for long without something mundane, and vice versa. It's why Elastigirl catches her reflection mid-infiltration and worries she's gained a few pounds."
+        },
+        {
+          "title": "The Iron Giant",
+          "year": 1999,
+          "note": "His hand-drawn debut, which Bird says is aging well and finding a new audience partly via its Ready Player One cameo."
+        },
+        {
+          "title": "Ratatouille",
+          "year": 2007,
+          "note": "The other Pixar feature Bird directed before leaving for live action."
+        },
+        {
+          "title": "Mission: Impossible - Ghost Protocol",
+          "year": 2011,
+          "note": "His first live-action film; Fennessey calls it a personal favorite. Fight coordinator Rob Alonso, who worked on it, came back to advise the animators on the fight between Elastigirl and Screenslaver."
+        },
+        {
+          "title": "Tomorrowland",
+          "year": 2015,
+          "note": "Bird thinks audiences expected to spend the whole film in Tomorrowland and were let down by a road movie; he pushes back on the read that it scolded viewers for liking apocalyptic films."
+        },
+        {
+          "title": "A Quiet Place",
+          "year": 2018,
+          "note": "His pick for the last great thing he's seen. He admired it going quiet while movies get louder and counts himself a meet-it-halfway horror viewer whose taste runs to Jaws and Alien."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Action and influences he cited",
+      "films": [
+        "Die Hard",
+        "Jaws",
+        "Alien",
+        "The Road Warrior",
+        "Terminator 2: Judgment Day",
+        "Dementia 13",
+        "The Day the Earth Stood Still",
+        "Chinatown"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Ready Player One",
+        "Toy Story 4",
+        "Cars",
+        "Blithe Spirit",
+        "Brief Encounter",
+        "Jurassic World: Fallen Kingdom",
+        "Jurassic Park",
+        "Hereditary"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Outer Limits",
+      "Jonny Quest"
+    ],
+    "Podcasts": [
+      "The Bill Simmons Podcast",
+      "The Rewatchables"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Road Warrior": 8810,
+    "The Day the Earth Stood Still": 828,
+    "Blithe Spirit": 19072
+  },
+  "tmdb": {
+    "Incredibles 2": {
+      "id": 260513,
+      "poster": "/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
+      "title": "Incredibles 2",
+      "year": 2018
+    },
+    "The Incredibles": {
+      "id": 9806,
+      "poster": "/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+      "title": "The Incredibles",
+      "year": 2004
+    },
+    "The Iron Giant": {
+      "id": 10386,
+      "poster": "/ct04FCFLPImNG5thcPLRnVsZlmS.jpg",
+      "title": "The Iron Giant",
+      "year": 1999
+    },
+    "Ratatouille": {
+      "id": 2062,
+      "poster": "/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+      "title": "Ratatouille",
+      "year": 2007
+    },
+    "Mission: Impossible - Ghost Protocol": {
+      "id": 56292,
+      "poster": "/eRZTGx7GsiKqPch96k27LK005ZL.jpg",
+      "title": "Mission: Impossible - Ghost Protocol",
+      "year": 2011
+    },
+    "Tomorrowland": {
+      "id": 158852,
+      "poster": "/kziYpr5Nfw60P0My8aj1sgCEqed.jpg",
+      "title": "Tomorrowland",
+      "year": 2015
+    },
+    "A Quiet Place": {
+      "id": 447332,
+      "poster": "/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+      "title": "A Quiet Place",
+      "year": 2018
+    },
+    "Die Hard": {
+      "id": 562,
+      "poster": "/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg",
+      "title": "Die Hard",
+      "year": 1988
+    },
+    "Jaws": {
+      "id": 578,
+      "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "title": "Jaws",
+      "year": 1975
+    },
+    "Alien": {
+      "id": 348,
+      "poster": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "title": "Alien",
+      "year": 1979
+    },
+    "The Road Warrior": {
+      "id": 8810,
+      "poster": "/l1KVEhkGDpWRzQ0VqIhZqDDuOim.jpg",
+      "title": "Mad Max 2",
+      "year": 1981
+    },
+    "Terminator 2: Judgment Day": {
+      "id": 280,
+      "poster": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991
+    },
+    "Dementia 13": {
+      "id": 28503,
+      "poster": "/aLv5491Q11zhIZbpqz7rnRZkSLZ.jpg",
+      "title": "Dementia 13",
+      "year": 1963
+    },
+    "The Day the Earth Stood Still": {
+      "id": 828,
+      "poster": "/eslDNzf0LF1m9GsgUXlmyfTcC6Y.jpg",
+      "title": "The Day the Earth Stood Still",
+      "year": 1951
+    },
+    "Chinatown": {
+      "id": 829,
+      "poster": "/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg",
+      "title": "Chinatown",
+      "year": 1974
+    },
+    "Ready Player One": {
+      "id": 333339,
+      "poster": "/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
+      "title": "Ready Player One",
+      "year": 2018
+    },
+    "Toy Story 4": {
+      "id": 301528,
+      "poster": "/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+      "title": "Toy Story 4",
+      "year": 2019
+    },
+    "Cars": {
+      "id": 920,
+      "poster": "/oloVyeBbkVGbFFaUjR8I7Boo7wA.jpg",
+      "title": "Cars",
+      "year": 2006
+    },
+    "Blithe Spirit": {
+      "id": 19072,
+      "poster": "/mBKB90yS8Gti4QhcYGuUeJmeOoC.jpg",
+      "title": "Blithe Spirit",
+      "year": 1945
+    },
+    "Brief Encounter": {
+      "id": 851,
+      "poster": "/jC9EwLJcGhYMSQAHu2LxkKN5v7O.jpg",
+      "title": "Brief Encounter",
+      "year": 1945
+    },
+    "Jurassic World: Fallen Kingdom": {
+      "id": 351286,
+      "poster": "/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg",
+      "title": "Jurassic World: Fallen Kingdom",
+      "year": 2018
+    },
+    "Jurassic Park": {
+      "id": 329,
+      "poster": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "title": "Jurassic Park",
+      "year": 1993
+    },
+    "Hereditary": {
+      "id": 493922,
+      "poster": "/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+      "title": "Hereditary",
+      "year": 2018
+    }
+  }
+}

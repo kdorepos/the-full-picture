@@ -1,0 +1,159 @@
+{
+  "slug": "how-crazy-rich-asians-director-jon-m-chu-earned-his-spot-the",
+  "title": "How 'Crazy Rich Asians' Director Jon M. Chu Earned His Spot",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2018-08-17",
+  "runtimeMin": 31,
+  "format": "Sean Fennessey talks to Jon M. Chu the week 'Crazy Rich Asians' opens: how a studio-raised director of sequels and a Bieber doc found the movie that finally felt personal, why he tracks the box office he claims not to care about, and what's next with 'In the Heights'.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Jon M. Chu on",
+      "films": [
+        {
+          "title": "Crazy Rich Asians",
+          "year": 2018,
+          "note": "The adaptation of Kevin Kwan's 2013 novel, and the first Hollywood studio film with an all-Asian cast since 1993. Chu says the opulence didn't move him in the book; what he related to was Rachel Chu, an Asian American going to her cultural homeland for the first time and being made to feel like an outsider. Calls it his most present film and points to a two-and-a-half-minute oner at Tyersall Park, where all the tones collide, as the moment he knew it would work."
+        },
+        {
+          "title": "The Joy Luck Club",
+          "year": 1993,
+          "note": "The last major studio production with an all-Asian and Asian American cast before this one, 25 years earlier."
+        },
+        {
+          "title": "Justin Bieber: Never Say Never",
+          "year": 2011,
+          "note": "The performance documentary cited as part of his early studio run, before he went looking for something personal."
+        },
+        {
+          "title": "Step Up 2: The Streets",
+          "year": 2008,
+          "note": "One of two Step Up installments he directed on his way up through the studio system."
+        },
+        {
+          "title": "Step Up 3D",
+          "year": 2010,
+          "note": "His second Step Up film."
+        },
+        {
+          "title": "G.I. Joe: Retaliation",
+          "year": 2013,
+          "note": "The G.I. Joe sequel from his run of studio work; his movies, he says, made over a billion dollars for other companies while he stayed 'famous-ish.'"
+        },
+        {
+          "title": "Jem and the Holograms",
+          "year": 2015,
+          "note": "The flop where, in his words, 'literally nobody sees your movie.' Chu says he's still proud of it, and that it's what got him asking why he makes movies at all."
+        },
+        {
+          "title": "Now You See Me 2",
+          "year": 2016,
+          "note": "Big franchise work with a great cast that still left him asking what he was contributing, which sent him searching for his cultural identity."
+        },
+        {
+          "title": "In the Heights",
+          "year": 2021,
+          "note": "His next film, which he joined around the same time as this one. The Lin-Manuel Miranda musical about immigrants and community; he's after the truth in their eyes, not the sing-to-the-stars spectacle."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "The Great Gatsby",
+        "Black Panther",
+        "To All the Boys I've Loved Before"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Dawson's Creek",
+      "The Staircase"
+    ],
+    "Ads": [
+      "National Highway Traffic Safety Administration"
+    ]
+  },
+  "tmdb": {
+    "Crazy Rich Asians": {
+      "id": 455207,
+      "poster": "/1XxL4LJ5WHdrcYcihEZUCgNCpAW.jpg",
+      "title": "Crazy Rich Asians",
+      "year": 2018
+    },
+    "The Joy Luck Club": {
+      "id": 19931,
+      "poster": "/s1Sk0hhVARNs7i9wqRHqbCriu8n.jpg",
+      "title": "The Joy Luck Club",
+      "year": 1993
+    },
+    "Justin Bieber: Never Say Never": {
+      "id": 54518,
+      "poster": "/dGNMD5XTBQN3teIth21ohKOCJcR.jpg",
+      "title": "Justin Bieber: Never Say Never",
+      "year": 2011
+    },
+    "Step Up 2: The Streets": {
+      "id": 8328,
+      "poster": "/vYdlRTvA5fneB88NchV3sirzCE1.jpg",
+      "title": "Step Up 2: The Streets",
+      "year": 2008
+    },
+    "Step Up 3D": {
+      "id": 41233,
+      "poster": "/rPcqa5TZ7S63RNmCuY45ZizFBen.jpg",
+      "title": "Step Up 3D",
+      "year": 2010
+    },
+    "G.I. Joe: Retaliation": {
+      "id": 72559,
+      "poster": "/3rWIZMzTKcCtV0eHJ70Z4Ru659f.jpg",
+      "title": "G.I. Joe: Retaliation",
+      "year": 2013
+    },
+    "Jem and the Holograms": {
+      "id": 266639,
+      "poster": "/qwsx5i4xUW3YZoFWlrkpNTUfpZf.jpg",
+      "title": "Jem and the Holograms",
+      "year": 2015
+    },
+    "Now You See Me 2": {
+      "id": 291805,
+      "poster": "/A81kDB6a1K86YLlcOtZB27jriJh.jpg",
+      "title": "Now You See Me 2",
+      "year": 2016
+    },
+    "In the Heights": {
+      "id": 467909,
+      "poster": "/RO4KoJyoQMQzh9z76d4v4FJMmJ.jpg",
+      "title": "In the Heights",
+      "year": 2021
+    },
+    "The Great Gatsby": {
+      "id": 64682,
+      "poster": "/nimh1rrDDLhgpG8XAYoUZXHYwb6.jpg",
+      "title": "The Great Gatsby",
+      "year": 2013
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "To All the Boys I've Loved Before": {
+      "id": 466282,
+      "poster": "/hKHZhUbIyUAjcSrqJThFGYIR6kI.jpg",
+      "title": "To All the Boys I've Loved Before",
+      "year": 2018
+    }
+  }
+}

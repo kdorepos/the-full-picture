@@ -1,0 +1,169 @@
+{
+  "slug": "how-to-make-a-marvel-movie-funny-with-thor-ragnarok-director",
+  "title": "How to Make a Marvel Movie Funny With 'Thor: Ragnarok' Director Taika Waititi | The Big Picture (Ep. 32)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2017-11-03",
+  "runtimeMin": 32,
+  "format": "Sean Fennessey talks to Taika Waititi about turning the third Thor movie into a comedy, being left alone by Marvel, and how Korg's rock-paper-scissors joke got past the filter.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "Taika Waititi on 'Thor: Ragnarok'",
+      "guest": "Taika Waititi on",
+      "films": [
+        {
+          "title": "Thor: Ragnarok",
+          "year": 2017,
+          "note": "Marvel came to him mid-edit on 'Hunt for the Wilderpeople'; he pitched Cate Blanchett a chamber piece about a man trying to get home while an arsonist burns down his house. He treated the script as a blueprint and riffed scenes over 20 takes, and he'd put the Led Zeppelin cut in his pitch reel before anyone cleared the song."
+        },
+        {
+          "title": "Boy",
+          "year": 2010,
+          "note": "The film that actually got Marvel interested, he says, because it proved he could work pathos into the comedy rather than just tell jokes."
+        },
+        {
+          "title": "Hunt for the Wilderpeople",
+          "year": 2016,
+          "note": "He was halfway through the edit, in Hawaii after the birth of his second child, when the Thor email arrived."
+        },
+        {
+          "title": "What We Do in the Shadows",
+          "year": 2014,
+          "note": "The vampire mockumentary with Jemaine Clement; its cop spin-off is what pulled him back to New Zealand right after Ragnarok."
+        },
+        {
+          "title": "Guardians of the Galaxy",
+          "year": 2014,
+          "note": "One of his two favorite Marvel franchises. He says he'd never make a Guardians film because James Gunn already owns it so completely."
+        },
+        {
+          "title": "Iron Man",
+          "year": 2008,
+          "note": "His other favorite. He suspects it was shot the way he likes to work, actors listening and riffing rather than reciting canned one-liners."
+        },
+        {
+          "title": "Carol",
+          "year": 2015,
+          "note": "Cate Blanchett came straight off it and wanted to fight and wear a funny costume for once; Waititi needled her about it on set, pitching 'Carol 2.'"
+        },
+        {
+          "title": "Get Out",
+          "year": 2017,
+          "note": "His pick for the last great thing he saw. He watched it with his mouth hanging open, he says, the same expression Daniel Kaluuya gives throughout."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Thor",
+        "Thor: The Dark World",
+        "Anomalisa"
+      ]
+    },
+    {
+      "group": "In development",
+      "films": [
+        "Bubbles"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Flight of the Conchords",
+      "Curb Your Enthusiasm",
+      "The X-Files"
+    ],
+    "Comics": [
+      "X-Men",
+      "New Mutants",
+      "Batman"
+    ],
+    "Music": [
+      "Immigrant Song"
+    ]
+  },
+  "tmdbOverrides": {
+    "Bubbles": 441387
+  },
+  "tmdb": {
+    "Thor: Ragnarok": {
+      "id": 284053,
+      "poster": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "title": "Thor: Ragnarok",
+      "year": 2017
+    },
+    "Boy": {
+      "id": 39356,
+      "poster": "/jOcwOnCwTbCvJm7jAbeSo4Jgv0H.jpg",
+      "title": "Boy",
+      "year": 2010
+    },
+    "Hunt for the Wilderpeople": {
+      "id": 371645,
+      "poster": "/hkmz9rxgcweizXNElozGeKwmAJE.jpg",
+      "title": "Hunt for the Wilderpeople",
+      "year": 2016
+    },
+    "What We Do in the Shadows": {
+      "id": 246741,
+      "poster": "/a2rD3i3DBMeYbA34rBv6z3B9S3a.jpg",
+      "title": "What We Do in the Shadows",
+      "year": 2014
+    },
+    "Guardians of the Galaxy": {
+      "id": 118340,
+      "poster": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "title": "Guardians of the Galaxy",
+      "year": 2014
+    },
+    "Iron Man": {
+      "id": 1726,
+      "poster": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "title": "Iron Man",
+      "year": 2008
+    },
+    "Carol": {
+      "id": 258480,
+      "poster": "/cJeled7EyPdur6TnCA5GYg0UVna.jpg",
+      "title": "Carol",
+      "year": 2015
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Thor": {
+      "id": 10195,
+      "poster": "/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
+      "title": "Thor",
+      "year": 2011
+    },
+    "Thor: The Dark World": {
+      "id": 76338,
+      "poster": "/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",
+      "title": "Thor: The Dark World",
+      "year": 2013
+    },
+    "Anomalisa": {
+      "id": 291270,
+      "poster": "/4DJ1zNr4Y6q7zQ27goEYla46VdO.jpg",
+      "title": "Anomalisa",
+      "year": 2015
+    },
+    "Bubbles": {
+      "id": 441387,
+      "poster": null,
+      "title": "Bubbles",
+      "year": null
+    }
+  }
+}

@@ -20,7 +20,7 @@
         {
           "title": "Black Panther: Wakanda Forever",
           "year": 2022,
-          "note": "Coogler and co-writer Joe Robert Cole return without Chadwick Boseman. Van loved it and thinks it tops the first; Sean and Amanda found it overstuffed — grief, allyship, Namor's origin, an Ironheart backdoor pilot, and MCU phase-four setup all fighting for room. Agreement on the bookends (the opening and Shuri's arc), Namor (Tenoch Huerta) as the best element, and Ruth Carter's costumes; complaints about the CGI action, Riri Williams feeling wedged in, and Lake Bell's dropped subplot."
+          "note": "Coogler and co-writer Joe Robert Cole return without Chadwick Boseman. Van loved it and thinks it tops the first; Sean and Amanda found it overstuffed: grief, allyship, Namor's origin, an Ironheart backdoor pilot, and MCU phase-four setup all fighting for room. Agreement on the bookends (the opening and Shuri's arc), Namor (Tenoch Huerta) as the best element, and Ruth Carter's costumes; complaints about the CGI action, Riri Williams feeling wedged in, and Lake Bell's dropped subplot."
         }
       ]
     },
@@ -49,7 +49,7 @@
         {
           "title": "Madhouse",
           "year": 1990,
-          "note": "No. 4 — the John Larroquette comedy."
+          "note": "No. 4 (the John Larroquette comedy)."
         },
         {
           "title": "Raising Arizona",
@@ -82,7 +82,8 @@
         "Tenet",
         "Interstellar",
         "Inception",
-        "Clash of the Titans",
+        "Clash of the Titans (1981)",
+        "Clash of the Titans (2010)",
         "Troy",
         "Avatar",
         "Avatar: The Way of Water",
@@ -113,6 +114,10 @@
       "Uber",
       "Botox"
     ]
+  },
+  "tmdbOverrides": {
+    "Clash of the Titans (1981)": 10323,
+    "Clash of the Titans (2010)": 18823
   },
   "tmdb": {
     "Black Panther: Wakanda Forever": {
@@ -229,7 +234,13 @@
       "title": "Inception",
       "year": 2010
     },
-    "Clash of the Titans": {
+    "Clash of the Titans (1981)": {
+      "id": 10323,
+      "poster": "/5JCLODNLJH6alc3KmyoiC21Nlob.jpg",
+      "title": "Clash of the Titans",
+      "year": 1981
+    },
+    "Clash of the Titans (2010)": {
       "id": 18823,
       "poster": "/6iHYLipwEyZUPNO8MM3l1yHDaFE.jpg",
       "title": "Clash of the Titans",

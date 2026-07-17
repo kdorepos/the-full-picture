@@ -1,0 +1,651 @@
+{
+  "slug": "bullet-train-and-the-top-5-movies-set-on-a-train",
+  "title": "‘Bullet Train’ and the Top 5 Movies Set on a Train",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Van Lathan"
+  ],
+  "published": "2022-08-05",
+  "runtimeMin": 60,
+  "format": "Sean and Van Lathan review David Leitch's ‘Bullet Train,’ then each count down five favorite movies set on a train.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘Bullet Train’",
+      "films": [
+        {
+          "title": "Bullet Train",
+          "year": 2022,
+          "note": "David Leitch directs Brad Pitt as Ladybug, an unlucky assassin taking one last job on a Japanese bullet train packed with rival killers (Brian Tyree Henry, Aaron Taylor-Johnson, Joey King, Andrew Koji, Hiroyuki Sanada, plus Bad Bunny and Zazie Beetz). Sean and Van agree it fails: adapted from Kotaro Isaka's serious novel but rewritten by Leitch and Pitt into a jokey comedy with no stakes. Van's read — a very violent movie masking itself with humor, like ‘Deadpool,’ and a cast full of memes over characters; both call it Kill Bill-inspired but a poor homage. Van pegs Aaron Taylor-Johnson as the best thing in it and Joey King as strong."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Van's top five movies set on a train",
+      "note": "counted down 5 to 1 on air",
+      "subject": "movies set on a train, per Van",
+      "ranked": true,
+      "films": [
+        {
+          "title": "From Russia with Love",
+          "year": 1963,
+          "note": "No. 1. Bond and SPECTRE, most of the second and third act on the train; Van praises Robert Shaw's Red Grant as a nastier, scaled-down villain."
+        },
+        {
+          "title": "Snowpiercer",
+          "year": 2013,
+          "note": "No. 2. Bong Joon-ho's class satire on a train that never stops. One of Van's favorites; his partner Kalika was horrified by it."
+        },
+        {
+          "title": "Under Siege 2: Dark Territory",
+          "year": 1995,
+          "note": "No. 3. Die Hard on a train with Steven Seagal; Sean rides for Eric Bogosian's villain."
+        },
+        {
+          "title": "Source Code",
+          "year": 2011,
+          "note": "No. 4. Duncan Jones's Groundhog Day-meets-espionage puzzle with Jake Gyllenhaal reliving eight minutes on a train. Van thinks it's underrated; Sean likes it but sees a third-act problem."
+        },
+        {
+          "title": "Silver Streak",
+          "year": 1976,
+          "note": "No. 5. The Gene Wilder / Richard Pryor comedy, one of the first movies Van ever saw."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Sean's top five movies set on a train",
+      "note": "counted down 5 to 1 on air",
+      "subject": "movies set on a train, per Sean",
+      "ranked": true,
+      "films": [
+        {
+          "title": "The Taking of Pelham One Two Three",
+          "year": 1974,
+          "note": "No. 1. Joseph Sargent's subway crime drama with Walter Matthau; Sean calls it one of the best movies of the '70s and a template for later heist films."
+        },
+        {
+          "title": "Runaway Train",
+          "year": 1985,
+          "note": "No. 2. Konchalovsky's runaway-train epic from an Akira Kurosawa story; Jon Voight and Eric Roberts both earned Oscar nods. Sister film to ‘Unstoppable.’"
+        },
+        {
+          "title": "The Darjeeling Limited",
+          "year": 2007,
+          "note": "No. 3. Wes Anderson's India-set brothers-on-a-train movie; Sean has come around on a pick he once dismissed as a white-savior film."
+        },
+        {
+          "title": "Unstoppable",
+          "year": 2010,
+          "note": "No. 4. Tony Scott's Denzel Washington / Chris Pine runaway-train thriller, better than its reputation."
+        },
+        {
+          "title": "The Train",
+          "year": 1964,
+          "note": "No. 5. John Frankenheimer's WWII resistance movie with Burt Lancaster stalling a Nazi art train; real trains, black and white."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Around the ‘Bullet Train’ review",
+      "films": [
+        "John Wick",
+        "Atomic Blonde",
+        "Deadpool 2",
+        "Fast & Furious Presents: Hobbs & Shaw",
+        "Deadpool",
+        "Grosse Pointe Blank",
+        "What About Bob?",
+        "Ad Astra",
+        "Once Upon a Time in Hollywood",
+        "The Gray Man",
+        "Æon Flux",
+        "Predator",
+        "Cobra",
+        "Tango & Cash",
+        "Die Hard",
+        "Kill Bill: Vol. 1",
+        "Mortal Kombat"
+      ]
+    },
+    {
+      "group": "Other train movies name-checked",
+      "films": [
+        "Murder on the Orient Express",
+        "The Taking of Pelham 123",
+        "North by Northwest",
+        "Throw Momma from the Train",
+        "Planes, Trains and Automobiles"
+      ]
+    },
+    {
+      "group": "Bond and the sci-fi third-act detour",
+      "films": [
+        "Goldfinger",
+        "Moonraker",
+        "On Her Majesty's Secret Service",
+        "The Living Daylights",
+        "The Empire Strikes Back",
+        "Planet of the Apes",
+        "The Omega Man",
+        "Logan's Run",
+        "Moon"
+      ]
+    },
+    {
+      "group": "Frankenheimer's 1960s run",
+      "films": [
+        "Birdman of Alcatraz",
+        "The Manchurian Candidate",
+        "Seven Days in May",
+        "Seconds",
+        "Grand Prix",
+        "Ronin",
+        "The Island of Dr. Moreau",
+        "Reindeer Games",
+        "Ford v Ferrari"
+      ]
+    },
+    {
+      "group": "Denzel, Eric Roberts, Wilder-Pryor, Wes",
+      "films": [
+        "Safe House",
+        "2 Guns",
+        "Best of the Best",
+        "Star 80",
+        "The Pope of Greenwich Village",
+        "See No Evil, Hear No Evil",
+        "Stir Crazy",
+        "The Royal Tenenbaums",
+        "Rushmore"
+      ]
+    },
+    {
+      "group": "Pelham's crime-movie lineage and 1974",
+      "films": [
+        "Heat",
+        "Reservoir Dogs",
+        "Speed",
+        "The Longest Yard",
+        "Young Frankenstein",
+        "Blazing Saddles",
+        "The Towering Inferno",
+        "The Godfather Part II",
+        "Freebie and the Bean",
+        "The Texas Chain Saw Massacre",
+        "Chinatown",
+        "Death Wish"
+      ]
+    },
+    {
+      "group": "Next week",
+      "films": [
+        "Prey",
+        "Predator"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Snowpiercer (TV series)",
+      "Thomas the Tank Engine"
+    ],
+    "Games": [
+      "FIFA World Cup Launch Edition"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "FanDuel",
+      "Netflix",
+      "Botox",
+      "Sam's Club",
+      "The Ringer Fantasy Football Show"
+    ]
+  },
+  "tmdb": {
+    "Bullet Train": {
+      "id": 718930,
+      "poster": "/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg",
+      "title": "Bullet Train",
+      "year": 2022
+    },
+    "From Russia with Love": {
+      "id": 657,
+      "poster": "/zx4V17FP8oclNvOpTgs2iCCtiYk.jpg",
+      "title": "From Russia with Love",
+      "year": 1963
+    },
+    "Snowpiercer": {
+      "id": 110415,
+      "poster": "/kw6YQudA0TMcNmGUGy5XIw7zbnV.jpg",
+      "title": "Snowpiercer",
+      "year": 2013
+    },
+    "Under Siege 2: Dark Territory": {
+      "id": 3512,
+      "poster": "/gElwFCQTbSK5hdK0PVyia547nst.jpg",
+      "title": "Under Siege 2: Dark Territory",
+      "year": 1995
+    },
+    "Source Code": {
+      "id": 45612,
+      "poster": "/nTr0lvAzeQmUjgSgDEHTJpnrxTz.jpg",
+      "title": "Source Code",
+      "year": 2011
+    },
+    "Silver Streak": {
+      "id": 11558,
+      "poster": "/gY1a4k9dalGx83D7TJ2C76xBprS.jpg",
+      "title": "Silver Streak",
+      "year": 1976
+    },
+    "The Taking of Pelham One Two Three": {
+      "id": 8333,
+      "poster": "/vNhywp9w1DVG6BytxKp4kjtaaGC.jpg",
+      "title": "The Taking of Pelham One Two Three",
+      "year": 1974
+    },
+    "Runaway Train": {
+      "id": 11893,
+      "poster": "/yEvMuhIdwPhhEtikAihxUTM1u75.jpg",
+      "title": "Runaway Train",
+      "year": 1985
+    },
+    "The Darjeeling Limited": {
+      "id": 4538,
+      "poster": "/oSW5OVXTulaIXcoNwJAp5YEKpbP.jpg",
+      "title": "The Darjeeling Limited",
+      "year": 2007
+    },
+    "Unstoppable": {
+      "id": 44048,
+      "poster": "/zKvHwL0GqLOear8rTnUPSTRYY0r.jpg",
+      "title": "Unstoppable",
+      "year": 2010
+    },
+    "The Train": {
+      "id": 3482,
+      "poster": "/bzgPLB7efMohled42PIn6CcOTnO.jpg",
+      "title": "The Train",
+      "year": 1964
+    },
+    "John Wick": {
+      "id": 245891,
+      "poster": "/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
+      "title": "John Wick",
+      "year": 2014
+    },
+    "Atomic Blonde": {
+      "id": 341013,
+      "poster": "/kV9R5h0Yct1kR8Hf8sJ1nX0Vz4x.jpg",
+      "title": "Atomic Blonde",
+      "year": 2017
+    },
+    "Deadpool 2": {
+      "id": 383498,
+      "poster": "/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+      "title": "Deadpool 2",
+      "year": 2018
+    },
+    "Fast & Furious Presents: Hobbs & Shaw": {
+      "id": 384018,
+      "poster": "/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg",
+      "title": "Fast & Furious Presents: Hobbs & Shaw",
+      "year": 2019
+    },
+    "Deadpool": {
+      "id": 293660,
+      "poster": "/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
+      "title": "Deadpool",
+      "year": 2016
+    },
+    "Grosse Pointe Blank": {
+      "id": 9434,
+      "poster": "/7lQ0MSNQqBTYpXTTZL82u1n95Z3.jpg",
+      "title": "Grosse Pointe Blank",
+      "year": 1997
+    },
+    "What About Bob?": {
+      "id": 10276,
+      "poster": "/pFCrGGGhV5xeAdvEysv6aSv8T13.jpg",
+      "title": "What About Bob?",
+      "year": 1991
+    },
+    "Ad Astra": {
+      "id": 419704,
+      "poster": "/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg",
+      "title": "Ad Astra",
+      "year": 2019
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "The Gray Man": {
+      "id": 725201,
+      "poster": "/8cXbitsS6dWQ5gfMTZdorpAAzEH.jpg",
+      "title": "The Gray Man",
+      "year": 2022
+    },
+    "Æon Flux": {
+      "id": 8202,
+      "poster": "/5958Nt4QX6aRSUdQnvNw8wqjTJQ.jpg",
+      "title": "Æon Flux",
+      "year": 2005
+    },
+    "Predator": {
+      "id": 106,
+      "poster": "/aN3cdjIK70KGmD84et8MMblU87Q.jpg",
+      "title": "Predator",
+      "year": 1987
+    },
+    "Cobra": {
+      "id": 9874,
+      "poster": "/jCxfbTh8JvJil5edhNywxaTHoWv.jpg",
+      "title": "Cobra",
+      "year": 1986
+    },
+    "Tango & Cash": {
+      "id": 9618,
+      "poster": "/jxxxjTu87OSmQYkMFF7MgOEDXRn.jpg",
+      "title": "Tango & Cash",
+      "year": 1989
+    },
+    "Die Hard": {
+      "id": 562,
+      "poster": "/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg",
+      "title": "Die Hard",
+      "year": 1988
+    },
+    "Kill Bill: Vol. 1": {
+      "id": 24,
+      "poster": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+      "title": "Kill Bill: Vol. 1",
+      "year": 2003
+    },
+    "Mortal Kombat": {
+      "id": 460465,
+      "poster": "/nkayOAUBUu4mMvyNf9iHSUiPjF1.jpg",
+      "title": "Mortal Kombat",
+      "year": 2021
+    },
+    "Murder on the Orient Express": {
+      "id": 392044,
+      "poster": "/7GtdJU6iAg6fjQu3E3zta3bIAQh.jpg",
+      "title": "Murder on the Orient Express",
+      "year": 2017
+    },
+    "The Taking of Pelham 123": {
+      "id": 18487,
+      "poster": "/rEnyQiBu6goqJfvQXpUZQjpoHVp.jpg",
+      "title": "The Taking of Pelham 1 2 3",
+      "year": 2009
+    },
+    "North by Northwest": {
+      "id": 213,
+      "poster": "/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg",
+      "title": "North by Northwest",
+      "year": 1959
+    },
+    "Throw Momma from the Train": {
+      "id": 11896,
+      "poster": "/fwcIsCwTwF8AXNxvNkrZ5dZlGPz.jpg",
+      "title": "Throw Momma from the Train",
+      "year": 1987
+    },
+    "Planes, Trains and Automobiles": {
+      "id": 2609,
+      "poster": "/fwi2cET87xArJCb8MdbWq2BZO3n.jpg",
+      "title": "Planes, Trains and Automobiles",
+      "year": 1987
+    },
+    "Goldfinger": {
+      "id": 658,
+      "poster": "/3zqmjujYSkgLSrdvvZ9VnDfaDRV.jpg",
+      "title": "Goldfinger",
+      "year": 1964
+    },
+    "Moonraker": {
+      "id": 698,
+      "poster": "/6LrJdXNmu5uHOVALZxVYd44Lva0.jpg",
+      "title": "Moonraker",
+      "year": 1979
+    },
+    "On Her Majesty's Secret Service": {
+      "id": 668,
+      "poster": "/m3KfbxvqaiAvRJ6MpguA3GuLdDQ.jpg",
+      "title": "On Her Majesty's Secret Service",
+      "year": 1969
+    },
+    "The Living Daylights": {
+      "id": 708,
+      "poster": "/1oRlmWX9hewpn2B44wawBjHd7dx.jpg",
+      "title": "The Living Daylights",
+      "year": 1987
+    },
+    "The Empire Strikes Back": {
+      "id": 1891,
+      "poster": "/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+      "title": "The Empire Strikes Back",
+      "year": 1980
+    },
+    "Planet of the Apes": {
+      "id": 871,
+      "poster": "/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+      "title": "Planet of the Apes",
+      "year": 1968
+    },
+    "The Omega Man": {
+      "id": 11234,
+      "poster": "/qlt65C43HeoDm5K5gYBtT20OeA1.jpg",
+      "title": "The Omega Man",
+      "year": 1971
+    },
+    "Logan's Run": {
+      "id": 10803,
+      "poster": "/v3ILN8ROPcrNRJ8S7GH24JyihH8.jpg",
+      "title": "Logan's Run",
+      "year": 1976
+    },
+    "Moon": {
+      "id": 17431,
+      "poster": "/35IU0Mq0zFsN1mYwDGts5mKc77n.jpg",
+      "title": "Moon",
+      "year": 2009
+    },
+    "Birdman of Alcatraz": {
+      "id": 898,
+      "poster": "/6EODLN11HTX4l2cmakAhWIoJLF.jpg",
+      "title": "Birdman of Alcatraz",
+      "year": 1962
+    },
+    "The Manchurian Candidate": {
+      "id": 982,
+      "poster": "/2xQ856kd9hw6bB3OnusGyTvvkwB.jpg",
+      "title": "The Manchurian Candidate",
+      "year": 1962
+    },
+    "Seven Days in May": {
+      "id": 23518,
+      "poster": "/fgMwyNl7uZeUrnIAqlX7htSQ2O2.jpg",
+      "title": "Seven Days in May",
+      "year": 1964
+    },
+    "Seconds": {
+      "id": 20620,
+      "poster": "/5G3q3OvulFTnFdiouaZdD8wjtIc.jpg",
+      "title": "Seconds",
+      "year": 1966
+    },
+    "Grand Prix": {
+      "id": 20379,
+      "poster": "/yEXrf09o8wVRFSptYFr6VcqLjPr.jpg",
+      "title": "Grand Prix",
+      "year": 1966
+    },
+    "Ronin": {
+      "id": 8195,
+      "poster": "/AirrhRJjHwytOV0pdLu7YZ4DEyr.jpg",
+      "title": "Ronin",
+      "year": 1998
+    },
+    "The Island of Dr. Moreau": {
+      "id": 9306,
+      "poster": "/hOJeQXve8W9rNRhdgC1WV3GQJyA.jpg",
+      "title": "The Island of Dr. Moreau",
+      "year": 1996
+    },
+    "Reindeer Games": {
+      "id": 2155,
+      "poster": "/8y1PedfYWllJVoBbkt9KWLY155v.jpg",
+      "title": "Reindeer Games",
+      "year": 2000
+    },
+    "Ford v Ferrari": {
+      "id": 359724,
+      "poster": "/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+      "title": "Ford v Ferrari",
+      "year": 2019
+    },
+    "Safe House": {
+      "id": 1522923,
+      "poster": "/jlQW7qPp9j6yGqiIEcB3uNYbjys.jpg",
+      "title": "Safe House",
+      "year": 2025
+    },
+    "2 Guns": {
+      "id": 136400,
+      "poster": "/ptURGAFktibhk7DEAbMazlmNqWa.jpg",
+      "title": "2 Guns",
+      "year": 2013
+    },
+    "Best of the Best": {
+      "id": 238751,
+      "poster": "/jB1I9LihBFKzJlRhpOPzbEXdgKc.jpg",
+      "title": "Best of the Best",
+      "year": 1989
+    },
+    "Star 80": {
+      "id": 30707,
+      "poster": "/b2SkA02fXbZYnV1qjOIQprjXloF.jpg",
+      "title": "Star 80",
+      "year": 1983
+    },
+    "The Pope of Greenwich Village": {
+      "id": 32081,
+      "poster": "/5U0HNeGoJVK3xic7hK9lz89Ki9i.jpg",
+      "title": "The Pope of Greenwich Village",
+      "year": 1984
+    },
+    "See No Evil, Hear No Evil": {
+      "id": 11185,
+      "poster": "/e9JrnUotqhKTUQEgg2UzDQ7nME2.jpg",
+      "title": "See No Evil, Hear No Evil",
+      "year": 1989
+    },
+    "Stir Crazy": {
+      "id": 21629,
+      "poster": "/ehCdQewg9SxjhnimJrKwNKbr80C.jpg",
+      "title": "Stir Crazy",
+      "year": 1980
+    },
+    "The Royal Tenenbaums": {
+      "id": 9428,
+      "poster": "/nG7hZJn7wQTSDCQT39Gy3s3tbrp.jpg",
+      "title": "The Royal Tenenbaums",
+      "year": 2001
+    },
+    "Rushmore": {
+      "id": 11545,
+      "poster": "/hSJ6swahAuZ8wM96lHDTwQPXUvZ.jpg",
+      "title": "Rushmore",
+      "year": 1998
+    },
+    "Heat": {
+      "id": 949,
+      "poster": "/e09dLw1Ljtccd2P4NsuUvVtS5du.jpg",
+      "title": "Heat",
+      "year": 1995
+    },
+    "Reservoir Dogs": {
+      "id": 500,
+      "poster": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+      "title": "Reservoir Dogs",
+      "year": 1992
+    },
+    "Speed": {
+      "id": 1637,
+      "poster": "/82PkCE4R95KhHICUDF7G4Ly2z3l.jpg",
+      "title": "Speed",
+      "year": 1994
+    },
+    "The Longest Yard": {
+      "id": 9291,
+      "poster": "/nbKcVBcxF96ARW2oKHqDYAcLdu.jpg",
+      "title": "The Longest Yard",
+      "year": 2005
+    },
+    "Young Frankenstein": {
+      "id": 3034,
+      "poster": "/3BvvVKPg9yucChlSvQtJxAbLmj9.jpg",
+      "title": "Young Frankenstein",
+      "year": 1974
+    },
+    "Blazing Saddles": {
+      "id": 11072,
+      "poster": "/vNw1gOEDdYTDeNMuuq8OmiEHrfH.jpg",
+      "title": "Blazing Saddles",
+      "year": 1974
+    },
+    "The Towering Inferno": {
+      "id": 5919,
+      "poster": "/mFM1GbrRrT3DWUFFo8koSITFnYe.jpg",
+      "title": "The Towering Inferno",
+      "year": 1974
+    },
+    "The Godfather Part II": {
+      "id": 240,
+      "poster": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+      "title": "The Godfather Part II",
+      "year": 1974
+    },
+    "Freebie and the Bean": {
+      "id": 20802,
+      "poster": "/sM9YZqppgCfVtFRX1eAgaaeaJQx.jpg",
+      "title": "Freebie and the Bean",
+      "year": 1974
+    },
+    "The Texas Chain Saw Massacre": {
+      "id": 30497,
+      "poster": "/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg",
+      "title": "The Texas Chain Saw Massacre",
+      "year": 1974
+    },
+    "Chinatown": {
+      "id": 829,
+      "poster": "/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg",
+      "title": "Chinatown",
+      "year": 1974
+    },
+    "Death Wish": {
+      "id": 395990,
+      "poster": "/g0eEEZAqMf98ULQnoiORuazjOpn.jpg",
+      "title": "Death Wish",
+      "year": 2018
+    },
+    "Prey": {
+      "id": 766507,
+      "poster": "/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg",
+      "title": "Prey",
+      "year": 2022
+    }
+  }
+}

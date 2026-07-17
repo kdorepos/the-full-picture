@@ -1,0 +1,663 @@
+{
+  "slug": "will-disney-and-netflix-force-the-academy-awards-to-recogniz",
+  "title": "Will Disney+ and Netflix Force the Academy Awards to Recognize Streaming? Plus: Why 'Doctor Sleep' Dozed Off | The Oscars Show",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2019-11-12",
+  "runtimeMin": 119,
+  "format": "Disney+ launches, Doctor Sleep flops, Grace Fennessey ranks her top three movies of the year, and Trey Edward Shults on Waves.",
+  "tmdbOverrides": {
+    "Joy": 539445
+  },
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Disney+ Launches, and Whether Streaming Will Force the Oscars to Change",
+      "note": "the Mandalorian, streaming eligibility, and a bad weekend at the box office",
+      "films": [
+        {
+          "title": "Lady and the Tramp",
+          "year": 2019,
+          "note": "Live-action remake, one of Disney+'s launch titles."
+        },
+        {
+          "title": "Timmy Failure: Mistakes Were Made",
+          "year": 2020,
+          "note": "Written and directed by Tom McCarthy (Spotlight), heading to Disney+."
+        },
+        {
+          "title": "Troop Zero",
+          "year": 2019,
+          "note": "Amazon scrapped its planned theatrical release and sent it straight to streaming."
+        },
+        {
+          "title": "Marriage Story",
+          "year": 2019,
+          "note": "Netflix's awards contender, playing only a couple of theaters in most cities."
+        },
+        {
+          "title": "The Irishman",
+          "year": 2019,
+          "note": "Scorsese's Netflix film. $65 and a valet to see it in a theater before it streams."
+        },
+        {
+          "title": "Parasite",
+          "year": 2019,
+          "note": "Fewer people have actually seen it than have seen Harriet."
+        },
+        {
+          "title": "Midway",
+          "year": 2019,
+          "note": "Roland Emmerich's WWII film 'won' the weekend with just $17 million on a $100 million-plus budget."
+        },
+        {
+          "title": "Playing with Fire",
+          "year": 2019,
+          "note": "John Cena firefighter comedy. Neither host saw it."
+        },
+        {
+          "title": "Last Christmas",
+          "year": 2019,
+          "note": "Amanda walked out before the end."
+        },
+        {
+          "title": "Jojo Rabbit",
+          "year": 2019,
+          "note": "Quietly expanding and picking up steam at the box office."
+        },
+        {
+          "title": "Harriet",
+          "year": 2019,
+          "note": "Cynthia Erivo-led biopic outperforming the movies everyone's actually talking about."
+        },
+        {
+          "title": "Honey Boy",
+          "year": 2019,
+          "note": "Shia LaBeouf's autobiographical script, playing his own father. Strong per-screen average on four screens."
+        },
+        {
+          "title": "Lionheart",
+          "year": 2018,
+          "note": "Nigeria's international feature submission, disqualified for being primarily in English."
+        },
+        {
+          "title": "Joy",
+          "year": 2019,
+          "note": "Austria's submission, disqualified for the same reason."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "The Shining, Doctor Sleep, and Adapting Stephen King",
+      "note": "with the New York Times' Gilbert Cruz",
+      "guest": "Gilbert Cruz on",
+      "films": [
+        {
+          "title": "Doctor Sleep",
+          "year": 2019,
+          "note": "Ewan McGregor as the grown-up Danny Torrance. Badly underperformed opening weekend."
+        },
+        {
+          "title": "The Shining",
+          "year": 1980,
+          "note": "Kubrick's adaptation, which Stephen King has never liked."
+        },
+        {
+          "title": "Carrie",
+          "year": 1976,
+          "note": "Brian De Palma's King adaptation."
+        },
+        {
+          "title": "The Dead Zone",
+          "year": 1983,
+          "note": "David Cronenberg's King adaptation."
+        },
+        {
+          "title": "Gerald's Game",
+          "year": 2017,
+          "note": "Mike Flanagan's previous King adaptation for Netflix. Gilbert recommends it."
+        },
+        {
+          "title": "The Dark Tower",
+          "year": 2017,
+          "note": "Matthew McConaughey/Idris Elba adaptation that bombed."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Grace's Top Three Movies of the Year",
+      "note": "Sean's sister Grace picks her favorites",
+      "guest": "Grace Fennessey on",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Avengers: Endgame",
+          "year": 2019,
+          "note": "No. 1 - she cried through the entire movie."
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "year": 2019,
+          "note": "No. 2 - mostly for Tom Holland."
+        },
+        {
+          "title": "It Chapter Two",
+          "year": 2019,
+          "note": "No. 3 - liked it, but not as much as the first one."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Best Original Song, and the Cats Delay",
+      "note": "the category Amanda thinks shouldn't exist",
+      "films": [
+        {
+          "title": "Cats",
+          "year": 2019,
+          "note": "Post-production delays mean it'll miss New York Film Critics Circle screenings."
+        },
+        {
+          "title": "Richard Jewell",
+          "year": 2019,
+          "note": "Clint Eastwood kept editing through the Burbank fires to hit his deadline."
+        },
+        {
+          "title": "Frozen II",
+          "year": 2019,
+          "note": "'Into the Unknown,' sung by Idina Menzel, also covered by Panic! at the Disco over the credits."
+        },
+        {
+          "title": "The Lion King",
+          "year": 2019,
+          "note": "Two contenders: Beyonce's 'Spirit' and Elton John's 'Never Too Late.'"
+        },
+        {
+          "title": "Breakthrough",
+          "year": 2019,
+          "note": "'I'm Standing With You,' sung by Chrissy Metz."
+        },
+        {
+          "title": "Bad Times at the El Royale",
+          "year": 2018,
+          "note": "Sean's recommendation for hearing Cynthia Erivo actually sing."
+        },
+        {
+          "title": "Wild Rose",
+          "year": 2019,
+          "note": "'Glasgow (No Place Like Home),' sung by Jessie Buckley. Sean's pick, though it probably won't even be nominated."
+        },
+        {
+          "title": "Toy Story 4",
+          "year": 2019,
+          "note": "'The Ballad of the Lonesome Cowboy,' recorded by both Randy Newman and Chris Stapleton."
+        },
+        {
+          "title": "Bombshell",
+          "year": 2019,
+          "note": "Regina Spektor's 'One Little Soldier' plays over it. Amanda hated the choice."
+        },
+        {
+          "title": "Call Me by Your Name",
+          "year": 2017,
+          "note": "Amanda's other example of a pop song pulling attention from the score."
+        },
+        {
+          "title": "Aladdin",
+          "year": 2019,
+          "note": "'Speechless,' sung by Naomi Scott."
+        },
+        {
+          "title": "Rocketman",
+          "year": 2019,
+          "note": "Elton John and Taron Egerton's 'I'm Gonna Love Me Again.' The favorite to win."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In Conversation",
+      "note": "writer-director Trey Edward Shults on his new film",
+      "guest": "Trey Edward Shults on",
+      "films": [
+        {
+          "title": "Waves",
+          "year": 2019,
+          "note": "Shults's third feature, built around his real-life relationship with star Kelvin Harrison Jr."
+        },
+        {
+          "title": "Chungking Express",
+          "year": 1994,
+          "note": "The structural inspiration for splitting the film into two halves."
+        },
+        {
+          "title": "It Comes at Night",
+          "year": 2017,
+          "note": "Shults's previous film. Its reception left him depressed for weeks."
+        },
+        {
+          "title": "The Tree of Life",
+          "year": 2011,
+          "note": "His pick for a Waves double feature."
+        },
+        {
+          "title": "The Lighthouse",
+          "year": 2019,
+          "note": "The last great thing he's seen, caught in IMAX at Toronto."
+        },
+        {
+          "title": "There Will Be Blood",
+          "year": 2007,
+          "note": "The last film that immersed him this completely, before The Lighthouse."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Guardians of the Galaxy",
+        "Star Wars: The Rise of Skywalker",
+        "Aquaman",
+        "Widows",
+        "Manchester by the Sea",
+        "Phantom Thread",
+        "Mad Max: Fury Road",
+        "Under the Skin"
+      ]
+    },
+    {
+      "group": "Also discussed with Grace",
+      "films": [
+        "Scream",
+        "Scream 4",
+        "Knives Out",
+        "Joker",
+        "Fantastic Four",
+        "What's Your Number",
+        "A Hidden Life",
+        "Spider-Man: Homecoming",
+        "Avengers: Infinity War"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Mandalorian",
+      "WandaVision",
+      "The Falcon and the Winter Soldier",
+      "Marvel's What If...?",
+      "Loki",
+      "High School Musical: The Musical: The Series",
+      "The World According to Jeff Goldblum",
+      "The Simpsons",
+      "Downton Abbey",
+      "Supernatural",
+      "Stranger Things",
+      "Living with Yourself",
+      "The Haunting of Hill House",
+      "See",
+      "For All Mankind"
+    ],
+    "Ads": [
+      "Bill Simmons' Book of Basketball 2.0"
+    ]
+  },
+  "tmdb": {
+    "Lady and the Tramp": {
+      "id": 512895,
+      "poster": "/8wBEye516IKul9sW7JKGcFXVGfV.jpg",
+      "title": "Lady and the Tramp",
+      "year": 2019
+    },
+    "Timmy Failure: Mistakes Were Made": {
+      "id": 550440,
+      "poster": "/9Ic99kyJewgPHwl4JftJSwzUmtD.jpg",
+      "title": "Timmy Failure: Mistakes Were Made",
+      "year": 2020
+    },
+    "Troop Zero": {
+      "id": 525946,
+      "poster": "/yr1RzTrVIfS5n9zvClUfAtZDyUn.jpg",
+      "title": "Troop Zero",
+      "year": 2019
+    },
+    "Marriage Story": {
+      "id": 492188,
+      "poster": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+      "title": "Marriage Story",
+      "year": 2019
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Midway": {
+      "id": 522162,
+      "poster": "/hj8pyoNnynGeJTAbl7jcLZO8Uhx.jpg",
+      "title": "Midway",
+      "year": 2019
+    },
+    "Playing with Fire": {
+      "id": 554241,
+      "poster": "/nBLPIpReSatt1zcgVzSVzq5e581.jpg",
+      "title": "Playing with Fire",
+      "year": 2019
+    },
+    "Last Christmas": {
+      "id": 549053,
+      "poster": "/kDEjffiKgjuGo2DRzsqfjvW0CQh.jpg",
+      "title": "Last Christmas",
+      "year": 2019
+    },
+    "Jojo Rabbit": {
+      "id": 515001,
+      "poster": "/1mqL7VG4Ix8wmxwypmCA1HTHBky.jpg",
+      "title": "Jojo Rabbit",
+      "year": 2019
+    },
+    "Harriet": {
+      "id": 506528,
+      "poster": "/rsUs58bDqpJJxZSOebZOMN9gzw2.jpg",
+      "title": "Harriet",
+      "year": 2019
+    },
+    "Honey Boy": {
+      "id": 512263,
+      "poster": "/3BZ2rBn31kWER45ZMj7OTe9keMm.jpg",
+      "title": "Honey Boy",
+      "year": 2019
+    },
+    "Lionheart": {
+      "id": 543774,
+      "poster": "/ndS2uJ8Sum1qEU0fn5c8tdGAMDe.jpg",
+      "title": "Lionheart",
+      "year": 2018
+    },
+    "Joy": {
+      "id": 539445,
+      "poster": "/z4u8WhPExORqRnx6BAZkSvguAHy.jpg",
+      "title": "Joy",
+      "year": 2019
+    },
+    "Doctor Sleep": {
+      "id": 501170,
+      "poster": "/p69QzIBbN06aTYqRRiCOY1emNBh.jpg",
+      "title": "Doctor Sleep",
+      "year": 2019
+    },
+    "The Shining": {
+      "id": 694,
+      "poster": "/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg",
+      "title": "The Shining",
+      "year": 1980
+    },
+    "Carrie": {
+      "id": 7340,
+      "poster": "/8tT1rqlsTguyfUBMrbHR9cv1rxM.jpg",
+      "title": "Carrie",
+      "year": 1976
+    },
+    "The Dead Zone": {
+      "id": 11336,
+      "poster": "/9yTVaeS8eIkOpbwIycVFm7EQrgF.jpg",
+      "title": "The Dead Zone",
+      "year": 1983
+    },
+    "Gerald's Game": {
+      "id": 343674,
+      "poster": "/32dippiypDdaKv7XFEfUlQ7kPup.jpg",
+      "title": "Gerald's Game",
+      "year": 2017
+    },
+    "The Dark Tower": {
+      "id": 353491,
+      "poster": "/i9GUSgddIqrroubiLsvvMRYyRy0.jpg",
+      "title": "The Dark Tower",
+      "year": 2017
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Spider-Man: Far From Home": {
+      "id": 429617,
+      "poster": "/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+      "title": "Spider-Man: Far From Home",
+      "year": 2019
+    },
+    "It Chapter Two": {
+      "id": 474350,
+      "poster": "/zfE0R94v1E8cuKAerbskfD3VfUt.jpg",
+      "title": "It Chapter Two",
+      "year": 2019
+    },
+    "Cats": {
+      "id": 536869,
+      "poster": "/aCNch5FmzT2WaUcY44925owIZXY.jpg",
+      "title": "Cats",
+      "year": 2019
+    },
+    "Richard Jewell": {
+      "id": 292011,
+      "poster": "/5Lgkm8jt4roAFPZQ52fKMhVmDaZ.jpg",
+      "title": "Richard Jewell",
+      "year": 2019
+    },
+    "Frozen II": {
+      "id": 330457,
+      "poster": "/mINJaa34MtknCYl5AjtNJzWj8cD.jpg",
+      "title": "Frozen II",
+      "year": 2019
+    },
+    "The Lion King": {
+      "id": 420818,
+      "poster": "/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg",
+      "title": "The Lion King",
+      "year": 2019
+    },
+    "Breakthrough": {
+      "id": 514439,
+      "poster": "/lUd2FNC8cMCcHyRMNZtVC48p3xH.jpg",
+      "title": "Breakthrough",
+      "year": 2019
+    },
+    "Bad Times at the El Royale": {
+      "id": 446021,
+      "poster": "/qExufIc4Rw0e4xdVZlhMdmEDGES.jpg",
+      "title": "Bad Times at the El Royale",
+      "year": 2018
+    },
+    "Wild Rose": {
+      "id": 482981,
+      "poster": "/79THplH9WM7y3gRPYM4dcC0IRPw.jpg",
+      "title": "Wild Rose",
+      "year": 2019
+    },
+    "Toy Story 4": {
+      "id": 301528,
+      "poster": "/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+      "title": "Toy Story 4",
+      "year": 2019
+    },
+    "Bombshell": {
+      "id": 525661,
+      "poster": "/gbPfvwBqbiHpQkYZQvVwB6MVauV.jpg",
+      "title": "Bombshell",
+      "year": 2019
+    },
+    "Call Me by Your Name": {
+      "id": 398818,
+      "poster": "/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
+      "title": "Call Me by Your Name",
+      "year": 2017
+    },
+    "Aladdin": {
+      "id": 420817,
+      "poster": "/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg",
+      "title": "Aladdin",
+      "year": 2019
+    },
+    "Rocketman": {
+      "id": 504608,
+      "poster": "/f4FF18ia7yTvHf2izNrHqBmgH8U.jpg",
+      "title": "Rocketman",
+      "year": 2019
+    },
+    "Waves": {
+      "id": 533444,
+      "poster": "/3xbjL0z8iH8e8L3USyeKGQrBfuZ.jpg",
+      "title": "Waves",
+      "year": 2019
+    },
+    "Chungking Express": {
+      "id": 11104,
+      "poster": "/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg",
+      "title": "Chungking Express",
+      "year": 1994
+    },
+    "It Comes at Night": {
+      "id": 418078,
+      "poster": "/rNKJpFMlOZn5zkzBPZxEJrQn5Km.jpg",
+      "title": "It Comes at Night",
+      "year": 2017
+    },
+    "The Tree of Life": {
+      "id": 8967,
+      "poster": "/l8cwuB5WJSoj4uMAsnzuHBOMaSJ.jpg",
+      "title": "The Tree of Life",
+      "year": 2011
+    },
+    "The Lighthouse": {
+      "id": 503919,
+      "poster": "/yAKNmpcUweGH6WMCEWenwU9PsbE.jpg",
+      "title": "The Lighthouse",
+      "year": 2019
+    },
+    "There Will Be Blood": {
+      "id": 7345,
+      "poster": "/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+      "title": "There Will Be Blood",
+      "year": 2007
+    },
+    "Guardians of the Galaxy": {
+      "id": 118340,
+      "poster": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "title": "Guardians of the Galaxy",
+      "year": 2014
+    },
+    "Star Wars: The Rise of Skywalker": {
+      "id": 181812,
+      "poster": "/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+      "title": "Star Wars: The Rise of Skywalker",
+      "year": 2019
+    },
+    "Aquaman": {
+      "id": 297802,
+      "poster": "/ufl63EFcc5XpByEV2Ecdw6WJZAI.jpg",
+      "title": "Aquaman",
+      "year": 2018
+    },
+    "Widows": {
+      "id": 401469,
+      "poster": "/d31SGJSaX29ba5ZUbZcesGoDE7I.jpg",
+      "title": "Widows",
+      "year": 2018
+    },
+    "Manchester by the Sea": {
+      "id": 334541,
+      "poster": "/o9VXYOuaJxCEKOxbA86xqtwmqYn.jpg",
+      "title": "Manchester by the Sea",
+      "year": 2016
+    },
+    "Phantom Thread": {
+      "id": 400617,
+      "poster": "/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg",
+      "title": "Phantom Thread",
+      "year": 2017
+    },
+    "Mad Max: Fury Road": {
+      "id": 76341,
+      "poster": "/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+      "title": "Mad Max: Fury Road",
+      "year": 2015
+    },
+    "Under the Skin": {
+      "id": 97370,
+      "poster": "/55wmcXJIDYITr7JDijJTdvwSaAv.jpg",
+      "title": "Under the Skin",
+      "year": 2014
+    },
+    "Scream": {
+      "id": 4232,
+      "poster": "/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+      "title": "Scream",
+      "year": 1996
+    },
+    "Scream 4": {
+      "id": 41446,
+      "poster": "/3cf8p2qw9qnsaaFWc64AG6U05eT.jpg",
+      "title": "Scream 4",
+      "year": 2011
+    },
+    "Knives Out": {
+      "id": 546554,
+      "poster": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+      "title": "Knives Out",
+      "year": 2019
+    },
+    "Joker": {
+      "id": 475557,
+      "poster": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "title": "Joker",
+      "year": 2019
+    },
+    "Fantastic Four": {
+      "id": 9738,
+      "poster": "/4YMcYEFS8sFuW3soP1HVmgR3cSm.jpg",
+      "title": "Fantastic Four",
+      "year": 2005
+    },
+    "What's Your Number": {
+      "id": 63492,
+      "poster": "/eqn3UeXMY9W1Ow3jIZ6COqbjUWX.jpg",
+      "title": "What's Your Number?",
+      "year": 2011
+    },
+    "A Hidden Life": {
+      "id": 403300,
+      "poster": "/taUkn5MsZIq5kpTABsF2563j5zp.jpg",
+      "title": "A Hidden Life",
+      "year": 2019
+    },
+    "Spider-Man: Homecoming": {
+      "id": 315635,
+      "poster": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+      "title": "Spider-Man: Homecoming",
+      "year": 2017
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    }
+  }
+}

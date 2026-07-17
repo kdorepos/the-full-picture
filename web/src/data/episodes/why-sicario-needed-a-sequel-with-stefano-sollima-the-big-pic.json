@@ -1,0 +1,212 @@
+{
+  "slug": "why-sicario-needed-a-sequel-with-stefano-sollima-the-big-pic",
+  "title": "Why ‘Sicario’ Needed a Sequel, With Stefano Sollima | The Big Picture (Ep. 73)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Chris Ryan"
+  ],
+  "published": "2018-06-29",
+  "runtimeMin": 40,
+  "format": "Sean Fennessey and Chris Ryan on how ‘Sicario’ turned into an unlikely franchise, then a sit-down with Stefano Sollima about directing a sequel to a movie no one asked for.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Why ‘Sicario’ Is Good",
+      "note": "Sean Fennessey and Chris Ryan before the interview",
+      "films": [
+        {
+          "title": "Sicario",
+          "year": 2015,
+          "note": "Villeneuve's original. A slow burn that made about $85M domestically but earned a long tail as a darkly rewatchable film; Matt and Alejandro stayed half-obscured, seen through Emily Blunt's Kate."
+        },
+        {
+          "title": "Sicario: Day of the Soldado",
+          "year": 2018,
+          "note": "The sequel Ryan calls one of the most unexpected franchises in years. Foregrounds Brolin and Del Toro, drops the Blunt audience-surrogate, and sets up a possible third film in Taylor Sheridan's border trilogy."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Stefano Sollima on ‘Day of the Soldado’",
+      "guest": "Stefano Sollima on",
+      "films": [
+        {
+          "title": "Sicario: Day of the Soldado",
+          "year": 2018,
+          "note": "Sollima on taking a standalone sequel without aping Villeneuve, researching the border firsthand, the Humvee convoy shot from inside via a 300-degree camera rig with Dariusz Wolski, and the Western turn once Angel shows up."
+        },
+        {
+          "title": "Unforgiven",
+          "year": 1992,
+          "note": "Sollima's touchstone for the beaten-down-hero third act: the crucifixion image and the resurrection beat he found while shooting in the desert."
+        },
+        {
+          "title": "Three Billboards Outside Ebbing, Missouri",
+          "year": 2017,
+          "note": "His pick for the last great thing he'd seen, praising Sam Rockwell's journey (and citing him in ‘Moon’)."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The genre continuum",
+      "films": [
+        "Point Blank",
+        "Convoy"
+      ]
+    },
+    {
+      "group": "Action-scene touchstones",
+      "films": [
+        "Saving Private Ryan",
+        "Black Hawk Down",
+        "Die Hard",
+        "Jason Bourne",
+        "The Fast and the Furious"
+      ]
+    },
+    {
+      "group": "Villeneuve's rise",
+      "films": [
+        "Enemy",
+        "Arrival",
+        "Blade Runner 2049"
+      ]
+    },
+    {
+      "group": "Moon",
+      "films": [
+        "Moon"
+      ]
+    },
+    {
+      "group": "Podcast plugs",
+      "films": [
+        "Jaws",
+        "Ant-Man and the Wasp"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Point Blank": 26039,
+    "Jason Bourne": null,
+    "The Fast and the Furious": null
+  },
+  "excluded": {
+    "TV": [
+      "Gomorrah",
+      "ZeroZeroZero"
+    ],
+    "In development": [
+      "Call of Duty",
+      "Cult"
+    ],
+    "Podcasts": [
+      "The Watch",
+      "The Rewatchables"
+    ],
+    "Ads": [
+      "Sunglass Hut",
+      "Robite"
+    ]
+  },
+  "tmdb": {
+    "Sicario": {
+      "id": 273481,
+      "poster": "/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+      "title": "Sicario",
+      "year": 2015
+    },
+    "Sicario: Day of the Soldado": {
+      "id": 400535,
+      "poster": "/qcLYofEhNh51Sk1jUWjmKHLzkqw.jpg",
+      "title": "Sicario: Day of the Soldado",
+      "year": 2018
+    },
+    "Unforgiven": {
+      "id": 33,
+      "poster": "/54roTwbX9fltg85zjsmrooXAs12.jpg",
+      "title": "Unforgiven",
+      "year": 1992
+    },
+    "Three Billboards Outside Ebbing, Missouri": {
+      "id": 359940,
+      "poster": "/bRYLt8fV82tdVoDppSFTZIcJiLN.jpg",
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "year": 2017
+    },
+    "Point Blank": {
+      "id": 26039,
+      "poster": "/4y8yNXdcP9KQJXd0cIUmQ0t3ezB.jpg",
+      "title": "Point Blank",
+      "year": 1967
+    },
+    "Convoy": {
+      "id": 9584,
+      "poster": "/xjowoBInlikSlvfAYDRN9ubaODB.jpg",
+      "title": "Convoy",
+      "year": 1978
+    },
+    "Saving Private Ryan": {
+      "id": 857,
+      "poster": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+      "title": "Saving Private Ryan",
+      "year": 1998
+    },
+    "Black Hawk Down": {
+      "id": 855,
+      "poster": "/7fU5dSqKRL4XHeEUz62rCKBfYok.jpg",
+      "title": "Black Hawk Down",
+      "year": 2001
+    },
+    "Die Hard": {
+      "id": 562,
+      "poster": "/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg",
+      "title": "Die Hard",
+      "year": 1988
+    },
+    "Jason Bourne": null,
+    "The Fast and the Furious": null,
+    "Enemy": {
+      "id": 181886,
+      "poster": "/vf40tyDRKZsBmaLsYeopzfFLzLx.jpg",
+      "title": "Enemy",
+      "year": 2014
+    },
+    "Arrival": {
+      "id": 329865,
+      "poster": "/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
+      "title": "Arrival",
+      "year": 2016
+    },
+    "Blade Runner 2049": {
+      "id": 335984,
+      "poster": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+      "title": "Blade Runner 2049",
+      "year": 2017
+    },
+    "Moon": {
+      "id": 17431,
+      "poster": "/35IU0Mq0zFsN1mYwDGts5mKc77n.jpg",
+      "title": "Moon",
+      "year": 2009
+    },
+    "Jaws": {
+      "id": 578,
+      "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "title": "Jaws",
+      "year": 1975
+    },
+    "Ant-Man and the Wasp": {
+      "id": 363088,
+      "poster": "/cFQEO687n1K6umXbInzocxcnAQz.jpg",
+      "title": "Ant-Man and the Wasp",
+      "year": 2018
+    }
+  },
+  "spotifyEpisodeId": "77hvLfCizDMGwRhJDrl2q5"
+}

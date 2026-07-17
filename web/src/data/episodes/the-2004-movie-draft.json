@@ -1,0 +1,648 @@
+{
+  "slug": "the-2004-movie-draft",
+  "title": "The 2004 Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2021-09-14",
+  "runtimeMin": 91,
+  "format": "Sean, Amanda, and Chris draft the movies of 2004 across six categories, then argue about who got stuck with Million Dollar Baby.",
+  "segments": [
+    {
+      "kind": "draft",
+      "heading": "The 2004 Movie Draft",
+      "draftOf": "2004 movies",
+      "categories": [
+        "Drama",
+        "Comedy or Horror",
+        "Oscar Winner",
+        "Sequel",
+        "Blockbuster",
+        "Wildcard"
+      ],
+      "teams": [
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Man on Fire",
+              "year": 2004,
+              "category": "Drama",
+              "note": "Denzel Washington's bodyguard-revenge thriller, taken partly to dodge accusations of category fraud after flirting with The Life Aquatic here instead."
+            },
+            {
+              "title": "Anchorman: The Legend of Ron Burgundy",
+              "year": 2004,
+              "category": "Comedy or Horror",
+              "note": "\"The funniest movie I've ever seen\": the DVD extras and outtakes turned it into a phenomenon that outlived the theatrical run."
+            },
+            {
+              "title": "Ray",
+              "year": 2004,
+              "category": "Oscar Winner",
+              "note": "Taken for Jamie Foxx's total commitment to the Ray Charles bit as much as the movie itself, which he calls \"totally fine.\""
+            },
+            {
+              "title": "Kill Bill: Vol. 2",
+              "year": 2004,
+              "category": "Sequel",
+              "note": "Rewatched recently on cable and holds up better than remembered, closer to a Western than the first volume, with a stacked ensemble."
+            },
+            {
+              "title": "Collateral",
+              "year": 2004,
+              "category": "Blockbuster",
+              "note": "Michael Mann's Tom Cruise/Jamie Foxx two-hander, called one of the best LA movies ever made. The Audioslave-scored coyote scene gets singled out."
+            },
+            {
+              "title": "Shaun of the Dead",
+              "year": 2004,
+              "category": "Wildcard",
+              "note": "Edgar Wright's breakout, still argued as his best or second-best film."
+            }
+          ]
+        },
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Before Sunset",
+              "year": 2004,
+              "category": "Drama",
+              "note": "The second Linklater/Hawke/Delpy film, called the most beautifully made of the trilogy and a contender for best movie ending ever."
+            },
+            {
+              "title": "The Life Aquatic with Steve Zissou",
+              "year": 2004,
+              "category": "Comedy or Horror",
+              "note": "IMDb lists it as action/adventure/comedy, but it's defended as darker and more of a downer than people remember: a father-son story about not relating."
+            },
+            {
+              "title": "Eternal Sunshine of the Spotless Mind",
+              "year": 2004,
+              "category": "Oscar Winner",
+              "note": "Won Best Original Screenplay; Michel Gondry and Charlie Kaufman's Jim Carrey/Kate Winslet film that's drifted from mainstream hit to cult favorite."
+            },
+            {
+              "title": "Spider-Man 2",
+              "year": 2004,
+              "category": "Sequel",
+              "note": "Sam Raimi's film, argued as the movie most responsible for unlocking two decades of comic-book culture had it flopped."
+            },
+            {
+              "title": "The Aviator",
+              "year": 2004,
+              "category": "Blockbuster",
+              "note": "Scorsese's Howard Hughes biopic with Leonardo DiCaprio, called mid-tier Scorsese but fun and beautifully made."
+            },
+            {
+              "title": "2046",
+              "year": 2004,
+              "category": "Wildcard",
+              "note": "Wong Kar-wai's loose sequel to In the Mood for Love, with Tony Leung, Gong Li, and Zhang Ziyi."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "The Notebook",
+              "year": 2004,
+              "category": "Drama",
+              "note": "A Nicholas Sparks adaptation that \"should be total garbage\" but isn't, thanks to Rachel McAdams and Ryan Gosling's chemistry."
+            },
+            {
+              "title": "Mean Girls",
+              "year": 2004,
+              "category": "Comedy or Horror",
+              "note": "Still quoted constantly, and the other half of Rachel McAdams's breakout year, alongside The Notebook."
+            },
+            {
+              "title": "The Incredibles",
+              "year": 2004,
+              "category": "Oscar Winner",
+              "note": "Brad Bird's superhero family film, praised for its action and its \"nothing is more important than family\" throughline."
+            },
+            {
+              "title": "Ocean's Twelve",
+              "year": 2004,
+              "category": "Sequel",
+              "note": "Defended, jokingly, as the second-greatest sequel in American history behind The Godfather Part II."
+            },
+            {
+              "title": "Million Dollar Baby",
+              "year": 2004,
+              "category": "Blockbuster",
+              "note": "Eastwood's boxing drama, which swept the Oscars: a reluctant pick after passing on Kill Bill earlier in the draft, remembered for its brutal final act."
+            },
+            {
+              "title": "Napoleon Dynamite",
+              "year": 2004,
+              "category": "Wildcard",
+              "note": "A cult classic complete with \"Vote for Pedro\" merch, worn out on DVD after the fact."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "National Treasure",
+        "Van Helsing",
+        "Meet the Fockers",
+        "Harry Potter and the Prisoner of Azkaban",
+        "Shrek 2",
+        "The Day After Tomorrow",
+        "Shark Tale",
+        "I, Robot",
+        "Troy",
+        "50 First Dates",
+        "Lemony Snicket's A Series of Unfortunate Events",
+        "Fahrenheit 9/11",
+        "The Village",
+        "The Grudge",
+        "Dodgeball: A True Underdog Story",
+        "The Passion of the Christ",
+        "The Bourne Supremacy",
+        "The Polar Express",
+        "Team America: World Police",
+        "Friday Night Lights",
+        "Spartan",
+        "Miracle",
+        "13 Going on 30",
+        "Wimbledon",
+        "Garden State",
+        "Closer",
+        "Coffee and Cigarettes",
+        "Layer Cake",
+        "Harold & Kumar Go to White Castle",
+        "The Terminal",
+        "Kinsey",
+        "EuroTrip",
+        "White Chicks",
+        "I ♥ Huckabees",
+        "The Motorcycle Diaries",
+        "Born into Brothels: Calcutta's Red Light Kids",
+        "Wasp",
+        "In Good Company",
+        "Along Came Polly",
+        "Sideways"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Not from 2004, mentioned in passing",
+      "films": [
+        "The Matrix Resurrections",
+        "Dune",
+        "Shang-Chi and the Legend of the Ten Rings",
+        "Doctor Strange in the Multiverse of Madness",
+        "Last Night in Soho",
+        "Killers of the Flower Moon",
+        "Cry Macho",
+        "In the Mood for Love",
+        "The Godfather Part II",
+        "The Deer Hunter",
+        "The French Dispatch of the Liberty, Kansas Evening Sun"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Wire",
+      "Murder Among the Mormons",
+      "WandaVision"
+    ],
+    "Ads": [
+      "Netflix FIFA World Cup",
+      "Boar's Head",
+      "White Claw"
+    ],
+    "Promos": [
+      "The Watch (Ringer podcast)"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Grudge": 1970
+  },
+  "tmdb": {
+    "Man on Fire": {
+      "id": 9509,
+      "poster": "/grCGLCcTHv9TChibzOwzUpykcjB.jpg",
+      "title": "Man on Fire",
+      "year": 2004
+    },
+    "Anchorman: The Legend of Ron Burgundy": {
+      "id": 8699,
+      "poster": "/mhZIcRePT7U8viFQVjt1ZjYIsR4.jpg",
+      "title": "Anchorman: The Legend of Ron Burgundy",
+      "year": 2004
+    },
+    "Ray": {
+      "id": 1677,
+      "poster": "/tSPC7sO2XYNL9QcMmK88tuUALL5.jpg",
+      "title": "Ray",
+      "year": 2004
+    },
+    "Kill Bill: Vol. 2": {
+      "id": 393,
+      "poster": "/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
+      "title": "Kill Bill: Vol. 2",
+      "year": 2004
+    },
+    "Collateral": {
+      "id": 1538,
+      "poster": "/nV5316WUsVij8sVXLCF1g7TFitg.jpg",
+      "title": "Collateral",
+      "year": 2004
+    },
+    "Shaun of the Dead": {
+      "id": 747,
+      "poster": "/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg",
+      "title": "Shaun of the Dead",
+      "year": 2004
+    },
+    "Before Sunset": {
+      "id": 80,
+      "poster": "/4sW5XH9ZfYXpvFzev00S1IGAEbg.jpg",
+      "title": "Before Sunset",
+      "year": 2004
+    },
+    "The Life Aquatic with Steve Zissou": {
+      "id": 421,
+      "poster": "/qZoFLNBC78jzboWeDH6Ha0qavF2.jpg",
+      "title": "The Life Aquatic with Steve Zissou",
+      "year": 2004
+    },
+    "Eternal Sunshine of the Spotless Mind": {
+      "id": 38,
+      "poster": "/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year": 2004
+    },
+    "Spider-Man 2": {
+      "id": 558,
+      "poster": "/aGuvNAaaZuWXYQQ6N2v7DeuP6mB.jpg",
+      "title": "Spider-Man 2",
+      "year": 2004
+    },
+    "The Aviator": {
+      "id": 2567,
+      "poster": "/lx4kWcZc3o9PaNxlQpEJZM17XUI.jpg",
+      "title": "The Aviator",
+      "year": 2004
+    },
+    "2046": {
+      "id": 844,
+      "poster": "/jIN65qw0Giplo4CshzMrxz204Wn.jpg",
+      "title": "2046",
+      "year": 2004
+    },
+    "The Notebook": {
+      "id": 11036,
+      "poster": "/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
+      "title": "The Notebook",
+      "year": 2004
+    },
+    "Mean Girls": {
+      "id": 10625,
+      "poster": "/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg",
+      "title": "Mean Girls",
+      "year": 2004
+    },
+    "The Incredibles": {
+      "id": 9806,
+      "poster": "/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+      "title": "The Incredibles",
+      "year": 2004
+    },
+    "Ocean's Twelve": {
+      "id": 163,
+      "poster": "/pE5anFf7nf6ah7V3VRezQ1KSovi.jpg",
+      "title": "Ocean's Twelve",
+      "year": 2004
+    },
+    "Million Dollar Baby": {
+      "id": 70,
+      "poster": "/jcfEqKdWF1zeyvECPqp3mkWLct2.jpg",
+      "title": "Million Dollar Baby",
+      "year": 2004
+    },
+    "Napoleon Dynamite": {
+      "id": 8193,
+      "poster": "/6Iv6Uwa2SBLN0dSGM00rdrwN4MJ.jpg",
+      "title": "Napoleon Dynamite",
+      "year": 2004
+    },
+    "National Treasure": {
+      "id": 2059,
+      "poster": "/pxL6E4GBOPUG6CdkO9cUQN5VMwI.jpg",
+      "title": "National Treasure",
+      "year": 2004
+    },
+    "Van Helsing": {
+      "id": 7131,
+      "poster": "/gsFun8nATm52aGHeT8ueAel98nE.jpg",
+      "title": "Van Helsing",
+      "year": 2004
+    },
+    "Meet the Fockers": {
+      "id": 693,
+      "poster": "/59fXm6N2x7QSbvt6BaBxTNBXGL8.jpg",
+      "title": "Meet the Fockers",
+      "year": 2004
+    },
+    "Harry Potter and the Prisoner of Azkaban": {
+      "id": 673,
+      "poster": "/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "year": 2004
+    },
+    "Shrek 2": {
+      "id": 809,
+      "poster": "/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
+      "title": "Shrek 2",
+      "year": 2004
+    },
+    "The Day After Tomorrow": {
+      "id": 435,
+      "poster": "/Wr4HeYQRvwVCxzOV5TmGE7UkXq.jpg",
+      "title": "The Day After Tomorrow",
+      "year": 2004
+    },
+    "Shark Tale": {
+      "id": 10555,
+      "poster": "/r08DpyPyhXcJTfNZAICNGMzcQ8l.jpg",
+      "title": "Shark Tale",
+      "year": 2004
+    },
+    "I, Robot": {
+      "id": 2048,
+      "poster": "/efwv6F2lGaghjPpBRSINHtoEiZB.jpg",
+      "title": "I, Robot",
+      "year": 2004
+    },
+    "Troy": {
+      "id": 652,
+      "poster": "/a07wLy4ONfpsjnBqMwhlWTJTcm.jpg",
+      "title": "Troy",
+      "year": 2004
+    },
+    "50 First Dates": {
+      "id": 1824,
+      "poster": "/lzUI2Cg7OMfcUNv3f7MywYNBjs6.jpg",
+      "title": "50 First Dates",
+      "year": 2004
+    },
+    "Lemony Snicket's A Series of Unfortunate Events": {
+      "id": 11774,
+      "poster": "/76Xi8z7Whv5WFIdfzzvC5tKSicd.jpg",
+      "title": "Lemony Snicket's A Series of Unfortunate Events",
+      "year": 2004
+    },
+    "Fahrenheit 9/11": {
+      "id": 1777,
+      "poster": "/cZ7M343iuiMDc36fSeSm699XQFv.jpg",
+      "title": "Fahrenheit 9/11",
+      "year": 2004
+    },
+    "The Village": {
+      "id": 6947,
+      "poster": "/v7UvYtKfIVaHLaHwVgfalyrK7Ho.jpg",
+      "title": "The Village",
+      "year": 2004
+    },
+    "The Grudge": {
+      "id": 1970,
+      "poster": "/7vPAVPKYexQVmvC578wPLn2CGCL.jpg",
+      "title": "The Grudge",
+      "year": 2004
+    },
+    "Dodgeball: A True Underdog Story": {
+      "id": 9472,
+      "poster": "/r8KbNHkkwFXLjV1suGwm0Qjure5.jpg",
+      "title": "DodgeBall: A True Underdog Story",
+      "year": 2004
+    },
+    "The Passion of the Christ": {
+      "id": 615,
+      "poster": "/rBM5o2HpmCfDejuIPybI09tkY3V.jpg",
+      "title": "The Passion of the Christ",
+      "year": 2004
+    },
+    "The Bourne Supremacy": {
+      "id": 2502,
+      "poster": "/jupG9sFT64YwM8PSkwkUD2wHcYD.jpg",
+      "title": "The Bourne Supremacy",
+      "year": 2004
+    },
+    "The Polar Express": {
+      "id": 5255,
+      "poster": "/eOoCzH0MqeGr2taUZO4SwG416PF.jpg",
+      "title": "The Polar Express",
+      "year": 2004
+    },
+    "Team America: World Police": {
+      "id": 3989,
+      "poster": "/m1Q2VFe1DVVbjfu1LDZe7tlp9yb.jpg",
+      "title": "Team America: World Police",
+      "year": 2004
+    },
+    "Friday Night Lights": {
+      "id": 13416,
+      "poster": "/8HIqpOgqShRc3TAleabnYispDl1.jpg",
+      "title": "Friday Night Lights",
+      "year": 2004
+    },
+    "Spartan": {
+      "id": 11169,
+      "poster": "/rcdhS2g1d38NOoeh0PPAN2bLE7w.jpg",
+      "title": "Spartan",
+      "year": 2004
+    },
+    "Miracle": {
+      "id": 14292,
+      "poster": "/mxtej2th8t8x0ufVBTyhsO6Htxj.jpg",
+      "title": "Miracle",
+      "year": 2004
+    },
+    "13 Going on 30": {
+      "id": 10096,
+      "poster": "/iNZdSIfhSCMtRILDNyhLn8UKeSG.jpg",
+      "title": "13 Going on 30",
+      "year": 2004
+    },
+    "Wimbledon": {
+      "id": 11823,
+      "poster": "/agiItFfsvNsjpinLGwjfpYOhLaX.jpg",
+      "title": "Wimbledon",
+      "year": 2004
+    },
+    "Garden State": {
+      "id": 401,
+      "poster": "/h3iqYiGS6F3y7GxaS4AT8nFxZ2i.jpg",
+      "title": "Garden State",
+      "year": 2004
+    },
+    "Closer": {
+      "id": 2288,
+      "poster": "/fGGaokx4k00S0J603VG53Qlr9jz.jpg",
+      "title": "Closer",
+      "year": 2004
+    },
+    "Coffee and Cigarettes": {
+      "id": 883,
+      "poster": "/pfG02QCsutx3PIxFS8UY4iM9AsS.jpg",
+      "title": "Coffee and Cigarettes",
+      "year": 2004
+    },
+    "Layer Cake": {
+      "id": 4836,
+      "poster": "/rDOxXteqxALBaSa3V3zTjGJuyWB.jpg",
+      "title": "Layer Cake",
+      "year": 2004
+    },
+    "Harold & Kumar Go to White Castle": {
+      "id": 11282,
+      "poster": "/5vO7R4xYlDipTp8gzfRbWegO8eb.jpg",
+      "title": "Harold & Kumar Go to White Castle",
+      "year": 2004
+    },
+    "The Terminal": {
+      "id": 594,
+      "poster": "/cPB3ZMM4UdsSAhNdS4c7ps5nypY.jpg",
+      "title": "The Terminal",
+      "year": 2004
+    },
+    "Kinsey": {
+      "id": 11184,
+      "poster": "/cODCjWNRcZkwe4ONQs1GzRqYtRb.jpg",
+      "title": "Kinsey",
+      "year": 2004
+    },
+    "EuroTrip": {
+      "id": 9352,
+      "poster": "/iLdO4PwbZCCQSa9rchZMwuJm9xe.jpg",
+      "title": "EuroTrip",
+      "year": 2004
+    },
+    "White Chicks": {
+      "id": 12153,
+      "poster": "/aHTUpo45qy9QYIOnVITGGqLoVcA.jpg",
+      "title": "White Chicks",
+      "year": 2004
+    },
+    "I ♥ Huckabees": {
+      "id": 1599,
+      "poster": "/h27ytqXyOrAB6KmRx2abOp8p2W.jpg",
+      "title": "I ♥ Huckabees",
+      "year": 2004
+    },
+    "The Motorcycle Diaries": {
+      "id": 1653,
+      "poster": "/qz2aBYT8CAiJYvX4fRZpJ5G0Oz1.jpg",
+      "title": "The Motorcycle Diaries",
+      "year": 2004
+    },
+    "Born into Brothels: Calcutta's Red Light Kids": {
+      "id": 1392,
+      "poster": "/e7OWmWptBRCnUKj6MJ2qbxj5ZY5.jpg",
+      "title": "Born into Brothels: Calcutta's Red Light Kids",
+      "year": 2004
+    },
+    "Wasp": {
+      "id": 44472,
+      "poster": "/9W6dKmIYyrw3clcwTT9VIUero9X.jpg",
+      "title": "Wasp",
+      "year": 2003
+    },
+    "In Good Company": {
+      "id": 1901,
+      "poster": "/5H3fbU4NlHPbLf3MUFZwPdmD3nS.jpg",
+      "title": "In Good Company",
+      "year": 2004
+    },
+    "Along Came Polly": {
+      "id": 5966,
+      "poster": "/7Tp16THdpHkMrqgoiDresDz9CWL.jpg",
+      "title": "Along Came Polly",
+      "year": 2004
+    },
+    "Sideways": {
+      "id": 9675,
+      "poster": "/zOsaxYLgvZVU7cJBpPn8CuE0MrP.jpg",
+      "title": "Sideways",
+      "year": 2004
+    },
+    "The Matrix Resurrections": {
+      "id": 624860,
+      "poster": "/8c4a8kE7PizaGQQnditMmI1xbRp.jpg",
+      "title": "The Matrix Resurrections",
+      "year": 2021
+    },
+    "Dune": {
+      "id": 438631,
+      "poster": "/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "title": "Dune",
+      "year": 2021
+    },
+    "Shang-Chi and the Legend of the Ten Rings": {
+      "id": 566525,
+      "poster": "/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "year": 2021
+    },
+    "Doctor Strange in the Multiverse of Madness": {
+      "id": 453395,
+      "poster": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "year": 2022
+    },
+    "Last Night in Soho": {
+      "id": 576845,
+      "poster": "/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg",
+      "title": "Last Night in Soho",
+      "year": 2021
+    },
+    "Killers of the Flower Moon": {
+      "id": 466420,
+      "poster": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+      "title": "Killers of the Flower Moon",
+      "year": 2023
+    },
+    "Cry Macho": {
+      "id": 749274,
+      "poster": "/esrzqq7Ud8yoslFTu3J5HqTJVOQ.jpg",
+      "title": "Cry Macho",
+      "year": 2021
+    },
+    "In the Mood for Love": {
+      "id": 843,
+      "poster": "/iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg",
+      "title": "In the Mood for Love",
+      "year": 2000
+    },
+    "The Godfather Part II": {
+      "id": 240,
+      "poster": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+      "title": "The Godfather Part II",
+      "year": 1974
+    },
+    "The Deer Hunter": {
+      "id": 11778,
+      "poster": "/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
+      "title": "The Deer Hunter",
+      "year": 1978
+    },
+    "The French Dispatch of the Liberty, Kansas Evening Sun": {
+      "id": 542178,
+      "poster": "/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg",
+      "title": "The French Dispatch of the Liberty, Kansas Evening Sun",
+      "year": 2021
+    }
+  }
+}

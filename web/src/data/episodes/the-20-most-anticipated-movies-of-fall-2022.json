@@ -24,7 +24,7 @@
         {
           "title": "Nope",
           "year": 2022,
-          "note": "Amanda's post-leave, spoiler-averse review: an alien that's a camera, some horses, some shrapnel. Sean calls it a major breath of fresh air, if slack in its pacing."
+          "note": "Amanda's post-leave, spoiler-averse review: an alien that's a camera, some horses, some shrapnel. Sean calls it a breath of fresh air, if slack in its pacing."
         },
         {
           "title": "Bullet Train",
@@ -64,7 +64,7 @@
         {
           "title": "The Gray Man",
           "year": 2022,
-          "note": "A $200 million movie that played 14 theaters for a week before going to Netflix. Both hosts call it a disaster of a business decision and a bad film - hacky performances, a Prague set piece Amanda says wastes its own location."
+          "note": "A $200 million movie that played 14 theaters for a week before going to Netflix. Both hosts call it a bad business decision and a bad film, citing hacky performances and a Prague set piece Amanda says wastes its own location."
         },
         {
           "title": "Jackass Forever",
@@ -298,7 +298,7 @@
         "Mission: Impossible - Dead Reckoning Part One",
         "Spider-Man: Across the Spider-Verse",
         "Killers of the Flower Moon",
-        "Disappointment Blvd.",
+        "Beau Is Afraid",
         "Joker: Folie à Deux"
       ]
     },
@@ -359,6 +359,10 @@
       "FanDuel",
       "Sam's Club"
     ]
+  },
+  "tmdbOverrides": {
+    "Beau Is Afraid": 798286,
+    "I'm Your Man": 795813
   },
   "tmdb": {
     "Top Gun: Maverick": {
@@ -727,11 +731,11 @@
       "title": "Killers of the Flower Moon",
       "year": 2023
     },
-    "Disappointment Blvd.": {
-      "id": 1565472,
-      "poster": "/82OEcFeNTsHbu8d5Gf4mFDlXaXI.jpg",
-      "title": "Disappointment Blvd",
-      "year": null
+    "Beau Is Afraid": {
+      "id": 798286,
+      "poster": "/wgVkkjigF31r1nZV80uV0xNIoun.jpg",
+      "title": "Beau Is Afraid",
+      "year": 2023
     },
     "Joker: Folie à Deux": {
       "id": 889737,
@@ -842,10 +846,10 @@
       "year": 2020
     },
     "I'm Your Man": {
-      "id": 287419,
-      "poster": null,
+      "id": 795813,
+      "poster": "/v13p6KlgD7Y1Tas6X8GLJzv5zRe.jpg",
       "title": "I'm Your Man",
-      "year": 1992
+      "year": 2021
     },
     "Vox Lux": {
       "id": 429202,

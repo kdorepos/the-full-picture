@@ -1,0 +1,1282 @@
+{
+  "slug": "oscar-predictions-who-will-and-should-win-at-the-academy-awa",
+  "title": "Oscar Predictions: Who Will and Should Win at the Academy Awards",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2023-03-09",
+  "runtimeMin": 110,
+  "format": "Days before the 95th Academy Awards, Sean Fennessey and Amanda Dobbins predict all 23 categories, will-win and should-win, with producer Bobby Wagner along for a prop-bet warm-up: Oscar runtime over/unders, how many times the show will reference last year's slap, and whether Tom Cruise takes the front row. Everything Everywhere All at Once is the near-unanimous Best Picture call, with All Quiet on the Western Front named the dark horse. They split on two will-win picks, Best Actor (Fennessey takes Brendan Fraser, Dobbins Austin Butler) and Best Original Score (Babylon vs. All Quiet), and the should-win picks lean hard on Tár. Recorded before the ceremony.",
+  "segments": [
+    {
+      "kind": "awards",
+      "heading": "Who Will Win and Should Win",
+      "note": "all 23 categories · recorded before the show",
+      "ceremony": "95th Academy Awards",
+      "categories": [
+        {
+          "name": "Best Documentary Short",
+          "predicted": "The Elephant Whisperers",
+          "nominees": [
+            {
+              "title": "The Elephant Whisperers",
+              "year": 2022
+            },
+            {
+              "title": "Haulout",
+              "year": 2022
+            },
+            {
+              "title": "How Do You Measure a Year?",
+              "year": 2021
+            },
+            {
+              "title": "The Martha Mitchell Effect",
+              "year": 2022
+            },
+            {
+              "title": "Stranger at the Gate",
+              "year": 2022
+            }
+          ]
+        },
+        {
+          "name": "Best Live Action Short",
+          "predicted": "Le Pupille",
+          "nominees": [
+            {
+              "title": "An Irish Goodbye",
+              "year": 2022
+            },
+            {
+              "title": "Ivalu",
+              "year": 2022
+            },
+            {
+              "title": "Le Pupille",
+              "year": 2022
+            },
+            {
+              "title": "Night Ride",
+              "year": 2020
+            },
+            {
+              "title": "The Red Suitcase",
+              "year": 2022
+            }
+          ]
+        },
+        {
+          "name": "Best Animated Short",
+          "predicted": "The Boy, the Mole, the Fox and the Horse",
+          "nominees": [
+            {
+              "title": "The Boy, the Mole, the Fox and the Horse",
+              "year": 2022
+            },
+            {
+              "title": "The Flying Sailor",
+              "year": 2022
+            },
+            {
+              "title": "Ice Merchants",
+              "year": 2022
+            },
+            {
+              "title": "My Year of Dicks",
+              "year": 2022
+            },
+            {
+              "title": "An Ostrich Told Me the World Is Fake and I Think I Believe It",
+              "year": 2022
+            }
+          ]
+        },
+        {
+          "name": "Best Costume Design",
+          "predicted": "Elvis",
+          "nominees": [
+            {
+              "title": "Babylon",
+              "year": 2022,
+              "person": "Mary Zophres"
+            },
+            {
+              "title": "Black Panther: Wakanda Forever",
+              "year": 2022,
+              "person": "Ruth Carter"
+            },
+            {
+              "title": "Elvis",
+              "year": 2022,
+              "person": "Catherine Martin"
+            },
+            {
+              "title": "Everything Everywhere All at Once",
+              "year": 2022,
+              "person": "Shirley Kurata"
+            },
+            {
+              "title": "Mrs. Harris Goes to Paris",
+              "year": 2022,
+              "person": "Jenny Beavan"
+            }
+          ]
+        },
+        {
+          "name": "Best Makeup and Hairstyling",
+          "predicted": "Elvis",
+          "nominees": [
+            {
+              "title": "All Quiet on the Western Front",
+              "year": 2022
+            },
+            {
+              "title": "The Batman",
+              "year": 2022
+            },
+            {
+              "title": "Black Panther: Wakanda Forever",
+              "year": 2022
+            },
+            {
+              "title": "Elvis",
+              "year": 2022
+            },
+            {
+              "title": "The Whale",
+              "year": 2022
+            }
+          ]
+        },
+        {
+          "name": "Best Visual Effects",
+          "predicted": "Avatar: The Way of Water",
+          "nominees": [
+            {
+              "title": "All Quiet on the Western Front",
+              "year": 2022
+            },
+            {
+              "title": "Avatar: The Way of Water",
+              "year": 2022
+            },
+            {
+              "title": "The Batman",
+              "year": 2022
+            },
+            {
+              "title": "Black Panther: Wakanda Forever",
+              "year": 2022
+            },
+            {
+              "title": "Top Gun: Maverick",
+              "year": 2022
+            }
+          ]
+        },
+        {
+          "name": "Best Production Design",
+          "predicted": "Babylon",
+          "nominees": [
+            {
+              "title": "All Quiet on the Western Front",
+              "year": 2022,
+              "person": "Christian M. Goldbeck, Ernestine Hipper"
+            },
+            {
+              "title": "Avatar: The Way of Water",
+              "year": 2022,
+              "person": "Dylan Cole, Ben Procter, Vanessa Cole"
+            },
+            {
+              "title": "Babylon",
+              "year": 2022,
+              "person": "Florencia Martin, Anthony Carlino"
+            },
+            {
+              "title": "Elvis",
+              "year": 2022,
+              "person": "Catherine Martin, Karen Murphy, Bev Dunn"
+            },
+            {
+              "title": "The Fabelmans",
+              "year": 2022,
+              "person": "Rick Carter, Karen O'Hara"
+            }
+          ]
+        },
+        {
+          "name": "Best Sound",
+          "predicted": "Top Gun: Maverick",
+          "nominees": [
+            {
+              "title": "All Quiet on the Western Front",
+              "year": 2022
+            },
+            {
+              "title": "Avatar: The Way of Water",
+              "year": 2022
+            },
+            {
+              "title": "The Batman",
+              "year": 2022
+            },
+            {
+              "title": "Elvis",
+              "year": 2022
+            },
+            {
+              "title": "Top Gun: Maverick",
+              "year": 2022
+            }
+          ]
+        },
+        {
+          "name": "Best Original Score",
+          "predicted": "Babylon",
+          "nominees": [
+            {
+              "title": "All Quiet on the Western Front",
+              "year": 2022,
+              "person": "Volker Bertelmann"
+            },
+            {
+              "title": "Babylon",
+              "year": 2022,
+              "person": "Justin Hurwitz"
+            },
+            {
+              "title": "The Banshees of Inisherin",
+              "year": 2022,
+              "person": "Carter Burwell"
+            },
+            {
+              "title": "Everything Everywhere All at Once",
+              "year": 2022,
+              "person": "Son Lux"
+            },
+            {
+              "title": "The Fabelmans",
+              "year": 2022,
+              "person": "John Williams"
+            }
+          ]
+        },
+        {
+          "name": "Best Original Song",
+          "predicted": "Naatu Naatu",
+          "nominees": [
+            {
+              "title": "Applause",
+              "person": "Tell It Like a Woman"
+            },
+            {
+              "title": "Hold My Hand",
+              "person": "Top Gun: Maverick"
+            },
+            {
+              "title": "Lift Me Up",
+              "person": "Black Panther: Wakanda Forever"
+            },
+            {
+              "title": "Naatu Naatu",
+              "person": "RRR"
+            },
+            {
+              "title": "This Is a Life",
+              "person": "Everything Everywhere All at Once"
+            }
+          ]
+        },
+        {
+          "name": "Best Animated Feature",
+          "predicted": "Guillermo del Toro's Pinocchio",
+          "nominees": [
+            {
+              "title": "Guillermo del Toro's Pinocchio",
+              "year": 2022
+            },
+            {
+              "title": "Marcel the Shell with Shoes On",
+              "year": 2021
+            },
+            {
+              "title": "Puss in Boots: The Last Wish",
+              "year": 2022
+            },
+            {
+              "title": "The Sea Beast",
+              "year": 2022
+            },
+            {
+              "title": "Turning Red",
+              "year": 2022
+            }
+          ]
+        },
+        {
+          "name": "Best International Feature",
+          "predicted": "All Quiet on the Western Front",
+          "nominees": [
+            {
+              "title": "All Quiet on the Western Front",
+              "year": 2022
+            },
+            {
+              "title": "Argentina, 1985",
+              "year": 2022
+            },
+            {
+              "title": "Close",
+              "year": 2022
+            },
+            {
+              "title": "EO",
+              "year": 2022
+            },
+            {
+              "title": "The Quiet Girl",
+              "year": 2022
+            }
+          ]
+        },
+        {
+          "name": "Best Documentary Feature",
+          "predicted": "Navalny",
+          "nominees": [
+            {
+              "title": "All That Breathes",
+              "year": 2022
+            },
+            {
+              "title": "All the Beauty and the Bloodshed",
+              "year": 2022
+            },
+            {
+              "title": "Fire of Love",
+              "year": 2022
+            },
+            {
+              "title": "A House Made of Splinters",
+              "year": 2022
+            },
+            {
+              "title": "Navalny",
+              "year": 2022
+            }
+          ]
+        },
+        {
+          "name": "Best Film Editing",
+          "predicted": "Everything Everywhere All at Once",
+          "nominees": [
+            {
+              "title": "The Banshees of Inisherin",
+              "year": 2022,
+              "person": "Mikkel E.G. Nielsen"
+            },
+            {
+              "title": "Elvis",
+              "year": 2022,
+              "person": "Matt Villa, Jonathan Redmond"
+            },
+            {
+              "title": "Everything Everywhere All at Once",
+              "year": 2022,
+              "person": "Paul Rogers"
+            },
+            {
+              "title": "Tár",
+              "year": 2022,
+              "person": "Monika Willi"
+            },
+            {
+              "title": "Top Gun: Maverick",
+              "year": 2022,
+              "person": "Eddie Hamilton"
+            }
+          ]
+        },
+        {
+          "name": "Best Cinematography",
+          "predicted": "All Quiet on the Western Front",
+          "nominees": [
+            {
+              "title": "All Quiet on the Western Front",
+              "year": 2022,
+              "person": "James Friend"
+            },
+            {
+              "title": "Bardo, False Chronicle of a Handful of Truths",
+              "year": 2022,
+              "person": "Darius Khondji"
+            },
+            {
+              "title": "Elvis",
+              "year": 2022,
+              "person": "Mandy Walker"
+            },
+            {
+              "title": "Empire of Light",
+              "year": 2022,
+              "person": "Roger Deakins"
+            },
+            {
+              "title": "Tár",
+              "year": 2022,
+              "person": "Florian Hoffmeister"
+            }
+          ]
+        },
+        {
+          "name": "Best Adapted Screenplay",
+          "predicted": "Women Talking",
+          "nominees": [
+            {
+              "title": "All Quiet on the Western Front",
+              "year": 2022
+            },
+            {
+              "title": "Glass Onion: A Knives Out Mystery",
+              "year": 2022
+            },
+            {
+              "title": "Living",
+              "year": 2022
+            },
+            {
+              "title": "Top Gun: Maverick",
+              "year": 2022
+            },
+            {
+              "title": "Women Talking",
+              "year": 2022
+            }
+          ]
+        },
+        {
+          "name": "Best Original Screenplay",
+          "predicted": "Everything Everywhere All at Once",
+          "nominees": [
+            {
+              "title": "The Banshees of Inisherin",
+              "year": 2022
+            },
+            {
+              "title": "Everything Everywhere All at Once",
+              "year": 2022
+            },
+            {
+              "title": "The Fabelmans",
+              "year": 2022
+            },
+            {
+              "title": "Tár",
+              "year": 2022
+            },
+            {
+              "title": "Triangle of Sadness",
+              "year": 2022
+            }
+          ]
+        },
+        {
+          "name": "Best Supporting Actor",
+          "predicted": "Everything Everywhere All at Once",
+          "nominees": [
+            {
+              "title": "The Banshees of Inisherin",
+              "year": 2022,
+              "person": "Brendan Gleeson"
+            },
+            {
+              "title": "Causeway",
+              "year": 2022,
+              "person": "Brian Tyree Henry"
+            },
+            {
+              "title": "The Fabelmans",
+              "year": 2022,
+              "person": "Judd Hirsch"
+            },
+            {
+              "title": "The Banshees of Inisherin",
+              "year": 2022,
+              "person": "Barry Keoghan"
+            },
+            {
+              "title": "Everything Everywhere All at Once",
+              "year": 2022,
+              "person": "Ke Huy Quan"
+            }
+          ]
+        },
+        {
+          "name": "Best Supporting Actress",
+          "predicted": "Everything Everywhere All at Once",
+          "nominees": [
+            {
+              "title": "Black Panther: Wakanda Forever",
+              "year": 2022,
+              "person": "Angela Bassett"
+            },
+            {
+              "title": "The Whale",
+              "year": 2022,
+              "person": "Hong Chau"
+            },
+            {
+              "title": "The Banshees of Inisherin",
+              "year": 2022,
+              "person": "Kerry Condon"
+            },
+            {
+              "title": "Everything Everywhere All at Once",
+              "year": 2022,
+              "person": "Jamie Lee Curtis"
+            },
+            {
+              "title": "Everything Everywhere All at Once",
+              "year": 2022,
+              "person": "Stephanie Hsu"
+            }
+          ]
+        },
+        {
+          "name": "Best Actor",
+          "predicted": "The Whale",
+          "nominees": [
+            {
+              "title": "Elvis",
+              "year": 2022,
+              "person": "Austin Butler"
+            },
+            {
+              "title": "The Banshees of Inisherin",
+              "year": 2022,
+              "person": "Colin Farrell"
+            },
+            {
+              "title": "The Whale",
+              "year": 2022,
+              "person": "Brendan Fraser"
+            },
+            {
+              "title": "Aftersun",
+              "year": 2022,
+              "person": "Paul Mescal"
+            },
+            {
+              "title": "Living",
+              "year": 2022,
+              "person": "Bill Nighy"
+            }
+          ]
+        },
+        {
+          "name": "Best Actress",
+          "predicted": "Everything Everywhere All at Once",
+          "nominees": [
+            {
+              "title": "Tár",
+              "year": 2022,
+              "person": "Cate Blanchett"
+            },
+            {
+              "title": "Blonde",
+              "year": 2022,
+              "person": "Ana de Armas"
+            },
+            {
+              "title": "To Leslie",
+              "year": 2022,
+              "person": "Andrea Riseborough"
+            },
+            {
+              "title": "The Fabelmans",
+              "year": 2022,
+              "person": "Michelle Williams"
+            },
+            {
+              "title": "Everything Everywhere All at Once",
+              "year": 2022,
+              "person": "Michelle Yeoh"
+            }
+          ]
+        },
+        {
+          "name": "Best Director",
+          "predicted": "Everything Everywhere All at Once",
+          "nominees": [
+            {
+              "title": "The Banshees of Inisherin",
+              "year": 2022,
+              "person": "Martin McDonagh"
+            },
+            {
+              "title": "Everything Everywhere All at Once",
+              "year": 2022,
+              "person": "Daniel Kwan, Daniel Scheinert"
+            },
+            {
+              "title": "The Fabelmans",
+              "year": 2022,
+              "person": "Steven Spielberg"
+            },
+            {
+              "title": "Tár",
+              "year": 2022,
+              "person": "Todd Field"
+            },
+            {
+              "title": "Triangle of Sadness",
+              "year": 2022,
+              "person": "Ruben Östlund"
+            }
+          ]
+        },
+        {
+          "name": "Best Picture",
+          "predicted": "Everything Everywhere All at Once",
+          "nominees": [
+            {
+              "title": "All Quiet on the Western Front",
+              "year": 2022
+            },
+            {
+              "title": "Avatar: The Way of Water",
+              "year": 2022
+            },
+            {
+              "title": "The Banshees of Inisherin",
+              "year": 2022
+            },
+            {
+              "title": "Elvis",
+              "year": 2022
+            },
+            {
+              "title": "Everything Everywhere All at Once",
+              "year": 2022
+            },
+            {
+              "title": "The Fabelmans",
+              "year": 2022
+            },
+            {
+              "title": "Tár",
+              "year": 2022
+            },
+            {
+              "title": "Top Gun: Maverick",
+              "year": 2022
+            },
+            {
+              "title": "Triangle of Sadness",
+              "year": 2022
+            },
+            {
+              "title": "Women Talking",
+              "year": 2022
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The rewatchables detour",
+      "films": [
+        "Catch Me If You Can",
+        "Big",
+        "Top Gun"
+      ]
+    },
+    {
+      "group": "Oscar history they invoked",
+      "films": [
+        "The Lord of the Rings: The Return of the King",
+        "Slumdog Millionaire",
+        "The Artist",
+        "The Silence of the Lambs",
+        "Black Panther"
+      ]
+    },
+    {
+      "group": "In the banter",
+      "films": [
+        "The Purge",
+        "Men in Black",
+        "Shrek",
+        "Puss in Boots",
+        "Apollo 10½",
+        "Happy as Lazzaro",
+        "The Lighthouse",
+        "La La Land",
+        "First Man",
+        "Icarus",
+        "My Octopus Teacher",
+        "The Matrix",
+        "Decision to Leave",
+        "Spirited",
+        "The Dark Knight Rises",
+        "John Wick: Chapter 4",
+        "The Shape of Water",
+        "True Lies",
+        "Trading Places",
+        "Casablanca",
+        "The Godfather"
+      ]
+    },
+    {
+      "group": "Behind the song nominees",
+      "films": [
+        "RRR",
+        "Tell It Like a Woman"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Daisy Jones & the Six"
+    ],
+    "Podcasts": [
+      "The Town",
+      "The Rewatchables",
+      "The Watch",
+      "WTF with Marc Maron",
+      "What About Your Friends",
+      "The Ringer Dish"
+    ],
+    "Games": [
+      "FIFA World Cup Launch Edition"
+    ],
+    "Ads": [
+      "FanDuel",
+      "Boar's Head",
+      "Netflix",
+      "NOS Energy",
+      "Carvana"
+    ]
+  },
+  "tmdb": {
+    "The Elephant Whisperers": {
+      "id": 1041580,
+      "poster": "/rRn0Uj2WXal7FkWWyKK0bleQlOy.jpg",
+      "title": "The Elephant Whisperers",
+      "year": 2022
+    },
+    "Haulout": null,
+    "How Do You Measure a Year?": {
+      "id": 846854,
+      "poster": "/hoe1yeyRXbDFZXCxCQCxClGgh5y.jpg",
+      "title": "How Do You Measure a Year?",
+      "year": 2021
+    },
+    "The Martha Mitchell Effect": {
+      "id": 914268,
+      "poster": "/gbv5THLM8FbvnPXUiRZQHdEiW6n.jpg",
+      "title": "The Martha Mitchell Effect",
+      "year": 2022
+    },
+    "Stranger at the Gate": {
+      "id": 964789,
+      "poster": "/iGRoSUZxLib49O9xcEvBw9PlEKs.jpg",
+      "title": "Stranger at the Gate",
+      "year": 2022
+    },
+    "An Irish Goodbye": {
+      "id": 1209878,
+      "poster": "/kMbj1Op9itS8CbSVk5KSjQy4lcC.jpg",
+      "title": "An Irish Goodbye",
+      "year": 2022
+    },
+    "Ivalu": {
+      "id": 1042171,
+      "poster": "/8xCrLSfayOEEK2uMyDN191pqURg.jpg",
+      "title": "Ivalu",
+      "year": 2023
+    },
+    "Le Pupille": {
+      "id": 974586,
+      "poster": "/tuee2So5p4zWbEznpL8EKRT4cre.jpg",
+      "title": "Le Pupille",
+      "year": 2022
+    },
+    "Night Ride": {
+      "id": 715714,
+      "poster": "/v8SQQt7vlyvEwimhUT273HeBD8v.jpg",
+      "title": "Night Ride",
+      "year": 2020
+    },
+    "The Red Suitcase": {
+      "id": 1032734,
+      "poster": "/q5rDJbK3xArtPK0nnmS3aAFi0pG.jpg",
+      "title": "The Red Suitcase",
+      "year": 2022
+    },
+    "The Boy, the Mole, the Fox and the Horse": {
+      "id": 995133,
+      "poster": "/wAKBWRhMmBtrCCuqmFwPm2RGTph.jpg",
+      "title": "The Boy, the Mole, the Fox and the Horse",
+      "year": 2022
+    },
+    "The Flying Sailor": {
+      "id": 742872,
+      "poster": "/5pumyKicAZvivWihNcWDX8IBj4f.jpg",
+      "title": "The Flying Sailor",
+      "year": 2022
+    },
+    "Ice Merchants": {
+      "id": 965171,
+      "poster": "/uDoiGF4KqyNglxaIJlRWdFQ4WJT.jpg",
+      "title": "Ice Merchants",
+      "year": 2023
+    },
+    "My Year of Dicks": {
+      "id": 971188,
+      "poster": "/pJDxugqyIjvwrhQdnYuCeMzEpAu.jpg",
+      "title": "My Year of Dicks",
+      "year": 2023
+    },
+    "An Ostrich Told Me the World Is Fake and I Think I Believe It": {
+      "id": 943776,
+      "poster": "/a0xrTLwvosW81fuFhdWYdu35GJ0.jpg",
+      "title": "An Ostrich Told Me the World Is Fake and I Think I Believe It",
+      "year": 2022
+    },
+    "Babylon": {
+      "id": 615777,
+      "poster": "/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+      "title": "Babylon",
+      "year": 2022
+    },
+    "Black Panther: Wakanda Forever": {
+      "id": 505642,
+      "poster": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+      "title": "Black Panther: Wakanda Forever",
+      "year": 2022
+    },
+    "Elvis": {
+      "id": 614934,
+      "poster": "/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg",
+      "title": "Elvis",
+      "year": 2022
+    },
+    "Everything Everywhere All at Once": {
+      "id": 545611,
+      "poster": "/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+      "title": "Everything Everywhere All at Once",
+      "year": 2022
+    },
+    "Mrs. Harris Goes to Paris": {
+      "id": 754609,
+      "poster": "/eUg0HDLhTEDcXGBU2iK6QRBILv4.jpg",
+      "title": "Mrs. Harris Goes to Paris",
+      "year": 2022
+    },
+    "All Quiet on the Western Front": {
+      "id": 49046,
+      "poster": "/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg",
+      "title": "All Quiet on the Western Front",
+      "year": 2022
+    },
+    "The Batman": {
+      "id": 414906,
+      "poster": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "title": "The Batman",
+      "year": 2022
+    },
+    "The Whale": {
+      "id": 785084,
+      "poster": "/jQ0gylJMxWSL490sy0RrPj1Lj7e.jpg",
+      "title": "The Whale",
+      "year": 2022
+    },
+    "Avatar: The Way of Water": {
+      "id": 76600,
+      "poster": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "title": "Avatar: The Way of Water",
+      "year": 2022
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "The Fabelmans": {
+      "id": 804095,
+      "poster": "/h7llKkqkkJtJrTOaDLuVeUYDQ7I.jpg",
+      "title": "The Fabelmans",
+      "year": 2022
+    },
+    "The Banshees of Inisherin": {
+      "id": 674324,
+      "poster": "/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg",
+      "title": "The Banshees of Inisherin",
+      "year": 2022
+    },
+    "Applause": {
+      "id": 1185948,
+      "poster": "/6CeoyBLvskEjwzx2aIIRsbWJnho.jpg",
+      "title": "Applause",
+      "year": 2024
+    },
+    "Hold My Hand": {
+      "id": 360156,
+      "poster": "/u4WmFjGVk9wDompjEELOwFWjKNf.jpg",
+      "title": "Hold My Hand",
+      "year": 1938
+    },
+    "Lift Me Up": {
+      "id": 1554020,
+      "poster": "/fzPkMCbhSy3SFINP3yQQbjh3PqO.jpg",
+      "title": "Lift Me Up",
+      "year": 2025
+    },
+    "Naatu Naatu": null,
+    "This Is a Life": {
+      "id": 235567,
+      "poster": "/iA42fffz6IJW4jNIY7OOndpRI0q.jpg",
+      "title": "This Is a Life?",
+      "year": 1955
+    },
+    "Guillermo del Toro's Pinocchio": {
+      "id": 555604,
+      "poster": "/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",
+      "title": "Guillermo del Toro's Pinocchio",
+      "year": 2022
+    },
+    "Marcel the Shell with Shoes On": {
+      "id": 869626,
+      "poster": "/jaYmP4Ct8YLnxWAW2oYkUjeXtzm.jpg",
+      "title": "Marcel the Shell with Shoes On",
+      "year": 2022
+    },
+    "Puss in Boots: The Last Wish": {
+      "id": 315162,
+      "poster": "/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
+      "title": "Puss in Boots: The Last Wish",
+      "year": 2022
+    },
+    "The Sea Beast": {
+      "id": 560057,
+      "poster": "/9Zfv4Ap1e8eKOYnZPtYaWhLkk0d.jpg",
+      "title": "The Sea Beast",
+      "year": 2022
+    },
+    "Turning Red": {
+      "id": 508947,
+      "poster": "/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
+      "title": "Turning Red",
+      "year": 2022
+    },
+    "Argentina, 1985": {
+      "id": 714888,
+      "poster": "/nmh7vD2eDVRqFJoCpEzVcfGcPPf.jpg",
+      "title": "Argentina 1985",
+      "year": 2022
+    },
+    "Close": {
+      "id": 901563,
+      "poster": "/dlMNnWs7Mz8Nk5AC447Ew1tD5pn.jpg",
+      "title": "Close",
+      "year": 2022
+    },
+    "EO": {
+      "id": 785398,
+      "poster": "/1MK86Vr2nf1GSYOtRd8pFvA5RM8.jpg",
+      "title": "EO",
+      "year": 2022
+    },
+    "The Quiet Girl": {
+      "id": 916405,
+      "poster": "/6Njyz53N417cgxE0d7cBEWHUEjc.jpg",
+      "title": "The Quiet Girl",
+      "year": 2022
+    },
+    "All That Breathes": {
+      "id": 913838,
+      "poster": "/xgTyGlmOYnDwUugITwd8MY5AQ5F.jpg",
+      "title": "All That Breathes",
+      "year": 2022
+    },
+    "All the Beauty and the Bloodshed": {
+      "id": 1004663,
+      "poster": "/cvO51xxtIUHc5w5ZgFsigiFaUaO.jpg",
+      "title": "All the Beauty and the Bloodshed",
+      "year": 2022
+    },
+    "Fire of Love": {
+      "id": 913823,
+      "poster": "/9smEX8UP84yb2GisLwyAyQKvCWS.jpg",
+      "title": "Fire of Love",
+      "year": 2022
+    },
+    "A House Made of Splinters": {
+      "id": 913743,
+      "poster": "/eFYeFvco3Cgcrny99RCTFIaXMla.jpg",
+      "title": "A House Made of Splinters",
+      "year": 2023
+    },
+    "Navalny": {
+      "id": 926676,
+      "poster": "/9FXHNsqB4Wk9p42Yh0UtDflRY1f.jpg",
+      "title": "Navalny",
+      "year": 2022
+    },
+    "Tár": {
+      "id": 817758,
+      "poster": "/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg",
+      "title": "TÁR",
+      "year": 2022
+    },
+    "Bardo, False Chronicle of a Handful of Truths": {
+      "id": 685691,
+      "poster": "/3e6RA0CzFDC0pz5TqiRlbHcsc2n.jpg",
+      "title": "BARDO, False Chronicle of a Handful of Truths",
+      "year": 2022
+    },
+    "Empire of Light": {
+      "id": 814757,
+      "poster": "/h84SnIQF91Gz2Fv1OpMJ3245t4i.jpg",
+      "title": "Empire of Light",
+      "year": 2022
+    },
+    "Glass Onion: A Knives Out Mystery": {
+      "id": 661374,
+      "poster": "/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
+      "title": "Glass Onion: A Knives Out Mystery",
+      "year": 2022
+    },
+    "Living": {
+      "id": 760099,
+      "poster": "/zUJcp0rpUqp2GSk7t9jvAiZsXtM.jpg",
+      "title": "Living",
+      "year": 2022
+    },
+    "Women Talking": {
+      "id": 777245,
+      "poster": "/wcTc9GveMMjAdHSlzdE0FaRCtqi.jpg",
+      "title": "Women Talking",
+      "year": 2022
+    },
+    "Triangle of Sadness": {
+      "id": 497828,
+      "poster": "/k9eLozCgCed5FGTSdHu0bBElAV8.jpg",
+      "title": "Triangle of Sadness",
+      "year": 2022
+    },
+    "Causeway": {
+      "id": 595586,
+      "poster": "/bUzKIqFIS05Ss31zRTfZfHJIgDP.jpg",
+      "title": "Causeway",
+      "year": 2022
+    },
+    "Aftersun": {
+      "id": 965150,
+      "poster": "/evKz85EKouVbIr51zy5fOtpNRPg.jpg",
+      "title": "Aftersun",
+      "year": 2022
+    },
+    "Blonde": {
+      "id": 301502,
+      "poster": "/mEeHqtnWOR44vLCutEFku2WK6ou.jpg",
+      "title": "Blonde",
+      "year": 2022
+    },
+    "To Leslie": {
+      "id": 823147,
+      "poster": "/bFTgfsw4cnNjIZZ2r6P363X2Uk3.jpg",
+      "title": "To Leslie",
+      "year": 2022
+    },
+    "Catch Me If You Can": {
+      "id": 640,
+      "poster": "/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+      "title": "Catch Me If You Can",
+      "year": 2002
+    },
+    "Big": {
+      "id": 2280,
+      "poster": "/eWhCDJiwxvx3YXkAFRiHjimnF0j.jpg",
+      "title": "Big",
+      "year": 1988
+    },
+    "Top Gun": {
+      "id": 744,
+      "poster": "/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+      "title": "Top Gun",
+      "year": 1986
+    },
+    "The Lord of the Rings: The Return of the King": {
+      "id": 122,
+      "poster": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003
+    },
+    "Slumdog Millionaire": {
+      "id": 12405,
+      "poster": "/5leCCi7ZF0CawAfM5Qo2ECKPprc.jpg",
+      "title": "Slumdog Millionaire",
+      "year": 2008
+    },
+    "The Artist": {
+      "id": 74643,
+      "poster": "/xYMYV8lMIeQMymuNPBvq3hOnqXw.jpg",
+      "title": "The Artist",
+      "year": 2011
+    },
+    "The Silence of the Lambs": {
+      "id": 274,
+      "poster": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+      "title": "The Silence of the Lambs",
+      "year": 1991
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "The Purge": {
+      "id": 158015,
+      "poster": "/46X1ei9uf13nkkr0OhWldGyr5Uh.jpg",
+      "title": "The Purge",
+      "year": 2013
+    },
+    "Men in Black": {
+      "id": 607,
+      "poster": "/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg",
+      "title": "Men in Black",
+      "year": 1997
+    },
+    "Shrek": {
+      "id": 808,
+      "poster": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+      "title": "Shrek",
+      "year": 2001
+    },
+    "Puss in Boots": {
+      "id": 417859,
+      "poster": "/7a5Jzjr9TmffGy76y1SZhn3sCiz.jpg",
+      "title": "Puss in Boots",
+      "year": 2011
+    },
+    "Apollo 10½": null,
+    "Happy as Lazzaro": {
+      "id": 481432,
+      "poster": "/j4x1O6G0cbchHQwNsEZ0DntOJMJ.jpg",
+      "title": "Happy as Lazzaro",
+      "year": 2018
+    },
+    "The Lighthouse": {
+      "id": 503919,
+      "poster": "/yAKNmpcUweGH6WMCEWenwU9PsbE.jpg",
+      "title": "The Lighthouse",
+      "year": 2019
+    },
+    "La La Land": {
+      "id": 313369,
+      "poster": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "title": "La La Land",
+      "year": 2016
+    },
+    "First Man": {
+      "id": 369972,
+      "poster": "/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
+      "title": "First Man",
+      "year": 2018
+    },
+    "Icarus": {
+      "id": 35402,
+      "poster": "/cmDDkOXzEICJ3v6pIxOsmulwPi9.jpg",
+      "title": "Icarus",
+      "year": 2010
+    },
+    "My Octopus Teacher": {
+      "id": 682110,
+      "poster": "/hvTVZb7hBC8tZAGoEhH5eiMJu2B.jpg",
+      "title": "My Octopus Teacher",
+      "year": 2020
+    },
+    "The Matrix": {
+      "id": 603,
+      "poster": "/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+      "title": "The Matrix",
+      "year": 1999
+    },
+    "Decision to Leave": {
+      "id": 705996,
+      "poster": "/zI8KZ4EdLUymWKX1YEkpZ0gtPUa.jpg",
+      "title": "Decision to Leave",
+      "year": 2022
+    },
+    "Spirited": {
+      "id": 632856,
+      "poster": "/h3zAzTMs5EP3cKusOxFNGSFE1WI.jpg",
+      "title": "Spirited",
+      "year": 2022
+    },
+    "The Dark Knight Rises": {
+      "id": 49026,
+      "poster": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+      "title": "The Dark Knight Rises",
+      "year": 2012
+    },
+    "John Wick: Chapter 4": {
+      "id": 603692,
+      "poster": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+      "title": "John Wick: Chapter 4",
+      "year": 2023
+    },
+    "The Shape of Water": {
+      "id": 399055,
+      "poster": "/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg",
+      "title": "The Shape of Water",
+      "year": 2017
+    },
+    "True Lies": {
+      "id": 36955,
+      "poster": "/pweFTnzzTfGK68woSVkiTgjLzWm.jpg",
+      "title": "True Lies",
+      "year": 1994
+    },
+    "Trading Places": {
+      "id": 1621,
+      "poster": "/8mBuLCOcpWnmYtZc4aqtvDXslv6.jpg",
+      "title": "Trading Places",
+      "year": 1983
+    },
+    "Casablanca": {
+      "id": 289,
+      "poster": "/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+      "title": "Casablanca",
+      "year": 1943
+    },
+    "The Godfather": {
+      "id": 238,
+      "poster": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "title": "The Godfather",
+      "year": 1972
+    },
+    "RRR": {
+      "id": 579974,
+      "poster": "/u0XUBNQWlOvrh0Gd97ARGpIkL0.jpg",
+      "title": "RRR",
+      "year": 2022
+    },
+    "Tell It Like a Woman": {
+      "id": 822124,
+      "poster": "/s4tKbdmxXrPVH9QhznNKuCkHeaO.jpg",
+      "title": "Tell It Like a Woman",
+      "year": 2022
+    }
+  }
+}

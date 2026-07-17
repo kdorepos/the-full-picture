@@ -1,0 +1,930 @@
+{
+  "slug": "our-golden-globes-predictions-plus-cold-war-director-pawel-p",
+  "title": "Our Golden Globes Predictions, Plus ‘Cold War’ Director Pawel Pawlikowski | The Oscars Show (Ep. 113)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2019-01-02",
+  "runtimeMin": 87,
+  "format": "Sean and Amanda fill out their Golden Globes ballots category by category, then Sean sits down with Cold War director Pawel Pawlikowski.",
+  "segments": [
+    {
+      "kind": "awards",
+      "heading": "Our Golden Globes Ballots",
+      "note": "film categories only — they skip the TV races",
+      "ceremony": "76th Golden Globe Awards",
+      "categories": [
+        {
+          "name": "Best Motion Picture — Animated",
+          "nominees": [
+            {
+              "title": "Incredibles 2",
+              "year": 2018
+            },
+            {
+              "title": "Isle of Dogs",
+              "year": 2018
+            },
+            {
+              "title": "Mirai",
+              "year": 2018
+            },
+            {
+              "title": "Ralph Breaks the Internet",
+              "year": 2018
+            },
+            {
+              "title": "Spider-Man: Into the Spider-Verse",
+              "year": 2018
+            }
+          ]
+        },
+        {
+          "name": "Best Motion Picture — Foreign Language",
+          "predicted": "Roma",
+          "nominees": [
+            {
+              "title": "Capernaum",
+              "year": 2018
+            },
+            {
+              "title": "Girl",
+              "year": 2018
+            },
+            {
+              "title": "Never Look Away",
+              "year": 2018
+            },
+            {
+              "title": "Roma",
+              "year": 2018
+            },
+            {
+              "title": "Shoplifters",
+              "year": 2018
+            }
+          ]
+        },
+        {
+          "name": "Best Original Score",
+          "nominees": [
+            {
+              "title": "A Quiet Place",
+              "year": 2018,
+              "person": "Marco Beltrami"
+            },
+            {
+              "title": "Isle of Dogs",
+              "year": 2018,
+              "person": "Alexandre Desplat"
+            },
+            {
+              "title": "Black Panther",
+              "year": 2018,
+              "person": "Ludwig Göransson"
+            },
+            {
+              "title": "First Man",
+              "year": 2018,
+              "person": "Justin Hurwitz"
+            },
+            {
+              "title": "Mary Poppins Returns",
+              "year": 2018,
+              "person": "Marc Shaiman"
+            }
+          ]
+        },
+        {
+          "name": "Best Original Song",
+          "predicted": "A Star Is Born",
+          "nominees": [
+            {
+              "title": "Black Panther",
+              "year": 2018,
+              "person": "\"All the Stars\""
+            },
+            {
+              "title": "Dumplin'",
+              "year": 2018,
+              "person": "\"Girl in the Movies\""
+            },
+            {
+              "title": "A Private War",
+              "year": 2018,
+              "person": "\"Requiem for a Private War\""
+            },
+            {
+              "title": "Boy Erased",
+              "year": 2018,
+              "person": "\"Revelation\""
+            },
+            {
+              "title": "A Star Is Born",
+              "year": 2018,
+              "person": "\"Shallow\""
+            }
+          ]
+        },
+        {
+          "name": "Best Supporting Actress",
+          "nominees": [
+            {
+              "title": "Vice",
+              "year": 2018,
+              "person": "Amy Adams"
+            },
+            {
+              "title": "First Man",
+              "year": 2018,
+              "person": "Claire Foy"
+            },
+            {
+              "title": "If Beale Street Could Talk",
+              "year": 2018,
+              "person": "Regina King"
+            },
+            {
+              "title": "The Favourite",
+              "year": 2018,
+              "person": "Emma Stone"
+            },
+            {
+              "title": "The Favourite",
+              "year": 2018,
+              "person": "Rachel Weisz"
+            }
+          ]
+        },
+        {
+          "name": "Best Supporting Actor",
+          "predicted": "Green Book",
+          "nominees": [
+            {
+              "title": "Green Book",
+              "year": 2018,
+              "person": "Mahershala Ali"
+            },
+            {
+              "title": "Beautiful Boy",
+              "year": 2018,
+              "person": "Timothée Chalamet"
+            },
+            {
+              "title": "BlacKkKlansman",
+              "year": 2018,
+              "person": "Adam Driver"
+            },
+            {
+              "title": "Can You Ever Forgive Me?",
+              "year": 2018,
+              "person": "Richard E. Grant"
+            },
+            {
+              "title": "Vice",
+              "year": 2018,
+              "person": "Sam Rockwell"
+            }
+          ]
+        },
+        {
+          "name": "Best Actor — Musical or Comedy",
+          "predicted": "Vice",
+          "nominees": [
+            {
+              "title": "Vice",
+              "year": 2018,
+              "person": "Christian Bale"
+            },
+            {
+              "title": "Mary Poppins Returns",
+              "year": 2018,
+              "person": "Lin-Manuel Miranda"
+            },
+            {
+              "title": "Green Book",
+              "year": 2018,
+              "person": "Viggo Mortensen"
+            },
+            {
+              "title": "The Old Man & the Gun",
+              "year": 2018,
+              "person": "Robert Redford"
+            },
+            {
+              "title": "Stan & Ollie",
+              "year": 2018,
+              "person": "John C. Reilly"
+            }
+          ]
+        },
+        {
+          "name": "Best Actress — Musical or Comedy",
+          "nominees": [
+            {
+              "title": "Mary Poppins Returns",
+              "year": 2018,
+              "person": "Emily Blunt"
+            },
+            {
+              "title": "The Favourite",
+              "year": 2018,
+              "person": "Olivia Colman"
+            },
+            {
+              "title": "Crazy Rich Asians",
+              "year": 2018,
+              "person": "Constance Wu"
+            },
+            {
+              "title": "Eighth Grade",
+              "year": 2018,
+              "person": "Elsie Fisher"
+            },
+            {
+              "title": "Tully",
+              "year": 2018,
+              "person": "Charlize Theron"
+            }
+          ]
+        },
+        {
+          "name": "Best Actress — Drama",
+          "predicted": "A Star Is Born",
+          "nominees": [
+            {
+              "title": "The Wife",
+              "year": 2017,
+              "person": "Glenn Close"
+            },
+            {
+              "title": "A Star Is Born",
+              "year": 2018,
+              "person": "Lady Gaga"
+            },
+            {
+              "title": "Destroyer",
+              "year": 2018,
+              "person": "Nicole Kidman"
+            },
+            {
+              "title": "Can You Ever Forgive Me?",
+              "year": 2018,
+              "person": "Melissa McCarthy"
+            },
+            {
+              "title": "A Private War",
+              "year": 2018,
+              "person": "Rosamund Pike"
+            }
+          ]
+        },
+        {
+          "name": "Best Actor — Drama",
+          "predicted": "Bohemian Rhapsody",
+          "nominees": [
+            {
+              "title": "A Star Is Born",
+              "year": 2018,
+              "person": "Bradley Cooper"
+            },
+            {
+              "title": "At Eternity's Gate",
+              "year": 2018,
+              "person": "Willem Dafoe"
+            },
+            {
+              "title": "Boy Erased",
+              "year": 2018,
+              "person": "Lucas Hedges"
+            },
+            {
+              "title": "Bohemian Rhapsody",
+              "year": 2018,
+              "person": "Rami Malek"
+            },
+            {
+              "title": "BlacKkKlansman",
+              "year": 2018,
+              "person": "John David Washington"
+            }
+          ]
+        },
+        {
+          "name": "Best Screenplay",
+          "nominees": [
+            {
+              "title": "Roma",
+              "year": 2018,
+              "person": "Alfonso Cuarón"
+            },
+            {
+              "title": "The Favourite",
+              "year": 2018,
+              "person": "Deborah Davis & Tony McNamara"
+            },
+            {
+              "title": "If Beale Street Could Talk",
+              "year": 2018,
+              "person": "Barry Jenkins"
+            },
+            {
+              "title": "Vice",
+              "year": 2018,
+              "person": "Adam McKay"
+            },
+            {
+              "title": "Green Book",
+              "year": 2018,
+              "person": "Vallelonga, Currie & Farrelly"
+            }
+          ]
+        },
+        {
+          "name": "Best Director",
+          "nominees": [
+            {
+              "title": "A Star Is Born",
+              "year": 2018,
+              "person": "Bradley Cooper"
+            },
+            {
+              "title": "Roma",
+              "year": 2018,
+              "person": "Alfonso Cuarón"
+            },
+            {
+              "title": "Green Book",
+              "year": 2018,
+              "person": "Peter Farrelly"
+            },
+            {
+              "title": "BlacKkKlansman",
+              "year": 2018,
+              "person": "Spike Lee"
+            },
+            {
+              "title": "Vice",
+              "year": 2018,
+              "person": "Adam McKay"
+            }
+          ]
+        },
+        {
+          "name": "Best Motion Picture — Musical or Comedy",
+          "predicted": "Vice",
+          "nominees": [
+            {
+              "title": "Crazy Rich Asians",
+              "year": 2018
+            },
+            {
+              "title": "The Favourite",
+              "year": 2018
+            },
+            {
+              "title": "Green Book",
+              "year": 2018
+            },
+            {
+              "title": "Mary Poppins Returns",
+              "year": 2018
+            },
+            {
+              "title": "Vice",
+              "year": 2018
+            }
+          ]
+        },
+        {
+          "name": "Best Motion Picture — Drama",
+          "predicted": "A Star Is Born",
+          "nominees": [
+            {
+              "title": "Black Panther",
+              "year": 2018
+            },
+            {
+              "title": "BlacKkKlansman",
+              "year": 2018
+            },
+            {
+              "title": "Bohemian Rhapsody",
+              "year": 2018
+            },
+            {
+              "title": "If Beale Street Could Talk",
+              "year": 2018
+            },
+            {
+              "title": "A Star Is Born",
+              "year": 2018
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The rest of the show",
+      "note": "the host-less Oscars, Netflix's numbers, and one animated-feature standoff",
+      "films": [
+        {
+          "title": "Bird Box",
+          "year": 2018,
+          "note": "Netflix says 45 million accounts streamed it in seven days — a number Sean wants a whole podcast to unpack, and isn't sure signifies success or just consumption."
+        },
+        {
+          "title": "The Godfather",
+          "year": 1972,
+          "note": "Sean's reference for a host-free ceremony: the 45th Academy Awards used a handful of actors to shepherd the show, which is roughly what Bill Simmons keeps proposing for the Oscars."
+        },
+        {
+          "title": "Spider-Man: Into the Spider-Verse",
+          "year": 2018,
+          "note": "Sean's pick to break Pixar's Oscar grip; Amanda, who won't watch animation, holds for Incredibles 2."
+        },
+        {
+          "title": "Incredibles 2",
+          "year": 2018,
+          "note": "The Brad Bird juggernaut and the safe Academy vote — one of two animated films Amanda has actually seen."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Pawel Pawlikowski on",
+      "films": [
+        {
+          "title": "Cold War",
+          "year": 2018,
+          "note": "A love story loosely drawn from his own parents, shot in high-contrast black and white and built around three folk tunes that recur as jazz, chanson, and cheesy pop as the couple moves through countries and time."
+        },
+        {
+          "title": "Ida",
+          "year": 2013,
+          "note": "The static, meditative film that gave him the confidence — and the money, though only about 20% — to make Cold War; a Paul Schrader favorite Pawlikowski says was a smaller influence on First Reformed than Bresson and Bergman."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Awards-history asides",
+      "films": [
+        "La La Land",
+        "The King's Speech",
+        "Big Eyes",
+        "American Hustle",
+        "Silver Linings Playbook",
+        "Joy",
+        "My Week with Marilyn",
+        "The Kids Are All Right",
+        "Elle",
+        "The Iron Lady",
+        "Black Swan",
+        "Pride & Prejudice",
+        "Gone Girl",
+        "An Education",
+        "Call Me by Your Name",
+        "Withnail and I",
+        "Sideways",
+        "The English Patient",
+        "Cars",
+        "Happy Feet",
+        "The Adventures of Tintin",
+        "Rango",
+        "How to Train Your Dragon 2",
+        "Frozen",
+        "Coco",
+        "Inside Out"
+      ]
+    },
+    {
+      "group": "In the Cold War interview",
+      "films": [
+        "Embrace of the Serpent",
+        "First Reformed",
+        "Casablanca",
+        "Jolly Fellows"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "American Horror Story",
+      "Grey's Anatomy",
+      "Brooklyn Nine-Nine",
+      "Friends",
+      "The Orville",
+      "Succession"
+    ],
+    "Ads": [
+      "Sonos Beam"
+    ]
+  },
+  "tmdb": {
+    "Incredibles 2": {
+      "id": 260513,
+      "poster": "/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
+      "title": "Incredibles 2",
+      "year": 2018
+    },
+    "Isle of Dogs": {
+      "id": 399174,
+      "poster": "/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg",
+      "title": "Isle of Dogs",
+      "year": 2018
+    },
+    "Mirai": {
+      "id": 475215,
+      "poster": "/b9XvI4Nehzi0nXyNVD6DtT39P6l.jpg",
+      "title": "Mirai",
+      "year": 2018
+    },
+    "Ralph Breaks the Internet": {
+      "id": 404368,
+      "poster": "/iVCrhBcpDaHGvv7CLYbK6PuXZo1.jpg",
+      "title": "Ralph Breaks the Internet",
+      "year": 2018
+    },
+    "Spider-Man: Into the Spider-Verse": {
+      "id": 324857,
+      "poster": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018
+    },
+    "Capernaum": {
+      "id": 517814,
+      "poster": "/mFnfTVADj8yOxwzprYOmTPselk8.jpg",
+      "title": "Capernaum",
+      "year": 2018
+    },
+    "Girl": null,
+    "Never Look Away": {
+      "id": 423612,
+      "poster": "/fn0Tp9SG0IQ3Nx8iHPYPiseLMWd.jpg",
+      "title": "Never Look Away",
+      "year": 2018
+    },
+    "Roma": {
+      "id": 426426,
+      "poster": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+      "title": "Roma",
+      "year": 2018
+    },
+    "Shoplifters": {
+      "id": 505192,
+      "poster": "/4nfRUOv3LX5zLn98WS1WqVBk9E9.jpg",
+      "title": "Shoplifters",
+      "year": 2018
+    },
+    "A Quiet Place": {
+      "id": 447332,
+      "poster": "/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+      "title": "A Quiet Place",
+      "year": 2018
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "First Man": {
+      "id": 369972,
+      "poster": "/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
+      "title": "First Man",
+      "year": 2018
+    },
+    "Mary Poppins Returns": {
+      "id": 400650,
+      "poster": "/uTVGku4LibMGyKgQvjBtv3OYfAX.jpg",
+      "title": "Mary Poppins Returns",
+      "year": 2018
+    },
+    "Dumplin'": {
+      "id": 472734,
+      "poster": "/xJAB1HrFUuOf2VkWPaZ4N2DACCo.jpg",
+      "title": "Dumplin'",
+      "year": 2018
+    },
+    "A Private War": {
+      "id": 475132,
+      "poster": "/pAh6uDR9bBznybiJCVYZNJmjg63.jpg",
+      "title": "A Private War",
+      "year": 2018
+    },
+    "Boy Erased": {
+      "id": 472451,
+      "poster": "/oZbhTdi0ZQY7iiSQ0L7h3ya6NDF.jpg",
+      "title": "Boy Erased",
+      "year": 2018
+    },
+    "A Star Is Born": {
+      "id": 332562,
+      "poster": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "title": "A Star Is Born",
+      "year": 2018
+    },
+    "Vice": {
+      "id": 429197,
+      "poster": "/1gCab6rNv1r6V64cwsU4oEr649Y.jpg",
+      "title": "Vice",
+      "year": 2018
+    },
+    "If Beale Street Could Talk": {
+      "id": 465914,
+      "poster": "/76NfwnaZI43gOQove0LU9O23Qjz.jpg",
+      "title": "If Beale Street Could Talk",
+      "year": 2018
+    },
+    "The Favourite": {
+      "id": 375262,
+      "poster": "/cwBq0onfmeilU5xgqNNjJAMPfpw.jpg",
+      "title": "The Favourite",
+      "year": 2018
+    },
+    "Green Book": {
+      "id": 490132,
+      "poster": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+      "title": "Green Book",
+      "year": 2018
+    },
+    "Beautiful Boy": {
+      "id": 451915,
+      "poster": "/u2Gfv0mz3xePsgyCPHovrnFL1sB.jpg",
+      "title": "Beautiful Boy",
+      "year": 2018
+    },
+    "BlacKkKlansman": {
+      "id": 487558,
+      "poster": "/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg",
+      "title": "BlacKkKlansman",
+      "year": 2018
+    },
+    "Can You Ever Forgive Me?": {
+      "id": 401847,
+      "poster": "/y9pDvBdvU8Z5QjQ6Y4oF0Cq7p5j.jpg",
+      "title": "Can You Ever Forgive Me?",
+      "year": 2018
+    },
+    "The Old Man & the Gun": {
+      "id": 429203,
+      "poster": "/a4BfxRK8dBgbQqbRxPs8kmLd8LG.jpg",
+      "title": "The Old Man & the Gun",
+      "year": 2018
+    },
+    "Stan & Ollie": {
+      "id": 394741,
+      "poster": "/8qDBDXA8Od8gc4IQMnoXUKyj8Pf.jpg",
+      "title": "Stan & Ollie",
+      "year": 2018
+    },
+    "Crazy Rich Asians": {
+      "id": 455207,
+      "poster": "/1XxL4LJ5WHdrcYcihEZUCgNCpAW.jpg",
+      "title": "Crazy Rich Asians",
+      "year": 2018
+    },
+    "Eighth Grade": {
+      "id": 489925,
+      "poster": "/xTa9cLhGHfQ7084UvoPQ2bBXKqd.jpg",
+      "title": "Eighth Grade",
+      "year": 2018
+    },
+    "Tully": {
+      "id": 400579,
+      "poster": "/wDI4YXBXolMYi15Qx2kClvdSERM.jpg",
+      "title": "Tully",
+      "year": 2018
+    },
+    "The Wife": {
+      "id": 340613,
+      "poster": "/d4Qyuy0Ul549f6SOdUqGvIdYKD2.jpg",
+      "title": "The Wife",
+      "year": 2017
+    },
+    "Destroyer": {
+      "id": 471507,
+      "poster": "/sHw9gTdo43nJL82py0oaROkXXNr.jpg",
+      "title": "Destroyer",
+      "year": 2018
+    },
+    "At Eternity's Gate": {
+      "id": 491472,
+      "poster": "/y4LvHQoX5YunHJ2EMBSjQvOkvD9.jpg",
+      "title": "At Eternity's Gate",
+      "year": 2018
+    },
+    "Bohemian Rhapsody": {
+      "id": 424694,
+      "poster": "/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+      "title": "Bohemian Rhapsody",
+      "year": 2018
+    },
+    "Bird Box": {
+      "id": 405774,
+      "poster": "/rGfGfgL2pEPCfhIvqHXieXFn7gp.jpg",
+      "title": "Bird Box",
+      "year": 2018
+    },
+    "The Godfather": {
+      "id": 238,
+      "poster": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "title": "The Godfather",
+      "year": 1972
+    },
+    "Cold War": {
+      "id": 440298,
+      "poster": "/6rbS8oPIgUMhQgIX8oGVTtlNgLR.jpg",
+      "title": "Cold War",
+      "year": 2018
+    },
+    "Ida": {
+      "id": 209274,
+      "poster": "/oFrwnliM6TtAyWo6nIP8YpJbIvi.jpg",
+      "title": "Ida",
+      "year": 2013
+    },
+    "La La Land": {
+      "id": 313369,
+      "poster": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "title": "La La Land",
+      "year": 2016
+    },
+    "The King's Speech": {
+      "id": 45269,
+      "poster": "/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg",
+      "title": "The King's Speech",
+      "year": 2010
+    },
+    "Big Eyes": {
+      "id": 87093,
+      "poster": "/203HAjJcLMl7xThcTqZx4zmEGcV.jpg",
+      "title": "Big Eyes",
+      "year": 2014
+    },
+    "American Hustle": {
+      "id": 168672,
+      "poster": "/z6O1KDhfWDTm5ZBr6Ovr0eg8LqO.jpg",
+      "title": "American Hustle",
+      "year": 2013
+    },
+    "Silver Linings Playbook": {
+      "id": 82693,
+      "poster": "/fhHB1uvfFKKFbj6bTKE8xdtsjKi.jpg",
+      "title": "Silver Linings Playbook",
+      "year": 2012
+    },
+    "Joy": {
+      "id": 274479,
+      "poster": "/nZAs0HbW82TI1i4Xid83M941Pki.jpg",
+      "title": "Joy",
+      "year": 2015
+    },
+    "My Week with Marilyn": {
+      "id": 75900,
+      "poster": "/5naqXRY1Zug5cyJJbO9H4DOg28q.jpg",
+      "title": "My Week with Marilyn",
+      "year": 2011
+    },
+    "The Kids Are All Right": {
+      "id": 39781,
+      "poster": "/xQ5XqZc82dDCcGjxY7voRKjhaKQ.jpg",
+      "title": "The Kids Are All Right",
+      "year": 2010
+    },
+    "Elle": {
+      "id": 337674,
+      "poster": "/z446adpGUVXXPxrLpKBGnYBcofk.jpg",
+      "title": "Elle",
+      "year": 2016
+    },
+    "The Iron Lady": {
+      "id": 71688,
+      "poster": "/fx7wpKXOht7WOkeOslvErbrf69Q.jpg",
+      "title": "The Iron Lady",
+      "year": 2011
+    },
+    "Black Swan": {
+      "id": 44214,
+      "poster": "/viWheBd44bouiLCHgNMvahLThqx.jpg",
+      "title": "Black Swan",
+      "year": 2010
+    },
+    "Pride & Prejudice": {
+      "id": 4348,
+      "poster": "/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg",
+      "title": "Pride & Prejudice",
+      "year": 2005
+    },
+    "Gone Girl": {
+      "id": 210577,
+      "poster": "/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+      "title": "Gone Girl",
+      "year": 2014
+    },
+    "An Education": {
+      "id": 24684,
+      "poster": "/gLIvvUdlocGjm8XVLxhWHAKWrRq.jpg",
+      "title": "An Education",
+      "year": 2009
+    },
+    "Call Me by Your Name": {
+      "id": 398818,
+      "poster": "/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
+      "title": "Call Me by Your Name",
+      "year": 2017
+    },
+    "Withnail and I": null,
+    "Sideways": {
+      "id": 9675,
+      "poster": "/zOsaxYLgvZVU7cJBpPn8CuE0MrP.jpg",
+      "title": "Sideways",
+      "year": 2004
+    },
+    "The English Patient": {
+      "id": 409,
+      "poster": "/8eHHqMg8qEYtVw8LQLygsHXSR2q.jpg",
+      "title": "The English Patient",
+      "year": 1996
+    },
+    "Cars": {
+      "id": 920,
+      "poster": "/oloVyeBbkVGbFFaUjR8I7Boo7wA.jpg",
+      "title": "Cars",
+      "year": 2006
+    },
+    "Happy Feet": {
+      "id": 9836,
+      "poster": "/za41IHkj6LnkilfTzv5B2qmthKD.jpg",
+      "title": "Happy Feet",
+      "year": 2006
+    },
+    "The Adventures of Tintin": {
+      "id": 17578,
+      "poster": "/fQZ3sLR1Fi63NMsNRbjm9q5qODJ.jpg",
+      "title": "The Adventures of Tintin",
+      "year": 2011
+    },
+    "Rango": {
+      "id": 44896,
+      "poster": "/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
+      "title": "Rango",
+      "year": 2011
+    },
+    "How to Train Your Dragon 2": {
+      "id": 82702,
+      "poster": "/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg",
+      "title": "How to Train Your Dragon 2",
+      "year": 2014
+    },
+    "Frozen": {
+      "id": 109445,
+      "poster": "/itAKcobTYGpYT8Phwjd8c9hleTo.jpg",
+      "title": "Frozen",
+      "year": 2013
+    },
+    "Coco": {
+      "id": 354912,
+      "poster": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+      "title": "Coco",
+      "year": 2017
+    },
+    "Inside Out": {
+      "id": 150540,
+      "poster": "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+      "title": "Inside Out",
+      "year": 2015
+    },
+    "Embrace of the Serpent": {
+      "id": 336808,
+      "poster": "/t3Lmw8jvm7tpik0lSkub8hU4oRW.jpg",
+      "title": "Embrace of the Serpent",
+      "year": 2015
+    },
+    "First Reformed": {
+      "id": 458737,
+      "poster": "/8HKA3Hwf8jQWy8TCYWr7C8Wft23.jpg",
+      "title": "First Reformed",
+      "year": 2018
+    },
+    "Casablanca": {
+      "id": 289,
+      "poster": "/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+      "title": "Casablanca",
+      "year": 1943
+    },
+    "Jolly Fellows": {
+      "id": 71387,
+      "poster": "/3zba9n2NmaiySjo2cbDB7XgVwdW.jpg",
+      "title": "Jolly Fellows",
+      "year": 2009
+    }
+  }
+}

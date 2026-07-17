@@ -1,0 +1,534 @@
+{
+  "slug": "oscar-season-the-snubs-and-surprises-of-the-academy-awards-n",
+  "title": "Oscar Season: The Snubs and Surprises of the Academy Awards Nominations | The Big Picture (Ep. 45)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "K. Austin Collins"
+  ],
+  "published": "2018-01-23",
+  "runtimeMin": 60,
+  "format": "Sean Fennessey, Amanda Dobbins, and K. Austin Collins react to the 90th Academy Awards nominations the morning they landed, category by category.",
+  "segments": [
+    {
+      "kind": "awards",
+      "heading": "Reacting to the 90th Oscar nominations",
+      "note": "category by category, nomination morning",
+      "ceremony": "90th Academy Awards",
+      "categories": [
+        {
+          "name": "Best Picture",
+          "nominees": [
+            {
+              "title": "Call Me by Your Name",
+              "year": 2017
+            },
+            {
+              "title": "Darkest Hour",
+              "year": 2017,
+              "note": "The surprise the panel didn't want; treated as this year's 'King's Speech.'"
+            },
+            {
+              "title": "Dunkirk",
+              "year": 2017
+            },
+            {
+              "title": "Get Out",
+              "year": 2017
+            },
+            {
+              "title": "Lady Bird",
+              "year": 2017,
+              "note": "Amanda's favorite film of the year."
+            },
+            {
+              "title": "Phantom Thread",
+              "year": 2017,
+              "note": "The big shock: six nominations for the year's latest release, which almost no one predicted here."
+            },
+            {
+              "title": "The Post",
+              "year": 2017
+            },
+            {
+              "title": "The Shape of Water",
+              "year": 2017,
+              "note": "Leads with 13 nominations; the conventional-wisdom front-runner."
+            },
+            {
+              "title": "Three Billboards Outside Ebbing, Missouri",
+              "year": 2017,
+              "note": "The other front-runner; Sean ends up betting on it to win."
+            }
+          ]
+        },
+        {
+          "name": "Best Director",
+          "predicted": "The Shape of Water",
+          "nominees": [
+            {
+              "title": "Dunkirk",
+              "year": 2017,
+              "person": "Christopher Nolan",
+              "note": "His first directing nomination, for his shortest film."
+            },
+            {
+              "title": "Get Out",
+              "year": 2017,
+              "person": "Jordan Peele"
+            },
+            {
+              "title": "Lady Bird",
+              "year": 2017,
+              "person": "Greta Gerwig"
+            },
+            {
+              "title": "Phantom Thread",
+              "year": 2017,
+              "person": "Paul Thomas Anderson",
+              "note": "Second directing nod, after There Will Be Blood; no one at golddirty.com had him."
+            },
+            {
+              "title": "The Shape of Water",
+              "year": 2017,
+              "person": "Guillermo del Toro",
+              "note": "Called the race to lose."
+            }
+          ]
+        },
+        {
+          "name": "Best Adapted Screenplay",
+          "predicted": "Call Me by Your Name",
+          "nominees": [
+            {
+              "title": "Call Me by Your Name",
+              "year": 2017,
+              "person": "James Ivory"
+            },
+            {
+              "title": "The Disaster Artist",
+              "year": 2017,
+              "person": "Scott Neustadter & Michael H. Weber",
+              "note": "Mostly shut out otherwise; snuck in for a clever adaptation of a hard book."
+            },
+            {
+              "title": "Logan",
+              "year": 2017,
+              "person": "Scott Frank, James Mangold & Michael Green",
+              "note": "A comic-book movie among the seven biggest Oscars; Cam would vote for it."
+            },
+            {
+              "title": "Molly's Game",
+              "year": 2017,
+              "person": "Aaron Sorkin"
+            },
+            {
+              "title": "Mudbound",
+              "year": 2017,
+              "person": "Virgil Williams & Dee Rees",
+              "note": "Dee Rees is the first Black woman nominated in the category."
+            }
+          ]
+        },
+        {
+          "name": "Best Supporting Actress",
+          "predicted": "I, Tonya",
+          "nominees": [
+            {
+              "title": "Mudbound",
+              "year": 2017,
+              "person": "Mary J. Blige"
+            },
+            {
+              "title": "I, Tonya",
+              "year": 2017,
+              "person": "Allison Janney",
+              "note": "The one who keeps winning; the panel thinks the trophy belongs to Metcalf."
+            },
+            {
+              "title": "Phantom Thread",
+              "year": 2017,
+              "person": "Leslie Manville",
+              "note": "The surprise everyone was thrilled by; won't win."
+            },
+            {
+              "title": "Lady Bird",
+              "year": 2017,
+              "person": "Laurie Metcalf",
+              "note": "The panel's pick for the most nuanced performance."
+            },
+            {
+              "title": "The Shape of Water",
+              "year": 2017,
+              "person": "Octavia Spencer"
+            }
+          ]
+        },
+        {
+          "name": "Best Supporting Actor",
+          "predicted": "Three Billboards Outside Ebbing, Missouri",
+          "nominees": [
+            {
+              "title": "The Florida Project",
+              "year": 2017,
+              "person": "Willem Dafoe",
+              "note": "Cam's only horse; playing against type, the film's only nominee."
+            },
+            {
+              "title": "Three Billboards Outside Ebbing, Missouri",
+              "year": 2017,
+              "person": "Woody Harrelson"
+            },
+            {
+              "title": "The Shape of Water",
+              "year": 2017,
+              "person": "Richard Jenkins"
+            },
+            {
+              "title": "All the Money in the World",
+              "year": 2017,
+              "person": "Christopher Plummer",
+              "note": "The reshoot feat: the only one in his scenes doing it for the first time."
+            },
+            {
+              "title": "Three Billboards Outside Ebbing, Missouri",
+              "year": 2017,
+              "person": "Sam Rockwell",
+              "note": "Expected to run away with it."
+            }
+          ]
+        },
+        {
+          "name": "Best Actress",
+          "predicted": "Three Billboards Outside Ebbing, Missouri",
+          "nominees": [
+            {
+              "title": "The Shape of Water",
+              "year": 2017,
+              "person": "Sally Hawkins"
+            },
+            {
+              "title": "Three Billboards Outside Ebbing, Missouri",
+              "year": 2017,
+              "person": "Frances McDormand"
+            },
+            {
+              "title": "I, Tonya",
+              "year": 2017,
+              "person": "Margot Robbie",
+              "note": "A producer on her own film, a first for a Best Actress nominee, per Sean."
+            },
+            {
+              "title": "Lady Bird",
+              "year": 2017,
+              "person": "Saoirse Ronan"
+            },
+            {
+              "title": "The Post",
+              "year": 2017,
+              "person": "Meryl Streep",
+              "note": "Her 21st nomination. The snub the panel keeps returning to is Vicky Krieps of Phantom Thread."
+            }
+          ]
+        },
+        {
+          "name": "Best Actor",
+          "predicted": "Darkest Hour",
+          "nominees": [
+            {
+              "title": "Call Me by Your Name",
+              "year": 2017,
+              "person": "Timothée Chalamet"
+            },
+            {
+              "title": "Phantom Thread",
+              "year": 2017,
+              "person": "Daniel Day-Lewis",
+              "note": "His purported swan song; a Phantom Thread surge could put him in play."
+            },
+            {
+              "title": "Get Out",
+              "year": 2017,
+              "person": "Daniel Kaluuya",
+              "note": "The nomination Cam found most surprising."
+            },
+            {
+              "title": "Darkest Hour",
+              "year": 2017,
+              "person": "Gary Oldman",
+              "note": "The front-runner, having campaigned relentlessly."
+            },
+            {
+              "title": "Roman J. Israel, Esq.",
+              "year": 2017,
+              "person": "Denzel Washington",
+              "note": "Sean's odd-one-out: a fifth slot in a thin field, for a film that vanished."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Brought up in passing",
+      "films": [
+        "Their Finest",
+        "The King's Speech",
+        "Dances with Wolves",
+        "Star Wars: The Last Jedi",
+        "Good Time",
+        "Flight",
+        "Pan's Labyrinth",
+        "There Will Be Blood",
+        "The Imitation Game",
+        "Wonder Woman",
+        "The Dark Knight",
+        "War for the Planet of the Apes",
+        "Transformers",
+        "Moonlight",
+        "Julie & Julia",
+        "Coco",
+        "The Greatest Showman"
+      ]
+    },
+    {
+      "group": "Largo live-show promo",
+      "films": [
+        "Friday Night Lights",
+        "Varsity Blues"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The West Wing",
+      "Mom",
+      "Counterpart"
+    ],
+    "Ads": [
+      "Squarespace",
+      "The Ringer NFL Show",
+      "The BS Podcast",
+      "GM Street"
+    ]
+  },
+  "tmdbOverrides": {
+    "Transformers": null
+  },
+  "tmdb": {
+    "Call Me by Your Name": {
+      "id": 398818,
+      "poster": "/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
+      "title": "Call Me by Your Name",
+      "year": 2017
+    },
+    "Darkest Hour": {
+      "id": 399404,
+      "poster": "/xa6G3aKlysQeVg9wOb0dRcIGlWu.jpg",
+      "title": "Darkest Hour",
+      "year": 2017
+    },
+    "Dunkirk": {
+      "id": 374720,
+      "poster": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "title": "Dunkirk",
+      "year": 2017
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Lady Bird": {
+      "id": 391713,
+      "poster": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+      "title": "Lady Bird",
+      "year": 2017
+    },
+    "Phantom Thread": {
+      "id": 400617,
+      "poster": "/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg",
+      "title": "Phantom Thread",
+      "year": 2017
+    },
+    "The Post": {
+      "id": 446354,
+      "poster": "/h4XG3g6uMMPIBPjAoQhC2QIMdkl.jpg",
+      "title": "The Post",
+      "year": 2017
+    },
+    "The Shape of Water": {
+      "id": 399055,
+      "poster": "/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg",
+      "title": "The Shape of Water",
+      "year": 2017
+    },
+    "Three Billboards Outside Ebbing, Missouri": {
+      "id": 359940,
+      "poster": "/bRYLt8fV82tdVoDppSFTZIcJiLN.jpg",
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "year": 2017
+    },
+    "The Disaster Artist": {
+      "id": 371638,
+      "poster": "/2HuLGiyH0TPYxnCvYHAxc8K738o.jpg",
+      "title": "The Disaster Artist",
+      "year": 2017
+    },
+    "Logan": {
+      "id": 263115,
+      "poster": "/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+      "title": "Logan",
+      "year": 2017
+    },
+    "Molly's Game": {
+      "id": 396371,
+      "poster": "/zrGQwKNmAz5awZI2V1k5M4eTTTN.jpg",
+      "title": "Molly's Game",
+      "year": 2017
+    },
+    "Mudbound": {
+      "id": 414425,
+      "poster": "/tf21kSKepMOlnorszWaiFwksKU4.jpg",
+      "title": "Mudbound",
+      "year": 2017
+    },
+    "I, Tonya": {
+      "id": 389015,
+      "poster": "/6gNXwSHxaksR1PjVZRqNapmkgj3.jpg",
+      "title": "I, Tonya",
+      "year": 2017
+    },
+    "The Florida Project": {
+      "id": 394117,
+      "poster": "/5QnDxdJg1fi6uMSkSi4x8tHsltm.jpg",
+      "title": "The Florida Project",
+      "year": 2017
+    },
+    "All the Money in the World": {
+      "id": 446791,
+      "poster": "/q6nE9Hf0ezszjI4DbCxwzQ73MMy.jpg",
+      "title": "All the Money in the World",
+      "year": 2017
+    },
+    "Roman J. Israel, Esq.": {
+      "id": 413362,
+      "poster": "/epTCHVcyLkT8Aqt08Ki3PWC2sUh.jpg",
+      "title": "Roman J. Israel, Esq.",
+      "year": 2017
+    },
+    "Their Finest": {
+      "id": 340101,
+      "poster": "/tF0dhJfxzOjvkybJVfNPuuj5ClH.jpg",
+      "title": "Their Finest",
+      "year": 2017
+    },
+    "The King's Speech": {
+      "id": 45269,
+      "poster": "/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg",
+      "title": "The King's Speech",
+      "year": 2010
+    },
+    "Dances with Wolves": {
+      "id": 581,
+      "poster": "/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg",
+      "title": "Dances with Wolves",
+      "year": 1990
+    },
+    "Star Wars: The Last Jedi": {
+      "id": 181808,
+      "poster": "/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
+      "title": "Star Wars: The Last Jedi",
+      "year": 2017
+    },
+    "Good Time": {
+      "id": 429200,
+      "poster": "/yE1c9hj5Hf8a9KplAdRdhADqUro.jpg",
+      "title": "Good Time",
+      "year": 2017
+    },
+    "Flight": {
+      "id": 87502,
+      "poster": "/tFsHDNclXoCKy2xMxskzXXMaFJS.jpg",
+      "title": "Flight",
+      "year": 2012
+    },
+    "Pan's Labyrinth": {
+      "id": 1417,
+      "poster": "/z7xXihu5wHuSMWymq5VAulPVuvg.jpg",
+      "title": "Pan's Labyrinth",
+      "year": 2006
+    },
+    "There Will Be Blood": {
+      "id": 7345,
+      "poster": "/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+      "title": "There Will Be Blood",
+      "year": 2007
+    },
+    "The Imitation Game": {
+      "id": 205596,
+      "poster": "/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg",
+      "title": "The Imitation Game",
+      "year": 2014
+    },
+    "Wonder Woman": {
+      "id": 297762,
+      "poster": "/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+      "title": "Wonder Woman",
+      "year": 2017
+    },
+    "The Dark Knight": {
+      "id": 155,
+      "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    "War for the Planet of the Apes": {
+      "id": 281338,
+      "poster": "/3vYhLLxrTtZLysXtIWktmd57Snv.jpg",
+      "title": "War for the Planet of the Apes",
+      "year": 2017
+    },
+    "Transformers": null,
+    "Moonlight": {
+      "id": 376867,
+      "poster": "/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+      "title": "Moonlight",
+      "year": 2016
+    },
+    "Julie & Julia": {
+      "id": 24803,
+      "poster": "/1QZNWOOwfRi86ZApGvr2TtJZPBK.jpg",
+      "title": "Julie & Julia",
+      "year": 2009
+    },
+    "Coco": {
+      "id": 354912,
+      "poster": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+      "title": "Coco",
+      "year": 2017
+    },
+    "The Greatest Showman": {
+      "id": 316029,
+      "poster": "/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg",
+      "title": "The Greatest Showman",
+      "year": 2017
+    },
+    "Friday Night Lights": {
+      "id": 13416,
+      "poster": "/8HIqpOgqShRc3TAleabnYispDl1.jpg",
+      "title": "Friday Night Lights",
+      "year": 2004
+    },
+    "Varsity Blues": {
+      "id": 14709,
+      "poster": "/g2jX2Xmx7drbc6J9MLJEBghR7Mg.jpg",
+      "title": "Varsity Blues",
+      "year": 1999
+    }
+  }
+}

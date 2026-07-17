@@ -29,7 +29,7 @@
         {
           "title": "The Witch",
           "year": 2015,
-          "note": "The other recent A24 horror it gets compared to; Collins likes It Comes at Night more but sees both as families sealed off from society, waging a battle against an outside force."
+          "note": "The other recent A24 horror it gets compared to; Collins likes It Comes at Night more but sees both as families sealed off from society, fighting off an outside force."
         },
         {
           "title": "The Shining",
@@ -39,7 +39,7 @@
         {
           "title": "The Thing",
           "year": 1982,
-          "note": "Carpenter's version; Collins loves it and reads It Comes at Night the same way, not about the monster but about how the monster reshapes the people trapped together."
+          "note": "Carpenter's version; Collins loves it and reads It Comes at Night the same way: the monster matters less than how it reshapes the people trapped together."
         },
         {
           "title": "There Will Be Blood",
@@ -86,7 +86,7 @@
         {
           "title": "There Will Be Blood",
           "year": 2007,
-          "note": "The film he watched most while making It Comes at Night, for its tone and mood."
+          "note": "The film he watched most while making It Comes at Night, for its mood."
         },
         {
           "title": "The Tree of Life",
@@ -121,7 +121,7 @@
         {
           "title": "Raging Bull",
           "year": 1980,
-          "note": "Blew his mind on first viewing; he couldn't stop watching it and it became a favorite."
+          "note": "Blew his mind on first viewing; he kept rewatching it and it's stayed a favorite since."
         },
         {
           "title": "Rocky",
@@ -160,6 +160,9 @@
       "Dolby Voice",
       "Proper Cloth"
     ]
+  },
+  "tmdbOverrides": {
+    "Voyage of Time": 86822
   },
   "tmdb": {
     "It Comes at Night": {
@@ -228,7 +231,12 @@
       "title": "The Tree of Life",
       "year": 2011
     },
-    "Voyage of Time": null,
+    "Voyage of Time": {
+      "id": 86822,
+      "poster": "/by2hTbppbkyhQ2ddALHzXlUq8LM.jpg",
+      "title": "Voyage of Time: Life's Journey",
+      "year": 2017
+    },
     "Aliens": {
       "id": 679,
       "poster": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",

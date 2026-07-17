@@ -1,0 +1,351 @@
+{
+  "slug": "movies-vs-tv-in-2023-what-the-succession-finale-says-about-s",
+  "title": "Movies Vs. TV in 2023: What the ‘Succession’ Finale Says About Storytelling Now. Plus: A Pointless ‘Little Mermaid.’",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2023-05-30",
+  "runtimeMin": 97,
+  "format": "Sean and Amanda use the Succession finale to ask why prestige TV became the home for damaged people behaving badly while the movies went hopeful. Then a live-action Little Mermaid nobody needed, and an interview with Cristian Mungiu about R.M.N.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Movies vs. TV in 2023",
+      "note": "storytelling after the Succession finale",
+      "films": [
+        {
+          "title": "Taxi Driver",
+          "year": 1976,
+          "note": "Sean's anchor: Travis Bickle as the damaged, dangerous character study that TV, not movies, now specializes in."
+        },
+        {
+          "title": "Tár",
+          "year": 2022,
+          "note": "The kind of interpretive character study Sean says movies can still make, though he laments its weak box office."
+        },
+        {
+          "title": "Top Gun: Maverick",
+          "year": 2022,
+          "note": "Cited as the comfort-and-nostalgia product that now moves the movie business."
+        },
+        {
+          "title": "John Wick: Chapter 4",
+          "year": 2023,
+          "note": "Sean's favorite of a thin year so far: big historical moviemaking in a modern key."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "The Little Mermaid",
+      "note": "the live-action remake",
+      "films": [
+        {
+          "title": "The Little Mermaid (2023)",
+          "year": 2023,
+          "note": "Rob Marshall's remake: 2h15, a sludgy CGI ocean, Les Poissons cut, a bad new Lin-Manuel Miranda song. Halle Bailey hits the high note; Melissa McCarthy and one-scene Jessica Alexander stand out; Javier Bardem is on autopilot. Sean's verdict: crass, pointless, and somehow the best of Disney's recent live-action batch."
+        },
+        {
+          "title": "The Little Mermaid (1989)",
+          "year": 1989,
+          "note": "The 83-minute animated original they keep measuring the remake against, where the songs and the saturated color are the point."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Cristian Mungiu on R.M.N.",
+      "guest": "Cristian Mungiu on",
+      "films": [
+        {
+          "title": "R.M.N.",
+          "year": 2022,
+          "note": "Built from a real Transylvanian town-hall vote against foreign workers; Mungiu on the 17-minute single-take meeting scene and shooting without coverage so you feel time pass."
+        },
+        {
+          "title": "4 Months, 3 Weeks and 2 Days",
+          "year": 2007,
+          "note": "His Palme d'Or abortion drama, cited as the earlier film whose local-but-universal method R.M.N. extends."
+        },
+        {
+          "title": "Burning",
+          "year": 2018,
+          "note": "Named among the recent films he admired."
+        },
+        {
+          "title": "Pacifiction",
+          "year": 2022,
+          "note": "His last-great-thing pick: Albert Serra taking risks, which he says is how cinema actually progresses."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Best Picture winners, cited as evidence",
+      "films": [
+        "The Shape of Water",
+        "Moonlight",
+        "Everything Everywhere All at Once",
+        "Spotlight",
+        "Green Book",
+        "CODA"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Pulp Fiction",
+        "The Super Mario Bros. Movie",
+        "Fast X",
+        "Black Panther: Wakanda Forever",
+        "Avatar: The Way of Water",
+        "The Farewell",
+        "Renfield",
+        "Phantom Thread",
+        "The Graduate",
+        "John Wick",
+        "Star Wars",
+        "Return of the Jedi",
+        "Mad Max",
+        "Citizen Kane",
+        "Singin' in the Rain",
+        "The Rescuers Down Under",
+        "Spider-Man: Across the Spider-Verse"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Succession",
+      "Barry",
+      "Mad Men",
+      "Homeland",
+      "Breaking Bad",
+      "Game of Thrones",
+      "The Handmaid's Tale",
+      "The Crown",
+      "The Wire",
+      "Fleabag",
+      "Atlanta",
+      "Ted Lasso",
+      "Yellowstone",
+      "Falcon Crest",
+      "The Sopranos",
+      "The Ultimatum"
+    ],
+    "Games": [
+      "FIFA World Cup Launch Edition"
+    ],
+    "Ads": [
+      "NOS Energy",
+      "Netflix",
+      "Carvana",
+      "Peyronie's disease (TalkAboutPD)",
+      "Boar's Head"
+    ]
+  },
+  "tmdb": {
+    "Taxi Driver": {
+      "id": 103,
+      "poster": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "title": "Taxi Driver",
+      "year": 1976
+    },
+    "Tár": {
+      "id": 817758,
+      "poster": "/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg",
+      "title": "TÁR",
+      "year": 2022
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "John Wick: Chapter 4": {
+      "id": 603692,
+      "poster": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+      "title": "John Wick: Chapter 4",
+      "year": 2023
+    },
+    "The Little Mermaid (2023)": {
+      "id": 447277,
+      "poster": "/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",
+      "title": "The Little Mermaid",
+      "year": 2023
+    },
+    "The Little Mermaid (1989)": {
+      "id": 10144,
+      "poster": "/plcZXvI310FkbwIptvd6rqk63LP.jpg",
+      "title": "The Little Mermaid",
+      "year": 1989
+    },
+    "R.M.N.": {
+      "id": 919570,
+      "poster": "/7zGDc1sWKlfYb6bKs2s2JaU4jLl.jpg",
+      "title": "R.M.N.",
+      "year": 2022
+    },
+    "4 Months, 3 Weeks and 2 Days": {
+      "id": 2009,
+      "poster": "/acEtvzFPeOQwbzRWncjRLenhnKV.jpg",
+      "title": "4 Months, 3 Weeks and 2 Days",
+      "year": 2007
+    },
+    "Burning": {
+      "id": 491584,
+      "poster": "/kXiF80o74fE9gf3Utf9moAI7ar0.jpg",
+      "title": "Burning",
+      "year": 2018
+    },
+    "Pacifiction": {
+      "id": 691214,
+      "poster": "/kElJcT1oteDCyRzw0XNqrTZcCvA.jpg",
+      "title": "Pacifiction",
+      "year": 2022
+    },
+    "The Shape of Water": {
+      "id": 399055,
+      "poster": "/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg",
+      "title": "The Shape of Water",
+      "year": 2017
+    },
+    "Moonlight": {
+      "id": 376867,
+      "poster": "/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+      "title": "Moonlight",
+      "year": 2016
+    },
+    "Everything Everywhere All at Once": {
+      "id": 545611,
+      "poster": "/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+      "title": "Everything Everywhere All at Once",
+      "year": 2022
+    },
+    "Spotlight": {
+      "id": 314365,
+      "poster": "/8DPGG400FgaFWaqcv11n8mRd2NG.jpg",
+      "title": "Spotlight",
+      "year": 2015
+    },
+    "Green Book": {
+      "id": 490132,
+      "poster": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+      "title": "Green Book",
+      "year": 2018
+    },
+    "CODA": {
+      "id": 776503,
+      "poster": "/BzVjmm8l23rPsijLiNLUzuQtyd.jpg",
+      "title": "CODA",
+      "year": 2021
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "The Super Mario Bros. Movie": {
+      "id": 502356,
+      "poster": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+      "title": "The Super Mario Bros. Movie",
+      "year": 2023
+    },
+    "Fast X": {
+      "id": 385687,
+      "poster": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+      "title": "Fast X",
+      "year": 2023
+    },
+    "Black Panther: Wakanda Forever": {
+      "id": 505642,
+      "poster": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+      "title": "Black Panther: Wakanda Forever",
+      "year": 2022
+    },
+    "Avatar: The Way of Water": {
+      "id": 76600,
+      "poster": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "title": "Avatar: The Way of Water",
+      "year": 2022
+    },
+    "The Farewell": {
+      "id": 565310,
+      "poster": "/7ht2IMGynDSVQGvAXhAb83DLET8.jpg",
+      "title": "The Farewell",
+      "year": 2019
+    },
+    "Renfield": {
+      "id": 649609,
+      "poster": "/jG83l0tDwoQj3hBAioIsJ5rTPHw.jpg",
+      "title": "Renfield",
+      "year": 2023
+    },
+    "Phantom Thread": {
+      "id": 400617,
+      "poster": "/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg",
+      "title": "Phantom Thread",
+      "year": 2017
+    },
+    "The Graduate": {
+      "id": 37247,
+      "poster": "/8XaDpF0COV1MLsDirJMnxmYc1Wp.jpg",
+      "title": "The Graduate",
+      "year": 1967
+    },
+    "John Wick": {
+      "id": 245891,
+      "poster": "/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
+      "title": "John Wick",
+      "year": 2014
+    },
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
+    },
+    "Return of the Jedi": {
+      "id": 1892,
+      "poster": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+      "title": "Return of the Jedi",
+      "year": 1983
+    },
+    "Mad Max": {
+      "id": 9659,
+      "poster": "/5LrI4GiCSrChgkdskVZiwv643Kg.jpg",
+      "title": "Mad Max",
+      "year": 1979
+    },
+    "Citizen Kane": {
+      "id": 15,
+      "poster": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+      "title": "Citizen Kane",
+      "year": 1941
+    },
+    "Singin' in the Rain": {
+      "id": 872,
+      "poster": "/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+      "title": "Singin' in the Rain",
+      "year": 1952
+    },
+    "The Rescuers Down Under": {
+      "id": 11135,
+      "poster": "/5koTDBmMAkJOgAe4PL4163UKjvG.jpg",
+      "title": "The Rescuers Down Under",
+      "year": 1990
+    },
+    "Spider-Man: Across the Spider-Verse": {
+      "id": 569094,
+      "poster": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "year": 2023
+    }
+  }
+}

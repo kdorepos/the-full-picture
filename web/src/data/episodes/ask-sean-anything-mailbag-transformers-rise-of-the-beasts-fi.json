@@ -159,7 +159,7 @@
         {
           "title": "The Third Man",
           "year": 1949,
-          "note": "Sean's standing answer: a perfect fusion of plot, character, dialogue, and look."
+          "note": "Sean's standing answer: plot, character, dialogue, and look all click."
         },
         {
           "title": "Sweet Smell of Success",
@@ -241,7 +241,7 @@
         {
           "title": "Spider-Man: Across the Spider-Verse",
           "year": 2023,
-          "note": "The real vanguard of mainstream animation now, in the spot Pixar held for 20 years."
+          "note": "Leading mainstream animation now, the spot Pixar held for 20 years."
         },
         {
           "title": "The Super Mario Bros. Movie",
@@ -322,7 +322,7 @@
         {
           "title": "Get Out",
           "year": 2017,
-          "note": "Part parody of horror, and also the best horror-comedy of the 2010s."
+          "note": "Part parody of horror, and the best horror-comedy of the 2010s."
         },
         {
           "title": "Blazing Saddles",
@@ -433,7 +433,8 @@
         "Shiva Baby",
         "Under the Silver Lake",
         "The Worst Person in the World",
-        "The Boogeyman"
+        "The Boogeyman",
+        "Bama Rush"
       ]
     },
     {
@@ -455,6 +456,10 @@
       ]
     }
   ],
+  "tmdbOverrides": {
+    "WALL-E": 10681,
+    "The Naked Gun": 37136
+  },
   "excluded": {
     "TV": [
       "Swarm (Amazon Prime)",
@@ -685,7 +690,12 @@
       "title": "Soul",
       "year": 2020
     },
-    "WALL-E": null,
+    "WALL-E": {
+      "id": 10681,
+      "poster": "/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+      "title": "WALL·E",
+      "year": 2008
+    },
     "Up": {
       "id": 14160,
       "poster": "/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
@@ -902,6 +912,12 @@
       "title": "The Boogeyman",
       "year": 2023
     },
+    "Bama Rush": {
+      "id": 1053722,
+      "poster": "/30q4SkivFioRpJTIxOdMDvcN5M5.jpg",
+      "title": "Bama Rush",
+      "year": 2023
+    },
     "Terminator 2: Judgment Day": {
       "id": 280,
       "poster": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
@@ -933,10 +949,10 @@
       "year": 1994
     },
     "The Naked Gun": {
-      "id": 1035259,
-      "poster": "/rwla9vqzrKVVKVKiOuROTIXGsxj.jpg",
-      "title": "The Naked Gun",
-      "year": 2025
+      "id": 37136,
+      "poster": "/zT0mhZqZQJE1gSY5Eg9qcGP4NYo.jpg",
+      "title": "The Naked Gun: From the Files of Police Squad!",
+      "year": 1988
     },
     "Minions": {
       "id": 211672,

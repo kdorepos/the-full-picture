@@ -1,0 +1,349 @@
+{
+  "slug": "emergency-pod-did-movie-theaters-just-die-why-warner-bros-is",
+  "title": "Emergency Pod: Did Movie Theaters Just Die? Why Warner Bros. Is Dropping Its 2021 Releases on HBO Max",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2020-12-03",
+  "runtimeMin": 41,
+  "format": "Sean and Amanda react to Warner Bros. sending its entire 2021 slate to HBO Max day-and-date, and argue over whether it just killed the theater.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The Warner Bros. 2021 slate goes to HBO Max",
+      "note": "the movies dropping day-and-date on streaming",
+      "films": [
+        {
+          "title": "Wonder Woman 1984",
+          "year": 2020,
+          "note": "The Christmas Day precedent a few weeks earlier; they call it the Rubicon that made this decision possible."
+        },
+        {
+          "title": "The Little Things",
+          "year": 2021,
+          "note": "Sean's 'garbage crime' Denzel Washington movie he plans to watch three times."
+        },
+        {
+          "title": "Judas and the Black Messiah",
+          "year": 2021
+        },
+        {
+          "title": "Tom and Jerry",
+          "year": 2021,
+          "note": "Cited as proof this isn't a bid for quality."
+        },
+        {
+          "title": "Godzilla vs. Kong",
+          "year": 2021,
+          "note": "The most theatrical movie imaginable, now mostly watched at home."
+        },
+        {
+          "title": "Mortal Kombat",
+          "year": 2021,
+          "note": "Video-game adaptation; evidence of how much IP was on the slate."
+        },
+        {
+          "title": "Those Who Wish Me Dead",
+          "year": 2021
+        },
+        {
+          "title": "The Conjuring: The Devil Made Me Do It",
+          "year": 2021
+        },
+        {
+          "title": "In the Heights",
+          "year": 2021,
+          "note": "Jon Chu's take on Lin-Manuel Miranda's musical; already delayed out of 2020."
+        },
+        {
+          "title": "Space Jam: A New Legacy",
+          "year": 2021,
+          "note": "The LeBron James follow-up; Amanda claims to be his number-one cinematic fan."
+        },
+        {
+          "title": "The Suicide Squad",
+          "year": 2021,
+          "note": "James Gunn's; the box-office they're most visibly punting on."
+        },
+        {
+          "title": "Reminiscence",
+          "year": 2021
+        },
+        {
+          "title": "Malignant",
+          "year": 2021
+        },
+        {
+          "title": "Dune",
+          "year": 2021,
+          "note": "Arguably the most anticipated movie of 2021; the one Sean can't believe is going to TV."
+        },
+        {
+          "title": "The Many Saints of Newark",
+          "year": 2021,
+          "note": "The Sopranos prequel."
+        },
+        {
+          "title": "King Richard",
+          "year": 2021,
+          "note": "Will Smith as Richard Williams; the pick Amanda most wants to nerd out about."
+        },
+        {
+          "title": "Cry Macho",
+          "year": 2021,
+          "note": "The forthcoming film from the then-nonagenarian Clint Eastwood."
+        },
+        {
+          "title": "The Matrix Resurrections",
+          "year": 2021,
+          "note": "Referred to as 'Matrix 4'; the title that makes Sean apoplectic."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The rest of the pandemic release picture",
+      "films": [
+        "Mank",
+        "Happiest Season",
+        "Soul",
+        "Trolls World Tour",
+        "Tenet",
+        "No Time to Die",
+        "Black Widow",
+        "Eternals",
+        "Shang-Chi and the Legend of the Ten Rings",
+        "Extraction"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Trainwreck",
+        "Good Will Hunting",
+        "The Ballad of Buster Scruggs",
+        "The Irishman"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Tom and Jerry": 587807
+  },
+  "excluded": {
+    "TV": [
+      "The Mandalorian",
+      "House of Cards",
+      "WandaVision",
+      "The Falcon and the Winter Soldier",
+      "The Crown",
+      "The Undoing",
+      "The Masked Singer"
+    ],
+    "Ads": [
+      "Whole Foods Market",
+      "Netflix (FIFA World Cup Launch Edition)",
+      "Boar's Head",
+      "FanDuel",
+      "Carvana",
+      "NOS Energy"
+    ]
+  },
+  "tmdb": {
+    "Wonder Woman 1984": {
+      "id": 464052,
+      "poster": "/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
+      "title": "Wonder Woman 1984",
+      "year": 2020
+    },
+    "The Little Things": {
+      "id": 602269,
+      "poster": "/tLO1aD1ghdtVMT32z2sRmzgYKYd.jpg",
+      "title": "The Little Things",
+      "year": 2021
+    },
+    "Judas and the Black Messiah": {
+      "id": 583406,
+      "poster": "/iIgr75GoqFxe1X5Wz9siOODGe9u.jpg",
+      "title": "Judas and the Black Messiah",
+      "year": 2021
+    },
+    "Tom and Jerry": {
+      "id": 587807,
+      "poster": "/8XZI9QZ7Pm3fVkigWJPbrXCMzjq.jpg",
+      "title": "Tom & Jerry",
+      "year": 2021
+    },
+    "Godzilla vs. Kong": {
+      "id": 399566,
+      "poster": "/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+      "title": "Godzilla vs. Kong",
+      "year": 2021
+    },
+    "Mortal Kombat": {
+      "id": 460465,
+      "poster": "/nkayOAUBUu4mMvyNf9iHSUiPjF1.jpg",
+      "title": "Mortal Kombat",
+      "year": 2021
+    },
+    "Those Who Wish Me Dead": {
+      "id": 578701,
+      "poster": "/xCEg6KowNISWvMh8GvPSxtdf9TO.jpg",
+      "title": "Those Who Wish Me Dead",
+      "year": 2021
+    },
+    "The Conjuring: The Devil Made Me Do It": {
+      "id": 423108,
+      "poster": "/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg",
+      "title": "The Conjuring: The Devil Made Me Do It",
+      "year": 2021
+    },
+    "In the Heights": {
+      "id": 467909,
+      "poster": "/RO4KoJyoQMQzh9z76d4v4FJMmJ.jpg",
+      "title": "In the Heights",
+      "year": 2021
+    },
+    "Space Jam: A New Legacy": {
+      "id": 379686,
+      "poster": "/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg",
+      "title": "Space Jam: A New Legacy",
+      "year": 2021
+    },
+    "The Suicide Squad": {
+      "id": 436969,
+      "poster": "/q61qEyssk2ku3okWICKArlAdhBn.jpg",
+      "title": "The Suicide Squad",
+      "year": 2021
+    },
+    "Reminiscence": {
+      "id": 579047,
+      "poster": "/17siH6wJRQ2jZiqz9BWUhy1UtZ.jpg",
+      "title": "Reminiscence",
+      "year": 2021
+    },
+    "Malignant": {
+      "id": 619778,
+      "poster": "/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg",
+      "title": "Malignant",
+      "year": 2021
+    },
+    "Dune": {
+      "id": 438631,
+      "poster": "/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "title": "Dune",
+      "year": 2021
+    },
+    "The Many Saints of Newark": {
+      "id": 524369,
+      "poster": "/1UkbPQspPbq1FPbFP4VV1ELCfSN.jpg",
+      "title": "The Many Saints of Newark",
+      "year": 2021
+    },
+    "King Richard": {
+      "id": 614917,
+      "poster": "/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg",
+      "title": "King Richard",
+      "year": 2021
+    },
+    "Cry Macho": {
+      "id": 749274,
+      "poster": "/esrzqq7Ud8yoslFTu3J5HqTJVOQ.jpg",
+      "title": "Cry Macho",
+      "year": 2021
+    },
+    "The Matrix Resurrections": {
+      "id": 624860,
+      "poster": "/8c4a8kE7PizaGQQnditMmI1xbRp.jpg",
+      "title": "The Matrix Resurrections",
+      "year": 2021
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "Happiest Season": {
+      "id": 520172,
+      "poster": "/vzec9kkOSE93tygyfOktedkeOQ.jpg",
+      "title": "Happiest Season",
+      "year": 2020
+    },
+    "Soul": {
+      "id": 508442,
+      "poster": "/6jmppcaubzLF8wkXM36ganVISCo.jpg",
+      "title": "Soul",
+      "year": 2020
+    },
+    "Trolls World Tour": {
+      "id": 446893,
+      "poster": "/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg",
+      "title": "Trolls World Tour",
+      "year": 2020
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "No Time to Die": {
+      "id": 370172,
+      "poster": "/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+      "title": "No Time to Die",
+      "year": 2021
+    },
+    "Black Widow": {
+      "id": 497698,
+      "poster": "/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+      "title": "Black Widow",
+      "year": 2021
+    },
+    "Eternals": {
+      "id": 524434,
+      "poster": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+      "title": "Eternals",
+      "year": 2021
+    },
+    "Shang-Chi and the Legend of the Ten Rings": {
+      "id": 566525,
+      "poster": "/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "year": 2021
+    },
+    "Extraction": {
+      "id": 545609,
+      "poster": "/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg",
+      "title": "Extraction",
+      "year": 2020
+    },
+    "Trainwreck": {
+      "id": 271718,
+      "poster": "/wrY629UTCUAKLJ4CxQXz6DCE7pr.jpg",
+      "title": "Trainwreck",
+      "year": 2015
+    },
+    "Good Will Hunting": {
+      "id": 489,
+      "poster": "/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+      "title": "Good Will Hunting",
+      "year": 1997
+    },
+    "The Ballad of Buster Scruggs": {
+      "id": 537996,
+      "poster": "/voxl654m7p36y8FLu8oQD7dfwwK.jpg",
+      "title": "The Ballad of Buster Scruggs",
+      "year": 2018
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    }
+  }
+}

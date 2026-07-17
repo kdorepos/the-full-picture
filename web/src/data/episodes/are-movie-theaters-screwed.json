@@ -1,0 +1,655 @@
+{
+  "slug": "are-movie-theaters-screwed",
+  "title": "Are Movie Theaters Screwed?",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2020-08-04",
+  "runtimeMin": 57,
+  "format": "Sean and Amanda on the AMC-Universal deal that cut the theatrical window to 17 days and a theater business that was already breaking, then Bradley Cooper joining PTA's next film, a scaled-back fall festival season, and Seth Rogen in An American Pickle.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Are movie theaters screwed?",
+      "note": "the AMC-Universal deal and a business that was already breaking",
+      "films": [
+        {
+          "title": "Trolls World Tour",
+          "year": 2020,
+          "note": "The PVOD experiment that started the fight: Universal put it out to premium rental in April with theaters shut and bragged about the numbers, which set off Adam Aron at AMC."
+        },
+        {
+          "title": "Dolittle",
+          "year": 2020,
+          "note": "On the run-through of Universal's 2020 releases. Sean's word for it: preposterous."
+        },
+        {
+          "title": "The Turning",
+          "year": 2020,
+          "note": "A little-seen Universal horror release from January."
+        },
+        {
+          "title": "The Photograph",
+          "year": 2020,
+          "note": "Another Universal 2020 title they'd covered on the show."
+        },
+        {
+          "title": "The Invisible Man",
+          "year": 2020,
+          "note": "Universal's one real 2020 hit. Amanda points out its late run overlapped the first lockdown, which muddies the box-office read."
+        },
+        {
+          "title": "The Hunt",
+          "year": 2020,
+          "note": "On the Universal 2020 slate."
+        },
+        {
+          "title": "The King of Staten Island",
+          "year": 2020,
+          "note": "The Judd Apatow/Pete Davidson film, and the one Universal title Sean thinks might have earned a run past 17 days."
+        },
+        {
+          "title": "You Should Have Left",
+          "year": 2020,
+          "note": "The Kevin Bacon horror movie on Universal's slate."
+        },
+        {
+          "title": "F9",
+          "year": 2021,
+          "note": "The tentpole counterexample: makes more in theaters than at home, so it isn't going to PVOD after two and a half weeks."
+        },
+        {
+          "title": "Candyman",
+          "year": 2021,
+          "note": "Nia DaCosta's remake of the 1992 film, produced by Jordan Peele, then dated for October 16 to land near Halloween."
+        },
+        {
+          "title": "The One and Only Ivan",
+          "year": 2020,
+          "note": "The Disney+ gorilla movie with Bryan Cranston. Sean's example of a kids' film with no real difference between the theater and the couch."
+        },
+        {
+          "title": "Tenet",
+          "year": 2020,
+          "note": "The Nolan release everyone's watching as the test of whether a movie can open into a reduced theater count."
+        },
+        {
+          "title": "The Croods: A New Age",
+          "year": 2020,
+          "note": "Croods 2, which Universal kept on the calendar: a known kids property with a built-in audience, basically Trolls World Tour."
+        },
+        {
+          "title": "The Croods",
+          "year": 2013,
+          "note": "The original, then on Netflix. Roger Deakins gave it visual-consultant help, a fact Amanda got mocked for citing on the Deakins episode."
+        },
+        {
+          "title": "News of the World",
+          "year": 2020,
+          "note": "The Tom Hanks/Paul Greengrass awards title Universal moved off 2020."
+        },
+        {
+          "title": "Minions: The Rise of Gru",
+          "year": 2022,
+          "note": "Delayed to 2021 (it finally landed in 2022) to hold out for a full theatrical release. Universal clearly values Despicable Me more than Croods."
+        },
+        {
+          "title": "Rebecca",
+          "year": 2020,
+          "note": "Ben Wheatley's remake of the Hitchcock film with Armie Hammer, Lily James, and Kristin Scott Thomas. Sean's new most-anticipated, now expected at home."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Bradley Cooper, PTA, and Bernstein",
+      "note": "the week's casting news: Cooper joins Paul Thomas Anderson's untitled 1970s Valley film, then directs a Leonard Bernstein biopic",
+      "films": [
+        {
+          "title": "A Star Is Born",
+          "year": 2018,
+          "note": "Cooper's directorial debut and the prestige swing they both defended. The move that keeps pushing him up the movie-star hierarchy."
+        },
+        {
+          "title": "The Hangover",
+          "year": 2009,
+          "note": "The movie that made Cooper famous and the thing he's spent a decade trying to graduate from, studying Eastwood and Pacino to do it."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "A scaled-back fall festival season",
+      "note": "Telluride, New York, and Toronto, all smaller this year",
+      "films": [
+        {
+          "title": "Uncut Gems",
+          "year": 2019,
+          "note": "One of last year's stacked Telluride world premieres, cited to show how much slighter the 2020 slate looks."
+        },
+        {
+          "title": "Ford v Ferrari",
+          "year": 2019,
+          "note": "Another 2019 Telluride world premiere in the comparison."
+        },
+        {
+          "title": "Judy",
+          "year": 2019,
+          "note": "Part of last year's Telluride lineup."
+        },
+        {
+          "title": "First Cow",
+          "year": 2019,
+          "note": "A 2019 Telluride premiere."
+        },
+        {
+          "title": "Marriage Story",
+          "year": 2019,
+          "note": "Its Telluride North American premiere rounded out a full 2019 slate."
+        },
+        {
+          "title": "Ammonite",
+          "year": 2020,
+          "note": "Francis Lee's Kate Winslet/Saoirse Ronan drama, on both the Telluride and TIFF lists. Neon has it, and Sean's not sure whether it goes to a window or straight home."
+        },
+        {
+          "title": "The Father",
+          "year": 2020,
+          "note": "Florian Zeller's dementia drama with Anthony Hopkins, which Sean saw at Sundance and expects to see nominated."
+        },
+        {
+          "title": "Nomadland",
+          "year": 2020,
+          "note": "Chloé Zhao's Frances McDormand film, getting a Telluride drive-in premiere on September 11 despite the festival being canceled."
+        },
+        {
+          "title": "The French Dispatch",
+          "year": 2021,
+          "note": "Wes Anderson's film, pulled off the calendar entirely. The kind of title whose absence shrinks the whole season."
+        },
+        {
+          "title": "Mank",
+          "year": 2020,
+          "note": "Netflix's Fincher film, the sort of movie a studio holds back for the biggest possible platform."
+        },
+        {
+          "title": "The Irishman",
+          "year": 2019,
+          "note": "Last year's New York Film Festival opener, set against this year opening on a TV episode."
+        },
+        {
+          "title": "Widows",
+          "year": 2018,
+          "note": "Steve McQueen's last feature, which Amanda insists was under-discussed."
+        },
+        {
+          "title": "Concrete Cowboy",
+          "year": 2020,
+          "note": "Among the TIFF titles announced."
+        },
+        {
+          "title": "Palm Springs",
+          "year": 2020,
+          "note": "A Sundance movie Sean missed even after 25-plus films there."
+        },
+        {
+          "title": "Kajillionaire",
+          "year": 2020,
+          "note": "Miranda July's new film, another Sundance title now heading to VOD in September."
+        },
+        {
+          "title": "She Dies Tomorrow",
+          "year": 2020,
+          "note": "Amy Seimetz's film, well-timed to the apocalyptic mood, and to next week's top-five episode."
+        }
+      ]
+    },
+    {
+      "kind": "halloffame",
+      "heading": "Rest in peace, Wilford Brimley",
+      "honoree": "Wilford Brimley",
+      "films": [
+        {
+          "title": "Cocoon",
+          "year": 1985,
+          "note": "An actor who looked 65 for 40 straight years and never once seemed out of place."
+        },
+        {
+          "title": "The Thing",
+          "year": 1982,
+          "note": "Always made the movie he was in better."
+        },
+        {
+          "title": "The Firm",
+          "year": 1993,
+          "note": "The heartache line to Mitch McDeere, kept alive by Chris Ryan's impression on The Rewatchables."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "An American Pickle",
+      "note": "Seth Rogen times two, on HBO Max",
+      "films": [
+        {
+          "title": "An American Pickle",
+          "year": 2020,
+          "note": "Rogen plays a man brined for 100 years and his great-grandson. Charming and sentimental, with a hard-left third-act turn into Trump-era social media that Amanda didn't see coming but liked. Based on Simon Rich's 2013 story 'Sellout.'"
+        },
+        {
+          "title": "Being There",
+          "year": 1979,
+          "note": "The Hal Ashby comparison: a naïf everyone projects onto."
+        },
+        {
+          "title": "This Is the End",
+          "year": 2013,
+          "note": "Sean's case for an underrated Rogen high-concept, cued up ahead of the apocalypse-movies episode."
+        },
+        {
+          "title": "Long Shot",
+          "year": 2019,
+          "note": "The last Rogen lead they both liked."
+        },
+        {
+          "title": "Neighbors 2: Sorority Rising",
+          "year": 2016,
+          "note": "The last time before this that Rogen carried a movie as the protagonist."
+        },
+        {
+          "title": "Good Boys",
+          "year": 2019,
+          "note": "A big Point Grey hit, produced rather than led."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "One actor, two roles",
+      "films": [
+        "Dr. Strangelove",
+        "The Parent Trap",
+        "Austin Powers: International Man of Mystery",
+        "Coming to America",
+        "The Nutty Professor",
+        "The Social Network",
+        "Adaptation"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Once Upon a Time in Hollywood",
+        "The Devil All the Time",
+        "Four Weddings and a Funeral",
+        "How to Train Your Dragon",
+        "Mean Girls"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "The French Dispatch": 542178,
+    "Dr. Strangelove": 935,
+    "Cocoon": 10328,
+    "How to Train Your Dragon": 10191
+  },
+  "excluded": {
+    "TV": [
+      "Small Axe",
+      "Lover's Rock",
+      "Succession",
+      "Preacher",
+      "Arrested Development",
+      "Inside the Actors Studio"
+    ],
+    "Podcasts": [
+      "The Rewatchables",
+      "Team Deakins"
+    ],
+    "Ads": [
+      "Blue Moon"
+    ]
+  },
+  "tmdb": {
+    "Trolls World Tour": {
+      "id": 446893,
+      "poster": "/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg",
+      "title": "Trolls World Tour",
+      "year": 2020
+    },
+    "Dolittle": {
+      "id": 448119,
+      "poster": "/3Nt3v1uzUgfSuVARD1AnI9g9Zl9.jpg",
+      "title": "Dolittle",
+      "year": 2020
+    },
+    "The Turning": {
+      "id": 492611,
+      "poster": "/uiMHiHp9eAjJty8rddoUnL9G5fU.jpg",
+      "title": "The Turning",
+      "year": 2020
+    },
+    "The Photograph": {
+      "id": 589049,
+      "poster": "/cdqZqIcWt0Ne2Io2OA9iWqqMuCA.jpg",
+      "title": "The Photograph",
+      "year": 2020
+    },
+    "The Invisible Man": {
+      "id": 570670,
+      "poster": "/5EufsDwXdY2CVttYOk2WtYhgKpa.jpg",
+      "title": "The Invisible Man",
+      "year": 2020
+    },
+    "The Hunt": {
+      "id": 514847,
+      "poster": "/wxPhn4ef1EAo5njxwBkAEVrlJJG.jpg",
+      "title": "The Hunt",
+      "year": 2020
+    },
+    "The King of Staten Island": {
+      "id": 579583,
+      "poster": "/zQFjMmE3K9AX5QrBL1SXIxYQ9jz.jpg",
+      "title": "The King of Staten Island",
+      "year": 2020
+    },
+    "You Should Have Left": {
+      "id": 514593,
+      "poster": "/tpOwE6xsWnu4lKeKbKW0R3iClM.jpg",
+      "title": "You Should Have Left",
+      "year": 2020
+    },
+    "F9": {
+      "id": 385128,
+      "poster": "/deEmLILTPejEb6OGsXRJ5MCvyDW.jpg",
+      "title": "F9",
+      "year": 2021
+    },
+    "Candyman": {
+      "id": 565028,
+      "poster": "/dqoshZPLNsXlC1qtz5n34raUyrE.jpg",
+      "title": "Candyman",
+      "year": 2021
+    },
+    "The One and Only Ivan": {
+      "id": 508570,
+      "poster": "/wDOyGAiTaXvjKGmnmXsoFO7zItt.jpg",
+      "title": "The One and Only Ivan",
+      "year": 2020
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "The Croods: A New Age": {
+      "id": 529203,
+      "poster": "/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg",
+      "title": "The Croods: A New Age",
+      "year": 2020
+    },
+    "The Croods": {
+      "id": 49519,
+      "poster": "/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg",
+      "title": "The Croods",
+      "year": 2013
+    },
+    "News of the World": {
+      "id": 581032,
+      "poster": "/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+      "title": "News of the World",
+      "year": 2020
+    },
+    "Minions: The Rise of Gru": {
+      "id": 438148,
+      "poster": "/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg",
+      "title": "Minions: The Rise of Gru",
+      "year": 2022
+    },
+    "Rebecca": {
+      "id": 505379,
+      "poster": "/kGhllBArW7ImDycSMIG5bj6GEPL.jpg",
+      "title": "Rebecca",
+      "year": 2020
+    },
+    "A Star Is Born": {
+      "id": 332562,
+      "poster": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "title": "A Star Is Born",
+      "year": 2018
+    },
+    "The Hangover": {
+      "id": 18785,
+      "poster": "/A0uS9rHR56FeBtpjVki16M5xxSW.jpg",
+      "title": "The Hangover",
+      "year": 2009
+    },
+    "Uncut Gems": {
+      "id": 473033,
+      "poster": "/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+      "title": "Uncut Gems",
+      "year": 2019
+    },
+    "Ford v Ferrari": {
+      "id": 359724,
+      "poster": "/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+      "title": "Ford v Ferrari",
+      "year": 2019
+    },
+    "Judy": {
+      "id": 491283,
+      "poster": "/iqJhHjD6k6T07waELjMKDpQJUP.jpg",
+      "title": "Judy",
+      "year": 2019
+    },
+    "First Cow": {
+      "id": 558582,
+      "poster": "/yS41crZ1i0fFxCQbuL7I1Y1VBwm.jpg",
+      "title": "First Cow",
+      "year": 2020
+    },
+    "Marriage Story": {
+      "id": 492188,
+      "poster": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+      "title": "Marriage Story",
+      "year": 2019
+    },
+    "Ammonite": {
+      "id": 568467,
+      "poster": "/5lx4pUHWZoOKJWsVsvurRRNW9FK.jpg",
+      "title": "Ammonite",
+      "year": 2020
+    },
+    "The Father": {
+      "id": 600354,
+      "poster": "/pr3bEQ517uMb5loLvjFQi8uLAsp.jpg",
+      "title": "The Father",
+      "year": 2020
+    },
+    "Nomadland": {
+      "id": 581734,
+      "poster": "/8Vc5EOUEIF1EUXuX9eLFf7BvN3P.jpg",
+      "title": "Nomadland",
+      "year": 2021
+    },
+    "The French Dispatch": {
+      "id": 542178,
+      "poster": "/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg",
+      "title": "The French Dispatch of the Liberty, Kansas Evening Sun",
+      "year": 2021
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Widows": {
+      "id": 401469,
+      "poster": "/d31SGJSaX29ba5ZUbZcesGoDE7I.jpg",
+      "title": "Widows",
+      "year": 2018
+    },
+    "Concrete Cowboy": {
+      "id": 621954,
+      "poster": "/qRW2poVt06WCVlIhrolWS5af4YV.jpg",
+      "title": "Concrete Cowboy",
+      "year": 2020
+    },
+    "Palm Springs": {
+      "id": 587792,
+      "poster": "/gnAfqiV7yO3Jq9IntTmwkcaICqc.jpg",
+      "title": "Palm Springs",
+      "year": 2020
+    },
+    "Kajillionaire": {
+      "id": 541305,
+      "poster": "/fkqJJDb4u9rEyJu8Jm8H1P2mux4.jpg",
+      "title": "Kajillionaire",
+      "year": 2020
+    },
+    "She Dies Tomorrow": {
+      "id": 664297,
+      "poster": "/ogTna9bUzldTV5l2nyuyJV4tbCH.jpg",
+      "title": "She Dies Tomorrow",
+      "year": 2020
+    },
+    "Cocoon": {
+      "id": 10328,
+      "poster": "/wqNNm36j3nkucAucHEGAW5pNZcd.jpg",
+      "title": "Cocoon",
+      "year": 1985
+    },
+    "The Thing": {
+      "id": 1091,
+      "poster": "/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+      "title": "The Thing",
+      "year": 1982
+    },
+    "The Firm": {
+      "id": 37233,
+      "poster": "/kFexXCzidkm4LwlgZqxsJsDQB5v.jpg",
+      "title": "The Firm",
+      "year": 1993
+    },
+    "An American Pickle": {
+      "id": 628917,
+      "poster": "/8ziUp2q71vCmMgYY2MRCwI3mSs5.jpg",
+      "title": "An American Pickle",
+      "year": 2020
+    },
+    "Being There": {
+      "id": 10322,
+      "poster": "/2eZTUGNYijOoeq4829P6HNqyZui.jpg",
+      "title": "Being There",
+      "year": 1979
+    },
+    "This Is the End": {
+      "id": 109414,
+      "poster": "/tNIW0NhX1hKvUsy6PQ80DOKUhkD.jpg",
+      "title": "This Is the End",
+      "year": 2013
+    },
+    "Long Shot": {
+      "id": 459992,
+      "poster": "/1F9AItQ6fhrfhBVQlmC8ReOQAFG.jpg",
+      "title": "Long Shot",
+      "year": 2019
+    },
+    "Neighbors 2: Sorority Rising": {
+      "id": 325133,
+      "poster": "/eyjcLLwxuRXACbglIbwWwaXK9DN.jpg",
+      "title": "Neighbors 2: Sorority Rising",
+      "year": 2016
+    },
+    "Good Boys": {
+      "id": 521777,
+      "poster": "/tximyCXMEnWIIyOy9STkOduUprG.jpg",
+      "title": "Good Boys",
+      "year": 2019
+    },
+    "Dr. Strangelove": {
+      "id": 935,
+      "poster": "/6x7MzQ6BOMlRzam1StcmPO9v61g.jpg",
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "year": 1964
+    },
+    "The Parent Trap": {
+      "id": 9820,
+      "poster": "/p4dGmi8u9W0HHyVXcgWPoiFfKTF.jpg",
+      "title": "The Parent Trap",
+      "year": 1998
+    },
+    "Austin Powers: International Man of Mystery": {
+      "id": 816,
+      "poster": "/5uD4dxNX8JKFjWKYMHyOsqhi5pN.jpg",
+      "title": "Austin Powers: International Man of Mystery",
+      "year": 1997
+    },
+    "Coming to America": {
+      "id": 9602,
+      "poster": "/8YZiA1o264dk0cr1USyMdph6SZl.jpg",
+      "title": "Coming to America",
+      "year": 1988
+    },
+    "The Nutty Professor": {
+      "id": 9327,
+      "poster": "/fMtb5aZoLRNbMnCkatFsTmPRfl5.jpg",
+      "title": "The Nutty Professor",
+      "year": 1996
+    },
+    "The Social Network": {
+      "id": 37799,
+      "poster": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+      "title": "The Social Network",
+      "year": 2010
+    },
+    "Adaptation": {
+      "id": 2757,
+      "poster": "/ffEmHQAiD0m5dEQ6rlsuA9vlllW.jpg",
+      "title": "Adaptation.",
+      "year": 2002
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "The Devil All the Time": {
+      "id": 499932,
+      "poster": "/bVL7LGq528h3KzeNI90HOVbV5uW.jpg",
+      "title": "The Devil All the Time",
+      "year": 2020
+    },
+    "Four Weddings and a Funeral": {
+      "id": 712,
+      "poster": "/qa72G2VS0bpxms6yo0tI9vsHm2e.jpg",
+      "title": "Four Weddings and a Funeral",
+      "year": 1994
+    },
+    "How to Train Your Dragon": {
+      "id": 10191,
+      "poster": "/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
+      "title": "How to Train Your Dragon",
+      "year": 2010
+    },
+    "Mean Girls": {
+      "id": 10625,
+      "poster": "/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg",
+      "title": "Mean Girls",
+      "year": 2004
+    }
+  }
+}

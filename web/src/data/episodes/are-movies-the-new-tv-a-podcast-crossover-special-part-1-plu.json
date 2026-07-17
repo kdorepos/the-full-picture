@@ -1,0 +1,458 @@
+{
+  "slug": "are-movies-the-new-tv-a-podcast-crossover-special-part-1-plu",
+  "title": "Are Movies the New TV? A Podcast Crossover Special, Part 1. Plus: Keanu Reeves and Alex Winter!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2020-08-28",
+  "runtimeMin": 59,
+  "format": "A crossover with The Watch's Chris Ryan and Andy Greenwald on whether streaming has collapsed the line between movies and TV, then Keanu Reeves and Alex Winter on Bill & Ted Face the Music.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Are Movies the New TV?",
+      "note": "with Chris Ryan and Andy Greenwald of The Watch",
+      "films": [
+        {
+          "title": "Bill & Ted Face the Music",
+          "year": 2020,
+          "note": "Opening the first real theatrical weekend of the reopening, and simultaneously on VOD."
+        },
+        {
+          "title": "The New Mutants",
+          "year": 2020,
+          "note": "The other theatrical release: a burned-off X-Men horror movie Andy argues should have been a Disney+ show."
+        },
+        {
+          "title": "Tenet",
+          "year": 2020,
+          "note": "Opening a week out; with nothing else on the calendar it could hold 4,500 screens for weeks."
+        },
+        {
+          "title": "Palm Springs",
+          "year": 2020,
+          "note": "The central 'media movie' example: a Sundance pickup that thrived on Hulu and spawned obsessive Reddit threads."
+        },
+        {
+          "title": "An American Pickle",
+          "year": 2020,
+          "note": "Amanda's starting point: a $20M three-hander that made no sense theatrically but fit HBO Max."
+        },
+        {
+          "title": "The Old Guard",
+          "year": 2020,
+          "note": "Cited as a bigger-budget repurposed movie, not the mid-budget sweet spot Andy means."
+        },
+        {
+          "title": "Extraction",
+          "year": 2020,
+          "note": "Same bucket as The Old Guard, too big to be a 'Wednesday night' movie."
+        },
+        {
+          "title": "Trolls World Tour",
+          "year": 2020,
+          "note": "Listed among the signature streaming-era releases of the summer."
+        },
+        {
+          "title": "Hamilton",
+          "year": 2020,
+          "note": "The filmed stage show as a summer movie event."
+        },
+        {
+          "title": "Black Is King",
+          "year": 2020,
+          "note": "Beyoncé's visual album, floated as another movie-that-isn't-quite-a-movie."
+        },
+        {
+          "title": "Eurovision Song Contest: The Story of Fire Saga",
+          "year": 2020,
+          "note": "Andy's added example of the category; neither host responded to it."
+        },
+        {
+          "title": "Project Power",
+          "year": 2020,
+          "note": "Tested against the budget criteria and disqualified, way over $25M."
+        },
+        {
+          "title": "The Personal History of David Copperfield",
+          "year": 2019,
+          "note": "Armando Iannucci's $15M boutique release; Sean found it didn't play at home."
+        },
+        {
+          "title": "Always Be My Maybe",
+          "year": 2019,
+          "note": "Netflix rom-com used to show the visible budget-trimming: drone shots over sets, plus the Keanu cameo."
+        },
+        {
+          "title": "I'm Thinking of Ending Things",
+          "year": 2020,
+          "note": "Charlie Kaufman couldn't get $5M for years; a movie you need to rewatch, and can, because it's on Netflix."
+        },
+        {
+          "title": "The Irishman",
+          "year": 2019,
+          "note": "Amanda's line in the sand: one story told over time is a movie even if you pause it across four nights."
+        },
+        {
+          "title": "The Hateful Eight",
+          "year": 2015,
+          "note": "Netflix chapterized it into four episodic installments."
+        },
+        {
+          "title": "Zack Snyder's Justice League",
+          "year": 2021,
+          "note": "The Snyder Cut as fan-campaign afterlife: four hours split into four events, with Darkseid added via CGI."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Keanu Reeves and Alex Winter on",
+      "films": [
+        {
+          "title": "Bill & Ted Face the Music",
+          "year": 2020,
+          "note": "On playing the guys 29 years older without caricature, and their daughters Bridget and Samara carving out their own versions."
+        },
+        {
+          "title": "The Matrix Reloaded",
+          "year": 2003,
+          "note": "Keanu's last great thing, by his own account, one of the Wachowski sequels he rewatched in quarantine."
+        },
+        {
+          "title": "The Matrix Revolutions",
+          "year": 2003,
+          "note": "The other Wachowski film Keanu rewatched."
+        },
+        {
+          "title": "Hamilton",
+          "year": 2020,
+          "note": "Alex's household watched it on repeat when it hit VOD."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Sunshine",
+        "Logan",
+        "Deadpool",
+        "Guardians of the Galaxy",
+        "Suicide Squad",
+        "Triple Frontier",
+        "Velvet Buzzsaw",
+        "Kraven the Hunter",
+        "Little Children",
+        "Malice",
+        "Host",
+        "Being John Malkovich",
+        "Kingdom of Heaven",
+        "Joker",
+        "Onward",
+        "Frozen II",
+        "Mulan",
+        "Mulan II",
+        "Cinderella II: Dreams Come True",
+        "Cinderella III: A Twist in Time",
+        "Lady and the Tramp II: Scamp's Adventure",
+        "Bad Boys for Life",
+        "Never Rarely Sometimes Always",
+        "Killers of the Flower Moon"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Host": 723072,
+    "Hamilton": 556574
+  },
+  "excluded": {
+    "TV": [
+      "The Mandalorian",
+      "Yellowstone",
+      "Little Fires Everywhere",
+      "The Stand",
+      "Stranger Things",
+      "Lovecraft Country",
+      "Brave New World",
+      "Briar Patch",
+      "thirtysomething",
+      "The Newsroom",
+      "John Mulaney & the Sack Lunch Bunch"
+    ],
+    "Ads": [
+      "NHTSA — Drive Sober or Get Pulled Over"
+    ]
+  },
+  "tmdb": {
+    "Bill & Ted Face the Music": {
+      "id": 501979,
+      "poster": "/4V2nTPfeB59TcqJcUfQ9ziTi7VN.jpg",
+      "title": "Bill & Ted Face the Music",
+      "year": 2020
+    },
+    "The New Mutants": {
+      "id": 340102,
+      "poster": "/xiDGcXJTvu1lazFRYip6g1eLt9c.jpg",
+      "title": "The New Mutants",
+      "year": 2020
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "Palm Springs": {
+      "id": 587792,
+      "poster": "/gnAfqiV7yO3Jq9IntTmwkcaICqc.jpg",
+      "title": "Palm Springs",
+      "year": 2020
+    },
+    "An American Pickle": {
+      "id": 628917,
+      "poster": "/8ziUp2q71vCmMgYY2MRCwI3mSs5.jpg",
+      "title": "An American Pickle",
+      "year": 2020
+    },
+    "The Old Guard": {
+      "id": 547016,
+      "poster": "/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg",
+      "title": "The Old Guard",
+      "year": 2020
+    },
+    "Extraction": {
+      "id": 545609,
+      "poster": "/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg",
+      "title": "Extraction",
+      "year": 2020
+    },
+    "Trolls World Tour": {
+      "id": 446893,
+      "poster": "/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg",
+      "title": "Trolls World Tour",
+      "year": 2020
+    },
+    "Hamilton": {
+      "id": 556574,
+      "poster": "/h1B7tW0t399VDjAcWJh8m87469b.jpg",
+      "title": "Hamilton",
+      "year": 2025
+    },
+    "Black Is King": {
+      "id": 719643,
+      "poster": "/2u1cyQgBpWWypISdbUDCu2hasGV.jpg",
+      "title": "Black Is King",
+      "year": 2020
+    },
+    "Eurovision Song Contest: The Story of Fire Saga": {
+      "id": 531454,
+      "poster": "/9zrbgYyFvwH8sy5mv9eT25xsAzL.jpg",
+      "title": "Eurovision Song Contest: The Story of Fire Saga",
+      "year": 2020
+    },
+    "Project Power": {
+      "id": 605116,
+      "poster": "/TnOeov4w0sTtV2gqICqIxVi74V.jpg",
+      "title": "Project Power",
+      "year": 2020
+    },
+    "The Personal History of David Copperfield": {
+      "id": 520900,
+      "poster": "/2epgo9k2Jrs7qrTL1Rork1mDSKT.jpg",
+      "title": "The Personal History of David Copperfield",
+      "year": 2019
+    },
+    "Always Be My Maybe": {
+      "id": 513576,
+      "poster": "/3BO6pPa7qDcpPYct061Luh9fvst.jpg",
+      "title": "Always Be My Maybe",
+      "year": 2019
+    },
+    "I'm Thinking of Ending Things": {
+      "id": 500840,
+      "poster": "/5ynWWapdl45hJXUh0KIevxSG9JQ.jpg",
+      "title": "I'm Thinking of Ending Things",
+      "year": 2020
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "The Hateful Eight": {
+      "id": 273248,
+      "poster": "/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+      "title": "The Hateful Eight",
+      "year": 2015
+    },
+    "Zack Snyder's Justice League": {
+      "id": 791373,
+      "poster": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+      "title": "Zack Snyder's Justice League",
+      "year": 2021
+    },
+    "The Matrix Reloaded": {
+      "id": 604,
+      "poster": "/aA5qHS0FbSXO8PxcxUIHbDrJyuh.jpg",
+      "title": "The Matrix Reloaded",
+      "year": 2003
+    },
+    "The Matrix Revolutions": {
+      "id": 605,
+      "poster": "/bkkS61w94ZVMNVd8KEyyJl2tnY5.jpg",
+      "title": "The Matrix Revolutions",
+      "year": 2003
+    },
+    "Sunshine": {
+      "id": 1272,
+      "poster": "/oKGGeJ8qvm0UmClz43VJ31fzPP7.jpg",
+      "title": "Sunshine",
+      "year": 2007
+    },
+    "Logan": {
+      "id": 263115,
+      "poster": "/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+      "title": "Logan",
+      "year": 2017
+    },
+    "Deadpool": {
+      "id": 293660,
+      "poster": "/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
+      "title": "Deadpool",
+      "year": 2016
+    },
+    "Guardians of the Galaxy": {
+      "id": 118340,
+      "poster": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "title": "Guardians of the Galaxy",
+      "year": 2014
+    },
+    "Suicide Squad": {
+      "id": 297761,
+      "poster": "/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg",
+      "title": "Suicide Squad",
+      "year": 2016
+    },
+    "Triple Frontier": {
+      "id": 399361,
+      "poster": "/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg",
+      "title": "Triple Frontier",
+      "year": 2019
+    },
+    "Velvet Buzzsaw": {
+      "id": 463684,
+      "poster": "/3rViQPcrWthMNecp5XnkKev6BzW.jpg",
+      "title": "Velvet Buzzsaw",
+      "year": 2019
+    },
+    "Kraven the Hunter": {
+      "id": 539972,
+      "poster": "/1GvBhRxY6MELDfxFrete6BNhBB5.jpg",
+      "title": "Kraven the Hunter",
+      "year": 2024
+    },
+    "Little Children": {
+      "id": 1440,
+      "poster": "/l2wTSP0Ifo9vY03nJEfkFBbT2S9.jpg",
+      "title": "Little Children",
+      "year": 2006
+    },
+    "Malice": {
+      "id": 2246,
+      "poster": "/6kcjUrhvHrXSLDLQHvcOvJmLSqs.jpg",
+      "title": "Malice",
+      "year": 1993
+    },
+    "Host": {
+      "id": 723072,
+      "poster": "/h7dZpJDORYs5c56dydbrLFkEXpE.jpg",
+      "title": "Host",
+      "year": 2020
+    },
+    "Being John Malkovich": {
+      "id": 492,
+      "poster": "/31FGQu3OnwdmS4COquENe0vMZc0.jpg",
+      "title": "Being John Malkovich",
+      "year": 1999
+    },
+    "Kingdom of Heaven": {
+      "id": 1495,
+      "poster": "/rNaBe4TwbMef71sgscqabpGKsxh.jpg",
+      "title": "Kingdom of Heaven",
+      "year": 2005
+    },
+    "Joker": {
+      "id": 475557,
+      "poster": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "title": "Joker",
+      "year": 2019
+    },
+    "Onward": {
+      "id": 508439,
+      "poster": "/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg",
+      "title": "Onward",
+      "year": 2020
+    },
+    "Frozen II": {
+      "id": 330457,
+      "poster": "/mINJaa34MtknCYl5AjtNJzWj8cD.jpg",
+      "title": "Frozen II",
+      "year": 2019
+    },
+    "Mulan": {
+      "id": 10674,
+      "poster": "/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg",
+      "title": "Mulan",
+      "year": 1998
+    },
+    "Mulan II": {
+      "id": 12242,
+      "poster": "/mIHE3BKyAKG8ocRAoZuCQN1NTv9.jpg",
+      "title": "Mulan II",
+      "year": 2004
+    },
+    "Cinderella II: Dreams Come True": {
+      "id": 14128,
+      "poster": "/kEDbtKhZsqPo7ypCzoz3fkq73Pc.jpg",
+      "title": "Cinderella II: Dreams Come True",
+      "year": 2002
+    },
+    "Cinderella III: A Twist in Time": {
+      "id": 16119,
+      "poster": "/9QzKXbQfPp59iZ3rwnkKEAkPaXx.jpg",
+      "title": "Cinderella III: A Twist in Time",
+      "year": 2007
+    },
+    "Lady and the Tramp II: Scamp's Adventure": {
+      "id": 18269,
+      "poster": "/nS3nhUZUSY8dWEsRmKILfiOC3F0.jpg",
+      "title": "Lady and the Tramp II: Scamp's Adventure",
+      "year": 2001
+    },
+    "Bad Boys for Life": {
+      "id": 38700,
+      "poster": "/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
+      "title": "Bad Boys for Life",
+      "year": 2020
+    },
+    "Never Rarely Sometimes Always": {
+      "id": 595671,
+      "poster": "/7yiSyQhhjTFphhfCUcn05tCQxyG.jpg",
+      "title": "Never Rarely Sometimes Always",
+      "year": 2020
+    },
+    "Killers of the Flower Moon": {
+      "id": 466420,
+      "poster": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+      "title": "Killers of the Flower Moon",
+      "year": 2023
+    }
+  }
+}

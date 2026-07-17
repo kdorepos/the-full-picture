@@ -1,0 +1,626 @@
+{
+  "slug": "300th-episode-ask-us-anything-mailbag-spectacular",
+  "title": "300th Episode Ask-Us-Anything Mailbag Spectacular",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Bobby Wagner"
+  ],
+  "published": "2020-10-13",
+  "runtimeMin": 131,
+  "format": "The 300th episode: a listener mailbag with Bobby Wagner reading the questions, then Sean's interview with Garrett Bradley about her documentary Time.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "In the news",
+      "films": [
+        {
+          "title": "Mank",
+          "year": 2020,
+          "note": "David Fincher's Herman Mankiewicz film; the teaser is shot and cut to look like a 1940s picture. Out December 4. Sean's verdict: neat idea, gimmick or not is a wait-and-see."
+        },
+        {
+          "title": "Soul",
+          "year": 2020,
+          "note": "Pixar's Disney+ pivot: skipping theaters and the $30 Mulan-style PVOD tag to land free on the service Christmas Day. Possibly the most-seen Disney film ever, by default."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The 300th-episode mailbag",
+      "note": "the picks that got a real answer",
+      "films": [
+        {
+          "title": "Good Will Hunting",
+          "year": 1997,
+          "note": "Amanda's answer to what got her into this: at 12 or 13, the movie plus the Damon/Affleck/Robin Williams Oscar campaign got her hooked on the whole world around a film, as much as the film itself."
+        },
+        {
+          "title": "Transformers",
+          "year": 2007,
+          "note": "Sean's origin story: a Vibe-era press trip to the Michael Bay premiere, Escalade and VIP ticket included, that made him want to cover movies instead of rap records."
+        },
+        {
+          "title": "The Martian",
+          "year": 2015,
+          "note": "Used as the case study for a critic's blurred work/play line: a feel-good movie he watched at 2 a.m. as an assignment, not for fun."
+        },
+        {
+          "title": "1917",
+          "year": 2019,
+          "note": "A friend's line Sean found astute: maybe the last film to get in before the gate closed, a global, award-worthy, $500M-capable event picture."
+        },
+        {
+          "title": "Dick Johnson Is Dead",
+          "year": 2020,
+          "note": "Sean's counterweight to the doom: a small film one person could make, now watchable by 150 million homes."
+        },
+        {
+          "title": "The Butterfly Effect",
+          "year": 2004,
+          "note": "Sean's pick for a bad movie built on a great idea: a mainstream Sliding Doors. He'd hand it to Spielberg and Colin Farrell with an Eric Roth script."
+        },
+        {
+          "title": "Ocean's 8",
+          "year": 2018,
+          "note": "Amanda's on-paper no-brainer that didn't work: an all-female heist she'd happily see remade with the same cast."
+        },
+        {
+          "title": "Public Enemies",
+          "year": 2009,
+          "note": "Sean's most disappointing film of the last 15 years: Mann's digital Dillinger, miscast Depp. He'd hand the story to Christopher Nolan."
+        },
+        {
+          "title": "Tully",
+          "year": 2018,
+          "note": "Amanda liked parts, hated the ending and one scene she says a female director wouldn't have shot; she'd give it to Karen Kusama despite the Diablo Cody script."
+        },
+        {
+          "title": "No Time to Die",
+          "year": 2021,
+          "note": "Amanda's first pick of postponed movies she'd see in a theater today: Bond belongs on a big screen."
+        },
+        {
+          "title": "Top Gun: Maverick",
+          "year": 2022,
+          "note": "Sean's: a dumb-and-beautiful theater experience, song at giant volume."
+        },
+        {
+          "title": "Deep Water",
+          "year": 2022,
+          "note": "Amanda's second postponed pick: the Adrian Lyne / Affleck / de Armas movie whose off-screen narrative she wants resolved."
+        },
+        {
+          "title": "Last Night in Soho",
+          "year": 2021,
+          "note": "Sean's Halloween-season want: a new Edgar Wright he trusts to make an instant horror classic, and one that won't play as well at home."
+        },
+        {
+          "title": "Last Action Hero",
+          "year": 1993,
+          "note": "Sean's model for a 'save its reputation' bad-movie pod: a clever, fun Schwarzenegger movie he thinks went over or under people's heads."
+        },
+        {
+          "title": "The Thomas Crown Affair",
+          "year": 1999,
+          "note": "Sean's standing 'critics got it wrong' pick; he notes Christopher Nolan is a fan."
+        },
+        {
+          "title": "Marie Antoinette",
+          "year": 2006,
+          "note": "Sean's other one: booed at Cannes, written off, and probably his favorite Sofia Coppola film."
+        },
+        {
+          "title": "A Cure for Wellness",
+          "year": 2016,
+          "note": "Sean's rescue: Gore Verbinski at 42% on Rotten Tomatoes, weird and disgusting but artfully mounted."
+        },
+        {
+          "title": "mother!",
+          "year": 2017,
+          "note": "Revisited after David Sims called it a masterpiece on Twitter. Sean always thought so, Amanda always didn't; it's one of the podcast's first debates, three years on."
+        },
+        {
+          "title": "Gone Girl",
+          "year": 2014,
+          "note": "The Fincher Amanda would hand to Nancy Meyers: she could nail Amy, though Meyers might soft-pedal the viciousness."
+        },
+        {
+          "title": "The Intern",
+          "year": 2015,
+          "note": "The Meyers Sean would hand to Fincher: a movie about obsession with a darkness at its edge he could explore."
+        },
+        {
+          "title": "Panic Room",
+          "year": 2002,
+          "note": "Amanda's other Fincher-for-Meyers: a domestic drama, a house that turns against you, right in Meyers's core themes."
+        },
+        {
+          "title": "I Love Trouble",
+          "year": 1994,
+          "note": "Sean's Meyers-for-Fincher: her worst, most troubled movie, but essentially a Fincher murder mystery that needs his obsessive attention to detail."
+        },
+        {
+          "title": "Guardians of the Galaxy",
+          "year": 2014,
+          "note": "Cited (via an unnamed Hollywood friend) as proof the Marvel movie has effectively replaced the studio comedy."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Garrett Bradley on Time",
+      "guest": "Garrett Bradley on",
+      "films": [
+        {
+          "title": "Time",
+          "year": 2020,
+          "note": "Her documentary on Fox Rich and her fight to free her husband Rob, in theaters and hitting Amazon Prime that Friday. Built from her own footage plus ~100 hours of Fox's family archive, scored to the 96-year-old Ethiopian nun Emahoy's music."
+        },
+        {
+          "title": "Alone",
+          "year": 2017,
+          "note": "The 13-minute New York Times op-doc, a Sundance winner, where she first met Fox Rich; Time began as its sister film."
+        },
+        {
+          "title": "Heat",
+          "year": 1995,
+          "note": "Her answer to the closing 'last great thing': a rewatch that got her talking about how many great films the '90s made."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Titanic",
+        "Run",
+        "French Exit",
+        "Citizen Kane",
+        "Snake Eyes",
+        "Joker",
+        "World of Tomorrow 3",
+        "It's Such a Beautiful Day",
+        "Spider-Man",
+        "The Kissing Booth 2",
+        "Once Upon a Time in Hollywood",
+        "Avengers: Endgame",
+        "The Irishman",
+        "Sliding Doors",
+        "Ocean's Eleven",
+        "The Invitation",
+        "Freaky Friday",
+        "Catwoman",
+        "Cats",
+        "The Room",
+        "Battleship",
+        "Tenet",
+        "Irreconcilable Differences",
+        "Creed",
+        "The Lion King",
+        "I Love You, Man",
+        "The 40-Year-Old Virgin",
+        "Uncut Gems",
+        "Hubie Halloween",
+        "Fight Club",
+        "Call Me by Your Name",
+        "Rebecca",
+        "The 355",
+        "The Trial of the Chicago 7",
+        "Mulan"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Emily in Paris",
+      "Friends",
+      "The Office",
+      "Mindhunter",
+      "Waco",
+      "Homecoming",
+      "The Crown",
+      "South Park: The Pandemic Special"
+    ],
+    "Unmade": [
+      "Stanley Kubrick's Napoleon",
+      "20,000 Leagues Under the Sea (Fincher)",
+      "The Secret History"
+    ],
+    "Ads": [
+      "Carvana",
+      "FanDuel",
+      "NOS Energy",
+      "Boar's Head",
+      "Netflix FIFA World Cup game",
+      "Shopify"
+    ]
+  },
+  "tmdbOverrides": {
+    "Ocean's 8": 402900,
+    "Time": 653729,
+    "Alone": 441956,
+    "Run": 546121,
+    "Rebecca": 505379,
+    "Mulan": 337401
+  },
+  "tmdb": {
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "Soul": {
+      "id": 508442,
+      "poster": "/6jmppcaubzLF8wkXM36ganVISCo.jpg",
+      "title": "Soul",
+      "year": 2020
+    },
+    "Good Will Hunting": {
+      "id": 489,
+      "poster": "/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+      "title": "Good Will Hunting",
+      "year": 1997
+    },
+    "Transformers": {
+      "id": 1858,
+      "poster": "/4N4sipl8T72tNE4earcctQa2Kw2.jpg",
+      "title": "Transformers",
+      "year": 2007
+    },
+    "The Martian": {
+      "id": 286217,
+      "poster": "/fASz8A0yFE3QB6LgGoOfwvFSseV.jpg",
+      "title": "The Martian",
+      "year": 2015
+    },
+    "1917": {
+      "id": 530915,
+      "poster": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+      "title": "1917",
+      "year": 2019
+    },
+    "Dick Johnson Is Dead": {
+      "id": 653574,
+      "poster": "/vnfI34kmi3fcdgP7HZjIgGOJHGY.jpg",
+      "title": "Dick Johnson Is Dead",
+      "year": 2020
+    },
+    "The Butterfly Effect": {
+      "id": 1954,
+      "poster": "/ea5iv7TWMh18fOKoRGgmtcg85Gx.jpg",
+      "title": "The Butterfly Effect",
+      "year": 2004
+    },
+    "Ocean's 8": {
+      "id": 402900,
+      "poster": "/MvYpKlpFukTivnlBhizGbkAe3v.jpg",
+      "title": "Ocean's Eight",
+      "year": 2018
+    },
+    "Public Enemies": {
+      "id": 11322,
+      "poster": "/3KgtekisQBrHRsm2cD5UOB6Ce3k.jpg",
+      "title": "Public Enemies",
+      "year": 2009
+    },
+    "Tully": {
+      "id": 400579,
+      "poster": "/wDI4YXBXolMYi15Qx2kClvdSERM.jpg",
+      "title": "Tully",
+      "year": 2018
+    },
+    "No Time to Die": {
+      "id": 370172,
+      "poster": "/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+      "title": "No Time to Die",
+      "year": 2021
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Deep Water": {
+      "id": 619979,
+      "poster": "/6yRMyWwjuhKg6IU66uiZIGhaSc8.jpg",
+      "title": "Deep Water",
+      "year": 2022
+    },
+    "Last Night in Soho": {
+      "id": 576845,
+      "poster": "/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg",
+      "title": "Last Night in Soho",
+      "year": 2021
+    },
+    "Last Action Hero": {
+      "id": 9593,
+      "poster": "/vkhEaWAv5j3qgrOGp3BgMeiYPKj.jpg",
+      "title": "Last Action Hero",
+      "year": 1993
+    },
+    "The Thomas Crown Affair": {
+      "id": 913,
+      "poster": "/5yqs1MVlqdIg1DY5adC5jFx3d7j.jpg",
+      "title": "The Thomas Crown Affair",
+      "year": 1999
+    },
+    "Marie Antoinette": {
+      "id": 1887,
+      "poster": "/cybXGmv8Rjd5Os8Xml6YxMBQ0Zt.jpg",
+      "title": "Marie Antoinette",
+      "year": 2006
+    },
+    "A Cure for Wellness": {
+      "id": 340837,
+      "poster": "/8QWJtne0pTsNoJ86KE993aQYTLW.jpg",
+      "title": "A Cure for Wellness",
+      "year": 2017
+    },
+    "mother!": {
+      "id": 381283,
+      "poster": "/fjny9chXPx69ln1LMJxbwi5yHMt.jpg",
+      "title": "mother!",
+      "year": 2017
+    },
+    "Gone Girl": {
+      "id": 210577,
+      "poster": "/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+      "title": "Gone Girl",
+      "year": 2014
+    },
+    "The Intern": {
+      "id": 257211,
+      "poster": "/bTQ46fupPbjBfFBHuzfD3hxxL0Q.jpg",
+      "title": "The Intern",
+      "year": 2015
+    },
+    "Panic Room": {
+      "id": 4547,
+      "poster": "/hANYbvfwxmkC9E4yY6YyJxYxlSJ.jpg",
+      "title": "Panic Room",
+      "year": 2002
+    },
+    "I Love Trouble": {
+      "id": 10879,
+      "poster": "/2uyytK3XFRPFXoTchFDtsWiSujn.jpg",
+      "title": "I Love Trouble",
+      "year": 1994
+    },
+    "Guardians of the Galaxy": {
+      "id": 118340,
+      "poster": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "title": "Guardians of the Galaxy",
+      "year": 2014
+    },
+    "Time": {
+      "id": 653729,
+      "poster": "/2yLZmlf6vdpkhTaD0oUmIFu8SsM.jpg",
+      "title": "Time",
+      "year": 2020
+    },
+    "Alone": {
+      "id": 441956,
+      "poster": "/4T3yyoz3PxsHbXSa5udGOZ7iXa2.jpg",
+      "title": "Alone",
+      "year": 2017
+    },
+    "Heat": {
+      "id": 949,
+      "poster": "/e09dLw1Ljtccd2P4NsuUvVtS5du.jpg",
+      "title": "Heat",
+      "year": 1995
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "Run": {
+      "id": 546121,
+      "poster": "/ilHG4EayOVoYeKqslspY3pR4wzC.jpg",
+      "title": "Run",
+      "year": 2020
+    },
+    "French Exit": {
+      "id": 599960,
+      "poster": "/l5iZuQr62YCs72AZ9P3HwApowaC.jpg",
+      "title": "French Exit",
+      "year": 2021
+    },
+    "Citizen Kane": {
+      "id": 15,
+      "poster": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+      "title": "Citizen Kane",
+      "year": 1941
+    },
+    "Snake Eyes": {
+      "id": 8688,
+      "poster": "/gsh9mQKRrr4M90XC9Rr0wxefc9u.jpg",
+      "title": "Snake Eyes",
+      "year": 1998
+    },
+    "Joker": {
+      "id": 475557,
+      "poster": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "title": "Joker",
+      "year": 2019
+    },
+    "World of Tomorrow 3": null,
+    "It's Such a Beautiful Day": {
+      "id": 489412,
+      "poster": "/hop0dsM4nxyNENGhBhpJWTCJ5rS.jpg",
+      "title": "It's Such a Beautiful Day",
+      "year": 2012
+    },
+    "Spider-Man": {
+      "id": 557,
+      "poster": "/kjdJntyBeEvqm9w97QGBdxPptzj.jpg",
+      "title": "Spider-Man",
+      "year": 2002
+    },
+    "The Kissing Booth 2": {
+      "id": 583083,
+      "poster": "/mb7wQv0adK3kjOUr9n93mANHhPJ.jpg",
+      "title": "The Kissing Booth 2",
+      "year": 2020
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Sliding Doors": {
+      "id": 10215,
+      "poster": "/s8VOVTywXZIIHqdEjkCZziH0ebq.jpg",
+      "title": "Sliding Doors",
+      "year": 1998
+    },
+    "Ocean's Eleven": {
+      "id": 161,
+      "poster": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+      "title": "Ocean's Eleven",
+      "year": 2001
+    },
+    "The Invitation": {
+      "id": 306947,
+      "poster": "/otZMaGHWnKPgOODF6SSVNGqbI4X.jpg",
+      "title": "The Invitation",
+      "year": 2016
+    },
+    "Freaky Friday": {
+      "id": 10330,
+      "poster": "/ipKcZ4Up7dp18XpsfYUc9NKZy3g.jpg",
+      "title": "Freaky Friday",
+      "year": 2003
+    },
+    "Catwoman": {
+      "id": 314,
+      "poster": "/pvnPgukFyEKgCzyOxyLiwyZ8T1C.jpg",
+      "title": "Catwoman",
+      "year": 2004
+    },
+    "Cats": {
+      "id": 536869,
+      "poster": "/aCNch5FmzT2WaUcY44925owIZXY.jpg",
+      "title": "Cats",
+      "year": 2019
+    },
+    "The Room": {
+      "id": 17473,
+      "poster": "/9QscHN4pXj6Ja1k7e1ZT4vWDGnr.jpg",
+      "title": "The Room",
+      "year": 2003
+    },
+    "Battleship": {
+      "id": 44833,
+      "poster": "/9b0Im7SfedHiajTwzSL9zGyBI7M.jpg",
+      "title": "Battleship",
+      "year": 2012
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "Irreconcilable Differences": {
+      "id": 47874,
+      "poster": "/jBr9FR2pUpjOERgxljxaNtpIj9c.jpg",
+      "title": "Irreconcilable Differences",
+      "year": 1984
+    },
+    "Creed": {
+      "id": 312221,
+      "poster": "/1BfTsk5VWuw8FCocAhCyqnRbEzq.jpg",
+      "title": "Creed",
+      "year": 2015
+    },
+    "The Lion King": {
+      "id": 8587,
+      "poster": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+      "title": "The Lion King",
+      "year": 1994
+    },
+    "I Love You, Man": {
+      "id": 16538,
+      "poster": "/xr4zAYsvgTzvMMiWu6qCAP9WBer.jpg",
+      "title": "I Love You, Man",
+      "year": 2009
+    },
+    "The 40-Year-Old Virgin": {
+      "id": 6957,
+      "poster": "/mVeoqL37gzhMXQVpONi9DGOQ3tZ.jpg",
+      "title": "The 40 Year Old Virgin",
+      "year": 2005
+    },
+    "Uncut Gems": {
+      "id": 473033,
+      "poster": "/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+      "title": "Uncut Gems",
+      "year": 2019
+    },
+    "Hubie Halloween": {
+      "id": 617505,
+      "poster": "/dbhC6qRydXyRmpUdcl9bL9rARya.jpg",
+      "title": "Hubie Halloween",
+      "year": 2020
+    },
+    "Fight Club": {
+      "id": 550,
+      "poster": "/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+      "title": "Fight Club",
+      "year": 1999
+    },
+    "Call Me by Your Name": {
+      "id": 398818,
+      "poster": "/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
+      "title": "Call Me by Your Name",
+      "year": 2017
+    },
+    "Rebecca": {
+      "id": 505379,
+      "poster": "/kGhllBArW7ImDycSMIG5bj6GEPL.jpg",
+      "title": "Rebecca",
+      "year": 2020
+    },
+    "The 355": {
+      "id": 522016,
+      "poster": "/xef9Ht77B2igqZv754HNdW8qZCk.jpg",
+      "title": "The 355",
+      "year": 2022
+    },
+    "The Trial of the Chicago 7": {
+      "id": 556984,
+      "poster": "/ahf5cVdooMAlDRiJOZQNuLqa1Is.jpg",
+      "title": "The Trial of the Chicago 7",
+      "year": 2020
+    },
+    "Mulan": {
+      "id": 337401,
+      "poster": "/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg",
+      "title": "Mulan",
+      "year": 2020
+    }
+  }
+}

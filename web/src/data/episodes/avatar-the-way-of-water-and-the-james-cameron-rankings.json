@@ -1,0 +1,339 @@
+{
+  "slug": "avatar-the-way-of-water-and-the-james-cameron-rankings",
+  "title": "‘Avatar: The Way of Water’ and the James Cameron Rankings",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2022-12-16",
+  "runtimeMin": 85,
+  "format": "Sean and Amanda review 'Avatar: The Way of Water,' then Chris Ryan joins to rank all nine James Cameron features.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘Avatar: The Way of Water’",
+      "note": "largely spoiler-free",
+      "films": [
+        {
+          "title": "Avatar: The Way of Water",
+          "year": 2022,
+          "note": "13 years after the original and three hours and ten minutes long. Sean lands mixed: the third-hour action rips like old-school Terminator 2, but the middle hour among the Metkayina runs leisurely. Shot in 3D at variable high frame rate: the underwater motion-capture looks real, the above-water shots sometimes read like a video-game cut scene."
+        }
+      ]
+    },
+    {
+      "kind": "ranking",
+      "heading": "The James Cameron Rankings",
+      "note": "best to worst",
+      "subject": "James Cameron",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Titanic",
+          "year": 1997,
+          "note": "No. 1. Amanda's pick; the room concedes. Cameron's first turn as box-office king: Best Picture, DiCaprio and Winslet launched."
+        },
+        {
+          "title": "Aliens",
+          "year": 1986,
+          "note": "No. 2. The nerds' choice over Titanic. Good for its whole runtime, though it builds on Ridley Scott's original."
+        },
+        {
+          "title": "Terminator 2: Judgment Day",
+          "year": 1991,
+          "note": "No. 3. The T-1000 morph still looks like the effect other movies chase. Not perfect, but exceptional."
+        },
+        {
+          "title": "The Terminator",
+          "year": 1984,
+          "note": "No. 4. Made cheaply and looks it: dark, metallic, endlessly ripped off."
+        },
+        {
+          "title": "Avatar",
+          "year": 2009,
+          "note": "No. 5. The last real technical leap in movies, per Sean; nobody pops it back in, per Chris."
+        },
+        {
+          "title": "True Lies",
+          "year": 1994,
+          "note": "No. 6. The one with a sense of humor the Avatar films lack. Looks terrible streaming on Peacock, no Blu-ray."
+        },
+        {
+          "title": "The Abyss",
+          "year": 1989,
+          "note": "No. 7. Asterisked: no Blu-ray release, hard to rewatch. A lot of The Way of Water lives here."
+        },
+        {
+          "title": "Avatar: The Way of Water",
+          "year": 2022,
+          "note": "No. 8. Bigger, maybe a greater technical feat, but not better than the first."
+        },
+        {
+          "title": "Piranha II: The Spawning",
+          "year": 1981,
+          "note": "No. 9. Cameron's disowned debut, a sequel to a Roger Corman knockoff. The piranhas fly."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "High-frame-rate precedents",
+      "films": [
+        "The Hobbit: An Unexpected Journey",
+        "Gemini Man",
+        "Billy Lynn's Long Halftime Walk"
+      ]
+    },
+    {
+      "group": "Box-office comps",
+      "films": [
+        "Top Gun: Maverick",
+        "Black Panther: Wakanda Forever",
+        "Avengers: Endgame"
+      ]
+    },
+    {
+      "group": "Cameron documentaries (not ranked)",
+      "films": [
+        "Aliens of the Deep",
+        "Ghosts of the Abyss"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Alien",
+        "Piranha",
+        "Jaws",
+        "The Perfect Storm",
+        "Dances with Wolves",
+        "The Hurt Locker",
+        "Aladdin",
+        "Oppenheimer",
+        "Barbie",
+        "Inception",
+        "Four Weddings and a Funeral",
+        "Bedazzled",
+        "Zodiac",
+        "The Social Network"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The White Lotus"
+    ],
+    "Podcasts": [
+      "Blank Check",
+      "The Watch",
+      "The Rewatchables",
+      "Plain English",
+      "Gamblers"
+    ],
+    "Video games": [
+      "FIFA World Cup Launch Edition"
+    ],
+    "Ads": [
+      "Netflix",
+      "FanDuel",
+      "NOS Energy",
+      "Carvana",
+      "Whole Foods Market"
+    ]
+  },
+  "tmdbOverrides": {
+    "Aladdin": 420817
+  },
+  "tmdb": {
+    "Avatar: The Way of Water": {
+      "id": 76600,
+      "poster": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "title": "Avatar: The Way of Water",
+      "year": 2022
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "Aliens": {
+      "id": 679,
+      "poster": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "title": "Aliens",
+      "year": 1986
+    },
+    "Terminator 2: Judgment Day": {
+      "id": 280,
+      "poster": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991
+    },
+    "The Terminator": {
+      "id": 218,
+      "poster": "/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+      "title": "The Terminator",
+      "year": 1984
+    },
+    "Avatar": {
+      "id": 19995,
+      "poster": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "title": "Avatar",
+      "year": 2009
+    },
+    "True Lies": {
+      "id": 36955,
+      "poster": "/pweFTnzzTfGK68woSVkiTgjLzWm.jpg",
+      "title": "True Lies",
+      "year": 1994
+    },
+    "The Abyss": {
+      "id": 2756,
+      "poster": "/2dCit3XAtv9KWCJvRKdPkJ0FAkH.jpg",
+      "title": "The Abyss",
+      "year": 1989
+    },
+    "Piranha II: The Spawning": {
+      "id": 31646,
+      "poster": "/rbcbLYbhc8ZmQmNHAt8E8knij88.jpg",
+      "title": "Piranha II: The Spawning",
+      "year": 1982
+    },
+    "The Hobbit: An Unexpected Journey": {
+      "id": 49051,
+      "poster": "/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg",
+      "title": "The Hobbit: An Unexpected Journey",
+      "year": 2012
+    },
+    "Gemini Man": {
+      "id": 453405,
+      "poster": "/uTALxjQU8e1lhmNjP9nnJ3t2pRU.jpg",
+      "title": "Gemini Man",
+      "year": 2019
+    },
+    "Billy Lynn's Long Halftime Walk": {
+      "id": 293767,
+      "poster": "/jjuDRavgTazvs5ishEgnfZ8YhbV.jpg",
+      "title": "Billy Lynn's Long Halftime Walk",
+      "year": 2016
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Black Panther: Wakanda Forever": {
+      "id": 505642,
+      "poster": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+      "title": "Black Panther: Wakanda Forever",
+      "year": 2022
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Aliens of the Deep": {
+      "id": 22559,
+      "poster": "/fr93LZw0vilOK42vbWCgtekyMpQ.jpg",
+      "title": "Aliens of the Deep",
+      "year": 2005
+    },
+    "Ghosts of the Abyss": {
+      "id": 24982,
+      "poster": "/aSht7L9Mnr1zc4hDJTOwPuTfnV8.jpg",
+      "title": "Ghosts of the Abyss",
+      "year": 2003
+    },
+    "Alien": {
+      "id": 348,
+      "poster": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "title": "Alien",
+      "year": 1979
+    },
+    "Piranha": {
+      "id": 24831,
+      "poster": "/oaz0Le3fT3R8jzlkXkNV7JAsd7x.jpg",
+      "title": "Piranha",
+      "year": 1978
+    },
+    "Jaws": {
+      "id": 578,
+      "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "title": "Jaws",
+      "year": 1975
+    },
+    "The Perfect Storm": {
+      "id": 2133,
+      "poster": "/vJPoxqgpfFNbGi0HyoNsjFeLCio.jpg",
+      "title": "The Perfect Storm",
+      "year": 2000
+    },
+    "Dances with Wolves": {
+      "id": 581,
+      "poster": "/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg",
+      "title": "Dances with Wolves",
+      "year": 1990
+    },
+    "The Hurt Locker": {
+      "id": 12162,
+      "poster": "/io2dfBJhasvGbgkCX9cCGVOiA99.jpg",
+      "title": "The Hurt Locker",
+      "year": 2008
+    },
+    "Aladdin": {
+      "id": 420817,
+      "poster": "/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg",
+      "title": "Aladdin",
+      "year": 2019
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Inception": {
+      "id": 27205,
+      "poster": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+      "title": "Inception",
+      "year": 2010
+    },
+    "Four Weddings and a Funeral": {
+      "id": 712,
+      "poster": "/qa72G2VS0bpxms6yo0tI9vsHm2e.jpg",
+      "title": "Four Weddings and a Funeral",
+      "year": 1994
+    },
+    "Bedazzled": {
+      "id": 1636,
+      "poster": "/sBV28EVvWsJRosMsEFCbVmpAZEl.jpg",
+      "title": "Bedazzled",
+      "year": 2000
+    },
+    "Zodiac": {
+      "id": 1949,
+      "poster": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+      "title": "Zodiac",
+      "year": 2007
+    },
+    "The Social Network": {
+      "id": 37799,
+      "poster": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+      "title": "The Social Network",
+      "year": 2010
+    }
+  }
+}

@@ -76,7 +76,7 @@
         {
           "title": "Vernon, Florida",
           "year": 1981,
-          "note": "Cited as the flattering comparison for the FX series: a true-crime version of it, a wild array of crazy characters."
+          "note": "Cited as the flattering comparison for the FX series: a true-crime version of it, with a wild array of crazy characters."
         },
         {
           "title": "Searching for Bobby Fischer",
@@ -157,7 +157,12 @@
       "title": "American Dharma",
       "year": 2019
     },
-    "Dr. Strangelove": null,
+    "Dr. Strangelove": {
+      "id": 935,
+      "poster": "/6x7MzQ6BOMlRzam1StcmPO9v61g.jpg",
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "year": 1964
+    },
     "Rashomon": {
       "id": 548,
       "poster": "/ijWibsAU1iBcCD8tuIZfTmDzMVE.jpg",
@@ -188,5 +193,8 @@
       "title": "Searching for Bobby Fischer",
       "year": 1993
     }
+  },
+  "tmdbOverrides": {
+    "Dr. Strangelove": 935
   }
 }

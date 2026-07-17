@@ -1,0 +1,150 @@
+{
+  "slug": "prologue-do-we-get-to-win-this-time",
+  "title": "Prologue | Do We Get to Win This Time?",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Brian Raftery"
+  ],
+  "published": "2023-08-08",
+  "runtimeMin": 17,
+  "format": "Sean and Amanda hand the feed to Brian Raftery's new narrative series on how Hollywood turned the Vietnam War into its own genre.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "How Hollywood made the Vietnam War",
+      "note": "feed takeover: prologue for Raftery's eight-part narrative series",
+      "films": [
+        {
+          "title": "Apocalypse Now",
+          "year": 1979,
+          "note": "Robert Duvall's beach assault opens the episode; Coppola's Cannes boast that the film 'is Vietnam' gets fact-checked on the spot."
+        },
+        {
+          "title": "Full Metal Jacket",
+          "year": 1987,
+          "note": "R. Lee Ermey chewing out Marines is the other defining image Raftery reaches for."
+        },
+        {
+          "title": "Rambo: First Blood Part II",
+          "year": 1985,
+          "note": "Stallone going back to 'win' the war he lost the first time."
+        },
+        {
+          "title": "The Losers",
+          "year": 1970,
+          "note": "The drive-in end of the genre: a Vietnam-vet biker caper Raftery quotes the trailer copy for."
+        },
+        {
+          "title": "The Deer Hunter",
+          "year": 1978,
+          "note": "Cited for Michael Cimino's famously grueling shoot."
+        },
+        {
+          "title": "Platoon",
+          "year": 1986,
+          "note": "Oliver Stone sent his young cast into the jungle for weeks to prep."
+        },
+        {
+          "title": "Born on the Fourth of July",
+          "year": 1989,
+          "note": "One of the films Marine vet and military advisor Dale Dye worked on."
+        },
+        {
+          "title": "Casualties of War",
+          "year": 1989,
+          "note": "Also advised by Dale Dye."
+        },
+        {
+          "title": "Good Morning, Vietnam",
+          "year": 1987,
+          "note": "The R-rated movie an 11-year-old Raftery talked his parents into."
+        },
+        {
+          "title": "Heaven & Earth",
+          "year": 1993,
+          "note": "Oliver Stone's adaptation of Le Ly Hayslip's memoir; Hayslip herself appears to question what the film gets wrong."
+        }
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Heaven & Earth": 31642
+  },
+  "excluded": {
+    "TV": [
+      "Tour of Duty"
+    ],
+    "Comics": [
+      "The 'Nam",
+      "Peter Porker and the Spectacular Spider-Ham"
+    ],
+    "Ads": [
+      "Tremfaya",
+      "Wells Fargo Active Cash",
+      "Whole Foods Market"
+    ]
+  },
+  "tmdb": {
+    "Apocalypse Now": {
+      "id": 28,
+      "poster": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "title": "Apocalypse Now",
+      "year": 1979
+    },
+    "Full Metal Jacket": {
+      "id": 600,
+      "poster": "/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+      "title": "Full Metal Jacket",
+      "year": 1987
+    },
+    "Rambo: First Blood Part II": {
+      "id": 1369,
+      "poster": "/fVwRtWqEPdsCH21BVDGqgkAQcff.jpg",
+      "title": "Rambo: First Blood Part II",
+      "year": 1985
+    },
+    "The Losers": {
+      "id": 121901,
+      "poster": "/3am2zzhMhlpscgP6tGDASG5DWWl.jpg",
+      "title": "The Losers",
+      "year": 1970
+    },
+    "The Deer Hunter": {
+      "id": 11778,
+      "poster": "/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
+      "title": "The Deer Hunter",
+      "year": 1978
+    },
+    "Platoon": {
+      "id": 792,
+      "poster": "/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg",
+      "title": "Platoon",
+      "year": 1986
+    },
+    "Born on the Fourth of July": {
+      "id": 2604,
+      "poster": "/c5gSie6ZA90iBs62yNM5MV4y9R7.jpg",
+      "title": "Born on the Fourth of July",
+      "year": 1989
+    },
+    "Casualties of War": {
+      "id": 10142,
+      "poster": "/3SerZUDoU9TMCXMsQqiXvSWm0uL.jpg",
+      "title": "Casualties of War",
+      "year": 1989
+    },
+    "Good Morning, Vietnam": {
+      "id": 801,
+      "poster": "/sreISlFUn5TyR41QNjlfAdX5SEW.jpg",
+      "title": "Good Morning, Vietnam",
+      "year": 1987
+    },
+    "Heaven & Earth": {
+      "id": 31642,
+      "poster": "/hvvR7Yf743pc2E2F1VJ2dfZl7OZ.jpg",
+      "title": "Heaven & Earth",
+      "year": 1993
+    }
+  }
+}

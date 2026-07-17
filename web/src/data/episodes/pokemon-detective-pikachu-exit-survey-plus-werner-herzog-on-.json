@@ -1,0 +1,190 @@
+{
+  "slug": "pokemon-detective-pikachu-exit-survey-plus-werner-herzog-on-",
+  "title": "'Pokémon Detective Pikachu' Exit Survey, Plus Werner Herzog on His Epic Career",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Micah Peters"
+  ],
+  "published": "2019-05-10",
+  "runtimeMin": 57,
+  "format": "Micah Peters helps Sean sort out 'Pokémon Detective Pikachu' and the Pokémon phenomenon at large, then Werner Herzog talks through 'Meeting Gorbachev,' his three sit-downs with Mikhail Gorbachev, and a career that now spans 70-odd films.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The 'Pokémon Detective Pikachu' Exit Survey",
+      "note": "Sean Fennessey and Micah Peters",
+      "films": [
+        {
+          "title": "Pokémon Detective Pikachu",
+          "year": 2019,
+          "note": "Ryan Reynolds voices the title detective. Micah, a lapsed Pokémon obsessive, calls it fine but dreads a good opening weekend because it means more of these; Sean, coming in with zero Pokémon knowledge, can't tell if it's spoofing noir/buddy-cop tropes or playing them straight."
+        },
+        {
+          "title": "Mortal Engines",
+          "year": 2018,
+          "note": "Sean's comparison point for world-building that front-loads exposition, then loses him once the plot mystery kicks in. He tried three times to finish it at home."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In Conversation",
+      "guest": "Werner Herzog on",
+      "note": "his career, on the occasion of 'Meeting Gorbachev'",
+      "films": [
+        {
+          "title": "Meeting Gorbachev",
+          "year": 2018,
+          "note": "Herzog's 30th documentary, co-directed with Andre Singer. He met Mikhail Gorbachev three times, prepared by reading Gorbachev's memoirs and William Taubman's biography, and describes the moment Gorbachev answered a question about his late wife Raisa's death."
+        },
+        {
+          "title": "Family Romance, LLC",
+          "year": 2019,
+          "note": "Herzog's narrative feature shot in Japan, with Herzog doubling as his own cinematographer. It was a surprise selection at Cannes, out of competition."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Comparisons in the Pikachu discussion",
+      "films": [
+        "Zootopia",
+        "Spider-Man 2",
+        "Princess Mononoke",
+        "Blade Runner",
+        "Star Wars: The Last Jedi",
+        "Dragon Ball Super: Broly",
+        "Kung Fu Panda 3",
+        "Avengers: Endgame",
+        "Thor: Ragnarok",
+        "Sonic the Hedgehog"
+      ]
+    },
+    {
+      "group": "Herzog's back catalog",
+      "films": [
+        "Grizzly Man",
+        "Cave of Forgotten Dreams"
+      ]
+    },
+    {
+      "group": "Herzog's answer to \"the last great thing you've seen\"",
+      "films": [
+        "The Act of Killing"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Mandalorian",
+      "The Simpsons"
+    ]
+  },
+  "tmdb": {
+    "Pokémon Detective Pikachu": {
+      "id": 447404,
+      "poster": "/uhWvnFgg3BNlcUz0Re1HfQqIcCD.jpg",
+      "title": "Pokémon Detective Pikachu",
+      "year": 2019
+    },
+    "Mortal Engines": {
+      "id": 428078,
+      "poster": "/gLhYg9NIvIPKVRTtvzCWnp1qJWG.jpg",
+      "title": "Mortal Engines",
+      "year": 2018
+    },
+    "Meeting Gorbachev": {
+      "id": 541576,
+      "poster": "/9Xdr25dhbCVSeoht6SdZO2AKgMS.jpg",
+      "title": "Meeting Gorbachev",
+      "year": 2019
+    },
+    "Family Romance, LLC": {
+      "id": 595900,
+      "poster": "/igtALo7638WulIIdBSQetdjFGWN.jpg",
+      "title": "Family Romance, LLC",
+      "year": 2019
+    },
+    "Zootopia": {
+      "id": 269149,
+      "poster": "/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+      "title": "Zootopia",
+      "year": 2016
+    },
+    "Spider-Man 2": {
+      "id": 558,
+      "poster": "/aGuvNAaaZuWXYQQ6N2v7DeuP6mB.jpg",
+      "title": "Spider-Man 2",
+      "year": 2004
+    },
+    "Princess Mononoke": {
+      "id": 128,
+      "poster": "/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+      "title": "Princess Mononoke",
+      "year": 1997
+    },
+    "Blade Runner": {
+      "id": 78,
+      "poster": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+      "title": "Blade Runner",
+      "year": 1982
+    },
+    "Star Wars: The Last Jedi": {
+      "id": 181808,
+      "poster": "/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
+      "title": "Star Wars: The Last Jedi",
+      "year": 2017
+    },
+    "Dragon Ball Super: Broly": {
+      "id": 503314,
+      "poster": "/uMEgkyiPznZP5AiMSWAk2jsj5gC.jpg",
+      "title": "Dragon Ball Super: Broly",
+      "year": 2018
+    },
+    "Kung Fu Panda 3": {
+      "id": 140300,
+      "poster": "/oajNi4Su39WAByHI6EONu8G8HYn.jpg",
+      "title": "Kung Fu Panda 3",
+      "year": 2016
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Thor: Ragnarok": {
+      "id": 284053,
+      "poster": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "title": "Thor: Ragnarok",
+      "year": 2017
+    },
+    "Sonic the Hedgehog": {
+      "id": 454626,
+      "poster": "/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+      "title": "Sonic the Hedgehog",
+      "year": 2020
+    },
+    "Grizzly Man": {
+      "id": 501,
+      "poster": "/zuZWpcuye25rpsiZ4XzsAvmLDHG.jpg",
+      "title": "Grizzly Man",
+      "year": 2005
+    },
+    "Cave of Forgotten Dreams": {
+      "id": 59490,
+      "poster": "/7qBfQ2x3FnbB7uRaHQOBjfWFBpc.jpg",
+      "title": "Cave of Forgotten Dreams",
+      "year": 2010
+    },
+    "The Act of Killing": {
+      "id": 123678,
+      "poster": "/sp5B7Tz5ttsgOLnIlCP5uEhtesI.jpg",
+      "title": "The Act of Killing",
+      "year": 2012
+    }
+  }
+}

@@ -1,0 +1,52 @@
+---
+import Base from '../layouts/Base.astro';
+
+const modules = import.meta.glob('../data/episodes/*.json', { eager: true });
+const episodes = Object.values(modules).map((m) => m.default);
+
+// Same film-tally as the homepage (kept inline to match index.astro; small enough not to share).
+const filmsIn = (s) =>
+  (s.films?.length ?? 0) +
+  (s.picks?.length ?? 0) +
+  (s.teams?.reduce((n, t) => n + t.picks.filter((p) => p.year).length, 0) ?? 0) +
+  (s.slates?.reduce((n, sl) => n + sl.picks.length, 0) ?? 0) +
+  (s.categories?.reduce((n, c) => n + (c.nominees?.length ?? 0), 0) ?? 0);
+const filmCount = (ep) => (ep.segments ?? []).reduce((n, s) => n + filmsIn(s), 0);
+
+// Group by publish year, years descending, episodes newest-first within each year.
+const byYear = new Map();
+for (const ep of episodes) {
+  const y = new Date(ep.published).getFullYear();
+  if (!byYear.has(y)) byYear.set(y, []);
+  byYear.get(y).push(ep);
+}
+const years = [...byYear.keys()].sort((a, b) => b - a);
+for (const y of years) byYear.get(y).sort((a, b) => (a.published < b.published ? 1 : -1));
+---
+<Base title="Every episode · The Full Picture" description="Every episode of The Big Picture, cataloged and grouped by year — each linked to its film list.">
+  <section class="cover">
+    <div class="wrap">
+      <p class="eyebrow">The Big Picture · Episode index</p>
+      <h1>Every episode, by year.</h1>
+      <p class="lede">All {episodes.length.toLocaleString()} episodes cataloged. Open a year to browse — newest first.</p>
+    </div>
+  </section>
+
+  <div class="wrap">
+    {years.map((y) => (
+      <details class="year-group">
+        <summary class="year-summary">{y}<span class="year-count">{byYear.get(y).length} episode{byYear.get(y).length === 1 ? '' : 's'}</span></summary>
+        <ul class="movie-list ep-list">
+          {byYear.get(y).map((ep) => (
+            <li class="movie">
+              <a class="movie__link" href={`/ep/${ep.slug}`}>
+                {ep.title}
+                <span class="movie__count">{filmCount(ep)} films</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </details>
+    ))}
+  </div>
+</Base>

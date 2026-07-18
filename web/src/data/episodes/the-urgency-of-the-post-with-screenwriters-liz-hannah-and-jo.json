@@ -1,0 +1,101 @@
+{
+  "slug": "the-urgency-of-the-post-with-screenwriters-liz-hannah-and-jo",
+  "title": "The Urgency of 'The Post' With Screenwriters Liz Hannah and Josh Singer",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2017-12-29",
+  "runtimeMin": 31,
+  "format": "Liz Hannah and Josh Singer on writing 'The Post' together, from Hannah's spec script to Singer joining the set after Spotlight.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Liz Hannah and Josh Singer on",
+      "films": [
+        {
+          "title": "The Post",
+          "year": 2017,
+          "note": "Hannah's spec, inspired by Katharine Graham's memoir, sold to Amy Pascal within a year; Spielberg signed on after reading it in February and shot on a sub-12-week schedule to make a 2017 release."
+        },
+        {
+          "title": "Spotlight",
+          "year": 2015,
+          "note": "Singer's Best Original Screenplay win, the credential that had him \"understood to be capable\" when Christy Diesel called about joining The Post."
+        },
+        {
+          "title": "The Fifth Estate",
+          "year": 2013,
+          "note": "Singer's first produced script and first journalism movie, grown out of a spec about George Gershwin that Spielberg beat him to."
+        },
+        {
+          "title": "Wonder Woman",
+          "year": 2017,
+          "note": "Hannah's example of a movie already showing a woman empowered; the appetite for more of that, she says, is what The Post taps into."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "The last great thing they've seen",
+      "guest": "Liz Hannah and Josh Singer on",
+      "films": [
+        {
+          "title": "Whiplash",
+          "year": 2014,
+          "note": "The film Singer's agent had him watch the morning before he first met Damien Chazelle about First Man; it's why he took the job."
+        },
+        {
+          "title": "First Man",
+          "year": 2018,
+          "note": "Singer's next produced script, a Neil Armstrong biopic with Chazelle, brought up here about a year before release."
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Crown"
+    ]
+  },
+  "tmdb": {
+    "The Post": {
+      "id": 446354,
+      "poster": "/h4XG3g6uMMPIBPjAoQhC2QIMdkl.jpg",
+      "title": "The Post",
+      "year": 2017
+    },
+    "Spotlight": {
+      "id": 314365,
+      "poster": "/8DPGG400FgaFWaqcv11n8mRd2NG.jpg",
+      "title": "Spotlight",
+      "year": 2015
+    },
+    "The Fifth Estate": {
+      "id": 162903,
+      "poster": "/pUrL2eacUjAxkOS403DaOyXpgAG.jpg",
+      "title": "The Fifth Estate",
+      "year": 2013
+    },
+    "Wonder Woman": {
+      "id": 297762,
+      "poster": "/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+      "title": "Wonder Woman",
+      "year": 2017
+    },
+    "Whiplash": {
+      "id": 244786,
+      "poster": "/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+      "title": "Whiplash",
+      "year": 2014
+    },
+    "First Man": {
+      "id": 369972,
+      "poster": "/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
+      "title": "First Man",
+      "year": 2018
+    }
+  }
+}

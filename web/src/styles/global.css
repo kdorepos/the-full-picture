@@ -424,3 +424,20 @@ footer p:last-child { margin-bottom: 0; }
   .az { gap: 0.35rem 0.4rem; }
   .az__link { padding: 0.5rem 0.75rem; }  /* 44px tap target */
 }
+
+/* All-episodes page: collapsible year groups (native <details>, collapsed by default) */
+.year-group { border-top: 1px solid var(--line); }
+.year-group:last-of-type { border-bottom: 1px solid var(--line); }
+.year-summary {
+  cursor: pointer; list-style: none; display: flex; align-items: center; gap: 0.9rem;
+  font-family: var(--mono); font-size: 0.9rem; letter-spacing: 0.2em; text-transform: uppercase;
+  color: var(--brass); padding: 1.15rem 0;
+}
+.year-summary::-webkit-details-marker { display: none; }
+.year-summary::before {
+  content: "\25B8"; color: var(--brass); font-size: 0.85em; display: inline-block; transition: transform 0.15s ease;
+}
+.year-group[open] > .year-summary::before { transform: rotate(90deg); }
+.year-summary:hover { color: var(--brass-lit); }
+.year-count { margin-left: auto; color: var(--faint); font-size: 0.7rem; letter-spacing: 0.16em; }
+.ep-list { grid-template-columns: repeat(auto-fill, minmax(28rem, 1fr)); padding-bottom: 1.4rem; }

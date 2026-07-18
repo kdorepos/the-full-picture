@@ -105,7 +105,7 @@ const { title, description } = Astro.props;
           let html = '';
           if (films.length) {
             html += '<p class="search__group">Movies</p>';
-            html += films.map((f) => `<a class="search__row" href="/movie/${f.s}" role="option"><span class="search__t">${esc(f.t)}${f.y ? ` <span class="search__y">${f.y}</span>` : ''}</span><span class="search__sub">${f.e.length} episode${f.e.length === 1 ? '' : 's'}</span></a>`).join('');
+            html += films.map((f) => `<a class="search__row" href="/movie/${f.s}" role="option"><span class="search__t">${esc(f.t)}${f.y ? ` <span class="search__y">${f.y}</span>` : ''}</span><span class="search__sub">${f.e} episode${f.e === 1 ? '' : 's'}</span></a>`).join('');
           }
           if (eps.length) {
             html += '<p class="search__group">Episodes</p>';

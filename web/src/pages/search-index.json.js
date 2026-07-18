@@ -9,7 +9,7 @@ export function GET() {
       t: f.title,
       s: f.slug,
       y: f.year,
-      e: f.mentions.map((m) => ({ s: m.slug, t: m.episodeTitle, d: m.date, c: m.context })),
+      e: f.mentions.length,
     })),
     episodes: episodes.map((e) => ({ s: e.slug, t: e.title, d: e.date })),
   };

@@ -1,0 +1,638 @@
+{
+  "slug": "the-oscars-are-removing-four-categories-from-the-telecast-wh",
+  "title": "The Oscars Are Removing Four Categories From the Telecast. Why? Plus a Conversation With Nominee Nicholas Britell | The Oscars Show (Ep. 126)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2019-02-12",
+  "runtimeMin": 92,
+  "format": "Sean and Amanda break down a very British BAFTAs night, the Academy's plan to cut four categories from the Oscar telecast, and the screenplay races. Then composer Nicholas Britell joins to talk scoring Moonlight, Beale Street, and Succession.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The BAFTAs",
+      "note": "a very British night at the British Oscars",
+      "films": [
+        {
+          "title": "The Favourite",
+          "year": 2018,
+          "note": "Olivia Colman won Best Actress, one of the night's few breaks from the established Oscar frontrunners."
+        },
+        {
+          "title": "Vice",
+          "year": 2018,
+          "note": "Rachel Weisz won Best Supporting Actress, historically one of the hardest BAFTA categories to read as an Oscar signal."
+        },
+        {
+          "title": "Bohemian Rhapsody",
+          "year": 2018,
+          "note": "Rami Malek's Best Actor win is starting to crystallize a race the hosts say they've been through the seven stages of grief with; it's nominally a film about British people and Freddie Mercury's Live Aid legacy."
+        },
+        {
+          "title": "Roma",
+          "year": 2018,
+          "note": "Won Best Film, which the hosts read as the clearest sign yet that it's the Oscar frontrunner, even without a Golden Globes-eligible run to point to."
+        },
+        {
+          "title": "Lion",
+          "year": 2016,
+          "note": "The precedent for how often BAFTA rewards its own: Dev Patel won an acting BAFTA for it in 2016, a performance that got little traction stateside."
+        },
+        {
+          "title": "The Shape of Water",
+          "year": 2017,
+          "note": "Last year's inevitable Best Picture winner, the comparison point for whether Roma's frontrunner status is as locked."
+        },
+        {
+          "title": "Three Billboards Outside Ebbing, Missouri",
+          "year": 2017,
+          "note": "Last year's BAFTA Best Film upset, despite being written and directed by a British filmmaker (Martin McDonagh) and being nominally about America."
+        },
+        {
+          "title": "Green Book",
+          "year": 2018,
+          "note": "This year's \"problematic fave\" spoiler to Roma, alongside Bohemian Rhapsody."
+        },
+        {
+          "title": "Get Out",
+          "year": 2017,
+          "note": "One of last year's beloved also-rans the hosts admit they tried to \"secret into existence.\""
+        },
+        {
+          "title": "Dunkirk",
+          "year": 2017,
+          "note": "Another of last year's crowded field of hopefuls that lost out to The Shape of Water."
+        },
+        {
+          "title": "Phantom Thread",
+          "year": 2017,
+          "note": "Same crowded, ultimately unsuccessful field from last year."
+        },
+        {
+          "title": "Lady Bird",
+          "year": 2017,
+          "note": "Same, one of last year's internet favorites that came up short."
+        },
+        {
+          "title": "Black Panther",
+          "year": 2018,
+          "note": "One of this year's spoilers alongside BlacKkKlansman and A Star Is Born."
+        },
+        {
+          "title": "BlacKkKlansman",
+          "year": 2018,
+          "note": "Same, part of this year's spoiler field to Roma."
+        },
+        {
+          "title": "A Star Is Born",
+          "year": 2018,
+          "note": "Same, the film Sean is hoping squeaks out a Best Picture win."
+        },
+        {
+          "title": "Spider-Man: Into the Spider-Verse",
+          "year": 2018,
+          "note": "Sean and Amanda's guess for Kate Middleton's favorite film of 2018, in a bit riffing on the royals' awkward, silent entrance at the ceremony."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Stock Up, Stock Down: Bradley Cooper's Campaign",
+      "films": [
+        {
+          "title": "A Star Is Born",
+          "year": 2018,
+          "note": "Sean Penn published a full-throated Deadline essay defending the film and Bradley Cooper's direction after Cooper was snubbed for Best Director; Paul Schrader wrote a similar note to IndieWire. The hosts are skeptical the late campaign will move voters."
+        },
+        {
+          "title": "The Man Who Killed Hitler and Then the Bigfoot",
+          "year": 2018,
+          "note": "The Sam Elliott vehicle he's doing press for this week, which the hosts fold into their case that Elliott doesn't need an extra Best Supporting Actor push. Everyone already loves him."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Stock Up, Stock Down: The Oscar Telecast",
+      "note": "cinematography, editing, live action short, and makeup and hairstyling get cut from the broadcast",
+      "films": [
+        {
+          "title": "Vice",
+          "year": 2018,
+          "note": "The hosts' go-to example of why the show shouldn't cut makeup and hairstyling: \"there is no Vice without makeup and hairstyling.\""
+        },
+        {
+          "title": "Titanic",
+          "year": 1997,
+          "note": "Cited as proof cutting categories isn't necessary to draw a huge audience: it won Best Picture (and gave out Best Live Action Short) in front of 55 million viewers."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The Big Race: Best Original Screenplay",
+      "note": "the Oscars' consolation-prize category",
+      "films": [
+        {
+          "title": "The Favourite",
+          "year": 2018,
+          "note": "Nominee (Deborah Davis and Tony McNamara) and the favorite, one of the more inventive, thoughtful, less mechanical movies of the season."
+        },
+        {
+          "title": "First Reformed",
+          "year": 2018,
+          "note": "Nominee, Paul Schrader, the hosts' shared \"problematic fave.\""
+        },
+        {
+          "title": "Green Book",
+          "year": 2018,
+          "note": "Nominee (Nick Vallelonga, Brian Currie, Peter Farrelly), and the hosts' pick to upset The Favourite."
+        },
+        {
+          "title": "Roma",
+          "year": 2018,
+          "note": "Nominee, Alfonso Cuarón."
+        },
+        {
+          "title": "Vice",
+          "year": 2018,
+          "note": "Nominee, Adam McKay."
+        },
+        {
+          "title": "Get Out",
+          "year": 2017,
+          "note": "Jordan Peele's win last year, the hosts' example of this category as a consolation prize: it went on to win nothing else that season."
+        },
+        {
+          "title": "Lost in Translation",
+          "year": 2003,
+          "note": "Sofia Coppola's win, cited as \"my queen\" proof of the category's taste."
+        },
+        {
+          "title": "Thelma & Louise",
+          "year": 1991,
+          "note": "Callie Khouri's win, one of the category's classic picks the hosts rattle off."
+        },
+        {
+          "title": "The Piano",
+          "year": 1993,
+          "note": "Jane Campion's win, same rundown."
+        },
+        {
+          "title": "Pulp Fiction",
+          "year": 1994,
+          "note": "Quentin Tarantino and Roger Avary's win, same rundown."
+        },
+        {
+          "title": "Fargo",
+          "year": 1996,
+          "note": "The Coen brothers' win, one of the rare times this category's winner also took Best Picture."
+        },
+        {
+          "title": "Good Will Hunting",
+          "year": 1997,
+          "note": "Ben Affleck and Matt Damon's famous win, same rundown."
+        },
+        {
+          "title": "Gosford Park",
+          "year": 2001,
+          "note": "Julian Fellowes's win, same rundown."
+        },
+        {
+          "title": "Eternal Sunshine of the Spotless Mind",
+          "year": 2004,
+          "note": "Charlie Kaufman's Oscar, same rundown."
+        },
+        {
+          "title": "The Hurt Locker",
+          "year": 2008,
+          "note": "Listed among the category's past honorees without further comment."
+        },
+        {
+          "title": "Django Unchained",
+          "year": 2012,
+          "note": "Same."
+        },
+        {
+          "title": "Her",
+          "year": 2013,
+          "note": "Same."
+        },
+        {
+          "title": "Shakespeare in Love",
+          "year": 1998,
+          "note": "The other rare case, with Fargo, of an Original Screenplay winner that also took Best Picture."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The Big Race: Best Adapted Screenplay",
+      "films": [
+        {
+          "title": "The Ballad of Buster Scruggs",
+          "year": 2018,
+          "note": "The Coens' anthology film qualifies here on a technicality: four of its six segments are wholly original, only two based on short stories (Jack London's \"All Gold Canyon\" and Stewart Edward White's \"The Gal Who Got Rattled\")."
+        },
+        {
+          "title": "BlacKkKlansman",
+          "year": 2018,
+          "note": "Spike Lee, David Rabinowitz, Charlie Wachtel, and Kevin Willmott's script, based on Ron Stallworth's memoir; the hosts peg it the frontrunner, mostly as a make-good for Lee's career."
+        },
+        {
+          "title": "Can You Ever Forgive Me?",
+          "year": 2018,
+          "note": "Nicole Holofcener and Jeff Whitty's script, based on Lee Israel's memoir; Amanda says Holofcener's body of work belongs in the Smithsonian."
+        },
+        {
+          "title": "If Beale Street Could Talk",
+          "year": 2018,
+          "note": "Barry Jenkins's script, based on James Baldwin's novel; the hosts wonder if it's getting overshadowed because Jenkins already won this category for Moonlight."
+        },
+        {
+          "title": "A Star Is Born",
+          "year": 2018,
+          "note": "Bradley Cooper, Will Fetters, and Eric Roth's script, credited to the 1954 and 1976 films before it. Amanda calls it \"a stew of three previous films\" that still counts as a real adaptation."
+        },
+        {
+          "title": "Moonlight",
+          "year": 2016,
+          "note": "Jenkins and Tarell Alvin McCraney's prior Adapted Screenplay win, the reason the hosts think Beale Street isn't getting more attention here."
+        },
+        {
+          "title": "Eighth Grade",
+          "year": 2018,
+          "note": "Not an Oscar nominee, but nominated for Original Screenplay at the Writers Guild Awards, which run on different eligibility rules."
+        },
+        {
+          "title": "A Quiet Place",
+          "year": 2018,
+          "note": "Same WGA Original Screenplay nod; Sean wants to see the shooting script given how little dialogue the film has."
+        },
+        {
+          "title": "Black Panther",
+          "year": 2018,
+          "note": "Nominated for Adapted Screenplay at the WGA, not the Oscars; the hosts wonder if older Oscar voters are simply less familiar with Ryan Coogler's work."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In Conversation",
+      "guest": "Nicholas Britell",
+      "note": "the Beale Street and Moonlight composer on scoring, Succession, and the pipe organ",
+      "films": [
+        {
+          "title": "If Beale Street Could Talk",
+          "year": 2018,
+          "note": "Britell's second Oscar nomination, after Moonlight; he and Barry Jenkins built the score around the sound of cellos to represent the film's several kinds of love."
+        },
+        {
+          "title": "Moonlight",
+          "year": 2016,
+          "note": "Britell's first Oscar nomination; he later published three pieces from the score, including \"Little's Theme\" and \"Middle of the World.\""
+        },
+        {
+          "title": "Chariots of Fire",
+          "year": 1981,
+          "note": "Vangelis's score is Britell's earliest film-music memory: he saw the film at five and asked for piano lessons because of it."
+        },
+        {
+          "title": "Ghostbusters",
+          "year": 1984,
+          "note": "Elmer Bernstein's score, which Britell says he loved as a kid as much as Mozart's Jupiter Symphony."
+        },
+        {
+          "title": "Beetlejuice",
+          "year": 1988,
+          "note": "Danny Elfman's score, which Britell cites in his running complaint that most film scores never get their sheet music published."
+        },
+        {
+          "title": "The Big Short",
+          "year": 2015,
+          "note": "Where Britell first met Adam McKay, while it was shooting."
+        },
+        {
+          "title": "Gimme the Loot",
+          "year": 2012,
+          "note": "Adam Leon's feature debut and Britell's first scored indie feature to get real distribution: it played Cannes and won at SXSW."
+        },
+        {
+          "title": "Domino One",
+          "note": "A $10,000 feature his college friend Nick Lavelle made, the first film Britell ever scored; it never got released."
+        },
+        {
+          "title": "Eighth Grade",
+          "year": 2018,
+          "note": "Britell singles out Anna Meredith's score as one he admires, \"so woven into that universe\" that he couldn't imagine the film without it."
+        },
+        {
+          "title": "Roma",
+          "year": 2018,
+          "note": "Britell's answer to the show's closing question about the last great thing he's seen; he met Alfonso Cuarón the same day and says he was \"just stammering.\""
+        },
+        {
+          "title": "Children of Men",
+          "year": 2006,
+          "note": "The Cuarón film Britell told Cuarón he thinks about every day, on meeting him."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "North by Northwest",
+        "Casablanca"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Succession"
+    ],
+    "Ads": [
+      "Bud Light"
+    ]
+  },
+  "tmdb": {
+    "The Favourite": {
+      "id": 375262,
+      "poster": "/cwBq0onfmeilU5xgqNNjJAMPfpw.jpg",
+      "title": "The Favourite",
+      "year": 2018
+    },
+    "Vice": {
+      "id": 429197,
+      "poster": "/1gCab6rNv1r6V64cwsU4oEr649Y.jpg",
+      "title": "Vice",
+      "year": 2018
+    },
+    "Bohemian Rhapsody": {
+      "id": 424694,
+      "poster": "/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+      "title": "Bohemian Rhapsody",
+      "year": 2018
+    },
+    "Roma": {
+      "id": 426426,
+      "poster": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+      "title": "Roma",
+      "year": 2018
+    },
+    "Lion": {
+      "id": 334543,
+      "poster": "/iBGRbLvg6kVc7wbS8wDdVHq6otm.jpg",
+      "title": "Lion",
+      "year": 2016
+    },
+    "The Shape of Water": {
+      "id": 399055,
+      "poster": "/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg",
+      "title": "The Shape of Water",
+      "year": 2017
+    },
+    "Three Billboards Outside Ebbing, Missouri": {
+      "id": 359940,
+      "poster": "/bRYLt8fV82tdVoDppSFTZIcJiLN.jpg",
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "year": 2017
+    },
+    "Green Book": {
+      "id": 490132,
+      "poster": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+      "title": "Green Book",
+      "year": 2018
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Dunkirk": {
+      "id": 374720,
+      "poster": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "title": "Dunkirk",
+      "year": 2017
+    },
+    "Phantom Thread": {
+      "id": 400617,
+      "poster": "/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg",
+      "title": "Phantom Thread",
+      "year": 2017
+    },
+    "Lady Bird": {
+      "id": 391713,
+      "poster": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+      "title": "Lady Bird",
+      "year": 2017
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "BlacKkKlansman": {
+      "id": 487558,
+      "poster": "/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg",
+      "title": "BlacKkKlansman",
+      "year": 2018
+    },
+    "A Star Is Born": {
+      "id": 332562,
+      "poster": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "title": "A Star Is Born",
+      "year": 2018
+    },
+    "Spider-Man: Into the Spider-Verse": {
+      "id": 324857,
+      "poster": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018
+    },
+    "The Man Who Killed Hitler and Then the Bigfoot": {
+      "id": 530081,
+      "poster": "/kQNeWBT1VqtSMtgfEn3zFjRogyH.jpg",
+      "title": "The Man Who Killed Hitler and Then the Bigfoot",
+      "year": 2019
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "First Reformed": {
+      "id": 458737,
+      "poster": "/8HKA3Hwf8jQWy8TCYWr7C8Wft23.jpg",
+      "title": "First Reformed",
+      "year": 2018
+    },
+    "Lost in Translation": {
+      "id": 153,
+      "poster": "/3jCLmYDIIiSMPujbwygNpqdpM8N.jpg",
+      "title": "Lost in Translation",
+      "year": 2003
+    },
+    "Thelma & Louise": {
+      "id": 1541,
+      "poster": "/vbRAGLzbC75QfiKD1lKjmnQGuph.jpg",
+      "title": "Thelma & Louise",
+      "year": 1991
+    },
+    "The Piano": {
+      "id": 713,
+      "poster": "/rx8RKXn8OtuS6lqloYsjyrGOUp4.jpg",
+      "title": "The Piano",
+      "year": 1993
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "Fargo": {
+      "id": 275,
+      "poster": "/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+      "title": "Fargo",
+      "year": 1996
+    },
+    "Good Will Hunting": {
+      "id": 489,
+      "poster": "/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+      "title": "Good Will Hunting",
+      "year": 1997
+    },
+    "Gosford Park": {
+      "id": 5279,
+      "poster": "/7r8DeZuaaHCiOEbkqZC6MFmwJ69.jpg",
+      "title": "Gosford Park",
+      "year": 2001
+    },
+    "Eternal Sunshine of the Spotless Mind": {
+      "id": 38,
+      "poster": "/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year": 2004
+    },
+    "The Hurt Locker": {
+      "id": 12162,
+      "poster": "/io2dfBJhasvGbgkCX9cCGVOiA99.jpg",
+      "title": "The Hurt Locker",
+      "year": 2008
+    },
+    "Django Unchained": {
+      "id": 68718,
+      "poster": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+      "title": "Django Unchained",
+      "year": 2012
+    },
+    "Her": {
+      "id": 152601,
+      "poster": "/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg",
+      "title": "Her",
+      "year": 2013
+    },
+    "Shakespeare in Love": {
+      "id": 1934,
+      "poster": "/zdW7jdzPi4J9KZR3TyY2jn3Xh5e.jpg",
+      "title": "Shakespeare in Love",
+      "year": 1998
+    },
+    "The Ballad of Buster Scruggs": {
+      "id": 537996,
+      "poster": "/voxl654m7p36y8FLu8oQD7dfwwK.jpg",
+      "title": "The Ballad of Buster Scruggs",
+      "year": 2018
+    },
+    "Can You Ever Forgive Me?": {
+      "id": 401847,
+      "poster": "/y9pDvBdvU8Z5QjQ6Y4oF0Cq7p5j.jpg",
+      "title": "Can You Ever Forgive Me?",
+      "year": 2018
+    },
+    "If Beale Street Could Talk": {
+      "id": 465914,
+      "poster": "/76NfwnaZI43gOQove0LU9O23Qjz.jpg",
+      "title": "If Beale Street Could Talk",
+      "year": 2018
+    },
+    "Moonlight": {
+      "id": 376867,
+      "poster": "/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+      "title": "Moonlight",
+      "year": 2016
+    },
+    "Eighth Grade": {
+      "id": 489925,
+      "poster": "/xTa9cLhGHfQ7084UvoPQ2bBXKqd.jpg",
+      "title": "Eighth Grade",
+      "year": 2018
+    },
+    "A Quiet Place": {
+      "id": 447332,
+      "poster": "/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+      "title": "A Quiet Place",
+      "year": 2018
+    },
+    "Chariots of Fire": {
+      "id": 9443,
+      "poster": "/qnRaum8k0HqGRml2i7OawFqUtEb.jpg",
+      "title": "Chariots of Fire",
+      "year": 1981
+    },
+    "Ghostbusters": {
+      "id": 620,
+      "poster": "/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
+      "title": "Ghostbusters",
+      "year": 1984
+    },
+    "Beetlejuice": {
+      "id": 4011,
+      "poster": "/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg",
+      "title": "Beetlejuice",
+      "year": 1988
+    },
+    "The Big Short": {
+      "id": 318846,
+      "poster": "/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg",
+      "title": "The Big Short",
+      "year": 2015
+    },
+    "Gimme the Loot": {
+      "id": 97607,
+      "poster": "/fsNWyUVWskfrhLhOjtUSYjWfJh7.jpg",
+      "title": "Gimme the Loot",
+      "year": 2012
+    },
+    "Domino One": null,
+    "Children of Men": {
+      "id": 9693,
+      "poster": "/k9IAS4TehZFcKi4HVByxZNPfqex.jpg",
+      "title": "Children of Men",
+      "year": 2006
+    },
+    "North by Northwest": {
+      "id": 213,
+      "poster": "/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg",
+      "title": "North by Northwest",
+      "year": 1959
+    },
+    "Casablanca": {
+      "id": 289,
+      "poster": "/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+      "title": "Casablanca",
+      "year": 1943
+    }
+  },
+  "tmdbOverrides": {
+    "Domino One": null
+  }
+}

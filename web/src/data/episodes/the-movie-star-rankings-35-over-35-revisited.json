@@ -383,7 +383,7 @@
         {
           "title": "65",
           "year": 2023,
-          "note": "No. 30 Adam Driver: the last of the four, cited earlier as a testimony to the vagaries of the IP era."
+          "note": "No. 30 Adam Driver: the last of the four, cited earlier as an example of the vagaries of the IP era."
         },
         {
           "title": "The Lost City",
@@ -434,6 +434,15 @@
           "title": "Amsterdam",
           "year": 2022,
           "note": "No. 26 Christian Bale: a box-office disaster, though not one they blame on him."
+        },
+        {
+          "title": "The Pale Blue Eye",
+          "year": 2022,
+          "note": "No. 26 Christian Bale: the Scott Cooper Edgar Allan Poe mystery, straight to Netflix."
+        },
+        {
+          "title": "The Church of Living Dangerously",
+          "note": "No. 26 Christian Bale: an announced-but-unreleased project (Bale as a drug-smuggling preacher) that Amanda jokes she can't identify; still unproduced as of taping."
         },
         {
           "title": "Zero Dark Thirty",
@@ -1278,6 +1287,13 @@
       "title": "Amsterdam",
       "year": 2022
     },
+    "The Pale Blue Eye": {
+      "id": 800815,
+      "poster": "/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg",
+      "title": "The Pale Blue Eye",
+      "year": 2022
+    },
+    "The Church of Living Dangerously": null,
     "Zero Dark Thirty": {
       "id": 97630,
       "poster": "/wNSdSSxowM3WIqmPJNg3RagYbwP.jpg",

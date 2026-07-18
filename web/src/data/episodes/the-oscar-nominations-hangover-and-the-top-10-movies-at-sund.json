@@ -22,7 +22,7 @@
           "note": "The one nominee Sean can't get behind; Wesley Morris flagged its handling of B.B. King and Black music history."
         },
         {
-          "title": "Tar",
+          "title": "TÁR",
           "year": 2022,
           "note": "Still living in the Tar-verse; also the subject of Todd Field's WTF appearance."
         },
@@ -137,10 +137,16 @@
           "note": "Andrew Durham's adaptation of Alysia Abbott's memoir, produced by American Zoetrope; Scoot McNairy plays her father. Amanda had the same reaction to the first half."
         },
         {
-          "title": "It's Only Life After All",
+          "title": "Indigo Girls: It's Only Life After All",
           "year": 2023,
           "by": "Sean Fennessy",
-          "note": "The Indigo Girls documentary; Sean's one unmissable pick of the festival for personal reasons."
+          "note": "The Indigo Girls documentary; the one pick of the festival Sean wasn't going to skip, for personal reasons."
+        },
+        {
+          "title": "Rye Lane",
+          "year": 2023,
+          "by": "Sean Fennessy",
+          "note": "Amanda got shut out of this one. A Searchlight walk-and-talk rom-com, shades of Before Sunrise, from first-time director Raine Allen-Miller, starring David Jonsson and Vivian Oparah. Sean thinks Amanda's the one who should be covering it."
         }
       ]
     },
@@ -226,6 +232,14 @@
       "WTF with Marc Maron (podcast)"
     ]
   },
+  "tmdbOverrides": {
+    "Magazine Dreams": 784524,
+    "Justice": 1076384,
+    "Theater Camp": 986054,
+    "Resurrection": 872497,
+    "Speak No Evil": 833339,
+    "Fairyland": 997955
+  },
   "tmdb": {
     "Elvis": {
       "id": 614934,
@@ -233,7 +247,12 @@
       "title": "Elvis",
       "year": 2022
     },
-    "Tar": null,
+    "TÁR": {
+      "id": 817758,
+      "poster": "/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg",
+      "title": "TÁR",
+      "year": 2022
+    },
     "Everything Everywhere All at Once": {
       "id": 545611,
       "poster": "/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
@@ -312,7 +331,12 @@
       "title": "Invisible Beauty",
       "year": 2023
     },
-    "Magazine Dreams": null,
+    "Magazine Dreams": {
+      "id": 784524,
+      "poster": "/vSidx9NHKuQIPEQ4yI9b9zkTeh3.jpg",
+      "title": "Magazine Dreams",
+      "year": 2025
+    },
     "The Disappearance of Shere Hite": {
       "id": 1058648,
       "poster": "/sDYWhuKhWdt0GuGxbJnFiWODnik.jpg",
@@ -332,12 +356,23 @@
       "year": 2023
     },
     "Fairyland": {
-      "id": 1448598,
-      "poster": "/b4GrIawu5Y64DaGR1BlP6HGwNkG.jpg",
+      "id": 997955,
+      "poster": "/eZ3OgBMzR3UZEbm9otRYFBwL8Ao.jpg",
       "title": "Fairyland",
-      "year": null
+      "year": 2025
     },
-    "It's Only Life After All": null,
+    "Indigo Girls: It's Only Life After All": {
+      "id": 1045465,
+      "poster": "/pwcyxDjEtfy1AuWQVRsbZ6snk0L.jpg",
+      "title": "Indigo Girls: It's Only Life After All",
+      "year": 2024
+    },
+    "Rye Lane": {
+      "id": 1049638,
+      "poster": "/int5eEKNc8g0V5i3XYaPeaC6paD.jpg",
+      "title": "Rye Lane",
+      "year": 2023
+    },
     "Possessor": {
       "id": 435615,
       "poster": "/xC9GZeJZ3NagdkGg9nLQx0aPG6J.jpg",
@@ -375,16 +410,16 @@
       "year": 2023
     },
     "Justice": {
-      "id": 1282138,
-      "poster": "/zrzKoiLUdKuKqtYOKS2orLRoUhv.jpg",
+      "id": 1076384,
+      "poster": "/nlBOTwFELUjpgZKHN3ZBiUNJJOz.jpg",
       "title": "Justice",
-      "year": 2024
+      "year": 2023
     },
     "Theater Camp": {
-      "id": 723919,
-      "poster": "/3lThzQ3pCMxlD0DjA55Zm498HTb.jpg",
+      "id": 986054,
+      "poster": "/2osbLk1MMt9qjXPKSB2hMcBUyrw.jpg",
       "title": "Theater Camp",
-      "year": 2020
+      "year": 2023
     },
     "Flora and Son": {
       "id": 1059811,
@@ -423,16 +458,16 @@
       "year": 2021
     },
     "Speak No Evil": {
-      "id": 1114513,
-      "poster": "/dA4N6uWOnEMgbxXwFX7qX7adzs8.jpg",
+      "id": 833339,
+      "poster": "/ukYuuFzPTumN1QNpQyz863bcNvr.jpg",
       "title": "Speak No Evil",
-      "year": 2024
+      "year": 2022
     },
     "Resurrection": {
-      "id": 878608,
-      "poster": "/n4YEPanrb976XfPKjSsHaIrlSt9.jpg",
+      "id": 872497,
+      "poster": "/kfRr8Jm1gaEnLTXCIfHkSw8QW6t.jpg",
       "title": "Resurrection",
-      "year": 2025
+      "year": 2022
     },
     "Something in the Dirt": {
       "id": 843621,

@@ -1,0 +1,738 @@
+{
+  "slug": "top-10-original-netflix-movies-the-big-picture",
+  "title": "Top 10 Original Netflix Movies | The Big Picture",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2020-04-24",
+  "runtimeMin": 110,
+  "format": "Sean and Amanda build a 10-film Netflix Original Hall of Fame, then Sean talks to Alex Garland about 'Devs.'",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "What is a Netflix original, anyway?",
+      "note": "quarantine has Netflix on top",
+      "films": [
+        {
+          "title": "Molly's Game",
+          "year": 2017,
+          "note": "Not a Netflix production, but found a second life on the service, which the hosts say explains a lot about what draws filmmakers there in the first place."
+        },
+        {
+          "title": "Spenser Confidential",
+          "year": 2020,
+          "note": "Watched by more people than 'Tiger King' per Netflix's own earnings call, despite pacing and tone problems the hosts say plague a lot of these movies."
+        },
+        {
+          "title": "The Irishman",
+          "year": 2019,
+          "note": "Cited as part of the awards-season case for Netflix, alongside 'Marriage Story' and 'American Factory.'"
+        },
+        {
+          "title": "Marriage Story",
+          "year": 2019
+        },
+        {
+          "title": "American Factory",
+          "year": 2019
+        },
+        {
+          "title": "Beasts of No Nation",
+          "year": 2015,
+          "note": "Netflix's first feature, five years old at the time of this taping. Amanda: 'I remember thinking, wow, this feels weirdly unfinished.'"
+        },
+        {
+          "title": "Set It Up",
+          "year": 2018,
+          "note": "Amanda's pick for what Netflix could have led with instead of 'Beasts of No Nation': a movie about a workplace romance at a sports-media company that hits close to home for two Ringer employees."
+        },
+        {
+          "title": "The Cloverfield Paradox",
+          "year": 2018,
+          "note": "The surprise Super Bowl drop the hosts cite as the bad version of Netflix swooping in to rescue a stalled studio project."
+        },
+        {
+          "title": "The Lovebirds",
+          "year": 2020,
+          "note": "Paramount's pandemic-era release-date casualty, picked up by Netflix in the same kind of rescue move that landed 'Triple Frontier.'"
+        },
+        {
+          "title": "Triple Frontier",
+          "year": 2019,
+          "note": "Financed by Netflix rather than rescued, which Sean insists still counts."
+        },
+        {
+          "title": "Roma",
+          "year": 2018,
+          "note": "Named as proof the prestige and awards push is still very much alive alongside the teen-rom-com side of the business."
+        },
+        {
+          "title": "Circus of Books",
+          "year": 2019,
+          "note": "Documentary about the L.A. LGBTQ bookstore, released the same week as 'The Willoughbys.'"
+        },
+        {
+          "title": "The Willoughbys",
+          "year": 2020,
+          "note": "Amanda keeps mistaking the trailer for a British period drama; it's an animated kids' movie."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "Extraction",
+      "note": "Chris Hemsworth, one very long shootout",
+      "films": [
+        {
+          "title": "Extraction",
+          "year": 2020,
+          "note": "Directed by stuntman-turned-director Sam Hargrave, produced by the Russo brothers. Amanda's husband ended up watching the whole thing while she cooked dinner and narrating the kills to her; both call it a convincing, disposable action movie built around a 12-minute one-take-style shootout. Compared unfavorably in rewatch value to '6 Underground.'"
+        }
+      ]
+    },
+    {
+      "kind": "halloffame",
+      "heading": "The Netflix Films Hall of Fame",
+      "note": "10 spots, one rule: one movie per director",
+      "honoree": "Netflix",
+      "films": [
+        {
+          "title": "Roma",
+          "year": 2018,
+          "note": "In immediately, no debate, along with 'The Irishman' and 'Marriage Story': the three the hosts agree deserve their own wing but get folded in anyway."
+        },
+        {
+          "title": "The Irishman",
+          "year": 2019,
+          "note": "One of the three locks."
+        },
+        {
+          "title": "Marriage Story",
+          "year": 2019,
+          "note": "The third lock. Disqualifies 'The Meyerowitz Stories' under the one-film-per-director rule, over Sean's objections."
+        },
+        {
+          "title": "Shirkers",
+          "year": 2018,
+          "note": "Sandi Tan's documentary about a lost film she made as a teenager and rediscovered decades later. Amanda's find. She made her husband watch it the same night."
+        },
+        {
+          "title": "American Factory",
+          "year": 2019,
+          "note": "Called an uncomplicated choice."
+        },
+        {
+          "title": "To All the Boys I've Loved Before",
+          "year": 2018,
+          "note": "Wins the one-slot showdown with 'Set It Up.' Amanda argues it did more to build a teen audience and a new genre for the service, even though she personally prefers 'Set It Up.' Their producer's vote breaks the tie."
+        },
+        {
+          "title": "Okja",
+          "year": 2017,
+          "note": "Traded in for 'The Ballad of Buster Scruggs' in a mid-show negotiation. Amanda loves it; Sean says he 'didn't feel complete' watching it, despite Tilda Swinton, Jake Gyllenhaal, and Giancarlo Esposito."
+        },
+        {
+          "title": "Triple Frontier",
+          "year": 2019,
+          "note": "Sean will not let this one go: 'are we the only people left on Triple Frontier Island?'"
+        },
+        {
+          "title": "The Ballad of Buster Scruggs",
+          "year": 2018,
+          "note": "The Coen brothers movie Sean insisted on, traded for Okja's spot."
+        },
+        {
+          "title": "Icarus",
+          "year": 2017,
+          "note": "Covers the Oscar-bait/documentary case generally: the hosts use it to justify cutting '13th,' 'Crip Camp: A Disability Revolution,' and 'What Happened, Miss Simone?' from the final 10."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The ones that didn't make it",
+      "note": "the also-rans, argued out loud",
+      "films": [
+        {
+          "title": "Happy as Lazzaro",
+          "year": 2018,
+          "note": "Alice Rohrwacher's film. Both agree it's very good but a tough home watch. Amanda calls it more of an 'event' movie."
+        },
+        {
+          "title": "Atlantics",
+          "year": 2019,
+          "note": "Mati Diop's film. Sean argues it deserves more of a case than 'Happy as Lazzaro' but it gets bumped anyway."
+        },
+        {
+          "title": "Crip Camp: A Disability Revolution",
+          "year": 2020,
+          "note": "Produced by the Obamas' Higher Ground; both find it well made and educational but not quite at 'American Factory' level."
+        },
+        {
+          "title": "The Two Popes",
+          "year": 2019,
+          "note": "Sean recalls a Telluride crowd predicting a Best Picture win; it didn't happen."
+        },
+        {
+          "title": "Fyre",
+          "year": 2019,
+          "note": "Chris Smith's documentary, discussed alongside the competing Hulu Fyre Festival doc. Sean: 'this is kind of like watching eight really good YouTube videos in a row.'"
+        },
+        {
+          "title": "Velvet Buzzsaw",
+          "year": 2019,
+          "note": "Dan Gilroy's art-world horror. Sean: 'imperfect,' with 'a very strange Jake Gyllenhaal performance.'"
+        },
+        {
+          "title": "13th",
+          "year": 2016,
+          "note": "Ava DuVernay's documentary. Called hugely important to Netflix's history ('there is no Crip Camp: A Disability Revolution without 13th'), but it loses its spot to Icarus."
+        },
+        {
+          "title": "Mudbound",
+          "year": 2017,
+          "note": "Dee Rees's film, which Amanda never actually finished."
+        },
+        {
+          "title": "Private Life",
+          "year": 2018,
+          "note": "Tamara Jenkins's film, starring Kathryn Hahn and Paul Giamatti. Both call it underseen and well-reviewed, but not representative enough of the broader Netflix slate to make the cut."
+        },
+        {
+          "title": "The Perfection",
+          "year": 2019,
+          "note": "Starring Allison Williams. Sean: 'disruptive and fucked up and also fascinating.'"
+        },
+        {
+          "title": "The Highwaymen",
+          "year": 2019,
+          "note": "Kevin Costner and Woody Harrelson hunting Bonnie and Clyde, directed by John Lee Hancock."
+        },
+        {
+          "title": "Wine Country",
+          "year": 2019,
+          "note": "Amy Poehler's comedy."
+        },
+        {
+          "title": "War Machine",
+          "year": 2017,
+          "note": "Brad Pitt's first movie for a streaming service, called an important precedent for the industry even though the film itself landed poorly."
+        },
+        {
+          "title": "The Meyerowitz Stories (New and Selected)",
+          "year": 2017,
+          "note": "Sean's preferred Baumbach film, disqualified once 'Marriage Story' takes the one-per-director slot."
+        },
+        {
+          "title": "I Lost My Body",
+          "year": 2019,
+          "note": "The animated film, called good but not worthy of a spot."
+        },
+        {
+          "title": "High Flying Bird",
+          "year": 2019,
+          "note": "Soderbergh's iPhone-shot film. Called the more 'important' of his two 2019 Netflix movies, and briefly pinned before losing its place."
+        },
+        {
+          "title": "The Laundromat",
+          "year": 2019,
+          "note": "Soderbergh's other 2019 release."
+        },
+        {
+          "title": "Gerald's Game",
+          "year": 2017,
+          "note": "Mike Flanagan's Stephen King adaptation with Carla Gugino. Called phenomenal but not top-10 material."
+        },
+        {
+          "title": "Win It All",
+          "year": 2017,
+          "note": "Joe Swanberg's film with Jake Johnson."
+        },
+        {
+          "title": "They'll Love Me When I'm Dead",
+          "year": 2018,
+          "note": "Documentary about the making of Orson Welles's 'The Other Side of the Wind.'"
+        },
+        {
+          "title": "Dolemite Is My Name",
+          "year": 2019,
+          "note": "Eddie Murphy's comeback vehicle."
+        },
+        {
+          "title": "What Happened, Miss Simone?",
+          "year": 2015,
+          "note": "Nominated for the Best Documentary Oscar the same year as 'Amy,' called possibly the first Netflix Oscar nomination."
+        },
+        {
+          "title": "6 Underground",
+          "year": 2019,
+          "note": "Michael Bay's film, used as the yardstick for how much less coherent 'Extraction' feels by comparison."
+        },
+        {
+          "title": "Tigertail",
+          "year": 2020,
+          "note": "Alan Yang's directorial debut. Both admire the craft but feel its influences (Edward Yang, Wong Kar-wai) show through more than the movie's own voice."
+        },
+        {
+          "title": "Miss Americana",
+          "year": 2020,
+          "note": "The Taylor Swift documentary. Amanda brings it up as a late add to acknowledge Netflix's music-doc lane; Sean rules it out immediately."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Netflix's 2020 slate, mentioned",
+      "films": [
+        "Da 5 Bloods",
+        "Hillbilly Elegy",
+        "I'm Thinking of Ending Things",
+        "Mank",
+        "The Midnight Sky"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Parasite",
+        "Scoob!",
+        "Jim & Andy: The Great Beyond",
+        "American Movie",
+        "Trolls World Tour"
+      ]
+    },
+    {
+      "group": "Other 2015 Best Documentary nominees",
+      "films": [
+        "Amy",
+        "Cartel Land",
+        "The Look of Silence",
+        "Winter on Fire: Ukraine's Fight for Freedom"
+      ]
+    },
+    {
+      "group": "Alex Garland interview, in passing",
+      "films": [
+        "2001: A Space Odyssey",
+        "Contagion",
+        "28 Days Later",
+        "Ex Machina",
+        "Annihilation",
+        "Stalker"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Tiger King",
+      "Outer Banks",
+      "Too Hot to Handle",
+      "Devs",
+      "Mrs. America",
+      "The Haunting of Hill House",
+      "The Haunting of Bly Manor",
+      "It's Always Sunny in Philadelphia"
+    ],
+    "Games": [
+      "Call of Duty"
+    ],
+    "Ads": [
+      "World Central Kitchen",
+      "Spotify"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Meyerowitz Stories (New and Selected)": 396398,
+    "Amy": 331781
+  },
+  "tmdb": {
+    "Molly's Game": {
+      "id": 396371,
+      "poster": "/zrGQwKNmAz5awZI2V1k5M4eTTTN.jpg",
+      "title": "Molly's Game",
+      "year": 2017
+    },
+    "Spenser Confidential": {
+      "id": 581600,
+      "poster": "/fePczipv6ZzDO2uoww4vTAu2Sq3.jpg",
+      "title": "Spenser Confidential",
+      "year": 2020
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Marriage Story": {
+      "id": 492188,
+      "poster": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+      "title": "Marriage Story",
+      "year": 2019
+    },
+    "American Factory": {
+      "id": 565716,
+      "poster": "/7jH3dQOJ3CHMrp9tWsI3rRCDiaD.jpg",
+      "title": "American Factory",
+      "year": 2019
+    },
+    "Beasts of No Nation": {
+      "id": 283587,
+      "poster": "/1D4vcJmJc58WXarpRtwgd2do9Rg.jpg",
+      "title": "Beasts of No Nation",
+      "year": 2015
+    },
+    "Set It Up": {
+      "id": 384677,
+      "poster": "/7omfwqiiMld9EnUps3Uk9YZLy6g.jpg",
+      "title": "Set It Up",
+      "year": 2018
+    },
+    "The Cloverfield Paradox": {
+      "id": 384521,
+      "poster": "/vJi2ExTcWdJR3150VPKqqtdGxsT.jpg",
+      "title": "The Cloverfield Paradox",
+      "year": 2018
+    },
+    "The Lovebirds": {
+      "id": 576156,
+      "poster": "/5jdLnvALCpK1NkeQU1z4YvOe2dZ.jpg",
+      "title": "The Lovebirds",
+      "year": 2020
+    },
+    "Triple Frontier": {
+      "id": 399361,
+      "poster": "/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg",
+      "title": "Triple Frontier",
+      "year": 2019
+    },
+    "Roma": {
+      "id": 426426,
+      "poster": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+      "title": "Roma",
+      "year": 2018
+    },
+    "Circus of Books": {
+      "id": 597594,
+      "poster": "/y19U39IccjFpn70UmYIET9B3dBV.jpg",
+      "title": "Circus of Books",
+      "year": 2019
+    },
+    "The Willoughbys": {
+      "id": 560044,
+      "poster": "/9WrMmjdZvpxLQh1tCQ9tOd1asOb.jpg",
+      "title": "The Willoughbys",
+      "year": 2020
+    },
+    "Extraction": {
+      "id": 545609,
+      "poster": "/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg",
+      "title": "Extraction",
+      "year": 2020
+    },
+    "Shirkers": {
+      "id": 489994,
+      "poster": "/spd1fZNePSQFRhNam66jx3ZMoxF.jpg",
+      "title": "Shirkers",
+      "year": 2018
+    },
+    "To All the Boys I've Loved Before": {
+      "id": 466282,
+      "poster": "/hKHZhUbIyUAjcSrqJThFGYIR6kI.jpg",
+      "title": "To All the Boys I've Loved Before",
+      "year": 2018
+    },
+    "Okja": {
+      "id": 387426,
+      "poster": "/pHlRr2MfjK77VIIAO7p0R4jhsJI.jpg",
+      "title": "Okja",
+      "year": 2017
+    },
+    "The Ballad of Buster Scruggs": {
+      "id": 537996,
+      "poster": "/voxl654m7p36y8FLu8oQD7dfwwK.jpg",
+      "title": "The Ballad of Buster Scruggs",
+      "year": 2018
+    },
+    "Icarus": {
+      "id": 432976,
+      "poster": "/x5azMi1KvZWbBbfjmGqpHNGqjH.jpg",
+      "title": "Icarus",
+      "year": 2017
+    },
+    "Happy as Lazzaro": {
+      "id": 481432,
+      "poster": "/j4x1O6G0cbchHQwNsEZ0DntOJMJ.jpg",
+      "title": "Happy as Lazzaro",
+      "year": 2018
+    },
+    "Atlantics": {
+      "id": 496967,
+      "poster": "/zRnZM6HqglFK31MYyrTSQVlj1dQ.jpg",
+      "title": "Atlantics",
+      "year": 2019
+    },
+    "Crip Camp: A Disability Revolution": {
+      "id": 653725,
+      "poster": "/iALSypN3MhC6kBVwc9VpuJUlm1j.jpg",
+      "title": "Crip Camp: A Disability Revolution",
+      "year": 2020
+    },
+    "The Two Popes": {
+      "id": 551332,
+      "poster": "/4d4mTSfDIFIbUbMLUfaKodvxYXA.jpg",
+      "title": "The Two Popes",
+      "year": 2019
+    },
+    "Fyre": {
+      "id": 567860,
+      "poster": "/yFsP0BAJhAH3RTXCAnGvI1CtaUb.jpg",
+      "title": "Fyre",
+      "year": 2019
+    },
+    "Velvet Buzzsaw": {
+      "id": 463684,
+      "poster": "/3rViQPcrWthMNecp5XnkKev6BzW.jpg",
+      "title": "Velvet Buzzsaw",
+      "year": 2019
+    },
+    "13th": {
+      "id": 407806,
+      "poster": "/tcKNWD6IFPPsvkpvyZ548naz0is.jpg",
+      "title": "13th",
+      "year": 2016
+    },
+    "Mudbound": {
+      "id": 414425,
+      "poster": "/tf21kSKepMOlnorszWaiFwksKU4.jpg",
+      "title": "Mudbound",
+      "year": 2017
+    },
+    "Private Life": {
+      "id": 458342,
+      "poster": "/ljym9jQlw1HypwZxlfsjuWcjQV8.jpg",
+      "title": "Private Life",
+      "year": 2018
+    },
+    "The Perfection": {
+      "id": 529962,
+      "poster": "/tPDe68PDsgIGMs6wdJLtcwVVxA7.jpg",
+      "title": "The Perfection",
+      "year": 2018
+    },
+    "The Highwaymen": {
+      "id": 500682,
+      "poster": "/4bRYg4l12yDuJvAfqvUOPnBrxno.jpg",
+      "title": "The Highwaymen",
+      "year": 2019
+    },
+    "Wine Country": {
+      "id": 513083,
+      "poster": "/mi5l29DQFdwrTXxbqM2OLbs830H.jpg",
+      "title": "Wine Country",
+      "year": 2019
+    },
+    "War Machine": {
+      "id": 354287,
+      "poster": "/bU2Q2rCH5VFrJNKSyx6wSmQZFsX.jpg",
+      "title": "War Machine",
+      "year": 2017
+    },
+    "The Meyerowitz Stories (New and Selected)": {
+      "id": 396398,
+      "poster": "/c9teDTgwxgnb7wnZjZo4oNcF80R.jpg",
+      "title": "The Meyerowitz Stories (New and Selected)",
+      "year": 2017
+    },
+    "I Lost My Body": {
+      "id": 586940,
+      "poster": "/z5dXCywyo8zEPNDkeQY7nbvkrz8.jpg",
+      "title": "I Lost My Body",
+      "year": 2019
+    },
+    "High Flying Bird": {
+      "id": 510498,
+      "poster": "/ccE21xixa1zhkGtWDr4n8ReOp40.jpg",
+      "title": "High Flying Bird",
+      "year": 2019
+    },
+    "The Laundromat": {
+      "id": 517909,
+      "poster": "/hwNMJgbiUUvPCxsnADjbV9ysM5j.jpg",
+      "title": "The Laundromat",
+      "year": 2019
+    },
+    "Gerald's Game": {
+      "id": 343674,
+      "poster": "/32dippiypDdaKv7XFEfUlQ7kPup.jpg",
+      "title": "Gerald's Game",
+      "year": 2017
+    },
+    "Win It All": {
+      "id": 397442,
+      "poster": "/aEc69JY0azD9PwYtwS2RFwoyFOT.jpg",
+      "title": "Win It All",
+      "year": 2017
+    },
+    "They'll Love Me When I'm Dead": {
+      "id": 538002,
+      "poster": "/h7YHg3BOEjlZSCJ41FBHyeQkoUG.jpg",
+      "title": "They'll Love Me When I'm Dead",
+      "year": 2018
+    },
+    "Dolemite Is My Name": {
+      "id": 528888,
+      "poster": "/uoAqJg7ZSmftnBGOkupU1ySZQU0.jpg",
+      "title": "Dolemite Is My Name",
+      "year": 2019
+    },
+    "What Happened, Miss Simone?": {
+      "id": 318044,
+      "poster": "/8XpM91NVq6IyCnDkiWf4xjHpewK.jpg",
+      "title": "What Happened, Miss Simone?",
+      "year": 2015
+    },
+    "6 Underground": {
+      "id": 509967,
+      "poster": "/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg",
+      "title": "6 Underground",
+      "year": 2019
+    },
+    "Tigertail": {
+      "id": 544415,
+      "poster": "/416Pzzz2xzkSEOdiGMz1EOrKcBm.jpg",
+      "title": "Tigertail",
+      "year": 2020
+    },
+    "Miss Americana": {
+      "id": 653567,
+      "poster": "/z1HiEB1UEfdA5fPkngekjQ2vlCC.jpg",
+      "title": "Miss Americana",
+      "year": 2020
+    },
+    "Da 5 Bloods": {
+      "id": 581859,
+      "poster": "/yx4cp1ljJMDSFeEex0Zjv45b55E.jpg",
+      "title": "Da 5 Bloods",
+      "year": 2020
+    },
+    "Hillbilly Elegy": {
+      "id": 592984,
+      "poster": "/aA0D6DKIfLtXYNy94Qq2IW5NiGR.jpg",
+      "title": "Hillbilly Elegy",
+      "year": 2020
+    },
+    "I'm Thinking of Ending Things": {
+      "id": 500840,
+      "poster": "/5ynWWapdl45hJXUh0KIevxSG9JQ.jpg",
+      "title": "I'm Thinking of Ending Things",
+      "year": 2020
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "The Midnight Sky": {
+      "id": 614911,
+      "poster": "/l8lXesOLXKS0VYjzWNZN6gDxv2F.jpg",
+      "title": "The Midnight Sky",
+      "year": 2020
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Scoob!": {
+      "id": 385103,
+      "poster": "/jHo2M1OiH9Re33jYtUQdfzPeUkx.jpg",
+      "title": "Scoob!",
+      "year": 2020
+    },
+    "Jim & Andy: The Great Beyond": {
+      "id": 469019,
+      "poster": "/kKzopOFXz9YfsCTqg3XpF0GoypX.jpg",
+      "title": "Jim & Andy: The Great Beyond",
+      "year": 2017
+    },
+    "American Movie": {
+      "id": 14242,
+      "poster": "/y8dJgWr1HeW0RRxwANDWvgIXdsF.jpg",
+      "title": "American Movie",
+      "year": 1999
+    },
+    "Trolls World Tour": {
+      "id": 446893,
+      "poster": "/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg",
+      "title": "Trolls World Tour",
+      "year": 2020
+    },
+    "Amy": {
+      "id": 331781,
+      "poster": "/qL0RepWSNUuZoeDXfyhqowVYhrn.jpg",
+      "title": "Amy",
+      "year": 2015
+    },
+    "Cartel Land": {
+      "id": 317952,
+      "poster": "/bNNP8IYV1VZKsS5CRavRpRDWV06.jpg",
+      "title": "Cartel Land",
+      "year": 2015
+    },
+    "The Look of Silence": {
+      "id": 267480,
+      "poster": "/7TakQLT8gyzIMG8hX8RLTd5qROQ.jpg",
+      "title": "The Look of Silence",
+      "year": 2014
+    },
+    "Winter on Fire: Ukraine's Fight for Freedom": {
+      "id": 355020,
+      "poster": "/xGKMWhYsK3OxQ6ceqMnvXBfFd7G.jpg",
+      "title": "Winter on Fire: Ukraine's Fight for Freedom",
+      "year": 2015
+    },
+    "2001: A Space Odyssey": {
+      "id": 62,
+      "poster": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "title": "2001: A Space Odyssey",
+      "year": 1968
+    },
+    "Contagion": {
+      "id": 39538,
+      "poster": "/qL0IooP0bjXy0KXl9KEyPo22ll0.jpg",
+      "title": "Contagion",
+      "year": 2011
+    },
+    "28 Days Later": {
+      "id": 170,
+      "poster": "/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
+      "title": "28 Days Later",
+      "year": 2002
+    },
+    "Ex Machina": {
+      "id": 264660,
+      "poster": "/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
+      "title": "Ex Machina",
+      "year": 2015
+    },
+    "Annihilation": {
+      "id": 300668,
+      "poster": "/4YRplSk6BhH6PRuE9gfyw9byUJ6.jpg",
+      "title": "Annihilation",
+      "year": 2018
+    },
+    "Stalker": {
+      "id": 1398,
+      "poster": "/1qhOyf5C4s9ZdvY8d5JDx9DFMeT.jpg",
+      "title": "Stalker",
+      "year": 1979
+    }
+  }
+}

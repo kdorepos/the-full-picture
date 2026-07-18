@@ -312,9 +312,9 @@
           "note": "The one Shea says people need to watch before they mock this pick."
         },
         {
-          "title": "Never Back Down",
-          "year": 2008,
-          "note": "Named as one of his spotty-but-reliable direct-to-video run."
+          "title": "Never Back Down 2: The Beatdown",
+          "year": 2011,
+          "note": "Named as one of his spotty-but-reliable direct-to-video run — White is top-billed in this sequel."
         },
         {
           "title": "Never Back Down: No Surrender",
@@ -677,6 +677,9 @@
       "Just Like Us (Ringer podcast promo)"
     ]
   },
+  "tmdbOverrides": {
+    "Snake Eyes": 568620
+  },
   "tmdb": {
     "Uncharted": {
       "id": 335787,
@@ -715,10 +718,10 @@
       "year": 2014
     },
     "Snake Eyes": {
-      "id": 1568025,
-      "poster": "/gQFfYYJLOjStXI1liax4VMzWS3X.jpg",
-      "title": "Snake Eyes",
-      "year": null
+      "id": 568620,
+      "poster": "/uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg",
+      "title": "Snake Eyes: G.I. Joe Origins",
+      "year": 2021
     },
     "Mile 22": {
       "id": 347375,
@@ -960,11 +963,11 @@
       "title": "Undisputed II: Last Man Standing",
       "year": 2006
     },
-    "Never Back Down": {
-      "id": 8456,
-      "poster": "/8oRUTyP1QAtGDMvRpKZyuyFPG0U.jpg",
-      "title": "Never Back Down",
-      "year": 2008
+    "Never Back Down 2: The Beatdown": {
+      "id": 70006,
+      "poster": "/7VjtTMQpfy9GxMyjUfuYTfyatZz.jpg",
+      "title": "Never Back Down 2: The Beatdown",
+      "year": 2011
     },
     "Never Back Down: No Surrender": {
       "id": 391757,

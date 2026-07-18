@@ -230,9 +230,9 @@
         "Silent Friend",
         "Sound of Falling",
         "Magellan",
-        "Below the Clouds",
+        "Pompei: Below the Clouds",
         "Our Land",
-        "Epic: The Elvis Presley Movie",
+        "EPiC: Elvis Presley in Concert",
         "Blue Film",
         "My Father's Shadow",
         "The Furious",
@@ -244,7 +244,7 @@
       "films": [
         "Artificial",
         "After the Hunt",
-        "Cutoff",
+        "Cut Off",
         "The Rip",
         "Michael",
         "Wildwood",
@@ -300,6 +300,20 @@
       ]
     }
   ],
+  "tmdbOverrides": {
+    "Cut Off": 1451148,
+    "Remake": 1329909,
+    "Our Land": 661603,
+    "Ebenezer": 1567605,
+    "Sense and Sensibility": 1503762,
+    "Street Fighter": 1153576,
+    "The Hunt for Gollum": 1090869,
+    "The War of the Rohirrim": 839033,
+    "Love, Weddings and Other Disasters": 627103,
+    "Treasure of the Sierra Madre": 3090,
+    "Three Billboards": 359940,
+    "The Fantastic Four: First Steps": 617126
+  },
   "excluded": {
     "TV": [
       "Andor",
@@ -572,10 +586,10 @@
       "year": 2026
     },
     "Remake": {
-      "id": 367012,
-      "poster": "/pUbzcFBGNi47c2j9UrFc1p36HXT.jpg",
+      "id": 1329909,
+      "poster": "/zcN0Sv43IKkp5jrr0kNgqSkkpOk.jpg",
       "title": "Remake",
-      "year": 2003
+      "year": 2026
     },
     "Silent Friend": {
       "id": 1168719,
@@ -595,14 +609,24 @@
       "title": "Magellan",
       "year": 2025
     },
-    "Below the Clouds": null,
+    "Pompei: Below the Clouds": {
+      "id": 1457188,
+      "poster": "/xbmmOezxwLIOdjq7adujO6RyjTs.jpg",
+      "title": "Pompei: Below the Clouds",
+      "year": 2025
+    },
     "Our Land": {
-      "id": 1480446,
-      "poster": "/cZRLNNdUahZgs2NccHxfr3ZasrH.jpg",
+      "id": 661603,
+      "poster": "/1gXQmNpaKvjskAxfHWwdpK4IeHN.jpg",
       "title": "Our Land",
       "year": 2026
     },
-    "Epic: The Elvis Presley Movie": null,
+    "EPiC: Elvis Presley in Concert": {
+      "id": 1445363,
+      "poster": "/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg",
+      "title": "EPiC: Elvis Presley in Concert",
+      "year": 2026
+    },
     "Blue Film": {
       "id": 1398655,
       "poster": "/7wECL45CnlFWsiadBHwArgVJ1nL.jpg",
@@ -639,11 +663,11 @@
       "title": "After the Hunt",
       "year": 2025
     },
-    "Cutoff": {
-      "id": 653842,
-      "poster": "/uN4N7s6jeeAsSriiRmatcbKzr3s.jpg",
-      "title": "Cutoff",
-      "year": 2019
+    "Cut Off": {
+      "id": 1451148,
+      "poster": null,
+      "title": "Cut Off",
+      "year": null
     },
     "The Rip": {
       "id": 1306368,
@@ -718,16 +742,16 @@
       "year": 2027
     },
     "Street Fighter": {
-      "id": 11667,
-      "poster": "/6yh95dD2Y6uWAlPfWCZZygBM1ec.jpg",
+      "id": 1153576,
+      "poster": "/wOnoOeDcsLSo72ON1UC6c1VHKk1.jpg",
       "title": "Street Fighter",
-      "year": 1994
+      "year": 2026
     },
     "Sense and Sensibility": {
-      "id": 4584,
-      "poster": "/9YdQ73YmvInxpXZVNjEKePw9tRO.jpg",
+      "id": 1503762,
+      "poster": "/sYzWktm1YwJydX92fbSOWHJs33m.jpg",
       "title": "Sense and Sensibility",
-      "year": 1995
+      "year": 2026
     },
     "A Place in Hell": {
       "id": 1437882,
@@ -735,15 +759,30 @@
       "title": "A Place in Hell",
       "year": 2026
     },
-    "The Hunt for Gollum": null,
-    "The War of the Rohirrim": null,
-    "Ebenezer": {
-      "id": 35385,
-      "poster": "/xlm0SlkateLi0396bmD0WfS3g2X.jpg",
-      "title": "Ebenezer",
-      "year": 1998
+    "The Hunt for Gollum": {
+      "id": 1090869,
+      "poster": "/gL7CybVuRKOVNr3UGYqroo4c8i0.jpg",
+      "title": "The Lord of the Rings: The Hunt for Gollum",
+      "year": 2027
     },
-    "Love, Weddings and Other Disasters": null,
+    "The War of the Rohirrim": {
+      "id": 839033,
+      "poster": "/23WCoDo6wzBfzbX7BGTNwVUqZfi.jpg",
+      "title": "The Lord of the Rings: The War of the Rohirrim",
+      "year": 2024
+    },
+    "Ebenezer": {
+      "id": 1567605,
+      "poster": null,
+      "title": "Ebenezer: A Christmas Carol",
+      "year": 2026
+    },
+    "Love, Weddings and Other Disasters": {
+      "id": 627103,
+      "poster": "/5NyNfNop1gOLapYUdCA2VwCwbvk.jpg",
+      "title": "Love, Weddings & Other Disasters",
+      "year": 2020
+    },
     "Nosferatu": {
       "id": 426063,
       "poster": "/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",
@@ -774,7 +813,12 @@
       "title": "Beowulf",
       "year": 2007
     },
-    "Treasure of the Sierra Madre": null,
+    "Treasure of the Sierra Madre": {
+      "id": 3090,
+      "poster": "/pWcst7zVbi8Z8W6GFrdNE7HHRxL.jpg",
+      "title": "The Treasure of the Sierra Madre",
+      "year": 1948
+    },
     "Michael Clayton": {
       "id": 4566,
       "poster": "/hhkW4yVIGo8Bee3UITKvqOvhNMG.jpg",
@@ -805,7 +849,12 @@
       "title": "Seven Psychopaths",
       "year": 2012
     },
-    "Three Billboards": null,
+    "Three Billboards": {
+      "id": 359940,
+      "poster": "/bRYLt8fV82tdVoDppSFTZIcJiLN.jpg",
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "year": 2017
+    },
     "In Bruges": {
       "id": 8321,
       "poster": "/vz3Vd6nfq9YZrVvyYx5RHFaYKV3.jpg",
@@ -884,7 +933,12 @@
       "title": "The Smashing Machine",
       "year": 2025
     },
-    "The Fantastic Four: First Steps": null,
+    "The Fantastic Four: First Steps": {
+      "id": 617126,
+      "poster": "/nf5qaSEvyYSNeFH0YhSs5EsBLX9.jpg",
+      "title": "The Fantastic 4: First Steps",
+      "year": 2025
+    },
     "Ghostbusters": {
       "id": 43074,
       "poster": "/wJmWliwXIgZOCCVOcGRBhce7xPS.jpg",

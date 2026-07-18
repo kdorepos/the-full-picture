@@ -1,0 +1,393 @@
+{
+  "slug": "the-avengers-marvel-month",
+  "title": "'The Avengers' | Marvel Month",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Chris Ryan"
+  ],
+  "published": "2019-04-05",
+  "runtimeMin": 63,
+  "format": "The second Marvel Month installment. Sean Fennessey and Chris Ryan revisit Joss Whedon's 2012 team-up, working through the deconstructionist streak in Whedon's writing, the eight scenes of relationship-building the movie is actually made of, and the post-9/11 anxieties baked into a 40-minute battle for New York.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Marvel Month: 'The Avengers'",
+      "note": "installment two",
+      "films": [
+        {
+          "title": "The Avengers",
+          "year": 2012,
+          "note": "Chris Ryan's pick, and the movie that tested whether solo album, solo album, group album could actually work. Sean argues Joss Whedon is a deconstructionist, better at analyzing a genre than escalating it, and that the film is really eight scenes long, mostly gatherings where six characters work out their relationships to one another rather than a plot moving forward. Whedon wrote a full Braveheart-style monologue for every character, then cut most of them down into one-liners ('Bunch up, Legolas'); the meta-comedy ('What, this, Shakespeare in the park?') and Natasha Romanoff, the character Whedon plainly likes writing the most, are the high points. The 40-minute battle for New York is where both hosts get less generous rewatching it: a post-9/11 city-destruction metaphor the movie can't quite hold, fought against faceless Chitauri nobody has any reason to care about, though Jeremy Renner's Hawkeye gets singled out as the single biggest waste of an actor in the whole MCU. $623 million domestic, $1.5 billion worldwide, 143 minutes, 92% on Rotten Tomatoes, an A+ CinemaScore, and the first Disney-distributed Marvel movie. Agent Coulson's death supplies the one real emotional stake; the two stingers, the Thanos reveal and the shawarma scene, set the template for everything the MCU has done with a credits sequence since."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Elsewhere in the MCU",
+      "films": [
+        "Iron Man",
+        "Iron Man 2",
+        "Iron Man 3",
+        "The Incredible Hulk",
+        "Thor",
+        "Captain America: The First Avenger",
+        "Captain America: The Winter Soldier",
+        "Captain America: Civil War",
+        "Avengers: Age of Ultron",
+        "Avengers: Infinity War",
+        "Avengers: Endgame",
+        "Ant-Man",
+        "Ant-Man and the Wasp",
+        "Doctor Strange",
+        "Guardians of the Galaxy",
+        "Spider-Man: Homecoming",
+        "Black Panther",
+        "Captain Marvel",
+        "Thor: Ragnarok",
+        "Eternals"
+      ]
+    },
+    {
+      "group": "Whedon's writing credits",
+      "films": [
+        "Serenity",
+        "Toy Story",
+        "Alien Resurrection",
+        "The Cabin in the Woods",
+        "Much Ado About Nothing"
+      ]
+    },
+    {
+      "group": "Touchstones Whedon cited as influences",
+      "films": [
+        "Black Hawk Down",
+        "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "The Abyss",
+        "His Girl Friday"
+      ]
+    },
+    {
+      "group": "Other directors' post-MCU careers",
+      "films": [
+        "Justice League",
+        "Jojo Rabbit",
+        "Knives Out",
+        "Star Wars: The Last Jedi",
+        "Safety Not Guaranteed",
+        "Jurassic World"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Zodiac",
+        "The Hurt Locker",
+        "The Town",
+        "Mission: Impossible - Ghost Protocol",
+        "The Pickup Artist",
+        "Walkabout",
+        "Arrival",
+        "Reservoir Dogs",
+        "The Adventures of Buckaroo Banzai Across the 8th Dimension",
+        "The Parallax View"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Killing Eve",
+      "Game of Thrones",
+      "Buffy the Vampire Slayer",
+      "Firefly",
+      "Agents of S.H.I.E.L.D.",
+      "Beverly Hills, 90210"
+    ],
+    "Shorts": [
+      "A Funny Thing Happened on the Way to Thor's Hammer"
+    ]
+  },
+  "tmdbOverrides": {
+    "Much Ado About Nothing": 91739
+  },
+  "tmdb": {
+    "The Avengers": {
+      "id": 24428,
+      "poster": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "title": "The Avengers",
+      "year": 2012
+    },
+    "Iron Man": {
+      "id": 1726,
+      "poster": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "title": "Iron Man",
+      "year": 2008
+    },
+    "Iron Man 2": {
+      "id": 10138,
+      "poster": "/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+      "title": "Iron Man 2",
+      "year": 2010
+    },
+    "Iron Man 3": {
+      "id": 68721,
+      "poster": "/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+      "title": "Iron Man 3",
+      "year": 2013
+    },
+    "The Incredible Hulk": {
+      "id": 1724,
+      "poster": "/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
+      "title": "The Incredible Hulk",
+      "year": 2008
+    },
+    "Thor": {
+      "id": 10195,
+      "poster": "/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
+      "title": "Thor",
+      "year": 2011
+    },
+    "Captain America: The First Avenger": {
+      "id": 1771,
+      "poster": "/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+      "title": "Captain America: The First Avenger",
+      "year": 2011
+    },
+    "Captain America: The Winter Soldier": {
+      "id": 100402,
+      "poster": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+      "title": "Captain America: The Winter Soldier",
+      "year": 2014
+    },
+    "Captain America: Civil War": {
+      "id": 271110,
+      "poster": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+      "title": "Captain America: Civil War",
+      "year": 2016
+    },
+    "Avengers: Age of Ultron": {
+      "id": 99861,
+      "poster": "/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+      "title": "Avengers: Age of Ultron",
+      "year": 2015
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Ant-Man": {
+      "id": 102899,
+      "poster": "/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg",
+      "title": "Ant-Man",
+      "year": 2015
+    },
+    "Ant-Man and the Wasp": {
+      "id": 363088,
+      "poster": "/cFQEO687n1K6umXbInzocxcnAQz.jpg",
+      "title": "Ant-Man and the Wasp",
+      "year": 2018
+    },
+    "Doctor Strange": {
+      "id": 284052,
+      "poster": "/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg",
+      "title": "Doctor Strange",
+      "year": 2016
+    },
+    "Guardians of the Galaxy": {
+      "id": 118340,
+      "poster": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "title": "Guardians of the Galaxy",
+      "year": 2014
+    },
+    "Spider-Man: Homecoming": {
+      "id": 315635,
+      "poster": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+      "title": "Spider-Man: Homecoming",
+      "year": 2017
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "Captain Marvel": {
+      "id": 299537,
+      "poster": "/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+      "title": "Captain Marvel",
+      "year": 2019
+    },
+    "Thor: Ragnarok": {
+      "id": 284053,
+      "poster": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "title": "Thor: Ragnarok",
+      "year": 2017
+    },
+    "Eternals": {
+      "id": 524434,
+      "poster": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+      "title": "Eternals",
+      "year": 2021
+    },
+    "Serenity": {
+      "id": 16320,
+      "poster": "/4sqUOaPFoP2W81mq1UYqZqf5WzA.jpg",
+      "title": "Serenity",
+      "year": 2005
+    },
+    "Toy Story": {
+      "id": 862,
+      "poster": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+      "title": "Toy Story",
+      "year": 1995
+    },
+    "Alien Resurrection": {
+      "id": 8078,
+      "poster": "/9aRDMlU5Zwpysilm0WCWzU2PCFv.jpg",
+      "title": "Alien Resurrection",
+      "year": 1997
+    },
+    "The Cabin in the Woods": {
+      "id": 22970,
+      "poster": "/zZZe5wn0udlhMtdlDjN4NB72R6e.jpg",
+      "title": "The Cabin in the Woods",
+      "year": 2012
+    },
+    "Much Ado About Nothing": {
+      "id": 91739,
+      "poster": "/kDUEegV4P8odhUTjHE2e2kWMZo3.jpg",
+      "title": "Much Ado About Nothing",
+      "year": 2013
+    },
+    "Black Hawk Down": {
+      "id": 855,
+      "poster": "/7fU5dSqKRL4XHeEUz62rCKBfYok.jpg",
+      "title": "Black Hawk Down",
+      "year": 2001
+    },
+    "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb": {
+      "id": 935,
+      "poster": "/6x7MzQ6BOMlRzam1StcmPO9v61g.jpg",
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "year": 1964
+    },
+    "The Abyss": {
+      "id": 2756,
+      "poster": "/2dCit3XAtv9KWCJvRKdPkJ0FAkH.jpg",
+      "title": "The Abyss",
+      "year": 1989
+    },
+    "His Girl Friday": {
+      "id": 3085,
+      "poster": "/lu86Y9zTPH3neCiUzLzHCEFHf7f.jpg",
+      "title": "His Girl Friday",
+      "year": 1940
+    },
+    "Justice League": {
+      "id": 141052,
+      "poster": "/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
+      "title": "Justice League",
+      "year": 2017
+    },
+    "Jojo Rabbit": {
+      "id": 515001,
+      "poster": "/1mqL7VG4Ix8wmxwypmCA1HTHBky.jpg",
+      "title": "Jojo Rabbit",
+      "year": 2019
+    },
+    "Knives Out": {
+      "id": 546554,
+      "poster": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+      "title": "Knives Out",
+      "year": 2019
+    },
+    "Star Wars: The Last Jedi": {
+      "id": 181808,
+      "poster": "/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
+      "title": "Star Wars: The Last Jedi",
+      "year": 2017
+    },
+    "Safety Not Guaranteed": {
+      "id": 84332,
+      "poster": "/gH0l9kiaK1Ulalbq07nqR7jtin5.jpg",
+      "title": "Safety Not Guaranteed",
+      "year": 2012
+    },
+    "Jurassic World": {
+      "id": 135397,
+      "poster": "/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
+      "title": "Jurassic World",
+      "year": 2015
+    },
+    "Zodiac": {
+      "id": 1949,
+      "poster": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+      "title": "Zodiac",
+      "year": 2007
+    },
+    "The Hurt Locker": {
+      "id": 12162,
+      "poster": "/io2dfBJhasvGbgkCX9cCGVOiA99.jpg",
+      "title": "The Hurt Locker",
+      "year": 2008
+    },
+    "The Town": {
+      "id": 23168,
+      "poster": "/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
+      "title": "The Town",
+      "year": 2010
+    },
+    "Mission: Impossible - Ghost Protocol": {
+      "id": 56292,
+      "poster": "/eRZTGx7GsiKqPch96k27LK005ZL.jpg",
+      "title": "Mission: Impossible - Ghost Protocol",
+      "year": 2011
+    },
+    "The Pickup Artist": {
+      "id": 17258,
+      "poster": "/qMhtuRY6iF5akKeKd0t6BeM0mJT.jpg",
+      "title": "The Pick-up Artist",
+      "year": 1987
+    },
+    "Walkabout": {
+      "id": 36040,
+      "poster": "/24vooYt5StgtgcQObVr1GHuM5gy.jpg",
+      "title": "Walkabout",
+      "year": 1971
+    },
+    "Arrival": {
+      "id": 329865,
+      "poster": "/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
+      "title": "Arrival",
+      "year": 2016
+    },
+    "Reservoir Dogs": {
+      "id": 500,
+      "poster": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+      "title": "Reservoir Dogs",
+      "year": 1992
+    },
+    "The Adventures of Buckaroo Banzai Across the 8th Dimension": {
+      "id": 11379,
+      "poster": "/jWZh2ChereoxKgTl3AmSAKNpnmO.jpg",
+      "title": "The Adventures of Buckaroo Banzai Across the 8th Dimension",
+      "year": 1984
+    },
+    "The Parallax View": {
+      "id": 17365,
+      "poster": "/83mQRrNO9ewz0qLSJcGp4nGBRr.jpg",
+      "title": "The Parallax View",
+      "year": 1974
+    }
+  }
+}

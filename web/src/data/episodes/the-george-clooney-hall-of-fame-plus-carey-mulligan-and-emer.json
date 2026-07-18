@@ -1,0 +1,476 @@
+{
+  "slug": "the-george-clooney-hall-of-fame-plus-carey-mulligan-and-emer",
+  "title": "The George Clooney Hall of Fame. Plus: Carey Mulligan and Emerald Fennell!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2020-12-23",
+  "runtimeMin": 113,
+  "format": "Ten movies to enshrine George Clooney, then Carey Mulligan and Emerald Fennell on Promising Young Woman.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Will Dune skip HBO Max?",
+      "note": "breaking news",
+      "films": [
+        {
+          "title": "Dune",
+          "year": 2021,
+          "note": "Reports out of a Deadline Q&A suggest it might dodge Warner Bros.' day-and-date HBO Max plan, likely thanks to a contract dispute with Legendary."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "The Midnight Sky",
+      "films": [
+        {
+          "title": "The Midnight Sky",
+          "year": 2020,
+          "note": "Clooney directs and stars as a scientist crossing the Arctic to warn a returning spaceship crew of a global catastrophe. The hosts call it well-intentioned but draggy, and read it as Clooney working through fatherhood."
+        }
+      ]
+    },
+    {
+      "kind": "halloffame",
+      "heading": "The George Clooney Hall of Fame",
+      "honoree": "George Clooney",
+      "films": [
+        {
+          "title": "Batman & Robin",
+          "year": 1997,
+          "note": "A genuine bomb Clooney is still embarrassed by, but the hosts argue it's the most important movie of his career: its failure is what scared studios into Sam Raimi, Bryan Singer, and eventually Christopher Nolan."
+        },
+        {
+          "title": "Out of Sight",
+          "year": 1998,
+          "note": "The essence-of-Clooney pick, and the start of the Soderbergh partnership that redirected his whole career."
+        },
+        {
+          "title": "Three Kings",
+          "year": 1999,
+          "note": "Notoriously tense shoot with David O. Russell; nearly got traded out for The Perfect Storm before making the final cut."
+        },
+        {
+          "title": "The Perfect Storm",
+          "year": 2000,
+          "note": "The blockbuster that proved Clooney could carry a mainstream hit after Batman & Robin."
+        },
+        {
+          "title": "O Brother, Where Art Thou?",
+          "year": 2000,
+          "note": "Where the wide-eyed, goofball Coen brothers version of Clooney shows up."
+        },
+        {
+          "title": "Ocean's Eleven",
+          "year": 2001,
+          "note": "No debate here."
+        },
+        {
+          "title": "Good Night, and Good Luck.",
+          "year": 2005,
+          "note": "His most personal film as a director, an homage to his newsman father, with Clooney scaled back as Fred Friendly."
+        },
+        {
+          "title": "Michael Clayton",
+          "year": 2007,
+          "note": "The hosts' pick for his best performance, though he lost the Oscar to Daniel Day-Lewis in There Will Be Blood."
+        },
+        {
+          "title": "Fantastic Mr. Fox",
+          "year": 2009,
+          "note": "The curveball pick, in for a voice performance that leans on the sheer sound of him."
+        },
+        {
+          "title": "The Descendants",
+          "year": 2011,
+          "note": "The last great Clooney leading performance before the pivot toward directing and producing."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Carey Mulligan and Emerald Fennell on",
+      "films": [
+        {
+          "title": "Promising Young Woman",
+          "year": 2020,
+          "note": "Fennell's directorial debut, starring Mulligan as a woman avenging a friend. They discuss the tone (a deliberately candy-colored mood board), the comedic cast, and Mulligan's executive producer credit."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Considered for the Hall of Fame",
+      "films": [
+        "From Dusk Till Dawn",
+        "One Fine Day",
+        "The Peacemaker",
+        "The Thin Red Line",
+        "Confessions of a Dangerous Mind",
+        "Solaris",
+        "Welcome to Collinwood",
+        "Intolerable Cruelty",
+        "Ocean's Twelve",
+        "Syriana",
+        "The Good German",
+        "Ocean's Thirteen",
+        "Leatherheads",
+        "Burn After Reading",
+        "The Men Who Stare at Goats",
+        "Up in the Air",
+        "The American",
+        "The Ides of March",
+        "Gravity",
+        "The Monuments Men",
+        "Tomorrowland",
+        "Hail, Caesar!",
+        "Money Monster",
+        "Suburbicon"
+      ]
+    },
+    {
+      "group": "Recommended by Mulligan and Fennell",
+      "films": [
+        "Minari",
+        "Zola",
+        "Palm Springs",
+        "Night of the Hunter"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Return of the Killer Tomatoes",
+        "Red Surf",
+        "Grizzly II: Revenge",
+        "Deep Impact",
+        "Argo",
+        "Save the Last Dance",
+        "Ma Rainey's Black Bottom"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Solaris": 2103,
+    "Night of the Hunter": 3112
+  },
+  "excluded": {
+    "TV": [
+      "ER",
+      "Facts of Life",
+      "Growing Pains",
+      "Friends",
+      "Catch-22",
+      "Killing Eve",
+      "The Crown",
+      "Hey Duggie",
+      "The Last Dance"
+    ],
+    "Games": [
+      "FIFA World Cup Launch Edition"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "NOS Energy",
+      "Carvana",
+      "Priceline",
+      "Shopify"
+    ]
+  },
+  "tmdb": {
+    "Dune": {
+      "id": 438631,
+      "poster": "/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "title": "Dune",
+      "year": 2021
+    },
+    "The Midnight Sky": {
+      "id": 614911,
+      "poster": "/l8lXesOLXKS0VYjzWNZN6gDxv2F.jpg",
+      "title": "The Midnight Sky",
+      "year": 2020
+    },
+    "Batman & Robin": {
+      "id": 415,
+      "poster": "/i7hEUpDuMN2LOrCEifFyGSHZQSY.jpg",
+      "title": "Batman & Robin",
+      "year": 1997
+    },
+    "Out of Sight": {
+      "id": 1389,
+      "poster": "/v49q7AMR3pB4M762woWB1NYMCLF.jpg",
+      "title": "Out of Sight",
+      "year": 1998
+    },
+    "Three Kings": {
+      "id": 6415,
+      "poster": "/fClJQW8xn8wHOFqoA4jUn0PZh1f.jpg",
+      "title": "Three Kings",
+      "year": 1999
+    },
+    "The Perfect Storm": {
+      "id": 2133,
+      "poster": "/vJPoxqgpfFNbGi0HyoNsjFeLCio.jpg",
+      "title": "The Perfect Storm",
+      "year": 2000
+    },
+    "O Brother, Where Art Thou?": {
+      "id": 134,
+      "poster": "/s9foMAcLg8GEzzQzer04qOGdD1k.jpg",
+      "title": "O Brother, Where Art Thou?",
+      "year": 2000
+    },
+    "Ocean's Eleven": {
+      "id": 161,
+      "poster": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+      "title": "Ocean's Eleven",
+      "year": 2001
+    },
+    "Good Night, and Good Luck.": {
+      "id": 3291,
+      "poster": "/w4QSEno2xxHqMtSr3mPUhJpO3F2.jpg",
+      "title": "Good Night, and Good Luck.",
+      "year": 2005
+    },
+    "Michael Clayton": {
+      "id": 4566,
+      "poster": "/hhkW4yVIGo8Bee3UITKvqOvhNMG.jpg",
+      "title": "Michael Clayton",
+      "year": 2007
+    },
+    "Fantastic Mr. Fox": {
+      "id": 10315,
+      "poster": "/euZyZb6iGreujYKrGyZHRddhUYh.jpg",
+      "title": "Fantastic Mr. Fox",
+      "year": 2009
+    },
+    "The Descendants": {
+      "id": 65057,
+      "poster": "/8cDq5UlOPYeKm39okALCEOsZPxk.jpg",
+      "title": "The Descendants",
+      "year": 2011
+    },
+    "Promising Young Woman": {
+      "id": 582014,
+      "poster": "/73QoFJFmUrJfDG2EynFjNc5gJxk.jpg",
+      "title": "Promising Young Woman",
+      "year": 2020
+    },
+    "From Dusk Till Dawn": {
+      "id": 755,
+      "poster": "/sV3kIAmvJ9tPz4Lq5fuf9LLMxte.jpg",
+      "title": "From Dusk Till Dawn",
+      "year": 1996
+    },
+    "One Fine Day": {
+      "id": 7300,
+      "poster": "/5NiRRR7JDNHOr21JNoGRxPWh9vb.jpg",
+      "title": "One Fine Day",
+      "year": 1996
+    },
+    "The Peacemaker": {
+      "id": 6623,
+      "poster": "/hc3p6pvIrfO4AmrVLb6qTviOwW2.jpg",
+      "title": "The Peacemaker",
+      "year": 1997
+    },
+    "The Thin Red Line": {
+      "id": 8741,
+      "poster": "/seMydAaoxQP6F0xbE1jOcTmn5Jr.jpg",
+      "title": "The Thin Red Line",
+      "year": 1998
+    },
+    "Confessions of a Dangerous Mind": {
+      "id": 4912,
+      "poster": "/mM58ABMRzwn5zVx6BS7IiNK0j3F.jpg",
+      "title": "Confessions of a Dangerous Mind",
+      "year": 2002
+    },
+    "Solaris": {
+      "id": 2103,
+      "poster": "/drdrB1hEZmzFlK1xtW5HMxK3LUJ.jpg",
+      "title": "Solaris",
+      "year": 2002
+    },
+    "Welcome to Collinwood": {
+      "id": 9260,
+      "poster": "/7XyvoOopwWwDCWOcItOQiAwm30b.jpg",
+      "title": "Welcome to Collinwood",
+      "year": 2002
+    },
+    "Intolerable Cruelty": {
+      "id": 11775,
+      "poster": "/7K8hDwOWsZv0MluyrB8nWlhJOgB.jpg",
+      "title": "Intolerable Cruelty",
+      "year": 2003
+    },
+    "Ocean's Twelve": {
+      "id": 163,
+      "poster": "/pE5anFf7nf6ah7V3VRezQ1KSovi.jpg",
+      "title": "Ocean's Twelve",
+      "year": 2004
+    },
+    "Syriana": {
+      "id": 231,
+      "poster": "/mO3hWUTOxmLJxihvDU0YFkb0Mb5.jpg",
+      "title": "Syriana",
+      "year": 2005
+    },
+    "The Good German": {
+      "id": 182,
+      "poster": "/3LjHC2CWDkzoiPehf3GViujws0.jpg",
+      "title": "The Good German",
+      "year": 2006
+    },
+    "Ocean's Thirteen": {
+      "id": 298,
+      "poster": "/pBsZs4zYUiUTemqbikTZ76iQRaU.jpg",
+      "title": "Ocean's Thirteen",
+      "year": 2007
+    },
+    "Leatherheads": {
+      "id": 4942,
+      "poster": "/dl2yu8iuwG3dqbpjalm2odadRaH.jpg",
+      "title": "Leatherheads",
+      "year": 2008
+    },
+    "Burn After Reading": {
+      "id": 4944,
+      "poster": "/jdwSkQu3XirmX18MNj8CqFWsCk.jpg",
+      "title": "Burn After Reading",
+      "year": 2008
+    },
+    "The Men Who Stare at Goats": {
+      "id": 10313,
+      "poster": "/5boJKypPQmgABssbKOk2RvsCnSv.jpg",
+      "title": "The Men Who Stare at Goats",
+      "year": 2009
+    },
+    "Up in the Air": {
+      "id": 22947,
+      "poster": "/useGH8nfwlaHK44IWEZdUYJOE2N.jpg",
+      "title": "Up in the Air",
+      "year": 2009
+    },
+    "The American": {
+      "id": 27579,
+      "poster": "/5OEOsRaBsSxD0qBtAhus0iKDzr.jpg",
+      "title": "The American",
+      "year": 2010
+    },
+    "The Ides of March": {
+      "id": 10316,
+      "poster": "/w8t4UnJnC24S9ygoaFgmMzRbErd.jpg",
+      "title": "The Ides of March",
+      "year": 2011
+    },
+    "Gravity": {
+      "id": 49047,
+      "poster": "/kZ2nZw8D681aphje8NJi8EfbL1U.jpg",
+      "title": "Gravity",
+      "year": 2013
+    },
+    "The Monuments Men": {
+      "id": 152760,
+      "poster": "/wiWAg4mKV2S4vImPxsPRIdj2R2B.jpg",
+      "title": "The Monuments Men",
+      "year": 2014
+    },
+    "Tomorrowland": {
+      "id": 158852,
+      "poster": "/kziYpr5Nfw60P0My8aj1sgCEqed.jpg",
+      "title": "Tomorrowland",
+      "year": 2015
+    },
+    "Hail, Caesar!": {
+      "id": 270487,
+      "poster": "/qvecZ7WyemhGW8fuJ8190p472jQ.jpg",
+      "title": "Hail, Caesar!",
+      "year": 2016
+    },
+    "Money Monster": {
+      "id": 303858,
+      "poster": "/DlgdAkAKirD01R1mBejhFjS6nQ.jpg",
+      "title": "Money Monster",
+      "year": 2016
+    },
+    "Suburbicon": {
+      "id": 395458,
+      "poster": "/yqYwf0kPK2SaCWM80msl4nYK6U7.jpg",
+      "title": "Suburbicon",
+      "year": 2017
+    },
+    "Minari": {
+      "id": 615643,
+      "poster": "/6mPNdmjdbVKPITv3LLCmQoKs9Zw.jpg",
+      "title": "Minari",
+      "year": 2021
+    },
+    "Zola": {
+      "id": 539565,
+      "poster": "/bJLCPROp9bmNndurwZpVnOioVpB.jpg",
+      "title": "Zola",
+      "year": 2021
+    },
+    "Palm Springs": {
+      "id": 587792,
+      "poster": "/gnAfqiV7yO3Jq9IntTmwkcaICqc.jpg",
+      "title": "Palm Springs",
+      "year": 2020
+    },
+    "Night of the Hunter": {
+      "id": 3112,
+      "poster": "/rBka0nFWiHxabHRLr0KfIA8Yiaq.jpg",
+      "title": "The Night of the Hunter",
+      "year": 1955
+    },
+    "Return of the Killer Tomatoes": {
+      "id": 15482,
+      "poster": "/gO6mxCEMcyP6teOQb32Yvq9ERCA.jpg",
+      "title": "Return of the Killer Tomatoes!",
+      "year": 1988
+    },
+    "Red Surf": {
+      "id": 46251,
+      "poster": "/5KJThkJk8wI66CBYRmrh25zENNM.jpg",
+      "title": "Red Surf",
+      "year": 1989
+    },
+    "Grizzly II: Revenge": {
+      "id": 38258,
+      "poster": "/dKHoRIicgHLoNPKiRJpRPHd96Gx.jpg",
+      "title": "Grizzly II: Revenge",
+      "year": 2020
+    },
+    "Deep Impact": {
+      "id": 8656,
+      "poster": "/a3vQS7JKqlOb3MdVJHuTCP9s7Mg.jpg",
+      "title": "Deep Impact",
+      "year": 1998
+    },
+    "Argo": {
+      "id": 68734,
+      "poster": "/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
+      "title": "Argo",
+      "year": 2012
+    },
+    "Save the Last Dance": {
+      "id": 9816,
+      "poster": "/sV8GIxT3BjHIiwgKUNwk1S8VSLa.jpg",
+      "title": "Save the Last Dance",
+      "year": 2001
+    },
+    "Ma Rainey's Black Bottom": {
+      "id": 615667,
+      "poster": "/pvtyxijaBrCSbByXLcUIDDSvc40.jpg",
+      "title": "Ma Rainey's Black Bottom",
+      "year": 2020
+    }
+  }
+}

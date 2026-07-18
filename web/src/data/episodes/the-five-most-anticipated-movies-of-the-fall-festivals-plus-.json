@@ -155,7 +155,7 @@
           "title": "Ad Astra",
           "year": 2019,
           "by": "Amanda Dobbins",
-          "note": "Nearly cracked her top five — James Gray and Brad Pitt."
+          "note": "Nearly cracked her top five: James Gray and Brad Pitt."
         },
         {
           "title": "Hustlers",
@@ -191,7 +191,7 @@
           "title": "The Burnt Orange Heresy",
           "year": 2019,
           "by": "Sean Fennessey",
-          "note": "Wasn't on either's list going in — an Italian-directed art-heist thriller shot on Lake Como with Elizabeth Debicki, Donald Sutherland, and Mick Jagger, closing out Venice."
+          "note": "Wasn't on either's list going in: an Italian-directed art-heist thriller shot on Lake Como with Elizabeth Debicki, Donald Sutherland, and Mick Jagger, closing out Venice."
         },
         {
           "title": "First Cow",
@@ -226,7 +226,7 @@
         {
           "title": "The Aeronauts",
           "year": 2019,
-          "note": "Tom Harper directs Eddie Redmayne and Felicity Jones in a survivalist hot-air-balloon adventure for Amazon, which is shrinking its own theatrical windows the same way Netflix is — this one moves to Prime two weeks after release."
+          "note": "Tom Harper directs Eddie Redmayne and Felicity Jones in a survivalist hot-air-balloon adventure for Amazon, which is shrinking its own theatrical windows the same way Netflix is: this one moves to Prime two weeks after release."
         },
         {
           "title": "Just Mercy",
@@ -291,7 +291,7 @@
       ]
     },
     {
-      "group": "Dolomite Is My Name's writers' track record",
+      "group": "Dolemite Is My Name's writers' track record",
       "films": [
         "Hustle & Flow",
         "Ed Wood",
@@ -416,6 +416,13 @@
       "The Ringer's Fantasy Football Hall of Fame",
       "The Dannacy Football Podcast"
     ]
+  },
+  "tmdbOverrides": {
+    "Henry V": 10705,
+    "War Machine": 354287,
+    "Safe": 32646,
+    "The Climb": 595931,
+    "Shang-Chi": 566525
   },
   "tmdb": {
     "The Laundromat": {
@@ -575,10 +582,10 @@
       "year": 2019
     },
     "The Climb": {
-      "id": 979140,
-      "poster": null,
+      "id": 595931,
+      "poster": "/x6f60UzIXfkFNofg7GTzMygegFc.jpg",
       "title": "The Climb",
-      "year": null
+      "year": 2020
     },
     "Seberg": {
       "id": 510298,
@@ -683,10 +690,10 @@
       "year": 1965
     },
     "Henry V": {
-      "id": 22638,
-      "poster": "/eAisr20DvaKJeHvjDN0oHSx0l7u.jpg",
+      "id": 10705,
+      "poster": "/w9R2HsYNnfF3m9uEo2UAmPNJr8a.jpg",
       "title": "Henry V",
-      "year": 1944
+      "year": 1989
     },
     "Kramer vs. Kramer": {
       "id": 12102,
@@ -743,10 +750,10 @@
       "year": 2014
     },
     "War Machine": {
-      "id": 1265609,
-      "poster": "/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",
+      "id": 354287,
+      "poster": "/bU2Q2rCH5VFrJNKSyx6wSmQZFsX.jpg",
       "title": "War Machine",
-      "year": 2026
+      "year": 2017
     },
     "Animal Kingdom": {
       "id": 44629,
@@ -791,10 +798,10 @@
       "year": 2019
     },
     "Safe": {
-      "id": 72387,
-      "poster": "/kOCpkoMUVae9UIf85gO71SyjLbW.jpg",
+      "id": 32646,
+      "poster": "/2O71QsBkbqdLqQdx2yuNpJ4pFPq.jpg",
       "title": "Safe",
-      "year": 2012
+      "year": 1995
     },
     "Far From Heaven": {
       "id": 10712,
@@ -808,7 +815,12 @@
       "title": "Short Term 12",
       "year": 2013
     },
-    "Shang-Chi": null,
+    "Shang-Chi": {
+      "id": 566525,
+      "poster": "/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "year": 2021
+    },
     "War Dogs": {
       "id": 308266,
       "poster": "/mDcPRjZC1bb6LavFU3gwsWdVfCM.jpg",

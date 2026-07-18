@@ -1,0 +1,609 @@
+{
+  "slug": "the-great-avatar-debate-with-blank-checks-griffin-newman-and",
+  "title": "The Great 'Avatar' Debate with Blank Check's Griffin Newman and David Sims",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessy"
+  ],
+  "published": "2022-10-04",
+  "runtimeMin": 108,
+  "format": "Sean sits down with Griffin Newman and David Sims of Blank Check to relitigate Avatar during its theatrical re-release. They detour through the Matt Damon casting what-if before previewing The Way of Water.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "The Great Avatar Debate",
+      "note": "with Griffin Newman & David Sims of Blank Check",
+      "films": [
+        {
+          "title": "Avatar",
+          "year": 2009,
+          "note": "Revisited on the strength of a 13-year theatrical re-release. The trio dig into why it's the biggest movie ever made and also the one with no cultural footprint, whether Matt Damon as Jake Sully would have helped or hurt, Zoe Saldana's motion-capture performance, and how deliberately broad and cliche-built the story is."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Previewing The Way of Water",
+      "note": "after the break",
+      "films": [
+        {
+          "title": "Avatar: The Way of Water",
+          "year": 2022,
+          "note": "Cameron shot two sequels back to back and has scripts for two more. The trio weigh whether a marketing campaign built entirely on nostalgia rather than plot can pull off the original's theatrical run."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Cameron's other work",
+      "films": [
+        "Titanic",
+        "The Abyss",
+        "Ghosts of the Abyss",
+        "Aliens of the Deep",
+        "Terminator 2: Judgment Day",
+        "Aliens",
+        "Deepsea Challenge 3D"
+      ]
+    },
+    {
+      "group": "The Matt Damon what-if",
+      "films": [
+        "The Departed",
+        "Invictus",
+        "Green Zone",
+        "Hereafter",
+        "True Grit",
+        "Contagion",
+        "We Bought a Zoo",
+        "Margaret",
+        "Behind the Candelabra",
+        "Interstellar",
+        "The Adjustment Bureau",
+        "Ponyo",
+        "The Great Wall",
+        "Promised Land",
+        "Manchester by the Sea"
+      ]
+    },
+    {
+      "group": "Rewatch comparisons",
+      "films": [
+        "Jurassic Park",
+        "This Is the End",
+        "Dune",
+        "Top Gun: Maverick",
+        "Dances with Wolves",
+        "The Last Samurai",
+        "Galaxy Quest",
+        "Boogie Nights",
+        "Lawrence of Arabia",
+        "The Last of the Mohicans"
+      ]
+    },
+    {
+      "group": "Blockbuster culture",
+      "films": [
+        "Iron Man",
+        "The Incredible Hulk",
+        "The Amazing Spider-Man",
+        "Spider-Man: No Way Home",
+        "Black Panther",
+        "Black Panther: Wakanda Forever",
+        "Avengers: Infinity War",
+        "Avengers: Endgame",
+        "Jurassic World",
+        "Jurassic World Dominion",
+        "Minions: The Rise of Gru",
+        "Black Adam",
+        "Doctor Strange in the Multiverse of Madness",
+        "Ant-Man and the Wasp: Quantumania",
+        "The Woman King",
+        "Divergent",
+        "E.T. the Extra-Terrestrial",
+        "Star Wars",
+        "Star Wars: The Force Awakens",
+        "Star Wars: The Last Jedi",
+        "The Dark Knight",
+        "F9"
+      ]
+    },
+    {
+      "group": "Oscar season chatter",
+      "films": [
+        "The Hurt Locker",
+        "CODA",
+        "TAR",
+        "The Fabelmans",
+        "Women Talking",
+        "Empire of Light",
+        "Everything Everywhere All at Once",
+        "Babylon",
+        "Glass Onion: A Knives Out Mystery",
+        "Napoleon",
+        "Raiders of the Lost Ark",
+        "Rocky II"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Mission: Impossible - Dead Reckoning Part One",
+        "Wendell & Wild",
+        "Disenchanted",
+        "White Noise",
+        "Knock at the Cabin"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "How To with John Wilson",
+      "The Mandalorian"
+    ],
+    "Games": [
+      "Avatar (the since-shuttered mobile/MMO tie-in)"
+    ],
+    "Live shows": [
+      "Cirque du Soleil's Avatar show"
+    ],
+    "Unreleased or cancelled": [
+      "Rogue Squadron",
+      "untitled Taika Waititi Star Wars film",
+      "Masters of the Universe reboot"
+    ],
+    "Ads": [
+      "Gamblers (Ringer podcast promo)",
+      "Boar's Head",
+      "Netflix's FIFA World Cup game",
+      "FanDuel",
+      "Carvana",
+      "Pepsi"
+    ]
+  },
+  "tmdbOverrides": {
+    "TAR": 817758
+  },
+  "tmdb": {
+    "Avatar": {
+      "id": 19995,
+      "poster": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "title": "Avatar",
+      "year": 2009
+    },
+    "Avatar: The Way of Water": {
+      "id": 76600,
+      "poster": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "title": "Avatar: The Way of Water",
+      "year": 2022
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "The Abyss": {
+      "id": 2756,
+      "poster": "/2dCit3XAtv9KWCJvRKdPkJ0FAkH.jpg",
+      "title": "The Abyss",
+      "year": 1989
+    },
+    "Ghosts of the Abyss": {
+      "id": 24982,
+      "poster": "/aSht7L9Mnr1zc4hDJTOwPuTfnV8.jpg",
+      "title": "Ghosts of the Abyss",
+      "year": 2003
+    },
+    "Aliens of the Deep": {
+      "id": 22559,
+      "poster": "/fr93LZw0vilOK42vbWCgtekyMpQ.jpg",
+      "title": "Aliens of the Deep",
+      "year": 2005
+    },
+    "Terminator 2: Judgment Day": {
+      "id": 280,
+      "poster": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991
+    },
+    "Aliens": {
+      "id": 679,
+      "poster": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "title": "Aliens",
+      "year": 1986
+    },
+    "Deepsea Challenge 3D": {
+      "id": 276909,
+      "poster": "/uX0mbL2qtZ6b04s8leGjealE9fS.jpg",
+      "title": "Deepsea Challenge 3D",
+      "year": 2014
+    },
+    "The Departed": {
+      "id": 1422,
+      "poster": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+      "title": "The Departed",
+      "year": 2006
+    },
+    "Invictus": {
+      "id": 22954,
+      "poster": "/runuhBAAX7PmdjGhqRKCyl4bh7z.jpg",
+      "title": "Invictus",
+      "year": 2009
+    },
+    "Green Zone": {
+      "id": 22972,
+      "poster": "/czFIaeukSxNEccysQeys1PCkuOG.jpg",
+      "title": "Green Zone",
+      "year": 2010
+    },
+    "Hereafter": {
+      "id": 44603,
+      "poster": "/nOy0X8XSmSDOuwV8pqT70WoWHwT.jpg",
+      "title": "Hereafter",
+      "year": 2010
+    },
+    "True Grit": {
+      "id": 44264,
+      "poster": "/tCrB8pcjadZjsDk7rleGJaIv78k.jpg",
+      "title": "True Grit",
+      "year": 2010
+    },
+    "Contagion": {
+      "id": 39538,
+      "poster": "/qL0IooP0bjXy0KXl9KEyPo22ll0.jpg",
+      "title": "Contagion",
+      "year": 2011
+    },
+    "We Bought a Zoo": {
+      "id": 74465,
+      "poster": "/dcOvIqdsojUdAtWt1nPT9xS76Su.jpg",
+      "title": "We Bought a Zoo",
+      "year": 2011
+    },
+    "Margaret": {
+      "id": 44754,
+      "poster": "/zqBao8uRH6TQAJd13tqC22vPB76.jpg",
+      "title": "Margaret",
+      "year": 2011
+    },
+    "Behind the Candelabra": {
+      "id": 119675,
+      "poster": "/iodt6hrewVXxR415PIjBeuZg3Qs.jpg",
+      "title": "Behind the Candelabra",
+      "year": 2013
+    },
+    "Interstellar": {
+      "id": 157336,
+      "poster": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+      "title": "Interstellar",
+      "year": 2014
+    },
+    "The Adjustment Bureau": {
+      "id": 38050,
+      "poster": "/5ZzeR8iz1nEFLp94OBnbakLZawo.jpg",
+      "title": "The Adjustment Bureau",
+      "year": 2011
+    },
+    "Ponyo": {
+      "id": 12429,
+      "poster": "/yp8vEZflGynlEylxEesbYasc06i.jpg",
+      "title": "Ponyo",
+      "year": 2008
+    },
+    "The Great Wall": {
+      "id": 311324,
+      "poster": "/p70dq1YxabemdZDm5K6Q8G10wSn.jpg",
+      "title": "The Great Wall",
+      "year": 2016
+    },
+    "Promised Land": {
+      "id": 133694,
+      "poster": "/5C0b6Wu4Z0V4NuA1cD8SZU7FCkb.jpg",
+      "title": "Promised Land",
+      "year": 2012
+    },
+    "Manchester by the Sea": {
+      "id": 334541,
+      "poster": "/o9VXYOuaJxCEKOxbA86xqtwmqYn.jpg",
+      "title": "Manchester by the Sea",
+      "year": 2016
+    },
+    "Jurassic Park": {
+      "id": 329,
+      "poster": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "title": "Jurassic Park",
+      "year": 1993
+    },
+    "This Is the End": {
+      "id": 109414,
+      "poster": "/tNIW0NhX1hKvUsy6PQ80DOKUhkD.jpg",
+      "title": "This Is the End",
+      "year": 2013
+    },
+    "Dune": {
+      "id": 438631,
+      "poster": "/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "title": "Dune",
+      "year": 2021
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Dances with Wolves": {
+      "id": 581,
+      "poster": "/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg",
+      "title": "Dances with Wolves",
+      "year": 1990
+    },
+    "The Last Samurai": {
+      "id": 616,
+      "poster": "/a8jmJPs5eZBARmnuEEvZwbjwyz4.jpg",
+      "title": "The Last Samurai",
+      "year": 2003
+    },
+    "Galaxy Quest": {
+      "id": 926,
+      "poster": "/fZXSwgZknp81vmciTb86rw0MejV.jpg",
+      "title": "Galaxy Quest",
+      "year": 1999
+    },
+    "Boogie Nights": {
+      "id": 4995,
+      "poster": "/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg",
+      "title": "Boogie Nights",
+      "year": 1997
+    },
+    "Lawrence of Arabia": {
+      "id": 947,
+      "poster": "/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg",
+      "title": "Lawrence of Arabia",
+      "year": 1962
+    },
+    "The Last of the Mohicans": {
+      "id": 9361,
+      "poster": "/qzJMPWRtZveBkxXOv3ucWhoJuyj.jpg",
+      "title": "The Last of the Mohicans",
+      "year": 1992
+    },
+    "Iron Man": {
+      "id": 1726,
+      "poster": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "title": "Iron Man",
+      "year": 2008
+    },
+    "The Incredible Hulk": {
+      "id": 1724,
+      "poster": "/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
+      "title": "The Incredible Hulk",
+      "year": 2008
+    },
+    "The Amazing Spider-Man": {
+      "id": 1930,
+      "poster": "/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg",
+      "title": "The Amazing Spider-Man",
+      "year": 2012
+    },
+    "Spider-Man: No Way Home": {
+      "id": 634649,
+      "poster": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "title": "Spider-Man: No Way Home",
+      "year": 2021
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "Black Panther: Wakanda Forever": {
+      "id": 505642,
+      "poster": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+      "title": "Black Panther: Wakanda Forever",
+      "year": 2022
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Jurassic World": {
+      "id": 135397,
+      "poster": "/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
+      "title": "Jurassic World",
+      "year": 2015
+    },
+    "Jurassic World Dominion": {
+      "id": 507086,
+      "poster": "/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg",
+      "title": "Jurassic World Dominion",
+      "year": 2022
+    },
+    "Minions: The Rise of Gru": {
+      "id": 438148,
+      "poster": "/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg",
+      "title": "Minions: The Rise of Gru",
+      "year": 2022
+    },
+    "Black Adam": {
+      "id": 436270,
+      "poster": "/rCtreCr4xiYEWDQTebybolIh6Xe.jpg",
+      "title": "Black Adam",
+      "year": 2022
+    },
+    "Doctor Strange in the Multiverse of Madness": {
+      "id": 453395,
+      "poster": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "year": 2022
+    },
+    "Ant-Man and the Wasp: Quantumania": {
+      "id": 640146,
+      "poster": "/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "year": 2023
+    },
+    "The Woman King": {
+      "id": 724495,
+      "poster": "/438QXt1E3WJWb3PqNniK0tAE5c1.jpg",
+      "title": "The Woman King",
+      "year": 2022
+    },
+    "Divergent": {
+      "id": 157350,
+      "poster": "/aNh4Q3iuPKDMPi2SL7GgOpiLukX.jpg",
+      "title": "Divergent",
+      "year": 2014
+    },
+    "E.T. the Extra-Terrestrial": {
+      "id": 601,
+      "poster": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+      "title": "E.T. the Extra-Terrestrial",
+      "year": 1982
+    },
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
+    },
+    "Star Wars: The Force Awakens": {
+      "id": 140607,
+      "poster": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+      "title": "Star Wars: The Force Awakens",
+      "year": 2015
+    },
+    "Star Wars: The Last Jedi": {
+      "id": 181808,
+      "poster": "/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
+      "title": "Star Wars: The Last Jedi",
+      "year": 2017
+    },
+    "The Dark Knight": {
+      "id": 155,
+      "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    "F9": {
+      "id": 385128,
+      "poster": "/deEmLILTPejEb6OGsXRJ5MCvyDW.jpg",
+      "title": "F9",
+      "year": 2021
+    },
+    "The Hurt Locker": {
+      "id": 12162,
+      "poster": "/io2dfBJhasvGbgkCX9cCGVOiA99.jpg",
+      "title": "The Hurt Locker",
+      "year": 2008
+    },
+    "CODA": {
+      "id": 776503,
+      "poster": "/BzVjmm8l23rPsijLiNLUzuQtyd.jpg",
+      "title": "CODA",
+      "year": 2021
+    },
+    "TAR": {
+      "id": 817758,
+      "poster": "/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg",
+      "title": "TÁR",
+      "year": 2022
+    },
+    "The Fabelmans": {
+      "id": 804095,
+      "poster": "/h7llKkqkkJtJrTOaDLuVeUYDQ7I.jpg",
+      "title": "The Fabelmans",
+      "year": 2022
+    },
+    "Women Talking": {
+      "id": 777245,
+      "poster": "/wcTc9GveMMjAdHSlzdE0FaRCtqi.jpg",
+      "title": "Women Talking",
+      "year": 2022
+    },
+    "Empire of Light": {
+      "id": 814757,
+      "poster": "/h84SnIQF91Gz2Fv1OpMJ3245t4i.jpg",
+      "title": "Empire of Light",
+      "year": 2022
+    },
+    "Everything Everywhere All at Once": {
+      "id": 545611,
+      "poster": "/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+      "title": "Everything Everywhere All at Once",
+      "year": 2022
+    },
+    "Babylon": {
+      "id": 615777,
+      "poster": "/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+      "title": "Babylon",
+      "year": 2022
+    },
+    "Glass Onion: A Knives Out Mystery": {
+      "id": 661374,
+      "poster": "/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
+      "title": "Glass Onion: A Knives Out Mystery",
+      "year": 2022
+    },
+    "Napoleon": {
+      "id": 753342,
+      "poster": "/ytFOXyghxLzAM4KZyazDdEkM66q.jpg",
+      "title": "Napoleon",
+      "year": 2023
+    },
+    "Raiders of the Lost Ark": {
+      "id": 85,
+      "poster": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+      "title": "Raiders of the Lost Ark",
+      "year": 1981
+    },
+    "Rocky II": {
+      "id": 1367,
+      "poster": "/nMaiiu0CzT77U4JZkUYV7KqdAjK.jpg",
+      "title": "Rocky II",
+      "year": 1979
+    },
+    "Mission: Impossible - Dead Reckoning Part One": {
+      "id": 575264,
+      "poster": "/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "year": 2023
+    },
+    "Wendell & Wild": {
+      "id": 511817,
+      "poster": "/5dsX6UAHqkQz1kiV8bs8SvjyVNa.jpg",
+      "title": "Wendell & Wild",
+      "year": 2022
+    },
+    "Disenchanted": {
+      "id": 338958,
+      "poster": "/uyNLq2Dc3s4IOdcYTU8ZtM2lTjb.jpg",
+      "title": "Disenchanted",
+      "year": 2022
+    },
+    "White Noise": {
+      "id": 744594,
+      "poster": "/kesxNdLZlmGoTRspDHU1WgdEuGw.jpg",
+      "title": "White Noise",
+      "year": 2022
+    },
+    "Knock at the Cabin": {
+      "id": 631842,
+      "poster": "/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg",
+      "title": "Knock at the Cabin",
+      "year": 2023
+    }
+  }
+}

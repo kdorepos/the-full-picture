@@ -1,0 +1,207 @@
+{
+  "slug": "the-mcu-comes-to-tv-a-guide-to-wandavision",
+  "title": "The MCU Comes to TV: A Guide to ‘WandaVision’",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2021-01-18",
+  "runtimeMin": 67,
+  "format": "Sean and Amanda close the book on HBO's 'Tiger,' then Sean drags Amanda through the first two episodes of 'WandaVision' and everything you'd need to have read, watched, or Googled to understand it.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "'WandaVision' and its MCU homework",
+      "note": "the first two episodes",
+      "films": [
+        {
+          "title": "Iron Man",
+          "year": 2008,
+          "note": "First stop on Paul Bettany's Wikipedia bio, where he originates Jarvis before becoming Vision."
+        },
+        {
+          "title": "Iron Man 2",
+          "year": 2010
+        },
+        {
+          "title": "The Avengers",
+          "year": 2012
+        },
+        {
+          "title": "Iron Man 3",
+          "year": 2013
+        },
+        {
+          "title": "Thor: The Dark World",
+          "year": 2013,
+          "note": "One of the four movies Disney+ surfaced in its carousel as pre-'WandaVision' rewatch homework."
+        },
+        {
+          "title": "Avengers: Age of Ultron",
+          "year": 2015,
+          "note": "The movie that actually introduces Vision and Scarlet Witch, also part of the carousel homework."
+        },
+        {
+          "title": "Captain America: Civil War",
+          "year": 2016,
+          "note": "Carousel homework."
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "year": 2018,
+          "note": "Wanda pulls the Mind Stone from Vision's head to save him; Thanos rewinds time and rips it out himself, killing him."
+        },
+        {
+          "title": "Captain Marvel",
+          "year": 2019,
+          "note": "Introduces a kid-age Monica Rambeau, now grown into WandaVision's nosy neighbor Geraldine."
+        },
+        {
+          "title": "Avengers: Endgame",
+          "year": 2019,
+          "note": "Carousel homework. Wanda gets her 'you took everything from me' showdown with Thanos; Vision doesn't get resurrected."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Mank",
+        "Bacurau",
+        "Never Rarely Sometimes Always"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Tiger",
+      "WandaVision",
+      "The Mandalorian",
+      "I Love Lucy",
+      "Leave It to Beaver",
+      "Bewitched",
+      "I Dream of Jeannie",
+      "Green Acres",
+      "Mr. Ed",
+      "The Donna Reed Show",
+      "The Brady Bunch",
+      "The Partridge Family",
+      "The Dick Van Dyke Show",
+      "The Adventures of Ozzie and Harriet",
+      "The Twilight Zone",
+      "Young Sheldon",
+      "Full House",
+      "Friends",
+      "Mom",
+      "Seinfeld",
+      "Hey Dude",
+      "Doug",
+      "Rugrats",
+      "Gilligan's Island",
+      "Clarissa Explains It All",
+      "The Baby-Sitters Club",
+      "The Facts of Life",
+      "Roseanne",
+      "Defending Jacob",
+      "The Last Dance",
+      "Beverly Hills, 90210",
+      "It's Always Sunny in Philadelphia",
+      "Game of Thrones"
+    ],
+    "Comics": [
+      "House of M"
+    ],
+    "Ads": [
+      "NOS Energy",
+      "Boar's Head",
+      "Talk About PD (Peyronie's Disease)",
+      "Netflix – FIFA World Cup Launch Edition",
+      "Carvana",
+      "Whole Foods Market"
+    ]
+  },
+  "tmdb": {
+    "Iron Man": {
+      "id": 1726,
+      "poster": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "title": "Iron Man",
+      "year": 2008
+    },
+    "Iron Man 2": {
+      "id": 10138,
+      "poster": "/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+      "title": "Iron Man 2",
+      "year": 2010
+    },
+    "The Avengers": {
+      "id": 24428,
+      "poster": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "title": "The Avengers",
+      "year": 2012
+    },
+    "Iron Man 3": {
+      "id": 68721,
+      "poster": "/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+      "title": "Iron Man 3",
+      "year": 2013
+    },
+    "Thor: The Dark World": {
+      "id": 76338,
+      "poster": "/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",
+      "title": "Thor: The Dark World",
+      "year": 2013
+    },
+    "Avengers: Age of Ultron": {
+      "id": 99861,
+      "poster": "/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+      "title": "Avengers: Age of Ultron",
+      "year": 2015
+    },
+    "Captain America: Civil War": {
+      "id": 271110,
+      "poster": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+      "title": "Captain America: Civil War",
+      "year": 2016
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    },
+    "Captain Marvel": {
+      "id": 299537,
+      "poster": "/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+      "title": "Captain Marvel",
+      "year": 2019
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "Bacurau": {
+      "id": 446159,
+      "poster": "/tBa4zMGzZUco26XT3WfZZCwQ76i.jpg",
+      "title": "Bacurau",
+      "year": 2019
+    },
+    "Never Rarely Sometimes Always": {
+      "id": 595671,
+      "poster": "/7yiSyQhhjTFphhfCUcn05tCQxyG.jpg",
+      "title": "Never Rarely Sometimes Always",
+      "year": 2020
+    }
+  }
+}

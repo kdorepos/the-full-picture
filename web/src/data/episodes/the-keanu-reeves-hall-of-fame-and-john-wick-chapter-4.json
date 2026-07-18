@@ -1,0 +1,633 @@
+{
+  "slug": "the-keanu-reeves-hall-of-fame-and-john-wick-chapter-4",
+  "title": "The Keanu Reeves Hall of Fame and ‘John Wick: Chapter 4’",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2023-03-24",
+  "runtimeMin": 111,
+  "format": "Sean and Amanda build a 10-film Keanu Reeves Hall of Fame ahead of 'John Wick: Chapter 4,' then Chad Stahelski returns to talk stunts, safety, and where the idea came from.",
+  "segments": [
+    {
+      "kind": "halloffame",
+      "heading": "The Keanu Reeves Hall of Fame",
+      "note": "10 films, built live",
+      "honoree": "Keanu Reeves",
+      "films": [
+        {
+          "title": "Bill & Ted's Excellent Adventure",
+          "year": 1989,
+          "note": "Ted Logan. Sean rewatched it and was chuckling rather than laughing out loud, but it's a lock for both hosts, a hard group to beat."
+        },
+        {
+          "title": "Point Break",
+          "year": 1991,
+          "note": "Kathryn Bigelow's surf-heist chase. Amanda meant to sample twenty minutes and watched the whole thing. Johnny Utah still turns up as a punchline decades later."
+        },
+        {
+          "title": "My Own Private Idaho",
+          "year": 1991,
+          "note": "The Gus Van Sant/Shakespeare riff with River Phoenix. Sean calls it a no-brainer for signature '90s indie cinema; Amanda's only hesitation is that it's really a River Phoenix showcase."
+        },
+        {
+          "title": "Speed",
+          "year": 1994,
+          "note": "The buzz cut and the steely action persona click into place here, opposite Sandra Bullock. 'The greenest of green,' an automatic in for both hosts."
+        },
+        {
+          "title": "The Devil's Advocate",
+          "year": 1997,
+          "note": "A Florida lawyer at Satan's law firm, opposite Al Pacino. Amanda argues Keanu's the weakest part of his own movie; Sean keeps it in as a personal pick anyway."
+        },
+        {
+          "title": "The Matrix",
+          "year": 1999,
+          "note": "Neo, the role Keanu was built for. Both hosts call it the most obvious green of the whole list and one of the most influential films of the last quarter century."
+        },
+        {
+          "title": "Hardball",
+          "year": 2001,
+          "note": "Keanu as a gambling addict coaching a Cabrini-Green kids' baseball team to pay off his debt. Sean fights for it and braces for the angry tweets."
+        },
+        {
+          "title": "Something's Gotta Give",
+          "year": 2003,
+          "note": "The Nancy Meyers rom-com opposite Diane Keaton and Jack Nicholson. Amanda's outright green on it, proof Keanu should've done more light comedy."
+        },
+        {
+          "title": "John Wick",
+          "year": 2014,
+          "note": "Nearly went direct-to-video before Lionsgate picked it up weeks before release. Invented its own fight style and relaunched Keanu's career; no argument from either host."
+        },
+        {
+          "title": "John Wick: Chapter 4",
+          "year": 2023,
+          "note": "The least dialogue Keanu's had in any Wick movie, which Sean argues is the achievement: acting as pure physical presence. Voted in live, over Chapter 2."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "'John Wick: Chapter 4'",
+      "note": "Today's release",
+      "films": [
+        {
+          "title": "John Wick: Chapter 4",
+          "year": 2023,
+          "note": "Chad Stahelski's nearly three-hour action movie, built around roughly six major set pieces across New York, Osaka, Berlin, and Paris: an Osaka Continental brawl, a waterfall nightclub fight against Scott Adkins, an Arc de Triomphe car chase, and a Sacre-Coeur staircase duel against Donnie Yen. Sean calls it the most fun action he's seen in years; both hosts agree the ending leaves the door open on whether Wick actually dies. Dedicated to Lance Reddick, who died the week of release."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Chad Stahelski on 'John Wick: Chapter 4'",
+      "guest": "Chad Stahelski on",
+      "films": [
+        {
+          "title": "John Wick: Chapter 4",
+          "year": 2023,
+          "note": "Stahelski traces the film back to a drunk conversation in a Tokyo hotel bar after Chapter 3's press tour: 'what if John Wick met a samurai?' He walks through casting Bill Skarsgard as the Marquis, his safety philosophy on set, and Lance Reddick's final day of shooting."
+        },
+        {
+          "title": "Project Wolf Hunting",
+          "year": 2022,
+          "note": "The last great thing Chad says he's seen: a Korean action movie he calls 'batshit crazy... entertaining in the craziest of ways.'"
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Considered for the Hall of Fame",
+      "films": [
+        "Youngblood",
+        "River's Edge",
+        "The Night Before",
+        "Permanent Record",
+        "The Prince of Pennsylvania",
+        "Dangerous Liaisons",
+        "Parenthood",
+        "I Love You to Death",
+        "Tune in Tomorrow",
+        "Bill & Ted's Bogus Journey",
+        "Bram Stoker's Dracula",
+        "Much Ado About Nothing",
+        "Even Cowgirls Get the Blues",
+        "Freaked",
+        "Little Buddha",
+        "Johnny Mnemonic",
+        "A Walk in the Clouds",
+        "Chain Reaction",
+        "Feeling Minnesota",
+        "The Last Time I Committed Suicide",
+        "The Replacements",
+        "The Watcher",
+        "The Gift",
+        "Sweet November",
+        "The Matrix Reloaded",
+        "The Matrix Revolutions",
+        "Constantine",
+        "Thumbsucker",
+        "A Scanner Darkly",
+        "The Lake House",
+        "Street Kings",
+        "The Day the Earth Stood Still",
+        "The Private Lives of Pippa Lee",
+        "Henry's Crime",
+        "Side by Side",
+        "Generation Um",
+        "Man of Tai Chi",
+        "47 Ronin",
+        "Knock Knock",
+        "Exposed",
+        "The Neon Demon",
+        "The Bad Batch",
+        "John Wick: Chapter 2",
+        "To the Bone",
+        "Siberia",
+        "Destination Wedding",
+        "John Wick: Chapter 3 - Parabellum",
+        "Always Be My Maybe",
+        "Toy Story 4",
+        "Bill & Ted Face the Music",
+        "The Matrix Resurrections",
+        "Replicas"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Ambulance",
+        "Forgetting Sarah Marshall",
+        "Death Game",
+        "Highlander",
+        "Atomic Blonde",
+        "Lawrence of Arabia",
+        "The Good, the Bad and the Ugly",
+        "In the Mood for Love",
+        "A Girl Walks Home Alone at Night"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Ted Lasso",
+      "Beef",
+      "Copenhagen Cowboy",
+      "Slow Horses",
+      "The Wire"
+    ],
+    "Podcasts": [
+      "Blackballed",
+      "The Rewatchables"
+    ],
+    "Ads": [
+      "FanDuel",
+      "FIFA World Cup Launch Edition",
+      "Boar's Head",
+      "Starbucks Frappuccino",
+      "Botox"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Night Before": 38966,
+    "Death Game": 86743
+  },
+  "tmdb": {
+    "Bill & Ted's Excellent Adventure": {
+      "id": 1648,
+      "poster": "/tV25lGWGWGEqUe3U0xjQTBgilSx.jpg",
+      "title": "Bill & Ted's Excellent Adventure",
+      "year": 1989
+    },
+    "Point Break": {
+      "id": 1089,
+      "poster": "/tlbERIghrQ4oofqlbF7H0K0EYnx.jpg",
+      "title": "Point Break",
+      "year": 1991
+    },
+    "My Own Private Idaho": {
+      "id": 468,
+      "poster": "/p9TF90Pb5yg2MNb2UztzyXktMm4.jpg",
+      "title": "My Own Private Idaho",
+      "year": 1991
+    },
+    "Speed": {
+      "id": 1637,
+      "poster": "/82PkCE4R95KhHICUDF7G4Ly2z3l.jpg",
+      "title": "Speed",
+      "year": 1994
+    },
+    "The Devil's Advocate": {
+      "id": 1813,
+      "poster": "/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg",
+      "title": "The Devil's Advocate",
+      "year": 1997
+    },
+    "The Matrix": {
+      "id": 603,
+      "poster": "/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+      "title": "The Matrix",
+      "year": 1999
+    },
+    "Hardball": {
+      "id": 20857,
+      "poster": "/9RMcwwnK8a9WCt8dVlwmtNsFCg3.jpg",
+      "title": "Hardball",
+      "year": 2001
+    },
+    "Something's Gotta Give": {
+      "id": 6964,
+      "poster": "/1cpdqe0SpiHzzbOLq9GDUUlZdSl.jpg",
+      "title": "Something's Gotta Give",
+      "year": 2003
+    },
+    "John Wick": {
+      "id": 245891,
+      "poster": "/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
+      "title": "John Wick",
+      "year": 2014
+    },
+    "John Wick: Chapter 4": {
+      "id": 603692,
+      "poster": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+      "title": "John Wick: Chapter 4",
+      "year": 2023
+    },
+    "Project Wolf Hunting": {
+      "id": 799379,
+      "poster": "/hmeIsFSClo5UBWxBiiCDCnDOYJY.jpg",
+      "title": "Project Wolf Hunting",
+      "year": 2022
+    },
+    "Youngblood": {
+      "id": 17465,
+      "poster": "/SLQRH3AlTJHXk6ZuW0yMAelMlj.jpg",
+      "title": "Youngblood",
+      "year": 1986
+    },
+    "River's Edge": {
+      "id": 21309,
+      "poster": "/bT68aKa9d7zDF7Z8MaskbWBRqzb.jpg",
+      "title": "River's Edge",
+      "year": 1986
+    },
+    "The Night Before": {
+      "id": 38966,
+      "poster": "/o3GOrWh7ytlKsdOGI77WFauZORr.jpg",
+      "title": "The Night Before",
+      "year": 1988
+    },
+    "Permanent Record": {
+      "id": 51321,
+      "poster": "/AsoyWPJwtuRJuHyMhXpcsK0XrbX.jpg",
+      "title": "Permanent Record",
+      "year": 1988
+    },
+    "The Prince of Pennsylvania": {
+      "id": 369775,
+      "poster": "/h8GSRQUFQe0vaJXQdhINaUCNsYi.jpg",
+      "title": "The Prince of Pennsylvania",
+      "year": 1988
+    },
+    "Dangerous Liaisons": {
+      "id": 859,
+      "poster": "/hFem30C3uJUd9smNy7rFLGVhKys.jpg",
+      "title": "Dangerous Liaisons",
+      "year": 1988
+    },
+    "Parenthood": {
+      "id": 1552,
+      "poster": "/e51tNNQBJpJi9xkyuj0QFhyBcz7.jpg",
+      "title": "Parenthood",
+      "year": 1989
+    },
+    "I Love You to Death": {
+      "id": 3101,
+      "poster": "/8LdWJLUfEa5JeUJ7SljJQMIJikZ.jpg",
+      "title": "I Love You to Death",
+      "year": 1990
+    },
+    "Tune in Tomorrow": {
+      "id": 41927,
+      "poster": "/cMabi4aTi9mYs29tFS5Bh2DSEPi.jpg",
+      "title": "Tune in Tomorrow...",
+      "year": 1990
+    },
+    "Bill & Ted's Bogus Journey": {
+      "id": 1649,
+      "poster": "/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+      "title": "Bill & Ted's Bogus Journey",
+      "year": 1991
+    },
+    "Bram Stoker's Dracula": {
+      "id": 6114,
+      "poster": "/4ZbUxjY5DZ7RCxGwvzSEr4rThd1.jpg",
+      "title": "Bram Stoker's Dracula",
+      "year": 1992
+    },
+    "Much Ado About Nothing": {
+      "id": 11971,
+      "poster": "/tvltGP6vYOkHdURag0jPSjhPUAV.jpg",
+      "title": "Much Ado About Nothing",
+      "year": 1993
+    },
+    "Even Cowgirls Get the Blues": {
+      "id": 34444,
+      "poster": "/20x8nm0nPXkYv04COAHFA2AHyAl.jpg",
+      "title": "Even Cowgirls Get the Blues",
+      "year": 1994
+    },
+    "Freaked": {
+      "id": 17796,
+      "poster": "/enQ9FBLo4bd7AHX78geP6qRSl9U.jpg",
+      "title": "Freaked",
+      "year": 1993
+    },
+    "Little Buddha": {
+      "id": 1689,
+      "poster": "/xy70xtdoKZ3PxlKkakwdhL3UFDQ.jpg",
+      "title": "Little Buddha",
+      "year": 1993
+    },
+    "Johnny Mnemonic": {
+      "id": 9886,
+      "poster": "/iH8Jgi8qvb7pnBfI8fVGaUbyRna.jpg",
+      "title": "Johnny Mnemonic",
+      "year": 1995
+    },
+    "A Walk in the Clouds": {
+      "id": 9560,
+      "poster": "/xencQzZnUWDRAOUydjf9PWet8Ae.jpg",
+      "title": "A Walk in the Clouds",
+      "year": 1995
+    },
+    "Chain Reaction": {
+      "id": 12123,
+      "poster": "/4ahjVHwXXsq5zK57ds8FwWY73MS.jpg",
+      "title": "Chain Reaction",
+      "year": 1996
+    },
+    "Feeling Minnesota": {
+      "id": 12656,
+      "poster": "/fCJ5eUZw6mGS53spQxGUu7rzFm1.jpg",
+      "title": "Feeling Minnesota",
+      "year": 1996
+    },
+    "The Last Time I Committed Suicide": {
+      "id": 34941,
+      "poster": "/5AM1oDIlsWBBLYecetUAHOWv9dW.jpg",
+      "title": "The Last Time I Committed Suicide",
+      "year": 1997
+    },
+    "The Replacements": {
+      "id": 10393,
+      "poster": "/6qerI41HqkdRlio1sG0d5HLZcFN.jpg",
+      "title": "The Replacements",
+      "year": 2000
+    },
+    "The Watcher": {
+      "id": 10685,
+      "poster": "/hsMvndtd3KPAvJ3q7zKZuNSB1R3.jpg",
+      "title": "The Watcher",
+      "year": 2000
+    },
+    "The Gift": {
+      "id": 2046,
+      "poster": "/nQdBE1P0r4ZrgGqy5EX8sL2kXG6.jpg",
+      "title": "The Gift",
+      "year": 2000
+    },
+    "Sweet November": {
+      "id": 1921,
+      "poster": "/3biEHZSBSYqSkawU2sQyNbLcjgE.jpg",
+      "title": "Sweet November",
+      "year": 2001
+    },
+    "The Matrix Reloaded": {
+      "id": 604,
+      "poster": "/aA5qHS0FbSXO8PxcxUIHbDrJyuh.jpg",
+      "title": "The Matrix Reloaded",
+      "year": 2003
+    },
+    "The Matrix Revolutions": {
+      "id": 605,
+      "poster": "/bkkS61w94ZVMNVd8KEyyJl2tnY5.jpg",
+      "title": "The Matrix Revolutions",
+      "year": 2003
+    },
+    "Constantine": {
+      "id": 561,
+      "poster": "/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg",
+      "title": "Constantine",
+      "year": 2005
+    },
+    "Thumbsucker": {
+      "id": 1546,
+      "poster": "/fBLjXNRkH0KuC5JEnGBUZx3SQw3.jpg",
+      "title": "Thumbsucker",
+      "year": 2005
+    },
+    "A Scanner Darkly": {
+      "id": 3509,
+      "poster": "/lUKudOpHICDj6A6SO7DdaZM4W48.jpg",
+      "title": "A Scanner Darkly",
+      "year": 2006
+    },
+    "The Lake House": {
+      "id": 2044,
+      "poster": "/tHpc1118dYWLnHZleGhwZxRbpae.jpg",
+      "title": "The Lake House",
+      "year": 2006
+    },
+    "Street Kings": {
+      "id": 1266,
+      "poster": "/iTO7sBfVTr7LUqiFtGeFW7g2Ncf.jpg",
+      "title": "Street Kings",
+      "year": 2008
+    },
+    "The Day the Earth Stood Still": {
+      "id": 10200,
+      "poster": "/vBgFSYmG5tb7GsZ3tHR0WNaWaxA.jpg",
+      "title": "The Day the Earth Stood Still",
+      "year": 2008
+    },
+    "The Private Lives of Pippa Lee": {
+      "id": 4475,
+      "poster": "/eHN6AaAcks2c8HTVaQzJKSJLp7h.jpg",
+      "title": "The Private Lives of Pippa Lee",
+      "year": 2009
+    },
+    "Henry's Crime": {
+      "id": 53172,
+      "poster": "/1i1sDWOZecbUZ4Yp9DG5UiTBBRl.jpg",
+      "title": "Henry's Crime",
+      "year": 2010
+    },
+    "Side by Side": {
+      "id": 110354,
+      "poster": "/qeeQ7rfTAXNYh4EqqdolFLkNwKM.jpg",
+      "title": "Side by Side",
+      "year": 2012
+    },
+    "Generation Um": {
+      "id": 124972,
+      "poster": "/8n1Ww3FZQ3VE8OU7vhHClFLzxZG.jpg",
+      "title": "Generation Um...",
+      "year": 2012
+    },
+    "Man of Tai Chi": {
+      "id": 76544,
+      "poster": "/wnuT1D0fsFu7chFLtcQqwPBaBVg.jpg",
+      "title": "Man of Tai Chi",
+      "year": 2013
+    },
+    "47 Ronin": {
+      "id": 64686,
+      "poster": "/xDHnmcroujCRG0ysYQaiswjbyHd.jpg",
+      "title": "47 Ronin",
+      "year": 2013
+    },
+    "Knock Knock": {
+      "id": 263472,
+      "poster": "/cUC4rUb1Cs2KMaZ6RD4uYUEEwls.jpg",
+      "title": "Knock Knock",
+      "year": 2015
+    },
+    "Exposed": {
+      "id": 331962,
+      "poster": "/nM26QosEfgjEegONCiNNrYMBTxD.jpg",
+      "title": "Exposed",
+      "year": 2016
+    },
+    "The Neon Demon": {
+      "id": 301365,
+      "poster": "/3rBo2AfWSlvsPmYFdJsNUMfkNIo.jpg",
+      "title": "The Neon Demon",
+      "year": 2016
+    },
+    "The Bad Batch": {
+      "id": 316154,
+      "poster": "/7o14VaMphEIzPwzeW6FP3A6zb4W.jpg",
+      "title": "The Bad Batch",
+      "year": 2017
+    },
+    "John Wick: Chapter 2": {
+      "id": 324552,
+      "poster": "/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg",
+      "title": "John Wick: Chapter 2",
+      "year": 2017
+    },
+    "To the Bone": {
+      "id": 401104,
+      "poster": "/pkdxhdB3dRUqazqoy9lzUvhayjc.jpg",
+      "title": "To the Bone",
+      "year": 2017
+    },
+    "Siberia": {
+      "id": 438689,
+      "poster": "/eGfIsvdrUhTlQOkxQIELU7obDYj.jpg",
+      "title": "Siberia",
+      "year": 2018
+    },
+    "Destination Wedding": {
+      "id": 489929,
+      "poster": "/ioj2FMnMgD0eHgYfd31HtWOtBWU.jpg",
+      "title": "Destination Wedding",
+      "year": 2018
+    },
+    "John Wick: Chapter 3 - Parabellum": {
+      "id": 458156,
+      "poster": "/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg",
+      "title": "John Wick: Chapter 3 - Parabellum",
+      "year": 2019
+    },
+    "Always Be My Maybe": {
+      "id": 513576,
+      "poster": "/3BO6pPa7qDcpPYct061Luh9fvst.jpg",
+      "title": "Always Be My Maybe",
+      "year": 2019
+    },
+    "Toy Story 4": {
+      "id": 301528,
+      "poster": "/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+      "title": "Toy Story 4",
+      "year": 2019
+    },
+    "Bill & Ted Face the Music": {
+      "id": 501979,
+      "poster": "/4V2nTPfeB59TcqJcUfQ9ziTi7VN.jpg",
+      "title": "Bill & Ted Face the Music",
+      "year": 2020
+    },
+    "The Matrix Resurrections": {
+      "id": 624860,
+      "poster": "/8c4a8kE7PizaGQQnditMmI1xbRp.jpg",
+      "title": "The Matrix Resurrections",
+      "year": 2021
+    },
+    "Replicas": {
+      "id": 300681,
+      "poster": "/hhPBTAn9b4TYOxc1JYNsX4BFAlW.jpg",
+      "title": "Replicas",
+      "year": 2018
+    },
+    "Ambulance": {
+      "id": 763285,
+      "poster": "/hUbgg3mMSbY9PlpTxBo4IFUVSd6.jpg",
+      "title": "Ambulance",
+      "year": 2022
+    },
+    "Forgetting Sarah Marshall": {
+      "id": 9870,
+      "poster": "/d4elOzyhNWVlxpG7BwigrumkFTe.jpg",
+      "title": "Forgetting Sarah Marshall",
+      "year": 2008
+    },
+    "Death Game": {
+      "id": 86743,
+      "poster": "/a4emMnKA9b9RjDgOeMKvVRBmXAT.jpg",
+      "title": "Death Game",
+      "year": 1977
+    },
+    "Highlander": {
+      "id": 8009,
+      "poster": "/8Z8dptJEypuLoOQro1WugD855YE.jpg",
+      "title": "Highlander",
+      "year": 1986
+    },
+    "Atomic Blonde": {
+      "id": 341013,
+      "poster": "/kV9R5h0Yct1kR8Hf8sJ1nX0Vz4x.jpg",
+      "title": "Atomic Blonde",
+      "year": 2017
+    },
+    "Lawrence of Arabia": {
+      "id": 947,
+      "poster": "/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg",
+      "title": "Lawrence of Arabia",
+      "year": 1962
+    },
+    "The Good, the Bad and the Ugly": {
+      "id": 429,
+      "poster": "/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+      "title": "The Good, the Bad and the Ugly",
+      "year": 1966
+    },
+    "In the Mood for Love": {
+      "id": 843,
+      "poster": "/iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg",
+      "title": "In the Mood for Love",
+      "year": 2000
+    },
+    "A Girl Walks Home Alone at Night": {
+      "id": 252171,
+      "poster": "/cd2rCE1nun7CESjBI8PGNEof1tb.jpg",
+      "title": "A Girl Walks Home Alone at Night",
+      "year": 2014
+    }
+  }
+}

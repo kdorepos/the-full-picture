@@ -24,7 +24,7 @@
         {
           "title": "The Exorcist",
           "year": 1973,
-          "note": "The comparison point all episode: a single mother's arc from cynicism to belief, and the uncrowded, single-location tension the new film can't replicate."
+          "note": "The comparison point throughout the episode: a single mother's arc from cynicism to belief, and the uncrowded, single-location tension the new film can't replicate."
         },
         {
           "title": "Halloween",
@@ -101,7 +101,7 @@
         {
           "title": "Terrified",
           "year": 2017,
-          "note": "Rugna's earlier film, referenced as his prior credit."
+          "note": "Rugna's previous film."
         },
         {
           "title": "Speak No Evil",
@@ -230,7 +230,7 @@
     {
       "kind": "awards",
       "heading": "The Horror Oscars",
-      "note": "best horror movie of the year, 2019–2023",
+      "note": "best horror movie of the year, 2019-2023",
       "categories": [
         {
           "name": "2019",
@@ -415,7 +415,7 @@
       "group": "In passing",
       "films": [
         "Chariots of Fire",
-        "The Covenant",
+        "Guy Ritchie's The Covenant",
         "Reptile",
         "Dicks: The Musical",
         "Foe",
@@ -423,7 +423,17 @@
         "Suicide Squad",
         "The Hunger Games",
         "The Hunger Games: The Ballad of Songbirds & Snakes",
-        "Infinity Pool"
+        "Infinity Pool",
+        "Final Cut",
+        "MaXXXine",
+        "Weapons",
+        "I Saw the TV Glow",
+        "Gerald's Game",
+        "Hush",
+        "Oculus",
+        "Ouija: Origin of Evil",
+        "River's Edge",
+        "Horizon: An American Saga"
       ]
     }
   ],
@@ -434,7 +444,8 @@
       "Righteous Gemstones",
       "Eastbound & Down",
       "Vice Principals",
-      "The Fall of the House of Usher"
+      "The Fall of the House of Usher",
+      "Midnight Mass"
     ],
     "Ads": [
       "Dissect podcast",
@@ -859,11 +870,11 @@
       "title": "Chariots of Fire",
       "year": 1981
     },
-    "The Covenant": {
-      "id": 9954,
-      "poster": "/r6jbhgqKao3K3in4eftu7gqgMNH.jpg",
-      "title": "The Covenant",
-      "year": 2006
+    "Guy Ritchie's The Covenant": {
+      "id": 882569,
+      "poster": "/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg",
+      "title": "Guy Ritchie's The Covenant",
+      "year": 2023
     },
     "Reptile": {
       "id": 866463,
@@ -912,6 +923,66 @@
       "poster": "/cQKyNm0Nz6KWiDBQF9w4aZAmOfC.jpg",
       "title": "Infinity Pool",
       "year": 2023
-    }
+    },
+    "Final Cut": {
+      "id": 852438,
+      "poster": "/hBUdnylt2a84PwGIPQcZDkCVB5M.jpg",
+      "title": "Final Cut",
+      "year": 2022
+    },
+    "MaXXXine": {
+      "id": 1023922,
+      "poster": "/ArvoFK6nlouZRxYmtIOUzKIrg90.jpg",
+      "title": "MaXXXine",
+      "year": 2024
+    },
+    "Weapons": {
+      "id": 1078605,
+      "poster": "/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+      "title": "Weapons",
+      "year": 2025
+    },
+    "I Saw the TV Glow": {
+      "id": 858017,
+      "poster": "/hS4GYkYpN1rfl4GIxyc02sCyfAj.jpg",
+      "title": "I Saw the TV Glow",
+      "year": 2024
+    },
+    "Gerald's Game": {
+      "id": 343674,
+      "poster": "/32dippiypDdaKv7XFEfUlQ7kPup.jpg",
+      "title": "Gerald's Game",
+      "year": 2017
+    },
+    "Hush": {
+      "id": 376570,
+      "poster": "/tyqD4C2vVKrvP3FkFK0GS9IWbTo.jpg",
+      "title": "Hush",
+      "year": 2016
+    },
+    "Oculus": {
+      "id": 157547,
+      "poster": "/yCzR1yKRLiJyTDLgY1ppazXEmdE.jpg",
+      "title": "Oculus",
+      "year": 2014
+    },
+    "Ouija: Origin of Evil": {
+      "id": 335796,
+      "poster": "/gwynHc2RrOFaplYMMpQRpr3TIA4.jpg",
+      "title": "Ouija: Origin of Evil",
+      "year": 2016
+    },
+    "River's Edge": {
+      "id": 21309,
+      "poster": "/bT68aKa9d7zDF7Z8MaskbWBRqzb.jpg",
+      "title": "River's Edge",
+      "year": 1986
+    },
+    "Horizon: An American Saga": null
+  },
+  "tmdbOverrides": {
+    "Oculus": 157547,
+    "Weapons": 1078605,
+    "River's Edge": 21309
   }
 }

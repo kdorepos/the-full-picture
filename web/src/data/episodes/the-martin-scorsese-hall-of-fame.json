@@ -1,0 +1,428 @@
+{
+  "slug": "the-martin-scorsese-hall-of-fame",
+  "title": "The Martin Scorsese Hall of Fame",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessy",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2023-10-03",
+  "runtimeMin": 124,
+  "format": "Sean, Amanda, and Chris Ryan spend two hours building a 10-slot Martin Scorsese Hall of Fame ahead of 'Killers of the Flower Moon,' fighting over the last two spots the whole way.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Zach Baron's GQ profile, and an end-of-career reckoning",
+      "note": "before the hall of fame",
+      "films": [
+        {
+          "title": "Killers of the Flower Moon",
+          "year": 2023,
+          "note": "Scorsese's first film in four years, the news hook for the episode. Not eligible for the Hall of Fame since nobody's seen it yet."
+        }
+      ]
+    },
+    {
+      "kind": "halloffame",
+      "heading": "The Martin Scorsese Hall of Fame",
+      "honoree": "Martin Scorsese",
+      "note": "ten slots, built film by film across his whole filmography",
+      "films": [
+        {
+          "title": "Alice Doesn't Live Here Anymore",
+          "year": 1974,
+          "note": "The late curveball pick over Mean Streets, added for Ellen Burstyn's Oscar-winning turn and a rare Scorsese movie centered on a woman."
+        },
+        {
+          "title": "Taxi Driver",
+          "year": 1976,
+          "note": "An easy green, called one of the five movies he'll be remembered for. Landed at No. 29 on the 2022 Sight and Sound poll."
+        },
+        {
+          "title": "The Last Waltz",
+          "year": 1978,
+          "note": "The Band's farewell concert film, a 'definitive green' for capturing Dylan, Clapton, Joni Mitchell, and Robertson on one stage."
+        },
+        {
+          "title": "Raging Bull",
+          "year": 1980,
+          "note": "An automatic green. De Niro's Jake LaMotta transformation is called one of the most virtuosic filmmaking performances ever made."
+        },
+        {
+          "title": "The King of Comedy",
+          "year": 1982,
+          "note": "A hard green for Chris and Sean: a prescient black comedy about celebrity, made when Scorsese felt shut out of Hollywood entirely."
+        },
+        {
+          "title": "Goodfellas",
+          "year": 1990,
+          "note": "The unanimous pick, the one movie that came up when all three hosts described what first taught them how to watch movies."
+        },
+        {
+          "title": "Casino",
+          "year": 1995,
+          "note": "Added late, edging out Age of Innocence and The Color of Money, even as the hosts admit it retreads Goodfellas' ground."
+        },
+        {
+          "title": "The Departed",
+          "year": 2006,
+          "note": "His Best Picture and Best Director winner, singled out for kaleidoscopic editing and needle drops the hosts call a new mode for him."
+        },
+        {
+          "title": "The Wolf of Wall Street",
+          "year": 2013,
+          "note": "Called an 'auto green,' Leo's best performance and a satire of capitalism the hosts say has only gotten more prescient."
+        },
+        {
+          "title": "The Irishman",
+          "year": 2019,
+          "note": "The closing slot, a meditation on mortality that caps the Goodfellas/Casino gangster throughline, the last pick before the group turns to Killers."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Discussed and cut",
+      "films": [
+        "Mean Streets",
+        "New York, New York",
+        "After Hours",
+        "The Color of Money",
+        "The Last Temptation of Christ",
+        "Kundun",
+        "Bringing Out the Dead",
+        "Gangs of New York",
+        "The Aviator",
+        "The Age of Innocence",
+        "Shutter Island",
+        "Hugo",
+        "Silence",
+        "No Direction Home: Bob Dylan"
+      ]
+    },
+    {
+      "group": "Early films and shorts",
+      "films": [
+        "Who's That Knocking at My Door",
+        "The Big Shave",
+        "Italianamerican",
+        "American Boy: A Profile of Steven Prince",
+        "Boxcar Bertha",
+        "New York Stories"
+      ]
+    },
+    {
+      "group": "Scorsese's other documentaries",
+      "films": [
+        "A Personal Journey with Martin Scorsese Through American Movies",
+        "Feel Like Going Home",
+        "Lady by the Sea: The Statue of Liberty",
+        "Shine a Light",
+        "A Letter to Elia",
+        "Public Speaking",
+        "George Harrison: Living in the Material World",
+        "The 50 Year Argument",
+        "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+        "Personality Crisis: One Night Only"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Joker",
+        "The Exorcist: Believer",
+        "The Flash"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "New York, New York": 12637,
+    "Who's That Knocking at My Door": 42694,
+    "Feel Like Going Home": 1153796,
+    "Public Speaking": 54793
+  },
+  "excluded": {
+    "TV": [
+      "Ted Lasso",
+      "Vinyl",
+      "Boardwalk Empire",
+      "Better Call Saul"
+    ],
+    "Ads": [
+      "Dissect",
+      "FIFA World Cup Launch Edition",
+      "Carvana",
+      "Boar's Head",
+      "FanDuel Sportsbook",
+      "Starbucks"
+    ],
+    "Music videos": [
+      "Bad",
+      "Somewhere Down the Crazy River"
+    ]
+  },
+  "tmdb": {
+    "Killers of the Flower Moon": {
+      "id": 466420,
+      "poster": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+      "title": "Killers of the Flower Moon",
+      "year": 2023
+    },
+    "Alice Doesn't Live Here Anymore": {
+      "id": 16153,
+      "poster": "/A99yzz1W3NCG6zR2HXSwn2kWlse.jpg",
+      "title": "Alice Doesn't Live Here Anymore",
+      "year": 1974
+    },
+    "Taxi Driver": {
+      "id": 103,
+      "poster": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "title": "Taxi Driver",
+      "year": 1976
+    },
+    "The Last Waltz": {
+      "id": 13963,
+      "poster": "/2K7CFH0AIHnGrA4yQjPCoIB5CmQ.jpg",
+      "title": "The Last Waltz",
+      "year": 1978
+    },
+    "Raging Bull": {
+      "id": 1578,
+      "poster": "/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
+      "title": "Raging Bull",
+      "year": 1980
+    },
+    "The King of Comedy": {
+      "id": 262,
+      "poster": "/m24EbHxT9NGYEkOlu29YcLOgjgK.jpg",
+      "title": "The King of Comedy",
+      "year": 1982
+    },
+    "Goodfellas": {
+      "id": 769,
+      "poster": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+      "title": "GoodFellas",
+      "year": 1990
+    },
+    "Casino": {
+      "id": 524,
+      "poster": "/gziIkUSnYuj9ChCi8qOu2ZunpSC.jpg",
+      "title": "Casino",
+      "year": 1995
+    },
+    "The Departed": {
+      "id": 1422,
+      "poster": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+      "title": "The Departed",
+      "year": 2006
+    },
+    "The Wolf of Wall Street": {
+      "id": 106646,
+      "poster": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+      "title": "The Wolf of Wall Street",
+      "year": 2013
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Mean Streets": {
+      "id": 203,
+      "poster": "/9msfwOeGc9uL1iRRTBdEf15XonC.jpg",
+      "title": "Mean Streets",
+      "year": 1973
+    },
+    "New York, New York": {
+      "id": 12637,
+      "poster": "/1nD40aUcPAxYdE1WxERrTjZuFGe.jpg",
+      "title": "New York, New York",
+      "year": 1977
+    },
+    "After Hours": {
+      "id": 10843,
+      "poster": "/eamOBurHBu0MIxohTIVcfxmZ6Z7.jpg",
+      "title": "After Hours",
+      "year": 1985
+    },
+    "The Color of Money": {
+      "id": 11873,
+      "poster": "/dVdnHmdQu3JtLAAksjTmTEF76gD.jpg",
+      "title": "The Color of Money",
+      "year": 1986
+    },
+    "The Last Temptation of Christ": {
+      "id": 11051,
+      "poster": "/7L4qwrC1mipZXJfU5oRgQWChLv1.jpg",
+      "title": "The Last Temptation of Christ",
+      "year": 1988
+    },
+    "Kundun": {
+      "id": 9746,
+      "poster": "/yvdFRDoQIQ5PBk4u8x8gJT8NJAw.jpg",
+      "title": "Kundun",
+      "year": 1997
+    },
+    "Bringing Out the Dead": {
+      "id": 8649,
+      "poster": "/gE2Q8mL0m0EA6HakRyc92uzSPJn.jpg",
+      "title": "Bringing Out the Dead",
+      "year": 1999
+    },
+    "Gangs of New York": {
+      "id": 3131,
+      "poster": "/lemqKtcCuAano5aqrzxYiKC8kkn.jpg",
+      "title": "Gangs of New York",
+      "year": 2002
+    },
+    "The Aviator": {
+      "id": 2567,
+      "poster": "/lx4kWcZc3o9PaNxlQpEJZM17XUI.jpg",
+      "title": "The Aviator",
+      "year": 2004
+    },
+    "The Age of Innocence": {
+      "id": 10436,
+      "poster": "/5Tuyt26v7qNR8Cl3m7ZRx36rduf.jpg",
+      "title": "The Age of Innocence",
+      "year": 1993
+    },
+    "Shutter Island": {
+      "id": 11324,
+      "poster": "/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+      "title": "Shutter Island",
+      "year": 2010
+    },
+    "Hugo": {
+      "id": 44826,
+      "poster": "/1dxRq3o3l3bVWNRvvSb7rRf68qp.jpg",
+      "title": "Hugo",
+      "year": 2011
+    },
+    "Silence": {
+      "id": 68730,
+      "poster": "/x5T0cQDYws0xRBVG4Q3wpcrcmax.jpg",
+      "title": "Silence",
+      "year": 2016
+    },
+    "No Direction Home: Bob Dylan": {
+      "id": 19082,
+      "poster": "/lqOo4nyRS56Goi8InZqLFKGEJR5.jpg",
+      "title": "No Direction Home: Bob Dylan",
+      "year": 2005
+    },
+    "Who's That Knocking at My Door": {
+      "id": 42694,
+      "poster": "/zcH6pKZKeImwcBtIH7fSdUyoQ2e.jpg",
+      "title": "Who's That Knocking at My Door",
+      "year": 1968
+    },
+    "The Big Shave": {
+      "id": 48714,
+      "poster": "/1bgOIU4ezln7qqVymjQBLEYMPpb.jpg",
+      "title": "The Big Shave",
+      "year": 1967
+    },
+    "Italianamerican": {
+      "id": 91459,
+      "poster": "/5mznNfhBuABFctEuw2p0NHlEaZ2.jpg",
+      "title": "Italianamerican",
+      "year": 1974
+    },
+    "American Boy: A Profile of Steven Prince": {
+      "id": 33470,
+      "poster": "/jnSQhFBaJ7KlJEWYmp8WfS0FVmU.jpg",
+      "title": "American Boy: A Profile of Steven Prince",
+      "year": 1978
+    },
+    "Boxcar Bertha": {
+      "id": 22784,
+      "poster": "/gF5VslUB2xpWbboc735VVnO7DXh.jpg",
+      "title": "Boxcar Bertha",
+      "year": 1972
+    },
+    "New York Stories": {
+      "id": 9686,
+      "poster": "/mViGEH5dfsAnUgJmce1RJkFycAi.jpg",
+      "title": "New York Stories",
+      "year": 1989
+    },
+    "A Personal Journey with Martin Scorsese Through American Movies": null,
+    "Feel Like Going Home": {
+      "id": 1153796,
+      "poster": "/5tH8KXwCdyiO7UnDPDbFvzdeAuX.jpg",
+      "title": "Feel Like Going Home",
+      "year": 2003
+    },
+    "Lady by the Sea: The Statue of Liberty": {
+      "id": 529292,
+      "poster": "/5Taz1LSNvJ9DHNSr5DNNfCFIFgL.jpg",
+      "title": "Lady by the Sea: The Statue of Liberty",
+      "year": 2004
+    },
+    "Shine a Light": {
+      "id": 7944,
+      "poster": "/rMVrNWWaO3xAWZHFUbeamWPzVAC.jpg",
+      "title": "Shine a Light",
+      "year": 2008
+    },
+    "A Letter to Elia": {
+      "id": 65673,
+      "poster": "/cXBzB2fcuiXwxInKmLOFvaXlG40.jpg",
+      "title": "A Letter to Elia",
+      "year": 2010
+    },
+    "Public Speaking": {
+      "id": 54793,
+      "poster": "/9vEqQpndZuydRbYueABgIMw34gH.jpg",
+      "title": "Public Speaking",
+      "year": 2011
+    },
+    "George Harrison: Living in the Material World": {
+      "id": 1676821,
+      "poster": "/xGo67G45tKvYd5aS8jHyaZxhEPT.jpg",
+      "title": "George Harrison: Living in the Material World",
+      "year": 2011
+    },
+    "The 50 Year Argument": {
+      "id": 274906,
+      "poster": "/Ahgiu85pcYWlS9CuXvwpqP6iF8X.jpg",
+      "title": "The 50 Year Argument",
+      "year": 2014
+    },
+    "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese": {
+      "id": 574638,
+      "poster": "/ixxELBgYj9OH8hz0XCrcZOJpIx9.jpg",
+      "title": "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+      "year": 2019
+    },
+    "Personality Crisis: One Night Only": {
+      "id": 1013574,
+      "poster": "/iyE9AVVNMZnVFoZYvP3hw7CPma.jpg",
+      "title": "Personality Crisis: One Night Only",
+      "year": 2022
+    },
+    "Joker": {
+      "id": 475557,
+      "poster": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "title": "Joker",
+      "year": 2019
+    },
+    "The Exorcist: Believer": {
+      "id": 807172,
+      "poster": "/fFXkAlMH2iQrNknv4eq7LGTkcti.jpg",
+      "title": "The Exorcist: Believer",
+      "year": 2023
+    },
+    "The Flash": {
+      "id": 298618,
+      "poster": "/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+      "title": "The Flash",
+      "year": 2023
+    }
+  }
+}

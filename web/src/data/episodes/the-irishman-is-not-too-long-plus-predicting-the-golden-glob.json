@@ -23,7 +23,7 @@
             {
               "title": "The Two Popes",
               "year": 2019,
-              "note": "The down-the-middle Globes pick — international cast, been in the awards conversation since Telluride."
+              "note": "The down-the-middle Globes pick: international cast, been in the awards conversation since Telluride."
             },
             {
               "title": "Joker",
@@ -70,7 +70,7 @@
             {
               "title": "Cats",
               "year": 2019,
-              "note": "Picked over Hustlers — almost nobody has actually seen it yet."
+              "note": "Picked over Hustlers: almost nobody has actually seen it yet."
             }
           ]
         },
@@ -293,7 +293,7 @@
     {
       "kind": "discussion",
       "heading": "Hark",
-      "note": "a new segment — one quick, vital opinion about movies",
+      "note": "a new segment: one quick opinion about movies",
       "films": [
         {
           "title": "The Irishman",
@@ -309,7 +309,7 @@
         {
           "title": "Knives Out",
           "year": 2019,
-          "note": "$40 million over the holiday weekend — a big number for an original film."
+          "note": "$40 million over the holiday weekend, a big number for an original film."
         },
         {
           "title": "Ford v Ferrari",
@@ -347,7 +347,7 @@
         {
           "title": "Frozen II",
           "year": 2019,
-          "note": "Amanda took her husband's family's kids to see it over Thanksgiving — the showtimes for Knives Out didn't work out."
+          "note": "Amanda took her husband's family's kids to see it over Thanksgiving. The showtimes for Knives Out didn't work out."
         }
       ]
     },
@@ -364,14 +364,14 @@
         {
           "title": "Frozen",
           "year": 2013,
-          "note": "The original — the 'kid narcotic' comparison point, and the one whose music actually holds up."
+          "note": "The original: the 'kid narcotic' comparison point, and the one whose music actually holds up."
         }
       ]
     },
     {
       "kind": "awards",
       "heading": "Best Original Screenplay",
-      "note": "\"the cool kids category\" — where the movies they actually like get honored",
+      "note": "\"the cool kids category\": where the movies they actually like get honored",
       "categories": [
         {
           "name": "Best Original Screenplay",
@@ -413,7 +413,7 @@
         {
           "title": "Dark Waters",
           "year": 2019,
-          "note": "Came together fast for Haynes — Mark Ruffalo brought him the script in 2017, less than two years after the first New York Times exposé on DuPont. Shot on location at Taft Law in Cincinnati; Rob Bilott was on set to answer questions."
+          "note": "Came together fast for Haynes: Mark Ruffalo brought him the script in 2017, less than two years after the first New York Times exposé on DuPont. Shot on location at Taft Law in Cincinnati; Rob Bilott was on set to answer questions."
         },
         {
           "title": "All the President's Men",
@@ -423,12 +423,12 @@
         {
           "title": "The Insider",
           "year": 1999,
-          "note": "His reference point for withholding the reveal — half the film passes before you know what Rob is holding."
+          "note": "His reference point for withholding the reveal: half the film passes before you know what Rob is holding."
         },
         {
           "title": "Wonderstruck",
           "year": 2017,
-          "note": "His previous film — Dark Waters came together unusually fast by comparison."
+          "note": "His previous film. Dark Waters came together unusually fast by comparison."
         },
         {
           "title": "Safe",
@@ -446,7 +446,7 @@
         {
           "title": "I'm Not There",
           "year": 2007,
-          "note": "His Dylan film — comes up alongside the Scorsese Dylan documentary he'd just watched."
+          "note": "His Dylan film; it comes up alongside the Scorsese Dylan documentary he'd just watched."
         },
         {
           "title": "Velvet Goldmine",
@@ -456,12 +456,12 @@
         {
           "title": "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
           "year": 2019,
-          "note": "Just watched it — \"genius.\""
+          "note": "Just watched it: \"genius.\""
         },
         {
-          "title": "Invasion of the Body Snatchers",
+          "title": "Invasion of the Body Snatchers (1956)",
           "year": 1956,
-          "note": "The Don Siegel version — his pick for a Dark Waters double feature: \"just so gorgeously shot.\""
+          "note": "The Don Siegel version, his pick for a Dark Waters double feature: \"just so gorgeously shot.\""
         },
         {
           "title": "Invasion of the Body Snatchers",
@@ -471,7 +471,7 @@
         {
           "title": "Force of Evil",
           "year": 1948,
-          "note": "His answer for the last great thing he's seen — the John Garfield film Scorsese saw as a kid and never forgot."
+          "note": "His answer for the last great thing he's seen: the John Garfield film Scorsese saw as a kid and never forgot."
         }
       ]
     }
@@ -483,7 +483,7 @@
         "Klute",
         "The Parallax View",
         "Silkwood",
-        "Gentlemen's Agreement"
+        "Gentleman's Agreement"
       ]
     },
     {
@@ -748,10 +748,10 @@
       "year": 1978
     },
     "Force of Evil": {
-      "id": 860154,
-      "poster": null,
+      "id": 26744,
+      "poster": "/x33LVKf4yWdjMeczJkzE5sIw4VG.jpg",
       "title": "Force of Evil",
-      "year": null
+      "year": 1948
     },
     "Klute": {
       "id": 466,
@@ -770,12 +770,6 @@
       "poster": "/sGB81v70nnZqPMKFasvCpOmPcfq.jpg",
       "title": "Silkwood",
       "year": 1983
-    },
-    "Gentlemen's Agreement": {
-      "id": 193319,
-      "poster": "/kQRswWKBqwupC5ueqEMSqRxoMHg.jpg",
-      "title": "Gentlemen's Agreement",
-      "year": 1935
     },
     "Queen & Slim": {
       "id": 536743,
@@ -802,16 +796,28 @@
       "year": 2019
     },
     "Moana": {
-      "id": 1108427,
-      "poster": "/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+      "id": 277834,
+      "poster": "/m5MDZOIFEFlxGiLuAzWzFSsWcye.jpg",
       "title": "Moana",
-      "year": 2026
+      "year": 2016
     },
     "Tangled": {
       "id": 38757,
       "poster": "/ym7Kst6a4uodryxqbGOxmewF235.jpg",
       "title": "Tangled",
       "year": 2010
+    },
+    "Gentleman's Agreement": {
+      "id": 33667,
+      "poster": "/aCCRbcmigPk00f34hpJuWZuvABo.jpg",
+      "title": "Gentleman's Agreement",
+      "year": 1947
+    },
+    "Invasion of the Body Snatchers (1956)": {
+      "id": 11549,
+      "poster": "/8BrMQmgwGzIHSyBjCDOLOdi79fJ.jpg",
+      "title": "Invasion of the Body Snatchers",
+      "year": 1956
     }
   }
 }

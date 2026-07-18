@@ -43,13 +43,13 @@
     {
       "kind": "halloffame",
       "heading": "The Judd Apatow Hall of Fame",
-      "note": "movies only — the TV picks that made the show's actual list are noted below",
+      "note": "movies only (the TV picks that made the show's actual list are noted below)",
       "honoree": "Judd Apatow",
       "films": [
         {
           "title": "Anchorman: The Legend of Ron Burgundy",
           "year": 2004,
-          "note": "Left out early for being 'a different school' of comedy, then reinstated at the very end over The King of Staten Island — Sean's pick over the new movie."
+          "note": "Left out early for being 'a different school' of comedy, then reinstated at the very end over The King of Staten Island: Sean's pick over the new movie."
         },
         {
           "title": "The 40-Year-Old Virgin",
@@ -69,7 +69,7 @@
         {
           "title": "Step Brothers",
           "year": 2008,
-          "note": "Added as the Ferrell-McKay slot after passing on Anchorman earlier in the count — a placeholder pick that stuck."
+          "note": "Added as the Ferrell-McKay slot after passing on Anchorman earlier in the count, a placeholder pick that stuck."
         },
         {
           "title": "Funny People",
@@ -84,7 +84,7 @@
         {
           "title": "The Big Sick",
           "year": 2017,
-          "note": "Produced, not directed — Kumail Nanjiani and Emily Gordon's script. Amanda's most personal pick on the list."
+          "note": "Produced, not directed. Kumail Nanjiani and Emily Gordon's script. Amanda's most personal pick on the list."
         }
       ]
     },
@@ -101,7 +101,7 @@
         {
           "title": "Celtic Pride",
           "year": 1996,
-          "note": "Damon Wayans heist comedy — called maybe the worst movie Apatow has ever worked on. Passed."
+          "note": "Damon Wayans heist comedy, called maybe the worst movie Apatow has ever worked on. Passed."
         },
         {
           "title": "The Cable Guy",
@@ -141,7 +141,7 @@
         {
           "title": "Get Him to the Greek",
           "year": 2010,
-          "note": "Named and dismissed in the same breath — only Bridesmaids survives from this stretch of the catalog."
+          "note": "Named and dismissed in the same breath: only Bridesmaids survives from this stretch of the catalog."
         },
         {
           "title": "Wanderlust",
@@ -156,7 +156,7 @@
         {
           "title": "This Is 40",
           "year": 2012,
-          "note": "Sean's least favorite Apatow movie — too close to his own life for either host's comfort."
+          "note": "Sean's least favorite Apatow movie, too close to his own life for either host's comfort."
         },
         {
           "title": "Anchorman 2: The Legend Continues",
@@ -166,7 +166,17 @@
         {
           "title": "Trainwreck",
           "year": 2015,
-          "note": "The inflection point where, per Sean, 'the magic ran out on his strategy' — Amy Schumer both playing and subverting the Goldie Hawn rom-com lead. Both like it more than its reputation suggests. Still out."
+          "note": "The inflection point where, per Sean, 'the magic ran out on his strategy': Amy Schumer both playing and subverting the Goldie Hawn rom-com lead. Both like it more than its reputation suggests. Still out."
+        },
+        {
+          "title": "Doc & Darryl",
+          "year": 2016,
+          "note": "Apatow co-directed this Doc Gooden/Darryl Strawberry documentary. Personal for Sean, a fellow Mets fan, but he keeps it out given how much of Gooden's addiction they couldn't address directly."
+        },
+        {
+          "title": "May It Last: A Portrait of the Avett Brothers",
+          "year": 2018,
+          "note": "Amanda hasn't seen it; neither host makes a case for it."
         }
       ]
     }
@@ -182,7 +192,7 @@
         "Girls Trip",
         "Michael Clayton",
         "The Town",
-        "Say Anything",
+        "Say Anything...",
         "Can't Hardly Wait"
       ]
     }
@@ -198,8 +208,6 @@
       "Girls",
       "Love",
       "Crashing",
-      "30 for 30: Doc & Darryl",
-      "May It Last: A Portrait of the Avett Brothers",
       "The Zen Diaries of Garry Shandling"
     ]
   },
@@ -360,6 +368,18 @@
       "title": "Trainwreck",
       "year": 2015
     },
+    "Doc & Darryl": {
+      "id": 377461,
+      "poster": "/pgqAS2dGbvnKEueoAmDlFbWJ9S1.jpg",
+      "title": "Doc & Darryl",
+      "year": 2016
+    },
+    "May It Last: A Portrait of the Avett Brothers": {
+      "id": 438522,
+      "poster": "/jZPjeGsGyIXgkQ9Pll9JyDQv8VZ.jpg",
+      "title": "May It Last: A Portrait of the Avett Brothers",
+      "year": 2017
+    },
     "Dumb and Dumber": {
       "id": 8467,
       "poster": "/4LdpBXiCyGKkR8FGHgjKlphrfUc.jpg",
@@ -402,7 +422,7 @@
       "title": "The Town",
       "year": 2010
     },
-    "Say Anything": {
+    "Say Anything...": {
       "id": 2028,
       "poster": "/nkucKciFGSRalw6dJtsglWqOXMC.jpg",
       "title": "Say Anything...",

@@ -324,16 +324,6 @@ footer { padding: 2.4rem 0 3.4rem; border-top: 1px solid var(--line); margin-top
 footer p { color: var(--faint); font-size: 0.8rem; max-width: 62ch; margin: 0 0 0.6rem; }
 footer p:last-child { margin-bottom: 0; }
 
-/* Catalog progress — a ledger line: episodes cataloged vs. the full feed, mono figures */
-.catalog-progress { max-width: 34rem; margin: 0 0 1.9rem; }
-.catalog-progress__row { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; margin: 0 0 0.5rem; }
-.catalog-progress__label {
-  font-family: var(--mono); font-size: 0.62rem; letter-spacing: 0.22em; text-transform: uppercase; color: var(--brass);
-}
-.catalog-progress__count { font-family: var(--mono); font-size: 0.78rem; color: var(--muted); font-variant-numeric: tabular-nums; }
-.catalog-progress__count b { color: var(--brass-lit); font-weight: 600; }
-.catalog-progress__track { height: 3px; background: var(--line-lit); border-radius: 2px; overflow: hidden; }
-.catalog-progress__fill { height: 100%; background: var(--brass); border-radius: 2px; min-width: 2px; }
 
 /* ---------- Motion (one restrained entrance) ---------- */
 @keyframes rise { from { opacity: 0; transform: translateY(0.6rem); } to { opacity: 1; transform: none; } }

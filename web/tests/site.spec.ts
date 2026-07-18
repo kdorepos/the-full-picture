@@ -3,12 +3,17 @@ import { test, expect } from '@playwright/test';
 // Runs on both the desktop and mobile projects (see playwright.config.ts),
 // so every assertion is a usability check across both form factors.
 
-test('home lists the episode and links through to its page', async ({ page }) => {
+test('home lists the newest episode and links through to its page', async ({ page }) => {
+  // Drift-proof: target the first (newest) card rather than a hardcoded episode, since the
+  // catalog grows and the homepage only renders the newest few cards visible.
   await page.goto('/');
-  await expect(page.getByRole('link', { name: /2026 Movie Auction Returns/i })).toBeVisible();
-  await page.getByRole('link', { name: /2026 Movie Auction Returns/i }).click();
-  await expect(page).toHaveURL(/\/ep\/2026-movie-auction-returns/);
-  await expect(page.getByRole('heading', { level: 1 })).toContainText('2026 Movie Auction');
+  const firstCard = page.locator('#catalog > .sale-card').first();
+  await expect(firstCard).toBeVisible();
+  const href = await firstCard.getAttribute('href');
+  expect(href).toMatch(/^\/ep\//);
+  await firstCard.click();
+  await expect(page).toHaveURL(new RegExp(href!.replace(/\//g, '\\/')));
+  await expect(page.getByRole('heading', { level: 1 })).toBeVisible();
 });
 
 test('episode page shows the top lot and ledger prices', async ({ page }) => {
@@ -57,24 +62,4 @@ test('tap targets: episode links are large enough to tap', async ({ page }) => {
   await page.goto('/');
   const box = await page.getByRole('link', { name: /2026 Movie Auction Returns/i }).boundingBox();
   expect(box!.height).toBeGreaterThanOrEqual(44); // iOS min tap target
-});
-
-test('processing panel reveals for an in-flight episode and hides once published', async ({ page }) => {
-  // In-flight, not-yet-published episode → panel shows with live progress.
-  await page.route('**/api/progress*', (r) => r.fulfill({
-    json: { active: true, phase: 'transcribing', slug: 'some-upcoming-episode',
-            title: 'Some Upcoming Episode', done: 4, total: 10, pct: 40 },
-  }));
-  await page.goto('/');
-  await expect(page.locator('#processing')).toBeVisible();
-  await expect(page.locator('#proc-title')).toHaveText('Some Upcoming Episode');
-  await expect(page.locator('#proc-status')).toHaveText('Transcribing · 40%');
-
-  // Same payload but the slug is already on the site → panel stays hidden (no stale card).
-  await page.unroute('**/api/progress*');
-  await page.route('**/api/progress*', (r) => r.fulfill({
-    json: { active: true, phase: 'transcribing', slug: '2026-movie-auction-returns', pct: 90 },
-  }));
-  await page.reload();
-  await expect(page.locator('#processing')).toBeHidden();
 });

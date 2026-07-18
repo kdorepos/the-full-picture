@@ -271,7 +271,6 @@ em { font-style: italic; }
 .pick-card__film a:hover { text-decoration: underline; text-decoration-color: var(--brass); text-underline-offset: 3px; }
 .pick-card__note { color: var(--muted); font-size: 0.88rem; margin: 0; }
 
-
 /* ---------- Draft body: per-host teams ---------- */
 .teams { display: grid; grid-template-columns: 1fr; gap: 2rem; }
 @media (min-width: 760px) { .teams { grid-template-columns: repeat(3, 1fr); gap: 1.6rem; } }
@@ -279,7 +278,6 @@ em { font-style: italic; }
 .team .pick-card { grid-template-columns: 54px 1fr; gap: 0.9rem; padding-top: 0.9rem; }
 .team .pick-card__poster img, .team .pick-card__poster .noposter { width: 54px; height: 81px; }
 .team .pick-card__film { font-size: 1.1rem; }
-
 
 /* ---------- Index-style entry lists (mentioned / passed in / withdrawn) ---------- */
 .entrylist { margin: 0 0 1.4rem; line-height: 2; overflow-wrap: anywhere; }
@@ -324,7 +322,6 @@ footer { padding: 2.4rem 0 3.4rem; border-top: 1px solid var(--line); margin-top
 footer p { color: var(--faint); font-size: 0.8rem; max-width: 62ch; margin: 0 0 0.6rem; }
 footer p:last-child { margin-bottom: 0; }
 
-
 /* ---------- Motion (one restrained entrance) ---------- */
 @keyframes rise { from { opacity: 0; transform: translateY(0.6rem); } to { opacity: 1; transform: none; } }
 .cover .eyebrow, .cover h1, .cover .credits, .cover .lede, .sale-line, .toplot-cap { animation: rise 0.6s ease both; }
@@ -356,7 +353,6 @@ footer p:last-child { margin-bottom: 0; }
 .award-noms .tag.win { color: var(--ink); background: var(--brass); border-color: var(--brass); }
 .award-noms li.won a, .award-noms li.won span:first-child { color: var(--brass); }
 
-
 /* ---------- /movies index ---------- */
 .az { display: flex; flex-wrap: wrap; gap: 0.15rem 0.35rem; padding: 1.6rem 0 0.4rem; }
 .az__link {
@@ -366,7 +362,6 @@ footer p:last-child { margin-bottom: 0; }
 .az__link:hover { color: var(--brass); border-color: var(--brass); }
 .movie-letter { padding: 1.6rem 0 0; scroll-margin-top: 1rem; }
 .movie-list { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(19rem, 1fr)); gap: 0.15rem 1.4rem; }
-.movie { position: relative; }
 .movie__link {
   display: flex; align-items: baseline; gap: 0.6rem; padding: 0.5rem 0; border-bottom: 1px dotted var(--line);
   font-family: var(--display); font-size: 1.1rem; color: var(--ivory);

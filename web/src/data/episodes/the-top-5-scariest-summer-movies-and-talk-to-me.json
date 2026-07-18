@@ -1,0 +1,477 @@
+{
+  "slug": "the-top-5-scariest-summer-movies-and-talk-to-me",
+  "title": "The Top 5 Scariest Summer Movies and ‘Talk to Me’",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2023-08-02",
+  "runtimeMin": 67,
+  "format": "Sean reviews the Australian horror hit Talk to Me, counts down his five favorite scary summer movies, then talks to directors Danny and Michael Philippou about their YouTube-to-Sundance path, and to Christian Petzold about his new film Afire.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "Talk to Me",
+      "films": [
+        {
+          "title": "Talk to Me",
+          "year": 2023,
+          "note": "Directed by Danny and Michael Philippou, starring Sophie Wilde, Alexandra Jensen, Joe Bird, and Otis Dhanji. A group of friends conjure spirits with an embalmed hand until one session goes too far. Sean calls it a horror MacGuffin movie in the vein of The Ring or Hellraiser, with a breakout performance from Wilde."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Scary Summer Movie Tropes",
+      "note": "cursed objects and cabins in the woods",
+      "films": [
+        {
+          "title": "The Ring",
+          "year": 2002,
+          "note": "The cursed videotape as horror MacGuffin."
+        },
+        {
+          "title": "Child's Play",
+          "year": 1988,
+          "note": "Chucky as horror MacGuffin."
+        },
+        {
+          "title": "The Evil Dead",
+          "year": 1981,
+          "note": "The Necronomicon as horror MacGuffin."
+        },
+        {
+          "title": "Christine",
+          "year": 1983,
+          "note": "John Carpenter's Stephen King adaptation, about the possessed 1958 Plymouth Fury."
+        },
+        {
+          "title": "Hellraiser",
+          "year": 1987,
+          "note": "The Lament Configuration puzzle box. Sean thinks it'd make a good double feature with Talk to Me."
+        },
+        {
+          "title": "I Know What You Did Last Summer",
+          "year": 1997,
+          "note": "The Kevin Williamson post-Scream boom."
+        },
+        {
+          "title": "Scream",
+          "year": 1996
+        },
+        {
+          "title": "Friday the 13th",
+          "year": 1980,
+          "note": "The classic summer camp trope."
+        },
+        {
+          "title": "Cabin Fever",
+          "year": 2002
+        },
+        {
+          "title": "The Burning",
+          "year": 1981
+        },
+        {
+          "title": "Straw Dogs",
+          "year": 1971,
+          "note": "Sam Peckinpah's country-house-invaders picture. Not pure horror, Sean says, but a similar shape."
+        },
+        {
+          "title": "The Cabin in the Woods",
+          "year": 2011,
+          "note": "One of Sean's favorite genre satires of the 2010s."
+        },
+        {
+          "title": "Us",
+          "year": 2019,
+          "note": "Jordan Peele's film, which Sean thinks also fits the cabin-in-the-woods mold."
+        },
+        {
+          "title": "The Blackening",
+          "year": 2023,
+          "note": "Sean and Amanda covered this horror-comedy on a recent episode."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "The Top 5 Scariest Summer Movies",
+      "note": "Sean's picks, best to worst",
+      "subject": "scariest summer movies",
+      "ranked": true,
+      "films": [
+        {
+          "title": "The Texas Chain Saw Massacre",
+          "year": 1974,
+          "note": "No. 1: one of the most important movies ever made, in Sean's view. Most horror since is riffing on it in some way."
+        },
+        {
+          "title": "It Follows",
+          "year": 2014,
+          "note": "No. 2: David Robert Mitchell's STD parable. Still genuinely scary, with several truly chilling moments."
+        },
+        {
+          "title": "The Hills Have Eyes",
+          "year": 1977,
+          "note": "No. 3: one of Wes Craven's first films. A family road trip gone terribly wrong that Sean says plays differently after Oppenheimer."
+        },
+        {
+          "title": "Sleepaway Camp",
+          "year": 1983,
+          "note": "No. 4: 40 years old and still, per Sean, best known for a genuinely shocking ending."
+        },
+        {
+          "title": "Midsommar",
+          "year": 2019,
+          "note": "No. 5: Ari Aster's sunlit pagan-cult film, which Sean calls probably the single brightest horror movie ever made, an interesting contrast to Aster's own Hereditary."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Danny and Michael Philippou on",
+      "note": "Talk to Me",
+      "films": [
+        {
+          "title": "Talk to Me",
+          "year": 2023,
+          "note": "The brothers' debut feature, born out of the RackaRacka YouTube channel, picked up by A24 out of Sundance."
+        },
+        {
+          "title": "Project A",
+          "year": 1983,
+          "note": "Michael's last-great-thing pick: a Jackie Chan action film he loves for the rawness and danger of the stunt work."
+        },
+        {
+          "title": "Beasts of No Nation",
+          "year": 2015,
+          "note": "Danny's last-great-thing pick: he keeps returning to the scene of child soldiers marching into battle singing."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Christian Petzold on",
+      "note": "Afire",
+      "films": [
+        {
+          "title": "Afire",
+          "year": 2023,
+          "note": "Petzold's new film, referred to on the show as 'A Fire': a summer-house portrait of a novelist. Written after Petzold caught COVID in Paris and binged Eric Rohmer movies while sick."
+        },
+        {
+          "title": "People on Sunday",
+          "year": 1930,
+          "note": "The German silent Petzold cites as the model summer movie, directed by Billy Wilder, Fred Zinnemann, Edgar Ulmer, and Robert Siodmak, all of whom later fled for Hollywood."
+        },
+        {
+          "title": "Summer with Monika",
+          "year": 1953,
+          "note": "Petzold's example of a Swedish summer movie, from Ingmar Bergman."
+        },
+        {
+          "title": "What's Up, Doc?",
+          "year": 1972,
+          "note": "Peter Bogdanovich screwball comedy Petzold showed his cast during rehearsals."
+        },
+        {
+          "title": "Some Came Running",
+          "year": 1958,
+          "note": "Another film Petzold screened for the cast before shooting."
+        },
+        {
+          "title": "The Shining",
+          "year": 1980,
+          "note": "Petzold points to a tennis-ball-against-the-wall echo of Jack Nicholson's Jack Torrance."
+        },
+        {
+          "title": "Phoenix",
+          "year": 2014,
+          "note": "Sean calls this a personal favorite among Petzold's films."
+        },
+        {
+          "title": "Transit",
+          "year": 2018,
+          "note": "Where Petzold first met Paula Beer, through their shared casting agent on François Ozon's Frantz."
+        },
+        {
+          "title": "Barbara",
+          "year": 2012,
+          "note": "Sean mentions rewatching this Petzold film the night before the interview."
+        },
+        {
+          "title": "Undine",
+          "year": 2020,
+          "note": "The first film in what Petzold jokingly calls his 'Elements trilogy,' also with Paula Beer."
+        },
+        {
+          "title": "Frantz",
+          "year": 2016,
+          "note": "François Ozon's film, on which Petzold worked on the German dialogue; he met Paula Beer through it."
+        },
+        {
+          "title": "Ticket to Paradise",
+          "year": 2022,
+          "note": "The Julia Roberts/George Clooney comedy Petzold watched on a plane and did not care for."
+        },
+        {
+          "title": "The Quiet Girl",
+          "year": 2022,
+          "note": "Petzold's last-great-thing pick: an Irish, Oscar-nominated film he went into cold."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Oppenheimer"
+      ]
+    }
+  ],
+  "excluded": {
+    "Ads": [
+      "Tremfaya",
+      "Clinic Kids",
+      "Wells Fargo Active Cash Credit Card",
+      "Whole Foods Market",
+      "FIFA World Cup Launch Edition"
+    ],
+    "Podcast promos": [
+      "Do We Get to Win This Time? How Hollywood Made the Vietnam War"
+    ],
+    "Web series": [
+      "Tamafi",
+      "RackaRacka (YouTube channel)"
+    ],
+    "Unproduced projects": [
+      "Concrete Kings"
+    ],
+    "Shorts": [
+      "Deluge"
+    ]
+  },
+  "tmdb": {
+    "Talk to Me": {
+      "id": 1008042,
+      "poster": "/kdPMUMJzyYAc4roD52qavX0nLIC.jpg",
+      "title": "Talk to Me",
+      "year": 2023
+    },
+    "The Ring": {
+      "id": 565,
+      "poster": "/AeRpUynJKDpJveklBJipOYrVxCS.jpg",
+      "title": "The Ring",
+      "year": 2002
+    },
+    "Child's Play": {
+      "id": 10585,
+      "poster": "/wvpgvcWNkF2HLuTEMIM7K83MvZ.jpg",
+      "title": "Child's Play",
+      "year": 1988
+    },
+    "The Evil Dead": {
+      "id": 764,
+      "poster": "/54C1qdaiSijIU5NeNb4WsPJdNkG.jpg",
+      "title": "The Evil Dead",
+      "year": 1981
+    },
+    "Christine": {
+      "id": 8769,
+      "poster": "/mMtUJke2TtIoT6JB9hkvERmsSu8.jpg",
+      "title": "Christine",
+      "year": 1983
+    },
+    "Hellraiser": {
+      "id": 9003,
+      "poster": "/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg",
+      "title": "Hellraiser",
+      "year": 1987
+    },
+    "I Know What You Did Last Summer": {
+      "id": 3597,
+      "poster": "/dQyaJx0SptDqvQcAewAr8FAtLB2.jpg",
+      "title": "I Know What You Did Last Summer",
+      "year": 1997
+    },
+    "Scream": {
+      "id": 4232,
+      "poster": "/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+      "title": "Scream",
+      "year": 1996
+    },
+    "Friday the 13th": {
+      "id": 4488,
+      "poster": "/uGGpnWHOmWTARVN9wbC1nPxNgps.jpg",
+      "title": "Friday the 13th",
+      "year": 1980
+    },
+    "Cabin Fever": {
+      "id": 11547,
+      "poster": "/vaUkSL7PbeeKfdFKOh9TYR9M1ds.jpg",
+      "title": "Cabin Fever",
+      "year": 2003
+    },
+    "The Burning": {
+      "id": 24124,
+      "poster": "/d8as1GtCAhlc5rirarnUUd85gJA.jpg",
+      "title": "The Burning",
+      "year": 1981
+    },
+    "Straw Dogs": {
+      "id": 994,
+      "poster": "/yigkfHE1OhkxPPrjrV78Y9ibGEk.jpg",
+      "title": "Straw Dogs",
+      "year": 1971
+    },
+    "The Cabin in the Woods": {
+      "id": 22970,
+      "poster": "/zZZe5wn0udlhMtdlDjN4NB72R6e.jpg",
+      "title": "The Cabin in the Woods",
+      "year": 2012
+    },
+    "Us": {
+      "id": 458723,
+      "poster": "/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+      "title": "Us",
+      "year": 2019
+    },
+    "The Blackening": {
+      "id": 1008392,
+      "poster": "/n2aS9FE0C3VUHtSb3Ak41aU9K3y.jpg",
+      "title": "The Blackening",
+      "year": 2023
+    },
+    "The Texas Chain Saw Massacre": {
+      "id": 30497,
+      "poster": "/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg",
+      "title": "The Texas Chain Saw Massacre",
+      "year": 1974
+    },
+    "It Follows": {
+      "id": 270303,
+      "poster": "/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg",
+      "title": "It Follows",
+      "year": 2015
+    },
+    "The Hills Have Eyes": {
+      "id": 12262,
+      "poster": "/1G2DBIEkoS0JdCiOFIeR3mD8ROE.jpg",
+      "title": "The Hills Have Eyes",
+      "year": 1977
+    },
+    "Sleepaway Camp": {
+      "id": 13567,
+      "poster": "/lZ7KjSyHjP4ula5ybiXuQcDvZLg.jpg",
+      "title": "Sleepaway Camp",
+      "year": 1983
+    },
+    "Midsommar": {
+      "id": 530385,
+      "poster": "/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+      "title": "Midsommar",
+      "year": 2019
+    },
+    "Project A": {
+      "id": 21519,
+      "poster": "/AvTu2bmJbVZGXPxdx6VllGXCtLG.jpg",
+      "title": "Project A",
+      "year": 1983
+    },
+    "Beasts of No Nation": {
+      "id": 283587,
+      "poster": "/1D4vcJmJc58WXarpRtwgd2do9Rg.jpg",
+      "title": "Beasts of No Nation",
+      "year": 2015
+    },
+    "Afire": {
+      "id": 900379,
+      "poster": "/k8NYzD01zAUsdqocjhLXbO9BSS8.jpg",
+      "title": "Afire",
+      "year": 2023
+    },
+    "People on Sunday": {
+      "id": 347,
+      "poster": "/gWIkCmYaRDlA78WMIfRUlURuLCZ.jpg",
+      "title": "People on Sunday",
+      "year": 1930
+    },
+    "Summer with Monika": {
+      "id": 47735,
+      "poster": "/82hLsn67V9TjgrLOZCFL7247pJd.jpg",
+      "title": "Summer with Monika",
+      "year": 1953
+    },
+    "What's Up, Doc?": {
+      "id": 6949,
+      "poster": "/d5WwZxneeAH2Kj2SeDV6oUY2oW0.jpg",
+      "title": "What's Up, Doc?",
+      "year": 1972
+    },
+    "Some Came Running": {
+      "id": 38724,
+      "poster": "/oFivW0sMerjzWmC6GI8axAfc5xy.jpg",
+      "title": "Some Came Running",
+      "year": 1958
+    },
+    "The Shining": {
+      "id": 694,
+      "poster": "/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg",
+      "title": "The Shining",
+      "year": 1980
+    },
+    "Phoenix": {
+      "id": 254578,
+      "poster": "/rJuKu5Rpg92AkzyC5rbYbqsNPI9.jpg",
+      "title": "Phoenix",
+      "year": 2014
+    },
+    "Transit": {
+      "id": 471853,
+      "poster": "/3YLOCnokMMSIOCvA0kCnkhpTD79.jpg",
+      "title": "Transit",
+      "year": 2018
+    },
+    "Barbara": {
+      "id": 88284,
+      "poster": "/i7yjITqgz5zSW1jJWzxfwQsyDeo.jpg",
+      "title": "Barbara",
+      "year": 2012
+    },
+    "Undine": {
+      "id": 615761,
+      "poster": "/7PeaXj2EKef84zEZazxiGL8bXRH.jpg",
+      "title": "Undine",
+      "year": 2020
+    },
+    "Frantz": {
+      "id": 377263,
+      "poster": "/cL77uNb2BB8eXjYl9JIrWXCM8so.jpg",
+      "title": "Frantz",
+      "year": 2016
+    },
+    "Ticket to Paradise": {
+      "id": 800939,
+      "poster": "/1tzERH50P5c2mFWtLbgixzLZS1L.jpg",
+      "title": "Ticket to Paradise",
+      "year": 2022
+    },
+    "The Quiet Girl": {
+      "id": 916405,
+      "poster": "/6Njyz53N417cgxE0d7cBEWHUEjc.jpg",
+      "title": "The Quiet Girl",
+      "year": 2022
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    }
+  }
+}

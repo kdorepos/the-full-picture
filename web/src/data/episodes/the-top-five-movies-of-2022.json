@@ -41,7 +41,7 @@
         {
           "title": "Pulp Fiction",
           "year": 1994,
-          "note": "Its absence from the top 100 stuns Chris - not because it belongs in anyone's personal top 10, but because of its outsized influence on the medium."
+          "note": "Its absence from the top 100 stuns Chris, less because it belongs in anyone's personal top 10 than because of its outsized influence on the medium."
         },
         {
           "title": "Jaws",
@@ -51,7 +51,7 @@
         {
           "title": "The Texas Chain Saw Massacre",
           "year": 1974,
-          "note": "Amanda's example of a film genre fans lobbied hard for - representative of where horror filmmaking went for the next 50 years, even if it never had a shot at the top 100."
+          "note": "Amanda's example of a genre fans lobbied hard for. It shaped where horror filmmaking went for the next 50 years, even if it never had a shot at the top 100."
         }
       ]
     },
@@ -75,12 +75,12 @@
         {
           "title": "Nope",
           "year": 2022,
-          "note": "No. 3 - Jordan Peele's UFO Western. Adam calls it proof Peele isn't just hype - willing to lose part of his audience by getting stranger and more idea-driven with each film."
+          "note": "No. 3 - Jordan Peele's UFO Western. Adam calls it proof there's substance behind the hype, willing to lose part of his audience by getting stranger and more idea-driven with each film."
         },
         {
           "title": "Decision to Leave",
           "year": 2022,
-          "note": "No. 4 - Park Chan-wook's romantic noir. Adam calls the direction flawless and singles out Tang Wei's performance; not a movie he loved, exactly, but was constantly impressed by."
+          "note": "No. 4 - Park Chan-wook's romantic noir. Adam calls the direction flawless and singles out Tang Wei's performance. He wasn't in love with the movie exactly, but was constantly impressed by it."
         },
         {
           "title": "Crimes of the Future",
@@ -99,7 +99,7 @@
         {
           "title": "Top Gun: Maverick",
           "year": 2022,
-          "note": "No. 1 - Chris has seen it enough times to have lost count, including with two ex-Navy pilots doing commentary on YouTube. Calls it a perfect love letter to Tom Cruise and to 90s studio blockbusters."
+          "note": "No. 1 - Chris has seen it enough times to have lost count, including with two ex-Navy pilots doing commentary on YouTube. Calls it a love letter to Tom Cruise and to 90s studio blockbusters."
         },
         {
           "title": "The Banshees of Inisherin",
@@ -133,7 +133,7 @@
         {
           "title": "Top Gun: Maverick",
           "year": 2022,
-          "note": "No. 1 - Amanda says it delivered more than she or America dared to imagine; a perfect love letter to Tom Cruise and a theater experience she doesn't get anymore."
+          "note": "No. 1 - Amanda says it delivered more than she or America dared to imagine: a love letter to Tom Cruise and a theater experience she doesn't get anymore."
         },
         {
           "title": "Tár",
@@ -153,7 +153,7 @@
         {
           "title": "The Eternal Daughter",
           "year": 2022,
-          "note": "No. 5 - Joanna Hogg's film starring Tilda Swinton, shot during COVID and functioning as a kind of coda to Hogg's Souvenir project. Amanda calls herself a lock for anything Hogg makes."
+          "note": "No. 5 - Joanna Hogg's film starring Tilda Swinton, shot during COVID and a kind of coda to Hogg's Souvenir project. Amanda calls herself a lock for anything Hogg makes."
         }
       ]
     },
@@ -177,7 +177,7 @@
         {
           "title": "Top Gun: Maverick",
           "year": 2022,
-          "note": "No. 3 - Sean calls it one of the most brilliantly engineered blockbusters ever made, and doesn't think it needs to be more than that."
+          "note": "No. 3 - Sean calls it one of the most tightly engineered blockbusters ever made, and doesn't think it needs to be more than that."
         },
         {
           "title": "All the Beauty and the Bloodshed",
@@ -243,13 +243,17 @@
         "Ambulance",
         "Armageddon Time",
         "Turning Red",
-        "Everything Everywhere All at Once"
+        "Everything Everywhere All at Once",
+        "The Batman",
+        "Doctor Strange in the Multiverse of Madness",
+        "Minions: The Rise of Gru"
       ]
     }
   ],
   "tmdbOverrides": {
     "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles": 44012,
-    "Cleo from 5 to 7": 499
+    "Cleo from 5 to 7": 499,
+    "Breathless": 269
   },
   "excluded": {
     "TV": [
@@ -470,10 +474,10 @@
       "year": 1962
     },
     "Breathless": {
-      "id": 122930,
-      "poster": "/eOo4VUHU1qwrAS7xf8PqaMSHj0x.jpg",
+      "id": 269,
+      "poster": "/9Wx0Wdn2EOqeCZU4SP6tlS3LOml.jpg",
       "title": "Breathless",
-      "year": 2012
+      "year": 1960
     },
     "Raiders of the Lost Ark": {
       "id": 85,
@@ -659,6 +663,24 @@
       "id": 545611,
       "poster": "/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
       "title": "Everything Everywhere All at Once",
+      "year": 2022
+    },
+    "The Batman": {
+      "id": 414906,
+      "poster": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "title": "The Batman",
+      "year": 2022
+    },
+    "Doctor Strange in the Multiverse of Madness": {
+      "id": 453395,
+      "poster": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "year": 2022
+    },
+    "Minions: The Rise of Gru": {
+      "id": 438148,
+      "poster": "/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg",
+      "title": "Minions: The Rise of Gru",
       "year": 2022
     }
   }

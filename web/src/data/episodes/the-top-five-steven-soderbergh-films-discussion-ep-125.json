@@ -1,0 +1,312 @@
+{
+  "slug": "the-top-five-steven-soderbergh-films-discussion-ep-125",
+  "title": "The Top Five Steven Soderbergh Films | Discussion (Ep. 125)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2019-02-08",
+  "runtimeMin": 53,
+  "format": "Sean, Amanda, and Chris review Soderbergh's Netflix release 'High Flying Bird,' then each rank their five favorite Soderbergh films.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "'High Flying Bird'",
+      "films": [
+        {
+          "title": "High Flying Bird",
+          "year": 2019,
+          "note": "Shot on an iPhone, written by Tarell Alvin McCraney: an NBA agent (Andre Holland) maneuvers his own client into a lockout standoff to force a new labor deal. Chris calls it his favorite Soderbergh since Haywire; all three note the parallel to Soderbergh's own fight with studios over marketing and distribution, most recently on Logan Lucky."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Amanda Dobbins's Top Five Soderbergh Movies",
+      "note": "No. 1 first",
+      "subject": "Steven Soderbergh",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Ocean's Eleven",
+          "year": 2001,
+          "note": "No. 1: the fizz and efficiency she values most in Soderbergh, a movie that never forgets to be fun to watch."
+        },
+        {
+          "title": "Out of Sight",
+          "year": 1998,
+          "note": "No. 2: the Detroit hotel scene with the lighter is one of the best five scenes she's ever seen."
+        },
+        {
+          "title": "Magic Mike",
+          "year": 2012,
+          "note": "No. 3: made for about $7 million on a deferred-fee bet with Channing Tatum, it made $170 million."
+        },
+        {
+          "title": "Ocean's Twelve",
+          "year": 2004,
+          "note": "No. 4: her pick for the best sequel ever made, ahead of even Godfather Part II, which she rules a continuation rather than a sequel."
+        },
+        {
+          "title": "Erin Brockovich",
+          "year": 2000,
+          "note": "No. 5: Soderbergh doing smart genre, a legal thriller that lets Julia Roberts play against her own persona."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Chris Ryan's Top Five Soderbergh Movies",
+      "note": "No. 1 wasn't revealed on air (a running joke about Kafka/Bubble stood in); No. 4 was a cheat pick, HBO's The Nick.",
+      "subject": "Steven Soderbergh",
+      "films": [
+        {
+          "title": "The Limey",
+          "year": 1999,
+          "note": "No. 2: written by frequent collaborator Lem Dobbs, a 'man on a mission' movie in the same vein as High Flying Bird."
+        },
+        {
+          "title": "Haywire",
+          "year": 2011,
+          "note": "No. 3: the Channing Tatum/Gina Carano diner fight is his favorite Soderbergh scene outside his top two."
+        },
+        {
+          "title": "Che: Part One",
+          "year": 2008,
+          "note": "No. 5: a four-hour, chapter-by-chapter biopic Soderbergh has said he was relieved to finish."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Sean Fennessey's Top Five Soderbergh Movies",
+      "note": "No. 2 wasn't revealed on air.",
+      "subject": "Steven Soderbergh",
+      "films": [
+        {
+          "title": "Out of Sight",
+          "year": 1998,
+          "note": "No. 1: also Amanda's No. 2 pick, discussed together as the most romantic movie Soderbergh has made."
+        },
+        {
+          "title": "Sex, Lies, and Videotape",
+          "year": 1989,
+          "note": "No. 3: his debut, which Sean says fits his theory that a great filmmaker's first film reveals everything, alongside Fincher's Alien 3 and Tarantino's Reservoir Dogs."
+        },
+        {
+          "title": "The Informant!",
+          "year": 2009,
+          "note": "No. 4 (three-way tie): the Scott Z. Burns trilogy, Soderbergh paying homage to a genre he loves while making it his own."
+        },
+        {
+          "title": "Contagion",
+          "year": 2011,
+          "note": "No. 4 (three-way tie): his homage to '70s outbreak-disaster movies, and home to Gwyneth Paltrow's death scene."
+        },
+        {
+          "title": "Side Effects",
+          "year": 2013,
+          "note": "No. 4 (three-way tie): his take on the erotic thriller, with a script hinge Sean rates as underrated."
+        },
+        {
+          "title": "Ocean's Eleven",
+          "year": 2001,
+          "note": "No. 5: also Amanda's No. 1 pick, saved for the same discussion later in the countdown."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Soderbergh, elsewhere",
+      "films": [
+        "Traffic",
+        "Logan Lucky",
+        "Moneyball",
+        "The Laundromat",
+        "Unsane",
+        "Kafka",
+        "Bubble"
+      ]
+    },
+    {
+      "group": "Scott Z. Burns, directing",
+      "films": [
+        "The Report"
+      ]
+    },
+    {
+      "group": "Other first films",
+      "films": [
+        "Alien 3",
+        "Being John Malkovich",
+        "Bottle Rocket",
+        "Reservoir Dogs"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Nick"
+    ]
+  },
+  "tmdbOverrides": {
+    "Alien 3": 8077,
+    "Bubble": 14788
+  },
+  "tmdb": {
+    "High Flying Bird": {
+      "id": 510498,
+      "poster": "/ccE21xixa1zhkGtWDr4n8ReOp40.jpg",
+      "title": "High Flying Bird",
+      "year": 2019
+    },
+    "Ocean's Eleven": {
+      "id": 161,
+      "poster": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+      "title": "Ocean's Eleven",
+      "year": 2001
+    },
+    "Out of Sight": {
+      "id": 1389,
+      "poster": "/v49q7AMR3pB4M762woWB1NYMCLF.jpg",
+      "title": "Out of Sight",
+      "year": 1998
+    },
+    "Magic Mike": {
+      "id": 77930,
+      "poster": "/cfRv1INLSSumjvxAqEGOP6b0Aw1.jpg",
+      "title": "Magic Mike",
+      "year": 2012
+    },
+    "Ocean's Twelve": {
+      "id": 163,
+      "poster": "/pE5anFf7nf6ah7V3VRezQ1KSovi.jpg",
+      "title": "Ocean's Twelve",
+      "year": 2004
+    },
+    "Erin Brockovich": {
+      "id": 462,
+      "poster": "/eMs20iUQyZVs05Ck7Q0LNnRsstr.jpg",
+      "title": "Erin Brockovich",
+      "year": 2000
+    },
+    "The Limey": {
+      "id": 10388,
+      "poster": "/efAnFInZYrenNvBlLIXN2oLYyNc.jpg",
+      "title": "The Limey",
+      "year": 1999
+    },
+    "Haywire": {
+      "id": 70435,
+      "poster": "/c9fJ0dYC30NnE9k2p61c0dqlZqW.jpg",
+      "title": "Haywire",
+      "year": 2011
+    },
+    "Che: Part One": {
+      "id": 8881,
+      "poster": "/ndxoK8RZF1nfHvZzQ3f2sNlkkzg.jpg",
+      "title": "Che: Part One",
+      "year": 2008
+    },
+    "Sex, Lies, and Videotape": {
+      "id": 1412,
+      "poster": "/pj1uKm07svgXZDHbYE8AzRfNHcu.jpg",
+      "title": "sex, lies, and videotape",
+      "year": 1989
+    },
+    "The Informant!": {
+      "id": 11323,
+      "poster": "/eV8u5crNe4QYWcu0zjKxFVq2Qem.jpg",
+      "title": "The Informant!",
+      "year": 2009
+    },
+    "Contagion": {
+      "id": 39538,
+      "poster": "/qL0IooP0bjXy0KXl9KEyPo22ll0.jpg",
+      "title": "Contagion",
+      "year": 2011
+    },
+    "Side Effects": {
+      "id": 109421,
+      "poster": "/dk10bwGyj8aRdOTl3EkgATEefh2.jpg",
+      "title": "Side Effects",
+      "year": 2013
+    },
+    "Traffic": {
+      "id": 1900,
+      "poster": "/jbccmnqE4oAPI67bApgt2JiRPz8.jpg",
+      "title": "Traffic",
+      "year": 2000
+    },
+    "Logan Lucky": {
+      "id": 399170,
+      "poster": "/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg",
+      "title": "Logan Lucky",
+      "year": 2017
+    },
+    "Moneyball": {
+      "id": 60308,
+      "poster": "/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+      "title": "Moneyball",
+      "year": 2011
+    },
+    "The Laundromat": {
+      "id": 517909,
+      "poster": "/hwNMJgbiUUvPCxsnADjbV9ysM5j.jpg",
+      "title": "The Laundromat",
+      "year": 2019
+    },
+    "Unsane": {
+      "id": 467660,
+      "poster": "/wdaUssQhZDOgegkJZx7NfY75HRX.jpg",
+      "title": "Unsane",
+      "year": 2018
+    },
+    "Kafka": {
+      "id": 2297,
+      "poster": "/eQh6IlLbQzqqgedwGcj3l9Ex3xJ.jpg",
+      "title": "Kafka",
+      "year": 1991
+    },
+    "Bubble": {
+      "id": 14788,
+      "poster": "/w56oo9nREcF54sNXVYuE9QxZFjT.jpg",
+      "title": "Bubble",
+      "year": 2006
+    },
+    "The Report": {
+      "id": 524348,
+      "poster": "/sG5NI6TMNR9ftOdTIXmG0hrBYSY.jpg",
+      "title": "The Report",
+      "year": 2019
+    },
+    "Alien 3": {
+      "id": 8077,
+      "poster": "/xh5wI0UoW7DfS1IyLy3d2CgrCEP.jpg",
+      "title": "Alien³",
+      "year": 1992
+    },
+    "Being John Malkovich": {
+      "id": 492,
+      "poster": "/31FGQu3OnwdmS4COquENe0vMZc0.jpg",
+      "title": "Being John Malkovich",
+      "year": 1999
+    },
+    "Bottle Rocket": {
+      "id": 13685,
+      "poster": "/6E7mJ5wpzTFbYFbJvTzzZ8Til9C.jpg",
+      "title": "Bottle Rocket",
+      "year": 1996
+    },
+    "Reservoir Dogs": {
+      "id": 500,
+      "poster": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+      "title": "Reservoir Dogs",
+      "year": 1992
+    }
+  }
+}

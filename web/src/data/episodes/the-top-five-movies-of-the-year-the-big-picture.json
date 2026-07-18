@@ -1,0 +1,547 @@
+{
+  "slug": "the-top-five-movies-of-the-year-the-big-picture",
+  "title": "The Top Five Movies of the Year | The Big Picture",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan",
+    "Adam Nayman"
+  ],
+  "published": "2019-12-06",
+  "runtimeMin": 62,
+  "format": "The 2019 year-end lists. Sean Fennessey and Amanda Dobbins bring in Chris Ryan and Adam Nayman for four top fives, revealed five to one, then honorable mentions, plus one dishonorable one for Brian De Palma's Domino.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Was 2019 a good year at the movies?",
+      "note": "a rough first nine months, saved by festival season",
+      "films": [
+        {
+          "title": "Dark Waters",
+          "year": 2019,
+          "note": "Chris hasn't seen it yet, but flags the shrugging 'solid job' reception it's getting as the same muted response workmanlike adult dramas got in the 90s."
+        },
+        {
+          "title": "The Pelican Brief",
+          "year": 1993,
+          "note": "Chris's comparison for that kind of polite, unexcited praise."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Adam Nayman's top five",
+      "ranked": true,
+      "subject": "Adam Nayman",
+      "films": [
+        {
+          "title": "The Irishman",
+          "year": 2019,
+          "note": "His No. 1. A late Scorsese film about aging, contemplation, and death, handled outside the usual gangster-movie register. He saw it alone at TIFF's Bell Lightbox with a rapt under-40 crowd for all three and a half hours."
+        },
+        {
+          "title": "Parasite",
+          "year": 2019,
+          "note": "His No. 2 (also Sean's). Says nobody shoots a scene better than Bong right now, incapable of a boring shot, and contrasts it with Us, which he calls 'so fussy.'"
+        },
+        {
+          "title": "Uncut Gems",
+          "year": 2019,
+          "note": "His No. 3. On the Safdies' compulsive, hustling energy, and how Sandler has to meet them halfway rather than the movie bending around him."
+        },
+        {
+          "title": "Transit",
+          "year": 2018,
+          "note": "His No. 4. A period story shot with zero period signifiers, in present-day Marseille. Calls Christian Petzold his director of the decade and has rewatched it three or four times."
+        },
+        {
+          "title": "High Life",
+          "year": 2018,
+          "note": "His No. 5. Robert Pattinson and Andre 3000 in a prison-colony-in-space movie he admires above all as pure images: bodies falling off the ship, Pattinson with his daughter."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Amanda Dobbins's top five",
+      "ranked": true,
+      "subject": "Amanda Dobbins",
+      "films": [
+        {
+          "title": "Parasite",
+          "year": 2019,
+          "note": "Her No. 1. An 'instant classic' that already fed into the culture (the Jessica jingle meme) while staying morally contemporary: nobody in it is a flat villain."
+        },
+        {
+          "title": "Marriage Story",
+          "year": 2019,
+          "note": "Her No. 2, her sentimental pick in a bleak Oscar season. Ends on warmth rather than hope, and she calls Baumbach's movies 'comfort food.'"
+        },
+        {
+          "title": "Once Upon a Time in Hollywood",
+          "year": 2019,
+          "note": "Her No. 3. A love letter to Hollywood and an alternate history that wants the best for people who didn't get it in real life: 'lived in and companionable' despite the length."
+        },
+        {
+          "title": "The Souvenir",
+          "year": 2019,
+          "note": "Her No. 4, and the only one of the four with it on their list. Joanna Hogg's autobiographical story of a young film student in a bad relationship, anchored by Honor Swinton Byrne and Tom Burke."
+        },
+        {
+          "title": "American Factory",
+          "year": 2019,
+          "note": "Her No. 5. A documentary about a shuttered GM plant in Dayton reopened by the Chinese company Fuyao, which she calls the likely front-runner for the documentary Oscar."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Chris Ryan's top five",
+      "ranked": true,
+      "subject": "Chris Ryan",
+      "films": [
+        {
+          "title": "Once Upon a Time in Hollywood",
+          "year": 2019,
+          "note": "His No. 1 (tied with Sean). About characters merging themselves with history, the same trick Frank Sheeran pulls in The Irishman. He thinks this one gets recycled and lives on."
+        },
+        {
+          "title": "The Irishman",
+          "year": 2019,
+          "note": "His No. 2. Sees it as continuous with The Wolf of Wall Street and Silence, all part of 'this late period of Scorsese,' and praises how the first two-thirds set up a devastating final hour."
+        },
+        {
+          "title": "Marriage Story",
+          "year": 2019,
+          "note": "His No. 3. An interview accidentally unlocked it for him as a legal thriller about people getting carved up by institutions, though he still rates the performances and craft on their own terms."
+        },
+        {
+          "title": "The Laundromat",
+          "year": 2019,
+          "note": "His No. 4. Soderbergh's Panama Papers movie (essayistic, fourth-wall-breaking, with Gary Oldman and Antonio Banderas), which he thinks is criminally overlooked next to Netflix's higher-profile awards plays."
+        },
+        {
+          "title": "The Standoff at Sparrow Creek",
+          "year": 2019,
+          "note": "His No. 5, and the pick he had to Google to recall. Henry Dunham's directorial debut, a taut noir whodunit about a militia trying to find the killer in its own ranks."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Sean Fennessey's top five",
+      "ranked": true,
+      "subject": "Sean Fennessey",
+      "films": [
+        {
+          "title": "Once Upon a Time in Hollywood",
+          "year": 2019,
+          "note": "His No. 1 too. Along with Parasite, the movie he thinks will have a decades-long shelf life, coming up every time people talk about Tarantino, Pitt, or DiCaprio."
+        },
+        {
+          "title": "Parasite",
+          "year": 2019,
+          "note": "His No. 2. Praises its rewatchability and calls it a rare case of a 'true master working at the height of his powers' that's also just plain enjoyable."
+        },
+        {
+          "title": "The Irishman",
+          "year": 2019,
+          "note": "His No. 3. A movie about time catching up with you, and the ways you disappoint people while believing you're protecting them. Already watched it twice."
+        },
+        {
+          "title": "Uncut Gems",
+          "year": 2019,
+          "note": "His No. 4 (also Adam's No. 3). The Safdies' Diamond District thriller with Adam Sandler as Howard Ratner, plus Kevin Garnett, The Weeknd, and Idina Menzel."
+        },
+        {
+          "title": "Marriage Story",
+          "year": 2019,
+          "note": "His No. 5. Noah Baumbach's most widely celebrated film, anchored by what Sean calls his favorite performance of the year: Adam Driver's."
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "heading": "Honorable mentions",
+      "note": "plus one dishonorable one",
+      "picks": [
+        {
+          "by": "Adam Nayman",
+          "title": "Domino",
+          "year": 2019,
+          "note": "His dishonorable mention. Brian De Palma's little-seen thriller, a movie only De Palma could've made, even if it's 'not necessarily very good.'"
+        },
+        {
+          "by": "Chris Ryan",
+          "title": "Plus One",
+          "year": 2019,
+          "note": "A summer romantic comedy he liked."
+        },
+        {
+          "by": "Chris Ryan",
+          "title": "Sword of Trust",
+          "year": 2019,
+          "note": "Lynn Shelton's small indie starring Marc Maron."
+        },
+        {
+          "by": "Amanda Dobbins",
+          "title": "Triple Frontier",
+          "year": 2019,
+          "note": "Offered half as a joke: a Netflix movie about 'hot dads in vests' she watched with Chris and Sean, featuring Oscar Isaac in a helicopter listening to Metallica."
+        },
+        {
+          "by": "Sean Fennessey",
+          "title": "Midsommar",
+          "year": 2019,
+          "note": "Made him 'feel like shit,' which he means as praise for how disturbing and slow-building it is."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Mickey and the Bear",
+        "Donnybrook",
+        "Knives Out",
+        "Little Women",
+        "Heaven Knows What",
+        "Punch-Drunk Love",
+        "Wild Tales",
+        "The Ballad of Buster Scruggs",
+        "High Flying Bird",
+        "Us",
+        "Roma"
+      ]
+    },
+    {
+      "group": "Baumbach and Scorsese touchstones",
+      "films": [
+        "The Squid and the Whale",
+        "Kramer vs. Kramer",
+        "The Wolf of Wall Street",
+        "Silence",
+        "Taxi Driver",
+        "Raging Bull",
+        "The Last Temptation of Christ",
+        "Goodfellas",
+        "The Departed"
+      ]
+    },
+    {
+      "group": "Petzold and Tarantino comps",
+      "films": [
+        "Casablanca",
+        "Phoenix",
+        "Barbara",
+        "Jackie Brown",
+        "Pulp Fiction",
+        "Forrest Gump"
+      ]
+    },
+    {
+      "group": "Other name-checks",
+      "films": [
+        "Mank",
+        "Dark Phoenix",
+        "De Palma"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "House of Cards"
+    ]
+  },
+  "tmdbOverrides": {
+    "Phoenix": 254578,
+    "Barbara": 88284
+  },
+  "tmdb": {
+    "Dark Waters": {
+      "id": 552178,
+      "poster": "/bzvzaHqKBSuGIIWhinTQPHvT0zf.jpg",
+      "title": "Dark Waters",
+      "year": 2019
+    },
+    "The Pelican Brief": {
+      "id": 9944,
+      "poster": "/7B1HS0SqfJR1jbeHS6V0ZWdzLXP.jpg",
+      "title": "The Pelican Brief",
+      "year": 1993
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Uncut Gems": {
+      "id": 473033,
+      "poster": "/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+      "title": "Uncut Gems",
+      "year": 2019
+    },
+    "Transit": {
+      "id": 471853,
+      "poster": "/3YLOCnokMMSIOCvA0kCnkhpTD79.jpg",
+      "title": "Transit",
+      "year": 2018
+    },
+    "High Life": {
+      "id": 376865,
+      "poster": "/wElOvH7H6sLElsTOLu1MY6oWRUx.jpg",
+      "title": "High Life",
+      "year": 2018
+    },
+    "Marriage Story": {
+      "id": 492188,
+      "poster": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+      "title": "Marriage Story",
+      "year": 2019
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "The Souvenir": {
+      "id": 473019,
+      "poster": "/2Nj04HsZ0lNkv07JnfBZ0bAIECn.jpg",
+      "title": "The Souvenir",
+      "year": 2019
+    },
+    "American Factory": {
+      "id": 565716,
+      "poster": "/7jH3dQOJ3CHMrp9tWsI3rRCDiaD.jpg",
+      "title": "American Factory",
+      "year": 2019
+    },
+    "The Laundromat": {
+      "id": 517909,
+      "poster": "/hwNMJgbiUUvPCxsnADjbV9ysM5j.jpg",
+      "title": "The Laundromat",
+      "year": 2019
+    },
+    "The Standoff at Sparrow Creek": {
+      "id": 516630,
+      "poster": "/uCyDJGQ54vcCclNqa6nLcSqH3DQ.jpg",
+      "title": "The Standoff at Sparrow Creek",
+      "year": 2019
+    },
+    "Domino": {
+      "id": 455957,
+      "poster": "/4ExrDZRhhmZkveXMjUzywc6266q.jpg",
+      "title": "Domino",
+      "year": 2019
+    },
+    "Plus One": {
+      "id": 508101,
+      "poster": "/4w3bCp5UkLeemdq8MBNlyA3Zl2J.jpg",
+      "title": "Plus One",
+      "year": 2019
+    },
+    "Sword of Trust": {
+      "id": 575942,
+      "poster": "/1OK1xEzEQEwkh0F4FwyTbulMm2S.jpg",
+      "title": "Sword of Trust",
+      "year": 2019
+    },
+    "Triple Frontier": {
+      "id": 399361,
+      "poster": "/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg",
+      "title": "Triple Frontier",
+      "year": 2019
+    },
+    "Midsommar": {
+      "id": 530385,
+      "poster": "/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+      "title": "Midsommar",
+      "year": 2019
+    },
+    "Mickey and the Bear": {
+      "id": 575958,
+      "poster": "/30ZXfZJeqfmo2lkycFbDod9XMqd.jpg",
+      "title": "Mickey and the Bear",
+      "year": 2019
+    },
+    "Donnybrook": {
+      "id": 504599,
+      "poster": "/jcuEDKnM3uThdz7p0YYWFjMla73.jpg",
+      "title": "Donnybrook",
+      "year": 2018
+    },
+    "Knives Out": {
+      "id": 546554,
+      "poster": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+      "title": "Knives Out",
+      "year": 2019
+    },
+    "Little Women": {
+      "id": 331482,
+      "poster": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+      "title": "Little Women",
+      "year": 2019
+    },
+    "Heaven Knows What": {
+      "id": 285024,
+      "poster": "/4oyWMOWJ6trsRuyzn5cHPv50zVH.jpg",
+      "title": "Heaven Knows What",
+      "year": 2015
+    },
+    "Punch-Drunk Love": {
+      "id": 8051,
+      "poster": "/htYp4yqFu4rzBEIa6j9jP8miDm3.jpg",
+      "title": "Punch-Drunk Love",
+      "year": 2002
+    },
+    "Wild Tales": {
+      "id": 265195,
+      "poster": "/bU7IUeTdYFOgeUPtwpWKQNhORMC.jpg",
+      "title": "Wild Tales",
+      "year": 2014
+    },
+    "The Ballad of Buster Scruggs": {
+      "id": 537996,
+      "poster": "/voxl654m7p36y8FLu8oQD7dfwwK.jpg",
+      "title": "The Ballad of Buster Scruggs",
+      "year": 2018
+    },
+    "High Flying Bird": {
+      "id": 510498,
+      "poster": "/ccE21xixa1zhkGtWDr4n8ReOp40.jpg",
+      "title": "High Flying Bird",
+      "year": 2019
+    },
+    "Us": {
+      "id": 458723,
+      "poster": "/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+      "title": "Us",
+      "year": 2019
+    },
+    "Roma": {
+      "id": 426426,
+      "poster": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+      "title": "Roma",
+      "year": 2018
+    },
+    "The Squid and the Whale": {
+      "id": 10707,
+      "poster": "/9NbXn1NMdfGM491V3EFjZADR9SX.jpg",
+      "title": "The Squid and the Whale",
+      "year": 2005
+    },
+    "Kramer vs. Kramer": {
+      "id": 12102,
+      "poster": "/3CUP5V5SWfHSK4qvkZF7lMNyugY.jpg",
+      "title": "Kramer vs. Kramer",
+      "year": 1979
+    },
+    "The Wolf of Wall Street": {
+      "id": 106646,
+      "poster": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+      "title": "The Wolf of Wall Street",
+      "year": 2013
+    },
+    "Silence": {
+      "id": 68730,
+      "poster": "/x5T0cQDYws0xRBVG4Q3wpcrcmax.jpg",
+      "title": "Silence",
+      "year": 2016
+    },
+    "Taxi Driver": {
+      "id": 103,
+      "poster": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "title": "Taxi Driver",
+      "year": 1976
+    },
+    "Raging Bull": {
+      "id": 1578,
+      "poster": "/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
+      "title": "Raging Bull",
+      "year": 1980
+    },
+    "The Last Temptation of Christ": {
+      "id": 11051,
+      "poster": "/7L4qwrC1mipZXJfU5oRgQWChLv1.jpg",
+      "title": "The Last Temptation of Christ",
+      "year": 1988
+    },
+    "Goodfellas": {
+      "id": 769,
+      "poster": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+      "title": "GoodFellas",
+      "year": 1990
+    },
+    "The Departed": {
+      "id": 1422,
+      "poster": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+      "title": "The Departed",
+      "year": 2006
+    },
+    "Casablanca": {
+      "id": 289,
+      "poster": "/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+      "title": "Casablanca",
+      "year": 1943
+    },
+    "Phoenix": {
+      "id": 254578,
+      "poster": "/rJuKu5Rpg92AkzyC5rbYbqsNPI9.jpg",
+      "title": "Phoenix",
+      "year": 2014
+    },
+    "Barbara": {
+      "id": 88284,
+      "poster": "/i7yjITqgz5zSW1jJWzxfwQsyDeo.jpg",
+      "title": "Barbara",
+      "year": 2012
+    },
+    "Jackie Brown": {
+      "id": 184,
+      "poster": "/rOUx7qg4KmEh1juEDwqzbDSL1Nr.jpg",
+      "title": "Jackie Brown",
+      "year": 1997
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "Forrest Gump": {
+      "id": 13,
+      "poster": "/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
+      "title": "Forrest Gump",
+      "year": 1994
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "Dark Phoenix": {
+      "id": 320288,
+      "poster": "/cCTJPelKGLhALq3r51A9uMonxKj.jpg",
+      "title": "Dark Phoenix",
+      "year": 2019
+    },
+    "De Palma": {
+      "id": 355254,
+      "poster": "/uYYxSGwKWrnN86Uyuk0NyDzCLwh.jpg",
+      "title": "De Palma",
+      "year": 2016
+    }
+  }
+}

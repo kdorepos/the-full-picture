@@ -1,0 +1,578 @@
+{
+  "slug": "the-stephen-king-movie-hall-of-fame",
+  "title": "The Stephen King Movie Hall of Fame",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Matt Gourley",
+    "Paul Rust"
+  ],
+  "published": "2022-05-13",
+  "runtimeMin": 93,
+  "format": "Sean Fennessey recruits the hosts of With Gourley and Rust to build a ten-film Stephen King Hall of Fame, arguing through five decades of adaptations from Carrie to It.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Stephen King never really goes away",
+      "note": "with Matt Gourley and Paul Rust of With Gourley and Rust",
+      "films": [
+        {
+          "title": "Firestarter",
+          "year": 2022,
+          "note": "The new Zac Efron adaptation opening this weekend is what kicked off the conversation; nobody argues it's good."
+        }
+      ]
+    },
+    {
+      "kind": "halloffame",
+      "heading": "The Stephen King Movie Hall of Fame",
+      "note": "ten films, voted green, yellow, or red live on the show",
+      "honoree": "Stephen King",
+      "films": [
+        {
+          "title": "Carrie",
+          "year": 1976,
+          "note": "Brian De Palma's adaptation of King's first novel got Sissy Spacek and Piper Laurie both Oscar nominations. Matt's the outlier who doesn't love it."
+        },
+        {
+          "title": "The Shining",
+          "year": 1980,
+          "note": "The one unanimous pick of the episode. King famously hated Kubrick's version; nobody here is bothered by that."
+        },
+        {
+          "title": "Creepshow",
+          "year": 1982,
+          "note": "George Romero directs, King acts. Started as a yellow, then survived the final cut over Maximum Overdrive and The Running Man."
+        },
+        {
+          "title": "The Dead Zone",
+          "year": 1983,
+          "note": "The favorite of a stacked 1983 class that also included Cujo and Christine, both of which missed the cut."
+        },
+        {
+          "title": "Stand By Me",
+          "year": 1986,
+          "note": "King's first non-horror adaptation, and the one that introduced him to Rob Reiner, whose production company Castle Rock is named after a King setting."
+        },
+        {
+          "title": "The Running Man",
+          "year": 1987,
+          "note": "Took the last open slot over Maximum Overdrive on a straight gut call from Matt Gourley."
+        },
+        {
+          "title": "Misery",
+          "year": 1990,
+          "note": "The easiest yes of the episode. Kathy Bates, James Caan, a William Goldman script."
+        },
+        {
+          "title": "The Shawshank Redemption",
+          "year": 1994,
+          "note": "In without debate, backlash-to-the-backlash notwithstanding."
+        },
+        {
+          "title": "The Mist",
+          "year": 2007,
+          "note": "The episode's other unanimous pick. Frank Darabont's bleakest ending, in a filmography full of them."
+        },
+        {
+          "title": "It",
+          "year": 2017,
+          "note": "Voted in on its own, separate from Chapter Two, which none of the three had actually finished."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Considered, then cut",
+      "films": [
+        "Cat's Eye",
+        "Cujo",
+        "Christine",
+        "Children of the Corn",
+        "Firestarter (1984)",
+        "Silver Bullet",
+        "Maximum Overdrive",
+        "Pet Sematary",
+        "Tales from the Darkside: The Movie",
+        "Graveyard Shift",
+        "Sleepwalkers",
+        "The Lawnmower Man",
+        "The Dark Half",
+        "Needful Things",
+        "The Mangler",
+        "Dolores Claiborne",
+        "Thinner",
+        "The Night Flier",
+        "Apt Pupil",
+        "The Green Mile",
+        "Hearts in Atlantis",
+        "Dreamcatcher",
+        "Secret Window",
+        "Riding the Bullet",
+        "1408",
+        "Dolan's Cadillac",
+        "Carrie (2013 remake)",
+        "A Good Marriage",
+        "Cell",
+        "The Dark Tower",
+        "Gerald's Game",
+        "1922",
+        "It Chapter Two",
+        "Pet Sematary (2019 remake)",
+        "In the Tall Grass",
+        "Doctor Sleep"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Going in Style",
+        "Body Double",
+        "Three Amigos",
+        "Mission: Impossible",
+        "The Untouchables",
+        "Superman III",
+        "Crimes of the Future",
+        "Jason X"
+      ]
+    },
+    {
+      "group": "With Gourley and Rust's other seasons",
+      "films": [
+        "Friday the 13th",
+        "Halloween",
+        "A Nightmare on Elm Street",
+        "Alien",
+        "Jaws",
+        "Piranha",
+        "Scream",
+        "Child's Play",
+        "The Hand That Rocks the Cradle",
+        "Sleeping with the Enemy",
+        "Pacific Heights"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Langoliers",
+      "The Stand",
+      "Salem's Lot",
+      "Tommyknockers",
+      "Mr. Mercedes",
+      "Sometimes They Come Back"
+    ],
+    "Ads": [
+      "Netflix FIFA World Cup Launch Edition",
+      "Boar's Head",
+      "White Claw"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Night Flier": 12238,
+    "Firestarter (1984)": 11495,
+    "Carrie (2013 remake)": 133805,
+    "Pet Sematary": 8913,
+    "Going in Style": 65066
+  },
+  "tmdb": {
+    "Firestarter": {
+      "id": 532710,
+      "poster": "/jjBdPcQ0bplBnv2XgElKLoeFDuM.jpg",
+      "title": "Firestarter",
+      "year": 2022
+    },
+    "Carrie": {
+      "id": 7340,
+      "poster": "/8tT1rqlsTguyfUBMrbHR9cv1rxM.jpg",
+      "title": "Carrie",
+      "year": 1976
+    },
+    "The Shining": {
+      "id": 694,
+      "poster": "/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg",
+      "title": "The Shining",
+      "year": 1980
+    },
+    "Creepshow": {
+      "id": 16281,
+      "poster": "/4SoyTCEpsgLjX6yAyMsx3AsAyRQ.jpg",
+      "title": "Creepshow",
+      "year": 1982
+    },
+    "The Dead Zone": {
+      "id": 11336,
+      "poster": "/9yTVaeS8eIkOpbwIycVFm7EQrgF.jpg",
+      "title": "The Dead Zone",
+      "year": 1983
+    },
+    "Stand By Me": {
+      "id": 235,
+      "poster": "/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg",
+      "title": "Stand by Me",
+      "year": 1986
+    },
+    "The Running Man": {
+      "id": 865,
+      "poster": "/GTAUOhO4BN0peJVvxGEQydJvUO.jpg",
+      "title": "The Running Man",
+      "year": 1987
+    },
+    "Misery": {
+      "id": 1700,
+      "poster": "/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg",
+      "title": "Misery",
+      "year": 1990
+    },
+    "The Shawshank Redemption": {
+      "id": 278,
+      "poster": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+      "title": "The Shawshank Redemption",
+      "year": 1994
+    },
+    "The Mist": {
+      "id": 5876,
+      "poster": "/1CvJ6diBACKPVGOpcWuY4XPQdqX.jpg",
+      "title": "The Mist",
+      "year": 2007
+    },
+    "It": {
+      "id": 346364,
+      "poster": "/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",
+      "title": "It",
+      "year": 2017
+    },
+    "Cat's Eye": {
+      "id": 10552,
+      "poster": "/kKyq7izpMkmr8sT2nLic5qAuJPo.jpg",
+      "title": "Cat's Eye",
+      "year": 1985
+    },
+    "Cujo": {
+      "id": 10489,
+      "poster": "/uNBt2YxrQdyOjnm2rDQ5QiCmQ0K.jpg",
+      "title": "Cujo",
+      "year": 1983
+    },
+    "Christine": {
+      "id": 8769,
+      "poster": "/mMtUJke2TtIoT6JB9hkvERmsSu8.jpg",
+      "title": "Christine",
+      "year": 1983
+    },
+    "Children of the Corn": {
+      "id": 10823,
+      "poster": "/jJTrFHu3rjAgP1lryKGEsC9hqyM.jpg",
+      "title": "Children of the Corn",
+      "year": 1984
+    },
+    "Firestarter (1984)": {
+      "id": 11495,
+      "poster": "/2ux5lqNuibd8eOkwwUhzfzAJBqD.jpg",
+      "title": "Firestarter",
+      "year": 1984
+    },
+    "Silver Bullet": {
+      "id": 17898,
+      "poster": "/52CvWYuJyWcMTPvsfcmsxaVHi7f.jpg",
+      "title": "Silver Bullet",
+      "year": 1985
+    },
+    "Maximum Overdrive": {
+      "id": 9980,
+      "poster": "/8pGYesuatPnMS8lhS4NvwiDjKbG.jpg",
+      "title": "Maximum Overdrive",
+      "year": 1986
+    },
+    "Pet Sematary": {
+      "id": 8913,
+      "poster": "/a1gIACZb04bL8EvLqMpofW2Eqeo.jpg",
+      "title": "Pet Sematary",
+      "year": 1989
+    },
+    "Tales from the Darkside: The Movie": {
+      "id": 20701,
+      "poster": "/5q8WK4gW45Knxhpb29IVOCbbfI7.jpg",
+      "title": "Tales from the Darkside: The Movie",
+      "year": 1990
+    },
+    "Graveyard Shift": {
+      "id": 19158,
+      "poster": "/vITvLxFsDbbg6TMgpYWWscMOf0G.jpg",
+      "title": "Graveyard Shift",
+      "year": 1990
+    },
+    "Sleepwalkers": {
+      "id": 11428,
+      "poster": "/iiwplv5pET2HgMog6otunohIiSr.jpg",
+      "title": "Sleepwalkers",
+      "year": 1992
+    },
+    "The Lawnmower Man": {
+      "id": 10163,
+      "poster": "/1VLqWcel87oYVmN383FgSH0mCTY.jpg",
+      "title": "The Lawnmower Man",
+      "year": 1992
+    },
+    "The Dark Half": {
+      "id": 10349,
+      "poster": "/uTzi0no438AjKELtJgTbipNxWGu.jpg",
+      "title": "The Dark Half",
+      "year": 1993
+    },
+    "Needful Things": {
+      "id": 10657,
+      "poster": "/9RxE6kd1ky4689WxqX6CHEpIWya.jpg",
+      "title": "Needful Things",
+      "year": 1993
+    },
+    "The Mangler": {
+      "id": 13559,
+      "poster": "/vwRZOUzIX17luLM69sCC9meM9od.jpg",
+      "title": "The Mangler",
+      "year": 1995
+    },
+    "Dolores Claiborne": {
+      "id": 11929,
+      "poster": "/yqY5h9kI456xXRWv6u9t0Axn9CS.jpg",
+      "title": "Dolores Claiborne",
+      "year": 1995
+    },
+    "Thinner": {
+      "id": 10280,
+      "poster": "/nXqHqsQXA0jJpCaUsyre1Yw18oV.jpg",
+      "title": "Thinner",
+      "year": 1996
+    },
+    "The Night Flier": {
+      "id": 12238,
+      "poster": "/3bMb6CzdKfpw0pZWVW2RbQRneIC.jpg",
+      "title": "The Night Flier",
+      "year": 1997
+    },
+    "Apt Pupil": {
+      "id": 9445,
+      "poster": "/pU3fvfSvrs5pZFdODPCzoLk95Ws.jpg",
+      "title": "Apt Pupil",
+      "year": 1998
+    },
+    "The Green Mile": {
+      "id": 497,
+      "poster": "/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+      "title": "The Green Mile",
+      "year": 1999
+    },
+    "Hearts in Atlantis": {
+      "id": 11313,
+      "poster": "/qPTEh8vutS5FSCDoR16MWVGHqTm.jpg",
+      "title": "Hearts in Atlantis",
+      "year": 2001
+    },
+    "Dreamcatcher": {
+      "id": 6171,
+      "poster": "/hJn1tEpjCCm3RiKMtZ2HNPmCaqZ.jpg",
+      "title": "Dreamcatcher",
+      "year": 2003
+    },
+    "Secret Window": {
+      "id": 1586,
+      "poster": "/hvzw4wufKZkDCTPVeG71Z7pGfZh.jpg",
+      "title": "Secret Window",
+      "year": 2004
+    },
+    "Riding the Bullet": {
+      "id": 12483,
+      "poster": "/oM9X7NvJ0Ses0thXu70Wuar9Afd.jpg",
+      "title": "Riding the Bullet",
+      "year": 2004
+    },
+    "1408": {
+      "id": 3021,
+      "poster": "/yE9MCW7ZNxSw5SC1TMqm51pMBIV.jpg",
+      "title": "1408",
+      "year": 2007
+    },
+    "Dolan's Cadillac": {
+      "id": 19823,
+      "poster": "/5R9MivzBtRpZCq3amYmNjEmfChT.jpg",
+      "title": "Dolan's Cadillac",
+      "year": 2009
+    },
+    "Carrie (2013 remake)": {
+      "id": 133805,
+      "poster": "/kloXz9qwO23z9Kbt3z3MgnjF4xO.jpg",
+      "title": "Carrie",
+      "year": 2013
+    },
+    "A Good Marriage": {
+      "id": 288281,
+      "poster": "/8odAiCOM9qwzzGRW69aKfAvK85q.jpg",
+      "title": "A Good Marriage",
+      "year": 2014
+    },
+    "Cell": {
+      "id": 168098,
+      "poster": "/c5N6Pw3P6TqQnGcqiVkhO9u85KB.jpg",
+      "title": "Cell",
+      "year": 2016
+    },
+    "The Dark Tower": {
+      "id": 353491,
+      "poster": "/i9GUSgddIqrroubiLsvvMRYyRy0.jpg",
+      "title": "The Dark Tower",
+      "year": 2017
+    },
+    "Gerald's Game": {
+      "id": 343674,
+      "poster": "/32dippiypDdaKv7XFEfUlQ7kPup.jpg",
+      "title": "Gerald's Game",
+      "year": 2017
+    },
+    "1922": {
+      "id": 452507,
+      "poster": "/q4FQOiSRhTLWulHl5Vpg37FMArH.jpg",
+      "title": "1922",
+      "year": 2017
+    },
+    "It Chapter Two": {
+      "id": 474350,
+      "poster": "/zfE0R94v1E8cuKAerbskfD3VfUt.jpg",
+      "title": "It Chapter Two",
+      "year": 2019
+    },
+    "Pet Sematary (2019 remake)": {
+      "id": 157433,
+      "poster": "/7SPhr7Qj39vbnfF9O2qHRYaKHAL.jpg",
+      "title": "Pet Sematary",
+      "year": 2019
+    },
+    "In the Tall Grass": {
+      "id": 523139,
+      "poster": "/1RxhzwFkAUqMt215Brb06u8P8pn.jpg",
+      "title": "In the Tall Grass",
+      "year": 2019
+    },
+    "Doctor Sleep": {
+      "id": 501170,
+      "poster": "/p69QzIBbN06aTYqRRiCOY1emNBh.jpg",
+      "title": "Doctor Sleep",
+      "year": 2019
+    },
+    "Going in Style": {
+      "id": 65066,
+      "poster": "/4TYdgaA6FV6PoKsJ34vQpzMlzMv.jpg",
+      "title": "Going in Style",
+      "year": 1979
+    },
+    "Body Double": {
+      "id": 11507,
+      "poster": "/lRFm5P2AdOGpELwm3HHhmUz6k5I.jpg",
+      "title": "Body Double",
+      "year": 1984
+    },
+    "Three Amigos": {
+      "id": 8388,
+      "poster": "/dUNRnhl2cwjFJ6TOsaPJmZeMZ0S.jpg",
+      "title": "¡Three Amigos!",
+      "year": 1986
+    },
+    "Mission: Impossible": {
+      "id": 954,
+      "poster": "/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
+      "title": "Mission: Impossible",
+      "year": 1996
+    },
+    "The Untouchables": {
+      "id": 117,
+      "poster": "/tPq0R4jTO4Ey8ZspFaWK9wGA4Ls.jpg",
+      "title": "The Untouchables",
+      "year": 1987
+    },
+    "Superman III": {
+      "id": 9531,
+      "poster": "/c4oR6qgZW2s5foGkQi2Dd86KuAS.jpg",
+      "title": "Superman III",
+      "year": 1983
+    },
+    "Crimes of the Future": {
+      "id": 819876,
+      "poster": "/RAFYMC0NgK9In9aGY6k6wsIL8w.jpg",
+      "title": "Crimes of the Future",
+      "year": 2022
+    },
+    "Jason X": {
+      "id": 11470,
+      "poster": "/ggOND0hfoE0f3K857joSzEeIchb.jpg",
+      "title": "Jason X",
+      "year": 2001
+    },
+    "Friday the 13th": {
+      "id": 4488,
+      "poster": "/uGGpnWHOmWTARVN9wbC1nPxNgps.jpg",
+      "title": "Friday the 13th",
+      "year": 1980
+    },
+    "Halloween": {
+      "id": 948,
+      "poster": "/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+      "title": "Halloween",
+      "year": 1978
+    },
+    "A Nightmare on Elm Street": {
+      "id": 377,
+      "poster": "/b9rMHAAKISRmIonaQd9Cccx0S4X.jpg",
+      "title": "A Nightmare on Elm Street",
+      "year": 1984
+    },
+    "Alien": {
+      "id": 348,
+      "poster": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "title": "Alien",
+      "year": 1979
+    },
+    "Jaws": {
+      "id": 578,
+      "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "title": "Jaws",
+      "year": 1975
+    },
+    "Piranha": {
+      "id": 24831,
+      "poster": "/oaz0Le3fT3R8jzlkXkNV7JAsd7x.jpg",
+      "title": "Piranha",
+      "year": 1978
+    },
+    "Scream": {
+      "id": 4232,
+      "poster": "/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+      "title": "Scream",
+      "year": 1996
+    },
+    "Child's Play": {
+      "id": 10585,
+      "poster": "/wvpgvcWNkF2HLuTEMIM7K83MvZ.jpg",
+      "title": "Child's Play",
+      "year": 1988
+    },
+    "The Hand That Rocks the Cradle": {
+      "id": 11087,
+      "poster": "/1fBnyO3SbNBplck45js6O4pQaLw.jpg",
+      "title": "The Hand That Rocks the Cradle",
+      "year": 1992
+    },
+    "Sleeping with the Enemy": {
+      "id": 7442,
+      "poster": "/zaUkndJP8IClB1gMsbw13PoVeLS.jpg",
+      "title": "Sleeping with the Enemy",
+      "year": 1991
+    },
+    "Pacific Heights": {
+      "id": 2990,
+      "poster": "/9iHD6xIrGSuuMEFWhwSVGXSddY2.jpg",
+      "title": "Pacific Heights",
+      "year": 1990
+    }
+  }
+}

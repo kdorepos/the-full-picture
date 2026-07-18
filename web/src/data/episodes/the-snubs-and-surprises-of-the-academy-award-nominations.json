@@ -1,0 +1,537 @@
+{
+  "slug": "the-snubs-and-surprises-of-the-academy-award-nominations",
+  "title": "The Snubs and Surprises of the Academy Award Nominations",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2021-03-15",
+  "runtimeMin": 63,
+  "format": "Sean and Amanda go through the 93rd Academy Award nominations morning by morning: LaKeith Stanfield's shock supporting-actor nod, Thomas Vinterberg bumping Aaron Sorkin for director, the shutouts for Da 5 Bloods, Ma Rainey's Black Bottom, and One Night in Miami, then a power ranking of the Best Picture field with six weeks to go.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The Best Picture Surprises",
+      "note": "93rd Academy Awards nominations morning",
+      "films": [
+        {
+          "title": "Judas and the Black Messiah",
+          "year": 2021,
+          "note": "Six nominations, including a genuinely surprising Best Supporting Actor nod for LaKeith Stanfield alongside co-star Daniel Kaluuya, two supporting nominees from a film with two leads."
+        },
+        {
+          "title": "The Father",
+          "year": 2020,
+          "note": "A Sundance 2020 title almost nobody had actually seen going into nomination morning; recency bias worked in its favor."
+        },
+        {
+          "title": "The Trial of the Chicago 7",
+          "year": 2020,
+          "note": "One of the eight Best Picture nominees; the real surprise attached to it was Aaron Sorkin missing a Best Director nomination."
+        },
+        {
+          "title": "Minari",
+          "year": 2020,
+          "note": "Six nominations, including Youn Yuh-jung for supporting actress and Lee Isaac Chung for director, expected but welcome nonetheless."
+        },
+        {
+          "title": "Another Round",
+          "year": 2020,
+          "note": "Thomas Vinterberg's surprise Best Director nomination knocked out the presumed Sorkin slot."
+        },
+        {
+          "title": "Mank",
+          "year": 2020,
+          "note": "Ten nominations, the most of any film this year."
+        },
+        {
+          "title": "Borat Subsequent Moviefilm",
+          "year": 2020,
+          "note": "Maria Bakalova's supporting actress nomination, plus a Best Adapted Screenplay nod for a movie that's largely improvised."
+        },
+        {
+          "title": "The White Tiger",
+          "year": 2021,
+          "note": "Ramin Bahrani's Netflix film picked up a surprise Best Adapted Screenplay nomination."
+        },
+        {
+          "title": "Eurovision Song Contest: The Story of Fire Saga",
+          "year": 2020,
+          "note": "\"Husavik\" landed a Best Original Song nomination."
+        },
+        {
+          "title": "My Octopus Teacher",
+          "year": 2020,
+          "note": "The Netflix documentary that wrecked a lot of people during lockdown; not either host's pick, but they get why it connected."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The Snubs",
+      "films": [
+        {
+          "title": "Ma Rainey's Black Bottom",
+          "year": 2020,
+          "note": "Left out of Best Picture despite three acting nominations; Viola Davis, Chadwick Boseman, and George C. Wolfe's staging couldn't carry it in."
+        },
+        {
+          "title": "One Night in Miami",
+          "year": 2020,
+          "note": "Also shut out of Best Picture; Regina King didn't get a director nomination either, despite praise for how she handles her four leads."
+        },
+        {
+          "title": "Da 5 Bloods",
+          "year": 2020,
+          "note": "Delroy Lindo's total shutout, save a score nomination, is the sorest spot on the whole slate for both hosts."
+        },
+        {
+          "title": "The Mauritanian",
+          "year": 2021,
+          "note": "Jodie Foster won a Golden Globe for this and was widely expected in supporting actress; she's not here."
+        },
+        {
+          "title": "News of the World",
+          "year": 2020,
+          "note": "Four nominations, but nothing for Tom Hanks, Paul Greengrass, or Helena Zengel."
+        },
+        {
+          "title": "Hillbilly Elegy",
+          "year": 2020,
+          "note": "Glenn Close got in for this; Amy Adams did not, which both hosts count as a relief."
+        },
+        {
+          "title": "Boys State",
+          "year": 2020,
+          "note": "One of Sean's favorite films of the year, skipped by the documentary branch, likely because almost nobody saw it since it landed on Apple TV+."
+        },
+        {
+          "title": "Dick Johnson Is Dead",
+          "year": 2020,
+          "note": "Also shut out of documentary; too formally strange for that branch, in Sean's read."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "What Happens the Next Six Weeks",
+      "films": [
+        {
+          "title": "Nomadland",
+          "year": 2020,
+          "note": "The presumptive Best Picture winner; Chloe Zhao could become the first person to win four Oscars in one night, for picture, director, adapted screenplay, and editing."
+        },
+        {
+          "title": "Mank",
+          "year": 2020,
+          "note": "Ten nominations, warm reviews, no enthusiasm. With no editing or original screenplay nod, this could be a repeat of The Irishman's zero-win night."
+        },
+        {
+          "title": "Judas and the Black Messiah",
+          "year": 2021,
+          "note": "Ryan Coogler's first Oscar nomination, as a producer; Sean reads it as an early Spielberg-esque career turn."
+        },
+        {
+          "title": "Promising Young Woman",
+          "year": 2020,
+          "note": "Five nominations that Sean thinks really add up to one real shot, for Emerald Fennell's original screenplay."
+        },
+        {
+          "title": "Sound of Metal",
+          "year": 2019,
+          "note": "Six nominations for a film that premiered at Toronto back in 2019 and built its support slowly online; Amanda's still not sure why it clicked this hard."
+        },
+        {
+          "title": "Pieces of a Woman",
+          "year": 2020,
+          "note": "Vanessa Kirby's lone nomination for the film; a win here would stun both hosts."
+        },
+        {
+          "title": "The United States vs. Billie Holiday",
+          "year": 2021,
+          "note": "Andra Day's nomination is its only one."
+        }
+      ]
+    },
+    {
+      "kind": "ranking",
+      "heading": "Power-Ranking Best Picture",
+      "note": "least to most likely to win, per Sean",
+      "subject": "Best Picture",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Nomadland",
+          "year": 2020,
+          "note": "No. 1 - the consensus front-runner for three months running."
+        },
+        {
+          "title": "Minari",
+          "year": 2020,
+          "note": "No. 2 - still winning people over as more of them see it."
+        },
+        {
+          "title": "The Trial of the Chicago 7",
+          "year": 2020,
+          "note": "No. 3"
+        },
+        {
+          "title": "Judas and the Black Messiah",
+          "year": 2021,
+          "note": "No. 4"
+        },
+        {
+          "title": "Sound of Metal",
+          "year": 2019,
+          "note": "No. 5"
+        },
+        {
+          "title": "Promising Young Woman",
+          "year": 2020,
+          "note": "No. 6"
+        },
+        {
+          "title": "The Father",
+          "year": 2020,
+          "note": "No. 7"
+        },
+        {
+          "title": "Mank",
+          "year": 2020,
+          "note": "No. 8 - Sean's call; Amanda would move it up to sixth."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Best Picture history discussed",
+      "films": [
+        "Parasite",
+        "Once Upon a Time in Hollywood",
+        "Green Book",
+        "Moonlight",
+        "La La Land",
+        "The Shape of Water",
+        "1917",
+        "Roma",
+        "The Irishman",
+        "Marriage Story",
+        "First Cow",
+        "Never Rarely Sometimes Always"
+      ]
+    },
+    {
+      "group": "Fincher's other films discussed",
+      "films": [
+        "The Curious Case of Benjamin Button",
+        "Se7en",
+        "The Social Network"
+      ]
+    },
+    {
+      "group": "Other streamers' nominations",
+      "films": [
+        "Wolfwalkers",
+        "Greyhound",
+        "Soul"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Phantom Thread",
+        "Bad Boys for Life",
+        "Pride & Prejudice",
+        "Zack Snyder's Justice League"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Borat Subsequent Moviefilm": 740985
+  },
+  "excluded": {
+    "Ads": [
+      "Carvana",
+      "Boar's Head",
+      "FIFA World Cup Launch Edition",
+      "Quaker",
+      "Starbucks Frappuccino",
+      "Mint Mobile"
+    ]
+  },
+  "tmdb": {
+    "Judas and the Black Messiah": {
+      "id": 583406,
+      "poster": "/iIgr75GoqFxe1X5Wz9siOODGe9u.jpg",
+      "title": "Judas and the Black Messiah",
+      "year": 2021
+    },
+    "The Father": {
+      "id": 600354,
+      "poster": "/pr3bEQ517uMb5loLvjFQi8uLAsp.jpg",
+      "title": "The Father",
+      "year": 2020
+    },
+    "The Trial of the Chicago 7": {
+      "id": 556984,
+      "poster": "/ahf5cVdooMAlDRiJOZQNuLqa1Is.jpg",
+      "title": "The Trial of the Chicago 7",
+      "year": 2020
+    },
+    "Minari": {
+      "id": 615643,
+      "poster": "/6mPNdmjdbVKPITv3LLCmQoKs9Zw.jpg",
+      "title": "Minari",
+      "year": 2021
+    },
+    "Another Round": {
+      "id": 580175,
+      "poster": "/aDcIt4NHURLKnAEu7gow51Yd00Q.jpg",
+      "title": "Another Round",
+      "year": 2020
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "Borat Subsequent Moviefilm": {
+      "id": 740985,
+      "poster": "/3L1Ml5RWjFVfVq3rQENvgFymT0U.jpg",
+      "title": "Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan",
+      "year": 2020
+    },
+    "The White Tiger": {
+      "id": 628534,
+      "poster": "/5JnmseS3DZ6ad2VMbrnbGCs8Rst.jpg",
+      "title": "The White Tiger",
+      "year": 2021
+    },
+    "Eurovision Song Contest: The Story of Fire Saga": {
+      "id": 531454,
+      "poster": "/9zrbgYyFvwH8sy5mv9eT25xsAzL.jpg",
+      "title": "Eurovision Song Contest: The Story of Fire Saga",
+      "year": 2020
+    },
+    "My Octopus Teacher": {
+      "id": 682110,
+      "poster": "/hvTVZb7hBC8tZAGoEhH5eiMJu2B.jpg",
+      "title": "My Octopus Teacher",
+      "year": 2020
+    },
+    "Ma Rainey's Black Bottom": {
+      "id": 615667,
+      "poster": "/pvtyxijaBrCSbByXLcUIDDSvc40.jpg",
+      "title": "Ma Rainey's Black Bottom",
+      "year": 2020
+    },
+    "One Night in Miami": {
+      "id": 661914,
+      "poster": "/1DLUb9PTDqXMSgsD7RmiJs7ZJIx.jpg",
+      "title": "One Night in Miami...",
+      "year": 2020
+    },
+    "Da 5 Bloods": {
+      "id": 581859,
+      "poster": "/yx4cp1ljJMDSFeEex0Zjv45b55E.jpg",
+      "title": "Da 5 Bloods",
+      "year": 2020
+    },
+    "The Mauritanian": {
+      "id": 644583,
+      "poster": "/lIADEa6oH74uUapjsPbNRzxus8M.jpg",
+      "title": "The Mauritanian",
+      "year": 2021
+    },
+    "News of the World": {
+      "id": 581032,
+      "poster": "/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+      "title": "News of the World",
+      "year": 2020
+    },
+    "Hillbilly Elegy": {
+      "id": 592984,
+      "poster": "/aA0D6DKIfLtXYNy94Qq2IW5NiGR.jpg",
+      "title": "Hillbilly Elegy",
+      "year": 2020
+    },
+    "Boys State": {
+      "id": 653723,
+      "poster": "/cuvt3ImM3wQdijib7OeIH48uRfQ.jpg",
+      "title": "Boys State",
+      "year": 2020
+    },
+    "Dick Johnson Is Dead": {
+      "id": 653574,
+      "poster": "/vnfI34kmi3fcdgP7HZjIgGOJHGY.jpg",
+      "title": "Dick Johnson Is Dead",
+      "year": 2020
+    },
+    "Nomadland": {
+      "id": 581734,
+      "poster": "/8Vc5EOUEIF1EUXuX9eLFf7BvN3P.jpg",
+      "title": "Nomadland",
+      "year": 2021
+    },
+    "Promising Young Woman": {
+      "id": 582014,
+      "poster": "/73QoFJFmUrJfDG2EynFjNc5gJxk.jpg",
+      "title": "Promising Young Woman",
+      "year": 2020
+    },
+    "Sound of Metal": {
+      "id": 502033,
+      "poster": "/3178oOJKKPDeQ2legWQvMPpllv.jpg",
+      "title": "Sound of Metal",
+      "year": 2020
+    },
+    "Pieces of a Woman": {
+      "id": 641662,
+      "poster": "/OgUfLlhfBFx5BPK6LzBWFvBW1w.jpg",
+      "title": "Pieces of a Woman",
+      "year": 2020
+    },
+    "The United States vs. Billie Holiday": {
+      "id": 566076,
+      "poster": "/vEzkxuE2sJcmHYjXQHM8xvR9ICH.jpg",
+      "title": "The United States vs. Billie Holiday",
+      "year": 2021
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Green Book": {
+      "id": 490132,
+      "poster": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+      "title": "Green Book",
+      "year": 2018
+    },
+    "Moonlight": {
+      "id": 376867,
+      "poster": "/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+      "title": "Moonlight",
+      "year": 2016
+    },
+    "La La Land": {
+      "id": 313369,
+      "poster": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "title": "La La Land",
+      "year": 2016
+    },
+    "The Shape of Water": {
+      "id": 399055,
+      "poster": "/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg",
+      "title": "The Shape of Water",
+      "year": 2017
+    },
+    "1917": {
+      "id": 530915,
+      "poster": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+      "title": "1917",
+      "year": 2019
+    },
+    "Roma": {
+      "id": 426426,
+      "poster": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+      "title": "Roma",
+      "year": 2018
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Marriage Story": {
+      "id": 492188,
+      "poster": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+      "title": "Marriage Story",
+      "year": 2019
+    },
+    "First Cow": {
+      "id": 558582,
+      "poster": "/yS41crZ1i0fFxCQbuL7I1Y1VBwm.jpg",
+      "title": "First Cow",
+      "year": 2020
+    },
+    "Never Rarely Sometimes Always": {
+      "id": 595671,
+      "poster": "/7yiSyQhhjTFphhfCUcn05tCQxyG.jpg",
+      "title": "Never Rarely Sometimes Always",
+      "year": 2020
+    },
+    "The Curious Case of Benjamin Button": {
+      "id": 4922,
+      "poster": "/26wEWZYt6yJkwRVkjcbwJEFh9IS.jpg",
+      "title": "The Curious Case of Benjamin Button",
+      "year": 2008
+    },
+    "Se7en": {
+      "id": 807,
+      "poster": "/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+      "title": "Se7en",
+      "year": 1995
+    },
+    "The Social Network": {
+      "id": 37799,
+      "poster": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+      "title": "The Social Network",
+      "year": 2010
+    },
+    "Wolfwalkers": {
+      "id": 441130,
+      "poster": "/vqGiNbdc2sDwsnivMMYzwAoSSu6.jpg",
+      "title": "Wolfwalkers",
+      "year": 2020
+    },
+    "Greyhound": {
+      "id": 516486,
+      "poster": "/kjMbDciooTbJPofVXgAoFjfX8Of.jpg",
+      "title": "Greyhound",
+      "year": 2020
+    },
+    "Soul": {
+      "id": 508442,
+      "poster": "/6jmppcaubzLF8wkXM36ganVISCo.jpg",
+      "title": "Soul",
+      "year": 2020
+    },
+    "Phantom Thread": {
+      "id": 400617,
+      "poster": "/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg",
+      "title": "Phantom Thread",
+      "year": 2017
+    },
+    "Bad Boys for Life": {
+      "id": 38700,
+      "poster": "/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
+      "title": "Bad Boys for Life",
+      "year": 2020
+    },
+    "Pride & Prejudice": {
+      "id": 4348,
+      "poster": "/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg",
+      "title": "Pride & Prejudice",
+      "year": 2005
+    },
+    "Zack Snyder's Justice League": {
+      "id": 791373,
+      "poster": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+      "title": "Zack Snyder's Justice League",
+      "year": 2021
+    }
+  }
+}

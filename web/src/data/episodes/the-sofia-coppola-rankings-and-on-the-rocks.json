@@ -1,0 +1,245 @@
+{
+  "slug": "the-sofia-coppola-rankings-and-on-the-rocks",
+  "title": "The Sofia Coppola Rankings and 'On the Rocks'",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2020-10-23",
+  "runtimeMin": 104,
+  "format": "Sean and Amanda rank all nine Sofia Coppola titles the week 'On the Rocks' lands on Apple TV+.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Why Sofia Coppola",
+      "note": "the case for her, ahead of a new release",
+      "films": [
+        {
+          "title": "On the Rocks",
+          "year": 2020,
+          "note": "her seventh feature, out this week on Apple TV+ with Bill Murray, Rashida Jones, and Marlon Wayans."
+        },
+        {
+          "title": "The Virgin Suicides",
+          "year": 1999,
+          "note": "turns 20 this year; she wrote the script before the rights were even available."
+        }
+      ]
+    },
+    {
+      "kind": "ranking",
+      "heading": "The Sofia Coppola Rankings",
+      "note": "all nine titles, best to worst",
+      "subject": "Sofia Coppola",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Marie Antoinette",
+          "year": 2006,
+          "note": "No. 1: the moonshot, maximalist and funny enough to get booed at Cannes."
+        },
+        {
+          "title": "Lost in Translation",
+          "year": 2003,
+          "note": "No. 2: the Oscar-winning screenplay, and a whispered line nobody needed subtitled."
+        },
+        {
+          "title": "The Virgin Suicides",
+          "year": 1999,
+          "note": "No. 3: a debut that already has every Coppola signature in place."
+        },
+        {
+          "title": "Somewhere",
+          "year": 2010,
+          "note": "No. 4: Stephen Dorff adrift at the Chateau Marmont, the most stripped-down version of her style."
+        },
+        {
+          "title": "On the Rocks",
+          "year": 2020,
+          "note": "No. 5: Bill Murray and Rashida Jones on a father-daughter comedy that sticks the landing except for the ending."
+        },
+        {
+          "title": "A Very Murray Christmas",
+          "year": 2015,
+          "note": "No. 6: the Netflix Christmas special nobody asked for; George Clooney makes a martini on Paul Shaffer's piano."
+        },
+        {
+          "title": "Lick the Star",
+          "year": 1998,
+          "note": "No. 7: her short film, middle-school girls plotting a coup against the boys."
+        },
+        {
+          "title": "The Beguiled",
+          "year": 2017,
+          "note": "No. 8: her funniest movie, and the one she can't quite explain the reason for making."
+        },
+        {
+          "title": "The Bling Ring",
+          "year": 2013,
+          "note": "No. 9: the only one of her films that looks down on its characters instead of alongside them."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "The Godfather",
+        "The Godfather Part III",
+        "Barry Lyndon",
+        "Red Desert",
+        "Model Shop",
+        "Inglourious Basterds",
+        "Rebecca",
+        "The Witches",
+        "Borat Subsequent Moviefilm",
+        "Mank",
+        "Gone Girl"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Great"
+    ],
+    "Ads": [
+      "Tremfaya",
+      "Boar's Head",
+      "Talk About PD",
+      "Wells Fargo Active Cash",
+      "FanDuel",
+      "Carvana",
+      "Storm"
+    ]
+  },
+  "tmdbOverrides": {
+    "Rebecca": 505379,
+    "The Witches": 531219,
+    "Borat Subsequent Moviefilm": 740985
+  },
+  "tmdb": {
+    "On the Rocks": {
+      "id": 575417,
+      "poster": "/fcijRCmB7yTtloh4Pumy9b1rkwU.jpg",
+      "title": "On the Rocks",
+      "year": 2020
+    },
+    "The Virgin Suicides": {
+      "id": 1443,
+      "poster": "/1NCQtXPQnaHRjOZVmktA9BSM35F.jpg",
+      "title": "The Virgin Suicides",
+      "year": 2000
+    },
+    "Marie Antoinette": {
+      "id": 1887,
+      "poster": "/cybXGmv8Rjd5Os8Xml6YxMBQ0Zt.jpg",
+      "title": "Marie Antoinette",
+      "year": 2006
+    },
+    "Lost in Translation": {
+      "id": 153,
+      "poster": "/3jCLmYDIIiSMPujbwygNpqdpM8N.jpg",
+      "title": "Lost in Translation",
+      "year": 2003
+    },
+    "Somewhere": {
+      "id": 39210,
+      "poster": "/zOf1sdfF4eH3CVRCpmRO5ugVGdo.jpg",
+      "title": "Somewhere",
+      "year": 2010
+    },
+    "A Very Murray Christmas": {
+      "id": 364067,
+      "poster": "/2ir2DjNNXmMePsyc4inFa8oI23r.jpg",
+      "title": "A Very Murray Christmas",
+      "year": 2015
+    },
+    "Lick the Star": {
+      "id": 92657,
+      "poster": "/kyMHq9xj9CQwwCSBZpvcHg7voJ8.jpg",
+      "title": "Lick the Star",
+      "year": 1998
+    },
+    "The Beguiled": {
+      "id": 399019,
+      "poster": "/x4R9jyiZhJzevASus5n6WyHQTdR.jpg",
+      "title": "The Beguiled",
+      "year": 2017
+    },
+    "The Bling Ring": {
+      "id": 96936,
+      "poster": "/6yh55qCcdgPRJweDWM2CiEubJCL.jpg",
+      "title": "The Bling Ring",
+      "year": 2013
+    },
+    "The Godfather": {
+      "id": 238,
+      "poster": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "title": "The Godfather",
+      "year": 1972
+    },
+    "The Godfather Part III": {
+      "id": 242,
+      "poster": "/lm3pQ2QoQ16pextRsmnUbG2onES.jpg",
+      "title": "The Godfather Part III",
+      "year": 1990
+    },
+    "Barry Lyndon": {
+      "id": 3175,
+      "poster": "/znfLskGQnXYB2xcOGM9eInRHPAV.jpg",
+      "title": "Barry Lyndon",
+      "year": 1975
+    },
+    "Red Desert": {
+      "id": 26638,
+      "poster": "/rGcTVdyhaGzMxPPRVApXre6F7SD.jpg",
+      "title": "Red Desert",
+      "year": 1964
+    },
+    "Model Shop": {
+      "id": 85942,
+      "poster": "/yzwcXSS9vdmEiEr4vMsoc66PBzR.jpg",
+      "title": "Model Shop",
+      "year": 1969
+    },
+    "Inglourious Basterds": {
+      "id": 16869,
+      "poster": "/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg",
+      "title": "Inglourious Basterds",
+      "year": 2009
+    },
+    "Rebecca": {
+      "id": 505379,
+      "poster": "/kGhllBArW7ImDycSMIG5bj6GEPL.jpg",
+      "title": "Rebecca",
+      "year": 2020
+    },
+    "The Witches": {
+      "id": 531219,
+      "poster": "/betExZlgK0l7CZ9CsCBVcwO1OjL.jpg",
+      "title": "Roald Dahl's The Witches",
+      "year": 2020
+    },
+    "Borat Subsequent Moviefilm": {
+      "id": 740985,
+      "poster": "/3L1Ml5RWjFVfVq3rQENvgFymT0U.jpg",
+      "title": "Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan",
+      "year": 2020
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "Gone Girl": {
+      "id": 210577,
+      "poster": "/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+      "title": "Gone Girl",
+      "year": 2014
+    }
+  }
+}

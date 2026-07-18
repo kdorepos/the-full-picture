@@ -1,0 +1,142 @@
+{
+  "slug": "the-art-of-true-crime-documentary-with-erin-lee-carr-the-big",
+  "title": "The Art of True Crime Documentary with Erin Lee Carr | The Big Picture (Ep. 46)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2018-02-02",
+  "runtimeMin": 29,
+  "format": "Documentarian Erin Lee Carr on chasing morally ambiguous true-crime stories, from the Cannibal Cop to Valeant, and what she learned from her father David Carr.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Erin Lee Carr on",
+      "films": [
+        {
+          "title": "Thought Crimes",
+          "year": 2015,
+          "note": "Her HBO debut, made at 26, about the so-called Cannibal Cop."
+        },
+        {
+          "title": "Mommy Dead and Dearest",
+          "year": 2017,
+          "note": "Her follow-up HBO film, on a Munchausen by proxy case."
+        },
+        {
+          "title": "Capturing the Friedmans",
+          "year": 2003,
+          "note": "The Andrew Jarecki film she cites as an early formative watch."
+        },
+        {
+          "title": "Page One: Inside the New York Times",
+          "year": 2011,
+          "note": "Andrew Rossi's documentary; Rossi later told her to go make her own films."
+        },
+        {
+          "title": "Enron: The Smartest Guys in the Room",
+          "year": 2005,
+          "note": "The Alex Gibney film she says she rewatched a dozen-plus times before joining his Dirty Money anthology."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The last great thing she's seen",
+      "films": [
+        {
+          "title": "Icarus",
+          "year": 2017,
+          "note": "One of the Oscar-nominated docs she name-checks."
+        },
+        {
+          "title": "Strong Island",
+          "year": 2017,
+          "note": "The other."
+        },
+        {
+          "title": "Joan Didion: The Center Will Not Hold",
+          "year": 2017,
+          "note": "Directed by Didion's nephew Griffin Dunne; Carr calls it intimate, like listening in on a conversation."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Coming up on the show",
+      "films": [
+        "Annihilation"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Dirty Money",
+      "The Keepers",
+      "Making a Murderer"
+    ],
+    "Ads": [
+      "ZipRecruiter",
+      "Proper Cloth"
+    ]
+  },
+  "tmdb": {
+    "Thought Crimes": {
+      "id": 333382,
+      "poster": "/3rUzwQqgJwEp7dlWURW7dHyNISQ.jpg",
+      "title": "Thought Crimes",
+      "year": 2015
+    },
+    "Mommy Dead and Dearest": {
+      "id": 438446,
+      "poster": "/l77SGOaXhLfkBPdl3UqsVMg0w1l.jpg",
+      "title": "Mommy Dead and Dearest",
+      "year": 2017
+    },
+    "Capturing the Friedmans": {
+      "id": 2260,
+      "poster": "/429t6nh7M8cg29CtgXAjvwWe1Dv.jpg",
+      "title": "Capturing the Friedmans",
+      "year": 2003
+    },
+    "Page One: Inside the New York Times": {
+      "id": 63144,
+      "poster": "/rFob85bcxUb31YwTWBOYF6Gol8m.jpg",
+      "title": "Page One: Inside the New York Times",
+      "year": 2011
+    },
+    "Enron: The Smartest Guys in the Room": {
+      "id": 13020,
+      "poster": "/zezeOElCxlPui9SFGj5ToZ4W1Nh.jpg",
+      "title": "Enron: The Smartest Guys in the Room",
+      "year": 2005
+    },
+    "Icarus": {
+      "id": 432976,
+      "poster": "/x5azMi1KvZWbBbfjmGqpHNGqjH.jpg",
+      "title": "Icarus",
+      "year": 2017
+    },
+    "Strong Island": {
+      "id": 428612,
+      "poster": "/qGq7WCNv9S8GBbP8DfIchiaodWn.jpg",
+      "title": "Strong Island",
+      "year": 2017
+    },
+    "Joan Didion: The Center Will Not Hold": {
+      "id": 473408,
+      "poster": "/xgry0bnJVrcIA3IpZ1CkAg6qEtw.jpg",
+      "title": "Joan Didion: The Center Will Not Hold",
+      "year": 2017
+    },
+    "Annihilation": {
+      "id": 300668,
+      "poster": "/4YRplSk6BhH6PRuE9gfyw9byUJ6.jpg",
+      "title": "Annihilation",
+      "year": 2018
+    }
+  }
+}

@@ -1,0 +1,1108 @@
+{
+  "slug": "the-2023-alternative-oscars-a-k-a-the-big-picks",
+  "title": "The 2023 Alternative Oscars, A.K.A the Big Picks!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Wesley Morris"
+  ],
+  "published": "2023-02-28",
+  "runtimeMin": 109,
+  "format": "Sean, Amanda, and Wesley Morris hand out their own awards to the 2022 films the real Oscars left off the ballot, after a verdict on the PGAs, the SAGs, and Tom Cruise's Lifetime Achievement speech.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Before the ballots",
+      "note": "the PGAs, the SAGs, and Tom Cruise's victory lap",
+      "films": [
+        {
+          "title": "Everything Everywhere All at Once",
+          "year": 2022,
+          "note": "Swept the PGA and four of the five top SAG awards; the Best Picture race is effectively over."
+        },
+        {
+          "title": "Top Gun: Maverick",
+          "year": 2022,
+          "note": "Lost the PGA to Everything Everywhere, but Tom Cruise still walked away with the Lifetime Achievement Award and a ten-minute speech."
+        },
+        {
+          "title": "Apollo 13",
+          "year": 1995,
+          "note": "Amanda's beloved exception: the one film to sweep DGA, SAG, and PGA and still lose Best Picture."
+        },
+        {
+          "title": "The Woman King",
+          "year": 2022,
+          "note": "Missed the Best Picture cut entirely; Sean blames Sony and Netflix for not streaming it until after nominations voting closed."
+        },
+        {
+          "title": "Nope",
+          "year": 2022,
+          "note": "Wesley and Amanda's pick for Best Picture; both admit the genre-movie mash-up lost some Academy voters."
+        },
+        {
+          "title": "Tár",
+          "year": 2022,
+          "note": "Wesley predicts it'll be remembered as one of the decade's great films even as it loses every category to Everything Everywhere."
+        },
+        {
+          "title": "CODA",
+          "year": 2021,
+          "note": "Sean's go-to story of knowing a Best Picture winner the instant the credits roll."
+        },
+        {
+          "title": "Till",
+          "year": 2022,
+          "note": "Set aside as its own conversation about black filmmakers left off this year's ballot."
+        },
+        {
+          "title": "Black Panther: Wakanda Forever",
+          "year": 2022,
+          "note": "Also shut out of Best Picture, part of the same conversation as The Woman King and Nope."
+        },
+        {
+          "title": "Parasite",
+          "year": 2019,
+          "note": "The comparison point for The Woman King: an American story that, unlike Parasite, doesn't need an import exception to be a Best Picture contender."
+        },
+        {
+          "title": "Minari",
+          "year": 2020,
+          "note": "Another benchmark Wesley raises in the same conversation about movies reaching the Best Picture race."
+        },
+        {
+          "title": "Drive My Car",
+          "year": 2021,
+          "note": "The most recent international import to break into Best Picture, unlike the homegrown Everything Everywhere."
+        }
+      ]
+    },
+    {
+      "kind": "awards",
+      "heading": "The made-up categories",
+      "note": "the awards the Academy should add",
+      "categories": [
+        {
+          "name": "Best First Feature",
+          "winner": "Saint Omer",
+          "nominees": [
+            {
+              "title": "Aftersun",
+              "year": 2022,
+              "person": "Charlotte Wells"
+            },
+            {
+              "title": "Barbarian",
+              "year": 2022,
+              "person": "Zach Cregger"
+            },
+            {
+              "title": "Causeway",
+              "year": 2022,
+              "person": "Lila Neugebauer"
+            },
+            {
+              "title": "Emily the Criminal",
+              "year": 2022,
+              "person": "John Patton Ford"
+            },
+            {
+              "title": "Funny Pages",
+              "year": 2022,
+              "person": "Owen Kline"
+            },
+            {
+              "title": "The Inspection",
+              "year": 2022,
+              "person": "Elegance Bratton"
+            },
+            {
+              "title": "Nanny",
+              "year": 2022,
+              "person": "Nikyatu Jusu"
+            },
+            {
+              "title": "Saint Omer",
+              "year": 2022,
+              "person": "Alice Diop",
+              "note": "Winner. Wesley's pick: the trial drama's control of tone won everyone over."
+            },
+            {
+              "title": "Turning Red",
+              "year": 2022,
+              "person": "Domee Shi"
+            },
+            {
+              "title": "We're All Going to the World's Fair",
+              "year": 2021,
+              "person": "Jane Schoenbrun"
+            }
+          ]
+        },
+        {
+          "name": "Breakthrough Performance",
+          "winner": "The Woman King",
+          "nominees": [
+            {
+              "title": "Babylon",
+              "year": 2022,
+              "person": "Diego Calva"
+            },
+            {
+              "title": "Jackass Forever",
+              "year": 2022,
+              "person": "Darkshark"
+            },
+            {
+              "title": "Murina",
+              "year": 2021,
+              "person": "Gracija Filipović"
+            },
+            {
+              "title": "Black Panther: Wakanda Forever",
+              "year": 2022,
+              "person": "Tenoch Huerta"
+            },
+            {
+              "title": "Tár",
+              "year": 2022,
+              "person": "Sophie Kauer"
+            },
+            {
+              "title": "The Woman King",
+              "year": 2022,
+              "person": "Thuso Mbedu",
+              "note": "Winner. Holding her own next to Viola Davis is its own feat."
+            },
+            {
+              "title": "Prey",
+              "year": 2022,
+              "person": "Amber Midthunder"
+            },
+            {
+              "title": "X",
+              "year": 2022,
+              "person": "Jenna Ortega",
+              "note": "Also broke through the same year in Scream; Amanda argues she's cheating a little since Wednesday makes her a household name."
+            },
+            {
+              "title": "Return to Seoul",
+              "year": 2022,
+              "person": "Park Ji-min"
+            },
+            {
+              "title": "Funny Pages",
+              "year": 2022,
+              "person": "Daniel Zolghadri"
+            }
+          ]
+        },
+        {
+          "name": "Best Cameo",
+          "winner": "Top Gun: Maverick",
+          "nominees": [
+            {
+              "title": "Armageddon Time",
+              "year": 2022,
+              "person": "Jessica Chastain"
+            },
+            {
+              "title": "The Fabelmans",
+              "year": 2022,
+              "person": "Judd Hirsch"
+            },
+            {
+              "title": "Babylon",
+              "year": 2022,
+              "person": "Spike Jonze"
+            },
+            {
+              "title": "Top Gun: Maverick",
+              "year": 2022,
+              "person": "Val Kilmer",
+              "note": "Winner. The emotional ballast the whole third act leans on."
+            },
+            {
+              "title": "The Fabelmans",
+              "year": 2022,
+              "person": "David Lynch"
+            },
+            {
+              "title": "Glass Onion: A Knives Out Mystery",
+              "year": 2022,
+              "person": "Yo-Yo Ma"
+            },
+            {
+              "title": "Babylon",
+              "year": 2022,
+              "person": "Tobey Maguire"
+            },
+            {
+              "title": "She Said",
+              "year": 2022,
+              "person": "Samantha Morton"
+            },
+            {
+              "title": "Bones and All",
+              "year": 2022,
+              "person": "Chloë Sevigny"
+            },
+            {
+              "title": "Bros",
+              "year": 2022,
+              "person": "Ben Stiller"
+            },
+            {
+              "title": "Glass Onion: A Knives Out Mystery",
+              "year": 2022,
+              "person": "Ethan Hawke",
+              "note": "Amanda's late add: he sprays Binaca in someone's mouth and disappears."
+            }
+          ]
+        },
+        {
+          "name": "Best Kid Performance",
+          "winner": "Aftersun",
+          "nominees": [
+            {
+              "title": "Aftersun",
+              "year": 2022,
+              "person": "Frankie Corio",
+              "note": "Winner. The Aftersun contingent wins one back after losing Best First Feature to Saint Omer."
+            },
+            {
+              "title": "Armageddon Time",
+              "year": 2022,
+              "person": "Banks Repeta & Jaylin Webb"
+            },
+            {
+              "title": "The Fabelmans",
+              "year": 2022,
+              "person": "Gabriel LaBelle",
+              "note": "Sean's pick: playing a young Steven Spielberg while being directed by him."
+            },
+            {
+              "title": "The Black Phone",
+              "year": 2022,
+              "person": "Mason Thames & Madeleine McGraw"
+            },
+            {
+              "title": "Hit the Road",
+              "year": 2021,
+              "person": "Rayan Sarlak"
+            }
+          ]
+        },
+        {
+          "name": "Best Casting",
+          "winner": "Hustle",
+          "nominees": [
+            {
+              "title": "Barbarian",
+              "year": 2022
+            },
+            {
+              "title": "Confess, Fletch",
+              "year": 2022
+            },
+            {
+              "title": "EO",
+              "year": 2022
+            },
+            {
+              "title": "Hustle",
+              "year": 2022,
+              "note": "Winner. Casting actual NBA players who can act is the harder trick."
+            },
+            {
+              "title": "The Menu",
+              "year": 2022
+            }
+          ]
+        },
+        {
+          "name": "Best Stunt / Action Sequence",
+          "winner": "Top Gun: Maverick",
+          "nominees": [
+            {
+              "title": "Ambulance",
+              "year": 2022,
+              "person": "The battlefield surgery"
+            },
+            {
+              "title": "RRR",
+              "year": 2022,
+              "person": "The bridge rescue"
+            },
+            {
+              "title": "Athena",
+              "year": 2022,
+              "person": "The opening ten-minute raid"
+            },
+            {
+              "title": "The Northman",
+              "year": 2022,
+              "person": "The berserker raid"
+            },
+            {
+              "title": "Avatar: The Way of Water",
+              "year": 2022,
+              "person": "The whale hunt"
+            },
+            {
+              "title": "Day Shift",
+              "year": 2022,
+              "person": "The hive slaughter"
+            },
+            {
+              "title": "Top Gun: Maverick",
+              "year": 2022,
+              "person": "The strike mission",
+              "note": "Winner, after a long detour through RRR. Wesley concedes the in-camera flying converts him."
+            }
+          ]
+        },
+        {
+          "name": "Best Ending",
+          "winner": "Babylon",
+          "nominees": [
+            {
+              "title": "Babylon",
+              "year": 2022,
+              "note": "Winner, by Sean's decree alone. Amanda and Wesley call the closing montage a cheat and get overruled."
+            },
+            {
+              "title": "Black Panther: Wakanda Forever",
+              "year": 2022
+            },
+            {
+              "title": "Men",
+              "year": 2022
+            },
+            {
+              "title": "The Northman",
+              "year": 2022
+            },
+            {
+              "title": "White Noise",
+              "year": 2022
+            }
+          ]
+        },
+        {
+          "name": "Glenn Close Memorial \"It's Time\" Award",
+          "note": "honorary, for the actor most overdue",
+          "winner": "Top Gun: Maverick",
+          "nominees": [
+            {
+              "title": "Top Gun: Maverick",
+              "year": 2022,
+              "person": "Tom Cruise",
+              "note": "Amanda's pick, since the Academy won't give him a competitive one."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "awards",
+      "heading": "The six categories they're stealing",
+      "note": "their alternatives to the real Oscar races",
+      "categories": [
+        {
+          "name": "Best Supporting Actor",
+          "winner": "Emily the Criminal",
+          "nominees": [
+            {
+              "title": "She Said",
+              "year": 2022,
+              "person": "Andre Braugher"
+            },
+            {
+              "title": "Bones and All",
+              "year": 2022,
+              "person": "Timothée Chalamet"
+            },
+            {
+              "title": "Barbarian",
+              "year": 2022,
+              "person": "Justin Long"
+            },
+            {
+              "title": "To Leslie",
+              "year": 2022,
+              "person": "Marc Maron"
+            },
+            {
+              "title": "Emily the Criminal",
+              "year": 2022,
+              "person": "Theo Rossi",
+              "note": "Unanimous, immediate winner. Sean compares him to Dustin Hoffman in Straight Time."
+            }
+          ]
+        },
+        {
+          "name": "Best Supporting Actress",
+          "winner": "Saint Omer",
+          "nominees": [
+            {
+              "title": "Triangle of Sadness",
+              "year": 2022,
+              "person": "Dolly de Leon"
+            },
+            {
+              "title": "The Menu",
+              "year": 2022,
+              "person": "Hong Chau"
+            },
+            {
+              "title": "The Woman King",
+              "year": 2022,
+              "person": "Lashana Lynch"
+            },
+            {
+              "title": "Saint Omer",
+              "year": 2022,
+              "person": "Guslagie Malanda",
+              "note": "Winner. The film doesn't work without her testimony scenes, Wesley argues."
+            }
+          ]
+        },
+        {
+          "name": "Best Actor",
+          "winner": "Benediction",
+          "nominees": [
+            {
+              "title": "Ambulance",
+              "year": 2022,
+              "person": "Jake Gyllenhaal"
+            },
+            {
+              "title": "Nope",
+              "year": 2022,
+              "person": "Daniel Kaluuya"
+            },
+            {
+              "title": "Benediction",
+              "year": 2021,
+              "person": "Jack Lowden",
+              "note": "Winner. A Terence Davies film almost nobody saw; Wesley championed it and converted the room."
+            },
+            {
+              "title": "The Menu",
+              "year": 2022,
+              "person": "Ralph Fiennes"
+            },
+            {
+              "title": "Hustle",
+              "year": 2022,
+              "person": "Adam Sandler"
+            }
+          ]
+        },
+        {
+          "name": "Best Actress",
+          "winner": "The Woman King",
+          "nominees": [
+            {
+              "title": "The Woman King",
+              "year": 2022,
+              "person": "Viola Davis",
+              "note": "Unanimous. \"She burns the movie down,\" Amanda says."
+            },
+            {
+              "title": "Pearl",
+              "year": 2022,
+              "person": "Mia Goth"
+            },
+            {
+              "title": "Nope",
+              "year": 2022,
+              "person": "Keke Palmer"
+            },
+            {
+              "title": "Bones and All",
+              "year": 2022,
+              "person": "Taylor Russell"
+            },
+            {
+              "title": "Decision to Leave",
+              "year": 2022,
+              "person": "Tang Wei"
+            }
+          ]
+        },
+        {
+          "name": "Best Director",
+          "winner": "Decision to Leave",
+          "nominees": [
+            {
+              "title": "The Woman King",
+              "year": 2022,
+              "person": "Gina Prince-Bythewood"
+            },
+            {
+              "title": "Crimes of the Future",
+              "year": 2022,
+              "person": "David Cronenberg"
+            },
+            {
+              "title": "Decision to Leave",
+              "year": 2022,
+              "person": "Park Chan-wook",
+              "note": "Winner. Missing the Best International Feature nomination entirely still stings."
+            },
+            {
+              "title": "Nope",
+              "year": 2022,
+              "person": "Jordan Peele"
+            },
+            {
+              "title": "The Batman",
+              "year": 2022,
+              "person": "Matt Reeves"
+            }
+          ]
+        },
+        {
+          "name": "Best Picture",
+          "winner": "Nope",
+          "nominees": [
+            {
+              "title": "Ambulance",
+              "year": 2022
+            },
+            {
+              "title": "Armageddon Time",
+              "year": 2022
+            },
+            {
+              "title": "The Batman",
+              "year": 2022
+            },
+            {
+              "title": "Crimes of the Future",
+              "year": 2022
+            },
+            {
+              "title": "EO",
+              "year": 2022
+            },
+            {
+              "title": "Jackass Forever",
+              "year": 2022
+            },
+            {
+              "title": "Nope",
+              "year": 2022,
+              "note": "Winner, unanimous by the end. Sean and Wesley's pick from the start, with Amanda coming around."
+            },
+            {
+              "title": "The Northman",
+              "year": 2022
+            },
+            {
+              "title": "RRR",
+              "year": 2022
+            },
+            {
+              "title": "The Woman King",
+              "year": 2022
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Edge of Tomorrow",
+        "Jerry Maguire",
+        "The Mummy",
+        "American Made",
+        "Catch Me If You Can",
+        "Eyes Wide Shut",
+        "Taps",
+        "The Onion Field",
+        "Independence Day",
+        "The Shape of Water",
+        "Downton Abbey: A New Era",
+        "The Dark Knight Rises",
+        "Radio Days",
+        "Waves",
+        "Creed III",
+        "Cocaine Bear",
+        "M3GAN",
+        "The Unbearable Weight of Massive Talent"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Scandal",
+      "Slow Horses",
+      "The Little Drummer Girl",
+      "Six Feet Under"
+    ],
+    "Ads / promos": [
+      "Carvana",
+      "FanDuel",
+      "Boar's Head",
+      "Meta"
+    ],
+    "Video games": [
+      "FIFA World Cup (Netflix)"
+    ],
+    "Podcast promo": [
+      "The Ringer NFL Draft Show"
+    ]
+  },
+  "tmdbOverrides": {
+    "Funny Pages": 583095,
+    "Hit the Road": 838154
+  },
+  "tmdb": {
+    "Everything Everywhere All at Once": {
+      "id": 545611,
+      "poster": "/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+      "title": "Everything Everywhere All at Once",
+      "year": 2022
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Apollo 13": {
+      "id": 568,
+      "poster": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+      "title": "Apollo 13",
+      "year": 1995
+    },
+    "The Woman King": {
+      "id": 724495,
+      "poster": "/438QXt1E3WJWb3PqNniK0tAE5c1.jpg",
+      "title": "The Woman King",
+      "year": 2022
+    },
+    "Nope": {
+      "id": 762504,
+      "poster": "/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
+      "title": "Nope",
+      "year": 2022
+    },
+    "Tár": {
+      "id": 817758,
+      "poster": "/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg",
+      "title": "TÁR",
+      "year": 2022
+    },
+    "CODA": {
+      "id": 776503,
+      "poster": "/BzVjmm8l23rPsijLiNLUzuQtyd.jpg",
+      "title": "CODA",
+      "year": 2021
+    },
+    "Till": {
+      "id": 854239,
+      "poster": "/cmDs0CYlgioyP2AQQTTmavt3uoO.jpg",
+      "title": "Till",
+      "year": 2022
+    },
+    "Black Panther: Wakanda Forever": {
+      "id": 505642,
+      "poster": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+      "title": "Black Panther: Wakanda Forever",
+      "year": 2022
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Minari": {
+      "id": 615643,
+      "poster": "/6mPNdmjdbVKPITv3LLCmQoKs9Zw.jpg",
+      "title": "Minari",
+      "year": 2021
+    },
+    "Drive My Car": {
+      "id": 758866,
+      "poster": "/a2lxHS6Au35k5XtFQEQW44yWHeH.jpg",
+      "title": "Drive My Car",
+      "year": 2021
+    },
+    "Aftersun": {
+      "id": 965150,
+      "poster": "/evKz85EKouVbIr51zy5fOtpNRPg.jpg",
+      "title": "Aftersun",
+      "year": 2022
+    },
+    "Barbarian": {
+      "id": 913290,
+      "poster": "/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
+      "title": "Barbarian",
+      "year": 2022
+    },
+    "Causeway": {
+      "id": 595586,
+      "poster": "/bUzKIqFIS05Ss31zRTfZfHJIgDP.jpg",
+      "title": "Causeway",
+      "year": 2022
+    },
+    "Emily the Criminal": {
+      "id": 862965,
+      "poster": "/iZvzMpREGiqDQ5eYbx8z70qPgst.jpg",
+      "title": "Emily the Criminal",
+      "year": 2022
+    },
+    "Funny Pages": {
+      "id": 583095,
+      "poster": "/gCgdVvExdHM9Qjtc8yoN7MRrC7x.jpg",
+      "title": "Funny Pages",
+      "year": 2022
+    },
+    "The Inspection": {
+      "id": 837938,
+      "poster": "/w7m962Crc1p4C4gM6ZJBArAikM9.jpg",
+      "title": "The Inspection",
+      "year": 2022
+    },
+    "Nanny": {
+      "id": 843932,
+      "poster": "/mPhXHRudGxsXIQq1WM6oVePkFIp.jpg",
+      "title": "Nanny",
+      "year": 2022
+    },
+    "Saint Omer": {
+      "id": 925943,
+      "poster": "/ekr25uuxlH7kg3KLhLLZcDZ15xd.jpg",
+      "title": "Saint Omer",
+      "year": 2022
+    },
+    "Turning Red": {
+      "id": 508947,
+      "poster": "/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
+      "title": "Turning Red",
+      "year": 2022
+    },
+    "We're All Going to the World's Fair": {
+      "id": 776501,
+      "poster": "/fXn4Nz1WCTEmzAFvwgEZoPHvptR.jpg",
+      "title": "We're All Going to the World's Fair",
+      "year": 2022
+    },
+    "Babylon": {
+      "id": 615777,
+      "poster": "/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+      "title": "Babylon",
+      "year": 2022
+    },
+    "Jackass Forever": {
+      "id": 656663,
+      "poster": "/ruHDFumJfW7F2vEqTZEQQ9xT7CA.jpg",
+      "title": "Jackass Forever",
+      "year": 2022
+    },
+    "Murina": {
+      "id": 838148,
+      "poster": "/gK51yeJpaSFjQhBZdljYYiBXBTS.jpg",
+      "title": "Murina",
+      "year": 2022
+    },
+    "Prey": {
+      "id": 766507,
+      "poster": "/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg",
+      "title": "Prey",
+      "year": 2022
+    },
+    "X": {
+      "id": 760104,
+      "poster": "/lopZSVtXzhFY603E9OqF7O1YKsh.jpg",
+      "title": "X",
+      "year": 2022
+    },
+    "Return to Seoul": {
+      "id": 952701,
+      "poster": "/uEz1pAW2r1tECDI8ipttabaLHhW.jpg",
+      "title": "Return to Seoul",
+      "year": 2022
+    },
+    "Armageddon Time": {
+      "id": 615952,
+      "poster": "/wMK717aDWhboXOiVbZ9sLBqLmKh.jpg",
+      "title": "Armageddon Time",
+      "year": 2022
+    },
+    "The Fabelmans": {
+      "id": 804095,
+      "poster": "/h7llKkqkkJtJrTOaDLuVeUYDQ7I.jpg",
+      "title": "The Fabelmans",
+      "year": 2022
+    },
+    "Glass Onion: A Knives Out Mystery": {
+      "id": 661374,
+      "poster": "/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
+      "title": "Glass Onion: A Knives Out Mystery",
+      "year": 2022
+    },
+    "She Said": {
+      "id": 837881,
+      "poster": "/jG4UI2dbNWlWtTTupjeU3fRJ5Fn.jpg",
+      "title": "She Said",
+      "year": 2022
+    },
+    "Bones and All": {
+      "id": 791177,
+      "poster": "/dBQuk2LkHjrDsSjueirPQg96GCc.jpg",
+      "title": "Bones and All",
+      "year": 2022
+    },
+    "Bros": {
+      "id": 614939,
+      "poster": "/op02Hv5i4Z049nGJYmk6BScRqHO.jpg",
+      "title": "Bros",
+      "year": 2022
+    },
+    "The Black Phone": {
+      "id": 756999,
+      "poster": "/p9ZUzCyy9wRTDuuQexkQ78R2BgF.jpg",
+      "title": "The Black Phone",
+      "year": 2022
+    },
+    "Hit the Road": {
+      "id": 838154,
+      "poster": "/vJziqfgyEmY1kimb1vbMqEJdYKI.jpg",
+      "title": "Hit the Road",
+      "year": 2021
+    },
+    "Confess, Fletch": {
+      "id": 724665,
+      "poster": "/h2oyiPu7aql1s1mLDoKBNAH7p3B.jpg",
+      "title": "Confess, Fletch",
+      "year": 2022
+    },
+    "EO": {
+      "id": 785398,
+      "poster": "/1MK86Vr2nf1GSYOtRd8pFvA5RM8.jpg",
+      "title": "EO",
+      "year": 2022
+    },
+    "Hustle": {
+      "id": 705861,
+      "poster": "/xWic7kPq13oRxYjbGLApXCnc7pz.jpg",
+      "title": "Hustle",
+      "year": 2022
+    },
+    "The Menu": {
+      "id": 593643,
+      "poster": "/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg",
+      "title": "The Menu",
+      "year": 2022
+    },
+    "Ambulance": {
+      "id": 763285,
+      "poster": "/hUbgg3mMSbY9PlpTxBo4IFUVSd6.jpg",
+      "title": "Ambulance",
+      "year": 2022
+    },
+    "RRR": {
+      "id": 579974,
+      "poster": "/u0XUBNQWlOvrh0Gd97ARGpIkL0.jpg",
+      "title": "RRR",
+      "year": 2022
+    },
+    "Athena": {
+      "id": 852046,
+      "poster": "/s8B0GsFEebd0DW2spykLMxnc1Kn.jpg",
+      "title": "Athena",
+      "year": 2022
+    },
+    "The Northman": {
+      "id": 639933,
+      "poster": "/aSSJMnHknzKjlZ6zybwD7eyJ4Po.jpg",
+      "title": "The Northman",
+      "year": 2022
+    },
+    "Avatar: The Way of Water": {
+      "id": 76600,
+      "poster": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "title": "Avatar: The Way of Water",
+      "year": 2022
+    },
+    "Day Shift": {
+      "id": 755566,
+      "poster": "/tkl7n5r542S40hnYDI27lGNCACu.jpg",
+      "title": "Day Shift",
+      "year": 2022
+    },
+    "Men": {
+      "id": 780609,
+      "poster": "/jo1Kv3P3UgDVk7JnUFr2Cl8WWUM.jpg",
+      "title": "Men",
+      "year": 2022
+    },
+    "White Noise": {
+      "id": 744594,
+      "poster": "/kesxNdLZlmGoTRspDHU1WgdEuGw.jpg",
+      "title": "White Noise",
+      "year": 2022
+    },
+    "To Leslie": {
+      "id": 823147,
+      "poster": "/bFTgfsw4cnNjIZZ2r6P363X2Uk3.jpg",
+      "title": "To Leslie",
+      "year": 2022
+    },
+    "Triangle of Sadness": {
+      "id": 497828,
+      "poster": "/k9eLozCgCed5FGTSdHu0bBElAV8.jpg",
+      "title": "Triangle of Sadness",
+      "year": 2022
+    },
+    "Benediction": {
+      "id": 399178,
+      "poster": "/lKXEXfYLBp9RZvGijz7oDjDlkKY.jpg",
+      "title": "Benediction",
+      "year": 2021
+    },
+    "Pearl": {
+      "id": 949423,
+      "poster": "/z5uIG81pXyHKg7cUFIu84Wjn4NS.jpg",
+      "title": "Pearl",
+      "year": 2022
+    },
+    "Decision to Leave": {
+      "id": 705996,
+      "poster": "/zI8KZ4EdLUymWKX1YEkpZ0gtPUa.jpg",
+      "title": "Decision to Leave",
+      "year": 2022
+    },
+    "Crimes of the Future": {
+      "id": 819876,
+      "poster": "/RAFYMC0NgK9In9aGY6k6wsIL8w.jpg",
+      "title": "Crimes of the Future",
+      "year": 2022
+    },
+    "The Batman": {
+      "id": 414906,
+      "poster": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "title": "The Batman",
+      "year": 2022
+    },
+    "Edge of Tomorrow": {
+      "id": 137113,
+      "poster": "/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
+      "title": "Edge of Tomorrow",
+      "year": 2014
+    },
+    "Jerry Maguire": {
+      "id": 9390,
+      "poster": "/lABvGN7fDk5ifnwZoxij6G96t2w.jpg",
+      "title": "Jerry Maguire",
+      "year": 1996
+    },
+    "The Mummy": {
+      "id": 564,
+      "poster": "/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg",
+      "title": "The Mummy",
+      "year": 1999
+    },
+    "American Made": {
+      "id": 337170,
+      "poster": "/23ILgoPSO5ShKcTZOuiTVfqFAUB.jpg",
+      "title": "American Made",
+      "year": 2017
+    },
+    "Catch Me If You Can": {
+      "id": 640,
+      "poster": "/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+      "title": "Catch Me If You Can",
+      "year": 2002
+    },
+    "Eyes Wide Shut": {
+      "id": 345,
+      "poster": "/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+      "title": "Eyes Wide Shut",
+      "year": 1999
+    },
+    "Taps": {
+      "id": 10627,
+      "poster": "/m6w9QiuYQSBle3jygH9oV5JC8sP.jpg",
+      "title": "Taps",
+      "year": 1981
+    },
+    "The Onion Field": {
+      "id": 33831,
+      "poster": "/9XQiG3wiaHnJnAU2uNz5OaTBgBy.jpg",
+      "title": "The Onion Field",
+      "year": 1979
+    },
+    "Independence Day": {
+      "id": 602,
+      "poster": "/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg",
+      "title": "Independence Day",
+      "year": 1996
+    },
+    "The Shape of Water": {
+      "id": 399055,
+      "poster": "/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg",
+      "title": "The Shape of Water",
+      "year": 2017
+    },
+    "Downton Abbey: A New Era": {
+      "id": 820446,
+      "poster": "/r5n4CLoIjUcnT3shWDi6MHdJ25a.jpg",
+      "title": "Downton Abbey: A New Era",
+      "year": 2022
+    },
+    "The Dark Knight Rises": {
+      "id": 49026,
+      "poster": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+      "title": "The Dark Knight Rises",
+      "year": 2012
+    },
+    "Radio Days": {
+      "id": 30890,
+      "poster": "/ljZ3yyYznAiq1vF6nHITdJn6qXB.jpg",
+      "title": "Radio Days",
+      "year": 1987
+    },
+    "Waves": {
+      "id": 533444,
+      "poster": "/3xbjL0z8iH8e8L3USyeKGQrBfuZ.jpg",
+      "title": "Waves",
+      "year": 2019
+    },
+    "Creed III": {
+      "id": 677179,
+      "poster": "/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg",
+      "title": "Creed III",
+      "year": 2023
+    },
+    "Cocaine Bear": {
+      "id": 804150,
+      "poster": "/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg",
+      "title": "Cocaine Bear",
+      "year": 2023
+    },
+    "M3GAN": {
+      "id": 536554,
+      "poster": "/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
+      "title": "M3GAN",
+      "year": 2022
+    },
+    "The Unbearable Weight of Massive Talent": {
+      "id": 648579,
+      "poster": "/aqhLeieyTpTUKPOfZ3jzo2La0Mq.jpg",
+      "title": "The Unbearable Weight of Massive Talent",
+      "year": 2022
+    }
+  }
+}

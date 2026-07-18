@@ -20,7 +20,6 @@ for (const f of sorted) {
   groups.get(l).push(f);
 }
 const letters = [...groups.keys()].sort((a, b) => (a === '#' ? 1 : b === '#' ? -1 : a.localeCompare(b)));
-const fmt = (d) => new Date(d).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
 ---
 <Base title="Every movie mentioned · The Full Picture" description="An index of every film ever discussed on The Big Picture, linked to the episodes it was mentioned in.">
   <section class="cover">
@@ -46,16 +45,6 @@ const fmt = (d) => new Date(d).toLocaleDateString('en-US', { month: 'short', day
                 {f.title}{f.year && <span class="yr">{f.year}</span>}
                 <span class="movie__count">{f.mentions.length} ep{f.mentions.length === 1 ? '' : 's'}</span>
               </a>
-              <div class="movie__pop" role="tooltip">
-                <p class="movie__pop-head">Mentioned in</p>
-                {f.mentions.slice(0, 6).map((m) => (
-                  <a class="movie__pop-ep" href={`/ep/${m.slug}`}>
-                    <span class="movie__pop-t">{m.episodeTitle}</span>
-                    <span class="movie__pop-meta">{m.context} · {fmt(m.date)}</span>
-                  </a>
-                ))}
-                {f.mentions.length > 6 && <a class="movie__pop-more" href={`/movie/${f.slug}`}>+ {f.mentions.length - 6} more →</a>}
-              </div>
             </li>
           ))}
         </ul>
@@ -63,16 +52,4 @@ const fmt = (d) => new Date(d).toLocaleDateString('en-US', { month: 'short', day
     ))}
   </div>
 
-  <script>
-    // Flip a movie's episode popover to right-anchored when a left-anchored one would
-    // overflow the viewport (rightmost grid column at some widths).
-    for (const m of document.querySelectorAll('.movie')) {
-      const check = () => {
-        const pop = m.querySelector('.movie__pop');
-        if (pop) m.classList.toggle('flip', m.getBoundingClientRect().left + pop.offsetWidth > window.innerWidth - 8);
-      };
-      m.addEventListener('mouseenter', check);
-      m.addEventListener('focusin', check);
-    }
-  </script>
 </Base>

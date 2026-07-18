@@ -1,0 +1,378 @@
+{
+  "slug": "the-movie-star-liquor-taste-test",
+  "title": "The Movie Star Liquor Taste Test",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Bobby Wagner"
+  ],
+  "published": "2023-07-31",
+  "runtimeMin": 116,
+  "format": "For Amanda's birthday, Sean, Amanda, and producer Bobby taste their way through a garage full of celebrity liquor brands, tequila to bourbon to wine to beer, and track each star's film career between sips.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Singani 63 — Steven Soderbergh's grape spirit",
+      "note": "clear liquors, round two",
+      "films": [
+        {
+          "title": "Schizopolis",
+          "year": 1997,
+          "note": "cited for Soderbergh's contempt for the 'commercialized world,' which is also how they read his own liquor website."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Terramana Tequila — Dwayne Johnson",
+      "films": [
+        {
+          "title": "Fast X",
+          "year": 2023,
+          "note": "the post-credits cameo Sean calls 'the Fast X stinger,' read as sad given the reported Vin Diesel rift."
+        },
+        {
+          "title": "Black Adam",
+          "year": 2022,
+          "note": "the 'new era' Johnson was said to be launching before it underperformed."
+        },
+        {
+          "title": "Red Notice",
+          "year": 2021,
+          "note": "grouped with Black Adam as part of the recent run of Johnson vehicles that haven't landed."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Flecha Azul Tequila — Mark Wahlberg",
+      "films": [
+        {
+          "title": "Father Stu",
+          "year": 2022,
+          "note": "cited as evidence Wahlberg has 'moved primarily into Netflix territory'; neither host has actually seen it."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Aviation American Gin — Ryan Reynolds",
+      "films": [
+        {
+          "title": "Mississippi Grind",
+          "year": 2015,
+          "note": "Sean's pick for Reynolds's best performance: 'he's phenomenal.'"
+        },
+        {
+          "title": "Definitely, Maybe",
+          "year": 2008,
+          "note": "Sean recaps the whole plot (Isla Fisher, Elizabeth Banks, Rachel Weisz) before catching himself."
+        },
+        {
+          "title": "Free Guy",
+          "year": 2021,
+          "note": "'stinks,' Sean says, though he's ready to forgive Reynolds for it."
+        },
+        {
+          "title": "Deadpool & Wolverine",
+          "year": 2024,
+          "note": "referred to on air by its working title 'Deadpool 3'; Sean says he's looking forward to it."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Mulholland Gin — Walton Goggins",
+      "films": [
+        {
+          "title": "The Hateful Eight",
+          "year": 2015,
+          "note": "cited alongside Justified (TV) as proof of Goggins's range."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Vodka 6100 — Robert De Niro",
+      "films": [
+        {
+          "title": "The Intern",
+          "year": 2015,
+          "note": "Amanda's origin story as a Ringer intern: Sean sent her an IMDb pull quote with no time code, so she watched the whole movie to find it."
+        },
+        {
+          "title": "The Irishman",
+          "year": 2019,
+          "note": "Sean's counter-pick: Anna Paquin's near-silent role, and the 'you're not seeing the big picture' line he wants clipped from it."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Sofia — Francis Ford and Sofia Coppola",
+      "films": [
+        {
+          "title": "The Godfather Part III",
+          "year": 1990,
+          "note": "the wine is named for the Immobiliare subplot, which Amanda confirms is a real homage."
+        },
+        {
+          "title": "Rumble Fish",
+          "year": 1983,
+          "note": "comes up because Sofia Coppola put it on her Sight and Sound ballot; Sean's a fan."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Aveline — Cameron Diaz and Katherine Power",
+      "films": [
+        {
+          "title": "Sex Tape",
+          "year": 2014,
+          "note": "named, half-jokingly, as Diaz's last movie."
+        },
+        {
+          "title": "Annie",
+          "year": 2014,
+          "note": "the remake; 'if that was her swan song, that's not ideal.'"
+        },
+        {
+          "title": "The Counselor",
+          "year": 2013,
+          "note": "Amanda's actual pick for a great late Diaz performance: 'everyone's really trying their best.'"
+        },
+        {
+          "title": "Shrek",
+          "year": 2001,
+          "note": "brought up in passing alongside her other credits."
+        },
+        {
+          "title": "Back in Action",
+          "year": 2025,
+          "note": "her return alongside Jamie Foxx, whose health problems have the hosts unsure of the movie's status."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Margalicious Margarita — Vanessa Hudgens, Ashley Benson & Rosario Dawson",
+      "films": [
+        {
+          "title": "Spring Breakers",
+          "year": 2013,
+          "note": "Hudgens and Benson are 'two-fourths' of its cast, the hosts note."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The Long Drink — Miles Teller",
+      "films": [
+        {
+          "title": "Top Gun: Maverick",
+          "year": 2022,
+          "note": "the source of Bobby's Halloween mustache; he went as Goose to his wife's Maverick."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Broken Skull American Lager — Stone Cold Steve Austin",
+      "films": [
+        {
+          "title": "The Expendables",
+          "year": 2010,
+          "note": "Sean is genuinely surprised to learn Austin was in it."
+        },
+        {
+          "title": "The Longest Yard",
+          "year": 2005,
+          "note": "the Adam Sandler remake; Austin's other credited film role."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Casablanca",
+        "Michael Clayton"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "ER",
+      "Peacemaker",
+      "Justified",
+      "Righteous Gemstones",
+      "City Primeval",
+      "And Just Like That"
+    ],
+    "Video games": [
+      "WWE video games"
+    ],
+    "Ads": [
+      "Tremfya",
+      "Whole Foods Market",
+      "NOS Energy",
+      "Boar's Head"
+    ]
+  },
+  "tmdb": {
+    "Schizopolis": {
+      "id": 16375,
+      "poster": "/9ASmg9EvWkt90dwW9YKO3NXQk8d.jpg",
+      "title": "Schizopolis",
+      "year": 1997
+    },
+    "Fast X": {
+      "id": 385687,
+      "poster": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+      "title": "Fast X",
+      "year": 2023
+    },
+    "Black Adam": {
+      "id": 436270,
+      "poster": "/rCtreCr4xiYEWDQTebybolIh6Xe.jpg",
+      "title": "Black Adam",
+      "year": 2022
+    },
+    "Red Notice": {
+      "id": 512195,
+      "poster": "/lAXONuqg41NwUMuzMiFvicDET9Y.jpg",
+      "title": "Red Notice",
+      "year": 2021
+    },
+    "Father Stu": {
+      "id": 809140,
+      "poster": "/pLAeWgqXbTeJ2gQtNvRmdIncYsk.jpg",
+      "title": "Father Stu",
+      "year": 2022
+    },
+    "Mississippi Grind": {
+      "id": 309242,
+      "poster": "/vS3Bc6BiuZtAbSQpKhhRzPa7c2d.jpg",
+      "title": "Mississippi Grind",
+      "year": 2015
+    },
+    "Definitely, Maybe": {
+      "id": 8390,
+      "poster": "/4FuN9nBJ7ttO4BUopJCpT6B0yhH.jpg",
+      "title": "Definitely, Maybe",
+      "year": 2008
+    },
+    "Free Guy": {
+      "id": 550988,
+      "poster": "/dxraF0qPr1OEgJk17ltQTO84kQF.jpg",
+      "title": "Free Guy",
+      "year": 2021
+    },
+    "Deadpool & Wolverine": {
+      "id": 533535,
+      "poster": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+      "title": "Deadpool & Wolverine",
+      "year": 2024
+    },
+    "The Hateful Eight": {
+      "id": 273248,
+      "poster": "/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+      "title": "The Hateful Eight",
+      "year": 2015
+    },
+    "The Intern": {
+      "id": 257211,
+      "poster": "/bTQ46fupPbjBfFBHuzfD3hxxL0Q.jpg",
+      "title": "The Intern",
+      "year": 2015
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "The Godfather Part III": {
+      "id": 242,
+      "poster": "/lm3pQ2QoQ16pextRsmnUbG2onES.jpg",
+      "title": "The Godfather Part III",
+      "year": 1990
+    },
+    "Rumble Fish": {
+      "id": 232,
+      "poster": "/nwIUWs7cexC8Wk9c6ey8nFltAZd.jpg",
+      "title": "Rumble Fish",
+      "year": 1983
+    },
+    "Sex Tape": {
+      "id": 225886,
+      "poster": "/u2h7UnSHrbAA5WBoKhdH1rlDZfz.jpg",
+      "title": "Sex Tape",
+      "year": 2014
+    },
+    "Annie": {
+      "id": 196867,
+      "poster": "/aKAM9V0izx4VhsdyAdBvAB26UCZ.jpg",
+      "title": "Annie",
+      "year": 2014
+    },
+    "The Counselor": {
+      "id": 109091,
+      "poster": "/aNiLkGnzVb5CorZHKk16w9S4COt.jpg",
+      "title": "The Counselor",
+      "year": 2013
+    },
+    "Shrek": {
+      "id": 808,
+      "poster": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+      "title": "Shrek",
+      "year": 2001
+    },
+    "Back in Action": {
+      "id": 993710,
+      "poster": "/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg",
+      "title": "Back in Action",
+      "year": 2025
+    },
+    "Spring Breakers": {
+      "id": 122081,
+      "poster": "/9tyPnyEkL44qbAliM9jMRWc6bjg.jpg",
+      "title": "Spring Breakers",
+      "year": 2013
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "The Expendables": {
+      "id": 27578,
+      "poster": "/j09ZkH6R4JWVylBcDai1laCmGw7.jpg",
+      "title": "The Expendables",
+      "year": 2010
+    },
+    "The Longest Yard": {
+      "id": 9291,
+      "poster": "/nbKcVBcxF96ARW2oKHqDYAcLdu.jpg",
+      "title": "The Longest Yard",
+      "year": 2005
+    },
+    "Casablanca": {
+      "id": 289,
+      "poster": "/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+      "title": "Casablanca",
+      "year": 1943
+    },
+    "Michael Clayton": {
+      "id": 4566,
+      "poster": "/hhkW4yVIGo8Bee3UITKvqOvhNMG.jpg",
+      "title": "Michael Clayton",
+      "year": 2007
+    }
+  }
+}

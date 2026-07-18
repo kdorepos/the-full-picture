@@ -20,7 +20,7 @@
         {
           "title": "King Kong",
           "year": 1933,
-          "note": "Adam's pick. Monster as pure spectacle - stop-motion built for a giant screen, and somehow still sympathetic even as he's smashing people into paste."
+          "note": "Adam's pick. Monster as pure spectacle: stop-motion built for a giant screen, and somehow still sympathetic even as he's smashing people into paste."
         },
         {
           "title": "Cat People",
@@ -30,7 +30,7 @@
         {
           "title": "Creature from the Black Lagoon",
           "year": 1954,
-          "note": "Adam's pick, directed by Jack Arnold. The underwater-stalking template Jaws would run with - and, per Adam, the movie Guillermo del Toro's Shape of Water waters down."
+          "note": "Adam's pick, directed by Jack Arnold. The underwater-stalking template Jaws would run with. Per Adam, it's also the movie Guillermo del Toro's Shape of Water waters down."
         },
         {
           "title": "Jaws",
@@ -45,12 +45,12 @@
         {
           "title": "Alien",
           "year": 1979,
-          "note": "Sean's pick. H.R. Giger's design work on a creature Adam calls monster as lack of character - there's no reading its motives, only its shape."
+          "note": "Sean's pick. H.R. Giger's design work on a creature Adam calls monster as lack of character: there's no reading its motives, only its shape."
         },
         {
           "title": "The Evil Dead",
           "year": 1981,
-          "note": "Adam's pick, Sam Raimi's debut. The monster here is a book - the Necronomicon - not a body. Edited by a pre-Blood Simple Joel Coen."
+          "note": "Adam's pick, Sam Raimi's debut. The monster here is a book (the Necronomicon), not a body. Edited by a pre-Blood Simple Joel Coen."
         },
         {
           "title": "The Thing",
@@ -60,12 +60,12 @@
         {
           "title": "The Fly",
           "year": 1986,
-          "note": "Sean's pick. David Cronenberg and Jeff Goldblum, produced by Mel Brooks - the one on the list that gets Sean, by his own admission."
+          "note": "Sean's pick. David Cronenberg and Jeff Goldblum, produced by Mel Brooks. It's the one on the list that gets Sean, by his own admission."
         },
         {
           "title": "The Mist",
           "year": 2007,
-          "note": "Adam's closing pick. Frank Darabont's Stephen King adaptation - both hosts prefer watching it in the black-and-white cut."
+          "note": "Adam's closing pick. Frank Darabont's Stephen King adaptation. Both hosts prefer watching it in the black-and-white cut."
         }
       ]
     },
@@ -77,7 +77,7 @@
         {
           "title": "The Invisible Man",
           "year": 2020,
-          "note": "Writer-director Leigh Whannell moves the story to the victim's point of view, with Elisabeth Moss carrying it. The invisibility effects mix CGI with 1930s-style practical tricks - a stunt performer in a green suit, a crew member pulling a wire from inside a cabinet."
+          "note": "Writer-director Leigh Whannell moves the story to the victim's point of view, with Elisabeth Moss carrying it. The invisibility effects mix CGI with 1930s-style practical tricks: a stunt performer in a green suit, a crew member pulling a wire from inside a cabinet."
         }
       ]
     }
@@ -93,11 +93,11 @@
         "Godzilla",
         "Psycho",
         "The Shape of Water",
-        "King Kong",
+        "King Kong (2005)",
         "Pan's Labyrinth",
         "Prometheus",
         "Aliens",
-        "Cat People",
+        "Cat People (1982)",
         "Invasion of the Body Snatchers",
         "They Live",
         "Halloween",
@@ -132,6 +132,7 @@
         "Misery",
         "Fatal Attraction",
         "Wait Until Dark",
+        "Cat People",
         "Gone Girl",
         "Dead Calm",
         "Mad Monster Party?"
@@ -175,6 +176,16 @@
     "Stage": [
       "The Woman in Black"
     ]
+  },
+  "tmdbOverrides": {
+    "Frankenstein": 3035,
+    "Dracula": 138,
+    "Godzilla": 1678,
+    "The Fog": 790,
+    "RoboCop": 5548,
+    "Ghostbusters": 620,
+    "Cat People (1982)": 6217,
+    "King Kong (2005)": 254
   },
   "tmdb": {
     "King Kong": {
@@ -250,16 +261,16 @@
       "year": 1935
     },
     "Frankenstein": {
-      "id": 1062722,
-      "poster": "/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+      "id": 3035,
+      "poster": "/mu6wHwH0IwCCaEYtpqujuPJYat1.jpg",
       "title": "Frankenstein",
-      "year": 2025
+      "year": 1931
     },
     "Dracula": {
-      "id": 1246049,
-      "poster": "/dYRqA50yd0nB3qBR7AtWEJJQ8q.jpg",
+      "id": 138,
+      "poster": "/ueVSPt7vAba0XScHWTDWS5tNxYX.jpg",
       "title": "Dracula",
-      "year": 2025
+      "year": 1931
     },
     "Young Frankenstein": {
       "id": 3034,
@@ -268,10 +279,10 @@
       "year": 1974
     },
     "Godzilla": {
-      "id": 124905,
-      "poster": "/z0CpCYiaUikJrcftPnb0jYCYmoo.jpg",
+      "id": 1678,
+      "poster": "/2W0Yw0qrgVMgdsSCZRKtfvaAh0i.jpg",
       "title": "Godzilla",
-      "year": 2014
+      "year": 1954
     },
     "Psycho": {
       "id": 539,
@@ -284,6 +295,12 @@
       "poster": "/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg",
       "title": "The Shape of Water",
       "year": 2017
+    },
+    "King Kong (2005)": {
+      "id": 254,
+      "poster": "/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg",
+      "title": "King Kong",
+      "year": 2005
     },
     "Pan's Labyrinth": {
       "id": 1417,
@@ -302,6 +319,12 @@
       "poster": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
       "title": "Aliens",
       "year": 1986
+    },
+    "Cat People (1982)": {
+      "id": 6217,
+      "poster": "/nYcQnkbTD4LDmp11HCReQuUoMKD.jpg",
+      "title": "Cat People",
+      "year": 1982
     },
     "Invasion of the Body Snatchers": {
       "id": 11850,
@@ -322,10 +345,10 @@
       "year": 1978
     },
     "The Fog": {
-      "id": 791,
-      "poster": "/v9vt49PUDJGkrMVjhb3yiYo7H4Y.jpg",
+      "id": 790,
+      "poster": "/12EeSboRofP3CI4SPmMFNNXCbtY.jpg",
       "title": "The Fog",
-      "year": 2005
+      "year": 1980
     },
     "Blood Simple": {
       "id": 11368,
@@ -502,10 +525,10 @@
       "year": 2018
     },
     "RoboCop": {
-      "id": 97020,
-      "poster": "/gM5ql3BKYmHG3WtZ0buKXN7xY8O.jpg",
+      "id": 5548,
+      "poster": "/esmAU0fCO28FbS6bUBKLAzJrohZ.jpg",
       "title": "RoboCop",
-      "year": 2014
+      "year": 1987
     },
     "Total Recall": {
       "id": 861,
@@ -562,10 +585,10 @@
       "year": 2019
     },
     "Ghostbusters": {
-      "id": 43074,
-      "poster": "/wJmWliwXIgZOCCVOcGRBhce7xPS.jpg",
+      "id": 620,
+      "poster": "/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
       "title": "Ghostbusters",
-      "year": 2016
+      "year": 1984
     },
     "The Elephant Man": {
       "id": 1955,

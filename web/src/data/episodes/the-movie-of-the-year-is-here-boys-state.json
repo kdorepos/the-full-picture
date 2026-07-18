@@ -1,0 +1,156 @@
+{
+  "slug": "the-movie-of-the-year-is-here-boys-state",
+  "title": "The Movie of the Year Is Here: ‘Boys State’",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2020-08-17",
+  "runtimeMin": 77,
+  "format": "Sean and Amanda call the Apple TV+ documentary the best movie they've seen this year, then talk to directors Jesse Moss and Amanda McBaine about casting four 17-year-olds and shooting a mock election in six days.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "Boys State",
+      "note": "dir. Jesse Moss and Amanda McBaine",
+      "films": [
+        {
+          "title": "Boys State",
+          "year": 2020,
+          "note": "A24 and Apple bought it out of Sundance: four Texas teenagers run a mock gubernatorial campaign at the American Legion's weeklong civics program, and the tactics get real fast."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Jesse Moss and Amanda McBaine on",
+      "films": [
+        {
+          "title": "Boys State",
+          "year": 2020,
+          "note": "Cast three of the film's four central figures before the event even started, then found Renee Otero on day two, minutes before he gave the speech that put him in the movie."
+        },
+        {
+          "title": "The War Room",
+          "year": 1993,
+          "note": "Moss calls it foundational to his own career: the film that convinced him to trade politics for documentary work."
+        },
+        {
+          "title": "Primary",
+          "year": 1960,
+          "note": "The Robert Drew film they cite for Al Maysles's shot of JFK entering a room in Wisconsin."
+        },
+        {
+          "title": "Crisis: Behind a Presidential Commitment",
+          "year": 1963,
+          "note": "Drew's film shot both sides of a standoff, JFK and George Wallace: the kind of access on each side of a conflict that Moss and McBaine also got at Boys State."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Also mentioned",
+      "films": [
+        "The Overnighters",
+        "Minding the Gap",
+        "Beastie Boys Story",
+        "Greyhound",
+        "Time",
+        "Hoop Dreams",
+        "Alien",
+        "Blade Runner"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Defending Jacob",
+      "The Morning Show",
+      "Real Housewives of Beverly Hills"
+    ],
+    "Ads": [
+      "An American Pickle"
+    ]
+  },
+  "tmdbOverrides": {
+    "Time": 653729
+  },
+  "tmdb": {
+    "Boys State": {
+      "id": 653723,
+      "poster": "/cuvt3ImM3wQdijib7OeIH48uRfQ.jpg",
+      "title": "Boys State",
+      "year": 2020
+    },
+    "The War Room": {
+      "id": 26408,
+      "poster": "/prfxsyG4SnlnqqulavCJ4RksFUA.jpg",
+      "title": "The War Room",
+      "year": 1993
+    },
+    "Primary": {
+      "id": 133,
+      "poster": "/gVloWsthHRlw719vzRWRpBqDM20.jpg",
+      "title": "Primary",
+      "year": 1960
+    },
+    "Crisis: Behind a Presidential Commitment": {
+      "id": 162494,
+      "poster": "/fkBQDLYzGM23Hz7pLDKoAqYwdpz.jpg",
+      "title": "Crisis: Behind a Presidential Commitment",
+      "year": 1963
+    },
+    "The Overnighters": {
+      "id": 250666,
+      "poster": "/pkDorP7Rj1wgxcYZx2aNeozRJP8.jpg",
+      "title": "The Overnighters",
+      "year": 2014
+    },
+    "Minding the Gap": {
+      "id": 489985,
+      "poster": "/uOu2YgrryHD1UlngykzTodAxGdC.jpg",
+      "title": "Minding the Gap",
+      "year": 2018
+    },
+    "Beastie Boys Story": {
+      "id": 664416,
+      "poster": "/mph9vxXnEgiFrkrUqMk40DpPtEX.jpg",
+      "title": "Beastie Boys Story",
+      "year": 2020
+    },
+    "Greyhound": {
+      "id": 516486,
+      "poster": "/kjMbDciooTbJPofVXgAoFjfX8Of.jpg",
+      "title": "Greyhound",
+      "year": 2020
+    },
+    "Time": {
+      "id": 653729,
+      "poster": "/2yLZmlf6vdpkhTaD0oUmIFu8SsM.jpg",
+      "title": "Time",
+      "year": 2020
+    },
+    "Hoop Dreams": {
+      "id": 14275,
+      "poster": "/gLzHl2XBtVwycl8DxdOXRHPm8G3.jpg",
+      "title": "Hoop Dreams",
+      "year": 1994
+    },
+    "Alien": {
+      "id": 348,
+      "poster": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "title": "Alien",
+      "year": 1979
+    },
+    "Blade Runner": {
+      "id": 78,
+      "poster": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+      "title": "Blade Runner",
+      "year": 1982
+    }
+  }
+}

@@ -31,7 +31,7 @@
         {
           "title": "Triangle of Sadness",
           "year": 2022,
-          "note": "A supermodel couple (Harris Dickinson, Charlbi Dean) take a luxury yacht vacation that goes very wrong. Both hosts single out Dolly de Leon's third act as a Best Supporting Actress case — 'let's start the Oscar campaign right now' — though Amanda found the first-act Instagram satire too on the nose."
+          "note": "A supermodel couple (Harris Dickinson, Charlbi Dean) take a luxury yacht vacation that goes very wrong. Both hosts single out Dolly de Leon's third act as a Best Supporting Actress case ('let's start the Oscar campaign right now'), though Amanda found the first-act Instagram satire too on the nose."
         }
       ]
     },
@@ -55,12 +55,12 @@
         {
           "title": "Rogue One: A Star Wars Story",
           "year": 2016,
-          "note": "Andor is a direct prequel to this, which was itself a prequel to A New Hope — 'that sounds elaborate and annoying, but it really is not.'"
+          "note": "Andor is a direct prequel to this, which was itself a prequel to A New Hope: 'that sounds elaborate and annoying, but it really is not.'"
         },
         {
           "title": "Star Wars",
           "year": 1977,
-          "note": "the trilogy Rogue One leads into; Sean says Andor barely registers as Star Wars at all — 'no lightsabers here,' no sign of the Skywalkers."
+          "note": "the trilogy Rogue One leads into; Sean says Andor barely registers as Star Wars at all: 'no lightsabers here,' no sign of the Skywalkers."
         }
       ]
     },
@@ -83,13 +83,13 @@
       "films": [
         {
           "title": "Master Gardener",
-          "year": 2022,
+          "year": 2023,
           "note": "Paul Schrader's latest lonely-man redemption story: Joel Edgerton as an ex-neo-Nazi turned horticulturist, Sigourney Weaver as the plantation-owner boss who employs him. Doesn't have distribution yet, but Sean loved it."
         },
         {
           "title": "Decision to Leave",
           "year": 2022,
-          "note": "Park Chan-wook's Hitchcock homage, led by Tang Wei. Both hosts liked it without loving it — 'purposefully convoluted,' per Sean, and a bit slow."
+          "note": "Park Chan-wook's Hitchcock homage, led by Tang Wei. Both hosts liked it without loving it: 'purposefully convoluted,' per Sean, and a bit slow."
         },
         {
           "title": "The Eternal Daughter",
@@ -105,13 +105,13 @@
       "films": [
         {
           "title": "King Lear",
-          "year": 1987,
+          "year": 1988,
           "note": "Jean-Luc Godard's Cannon Films oddity, with Molly Ringwald, Norman Mailer, Burgess Meredith, and a Woody Allen cameo that got a round of applause from the audience. Sean: 'I wouldn't say I liked it. I'm not sure how one likes a movie like that.'"
         },
         {
           "title": "Belly",
           "year": 1998,
-          "note": "Hype Williams' Nas/DMX crime film, seen on 35mm at the Metrograph. Sean: 'borderline incoherent' but 'fucking amazing' — DMX and Taral Hicks 'radiant,' Nas 'absolutely atrocious.'"
+          "note": "Hype Williams' Nas/DMX crime film, seen on 35mm at the Metrograph. Sean: 'borderline incoherent' but 'fucking amazing,' with DMX and Taral Hicks 'radiant' and Nas 'absolutely atrocious.'"
         }
       ]
     },
@@ -264,6 +264,9 @@
       "Pepsi",
       "Stitch Fix"
     ]
+  },
+  "tmdbOverrides": {
+    "Hellraiser": 338947
   },
   "tmdb": {
     "Amsterdam": {
@@ -495,10 +498,10 @@
       "year": 2022
     },
     "Hellraiser": {
-      "id": 9003,
-      "poster": "/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg",
+      "id": 338947,
+      "poster": "/f9ZAIUxTTk23vo1BC9Ur1Rx5c2E.jpg",
       "title": "Hellraiser",
-      "year": 1987
+      "year": 2022
     },
     "The Fabelmans": {
       "id": 804095,

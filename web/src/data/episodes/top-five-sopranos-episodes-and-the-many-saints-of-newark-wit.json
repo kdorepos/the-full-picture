@@ -1,0 +1,147 @@
+{
+  "slug": "top-five-sopranos-episodes-and-the-many-saints-of-newark-wit",
+  "title": "Top Five ‘Sopranos’ Episodes and ‘The Many Saints of Newark’ With David Chase",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Justin Sales"
+  ],
+  "published": "2021-10-01",
+  "runtimeMin": 114,
+  "format": "Sean Fennessey and Justin Sales review The Many Saints of Newark and rank their favorite Sopranos episodes, then David Chase joins to talk about making the film, his history with Not Fade Away, and why he still insists it's a movie and not a TV show.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "The Many Saints of Newark",
+      "note": "Sean Fennessey and Justin Sales",
+      "films": [
+        {
+          "title": "The Many Saints of Newark",
+          "year": 2021,
+          "note": "David Chase's prequel, co-written with Lawrence Konner and directed by Alan Taylor after Chase's own health issues forced him off the project. Pitched as a young-Tony story, it pivots into the tale of Dickie Moltisanti (Alessandro Nivola), Tony's uncle and idol. Justin and Sean both liked it, with reservations: it's more period gangster movie than Sopranos episode, and some of the recastings (Silvio especially) tip into impression. Michael Gandolfini's playfulness and Ray Liotta's performance were the highlights."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "David Chase on",
+      "films": [
+        {
+          "title": "Not Fade Away",
+          "year": 2012,
+          "note": "Chase's first film, also set in late-60s New Jersey. He says he doesn't see much connection to Many Saints beyond the era, and wishes he'd fought the studio harder on cuts. Paramount tested it, marketed it poorly, and sat on it for two months after its New York Film Festival premiere."
+        },
+        {
+          "title": "The Asphalt Jungle",
+          "year": 1950,
+          "note": "The last great thing Chase watched: a John Huston film new to him, caught on the Criterion Channel."
+        },
+        {
+          "title": "Chinatown",
+          "year": 1974,
+          "note": "Chase brings it up as the other John Huston connection: Huston played Noah Cross in it."
+        },
+        {
+          "title": "In This Our Life",
+          "year": 1942,
+          "note": "Another Huston film Chase caught in the same Criterion retrospective, with Bette Davis and Olivia de Havilland."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Goodfellas",
+        "Mean Streets",
+        "The Edge",
+        "Casablanca",
+        "Venom: Let There Be Carnage",
+        "xXx: State of the Union"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Sopranos (Justin and Sean's top-five-episodes ranking, plus the guest interview subject)"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "Netflix (FIFA World Cup Launch Edition)",
+      "White Claw",
+      "The Ringer Music Show (podcast promo)"
+    ]
+  },
+  "tmdb": {
+    "The Many Saints of Newark": {
+      "id": 524369,
+      "poster": "/1UkbPQspPbq1FPbFP4VV1ELCfSN.jpg",
+      "title": "The Many Saints of Newark",
+      "year": 2021
+    },
+    "Not Fade Away": {
+      "id": 128270,
+      "poster": "/gm35kM2WURKQtw59EkE4zT2ptsp.jpg",
+      "title": "Not Fade Away",
+      "year": 2012
+    },
+    "The Asphalt Jungle": {
+      "id": 16958,
+      "poster": "/8xsUnT0P2fJWQv9jGDhs3i9Zx2l.jpg",
+      "title": "The Asphalt Jungle",
+      "year": 1950
+    },
+    "Chinatown": {
+      "id": 829,
+      "poster": "/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg",
+      "title": "Chinatown",
+      "year": 1974
+    },
+    "In This Our Life": {
+      "id": 43525,
+      "poster": "/bnQulLMPOlBfUqAxKPA3FvqxTrD.jpg",
+      "title": "In This Our Life",
+      "year": 1942
+    },
+    "Goodfellas": {
+      "id": 769,
+      "poster": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+      "title": "GoodFellas",
+      "year": 1990
+    },
+    "Mean Streets": {
+      "id": 203,
+      "poster": "/9msfwOeGc9uL1iRRTBdEf15XonC.jpg",
+      "title": "Mean Streets",
+      "year": 1973
+    },
+    "The Edge": {
+      "id": 9433,
+      "poster": "/zplJqfuUyqzW0D4jX3W1afl0d7b.jpg",
+      "title": "The Edge",
+      "year": 1997
+    },
+    "Casablanca": {
+      "id": 289,
+      "poster": "/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+      "title": "Casablanca",
+      "year": 1943
+    },
+    "Venom: Let There Be Carnage": {
+      "id": 580489,
+      "poster": "/pzKsRuKLFmYrW5Q0q8E8G78Tcgo.jpg",
+      "title": "Venom: Let There Be Carnage",
+      "year": 2021
+    },
+    "xXx: State of the Union": {
+      "id": 11679,
+      "poster": "/nL9J0N3HJSdZTKRsd5xcE6IzL5s.jpg",
+      "title": "xXx: State of the Union",
+      "year": 2005
+    }
+  },
+  "spotifyEpisodeId": "0KzYuhIxpZkdKBvIgU3aPH"
+}

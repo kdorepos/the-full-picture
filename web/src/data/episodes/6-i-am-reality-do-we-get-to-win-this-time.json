@@ -1,0 +1,230 @@
+{
+  "slug": "6-i-am-reality-do-we-get-to-win-this-time",
+  "title": "6. I Am Reality | Do We Get to Win This Time?",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Brian Raftery"
+  ],
+  "published": "2023-08-21",
+  "runtimeMin": 48,
+  "format": "The Vietnam-on-film series reaches Platoon: how Oliver Stone survived Salvador, ran his cast through Dale Dye's jungle boot camp, and turned his own infantry tour into the 1986 Best Picture winner.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "How Hollywood Made the Vietnam War",
+      "note": "Oliver Stone and the making of Platoon",
+      "films": [
+        {
+          "title": "Platoon",
+          "year": 1986,
+          "note": "Stone's alter-ego Chris Taylor (Charlie Sheen, cast after brother Emilio Estevez aged out) between Barnes (Tom Berenger) and Elias (Willem Dafoe). Shot in 54 days in the Philippines for $6.5M; eight Oscar nominations, wins for Best Picture and Best Director. Keith David plays King."
+        },
+        {
+          "title": "Rambo: First Blood Part II",
+          "year": 1985,
+          "note": "Took over the summer-1985 box office; its 'we get to win this time' jingoism was exactly what Stone set out to rebut."
+        },
+        {
+          "title": "Missing in Action",
+          "year": 1984,
+          "note": "Grouped with Rambo as the POW-rescue films selling US troops re-fighting and winning Vietnam."
+        },
+        {
+          "title": "Midnight Express",
+          "year": 1978,
+          "note": "The prison thriller that won Stone a screenwriting Oscar, though it never made him feel accepted in Hollywood."
+        },
+        {
+          "title": "Scarface",
+          "year": 1983,
+          "note": "Stone's script for Al Pacino's remake, cited as proof of his A-list screenwriting resume."
+        },
+        {
+          "title": "Seizure",
+          "year": 1974,
+          "note": "Stone's early horror film, with Herve Villechaize as a figure named Spider; part of the thin directing resume he had before Salvador."
+        },
+        {
+          "title": "The Hand",
+          "year": 1981,
+          "note": "Stone's other early horror film, Michael Caine as an illustrator whose severed hand takes on a life of its own."
+        },
+        {
+          "title": "Salvador",
+          "year": 1986,
+          "note": "The James Woods El Salvador thriller Stone directed first, financed by John Daly's Hemdale; pulling it off cheap is what got Platoon greenlit."
+        },
+        {
+          "title": "The Deer Hunter",
+          "year": 1978,
+          "note": "Michael Cimino briefly wanted to produce Platoon; cited as the earlier Vietnam film that fixed war in a game of Russian roulette."
+        },
+        {
+          "title": "Apocalypse Now",
+          "year": 1979,
+          "note": "Martin Sheen starred; Charlie Sheen visited the set as a kid. Coppola's rainy-season Philippines ordeal was the cautionary tale Stone raced to avoid."
+        },
+        {
+          "title": "The Big Chill",
+          "year": 1983,
+          "note": "Tom Berenger came off it as a nice-guy TV star before Stone turned him into the fatalistic Sergeant Barnes."
+        },
+        {
+          "title": "To Live and Die in L.A.",
+          "year": 1985,
+          "note": "Dafoe had just played its sinister counterfeiter, against type from the paternal Elias."
+        },
+        {
+          "title": "Sands of Iwo Jima",
+          "year": 1949,
+          "note": "John Wayne WWII film, a favorite of technical advisor Dale Dye growing up in Missouri."
+        },
+        {
+          "title": "Saving Private Ryan",
+          "year": 1998,
+          "note": "Later film Dye ran military prep on, after his Platoon boot camp made the practice standard."
+        },
+        {
+          "title": "Forrest Gump",
+          "year": 1994,
+          "note": "Another Dye military-advising credit named alongside his later work."
+        },
+        {
+          "title": "The Thin Red Line",
+          "year": 1998,
+          "note": "Named with Saving Private Ryan and Forrest Gump as films Dye prepared with military training."
+        },
+        {
+          "title": "Top Gun",
+          "year": 1986,
+          "note": "The year's biggest hit, a flag-wrapped ode to US might; Platoon's muddy counterweight."
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Fantasy Island",
+      "The Oprah Winfrey Show"
+    ],
+    "Podcasts": [
+      "Icons Club",
+      "This Blew Up",
+      "Gamblers"
+    ],
+    "Ads": [
+      "Carvana",
+      "Netflix FIFA World Cup Launch Edition",
+      "Boar's Head",
+      "DraftKings Sportsbook"
+    ],
+    "Music": [
+      "Living Colour"
+    ]
+  },
+  "tmdb": {
+    "Platoon": {
+      "id": 792,
+      "poster": "/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg",
+      "title": "Platoon",
+      "year": 1986
+    },
+    "Rambo: First Blood Part II": {
+      "id": 1369,
+      "poster": "/fVwRtWqEPdsCH21BVDGqgkAQcff.jpg",
+      "title": "Rambo: First Blood Part II",
+      "year": 1985
+    },
+    "Missing in Action": {
+      "id": 15379,
+      "poster": "/nBrDcnNQca88ed1gRwZ1Q5cjNxE.jpg",
+      "title": "Missing in Action",
+      "year": 1984
+    },
+    "Midnight Express": {
+      "id": 11327,
+      "poster": "/6GXioArQEdxcYqOcEfMdpyJPlwx.jpg",
+      "title": "Midnight Express",
+      "year": 1978
+    },
+    "Scarface": {
+      "id": 111,
+      "poster": "/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+      "title": "Scarface",
+      "year": 1983
+    },
+    "Seizure": {
+      "id": 29854,
+      "poster": "/5vY4XtaLvSJxRHg3QQI9Zq0pH4f.jpg",
+      "title": "Seizure",
+      "year": 1974
+    },
+    "The Hand": {
+      "id": 42149,
+      "poster": "/zUSAV9rObBlJfYIK9y4o88hmmdd.jpg",
+      "title": "The Hand",
+      "year": 1981
+    },
+    "Salvador": {
+      "id": 6106,
+      "poster": "/c5JgUmzN7syTFy9suwoHF3vhNsN.jpg",
+      "title": "Salvador",
+      "year": 1986
+    },
+    "The Deer Hunter": {
+      "id": 11778,
+      "poster": "/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
+      "title": "The Deer Hunter",
+      "year": 1978
+    },
+    "Apocalypse Now": {
+      "id": 28,
+      "poster": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "title": "Apocalypse Now",
+      "year": 1979
+    },
+    "The Big Chill": {
+      "id": 12560,
+      "poster": "/rU8kjMEL5Mn0EWm3gOShPHBEZ4l.jpg",
+      "title": "The Big Chill",
+      "year": 1983
+    },
+    "To Live and Die in L.A.": {
+      "id": 9846,
+      "poster": "/2iW3pSihBIhXjnBQmUJ0mAiZbB5.jpg",
+      "title": "To Live and Die in L.A.",
+      "year": 1985
+    },
+    "Sands of Iwo Jima": {
+      "id": 18712,
+      "poster": "/utpy9JLuyhsxpw2E3yExw23f3eS.jpg",
+      "title": "Sands of Iwo Jima",
+      "year": 1950
+    },
+    "Saving Private Ryan": {
+      "id": 857,
+      "poster": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+      "title": "Saving Private Ryan",
+      "year": 1998
+    },
+    "Forrest Gump": {
+      "id": 13,
+      "poster": "/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
+      "title": "Forrest Gump",
+      "year": 1994
+    },
+    "The Thin Red Line": {
+      "id": 8741,
+      "poster": "/seMydAaoxQP6F0xbE1jOcTmn5Jr.jpg",
+      "title": "The Thin Red Line",
+      "year": 1998
+    },
+    "Top Gun": {
+      "id": 744,
+      "poster": "/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+      "title": "Top Gun",
+      "year": 1986
+    }
+  }
+}

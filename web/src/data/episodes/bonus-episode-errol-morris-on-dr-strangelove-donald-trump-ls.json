@@ -1,0 +1,200 @@
+{
+  "slug": "bonus-episode-errol-morris-on-dr-strangelove-donald-trump-ls",
+  "title": "Bonus Episode: Errol Morris on ‘Dr. Strangelove,’ Donald Trump, LSD, and America",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2020-11-27",
+  "runtimeMin": 65,
+  "format": "Sean Fennessey talks with documentarian Errol Morris about his new Showtime film on Joanna Harcourt-Smith and Timothy Leary, and about memory, denial, Trump, and the movies across his career.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "Errol Morris in conversation",
+      "guest": "Errol Morris on",
+      "films": [
+        {
+          "title": "My Psychedelic Love Story",
+          "year": 2020,
+          "note": "The new Showtime film, finished the day before this taping. A first-person portrait of Joanna Harcourt-Smith, Timothy Leary's common-law wife, who died six weeks before release. Morris calls it his first love story."
+        },
+        {
+          "title": "The Fog of War",
+          "year": 2003,
+          "note": "The McNamara film Morris frames as the kin to the new one: a single-subject investigation of self by self."
+        },
+        {
+          "title": "The Unknown Known",
+          "year": 2013,
+          "note": "The Rumsfeld companion piece to Fog of War (Fennessey misdates it 2014)."
+        },
+        {
+          "title": "The Thin Blue Line",
+          "year": 1988,
+          "note": "Morris's recommended starting point; the mystery he says he was lucky enough to actually solve."
+        },
+        {
+          "title": "Fast, Cheap & Out of Control",
+          "year": 1997
+        },
+        {
+          "title": "Mr. Death: The Rise and Fall of Fred A. Leuchter, Jr.",
+          "year": 1999,
+          "note": "Morris calls it a failure of nerve: a Harvard rough-cut left students doubting the Holocaust, so he added experts to tell viewers what to think, against his one-subject instinct."
+        },
+        {
+          "title": "Gates of Heaven",
+          "year": 1978
+        },
+        {
+          "title": "American Dharma",
+          "year": 2018,
+          "note": "The Steve Bannon film savaged after Venice as cancel-culture fodder. Morris says his aim was to show these people offer only destruction, and calls Trump the 'fuck you president' to Bannon's face in it."
+        },
+        {
+          "title": "Dr. Strangelove",
+          "year": 1964,
+          "note": "The George C. Scott / Peter Sellers 'this person is psychotic' beat anchors Morris's Globe editorial on Trump: obvious, but not obvious enough that people will say it."
+        },
+        {
+          "title": "Rashomon",
+          "year": 1950,
+          "note": "Morris rejects the received reading of it as an essay on subjective truth; he sees a film about the denial and hiding of truth."
+        },
+        {
+          "title": "The B-Side: Elsa Dorfman's Portrait Photography",
+          "year": 2016,
+          "note": "His film about photographer Elsa Dorfman, who watched it through her last week of life."
+        },
+        {
+          "title": "City Hall",
+          "year": 2020,
+          "note": "The new Frederick Wiseman documentary Morris was asked to write about; occasion for their running 'king of misanthropic cinema' argument."
+        },
+        {
+          "title": "Vernon, Florida",
+          "year": 1981,
+          "note": "Cited as the flattering comparison for the FX series: a true-crime version of it, with a wild array of crazy characters."
+        },
+        {
+          "title": "Searching for Bobby Fischer",
+          "year": 1993,
+          "note": "The film Morris says he hated for selling a false choice between genius and a normal life; his foil for why he loves 'The Queen's Gambit.'"
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Wormwood",
+      "A Wilderness of Error",
+      "The Queen's Gambit",
+      "First Person"
+    ],
+    "Books": [
+      "Fatal Vision",
+      "A Wilderness of Error",
+      "The Waves"
+    ],
+    "Ads": [
+      "NOS Energy",
+      "FanDuel",
+      "Carvana",
+      "FIFA World Cup Launch Edition (Netflix)",
+      "Boar's Head",
+      "Whole Foods",
+      "Stitch Fix"
+    ]
+  },
+  "tmdb": {
+    "My Psychedelic Love Story": {
+      "id": 750595,
+      "poster": "/qaCRvYcejXfZ2hv9CApq3yhmqca.jpg",
+      "title": "My Psychedelic Love Story",
+      "year": 2020
+    },
+    "The Fog of War": {
+      "id": 12698,
+      "poster": "/m1dEnkrdJGBSLeAyJepuGrU9sNI.jpg",
+      "title": "The Fog of War",
+      "year": 2003
+    },
+    "The Unknown Known": {
+      "id": 209799,
+      "poster": "/8BiCtoif98SAhSRRNfshRL75xCW.jpg",
+      "title": "The Unknown Known",
+      "year": 2013
+    },
+    "The Thin Blue Line": {
+      "id": 14285,
+      "poster": "/4w4BJk3l8y9gYwPPLRs6uPHOmGL.jpg",
+      "title": "The Thin Blue Line",
+      "year": 1988
+    },
+    "Fast, Cheap & Out of Control": {
+      "id": 25099,
+      "poster": "/8uXV6w3ZQUtefqjCgxXswCwPSjk.jpg",
+      "title": "Fast, Cheap & Out of Control",
+      "year": 1997
+    },
+    "Mr. Death: The Rise and Fall of Fred A. Leuchter, Jr.": {
+      "id": 28216,
+      "poster": "/buoMN4p95mvB2JgyglMb5gKxurV.jpg",
+      "title": "Mr. Death: The Rise and Fall of Fred A. Leuchter, Jr.",
+      "year": 1999
+    },
+    "Gates of Heaven": {
+      "id": 24998,
+      "poster": "/2VGQsyCvd2XJKpKZXHF4AWsADoA.jpg",
+      "title": "Gates of Heaven",
+      "year": 1978
+    },
+    "American Dharma": {
+      "id": 537976,
+      "poster": "/7l2OyHmbQqwVF7X7XgS1q3upaP2.jpg",
+      "title": "American Dharma",
+      "year": 2019
+    },
+    "Dr. Strangelove": {
+      "id": 935,
+      "poster": "/6x7MzQ6BOMlRzam1StcmPO9v61g.jpg",
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "year": 1964
+    },
+    "Rashomon": {
+      "id": 548,
+      "poster": "/ijWibsAU1iBcCD8tuIZfTmDzMVE.jpg",
+      "title": "Rashomon",
+      "year": 1950
+    },
+    "The B-Side: Elsa Dorfman's Portrait Photography": {
+      "id": 411011,
+      "poster": "/mq9kHiTSi7npNP8wND4unVVsrV6.jpg",
+      "title": "The B-Side: Elsa Dorfman's Portrait Photography",
+      "year": 2017
+    },
+    "City Hall": {
+      "id": 726041,
+      "poster": "/2tVjql9HmDw7ZP1nIqfT7RpoT3E.jpg",
+      "title": "City Hall",
+      "year": 2020
+    },
+    "Vernon, Florida": {
+      "id": 30142,
+      "poster": "/dqcUISuve7pUcGT75Kwa0E8Sz6H.jpg",
+      "title": "Vernon, Florida",
+      "year": 1981
+    },
+    "Searching for Bobby Fischer": {
+      "id": 14291,
+      "poster": "/oAJpHkMpfXiFY9F3HocIz9fhHLc.jpg",
+      "title": "Searching for Bobby Fischer",
+      "year": 1993
+    }
+  },
+  "tmdbOverrides": {
+    "Dr. Strangelove": 935
+  }
+}

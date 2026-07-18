@@ -1,0 +1,463 @@
+{
+  "slug": "the-2023-golden-globes-hollywoods-messiest-night-returns",
+  "title": "The 2023 Golden Globes: Hollywood’s Messiest Night Returns",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2023-01-11",
+  "runtimeMin": 59,
+  "format": "Sean and Amanda watch the Globes claw its way back to network TV: Jerrod Carmichael's monologue about the HFPA's racist past, Austin Butler's Elvis voice that never let up, and what The Fabelmans taking Best Drama actually means for the Oscar race.",
+  "segments": [
+    {
+      "kind": "awards",
+      "heading": "The Winners",
+      "note": "80th Golden Globe Awards",
+      "ceremony": "80th Golden Globe Awards",
+      "categories": [
+        {
+          "name": "Best Motion Picture – Drama",
+          "winner": "The Fabelmans",
+          "nominees": [
+            {
+              "title": "The Fabelmans",
+              "year": 2022
+            },
+            {
+              "title": "Avatar: The Way of Water",
+              "year": 2022
+            },
+            {
+              "title": "Elvis",
+              "year": 2022
+            },
+            {
+              "title": "Tár",
+              "year": 2022
+            },
+            {
+              "title": "Top Gun: Maverick",
+              "year": 2022
+            }
+          ]
+        },
+        {
+          "name": "Best Motion Picture – Musical or Comedy",
+          "winner": "The Banshees of Inisherin",
+          "nominees": [
+            {
+              "title": "The Banshees of Inisherin",
+              "year": 2022
+            }
+          ]
+        },
+        {
+          "name": "Best Actor – Drama",
+          "winner": "Elvis",
+          "nominees": [
+            {
+              "title": "Elvis",
+              "year": 2022,
+              "person": "Austin Butler",
+              "note": "Accepted in a full Elvis voice and name-checked Tarantino and Brad Pitt from the stage. The hosts think it locked the Oscar."
+            }
+          ]
+        },
+        {
+          "name": "Best Actress – Drama",
+          "winner": "Tár",
+          "nominees": [
+            {
+              "title": "Tár",
+              "year": 2022,
+              "person": "Cate Blanchett",
+              "note": "Won but wasn't present, so the show didn't get a speech."
+            }
+          ]
+        },
+        {
+          "name": "Best Actor – Musical or Comedy",
+          "winner": "The Banshees of Inisherin",
+          "nominees": [
+            {
+              "title": "The Banshees of Inisherin",
+              "year": 2022,
+              "person": "Colin Farrell"
+            }
+          ]
+        },
+        {
+          "name": "Best Actress – Musical or Comedy",
+          "winner": "Everything Everywhere All at Once",
+          "nominees": [
+            {
+              "title": "Everything Everywhere All at Once",
+              "year": 2022,
+              "person": "Michelle Yeoh",
+              "note": "The hosts read her speech as an acknowledgment this might be her last shot, since they expect Cate Blanchett to take the Oscar."
+            }
+          ]
+        },
+        {
+          "name": "Best Supporting Actor",
+          "winner": "Everything Everywhere All at Once",
+          "nominees": [
+            {
+              "title": "Everything Everywhere All at Once",
+              "year": 2022,
+              "person": "Ke Huy Quan",
+              "note": "Called a lock for the Oscar after this speech."
+            }
+          ]
+        },
+        {
+          "name": "Best Supporting Actress",
+          "winner": "Black Panther: Wakanda Forever",
+          "nominees": [
+            {
+              "title": "Black Panther: Wakanda Forever",
+              "year": 2022,
+              "person": "Angela Bassett"
+            }
+          ]
+        },
+        {
+          "name": "Best Director",
+          "winner": "The Fabelmans",
+          "nominees": [
+            {
+              "title": "The Fabelmans",
+              "year": 2022,
+              "person": "Steven Spielberg",
+              "note": "His first Best Director win in over two decades, which is surprising since he wasn't even on the BAFTA longlist the week before."
+            }
+          ]
+        },
+        {
+          "name": "Best Screenplay",
+          "winner": "The Banshees of Inisherin",
+          "nominees": [
+            {
+              "title": "The Banshees of Inisherin",
+              "year": 2022,
+              "person": "Martin McDonagh"
+            }
+          ]
+        },
+        {
+          "name": "Best Non-English Language Film",
+          "winner": "Argentina, 1985",
+          "nominees": [
+            {
+              "title": "Argentina, 1985",
+              "year": 2022,
+              "note": "The night's most head-scratching win to Sean: the lowest-profile of the five nominees, and a film neither host had seen yet."
+            },
+            {
+              "title": "All Quiet on the Western Front",
+              "year": 2022
+            },
+            {
+              "title": "Close",
+              "year": 2022
+            },
+            {
+              "title": "Decision to Leave",
+              "year": 2022
+            },
+            {
+              "title": "RRR",
+              "year": 2022,
+              "note": "Had already won Best Original Song earlier in the show and seemed like the frontrunner here."
+            }
+          ]
+        },
+        {
+          "name": "Best Animated Feature",
+          "winner": "Guillermo del Toro's Pinocchio",
+          "nominees": [
+            {
+              "title": "Guillermo del Toro's Pinocchio",
+              "year": 2022,
+              "person": "Guillermo del Toro"
+            }
+          ]
+        },
+        {
+          "name": "Best Original Score",
+          "winner": "Babylon",
+          "nominees": [
+            {
+              "title": "Babylon",
+              "year": 2022,
+              "person": "Justin Hurwitz",
+              "note": "Babylon's only award of the night; the hosts read it as a sign the film's Best Picture push is fading."
+            }
+          ]
+        },
+        {
+          "name": "Best Original Song",
+          "winner": "RRR",
+          "nominees": [
+            {
+              "title": "RRR",
+              "year": 2022,
+              "note": "Won for \"Naatu Naatu,\" the dance number the hosts call a highlight of the whole campaign season."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Reactions and tangents",
+      "note": "everything else that came up",
+      "films": [
+        {
+          "title": "Once Upon a Time in Hollywood",
+          "year": 2019,
+          "note": "Austin Butler's co-stars, Tarantino and Pitt, got shouted out from the stage as old friends."
+        },
+        {
+          "title": "Pulp Fiction",
+          "year": 1994,
+          "note": "Butler told Tarantino, in his speech, that he printed out the script at age 12."
+        },
+        {
+          "title": "E.T. the Extra-Terrestrial",
+          "year": 1982,
+          "note": "Cited by Sean as an early sign of the personal material Spielberg finally addressed head-on in The Fabelmans."
+        },
+        {
+          "title": "Close Encounters of the Third Kind",
+          "year": 1977,
+          "note": "Same point: Spielberg's speech read as something he'd been building toward for decades."
+        },
+        {
+          "title": "Three Billboards Outside Ebbing, Missouri",
+          "year": 2017,
+          "note": "Martin McDonagh's last big awards run, cited as the precedent for his Banshees screenplay win."
+        },
+        {
+          "title": "M3GAN",
+          "year": 2022,
+          "note": "Teased as next week's topic. Amanda calls it \"good Pinocchio.\""
+        },
+        {
+          "title": "A Few Good Men",
+          "year": 1992,
+          "note": "Paul Walter Hauser's Blackbird acceptance speech turned into a recitation of the courtroom monologue."
+        },
+        {
+          "title": "A.I. Artificial Intelligence",
+          "year": 2001,
+          "note": "Amanda's tangent connecting Spielberg's own android fable to del Toro's Pinocchio."
+        },
+        {
+          "title": "Eat Pray Love",
+          "year": 2010,
+          "note": "Ryan Murphy thanked Julia Roberts in his speech, sending Amanda scrambling to remember he directed it."
+        },
+        {
+          "title": "Best in Show",
+          "year": 2000,
+          "note": "Sean's reference point for Jennifer Coolidge's presentation persona."
+        },
+        {
+          "title": "Pinocchio",
+          "year": 2022,
+          "note": "The live-action Disney version, brought up only to be mistaken for del Toro's animated Best Animated Feature winner."
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Yellowstone",
+      "Euphoria",
+      "The Bear",
+      "Blackbird",
+      "Abbott Elementary",
+      "House of the Dragon",
+      "The White Lotus",
+      "The Crown",
+      "Glee",
+      "American Horror Story",
+      "American Crime Story",
+      "Nip/Tuck",
+      "Pose",
+      "Dahmer – Monster: The Jeffrey Dahmer Story",
+      "Mare of Easttown"
+    ],
+    "Ads": [
+      "The Town (Puck)",
+      "Carvana",
+      "Boar's Head",
+      "NOS Energy",
+      "FanDuel"
+    ],
+    "Games": [
+      "FIFA World Cup Launch Edition"
+    ]
+  },
+  "tmdb": {
+    "The Fabelmans": {
+      "id": 804095,
+      "poster": "/h7llKkqkkJtJrTOaDLuVeUYDQ7I.jpg",
+      "title": "The Fabelmans",
+      "year": 2022
+    },
+    "Avatar: The Way of Water": {
+      "id": 76600,
+      "poster": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "title": "Avatar: The Way of Water",
+      "year": 2022
+    },
+    "Elvis": {
+      "id": 614934,
+      "poster": "/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg",
+      "title": "Elvis",
+      "year": 2022
+    },
+    "Tár": {
+      "id": 817758,
+      "poster": "/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg",
+      "title": "TÁR",
+      "year": 2022
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "The Banshees of Inisherin": {
+      "id": 674324,
+      "poster": "/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg",
+      "title": "The Banshees of Inisherin",
+      "year": 2022
+    },
+    "Everything Everywhere All at Once": {
+      "id": 545611,
+      "poster": "/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+      "title": "Everything Everywhere All at Once",
+      "year": 2022
+    },
+    "Black Panther: Wakanda Forever": {
+      "id": 505642,
+      "poster": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+      "title": "Black Panther: Wakanda Forever",
+      "year": 2022
+    },
+    "Argentina, 1985": {
+      "id": 714888,
+      "poster": "/nmh7vD2eDVRqFJoCpEzVcfGcPPf.jpg",
+      "title": "Argentina 1985",
+      "year": 2022
+    },
+    "All Quiet on the Western Front": {
+      "id": 49046,
+      "poster": "/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg",
+      "title": "All Quiet on the Western Front",
+      "year": 2022
+    },
+    "Close": {
+      "id": 901563,
+      "poster": "/dlMNnWs7Mz8Nk5AC447Ew1tD5pn.jpg",
+      "title": "Close",
+      "year": 2022
+    },
+    "Decision to Leave": {
+      "id": 705996,
+      "poster": "/zI8KZ4EdLUymWKX1YEkpZ0gtPUa.jpg",
+      "title": "Decision to Leave",
+      "year": 2022
+    },
+    "RRR": {
+      "id": 579974,
+      "poster": "/u0XUBNQWlOvrh0Gd97ARGpIkL0.jpg",
+      "title": "RRR",
+      "year": 2022
+    },
+    "Guillermo del Toro's Pinocchio": {
+      "id": 555604,
+      "poster": "/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",
+      "title": "Guillermo del Toro's Pinocchio",
+      "year": 2022
+    },
+    "Babylon": {
+      "id": 615777,
+      "poster": "/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+      "title": "Babylon",
+      "year": 2022
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "E.T. the Extra-Terrestrial": {
+      "id": 601,
+      "poster": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+      "title": "E.T. the Extra-Terrestrial",
+      "year": 1982
+    },
+    "Close Encounters of the Third Kind": {
+      "id": 840,
+      "poster": "/yaPx3cK9zGFX3SbcKwxWM1QIbUh.jpg",
+      "title": "Close Encounters of the Third Kind",
+      "year": 1977
+    },
+    "Three Billboards Outside Ebbing, Missouri": {
+      "id": 359940,
+      "poster": "/bRYLt8fV82tdVoDppSFTZIcJiLN.jpg",
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "year": 2017
+    },
+    "M3GAN": {
+      "id": 536554,
+      "poster": "/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
+      "title": "M3GAN",
+      "year": 2022
+    },
+    "A Few Good Men": {
+      "id": 881,
+      "poster": "/rLOk4z9zL1tTukIYV56P94aZXKk.jpg",
+      "title": "A Few Good Men",
+      "year": 1992
+    },
+    "A.I. Artificial Intelligence": {
+      "id": 644,
+      "poster": "/8MZSGX5JORoO72EfuAEcejH5yHn.jpg",
+      "title": "A.I. Artificial Intelligence",
+      "year": 2001
+    },
+    "Eat Pray Love": {
+      "id": 38167,
+      "poster": "/gjR5zUeMGV6UNqtI0OuzqrLQcjU.jpg",
+      "title": "Eat Pray Love",
+      "year": 2010
+    },
+    "Best in Show": {
+      "id": 13785,
+      "poster": "/qkYBCMN26SxkQww4gLxUXQm5vr4.jpg",
+      "title": "Best in Show",
+      "year": 2000
+    },
+    "Pinocchio": {
+      "id": 532639,
+      "poster": "/zaZhjKrJeWczQ3AotKoQObppEbH.jpg",
+      "title": "Pinocchio",
+      "year": 2022
+    }
+  }
+}

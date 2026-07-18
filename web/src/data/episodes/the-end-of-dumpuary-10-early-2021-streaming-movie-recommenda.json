@@ -1,0 +1,420 @@
+{
+  "slug": "the-end-of-dumpuary-10-early-2021-streaming-movie-recommenda",
+  "title": "The End of Dumpuary? 10 Early-2021 Streaming Movie Recommendations",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2021-01-22",
+  "runtimeMin": 90,
+  "format": "Sean and Amanda argue dumpuary is over, run down ten things worth streaming right now, then Derek DelGaudio and Frank Oz talk about turning the stage show In & of Itself into a film.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The Ben Affleck Rewatch List",
+      "note": "Prompted by his Hollywood Reporter Awards Chatter interview",
+      "films": [
+        {
+          "title": "Boiler Room",
+          "year": 2000
+        },
+        {
+          "title": "Dogma",
+          "year": 1999
+        },
+        {
+          "title": "Phantoms",
+          "year": 1998
+        },
+        {
+          "title": "Reindeer Games",
+          "year": 2000
+        },
+        {
+          "title": "Changing Lanes",
+          "year": 2002
+        },
+        {
+          "title": "Extract",
+          "year": 2009
+        },
+        {
+          "title": "The Accountant",
+          "year": 2016
+        },
+        {
+          "title": "Triple Frontier",
+          "year": 2019
+        },
+        {
+          "title": "The Town",
+          "year": 2010,
+          "note": "Amanda's favorite of his as a director."
+        },
+        {
+          "title": "Gone Girl",
+          "year": 2014,
+          "note": "Affleck praised Fincher's work on it in the interview."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Revisiting Last Year's Dumpuary",
+      "note": "A look back at the 2020 edition of this segment",
+      "films": [
+        {
+          "title": "Birds of Prey",
+          "year": 2020,
+          "note": "Amanda has come around on it."
+        },
+        {
+          "title": "Sonic the Hedgehog",
+          "year": 2020,
+          "note": "Also better than they gave it credit for."
+        },
+        {
+          "title": "Dolittle",
+          "year": 2020,
+          "note": "The one exception: still bad."
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "heading": "10 Early-2021 Streaming Recommendations",
+      "note": "One host, one pick, unless noted",
+      "picks": [
+        {
+          "title": "Locked Down",
+          "year": 2021,
+          "by": "Amanda Dobbins",
+          "note": "Doug Liman's quarantine-set heist movie with Anne Hathaway and Chiwetel Ejiofor, shot over Zoom."
+        },
+        {
+          "title": "Some Kind of Heaven",
+          "year": 2020,
+          "by": "Sean Fennessey",
+          "note": "Lance Oppenheim's documentary about retirees at The Villages in Florida."
+        },
+        {
+          "title": "Sylvie's Love",
+          "year": 2020,
+          "by": "Amanda Dobbins",
+          "note": "Eugene Ashe's 1950s-60s Hollywood romance with Tessa Thompson and Nnamdi Asomugha."
+        },
+        {
+          "title": "The White Tiger",
+          "year": 2021,
+          "by": "Sean Fennessey",
+          "note": "Ramin Bahrani's Netflix adaptation of the Aravind Adiga novel."
+        },
+        {
+          "title": "Our Friend",
+          "year": 2020,
+          "by": "Sean Fennessey",
+          "note": "Gabriela Cowperthwaite's adaptation of the Esquire story, with Jason Segel, Casey Affleck, and Dakota Johnson."
+        },
+        {
+          "title": "MLK/FBI",
+          "year": 2020,
+          "by": "Sean Fennessey",
+          "note": "Sam Pollard's documentary on the Bureau's surveillance of King."
+        },
+        {
+          "title": "The Empty Man",
+          "year": 2020,
+          "by": "Sean Fennessey",
+          "note": "David Prior's horror movie, dumped after three years on the shelf."
+        },
+        {
+          "title": "The Marksman",
+          "year": 2021,
+          "by": "Sean Fennessey",
+          "note": "Liam Neeson, directed by Robert Lorenz, solidly mid-tier."
+        },
+        {
+          "title": "News of the World",
+          "year": 2020,
+          "by": "Sean Fennessey"
+        },
+        {
+          "title": "Promising Young Woman",
+          "year": 2020,
+          "by": "Sean Fennessey"
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In Conversation",
+      "guest": "Derek DelGaudio and Frank Oz on",
+      "note": "Turning the stage show In & of Itself into a film",
+      "films": [
+        {
+          "title": "Derek DelGaudio's In & of Itself",
+          "year": 2020,
+          "note": "DelGaudio's stage show, directed for the screen by Oz, streaming on Hulu."
+        },
+        {
+          "title": "Touch of Evil",
+          "year": 1958,
+          "note": "Oz's answer to the last-great-thing closer."
+        },
+        {
+          "title": "Citizen Kane",
+          "year": 1941,
+          "note": "DelGaudio's answer, rewatched ahead of Mank."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Deep Water",
+        "Argo",
+        "Mank"
+      ]
+    },
+    {
+      "group": "Coming next week",
+      "films": [
+        "The Little Things",
+        "Saint Maud",
+        "The Dig",
+        "Palmer",
+        "Supernova"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Lupin",
+      "Bridgerton",
+      "WandaVision",
+      "Pretend It's a City",
+      "Tiger"
+    ],
+    "Ads": [
+      "Peyronie's disease PSA",
+      "NOS Energy",
+      "DraftKings Sportsbook",
+      "Whole Foods",
+      "Netflix FIFA World Cup Launch Edition"
+    ]
+  },
+  "tmdbOverrides": {
+    "Birds of Prey": 495764,
+    "Deep Water": 619979
+  },
+  "tmdb": {
+    "Boiler Room": {
+      "id": 14181,
+      "poster": "/jFB5uvCZ3HXF00liAEAuOruCPs6.jpg",
+      "title": "Boiler Room",
+      "year": 2000
+    },
+    "Dogma": {
+      "id": 1832,
+      "poster": "/oxhHl2YokTqcP44QK5tiTgjgLgk.jpg",
+      "title": "Dogma",
+      "year": 1999
+    },
+    "Phantoms": {
+      "id": 9827,
+      "poster": "/FM8MOTW8BbyoTLa2V8PnI6UPib.jpg",
+      "title": "Phantoms",
+      "year": 1998
+    },
+    "Reindeer Games": {
+      "id": 2155,
+      "poster": "/8y1PedfYWllJVoBbkt9KWLY155v.jpg",
+      "title": "Reindeer Games",
+      "year": 2000
+    },
+    "Changing Lanes": {
+      "id": 1537,
+      "poster": "/8wh9WzTKo5pJw3EgHYWA60W7Kbl.jpg",
+      "title": "Changing Lanes",
+      "year": 2002
+    },
+    "Extract": {
+      "id": 12569,
+      "poster": "/cjen0vxjybwItQPH3NNCJuME2MY.jpg",
+      "title": "Extract",
+      "year": 2009
+    },
+    "The Accountant": {
+      "id": 302946,
+      "poster": "/fceheXB5fC4WrLVuWJ6OZv9FXYr.jpg",
+      "title": "The Accountant",
+      "year": 2016
+    },
+    "Triple Frontier": {
+      "id": 399361,
+      "poster": "/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg",
+      "title": "Triple Frontier",
+      "year": 2019
+    },
+    "The Town": {
+      "id": 23168,
+      "poster": "/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
+      "title": "The Town",
+      "year": 2010
+    },
+    "Gone Girl": {
+      "id": 210577,
+      "poster": "/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+      "title": "Gone Girl",
+      "year": 2014
+    },
+    "Birds of Prey": {
+      "id": 495764,
+      "poster": "/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
+      "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "year": 2020
+    },
+    "Sonic the Hedgehog": {
+      "id": 454626,
+      "poster": "/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+      "title": "Sonic the Hedgehog",
+      "year": 2020
+    },
+    "Dolittle": {
+      "id": 448119,
+      "poster": "/3Nt3v1uzUgfSuVARD1AnI9g9Zl9.jpg",
+      "title": "Dolittle",
+      "year": 2020
+    },
+    "Locked Down": {
+      "id": 741228,
+      "poster": "/svHelD0Hb3TXPAQoPsoBwdDMTvf.jpg",
+      "title": "Locked Down",
+      "year": 2021
+    },
+    "Some Kind of Heaven": {
+      "id": 638741,
+      "poster": "/4L0OAHeo2B413QKK5HRiWMzdKUy.jpg",
+      "title": "Some Kind of Heaven",
+      "year": 2021
+    },
+    "Sylvie's Love": {
+      "id": 584288,
+      "poster": "/48P3lTdsg19OfmrD5av0VJYcjLM.jpg",
+      "title": "Sylvie's Love",
+      "year": 2020
+    },
+    "The White Tiger": {
+      "id": 628534,
+      "poster": "/5JnmseS3DZ6ad2VMbrnbGCs8Rst.jpg",
+      "title": "The White Tiger",
+      "year": 2021
+    },
+    "Our Friend": {
+      "id": 583903,
+      "poster": "/vg9C5LttsKBqoLuqeQvOXaeBGiD.jpg",
+      "title": "Our Friend",
+      "year": 2019
+    },
+    "MLK/FBI": {
+      "id": 728868,
+      "poster": "/qYG0J3tKCTj8otQQ7buVs3YATBI.jpg",
+      "title": "MLK/FBI",
+      "year": 2020
+    },
+    "The Empty Man": {
+      "id": 516632,
+      "poster": "/8apzu9JFTUMtOpYkHk6LNPOs3pY.jpg",
+      "title": "The Empty Man",
+      "year": 2020
+    },
+    "The Marksman": {
+      "id": 634528,
+      "poster": "/6vcDalR50RWa309vBH1NLmG2rjQ.jpg",
+      "title": "The Marksman",
+      "year": 2021
+    },
+    "News of the World": {
+      "id": 581032,
+      "poster": "/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+      "title": "News of the World",
+      "year": 2020
+    },
+    "Promising Young Woman": {
+      "id": 582014,
+      "poster": "/73QoFJFmUrJfDG2EynFjNc5gJxk.jpg",
+      "title": "Promising Young Woman",
+      "year": 2020
+    },
+    "Derek DelGaudio's In & of Itself": {
+      "id": 681459,
+      "poster": "/bgnXNBdjqQmVrIthQI5B8eKDKp1.jpg",
+      "title": "Derek DelGaudio's In & of Itself",
+      "year": 2020
+    },
+    "Touch of Evil": {
+      "id": 1480,
+      "poster": "/1pvRgmfBaoMczIJBOi9gCOZ4FMC.jpg",
+      "title": "Touch of Evil",
+      "year": 1958
+    },
+    "Citizen Kane": {
+      "id": 15,
+      "poster": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+      "title": "Citizen Kane",
+      "year": 1941
+    },
+    "Deep Water": {
+      "id": 619979,
+      "poster": "/6yRMyWwjuhKg6IU66uiZIGhaSc8.jpg",
+      "title": "Deep Water",
+      "year": 2022
+    },
+    "Argo": {
+      "id": 68734,
+      "poster": "/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
+      "title": "Argo",
+      "year": 2012
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "The Little Things": {
+      "id": 602269,
+      "poster": "/tLO1aD1ghdtVMT32z2sRmzgYKYd.jpg",
+      "title": "The Little Things",
+      "year": 2021
+    },
+    "Saint Maud": {
+      "id": 575776,
+      "poster": "/ArNYeeDFLVye7JpqLElYdbE6fOa.jpg",
+      "title": "Saint Maud",
+      "year": 2020
+    },
+    "The Dig": {
+      "id": 532865,
+      "poster": "/dFDNb9Gk1kyLRcconpj7Mc7C7IL.jpg",
+      "title": "The Dig",
+      "year": 2021
+    },
+    "Palmer": {
+      "id": 458220,
+      "poster": "/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg",
+      "title": "Palmer",
+      "year": 2021
+    },
+    "Supernova": {
+      "id": 642208,
+      "poster": "/c21Vwt4shqVxCQziFz0Hf91wSow.jpg",
+      "title": "Supernova",
+      "year": 2020
+    }
+  }
+}

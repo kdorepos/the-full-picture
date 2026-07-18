@@ -1,0 +1,250 @@
+{
+  "slug": "spider-man-homecoming-marvel-month",
+  "title": "‘Spider-Man: Homecoming’ |  Marvel Month",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Adam Nayman"
+  ],
+  "published": "2019-04-24",
+  "runtimeMin": 52,
+  "format": "Sean Fennessey and Ringer critic Adam Nayman close out Marvel Month with 'Spider-Man: Homecoming': the case for treating it as an induction movie instead of an origin story, Michael Keaton's Vulture as an economic-anxiety dad-villain, and why a film with no glowing MacGuffin ends up feeling so much smaller and better for it.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Marvel Month: 'Spider-Man: Homecoming'",
+      "note": "final installment",
+      "films": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "year": 2017,
+          "note": "Nayman picked the movie partly because it collides, confusingly, with the other pop-culture 'Homecoming' that came out the same week; he reviewed the film for the Ringer and still rates it, since it allegorizes its own premise, Peter trying out for the Avengers and the audience at once, and locks into the MCU puzzle without feeling like it's just locking into the puzzle. They call it an 'induction' movie rather than an origin movie: no spider-bite scene, no re-litigating Uncle Ben, just Peter earning his way onto the team, which is why Tony Stark's Iron Man-parallel arc (down to a joke about Iron Man's own announce-yourself ending) plays as connective tissue instead of duplication. Downey does minimal screen time as maximal quality control, a 'wisecracking' guarantor the studio can point to, and Nayman compares his relationship with Peter to Ethan Hawke's dad in Boyhood; Keaton's Vulture becomes the other absent-father stand-in, and the reveal that he's Liz's dad lands as a hidden-in-plain-sight twist. Vulture reads as an economic-anxiety villain, a salvager turned arms trafficker after government contractors (and Stark's cleanup crew) force him out of business; unlike most MCU heavies, he's after a truck of alien-tech weapons, not a glowing MacGuffin, an orb, or a Mother Box, which keeps the stakes 'philosophically, intellectually, narratively manageable.' They trace a suit-as-character-arc: Peter is most heroic back in his homemade suit after Stark repossesses the high-tech one, and Vulture's refusal to shed his wings is what brings him down. Director John Watts works off John Hughes, Say Anything, Almost Famous, and Can't Buy Me Love as stated touchstones; the soundtrack stacks the Rolling Stones' 'Can't You Hear Me Knocking' for Toomes, Spoon's 'The Underdog' over the credits, and the Ramones' 'Blitzkrieg Bop' for the Spider-Man montages. Tom Holland's dancer physicality and his pre-release Rihanna lip-sync performance built real goodwill going in; they run the sprawling cast (Gwyneth Paltrow gets fourth billing for two lines of Pepper Potts) and weigh the film's diversity signaling, the James Baldwin poster in detention, the Queens setting, against Into the Spider-Verse's, which both find more visually and thematically ambitious than anything here. $334 million domestic, $880 million worldwide, 133 minutes. Sean still prefers the film's Chris Evans PSA fake-out, his favorite post-credits gag in any MCU movie, over the Vulture/Scorpion prison-yard tease setting up a future villain team-up."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The Spider-Man movies",
+      "films": [
+        "Spider-Man",
+        "Spider-Man 2",
+        "Spider-Man 3",
+        "The Amazing Spider-Man",
+        "The Amazing Spider-Man 2",
+        "Spider-Man: Into the Spider-Verse",
+        "Spider-Man: Far From Home"
+      ]
+    },
+    {
+      "group": "Elsewhere in the MCU",
+      "films": [
+        "Iron Man",
+        "Captain America: Civil War",
+        "Thor: Ragnarok",
+        "Black Panther",
+        "Avengers: Infinity War",
+        "Avengers: Endgame"
+      ]
+    },
+    {
+      "group": "Also discussed",
+      "films": [
+        "Cop Car",
+        "Clown",
+        "Game Night",
+        "Hidden Figures",
+        "Justice League",
+        "Birdman",
+        "Creed",
+        "Nightcrawler",
+        "Velvet Buzzsaw",
+        "Can't Buy Me Love",
+        "Say Anything...",
+        "Almost Famous",
+        "Starship Troopers"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Lip Sync Battle",
+      "Better Call Saul",
+      "Cagney & Lacey",
+      "Rome",
+      "Freaks and Geeks"
+    ],
+    "Ads": [
+      "Philo",
+      "NHTSA"
+    ]
+  },
+  "tmdbOverrides": {
+    "Birdman": 194662
+  },
+  "tmdb": {
+    "Spider-Man: Homecoming": {
+      "id": 315635,
+      "poster": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+      "title": "Spider-Man: Homecoming",
+      "year": 2017
+    },
+    "Spider-Man": {
+      "id": 557,
+      "poster": "/kjdJntyBeEvqm9w97QGBdxPptzj.jpg",
+      "title": "Spider-Man",
+      "year": 2002
+    },
+    "Spider-Man 2": {
+      "id": 558,
+      "poster": "/aGuvNAaaZuWXYQQ6N2v7DeuP6mB.jpg",
+      "title": "Spider-Man 2",
+      "year": 2004
+    },
+    "Spider-Man 3": {
+      "id": 559,
+      "poster": "/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
+      "title": "Spider-Man 3",
+      "year": 2007
+    },
+    "The Amazing Spider-Man": {
+      "id": 1930,
+      "poster": "/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg",
+      "title": "The Amazing Spider-Man",
+      "year": 2012
+    },
+    "The Amazing Spider-Man 2": {
+      "id": 102382,
+      "poster": "/dGjoPttcbKR5VWg1jQuNFB247KL.jpg",
+      "title": "The Amazing Spider-Man 2",
+      "year": 2014
+    },
+    "Spider-Man: Into the Spider-Verse": {
+      "id": 324857,
+      "poster": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018
+    },
+    "Spider-Man: Far From Home": {
+      "id": 429617,
+      "poster": "/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+      "title": "Spider-Man: Far From Home",
+      "year": 2019
+    },
+    "Iron Man": {
+      "id": 1726,
+      "poster": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "title": "Iron Man",
+      "year": 2008
+    },
+    "Captain America: Civil War": {
+      "id": 271110,
+      "poster": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+      "title": "Captain America: Civil War",
+      "year": 2016
+    },
+    "Thor: Ragnarok": {
+      "id": 284053,
+      "poster": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "title": "Thor: Ragnarok",
+      "year": 2017
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Cop Car": {
+      "id": 310133,
+      "poster": "/6MCvmPcMdbmdsIeRNQhKzLcZorP.jpg",
+      "title": "Cop Car",
+      "year": 2015
+    },
+    "Clown": {
+      "id": 112454,
+      "poster": "/gp5QyaU49utfWVVL698BzlN2vMh.jpg",
+      "title": "Clown",
+      "year": 2014
+    },
+    "Game Night": {
+      "id": 445571,
+      "poster": "/85R8LMyn9f2Lev2YPBF8Nughrkv.jpg",
+      "title": "Game Night",
+      "year": 2018
+    },
+    "Hidden Figures": {
+      "id": 381284,
+      "poster": "/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg",
+      "title": "Hidden Figures",
+      "year": 2016
+    },
+    "Justice League": {
+      "id": 141052,
+      "poster": "/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
+      "title": "Justice League",
+      "year": 2017
+    },
+    "Birdman": {
+      "id": 194662,
+      "poster": "/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg",
+      "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+      "year": 2014
+    },
+    "Creed": {
+      "id": 312221,
+      "poster": "/1BfTsk5VWuw8FCocAhCyqnRbEzq.jpg",
+      "title": "Creed",
+      "year": 2015
+    },
+    "Nightcrawler": {
+      "id": 242582,
+      "poster": "/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
+      "title": "Nightcrawler",
+      "year": 2014
+    },
+    "Velvet Buzzsaw": {
+      "id": 463684,
+      "poster": "/3rViQPcrWthMNecp5XnkKev6BzW.jpg",
+      "title": "Velvet Buzzsaw",
+      "year": 2019
+    },
+    "Can't Buy Me Love": {
+      "id": 12919,
+      "poster": "/qK3yiqo84U3twOOKOx81c407Hpr.jpg",
+      "title": "Can't Buy Me Love",
+      "year": 1987
+    },
+    "Say Anything...": {
+      "id": 2028,
+      "poster": "/nkucKciFGSRalw6dJtsglWqOXMC.jpg",
+      "title": "Say Anything...",
+      "year": 1989
+    },
+    "Almost Famous": {
+      "id": 786,
+      "poster": "/3rrkyLYbgLj84AYvjhdcJot4JPx.jpg",
+      "title": "Almost Famous",
+      "year": 2000
+    },
+    "Starship Troopers": {
+      "id": 563,
+      "poster": "/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg",
+      "title": "Starship Troopers",
+      "year": 1997
+    }
+  }
+}

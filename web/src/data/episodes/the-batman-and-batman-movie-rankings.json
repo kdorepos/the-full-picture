@@ -1,0 +1,394 @@
+{
+  "slug": "the-batman-and-batman-movie-rankings",
+  "title": "‘The Batman’ and Batman Movie Rankings",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Van Lathan",
+    "Rob Mahoney"
+  ],
+  "published": "2022-03-07",
+  "runtimeMin": 101,
+  "format": "Van Lathan and Rob Mahoney join to break down Matt Reeves's grounded, noir-soaked take on Batman, then rank all 14 live-action and animated Batman movies. Plus: Kogonada on his new film, After Yang.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘The Batman’",
+      "note": "Van Lathan and Rob Mahoney join to talk Matt Reeves's grounded, noir take",
+      "films": [
+        {
+          "title": "The Batman",
+          "year": 2022,
+          "note": "Reeves's year-two Batman: bolted to the ground rather than merely grounded, no superpowers, barely any gadgets beyond a journal and some contact lenses. Both guests call it maybe the best-written Batman script yet, and dig into Robert Pattinson's performance (Rob's favorite live-action Batman, over Keaton), Zoe Kravitz's Catwoman, Paul Dano's terminally-online Riddler, and the mass-shooting set piece Van found genuinely hard to sit through. The mid-movie Joker reveal (Barry Keoghan) is the one point of real agreement between them: a cheap trick that deflates the ending."
+        },
+        {
+          "title": "Se7en",
+          "year": 1995,
+          "note": "Van's comp for the movie's shape: essentially Se7en with Batman as the detective protagonist."
+        },
+        {
+          "title": "Bullitt",
+          "year": 1968,
+          "note": "The reference point for the practical, no-CGI car chase, described as a 1970s muscle-car chase transplanted into a Batman movie."
+        },
+        {
+          "title": "Drive",
+          "year": 2011,
+          "note": "Cited alongside Bullitt as the modern equivalent of that chase's aesthetic."
+        }
+      ]
+    },
+    {
+      "kind": "ranking",
+      "heading": "The Batman Movie Rankings",
+      "note": "all 14 live-action and animated films, best to worst",
+      "subject": "Batman movies",
+      "ranked": true,
+      "films": [
+        {
+          "title": "The Dark Knight",
+          "year": 2008,
+          "note": "No. 1 - the movie every other entry gets measured against, including by Van, who isn't otherwise a Nolan fan."
+        },
+        {
+          "title": "Batman",
+          "year": 1989,
+          "note": "No. 2 - Van and Sean's pick over Rob's active campaign for Batman Returns; the case for it is really the case for Jack Nicholson's Joker."
+        },
+        {
+          "title": "Batman Returns",
+          "year": 1992,
+          "note": "No. 3 - Rob argued it should beat the 1989 film outright; Van and Sean wouldn't budge, but call it close."
+        },
+        {
+          "title": "The Batman",
+          "year": 2022,
+          "note": "No. 4 - ranked high off one viewing but deliberately kept behind the older films, to guard against recency bias before a rewatch."
+        },
+        {
+          "title": "Batman: Mask of the Phantasm",
+          "year": 1993,
+          "note": "No. 5 - the group's animated pick; they like that it tells a full Batman story in 76 lean minutes."
+        },
+        {
+          "title": "Batman Begins",
+          "year": 2005,
+          "note": "No. 6 - Van and Rob just don't respond to the Nolan trilogy's bookends the way Sean does."
+        },
+        {
+          "title": "The Dark Knight Rises",
+          "year": 2012,
+          "note": "No. 7 - the weakest of the remaining live-action films for this group."
+        },
+        {
+          "title": "Batman Forever",
+          "year": 1995,
+          "note": "No. 8 - Van's nostalgia pick, Happy Meal cup and all, dinged hard for Chris O'Donnell."
+        },
+        {
+          "title": "The Lego Batman Movie",
+          "year": 2017,
+          "note": "No. 9 - Sean's veto pick; he clocks the joke hit rate at 5 to 7 percent for him."
+        },
+        {
+          "title": "Batman: The Movie",
+          "year": 1966,
+          "note": "No. 10 - the Adam West version, fun for its first 30 minutes and unbeatable for the porpoise-saves-Batman gag."
+        },
+        {
+          "title": "Zack Snyder's Justice League",
+          "year": 2021,
+          "note": "No. 11 - the four-hour Snyder Cut, watched specifically for this ranking since the theatrical Batman v Superman cut wasn't on HBO Max; a secondary Batman appearance either way."
+        },
+        {
+          "title": "Batman v Superman: Dawn of Justice",
+          "year": 2016,
+          "note": "No. 12 - ranked by the Ultimate Edition; even the Ben Affleck truthers on the panel call the movie itself loathsome."
+        },
+        {
+          "title": "Justice League",
+          "year": 2017,
+          "note": "No. 13 - the Joss Whedon theatrical cut, nearly tied with Batman and Robin for last."
+        },
+        {
+          "title": "Batman & Robin",
+          "year": 1997,
+          "note": "No. 14 - unanimous worst pick, though Sean argues it's historically important as the flop that convinced studios to lock down franchise filmmaking."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Kogonada on ‘After Yang’",
+      "guest": "Kogonada on",
+      "films": [
+        {
+          "title": "After Yang",
+          "year": 2022,
+          "note": "Kogonada's second feature, freshly in select theaters; Sean's favorite movie out of Sundance, an intimate sci-fi about a family and their malfunctioning android."
+        },
+        {
+          "title": "Columbus",
+          "year": 2017,
+          "note": "His 2017 debut, shot in 18 days; discussed as the small-scale predecessor to After Yang's larger canvas."
+        },
+        {
+          "title": "Drive My Car",
+          "year": 2021,
+          "note": "Ryusuke Hamaguchi's film, the one that sent Kogonada down a rabbit hole into the director's earlier work."
+        },
+        {
+          "title": "Touching the Skin of Eeriness",
+          "year": 2013,
+          "note": "An early, under-an-hour Hamaguchi work a friend sent him a link to; he says he's still trying to figure it out."
+        },
+        {
+          "title": "Arrival",
+          "year": 2016,
+          "note": "Cited as evidence Denis Villeneuve is the kind of craftsman Kogonada admires."
+        },
+        {
+          "title": "Dune",
+          "year": 2021,
+          "note": "Villeneuve's adaptation, which he says washed over him watching it in a great theater with his son."
+        },
+        {
+          "title": "In Bruges",
+          "year": 2008,
+          "note": "Where Kogonada says he fell for Colin Farrell as a man more than as an actor."
+        },
+        {
+          "title": "Early Summer",
+          "year": 1951,
+          "note": "The Ozu film he cites for its family-in-sync-before-it-dissolves rhythm, an influence on After Yang's opening dance sequence."
+        },
+        {
+          "title": "Kid with the Golden Arm",
+          "year": 1979,
+          "note": "The Shaw Brothers film whose suspended, color-background title sequence he says directly inspired After Yang's own title sequence."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Named in passing",
+      "films": [
+        "After Earth",
+        "Star Wars: Episode I - The Phantom Menace",
+        "The Matrix Resurrections",
+        "Inception",
+        "The Prestige"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Batman: The Movie": 2661
+  },
+  "excluded": {
+    "TV": [
+      "Daredevil",
+      "Demon Slayer"
+    ],
+    "Theatre": [
+      "The Lehman Trilogy"
+    ],
+    "Comics": [
+      "Gotham Central"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "FanDuel",
+      "FIFA World Cup Launch Edition"
+    ]
+  },
+  "tmdb": {
+    "The Batman": {
+      "id": 414906,
+      "poster": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "title": "The Batman",
+      "year": 2022
+    },
+    "Se7en": {
+      "id": 807,
+      "poster": "/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+      "title": "Se7en",
+      "year": 1995
+    },
+    "Bullitt": {
+      "id": 916,
+      "poster": "/2ffzF1WmeXtH420fSUoCrecFvDA.jpg",
+      "title": "Bullitt",
+      "year": 1968
+    },
+    "Drive": {
+      "id": 64690,
+      "poster": "/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
+      "title": "Drive",
+      "year": 2011
+    },
+    "The Dark Knight": {
+      "id": 155,
+      "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    "Batman": {
+      "id": 268,
+      "poster": "/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
+      "title": "Batman",
+      "year": 1989
+    },
+    "Batman Returns": {
+      "id": 364,
+      "poster": "/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg",
+      "title": "Batman Returns",
+      "year": 1992
+    },
+    "Batman: Mask of the Phantasm": {
+      "id": 14919,
+      "poster": "/hT4ehUteagUrhUOHAtmYiY7mp5l.jpg",
+      "title": "Batman: Mask of the Phantasm",
+      "year": 1993
+    },
+    "Batman Begins": {
+      "id": 272,
+      "poster": "/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+      "title": "Batman Begins",
+      "year": 2005
+    },
+    "The Dark Knight Rises": {
+      "id": 49026,
+      "poster": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+      "title": "The Dark Knight Rises",
+      "year": 2012
+    },
+    "Batman Forever": {
+      "id": 414,
+      "poster": "/i0fJS8M5UKoETjjJ0zwUiKaR8tr.jpg",
+      "title": "Batman Forever",
+      "year": 1995
+    },
+    "The Lego Batman Movie": {
+      "id": 324849,
+      "poster": "/e1TliRWOdXQ73pRunbpFiGst6Kd.jpg",
+      "title": "The Lego Batman Movie",
+      "year": 2017
+    },
+    "Batman: The Movie": {
+      "id": 2661,
+      "poster": "/zzoPxWHnPa0eyfkMLgwbNvdEcVF.jpg",
+      "title": "Batman",
+      "year": 1966
+    },
+    "Zack Snyder's Justice League": {
+      "id": 791373,
+      "poster": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+      "title": "Zack Snyder's Justice League",
+      "year": 2021
+    },
+    "Batman v Superman: Dawn of Justice": {
+      "id": 209112,
+      "poster": "/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
+      "title": "Batman v Superman: Dawn of Justice",
+      "year": 2016
+    },
+    "Justice League": {
+      "id": 141052,
+      "poster": "/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
+      "title": "Justice League",
+      "year": 2017
+    },
+    "Batman & Robin": {
+      "id": 415,
+      "poster": "/i7hEUpDuMN2LOrCEifFyGSHZQSY.jpg",
+      "title": "Batman & Robin",
+      "year": 1997
+    },
+    "After Yang": {
+      "id": 585378,
+      "poster": "/qjEuDeKOhA7JqaaqhLSfoS9titb.jpg",
+      "title": "After Yang",
+      "year": 2022
+    },
+    "Columbus": {
+      "id": 414453,
+      "poster": "/3ZE5Wl3CdfUH4BkWRmyMKPHkWHx.jpg",
+      "title": "Columbus",
+      "year": 2017
+    },
+    "Drive My Car": {
+      "id": 758866,
+      "poster": "/a2lxHS6Au35k5XtFQEQW44yWHeH.jpg",
+      "title": "Drive My Car",
+      "year": 2021
+    },
+    "Touching the Skin of Eeriness": {
+      "id": 381920,
+      "poster": "/pdjK6rvEgbcelHqEGPVU98ZsZaE.jpg",
+      "title": "Touching the Skin of Eeriness",
+      "year": 2013
+    },
+    "Arrival": {
+      "id": 329865,
+      "poster": "/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
+      "title": "Arrival",
+      "year": 2016
+    },
+    "Dune": {
+      "id": 438631,
+      "poster": "/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "title": "Dune",
+      "year": 2021
+    },
+    "In Bruges": {
+      "id": 8321,
+      "poster": "/vz3Vd6nfq9YZrVvyYx5RHFaYKV3.jpg",
+      "title": "In Bruges",
+      "year": 2008
+    },
+    "Early Summer": {
+      "id": 50247,
+      "poster": "/qVJsIMOYT7pNEldMttuATep6mtB.jpg",
+      "title": "Early Summer",
+      "year": 1951
+    },
+    "Kid with the Golden Arm": {
+      "id": 13513,
+      "poster": "/aCAiIBRYcxsqAIxMG7J42ZZ6C37.jpg",
+      "title": "Kid with the Golden Arm",
+      "year": 1979
+    },
+    "After Earth": {
+      "id": 82700,
+      "poster": "/iXMvYIlzzJBs352CfeiQcBvovZt.jpg",
+      "title": "After Earth",
+      "year": 2013
+    },
+    "Star Wars: Episode I - The Phantom Menace": {
+      "id": 1893,
+      "poster": "/xQzMnuiv81d0gfUIVstuleNutjA.jpg",
+      "title": "Star Wars: Episode I - The Phantom Menace",
+      "year": 1999
+    },
+    "The Matrix Resurrections": {
+      "id": 624860,
+      "poster": "/8c4a8kE7PizaGQQnditMmI1xbRp.jpg",
+      "title": "The Matrix Resurrections",
+      "year": 2021
+    },
+    "Inception": {
+      "id": 27205,
+      "poster": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+      "title": "Inception",
+      "year": 2010
+    },
+    "The Prestige": {
+      "id": 1124,
+      "poster": "/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg",
+      "title": "The Prestige",
+      "year": 2006
+    }
+  }
+}

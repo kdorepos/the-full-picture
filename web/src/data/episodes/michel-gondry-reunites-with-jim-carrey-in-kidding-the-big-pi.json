@@ -1,0 +1,131 @@
+{
+  "slug": "michel-gondry-reunites-with-jim-carrey-in-kidding-the-big-pi",
+  "title": "Michel Gondry Reunites With Jim Carrey in ‘Kidding’ | The Big Picture (Ep. 83)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2018-09-07",
+  "runtimeMin": 24,
+  "format": "Sean Fennessey talks to Michel Gondry about moving to TV, reuniting with Jim Carrey, and why he shows the seams of how things are made.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Michel Gondry on",
+      "films": [
+        {
+          "title": "Eternal Sunshine of the Spotless Mind",
+          "year": 2004,
+          "note": "His last film with Jim Carrey; he calls Carrey's role there a turning point that the new melancholy of Kidding builds on."
+        },
+        {
+          "title": "Be Kind Rewind",
+          "year": 2008,
+          "note": "Named as a signature Gondrian work while discussing his handmade, show-the-process aesthetic."
+        },
+        {
+          "title": "Dave Chappelle's Block Party",
+          "year": 2005,
+          "note": "The concert documentary cited as proof he chases magic across formats."
+        },
+        {
+          "title": "Is the Man Who Is Tall Happy?",
+          "year": 2013,
+          "note": "His animated Noam Chomsky conversation, another format he's stretched into."
+        },
+        {
+          "title": "Won't You Be My Neighbor?",
+          "year": 2018,
+          "note": "The Mr. Rogers documentary; Gondry saw it only after arriving in the U.S. and told Carrey not to watch Rogers tapes so Mr. Pickles wouldn't become mimicry."
+        },
+        {
+          "title": "BlacKkKlansman",
+          "year": 2018,
+          "note": "His pick for the last great thing he's seen; he thanks Spike Lee for showing D.W. Griffith as the racist he was."
+        },
+        {
+          "title": "Gone with the Wind",
+          "year": 1939,
+          "note": "The film's opening shot that BlacKkKlansman fixes on and that Sean and Gondry dwell on."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Sean's sign-off recommendations",
+      "films": [
+        "Hal",
+        "The Nun"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Kidding",
+      "Flight of the Conchords"
+    ],
+    "Ads": [
+      "Miller Lite",
+      "ZipRecruiter"
+    ]
+  },
+  "tmdb": {
+    "Eternal Sunshine of the Spotless Mind": {
+      "id": 38,
+      "poster": "/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year": 2004
+    },
+    "Be Kind Rewind": {
+      "id": 4953,
+      "poster": "/f0oX20YrQEiVPDH9InCQ1d3Cm66.jpg",
+      "title": "Be Kind Rewind",
+      "year": 2008
+    },
+    "Dave Chappelle's Block Party": {
+      "id": 292,
+      "poster": "/lGS9iKGGRjM049ZGK4J8TvQeBHg.jpg",
+      "title": "Dave Chappelle's Block Party",
+      "year": 2005
+    },
+    "Is the Man Who Is Tall Happy?": {
+      "id": 167502,
+      "poster": "/y9yAjpCQRqtzcR5GdSVHuLdxuV0.jpg",
+      "title": "Is the Man Who Is Tall Happy?",
+      "year": 2013
+    },
+    "Won't You Be My Neighbor?": {
+      "id": 490003,
+      "poster": "/8qE8NZjiP2M884baH0VoLF828Vp.jpg",
+      "title": "Won't You Be My Neighbor?",
+      "year": 2018
+    },
+    "BlacKkKlansman": {
+      "id": 487558,
+      "poster": "/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg",
+      "title": "BlacKkKlansman",
+      "year": 2018
+    },
+    "Gone with the Wind": {
+      "id": 770,
+      "poster": "/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg",
+      "title": "Gone with the Wind",
+      "year": 1939
+    },
+    "Hal": {
+      "id": 196761,
+      "poster": "/xSiBXQGAXfEYjaxUySI53AAFH3.jpg",
+      "title": "Hal",
+      "year": 2013
+    },
+    "The Nun": {
+      "id": 439079,
+      "poster": "/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg",
+      "title": "The Nun",
+      "year": 2018
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "a-chernobyl-deep-dive-with-creator-craig-mazin-and-mallory-r",
+  "title": "A 'Chernobyl' Deep Dive With Creator Craig Mazin and Mallory Rubin",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Mallory Rubin"
+  ],
+  "published": "2019-06-04",
+  "runtimeMin": 72,
+  "format": "Sean Fennessey and Mallory Rubin unpack HBO's 'Chernobyl,' then Sean sits down with creator Craig Mazin. A TV episode, so the films are mostly touchstones dropped along the way.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The 'Chernobyl' conversation",
+      "note": "with Mallory Rubin",
+      "films": [
+        {
+          "title": "Good Will Hunting",
+          "year": 1997,
+          "note": "Sean's frame for Stellan Skarsgård's Boris, the inverse of his role here: a man with none of the math or science."
+        },
+        {
+          "title": "The Death of Stalin",
+          "year": 2017,
+          "note": "Armando Iannucci's comedy, cited as the Russian-accent trap 'Chernobyl' sidesteps by casting English actors who don't affect one."
+        },
+        {
+          "title": "Wild Rose",
+          "year": 2019,
+          "note": "Jessie Buckley (Ludmilla) stars; out later that month. Sean calls her his favorite working actress."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Craig Mazin on 'Chernobyl'",
+      "guest": "Craig Mazin",
+      "note": "The creator on the miniseries format, the accent decision, the science, and the companion podcast. No theatrical films in play.",
+      "films": []
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Brighton Beach Memoirs",
+        "Dark Phoenix"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Chernobyl",
+      "Game of Thrones",
+      "The Terror",
+      "Fringe",
+      "Veep",
+      "Barry",
+      "Silicon Valley",
+      "Fleabag",
+      "Big Little Lies"
+    ],
+    "Podcasts": [
+      "The Chernobyl Podcast"
+    ],
+    "Books": [
+      "Voices of Chernobyl"
+    ],
+    "Ads": [
+      "Ringer Dish"
+    ]
+  },
+  "tmdb": {
+    "Good Will Hunting": {
+      "id": 489,
+      "poster": "/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+      "title": "Good Will Hunting",
+      "year": 1997
+    },
+    "The Death of Stalin": {
+      "id": 402897,
+      "poster": "/AqH7q89NxGRDAyRWKqsL3OBtYfV.jpg",
+      "title": "The Death of Stalin",
+      "year": 2017
+    },
+    "Wild Rose": {
+      "id": 482981,
+      "poster": "/79THplH9WM7y3gRPYM4dcC0IRPw.jpg",
+      "title": "Wild Rose",
+      "year": 2019
+    },
+    "Brighton Beach Memoirs": {
+      "id": 32060,
+      "poster": "/gtaQOHgnGAOQdkLY57Mlu0ZdZA3.jpg",
+      "title": "Brighton Beach Memoirs",
+      "year": 1986
+    },
+    "Dark Phoenix": {
+      "id": 320288,
+      "poster": "/cCTJPelKGLhALq3r51A9uMonxKj.jpg",
+      "title": "Dark Phoenix",
+      "year": 2019
+    }
+  }
+}

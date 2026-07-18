@@ -1,0 +1,89 @@
+{
+  "slug": "making-kick-ass-liam-neeson-movies-with-director-jaume-colle",
+  "title": "Making Kick-Ass Liam Neeson Movies With Director Jaume Collet-Serra",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2018-01-12",
+  "runtimeMin": 22,
+  "format": "Sean Fennessey talks with director Jaume Collet-Serra about The Commuter, his fourth film with Liam Neeson, and why he keeps building thrillers inside confined spaces.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Jaume Collet-Serra on",
+      "films": [
+        {
+          "title": "The Commuter",
+          "year": 2018,
+          "note": "The new one, set almost entirely on a train. Neeson's commuter has to find one passenger carrying dangerous information; his years of routine turn out to be the superpower."
+        },
+        {
+          "title": "Non-Stop",
+          "year": 2014,
+          "note": "The earlier Neeson-on-a-vehicle thriller, set on a plane. Collet-Serra contrasts the plane's tension with the train, where he could stage scenes other passengers never notice."
+        },
+        {
+          "title": "Unknown",
+          "year": 2011,
+          "note": "His first with Neeson."
+        },
+        {
+          "title": "Run All Night",
+          "year": 2015,
+          "note": "Their third film together."
+        },
+        {
+          "title": "The Shallows",
+          "year": 2016,
+          "note": "His shark thriller, which he calls the hardest of these confined-space shoots."
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Liar",
+      "The Missing",
+      "Downton Abbey",
+      "UnREAL"
+    ],
+    "Ads": [
+      "Sundance Now"
+    ]
+  },
+  "tmdb": {
+    "The Commuter": {
+      "id": 399035,
+      "poster": "/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg",
+      "title": "The Commuter",
+      "year": 2018
+    },
+    "Non-Stop": {
+      "id": 225574,
+      "poster": "/Nkgaj3X0W2jHQ1TzHEgWFpN3kJ.jpg",
+      "title": "Non-Stop",
+      "year": 2014
+    },
+    "Unknown": {
+      "id": 48138,
+      "poster": "/aXBQD515okXQZmYA89ntXMvSJSd.jpg",
+      "title": "Unknown",
+      "year": 2011
+    },
+    "Run All Night": {
+      "id": 241554,
+      "poster": "/iGvSMoPbWZWDnIhh54yiq3sW7wH.jpg",
+      "title": "Run All Night",
+      "year": 2015
+    },
+    "The Shallows": {
+      "id": 332567,
+      "poster": "/bnBV7hZmLuA0Si5Aop481sPF2RY.jpg",
+      "title": "The Shallows",
+      "year": 2016
+    }
+  }
+}

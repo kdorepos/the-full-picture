@@ -1,0 +1,200 @@
+{
+  "slug": "greg-kinnear-on-the-bill-simmons-podcast-interview-ep-95",
+  "title": "Greg Kinnear on The Bill Simmons Podcast | Interview (Ep. 95)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Bill Simmons"
+  ],
+  "published": "2018-11-07",
+  "runtimeMin": 48,
+  "format": "A Bill Simmons interview, rerun on the Big Picture feed: Greg Kinnear on the road from cable-access host to Talk Soup to acting, and the films that got him there.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Greg Kinnear on",
+      "films": [
+        {
+          "title": "Sabrina",
+          "year": 1995,
+          "note": "His first movie: Sydney Pollack's remake opposite Harrison Ford and Julie Ormond, which he landed off a Talk Soup tape after the studio's other choices passed. He calls the remake worthy but a little strange, and thinks Audrey Hepburn's original made it a hard swing."
+        },
+        {
+          "title": "As Good as It Gets",
+          "year": 1997,
+          "note": "The James L. Brooks film with Jack Nicholson and Helen Hunt that got Kinnear his Oscar nomination, in the same year as Titanic. Originally titled Old Friends. He grants the years-long gay-bashing plays rough under a 2018 lens."
+        },
+        {
+          "title": "Auto Focus",
+          "year": 2002,
+          "note": "Paul Schrader's Bob Crane biopic, with Willem Dafoe as Carpenter. The dark one he tells his kids never to watch; Schrader was convinced Crane's friend killed him and Scottsdale police botched the case."
+        },
+        {
+          "title": "Little Miss Sunshine",
+          "year": 2006,
+          "note": "Nearly fell apart as Abigail Breslin kept aging out of Olive, until a producer wrote a $7 million check to make it. Kinnear says it only clicked for him at the read-throughs, and needed a clean five-for-five cast."
+        },
+        {
+          "title": "Stuck on You",
+          "year": 2003,
+          "note": "The Farrelly brothers' conjoined-twins comedy with Matt Damon. Hours in a shared silicone prosthetic a crew member warned could rip their skin if either tripped; Damon still calls it the most fun he's had on a set."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Harrison Ford's run",
+      "films": [
+        "Witness",
+        "Presumed Innocent",
+        "The Fugitive",
+        "Clear and Present Danger"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Star Wars",
+        "Titanic",
+        "Manchester by the Sea",
+        "Primal Fear",
+        "The Rainmaker",
+        "How the Grinch Stole Christmas",
+        "How Do You Know",
+        "The Princess Bride",
+        "Andre the Giant"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "House of Cards",
+      "Hogan's Heroes",
+      "Family Ties",
+      "Talk Soup",
+      "Later",
+      "Movie Time / E!",
+      "The Tonight Show",
+      "Saturday Night Live"
+    ],
+    "Podcasts": [
+      "The Bill Simmons Podcast",
+      "The Rewatchables",
+      "Binge Mode",
+      "Jam Session",
+      "The Recapables"
+    ]
+  },
+  "tmdb": {
+    "Sabrina": {
+      "id": 11860,
+      "poster": "/i8PbLJDPU7vCwwscWD625oHbJy.jpg",
+      "title": "Sabrina",
+      "year": 1995
+    },
+    "As Good as It Gets": {
+      "id": 2898,
+      "poster": "/xXxuJPNUDZ0vjsAXca0O5p3leVB.jpg",
+      "title": "As Good as It Gets",
+      "year": 1997
+    },
+    "Auto Focus": {
+      "id": 14112,
+      "poster": "/71CQUn4vtpDQtAPXtaLP7IGH0Sg.jpg",
+      "title": "Auto Focus",
+      "year": 2002
+    },
+    "Little Miss Sunshine": {
+      "id": 773,
+      "poster": "/niNdhTpPHSgw22tK0PLjQMV640v.jpg",
+      "title": "Little Miss Sunshine",
+      "year": 2006
+    },
+    "Stuck on You": {
+      "id": 1792,
+      "poster": "/5TmPGPsOP4EgMo8X14pyywxB1j2.jpg",
+      "title": "Stuck on You",
+      "year": 2003
+    },
+    "Witness": {
+      "id": 9281,
+      "poster": "/kOymD1rChAMykmDVEzJpIh4OYS7.jpg",
+      "title": "Witness",
+      "year": 1985
+    },
+    "Presumed Innocent": {
+      "id": 11092,
+      "poster": "/jSPWptOsqU1nxXQe6muSPB0kD3c.jpg",
+      "title": "Presumed Innocent",
+      "year": 1990
+    },
+    "The Fugitive": {
+      "id": 5503,
+      "poster": "/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg",
+      "title": "The Fugitive",
+      "year": 1993
+    },
+    "Clear and Present Danger": {
+      "id": 9331,
+      "poster": "/6xTM8FPxrLRYwz6I3fqtwh7xybs.jpg",
+      "title": "Clear and Present Danger",
+      "year": 1994
+    },
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "Manchester by the Sea": {
+      "id": 334541,
+      "poster": "/o9VXYOuaJxCEKOxbA86xqtwmqYn.jpg",
+      "title": "Manchester by the Sea",
+      "year": 2016
+    },
+    "Primal Fear": {
+      "id": 1592,
+      "poster": "/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
+      "title": "Primal Fear",
+      "year": 1996
+    },
+    "The Rainmaker": {
+      "id": 11975,
+      "poster": "/twLGHXPjQtS8UyVGp5GXmhJiTM7.jpg",
+      "title": "The Rainmaker",
+      "year": 1997
+    },
+    "How the Grinch Stole Christmas": {
+      "id": 8871,
+      "poster": "/1WZbbPApEivA421gCOluuzMMKCk.jpg",
+      "title": "How the Grinch Stole Christmas",
+      "year": 2000
+    },
+    "How Do You Know": {
+      "id": 42888,
+      "poster": "/jbOnp79eUZxQHgcdnTIRlxel1dE.jpg",
+      "title": "How Do You Know",
+      "year": 2010
+    },
+    "The Princess Bride": {
+      "id": 2493,
+      "poster": "/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+      "title": "The Princess Bride",
+      "year": 1987
+    },
+    "Andre the Giant": {
+      "id": 446663,
+      "poster": "/n4t2g7NbHGu0c51jlQ2qlOZEhvr.jpg",
+      "title": "Andre the Giant",
+      "year": 2018
+    }
+  }
+}

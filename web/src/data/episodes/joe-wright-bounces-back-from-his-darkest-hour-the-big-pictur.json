@@ -1,0 +1,173 @@
+{
+  "slug": "joe-wright-bounces-back-from-his-darkest-hour-the-big-pictur",
+  "title": "Joe Wright Bounces Back From His Darkest Hour | The Big Picture (Ep. 37)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2017-11-22",
+  "runtimeMin": 27,
+  "format": "Sean Fennessey talks to Joe Wright about Darkest Hour, recovering from the failure of Pan, and building Churchill with Gary Oldman.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Joe Wright on",
+      "films": [
+        {
+          "title": "Darkest Hour",
+          "year": 2017,
+          "note": "The new film: one month of Churchill in 1940, pared back to a minimalist chamber piece he scored to Max Richter and Philip Glass."
+        },
+        {
+          "title": "Pan",
+          "year": 2015,
+          "note": "The studio movie that lost ~$100M and triggered the crisis of confidence he made Darkest Hour to answer."
+        },
+        {
+          "title": "Pride and Prejudice",
+          "year": 2005,
+          "note": "His debut; his producer warned only one in ten first-timers ever makes a second film."
+        },
+        {
+          "title": "Atonement",
+          "year": 2007,
+          "note": "Chosen over a Birdsong adaptation on his agent's advice to make the one he felt he knew a secret about; seven Oscar nominations, none for Wright."
+        },
+        {
+          "title": "Anna Karenina",
+          "year": 2012,
+          "note": "Cited as the ornate aesthetic he wanted to react against and strip back."
+        },
+        {
+          "title": "The Soloist",
+          "year": 2009,
+          "note": "His earlier true-story film; he refused a false happy ending for Nathaniel Ayers."
+        },
+        {
+          "title": "Hanna",
+          "year": 2011,
+          "note": "His first film with Saoirse Ronan, whom he first cast at 11 on Atonement."
+        },
+        {
+          "title": "Nil by Mouth",
+          "year": 1997,
+          "note": "Gary Oldman's directorial film, one of Wright's favorites; his Churchill is the first actor-filmmaker Wright has worked with."
+        },
+        {
+          "title": "Dunkirk",
+          "year": 2017,
+          "note": "Nolan's film covers the same moment; Wright waited to watch it until Darkest Hour was finished and found both had gone minimalist."
+        },
+        {
+          "title": "The Killing of a Sacred Deer",
+          "year": 2017,
+          "note": "His answer for the last great thing he saw; fascinated by Lanthimos's dissociated performances."
+        },
+        {
+          "title": "Lady Bird",
+          "year": 2017,
+          "note": "He calls Greta Gerwig a heroine and a proper filmmaker thinking about form."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In development",
+      "films": [
+        "Stoner"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Pride and Prejudice": 4348
+  },
+  "excluded": {
+    "TV": [
+      "Black Mirror"
+    ],
+    "Books": [
+      "Birdsong"
+    ],
+    "Music": [
+      "Hey Jude",
+      "Bubble Butt"
+    ]
+  },
+  "tmdb": {
+    "Darkest Hour": {
+      "id": 399404,
+      "poster": "/xa6G3aKlysQeVg9wOb0dRcIGlWu.jpg",
+      "title": "Darkest Hour",
+      "year": 2017
+    },
+    "Pan": {
+      "id": 266647,
+      "poster": "/w8i0mZR7MEL7c3bXSsuYg7VJsew.jpg",
+      "title": "Pan",
+      "year": 2015
+    },
+    "Pride and Prejudice": {
+      "id": 4348,
+      "poster": "/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg",
+      "title": "Pride & Prejudice",
+      "year": 2005
+    },
+    "Atonement": {
+      "id": 4347,
+      "poster": "/hMRIyBjPzxaSXWM06se3OcNjIQa.jpg",
+      "title": "Atonement",
+      "year": 2007
+    },
+    "Anna Karenina": {
+      "id": 96724,
+      "poster": "/b9mvt1kKqDuveD1AJuGSkBEuagU.jpg",
+      "title": "Anna Karenina",
+      "year": 2012
+    },
+    "The Soloist": {
+      "id": 17332,
+      "poster": "/6GnFN9OTkaoeKNzd2Fbp3ZyJjKi.jpg",
+      "title": "The Soloist",
+      "year": 2009
+    },
+    "Hanna": {
+      "id": 50456,
+      "poster": "/6QDeHwBXDHbCbuzStgUpuUAqnap.jpg",
+      "title": "Hanna",
+      "year": 2011
+    },
+    "Nil by Mouth": {
+      "id": 21252,
+      "poster": "/xRW2hoYmXgloWehdBQxAdbKu4Jn.jpg",
+      "title": "Nil by Mouth",
+      "year": 1997
+    },
+    "Dunkirk": {
+      "id": 374720,
+      "poster": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "title": "Dunkirk",
+      "year": 2017
+    },
+    "The Killing of a Sacred Deer": {
+      "id": 399057,
+      "poster": "/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg",
+      "title": "The Killing of a Sacred Deer",
+      "year": 2017
+    },
+    "Lady Bird": {
+      "id": 391713,
+      "poster": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+      "title": "Lady Bird",
+      "year": 2017
+    },
+    "Stoner": {
+      "id": 1101234,
+      "poster": null,
+      "title": "Stoner",
+      "year": null
+    }
+  }
+}

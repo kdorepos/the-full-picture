@@ -1,0 +1,134 @@
+{
+  "slug": "life-and-death-in-the-american-west-with-lean-on-pete-direct",
+  "title": "Life and Death in the American West With 'Lean on Pete' Director Andrew Haigh",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2018-04-13",
+  "runtimeMin": 32,
+  "format": "Sean Fennessey talks to Andrew Haigh about 'Lean on Pete,' low-level horse racing, filming the American West from a European vantage, and the terror every director carries onto set.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Andrew Haigh on",
+      "films": [
+        {
+          "title": "Lean on Pete",
+          "year": 2017,
+          "note": "Haigh's adaptation of Willy Vlautin's novel, with Charlie Plummer as an orphan boy walking a quarter-horse from Oregon toward Wyoming. Haigh calls it a reverse-Oregon-Trail story about a kid heading east for stability, not freedom, and resists reading it as a coming-of-age film."
+        },
+        {
+          "title": "Weekend",
+          "year": 2011,
+          "note": "His breakout; he couldn't raise its sub-$100,000 budget and cites it as proof the money got easier only slowly."
+        },
+        {
+          "title": "45 Years",
+          "year": 2015,
+          "note": "The married-couple drama he says made 'Lean on Pete' fundable; rewatching it, he noticed it already had some of the same wide landscape work."
+        },
+        {
+          "title": "Loveless",
+          "year": 2017,
+          "note": "His pick for last great film he saw: Andrey Zvyagintsev's, whose surname he refuses to attempt. 'Insanely bleak,' and he's jealous of its control."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Seabiscuit",
+        "Gladiator",
+        "Mr. Lonely",
+        "All the Money in the World",
+        "Transformers",
+        "A Quiet Place",
+        "Super Troopers 2"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Looking"
+    ],
+    "Ads": [
+      "Warby Parker"
+    ]
+  },
+  "tmdbOverrides": {
+    "Mr. Lonely": 16135
+  },
+  "tmdb": {
+    "Lean on Pete": {
+      "id": 407890,
+      "poster": "/7SuPHSo9Uw8GACkP2oPst512Qhl.jpg",
+      "title": "Lean on Pete",
+      "year": 2018
+    },
+    "Weekend": {
+      "id": 79120,
+      "poster": "/ksg3QX2iMLzEkvS6AwIGh5A9CXT.jpg",
+      "title": "Weekend",
+      "year": 2011
+    },
+    "45 Years": {
+      "id": 311291,
+      "poster": "/8elIJYYXWq2HpcZ6TgVMC9EwTnn.jpg",
+      "title": "45 Years",
+      "year": 2015
+    },
+    "Loveless": {
+      "id": 429174,
+      "poster": "/oBUsLGZoGuLKMuHj19mjG9iCDoq.jpg",
+      "title": "Loveless",
+      "year": 2017
+    },
+    "Seabiscuit": {
+      "id": 4464,
+      "poster": "/5m7NfZvxYsSm2YBCJ2VPQf8ziKr.jpg",
+      "title": "Seabiscuit",
+      "year": 2003
+    },
+    "Gladiator": {
+      "id": 98,
+      "poster": "/wN2xWp1eIwCKOD0BHTcErTBv1Uq.jpg",
+      "title": "Gladiator",
+      "year": 2000
+    },
+    "Mr. Lonely": {
+      "id": 16135,
+      "poster": "/2r9QMXMePZ1Ggx8mySiOleNLWPj.jpg",
+      "title": "Mister Lonely",
+      "year": 2008
+    },
+    "All the Money in the World": {
+      "id": 446791,
+      "poster": "/q6nE9Hf0ezszjI4DbCxwzQ73MMy.jpg",
+      "title": "All the Money in the World",
+      "year": 2017
+    },
+    "Transformers": {
+      "id": 1858,
+      "poster": "/4N4sipl8T72tNE4earcctQa2Kw2.jpg",
+      "title": "Transformers",
+      "year": 2007
+    },
+    "A Quiet Place": {
+      "id": 447332,
+      "poster": "/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+      "title": "A Quiet Place",
+      "year": 2018
+    },
+    "Super Troopers 2": {
+      "id": 50022,
+      "poster": "/57SZgdugVClIy22rfnANeBJ5KsN.jpg",
+      "title": "Super Troopers 2",
+      "year": 2018
+    }
+  }
+}

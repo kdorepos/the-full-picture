@@ -1,0 +1,164 @@
+{
+  "slug": "the-case-for-a-black-panther-best-picture-win-plus-a-convers",
+  "title": "The Case for a ‘Black Panther’ Best Picture Win, Plus a Conversation With Nominee Ruth E. Carter",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2019-02-15",
+  "runtimeMin": 52,
+  "format": "Rob Harvilla and Micah Peters make the case for a 'Black Panther' Best Picture win, then costume designer Ruth E. Carter walks through building Wakanda for her Oscar-nominated work on the film.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The Case for ‘Black Panther’",
+      "note": "with Rob Harvilla and Micah Peters",
+      "films": [
+        {
+          "title": "Black Panther",
+          "year": 2018,
+          "note": "Harvilla calls it the most complete of the seven Best Picture nominees; Peters, who saw it four times, traces his own arc from loving to hating to loving Michael B. Jordan's Killmonger. Both land on the ancestral-plane scene in Killmonger's Oakland apartment as the moment the film's mix of myth and real history clicked as Best Picture-worthy, even as they agree the CGI train fight at the end is the film's weak point."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Ruth E. Carter on",
+      "films": [
+        {
+          "title": "Black Panther",
+          "year": 2018,
+          "note": "Carter, nominated for Best Costume Design, describes pitching herself to Marvel without a script, building the panther suit thin enough for the stunt team (and hiring a Boston Ballet dancer to fix the gussets), and using Dogon masks and African weaponry as reference for the Jabari armor. Discusses her long collaboration with Ryan Coogler and, before this film, twelve movies with Spike Lee."
+        },
+        {
+          "title": "Mary Queen of Scots",
+          "year": 2018,
+          "note": "Carter's answer to Sean's closing question — the last great movie she'd seen, for its makeup, hair, and clothes."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing during the Black Panther discussion",
+      "films": [
+        "Thor: Ragnarok",
+        "The Lord of the Rings: The Return of the King",
+        "Ben-Hur",
+        "The Dark Knight",
+        "Avengers: Infinity War",
+        "Brigadoon",
+        "Guardians of the Galaxy",
+        "Captain Marvel"
+      ]
+    },
+    {
+      "group": "Mentioned in the Sonos ad",
+      "films": [
+        "First Man",
+        "Mission: Impossible - Fallout"
+      ]
+    },
+    {
+      "group": "In the Ruth Carter interview",
+      "films": [
+        "Aquaman",
+        "School Daze"
+      ]
+    }
+  ],
+  "excluded": {
+    "Ads": [
+      "Bud Light",
+      "Sonos"
+    ]
+  },
+  "tmdb": {
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "Mary Queen of Scots": {
+      "id": 457136,
+      "poster": "/b5RMzLAyq5QW6GtN9sIeAEMLlBI.jpg",
+      "title": "Mary Queen of Scots",
+      "year": 2018
+    },
+    "Thor: Ragnarok": {
+      "id": 284053,
+      "poster": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "title": "Thor: Ragnarok",
+      "year": 2017
+    },
+    "The Lord of the Rings: The Return of the King": {
+      "id": 122,
+      "poster": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003
+    },
+    "Ben-Hur": {
+      "id": 665,
+      "poster": "/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+      "title": "Ben-Hur",
+      "year": 1959
+    },
+    "The Dark Knight": {
+      "id": 155,
+      "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    },
+    "Brigadoon": {
+      "id": 18283,
+      "poster": "/va3DcpyZDnnWdRB0FTPKzObo3Uz.jpg",
+      "title": "Brigadoon",
+      "year": 1954
+    },
+    "Guardians of the Galaxy": {
+      "id": 118340,
+      "poster": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "title": "Guardians of the Galaxy",
+      "year": 2014
+    },
+    "Captain Marvel": {
+      "id": 299537,
+      "poster": "/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+      "title": "Captain Marvel",
+      "year": 2019
+    },
+    "First Man": {
+      "id": 369972,
+      "poster": "/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
+      "title": "First Man",
+      "year": 2018
+    },
+    "Mission: Impossible - Fallout": {
+      "id": 353081,
+      "poster": "/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+      "title": "Mission: Impossible - Fallout",
+      "year": 2018
+    },
+    "Aquaman": {
+      "id": 297802,
+      "poster": "/ufl63EFcc5XpByEV2Ecdw6WJZAI.jpg",
+      "title": "Aquaman",
+      "year": 2018
+    },
+    "School Daze": {
+      "id": 36739,
+      "poster": "/vnfjKHcmah7ReMxLNF18JMXFgSZ.jpg",
+      "title": "School Daze",
+      "year": 1988
+    }
+  }
+}

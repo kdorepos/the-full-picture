@@ -1,0 +1,252 @@
+{
+  "slug": "instant-reactions-to-a-truly-ludicrous-golden-globes-the-osc",
+  "title": "Instant Reactions to a Truly Ludicrous Golden Globes | The Oscars Show (Ep. 115)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2019-01-07",
+  "runtimeMin": 57,
+  "format": "Sean Fennessey and Amanda Dobbins recap the 2019 Golden Globes an hour after it airs, and read the tea leaves for a wide-open Oscar race.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The Two Head-Scratchers",
+      "films": [
+        {
+          "title": "Green Book",
+          "year": 2018,
+          "note": "Won Best Musical or Comedy plus screenplay and Mahershala Ali's supporting-actor prize. The hosts see the screenplay win as the real sore point on a movie written by one character's family and dogged by the Shirley family's objections."
+        },
+        {
+          "title": "Bohemian Rhapsody",
+          "year": 2018,
+          "note": "Won Best Drama and Best Actor for Rami Malek. Dobbins calls the drama win 'just fucking weird'; Fennessey notes the telecast never mentioned Bryan Singer, who shot most of it."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Stock Up, Stock Down: A Star Is Born",
+      "films": [
+        {
+          "title": "A Star Is Born",
+          "year": 2018,
+          "note": "Went home with a single award, for Mark Ronson and the song 'Shallow'; Lady Gaga never got the stage. The hosts wonder whether they've been overrating a movie most of the country still hasn't seen."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The Lead Actress Race Reopens",
+      "films": [
+        {
+          "title": "The Wife",
+          "year": 2017,
+          "note": "Glenn Close's win and her speech about her mother lands hard enough that Dobbins finally commits to seeing the movie she'd spent weeks joking didn't exist."
+        },
+        {
+          "title": "The Favourite",
+          "year": 2018,
+          "note": "Olivia Colman takes Best Comedy Actress with a loose, off-the-cuff speech: 'blimey,' the sandwiches, Emma Stone and Rachel Weisz as 'my bitches.'"
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The Lead Actor Race and Vice",
+      "films": [
+        {
+          "title": "Vice",
+          "year": 2018,
+          "note": "Christian Bale's Best Comedy Actor win, thanking Satan for inspiration, is the film's only prize on six nominations. Fennessey lays out his theory that Bale, not Cooper, is now the man to beat."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Around the Room",
+      "films": [
+        {
+          "title": "Spider-Man: Into the Spider-Verse",
+          "year": 2018,
+          "note": "Best Animated Feature, and a shout-out to producer Amy Pascal, back in fur and a great blowout after engineering the Spider-Man producing deal on her way out of Sony."
+        },
+        {
+          "title": "If Beale Street Could Talk",
+          "year": 2018,
+          "note": "Regina King's supporting-actress win, which Dobbins flags as the night's one result the critics would have picked."
+        },
+        {
+          "title": "Roma",
+          "year": 2018,
+          "note": "Barely mentioned on the podcast until the final minutes. Alfonso Cuarón won Best Director and the hosts figure the film is bulletproof regardless."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The Oscars Still Need a Host",
+      "films": [
+        {
+          "title": "The Upside",
+          "year": 2019,
+          "note": "The movie Kevin Hart was promoting on Ellen when the show tried to broker him back into the vacant Oscars hosting gig, a plan the hosts read as celebrity ego-massage that satisfied nobody."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In the awards conversation",
+      "films": [
+        "First Man",
+        "BlacKkKlansman",
+        "Crazy Rich Asians",
+        "Mary Poppins Returns",
+        "Three Billboards Outside Ebbing, Missouri",
+        "Beasts of the Southern Wild",
+        "Spider-Man: Homecoming",
+        "Deadpool 2",
+        "Creed II"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "The Upside": 440472
+  },
+  "excluded": {
+    "TV": [
+      "True Detective",
+      "The Big Bang Theory",
+      "The Kaminsky Method",
+      "The Americans",
+      "The Assassination of Gianni Versace",
+      "Atlanta",
+      "The Marvelous Mrs. Maisel",
+      "The Bachelor"
+    ],
+    "Ads": [
+      "The Watch",
+      "Bachelor Party"
+    ]
+  },
+  "tmdb": {
+    "Green Book": {
+      "id": 490132,
+      "poster": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+      "title": "Green Book",
+      "year": 2018
+    },
+    "Bohemian Rhapsody": {
+      "id": 424694,
+      "poster": "/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+      "title": "Bohemian Rhapsody",
+      "year": 2018
+    },
+    "A Star Is Born": {
+      "id": 332562,
+      "poster": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "title": "A Star Is Born",
+      "year": 2018
+    },
+    "The Wife": {
+      "id": 340613,
+      "poster": "/d4Qyuy0Ul549f6SOdUqGvIdYKD2.jpg",
+      "title": "The Wife",
+      "year": 2017
+    },
+    "The Favourite": {
+      "id": 375262,
+      "poster": "/cwBq0onfmeilU5xgqNNjJAMPfpw.jpg",
+      "title": "The Favourite",
+      "year": 2018
+    },
+    "Vice": {
+      "id": 429197,
+      "poster": "/1gCab6rNv1r6V64cwsU4oEr649Y.jpg",
+      "title": "Vice",
+      "year": 2018
+    },
+    "Spider-Man: Into the Spider-Verse": {
+      "id": 324857,
+      "poster": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018
+    },
+    "If Beale Street Could Talk": {
+      "id": 465914,
+      "poster": "/76NfwnaZI43gOQove0LU9O23Qjz.jpg",
+      "title": "If Beale Street Could Talk",
+      "year": 2018
+    },
+    "Roma": {
+      "id": 426426,
+      "poster": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+      "title": "Roma",
+      "year": 2018
+    },
+    "The Upside": {
+      "id": 440472,
+      "poster": "/hPZ2caow1PCND6qnerfgn6RTXdm.jpg",
+      "title": "The Upside",
+      "year": 2019
+    },
+    "First Man": {
+      "id": 369972,
+      "poster": "/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
+      "title": "First Man",
+      "year": 2018
+    },
+    "BlacKkKlansman": {
+      "id": 487558,
+      "poster": "/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg",
+      "title": "BlacKkKlansman",
+      "year": 2018
+    },
+    "Crazy Rich Asians": {
+      "id": 455207,
+      "poster": "/1XxL4LJ5WHdrcYcihEZUCgNCpAW.jpg",
+      "title": "Crazy Rich Asians",
+      "year": 2018
+    },
+    "Mary Poppins Returns": {
+      "id": 400650,
+      "poster": "/uTVGku4LibMGyKgQvjBtv3OYfAX.jpg",
+      "title": "Mary Poppins Returns",
+      "year": 2018
+    },
+    "Three Billboards Outside Ebbing, Missouri": {
+      "id": 359940,
+      "poster": "/bRYLt8fV82tdVoDppSFTZIcJiLN.jpg",
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "year": 2017
+    },
+    "Beasts of the Southern Wild": {
+      "id": 84175,
+      "poster": "/nQJmWekGYlXhezGUb21xFfEfwhH.jpg",
+      "title": "Beasts of the Southern Wild",
+      "year": 2012
+    },
+    "Spider-Man: Homecoming": {
+      "id": 315635,
+      "poster": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+      "title": "Spider-Man: Homecoming",
+      "year": 2017
+    },
+    "Deadpool 2": {
+      "id": 383498,
+      "poster": "/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+      "title": "Deadpool 2",
+      "year": 2018
+    },
+    "Creed II": {
+      "id": 480530,
+      "poster": "/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg",
+      "title": "Creed II",
+      "year": 2018
+    }
+  }
+}

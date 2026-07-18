@@ -1,0 +1,281 @@
+{
+  "slug": "scream-the-oral-history",
+  "title": "‘Scream’: The Oral History",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Alan Siegel"
+  ],
+  "published": "2021-12-22",
+  "runtimeMin": 52,
+  "format": "Ringer staff writer Alan Siegel turns his 25th-anniversary 'Scream' oral history into audio, from the accidental mask and the dailies that spooked the studio to a Christmas release nobody expected to work.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Part one: Selling 'Scary Movie'",
+      "note": "a bidding war and the search for a director",
+      "films": [
+        {
+          "title": "Scream",
+          "year": 1996,
+          "note": "Kevin Williamson wrote the script in three days after a night spent searching his own house with a butcher knife, sure someone was inside. Titled 'Scary Movie,' it set off a bidding war that ended with a midnight call to Bob Weinstein at Dimension. Every big genre name, from Wes Craven to Robert Rodriguez to Quentin Tarantino, circled the director's chair before Craven, coming off the flop 'Vampire in Brooklyn' and wary of typecasting, signed on after his assistant relayed his own offhand joke back to the studio: make him an offer he can't refuse."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Part two: Casting a bloodbath",
+      "note": "the actors, and the voice behind the mask",
+      "films": [
+        {
+          "title": "Scream",
+          "year": 1996,
+          "note": "Courtney Cox, fresh off 'Friends,' had to convince Craven she could play someone meaner than Monica. Drew Barrymore was up for lead Sidney Prescott before asking to play Casey Becker instead so she could die in the opening scene, a bait-and-switch modeled on Janet Leigh in 'Psycho.' Neve Campbell beat out Alicia Witt and Brittany Murphy for Sidney, and Matthew Lillard won Stu on the spot after auditioning for Billy Loomis first. Roger Jackson landed Ghostface's voice by realizing the killer needed to sound seductive, not like another Freddy Krueger."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Part three: The mask and the shoot",
+      "note": "Santa Rosa, summer camp, and a nervous studio",
+      "films": [
+        {
+          "title": "Scream",
+          "year": 1996,
+          "note": "The Ghostface mask turned up by accident on a location scout, sitting in an empty bedroom; an in-house VFX redesign the studio commissioned instead came back 'gargoyle-ish' and got scrapped. Shot in Santa Rosa in spring 1996, the cast bonded over blacked-out hotel rooms, nightly cookies, and bloodstained sheets the maids hated them for. Dailies of the Casey Becker opening alarmed executives watching in New York, Bob Weinstein thought it played flat, until Craven's editor cut the scene together and screened it for him in person."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Part four: Rules of the genre",
+      "note": "tropes, kills, and the house-party finale",
+      "films": [
+        {
+          "title": "Scream",
+          "year": 1996,
+          "note": "Stuffed with references, the film works as both homage and satire of its own genre's rules: 'Halloween' plays at the party, Linda Blair of 'The Exorcist' cameos as a reporter, and Craven himself shows up as a janitor named Fred. Tatum dies under a garage door, the principal gets strung up on a goalpost, and the climactic house-party sequence took three weeks of nightly shoots that left the cast covered in corn-syrup blood and, at one point, sofa feathers nobody remembers Craven explaining."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Part five: Scream lives",
+      "note": "the title change, a Christmas gamble, and the legacy",
+      "films": [
+        {
+          "title": "Scream",
+          "year": 1996,
+          "note": "Dimension retitled Williamson's 'Scary Movie' to 'Scream' late in production. The MPAA fought the violence down from an NC-17 to an R, and the studio opened it five days before Christmas against 'One Fine Day' and 'Beavis and Butt-Head Do America,' where Variety called it dead on arrival. A $6 million opening weekend tripled by the third week on word of mouth alone. Craven died of brain cancer in 2015 at 76; a fifth 'Scream' film, the first not directed by him, opened the month this episode aired."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Wes Craven's filmography",
+      "films": [
+        "A Nightmare on Elm Street",
+        "The Last House on the Left",
+        "Vampire in Brooklyn",
+        "Wes Craven's New Nightmare"
+      ]
+    },
+    {
+      "group": "Horror touchstones cited on-screen",
+      "films": [
+        "Halloween",
+        "The Exorcist"
+      ]
+    },
+    {
+      "group": "Cited as a narrative model",
+      "films": [
+        "Psycho"
+      ]
+    },
+    {
+      "group": "The franchise",
+      "films": [
+        "Scream 2",
+        "Scream (2022)"
+      ]
+    },
+    {
+      "group": "Kevin Williamson's other scripts",
+      "films": [
+        "Teaching Mrs. Tingle",
+        "I Know What You Did Last Summer",
+        "The Faculty"
+      ]
+    },
+    {
+      "group": "1996 Christmas box-office competition",
+      "films": [
+        "One Fine Day",
+        "Beavis and Butt-Head Do America"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Clueless",
+        "Aliens",
+        "Friday the 13th",
+        "Terminator 2: Judgment Day",
+        "Donnie Darko",
+        "The Town"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Party of Five",
+      "Friends",
+      "Dawson's Creek",
+      "Buffy the Vampire Slayer",
+      "Scream (MTV series)"
+    ],
+    "Specials": [
+      "Prince's Super Bowl halftime show",
+      "Nirvana's MTV Unplugged"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "FIFA World Cup Launch Edition"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Last House on the Left": 15516,
+    "I Know What You Did Last Summer": 3597,
+    "Scream (2022)": 646385
+  },
+  "tmdb": {
+    "Scream": {
+      "id": 4232,
+      "poster": "/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+      "title": "Scream",
+      "year": 1996
+    },
+    "A Nightmare on Elm Street": {
+      "id": 377,
+      "poster": "/b9rMHAAKISRmIonaQd9Cccx0S4X.jpg",
+      "title": "A Nightmare on Elm Street",
+      "year": 1984
+    },
+    "The Last House on the Left": {
+      "id": 15516,
+      "poster": "/qyTqXz1C7kPgWmxcD5otQ7xlrJP.jpg",
+      "title": "The Last House on the Left",
+      "year": 1972
+    },
+    "Vampire in Brooklyn": {
+      "id": 12158,
+      "poster": "/fodPA5x3REtOwColG17CucreZqM.jpg",
+      "title": "Vampire in Brooklyn",
+      "year": 1995
+    },
+    "Wes Craven's New Nightmare": {
+      "id": 11596,
+      "poster": "/q5BWxfL1x34nyYSvA3Qo5odleGW.jpg",
+      "title": "Wes Craven's New Nightmare",
+      "year": 1994
+    },
+    "Halloween": {
+      "id": 948,
+      "poster": "/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+      "title": "Halloween",
+      "year": 1978
+    },
+    "The Exorcist": {
+      "id": 9552,
+      "poster": "/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
+      "title": "The Exorcist",
+      "year": 1973
+    },
+    "Psycho": {
+      "id": 539,
+      "poster": "/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+      "title": "Psycho",
+      "year": 1960
+    },
+    "Scream 2": {
+      "id": 4233,
+      "poster": "/dORlVasiaDkJXTqt9bdH7nFNs6C.jpg",
+      "title": "Scream 2",
+      "year": 1997
+    },
+    "Scream (2022)": {
+      "id": 646385,
+      "poster": "/nD4M4Bx457ryLuKYpxFwQ2IBJ5w.jpg",
+      "title": "Scream",
+      "year": 2022
+    },
+    "Teaching Mrs. Tingle": {
+      "id": 10342,
+      "poster": "/cGv0tkWZZSmoaPYiOsDcGmMhKq7.jpg",
+      "title": "Teaching Mrs. Tingle",
+      "year": 1999
+    },
+    "I Know What You Did Last Summer": {
+      "id": 3597,
+      "poster": "/dQyaJx0SptDqvQcAewAr8FAtLB2.jpg",
+      "title": "I Know What You Did Last Summer",
+      "year": 1997
+    },
+    "The Faculty": {
+      "id": 9276,
+      "poster": "/5XetJwmAiDC0EtH23NIXaqFn3Wl.jpg",
+      "title": "The Faculty",
+      "year": 1998
+    },
+    "One Fine Day": {
+      "id": 7300,
+      "poster": "/5NiRRR7JDNHOr21JNoGRxPWh9vb.jpg",
+      "title": "One Fine Day",
+      "year": 1996
+    },
+    "Beavis and Butt-Head Do America": {
+      "id": 3179,
+      "poster": "/vqdgQiRCSzgpFXLlbxbybfkleBM.jpg",
+      "title": "Beavis and Butt-Head Do America",
+      "year": 1996
+    },
+    "Clueless": {
+      "id": 9603,
+      "poster": "/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",
+      "title": "Clueless",
+      "year": 1995
+    },
+    "Aliens": {
+      "id": 679,
+      "poster": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "title": "Aliens",
+      "year": 1986
+    },
+    "Friday the 13th": {
+      "id": 4488,
+      "poster": "/uGGpnWHOmWTARVN9wbC1nPxNgps.jpg",
+      "title": "Friday the 13th",
+      "year": 1980
+    },
+    "Terminator 2: Judgment Day": {
+      "id": 280,
+      "poster": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991
+    },
+    "Donnie Darko": {
+      "id": 141,
+      "poster": "/j2AtZFsflxiluaNtajMTI0Avm8C.jpg",
+      "title": "Donnie Darko",
+      "year": 2001
+    },
+    "The Town": {
+      "id": 23168,
+      "poster": "/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
+      "title": "The Town",
+      "year": 2010
+    }
+  }
+}

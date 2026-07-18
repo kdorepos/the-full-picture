@@ -1,0 +1,632 @@
+{
+  "slug": "the-2022-movie-auction-returns",
+  "title": "The 2022 Movie Auction Returns!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2022-07-15",
+  "runtimeMin": 94,
+  "format": "Part two of the year's movie auction: Sean, Amanda, and Chris Ryan each draft five second-half-of-2022 films with a $1,000 budget, snake-style, 30 seconds a bid.",
+  "segments": [
+    {
+      "kind": "auction",
+      "heading": "The paddles",
+      "saleLabel": "Mid-year sale · 2022",
+      "slates": [
+        {
+          "host": "Sean Fennessey",
+          "spent": 1000,
+          "budgetLeft": 0,
+          "picks": [
+            {
+              "title": "Triangle of Sadness",
+              "year": 2022,
+              "price": 240,
+              "note": "Ruben Östlund's Palme d'Or winner; Woody Harrelson, a luxury cruise gone wrong."
+            },
+            {
+              "title": "Blonde",
+              "year": 2022,
+              "price": 110,
+              "note": "Andrew Dominik's Marilyn Monroe story, from the Joyce Carol Oates novel; Ana de Armas."
+            },
+            {
+              "title": "The Fabelmans",
+              "year": 2022,
+              "price": 555,
+              "note": "Spielberg's autobiographical film, script with Tony Kushner; Michelle Williams, Seth Rogen, Paul Dano."
+            },
+            {
+              "title": "Poor Things",
+              "year": 2022,
+              "price": 1,
+              "note": "Yorgos Lanthimos; Emma Stone, Mark Ruffalo, Willem Dafoe."
+            },
+            {
+              "title": "Beau Is Afraid",
+              "year": 2023,
+              "price": 94,
+              "note": "Ari Aster's follow-up to Hereditary and Midsommar; Joaquin Phoenix. Announced under the working title Disappointment Boulevard, reportedly cut at four hours."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "spent": 1000,
+          "budgetLeft": 0,
+          "picks": [
+            {
+              "title": "Bros",
+              "year": 2022,
+              "price": 150,
+              "note": "Nicholas Stoller directs; Billy Eichner stars and co-writes."
+            },
+            {
+              "title": "Armageddon Time",
+              "year": 2022,
+              "price": 200,
+              "note": "James Gray's childhood memoir; Anne Hathaway, Jeremy Strong, Anthony Hopkins."
+            },
+            {
+              "title": "Avatar: The Way of Water",
+              "year": 2022,
+              "price": 356,
+              "note": "James Cameron's long-delayed sequel."
+            },
+            {
+              "title": "The Menu",
+              "year": 2022,
+              "price": 61,
+              "note": "Mark Mylod (Succession); Anya Taylor-Joy, Nicholas Hoult, Ralph Fiennes; a chef's tasting menu turns sinister."
+            },
+            {
+              "title": "See How They Run",
+              "year": 2022,
+              "price": 233,
+              "note": "1950s London whodunit; Saoirse Ronan, Sam Rockwell, Adrien Brody."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "spent": 1000,
+          "budgetLeft": 0,
+          "picks": [
+            {
+              "title": "The Banshees of Inisherin",
+              "year": 2022,
+              "price": 220,
+              "note": "Martin McDonagh reunites with Colin Farrell and Brendan Gleeson; one friend abruptly ends the friendship."
+            },
+            {
+              "title": "Black Panther: Wakanda Forever",
+              "year": 2022,
+              "price": 425,
+              "note": "Ryan Coogler's sequel, made in the wake of Chadwick Boseman's death."
+            },
+            {
+              "title": "Asteroid City",
+              "year": 2022,
+              "price": 295,
+              "note": "Wes Anderson, shot in Spain; Tom Hanks, Tilda Swinton, Bill Murray, Scarlett Johansson, Jeff Goldblum among many others."
+            },
+            {
+              "title": "Tár",
+              "year": 2022,
+              "price": 59,
+              "note": "Todd Field's first film since 2006's Little Children; Cate Blanchett as a famous conductor."
+            },
+            {
+              "title": "Violent Night",
+              "year": 2022,
+              "price": 1,
+              "note": "Tommy Wirkola (Dead Snow); David Harbour as a rogue Santa Claus."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Amsterdam",
+        "Prey",
+        "Bodies Bodies Bodies",
+        "The Gray Man",
+        "Decision to Leave",
+        "Salem's Lot",
+        "Halloween Ends",
+        "Thirteen Lives",
+        "Strange World",
+        "The Zone of Interest",
+        "Empire of Light",
+        "The Whale",
+        "The Pale Blue Eye",
+        "Bardo",
+        "One Fine Morning",
+        "Resurrection"
+      ],
+      "previousSaleLabel": "January · first-half slate",
+      "januarySlate": [
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Nope",
+              "price": null
+            },
+            {
+              "title": "Babylon",
+              "price": null
+            },
+            {
+              "title": "The Killer",
+              "price": null
+            },
+            {
+              "title": "Spider-Man: Across the Spider-Verse",
+              "price": null
+            },
+            {
+              "title": "The Northman",
+              "price": null
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Top Gun: Maverick",
+              "price": null
+            },
+            {
+              "title": "Mission: Impossible – Dead Reckoning Part One",
+              "price": null
+            },
+            {
+              "title": "Maestro",
+              "price": null
+            },
+            {
+              "title": "She Said",
+              "price": null
+            },
+            {
+              "title": "Don't Worry Darling",
+              "price": null
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Glass Onion: A Knives Out Mystery",
+              "price": 250
+            },
+            {
+              "title": "Killers of the Flower Moon",
+              "price": 450
+            },
+            {
+              "title": "White Noise",
+              "price": 200
+            },
+            {
+              "title": "Bullet Train",
+              "price": null
+            },
+            {
+              "title": "Men",
+              "price": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "First-half 2022 films they wish they'd drafted",
+      "films": [
+        "Everything Everywhere All at Once",
+        "Doctor Strange in the Multiverse of Madness",
+        "Jackass Forever",
+        "The Batman",
+        "Deep Water",
+        "Watcher",
+        "Ambulance"
+      ]
+    },
+    {
+      "group": "Past-auction lore",
+      "films": [
+        "House of Gucci",
+        "We Bought a Zoo",
+        "The Matrix Resurrections",
+        "Licorice Pizza",
+        "Cry Macho"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Old Man",
+      "Blackbird",
+      "We Own the City",
+      "The Staircase",
+      "The Dropout",
+      "Tokyo Vice",
+      "Under the Banner of Heaven",
+      "Outer Range",
+      "Obi-Wan Kenobi",
+      "Moon Knight",
+      "Better Call Saul",
+      "1923"
+    ],
+    "Ads": [
+      "Tremfya",
+      "Netflix (FIFA World Cup Launch Edition)",
+      "FanDuel",
+      "NOS Energy",
+      "Wells Fargo"
+    ]
+  },
+  "tmdbOverrides": {
+    "Deep Water": 619979,
+    "Bardo": 685691,
+    "Salem's Lot": 748230
+  },
+  "tmdb": {
+    "Triangle of Sadness": {
+      "id": 497828,
+      "poster": "/k9eLozCgCed5FGTSdHu0bBElAV8.jpg",
+      "title": "Triangle of Sadness",
+      "year": 2022
+    },
+    "Blonde": {
+      "id": 301502,
+      "poster": "/mEeHqtnWOR44vLCutEFku2WK6ou.jpg",
+      "title": "Blonde",
+      "year": 2022
+    },
+    "The Fabelmans": {
+      "id": 804095,
+      "poster": "/h7llKkqkkJtJrTOaDLuVeUYDQ7I.jpg",
+      "title": "The Fabelmans",
+      "year": 2022
+    },
+    "Poor Things": {
+      "id": 792307,
+      "poster": "/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+      "title": "Poor Things",
+      "year": 2023
+    },
+    "Beau Is Afraid": {
+      "id": 798286,
+      "poster": "/wgVkkjigF31r1nZV80uV0xNIoun.jpg",
+      "title": "Beau Is Afraid",
+      "year": 2023
+    },
+    "Bros": {
+      "id": 614939,
+      "poster": "/op02Hv5i4Z049nGJYmk6BScRqHO.jpg",
+      "title": "Bros",
+      "year": 2022
+    },
+    "Armageddon Time": {
+      "id": 615952,
+      "poster": "/wMK717aDWhboXOiVbZ9sLBqLmKh.jpg",
+      "title": "Armageddon Time",
+      "year": 2022
+    },
+    "Avatar: The Way of Water": {
+      "id": 76600,
+      "poster": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "title": "Avatar: The Way of Water",
+      "year": 2022
+    },
+    "The Menu": {
+      "id": 593643,
+      "poster": "/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg",
+      "title": "The Menu",
+      "year": 2022
+    },
+    "See How They Run": {
+      "id": 766475,
+      "poster": "/r3rpSAi2yukZwr9H2km0WKGODWo.jpg",
+      "title": "See How They Run",
+      "year": 2022
+    },
+    "The Banshees of Inisherin": {
+      "id": 674324,
+      "poster": "/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg",
+      "title": "The Banshees of Inisherin",
+      "year": 2022
+    },
+    "Black Panther: Wakanda Forever": {
+      "id": 505642,
+      "poster": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+      "title": "Black Panther: Wakanda Forever",
+      "year": 2022
+    },
+    "Asteroid City": {
+      "id": 747188,
+      "poster": "/hfo7pvL9Fys7rocfL4VOzw9qDEQ.jpg",
+      "title": "Asteroid City",
+      "year": 2023
+    },
+    "Tár": {
+      "id": 817758,
+      "poster": "/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg",
+      "title": "TÁR",
+      "year": 2022
+    },
+    "Violent Night": {
+      "id": 899112,
+      "poster": "/e8CpMgdyihz9Td7amQDqubPuzfN.jpg",
+      "title": "Violent Night",
+      "year": 2022
+    },
+    "Nope": {
+      "id": 762504,
+      "poster": "/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
+      "title": "Nope",
+      "year": 2022
+    },
+    "Babylon": {
+      "id": 615777,
+      "poster": "/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+      "title": "Babylon",
+      "year": 2022
+    },
+    "The Killer": {
+      "id": 800158,
+      "poster": "/ipkcgvN7h3yZnbYowthloHLKsf4.jpg",
+      "title": "The Killer",
+      "year": 2023
+    },
+    "Spider-Man: Across the Spider-Verse": {
+      "id": 569094,
+      "poster": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "year": 2023
+    },
+    "The Northman": {
+      "id": 639933,
+      "poster": "/aSSJMnHknzKjlZ6zybwD7eyJ4Po.jpg",
+      "title": "The Northman",
+      "year": 2022
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Mission: Impossible – Dead Reckoning Part One": {
+      "id": 575264,
+      "poster": "/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "year": 2023
+    },
+    "Maestro": {
+      "id": 523607,
+      "poster": "/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg",
+      "title": "Maestro",
+      "year": 2023
+    },
+    "She Said": {
+      "id": 837881,
+      "poster": "/jG4UI2dbNWlWtTTupjeU3fRJ5Fn.jpg",
+      "title": "She Said",
+      "year": 2022
+    },
+    "Don't Worry Darling": {
+      "id": 619730,
+      "poster": "/jOqxKIOC92BVyinYO1Fm73XY7Tc.jpg",
+      "title": "Don't Worry Darling",
+      "year": 2022
+    },
+    "Glass Onion: A Knives Out Mystery": {
+      "id": 661374,
+      "poster": "/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
+      "title": "Glass Onion: A Knives Out Mystery",
+      "year": 2022
+    },
+    "Killers of the Flower Moon": {
+      "id": 466420,
+      "poster": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+      "title": "Killers of the Flower Moon",
+      "year": 2023
+    },
+    "White Noise": {
+      "id": 744594,
+      "poster": "/kesxNdLZlmGoTRspDHU1WgdEuGw.jpg",
+      "title": "White Noise",
+      "year": 2022
+    },
+    "Bullet Train": {
+      "id": 718930,
+      "poster": "/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg",
+      "title": "Bullet Train",
+      "year": 2022
+    },
+    "Men": {
+      "id": 780609,
+      "poster": "/jo1Kv3P3UgDVk7JnUFr2Cl8WWUM.jpg",
+      "title": "Men",
+      "year": 2022
+    },
+    "Amsterdam": {
+      "id": 664469,
+      "poster": "/6sJcVzGCwrDCBMV0DU6eRzA2UxM.jpg",
+      "title": "Amsterdam",
+      "year": 2022
+    },
+    "Prey": {
+      "id": 766507,
+      "poster": "/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg",
+      "title": "Prey",
+      "year": 2022
+    },
+    "Bodies Bodies Bodies": {
+      "id": 520023,
+      "poster": "/hSuTjDmqRdy7Dii8ymnF2WILTeP.jpg",
+      "title": "Bodies Bodies Bodies",
+      "year": 2022
+    },
+    "The Gray Man": {
+      "id": 725201,
+      "poster": "/8cXbitsS6dWQ5gfMTZdorpAAzEH.jpg",
+      "title": "The Gray Man",
+      "year": 2022
+    },
+    "Decision to Leave": {
+      "id": 705996,
+      "poster": "/zI8KZ4EdLUymWKX1YEkpZ0gtPUa.jpg",
+      "title": "Decision to Leave",
+      "year": 2022
+    },
+    "Salem's Lot": {
+      "id": 748230,
+      "poster": "/wkx5cdXVo6G8UEeNibthKIZEY3Y.jpg",
+      "title": "Salem's Lot",
+      "year": 2024
+    },
+    "Halloween Ends": {
+      "id": 616820,
+      "poster": "/q06saepaXeBdkMibuN4R2fXmgIw.jpg",
+      "title": "Halloween Ends",
+      "year": 2022
+    },
+    "Thirteen Lives": {
+      "id": 698948,
+      "poster": "/yi5KcJqFxy0D6yP8nCfcF8gJGg5.jpg",
+      "title": "Thirteen Lives",
+      "year": 2022
+    },
+    "Strange World": {
+      "id": 877269,
+      "poster": "/a9x70QUXs6uEwtin1SGNKoFXoia.jpg",
+      "title": "Strange World",
+      "year": 2022
+    },
+    "The Zone of Interest": {
+      "id": 467244,
+      "poster": "/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg",
+      "title": "The Zone of Interest",
+      "year": 2023
+    },
+    "Empire of Light": {
+      "id": 814757,
+      "poster": "/h84SnIQF91Gz2Fv1OpMJ3245t4i.jpg",
+      "title": "Empire of Light",
+      "year": 2022
+    },
+    "The Whale": {
+      "id": 785084,
+      "poster": "/jQ0gylJMxWSL490sy0RrPj1Lj7e.jpg",
+      "title": "The Whale",
+      "year": 2022
+    },
+    "The Pale Blue Eye": {
+      "id": 800815,
+      "poster": "/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg",
+      "title": "The Pale Blue Eye",
+      "year": 2022
+    },
+    "Bardo": {
+      "id": 685691,
+      "poster": "/3e6RA0CzFDC0pz5TqiRlbHcsc2n.jpg",
+      "title": "BARDO, False Chronicle of a Handful of Truths",
+      "year": 2022
+    },
+    "One Fine Morning": {
+      "id": 747779,
+      "poster": "/ekqrjI2w1xl7Q3OdexkFLz38BG8.jpg",
+      "title": "One Fine Morning",
+      "year": 2022
+    },
+    "Resurrection": {
+      "id": 872497,
+      "poster": "/kfRr8Jm1gaEnLTXCIfHkSw8QW6t.jpg",
+      "title": "Resurrection",
+      "year": 2022
+    },
+    "Everything Everywhere All at Once": {
+      "id": 545611,
+      "poster": "/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+      "title": "Everything Everywhere All at Once",
+      "year": 2022
+    },
+    "Doctor Strange in the Multiverse of Madness": {
+      "id": 453395,
+      "poster": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "year": 2022
+    },
+    "Jackass Forever": {
+      "id": 656663,
+      "poster": "/ruHDFumJfW7F2vEqTZEQQ9xT7CA.jpg",
+      "title": "Jackass Forever",
+      "year": 2022
+    },
+    "The Batman": {
+      "id": 414906,
+      "poster": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "title": "The Batman",
+      "year": 2022
+    },
+    "Deep Water": {
+      "id": 619979,
+      "poster": "/6yRMyWwjuhKg6IU66uiZIGhaSc8.jpg",
+      "title": "Deep Water",
+      "year": 2022
+    },
+    "Watcher": {
+      "id": 807356,
+      "poster": "/dXCjoI3jdtBrwPHgVsyNLkl8Rvs.jpg",
+      "title": "Watcher",
+      "year": 2022
+    },
+    "Ambulance": {
+      "id": 763285,
+      "poster": "/hUbgg3mMSbY9PlpTxBo4IFUVSd6.jpg",
+      "title": "Ambulance",
+      "year": 2022
+    },
+    "House of Gucci": {
+      "id": 644495,
+      "poster": "/oJCQjD2byiVF1EG408F9dBn9ndU.jpg",
+      "title": "House of Gucci",
+      "year": 2021
+    },
+    "We Bought a Zoo": {
+      "id": 74465,
+      "poster": "/dcOvIqdsojUdAtWt1nPT9xS76Su.jpg",
+      "title": "We Bought a Zoo",
+      "year": 2011
+    },
+    "The Matrix Resurrections": {
+      "id": 624860,
+      "poster": "/8c4a8kE7PizaGQQnditMmI1xbRp.jpg",
+      "title": "The Matrix Resurrections",
+      "year": 2021
+    },
+    "Licorice Pizza": {
+      "id": 718032,
+      "poster": "/ivXtvzfliGvoJ1DhSHIGyYBToWe.jpg",
+      "title": "Licorice Pizza",
+      "year": 2021
+    },
+    "Cry Macho": {
+      "id": 749274,
+      "poster": "/esrzqq7Ud8yoslFTu3J5HqTJVOQ.jpg",
+      "title": "Cry Macho",
+      "year": 2021
+    }
+  }
+}

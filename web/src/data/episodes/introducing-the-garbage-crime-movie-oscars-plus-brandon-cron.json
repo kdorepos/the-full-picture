@@ -1,0 +1,1047 @@
+{
+  "slug": "introducing-the-garbage-crime-movie-oscars-plus-brandon-cron",
+  "title": "Introducing the Garbage Crime Movie Oscars. Plus: Brandon Cronenberg!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Chris Ryan"
+  ],
+  "published": "2020-11-10",
+  "runtimeMin": 101,
+  "format": "Sean Fennessey and Chris Ryan coin 'garbage crime' (the mid-budget, B-minus crime picture), hand out its first awards, then Sean talks to Brandon Cronenberg about Possessor.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "What is garbage crime?",
+      "note": "the mid-budget B-minus crime picture, defined",
+      "films": [
+        {
+          "title": "Den of Thieves",
+          "year": 2018,
+          "note": "The platonic ideal. Butler thinks he's doing Richard III; the whole genre traces back to the feeling you get 20 minutes in."
+        },
+        {
+          "title": "S.W.A.T.",
+          "year": 2003,
+          "note": "Shitty IP plus a charismatic ensemble solving a pedestrian crime: Ryan's early tell that the wave was coming."
+        },
+        {
+          "title": "Jack Reacher: Never Go Back",
+          "year": 2016,
+          "note": "A sequel reaching for respectable that lands in the bin. Kind of sucks, deeply watchable."
+        },
+        {
+          "title": "Sicario: Day of the Soldado",
+          "year": 2018,
+          "note": "Takes the highfalutin idea of Sicario and finds the repeatable model: Brolin and Del Toro on the road."
+        },
+        {
+          "title": "The Purge: Anarchy",
+          "year": 2014,
+          "note": "An out-of-genre franchise that pivoted into a pure all-night firefight movie."
+        },
+        {
+          "title": "The Dark Knight Rises",
+          "year": 2012,
+          "note": "Garbage crime up to the point the football stadium explodes. Same plot machinery as 21 Bridges."
+        },
+        {
+          "title": "Prisoners",
+          "year": 2013,
+          "note": "The inverse: a where-are-my-kids setup that Villeneuve elevates into Lynchian dread."
+        },
+        {
+          "title": "The Town",
+          "year": 2010,
+          "note": "Too good to qualify. It has the Heat masks, but you'd recommend it to your mother-in-law."
+        },
+        {
+          "title": "Nocturnal Animals",
+          "year": 2016,
+          "note": "A misfire dragged down into the bin. Fennessey calls it absolute trash and means it fondly."
+        },
+        {
+          "title": "Blackhat",
+          "year": 2015,
+          "note": "Mann's incomprehensible hacker picture, complete with a visible Getty stock photo."
+        },
+        {
+          "title": "The Accountant",
+          "year": 2016,
+          "note": "Affleck doing his Don Siegel homage."
+        },
+        {
+          "title": "Spenser Confidential",
+          "year": 2020,
+          "note": "Wahlberg carries garbage crime into the streaming era: the future of mid-budget movies."
+        },
+        {
+          "title": "Mile 22",
+          "year": 2018,
+          "note": "Incomprehensible in a theater, far better as a disposable Netflix watch."
+        },
+        {
+          "title": "21 Bridges",
+          "year": 2019,
+          "note": "The perfect cable movie; Boseman doing a restrained '70s character-actor lead."
+        },
+        {
+          "title": "The Informer",
+          "year": 2019,
+          "note": "The week's exemplar: Kinnaman picking up different cell phones and sweating, shelved since 2018."
+        }
+      ]
+    },
+    {
+      "kind": "awards",
+      "heading": "The First Annual Garbage Crime Oscars",
+      "note": "Fennessey nominates, Ryan picks the winners",
+      "ceremony": "1st Annual Garbage Crime Oscars",
+      "categories": [
+        {
+          "name": "Best Supporting Actor",
+          "winner": "Snitch",
+          "nominees": [
+            {
+              "title": "Snitch",
+              "year": 2013,
+              "person": "Barry Pepper",
+              "note": "One of the all-time great goatees; the DEA scene with the Rock and Sarandon feels like a drug."
+            },
+            {
+              "title": "Sleepless",
+              "year": 2017,
+              "person": "Scoot McNairy",
+              "note": "Slick-back hair and a goatee are canon."
+            },
+            {
+              "title": "Contraband",
+              "year": 2012,
+              "person": "Giovanni Ribisi"
+            },
+            {
+              "title": "The Gunman",
+              "year": 2015,
+              "person": "Mark Rylance"
+            },
+            {
+              "title": "A Walk Among the Tombstones",
+              "year": 2014,
+              "person": "Dan Stevens"
+            }
+          ]
+        },
+        {
+          "name": "Best Supporting Actress",
+          "winner": "The Informer",
+          "nominees": [
+            {
+              "title": "The Informer",
+              "year": 2019,
+              "person": "Rosamund Pike",
+              "note": "Wins on the windbreakers alone. Special achievement in windbreakers."
+            },
+            {
+              "title": "21 Bridges",
+              "year": 2019,
+              "person": "Sienna Miller",
+              "note": "The most turned-up New York accent a British person has attempted."
+            },
+            {
+              "title": "The Accountant",
+              "year": 2016,
+              "person": "Anna Kendrick",
+              "note": "Plays it like she thinks she's in Pitch Perfect 4."
+            },
+            {
+              "title": "Bullet to the Head",
+              "year": 2012,
+              "person": "Sarah Shahi"
+            },
+            {
+              "title": "The Drop",
+              "year": 2014,
+              "person": "Noomi Rapace"
+            }
+          ]
+        },
+        {
+          "name": "Special Achievement Award",
+          "winner": "Easy Money",
+          "nominees": [
+            {
+              "title": "Easy Money",
+              "year": 2010,
+              "person": "Joel Kinnaman",
+              "note": "The Snabba Cash trilogy: Kinnaman's on-ramp into the American system, and a nod to the genre's easily translatable international wing."
+            }
+          ]
+        },
+        {
+          "name": "Best Actress",
+          "winner": "Triple 9",
+          "nominees": [
+            {
+              "title": "Triple 9",
+              "year": 2016,
+              "person": "Kate Winslet",
+              "note": "A Russian-Israeli mafioso, Hannibal Lecter meets Michael Corleone. The most gifted person to ever appear in one of these."
+            },
+            {
+              "title": "The Purge: Anarchy",
+              "year": 2014,
+              "person": "Carmen Ejogo"
+            },
+            {
+              "title": "Mile 22",
+              "year": 2018,
+              "person": "Lauren Cohan"
+            },
+            {
+              "title": "Sabotage",
+              "year": 2014,
+              "person": "Mireille Enos",
+              "note": "Cast against type as one of the most evil people in any of these movies."
+            },
+            {
+              "title": "Unknown",
+              "year": 2011,
+              "person": "Diane Kruger & January Jones"
+            }
+          ]
+        },
+        {
+          "name": "Best Actor",
+          "winner": "Brooklyn's Finest",
+          "nominees": [
+            {
+              "title": "Brooklyn's Finest",
+              "year": 2009,
+              "person": "Ethan Hawke",
+              "note": "Where the genre starts. 'I don't want God's forgiveness, I want his help.'"
+            },
+            {
+              "title": "Den of Thieves",
+              "year": 2018,
+              "person": "Gerard Butler & Pablo Schreiber",
+              "note": "Pantheon-level; truly believes."
+            },
+            {
+              "title": "Triple 9",
+              "year": 2016,
+              "person": "Casey Affleck"
+            },
+            {
+              "title": "Shot Caller",
+              "year": 2017,
+              "person": "Nikolaj Coster-Waldau",
+              "note": "Pivoted out of Game of Thrones into full-blown VOD lord."
+            },
+            {
+              "title": "Non-Stop",
+              "year": 2014,
+              "person": "Liam Neeson"
+            },
+            {
+              "title": "21 Bridges",
+              "year": 2019,
+              "person": "Chadwick Boseman",
+              "note": "Restrained Charles Bronson cool, the '70s version of a leading man. He'd have made eight more of these."
+            }
+          ]
+        },
+        {
+          "name": "Lifetime Achievement Award",
+          "winner": "Ricochet",
+          "nominees": [
+            {
+              "title": "Ricochet",
+              "year": 1991,
+              "person": "Denzel Washington",
+              "note": "Best at elevating this stuff, and at capping it so it's never too good. Ricochet is the favorite bad one."
+            }
+          ]
+        },
+        {
+          "name": "Best Director",
+          "winner": "Run All Night",
+          "nominees": [
+            {
+              "title": "Run All Night",
+              "year": 2015,
+              "person": "Jaume Collet-Serra",
+              "note": "Wins for the run of Neeson pictures: Unknown, Non-Stop, The Commuter."
+            },
+            {
+              "title": "Sicario: Day of the Soldado",
+              "year": 2018,
+              "person": "Stefano Sollima",
+              "note": "The best-looking movie in the field."
+            },
+            {
+              "title": "Contraband",
+              "year": 2012,
+              "person": "Baltasar Kormakur"
+            },
+            {
+              "title": "Wind River",
+              "year": 2017,
+              "person": "Taylor Sheridan"
+            },
+            {
+              "title": "The Last Stand",
+              "year": 2013,
+              "person": "Kim Jee-woon",
+              "note": "The Korean transplant's garbage-crime Arnold movie."
+            }
+          ]
+        },
+        {
+          "name": "Best Picture",
+          "winner": "Den of Thieves",
+          "nominees": [
+            {
+              "title": "Den of Thieves",
+              "year": 2018,
+              "note": "That first-20-minutes feeling of expectations rising as you watch."
+            },
+            {
+              "title": "Brooklyn's Finest",
+              "year": 2009
+            },
+            {
+              "title": "21 Bridges",
+              "year": 2019
+            },
+            {
+              "title": "Triple 9",
+              "year": 2016
+            },
+            {
+              "title": "A Walk Among the Tombstones",
+              "year": 2014
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Brandon Cronenberg on Possessor",
+      "guest": "Brandon Cronenberg on",
+      "films": [
+        {
+          "title": "Possessor",
+          "year": 2020,
+          "note": "The seed was a press-tour sense of being an imposter in his own life; the sci-fi built out from the domestic scenes. Real neuroscience (Jose Delgado's stim-o-ceivers) underpins it, used figuratively."
+        },
+        {
+          "title": "Antiviral",
+          "year": 2012,
+          "note": "His first feature, eight years earlier, grown out of a film-school short. People keep telling him it was the one to release now."
+        },
+        {
+          "title": "Infinity Pool",
+          "year": 2023,
+          "note": "Then in development: a tourist-resort satire with sci-fi horror elements. (A second project, Dragon, was also in the works.)"
+        },
+        {
+          "title": "Contagion",
+          "year": 2011,
+          "note": "The one that actually blew up on Netflix at the start of the pandemic."
+        },
+        {
+          "title": "Fail Safe",
+          "year": 1964,
+          "note": "The last great thing he saw: Lumet, caught on Criterion during quarantine."
+        },
+        {
+          "title": "The Offence",
+          "year": 1973,
+          "note": "Another Lumet he kept returning to; shoots a room full of people talking with rare dynamism."
+        },
+        {
+          "title": "Batman",
+          "year": 1966,
+          "note": "The Adam West movie he watched constantly as a kid. 'It's all the shark repellent in my films.'"
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The godfathers",
+      "films": [
+        "Heat",
+        "Thief",
+        "Collateral",
+        "Manhunter",
+        "Goodfellas",
+        "The Godfather",
+        "Mean Streets",
+        "Reservoir Dogs",
+        "Training Day",
+        "The Last Boy Scout",
+        "Man on Fire",
+        "The Fugitive",
+        "Under Siege",
+        "Highlander"
+      ]
+    },
+    {
+      "group": "Denzel & Wahlberg checks",
+      "films": [
+        "Safe House",
+        "2 Guns",
+        "The Equalizer",
+        "The Equalizer 2",
+        "The Magnificent Seven",
+        "Flight",
+        "Fences",
+        "Broken City",
+        "The Departed"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Speed",
+        "Lethal Weapon 2",
+        "Lethal Weapon 3",
+        "Tigerland",
+        "The Purge",
+        "Sicario",
+        "The Irishman",
+        "Argo",
+        "Knives Out",
+        "John Wick",
+        "Smokin' Aces",
+        "American Gangster",
+        "Street Kings",
+        "Wanted",
+        "Hell or High Water",
+        "Salt",
+        "The Guest",
+        "The Master",
+        "Frantic",
+        "The Shallows",
+        "Jungle Cruise",
+        "Inside Man",
+        "Fury",
+        "Suicide Squad",
+        "The Mechanic",
+        "Cut Throat City",
+        "The Ballad of Buster Scruggs",
+        "Ma Rainey's Black Bottom"
+      ]
+    },
+    {
+      "group": "Coming garbage crime",
+      "films": [
+        "Without Remorse",
+        "The Little Things",
+        "Those Who Wish Me Dead"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Safe House": 59961,
+    "Manhunter": 11454,
+    "The Magnificent Seven": 333484,
+    "Without Remorse": 567189
+  },
+  "excluded": {
+    "TV": [
+      "True Detective",
+      "The Night Of",
+      "The Shield",
+      "Justified",
+      "Narcos",
+      "Money Heist",
+      "Gangs of London",
+      "ZeroZeroZero",
+      "The Queen's Gambit",
+      "Big Love",
+      "The Walking Dead",
+      "Game of Thrones",
+      "Downton Abbey",
+      "Yellowstone",
+      "Two Guys, a Girl and a Pizza Place"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "FanDuel",
+      "NOS Energy",
+      "Netflix (FIFA World Cup game)",
+      "Carvana",
+      "Uber"
+    ]
+  },
+  "tmdb": {
+    "Den of Thieves": {
+      "id": 449443,
+      "poster": "/dAP5NpkrMMczir5dUPjRR6ywqgz.jpg",
+      "title": "Den of Thieves",
+      "year": 2018
+    },
+    "S.W.A.T.": {
+      "id": 9257,
+      "poster": "/bon63yPVIgUFLP2653Dg9GCOJLJ.jpg",
+      "title": "S.W.A.T.",
+      "year": 2003
+    },
+    "Jack Reacher: Never Go Back": {
+      "id": 343611,
+      "poster": "/cOg3UT2NYWHZxp41vpxAnVCOC4M.jpg",
+      "title": "Jack Reacher: Never Go Back",
+      "year": 2016
+    },
+    "Sicario: Day of the Soldado": {
+      "id": 400535,
+      "poster": "/qcLYofEhNh51Sk1jUWjmKHLzkqw.jpg",
+      "title": "Sicario: Day of the Soldado",
+      "year": 2018
+    },
+    "The Purge: Anarchy": {
+      "id": 238636,
+      "poster": "/qwqHHZLZSUvMkAMQ47ymtfjEifY.jpg",
+      "title": "The Purge: Anarchy",
+      "year": 2014
+    },
+    "The Dark Knight Rises": {
+      "id": 49026,
+      "poster": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+      "title": "The Dark Knight Rises",
+      "year": 2012
+    },
+    "Prisoners": {
+      "id": 146233,
+      "poster": "/uhviyknTT5cEQXbn6vWIqfM4vGm.jpg",
+      "title": "Prisoners",
+      "year": 2013
+    },
+    "The Town": {
+      "id": 23168,
+      "poster": "/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
+      "title": "The Town",
+      "year": 2010
+    },
+    "Nocturnal Animals": {
+      "id": 340666,
+      "poster": "/mdLDgQBD0va09npSQX5Zgo2evXM.jpg",
+      "title": "Nocturnal Animals",
+      "year": 2016
+    },
+    "Blackhat": {
+      "id": 201088,
+      "poster": "/7zu6HPnKPjNA7NuR4DGRdaH0PdX.jpg",
+      "title": "Blackhat",
+      "year": 2015
+    },
+    "The Accountant": {
+      "id": 302946,
+      "poster": "/fceheXB5fC4WrLVuWJ6OZv9FXYr.jpg",
+      "title": "The Accountant",
+      "year": 2016
+    },
+    "Spenser Confidential": {
+      "id": 581600,
+      "poster": "/fePczipv6ZzDO2uoww4vTAu2Sq3.jpg",
+      "title": "Spenser Confidential",
+      "year": 2020
+    },
+    "Mile 22": {
+      "id": 347375,
+      "poster": "/2L8ehd95eSW9x7KINYtZmRkAlrZ.jpg",
+      "title": "Mile 22",
+      "year": 2018
+    },
+    "21 Bridges": {
+      "id": 535292,
+      "poster": "/kDlmrGZROewneCoSwPjKx6Qfown.jpg",
+      "title": "21 Bridges",
+      "year": 2019
+    },
+    "The Informer": {
+      "id": 466081,
+      "poster": "/pbGveUC8mk0QRkdXpERPLbMFnrg.jpg",
+      "title": "The Informer",
+      "year": 2019
+    },
+    "Snitch": {
+      "id": 134411,
+      "poster": "/1suKSCm8gVUIIOh4MgtWAtzkMe4.jpg",
+      "title": "Snitch",
+      "year": 2013
+    },
+    "Sleepless": {
+      "id": 324542,
+      "poster": "/9WkUSY33MDPGmz0vtzbsfaxTHVa.jpg",
+      "title": "Sleepless",
+      "year": 2017
+    },
+    "Contraband": {
+      "id": 77866,
+      "poster": "/c9NQDANheSz887myHeMocUKQ5Je.jpg",
+      "title": "Contraband",
+      "year": 2012
+    },
+    "The Gunman": {
+      "id": 266396,
+      "poster": "/lnUozDnDANTsDYEdsNsHC6b8IiS.jpg",
+      "title": "The Gunman",
+      "year": 2015
+    },
+    "A Walk Among the Tombstones": {
+      "id": 169917,
+      "poster": "/euPgyPsiNFp6gOBB7nUFxvN5ZaY.jpg",
+      "title": "A Walk Among the Tombstones",
+      "year": 2014
+    },
+    "Bullet to the Head": {
+      "id": 70074,
+      "poster": "/arJfxShfuZPhqfBZZU6DkPZfnjn.jpg",
+      "title": "Bullet to the Head",
+      "year": 2012
+    },
+    "The Drop": {
+      "id": 154400,
+      "poster": "/olQInYvVCW2wycMSU1ogo9Jshml.jpg",
+      "title": "The Drop",
+      "year": 2014
+    },
+    "Easy Money": {
+      "id": 29920,
+      "poster": "/ezx8LhhpZd6U4sd0lXyCEUhIBUc.jpg",
+      "title": "Easy Money",
+      "year": 2010
+    },
+    "Triple 9": {
+      "id": 146198,
+      "poster": "/q2kIq9yzEkOVhl1aeo0alJHtdfz.jpg",
+      "title": "Triple 9",
+      "year": 2016
+    },
+    "Sabotage": {
+      "id": 144336,
+      "poster": "/ygG17WukZCidKm7wGM3Zzrr5WRi.jpg",
+      "title": "Sabotage",
+      "year": 2014
+    },
+    "Unknown": {
+      "id": 48138,
+      "poster": "/aXBQD515okXQZmYA89ntXMvSJSd.jpg",
+      "title": "Unknown",
+      "year": 2011
+    },
+    "Brooklyn's Finest": {
+      "id": 26390,
+      "poster": "/9ZyJJpMsc3bF8gduDaxo0zo1gwK.jpg",
+      "title": "Brooklyn's Finest",
+      "year": 2010
+    },
+    "Shot Caller": {
+      "id": 339692,
+      "poster": "/qLmLz2wtyYvmW8Ult3l2ngOnW8v.jpg",
+      "title": "Shot Caller",
+      "year": 2017
+    },
+    "Non-Stop": {
+      "id": 225574,
+      "poster": "/Nkgaj3X0W2jHQ1TzHEgWFpN3kJ.jpg",
+      "title": "Non-Stop",
+      "year": 2014
+    },
+    "Ricochet": {
+      "id": 9546,
+      "poster": "/5isHYEcUY0nE90uMhkGrs1nnal.jpg",
+      "title": "Ricochet",
+      "year": 1991
+    },
+    "Run All Night": {
+      "id": 241554,
+      "poster": "/iGvSMoPbWZWDnIhh54yiq3sW7wH.jpg",
+      "title": "Run All Night",
+      "year": 2015
+    },
+    "Wind River": {
+      "id": 395834,
+      "poster": "/pySivdR845Hom4u4T2WNkJxe6Ad.jpg",
+      "title": "Wind River",
+      "year": 2017
+    },
+    "The Last Stand": {
+      "id": 76640,
+      "poster": "/3tP4r47v8v6mEj5X5RuG9y8Frbh.jpg",
+      "title": "The Last Stand",
+      "year": 2013
+    },
+    "Possessor": {
+      "id": 435615,
+      "poster": "/xC9GZeJZ3NagdkGg9nLQx0aPG6J.jpg",
+      "title": "Possessor",
+      "year": 2020
+    },
+    "Antiviral": {
+      "id": 125490,
+      "poster": "/rIn0ruFDU8psnCGkPgA9fbKJJUy.jpg",
+      "title": "Antiviral",
+      "year": 2012
+    },
+    "Infinity Pool": {
+      "id": 667216,
+      "poster": "/cQKyNm0Nz6KWiDBQF9w4aZAmOfC.jpg",
+      "title": "Infinity Pool",
+      "year": 2023
+    },
+    "Contagion": {
+      "id": 39538,
+      "poster": "/qL0IooP0bjXy0KXl9KEyPo22ll0.jpg",
+      "title": "Contagion",
+      "year": 2011
+    },
+    "Fail Safe": {
+      "id": 502,
+      "poster": "/qrsj5hort5xkLOKw9NyraGMnlVP.jpg",
+      "title": "Fail Safe",
+      "year": 1964
+    },
+    "The Offence": {
+      "id": 32615,
+      "poster": "/cmuvg6tGCKayTFidJgg1iYhrOop.jpg",
+      "title": "The Offence",
+      "year": 1973
+    },
+    "Batman": {
+      "id": 2661,
+      "poster": "/zzoPxWHnPa0eyfkMLgwbNvdEcVF.jpg",
+      "title": "Batman",
+      "year": 1966
+    },
+    "Heat": {
+      "id": 949,
+      "poster": "/e09dLw1Ljtccd2P4NsuUvVtS5du.jpg",
+      "title": "Heat",
+      "year": 1995
+    },
+    "Thief": {
+      "id": 11524,
+      "poster": "/bpjRGwfYJ71bU0hNhLIz7g3t6Oy.jpg",
+      "title": "Thief",
+      "year": 1981
+    },
+    "Collateral": {
+      "id": 1538,
+      "poster": "/nV5316WUsVij8sVXLCF1g7TFitg.jpg",
+      "title": "Collateral",
+      "year": 2004
+    },
+    "Manhunter": {
+      "id": 11454,
+      "poster": "/6rb24x39vV8n5301IelC8rCPJTH.jpg",
+      "title": "Manhunter",
+      "year": 1986
+    },
+    "Goodfellas": {
+      "id": 769,
+      "poster": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+      "title": "GoodFellas",
+      "year": 1990
+    },
+    "The Godfather": {
+      "id": 238,
+      "poster": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "title": "The Godfather",
+      "year": 1972
+    },
+    "Mean Streets": {
+      "id": 203,
+      "poster": "/9msfwOeGc9uL1iRRTBdEf15XonC.jpg",
+      "title": "Mean Streets",
+      "year": 1973
+    },
+    "Reservoir Dogs": {
+      "id": 500,
+      "poster": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+      "title": "Reservoir Dogs",
+      "year": 1992
+    },
+    "Training Day": {
+      "id": 2034,
+      "poster": "/bUeiwBQdupBLQthMCHKV7zv56uv.jpg",
+      "title": "Training Day",
+      "year": 2001
+    },
+    "The Last Boy Scout": {
+      "id": 9319,
+      "poster": "/glPswihcZYoAQ4YM2uJF4UACy8T.jpg",
+      "title": "The Last Boy Scout",
+      "year": 1991
+    },
+    "Man on Fire": {
+      "id": 9509,
+      "poster": "/grCGLCcTHv9TChibzOwzUpykcjB.jpg",
+      "title": "Man on Fire",
+      "year": 2004
+    },
+    "The Fugitive": {
+      "id": 5503,
+      "poster": "/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg",
+      "title": "The Fugitive",
+      "year": 1993
+    },
+    "Under Siege": {
+      "id": 8845,
+      "poster": "/myHxm9p8fhEsXyaLO6DawYJKolg.jpg",
+      "title": "Under Siege",
+      "year": 1992
+    },
+    "Highlander": {
+      "id": 8009,
+      "poster": "/8Z8dptJEypuLoOQro1WugD855YE.jpg",
+      "title": "Highlander",
+      "year": 1986
+    },
+    "Safe House": {
+      "id": 59961,
+      "poster": "/7CBhSjQa07LYt0RGejYjWugGmdV.jpg",
+      "title": "Safe House",
+      "year": 2012
+    },
+    "2 Guns": {
+      "id": 136400,
+      "poster": "/ptURGAFktibhk7DEAbMazlmNqWa.jpg",
+      "title": "2 Guns",
+      "year": 2013
+    },
+    "The Equalizer": {
+      "id": 156022,
+      "poster": "/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg",
+      "title": "The Equalizer",
+      "year": 2014
+    },
+    "The Equalizer 2": {
+      "id": 345887,
+      "poster": "/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg",
+      "title": "The Equalizer 2",
+      "year": 2018
+    },
+    "The Magnificent Seven": {
+      "id": 333484,
+      "poster": "/ezcS78TIjgr85pVdaPDd2rSPVNs.jpg",
+      "title": "The Magnificent Seven",
+      "year": 2016
+    },
+    "Flight": {
+      "id": 87502,
+      "poster": "/tFsHDNclXoCKy2xMxskzXXMaFJS.jpg",
+      "title": "Flight",
+      "year": 2012
+    },
+    "Fences": {
+      "id": 393457,
+      "poster": "/8NvnB8aeWQvBEz2ruN4g313j991.jpg",
+      "title": "Fences",
+      "year": 2016
+    },
+    "Broken City": {
+      "id": 98357,
+      "poster": "/hqa5FwNZC55zqSpdeGFtBDqw55y.jpg",
+      "title": "Broken City",
+      "year": 2013
+    },
+    "The Departed": {
+      "id": 1422,
+      "poster": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+      "title": "The Departed",
+      "year": 2006
+    },
+    "Speed": {
+      "id": 1637,
+      "poster": "/82PkCE4R95KhHICUDF7G4Ly2z3l.jpg",
+      "title": "Speed",
+      "year": 1994
+    },
+    "Lethal Weapon 2": {
+      "id": 942,
+      "poster": "/v04YGBUiGMoqxWqjPJrQUfRImFp.jpg",
+      "title": "Lethal Weapon 2",
+      "year": 1989
+    },
+    "Lethal Weapon 3": {
+      "id": 943,
+      "poster": "/efOCSdTquRGQFTpTsLYApfBWmJK.jpg",
+      "title": "Lethal Weapon 3",
+      "year": 1992
+    },
+    "Tigerland": {
+      "id": 10687,
+      "poster": "/pnFdCvxxL44sPLkKEIJCUaIZa7M.jpg",
+      "title": "Tigerland",
+      "year": 2000
+    },
+    "The Purge": {
+      "id": 158015,
+      "poster": "/46X1ei9uf13nkkr0OhWldGyr5Uh.jpg",
+      "title": "The Purge",
+      "year": 2013
+    },
+    "Sicario": {
+      "id": 273481,
+      "poster": "/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+      "title": "Sicario",
+      "year": 2015
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Argo": {
+      "id": 68734,
+      "poster": "/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
+      "title": "Argo",
+      "year": 2012
+    },
+    "Knives Out": {
+      "id": 546554,
+      "poster": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+      "title": "Knives Out",
+      "year": 2019
+    },
+    "John Wick": {
+      "id": 245891,
+      "poster": "/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
+      "title": "John Wick",
+      "year": 2014
+    },
+    "Smokin' Aces": {
+      "id": 7516,
+      "poster": "/nrdnN8WqvyOt8Bnl3hgWcZD6ZyM.jpg",
+      "title": "Smokin' Aces",
+      "year": 2006
+    },
+    "American Gangster": {
+      "id": 4982,
+      "poster": "/sX9idXDqRUxE5ffww3n3RV5gL55.jpg",
+      "title": "American Gangster",
+      "year": 2007
+    },
+    "Street Kings": {
+      "id": 1266,
+      "poster": "/iTO7sBfVTr7LUqiFtGeFW7g2Ncf.jpg",
+      "title": "Street Kings",
+      "year": 2008
+    },
+    "Wanted": {
+      "id": 8909,
+      "poster": "/njy7Pz7ZHZceO7lNfGIHKphY8Hd.jpg",
+      "title": "Wanted",
+      "year": 2008
+    },
+    "Hell or High Water": {
+      "id": 338766,
+      "poster": "/ljRRxqy2aXIkIBXLmOVifcOR021.jpg",
+      "title": "Hell or High Water",
+      "year": 2016
+    },
+    "Salt": {
+      "id": 27576,
+      "poster": "/ppXyhOe8UCEOrBRSYqE3SkHwrcR.jpg",
+      "title": "Salt",
+      "year": 2010
+    },
+    "The Guest": {
+      "id": 241848,
+      "poster": "/gvlEFHu9FuYLmBZwsARTtuNIiDO.jpg",
+      "title": "The Guest",
+      "year": 2014
+    },
+    "The Master": {
+      "id": 68722,
+      "poster": "/rUSjbyvYWN9H4az8xt0tDtU7I6v.jpg",
+      "title": "The Master",
+      "year": 2012
+    },
+    "Frantic": {
+      "id": 10675,
+      "poster": "/QExlx41lQEizHpPq7FxYw6zpak.jpg",
+      "title": "Frantic",
+      "year": 1988
+    },
+    "The Shallows": {
+      "id": 332567,
+      "poster": "/bnBV7hZmLuA0Si5Aop481sPF2RY.jpg",
+      "title": "The Shallows",
+      "year": 2016
+    },
+    "Jungle Cruise": {
+      "id": 451048,
+      "poster": "/yKy9ELL8CON5sqDg4yIvBb5LTZL.jpg",
+      "title": "Jungle Cruise",
+      "year": 2021
+    },
+    "Inside Man": {
+      "id": 388,
+      "poster": "/ffMUgkDZICNiyaws1Jkv8qG8uFW.jpg",
+      "title": "Inside Man",
+      "year": 2006
+    },
+    "Fury": {
+      "id": 228150,
+      "poster": "/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg",
+      "title": "Fury",
+      "year": 2014
+    },
+    "Suicide Squad": {
+      "id": 297761,
+      "poster": "/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg",
+      "title": "Suicide Squad",
+      "year": 2016
+    },
+    "The Mechanic": {
+      "id": 27582,
+      "poster": "/k37axEHszFP9WOVvbozxF0r7X7g.jpg",
+      "title": "The Mechanic",
+      "year": 2011
+    },
+    "Cut Throat City": {
+      "id": 493065,
+      "poster": "/9702nIZf5EVxS3FrzycamQUlSjw.jpg",
+      "title": "Cut Throat City",
+      "year": 2020
+    },
+    "The Ballad of Buster Scruggs": {
+      "id": 537996,
+      "poster": "/voxl654m7p36y8FLu8oQD7dfwwK.jpg",
+      "title": "The Ballad of Buster Scruggs",
+      "year": 2018
+    },
+    "Ma Rainey's Black Bottom": {
+      "id": 615667,
+      "poster": "/pvtyxijaBrCSbByXLcUIDDSvc40.jpg",
+      "title": "Ma Rainey's Black Bottom",
+      "year": 2020
+    },
+    "Without Remorse": {
+      "id": 567189,
+      "poster": "/6OnlqShdRinhJwV1uGiRE70lD63.jpg",
+      "title": "Tom Clancy's Without Remorse",
+      "year": 2021
+    },
+    "The Little Things": {
+      "id": 602269,
+      "poster": "/tLO1aD1ghdtVMT32z2sRmzgYKYd.jpg",
+      "title": "The Little Things",
+      "year": 2021
+    },
+    "Those Who Wish Me Dead": {
+      "id": 578701,
+      "poster": "/xCEg6KowNISWvMh8GvPSxtdf9TO.jpg",
+      "title": "Those Who Wish Me Dead",
+      "year": 2021
+    }
+  }
+}

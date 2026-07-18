@@ -1,0 +1,382 @@
+{
+  "slug": "dazed-and-confused-making-a-modern-movie-classic-with-richar",
+  "title": "‘Dazed and Confused’: Making a Modern Movie Classic, With Richard Linklater",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2020-11-06",
+  "runtimeMin": 99,
+  "format": "Sean and Amanda each rank their five favorite Richard Linklater films, then Sean talks to the director and 'Alright, Alright, Alright' author Melissa Maerz about how Dazed and Confused got made.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The case for Richard Linklater",
+      "note": "Sean and Amanda on the filmography",
+      "films": [
+        {
+          "title": "Slacker",
+          "year": 1990,
+          "note": "His first feature, made 30 years ago. Sean calls it one of the most important American independent movies ever made: non-linear, plotless, a tapestry of Austin voices that adds up to a thesis statement about form."
+        },
+        {
+          "title": "The Newton Boys",
+          "year": 1998,
+          "note": "A late-'90s crime-comedy with McConaughey, Ethan Hawke, and Skeet Ulrich. Sean's example of Linklater trying something mainstream in his own style, off both hosts' lists."
+        },
+        {
+          "title": "School of Rock",
+          "year": 2003,
+          "note": "The more successful version of that mainstream swing. Neither host puts it in a top five; Amanda notes the Jack Black online fandom she'd rather not provoke."
+        },
+        {
+          "title": "Fast Food Nation",
+          "year": 2006,
+          "note": "The issues-oriented drama Sean says didn't land as well, cited as proof of how far Linklater will stretch tone and genre."
+        },
+        {
+          "title": "Waking Life",
+          "year": 2001,
+          "note": "The rotoscoped, openly philosophical film Sean holds up as Linklater building an elaborate form around emotionally direct material."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Sean's top five Linklater films",
+      "subject": "Richard Linklater",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Dazed and Confused",
+          "year": 1993,
+          "note": "No. 1. Sean calls it a perfect movie he never doesn't want to watch, ahead of even The Godfather or Jaws, and thinks that's down to when he first saw it."
+        },
+        {
+          "title": "Before Sunset",
+          "year": 2004,
+          "note": "No. 2. He takes Sunset over Sunrise because it feels real: a broken Hawke at a crossroads, the car conversation, the final scene where Delpy sings and the baby's going to miss the plane."
+        },
+        {
+          "title": "Everybody Wants Some!!",
+          "year": 2016,
+          "note": "No. 3 for Sean, No. 5 for Amanda. The spiritual sequel to Dazed; a movie about male chemistry and the pleasure of a good hang, bungled by the studio and now slowly finding its cult."
+        },
+        {
+          "title": "A Scanner Darkly",
+          "year": 2006,
+          "note": "No. 4. The rotoscoped Philip K. Dick adaptation with Keanu Reeves and Robert Downey Jr., Sean's stand-in for Linklater's willingness to take a hard left turn and not fear failing."
+        },
+        {
+          "title": "Boyhood",
+          "year": 2014,
+          "note": "No. 5. Shot over 12 years with Ellar Coltrane and an Oscar-winning Patricia Arquette. Sean was crying on the rewatch; he's less sure it's a great film than a special accomplishment."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Amanda's top five Linklater films",
+      "subject": "Richard Linklater",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Before Sunrise",
+          "year": 1995,
+          "note": "No. 1. She's a Sunrise person: it stands on its own, the two leads are on the most even footing, and it captures the goofy, overly verbal hope of falling in love."
+        },
+        {
+          "title": "Dazed and Confused",
+          "year": 1993,
+          "note": "No. 2. A perfect film that replaced history for her even without any nostalgia for the '70s or high school, which is why it lands at two instead of one."
+        },
+        {
+          "title": "Before Sunset",
+          "year": 2004,
+          "note": "No. 3. Written with Hawke and Delpy, it carries their real lives into it; she calls the trilogy some of the best portrayals of falling in and out of love ever made."
+        },
+        {
+          "title": "Before Midnight",
+          "year": 2013,
+          "note": "No. 4. The fight scene gets at how couples actually fight; she calls the film a horror movie. It's fourth only because she's aware of the writing, so it plays more like a play."
+        },
+        {
+          "title": "Everybody Wants Some!!",
+          "year": 2016,
+          "note": "No. 5. His most honest and, for her, most pleasurable movie: charming athletes who just want to hang out. She wonders if it'd be a Netflix top 10 hit today."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Elsewhere in the filmography",
+      "note": "honorable mentions and near-misses",
+      "films": [
+        {
+          "title": "Bernie",
+          "year": 2011,
+          "note": "The Jack Black and Matthew McConaughey movie Sean rates among Linklater's best."
+        },
+        {
+          "title": "Last Flag Flying",
+          "year": 2017,
+          "note": "Underrated in Sean's view, a spiritual sequel to Hal Ashby's The Last Detail."
+        },
+        {
+          "title": "Where'd You Go, Bernadette",
+          "year": 2019,
+          "note": "Sean's honorable mention: a fascinating experiment that doesn't quite come together, with a Cate Blanchett performance he likes a lot. The Bernadette character shuts herself off from the world, which he thinks is finally at odds with Linklater's outward-reaching people."
+        },
+        {
+          "title": "SubUrbia",
+          "year": 1996,
+          "note": "The Eric Bogosian play he adapted, not a perfect movie, but a portrait of late-'90s indie cinema after Dazed and Before Sunrise."
+        },
+        {
+          "title": "Me and Orson Welles",
+          "year": 2008,
+          "note": "About Welles running the Mercury Theater, made well before Mank, and an early Zac Efron role."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "‘Dazed and Confused’ in 2020",
+      "note": "Sean and Amanda on the centerpiece",
+      "films": [
+        {
+          "title": "Dazed and Confused",
+          "year": 1993,
+          "note": "Both hosts call it a perfect film. Sean says it worked as a field guide for how to be a young person; Amanda, with no nostalgia for the '70s or high school, argues its craft (every cue and every actor right) makes it feel lived-in anyway. Both flag how little attention the female characters get, and single out Parker Posey's performance."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "note": "Richard Linklater and Melissa Maerz on the oral history",
+      "guest": "Richard Linklater & Melissa Maerz on",
+      "films": [
+        {
+          "title": "Dazed and Confused",
+          "year": 1993,
+          "note": "Maerz's book 'Alright, Alright, Alright' started from Linklater calling it an intended anti-nostalgia movie that became the ultimate nostalgia movie. He walks through the early, much darker draft, the freshman hazing the town came out to watch, the studio treating it as an indie release after he'd gone through studio hell, and losing the Led Zeppelin song he wanted."
+        },
+        {
+          "title": "School of Rock",
+          "year": 2003,
+          "note": "Ten years later, Linklater finally landed a Led Zeppelin song here, his 'redemptive cycle' after the fight over Dazed's soundtrack."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Held up for comparison",
+      "films": [
+        "The Godfather",
+        "Jaws",
+        "Jurassic Park",
+        "Psycho",
+        "The Last Detail",
+        "Kicking and Screaming",
+        "Mank",
+        "Argo",
+        "The Good Son",
+        "The Irishman",
+        "Chinatown"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "School of Rock": 1584
+  },
+  "excluded": {
+    "TV": [
+      "You"
+    ],
+    "Games": [
+      "FIFA World Cup Launch Edition"
+    ],
+    "Ads": [
+      "Netflix",
+      "Boar's Head",
+      "NOS Energy",
+      "FanDuel",
+      "Carvana",
+      "Botox"
+    ]
+  },
+  "tmdb": {
+    "Slacker": {
+      "id": 14022,
+      "poster": "/f7Iov2nd0XX9bp2laQEPYPEhisc.jpg",
+      "title": "Slacker",
+      "year": 1990
+    },
+    "The Newton Boys": {
+      "id": 42807,
+      "poster": "/v3VuDClmFZNjfI6YLTkeinae9HK.jpg",
+      "title": "The Newton Boys",
+      "year": 1998
+    },
+    "School of Rock": {
+      "id": 1584,
+      "poster": "/zXLXaepIBvFVLU25DH3wv4IPSbe.jpg",
+      "title": "The School of Rock",
+      "year": 2003
+    },
+    "Fast Food Nation": {
+      "id": 8324,
+      "poster": "/vcRgWIj4p6FtezgZTl4YoxYbSJ7.jpg",
+      "title": "Fast Food Nation",
+      "year": 2006
+    },
+    "Waking Life": {
+      "id": 9081,
+      "poster": "/2MRM4PL6H7yraAkwyUEe2EqoQH3.jpg",
+      "title": "Waking Life",
+      "year": 2001
+    },
+    "Dazed and Confused": {
+      "id": 9571,
+      "poster": "/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+      "title": "Dazed and Confused",
+      "year": 1993
+    },
+    "Before Sunset": {
+      "id": 80,
+      "poster": "/4sW5XH9ZfYXpvFzev00S1IGAEbg.jpg",
+      "title": "Before Sunset",
+      "year": 2004
+    },
+    "Everybody Wants Some!!": {
+      "id": 295699,
+      "poster": "/vAIFZ8bw0spSvcIYgfuX99B3H2w.jpg",
+      "title": "Everybody Wants Some!!",
+      "year": 2016
+    },
+    "A Scanner Darkly": {
+      "id": 3509,
+      "poster": "/lUKudOpHICDj6A6SO7DdaZM4W48.jpg",
+      "title": "A Scanner Darkly",
+      "year": 2006
+    },
+    "Boyhood": {
+      "id": 85350,
+      "poster": "/2BvtvDUyxiMJ4dmKfiQf4qdOHQN.jpg",
+      "title": "Boyhood",
+      "year": 2014
+    },
+    "Before Sunrise": {
+      "id": 76,
+      "poster": "/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg",
+      "title": "Before Sunrise",
+      "year": 1995
+    },
+    "Before Midnight": {
+      "id": 132344,
+      "poster": "/qbGKJmNUroDz75kh5Oafoall89e.jpg",
+      "title": "Before Midnight",
+      "year": 2013
+    },
+    "Bernie": {
+      "id": 92591,
+      "poster": "/rW5CetooG545jpkPNpD4FjFAXfe.jpg",
+      "title": "Bernie",
+      "year": 2012
+    },
+    "Last Flag Flying": {
+      "id": 419709,
+      "poster": "/pizynKUzJ9YucGff1O1MYisY1WM.jpg",
+      "title": "Last Flag Flying",
+      "year": 2017
+    },
+    "Where'd You Go, Bernadette": {
+      "id": 405177,
+      "poster": "/BziuuZULnGmTRLthEty1QdKSEo.jpg",
+      "title": "Where'd You Go, Bernadette",
+      "year": 2019
+    },
+    "SubUrbia": {
+      "id": 28059,
+      "poster": "/7PdRbG09K9JHYyOwwCSn3OdJb0N.jpg",
+      "title": "SubUrbia",
+      "year": 1997
+    },
+    "Me and Orson Welles": {
+      "id": 12404,
+      "poster": "/jU7KFn4O1HLgzj9WkkmBkzJNPlN.jpg",
+      "title": "Me and Orson Welles",
+      "year": 2008
+    },
+    "The Godfather": {
+      "id": 238,
+      "poster": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "title": "The Godfather",
+      "year": 1972
+    },
+    "Jaws": {
+      "id": 578,
+      "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "title": "Jaws",
+      "year": 1975
+    },
+    "Jurassic Park": {
+      "id": 329,
+      "poster": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "title": "Jurassic Park",
+      "year": 1993
+    },
+    "Psycho": {
+      "id": 539,
+      "poster": "/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+      "title": "Psycho",
+      "year": 1960
+    },
+    "The Last Detail": {
+      "id": 14886,
+      "poster": "/zQoNkO99qfaBjh5aoA0pKau1prp.jpg",
+      "title": "The Last Detail",
+      "year": 1973
+    },
+    "Kicking and Screaming": {
+      "id": 28387,
+      "poster": "/ynAtSpTou7snNOq32djzILw9VCA.jpg",
+      "title": "Kicking and Screaming",
+      "year": 1995
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "Argo": {
+      "id": 68734,
+      "poster": "/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
+      "title": "Argo",
+      "year": 2012
+    },
+    "The Good Son": {
+      "id": 9272,
+      "poster": "/6jZ1eef6SCVSMb4o1pSHHq84Nyf.jpg",
+      "title": "The Good Son",
+      "year": 1993
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Chinatown": {
+      "id": 829,
+      "poster": "/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg",
+      "title": "Chinatown",
+      "year": 1974
+    }
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "slug": "the-killer-is-cold-blooded-genius-and-something-more",
+  "title": "‘The Killer’ Is Cold-Blooded Genius. And Something More",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2023-11-10",
+  "runtimeMin": 91,
+  "format": "Sean and Amanda, joined first by Chris Ryan and then by Adam Nayman, spend the full episode on David Fincher's The Killer, arguing over how much feeling is actually hiding inside all that control.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "The Killer",
+      "note": "with Chris Ryan",
+      "films": [
+        {
+          "title": "The Killer",
+          "year": 2023,
+          "note": "Michael Fassbender's assassin botches a Paris hit, then works his way down the list of people responsible for the fallout. Andrew Kevin Walker wrote the voiceover-heavy script; Fincher scores nearly every kill to the Smiths off an iPod Nano work playlist. Sean and Amanda call it their favorite movie of the year and read it as a confession dressed up as a thriller; Chris pushes back that it's really about failure, not love."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Adam Nayman on",
+      "films": [
+        {
+          "title": "The Killer",
+          "year": 2023,
+          "note": "Nayman, who's written a book on Fincher, argues the movie keeps undercutting its own myth of total control. Charles Parnell's character dies before the six to seven minutes Fassbender calculated, and the dog gets the wrong dose. He compares the Tilda Swinton dinner scene to Benjamin Button and calls Fight Club the closest sibling: two movies about sociopaths whose narration insists you're on their side."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "David Fincher's filmography",
+      "films": [
+        "Fight Club",
+        "Se7en",
+        "Gone Girl",
+        "Mank",
+        "Alien 3",
+        "The Girl with the Dragon Tattoo",
+        "The Social Network",
+        "The Curious Case of Benjamin Button"
+      ]
+    },
+    {
+      "group": "Netflix's prestige run",
+      "films": [
+        "The Irishman",
+        "The Ballad of Buster Scruggs",
+        "Roma",
+        "Killers of the Flower Moon",
+        "Marriage Story"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Rear Window",
+        "Top Gun: Maverick",
+        "Mission: Impossible – Dead Reckoning Part One",
+        "John Wick: Chapter 4",
+        "The Iron Claw",
+        "Private Benjamin",
+        "Room 237",
+        "The Pigeon Tunnel",
+        "The Cable Guy",
+        "Ferrari"
+      ]
+    },
+    {
+      "group": "Coming up",
+      "films": [
+        "The Marvels"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Alien 3": 8077
+  },
+  "excluded": {
+    "TV": [
+      "House of Cards",
+      "Mindhunter",
+      "Loki",
+      "The Curse"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "TalkAboutPD.com",
+      "FanDuel",
+      "Carvana",
+      "Netflix: FIFA World Cup Launch Edition"
+    ]
+  },
+  "tmdb": {
+    "The Killer": {
+      "id": 800158,
+      "poster": "/ipkcgvN7h3yZnbYowthloHLKsf4.jpg",
+      "title": "The Killer",
+      "year": 2023
+    },
+    "Fight Club": {
+      "id": 550,
+      "poster": "/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+      "title": "Fight Club",
+      "year": 1999
+    },
+    "Se7en": {
+      "id": 807,
+      "poster": "/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+      "title": "Se7en",
+      "year": 1995
+    },
+    "Gone Girl": {
+      "id": 210577,
+      "poster": "/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+      "title": "Gone Girl",
+      "year": 2014
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "Alien 3": {
+      "id": 8077,
+      "poster": "/xh5wI0UoW7DfS1IyLy3d2CgrCEP.jpg",
+      "title": "Alien³",
+      "year": 1992
+    },
+    "The Girl with the Dragon Tattoo": {
+      "id": 65754,
+      "poster": "/8bokS83zGdhaXgN9tjidUKmAftW.jpg",
+      "title": "The Girl with the Dragon Tattoo",
+      "year": 2011
+    },
+    "The Social Network": {
+      "id": 37799,
+      "poster": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+      "title": "The Social Network",
+      "year": 2010
+    },
+    "The Curious Case of Benjamin Button": {
+      "id": 4922,
+      "poster": "/26wEWZYt6yJkwRVkjcbwJEFh9IS.jpg",
+      "title": "The Curious Case of Benjamin Button",
+      "year": 2008
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "The Ballad of Buster Scruggs": {
+      "id": 537996,
+      "poster": "/voxl654m7p36y8FLu8oQD7dfwwK.jpg",
+      "title": "The Ballad of Buster Scruggs",
+      "year": 2018
+    },
+    "Roma": {
+      "id": 426426,
+      "poster": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+      "title": "Roma",
+      "year": 2018
+    },
+    "Killers of the Flower Moon": {
+      "id": 466420,
+      "poster": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+      "title": "Killers of the Flower Moon",
+      "year": 2023
+    },
+    "Marriage Story": {
+      "id": 492188,
+      "poster": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+      "title": "Marriage Story",
+      "year": 2019
+    },
+    "Rear Window": {
+      "id": 567,
+      "poster": "/ILVF0eJxHMddjxeQhswFtpMtqx.jpg",
+      "title": "Rear Window",
+      "year": 1954
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Mission: Impossible – Dead Reckoning Part One": {
+      "id": 575264,
+      "poster": "/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "year": 2023
+    },
+    "John Wick: Chapter 4": {
+      "id": 603692,
+      "poster": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+      "title": "John Wick: Chapter 4",
+      "year": 2023
+    },
+    "The Iron Claw": {
+      "id": 850165,
+      "poster": "/s2VLjcykJfwplJNGT5iEeCA0mRx.jpg",
+      "title": "The Iron Claw",
+      "year": 2023
+    },
+    "Private Benjamin": {
+      "id": 10765,
+      "poster": "/maIiPNXddZXKHQCi0HyULd5kces.jpg",
+      "title": "Private Benjamin",
+      "year": 1980
+    },
+    "Room 237": {
+      "id": 84330,
+      "poster": "/wPXxJSz36VjAkxa4MZ0C28uOdwA.jpg",
+      "title": "Room 237",
+      "year": 2012
+    },
+    "The Pigeon Tunnel": {
+      "id": 1155770,
+      "poster": "/xsDb7JlPS6QnI26bTP3sREz9n0K.jpg",
+      "title": "The Pigeon Tunnel",
+      "year": 2023
+    },
+    "The Cable Guy": {
+      "id": 9894,
+      "poster": "/YJt9l3RdrRohI95btQKPXwpdii.jpg",
+      "title": "The Cable Guy",
+      "year": 1996
+    },
+    "Ferrari": {
+      "id": 365620,
+      "poster": "/LyCOcGqOTyTmaXu2TK8LfGveIb.jpg",
+      "title": "Ferrari",
+      "year": 2023
+    },
+    "The Marvels": {
+      "id": 609681,
+      "poster": "/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
+      "title": "The Marvels",
+      "year": 2023
+    }
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "slug": "the-safdie-brothers-and-good-time-an-instant-new-york-classi",
+  "title": "The Safdie Brothers and ‘Good Time,’ an Instant New York Classic | The Big Picture (Ep. 21)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2017-08-11",
+  "runtimeMin": 34,
+  "format": "Sean talks to K. Austin Collins about why 'Good Time' feels like an instant New York classic, then gets Josh and Benny Safdie on the phone to talk shooting without permits, casting Benny instead of a disabled actor, and what's next with 'Uncut Gems.'",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "K. Austin Collins on ‘Good Time’",
+      "guest": "K. Austin Collins on",
+      "films": [
+        {
+          "title": "Good Time",
+          "year": 2017,
+          "note": "Collins calls it a New York City instant classic, drawn to the texture of the streets rather than the monuments. Cinematographer Sean Price Williams bounces color off Robert Pattinson's face, and Collins compares the performance to Pacino's intensity."
+        },
+        {
+          "title": "Dog Day Afternoon",
+          "year": 1975,
+          "note": "Collins' clearest parallel: brothers, bank robbers, a hostage situation spiraling out of control."
+        },
+        {
+          "title": "The Panic in Needle Park",
+          "year": 1971,
+          "note": "What Collins says Good Time's sense of place recalls from an earlier New York."
+        },
+        {
+          "title": "Heaven Knows What",
+          "year": 2015,
+          "note": "The Safdies' previous film, built from Arielle Holmes' memoir, with Holmes playing herself."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Josh and Benny Safdie on ‘Good Time’",
+      "guest": "Josh and Benny Safdie on",
+      "films": [
+        {
+          "title": "Good Time",
+          "year": 2017,
+          "note": "Shot over 37 days, often stealing shots even where they had permits, including a chase through Flushing's New World Mall while it stayed open. They wrote Connie's and Nick's biographies from birth to the film's opening scene before writing a scene of the script itself."
+        },
+        {
+          "title": "Daddy Longlegs",
+          "year": 2010,
+          "note": "Their first feature. Josh: a critic once told him he wanted to see him get hit by a train."
+        },
+        {
+          "title": "Lenny Cooke",
+          "year": 2013,
+          "note": "Their basketball documentary. Benny says it taught them narrative: ‘you can't leave things out.’"
+        },
+        {
+          "title": "Heaven Knows What",
+          "year": 2015,
+          "note": "The film that got Robert Pattinson's attention off a single production still, before he'd seen the movie itself."
+        },
+        {
+          "title": "The Executioner's Song",
+          "year": 1982,
+          "note": "The Tommy Lee Jones TV movie they watched instead of reading Norman Mailer's thousand-page book, a touchstone for Good Time's prison material."
+        },
+        {
+          "title": "Rain Man",
+          "year": 1988,
+          "note": "The comparison Josh kept returning to: a brother pulled into a situation he didn't choose."
+        },
+        {
+          "title": "48 Hrs.",
+          "year": 1982,
+          "note": "One of the genre touchstones they cited when talking about the tradition they wanted Good Time to sit in."
+        },
+        {
+          "title": "After Hours",
+          "year": 1985,
+          "note": "Another cited touchstone."
+        },
+        {
+          "title": "The Running Man",
+          "year": 1987,
+          "note": "Another cited touchstone."
+        },
+        {
+          "title": "Adventureland",
+          "year": 2009,
+          "note": "A specific reference to it is written directly into Good Time's script."
+        },
+        {
+          "title": "Uncut Gems",
+          "year": 2019,
+          "note": "Their next film, in the works since 2010: Jonah Hill as a Diamond District jeweler whose gambling debts catch up with him."
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Cops"
+    ],
+    "Ads": [
+      "Miller Lite (Ringer sponsor)",
+      "The Rewatchables (Ringer podcast promo)"
+    ]
+  },
+  "tmdb": {
+    "Good Time": {
+      "id": 429200,
+      "poster": "/yE1c9hj5Hf8a9KplAdRdhADqUro.jpg",
+      "title": "Good Time",
+      "year": 2017
+    },
+    "Dog Day Afternoon": {
+      "id": 968,
+      "poster": "/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg",
+      "title": "Dog Day Afternoon",
+      "year": 1975
+    },
+    "The Panic in Needle Park": {
+      "id": 27554,
+      "poster": "/rhJ8Dnl6Z9KR9R2zskBKIfrFeFs.jpg",
+      "title": "The Panic in Needle Park",
+      "year": 1971
+    },
+    "Heaven Knows What": {
+      "id": 285024,
+      "poster": "/4oyWMOWJ6trsRuyzn5cHPv50zVH.jpg",
+      "title": "Heaven Knows What",
+      "year": 2015
+    },
+    "Daddy Longlegs": {
+      "id": 58251,
+      "poster": "/lnHRAJ5ucoIXDRCVxfdABpK60OS.jpg",
+      "title": "Daddy Longlegs",
+      "year": 2010
+    },
+    "Lenny Cooke": {
+      "id": 174374,
+      "poster": "/po2uVDbybo06XXdxbGfIeWVkMKc.jpg",
+      "title": "Lenny Cooke",
+      "year": 2013
+    },
+    "The Executioner's Song": {
+      "id": 19373,
+      "poster": "/32ymu9RHJ5shUuJI5fmY8LiMwr7.jpg",
+      "title": "The Executioner's Song",
+      "year": 1982
+    },
+    "Rain Man": {
+      "id": 380,
+      "poster": "/iTNHwO896WKkaoPtpMMS74d8VNi.jpg",
+      "title": "Rain Man",
+      "year": 1988
+    },
+    "48 Hrs.": {
+      "id": 150,
+      "poster": "/rvvjXHzEDBIvIVDBHNOwHS7hVPu.jpg",
+      "title": "48 Hrs.",
+      "year": 1982
+    },
+    "After Hours": {
+      "id": 10843,
+      "poster": "/eamOBurHBu0MIxohTIVcfxmZ6Z7.jpg",
+      "title": "After Hours",
+      "year": 1985
+    },
+    "The Running Man": {
+      "id": 865,
+      "poster": "/GTAUOhO4BN0peJVvxGEQydJvUO.jpg",
+      "title": "The Running Man",
+      "year": 1987
+    },
+    "Adventureland": {
+      "id": 16614,
+      "poster": "/eeSJNAR1aWcgANq26KWIHm3cbyB.jpg",
+      "title": "Adventureland",
+      "year": 2009
+    },
+    "Uncut Gems": {
+      "id": 473033,
+      "poster": "/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+      "title": "Uncut Gems",
+      "year": 2019
+    }
+  }
+}

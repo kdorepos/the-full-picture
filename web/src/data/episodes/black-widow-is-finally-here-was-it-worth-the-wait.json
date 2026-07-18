@@ -1,0 +1,362 @@
+{
+  "slug": "black-widow-is-finally-here-was-it-worth-the-wait",
+  "title": "‘Black Widow’ Is Finally Here. Was It Worth the Wait?",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2021-07-09",
+  "runtimeMin": 88,
+  "format": "The first new MCU movie in 737 days, and Sean and Amanda split on whether a no-homework Bond riff counts as a Marvel event. Then Sean talks to Leigh Janiak about shooting the Fear Street trilogy back-to-back.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘Black Widow’",
+      "note": "Sean Fennessey and Amanda Dobbins",
+      "films": [
+        {
+          "title": "Black Widow",
+          "year": 2021,
+          "note": "Scarlett Johansson's eighth MCU appearance is her first solo lead, and it arrives as a period piece set in 2016 for a character Endgame already killed. Sean and Amanda agree it plays more like a Bond or Mission: Impossible movie than a Marvel one, a standalone with low stakes and no homework required. Florence Pugh's Yelena runs away with it; David Harbour's Red Guardian gets a broad Russian accent. The stinger, with Julia Louis-Dreyfus as Contessa Valentina Allegra de Fontaine, is the only real setup for what's next. Sean calls it two and a half stars, three for Pugh."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Leigh Janiak on the Fear Street trilogy",
+      "guest": "Leigh Janiak on",
+      "films": [
+        {
+          "title": "Fear Street Part One: 1994",
+          "year": 2021,
+          "note": "First of the three, styled after '90s self-referential slashers: dolly track, crane work, needle drops Netflix paid to clear."
+        },
+        {
+          "title": "Fear Street Part Two: 1978",
+          "year": 2021,
+          "note": "The summer-camp entry, shot with more Steadicam and fluid motion."
+        },
+        {
+          "title": "Fear Street Part Three: 1666",
+          "year": 2021,
+          "note": "The one Janiak was most excited to shoot, all handheld. Three R-rated movies shot across 106 days from R.L. Stine's books, released on consecutive Fridays."
+        },
+        {
+          "title": "Honeymoon",
+          "year": 2014,
+          "note": "Her 2014 debut, an intimate body-snatcher indie that got her into directing television."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The MCU around it",
+      "films": [
+        "Captain Marvel",
+        "Wonder Woman",
+        "Avengers: Endgame",
+        "Captain America: Civil War",
+        "The Avengers",
+        "Thor: The Dark World",
+        "Thor: Ragnarok",
+        "Iron Man 2"
+      ]
+    },
+    {
+      "group": "The Bond of it all",
+      "films": [
+        "Moonraker"
+      ]
+    },
+    {
+      "group": "Johansson and Pugh elsewhere",
+      "films": [
+        "Marriage Story",
+        "Lucy",
+        "Little Women",
+        "Lady Macbeth"
+      ]
+    },
+    {
+      "group": "At the box office",
+      "films": [
+        "A Quiet Place Part II",
+        "In the Heights",
+        "Shang-Chi and the Legend of the Ten Rings",
+        "Eternals",
+        "Parasite"
+      ]
+    },
+    {
+      "group": "Janiak's horror influences",
+      "films": [
+        "Scream",
+        "Psycho",
+        "A Nightmare on Elm Street",
+        "Child's Play",
+        "The Rocky Horror Picture Show",
+        "I Know What You Did Last Summer",
+        "The Faculty",
+        "The Craft",
+        "The Witch",
+        "The Village"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "The Fast and the Furious",
+        "Blow Out"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Fear Street Part One: 1994": 591273,
+    "Fear Street Part Two: 1978": 591274,
+    "Fear Street Part Three: 1666": 591275,
+    "I Know What You Did Last Summer": 3597
+  },
+  "excluded": {
+    "TV": [
+      "WandaVision",
+      "The Falcon and the Winter Soldier",
+      "Loki",
+      "Secret Invasion",
+      "The Americans",
+      "Killing Eve",
+      "Revenge",
+      "Starstruck",
+      "Outcast",
+      "Scream (MTV series)",
+      "The Staircase",
+      "The Great British Bake Off",
+      "Party Down"
+    ],
+    "Podcasts": [
+      "The Watch",
+      "The Rewatchables",
+      "The Ringerverse"
+    ],
+    "Ads": [
+      "Netflix FIFA World Cup",
+      "FanDuel",
+      "Nos Energy",
+      "Boar's Head"
+    ]
+  },
+  "tmdb": {
+    "Black Widow": {
+      "id": 497698,
+      "poster": "/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+      "title": "Black Widow",
+      "year": 2021
+    },
+    "Fear Street Part One: 1994": {
+      "id": 591273,
+      "poster": "/9J9Wy39ZjrVmfk7yMkulpcI5sy0.jpg",
+      "title": "Fear Street: 1994",
+      "year": 2021
+    },
+    "Fear Street Part Two: 1978": {
+      "id": 591274,
+      "poster": "/5dNTxhoGDTHHGqUTdxcr4H1dqlU.jpg",
+      "title": "Fear Street: 1978",
+      "year": 2021
+    },
+    "Fear Street Part Three: 1666": {
+      "id": 591275,
+      "poster": "/rmEPtz3Ufzol2VWUAZYzOFaBio3.jpg",
+      "title": "Fear Street: 1666",
+      "year": 2021
+    },
+    "Honeymoon": {
+      "id": 254191,
+      "poster": "/8XPGgvhsJxFvmVH9xAm9q9J7Coy.jpg",
+      "title": "Honeymoon",
+      "year": 2014
+    },
+    "Captain Marvel": {
+      "id": 299537,
+      "poster": "/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+      "title": "Captain Marvel",
+      "year": 2019
+    },
+    "Wonder Woman": {
+      "id": 297762,
+      "poster": "/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+      "title": "Wonder Woman",
+      "year": 2017
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Captain America: Civil War": {
+      "id": 271110,
+      "poster": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+      "title": "Captain America: Civil War",
+      "year": 2016
+    },
+    "The Avengers": {
+      "id": 24428,
+      "poster": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "title": "The Avengers",
+      "year": 2012
+    },
+    "Thor: The Dark World": {
+      "id": 76338,
+      "poster": "/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",
+      "title": "Thor: The Dark World",
+      "year": 2013
+    },
+    "Thor: Ragnarok": {
+      "id": 284053,
+      "poster": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "title": "Thor: Ragnarok",
+      "year": 2017
+    },
+    "Iron Man 2": {
+      "id": 10138,
+      "poster": "/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+      "title": "Iron Man 2",
+      "year": 2010
+    },
+    "Moonraker": {
+      "id": 698,
+      "poster": "/6LrJdXNmu5uHOVALZxVYd44Lva0.jpg",
+      "title": "Moonraker",
+      "year": 1979
+    },
+    "Marriage Story": {
+      "id": 492188,
+      "poster": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+      "title": "Marriage Story",
+      "year": 2019
+    },
+    "Lucy": {
+      "id": 240832,
+      "poster": "/kRbpUTRNm6QbLQFPFWUcNC4czEm.jpg",
+      "title": "Lucy",
+      "year": 2014
+    },
+    "Little Women": {
+      "id": 331482,
+      "poster": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+      "title": "Little Women",
+      "year": 2019
+    },
+    "Lady Macbeth": {
+      "id": 410117,
+      "poster": "/xWTJbhTwSTJmhLlX5xAOxPhdnXc.jpg",
+      "title": "Lady Macbeth",
+      "year": 2016
+    },
+    "A Quiet Place Part II": {
+      "id": 520763,
+      "poster": "/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",
+      "title": "A Quiet Place Part II",
+      "year": 2021
+    },
+    "In the Heights": {
+      "id": 467909,
+      "poster": "/RO4KoJyoQMQzh9z76d4v4FJMmJ.jpg",
+      "title": "In the Heights",
+      "year": 2021
+    },
+    "Shang-Chi and the Legend of the Ten Rings": {
+      "id": 566525,
+      "poster": "/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "year": 2021
+    },
+    "Eternals": {
+      "id": 524434,
+      "poster": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+      "title": "Eternals",
+      "year": 2021
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Scream": {
+      "id": 4232,
+      "poster": "/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+      "title": "Scream",
+      "year": 1996
+    },
+    "Psycho": {
+      "id": 539,
+      "poster": "/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+      "title": "Psycho",
+      "year": 1960
+    },
+    "A Nightmare on Elm Street": {
+      "id": 377,
+      "poster": "/b9rMHAAKISRmIonaQd9Cccx0S4X.jpg",
+      "title": "A Nightmare on Elm Street",
+      "year": 1984
+    },
+    "Child's Play": {
+      "id": 10585,
+      "poster": "/wvpgvcWNkF2HLuTEMIM7K83MvZ.jpg",
+      "title": "Child's Play",
+      "year": 1988
+    },
+    "The Rocky Horror Picture Show": {
+      "id": 36685,
+      "poster": "/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
+      "title": "The Rocky Horror Picture Show",
+      "year": 1975
+    },
+    "I Know What You Did Last Summer": {
+      "id": 3597,
+      "poster": "/dQyaJx0SptDqvQcAewAr8FAtLB2.jpg",
+      "title": "I Know What You Did Last Summer",
+      "year": 1997
+    },
+    "The Faculty": {
+      "id": 9276,
+      "poster": "/5XetJwmAiDC0EtH23NIXaqFn3Wl.jpg",
+      "title": "The Faculty",
+      "year": 1998
+    },
+    "The Craft": {
+      "id": 9100,
+      "poster": "/8bW2RdRkloYtEPhbQZN4wcdmJP4.jpg",
+      "title": "The Craft",
+      "year": 1996
+    },
+    "The Witch": {
+      "id": 310131,
+      "poster": "/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
+      "title": "The Witch",
+      "year": 2016
+    },
+    "The Village": {
+      "id": 6947,
+      "poster": "/v7UvYtKfIVaHLaHwVgfalyrK7Ho.jpg",
+      "title": "The Village",
+      "year": 2004
+    },
+    "The Fast and the Furious": {
+      "id": 9799,
+      "poster": "/gqY0ITBgT7A82poL9jv851qdnIb.jpg",
+      "title": "The Fast and the Furious",
+      "year": 2001
+    },
+    "Blow Out": {
+      "id": 11644,
+      "poster": "/uFzMscVLDrTaYd6KXOXlr6dly7w.jpg",
+      "title": "Blow Out",
+      "year": 1981
+    }
+  }
+}

@@ -1,0 +1,833 @@
+{
+  "slug": "the-2014-movie-draft-cr-s-revenge",
+  "title": "The 2014 Movie Draft: CR's Revenge",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2020-11-25",
+  "runtimeMin": 89,
+  "format": "Sean, Amanda, and Chris Ryan snake-draft the movies of 2014 across six categories, then Sean talks to Clea Duvall about writing, directing, and moving Happiest Season to Hulu.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "How 2014 stacked up",
+      "note": "pre-draft reflections",
+      "films": [
+        {
+          "title": "Interstellar",
+          "year": 2014,
+          "note": "Chris hated it on first viewing, then rewatched it this year and came around; still not calling it a masterpiece."
+        },
+        {
+          "title": "Birdman",
+          "year": 2014,
+          "note": "Won Best Picture for the year; Amanda names it as one of the consensus movies she just doesn't care for."
+        },
+        {
+          "title": "Boyhood",
+          "year": 2014,
+          "note": "Amanda calls it a Linklater film she admires but doesn't enjoy; ran second to Birdman for Best Picture."
+        },
+        {
+          "title": "Inherent Vice",
+          "year": 2014,
+          "note": "Amanda's 'sour memory' of the year: her now-husband made her watch an Eagles game, then took her to the Angelika, then they fought on the subway home."
+        },
+        {
+          "title": "The Theory of Everything",
+          "year": 2014,
+          "note": "Sean calls it 'incredibly dull,' part of what he sees as the last gasp of the Weinstein Oscar-campaign era."
+        },
+        {
+          "title": "The Imitation Game",
+          "year": 2014,
+          "note": "Grouped with The Theory of Everything as prestige movies from a campaign playbook that stopped working."
+        },
+        {
+          "title": "Whiplash",
+          "year": 2014,
+          "note": "Cited alongside Selma as a newer generation of filmmakers breaking through that year."
+        },
+        {
+          "title": "Selma",
+          "year": 2014
+        }
+      ]
+    },
+    {
+      "kind": "draft",
+      "heading": "The 2014 movie draft",
+      "draftOf": "the movies of 2014",
+      "categories": [
+        "Drama",
+        "Comedy/Horror",
+        "Blockbuster",
+        "Animated/Foreign Language",
+        "Sequel",
+        "Wildcard"
+      ],
+      "teams": [
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Captain America: The Winter Soldier",
+              "year": 2014,
+              "category": "Sequel",
+              "note": "Opens the draft with it; puts it in the conversation for best MCU movie and best sequel of the decade. The Russo Brothers' 'director bullshit' name-checked The Parallax View and The Conversation, but Sean thinks it's closer kin to Extraction."
+            },
+            {
+              "title": "Whiplash",
+              "year": 2014,
+              "category": "Drama",
+              "note": "One of his five favorite movies of the last decade; says he relates to it in an unhealthy way."
+            },
+            {
+              "title": "Inherent Vice",
+              "year": 2014,
+              "category": "Comedy/Horror",
+              "note": "Saw it at the New Beverly with Paul Thomas Anderson in the room; a woman in the front row dropped her Dr. Pepper during his remarks and PTA got her a new one. Calls it a real Easter-egg movie, not his favorite PTA film but very much in line with his specific sense of humor."
+            },
+            {
+              "title": "Guardians of the Galaxy",
+              "year": 2014,
+              "category": "Blockbuster",
+              "note": "The only year he'd consider drafting two Marvel movies; likes the mix of comedy, action, and serialized story."
+            },
+            {
+              "title": "Snowpiercer",
+              "year": 2014,
+              "category": "Wildcard",
+              "note": "Delayed by Harvey Weinstein's meddling before finally reaching American audiences close to Bong Joon Ho's intended cut. Calls it the movie that put Bong on the map here."
+            },
+            {
+              "title": "Paddington",
+              "year": 2014,
+              "category": "Animated/Foreign Language",
+              "note": "His backup plan the whole draft; floats it as a question first ('would you guys consider Paddington to be an animated movie?') before taking it."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Edge of Tomorrow",
+              "year": 2014,
+              "category": "Blockbuster",
+              "note": "Cleared the $100 million domestic bar by exactly $206,256. His favorite late-period Tom Cruise, better than the Mission Impossible run because it leans into Cruise's self-aware charm; also praises Emily Blunt."
+            },
+            {
+              "title": "The Grand Budapest Hotel",
+              "year": 2014,
+              "category": "Comedy/Horror",
+              "note": "Says the whole cast 'fired on the same cylinders'; singles out Saoirse Ronan and Ralph Fiennes."
+            },
+            {
+              "title": "Nightcrawler",
+              "year": 2014,
+              "category": "Drama",
+              "note": "Part of Jake Gyllenhaal's Prisoners-Enemy-Nightcrawler run in a 16-month span. A gritty L.A. noir about ambition and media that does the most with what it has."
+            },
+            {
+              "title": "The Raid 2",
+              "year": 2014,
+              "category": "Animated/Foreign Language",
+              "note": "Thinks it tops the original; ties it back to Gareth Evans's later Amazon series Gangs of London."
+            },
+            {
+              "title": "Dawn of the Planet of the Apes",
+              "year": 2014,
+              "category": "Sequel",
+              "note": "More director bullshit: Apocalypse Now and Bresson name-checks that don't really apply. Likes Gary Oldman's post-collapse, Infowars-guy performance."
+            },
+            {
+              "title": "The Gambler",
+              "year": 2014,
+              "category": "Wildcard",
+              "note": "The pick the whole episode's cold open is built around. A remake of the James Toback/James Caan film; raves about Mark Wahlberg's largely invented Shakespeare lecture and John Goodman's 'fuck you' speech."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Gone Girl",
+              "year": 2014,
+              "category": "Drama",
+              "note": "An easy, obvious No. 1 in the category, one of the few 2014 movies she says she genuinely loves."
+            },
+            {
+              "title": "Interstellar",
+              "year": 2014,
+              "category": "Blockbuster",
+              "note": "Admits she barely remembers it: saw it once and it fell out of her head walking out of the theater, unlike Inception, which stuck."
+            },
+            {
+              "title": "Neighbors",
+              "year": 2014,
+              "category": "Comedy/Horror",
+              "note": "82 minutes, no filler. Calls it close to a personality test: if someone doesn't like this movie, they're not friends."
+            },
+            {
+              "title": "22 Jump Street",
+              "year": 2014,
+              "category": "Sequel",
+              "note": "Didn't rewatch before the draft but remembers the fake-sequel end-credits gag. Says it introduced her to Wyatt Russell."
+            },
+            {
+              "title": "Force Majeure",
+              "year": 2014,
+              "category": "Animated/Foreign Language",
+              "note": "Probably her favorite foreign-language film of the year; likes that it works as a parlor game, since you leave arguing about what you'd actually do."
+            },
+            {
+              "title": "Beyond the Lights",
+              "year": 2014,
+              "category": "Wildcard",
+              "note": "A Gina Prince-Bythewood film she calls underappreciated, a Gugu Mbatha-Raw character study about image-making as much as the central mother-daughter relationship."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "It Follows",
+        "The Guest",
+        "Unfriended",
+        "Birdman",
+        "Boyhood",
+        "Selma",
+        "Under the Skin",
+        "What We Do in the Shadows",
+        "The Babadook",
+        "The Hobbit: The Battle of the Five Armies",
+        "Fury",
+        "The Drop",
+        "Maps to the Stars",
+        "Enemy",
+        "Godzilla",
+        "The Rover",
+        "X-Men: Days of Future Past",
+        "Into the Woods",
+        "Wild",
+        "Obvious Child",
+        "Top Five",
+        "Love & Mercy",
+        "The Unknown Known",
+        "20,000 Days on Earth",
+        "John Wick",
+        "Big Hero 6",
+        "The Lego Movie",
+        "Ida",
+        "Wild Tales"
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Clea Duvall on",
+      "films": [
+        {
+          "title": "Happiest Season",
+          "year": 2020,
+          "note": "Her second film as director, a holiday rom-com with Kristen Stewart and Mackenzie Davis, moving to Hulu after the pandemic scuttled a theatrical release. Written with Mary Holland; 29 shooting days, edited remotely for six months during lockdown."
+        },
+        {
+          "title": "The Intervention",
+          "year": 2016,
+          "note": "Her directorial debut; she also acted in it, and decided afterward that directing and acting at once was 'too hard, too crazy making.'"
+        },
+        {
+          "title": "But I'm a Cheerleader",
+          "year": 2000,
+          "note": "Cited in Sean's introduction as one of her acting roles."
+        },
+        {
+          "title": "Zodiac",
+          "year": 2007
+        },
+        {
+          "title": "Argo",
+          "year": 2012
+        },
+        {
+          "title": "Home Alone",
+          "year": 1990,
+          "note": "A visual reference she used with her DP and production designer while prepping Happiest Season's look."
+        },
+        {
+          "title": "Groundhog Day",
+          "year": 1993,
+          "note": "A winter movie rather than a Christmas one, another reference for capturing the season and the cold."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Director bullshit touchstones",
+      "films": [
+        "The Parallax View",
+        "The Conversation",
+        "The Battle of Algiers",
+        "All the President's Men",
+        "Extraction"
+      ]
+    },
+    {
+      "group": "The Woody Allen limbo years",
+      "films": [
+        "Magic in the Moonlight",
+        "Blue Jasmine",
+        "Irrational Man",
+        "Café Society",
+        "To Rome with Love",
+        "A Rainy Day in New York",
+        "Annie Hall",
+        "Manhattan"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Sicario",
+        "A Quiet Place",
+        "Southpaw",
+        "The Departed",
+        "First Man",
+        "Moneyball",
+        "Apollo 13",
+        "The Iron Giant",
+        "Downhill",
+        "One More Time with Feeling",
+        "Prisoners"
+      ]
+    },
+    {
+      "group": "Next week",
+      "films": [
+        "Mank",
+        "Citizen Kane"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Game of Thrones",
+      "The Undoing",
+      "The West Wing",
+      "Veep"
+    ],
+    "Ads": [
+      "Carvana",
+      "Boar's Head",
+      "Netflix (FIFA World Cup Launch Edition)",
+      "Whole Foods",
+      "NOS Energy",
+      "FanDuel Sportsbook"
+    ]
+  },
+  "tmdbOverrides": {
+    "Birdman": 194662,
+    "Café Society": 339397
+  },
+  "tmdb": {
+    "Interstellar": {
+      "id": 157336,
+      "poster": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+      "title": "Interstellar",
+      "year": 2014
+    },
+    "Birdman": {
+      "id": 194662,
+      "poster": "/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg",
+      "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+      "year": 2014
+    },
+    "Boyhood": {
+      "id": 85350,
+      "poster": "/2BvtvDUyxiMJ4dmKfiQf4qdOHQN.jpg",
+      "title": "Boyhood",
+      "year": 2014
+    },
+    "Inherent Vice": {
+      "id": 171274,
+      "poster": "/pfVua7TzzttOh3RTOuBqT7xN0oY.jpg",
+      "title": "Inherent Vice",
+      "year": 2014
+    },
+    "The Theory of Everything": {
+      "id": 266856,
+      "poster": "/7kwcLFNt887saoQAL7EY0XnW7VI.jpg",
+      "title": "The Theory of Everything",
+      "year": 2014
+    },
+    "The Imitation Game": {
+      "id": 205596,
+      "poster": "/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg",
+      "title": "The Imitation Game",
+      "year": 2014
+    },
+    "Whiplash": {
+      "id": 244786,
+      "poster": "/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+      "title": "Whiplash",
+      "year": 2014
+    },
+    "Selma": {
+      "id": 273895,
+      "poster": "/2QyUcitU0hrxy6B2zkyJ0EhNlqm.jpg",
+      "title": "Selma",
+      "year": 2014
+    },
+    "Captain America: The Winter Soldier": {
+      "id": 100402,
+      "poster": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+      "title": "Captain America: The Winter Soldier",
+      "year": 2014
+    },
+    "Guardians of the Galaxy": {
+      "id": 118340,
+      "poster": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "title": "Guardians of the Galaxy",
+      "year": 2014
+    },
+    "Snowpiercer": {
+      "id": 110415,
+      "poster": "/kw6YQudA0TMcNmGUGy5XIw7zbnV.jpg",
+      "title": "Snowpiercer",
+      "year": 2013
+    },
+    "Paddington": {
+      "id": 116149,
+      "poster": "/wpchRGhRhvhtU083PfX2yixXtiw.jpg",
+      "title": "Paddington",
+      "year": 2014
+    },
+    "Edge of Tomorrow": {
+      "id": 137113,
+      "poster": "/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
+      "title": "Edge of Tomorrow",
+      "year": 2014
+    },
+    "The Grand Budapest Hotel": {
+      "id": 120467,
+      "poster": "/zOVCqKUzjFKqa1eDMcOzvXwthY4.jpg",
+      "title": "The Grand Budapest Hotel",
+      "year": 2014
+    },
+    "Nightcrawler": {
+      "id": 242582,
+      "poster": "/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
+      "title": "Nightcrawler",
+      "year": 2014
+    },
+    "The Raid 2": {
+      "id": 180299,
+      "poster": "/mlGuKlIDLdPhYjz1QBXi0FmyYik.jpg",
+      "title": "The Raid 2",
+      "year": 2014
+    },
+    "Dawn of the Planet of the Apes": {
+      "id": 119450,
+      "poster": "/mSmAc9G25fhOHH45SLEeagR0qi7.jpg",
+      "title": "Dawn of the Planet of the Apes",
+      "year": 2014
+    },
+    "The Gambler": {
+      "id": 284536,
+      "poster": "/hIgU3cxn7Y87joQGM3srofnXOm5.jpg",
+      "title": "The Gambler",
+      "year": 2014
+    },
+    "Gone Girl": {
+      "id": 210577,
+      "poster": "/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+      "title": "Gone Girl",
+      "year": 2014
+    },
+    "Neighbors": {
+      "id": 195589,
+      "poster": "/sN1RU08CMi8xkRIibremh3AOdgw.jpg",
+      "title": "Neighbors",
+      "year": 2014
+    },
+    "22 Jump Street": {
+      "id": 187017,
+      "poster": "/850chzYHYbT3IISl6Q7dbBuFP2B.jpg",
+      "title": "22 Jump Street",
+      "year": 2014
+    },
+    "Force Majeure": {
+      "id": 265189,
+      "poster": "/41agNfzepz2DTdgTBX1fX0QclHp.jpg",
+      "title": "Force Majeure",
+      "year": 2014
+    },
+    "Beyond the Lights": {
+      "id": 241771,
+      "poster": "/5Di9UXTa2bDec68WOFcZzgB1ot3.jpg",
+      "title": "Beyond the Lights",
+      "year": 2014
+    },
+    "It Follows": {
+      "id": 270303,
+      "poster": "/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg",
+      "title": "It Follows",
+      "year": 2015
+    },
+    "The Guest": {
+      "id": 241848,
+      "poster": "/gvlEFHu9FuYLmBZwsARTtuNIiDO.jpg",
+      "title": "The Guest",
+      "year": 2014
+    },
+    "Unfriended": {
+      "id": 277685,
+      "poster": "/8byPxREr3BqBNyyij5WHVSOVtYk.jpg",
+      "title": "Unfriended",
+      "year": 2014
+    },
+    "Under the Skin": {
+      "id": 97370,
+      "poster": "/55wmcXJIDYITr7JDijJTdvwSaAv.jpg",
+      "title": "Under the Skin",
+      "year": 2014
+    },
+    "What We Do in the Shadows": {
+      "id": 246741,
+      "poster": "/a2rD3i3DBMeYbA34rBv6z3B9S3a.jpg",
+      "title": "What We Do in the Shadows",
+      "year": 2014
+    },
+    "The Babadook": {
+      "id": 242224,
+      "poster": "/qt3fqapeo94TfvMyld8P7gkpXLz.jpg",
+      "title": "The Babadook",
+      "year": 2014
+    },
+    "The Hobbit: The Battle of the Five Armies": {
+      "id": 122917,
+      "poster": "/xT98tLqatZPQApyRmlPL12LtiWp.jpg",
+      "title": "The Hobbit: The Battle of the Five Armies",
+      "year": 2014
+    },
+    "Fury": {
+      "id": 228150,
+      "poster": "/pfte7wdMobMF4CVHuOxyu6oqeeA.jpg",
+      "title": "Fury",
+      "year": 2014
+    },
+    "The Drop": {
+      "id": 154400,
+      "poster": "/olQInYvVCW2wycMSU1ogo9Jshml.jpg",
+      "title": "The Drop",
+      "year": 2014
+    },
+    "Maps to the Stars": {
+      "id": 157851,
+      "poster": "/aoMNfiaMmT7o7wY8oXWCLErZtah.jpg",
+      "title": "Maps to the Stars",
+      "year": 2014
+    },
+    "Enemy": {
+      "id": 181886,
+      "poster": "/vf40tyDRKZsBmaLsYeopzfFLzLx.jpg",
+      "title": "Enemy",
+      "year": 2014
+    },
+    "Godzilla": {
+      "id": 124905,
+      "poster": "/z0CpCYiaUikJrcftPnb0jYCYmoo.jpg",
+      "title": "Godzilla",
+      "year": 2014
+    },
+    "The Rover": {
+      "id": 157845,
+      "poster": "/734OOkr69mt8lyPk8iw3TwgQ90R.jpg",
+      "title": "The Rover",
+      "year": 2014
+    },
+    "X-Men: Days of Future Past": {
+      "id": 127585,
+      "poster": "/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
+      "title": "X-Men: Days of Future Past",
+      "year": 2014
+    },
+    "Into the Woods": {
+      "id": 224141,
+      "poster": "/bINGDDuvUnZyde2sIcSx41IE5b6.jpg",
+      "title": "Into the Woods",
+      "year": 2014
+    },
+    "Wild": {
+      "id": 228970,
+      "poster": "/ohhWI4Xwf4m4HjbQiIkyAhLekUy.jpg",
+      "title": "Wild",
+      "year": 2014
+    },
+    "Obvious Child": {
+      "id": 248774,
+      "poster": "/vAVuQuboHiqc6ClsFeWQXBHJkOX.jpg",
+      "title": "Obvious Child",
+      "year": 2014
+    },
+    "Top Five": {
+      "id": 284296,
+      "poster": "/nM5zWv6zpWHsrKNMrPKg23UHZCA.jpg",
+      "title": "Top Five",
+      "year": 2014
+    },
+    "Love & Mercy": {
+      "id": 271714,
+      "poster": "/4jn0hDsl6lsv4qEc7aiLlgbaIjo.jpg",
+      "title": "Love & Mercy",
+      "year": 2015
+    },
+    "The Unknown Known": {
+      "id": 209799,
+      "poster": "/8BiCtoif98SAhSRRNfshRL75xCW.jpg",
+      "title": "The Unknown Known",
+      "year": 2013
+    },
+    "20,000 Days on Earth": {
+      "id": 246400,
+      "poster": "/pUmYsh07P2Bq6ip2RZmOq6mr2vF.jpg",
+      "title": "20,000 Days on Earth",
+      "year": 2014
+    },
+    "John Wick": {
+      "id": 245891,
+      "poster": "/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
+      "title": "John Wick",
+      "year": 2014
+    },
+    "Big Hero 6": {
+      "id": 177572,
+      "poster": "/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
+      "title": "Big Hero 6",
+      "year": 2014
+    },
+    "The Lego Movie": {
+      "id": 137106,
+      "poster": "/lbctonEnewCYZ4FYoTZhs8cidAl.jpg",
+      "title": "The Lego Movie",
+      "year": 2014
+    },
+    "Ida": {
+      "id": 209274,
+      "poster": "/oFrwnliM6TtAyWo6nIP8YpJbIvi.jpg",
+      "title": "Ida",
+      "year": 2013
+    },
+    "Wild Tales": {
+      "id": 265195,
+      "poster": "/bU7IUeTdYFOgeUPtwpWKQNhORMC.jpg",
+      "title": "Wild Tales",
+      "year": 2014
+    },
+    "Happiest Season": {
+      "id": 520172,
+      "poster": "/vzec9kkOSE93tygyfOktedkeOQ.jpg",
+      "title": "Happiest Season",
+      "year": 2020
+    },
+    "The Intervention": {
+      "id": 351242,
+      "poster": "/yPgppin50E0pxKgL1lmKlFbhTF1.jpg",
+      "title": "The Intervention",
+      "year": 2016
+    },
+    "But I'm a Cheerleader": {
+      "id": 20770,
+      "poster": "/dGEwlAuzTZoZjvsqgT2MRKHnGi8.jpg",
+      "title": "But I'm a Cheerleader",
+      "year": 2000
+    },
+    "Zodiac": {
+      "id": 1949,
+      "poster": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+      "title": "Zodiac",
+      "year": 2007
+    },
+    "Argo": {
+      "id": 68734,
+      "poster": "/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
+      "title": "Argo",
+      "year": 2012
+    },
+    "Home Alone": {
+      "id": 771,
+      "poster": "/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
+      "title": "Home Alone",
+      "year": 1990
+    },
+    "Groundhog Day": {
+      "id": 137,
+      "poster": "/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
+      "title": "Groundhog Day",
+      "year": 1993
+    },
+    "The Parallax View": {
+      "id": 17365,
+      "poster": "/83mQRrNO9ewz0qLSJcGp4nGBRr.jpg",
+      "title": "The Parallax View",
+      "year": 1974
+    },
+    "The Conversation": {
+      "id": 592,
+      "poster": "/dHqVBwcv1SGymOpUueRoKzcmdes.jpg",
+      "title": "The Conversation",
+      "year": 1974
+    },
+    "The Battle of Algiers": {
+      "id": 17295,
+      "poster": "/2p3AFtOHFvP6OeVMqlnL1zLKOqL.jpg",
+      "title": "The Battle of Algiers",
+      "year": 1966
+    },
+    "All the President's Men": {
+      "id": 891,
+      "poster": "/pCe6lfLxt1B58zPD4lgQrlnDS2j.jpg",
+      "title": "All the President's Men",
+      "year": 1976
+    },
+    "Extraction": {
+      "id": 545609,
+      "poster": "/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg",
+      "title": "Extraction",
+      "year": 2020
+    },
+    "Magic in the Moonlight": {
+      "id": 229297,
+      "poster": "/mNYZUVDj4ORSPHWinmqJbXyuG6W.jpg",
+      "title": "Magic in the Moonlight",
+      "year": 2014
+    },
+    "Blue Jasmine": {
+      "id": 160588,
+      "poster": "/nsj0RLRI10351uYMoAKPur6Derd.jpg",
+      "title": "Blue Jasmine",
+      "year": 2013
+    },
+    "Irrational Man": {
+      "id": 282984,
+      "poster": "/ipAqhEWRzEuD6aXlAWIvEEF1KUe.jpg",
+      "title": "Irrational Man",
+      "year": 2015
+    },
+    "Café Society": {
+      "id": 339397,
+      "poster": "/q9fohCRpQ7m8OTyi82fxa3B86te.jpg",
+      "title": "Café Society",
+      "year": 2016
+    },
+    "To Rome with Love": {
+      "id": 81836,
+      "poster": "/sMmYRgvFRk5Ginhytx7ciU7UwVs.jpg",
+      "title": "To Rome with Love",
+      "year": 2012
+    },
+    "A Rainy Day in New York": {
+      "id": 475303,
+      "poster": "/z4A6mFOLTMZAhCSPRyrtzG0SPbd.jpg",
+      "title": "A Rainy Day in New York",
+      "year": 2019
+    },
+    "Annie Hall": {
+      "id": 703,
+      "poster": "/dEtjPywhDbAXYjoFfhBC4U9unU7.jpg",
+      "title": "Annie Hall",
+      "year": 1977
+    },
+    "Manhattan": {
+      "id": 696,
+      "poster": "/k4eT3EvfxW1L9Wmt04UqJqCvCR6.jpg",
+      "title": "Manhattan",
+      "year": 1979
+    },
+    "Sicario": {
+      "id": 273481,
+      "poster": "/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+      "title": "Sicario",
+      "year": 2015
+    },
+    "A Quiet Place": {
+      "id": 447332,
+      "poster": "/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+      "title": "A Quiet Place",
+      "year": 2018
+    },
+    "Southpaw": {
+      "id": 307081,
+      "poster": "/kSQ49Fi3NVTqGGXILmxV2T2pdkG.jpg",
+      "title": "Southpaw",
+      "year": 2015
+    },
+    "The Departed": {
+      "id": 1422,
+      "poster": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+      "title": "The Departed",
+      "year": 2006
+    },
+    "First Man": {
+      "id": 369972,
+      "poster": "/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
+      "title": "First Man",
+      "year": 2018
+    },
+    "Moneyball": {
+      "id": 60308,
+      "poster": "/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+      "title": "Moneyball",
+      "year": 2011
+    },
+    "Apollo 13": {
+      "id": 568,
+      "poster": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+      "title": "Apollo 13",
+      "year": 1995
+    },
+    "The Iron Giant": {
+      "id": 10386,
+      "poster": "/ct04FCFLPImNG5thcPLRnVsZlmS.jpg",
+      "title": "The Iron Giant",
+      "year": 1999
+    },
+    "Downhill": {
+      "id": 560391,
+      "poster": "/ruLqLb2bfWKykckxVlVZayuBOgW.jpg",
+      "title": "Downhill",
+      "year": 2020
+    },
+    "One More Time with Feeling": {
+      "id": 404141,
+      "poster": "/opORnjagpi1KKfGVNX2NuNECdzE.jpg",
+      "title": "One More Time with Feeling",
+      "year": 2016
+    },
+    "Prisoners": {
+      "id": 146233,
+      "poster": "/uhviyknTT5cEQXbn6vWIqfM4vGm.jpg",
+      "title": "Prisoners",
+      "year": 2013
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "Citizen Kane": {
+      "id": 15,
+      "poster": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+      "title": "Citizen Kane",
+      "year": 1941
+    }
+  }
+}

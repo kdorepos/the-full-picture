@@ -1,0 +1,416 @@
+{
+  "slug": "the-oscars-show-returns-the-five-best-movies-at-the-fall-fes",
+  "title": "The Oscars Show Returns: The Five Best Movies at the Fall Festivals … So Far",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2020-09-18",
+  "runtimeMin": 103,
+  "format": "Sean and Amanda open Oscar season from their living rooms, sorting through a shrunken, virtual Toronto slate for anything that can carry a best-picture campaign through an unusually long, uncertain race. Then Gerard Bush and Christopher Renz on Antebellum.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Notes From a Virtual TIFF",
+      "note": "what actually got watched this year",
+      "films": [
+        {
+          "title": "David Byrne's American Utopia",
+          "year": 2020,
+          "note": "Spike Lee's film of Byrne's Broadway show. Both hosts call it the best thing they've seen this year; it lands on HBO October 18."
+        },
+        {
+          "title": "One Night in Miami...",
+          "year": 2020,
+          "note": "Regina King's directorial debut, adapted from Kemp Powers's play. A fictionalized 1964 hotel-room conversation between Muhammad Ali, Malcolm X, Jim Brown, and Sam Cooke, shot by Tami Reiker. Amazon has it."
+        },
+        {
+          "title": "The Boy from Medellín",
+          "year": 2020,
+          "note": "Matthew Heineman's documentary on J Balvin, made for Amazon. Sean, not a big fan of Balvin going in, was won over by its focus on an artist's anxiety and online criticism."
+        },
+        {
+          "title": "Pieces of a Woman",
+          "year": 2020,
+          "note": "Vanessa Kirby and Shia LaBeouf, from Kornél Mundruczó and Kata Wéber. Opens with a roughly 25-minute unbroken take Amanda watched at 9 a.m. and found bracing. Netflix picked it up out of the festival."
+        },
+        {
+          "title": "City Hall",
+          "year": 2020,
+          "note": "Frederick Wiseman's four-and-a-half-hour Boston documentary. Sean watched it in two two-hour sittings; Amanda admits she never got to it."
+        },
+        {
+          "title": "Ammonite",
+          "year": 2020,
+          "note": "Saoirse Ronan and Kate Winslet for Francis Lee, from Neon. Both hosts had it circled as a lock and found it cold and static instead, missing the charge they wanted from the Portrait of a Lady on Fire comparisons."
+        },
+        {
+          "title": "Wolfwalkers",
+          "year": 2020,
+          "note": "The Irish animated film everyone else seemed to respond to. Sean, self-appointed animation advocate on the show, missed it entirely."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "Nomadland",
+      "films": [
+        {
+          "title": "Nomadland",
+          "year": 2020,
+          "note": "Chloé Zhao's adaptation of Jessica Bruder's book, with Frances McDormand as a fictional composite living among real-life nomads. Winner of the Golden Lion at Venice; the hosts saw it at a Telluride-sponsored drive-in by the Rose Bowl, ash from the California fires drifting onto the cars during a post-screening Q&A. Searchlight opens it December 4. Sean flags David Strathairn as a possible supporting nod, and can't picture how Zhao's next film, Marvel's Eternals, will square with what she does here."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The Best Actress Race Takes Shape",
+      "films": [
+        {
+          "title": "Pieces of a Woman",
+          "year": 2020,
+          "note": "Vanessa Kirby, fresh off winning best actress at Venice, is the early frontrunner in Amanda and Sean's eyes, now with Netflix's campaign machine behind her."
+        },
+        {
+          "title": "Ammonite",
+          "year": 2020,
+          "note": "Kate Winslet's reviews have been split, so the hosts aren't sure she's a lock this time despite her track record."
+        },
+        {
+          "title": "Nomadland",
+          "year": 2020,
+          "note": "Frances McDormand chasing a third best actress statuette, a feat only Katharine Hepburn has managed. Sean also flags her next film, The Tragedy of Macbeth, opposite Denzel Washington and directed by her husband Joel Coen."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Gerard Bush and Christopher Renz on",
+      "films": [
+        {
+          "title": "Antebellum",
+          "year": 2020,
+          "note": "The writer-directors' feature debut, starring Janelle Monáe as Veronica Henley. Bush says the premise came from a vivid nightmare he had after his father, best friend, and dog all died within a short span; the pair wrote it as a short story the same morning. Shot on a real plantation with recalibrated Gone With the Wind-era lenses; releasing direct to digital rather than delaying for theaters given the pandemic."
+        },
+        {
+          "title": "The Invisible Man",
+          "year": 2020,
+          "note": "Bush's answer to the show's closing question: the last movie he saw in an actual theater before lockdown."
+        },
+        {
+          "title": "The Rental",
+          "year": 2020,
+          "note": "Renz's pick for the last thing he watched and loved: Dave Franco's directorial debut, which he calls 'a super genre Airbnb nightmare.'"
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Last year's best-picture field, for comparison",
+      "films": [
+        "Once Upon a Time in Hollywood",
+        "Parasite",
+        "Jojo Rabbit",
+        "Hustlers",
+        "Knives Out",
+        "Ford v Ferrari",
+        "Joker",
+        "Marriage Story"
+      ]
+    },
+    {
+      "group": "Past Toronto Audience Award winners, cited as historical bellwethers",
+      "films": [
+        "Green Book",
+        "Three Billboards Outside Ebbing, Missouri"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Trolls World Tour",
+        "Bad Boys for Life",
+        "West Side Story",
+        "The Trial of the Chicago 7",
+        "Mank",
+        "Soul",
+        "Minari",
+        "The World to Come",
+        "The Rider",
+        "Eternals",
+        "Portrait of a Lady on Fire",
+        "The Tragedy of Macbeth"
+      ]
+    },
+    {
+      "group": "Antebellum touchstones",
+      "films": [
+        "Get Out",
+        "Invasion of the Body Snatchers",
+        "The Stepford Wives",
+        "Gone with the Wind",
+        "School Daze",
+        "The Invitation"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Small Axe",
+      "The Comey Rule",
+      "Ozark"
+    ],
+    "Ads": [
+      "Carvana",
+      "FanDuel",
+      "Heineken",
+      "Wireless (Quibi)",
+      "Boar's Head",
+      "FIFA World Cup Launch Edition",
+      "American Express"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Stepford Wives": 12223
+  },
+  "tmdb": {
+    "David Byrne's American Utopia": {
+      "id": 668800,
+      "poster": "/sHVeVCNhlY2asvoGsSMP5HOLbCI.jpg",
+      "title": "David Byrne's American Utopia",
+      "year": 2020
+    },
+    "One Night in Miami...": {
+      "id": 661914,
+      "poster": "/1DLUb9PTDqXMSgsD7RmiJs7ZJIx.jpg",
+      "title": "One Night in Miami...",
+      "year": 2020
+    },
+    "The Boy from Medellín": {
+      "id": 736604,
+      "poster": "/tPREBSgPBFeua20bUvYI9yrPHul.jpg",
+      "title": "The Boy from Medellín",
+      "year": 2020
+    },
+    "Pieces of a Woman": {
+      "id": 641662,
+      "poster": "/OgUfLlhfBFx5BPK6LzBWFvBW1w.jpg",
+      "title": "Pieces of a Woman",
+      "year": 2020
+    },
+    "City Hall": {
+      "id": 726041,
+      "poster": "/2tVjql9HmDw7ZP1nIqfT7RpoT3E.jpg",
+      "title": "City Hall",
+      "year": 2020
+    },
+    "Ammonite": {
+      "id": 568467,
+      "poster": "/5lx4pUHWZoOKJWsVsvurRRNW9FK.jpg",
+      "title": "Ammonite",
+      "year": 2020
+    },
+    "Wolfwalkers": {
+      "id": 441130,
+      "poster": "/vqGiNbdc2sDwsnivMMYzwAoSSu6.jpg",
+      "title": "Wolfwalkers",
+      "year": 2020
+    },
+    "Nomadland": {
+      "id": 581734,
+      "poster": "/8Vc5EOUEIF1EUXuX9eLFf7BvN3P.jpg",
+      "title": "Nomadland",
+      "year": 2021
+    },
+    "Antebellum": {
+      "id": 627290,
+      "poster": "/irkse1FMm9dWemwlxKJ7RINT9Iy.jpg",
+      "title": "Antebellum",
+      "year": 2020
+    },
+    "The Invisible Man": {
+      "id": 570670,
+      "poster": "/5EufsDwXdY2CVttYOk2WtYhgKpa.jpg",
+      "title": "The Invisible Man",
+      "year": 2020
+    },
+    "The Rental": {
+      "id": 587496,
+      "poster": "/3ynPnBXQVT2Y0s19fDIPlWKUlxH.jpg",
+      "title": "The Rental",
+      "year": 2020
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Jojo Rabbit": {
+      "id": 515001,
+      "poster": "/1mqL7VG4Ix8wmxwypmCA1HTHBky.jpg",
+      "title": "Jojo Rabbit",
+      "year": 2019
+    },
+    "Hustlers": {
+      "id": 540901,
+      "poster": "/zBhv8rsLOfpFW2M5b6wW78Uoojs.jpg",
+      "title": "Hustlers",
+      "year": 2019
+    },
+    "Knives Out": {
+      "id": 546554,
+      "poster": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+      "title": "Knives Out",
+      "year": 2019
+    },
+    "Ford v Ferrari": {
+      "id": 359724,
+      "poster": "/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+      "title": "Ford v Ferrari",
+      "year": 2019
+    },
+    "Joker": {
+      "id": 475557,
+      "poster": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "title": "Joker",
+      "year": 2019
+    },
+    "Marriage Story": {
+      "id": 492188,
+      "poster": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+      "title": "Marriage Story",
+      "year": 2019
+    },
+    "Green Book": {
+      "id": 490132,
+      "poster": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+      "title": "Green Book",
+      "year": 2018
+    },
+    "Three Billboards Outside Ebbing, Missouri": {
+      "id": 359940,
+      "poster": "/bRYLt8fV82tdVoDppSFTZIcJiLN.jpg",
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "year": 2017
+    },
+    "Trolls World Tour": {
+      "id": 446893,
+      "poster": "/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg",
+      "title": "Trolls World Tour",
+      "year": 2020
+    },
+    "Bad Boys for Life": {
+      "id": 38700,
+      "poster": "/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
+      "title": "Bad Boys for Life",
+      "year": 2020
+    },
+    "West Side Story": {
+      "id": 511809,
+      "poster": "/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+      "title": "West Side Story",
+      "year": 2021
+    },
+    "The Trial of the Chicago 7": {
+      "id": 556984,
+      "poster": "/ahf5cVdooMAlDRiJOZQNuLqa1Is.jpg",
+      "title": "The Trial of the Chicago 7",
+      "year": 2020
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "Soul": {
+      "id": 508442,
+      "poster": "/6jmppcaubzLF8wkXM36ganVISCo.jpg",
+      "title": "Soul",
+      "year": 2020
+    },
+    "Minari": {
+      "id": 615643,
+      "poster": "/6mPNdmjdbVKPITv3LLCmQoKs9Zw.jpg",
+      "title": "Minari",
+      "year": 2021
+    },
+    "The World to Come": {
+      "id": 506281,
+      "poster": "/6GJQXJ96FUbXtB01VXAdp854qOt.jpg",
+      "title": "The World to Come",
+      "year": 2021
+    },
+    "The Rider": {
+      "id": 453278,
+      "poster": "/cFsrA0Is5xode2INrPj1VJcQ18n.jpg",
+      "title": "The Rider",
+      "year": 2018
+    },
+    "Eternals": {
+      "id": 524434,
+      "poster": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+      "title": "Eternals",
+      "year": 2021
+    },
+    "Portrait of a Lady on Fire": {
+      "id": 531428,
+      "poster": "/rUDuOKpkKBHxx41BScqKej72iT3.jpg",
+      "title": "Portrait of a Lady on Fire",
+      "year": 2019
+    },
+    "The Tragedy of Macbeth": {
+      "id": 591538,
+      "poster": "/tDNJEhcLbX3jIk3BMCur9pCdaVD.jpg",
+      "title": "The Tragedy of Macbeth",
+      "year": 2021
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Invasion of the Body Snatchers": {
+      "id": 11850,
+      "poster": "/skS02wdeH2C0nrbCQP3qKwJdZtZ.jpg",
+      "title": "Invasion of the Body Snatchers",
+      "year": 1978
+    },
+    "The Stepford Wives": {
+      "id": 12223,
+      "poster": "/5z1ogJJmQkCoU62VJmut4nnc2qs.jpg",
+      "title": "The Stepford Wives",
+      "year": 1975
+    },
+    "Gone with the Wind": {
+      "id": 770,
+      "poster": "/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg",
+      "title": "Gone with the Wind",
+      "year": 1939
+    },
+    "School Daze": {
+      "id": 36739,
+      "poster": "/vnfjKHcmah7ReMxLNF18JMXFgSZ.jpg",
+      "title": "School Daze",
+      "year": 1988
+    },
+    "The Invitation": {
+      "id": 306947,
+      "poster": "/otZMaGHWnKPgOODF6SSVNGqbI4X.jpg",
+      "title": "The Invitation",
+      "year": 2016
+    }
+  }
+}

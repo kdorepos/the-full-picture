@@ -1,0 +1,612 @@
+{
+  "slug": "we-re-watching-every-new-movie-at-home-now-is-that-a-good-th",
+  "title": "We're Watching Every New Movie at Home Now. Is That a Good Thing? Plus: Bill Simmons on 'The Hunt.'",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2020-03-24",
+  "runtimeMin": 86,
+  "format": "Sean spends a full weekend bingeing eight new VOD releases; then he and Amanda review Emma and The Hunt before Bill Simmons stops by to defend on-demand releases and re-litigate Ben Affleck's career.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Sean's Quarantine Watchlist",
+      "note": "everything he watched in one weekend",
+      "films": [
+        {
+          "title": "The Platform",
+          "year": 2019,
+          "note": "Grueling class-warfare horror on Netflix, watched Friday at 4 p.m., the first of the weekend's binge."
+        },
+        {
+          "title": "Blow the Man Down",
+          "year": 2019,
+          "note": "Amazon Prime noir Sean pitches as the Coen brothers meets Nicole Holofcener; would pair well with The Lighthouse."
+        },
+        {
+          "title": "Black Christmas",
+          "year": 2019,
+          "note": "The 2019 remake, an Amazon rental he'd missed at the end of last year."
+        },
+        {
+          "title": "Color Out of Space",
+          "year": 2019,
+          "note": "A trippy Nicolas Cage cosmic-horror movie on iTunes; he later recommends it to Bill Simmons too."
+        },
+        {
+          "title": "The Jesus Rolls",
+          "year": 2019,
+          "note": "An ostensible Big Lebowski spinoff following John Turturro's Jesus character."
+        },
+        {
+          "title": "The Wild Goose Lake",
+          "year": 2019,
+          "note": "A Cannes premiere he caught on Film Movement for a $12 virtual ticket, the best thing he watched all weekend."
+        },
+        {
+          "title": "Saint Frances",
+          "year": 2019,
+          "note": "An Oscilloscope rental he hadn't started yet, about a young woman's abortion and the friendship that follows."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "Emma",
+      "note": "on iTunes, missed in theaters",
+      "films": [
+        {
+          "title": "Emma",
+          "year": 2020,
+          "note": "Autumn de Wilde's directorial debut, with Anya Taylor-Joy as Emma and Johnny Flynn as Knightley. Sean calls it 'a flipped house': fresh coat of paint, same foundation, not entirely trustworthy. Both land on well-made but unnecessary next to Clueless and the 1996 Gwyneth Paltrow version."
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "heading": "Old-Person Recommendations",
+      "note": "for Amanda's mom",
+      "picks": [
+        {
+          "title": "Knives Out",
+          "year": 2019,
+          "by": "Amanda Dobbins",
+          "note": "Currently No. 1 on the VOD chart, behind only Onward."
+        },
+        {
+          "title": "Death on the Nile",
+          "year": 1978,
+          "by": "Amanda Dobbins",
+          "note": "The original Peter Ustinov Poirot, before the remake."
+        },
+        {
+          "title": "Evil Under the Sun",
+          "year": 1982,
+          "by": "Amanda Dobbins",
+          "note": "Another late Agatha Christie outing in the same vein."
+        },
+        {
+          "title": "Local Hero",
+          "year": 1983,
+          "by": "Sean Fennessey",
+          "note": "Bill Forsyth's dramedy about a Texas oil man sent to acquire a Scottish village; newly on Criterion Channel."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "The Hunt",
+      "note": "the most talked-about movie nobody saw",
+      "films": [
+        {
+          "title": "The Hunt",
+          "year": 2020,
+          "note": "Written by Nick Cuse and Damon Lindelof, directed by Craig Zobel. Sean and Amanda land on 'not terrible, just not good': a Blumhouse premise about polarization that never commits to a point of view, saved by Betty Gilpin."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Bill Tells Sean He's Wrong About a Movie",
+      "guest": "Bill Simmons on",
+      "note": "VOD economics, Affleck, and Hillary Swank's Hunt performance",
+      "films": [
+        {
+          "title": "The Hunt",
+          "year": 2020,
+          "note": "Bill liked it more than Sean and Amanda did, going in with lower expectations, and thinks Betty Gilpin proved herself a star."
+        },
+        {
+          "title": "The Way Back",
+          "year": 2020,
+          "note": "Affleck as an alcoholic basketball coach; Bill calls it his best performance in 15 years."
+        },
+        {
+          "title": "The Irishman",
+          "year": 2019,
+          "note": "Bill watched it at home with a crowd and didn't get the right feel for it; had to rewatch alone."
+        },
+        {
+          "title": "Spenser Confidential",
+          "year": 2020,
+          "note": "Bill's verdict: atrocious."
+        },
+        {
+          "title": "Triple Threat",
+          "year": 2019,
+          "note": "Bill's example (misremembering the cast) of the low-budget action movie Netflix cranks out monthly."
+        },
+        {
+          "title": "The Descendants",
+          "year": 2011,
+          "note": "Rewatched with his wife over the weekend: 'we just wanted to go to Hawaii.'"
+        },
+        {
+          "title": "Up in the Air",
+          "year": 2009,
+          "note": "Bill wonders whether this or Little Miss Sunshine gets made at all if pitched to a studio today."
+        },
+        {
+          "title": "Little Miss Sunshine",
+          "year": 2006,
+          "note": "Same question: would a script like this get greenlit now?"
+        },
+        {
+          "title": "Bird Box",
+          "year": 2018,
+          "note": "Bill's go-to example of a streaming movie owning the conversation for a week."
+        },
+        {
+          "title": "The Lovebirds",
+          "year": 2020,
+          "note": "Paramount sold it straight to Netflix instead of releasing it theatrically; stars Kumail Nanjiani and Issa Rae."
+        },
+        {
+          "title": "The Town",
+          "year": 2010,
+          "note": "Bill's pick for peak Affleck."
+        },
+        {
+          "title": "Gone Girl",
+          "year": 2014,
+          "note": "Affleck 'doing a parody of himself,' Bill says, and it works."
+        },
+        {
+          "title": "Argo",
+          "year": 2012,
+          "note": "The third leg of Bill's Affleck-is-great trio."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Already covered on the show",
+      "films": [
+        "Onward",
+        "The Invisible Man",
+        "Birds of Prey",
+        "Sonic the Hedgehog",
+        "Frozen II",
+        "The Gentlemen"
+      ]
+    },
+    {
+      "group": "Emma's visual and literary lineage",
+      "films": [
+        "Clueless",
+        "Sense and Sensibility",
+        "Marie Antoinette"
+      ]
+    },
+    {
+      "group": "Anya Taylor-Joy's other work",
+      "films": [
+        "The Witch",
+        "Glass",
+        "Split",
+        "Thoroughbreds",
+        "Bad Education",
+        "The New Mutants"
+      ]
+    },
+    {
+      "group": "The Blumhouse formula",
+      "films": [
+        "Get Out",
+        "Happy Death Day",
+        "The Purge",
+        "Compliance"
+      ]
+    },
+    {
+      "group": "Betty Gilpin comps",
+      "films": [
+        "Aliens",
+        "Edge of Tomorrow"
+      ]
+    },
+    {
+      "group": "Streaming case studies",
+      "films": [
+        "A Quiet Place",
+        "Set It Up",
+        "Mulan",
+        "Black Widow",
+        "Top Gun: Maverick",
+        "Trolls World Tour"
+      ]
+    },
+    {
+      "group": "Overacting comps",
+      "films": [
+        "Cliffhanger"
+      ]
+    },
+    {
+      "group": "Hillary Swank's range",
+      "films": [
+        "The Next Karate Kid",
+        "Basic Instinct"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Tiger King",
+      "Survivor",
+      "GLOW",
+      "Little Fires Everywhere",
+      "High Fidelity"
+    ],
+    "Ads": [
+      "MasterClass"
+    ],
+    "Other": [
+      "D-Nice's Instagram Live DJ set",
+      "Mark Wahlberg's TikTok"
+    ],
+    "Announced (unreleased)": [
+      "Face/Off 2"
+    ]
+  },
+  "tmdbOverrides": {
+    "Birds of Prey": 495764,
+    "Mulan": 337401
+  },
+  "tmdb": {
+    "The Platform": {
+      "id": 619264,
+      "poster": "/iXvQnzy6JCAx1PiQEKXuTY04ZHl.jpg",
+      "title": "The Platform",
+      "year": 2019
+    },
+    "Blow the Man Down": {
+      "id": 586451,
+      "poster": "/AgxDU9Vp0R6RIV6jpmQ4JrTcZzv.jpg",
+      "title": "Blow the Man Down",
+      "year": 2019
+    },
+    "Black Christmas": {
+      "id": 551808,
+      "poster": "/iMBlUzqwpz9ffbeLsYjyHPp8tn8.jpg",
+      "title": "Black Christmas",
+      "year": 2019
+    },
+    "Color Out of Space": {
+      "id": 548473,
+      "poster": "/k7rD7LzlsPS4jmE6Siah0QO4tAc.jpg",
+      "title": "Color Out of Space",
+      "year": 2020
+    },
+    "The Jesus Rolls": {
+      "id": 429416,
+      "poster": "/wxXZXYNn1H5eVRbpTZVFvWBvjlY.jpg",
+      "title": "The Jesus Rolls",
+      "year": 2019
+    },
+    "The Wild Goose Lake": {
+      "id": 575428,
+      "poster": "/w49o4vmNFpCt4VFJp7ip6tjHh3x.jpg",
+      "title": "The Wild Goose Lake",
+      "year": 2019
+    },
+    "Saint Frances": {
+      "id": 576005,
+      "poster": "/mkiI2VzPLyvZvlsX8WD84P16Cee.jpg",
+      "title": "Saint Frances",
+      "year": 2020
+    },
+    "Emma": {
+      "id": 556678,
+      "poster": "/uHpHzbHLSsVmAuuGuQSpyVDZmDc.jpg",
+      "title": "Emma.",
+      "year": 2020
+    },
+    "Knives Out": {
+      "id": 546554,
+      "poster": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+      "title": "Knives Out",
+      "year": 2019
+    },
+    "Death on the Nile": {
+      "id": 4192,
+      "poster": "/7qEymSp6wCT19AJxb7T3u6aKpi1.jpg",
+      "title": "Death on the Nile",
+      "year": 1978
+    },
+    "Evil Under the Sun": {
+      "id": 4193,
+      "poster": "/rQNMZoVVURf9YyYiBTsrOTEKALH.jpg",
+      "title": "Evil Under the Sun",
+      "year": 1982
+    },
+    "Local Hero": {
+      "id": 11235,
+      "poster": "/jqxD0H9a1rg5bXftsm6gsNOjt4n.jpg",
+      "title": "Local Hero",
+      "year": 1983
+    },
+    "The Hunt": {
+      "id": 514847,
+      "poster": "/wxPhn4ef1EAo5njxwBkAEVrlJJG.jpg",
+      "title": "The Hunt",
+      "year": 2020
+    },
+    "The Way Back": {
+      "id": 529485,
+      "poster": "/ylPnfaphW3FrLBUVwAREVtiL9My.jpg",
+      "title": "The Way Back",
+      "year": 2020
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Spenser Confidential": {
+      "id": 581600,
+      "poster": "/fePczipv6ZzDO2uoww4vTAu2Sq3.jpg",
+      "title": "Spenser Confidential",
+      "year": 2020
+    },
+    "Triple Threat": {
+      "id": 449985,
+      "poster": "/cSpM3QxmoSLp4O1WAMQpUDcaB7R.jpg",
+      "title": "Triple Threat",
+      "year": 2019
+    },
+    "The Descendants": {
+      "id": 65057,
+      "poster": "/8cDq5UlOPYeKm39okALCEOsZPxk.jpg",
+      "title": "The Descendants",
+      "year": 2011
+    },
+    "Up in the Air": {
+      "id": 22947,
+      "poster": "/useGH8nfwlaHK44IWEZdUYJOE2N.jpg",
+      "title": "Up in the Air",
+      "year": 2009
+    },
+    "Little Miss Sunshine": {
+      "id": 773,
+      "poster": "/niNdhTpPHSgw22tK0PLjQMV640v.jpg",
+      "title": "Little Miss Sunshine",
+      "year": 2006
+    },
+    "Bird Box": {
+      "id": 405774,
+      "poster": "/rGfGfgL2pEPCfhIvqHXieXFn7gp.jpg",
+      "title": "Bird Box",
+      "year": 2018
+    },
+    "The Lovebirds": {
+      "id": 576156,
+      "poster": "/5jdLnvALCpK1NkeQU1z4YvOe2dZ.jpg",
+      "title": "The Lovebirds",
+      "year": 2020
+    },
+    "The Town": {
+      "id": 23168,
+      "poster": "/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
+      "title": "The Town",
+      "year": 2010
+    },
+    "Gone Girl": {
+      "id": 210577,
+      "poster": "/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+      "title": "Gone Girl",
+      "year": 2014
+    },
+    "Argo": {
+      "id": 68734,
+      "poster": "/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
+      "title": "Argo",
+      "year": 2012
+    },
+    "Onward": {
+      "id": 508439,
+      "poster": "/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg",
+      "title": "Onward",
+      "year": 2020
+    },
+    "The Invisible Man": {
+      "id": 570670,
+      "poster": "/5EufsDwXdY2CVttYOk2WtYhgKpa.jpg",
+      "title": "The Invisible Man",
+      "year": 2020
+    },
+    "Birds of Prey": {
+      "id": 495764,
+      "poster": "/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
+      "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "year": 2020
+    },
+    "Sonic the Hedgehog": {
+      "id": 454626,
+      "poster": "/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+      "title": "Sonic the Hedgehog",
+      "year": 2020
+    },
+    "Frozen II": {
+      "id": 330457,
+      "poster": "/mINJaa34MtknCYl5AjtNJzWj8cD.jpg",
+      "title": "Frozen II",
+      "year": 2019
+    },
+    "The Gentlemen": {
+      "id": 522627,
+      "poster": "/jtrhTYB7xSrJxR1vusu99nvnZ1g.jpg",
+      "title": "The Gentlemen",
+      "year": 2020
+    },
+    "Clueless": {
+      "id": 9603,
+      "poster": "/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",
+      "title": "Clueless",
+      "year": 1995
+    },
+    "Sense and Sensibility": {
+      "id": 4584,
+      "poster": "/9YdQ73YmvInxpXZVNjEKePw9tRO.jpg",
+      "title": "Sense and Sensibility",
+      "year": 1995
+    },
+    "Marie Antoinette": {
+      "id": 1887,
+      "poster": "/cybXGmv8Rjd5Os8Xml6YxMBQ0Zt.jpg",
+      "title": "Marie Antoinette",
+      "year": 2006
+    },
+    "The Witch": {
+      "id": 310131,
+      "poster": "/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
+      "title": "The Witch",
+      "year": 2016
+    },
+    "Glass": {
+      "id": 450465,
+      "poster": "/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
+      "title": "Glass",
+      "year": 2019
+    },
+    "Split": {
+      "id": 381288,
+      "poster": "/lli31lYTFpvxVBeFHWoe5PMfW5s.jpg",
+      "title": "Split",
+      "year": 2017
+    },
+    "Thoroughbreds": {
+      "id": 397722,
+      "poster": "/dBhskn3zQZu1DKy1ZjjmJRxJUxm.jpg",
+      "title": "Thoroughbreds",
+      "year": 2018
+    },
+    "Bad Education": {
+      "id": 530723,
+      "poster": "/gizz5FphOtfSnLaGpRALOZgILd5.jpg",
+      "title": "Bad Education",
+      "year": 2019
+    },
+    "The New Mutants": {
+      "id": 340102,
+      "poster": "/xiDGcXJTvu1lazFRYip6g1eLt9c.jpg",
+      "title": "The New Mutants",
+      "year": 2020
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Happy Death Day": {
+      "id": 440021,
+      "poster": "/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg",
+      "title": "Happy Death Day",
+      "year": 2017
+    },
+    "The Purge": {
+      "id": 158015,
+      "poster": "/46X1ei9uf13nkkr0OhWldGyr5Uh.jpg",
+      "title": "The Purge",
+      "year": 2013
+    },
+    "Compliance": {
+      "id": 84188,
+      "poster": "/bLdu28fr9txYlHLmEOyGplDT3nH.jpg",
+      "title": "Compliance",
+      "year": 2012
+    },
+    "Aliens": {
+      "id": 679,
+      "poster": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "title": "Aliens",
+      "year": 1986
+    },
+    "Edge of Tomorrow": {
+      "id": 137113,
+      "poster": "/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
+      "title": "Edge of Tomorrow",
+      "year": 2014
+    },
+    "A Quiet Place": {
+      "id": 447332,
+      "poster": "/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+      "title": "A Quiet Place",
+      "year": 2018
+    },
+    "Set It Up": {
+      "id": 384677,
+      "poster": "/7omfwqiiMld9EnUps3Uk9YZLy6g.jpg",
+      "title": "Set It Up",
+      "year": 2018
+    },
+    "Mulan": {
+      "id": 337401,
+      "poster": "/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg",
+      "title": "Mulan",
+      "year": 2020
+    },
+    "Black Widow": {
+      "id": 497698,
+      "poster": "/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+      "title": "Black Widow",
+      "year": 2021
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Trolls World Tour": {
+      "id": 446893,
+      "poster": "/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg",
+      "title": "Trolls World Tour",
+      "year": 2020
+    },
+    "Cliffhanger": {
+      "id": 9350,
+      "poster": "/b28DOM54OHb1c7Lsk6Nu7Kwuonj.jpg",
+      "title": "Cliffhanger",
+      "year": 1993
+    },
+    "The Next Karate Kid": {
+      "id": 11231,
+      "poster": "/wI3gCi9w1cuUJCiwhviAy46we9Q.jpg",
+      "title": "The Next Karate Kid",
+      "year": 1994
+    },
+    "Basic Instinct": {
+      "id": 402,
+      "poster": "/76Ts0yoHk8kVQj9MMnoMixhRWoh.jpg",
+      "title": "Basic Instinct",
+      "year": 1992
+    }
+  }
+}

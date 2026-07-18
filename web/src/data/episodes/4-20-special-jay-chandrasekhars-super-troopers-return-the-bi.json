@@ -1,0 +1,228 @@
+{
+  "slug": "4-20-special-jay-chandrasekhars-super-troopers-return-the-bi",
+  "title": "4/20 Special: Jay Chandrasekhar’s ‘Super Troopers’ Return | The Big Picture (Ep. 60)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2018-04-20",
+  "runtimeMin": 42,
+  "format": "Jay Chandrasekhar on why it took 17 years to make Super Troopers 2, crowdfunding it past a skeptical Fox, and why he'd rather keep fighting for R-rated theatrical comedy than sell the franchise to Netflix.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "Jay Chandrasekhar on the long road back to the mustache",
+      "guest": "Jay Chandrasekhar on",
+      "films": [
+        {
+          "title": "Super Troopers 2",
+          "year": 2018,
+          "note": "The reason for the sit-down: Broken Lizard back in uniform 17 years on, released by Fox only after the troupe raised the money themselves ($4.6M from a crowdfunding campaign toward a $13.5M budget). Set on the Vermont border again, this time over a real post-9/11 U.S.-Canada boundary dispute."
+        },
+        {
+          "title": "Super Troopers",
+          "year": 2001,
+          "note": "The original: a modest theatrical run, then a 'monstrous' one on DVD that made it a dorm-room staple. Chandrasekhar figures a streaming-first release would never have earned the same rewatch loyalty."
+        },
+        {
+          "title": "Beerfest",
+          "year": 2006,
+          "note": "One of the Broken Lizard films between the two Super Troopers, part of a deliberately 'Python-esque' spread rather than sequels to one hit."
+        },
+        {
+          "title": "Club Dread",
+          "year": 2004,
+          "note": "The troupe's horror movie, cited as proof they refused to get typecast the way the Police Academy crew did."
+        },
+        {
+          "title": "The Slammin' Salmon",
+          "year": 2009,
+          "note": "Broken Lizard's restaurant comedy, named in the same run of movies they made to avoid one lane."
+        },
+        {
+          "title": "The Dukes of Hazzard",
+          "year": 2005,
+          "note": "A for-hire studio directing gig Chandrasekhar took alongside the Broken Lizard projects and 110-plus episodes of TV."
+        },
+        {
+          "title": "Youngblood",
+          "year": 1986,
+          "note": "Rob Lowe played a Canadian in this hockey movie and wanted to do it again; he signed on to Super Troopers 2's villain sight unseen after working with Chandrasekhar on The Grinder."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The studio-economics argument",
+      "films": [
+        "Iron Man",
+        "Kramer vs. Kramer",
+        "The Godfather",
+        "Caddyshack",
+        "Police Academy"
+      ]
+    },
+    {
+      "group": "Crowdfunding and comparisons",
+      "films": [
+        "Veronica Mars",
+        "Ocean's Eleven",
+        "Michael Clayton"
+      ]
+    },
+    {
+      "group": "The state of the studio comedy",
+      "films": [
+        "Blockers",
+        "Game Night",
+        "Get Out",
+        "A Quiet Place"
+      ]
+    },
+    {
+      "group": "Coming up on the show",
+      "films": [
+        "The Devil and Father Amorth"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Crown",
+      "Arrested Development",
+      "Community",
+      "The Grinder"
+    ],
+    "Unmade": [
+      "American Indian"
+    ],
+    "Ads": [
+      "Google Assistant"
+    ]
+  },
+  "tmdb": {
+    "Super Troopers 2": {
+      "id": 50022,
+      "poster": "/57SZgdugVClIy22rfnANeBJ5KsN.jpg",
+      "title": "Super Troopers 2",
+      "year": 2018
+    },
+    "Super Troopers": {
+      "id": 39939,
+      "poster": "/yJyxPItcLNVfYr7idOphQTmQ9hK.jpg",
+      "title": "Super Troopers",
+      "year": 2001
+    },
+    "Beerfest": {
+      "id": 9988,
+      "poster": "/5srGbSv3zhEUjXFOZR9qHkgJO6l.jpg",
+      "title": "Beerfest",
+      "year": 2006
+    },
+    "Club Dread": {
+      "id": 11217,
+      "poster": "/9slWyVotwxZNthMcKoeFaK3tgNz.jpg",
+      "title": "Club Dread",
+      "year": 2004
+    },
+    "The Slammin' Salmon": {
+      "id": 34423,
+      "poster": "/yX9skMoAc1JAimJFtczEif4f1jS.jpg",
+      "title": "The Slammin' Salmon",
+      "year": 2009
+    },
+    "The Dukes of Hazzard": {
+      "id": 6519,
+      "poster": "/2ZrNyYJEgE0VIqhelQPqFTR20xF.jpg",
+      "title": "The Dukes of Hazzard",
+      "year": 2005
+    },
+    "Youngblood": {
+      "id": 17465,
+      "poster": "/SLQRH3AlTJHXk6ZuW0yMAelMlj.jpg",
+      "title": "Youngblood",
+      "year": 1986
+    },
+    "Iron Man": {
+      "id": 1726,
+      "poster": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "title": "Iron Man",
+      "year": 2008
+    },
+    "Kramer vs. Kramer": {
+      "id": 12102,
+      "poster": "/3CUP5V5SWfHSK4qvkZF7lMNyugY.jpg",
+      "title": "Kramer vs. Kramer",
+      "year": 1979
+    },
+    "The Godfather": {
+      "id": 238,
+      "poster": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "title": "The Godfather",
+      "year": 1972
+    },
+    "Caddyshack": {
+      "id": 11977,
+      "poster": "/lXnNz7zOXCsftMDVoU3VSo0Eioi.jpg",
+      "title": "Caddyshack",
+      "year": 1980
+    },
+    "Police Academy": {
+      "id": 9336,
+      "poster": "/3PriqoVUQcPwcyvk0SJRiMTdBJK.jpg",
+      "title": "Police Academy",
+      "year": 1984
+    },
+    "Veronica Mars": {
+      "id": 177494,
+      "poster": "/qWBAPJdew9MRUv8ApRPkXAM1feB.jpg",
+      "title": "Veronica Mars",
+      "year": 2014
+    },
+    "Ocean's Eleven": {
+      "id": 161,
+      "poster": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+      "title": "Ocean's Eleven",
+      "year": 2001
+    },
+    "Michael Clayton": {
+      "id": 4566,
+      "poster": "/hhkW4yVIGo8Bee3UITKvqOvhNMG.jpg",
+      "title": "Michael Clayton",
+      "year": 2007
+    },
+    "Blockers": {
+      "id": 437557,
+      "poster": "/uvlUQXg0AlpGzKukO11K7QtW3Yu.jpg",
+      "title": "Blockers",
+      "year": 2018
+    },
+    "Game Night": {
+      "id": 445571,
+      "poster": "/85R8LMyn9f2Lev2YPBF8Nughrkv.jpg",
+      "title": "Game Night",
+      "year": 2018
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "A Quiet Place": {
+      "id": 447332,
+      "poster": "/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+      "title": "A Quiet Place",
+      "year": 2018
+    },
+    "The Devil and Father Amorth": {
+      "id": 457775,
+      "poster": "/de5VAk2YiONqmoXzyOO80QyM0Xa.jpg",
+      "title": "The Devil and Father Amorth",
+      "year": 2018
+    }
+  },
+  "spotifyEpisodeId": "6CItIQmvXXM9S1X4IVqDQl"
+}

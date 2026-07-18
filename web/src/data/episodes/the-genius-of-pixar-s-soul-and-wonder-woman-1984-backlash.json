@@ -1,0 +1,343 @@
+{
+  "slug": "the-genius-of-pixar-s-soul-and-wonder-woman-1984-backlash",
+  "title": "The Genius of Pixar's 'Soul' and 'Wonder Woman 1984' Backlash",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2020-12-31",
+  "runtimeMin": 80,
+  "format": "Sean and Amanda dig into the online backlash to Wonder Woman 1984, then make the case for Soul as an accessible, Best Picture-worthy risk from Pixar.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The Wonder Woman 1984 Backlash",
+      "films": [
+        {
+          "title": "Wonder Woman 1984",
+          "year": 2020,
+          "note": "Their last episode called it tepid but not bad, which turned out to be the wrong temperature for the internet. They walk through the real complaints: a bloated 151-minute runtime, a muddled Cold War/Egypt subplot, a dream-stone MacGuffin that doesn't survive scrutiny, zero '80s needle drops. None of it, they conclude, explains how loud the pile-on got."
+        },
+        {
+          "title": "Avengers: Endgame",
+          "year": 2019,
+          "note": "The counterexample to the MacGuffin complaint: a movie whose Infinity Stone logic barely holds together either, but the payoff was big enough that nobody bothered picking it apart."
+        },
+        {
+          "title": "Batman v Superman: Dawn of Justice",
+          "year": 2016,
+          "note": "Sean's pick for a superhero movie actually worse than WW84, and the film where they think Diana was first introduced."
+        },
+        {
+          "title": "Star Wars: The Rise of Skywalker",
+          "year": 2019,
+          "note": "Their reference point for backlash at this scale (they recorded a whole episode about its reaction from a house in Palm Springs the year before), and the case that how you execute fan service is what actually matters."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Soul and Pete Docter's Pixar Legacy",
+      "films": [
+        {
+          "title": "Soul",
+          "year": 2020,
+          "note": "Joe Gardner (Jamie Foxx), a middle school band teacher and aspiring jazz pianist, dies nine minutes in and ends up fighting his way back to Earth alongside an unformed soul named 22 (Tina Fey). Sean had it at No. 3 on his best-of-2020 list; both agree it isn't really a kids' movie, just one that kids happen to be watching, and Sean argues it should win Best Picture for what that would do for animation at the Oscars."
+        },
+        {
+          "title": "Inside Out",
+          "year": 2015,
+          "note": "Amanda's five-star benchmark and one of only three animated films she truly loves. Soul is 'of the school of' it, they agree, without quite reaching its level: if Inside Out is about how you feel, Soul is about who you are."
+        },
+        {
+          "title": "Toy Story",
+          "year": 1995,
+          "note": "The starting point of the 'growing up alongside Pixar' thread. Amanda was 10 when it came out but didn't actually see it until years later."
+        },
+        {
+          "title": "Up",
+          "year": 2009,
+          "note": "The other Pixar gut-punch montage they compare Soul's ending to, and one of just three animated films ever nominated for Best Picture."
+        },
+        {
+          "title": "Coco",
+          "year": 2017,
+          "note": "The parallel they draw for Kemp Powers joining Soul late to fix what wasn't working: the same role Adrian Molina played here alongside Lee Unkrich, despite Coco getting shut out of the Best Picture conversation."
+        },
+        {
+          "title": "WALL·E",
+          "year": 2008,
+          "note": "Named alongside Toy Story, Inside Out, and Coco as the tier of Pixar Sean ranks above Soul."
+        },
+        {
+          "title": "Cars",
+          "year": 2006,
+          "note": "Amanda's never seen it. Her explanation: a movie can't be set in the real world once its characters have eyeballs."
+        },
+        {
+          "title": "Finding Nemo",
+          "year": 2003,
+          "note": "The closest prior example of an adult Pixar lead, and still not close enough: a father who's also a fish isn't the same swing as a middle-aged teacher."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Superhero sequels that didn't land",
+      "films": [
+        "Iron Man 2",
+        "Thor: The Dark World",
+        "Captain Marvel",
+        "Dark Phoenix",
+        "Hellboy",
+        "The New Mutants"
+      ]
+    },
+    {
+      "group": "2020-21 awards race",
+      "films": [
+        "Nomadland",
+        "The Trial of the Chicago 7",
+        "Mank",
+        "Promising Young Woman",
+        "One Night in Miami..."
+      ]
+    },
+    {
+      "group": "Animated Best Picture nominees",
+      "films": [
+        "Beauty and the Beast",
+        "Toy Story 3"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Tenet",
+        "Iron Man",
+        "Thor: Ragnarok",
+        "Trolls World Tour",
+        "Harry Potter and the Chamber of Secrets",
+        "The Santa Clause"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Hellboy": 456740,
+    "Beauty and the Beast": 10020
+  },
+  "excluded": {
+    "TV": [
+      "The Mandalorian",
+      "Game of Thrones",
+      "Breaking Bad",
+      "The Sopranos",
+      "Wonder Woman (1975 TV series)",
+      "Daniel Tiger's Neighborhood",
+      "PAW Patrol",
+      "Peppa Pig",
+      "Mickey Mouse"
+    ],
+    "Games": [
+      "FIFA World Cup Launch Edition"
+    ],
+    "Ads": [
+      "Carvana",
+      "NOS Energy",
+      "Netflix",
+      "FanDuel",
+      "Boar's Head"
+    ]
+  },
+  "tmdb": {
+    "Wonder Woman 1984": {
+      "id": 464052,
+      "poster": "/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
+      "title": "Wonder Woman 1984",
+      "year": 2020
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Batman v Superman: Dawn of Justice": {
+      "id": 209112,
+      "poster": "/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
+      "title": "Batman v Superman: Dawn of Justice",
+      "year": 2016
+    },
+    "Star Wars: The Rise of Skywalker": {
+      "id": 181812,
+      "poster": "/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+      "title": "Star Wars: The Rise of Skywalker",
+      "year": 2019
+    },
+    "Soul": {
+      "id": 508442,
+      "poster": "/6jmppcaubzLF8wkXM36ganVISCo.jpg",
+      "title": "Soul",
+      "year": 2020
+    },
+    "Inside Out": {
+      "id": 150540,
+      "poster": "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+      "title": "Inside Out",
+      "year": 2015
+    },
+    "Toy Story": {
+      "id": 862,
+      "poster": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+      "title": "Toy Story",
+      "year": 1995
+    },
+    "Up": {
+      "id": 14160,
+      "poster": "/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
+      "title": "Up",
+      "year": 2009
+    },
+    "Coco": {
+      "id": 354912,
+      "poster": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+      "title": "Coco",
+      "year": 2017
+    },
+    "WALL·E": {
+      "id": 10681,
+      "poster": "/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+      "title": "WALL·E",
+      "year": 2008
+    },
+    "Cars": {
+      "id": 920,
+      "poster": "/oloVyeBbkVGbFFaUjR8I7Boo7wA.jpg",
+      "title": "Cars",
+      "year": 2006
+    },
+    "Finding Nemo": {
+      "id": 12,
+      "poster": "/5lc6nQc0VhWFYFbNv016xze8Jvy.jpg",
+      "title": "Finding Nemo",
+      "year": 2003
+    },
+    "Iron Man 2": {
+      "id": 10138,
+      "poster": "/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+      "title": "Iron Man 2",
+      "year": 2010
+    },
+    "Thor: The Dark World": {
+      "id": 76338,
+      "poster": "/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",
+      "title": "Thor: The Dark World",
+      "year": 2013
+    },
+    "Captain Marvel": {
+      "id": 299537,
+      "poster": "/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+      "title": "Captain Marvel",
+      "year": 2019
+    },
+    "Dark Phoenix": {
+      "id": 320288,
+      "poster": "/cCTJPelKGLhALq3r51A9uMonxKj.jpg",
+      "title": "Dark Phoenix",
+      "year": 2019
+    },
+    "Hellboy": {
+      "id": 456740,
+      "poster": "/bk8LyaMqUtaQ9hUShuvFznQYQKR.jpg",
+      "title": "Hellboy",
+      "year": 2019
+    },
+    "The New Mutants": {
+      "id": 340102,
+      "poster": "/xiDGcXJTvu1lazFRYip6g1eLt9c.jpg",
+      "title": "The New Mutants",
+      "year": 2020
+    },
+    "Nomadland": {
+      "id": 581734,
+      "poster": "/8Vc5EOUEIF1EUXuX9eLFf7BvN3P.jpg",
+      "title": "Nomadland",
+      "year": 2021
+    },
+    "The Trial of the Chicago 7": {
+      "id": 556984,
+      "poster": "/ahf5cVdooMAlDRiJOZQNuLqa1Is.jpg",
+      "title": "The Trial of the Chicago 7",
+      "year": 2020
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "Promising Young Woman": {
+      "id": 582014,
+      "poster": "/73QoFJFmUrJfDG2EynFjNc5gJxk.jpg",
+      "title": "Promising Young Woman",
+      "year": 2020
+    },
+    "One Night in Miami...": {
+      "id": 661914,
+      "poster": "/1DLUb9PTDqXMSgsD7RmiJs7ZJIx.jpg",
+      "title": "One Night in Miami...",
+      "year": 2020
+    },
+    "Beauty and the Beast": {
+      "id": 10020,
+      "poster": "/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+      "title": "Beauty and the Beast",
+      "year": 1991
+    },
+    "Toy Story 3": {
+      "id": 10193,
+      "poster": "/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+      "title": "Toy Story 3",
+      "year": 2010
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "Iron Man": {
+      "id": 1726,
+      "poster": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "title": "Iron Man",
+      "year": 2008
+    },
+    "Thor: Ragnarok": {
+      "id": 284053,
+      "poster": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "title": "Thor: Ragnarok",
+      "year": 2017
+    },
+    "Trolls World Tour": {
+      "id": 446893,
+      "poster": "/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg",
+      "title": "Trolls World Tour",
+      "year": 2020
+    },
+    "Harry Potter and the Chamber of Secrets": {
+      "id": 672,
+      "poster": "/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
+      "title": "Harry Potter and the Chamber of Secrets",
+      "year": 2002
+    },
+    "The Santa Clause": {
+      "id": 11395,
+      "poster": "/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg",
+      "title": "The Santa Clause",
+      "year": 1994
+    }
+  }
+}

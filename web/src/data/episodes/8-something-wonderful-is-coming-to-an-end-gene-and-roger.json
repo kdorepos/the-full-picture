@@ -1,0 +1,289 @@
+{
+  "slug": "8-something-wonderful-is-coming-to-an-end-gene-and-roger",
+  "title": "8. “Something Wonderful Is Coming to an End” | Gene and Roger",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Brian Raftery"
+  ],
+  "published": "2021-08-25",
+  "runtimeMin": 34,
+  "format": "The finale of Brian Raftery's Gene and Roger series: Ebert's post-Siskel decades, the rise of internet movie culture, and the slow cancellation of At the Movies.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The last act",
+      "note": "Ebert after Siskel, and the media meltdown that ended the show",
+      "films": [
+        {
+          "title": "Heat",
+          "year": 1995,
+          "note": "Tied for No. 10 on Scorsese's best-of-the-90s list when he guest-hosted with Ebert, which Raftery calls cheating."
+        },
+        {
+          "title": "Malcolm X",
+          "year": 1992,
+          "note": "The other half of Scorsese's tied No. 10."
+        },
+        {
+          "title": "Casablanca",
+          "year": 1942,
+          "note": "The kind of old title Roeper reviewed on the audition tape he sent Sneak Previews as an 11-year-old."
+        },
+        {
+          "title": "Juno",
+          "year": 2007,
+          "note": "One of the small, R-rated character stories that topped Ebert's aughts year-end lists."
+        },
+        {
+          "title": "Monster",
+          "year": 2003
+        },
+        {
+          "title": "Almost Famous",
+          "year": 2000
+        },
+        {
+          "title": "Harry Potter and the Sorcerer's Stone",
+          "year": 2001,
+          "note": "Cited as the era's expensive fantasy spectacles Ebert was glad to see taken seriously again."
+        },
+        {
+          "title": "The Lord of the Rings: The Fellowship of the Ring",
+          "year": 2001
+        },
+        {
+          "title": "Lawrence of Arabia",
+          "year": 1962,
+          "note": "Ebert's benchmark for the large-scale ambition he saw returning to Hollywood."
+        },
+        {
+          "title": "Star Wars",
+          "year": 1977,
+          "note": "The other benchmark epic he name-checked."
+        },
+        {
+          "title": "Deuce Bigalow: Male Gigolo",
+          "year": 1999,
+          "note": "The sort of sequel Ebert despised on sight."
+        },
+        {
+          "title": "Better Luck Tomorrow",
+          "year": 2002,
+          "note": "Justin Lin's Sundance debut; Ebert stood on his seat to defend it against a hostile Q&A questioner."
+        },
+        {
+          "title": "A Prairie Home Companion",
+          "year": 2006,
+          "note": "Altman's final film, and one of Ebert's last on-screen reviews before his cancer surgeries."
+        },
+        {
+          "title": "War of the Worlds",
+          "year": 2005,
+          "note": "Spielberg's remake. Ebert's thumbs down baffled Roeper."
+        },
+        {
+          "title": "E.T. the Extra-Terrestrial",
+          "year": 1982,
+          "note": "Roeper's example that a four-star rating is relative, not absolute."
+        },
+        {
+          "title": "Close Encounters of the Third Kind",
+          "year": 1977
+        },
+        {
+          "title": "The Longest Yard",
+          "year": 2005,
+          "note": "The remake Ebert gave a thumbs up while panning War of the Worlds."
+        },
+        {
+          "title": "Home Alone 3",
+          "year": 1997,
+          "note": "The Siskel-Ebert argument clip that drew half a million views decades later."
+        },
+        {
+          "title": "Joe Versus the Volcano",
+          "year": 1990,
+          "note": "Ebert's favorite oddball; he made houseguests watch it, and only near the end did Chaz grasp how much it meant to him."
+        },
+        {
+          "title": "Bachelor Party",
+          "year": 1984,
+          "note": "Lin's example of the show's range: reviewed right next to a Scorsese film."
+        },
+        {
+          "title": "Porky's II: The Next Day",
+          "year": 1983,
+          "note": "Raftery's episode-four correction: he'd misnamed the film they actually reviewed."
+        },
+        {
+          "title": "Porky's Revenge",
+          "year": 1985,
+          "note": "The review he actually meant."
+        }
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Harry Potter and the Sorcerer's Stone": 671
+  },
+  "excluded": {
+    "TV": [
+      "Sneak Previews",
+      "Siskel & Ebert",
+      "At the Movies",
+      "Ebert & Roeper and the Movies",
+      "Pardon the Interruption",
+      "Crossfire",
+      "Inside Edition",
+      "The Tonight Show with Jay Leno"
+    ],
+    "Web": [
+      "Ain't It Cool News",
+      "Friendster",
+      "Facebook",
+      "Twitter",
+      "YouTube"
+    ],
+    "Ads": [
+      "Netflix FIFA World Cup Launch Edition",
+      "Boar's Head",
+      "Colgate Optic White",
+      "White Claw"
+    ]
+  },
+  "tmdb": {
+    "Heat": {
+      "id": 949,
+      "poster": "/e09dLw1Ljtccd2P4NsuUvVtS5du.jpg",
+      "title": "Heat",
+      "year": 1995
+    },
+    "Malcolm X": {
+      "id": 1883,
+      "poster": "/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
+      "title": "Malcolm X",
+      "year": 1992
+    },
+    "Casablanca": {
+      "id": 289,
+      "poster": "/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+      "title": "Casablanca",
+      "year": 1943
+    },
+    "Juno": {
+      "id": 7326,
+      "poster": "/jNIn2tVhpvFD6P9IojldI3mNYcn.jpg",
+      "title": "Juno",
+      "year": 2007
+    },
+    "Monster": {
+      "id": 504,
+      "poster": "/sWPKG1GX0woLNBuvDZkwZC8Q3Ub.jpg",
+      "title": "Monster",
+      "year": 2003
+    },
+    "Almost Famous": {
+      "id": 786,
+      "poster": "/3rrkyLYbgLj84AYvjhdcJot4JPx.jpg",
+      "title": "Almost Famous",
+      "year": 2000
+    },
+    "Harry Potter and the Sorcerer's Stone": {
+      "id": 671,
+      "poster": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "year": 2001
+    },
+    "The Lord of the Rings: The Fellowship of the Ring": {
+      "id": 120,
+      "poster": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001
+    },
+    "Lawrence of Arabia": {
+      "id": 947,
+      "poster": "/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg",
+      "title": "Lawrence of Arabia",
+      "year": 1962
+    },
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
+    },
+    "Deuce Bigalow: Male Gigolo": {
+      "id": 10402,
+      "poster": "/w0UKAcY4fAPuQW2GhAoIMwutIA5.jpg",
+      "title": "Deuce Bigalow: Male Gigolo",
+      "year": 1999
+    },
+    "Better Luck Tomorrow": {
+      "id": 14290,
+      "poster": "/alJULQQnuiYXjgVmj2EYgwXOcIn.jpg",
+      "title": "Better Luck Tomorrow",
+      "year": 2003
+    },
+    "A Prairie Home Companion": {
+      "id": 9526,
+      "poster": "/jVdqvd8SgPTWLdG3qc9pSlXGxQi.jpg",
+      "title": "A Prairie Home Companion",
+      "year": 2006
+    },
+    "War of the Worlds": {
+      "id": 74,
+      "poster": "/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
+      "title": "War of the Worlds",
+      "year": 2005
+    },
+    "E.T. the Extra-Terrestrial": {
+      "id": 601,
+      "poster": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+      "title": "E.T. the Extra-Terrestrial",
+      "year": 1982
+    },
+    "Close Encounters of the Third Kind": {
+      "id": 840,
+      "poster": "/yaPx3cK9zGFX3SbcKwxWM1QIbUh.jpg",
+      "title": "Close Encounters of the Third Kind",
+      "year": 1977
+    },
+    "The Longest Yard": {
+      "id": 9291,
+      "poster": "/nbKcVBcxF96ARW2oKHqDYAcLdu.jpg",
+      "title": "The Longest Yard",
+      "year": 2005
+    },
+    "Home Alone 3": {
+      "id": 9714,
+      "poster": "/6uOadrCfle0n2LOOxHbgWEdnrm2.jpg",
+      "title": "Home Alone 3",
+      "year": 1997
+    },
+    "Joe Versus the Volcano": {
+      "id": 2565,
+      "poster": "/fwjMUuDZUxedfsUpVQKQN8cYfzB.jpg",
+      "title": "Joe Versus the Volcano",
+      "year": 1990
+    },
+    "Bachelor Party": {
+      "id": 12309,
+      "poster": "/dZf3UpPZDvJYTODSUJQy7wYEop.jpg",
+      "title": "Bachelor Party",
+      "year": 1984
+    },
+    "Porky's II: The Next Day": {
+      "id": 19698,
+      "poster": "/rZjSlaXM8Ez91ZV39frILApGuKg.jpg",
+      "title": "Porky's II: The Next Day",
+      "year": 1983
+    },
+    "Porky's Revenge": {
+      "id": 23919,
+      "poster": "/Ad3F9Fm7zdZmBqBSvJIAJRfac9m.jpg",
+      "title": "Porky's Revenge",
+      "year": 1985
+    }
+  }
+}

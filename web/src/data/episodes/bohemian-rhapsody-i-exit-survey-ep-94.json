@@ -1,0 +1,215 @@
+{
+  "slug": "bohemian-rhapsody-i-exit-survey-ep-94",
+  "title": "Bohemian Rhapsody I Exit Survey (Ep. 94)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Rob Harvilla"
+  ],
+  "published": "2018-11-05",
+  "runtimeMin": 30,
+  "format": "Sean Fennessey and Rob Harvilla run an Exit Survey on Bohemian Rhapsody: a bad movie that gets by on the real Queen songs and a near shot-for-shot Live Aid finale, with a lip-synced Rami Malek turning in the best performance in it.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "Exit Survey: 'Bohemian Rhapsody'",
+      "films": [
+        {
+          "title": "Bohemian Rhapsody",
+          "year": 2018,
+          "note": "Number one movie in the country, $140M worldwide over the weekend, and both hosts agree it's a bad one: drab, predictable biopic beats and a band-mandated insistence that all four members matter. Bryan Singer directed until he left mid-shoot; Dexter Fletcher finished it. The hosts note the abandoned Sacha Baron Cohen / Stephen Frears version would have been rawer but wouldn't have gotten the Queen catalog. Rami Malek is the best thing in it, lip-syncing rather than singing, and the roughly 20-minute Live Aid recreation is the reason to see it."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The rock biopic, before and after",
+      "note": "comparison points the hosts reach for",
+      "films": [
+        {
+          "title": "A Star Is Born",
+          "year": 2018,
+          "note": "Playing next door in theater 10; Harvilla wandered in mid-'Shallow' and cried before doubling back to Bohemian Rhapsody. The other rock movie of the fall."
+        },
+        {
+          "title": "Walk the Line",
+          "year": 2005,
+          "note": "Fennessey rewatched it and thinks it has aged badly: Joaquin Phoenix sings Johnny Cash but 'sounds nauseous.' Their case against making the actor sing."
+        },
+        {
+          "title": "Get On Up",
+          "year": 2014,
+          "note": "Chadwick Boseman doesn't sing the James Brown vocals and it doesn't matter, because the dancing carries it. Cited for why lip-sync can help."
+        },
+        {
+          "title": "This Is Spinal Tap",
+          "year": 1984,
+          "note": "Harvilla's favorite of the form, if a mockumentary is allowed to count."
+        },
+        {
+          "title": "The Runaways",
+          "year": 2010,
+          "note": "His favorite real-life rock biopic: trashy, lurid, unbothered by accuracy or award ambition. Floria Sigismondi directed; Michael Shannon plays Kim Fowley."
+        },
+        {
+          "title": "Last Days",
+          "year": 2005,
+          "note": "Gus Van Sant's shapeless Kurt Cobain figure (Michael Pitt), made oblique because the estate wouldn't grant the real story."
+        },
+        {
+          "title": "Rocketman",
+          "year": 2019,
+          "note": "Unnamed in the episode: the upcoming Taron Egerton Elton John film, directed by Dexter Fletcher, who finished this Queen movie. Egerton sings; Fennessey isn't sold on the footage."
+        },
+        {
+          "title": "Vox Lux",
+          "year": 2018,
+          "note": "December's Natalie Portman-as-invented-rock-star film, one data point in the actors-playing-rock-stars trend the hosts flag."
+        },
+        {
+          "title": "Her Smell",
+          "year": 2018,
+          "note": "Alex Ross Perry's Elisabeth Moss rock movie, the third in that same trend."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Wayne's World",
+        "The Usual Suspects",
+        "Dangerous Liaisons",
+        "High Fidelity",
+        "Papillon",
+        "The Master",
+        "Terminal",
+        "Kingsman: The Secret Service"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Mr. Robot",
+      "The Gong Show"
+    ],
+    "Video games": [
+      "The Beatles: Rock Band"
+    ]
+  },
+  "tmdbOverrides": {
+    "Last Days": 1665
+  },
+  "tmdb": {
+    "Bohemian Rhapsody": {
+      "id": 424694,
+      "poster": "/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+      "title": "Bohemian Rhapsody",
+      "year": 2018
+    },
+    "A Star Is Born": {
+      "id": 332562,
+      "poster": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "title": "A Star Is Born",
+      "year": 2018
+    },
+    "Walk the Line": {
+      "id": 69,
+      "poster": "/p8lPTjvjOjTfvC1E9pmMwcF9vkn.jpg",
+      "title": "Walk the Line",
+      "year": 2005
+    },
+    "Get On Up": {
+      "id": 239566,
+      "poster": "/dVbGeU5agxFGcJnL5hk4uO8W7i2.jpg",
+      "title": "Get On Up",
+      "year": 2014
+    },
+    "This Is Spinal Tap": {
+      "id": 11031,
+      "poster": "/b3lllDltoBws5uKZzBYVSjpjjJx.jpg",
+      "title": "This Is Spinal Tap",
+      "year": 1984
+    },
+    "The Runaways": {
+      "id": 27586,
+      "poster": "/byeTXKg9paqiFQbtfI28FOIhebg.jpg",
+      "title": "The Runaways",
+      "year": 2010
+    },
+    "Last Days": {
+      "id": 1665,
+      "poster": "/btbp47CHXgLhw30kyDoVfNFLB3g.jpg",
+      "title": "Last Days",
+      "year": 2005
+    },
+    "Rocketman": {
+      "id": 504608,
+      "poster": "/f4FF18ia7yTvHf2izNrHqBmgH8U.jpg",
+      "title": "Rocketman",
+      "year": 2019
+    },
+    "Vox Lux": {
+      "id": 429202,
+      "poster": "/xmFOjB5bGvFqNzsX5TbIWzdvpGd.jpg",
+      "title": "Vox Lux",
+      "year": 2018
+    },
+    "Her Smell": {
+      "id": 520679,
+      "poster": "/qEvgdGBMORPS0rz8pqkVH3obLee.jpg",
+      "title": "Her Smell",
+      "year": 2019
+    },
+    "Wayne's World": {
+      "id": 8872,
+      "poster": "/fHwZnFNWR7PaS9t5EBwTvGPeoYQ.jpg",
+      "title": "Wayne's World",
+      "year": 1992
+    },
+    "The Usual Suspects": {
+      "id": 629,
+      "poster": "/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg",
+      "title": "The Usual Suspects",
+      "year": 1995
+    },
+    "Dangerous Liaisons": {
+      "id": 859,
+      "poster": "/hFem30C3uJUd9smNy7rFLGVhKys.jpg",
+      "title": "Dangerous Liaisons",
+      "year": 1988
+    },
+    "High Fidelity": {
+      "id": 243,
+      "poster": "/e2LZGB62GMhv3Fo8tDZjY87I81a.jpg",
+      "title": "High Fidelity",
+      "year": 2000
+    },
+    "Papillon": {
+      "id": 433498,
+      "poster": "/ahF5c6vyP8HWMqIwlhecbRALkjq.jpg",
+      "title": "Papillon",
+      "year": 2017
+    },
+    "The Master": {
+      "id": 68722,
+      "poster": "/rUSjbyvYWN9H4az8xt0tDtU7I6v.jpg",
+      "title": "The Master",
+      "year": 2012
+    },
+    "Terminal": {
+      "id": 385332,
+      "poster": "/xi7pA3lL6Wb78p6Y6PgWoHDMjrM.jpg",
+      "title": "Terminal",
+      "year": 2018
+    },
+    "Kingsman: The Secret Service": {
+      "id": 207703,
+      "poster": "/17i5YPTfHOjXoieArpATWGRhLj1.jpg",
+      "title": "Kingsman: The Secret Service",
+      "year": 2015
+    }
+  }
+}

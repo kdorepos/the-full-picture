@@ -1,0 +1,375 @@
+{
+  "slug": "the-royal-movie-hall-of-fame-and-spencer",
+  "title": "The Royal Movie Hall of Fame and ‘Spencer’",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2021-11-12",
+  "runtimeMin": 65,
+  "format": "Amanda and Sean debate Pablo Larraín's Kristen Stewart-as-Diana thriller 'Spencer,' then build a Royal Movie Hall of Fame.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "'Spencer'",
+      "note": "Pablo Larraín's Diana horror-melodrama",
+      "films": [
+        {
+          "title": "Spencer",
+          "year": 2021,
+          "note": "Sean called it 'The Shining' by way of a Diana biopic; Amanda, a royal-content obsessive, still landed on 'mediocre.'"
+        }
+      ]
+    },
+    {
+      "kind": "halloffame",
+      "heading": "The Royal Movie Hall of Fame",
+      "note": "Amanda's list, English-language and mostly British royals",
+      "honoree": "Royal movies",
+      "films": [
+        {
+          "title": "The Queen",
+          "year": 2006,
+          "note": "The lock, no. 1 for Amanda — Helen Mirren as Elizabeth II in the week after Diana's death."
+        },
+        {
+          "title": "The Lion in Winter",
+          "year": 1968,
+          "note": "Henry II, Eleanor of Aquitaine, and a Christmas full of screaming sons."
+        },
+        {
+          "title": "Marie Antoinette",
+          "year": 2006,
+          "note": "Sofia Coppola's, shot at Versailles — Amanda's pick for the non-British slot."
+        },
+        {
+          "title": "A Man for All Seasons",
+          "year": 1966,
+          "note": "Sean's bid: Thomas More versus Henry VIII, a Best Picture winner."
+        },
+        {
+          "title": "The Madness of King George",
+          "year": 1994,
+          "note": "Amanda's pick — George III's mental illness played as comedy with empathy."
+        },
+        {
+          "title": "The Last Emperor",
+          "year": 1987,
+          "note": "Sean's pick: Bertolucci's Puyi epic, the first Western production shot in Beijing."
+        },
+        {
+          "title": "Henry V",
+          "year": 1944,
+          "note": "The Olivier version, not the Branagh — England and France at war."
+        },
+        {
+          "title": "Throne of Blood",
+          "year": 1957,
+          "note": "Kurosawa's Macbeth; Sean's favorite of the whole list."
+        },
+        {
+          "title": "Coming to America",
+          "year": 1988,
+          "note": "The one non-real royal Amanda insisted on — Eddie Murphy in five roles."
+        },
+        {
+          "title": "The Princess Diaries",
+          "year": 2001,
+          "note": "Amanda's generational pick, Julie Andrews and all."
+        },
+        {
+          "title": "The Favourite",
+          "year": 2018,
+          "note": "Amanda's closer — three women instead of the usual men, and Olivia Colman's coronation."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Larraín's other work",
+      "films": [
+        "Jackie",
+        "Ema"
+      ]
+    },
+    {
+      "group": "Kristen Stewart comparisons",
+      "films": [
+        "Personal Shopper",
+        "Charlie's Angels"
+      ]
+    },
+    {
+      "group": "Considered, cut from the Hall of Fame",
+      "films": [
+        "The Young Victoria",
+        "Elizabeth",
+        "Elizabeth: The Golden Age",
+        "The King's Speech",
+        "W.E.",
+        "Hamlet"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "No Time to Die",
+        "Die Hard with a Vengeance",
+        "In the Loop",
+        "Legends of the Fall",
+        "Sliding Doors",
+        "The Paper",
+        "Lolita",
+        "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "The Spy Who Came in from the Cold",
+        "Far From Heaven",
+        "Belfast",
+        "King Richard",
+        "Licorice Pizza",
+        "House of Gucci",
+        "12 Angry Men"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Crown",
+      "Lisey's Story"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "White Claw",
+      "Feeding America"
+    ]
+  },
+  "tmdbOverrides": {
+    "Lolita": 802
+  },
+  "tmdb": {
+    "Spencer": {
+      "id": 716612,
+      "poster": "/7GcqdBKaMM9BWXWN07BirBMkcBF.jpg",
+      "title": "Spencer",
+      "year": 2021
+    },
+    "The Queen": {
+      "id": 1165,
+      "poster": "/v08RH5Cx9EFAQMBWQuE5jHAgHYs.jpg",
+      "title": "The Queen",
+      "year": 2006
+    },
+    "The Lion in Winter": {
+      "id": 18988,
+      "poster": "/yMgJnZADJObzfjA70ygXJkjnrFX.jpg",
+      "title": "The Lion in Winter",
+      "year": 1968
+    },
+    "Marie Antoinette": {
+      "id": 1887,
+      "poster": "/cybXGmv8Rjd5Os8Xml6YxMBQ0Zt.jpg",
+      "title": "Marie Antoinette",
+      "year": 2006
+    },
+    "A Man for All Seasons": {
+      "id": 874,
+      "poster": "/1AhIatyuSxymFNHhNTzDiUrE6kn.jpg",
+      "title": "A Man for All Seasons",
+      "year": 1966
+    },
+    "The Madness of King George": {
+      "id": 11318,
+      "poster": "/1dTSY023ZyBbgVSKDRuA6JLGSnZ.jpg",
+      "title": "The Madness of King George",
+      "year": 1994
+    },
+    "The Last Emperor": {
+      "id": 746,
+      "poster": "/7TILJhdeJAaEyDiwvJZMo9SQBoe.jpg",
+      "title": "The Last Emperor",
+      "year": 1987
+    },
+    "Henry V": {
+      "id": 22638,
+      "poster": "/eAisr20DvaKJeHvjDN0oHSx0l7u.jpg",
+      "title": "Henry V",
+      "year": 1944
+    },
+    "Throne of Blood": {
+      "id": 3777,
+      "poster": "/zaZFMNxJST0TtPd68yF7fNt1he8.jpg",
+      "title": "Throne of Blood",
+      "year": 1957
+    },
+    "Coming to America": {
+      "id": 9602,
+      "poster": "/8YZiA1o264dk0cr1USyMdph6SZl.jpg",
+      "title": "Coming to America",
+      "year": 1988
+    },
+    "The Princess Diaries": {
+      "id": 9880,
+      "poster": "/7axhsbEzFan6HQQ1aMOy7w3CFRx.jpg",
+      "title": "The Princess Diaries",
+      "year": 2001
+    },
+    "The Favourite": {
+      "id": 375262,
+      "poster": "/cwBq0onfmeilU5xgqNNjJAMPfpw.jpg",
+      "title": "The Favourite",
+      "year": 2018
+    },
+    "Jackie": {
+      "id": 376866,
+      "poster": "/nF9N33PfhizMEzbfxHoxXBo2vx9.jpg",
+      "title": "Jackie",
+      "year": 2016
+    },
+    "Ema": {
+      "id": 540709,
+      "poster": "/9p78EwUeo7NkFFCIBzU8jwxC867.jpg",
+      "title": "Ema",
+      "year": 2019
+    },
+    "Personal Shopper": {
+      "id": 340676,
+      "poster": "/cdm6qZgmbaIwjKBZnUSGWS4eyM2.jpg",
+      "title": "Personal Shopper",
+      "year": 2016
+    },
+    "Charlie's Angels": {
+      "id": 4327,
+      "poster": "/iHTmZs0BmkwMCYi8rhvMWC5G4EM.jpg",
+      "title": "Charlie's Angels",
+      "year": 2000
+    },
+    "The Young Victoria": {
+      "id": 18320,
+      "poster": "/iGyuReyij3bPCtzJdSjTR8PR0pa.jpg",
+      "title": "The Young Victoria",
+      "year": 2009
+    },
+    "Elizabeth": {
+      "id": 4518,
+      "poster": "/qEk48VLOdibXFVIEzE9ETZUBcCs.jpg",
+      "title": "Elizabeth",
+      "year": 1998
+    },
+    "Elizabeth: The Golden Age": {
+      "id": 4517,
+      "poster": "/oBQ64TyPEINgVpwKWriv3QsIDJb.jpg",
+      "title": "Elizabeth: The Golden Age",
+      "year": 2007
+    },
+    "The King's Speech": {
+      "id": 45269,
+      "poster": "/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg",
+      "title": "The King's Speech",
+      "year": 2010
+    },
+    "W.E.": {
+      "id": 80591,
+      "poster": "/natLuO7NcStRln1vFWLqIYUKGwX.jpg",
+      "title": "W.E.",
+      "year": 2011
+    },
+    "Hamlet": {
+      "id": 10549,
+      "poster": "/ilurgUOp6SCl4cuhfjctj1qxlfZ.jpg",
+      "title": "Hamlet",
+      "year": 1996
+    },
+    "No Time to Die": {
+      "id": 370172,
+      "poster": "/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+      "title": "No Time to Die",
+      "year": 2021
+    },
+    "Die Hard with a Vengeance": {
+      "id": 1572,
+      "poster": "/buqmCdFQEWwEpL3agGgg2GVjN2d.jpg",
+      "title": "Die Hard: With a Vengeance",
+      "year": 1995
+    },
+    "In the Loop": {
+      "id": 19833,
+      "poster": "/jL6txnziFSeEifQkqnPBtaPaiXU.jpg",
+      "title": "In the Loop",
+      "year": 2009
+    },
+    "Legends of the Fall": {
+      "id": 4476,
+      "poster": "/t1KPGlW0UGd0m515LPQmk2F4nu1.jpg",
+      "title": "Legends of the Fall",
+      "year": 1994
+    },
+    "Sliding Doors": {
+      "id": 10215,
+      "poster": "/s8VOVTywXZIIHqdEjkCZziH0ebq.jpg",
+      "title": "Sliding Doors",
+      "year": 1998
+    },
+    "The Paper": {
+      "id": 12280,
+      "poster": "/pGPrFbucRLwVtCKCeinwAklAl0l.jpg",
+      "title": "The Paper",
+      "year": 1994
+    },
+    "Lolita": {
+      "id": 802,
+      "poster": "/8Puqbeh0D95DpXFWep1rmH78btu.jpg",
+      "title": "Lolita",
+      "year": 1962
+    },
+    "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb": {
+      "id": 935,
+      "poster": "/6x7MzQ6BOMlRzam1StcmPO9v61g.jpg",
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "year": 1964
+    },
+    "The Spy Who Came in from the Cold": {
+      "id": 13580,
+      "poster": "/lN3PWv6cW22mqXDcgGZgK1Aa2gh.jpg",
+      "title": "The Spy Who Came In from the Cold",
+      "year": 1965
+    },
+    "Far From Heaven": {
+      "id": 10712,
+      "poster": "/9gQuvFDRPLx39smUvyafm36tp0d.jpg",
+      "title": "Far from Heaven",
+      "year": 2002
+    },
+    "Belfast": {
+      "id": 777270,
+      "poster": "/3mInLZyPOVLsZRsBwNHi3UJXXnm.jpg",
+      "title": "Belfast",
+      "year": 2021
+    },
+    "King Richard": {
+      "id": 614917,
+      "poster": "/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg",
+      "title": "King Richard",
+      "year": 2021
+    },
+    "Licorice Pizza": {
+      "id": 718032,
+      "poster": "/ivXtvzfliGvoJ1DhSHIGyYBToWe.jpg",
+      "title": "Licorice Pizza",
+      "year": 2021
+    },
+    "House of Gucci": {
+      "id": 644495,
+      "poster": "/oJCQjD2byiVF1EG408F9dBn9ndU.jpg",
+      "title": "House of Gucci",
+      "year": 2021
+    },
+    "12 Angry Men": {
+      "id": 389,
+      "poster": "/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg",
+      "title": "12 Angry Men",
+      "year": 1957
+    }
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "slug": "cats-seriously-wtf-the-big-picture",
+  "title": "'Cats': Seriously, WTF? | The Big Picture",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2019-12-20",
+  "runtimeMin": 54,
+  "format": "Sean Fennessey and Amanda Dobbins try to make sense of Tom Hooper's 'Cats' and come up empty.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "'Cats'",
+      "note": "the fiasco",
+      "films": [
+        {
+          "title": "Cats",
+          "year": 2019,
+          "note": "Tom Hooper's $95M sung-through adaptation of the Andrew Lloyd Webber musical, drawn from T.S. Eliot's 'Old Possum's Book of Practical Cats.' Sean found it boring. Amanda found it disturbing. Both got stuck on the botched scale (baby-sized cats), the CGI fur, the plotlessness, and the odd sexual charge. The cast: Francesca Hayward (Victoria), Judi Dench (Old Deuteronomy), Jennifer Hudson (Grizabella, who belts 'Memories'), Idris Elba (Macavity), Taylor Swift (Bombalurina, and co-writer of the new song 'Beautiful Ghosts'), James Corden (Bustopher Jones), Ian McKellen (Gus the Theatre Cat), Rebel Wilson (Jennyanydots), Jason Derulo (Rum Tum Tugger, the one bit they liked), and Ray Winstone (Growltiger)."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Tom Hooper's other films",
+      "films": [
+        "The King's Speech",
+        "Les Misérables",
+        "The Danish Girl"
+      ]
+    },
+    {
+      "group": "Held up against 'Cats'",
+      "films": [
+        "The Greatest Showman",
+        "Xanadu",
+        "The Umbrellas of Cherbourg",
+        "Frozen II",
+        "The Lion King",
+        "Sexy Beast",
+        "Dreamgirls"
+      ]
+    },
+    {
+      "group": "The rest of 2019",
+      "films": [
+        "Star Wars: The Rise of Skywalker",
+        "Little Women",
+        "1917",
+        "Uncut Gems",
+        "Marriage Story",
+        "Knives Out"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Watchmen",
+      "The Morning Show",
+      "Friends",
+      "American Idol"
+    ],
+    "Stage musicals": [
+      "Cats (the stage musical)",
+      "Guys and Dolls",
+      "Les Misérables (stage)",
+      "Cabaret",
+      "Miss Saigon",
+      "Starlight Express",
+      "Joseph and the Amazing Technicolor Dreamcoat",
+      "Evita",
+      "Jesus Christ Superstar",
+      "Hamilton",
+      "Fiddler on the Roof"
+    ],
+    "Promos": [
+      "Happy Gilmore",
+      "The Godfather Part II"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Lion King": 420818
+  },
+  "tmdb": {
+    "Cats": {
+      "id": 536869,
+      "poster": "/aCNch5FmzT2WaUcY44925owIZXY.jpg",
+      "title": "Cats",
+      "year": 2019
+    },
+    "The King's Speech": {
+      "id": 45269,
+      "poster": "/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg",
+      "title": "The King's Speech",
+      "year": 2010
+    },
+    "Les Misérables": {
+      "id": 82695,
+      "poster": "/6CuzBs2Lb8At7qQr64mLXg2RYRb.jpg",
+      "title": "Les Misérables",
+      "year": 2012
+    },
+    "The Danish Girl": {
+      "id": 306819,
+      "poster": "/mXZZIacI5FC8thzSC0lgQBQ2uAX.jpg",
+      "title": "The Danish Girl",
+      "year": 2015
+    },
+    "The Greatest Showman": {
+      "id": 316029,
+      "poster": "/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg",
+      "title": "The Greatest Showman",
+      "year": 2017
+    },
+    "Xanadu": {
+      "id": 15668,
+      "poster": "/4r1cHzhksHO3u1QS1Ct9mId7kQL.jpg",
+      "title": "Xanadu",
+      "year": 1980
+    },
+    "The Umbrellas of Cherbourg": {
+      "id": 5967,
+      "poster": "/tAgTf64XKK5ir7w5C7dnB53jWWG.jpg",
+      "title": "The Umbrellas of Cherbourg",
+      "year": 1964
+    },
+    "Frozen II": {
+      "id": 330457,
+      "poster": "/mINJaa34MtknCYl5AjtNJzWj8cD.jpg",
+      "title": "Frozen II",
+      "year": 2019
+    },
+    "The Lion King": {
+      "id": 420818,
+      "poster": "/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg",
+      "title": "The Lion King",
+      "year": 2019
+    },
+    "Sexy Beast": {
+      "id": 11826,
+      "poster": "/xTfCZTzhgHNAR1pf5D49WH4buI5.jpg",
+      "title": "Sexy Beast",
+      "year": 2001
+    },
+    "Dreamgirls": {
+      "id": 1125,
+      "poster": "/sG5JyOj8Spe13QkNJMH8b5kzQUh.jpg",
+      "title": "Dreamgirls",
+      "year": 2006
+    },
+    "Star Wars: The Rise of Skywalker": {
+      "id": 181812,
+      "poster": "/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+      "title": "Star Wars: The Rise of Skywalker",
+      "year": 2019
+    },
+    "Little Women": {
+      "id": 331482,
+      "poster": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+      "title": "Little Women",
+      "year": 2019
+    },
+    "1917": {
+      "id": 530915,
+      "poster": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+      "title": "1917",
+      "year": 2019
+    },
+    "Uncut Gems": {
+      "id": 473033,
+      "poster": "/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+      "title": "Uncut Gems",
+      "year": 2019
+    },
+    "Marriage Story": {
+      "id": 492188,
+      "poster": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+      "title": "Marriage Story",
+      "year": 2019
+    },
+    "Knives Out": {
+      "id": 546554,
+      "poster": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+      "title": "Knives Out",
+      "year": 2019
+    }
+  }
+}

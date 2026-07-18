@@ -1,0 +1,344 @@
+{
+  "slug": "x-deep-water-turning-red-and-10-new-movies-you-need-to-see-n",
+  "title": "‘X,’ ‘Deep Water,’ ‘Turning Red,’ and 10 New Movies You Need to See Now",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2022-03-18",
+  "runtimeMin": 70,
+  "format": "Sean flies solo with ten movies from 2022 worth your time, then Ty West talks making X in New Zealand mid-pandemic and the secret sequel he shot right after.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "10 Movies You Need to See Now",
+      "note": "Sean's picks, one man's opinion",
+      "films": [
+        {
+          "title": "Turning Red",
+          "year": 2022,
+          "note": "Domee Shi's Pixar movie, set in 2002 with a boy-band score by Billie Eilish and Finneas. Sean's favorite Pixar since Inside Out."
+        },
+        {
+          "title": "X",
+          "year": 2022,
+          "note": "Ti West's return to horror after six years away, shot in New Zealand with Mia Goth and Jenna Ortega. In theaters."
+        },
+        {
+          "title": "Deep Water",
+          "year": 2022,
+          "note": "Adrian Lyne's first film in 20 years, an erotic thriller with Ben Affleck and Ana de Armas. Streaming on Hulu."
+        },
+        {
+          "title": "Windfall",
+          "year": 2022,
+          "note": "Charlie McDowell's single-location thriller with Lily Collins, Jesse Plemons, and Jason Segel. On Netflix."
+        },
+        {
+          "title": "Dog",
+          "year": 2022,
+          "note": "Channing Tatum's directing debut, an army ranger and a dog on a road trip to a funeral. A surprise box-office hit."
+        },
+        {
+          "title": "Fresh",
+          "year": 2022,
+          "note": "Mimi Cave's dating horror movie with Daisy Edgar-Jones and Sebastian Stan. Streaming on Hulu."
+        },
+        {
+          "title": "No Exit",
+          "year": 2022,
+          "note": "A blizzard-bound thriller with Havana Rose Liu, Dale Dickey, and Dennis Haysbert. On Hulu."
+        },
+        {
+          "title": "Lucy and Desi",
+          "year": 2022,
+          "note": "Amy Poehler's documentary on Lucille Ball and Desi Arnaz. On Amazon."
+        },
+        {
+          "title": "I Want You Back",
+          "year": 2022,
+          "note": "A rom-com with Charlie Day and Jenny Slate teaming up on their exes. On Amazon."
+        },
+        {
+          "title": "The Fallout",
+          "year": 2021,
+          "note": "Megan Park's drama with Jenna Ortega as a teenager coping after a school shooting. On HBO Max."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Ty West on",
+      "films": [
+        {
+          "title": "X",
+          "year": 2022,
+          "note": "West on shooting it in New Zealand mid-pandemic, casting Mia Goth and Jenna Ortega, and why he wanted horror to feel fun again."
+        },
+        {
+          "title": "Pearl",
+          "year": 2022,
+          "note": "A secret follow-up shot back-to-back with X, a 1960s-set prequel about young Pearl."
+        },
+        {
+          "title": "The Innkeepers",
+          "year": 2011,
+          "note": "The haunted-hotel movie Sean first interviewed West about a decade earlier."
+        },
+        {
+          "title": "The House of the Devil",
+          "year": 2009,
+          "note": "West's babysitter-in-peril breakout, his first film on VOD."
+        },
+        {
+          "title": "The Sacrament",
+          "year": 2013,
+          "note": "West's Jonestown-style cult movie."
+        },
+        {
+          "title": "In a Valley of Violence",
+          "year": 2016,
+          "note": "A Western, West's last film before a stretch directing television."
+        },
+        {
+          "title": "A Cure for Wellness",
+          "year": 2016,
+          "note": "Cited for Mia Goth's similarly unraveling performance."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Also new this spring",
+      "films": [
+        "The Adam Project",
+        "Scream",
+        "Death on the Nile",
+        "Dune",
+        "Everything Everywhere All at Once"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Free Guy",
+        "Being the Ricardos",
+        "Pitch Perfect",
+        "Avatar"
+      ]
+    },
+    {
+      "group": "Horror touchstones",
+      "films": [
+        "Texas Chainsaw Massacre",
+        "Raw",
+        "The Shining",
+        "The Exorcist",
+        "Rosemary's Baby"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Normal People",
+      "Pam and Tommy",
+      "Severance",
+      "Escape at Dannemora",
+      "Emily in Paris",
+      "I Love Lucy",
+      "The Good Place"
+    ],
+    "Ads": [
+      "FIFA World Cup Launch Edition on Netflix",
+      "Boar's Head"
+    ],
+    "Podcasts": [
+      "The Icons Club"
+    ]
+  },
+  "tmdb": {
+    "Turning Red": {
+      "id": 508947,
+      "poster": "/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
+      "title": "Turning Red",
+      "year": 2022
+    },
+    "X": {
+      "id": 760104,
+      "poster": "/lopZSVtXzhFY603E9OqF7O1YKsh.jpg",
+      "title": "X",
+      "year": 2022
+    },
+    "Deep Water": {
+      "id": 619979,
+      "poster": "/6yRMyWwjuhKg6IU66uiZIGhaSc8.jpg",
+      "title": "Deep Water",
+      "year": 2022
+    },
+    "Windfall": {
+      "id": 850018,
+      "poster": "/njBc0nNdl9QbsfMwyRqJkmW4NQO.jpg",
+      "title": "Windfall",
+      "year": 2022
+    },
+    "Dog": {
+      "id": 626735,
+      "poster": "/zHQy4h36WwuCetKS7C3wcT1hkgA.jpg",
+      "title": "Dog",
+      "year": 2022
+    },
+    "Fresh": {
+      "id": 787752,
+      "poster": "/tlu71AgaL3EQBBCNGsAwZLPbV5D.jpg",
+      "title": "Fresh",
+      "year": 2022
+    },
+    "No Exit": {
+      "id": 833425,
+      "poster": "/5cnLoWq9o5tuLe1Zq4BTX4LwZ2B.jpg",
+      "title": "No Exit",
+      "year": 2022
+    },
+    "Lucy and Desi": {
+      "id": 736280,
+      "poster": "/vCwR4RSZTFzyZvX8FcBON2COnU9.jpg",
+      "title": "Lucy and Desi",
+      "year": 2022
+    },
+    "I Want You Back": {
+      "id": 680860,
+      "poster": "/an4HVcLT4Ce2aXgxuSEnJ1UDdfp.jpg",
+      "title": "I Want You Back",
+      "year": 2022
+    },
+    "The Fallout": {
+      "id": 795514,
+      "poster": "/4ByHl9XRKR2iXbvF0ZilMRD1RcL.jpg",
+      "title": "The Fallout",
+      "year": 2021
+    },
+    "Pearl": {
+      "id": 949423,
+      "poster": "/z5uIG81pXyHKg7cUFIu84Wjn4NS.jpg",
+      "title": "Pearl",
+      "year": 2022
+    },
+    "The Innkeepers": {
+      "id": 58428,
+      "poster": "/aC9XHtf0Opw2IJDVjSkL8eO71An.jpg",
+      "title": "The Innkeepers",
+      "year": 2012
+    },
+    "The House of the Devil": {
+      "id": 25983,
+      "poster": "/4abKUbc9IbsndbaY1hacN1iPM0Y.jpg",
+      "title": "The House of the Devil",
+      "year": 2009
+    },
+    "The Sacrament": {
+      "id": 211067,
+      "poster": "/thdioQOYqqusDUfT6trgwMIoNaQ.jpg",
+      "title": "The Sacrament",
+      "year": 2014
+    },
+    "In a Valley of Violence": {
+      "id": 291356,
+      "poster": "/otuBE30CGhmIUznkX0AwkAQerMF.jpg",
+      "title": "In a Valley of Violence",
+      "year": 2016
+    },
+    "A Cure for Wellness": {
+      "id": 340837,
+      "poster": "/8QWJtne0pTsNoJ86KE993aQYTLW.jpg",
+      "title": "A Cure for Wellness",
+      "year": 2017
+    },
+    "The Adam Project": {
+      "id": 696806,
+      "poster": "/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg",
+      "title": "The Adam Project",
+      "year": 2022
+    },
+    "Scream": {
+      "id": 4232,
+      "poster": "/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+      "title": "Scream",
+      "year": 1996
+    },
+    "Death on the Nile": {
+      "id": 505026,
+      "poster": "/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",
+      "title": "Death on the Nile",
+      "year": 2022
+    },
+    "Dune": {
+      "id": 438631,
+      "poster": "/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "title": "Dune",
+      "year": 2021
+    },
+    "Everything Everywhere All at Once": {
+      "id": 545611,
+      "poster": "/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+      "title": "Everything Everywhere All at Once",
+      "year": 2022
+    },
+    "Free Guy": {
+      "id": 550988,
+      "poster": "/dxraF0qPr1OEgJk17ltQTO84kQF.jpg",
+      "title": "Free Guy",
+      "year": 2021
+    },
+    "Being the Ricardos": {
+      "id": 517088,
+      "poster": "/oztBLWdRk5gApYmNdADXvXkLT5m.jpg",
+      "title": "Being the Ricardos",
+      "year": 2021
+    },
+    "Pitch Perfect": {
+      "id": 114150,
+      "poster": "/gsFoJk9g8W3zgaipRrrURk7LbiF.jpg",
+      "title": "Pitch Perfect",
+      "year": 2012
+    },
+    "Avatar": {
+      "id": 19995,
+      "poster": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "title": "Avatar",
+      "year": 2009
+    },
+    "Texas Chainsaw Massacre": {
+      "id": 632727,
+      "poster": "/7sKiGNWFM15WNyY7LYd5vmb3brO.jpg",
+      "title": "Texas Chainsaw Massacre",
+      "year": 2022
+    },
+    "Raw": {
+      "id": 393519,
+      "poster": "/kc8jT1MAiKM0iwdjAwC5lQrTNry.jpg",
+      "title": "Raw",
+      "year": 2017
+    },
+    "The Shining": {
+      "id": 694,
+      "poster": "/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg",
+      "title": "The Shining",
+      "year": 1980
+    },
+    "The Exorcist": {
+      "id": 9552,
+      "poster": "/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
+      "title": "The Exorcist",
+      "year": 1973
+    },
+    "Rosemary's Baby": {
+      "id": 805,
+      "poster": "/uYgvlHceRFjAFbsNeMInYcLZLUb.jpg",
+      "title": "Rosemary's Baby",
+      "year": 1968
+    }
+  }
+}

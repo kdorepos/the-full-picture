@@ -1,0 +1,274 @@
+{
+  "slug": "top-gun-maverick-100-things-we-loved-about-it",
+  "title": "‘Top Gun: Maverick’: 100 Things We Loved About It",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2022-05-31",
+  "runtimeMin": 91,
+  "format": "Sean Fennessey and Amanda Dobbins, joined by producer Bobby Wagner, run through nearly everything they loved about 'Top Gun: Maverick' after its record-setting opening weekend.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘Top Gun: Maverick’",
+      "note": "Sean Fennessey, Amanda Dobbins, and producer Bobby Wagner, plus listener submissions",
+      "films": [
+        {
+          "title": "Top Gun: Maverick",
+          "year": 2022,
+          "note": "The sequel opened to $282 million worldwide, the biggest Memorial Day weekend ever and the biggest of Cruise's and Paramount's careers, and the three of them walk through the movie roughly in order: the in-character Cruise PSA before the trailers, the Bruckheimer/Simpson logo, the Dark Star Mach 10 opening with Ed Harris's admiral trying and failing to ground Maverick, the Hard Deck bar rules, the returning-cast introductions (Jon Hamm's air boss, Charles Parnell's Warlock, Miles Teller's Rooster, Glenn Powell's Hangman, Monica Barbaro's Phoenix, Lewis Pullman's Bob), the deliberately apolitical mission setup, the mostly practical aerial photography, Val Kilmer's return as Iceman by way of a computer screen and one scene that visibly worked Cruise over, the funeral, the stolen-plane demonstration flight, the mission itself (a version of the Death Star trench run), Maverick's fake-out death and rescue by Rooster, the stolen-F-14 escape, Hangman's last-second save, and the runway hug that echoes the Iceman embrace from the original. They also dig into Penny (Jennifer Connelly) and how she affords her house and her vintage Porsche on a bar owner's income, whether Teller and Powell proved themselves as future leads, and whether the movie — or Cruise himself — has any real Oscar shot."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The original",
+      "films": [
+        "Top Gun"
+      ]
+    },
+    {
+      "group": "Teller's road to Rooster",
+      "films": [
+        "Rabbit Hole",
+        "Project X",
+        "Whiplash",
+        "Divergent",
+        "That Awkward Moment",
+        "Fantastic Four",
+        "War Dogs",
+        "Bleed for This",
+        "Only the Brave",
+        "Solo: A Star Wars Story",
+        "Spiderhead",
+        "The King of Comedy"
+      ]
+    },
+    {
+      "group": "Callbacks and comparisons",
+      "films": [
+        "Star Wars: The Force Awakens",
+        "Star Wars",
+        "Avengers: Endgame",
+        "Apollo 13",
+        "The Color of Money",
+        "The Hustler",
+        "Dazed and Confused",
+        "Everybody Wants Some!!",
+        "Labyrinth",
+        "Oblivion",
+        "War of the Worlds",
+        "Sleep with Me",
+        "Red Dawn",
+        "Mission: Impossible - Fallout",
+        "Dune",
+        "Spider-Man: No Way Home"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Fantastic Four": 166424,
+    "War of the Worlds": 74,
+    "Sleep with Me": 19361,
+    "Red Dawn": 1880
+  },
+  "excluded": {
+    "TV": [
+      "The Offer"
+    ],
+    "Ads": [
+      "Morally Corrupt (podcast promo)",
+      "NOS Energy",
+      "Boar's Head",
+      "FIFA World Cup Launch Edition (Netflix game ad)",
+      "Botox",
+      "Sam's Club"
+    ]
+  },
+  "tmdb": {
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Top Gun": {
+      "id": 744,
+      "poster": "/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+      "title": "Top Gun",
+      "year": 1986
+    },
+    "Rabbit Hole": {
+      "id": 27585,
+      "poster": "/zTUQXwMn4ndt5AAcDvJCi14ZY2B.jpg",
+      "title": "Rabbit Hole",
+      "year": 2010
+    },
+    "Project X": {
+      "id": 57214,
+      "poster": "/lUPDGT3lyRrq8SvWuNWG2DP64bR.jpg",
+      "title": "Project X",
+      "year": 2012
+    },
+    "Whiplash": {
+      "id": 244786,
+      "poster": "/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+      "title": "Whiplash",
+      "year": 2014
+    },
+    "Divergent": {
+      "id": 157350,
+      "poster": "/aNh4Q3iuPKDMPi2SL7GgOpiLukX.jpg",
+      "title": "Divergent",
+      "year": 2014
+    },
+    "That Awkward Moment": {
+      "id": 225565,
+      "poster": "/tjDAdesZNYFyRNnZvLT0osc7S2t.jpg",
+      "title": "That Awkward Moment",
+      "year": 2014
+    },
+    "Fantastic Four": {
+      "id": 166424,
+      "poster": "/cDroz5qSlP8xZ6tOpeYoPkBvKyL.jpg",
+      "title": "Fantastic Four",
+      "year": 2015
+    },
+    "War Dogs": {
+      "id": 308266,
+      "poster": "/mDcPRjZC1bb6LavFU3gwsWdVfCM.jpg",
+      "title": "War Dogs",
+      "year": 2016
+    },
+    "Bleed for This": {
+      "id": 332979,
+      "poster": "/cMM9frT6sFEvz7PwHniIDUKcLDo.jpg",
+      "title": "Bleed for This",
+      "year": 2016
+    },
+    "Only the Brave": {
+      "id": 395991,
+      "poster": "/db5IkOJu9UHktrKroNktw1Z8ARY.jpg",
+      "title": "Only the Brave",
+      "year": 2017
+    },
+    "Solo: A Star Wars Story": {
+      "id": 348350,
+      "poster": "/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg",
+      "title": "Solo: A Star Wars Story",
+      "year": 2018
+    },
+    "Spiderhead": {
+      "id": 615469,
+      "poster": "/7COPO5B9AOKIB4sEkvNu0wfve3c.jpg",
+      "title": "Spiderhead",
+      "year": 2022
+    },
+    "The King of Comedy": {
+      "id": 262,
+      "poster": "/m24EbHxT9NGYEkOlu29YcLOgjgK.jpg",
+      "title": "The King of Comedy",
+      "year": 1982
+    },
+    "Star Wars: The Force Awakens": {
+      "id": 140607,
+      "poster": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+      "title": "Star Wars: The Force Awakens",
+      "year": 2015
+    },
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Apollo 13": {
+      "id": 568,
+      "poster": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+      "title": "Apollo 13",
+      "year": 1995
+    },
+    "The Color of Money": {
+      "id": 11873,
+      "poster": "/dVdnHmdQu3JtLAAksjTmTEF76gD.jpg",
+      "title": "The Color of Money",
+      "year": 1986
+    },
+    "The Hustler": {
+      "id": 990,
+      "poster": "/snItsSViawjaadW9mlWUmGwR41R.jpg",
+      "title": "The Hustler",
+      "year": 1961
+    },
+    "Dazed and Confused": {
+      "id": 9571,
+      "poster": "/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+      "title": "Dazed and Confused",
+      "year": 1993
+    },
+    "Everybody Wants Some!!": {
+      "id": 295699,
+      "poster": "/vAIFZ8bw0spSvcIYgfuX99B3H2w.jpg",
+      "title": "Everybody Wants Some!!",
+      "year": 2016
+    },
+    "Labyrinth": {
+      "id": 13597,
+      "poster": "/pejayhTVBEL4w8YKSfrhOjjWVlH.jpg",
+      "title": "Labyrinth",
+      "year": 1986
+    },
+    "Oblivion": {
+      "id": 75612,
+      "poster": "/bYLM3GpNUZnoFElPXp1zlhDPdtv.jpg",
+      "title": "Oblivion",
+      "year": 2013
+    },
+    "War of the Worlds": {
+      "id": 74,
+      "poster": "/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
+      "title": "War of the Worlds",
+      "year": 2005
+    },
+    "Sleep with Me": {
+      "id": 19361,
+      "poster": "/gDmoa5nCDpOnwyePTHTAND3GmFW.jpg",
+      "title": "Sleep with Me",
+      "year": 1994
+    },
+    "Red Dawn": {
+      "id": 1880,
+      "poster": "/a2GkHcioc2QEFJbQk1NTB85u3vD.jpg",
+      "title": "Red Dawn",
+      "year": 1984
+    },
+    "Mission: Impossible - Fallout": {
+      "id": 353081,
+      "poster": "/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+      "title": "Mission: Impossible - Fallout",
+      "year": 2018
+    },
+    "Dune": {
+      "id": 438631,
+      "poster": "/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "title": "Dune",
+      "year": 2021
+    },
+    "Spider-Man: No Way Home": {
+      "id": 634649,
+      "poster": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "title": "Spider-Man: No Way Home",
+      "year": 2021
+    }
+  }
+}

@@ -1,0 +1,579 @@
+{
+  "slug": "2020-golden-globes-winners-and-losers-the-oscars-show",
+  "title": "2020 Golden Globes: Winners and Losers | The Oscars Show",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2020-01-06",
+  "runtimeMin": 72,
+  "format": "Sean and Amanda pick apart the 77th Golden Globes: the 1917 upset, Ricky Gervais's who-cares hosting turn, and a race-by-race post-mortem.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The Telecast",
+      "note": "Gervais hosts; the Ellen and Tom Hanks tributes; the speeches",
+      "films": [
+        {
+          "title": "A Beautiful Day in the Neighborhood",
+          "year": 2019,
+          "note": "Hanks got a career tribute plus a Supporting Actor nod for this; lost the acting prize."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The Film Races",
+      "note": "going category by category",
+      "films": [
+        {
+          "title": "1917",
+          "year": 2019,
+          "note": "The night's shock: Best Drama and Best Director for Sam Mendes; neither host picked it."
+        },
+        {
+          "title": "Once Upon a Time in Hollywood",
+          "year": 2019,
+          "note": "Best Musical/Comedy, Screenplay for Tarantino, Supporting Actor for Brad Pitt."
+        },
+        {
+          "title": "Joker",
+          "year": 2019,
+          "note": "Best Actor for Joaquin Phoenix and Best Score for Hildur Guðnadóttir; the feared sweep never came."
+        },
+        {
+          "title": "Parasite",
+          "year": 2019,
+          "note": "Best Foreign Language; Bong Joon-ho's 'one-inch barrier of subtitles' line."
+        },
+        {
+          "title": "Missing Link",
+          "year": 2019,
+          "note": "Best Animated over Toy Story 4. Laika's weakest, per Sean, and a campaign win."
+        },
+        {
+          "title": "Toy Story 4",
+          "year": 2019,
+          "note": "The should-have-won in Animated."
+        },
+        {
+          "title": "Rocketman",
+          "year": 2019,
+          "note": "Taron Egerton took Actor, Musical/Comedy; '(I'm Gonna) Love Me Again' won Song."
+        },
+        {
+          "title": "The Farewell",
+          "year": 2019,
+          "note": "Awkwafina won Actress, Musical/Comedy."
+        },
+        {
+          "title": "Marriage Story",
+          "year": 2019,
+          "note": "Laura Dern won Supporting Actress; Adam Driver and Baumbach's script left empty-handed."
+        },
+        {
+          "title": "The Irishman",
+          "year": 2019,
+          "note": "Best Drama nominee, shut out entirely."
+        },
+        {
+          "title": "The Two Popes",
+          "year": 2019,
+          "note": "Best Drama nominee; Anthony Hopkins up for Supporting Actor."
+        },
+        {
+          "title": "Little Women",
+          "year": 2019,
+          "note": "Whether Gerwig lands a directing nomination is the open question."
+        },
+        {
+          "title": "Hustlers",
+          "year": 2019,
+          "note": "Jennifer Lopez lost Supporting Actress to Dern."
+        },
+        {
+          "title": "Knives Out",
+          "year": 2019,
+          "note": "Plenty of love; a sequel is coming."
+        },
+        {
+          "title": "Jojo Rabbit",
+          "year": 2019,
+          "note": "Didn't spring the upset in Musical/Comedy."
+        },
+        {
+          "title": "The Souvenir",
+          "year": 2019,
+          "note": "Mentioned in passing as one of the year's better films."
+        },
+        {
+          "title": "Uncut Gems",
+          "year": 2019,
+          "note": "Snubbed by the Globes."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Tom Hanks tribute",
+      "films": [
+        "Saving Private Ryan",
+        "You've Got Mail",
+        "Sleepless in Seattle",
+        "Meet Joe Black"
+      ]
+    },
+    {
+      "group": "Laura Dern's filmography",
+      "films": [
+        "Blue Velvet",
+        "Wild at Heart",
+        "Rambling Rose",
+        "Jurassic Park",
+        "Citizen Ruth",
+        "Jurassic Park III",
+        "Focus",
+        "I Am Sam",
+        "Happy Endings",
+        "Inland Empire",
+        "Little Fockers",
+        "The Master",
+        "99 Homes",
+        "Wild",
+        "Downsizing",
+        "Star Wars: The Last Jedi"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Dunkirk",
+        "All the Money in the World",
+        "Walk the Line",
+        "Bonnie and Clyde",
+        "The Lion King",
+        "Skyfall",
+        "American Beauty",
+        "Her",
+        "Django Unchained",
+        "Midnight in Paris",
+        "Scent of a Woman",
+        "Titanic",
+        "The Hangover",
+        "Night of the Living Dead",
+        "Avengers: Endgame",
+        "Green Book",
+        "Bohemian Rhapsody",
+        "Three Billboards Outside Ebbing, Missouri",
+        "La La Land",
+        "Steve Jobs",
+        "Birdman",
+        "Coraline",
+        "ParaNorman",
+        "Kubo and the Two Strings"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Crown",
+      "Chernobyl",
+      "Fosse/Verdon",
+      "The Loudest Voice",
+      "Ramy",
+      "Saturday Night Live",
+      "AFI's 100 Years...100 Movies"
+    ],
+    "Talk shows": [
+      "The Ellen DeGeneres Show"
+    ],
+    "Ads": [
+      "Bose AR",
+      "Star Wars app"
+    ]
+  },
+  "tmdbOverrides": {
+    "Focus": 18192,
+    "Happy Endings": 14922,
+    "Birdman": 194662,
+    "The Lion King": 420818,
+    "Night of the Living Dead": 10331
+  },
+  "tmdb": {
+    "A Beautiful Day in the Neighborhood": {
+      "id": 501907,
+      "poster": "/pgxn1siPnWbSOKUeovfC86OwhWU.jpg",
+      "title": "A Beautiful Day in the Neighborhood",
+      "year": 2019
+    },
+    "1917": {
+      "id": 530915,
+      "poster": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+      "title": "1917",
+      "year": 2019
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Joker": {
+      "id": 475557,
+      "poster": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "title": "Joker",
+      "year": 2019
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Missing Link": {
+      "id": 458253,
+      "poster": "/bqQ38oKuROlAgyZcRII9tqtoPNi.jpg",
+      "title": "Missing Link",
+      "year": 2019
+    },
+    "Toy Story 4": {
+      "id": 301528,
+      "poster": "/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+      "title": "Toy Story 4",
+      "year": 2019
+    },
+    "Rocketman": {
+      "id": 504608,
+      "poster": "/f4FF18ia7yTvHf2izNrHqBmgH8U.jpg",
+      "title": "Rocketman",
+      "year": 2019
+    },
+    "The Farewell": {
+      "id": 565310,
+      "poster": "/7ht2IMGynDSVQGvAXhAb83DLET8.jpg",
+      "title": "The Farewell",
+      "year": 2019
+    },
+    "Marriage Story": {
+      "id": 492188,
+      "poster": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+      "title": "Marriage Story",
+      "year": 2019
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "The Two Popes": {
+      "id": 551332,
+      "poster": "/4d4mTSfDIFIbUbMLUfaKodvxYXA.jpg",
+      "title": "The Two Popes",
+      "year": 2019
+    },
+    "Little Women": {
+      "id": 331482,
+      "poster": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+      "title": "Little Women",
+      "year": 2019
+    },
+    "Hustlers": {
+      "id": 540901,
+      "poster": "/zBhv8rsLOfpFW2M5b6wW78Uoojs.jpg",
+      "title": "Hustlers",
+      "year": 2019
+    },
+    "Knives Out": {
+      "id": 546554,
+      "poster": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+      "title": "Knives Out",
+      "year": 2019
+    },
+    "Jojo Rabbit": {
+      "id": 515001,
+      "poster": "/1mqL7VG4Ix8wmxwypmCA1HTHBky.jpg",
+      "title": "Jojo Rabbit",
+      "year": 2019
+    },
+    "The Souvenir": {
+      "id": 473019,
+      "poster": "/2Nj04HsZ0lNkv07JnfBZ0bAIECn.jpg",
+      "title": "The Souvenir",
+      "year": 2019
+    },
+    "Uncut Gems": {
+      "id": 473033,
+      "poster": "/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+      "title": "Uncut Gems",
+      "year": 2019
+    },
+    "Saving Private Ryan": {
+      "id": 857,
+      "poster": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+      "title": "Saving Private Ryan",
+      "year": 1998
+    },
+    "You've Got Mail": {
+      "id": 9489,
+      "poster": "/e2uVtH6TpMfUl7WeOM70ezkcjsU.jpg",
+      "title": "You've Got Mail",
+      "year": 1998
+    },
+    "Sleepless in Seattle": {
+      "id": 858,
+      "poster": "/jAXfku1u1uaLGh4cUmK0ESf1pPu.jpg",
+      "title": "Sleepless in Seattle",
+      "year": 1993
+    },
+    "Meet Joe Black": {
+      "id": 297,
+      "poster": "/fDPAjvfPMomkKF7cMRmL5Anak61.jpg",
+      "title": "Meet Joe Black",
+      "year": 1998
+    },
+    "Blue Velvet": {
+      "id": 793,
+      "poster": "/6v1zYh2FKOYVddY5pCQhd4PO9uX.jpg",
+      "title": "Blue Velvet",
+      "year": 1986
+    },
+    "Wild at Heart": {
+      "id": 483,
+      "poster": "/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg",
+      "title": "Wild at Heart",
+      "year": 1990
+    },
+    "Rambling Rose": {
+      "id": 32221,
+      "poster": "/hAoluBzewlMqRH4mgFJvr4EPOMw.jpg",
+      "title": "Rambling Rose",
+      "year": 1991
+    },
+    "Jurassic Park": {
+      "id": 329,
+      "poster": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "title": "Jurassic Park",
+      "year": 1993
+    },
+    "Citizen Ruth": {
+      "id": 13891,
+      "poster": "/ncDIFOY7Mcan2gunAivLjIx3Kj1.jpg",
+      "title": "Citizen Ruth",
+      "year": 1996
+    },
+    "Jurassic Park III": {
+      "id": 331,
+      "poster": "/oQXj4NUfS3r3gHXtDOzcJgj1lLc.jpg",
+      "title": "Jurassic Park III",
+      "year": 2001
+    },
+    "Focus": {
+      "id": 18192,
+      "poster": "/x0VybfDiQ8U62kqdf4BzDebrCQV.jpg",
+      "title": "Focus",
+      "year": 2001
+    },
+    "I Am Sam": {
+      "id": 10950,
+      "poster": "/8n8BTMIRPKT0KZKSa0nACG9cQ8O.jpg",
+      "title": "I Am Sam",
+      "year": 2001
+    },
+    "Happy Endings": {
+      "id": 14922,
+      "poster": "/76Hq3Buq6SIOe5Z7f5APwh1s7vU.jpg",
+      "title": "Happy Endings",
+      "year": 2005
+    },
+    "Inland Empire": {
+      "id": 1730,
+      "poster": "/s5f0FbVAABEnJYKaApWORTxhiFC.jpg",
+      "title": "Inland Empire",
+      "year": 2006
+    },
+    "Little Fockers": {
+      "id": 39451,
+      "poster": "/90mwPRNMmX9RUGVgKMJMJNQnYX8.jpg",
+      "title": "Little Fockers",
+      "year": 2010
+    },
+    "The Master": {
+      "id": 68722,
+      "poster": "/rUSjbyvYWN9H4az8xt0tDtU7I6v.jpg",
+      "title": "The Master",
+      "year": 2012
+    },
+    "99 Homes": {
+      "id": 283235,
+      "poster": "/6Zul5Spndok1WriSMfiyQFbAyLY.jpg",
+      "title": "99 Homes",
+      "year": 2015
+    },
+    "Wild": {
+      "id": 228970,
+      "poster": "/ohhWI4Xwf4m4HjbQiIkyAhLekUy.jpg",
+      "title": "Wild",
+      "year": 2014
+    },
+    "Downsizing": {
+      "id": 301337,
+      "poster": "/5bNzInSSAXfr0MFlHfb4IoQePVx.jpg",
+      "title": "Downsizing",
+      "year": 2017
+    },
+    "Star Wars: The Last Jedi": {
+      "id": 181808,
+      "poster": "/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
+      "title": "Star Wars: The Last Jedi",
+      "year": 2017
+    },
+    "Dunkirk": {
+      "id": 374720,
+      "poster": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "title": "Dunkirk",
+      "year": 2017
+    },
+    "All the Money in the World": {
+      "id": 446791,
+      "poster": "/q6nE9Hf0ezszjI4DbCxwzQ73MMy.jpg",
+      "title": "All the Money in the World",
+      "year": 2017
+    },
+    "Walk the Line": {
+      "id": 69,
+      "poster": "/p8lPTjvjOjTfvC1E9pmMwcF9vkn.jpg",
+      "title": "Walk the Line",
+      "year": 2005
+    },
+    "Bonnie and Clyde": {
+      "id": 475,
+      "poster": "/sCSQFK9kMsprT4jgWqgw82dT6WI.jpg",
+      "title": "Bonnie and Clyde",
+      "year": 1967
+    },
+    "The Lion King": {
+      "id": 420818,
+      "poster": "/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg",
+      "title": "The Lion King",
+      "year": 2019
+    },
+    "Skyfall": {
+      "id": 37724,
+      "poster": "/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
+      "title": "Skyfall",
+      "year": 2012
+    },
+    "American Beauty": {
+      "id": 14,
+      "poster": "/wby9315QzVKdW9BonAefg8jGTTb.jpg",
+      "title": "American Beauty",
+      "year": 1999
+    },
+    "Her": {
+      "id": 152601,
+      "poster": "/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg",
+      "title": "Her",
+      "year": 2013
+    },
+    "Django Unchained": {
+      "id": 68718,
+      "poster": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+      "title": "Django Unchained",
+      "year": 2012
+    },
+    "Midnight in Paris": {
+      "id": 59436,
+      "poster": "/4wBG5kbfagTQclETblPRRGihk0I.jpg",
+      "title": "Midnight in Paris",
+      "year": 2011
+    },
+    "Scent of a Woman": {
+      "id": 9475,
+      "poster": "/4adI7IaveWb7EidYXfLb3MK3CgO.jpg",
+      "title": "Scent of a Woman",
+      "year": 1992
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "The Hangover": {
+      "id": 18785,
+      "poster": "/A0uS9rHR56FeBtpjVki16M5xxSW.jpg",
+      "title": "The Hangover",
+      "year": 2009
+    },
+    "Night of the Living Dead": {
+      "id": 10331,
+      "poster": "/rb2NWyb008u1EcKCOyXs2Nmj0ra.jpg",
+      "title": "Night of the Living Dead",
+      "year": 1968
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Green Book": {
+      "id": 490132,
+      "poster": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+      "title": "Green Book",
+      "year": 2018
+    },
+    "Bohemian Rhapsody": {
+      "id": 424694,
+      "poster": "/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+      "title": "Bohemian Rhapsody",
+      "year": 2018
+    },
+    "Three Billboards Outside Ebbing, Missouri": {
+      "id": 359940,
+      "poster": "/bRYLt8fV82tdVoDppSFTZIcJiLN.jpg",
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "year": 2017
+    },
+    "La La Land": {
+      "id": 313369,
+      "poster": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "title": "La La Land",
+      "year": 2016
+    },
+    "Steve Jobs": {
+      "id": 321697,
+      "poster": "/ljiRO29Y9khEERRqMluptUYunJ9.jpg",
+      "title": "Steve Jobs",
+      "year": 2015
+    },
+    "Birdman": {
+      "id": 194662,
+      "poster": "/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg",
+      "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+      "year": 2014
+    },
+    "Coraline": {
+      "id": 14836,
+      "poster": "/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
+      "title": "Coraline",
+      "year": 2009
+    },
+    "ParaNorman": {
+      "id": 77174,
+      "poster": "/9DZPtuYTKYxt6vzHvZ5FLThG4fl.jpg",
+      "title": "ParaNorman",
+      "year": 2012
+    },
+    "Kubo and the Two Strings": {
+      "id": 313297,
+      "poster": "/ewcOCkuuKAKULGUnbBVaO1htt0D.jpg",
+      "title": "Kubo and the Two Strings",
+      "year": 2016
+    }
+  }
+}

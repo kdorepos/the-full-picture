@@ -1,0 +1,64 @@
+{
+  "slug": "icarus-filmmaker-bryan-fogel-on-why-russia-wont-be-at-the-ol",
+  "title": "'Icarus' Filmmaker Bryan Fogel on Why Russia Won't Be at the Olympics",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2018-02-09",
+  "runtimeMin": 39,
+  "format": "On the eve of the Pyeongchang Games, Sean Fennessey talks to Oscar-nominated 'Icarus' director Bryan Fogel: how a self-doping stunt turned into whistleblower Grigory Rodchenkov and the Russian state-doping scandal, why he thinks the problem is unsolvable, and his complicated read on Lance Armstrong.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Bryan Fogel on",
+      "films": [
+        {
+          "title": "Icarus",
+          "year": 2017,
+          "note": "Fogel set out to dope himself and beat the anti-doping system on camera; the film became the story of Grigory Rodchenkov, the Russian lab director who helped him and then defected to expose state-sponsored doping. Fogel started shooting in April 2014, the film premiered at Sundance a year before this interview, and Netflix acquired and finished it. It's up for Best Documentary at the 90th Oscars, and Fogel credits it with pressure that helped ban Russia from the 2018 Games."
+        },
+        {
+          "title": "The Shape of Water",
+          "year": 2017,
+          "note": "His pick for the last great film he's seen, watched about a week earlier. He says he cried, and admits that on paper a woman falling for a 'manfish' should be preposterous, but del Toro's cinematography and set design won him over."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Strong Island"
+      ]
+    }
+  ],
+  "excluded": {
+    "Ads": [
+      "Proper Cloth"
+    ]
+  },
+  "tmdb": {
+    "Icarus": {
+      "id": 432976,
+      "poster": "/x5azMi1KvZWbBbfjmGqpHNGqjH.jpg",
+      "title": "Icarus",
+      "year": 2017
+    },
+    "The Shape of Water": {
+      "id": 399055,
+      "poster": "/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg",
+      "title": "The Shape of Water",
+      "year": 2017
+    },
+    "Strong Island": {
+      "id": 428612,
+      "poster": "/qGq7WCNv9S8GBbP8DfIchiaodWn.jpg",
+      "title": "Strong Island",
+      "year": 2017
+    }
+  }
+}

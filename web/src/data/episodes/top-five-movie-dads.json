@@ -1,0 +1,467 @@
+{
+  "slug": "top-five-movie-dads",
+  "title": "Top Five Movie Dads",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2020-10-02",
+  "runtimeMin": 88,
+  "format": "Sean and Amanda skip the guest slot up top and just talk fathers: dueling top-five movie-dad lists, then documentarian Kirsten Johnson (and her actual dad, on the phone) on 'Dick Johnson Is Dead.'",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Movie news",
+      "note": "before the dad talk: a Lion King sequel, another Borat, and a movie about making 'The Godfather'",
+      "films": [
+        {
+          "title": "Borat",
+          "year": 2006,
+          "note": "The original. Amanda wonders whether it's now a 2006 cultural artifact that doesn't speak to 2020 the way it once did."
+        },
+        {
+          "title": "Borat Subsequent Moviefilm",
+          "year": 2020,
+          "note": "Sacha Baron Cohen's surprise sequel, arriving in 22 days, timed suspiciously close to his Oscar campaign for 'The Trial of the Chicago 7.'"
+        },
+        {
+          "title": "The Trial of the Chicago 7",
+          "year": 2020,
+          "note": "Cohen's other fall release, playing Abbie Hoffman; on the show's docket for a couple weeks out."
+        },
+        {
+          "title": "Irresistible",
+          "year": 2020,
+          "note": "Jon Stewart's satire, which Amanda rated poorly on her brand-new Letterboxd profile, prompting the whole 'is Borat also dated now' question."
+        },
+        {
+          "title": "Francis and the Godfather",
+          "note": "Barry Levinson's just-announced (not-yet-made) film about the Coppola/Robert Evans clash behind 'The Godfather,' with Oscar Isaac as Coppola and Jake Gyllenhaal as Evans."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Amanda's Top Five Movie Dads",
+      "note": "mostly fathers of daughters, ranked best to worst",
+      "subject": "Movie Dads",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Father of the Bride",
+          "year": 1991,
+          "note": "No. 1. George Banks (Steve Martin). A personal pick going back to watching it on VHS with her own dad around age eight; the airport phone call and the growing-up montage still get her every time."
+        },
+        {
+          "title": "25th Hour",
+          "year": 2002,
+          "note": "No. 2. James Brogan (Brian Cox). Her one pick that isn't about a daughter: the closing monologue, imagining a different life for his son, is the scene she can barely get through without crying."
+        },
+        {
+          "title": "A Star Is Born",
+          "year": 2018,
+          "note": "No. 3. Lorenzo (Andrew Dice Clay), Ally's father and, unofficially, her manager. A deliberately funny inclusion given who's playing him, but the actual scene work is sincere."
+        },
+        {
+          "title": "Bad Boys II",
+          "year": 2003,
+          "note": "No. 4. Marcus Burnett (Martin Lawrence), specifically the 'Who the fuck are you?' scene grilling his daughter Megan's date, Reggie. Protective, but also the one talking Will Smith's character down."
+        },
+        {
+          "title": "Easy A",
+          "year": 2010,
+          "note": "No. 5. Dill Penderghast (Stanley Tucci), the permissive, unshockable dad to Olive (Emma Stone). Amanda calls him and Patricia Clarkson's character the movie's great underrated parents."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Sean's Top Five Movie Dads",
+      "note": "ranked in ascending order of goodness, bad dad to great dad, on purpose",
+      "subject": "Movie Dads",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Boyz n the Hood",
+          "year": 1991,
+          "note": "No. 1. Furious Styles (Laurence Fishburne), raising Tre (Cuba Gooding Jr.) with a clear-eyed political education most movie dads never attempt. Sean's pick for the closest thing to an ultimate movie dad."
+        },
+        {
+          "title": "Kramer vs. Kramer",
+          "year": 1979,
+          "note": "No. 2. Ted Kramer (Dustin Hoffman), a single dad by necessity. Sean thinks the film has aged into something still honest about the day-to-day work of parenting, dated sexual politics and all."
+        },
+        {
+          "title": "Finding Nemo",
+          "year": 2003,
+          "note": "No. 3. Marlin (Albert Brooks), a dad in peril searching for his lost son. Sean calls it the Bambi of its generation, tragic opening included."
+        },
+        {
+          "title": "National Lampoon's Vacation",
+          "year": 1983,
+          "note": "No. 4. Clark Griswold (Chevy Chase), a bumbling, hopeful, occasionally felonious dad across the whole franchise. Sean rewatched all four over the preceding week. (Christmas Vacation was the one on repeat in Amanda's house growing up.)"
+        },
+        {
+          "title": "The Royal Tenenbaums",
+          "year": 2001,
+          "note": "No. 5. Royal Tenenbaum (Gene Hackman), the selfish-egotist type Sean reads as a filmmaker working out frustration with his own father. Paired as a bonus mention with Bernard Berkman (Jeff Daniels) in 'The Squid and the Whale,' a similar character from an Anderson collaborator."
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "heading": "Honorable mentions",
+      "note": "considered, cut, or disqualified",
+      "picks": [
+        {
+          "title": "The Lion King",
+          "year": 1994,
+          "by": "Sean Fennessey",
+          "note": "The James Earl Jones original, pre-loaded on his honorable-mentions list before the Barry Jenkins sequel news even broke."
+        },
+        {
+          "title": "Return of the Jedi",
+          "year": 1983,
+          "by": "Sean Fennessey",
+          "note": "Darth Vader, considered and passed over: 'not really investing the way he should,' redeemed only when he throws the Emperor down a shaft."
+        },
+        {
+          "title": "Armageddon",
+          "year": 1998,
+          "by": "Sean Fennessey",
+          "note": "Honorable mention because he dies saving the world, though Amanda notes he also brings his daughter's boyfriend along on the mission that kills him."
+        },
+        {
+          "title": "Mrs. Doubtfire",
+          "year": 1993,
+          "by": "Sean Fennessey",
+          "note": "The obvious omission both hosts pointedly disqualify: impersonating a nanny to see your kids during a divorce reads as deranged, not devoted."
+        },
+        {
+          "title": "The Shining",
+          "year": 1980,
+          "by": "Sean Fennessey",
+          "note": "Jack Torrance, filed under destructive fathers, not really a contender."
+        },
+        {
+          "title": "Jaws",
+          "year": 1975,
+          "by": "Amanda Dobbins",
+          "note": "Martin Brody, the one she's wistful about cutting. Risks his life on the boat but is, at root, trying to protect his family."
+        },
+        {
+          "title": "Moneyball",
+          "year": 2011,
+          "by": "Amanda Dobbins",
+          "note": "A late add for divorced-dad etiquette: polite to the ex's new boyfriend, asks the right questions about a kid's first cell phone, moved to tears by a guitar-store performance."
+        },
+        {
+          "title": "Sleepless in Seattle",
+          "year": 1993,
+          "by": "Amanda Dobbins",
+          "note": "Considered for Tom Hanks, a dad also trying to find love again."
+        },
+        {
+          "title": "The Pursuit of Happyness",
+          "year": 2006,
+          "by": "Amanda Dobbins",
+          "note": "Considered for Will Smith, though she admits she didn't rewatch it in time and isn't sure she loves the film even if she loves what he does in it."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Kirsten Johnson on",
+      "note": "her dad even calls in partway through",
+      "films": [
+        {
+          "title": "Dick Johnson Is Dead",
+          "year": 2020,
+          "note": "Her documentary about her father's dementia, staging his death (and resurrection) on camera repeatedly. New on Netflix the day of taping; uses slow motion in the fictional set pieces to stretch out her father's fleeting moments of lucidity."
+        },
+        {
+          "title": "Cameraperson",
+          "year": 2016,
+          "note": "Her prior film, an archival essay built from decades of footage she shot for other documentaries. She says it taught her cinema could 'bring my mother back to life,' which led directly to this one."
+        },
+        {
+          "title": "The Father",
+          "year": 2020,
+          "note": "Anthony Hopkins's dementia drama, which Sean saw back-to-back with 'Dick Johnson Is Dead' at Sundance. Both agree it's the more emotionally 'safe' version of the same subject: unlike Dick Johnson, Anthony Hopkins is still fine at the end."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The Netflix awards-season slate",
+      "films": [
+        "Da 5 Bloods",
+        "Hillbilly Elegy",
+        "Mank",
+        "The Midnight Sky",
+        "Ma Rainey's Black Bottom",
+        "Nomadland",
+        "Over the Moon",
+        "Crip Camp"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "The Godfather",
+        "Black Panther",
+        "No Time to Die",
+        "Soul"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Who Is America?",
+      "I May Destroy You"
+    ],
+    "Games": [
+      "FIFA World Cup Launch Edition"
+    ],
+    "Ads": [
+      "Carvana",
+      "Boar's Head",
+      "Quaker"
+    ]
+  },
+  "tmdbOverrides": {
+    "Borat": 496,
+    "Borat Subsequent Moviefilm": 740985
+  },
+  "tmdb": {
+    "Borat": {
+      "id": 496,
+      "poster": "/kfkyALfD4G1mlBJI1lOt2QCra4i.jpg",
+      "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+      "year": 2006
+    },
+    "Borat Subsequent Moviefilm": {
+      "id": 740985,
+      "poster": "/3L1Ml5RWjFVfVq3rQENvgFymT0U.jpg",
+      "title": "Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan",
+      "year": 2020
+    },
+    "The Trial of the Chicago 7": {
+      "id": 556984,
+      "poster": "/ahf5cVdooMAlDRiJOZQNuLqa1Is.jpg",
+      "title": "The Trial of the Chicago 7",
+      "year": 2020
+    },
+    "Irresistible": {
+      "id": 595148,
+      "poster": "/hUpYDriYa5YkwwxeafUsowTweBg.jpg",
+      "title": "Irresistible",
+      "year": 2020
+    },
+    "Francis and the Godfather": null,
+    "Father of the Bride": {
+      "id": 11846,
+      "poster": "/bU7HzJbJpY5OiLdqWhKSqGPtYii.jpg",
+      "title": "Father of the Bride",
+      "year": 1991
+    },
+    "25th Hour": {
+      "id": 1429,
+      "poster": "/uW7tTRElr2tRhmAVESzvHy4ByXg.jpg",
+      "title": "25th Hour",
+      "year": 2002
+    },
+    "A Star Is Born": {
+      "id": 332562,
+      "poster": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "title": "A Star Is Born",
+      "year": 2018
+    },
+    "Bad Boys II": {
+      "id": 8961,
+      "poster": "/yCvB5fG5aEPqa1St7ihY6KEAsHD.jpg",
+      "title": "Bad Boys II",
+      "year": 2003
+    },
+    "Easy A": {
+      "id": 37735,
+      "poster": "/v5f1qO6NJnxWgONgkYg21TW39DT.jpg",
+      "title": "Easy A",
+      "year": 2010
+    },
+    "Boyz n the Hood": {
+      "id": 650,
+      "poster": "/v4ox4aSCNT5vyLXl4Q71JiWwCXW.jpg",
+      "title": "Boyz n the Hood",
+      "year": 1991
+    },
+    "Kramer vs. Kramer": {
+      "id": 12102,
+      "poster": "/3CUP5V5SWfHSK4qvkZF7lMNyugY.jpg",
+      "title": "Kramer vs. Kramer",
+      "year": 1979
+    },
+    "Finding Nemo": {
+      "id": 12,
+      "poster": "/5lc6nQc0VhWFYFbNv016xze8Jvy.jpg",
+      "title": "Finding Nemo",
+      "year": 2003
+    },
+    "National Lampoon's Vacation": {
+      "id": 11153,
+      "poster": "/q3DvoqY06yZnRp9faH6uge7n7VP.jpg",
+      "title": "National Lampoon's Vacation",
+      "year": 1983
+    },
+    "The Royal Tenenbaums": {
+      "id": 9428,
+      "poster": "/nG7hZJn7wQTSDCQT39Gy3s3tbrp.jpg",
+      "title": "The Royal Tenenbaums",
+      "year": 2001
+    },
+    "The Lion King": {
+      "id": 8587,
+      "poster": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+      "title": "The Lion King",
+      "year": 1994
+    },
+    "Return of the Jedi": {
+      "id": 1892,
+      "poster": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+      "title": "Return of the Jedi",
+      "year": 1983
+    },
+    "Armageddon": {
+      "id": 95,
+      "poster": "/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg",
+      "title": "Armageddon",
+      "year": 1998
+    },
+    "Mrs. Doubtfire": {
+      "id": 788,
+      "poster": "/shHrSmXS5140o6sQzgzXxn3KqSm.jpg",
+      "title": "Mrs. Doubtfire",
+      "year": 1993
+    },
+    "The Shining": {
+      "id": 694,
+      "poster": "/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg",
+      "title": "The Shining",
+      "year": 1980
+    },
+    "Jaws": {
+      "id": 578,
+      "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "title": "Jaws",
+      "year": 1975
+    },
+    "Moneyball": {
+      "id": 60308,
+      "poster": "/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+      "title": "Moneyball",
+      "year": 2011
+    },
+    "Sleepless in Seattle": {
+      "id": 858,
+      "poster": "/jAXfku1u1uaLGh4cUmK0ESf1pPu.jpg",
+      "title": "Sleepless in Seattle",
+      "year": 1993
+    },
+    "The Pursuit of Happyness": {
+      "id": 1402,
+      "poster": "/lBYOKAMcxIvuk9s9hMuecB9dPBV.jpg",
+      "title": "The Pursuit of Happyness",
+      "year": 2006
+    },
+    "Dick Johnson Is Dead": {
+      "id": 653574,
+      "poster": "/vnfI34kmi3fcdgP7HZjIgGOJHGY.jpg",
+      "title": "Dick Johnson Is Dead",
+      "year": 2020
+    },
+    "Cameraperson": {
+      "id": 376534,
+      "poster": "/p1Od99QxnzCB9vKu9uxkZQlPZQ5.jpg",
+      "title": "Cameraperson",
+      "year": 2016
+    },
+    "The Father": {
+      "id": 600354,
+      "poster": "/pr3bEQ517uMb5loLvjFQi8uLAsp.jpg",
+      "title": "The Father",
+      "year": 2020
+    },
+    "Da 5 Bloods": {
+      "id": 581859,
+      "poster": "/yx4cp1ljJMDSFeEex0Zjv45b55E.jpg",
+      "title": "Da 5 Bloods",
+      "year": 2020
+    },
+    "Hillbilly Elegy": {
+      "id": 592984,
+      "poster": "/aA0D6DKIfLtXYNy94Qq2IW5NiGR.jpg",
+      "title": "Hillbilly Elegy",
+      "year": 2020
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "The Midnight Sky": {
+      "id": 614911,
+      "poster": "/l8lXesOLXKS0VYjzWNZN6gDxv2F.jpg",
+      "title": "The Midnight Sky",
+      "year": 2020
+    },
+    "Ma Rainey's Black Bottom": {
+      "id": 615667,
+      "poster": "/pvtyxijaBrCSbByXLcUIDDSvc40.jpg",
+      "title": "Ma Rainey's Black Bottom",
+      "year": 2020
+    },
+    "Nomadland": {
+      "id": 581734,
+      "poster": "/8Vc5EOUEIF1EUXuX9eLFf7BvN3P.jpg",
+      "title": "Nomadland",
+      "year": 2021
+    },
+    "Over the Moon": {
+      "id": 560050,
+      "poster": "/lG0TF0wj1n9p9CPy5xlIUIkF56a.jpg",
+      "title": "Over the Moon",
+      "year": 2020
+    },
+    "Crip Camp": null,
+    "The Godfather": {
+      "id": 238,
+      "poster": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "title": "The Godfather",
+      "year": 1972
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "No Time to Die": {
+      "id": 370172,
+      "poster": "/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+      "title": "No Time to Die",
+      "year": 2021
+    },
+    "Soul": {
+      "id": 508442,
+      "poster": "/6jmppcaubzLF8wkXM36ganVISCo.jpg",
+      "title": "Soul",
+      "year": 2020
+    }
+  },
+  "spotifyEpisodeId": "78afZZSmcXomSgIjpqlAYc"
+}

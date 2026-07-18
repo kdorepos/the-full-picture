@@ -1,0 +1,239 @@
+{
+  "slug": "the-promising-young-woman-conversation-plus-delroy-lindo",
+  "title": "The ‘Promising Young Woman’ Conversation. Plus: Delroy Lindo!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2021-03-02",
+  "runtimeMin": 91,
+  "format": "Sean and Amanda finally tackle Promising Young Woman: the tone, the ending, and the Variety review controversy. Then Sean talks to Delroy Lindo about Da 5 Bloods, Spike Lee, and Crooklyn.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "The Promising Young Woman Conversation",
+      "note": "spoilers throughout",
+      "films": [
+        {
+          "title": "Promising Young Woman",
+          "year": 2020,
+          "note": "Amanda saw it at Sundance over a year earlier and told Sean to skip it; a rewatch changed her mind on plenty, but not the ending. They spend most of the segment on the tonal whiplash between the film's candy-colored revenge fantasy and its grim subject matter, plus the Variety review that Carey Mulligan publicly objected to and that got the critic, Dennis Harvey, cut loose."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Delroy Lindo on",
+      "films": [
+        {
+          "title": "Da 5 Bloods",
+          "year": 2020,
+          "note": "His fourth film with Spike Lee and their first in 25 years. Lindo pushed back on his character Paul being written as an explicit Trump supporter; Lee thought it over and told him no, Paul needed to stay Trumpian."
+        },
+        {
+          "title": "Malcolm X",
+          "year": 1992,
+          "note": "The audition that started the collaboration: Lindo flew to L.A. to read for West Indian Archie and Lee wasn't even in the room, so he had a second audition arranged in New York."
+        },
+        {
+          "title": "Crooklyn",
+          "year": 1994,
+          "note": "Took a beating on release for not looking like a typical Spike Lee film; Lindo says it's since become a mainstay."
+        },
+        {
+          "title": "Capernaum",
+          "year": 2018,
+          "note": "His answer to the show's closing question about the last great thing he's seen. He called Danny Glover, one of the film's producers, just to ask how the director got that performance out of a toddler."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The rape-revenge lineage Sean traces the film against",
+      "films": [
+        "I Spit on Your Grave",
+        "Ms .45",
+        "Lady Snowblood",
+        "Kill Bill: Vol. 1",
+        "Irreversible",
+        "Revenge",
+        "The Nightingale",
+        "The Babadook"
+      ]
+    },
+    {
+      "group": "Needle drops and callbacks",
+      "films": [
+        "The Night of the Hunter",
+        "The King and I",
+        "Thelma & Louise"
+      ]
+    },
+    {
+      "group": "Spike Lee's prep materials for Da 5 Bloods",
+      "films": [
+        "The Treasure of the Sierra Madre",
+        "Apocalypse Now"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Trolls World Tour",
+        "Tenet",
+        "The Lord of the Rings: The Return of the King"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "I Spit on Your Grave": 25239
+  },
+  "excluded": {
+    "TV": [
+      "Law & Order"
+    ],
+    "Podcasts": [
+      "Higher Learning"
+    ],
+    "Ads": [
+      "Tremfya",
+      "Wells Fargo Active Cash",
+      "Carvana",
+      "NOS Energy",
+      "Boar's Head",
+      "Whole Foods"
+    ]
+  },
+  "tmdb": {
+    "Promising Young Woman": {
+      "id": 582014,
+      "poster": "/73QoFJFmUrJfDG2EynFjNc5gJxk.jpg",
+      "title": "Promising Young Woman",
+      "year": 2020
+    },
+    "Da 5 Bloods": {
+      "id": 581859,
+      "poster": "/yx4cp1ljJMDSFeEex0Zjv45b55E.jpg",
+      "title": "Da 5 Bloods",
+      "year": 2020
+    },
+    "Malcolm X": {
+      "id": 1883,
+      "poster": "/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
+      "title": "Malcolm X",
+      "year": 1992
+    },
+    "Crooklyn": {
+      "id": 34152,
+      "poster": "/iFqe07F78SO0SIBzWcK4I5MwNvP.jpg",
+      "title": "Crooklyn",
+      "year": 1994
+    },
+    "Capernaum": {
+      "id": 517814,
+      "poster": "/mFnfTVADj8yOxwzprYOmTPselk8.jpg",
+      "title": "Capernaum",
+      "year": 2018
+    },
+    "I Spit on Your Grave": {
+      "id": 25239,
+      "poster": "/nMCkOo26GtISoxJmpkTAJyMqBO8.jpg",
+      "title": "Day of the Woman",
+      "year": 1978
+    },
+    "Ms .45": {
+      "id": 22171,
+      "poster": "/9ulPP8hcBjIrWRqeXsZVjL0uX3E.jpg",
+      "title": "Ms .45",
+      "year": 1981
+    },
+    "Lady Snowblood": {
+      "id": 2487,
+      "poster": "/wkcbaqCoYEXDUnSQ6NTnB2C7H05.jpg",
+      "title": "Lady Snowblood",
+      "year": 1973
+    },
+    "Kill Bill: Vol. 1": {
+      "id": 24,
+      "poster": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+      "title": "Kill Bill: Vol. 1",
+      "year": 2003
+    },
+    "Irreversible": {
+      "id": 979,
+      "poster": "/rxeDxo8FvZpLu6iplNpxdtAVnfu.jpg",
+      "title": "Irreversible",
+      "year": 2002
+    },
+    "Revenge": {
+      "id": 467938,
+      "poster": "/dWXjUGwpwGWWevcnpPuf5QGpKMw.jpg",
+      "title": "Revenge",
+      "year": 2017
+    },
+    "The Nightingale": {
+      "id": 400090,
+      "poster": "/wEzqFiatOJSbGBu6pb8z5sQuZt1.jpg",
+      "title": "The Nightingale",
+      "year": 2018
+    },
+    "The Babadook": {
+      "id": 242224,
+      "poster": "/qt3fqapeo94TfvMyld8P7gkpXLz.jpg",
+      "title": "The Babadook",
+      "year": 2014
+    },
+    "The Night of the Hunter": {
+      "id": 3112,
+      "poster": "/rBka0nFWiHxabHRLr0KfIA8Yiaq.jpg",
+      "title": "The Night of the Hunter",
+      "year": 1955
+    },
+    "The King and I": {
+      "id": 16520,
+      "poster": "/wUfaP0lLaMpZzp5CrHyII5Vd7cp.jpg",
+      "title": "The King and I",
+      "year": 1956
+    },
+    "Thelma & Louise": {
+      "id": 1541,
+      "poster": "/vbRAGLzbC75QfiKD1lKjmnQGuph.jpg",
+      "title": "Thelma & Louise",
+      "year": 1991
+    },
+    "The Treasure of the Sierra Madre": {
+      "id": 3090,
+      "poster": "/pWcst7zVbi8Z8W6GFrdNE7HHRxL.jpg",
+      "title": "The Treasure of the Sierra Madre",
+      "year": 1948
+    },
+    "Apocalypse Now": {
+      "id": 28,
+      "poster": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "title": "Apocalypse Now",
+      "year": 1979
+    },
+    "Trolls World Tour": {
+      "id": 446893,
+      "poster": "/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg",
+      "title": "Trolls World Tour",
+      "year": 2020
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "The Lord of the Rings: The Return of the King": {
+      "id": 122,
+      "poster": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003
+    }
+  }
+}

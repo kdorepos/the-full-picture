@@ -1,0 +1,300 @@
+{
+  "slug": "avengers-endgame-emergency-deep-dive-spoilers-exit-survey",
+  "title": "‘Avengers: Endgame’: Emergency Deep Dive (SPOILERS) | Exit Survey",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Mallory Rubin"
+  ],
+  "published": "2019-04-26",
+  "runtimeMin": 83,
+  "format": "Sean Fennessey and Mallory Rubin record a full-spoiler emergency deep dive the day after a Tuesday-morning screening of 'Avengers: Endgame': the time-travel rules, the deaths of Tony Stark and Black Widow, Captain America's send-off, then each host's five favorite Marvel movies and a look at what comes next.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Emergency Deep Dive: ‘Avengers: Endgame’",
+      "note": "full spoilers after a five-minute warning",
+      "films": [
+        {
+          "title": "Avengers: Endgame",
+          "year": 2019,
+          "note": "The Russo brothers' three-hour, two-minute cap to the Infinity Saga, which Sean and Mallory caught at a Tuesday-morning Disney screening in Burbank. They both liked it and both rate it below Infinity War, which Sean frames as the series' 'Empire Strikes Back.' Most of the discussion circles the time-travel 'time heist': the rule that your past can't change your present, the tree-of-timelines chalk talk between Bruce Banner and the Ancient One, and the six-stone heist that revisits The Avengers (2012), Guardians of the Galaxy (2014), Thor: The Dark World, Vormir, and a 1970 stop for Peggy Carter, Howard Stark and more Pym particles. Set pieces they single out: Black Widow's balletic sacrifice on Vormir (Sean was sure Hawkeye would die), Cap wielding Mjolnir against Thanos, the portals-open 'splash page' assemble, and Tony Stark's death. Recurring complaint: the film 'rules' in moments and baffles in others (Cap left worthy but not in Age of Ultron; how Hulk and Iron Man can snap with intent where Thanos couldn't; the aged-out Steve Rogers timeline). Fat Thor, Paul Rudd's Ant-Man, Bradley Cooper's Rocket, Nebula as the plot's hinge, and a hammer-forging sound in place of a post-credits stinger."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Mallory's Top Five Marvel Movies",
+      "note": "No. 1 first",
+      "subject": "Marvel movies",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Avengers: Infinity War",
+          "year": 2018,
+          "note": "No. 1. Mallory grants the possible recency bias and keeps it there anyway: she thinks Phase Three is where the enterprise figured itself out."
+        },
+        {
+          "title": "Black Panther",
+          "year": 2018,
+          "note": "No. 2."
+        },
+        {
+          "title": "Guardians of the Galaxy",
+          "year": 2014,
+          "note": "No. 3."
+        },
+        {
+          "title": "Thor: Ragnarok",
+          "year": 2017,
+          "note": "No. 4. 'Two hours of fun at the movies'; short-hair Thor as the best thing to happen to the MCU."
+        },
+        {
+          "title": "Captain America: The Winter Soldier",
+          "year": 2014,
+          "note": "No. 5. Her pick of the Captain America films (she admits it's partly because Bucky is 'insanely hot')."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Sean's Top Five Marvel Movies",
+      "note": "No. 1 first",
+      "subject": "Marvel movies",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Black Panther",
+          "year": 2018,
+          "note": "No. 1."
+        },
+        {
+          "title": "Guardians of the Galaxy",
+          "year": 2014,
+          "note": "No. 2."
+        },
+        {
+          "title": "Thor: Ragnarok",
+          "year": 2017,
+          "note": "No. 3."
+        },
+        {
+          "title": "Spider-Man: Homecoming",
+          "year": 2017,
+          "note": "No. 4. The one departure from Mallory's list."
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "year": 2018,
+          "note": "No. 5. Sean calls these the conventionally, and correctly, understood best of the franchise."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "MCU films in the conversation",
+      "films": [
+        "Iron Man",
+        "The Avengers",
+        "Avengers: Age of Ultron",
+        "Ant-Man",
+        "Ant-Man and the Wasp",
+        "Thor: The Dark World",
+        "Captain Marvel",
+        "Captain America: The First Avenger"
+      ]
+    },
+    {
+      "group": "Time-travel touchstones",
+      "films": [
+        "Back to the Future",
+        "Time After Time",
+        "Bill & Ted's Excellent Adventure",
+        "Hot Tub Time Machine",
+        "Harry Potter and the Prisoner of Azkaban",
+        "The Empire Strikes Back"
+      ]
+    },
+    {
+      "group": "Also mentioned",
+      "films": [
+        "Pokémon Detective Pikachu",
+        "The Rider",
+        "The Lord of the Rings",
+        "Black Widow"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Game of Thrones",
+      "Agent Carter",
+      "WandaVision",
+      "Iron Fist",
+      "Battlestar Galactica"
+    ],
+    "Podcasts": [
+      "Binge Mode"
+    ],
+    "Ads": [
+      "BMW 3 Series"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Lord of the Rings": 122
+  },
+  "tmdb": {
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "Guardians of the Galaxy": {
+      "id": 118340,
+      "poster": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "title": "Guardians of the Galaxy",
+      "year": 2014
+    },
+    "Thor: Ragnarok": {
+      "id": 284053,
+      "poster": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "title": "Thor: Ragnarok",
+      "year": 2017
+    },
+    "Captain America: The Winter Soldier": {
+      "id": 100402,
+      "poster": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+      "title": "Captain America: The Winter Soldier",
+      "year": 2014
+    },
+    "Spider-Man: Homecoming": {
+      "id": 315635,
+      "poster": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+      "title": "Spider-Man: Homecoming",
+      "year": 2017
+    },
+    "Iron Man": {
+      "id": 1726,
+      "poster": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "title": "Iron Man",
+      "year": 2008
+    },
+    "The Avengers": {
+      "id": 24428,
+      "poster": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "title": "The Avengers",
+      "year": 2012
+    },
+    "Avengers: Age of Ultron": {
+      "id": 99861,
+      "poster": "/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+      "title": "Avengers: Age of Ultron",
+      "year": 2015
+    },
+    "Ant-Man": {
+      "id": 102899,
+      "poster": "/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg",
+      "title": "Ant-Man",
+      "year": 2015
+    },
+    "Ant-Man and the Wasp": {
+      "id": 363088,
+      "poster": "/cFQEO687n1K6umXbInzocxcnAQz.jpg",
+      "title": "Ant-Man and the Wasp",
+      "year": 2018
+    },
+    "Thor: The Dark World": {
+      "id": 76338,
+      "poster": "/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",
+      "title": "Thor: The Dark World",
+      "year": 2013
+    },
+    "Captain Marvel": {
+      "id": 299537,
+      "poster": "/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+      "title": "Captain Marvel",
+      "year": 2019
+    },
+    "Captain America: The First Avenger": {
+      "id": 1771,
+      "poster": "/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+      "title": "Captain America: The First Avenger",
+      "year": 2011
+    },
+    "Back to the Future": {
+      "id": 105,
+      "poster": "/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+      "title": "Back to the Future",
+      "year": 1985
+    },
+    "Time After Time": {
+      "id": 24750,
+      "poster": "/A4SXZxQempzTUReRlQiFaYc6KaC.jpg",
+      "title": "Time After Time",
+      "year": 1979
+    },
+    "Bill & Ted's Excellent Adventure": {
+      "id": 1648,
+      "poster": "/tV25lGWGWGEqUe3U0xjQTBgilSx.jpg",
+      "title": "Bill & Ted's Excellent Adventure",
+      "year": 1989
+    },
+    "Hot Tub Time Machine": {
+      "id": 23048,
+      "poster": "/wjzbVXAes1acbh6k4OO5xVfy5.jpg",
+      "title": "Hot Tub Time Machine",
+      "year": 2010
+    },
+    "Harry Potter and the Prisoner of Azkaban": {
+      "id": 673,
+      "poster": "/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "year": 2004
+    },
+    "The Empire Strikes Back": {
+      "id": 1891,
+      "poster": "/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+      "title": "The Empire Strikes Back",
+      "year": 1980
+    },
+    "Pokémon Detective Pikachu": {
+      "id": 447404,
+      "poster": "/uhWvnFgg3BNlcUz0Re1HfQqIcCD.jpg",
+      "title": "Pokémon Detective Pikachu",
+      "year": 2019
+    },
+    "The Rider": {
+      "id": 453278,
+      "poster": "/cFsrA0Is5xode2INrPj1VJcQ18n.jpg",
+      "title": "The Rider",
+      "year": 2018
+    },
+    "The Lord of the Rings": {
+      "id": 122,
+      "poster": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003
+    },
+    "Black Widow": {
+      "id": 497698,
+      "poster": "/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+      "title": "Black Widow",
+      "year": 2021
+    }
+  }
+}

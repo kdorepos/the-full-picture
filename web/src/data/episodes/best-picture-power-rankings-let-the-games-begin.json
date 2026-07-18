@@ -1,0 +1,908 @@
+{
+  "slug": "best-picture-power-rankings-let-the-games-begin",
+  "title": "Best Picture Power Rankings: Let the Games Begin",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2022-12-02",
+  "runtimeMin": 96,
+  "format": "The new Sight & Sound poll lands mid-record. Sean and Amanda run down the Robert Downey Sr. documentary 'Sr.,' then build a first draft of the 2022 Best Picture top ten. Plus Sean's conversation with Laura Poitras about 'All the Beauty and the Bloodshed.'",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The 2022 Sight & Sound poll",
+      "note": "the once-a-decade critics' list, read in real time",
+      "films": [
+        {
+          "title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+          "year": 1975,
+          "note": "Chantal Akerman's film jumps to No. 1, unseating Vertigo. The 3.5-hour portrait of a housewife and sex worker has gained a serious following over the last two decades."
+        },
+        {
+          "title": "Vertigo",
+          "year": 1958,
+          "note": "Drops to No. 2. Amanda notes it's nowhere near her favorite Hitchcock."
+        },
+        {
+          "title": "Citizen Kane",
+          "year": 1941,
+          "note": "No. 3, the long-running former champion."
+        },
+        {
+          "title": "Tokyo Story",
+          "year": 1953,
+          "note": "No. 4."
+        },
+        {
+          "title": "In the Mood for Love",
+          "year": 2000,
+          "note": "Wong Kar-wai at No. 5, a 2000s film cracking the top ten."
+        },
+        {
+          "title": "2001: A Space Odyssey",
+          "year": 1968,
+          "note": "No. 6."
+        },
+        {
+          "title": "Beau Travail",
+          "year": 1999,
+          "note": "Claire Denis at No. 7."
+        },
+        {
+          "title": "Mulholland Drive",
+          "year": 2001,
+          "note": "David Lynch at No. 8, a recent film near the top."
+        },
+        {
+          "title": "Man with a Movie Camera",
+          "year": 1929,
+          "note": "Holds at No. 9."
+        },
+        {
+          "title": "Singin' in the Rain",
+          "year": 1952,
+          "note": "Back at No. 10 after dropping off the 2012 list. Amanda's favorite."
+        },
+        {
+          "title": "Portrait of a Lady on Fire",
+          "year": 2019,
+          "note": "In the top 30, unusually high for so recent a film."
+        },
+        {
+          "title": "8½",
+          "year": 1963,
+          "note": "Top ten in 2012."
+        },
+        {
+          "title": "The Passion of Joan of Arc",
+          "year": 1928
+        },
+        {
+          "title": "The Searchers",
+          "year": 1956
+        },
+        {
+          "title": "Sunrise",
+          "year": 1927
+        },
+        {
+          "title": "The Rules of the Game",
+          "year": 1939
+        },
+        {
+          "title": "Battleship Potemkin",
+          "year": 1925
+        },
+        {
+          "title": "Blue Velvet",
+          "year": 1986,
+          "note": "Once the presumptive Lynch entry."
+        },
+        {
+          "title": "Eraserhead",
+          "year": 1977
+        },
+        {
+          "title": "The Leopard",
+          "year": 1963,
+          "note": "Tied at 90 with Ugetsu."
+        },
+        {
+          "title": "Ugetsu",
+          "year": 1953
+        },
+        {
+          "title": "Goodfellas",
+          "year": 1990,
+          "note": "Down at 63."
+        },
+        {
+          "title": "The Piano",
+          "year": 1993,
+          "note": "At 50."
+        },
+        {
+          "title": "Heat",
+          "year": 1995,
+          "note": "Didn't make the top 100, to CR's dismay."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "'Sr.'",
+      "note": "the new Chris Smith documentary on Netflix",
+      "films": [
+        {
+          "title": "Sr.",
+          "year": 2022,
+          "note": "Chris Smith's documentary, produced by Robert Downey Jr. and Susan Downey, about Downey Jr.'s father, the underground filmmaker Robert Downey Sr. Junior makes a film about Senior making a film; it turns into the two of them talking, then into a film about Senior's illness. Runs a brisk 90 minutes. Both hosts count it among their favorites of the year."
+        },
+        {
+          "title": "Putney Swope",
+          "year": 1969,
+          "note": "Downey Sr.'s best-known film, an outsider satire set at an ad agency taken over by its lone Black employee. Sean's mother loved it; he chased it down as a teenager in the late '90s."
+        },
+        {
+          "title": "Pound",
+          "year": 1970,
+          "note": "Downey Sr.'s film with 16 pounded dogs played by human actors; Robert Downey Jr.'s screen debut. The one Downey Sr. movie Sean hasn't seen."
+        },
+        {
+          "title": "Greaser's Palace",
+          "year": 1972,
+          "note": "A Paul Thomas Anderson favorite among Downey Sr.'s films."
+        },
+        {
+          "title": "Chafed Elbows",
+          "year": 1966
+        },
+        {
+          "title": "Two Tons of Turquoise to Taos Tonight",
+          "year": 1975
+        },
+        {
+          "title": "Sweet Sweetback's Baadasssss Song",
+          "year": 1971,
+          "note": "Named alongside Putney Swope as a late-'60s outsider film made outside the studio system."
+        },
+        {
+          "title": "Easy Rider",
+          "year": 1969
+        }
+      ]
+    },
+    {
+      "kind": "ranking",
+      "heading": "Best Picture Power Rankings",
+      "note": "a first-draft top ten, No. 1 first",
+      "subject": "2022 Best Picture race",
+      "ranked": true,
+      "films": [
+        {
+          "title": "The Fabelmans",
+          "year": 2022,
+          "note": "No. 1, by a narrow margin. Spielberg, Tony Kushner script, Toronto People's Choice winner. Sean worries no one has seen it yet and that the inevitability factor is a poison pill."
+        },
+        {
+          "title": "Everything Everywhere All at Once",
+          "year": 2022,
+          "note": "No. 2. Just won Best Picture at the Gothams. A sci-fi comedy with the Daniels working the trail hard; its biggest enthusiasts skew younger than the average Academy voter."
+        },
+        {
+          "title": "Elvis",
+          "year": 2022,
+          "note": "No. 3. Second most-seen of the bunch, standing ovations at screenings, SAG loves it. Amanda floats it as high as No. 1; Sean isn't a fan but concedes it's playing."
+        },
+        {
+          "title": "The Banshees of Inisherin",
+          "year": 2022,
+          "note": "No. 4. Respected and controversy-free, but the passion feels muted. Farrell for actor, McDonagh for screenplay."
+        },
+        {
+          "title": "Top Gun: Maverick",
+          "year": 2022,
+          "note": "No. 5. The one everyone has seen and liked. Amanda argues for higher; Sean thinks the support tops out here."
+        },
+        {
+          "title": "Tár",
+          "year": 2022,
+          "note": "No. 6. Both hosts love it and both think Cate Blanchett wins actress, but it has no path to the top prize."
+        },
+        {
+          "title": "Women Talking",
+          "year": 2022,
+          "note": "No. 7. Release pushed to December 23rd, which some think was a mistake. The title and cast make it a likely in."
+        },
+        {
+          "title": "The Woman King",
+          "year": 2022,
+          "note": "No. 8. Live if the campaign shows up; Gina Prince-Bythewood's Gotham tribute is a good sign."
+        },
+        {
+          "title": "Glass Onion: A Knives Out Mystery",
+          "year": 2022,
+          "note": "No. 9. Rian Johnson well-liked; it goes into adapted screenplay in a weak year. The open question is whether voters dock it for being a sequel."
+        },
+        {
+          "title": "Avatar: The Way of Water",
+          "year": 2022,
+          "note": "No. 10, and marked N/A until it screens December 12th. Sean sticks with Big Jim on principle."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Laura Poitras on 'All the Beauty and the Bloodshed'",
+      "guest": "Laura Poitras on",
+      "films": [
+        {
+          "title": "All the Beauty and the Bloodshed",
+          "year": 2022,
+          "note": "Poitras's portrait of artist Nan Goldin, built in chapters around Goldin's archive and her PAIN campaign against the Sackler family. A biography that pivots into a societal critique; Goldin is a producer and collaborator on it."
+        },
+        {
+          "title": "Citizenfour",
+          "year": 2014,
+          "note": "Poitras met Goldin around its release. She had to appear in it because Snowden was her source and the audience needed to know it."
+        },
+        {
+          "title": "How to Survive a Plague",
+          "year": 2012,
+          "note": "Produced by Howard Gertler, also a producer here; Poitras cites it as a blueprint for how activism works on screen."
+        },
+        {
+          "title": "Return to Homs",
+          "year": 2013,
+          "note": "Poitras's pick for the last great thing she saw, on the Syrian uprising."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "On the bubble for Best Picture",
+      "films": [
+        "The Whale",
+        "Babylon",
+        "Guillermo del Toro's Pinocchio",
+        "Black Panther: Wakanda Forever",
+        "Triangle of Sadness",
+        "She Said",
+        "Empire of Light",
+        "Emancipation",
+        "Till",
+        "Decision to Leave",
+        "Bardo",
+        "Living",
+        "RRR",
+        "Close",
+        "White Noise",
+        "Nope",
+        "Armageddon Time",
+        "Blonde",
+        "Ambulance"
+      ]
+    },
+    {
+      "group": "Comparisons and touchstones",
+      "films": [
+        "Moulin Rouge!",
+        "The Great Gatsby",
+        "Three Billboards Outside Ebbing, Missouri",
+        "Knives Out",
+        "The Power of the Dog",
+        "CODA",
+        "Avatar",
+        "Titanic",
+        "True Lies",
+        "Joker",
+        "1917",
+        "Parasite",
+        "Nightmare Alley",
+        "The Menu",
+        "Downsizing",
+        "Ikiru",
+        "Margin Call",
+        "The Master",
+        "There Will Be Blood"
+      ]
+    },
+    {
+      "group": "Chris Smith and the doc conversation",
+      "films": [
+        "American Movie",
+        "Jim & Andy: The Great Beyond",
+        "Fyre",
+        "De Palma"
+      ]
+    },
+    {
+      "group": "Joke picks",
+      "films": [
+        "G.I. Joe: The Rise of Cobra",
+        "PAW Patrol: The Movie",
+        "Minions: The Rise of Gru"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "100 Foot Wave"
+    ],
+    "Podcasts / radio": [
+      "22 Goals",
+      "Blank Check",
+      "Fresh Air",
+      "WTF with Marc Maron"
+    ],
+    "Games": [
+      "FIFA World Cup Launch Edition"
+    ],
+    "Ads": [
+      "FanDuel",
+      "Boar's Head",
+      "NOS Energy",
+      "Netflix",
+      "Uber",
+      "Stitch Fix"
+    ]
+  },
+  "tmdbOverrides": {
+    "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles": 44012,
+    "Sunrise": 631,
+    "Bardo": 685691,
+    "Close": 901563
+  },
+  "tmdb": {
+    "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles": {
+      "id": 44012,
+      "poster": "/fqfSu8Y1YSVFkoCJyiTXI6woYma.jpg",
+      "title": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+      "year": 1976
+    },
+    "Vertigo": {
+      "id": 426,
+      "poster": "/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg",
+      "title": "Vertigo",
+      "year": 1958
+    },
+    "Citizen Kane": {
+      "id": 15,
+      "poster": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+      "title": "Citizen Kane",
+      "year": 1941
+    },
+    "Tokyo Story": {
+      "id": 18148,
+      "poster": "/g2YbTYKpY7N2yDSk7BfXZ18I5QV.jpg",
+      "title": "Tokyo Story",
+      "year": 1953
+    },
+    "In the Mood for Love": {
+      "id": 843,
+      "poster": "/iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg",
+      "title": "In the Mood for Love",
+      "year": 2000
+    },
+    "2001: A Space Odyssey": {
+      "id": 62,
+      "poster": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "title": "2001: A Space Odyssey",
+      "year": 1968
+    },
+    "Beau Travail": {
+      "id": 14626,
+      "poster": "/5ySa1aQaT7kMcAbKwlS1HXxp2hM.jpg",
+      "title": "Beau Travail",
+      "year": 2000
+    },
+    "Mulholland Drive": {
+      "id": 1018,
+      "poster": "/x7A59t6ySylr1L7aubOQEA480vM.jpg",
+      "title": "Mulholland Drive",
+      "year": 2001
+    },
+    "Man with a Movie Camera": {
+      "id": 26317,
+      "poster": "/vJgAdgJWX54v0oXfIvhwjlZnmgn.jpg",
+      "title": "Man with a Movie Camera",
+      "year": 1929
+    },
+    "Singin' in the Rain": {
+      "id": 872,
+      "poster": "/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+      "title": "Singin' in the Rain",
+      "year": 1952
+    },
+    "Portrait of a Lady on Fire": {
+      "id": 531428,
+      "poster": "/rUDuOKpkKBHxx41BScqKej72iT3.jpg",
+      "title": "Portrait of a Lady on Fire",
+      "year": 2019
+    },
+    "8½": {
+      "id": 422,
+      "poster": "/23VIf7zNxAgaXwIlvzd3IvOd9sY.jpg",
+      "title": "8½",
+      "year": 1963
+    },
+    "The Passion of Joan of Arc": {
+      "id": 780,
+      "poster": "/tAgV9yxY6AC1bsPt3qJJQpD4s8.jpg",
+      "title": "The Passion of Joan of Arc",
+      "year": 1928
+    },
+    "The Searchers": {
+      "id": 3114,
+      "poster": "/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg",
+      "title": "The Searchers",
+      "year": 1956
+    },
+    "Sunrise": {
+      "id": 631,
+      "poster": "/5V9jDm4u2QemGHbqjUyP5HmFmzf.jpg",
+      "title": "Sunrise: A Song of Two Humans",
+      "year": 1927
+    },
+    "The Rules of the Game": {
+      "id": 776,
+      "poster": "/8JOzt7uFZyshcuzCBmYU6CDJL4D.jpg",
+      "title": "The Rules of the Game",
+      "year": 1939
+    },
+    "Battleship Potemkin": {
+      "id": 643,
+      "poster": "/hZmsRLsCnE9Zshf1YJONUpCOhds.jpg",
+      "title": "Battleship Potemkin",
+      "year": 1925
+    },
+    "Blue Velvet": {
+      "id": 793,
+      "poster": "/6v1zYh2FKOYVddY5pCQhd4PO9uX.jpg",
+      "title": "Blue Velvet",
+      "year": 1986
+    },
+    "Eraserhead": {
+      "id": 985,
+      "poster": "/mxveW3mGVc0DzLdOmtkZsgd7c3B.jpg",
+      "title": "Eraserhead",
+      "year": 1977
+    },
+    "The Leopard": {
+      "id": 1040,
+      "poster": "/riSUxwoK3xjkOgy6YJSvPhi7cO6.jpg",
+      "title": "The Leopard",
+      "year": 1963
+    },
+    "Ugetsu": {
+      "id": 14696,
+      "poster": "/r8RiuKTIYIJBjczBVsfeP5C00CJ.jpg",
+      "title": "Ugetsu",
+      "year": 1953
+    },
+    "Goodfellas": {
+      "id": 769,
+      "poster": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+      "title": "GoodFellas",
+      "year": 1990
+    },
+    "The Piano": {
+      "id": 713,
+      "poster": "/rx8RKXn8OtuS6lqloYsjyrGOUp4.jpg",
+      "title": "The Piano",
+      "year": 1993
+    },
+    "Heat": {
+      "id": 949,
+      "poster": "/e09dLw1Ljtccd2P4NsuUvVtS5du.jpg",
+      "title": "Heat",
+      "year": 1995
+    },
+    "Sr.": {
+      "id": 1013577,
+      "poster": "/2lyqE4OQaEvNvNQwngsZH9xzg4B.jpg",
+      "title": "\"Sr.\"",
+      "year": 2022
+    },
+    "Putney Swope": {
+      "id": 32575,
+      "poster": "/77hzrjyRGCuytrz6xYc8Cv2JPDy.jpg",
+      "title": "Putney Swope",
+      "year": 1969
+    },
+    "Pound": {
+      "id": 99069,
+      "poster": "/whrFp8hu1PH5hRBNRsWFcX0wQke.jpg",
+      "title": "Pound",
+      "year": 1970
+    },
+    "Greaser's Palace": {
+      "id": 90715,
+      "poster": "/ojPhdxrC00j0zN2hUrgn0kDdZT0.jpg",
+      "title": "Greaser's Palace",
+      "year": 1972
+    },
+    "Chafed Elbows": {
+      "id": 110689,
+      "poster": "/faUf2H6qKl6zIbK0QnJFw6qrbMm.jpg",
+      "title": "Chafed Elbows",
+      "year": 1967
+    },
+    "Two Tons of Turquoise to Taos Tonight": {
+      "id": 112446,
+      "poster": "/flqCRbWiGWc5RiA9iBhpbtNKVHd.jpg",
+      "title": "Two Tons of Turquoise to Taos Tonight",
+      "year": 1975
+    },
+    "Sweet Sweetback's Baadasssss Song": {
+      "id": 5822,
+      "poster": "/ykGkbDp1QxQTM3UUrUvowtXLI0i.jpg",
+      "title": "Sweet Sweetback's Baadasssss Song",
+      "year": 1971
+    },
+    "Easy Rider": {
+      "id": 624,
+      "poster": "/3H3vwPGX6EbBRffIVHp3eHHcjka.jpg",
+      "title": "Easy Rider",
+      "year": 1969
+    },
+    "The Fabelmans": {
+      "id": 804095,
+      "poster": "/h7llKkqkkJtJrTOaDLuVeUYDQ7I.jpg",
+      "title": "The Fabelmans",
+      "year": 2022
+    },
+    "Everything Everywhere All at Once": {
+      "id": 545611,
+      "poster": "/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+      "title": "Everything Everywhere All at Once",
+      "year": 2022
+    },
+    "Elvis": {
+      "id": 614934,
+      "poster": "/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg",
+      "title": "Elvis",
+      "year": 2022
+    },
+    "The Banshees of Inisherin": {
+      "id": 674324,
+      "poster": "/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg",
+      "title": "The Banshees of Inisherin",
+      "year": 2022
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Tár": {
+      "id": 817758,
+      "poster": "/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg",
+      "title": "TÁR",
+      "year": 2022
+    },
+    "Women Talking": {
+      "id": 777245,
+      "poster": "/wcTc9GveMMjAdHSlzdE0FaRCtqi.jpg",
+      "title": "Women Talking",
+      "year": 2022
+    },
+    "The Woman King": {
+      "id": 724495,
+      "poster": "/438QXt1E3WJWb3PqNniK0tAE5c1.jpg",
+      "title": "The Woman King",
+      "year": 2022
+    },
+    "Glass Onion: A Knives Out Mystery": {
+      "id": 661374,
+      "poster": "/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
+      "title": "Glass Onion: A Knives Out Mystery",
+      "year": 2022
+    },
+    "Avatar: The Way of Water": {
+      "id": 76600,
+      "poster": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "title": "Avatar: The Way of Water",
+      "year": 2022
+    },
+    "All the Beauty and the Bloodshed": {
+      "id": 1004663,
+      "poster": "/cvO51xxtIUHc5w5ZgFsigiFaUaO.jpg",
+      "title": "All the Beauty and the Bloodshed",
+      "year": 2022
+    },
+    "Citizenfour": {
+      "id": 293310,
+      "poster": "/nOVhX69EAxtSKEEnr5UcSd5UVci.jpg",
+      "title": "Citizenfour",
+      "year": 2014
+    },
+    "How to Survive a Plague": {
+      "id": 84286,
+      "poster": "/azlN2LO5OtJVeSokkK408xMtt1n.jpg",
+      "title": "How to Survive a Plague",
+      "year": 2012
+    },
+    "Return to Homs": {
+      "id": 238561,
+      "poster": "/lhc7zDOgv4lqV3WlEHmDvnlQpdI.jpg",
+      "title": "Return to Homs",
+      "year": 2013
+    },
+    "The Whale": {
+      "id": 785084,
+      "poster": "/jQ0gylJMxWSL490sy0RrPj1Lj7e.jpg",
+      "title": "The Whale",
+      "year": 2022
+    },
+    "Babylon": {
+      "id": 615777,
+      "poster": "/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+      "title": "Babylon",
+      "year": 2022
+    },
+    "Guillermo del Toro's Pinocchio": {
+      "id": 555604,
+      "poster": "/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",
+      "title": "Guillermo del Toro's Pinocchio",
+      "year": 2022
+    },
+    "Black Panther: Wakanda Forever": {
+      "id": 505642,
+      "poster": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+      "title": "Black Panther: Wakanda Forever",
+      "year": 2022
+    },
+    "Triangle of Sadness": {
+      "id": 497828,
+      "poster": "/k9eLozCgCed5FGTSdHu0bBElAV8.jpg",
+      "title": "Triangle of Sadness",
+      "year": 2022
+    },
+    "She Said": {
+      "id": 837881,
+      "poster": "/jG4UI2dbNWlWtTTupjeU3fRJ5Fn.jpg",
+      "title": "She Said",
+      "year": 2022
+    },
+    "Empire of Light": {
+      "id": 814757,
+      "poster": "/h84SnIQF91Gz2Fv1OpMJ3245t4i.jpg",
+      "title": "Empire of Light",
+      "year": 2022
+    },
+    "Emancipation": {
+      "id": 715931,
+      "poster": "/AkdNXEquLf4GIkwh1dcSB7j0FTY.jpg",
+      "title": "Emancipation",
+      "year": 2022
+    },
+    "Till": {
+      "id": 854239,
+      "poster": "/cmDs0CYlgioyP2AQQTTmavt3uoO.jpg",
+      "title": "Till",
+      "year": 2022
+    },
+    "Decision to Leave": {
+      "id": 705996,
+      "poster": "/zI8KZ4EdLUymWKX1YEkpZ0gtPUa.jpg",
+      "title": "Decision to Leave",
+      "year": 2022
+    },
+    "Bardo": {
+      "id": 685691,
+      "poster": "/3e6RA0CzFDC0pz5TqiRlbHcsc2n.jpg",
+      "title": "BARDO, False Chronicle of a Handful of Truths",
+      "year": 2022
+    },
+    "Living": {
+      "id": 760099,
+      "poster": "/zUJcp0rpUqp2GSk7t9jvAiZsXtM.jpg",
+      "title": "Living",
+      "year": 2022
+    },
+    "RRR": {
+      "id": 579974,
+      "poster": "/u0XUBNQWlOvrh0Gd97ARGpIkL0.jpg",
+      "title": "RRR",
+      "year": 2022
+    },
+    "Close": {
+      "id": 901563,
+      "poster": "/dlMNnWs7Mz8Nk5AC447Ew1tD5pn.jpg",
+      "title": "Close",
+      "year": 2022
+    },
+    "White Noise": {
+      "id": 744594,
+      "poster": "/kesxNdLZlmGoTRspDHU1WgdEuGw.jpg",
+      "title": "White Noise",
+      "year": 2022
+    },
+    "Nope": {
+      "id": 762504,
+      "poster": "/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
+      "title": "Nope",
+      "year": 2022
+    },
+    "Armageddon Time": {
+      "id": 615952,
+      "poster": "/wMK717aDWhboXOiVbZ9sLBqLmKh.jpg",
+      "title": "Armageddon Time",
+      "year": 2022
+    },
+    "Blonde": {
+      "id": 301502,
+      "poster": "/mEeHqtnWOR44vLCutEFku2WK6ou.jpg",
+      "title": "Blonde",
+      "year": 2022
+    },
+    "Ambulance": {
+      "id": 763285,
+      "poster": "/hUbgg3mMSbY9PlpTxBo4IFUVSd6.jpg",
+      "title": "Ambulance",
+      "year": 2022
+    },
+    "Moulin Rouge!": {
+      "id": 824,
+      "poster": "/2kjM5CUZRIU5yOANUowrbJcRL9L.jpg",
+      "title": "Moulin Rouge!",
+      "year": 2001
+    },
+    "The Great Gatsby": {
+      "id": 64682,
+      "poster": "/nimh1rrDDLhgpG8XAYoUZXHYwb6.jpg",
+      "title": "The Great Gatsby",
+      "year": 2013
+    },
+    "Three Billboards Outside Ebbing, Missouri": {
+      "id": 359940,
+      "poster": "/bRYLt8fV82tdVoDppSFTZIcJiLN.jpg",
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "year": 2017
+    },
+    "Knives Out": {
+      "id": 546554,
+      "poster": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+      "title": "Knives Out",
+      "year": 2019
+    },
+    "The Power of the Dog": {
+      "id": 600583,
+      "poster": "/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg",
+      "title": "The Power of the Dog",
+      "year": 2021
+    },
+    "CODA": {
+      "id": 776503,
+      "poster": "/BzVjmm8l23rPsijLiNLUzuQtyd.jpg",
+      "title": "CODA",
+      "year": 2021
+    },
+    "Avatar": {
+      "id": 19995,
+      "poster": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "title": "Avatar",
+      "year": 2009
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "True Lies": {
+      "id": 36955,
+      "poster": "/pweFTnzzTfGK68woSVkiTgjLzWm.jpg",
+      "title": "True Lies",
+      "year": 1994
+    },
+    "Joker": {
+      "id": 475557,
+      "poster": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "title": "Joker",
+      "year": 2019
+    },
+    "1917": {
+      "id": 530915,
+      "poster": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+      "title": "1917",
+      "year": 2019
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Nightmare Alley": {
+      "id": 597208,
+      "poster": "/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg",
+      "title": "Nightmare Alley",
+      "year": 2021
+    },
+    "The Menu": {
+      "id": 593643,
+      "poster": "/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg",
+      "title": "The Menu",
+      "year": 2022
+    },
+    "Downsizing": {
+      "id": 301337,
+      "poster": "/5bNzInSSAXfr0MFlHfb4IoQePVx.jpg",
+      "title": "Downsizing",
+      "year": 2017
+    },
+    "Ikiru": {
+      "id": 3782,
+      "poster": "/dgNTS4EQDDVfkzJI5msKuHu2Ei3.jpg",
+      "title": "Ikiru",
+      "year": 1952
+    },
+    "Margin Call": {
+      "id": 50839,
+      "poster": "/qtO57obCJuUBS0en3HLgFgZ19Xk.jpg",
+      "title": "Margin Call",
+      "year": 2011
+    },
+    "The Master": {
+      "id": 68722,
+      "poster": "/rUSjbyvYWN9H4az8xt0tDtU7I6v.jpg",
+      "title": "The Master",
+      "year": 2012
+    },
+    "There Will Be Blood": {
+      "id": 7345,
+      "poster": "/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+      "title": "There Will Be Blood",
+      "year": 2007
+    },
+    "American Movie": {
+      "id": 14242,
+      "poster": "/y8dJgWr1HeW0RRxwANDWvgIXdsF.jpg",
+      "title": "American Movie",
+      "year": 1999
+    },
+    "Jim & Andy: The Great Beyond": {
+      "id": 469019,
+      "poster": "/kKzopOFXz9YfsCTqg3XpF0GoypX.jpg",
+      "title": "Jim & Andy: The Great Beyond",
+      "year": 2017
+    },
+    "Fyre": {
+      "id": 567860,
+      "poster": "/yFsP0BAJhAH3RTXCAnGvI1CtaUb.jpg",
+      "title": "Fyre",
+      "year": 2019
+    },
+    "De Palma": {
+      "id": 355254,
+      "poster": "/uYYxSGwKWrnN86Uyuk0NyDzCLwh.jpg",
+      "title": "De Palma",
+      "year": 2016
+    },
+    "G.I. Joe: The Rise of Cobra": {
+      "id": 14869,
+      "poster": "/mc9b25IAprHfsaOz0wTshOwGHcY.jpg",
+      "title": "G.I. Joe: The Rise of Cobra",
+      "year": 2009
+    },
+    "PAW Patrol: The Movie": {
+      "id": 675445,
+      "poster": "/ic0intvXZSfBlYPIvWXpU1ivUCO.jpg",
+      "title": "PAW Patrol: The Movie",
+      "year": 2021
+    },
+    "Minions: The Rise of Gru": {
+      "id": 438148,
+      "poster": "/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg",
+      "title": "Minions: The Rise of Gru",
+      "year": 2022
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "slug": "it-director-andy-muschietti-on-adapting-stephen-king-the-big",
+  "title": "'It' Director Andy Muschietti on Adapting Stephen King",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2017-09-08",
+  "runtimeMin": 33,
+  "format": "Sean Fennessey talks 'It' twice: first rereading the Stephen King novel with Kate Nibbs, then with director Andy Muschietti on his adaptation, building Pennywise, and the email King sent after watching it.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Rereading 'It' With Kate Nibbs",
+      "note": "the book, the miniseries, the new movie",
+      "films": [
+        {
+          "title": "It",
+          "year": 2017,
+          "note": "Fennessey calls the new adaptation scary and sweet in equal measure, and great besides. Finn Wolfhard plays Richie; unlike Seth Green's version in the 1990 miniseries, he drops the book's racist voices."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In Conversation",
+      "guest": "Andy Muschietti on",
+      "films": [
+        {
+          "title": "It",
+          "year": 2017,
+          "note": "Muschietti isolates the losers as kids and wants a second half for their adult lives. King watched the DCP alone in Florida and emailed back: 'It's brilliant.'"
+        },
+        {
+          "title": "Mama",
+          "year": 2013,
+          "note": "Grew out of a three-minute short that spread on YouTube; Guillermo del Toro called and offered to produce the feature."
+        },
+        {
+          "title": "Close Encounters of the Third Kind",
+          "year": 1977,
+          "note": "This is what started it. He saw it at five at a Buenos Aires drive-in, and the alien reveal fused magic and horror for him."
+        },
+        {
+          "title": "The Omega Man",
+          "year": 1971,
+          "note": "One of the Saturday-night TV horror films he says made the biggest early impression on him."
+        },
+        {
+          "title": "The Manster",
+          "year": 1959,
+          "note": "Another title from the childhood horror show hosted by a Spanish Lon Chaney."
+        },
+        {
+          "title": "The Abominable Dr. Phibes",
+          "year": 1971,
+          "note": "The Vincent Price film from that same show that blew his mind."
+        },
+        {
+          "title": "Trilogy of Terror",
+          "year": 1975,
+          "note": "The Zuni-doll segment terrified him; a shared reference with del Toro."
+        },
+        {
+          "title": "The Shining",
+          "year": 1980,
+          "note": "Raised in the adaptation talk: King has been vocal about his displeasure with Kubrick's version."
+        },
+        {
+          "title": "Dunkirk",
+          "year": 2017,
+          "note": "His pick for the last great thing he saw. A visceral experience whose puzzle structure covers for a simple story."
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "It (1990 miniseries)",
+      "Stranger Things",
+      "Game of Thrones"
+    ],
+    "Books": [
+      "It",
+      "Christine",
+      "Cujo",
+      "Pet Sematary",
+      "Thinner",
+      "Skeleton Crew",
+      "Night Shift"
+    ],
+    "Ads": [
+      "The Watch",
+      "Black on the Air"
+    ]
+  },
+  "tmdb": {
+    "It": {
+      "id": 346364,
+      "poster": "/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",
+      "title": "It",
+      "year": 2017
+    },
+    "Mama": {
+      "id": 132232,
+      "poster": "/eo8BhR8Q5STmWE9sMLsEPagxmy6.jpg",
+      "title": "Mama",
+      "year": 2013
+    },
+    "Close Encounters of the Third Kind": {
+      "id": 840,
+      "poster": "/yaPx3cK9zGFX3SbcKwxWM1QIbUh.jpg",
+      "title": "Close Encounters of the Third Kind",
+      "year": 1977
+    },
+    "The Omega Man": {
+      "id": 11234,
+      "poster": "/qlt65C43HeoDm5K5gYBtT20OeA1.jpg",
+      "title": "The Omega Man",
+      "year": 1971
+    },
+    "The Manster": {
+      "id": 38750,
+      "poster": "/5wsGBmJg7Z2agUwQkADE1RD0oq.jpg",
+      "title": "The Manster",
+      "year": 1959
+    },
+    "The Abominable Dr. Phibes": {
+      "id": 17965,
+      "poster": "/4853HMKlJl1RozE6OyHBKQemCE0.jpg",
+      "title": "The Abominable Dr. Phibes",
+      "year": 1971
+    },
+    "Trilogy of Terror": {
+      "id": 38783,
+      "poster": "/nE4ih0nzpqz0x154Vig0QJUc6Sr.jpg",
+      "title": "Trilogy of Terror",
+      "year": 1975
+    },
+    "The Shining": {
+      "id": 694,
+      "poster": "/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg",
+      "title": "The Shining",
+      "year": 1980
+    },
+    "Dunkirk": {
+      "id": 374720,
+      "poster": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "title": "Dunkirk",
+      "year": 2017
+    }
+  }
+}

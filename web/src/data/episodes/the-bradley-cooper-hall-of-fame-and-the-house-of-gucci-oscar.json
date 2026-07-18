@@ -1,0 +1,264 @@
+{
+  "slug": "the-bradley-cooper-hall-of-fame-and-the-house-of-gucci-oscar",
+  "title": "The Bradley Cooper Hall of Fame and the ‘House of Gucci’ Oscars Surge",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2022-01-14",
+  "runtimeMin": 85,
+  "format": "Sean and Amanda remember Sidney Poitier, parse a chaotic week of SAG nominations, and build a 10-film Bradley Cooper Hall of Fame.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Remembering Sidney Poitier",
+      "note": "In memoriam, following his death last week",
+      "films": [
+        {
+          "title": "No Way Out",
+          "year": 1950,
+          "note": "His first starring role, an ER doctor squaring off with Richard Widmark's racist patient. Set the template for the parts Hollywood kept giving him."
+        },
+        {
+          "title": "To Sir, with Love",
+          "year": 1967,
+          "note": "One of three films he released this year, playing a teacher in a London school."
+        },
+        {
+          "title": "In the Heat of the Night",
+          "year": 1967,
+          "note": "The second of the three. The legendary one."
+        },
+        {
+          "title": "Guess Who's Coming to Dinner",
+          "year": 1967,
+          "note": "And the third — a whole trio in one year, at his commercial peak."
+        },
+        {
+          "title": "Lilies of the Field",
+          "year": 1963,
+          "note": "The Best Actor Oscar win."
+        },
+        {
+          "title": "Paris Blues",
+          "year": 1961,
+          "note": "Opposite Paul Newman and Joanne Woodward. Sean rates it highly."
+        },
+        {
+          "title": "The Slender Thread",
+          "year": 1965,
+          "note": "Made early in Sydney Pollack's career too."
+        },
+        {
+          "title": "Buck and the Preacher",
+          "year": 1972,
+          "note": "His directorial debut, a Western with Harry Belafonte and Ruby Dee."
+        },
+        {
+          "title": "Sneakers",
+          "year": 1992,
+          "note": "The one people Sean and Amanda's age actually grew up with, though Sean thinks it undersells the rest of the career."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The SAG Award Nominations",
+      "note": "This week's surprises and snubs",
+      "films": [
+        {
+          "title": "House of Gucci",
+          "year": 2021,
+          "note": "Its ensemble got recognized, which Sean reads as evidence it's back in the Best Picture conversation. Amanda wonders if voters just liked the cast list."
+        },
+        {
+          "title": "The Power of the Dog",
+          "year": 2021,
+          "note": "Three individual acting nods (Dunst, Cumberbatch, Smit-McPhee) but no ensemble nomination — precedent (Nomadland, Green Book) says that's not conclusive either way."
+        },
+        {
+          "title": "Being the Ricardos",
+          "year": 2021,
+          "note": "Javier Bardem's Best Actor nod for playing Desi Arnaz surprised both hosts. No ensemble recognition for the rest of the cast."
+        },
+        {
+          "title": "Cyrano",
+          "year": 2021,
+          "note": "Peter Dinklage was the presumed frontrunner Bardem's nomination seems to have bumped."
+        },
+        {
+          "title": "Licorice Pizza",
+          "year": 2021,
+          "note": "Bradley Cooper's Supporting Actor nod for an extended cameo is what prompted this episode."
+        },
+        {
+          "title": "Spencer",
+          "year": 2021,
+          "note": "Kristen Stewart, the presumed Best Actress frontrunner, got snubbed entirely."
+        },
+        {
+          "title": "West Side Story",
+          "year": 2021,
+          "note": "Blanked except for Ariana DeBose. Rachel Zegler's absence surprised both hosts."
+        },
+        {
+          "title": "Don't Look Up",
+          "year": 2021,
+          "note": "Ensemble nomination only, which the hosts read as its Best Picture spot being confirmed — not really a showcase for anyone's acting."
+        },
+        {
+          "title": "Coda",
+          "year": 2021,
+          "note": "Ensemble nomination plus a Troy Kotsur nod for the Apple release."
+        },
+        {
+          "title": "Belfast",
+          "year": 2021,
+          "note": "Katrina Balfe and the ensemble got in, but Ciárán Hinds, Judi Dench, Jamie Dornan and Jude Hill were all left out — leaves the hosts with no read on where it stands."
+        }
+      ]
+    },
+    {
+      "kind": "halloffame",
+      "heading": "The Bradley Cooper Hall of Fame",
+      "note": "10 films",
+      "honoree": "Bradley Cooper",
+      "films": [
+        {
+          "title": "Wedding Crashers",
+          "year": 2005,
+          "note": "Comic villainy launched primarily at Vince Vaughn for two hours. In the conversation for great-douchebag-performance history."
+        },
+        {
+          "title": "The Hangover",
+          "year": 2009,
+          "note": "Phil Wenneck. Still funny; some of it more uncomfortable now than in 2009."
+        },
+        {
+          "title": "Limitless",
+          "year": 2011,
+          "note": "The proof-of-concept movie — the first time the show believed he could carry a high-concept thriller by himself, Robert De Niro in the back seat notwithstanding."
+        },
+        {
+          "title": "The Place Beyond the Pines",
+          "year": 2012,
+          "note": "Chosen over Joker for the tenth spot. Sean's favorite of his films, and a little underrated."
+        },
+        {
+          "title": "Silver Linings Playbook",
+          "year": 2012,
+          "note": "His first Best Actor nomination, running around Philadelphia in a trash bag."
+        },
+        {
+          "title": "American Hustle",
+          "year": 2013,
+          "note": "Amanda doesn't love the movie, but he's doing a very committed coked-out performance and got nominated for it."
+        },
+        {
+          "title": "Guardians of the Galaxy",
+          "year": 2014,
+          "note": "Rocket Raccoon. Voice acting Amanda calls harder than it looks, even if she can't stand these movies otherwise."
+        },
+        {
+          "title": "American Sniper",
+          "year": 2014,
+          "note": "Chris Kyle, and his first Best Picture producer credit — where the Warren Beatty ambitions start to show."
+        },
+        {
+          "title": "A Star Is Born",
+          "year": 2018,
+          "note": "Actor, director, writer, producer, and by Sean's read possibly the pinnacle of the career so far."
+        },
+        {
+          "title": "Licorice Pizza",
+          "year": 2021,
+          "note": "Roughly fifteen minutes of screen time that finally pays off years of scene-stealing cameos."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Considered for the Hall of Fame",
+      "films": [
+        "Wet Hot American Summer",
+        "My Little Eye",
+        "Bending All the Rules",
+        "Failure to Launch",
+        "The Comebacks",
+        "Older Than America",
+        "The Rocker",
+        "The Midnight Meat Train",
+        "Yes Man",
+        "He's Just Not That Into You",
+        "Valentine's Day",
+        "Case 39",
+        "All About Steve",
+        "New York, I Love You",
+        "The A-Team",
+        "The Hangover Part II",
+        "The Words",
+        "Hit and Run",
+        "The Hangover Part III",
+        "Serena",
+        "Aloha",
+        "Burnt",
+        "Joy",
+        "10 Cloverfield Lane",
+        "War Dogs",
+        "Guardians of the Galaxy Vol. 2",
+        "Avengers: Infinity War",
+        "The Mule",
+        "Avengers: Endgame",
+        "Joker",
+        "Nightmare Alley"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "This Means War",
+        "Fifty Shades of Grey",
+        "Bridesmaids",
+        "How to Lose a Guy in 10 Days",
+        "Bring It On",
+        "Ant-Man",
+        "Training Day",
+        "Nomadland",
+        "Parasite",
+        "Green Book",
+        "The Shape of Water",
+        "The Little Things",
+        "If Beale Street Could Talk",
+        "Respect",
+        "King Richard",
+        "Passing",
+        "The Tragedy of Macbeth",
+        "Drive My Car",
+        "Dune",
+        "Death on the Nile"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Alias",
+      "Nip/Tuck",
+      "Jack & Bobby",
+      "Kitchen Confidential",
+      "The Morning Show",
+      "Inside the Actors Studio"
+    ],
+    "Podcasts": [
+      "Plain English",
+      "WTF with Marc Maron"
+    ],
+    "Ads": [
+      "Netflix",
+      "Boar's Head",
+      "FanDuel"
+    ]
+  }
+}

@@ -1,0 +1,487 @@
+{
+  "slug": "us-and-the-best-movies-at-sxsw-plus-sebastian-lelio-on-glori",
+  "title": "'Us' and the Best Movies at SXSW, Plus Sebastián Lelio on 'Gloria Bell'",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2019-03-12",
+  "runtimeMin": 87,
+  "format": "Sean, Amanda, and Chris report back from SXSW with verdicts on 'Us,' 'Long Shot,' 'Booksmart,' and 'The Beach Bum,' then Sean talks to Sebastián Lelio about remaking his own film for Julianne Moore.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "'Us'",
+      "note": "the festival's opening-night premiere",
+      "films": [
+        {
+          "title": "Us",
+          "year": 2019,
+          "note": "Jordan Peele's follow-up to Get Out, with Lupita Nyong'o and Winston Duke as a family confronted by doppelgängers on a Santa Cruz beach vacation"
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The Best Movies at SXSW",
+      "note": "picks and discoveries from the festival",
+      "films": [
+        {
+          "title": "Olympic Dreams",
+          "year": 2019,
+          "note": "shot during the actual 2018 Winter Games in Pyeongchang, with Alexi Pappas as a competing skier and Nick Kroll as a volunteer dentist"
+        },
+        {
+          "title": "Yes, God, Yes",
+          "year": 2019,
+          "note": "Karen Maine's directorial debut, with Natalia Dyer as a Catholic-school teenager who stumbles into AOL cybersex"
+        },
+        {
+          "title": "Villains",
+          "year": 2019,
+          "note": "Dan Berk and Robert Olsen's home-invasion thriller, with Bill Skarsgård and Maika Monroe as small-time robbers who pick the wrong house"
+        },
+        {
+          "title": "Long Shot",
+          "year": 2019,
+          "note": "Charlize Theron's presidential-hopeful Secretary of State hires her childhood babysitter, played by Seth Rogen, as a speechwriter"
+        },
+        {
+          "title": "The Beach Bum",
+          "year": 2019,
+          "note": "Harmony Korine's loose, episodic portrait of a Florida burnout poet, with Matthew McConaughey and Snoop Dogg"
+        },
+        {
+          "title": "Running with Beto",
+          "year": 2019,
+          "note": "HBO documentary following Beto O'Rourke's Senate run against Ted Cruz"
+        },
+        {
+          "title": "Mickey and the Bear",
+          "year": 2019,
+          "note": "Annabelle Attanasio's debut, with Camila Morrone as a Montana teenager caring for her opioid-addicted veteran father, played by James Badge Dale"
+        },
+        {
+          "title": "Booksmart",
+          "year": 2019,
+          "note": "Olivia Wilde's directorial debut, with Beanie Feldstein and Kaitlyn Dever cramming a missed high school experience into one night before graduation"
+        },
+        {
+          "title": "Adopt a Highway",
+          "year": 2019,
+          "note": "Logan Marshall-Green's directorial debut, with Ethan Hawke as an ex-convict trying to rebuild his life"
+        },
+        {
+          "title": "Her Smell",
+          "year": 2019,
+          "note": "Alex Ross Perry's portrait of a self-destructive 90s rock star, played by Elisabeth Moss"
+        },
+        {
+          "title": "The Art of Self-Defense",
+          "year": 2019,
+          "note": "Riley Stearns' deadpan story of a man, played by Jesse Eisenberg, who takes up karate after being attacked"
+        },
+        {
+          "title": "Run This Town",
+          "year": 2019,
+          "note": "a dramatization of the Rob Ford crack-video scandal, with Ben Platt as a reporter and Damian Lewis under heavy prosthetics as the mayor"
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Sebastián Lelio on",
+      "films": [
+        {
+          "title": "Gloria Bell",
+          "year": 2019,
+          "note": "Lelio's English-language remake of his own film, made at Julianne Moore's request, with John Turturro"
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Comparisons for 'Us'",
+      "films": [
+        "Get Out",
+        "Funny Games",
+        "The Right Stuff",
+        "Captain Marvel"
+      ]
+    },
+    {
+      "group": "Comparisons for 'Booksmart'",
+      "films": [
+        "Superbad",
+        "Project X",
+        "Dazed and Confused",
+        "The Breakfast Club",
+        "Fast Times at Ridgemont High",
+        "Lady Bird",
+        "Set It Up"
+      ]
+    },
+    {
+      "group": "Comparisons for 'Villains'",
+      "films": [
+        "Natural Born Killers",
+        "Pulp Fiction",
+        "Blood Simple",
+        "Barton Fink",
+        "Stake Land",
+        "The Stakelander",
+        "Body"
+      ]
+    },
+    {
+      "group": "Comparisons for 'Long Shot'",
+      "films": [
+        "Pretty Woman",
+        "The American President"
+      ]
+    },
+    {
+      "group": "Also mentioned",
+      "films": [
+        "It",
+        "It Follows",
+        "Black Panther",
+        "12 Years a Slave",
+        "Gummo",
+        "Proof of Life",
+        "The War Room",
+        "Never Goin' Back",
+        "Obvious Child"
+      ]
+    },
+    {
+      "group": "Sebastián Lelio's world",
+      "films": [
+        "Roma",
+        "A Fantastic Woman",
+        "Disobedience",
+        "Gloria",
+        "Safe",
+        "Magnolia"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Game of Thrones",
+      "Talk the Thrones",
+      "Stranger Things",
+      "Castle Rock",
+      "Bull",
+      "Veep"
+    ],
+    "Ads": [
+      "Bud Light"
+    ]
+  },
+  "tmdbOverrides": {
+    "Body": 314420,
+    "Safe": 32646
+  },
+  "tmdb": {
+    "Us": {
+      "id": 458723,
+      "poster": "/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+      "title": "Us",
+      "year": 2019
+    },
+    "Olympic Dreams": {
+      "id": 575941,
+      "poster": "/mQxTK2Tg8YKNJFpg6bt48IoG7py.jpg",
+      "title": "Olympic Dreams",
+      "year": 2019
+    },
+    "Yes, God, Yes": {
+      "id": 527660,
+      "poster": "/69SYznq2mSbgKyQF3QHYwblmqAk.jpg",
+      "title": "Yes, God, Yes",
+      "year": 2020
+    },
+    "Villains": {
+      "id": 510388,
+      "poster": "/Arefq9eI1z94Jtrbbuqzg9p5mf8.jpg",
+      "title": "Villains",
+      "year": 2019
+    },
+    "Long Shot": {
+      "id": 459992,
+      "poster": "/1F9AItQ6fhrfhBVQlmC8ReOQAFG.jpg",
+      "title": "Long Shot",
+      "year": 2019
+    },
+    "The Beach Bum": {
+      "id": 441384,
+      "poster": "/iXMxdC7T0t3dxislnUNybcvJmAH.jpg",
+      "title": "The Beach Bum",
+      "year": 2019
+    },
+    "Running with Beto": {
+      "id": 575812,
+      "poster": "/2CxbRbPxgU4JQagNDu8Oz5vOry7.jpg",
+      "title": "Running with Beto",
+      "year": 2019
+    },
+    "Mickey and the Bear": {
+      "id": 575958,
+      "poster": "/30ZXfZJeqfmo2lkycFbDod9XMqd.jpg",
+      "title": "Mickey and the Bear",
+      "year": 2019
+    },
+    "Booksmart": {
+      "id": 505600,
+      "poster": "/2aSxRDmisJP90H3S0aocyuQIe4z.jpg",
+      "title": "Booksmart",
+      "year": 2019
+    },
+    "Adopt a Highway": {
+      "id": 565348,
+      "poster": "/y2nzyAsOufAhqEEhsr0ArTCQBPz.jpg",
+      "title": "Adopt a Highway",
+      "year": 2019
+    },
+    "Her Smell": {
+      "id": 520679,
+      "poster": "/qEvgdGBMORPS0rz8pqkVH3obLee.jpg",
+      "title": "Her Smell",
+      "year": 2019
+    },
+    "The Art of Self-Defense": {
+      "id": 480001,
+      "poster": "/bTq793Qwl3tCXb94zrDPAwppbsC.jpg",
+      "title": "The Art of Self-Defense",
+      "year": 2019
+    },
+    "Run This Town": {
+      "id": 576682,
+      "poster": "/3KZ0cLrMqhugLBRSSmEmk3RN3Aa.jpg",
+      "title": "Run This Town",
+      "year": 2020
+    },
+    "Gloria Bell": {
+      "id": 491473,
+      "poster": "/oTfAWQXUceUszmifA4AwkIsDccQ.jpg",
+      "title": "Gloria Bell",
+      "year": 2019
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Funny Games": {
+      "id": 8461,
+      "poster": "/zs92sAOh3Q0kDIJkgaJFTBzSFka.jpg",
+      "title": "Funny Games",
+      "year": 2008
+    },
+    "The Right Stuff": {
+      "id": 9549,
+      "poster": "/btqTjNRxecYgQ1FGfVlLqSSNjz.jpg",
+      "title": "The Right Stuff",
+      "year": 1983
+    },
+    "Captain Marvel": {
+      "id": 299537,
+      "poster": "/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+      "title": "Captain Marvel",
+      "year": 2019
+    },
+    "Superbad": {
+      "id": 8363,
+      "poster": "/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg",
+      "title": "Superbad",
+      "year": 2007
+    },
+    "Project X": {
+      "id": 57214,
+      "poster": "/lUPDGT3lyRrq8SvWuNWG2DP64bR.jpg",
+      "title": "Project X",
+      "year": 2012
+    },
+    "Dazed and Confused": {
+      "id": 9571,
+      "poster": "/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+      "title": "Dazed and Confused",
+      "year": 1993
+    },
+    "The Breakfast Club": {
+      "id": 2108,
+      "poster": "/gp4zlj7wgbiofLMNsTPndMuO3PN.jpg",
+      "title": "The Breakfast Club",
+      "year": 1985
+    },
+    "Fast Times at Ridgemont High": {
+      "id": 13342,
+      "poster": "/s1DA8H7qwoOcAEhow2rCzuQtpuO.jpg",
+      "title": "Fast Times at Ridgemont High",
+      "year": 1982
+    },
+    "Lady Bird": {
+      "id": 391713,
+      "poster": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+      "title": "Lady Bird",
+      "year": 2017
+    },
+    "Set It Up": {
+      "id": 384677,
+      "poster": "/7omfwqiiMld9EnUps3Uk9YZLy6g.jpg",
+      "title": "Set It Up",
+      "year": 2018
+    },
+    "Natural Born Killers": {
+      "id": 241,
+      "poster": "/fEKZwT91gxvkAoyPgpNXo8W5fu0.jpg",
+      "title": "Natural Born Killers",
+      "year": 1994
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "Blood Simple": {
+      "id": 11368,
+      "poster": "/1DuCXzYWMAE9oGpxIrFWMn1NS0W.jpg",
+      "title": "Blood Simple",
+      "year": 1985
+    },
+    "Barton Fink": {
+      "id": 290,
+      "poster": "/oDkp5iClJ9WKJGtKHz8BydodHC3.jpg",
+      "title": "Barton Fink",
+      "year": 1991
+    },
+    "Stake Land": {
+      "id": 52015,
+      "poster": "/q5Cq3svR0XPEb9VkVBHPowT1Bxf.jpg",
+      "title": "Stake Land",
+      "year": 2010
+    },
+    "The Stakelander": {
+      "id": 410988,
+      "poster": "/3K9sca6hMxVzCtE7EnAxTjdKWpM.jpg",
+      "title": "The Stakelander",
+      "year": 2016
+    },
+    "Body": {
+      "id": 314420,
+      "poster": "/dw0xE56whflv0OgfEw3lwdWxLRD.jpg",
+      "title": "Body",
+      "year": 2015
+    },
+    "Pretty Woman": {
+      "id": 114,
+      "poster": "/hVHUfT801LQATGd26VPzhorIYza.jpg",
+      "title": "Pretty Woman",
+      "year": 1990
+    },
+    "The American President": {
+      "id": 9087,
+      "poster": "/yObOAYFIHXHkFPQ3jhgkN2ezaD.jpg",
+      "title": "The American President",
+      "year": 1995
+    },
+    "It": {
+      "id": 346364,
+      "poster": "/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",
+      "title": "It",
+      "year": 2017
+    },
+    "It Follows": {
+      "id": 270303,
+      "poster": "/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg",
+      "title": "It Follows",
+      "year": 2015
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "12 Years a Slave": {
+      "id": 76203,
+      "poster": "/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+      "title": "12 Years a Slave",
+      "year": 2013
+    },
+    "Gummo": {
+      "id": 18415,
+      "poster": "/tMdoCRx0XIPR5uYBwxbxR7WCNBb.jpg",
+      "title": "Gummo",
+      "year": 1997
+    },
+    "Proof of Life": {
+      "id": 11983,
+      "poster": "/yw8x2i3vaHZZzpvqvF75E8q2N6M.jpg",
+      "title": "Proof of Life",
+      "year": 2000
+    },
+    "The War Room": {
+      "id": 26408,
+      "poster": "/prfxsyG4SnlnqqulavCJ4RksFUA.jpg",
+      "title": "The War Room",
+      "year": 1993
+    },
+    "Never Goin' Back": {
+      "id": 490005,
+      "poster": "/3ytp5pmHFVvAesnL2SJecxgV8W2.jpg",
+      "title": "Never Goin' Back",
+      "year": 2018
+    },
+    "Obvious Child": {
+      "id": 248774,
+      "poster": "/vAVuQuboHiqc6ClsFeWQXBHJkOX.jpg",
+      "title": "Obvious Child",
+      "year": 2014
+    },
+    "Roma": {
+      "id": 426426,
+      "poster": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+      "title": "Roma",
+      "year": 2018
+    },
+    "A Fantastic Woman": {
+      "id": 429191,
+      "poster": "/x2yNruMR8bAJOIQ3wd7HR9qWjW3.jpg",
+      "title": "A Fantastic Woman",
+      "year": 2017
+    },
+    "Disobedience": {
+      "id": 419743,
+      "poster": "/skPT4ffWhlmmDOMNEdxOiP6Emfz.jpg",
+      "title": "Disobedience",
+      "year": 2018
+    },
+    "Gloria": {
+      "id": 160068,
+      "poster": "/t1copJu3ecVx7zVCBA1o6z02WcZ.jpg",
+      "title": "Gloria",
+      "year": 2013
+    },
+    "Safe": {
+      "id": 32646,
+      "poster": "/2O71QsBkbqdLqQdx2yuNpJ4pFPq.jpg",
+      "title": "Safe",
+      "year": 1995
+    },
+    "Magnolia": {
+      "id": 334,
+      "poster": "/tpfC325Jk6S38VTe5dDWjWtoyxr.jpg",
+      "title": "Magnolia",
+      "year": 1999
+    }
+  }
+}

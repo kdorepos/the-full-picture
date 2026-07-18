@@ -1,0 +1,163 @@
+{
+  "slug": "fantastic-beasts-the-crimes-of-grindelwald-exit-survey-ep-99",
+  "title": "Fantastic Beasts: The Crimes of Grindelwald | Exit Survey (Ep. 99)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Jason Concepcion",
+    "Mallory Rubin"
+  ],
+  "published": "2018-11-16",
+  "runtimeMin": 55,
+  "format": "Sean Fennessey drags the two Binge Mode hosts in to litigate the second Fantastic Beasts: fandom versus canon, and whether the movie works if you haven't read the books.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Exit Survey: 'The Crimes of Grindelwald'",
+      "note": "with Jason Concepcion and Mallory Rubin",
+      "films": [
+        {
+          "title": "Fantastic Beasts: The Crimes of Grindelwald",
+          "year": 2018,
+          "note": "The movie on trial. Fennessey found it a confusing, un-special fantasy; Concepcion and Rubin argue it splits the difference between newcomers and fans and satisfies neither, with the Elder Wand reduced to fan service and the Credence-is-a-Dumbledore reveal threatening the canon. Praise reserved almost entirely for Jude Law's Dumbledore."
+        },
+        {
+          "title": "Fantastic Beasts and Where to Find Them",
+          "year": 2016,
+          "note": "The first film, which Rubin loved and Fennessey found well-made but unnecessary. Its Obscurus reveal gets re-read as the key to Ariana Dumbledore's backstory."
+        },
+        {
+          "title": "The Mummy",
+          "year": 2017,
+          "note": "Fennessey's opening parable: Alex Kurtzman calling the Tom Cruise reboot 'not for critics, for the fans' of a movie that had no fans, and what fan service really means."
+        },
+        {
+          "title": "The Golden Compass",
+          "year": 2007,
+          "note": "Fennessey's reference point for a fantasy that's fine but doesn't pierce the broader audience."
+        },
+        {
+          "title": "Harry Potter and the Sorcerer's Stone",
+          "year": 2001,
+          "note": "Invoked for Nicolas Flamel and the philosopher's/sorcerer's stone, dropped into 'Grindelwald' with no explanation."
+        },
+        {
+          "title": "Harry Potter and the Goblet of Fire",
+          "year": 2005,
+          "note": "Where Nifflers first turn up, in Hagrid's care-of-magical-creatures lesson."
+        },
+        {
+          "title": "Harry Potter and the Half-Blood Prince",
+          "year": 2009,
+          "note": "The cave scene Rubin reads as Dumbledore reliving his family's destruction."
+        },
+        {
+          "title": "Harry Potter and the Deathly Hallows: Part 1",
+          "year": 2010,
+          "note": "Fennessey's favorite of the series for its low-stakes hangout stretch in the tent."
+        },
+        {
+          "title": "Harry Potter and the Deathly Hallows: Part 2",
+          "year": 2011,
+          "note": "Named alongside Part 1; the source of the Ariana and King's Cross material the hosts keep returning to."
+        },
+        {
+          "title": "Rogue One: A Star Wars Story",
+          "year": 2016,
+          "note": "Fennessey's closest comparison: a well-made prequel that satisfies the appetite for content without being special."
+        },
+        {
+          "title": "Star Wars: The Last Jedi",
+          "year": 2017,
+          "note": "Cited for the 'not my Skywalker' backlash as a warning about franchise ownership and fan revolt."
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Game of Thrones"
+    ],
+    "Ads": [
+      "Villains (Ringer podcast promo, opening ad read that references Silence of the Lambs)"
+    ],
+    "Books & plays": [
+      "Harry Potter and the Cursed Child (play)",
+      "Fantastic Beasts and Where to Find Them (Hogwarts textbook)",
+      "Quidditch Through the Ages",
+      "The Tales of Beedle the Bard"
+    ]
+  },
+  "tmdbOverrides": {
+    "Harry Potter and the Sorcerer's Stone": 671
+  },
+  "tmdb": {
+    "Fantastic Beasts: The Crimes of Grindelwald": {
+      "id": 338952,
+      "poster": "/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg",
+      "title": "Fantastic Beasts: The Crimes of Grindelwald",
+      "year": 2018
+    },
+    "Fantastic Beasts and Where to Find Them": {
+      "id": 259316,
+      "poster": "/fLsaFKExQt05yqjoAvKsmOMYvJR.jpg",
+      "title": "Fantastic Beasts and Where to Find Them",
+      "year": 2016
+    },
+    "The Mummy": {
+      "id": 282035,
+      "poster": "/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg",
+      "title": "The Mummy",
+      "year": 2017
+    },
+    "The Golden Compass": {
+      "id": 2268,
+      "poster": "/6DTH9poR8RAw859L6OuokT7z993.jpg",
+      "title": "The Golden Compass",
+      "year": 2007
+    },
+    "Harry Potter and the Sorcerer's Stone": {
+      "id": 671,
+      "poster": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "year": 2001
+    },
+    "Harry Potter and the Goblet of Fire": {
+      "id": 674,
+      "poster": "/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
+      "title": "Harry Potter and the Goblet of Fire",
+      "year": 2005
+    },
+    "Harry Potter and the Half-Blood Prince": {
+      "id": 767,
+      "poster": "/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg",
+      "title": "Harry Potter and the Half-Blood Prince",
+      "year": 2009
+    },
+    "Harry Potter and the Deathly Hallows: Part 1": {
+      "id": 12444,
+      "poster": "/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg",
+      "title": "Harry Potter and the Deathly Hallows: Part 1",
+      "year": 2010
+    },
+    "Harry Potter and the Deathly Hallows: Part 2": {
+      "id": 12445,
+      "poster": "/c54HpQmuwXjHq2C9wmoACjxoom3.jpg",
+      "title": "Harry Potter and the Deathly Hallows: Part 2",
+      "year": 2011
+    },
+    "Rogue One: A Star Wars Story": {
+      "id": 330459,
+      "poster": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+      "title": "Rogue One: A Star Wars Story",
+      "year": 2016
+    },
+    "Star Wars: The Last Jedi": {
+      "id": 181808,
+      "poster": "/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
+      "title": "Star Wars: The Last Jedi",
+      "year": 2017
+    }
+  }
+}

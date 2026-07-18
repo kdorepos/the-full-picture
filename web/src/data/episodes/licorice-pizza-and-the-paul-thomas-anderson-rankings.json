@@ -1,0 +1,325 @@
+{
+  "slug": "licorice-pizza-and-the-paul-thomas-anderson-rankings",
+  "title": "‘Licorice Pizza’ and the Paul Thomas Anderson Rankings",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2021-11-26",
+  "runtimeMin": 83,
+  "format": "A spoiler-light first look at Licorice Pizza, then Sean and Amanda rank all nine Paul Thomas Anderson features.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘Licorice Pizza’",
+      "note": "spoiler-light first look",
+      "films": [
+        {
+          "title": "Licorice Pizza",
+          "year": 2021,
+          "note": "PTA back in the San Fernando Valley, 1973: a 15-year-old hustler (Cooper Hoffman, son of Philip Seymour Hoffman) and a drifting 25-year-old (Alana Haim), both first-time actors. Sean and Amanda read it as a hangout movie in the Altman/Hal Ashby line rather than another argument about American capitalism, and hold the review until it opens wide. Bradley Cooper, Sean Penn, Tom Waits, Benny Safdie and a scene-stealing Harriet Sansom Harris in support; a Wings needle-drop lands as the big cue."
+        }
+      ]
+    },
+    {
+      "kind": "ranking",
+      "heading": "The Paul Thomas Anderson Rankings",
+      "note": "all nine features, best first",
+      "subject": "Paul Thomas Anderson",
+      "ranked": true,
+      "films": [
+        {
+          "title": "There Will Be Blood",
+          "year": 2007,
+          "note": "No. 1, no debate for Sean. The sum of his powers arriving at the right moment, a 20th-century story about wanting more and more without knowing why."
+        },
+        {
+          "title": "The Master",
+          "year": 2012,
+          "note": "No. 2. The one Sean still can't fully solve, and he ranks it above Boogie Nights for exactly that reason: nobody else could have made it. A film about what happens between men."
+        },
+        {
+          "title": "Boogie Nights",
+          "year": 1997,
+          "note": "No. 3. The movie that made Sean a movie person, but he reads it as PTA working with Scorsese's tools before he found his own."
+        },
+        {
+          "title": "Phantom Thread",
+          "year": 2017,
+          "note": "No. 4. The turn toward romance and the Vicky Krieps two-hander; the diner-order scene as the most yearning thing in his filmography."
+        },
+        {
+          "title": "Magnolia",
+          "year": 1999,
+          "note": "No. 5. 189 minutes of everything at once: reach exceeding grasp, but Tom Cruise's performance still stops them cold."
+        },
+        {
+          "title": "Licorice Pizza",
+          "year": 2021,
+          "note": "No. 6, with recency bias acknowledged: a filmmaker who finally knows how to make movies. Sean takes it over Punch-Drunk Love on the strength of the Alana character."
+        },
+        {
+          "title": "Punch-Drunk Love",
+          "year": 2002,
+          "note": "No. 7. The hard left off Magnolia and a genuine experiment; the Adam Sandler performance nobody else could have pulled out of him."
+        },
+        {
+          "title": "Inherent Vice",
+          "year": 2014,
+          "note": "No. 8. The Pynchon detour: funny, sprawling, closest in shape to Licorice Pizza, but the big feelings never quite land. Sean wonders about the Robert Downey Jr. version that almost was."
+        },
+        {
+          "title": "Hard Eight",
+          "year": 1996,
+          "note": "No. 9 by necessity: the least ambitious and the first, but the writing's already there, with Philip Baker Hall and a young John C. Reilly."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Comps & touchstones",
+      "films": [
+        "Once Upon a Time in Hollywood",
+        "Frances Ha",
+        "American Graffiti",
+        "Harold and Maude",
+        "Shampoo",
+        "Coming Home",
+        "Being There",
+        "Anchorman: The Legend of Ron Burgundy",
+        "Inside Llewyn Davis",
+        "Pulp Fiction"
+      ]
+    },
+    {
+      "group": "PTA's other work",
+      "films": [
+        "Anima",
+        "Junun",
+        "Cigarettes & Coffee"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Spencer",
+        "Little Women",
+        "On the Rocks",
+        "King Richard",
+        "Parasite",
+        "Get Out",
+        "The Many Saints of Newark",
+        "Shang-Chi and the Legend of the Ten Rings",
+        "Venom: Let There Be Carnage"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Coming Home": 31657,
+    "Anima": 610120
+  },
+  "excluded": {
+    "TV": [
+      "Succession",
+      "The Sopranos",
+      "The Wheel of Time",
+      "The Beatles: Get Back"
+    ],
+    "Ads": [
+      "DMX: Don't Try to Understand",
+      "Boar's Head",
+      "FIFA World Cup Launch Edition (Netflix)"
+    ]
+  },
+  "tmdb": {
+    "Licorice Pizza": {
+      "id": 718032,
+      "poster": "/ivXtvzfliGvoJ1DhSHIGyYBToWe.jpg",
+      "title": "Licorice Pizza",
+      "year": 2021
+    },
+    "There Will Be Blood": {
+      "id": 7345,
+      "poster": "/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+      "title": "There Will Be Blood",
+      "year": 2007
+    },
+    "The Master": {
+      "id": 68722,
+      "poster": "/rUSjbyvYWN9H4az8xt0tDtU7I6v.jpg",
+      "title": "The Master",
+      "year": 2012
+    },
+    "Boogie Nights": {
+      "id": 4995,
+      "poster": "/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg",
+      "title": "Boogie Nights",
+      "year": 1997
+    },
+    "Phantom Thread": {
+      "id": 400617,
+      "poster": "/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg",
+      "title": "Phantom Thread",
+      "year": 2017
+    },
+    "Magnolia": {
+      "id": 334,
+      "poster": "/tpfC325Jk6S38VTe5dDWjWtoyxr.jpg",
+      "title": "Magnolia",
+      "year": 1999
+    },
+    "Punch-Drunk Love": {
+      "id": 8051,
+      "poster": "/htYp4yqFu4rzBEIa6j9jP8miDm3.jpg",
+      "title": "Punch-Drunk Love",
+      "year": 2002
+    },
+    "Inherent Vice": {
+      "id": 171274,
+      "poster": "/pfVua7TzzttOh3RTOuBqT7xN0oY.jpg",
+      "title": "Inherent Vice",
+      "year": 2014
+    },
+    "Hard Eight": {
+      "id": 8052,
+      "poster": "/1l5UaoP25Ak8PWCKIULQz70yF03.jpg",
+      "title": "Hard Eight",
+      "year": 1997
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Frances Ha": {
+      "id": 121986,
+      "poster": "/jrq1NoKvsxWCcffVOjegiYwloFN.jpg",
+      "title": "Frances Ha",
+      "year": 2013
+    },
+    "American Graffiti": {
+      "id": 838,
+      "poster": "/1tjLivPad2PX8FAzWko7FPIb8d2.jpg",
+      "title": "American Graffiti",
+      "year": 1973
+    },
+    "Harold and Maude": {
+      "id": 343,
+      "poster": "/t7qEuGwDjcYu8ajaKZ68DeDnOxw.jpg",
+      "title": "Harold and Maude",
+      "year": 1971
+    },
+    "Shampoo": {
+      "id": 31121,
+      "poster": "/6jmFvXPV6OhtX3AkAVnH7rwdeUJ.jpg",
+      "title": "Shampoo",
+      "year": 1975
+    },
+    "Coming Home": {
+      "id": 31657,
+      "poster": "/jBsYWNBYNEi5EhT1hC8iexcTsWT.jpg",
+      "title": "Coming Home",
+      "year": 1978
+    },
+    "Being There": {
+      "id": 10322,
+      "poster": "/2eZTUGNYijOoeq4829P6HNqyZui.jpg",
+      "title": "Being There",
+      "year": 1979
+    },
+    "Anchorman: The Legend of Ron Burgundy": {
+      "id": 8699,
+      "poster": "/mhZIcRePT7U8viFQVjt1ZjYIsR4.jpg",
+      "title": "Anchorman: The Legend of Ron Burgundy",
+      "year": 2004
+    },
+    "Inside Llewyn Davis": {
+      "id": 86829,
+      "poster": "/nNxK3pC3DMpPpWKMvo2p3liREVT.jpg",
+      "title": "Inside Llewyn Davis",
+      "year": 2013
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "Anima": {
+      "id": 610120,
+      "poster": "/xCBOjFAzsz8d2kABIPfwIAOeJ5t.jpg",
+      "title": "Anima",
+      "year": 2019
+    },
+    "Junun": {
+      "id": 355600,
+      "poster": "/tsssow8XqZgP6KhT39Shx45sWBK.jpg",
+      "title": "Junun",
+      "year": 2015
+    },
+    "Cigarettes & Coffee": {
+      "id": 107380,
+      "poster": "/gapJGcwC2aEtcYWPp7d5WosUsU0.jpg",
+      "title": "Cigarettes & Coffee",
+      "year": 1993
+    },
+    "Spencer": {
+      "id": 716612,
+      "poster": "/7GcqdBKaMM9BWXWN07BirBMkcBF.jpg",
+      "title": "Spencer",
+      "year": 2021
+    },
+    "Little Women": {
+      "id": 331482,
+      "poster": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+      "title": "Little Women",
+      "year": 2019
+    },
+    "On the Rocks": {
+      "id": 575417,
+      "poster": "/fcijRCmB7yTtloh4Pumy9b1rkwU.jpg",
+      "title": "On the Rocks",
+      "year": 2020
+    },
+    "King Richard": {
+      "id": 614917,
+      "poster": "/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg",
+      "title": "King Richard",
+      "year": 2021
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "The Many Saints of Newark": {
+      "id": 524369,
+      "poster": "/1UkbPQspPbq1FPbFP4VV1ELCfSN.jpg",
+      "title": "The Many Saints of Newark",
+      "year": 2021
+    },
+    "Shang-Chi and the Legend of the Ten Rings": {
+      "id": 566525,
+      "poster": "/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "year": 2021
+    },
+    "Venom: Let There Be Carnage": {
+      "id": 580489,
+      "poster": "/pzKsRuKLFmYrW5Q0q8E8G78Tcgo.jpg",
+      "title": "Venom: Let There Be Carnage",
+      "year": 2021
+    }
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "slug": "a-fyre-festival-documentary-arms-race-and-bing-liu-on-creati",
+  "title": "A Fyre Festival Documentary Arms Race, and Bing Liu on Creating ‘Minding the Gap’ | Interview (Ep. 118)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Rob Harvilla"
+  ],
+  "published": "2019-01-18",
+  "runtimeMin": 58,
+  "format": "Two documentaries about the same failed music festival land four days apart, then Bing Liu on making Minding the Gap.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The Fyre Festival Documentary Arms Race",
+      "note": "Netflix vs. Hulu, with Rob Harvilla",
+      "films": [
+        {
+          "title": "Fyre: The Greatest Party That Never Happened",
+          "year": 2019,
+          "note": "Chris Smith's Netflix doc. Fennessey and Harvilla both rate it the better film: it lays out the logistics forensically and keeps the blame on Billy McFarland. Co-produced with Vice; Jerry Media, the festival's own marketers, also produced."
+        },
+        {
+          "title": "Fyre Fraud",
+          "year": 2019,
+          "note": "Hulu's surprise Monday drop, co-produced with Billboard and Mic. It lands the paid McFarland interview but leans on Simpsons/Family Guy clips and a millennials-did-it-to-themselves angle Harvilla found corny and exculpatory."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Bing Liu on ‘Minding the Gap’",
+      "guest": "Bing Liu on",
+      "films": [
+        {
+          "title": "Minding the Gap",
+          "year": 2018,
+          "note": "Liu's Rockford, Illinois portrait of three young skateboarders and the abuse in their homes. Fennessey's favorite film of 2018. Started as a nationwide project on domestic violence before Liu narrowed it to Keir, Zach, and himself, adding archival footage once he became a character."
+        },
+        {
+          "title": "Hoop Dreams",
+          "year": 1994,
+          "note": "Liu first saw it, and Steve James's other work, after joining a Kartemquin fellowship. That's when he turned toward character-driven verite."
+        },
+        {
+          "title": "Waking Life",
+          "year": 2001,
+          "note": "His first teenage film was a takeoff of it, an improvised philosophical conversation among Rockford's freaks and geeks."
+        },
+        {
+          "title": "Shoplifters",
+          "year": 2018,
+          "note": "The last great thing he'd seen: warm, loving, a family he'd want to live with."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Mentioned in the Fyre discussion",
+      "films": [
+        "American Movie",
+        "Jim & Andy: The Great Beyond",
+        "Panic: The Untold Story of the 2008 Financial Crisis",
+        "Deep Impact",
+        "Armageddon"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "America to Me",
+      "The Simpsons",
+      "Family Guy",
+      "The Office"
+    ]
+  },
+  "tmdbOverrides": {
+    "Fyre: The Greatest Party That Never Happened": 567860
+  },
+  "tmdb": {
+    "Fyre: The Greatest Party That Never Happened": {
+      "id": 567860,
+      "poster": "/yFsP0BAJhAH3RTXCAnGvI1CtaUb.jpg",
+      "title": "Fyre",
+      "year": 2019
+    },
+    "Fyre Fraud": {
+      "id": 575190,
+      "poster": "/jeeHE4gDErwulQ9UJjHeLAzV1TG.jpg",
+      "title": "Fyre Fraud",
+      "year": 2019
+    },
+    "Minding the Gap": {
+      "id": 489985,
+      "poster": "/uOu2YgrryHD1UlngykzTodAxGdC.jpg",
+      "title": "Minding the Gap",
+      "year": 2018
+    },
+    "Hoop Dreams": {
+      "id": 14275,
+      "poster": "/gLzHl2XBtVwycl8DxdOXRHPm8G3.jpg",
+      "title": "Hoop Dreams",
+      "year": 1994
+    },
+    "Waking Life": {
+      "id": 9081,
+      "poster": "/2MRM4PL6H7yraAkwyUEe2EqoQH3.jpg",
+      "title": "Waking Life",
+      "year": 2001
+    },
+    "Shoplifters": {
+      "id": 505192,
+      "poster": "/4nfRUOv3LX5zLn98WS1WqVBk9E9.jpg",
+      "title": "Shoplifters",
+      "year": 2018
+    },
+    "American Movie": {
+      "id": 14242,
+      "poster": "/y8dJgWr1HeW0RRxwANDWvgIXdsF.jpg",
+      "title": "American Movie",
+      "year": 1999
+    },
+    "Jim & Andy: The Great Beyond": {
+      "id": 469019,
+      "poster": "/kKzopOFXz9YfsCTqg3XpF0GoypX.jpg",
+      "title": "Jim & Andy: The Great Beyond",
+      "year": 2017
+    },
+    "Panic: The Untold Story of the 2008 Financial Crisis": {
+      "id": 568047,
+      "poster": "/6Q3jxDPsZLbPsmNMExx2Y5an5s6.jpg",
+      "title": "Panic: The Untold Story of the 2008 Financial Crisis",
+      "year": 2018
+    },
+    "Deep Impact": {
+      "id": 8656,
+      "poster": "/a3vQS7JKqlOb3MdVJHuTCP9s7Mg.jpg",
+      "title": "Deep Impact",
+      "year": 1998
+    },
+    "Armageddon": {
+      "id": 95,
+      "poster": "/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg",
+      "title": "Armageddon",
+      "year": 1998
+    }
+  }
+}

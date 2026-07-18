@@ -1,0 +1,845 @@
+{
+  "slug": "oscars-2019-instant-reactions-to-green-book-and-the-two-warr",
+  "title": "Oscars 2019: Instant Reactions to ‘Green Book’ and the Two Warring Academies | The Oscars Show (Ep. 131)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2019-02-25",
+  "runtimeMin": 76,
+  "format": "Sean Fennessey and Amanda Dobbins react, minutes after the 91st Academy Awards, to Green Book's Best Picture win and a ceremony split between an old academy and a new one, then walk all 24 categories.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The two academies",
+      "note": "the contenders, the telecast, and what Green Book means",
+      "films": [
+        {
+          "title": "Green Book",
+          "year": 2018,
+          "note": "Best Picture, Original Screenplay, and Mahershala Ali's Supporting Actor: the hosts read the sweep as the old academy digging in against the backlash over the Vallelonga tweets and the Don Shirley family's objections. Sean predicts that in five years people will ask how it won; the winners never thanked Shirley on stage."
+        },
+        {
+          "title": "Roma",
+          "year": 2018,
+          "note": "The Netflix favorite going in, tied with The Favourite for most nominations. Won Director, Cinematography, and Foreign Language for Alfonso Cuarón but lost Best Picture: the hosts frame it as Hollywood telling Netflix 'not yet.' Amanda reclaims it as a masterpiece; Sean argues Cuarón's real best films are Y Tu Mamá También and Children of Men."
+        },
+        {
+          "title": "Bohemian Rhapsody",
+          "year": 2018,
+          "note": "Four wins including Rami Malek's Best Actor, plus Editing and both Sound categories the hosts thought belonged to First Man and A Star Is Born. Queen bled into the commercials and the Adam Lambert opening; Sean compares Malek's win to Adrien Brody for The Pianist and worries about the same career curse."
+        },
+        {
+          "title": "BlacKkKlansman",
+          "year": 2018,
+          "note": "Spike Lee's first competitive Oscar, for Adapted Screenplay: his acceptance partly bleeped, read off paper, handed over by Sam Jackson. It felt genuine even though the hosts don't rank it near his best; they wonder whether an overdue-Scorsese-style Best Director push follows."
+        },
+        {
+          "title": "Black Panther",
+          "year": 2018,
+          "note": "Three wins: Hannah Beachler's Production Design and Ruth Carter's Costume Design (first Black winners in those categories in 35-plus years) plus Ludwig Göransson's Score. For about five minutes the hosts thought a seven-win sweep was happening before remembering it got no acting nods and Coogler wasn't nominated for Director."
+        },
+        {
+          "title": "A Star Is Born",
+          "year": 2018,
+          "note": "The 'great first hour, then it dies' comparison for the whole telecast, and the source of the night's most excruciating segment: Cooper and Gaga performing 'Shallow' as themselves rather than as Jackson and Ally. Won only Original Song, and Cooper, who did nine jobs on the film, wasn't allowed on stage for it."
+        },
+        {
+          "title": "The Favourite",
+          "year": 2018,
+          "note": "Went 1-for-10, the lone win being Olivia Colman's shock Best Actress, the most fun and only true upset of the night. The hosts feel awful for seven-time nominee Glenn Close of The Wife, who they call the inverted Sally Field."
+        },
+        {
+          "title": "Vice",
+          "year": 2018,
+          "note": "Won only Makeup and Hairstyling (Greg Cannom), introduced first by Tom Morello. The hosts debate whether it fades fast or gets a Dick Cheney-driven second life, unlike Oliver Stone's forgotten Nixon and W."
+        },
+        {
+          "title": "The Wife",
+          "year": 2017,
+          "note": "The Glenn Close vehicle the hosts made a whole episode about; nobody in the academy seems to have watched it, and she lost again."
+        }
+      ]
+    },
+    {
+      "kind": "awards",
+      "heading": "The winners, category by category",
+      "note": "as they happened at the 91st Academy Awards",
+      "ceremony": "91st Academy Awards",
+      "categories": [
+        {
+          "name": "Best Picture",
+          "winner": "Green Book",
+          "nominees": [
+            {
+              "title": "Green Book",
+              "year": 2018
+            },
+            {
+              "title": "Roma",
+              "year": 2018
+            },
+            {
+              "title": "BlacKkKlansman",
+              "year": 2018
+            },
+            {
+              "title": "Black Panther",
+              "year": 2018
+            },
+            {
+              "title": "Bohemian Rhapsody",
+              "year": 2018
+            },
+            {
+              "title": "The Favourite",
+              "year": 2018
+            },
+            {
+              "title": "Vice",
+              "year": 2018
+            },
+            {
+              "title": "A Star Is Born",
+              "year": 2018
+            }
+          ]
+        },
+        {
+          "name": "Best Director",
+          "winner": "Roma",
+          "nominees": [
+            {
+              "title": "Roma",
+              "year": 2018,
+              "person": "Alfonso Cuarón"
+            },
+            {
+              "title": "BlacKkKlansman",
+              "year": 2018,
+              "person": "Spike Lee"
+            }
+          ]
+        },
+        {
+          "name": "Actor in a Leading Role",
+          "winner": "Bohemian Rhapsody",
+          "nominees": [
+            {
+              "title": "Bohemian Rhapsody",
+              "year": 2018,
+              "person": "Rami Malek"
+            },
+            {
+              "title": "A Star Is Born",
+              "year": 2018,
+              "person": "Bradley Cooper"
+            },
+            {
+              "title": "Green Book",
+              "year": 2018,
+              "person": "Viggo Mortensen"
+            },
+            {
+              "title": "Vice",
+              "year": 2018,
+              "person": "Christian Bale"
+            }
+          ]
+        },
+        {
+          "name": "Actress in a Leading Role",
+          "winner": "The Favourite",
+          "nominees": [
+            {
+              "title": "The Favourite",
+              "year": 2018,
+              "person": "Olivia Colman"
+            },
+            {
+              "title": "The Wife",
+              "year": 2017,
+              "person": "Glenn Close"
+            },
+            {
+              "title": "Can You Ever Forgive Me?",
+              "year": 2018,
+              "person": "Melissa McCarthy"
+            },
+            {
+              "title": "A Star Is Born",
+              "year": 2018,
+              "person": "Lady Gaga"
+            },
+            {
+              "title": "Roma",
+              "year": 2018,
+              "person": "Yalitza Aparicio"
+            }
+          ]
+        },
+        {
+          "name": "Actor in a Supporting Role",
+          "winner": "Green Book",
+          "nominees": [
+            {
+              "title": "Green Book",
+              "year": 2018,
+              "person": "Mahershala Ali"
+            },
+            {
+              "title": "A Star Is Born",
+              "year": 2018,
+              "person": "Sam Elliott"
+            },
+            {
+              "title": "Can You Ever Forgive Me?",
+              "year": 2018,
+              "person": "Richard E. Grant"
+            }
+          ]
+        },
+        {
+          "name": "Actress in a Supporting Role",
+          "winner": "If Beale Street Could Talk",
+          "nominees": [
+            {
+              "title": "If Beale Street Could Talk",
+              "year": 2018,
+              "person": "Regina King"
+            },
+            {
+              "title": "Vice",
+              "year": 2018,
+              "person": "Amy Adams"
+            }
+          ]
+        },
+        {
+          "name": "Original Screenplay",
+          "winner": "Green Book",
+          "nominees": [
+            {
+              "title": "Green Book",
+              "year": 2018,
+              "person": "Peter Farrelly & Nick Vallelonga"
+            }
+          ]
+        },
+        {
+          "name": "Adapted Screenplay",
+          "winner": "BlacKkKlansman",
+          "nominees": [
+            {
+              "title": "BlacKkKlansman",
+              "year": 2018,
+              "person": "Spike Lee"
+            },
+            {
+              "title": "Can You Ever Forgive Me?",
+              "year": 2018,
+              "person": "Nicole Holofcener"
+            }
+          ]
+        },
+        {
+          "name": "Cinematography",
+          "winner": "Roma",
+          "nominees": [
+            {
+              "title": "Roma",
+              "year": 2018,
+              "person": "Alfonso Cuarón"
+            },
+            {
+              "title": "A Star Is Born",
+              "year": 2018,
+              "person": "Matthew Libatique"
+            }
+          ]
+        },
+        {
+          "name": "Film Editing",
+          "winner": "Bohemian Rhapsody",
+          "nominees": [
+            {
+              "title": "Bohemian Rhapsody",
+              "year": 2018
+            },
+            {
+              "title": "Vice",
+              "year": 2018,
+              "person": "Hank Corwin"
+            },
+            {
+              "title": "Green Book",
+              "year": 2018
+            }
+          ]
+        },
+        {
+          "name": "Production Design",
+          "winner": "Black Panther",
+          "nominees": [
+            {
+              "title": "Black Panther",
+              "year": 2018,
+              "person": "Hannah Beachler"
+            }
+          ]
+        },
+        {
+          "name": "Costume Design",
+          "winner": "Black Panther",
+          "nominees": [
+            {
+              "title": "Black Panther",
+              "year": 2018,
+              "person": "Ruth Carter"
+            }
+          ]
+        },
+        {
+          "name": "Makeup and Hairstyling",
+          "winner": "Vice",
+          "nominees": [
+            {
+              "title": "Vice",
+              "year": 2018,
+              "person": "Greg Cannom"
+            },
+            {
+              "title": "Mary Queen of Scots",
+              "year": 2018
+            },
+            {
+              "title": "Border",
+              "year": 2018
+            }
+          ]
+        },
+        {
+          "name": "Original Score",
+          "winner": "Black Panther",
+          "nominees": [
+            {
+              "title": "Black Panther",
+              "year": 2018,
+              "person": "Ludwig Göransson"
+            },
+            {
+              "title": "If Beale Street Could Talk",
+              "year": 2018,
+              "person": "Nicholas Britell"
+            }
+          ]
+        },
+        {
+          "name": "Original Song",
+          "winner": "A Star Is Born",
+          "nominees": [
+            {
+              "title": "A Star Is Born",
+              "year": 2018,
+              "person": "'Shallow' — Lady Gaga & Mark Ronson"
+            }
+          ]
+        },
+        {
+          "name": "Sound Editing",
+          "winner": "Bohemian Rhapsody",
+          "nominees": [
+            {
+              "title": "Bohemian Rhapsody",
+              "year": 2018
+            },
+            {
+              "title": "First Man",
+              "year": 2018
+            }
+          ]
+        },
+        {
+          "name": "Sound Mixing",
+          "winner": "Bohemian Rhapsody",
+          "nominees": [
+            {
+              "title": "Bohemian Rhapsody",
+              "year": 2018
+            },
+            {
+              "title": "A Star Is Born",
+              "year": 2018
+            }
+          ]
+        },
+        {
+          "name": "Visual Effects",
+          "winner": "First Man",
+          "nominees": [
+            {
+              "title": "First Man",
+              "year": 2018
+            },
+            {
+              "title": "Avengers: Infinity War",
+              "year": 2018
+            }
+          ]
+        },
+        {
+          "name": "Animated Feature",
+          "winner": "Spider-Man: Into the Spider-Verse",
+          "nominees": [
+            {
+              "title": "Spider-Man: Into the Spider-Verse",
+              "year": 2018
+            }
+          ]
+        },
+        {
+          "name": "Animated Short Film",
+          "winner": "Bao",
+          "nominees": [
+            {
+              "title": "Bao",
+              "year": 2018,
+              "person": "Domee Shi"
+            }
+          ]
+        },
+        {
+          "name": "Live Action Short Film",
+          "winner": "Skin",
+          "nominees": [
+            {
+              "title": "Skin",
+              "year": 2018
+            }
+          ]
+        },
+        {
+          "name": "Documentary Feature",
+          "winner": "Free Solo",
+          "nominees": [
+            {
+              "title": "Free Solo",
+              "year": 2018
+            }
+          ]
+        },
+        {
+          "name": "Documentary Short Subject",
+          "winner": "Period. End of Sentence.",
+          "nominees": [
+            {
+              "title": "Period. End of Sentence.",
+              "year": 2018
+            }
+          ]
+        },
+        {
+          "name": "Foreign Language Film",
+          "winner": "Roma",
+          "nominees": [
+            {
+              "title": "Roma",
+              "year": 2018
+            },
+            {
+              "title": "Cold War",
+              "year": 2018
+            },
+            {
+              "title": "Shoplifters",
+              "year": 2018
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Best Picture history the hosts invoked",
+      "films": [
+        "Driving Miss Daisy",
+        "The Pianist",
+        "La La Land",
+        "Moonlight",
+        "The Shape of Water",
+        "Get Out",
+        "Dunkirk",
+        "Lady Bird",
+        "Three Billboards Outside Ebbing, Missouri"
+      ]
+    },
+    {
+      "group": "Cuarón and Lanthimos back catalog",
+      "films": [
+        "Y Tu Mamá También",
+        "Children of Men",
+        "Gravity",
+        "The Lobster",
+        "Dogtooth",
+        "The Killing of a Sacred Deer"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "First Reformed",
+        "Sense and Sensibility",
+        "Mrs. Doubtfire",
+        "Nixon",
+        "W.",
+        "Dave",
+        "Blade Runner 2049",
+        "Albert Nobbs",
+        "Dangerous Liaisons",
+        "Groundhog Day",
+        "Tag",
+        "The Irishman",
+        "Burning",
+        "The Ballad of Buster Scruggs",
+        "Mary Poppins Returns"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Skin": 569485
+  },
+  "excluded": {
+    "TV": [
+      "The Crown",
+      "Russian Doll"
+    ],
+    "Stage": [
+      "True West"
+    ],
+    "Books": [
+      "Population 1280",
+      "The Killer Inside Me"
+    ],
+    "Ads": [
+      "Ringer Movies listener survey",
+      "Bud Light"
+    ]
+  },
+  "tmdb": {
+    "Green Book": {
+      "id": 490132,
+      "poster": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+      "title": "Green Book",
+      "year": 2018
+    },
+    "Roma": {
+      "id": 426426,
+      "poster": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+      "title": "Roma",
+      "year": 2018
+    },
+    "Bohemian Rhapsody": {
+      "id": 424694,
+      "poster": "/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+      "title": "Bohemian Rhapsody",
+      "year": 2018
+    },
+    "BlacKkKlansman": {
+      "id": 487558,
+      "poster": "/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg",
+      "title": "BlacKkKlansman",
+      "year": 2018
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "A Star Is Born": {
+      "id": 332562,
+      "poster": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "title": "A Star Is Born",
+      "year": 2018
+    },
+    "The Favourite": {
+      "id": 375262,
+      "poster": "/cwBq0onfmeilU5xgqNNjJAMPfpw.jpg",
+      "title": "The Favourite",
+      "year": 2018
+    },
+    "Vice": {
+      "id": 429197,
+      "poster": "/1gCab6rNv1r6V64cwsU4oEr649Y.jpg",
+      "title": "Vice",
+      "year": 2018
+    },
+    "The Wife": {
+      "id": 340613,
+      "poster": "/d4Qyuy0Ul549f6SOdUqGvIdYKD2.jpg",
+      "title": "The Wife",
+      "year": 2017
+    },
+    "Can You Ever Forgive Me?": {
+      "id": 401847,
+      "poster": "/y9pDvBdvU8Z5QjQ6Y4oF0Cq7p5j.jpg",
+      "title": "Can You Ever Forgive Me?",
+      "year": 2018
+    },
+    "If Beale Street Could Talk": {
+      "id": 465914,
+      "poster": "/76NfwnaZI43gOQove0LU9O23Qjz.jpg",
+      "title": "If Beale Street Could Talk",
+      "year": 2018
+    },
+    "Mary Queen of Scots": {
+      "id": 457136,
+      "poster": "/b5RMzLAyq5QW6GtN9sIeAEMLlBI.jpg",
+      "title": "Mary Queen of Scots",
+      "year": 2018
+    },
+    "Border": {
+      "id": 517839,
+      "poster": "/8KzOTRlKjdAKQTemV41hq86ldFS.jpg",
+      "title": "Border",
+      "year": 2018
+    },
+    "First Man": {
+      "id": 369972,
+      "poster": "/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
+      "title": "First Man",
+      "year": 2018
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    },
+    "Spider-Man: Into the Spider-Verse": {
+      "id": 324857,
+      "poster": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018
+    },
+    "Bao": {
+      "id": 514754,
+      "poster": "/tKz7XRXvdy1i7pW4eotaWZSrAx2.jpg",
+      "title": "Bao",
+      "year": 2018
+    },
+    "Skin": {
+      "id": 569485,
+      "poster": "/3fuif2SyRehNE68JYlC0uBWROVO.jpg",
+      "title": "Skin",
+      "year": 2019
+    },
+    "Free Solo": {
+      "id": 515042,
+      "poster": "/v4QfYZMACODlWul9doN9RxE99ag.jpg",
+      "title": "Free Solo",
+      "year": 2018
+    },
+    "Period. End of Sentence.": {
+      "id": 524288,
+      "poster": "/dsCeBj8oabzsHQOGGLPrmrqIvDs.jpg",
+      "title": "Period. End of Sentence.",
+      "year": 2018
+    },
+    "Cold War": {
+      "id": 440298,
+      "poster": "/6rbS8oPIgUMhQgIX8oGVTtlNgLR.jpg",
+      "title": "Cold War",
+      "year": 2018
+    },
+    "Shoplifters": {
+      "id": 505192,
+      "poster": "/4nfRUOv3LX5zLn98WS1WqVBk9E9.jpg",
+      "title": "Shoplifters",
+      "year": 2018
+    },
+    "Driving Miss Daisy": {
+      "id": 289450,
+      "poster": "/lE1UzoV7gZhmqhw1qTiyyichPgh.jpg",
+      "title": "Driving Miss Daisy",
+      "year": 2015
+    },
+    "The Pianist": {
+      "id": 423,
+      "poster": "/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
+      "title": "The Pianist",
+      "year": 2002
+    },
+    "La La Land": {
+      "id": 313369,
+      "poster": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "title": "La La Land",
+      "year": 2016
+    },
+    "Moonlight": {
+      "id": 376867,
+      "poster": "/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+      "title": "Moonlight",
+      "year": 2016
+    },
+    "The Shape of Water": {
+      "id": 399055,
+      "poster": "/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg",
+      "title": "The Shape of Water",
+      "year": 2017
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Dunkirk": {
+      "id": 374720,
+      "poster": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "title": "Dunkirk",
+      "year": 2017
+    },
+    "Lady Bird": {
+      "id": 391713,
+      "poster": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+      "title": "Lady Bird",
+      "year": 2017
+    },
+    "Three Billboards Outside Ebbing, Missouri": {
+      "id": 359940,
+      "poster": "/bRYLt8fV82tdVoDppSFTZIcJiLN.jpg",
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "year": 2017
+    },
+    "Y Tu Mamá También": {
+      "id": 1391,
+      "poster": "/aj3rqjab8jfc2fWmcS3H3c5qbur.jpg",
+      "title": "Y Tu Mamá También",
+      "year": 2001
+    },
+    "Children of Men": {
+      "id": 9693,
+      "poster": "/k9IAS4TehZFcKi4HVByxZNPfqex.jpg",
+      "title": "Children of Men",
+      "year": 2006
+    },
+    "Gravity": {
+      "id": 49047,
+      "poster": "/kZ2nZw8D681aphje8NJi8EfbL1U.jpg",
+      "title": "Gravity",
+      "year": 2013
+    },
+    "The Lobster": {
+      "id": 254320,
+      "poster": "/7Y9ILV1unpW9mLpGcqyGQU72LUy.jpg",
+      "title": "The Lobster",
+      "year": 2015
+    },
+    "Dogtooth": {
+      "id": 38810,
+      "poster": "/cBrhzHcOxXclTItkPzsJUCTSFyl.jpg",
+      "title": "Dogtooth",
+      "year": 2009
+    },
+    "The Killing of a Sacred Deer": {
+      "id": 399057,
+      "poster": "/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg",
+      "title": "The Killing of a Sacred Deer",
+      "year": 2017
+    },
+    "First Reformed": {
+      "id": 458737,
+      "poster": "/8HKA3Hwf8jQWy8TCYWr7C8Wft23.jpg",
+      "title": "First Reformed",
+      "year": 2018
+    },
+    "Sense and Sensibility": {
+      "id": 4584,
+      "poster": "/9YdQ73YmvInxpXZVNjEKePw9tRO.jpg",
+      "title": "Sense and Sensibility",
+      "year": 1995
+    },
+    "Mrs. Doubtfire": {
+      "id": 788,
+      "poster": "/shHrSmXS5140o6sQzgzXxn3KqSm.jpg",
+      "title": "Mrs. Doubtfire",
+      "year": 1993
+    },
+    "Nixon": {
+      "id": 10858,
+      "poster": "/cz2MTGr2wpDZLirgV2rGHBdA2t3.jpg",
+      "title": "Nixon",
+      "year": 1995
+    },
+    "W.": {
+      "id": 10523,
+      "poster": "/nJm8UF4zbUYEoku9seEtz1PTJGS.jpg",
+      "title": "W.",
+      "year": 2008
+    },
+    "Dave": {
+      "id": 11566,
+      "poster": "/n7wQlcexeER5bW7DvV8sji2vRRH.jpg",
+      "title": "Dave",
+      "year": 1993
+    },
+    "Blade Runner 2049": {
+      "id": 335984,
+      "poster": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+      "title": "Blade Runner 2049",
+      "year": 2017
+    },
+    "Albert Nobbs": {
+      "id": 73873,
+      "poster": "/68fdlvmqTWGC2y5nGXQE5RfgNB5.jpg",
+      "title": "Albert Nobbs",
+      "year": 2011
+    },
+    "Dangerous Liaisons": {
+      "id": 859,
+      "poster": "/hFem30C3uJUd9smNy7rFLGVhKys.jpg",
+      "title": "Dangerous Liaisons",
+      "year": 1988
+    },
+    "Groundhog Day": {
+      "id": 137,
+      "poster": "/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
+      "title": "Groundhog Day",
+      "year": 1993
+    },
+    "Tag": {
+      "id": 455980,
+      "poster": "/eXXpuW2xaq5Aen9N5prFlARVIvr.jpg",
+      "title": "Tag",
+      "year": 2018
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Burning": {
+      "id": 491584,
+      "poster": "/kXiF80o74fE9gf3Utf9moAI7ar0.jpg",
+      "title": "Burning",
+      "year": 2018
+    },
+    "The Ballad of Buster Scruggs": {
+      "id": 537996,
+      "poster": "/voxl654m7p36y8FLu8oQD7dfwwK.jpg",
+      "title": "The Ballad of Buster Scruggs",
+      "year": 2018
+    },
+    "Mary Poppins Returns": {
+      "id": 400650,
+      "poster": "/uTVGku4LibMGyKgQvjBtv3OYfAX.jpg",
+      "title": "Mary Poppins Returns",
+      "year": 2018
+    }
+  }
+}

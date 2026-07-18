@@ -1,0 +1,310 @@
+{
+  "slug": "captain-marvel-is-a-90s-nostalgia-play-did-it-work-exit-surv",
+  "title": "‘Captain Marvel’ Is a ’90s Nostalgia Play. Did It Work? | Exit Survey",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2019-03-08",
+  "runtimeMin": 64,
+  "format": "Sean Fennessey and Amanda Dobbins exit-survey the MCU's first female-led movie, weighing its overstuffed origin story and BuzzFeed-listicle ’90s needle-drops against the Wonder Woman it can't quite match.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The ‘Captain Marvel’ Exit Survey",
+      "note": "spoilers throughout",
+      "films": [
+        {
+          "title": "Captain Marvel",
+          "year": 2019,
+          "note": "Brie Larson's Carol Danvers, judged as a movie asked to do five jobs at once: an origin story, a S.H.I.E.L.D. prequel, the Kree-Skrull war, an Avengers setup, and a ’90s period piece. Fennessey calls the storytelling rickety and the girl-power framing reactive; Dobbins finds it functional but forgettable. Both snag on the needle-drops (No Doubt's 'Just a Girl' over the big fight, Nirvana's 'Come as You Are') as a Happy Meal version of the decade. Larson comes alive only riffing with Samuel L. Jackson; Ben Mendelsohn's Talos is the film's real emotional center."
+        },
+        {
+          "title": "Wonder Woman",
+          "year": 2017,
+          "note": "The bar Dobbins keeps returning to: origin dispatched in the first 30 minutes, its heroine a god instead of a real person, an underdog where Captain Marvel is a corporate sure thing."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Other Marvel chapters",
+      "films": [
+        "The Avengers",
+        "Avengers: Infinity War",
+        "Avengers: Age of Ultron",
+        "Iron Man 3",
+        "Captain America: The First Avenger",
+        "Captain America: Civil War",
+        "Ant-Man",
+        "Guardians of the Galaxy",
+        "Black Panther",
+        "Thor: Ragnarok"
+      ]
+    },
+    {
+      "group": "Comic-book box office",
+      "films": [
+        "Spider-Man 3",
+        "Batman Forever"
+      ]
+    },
+    {
+      "group": "Boden & Fleck's indie run",
+      "films": [
+        "Half Nelson",
+        "Sugar",
+        "Mississippi Grind"
+      ]
+    },
+    {
+      "group": "’90s memory pieces",
+      "films": [
+        "Lady Bird",
+        "Mid90s",
+        "Roma",
+        "Pulp Fiction"
+      ]
+    },
+    {
+      "group": "The cast elsewhere",
+      "films": [
+        "Rogue One: A Star Wars Story",
+        "Ready Player One",
+        "Darkest Hour",
+        "Animal Kingdom",
+        "Kong: Skull Island",
+        "Unicorn Store",
+        "The Grifters",
+        "American Beauty",
+        "The American President",
+        "20th Century Women",
+        "Crazy Rich Asians"
+      ]
+    },
+    {
+      "group": "Also invoked",
+      "films": [
+        "Star Wars: The Force Awakens"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Bachelor",
+      "Can I Still Leave for a Second? (Ringer/Hulu companion series)"
+    ],
+    "Comics": [
+      "Kingdom Come (Alex Ross/DC series)"
+    ],
+    "Ads": [
+      "Bud Light"
+    ]
+  },
+  "tmdbOverrides": {
+    "Sugar": 17003
+  },
+  "tmdb": {
+    "Captain Marvel": {
+      "id": 299537,
+      "poster": "/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+      "title": "Captain Marvel",
+      "year": 2019
+    },
+    "Wonder Woman": {
+      "id": 297762,
+      "poster": "/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+      "title": "Wonder Woman",
+      "year": 2017
+    },
+    "The Avengers": {
+      "id": 24428,
+      "poster": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "title": "The Avengers",
+      "year": 2012
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    },
+    "Avengers: Age of Ultron": {
+      "id": 99861,
+      "poster": "/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+      "title": "Avengers: Age of Ultron",
+      "year": 2015
+    },
+    "Iron Man 3": {
+      "id": 68721,
+      "poster": "/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+      "title": "Iron Man 3",
+      "year": 2013
+    },
+    "Captain America: The First Avenger": {
+      "id": 1771,
+      "poster": "/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+      "title": "Captain America: The First Avenger",
+      "year": 2011
+    },
+    "Captain America: Civil War": {
+      "id": 271110,
+      "poster": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+      "title": "Captain America: Civil War",
+      "year": 2016
+    },
+    "Ant-Man": {
+      "id": 102899,
+      "poster": "/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg",
+      "title": "Ant-Man",
+      "year": 2015
+    },
+    "Guardians of the Galaxy": {
+      "id": 118340,
+      "poster": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "title": "Guardians of the Galaxy",
+      "year": 2014
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "Thor: Ragnarok": {
+      "id": 284053,
+      "poster": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "title": "Thor: Ragnarok",
+      "year": 2017
+    },
+    "Spider-Man 3": {
+      "id": 559,
+      "poster": "/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
+      "title": "Spider-Man 3",
+      "year": 2007
+    },
+    "Batman Forever": {
+      "id": 414,
+      "poster": "/i0fJS8M5UKoETjjJ0zwUiKaR8tr.jpg",
+      "title": "Batman Forever",
+      "year": 1995
+    },
+    "Half Nelson": {
+      "id": 7859,
+      "poster": "/fdUCisMpTwy0oJOGwM7NrFFs400.jpg",
+      "title": "Half Nelson",
+      "year": 2006
+    },
+    "Sugar": {
+      "id": 17003,
+      "poster": "/ldiKnTAt8pBB3rY6HQI4QZt6r7n.jpg",
+      "title": "Sugar",
+      "year": 2008
+    },
+    "Mississippi Grind": {
+      "id": 309242,
+      "poster": "/vS3Bc6BiuZtAbSQpKhhRzPa7c2d.jpg",
+      "title": "Mississippi Grind",
+      "year": 2015
+    },
+    "Lady Bird": {
+      "id": 391713,
+      "poster": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+      "title": "Lady Bird",
+      "year": 2017
+    },
+    "Mid90s": {
+      "id": 437586,
+      "poster": "/9Tw0Y3DK5kGIU9X1yw3Q9gCkOlb.jpg",
+      "title": "mid90s",
+      "year": 2018
+    },
+    "Roma": {
+      "id": 426426,
+      "poster": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+      "title": "Roma",
+      "year": 2018
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "Rogue One: A Star Wars Story": {
+      "id": 330459,
+      "poster": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+      "title": "Rogue One: A Star Wars Story",
+      "year": 2016
+    },
+    "Ready Player One": {
+      "id": 333339,
+      "poster": "/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
+      "title": "Ready Player One",
+      "year": 2018
+    },
+    "Darkest Hour": {
+      "id": 399404,
+      "poster": "/xa6G3aKlysQeVg9wOb0dRcIGlWu.jpg",
+      "title": "Darkest Hour",
+      "year": 2017
+    },
+    "Animal Kingdom": {
+      "id": 44629,
+      "poster": "/zhj8YPQKuRev5N3KoHacsPnF4mB.jpg",
+      "title": "Animal Kingdom",
+      "year": 2010
+    },
+    "Kong: Skull Island": {
+      "id": 293167,
+      "poster": "/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg",
+      "title": "Kong: Skull Island",
+      "year": 2017
+    },
+    "Unicorn Store": {
+      "id": 423949,
+      "poster": "/rGe3eWy3F3qggDZMc86bASN4I7C.jpg",
+      "title": "Unicorn Store",
+      "year": 2017
+    },
+    "The Grifters": {
+      "id": 18129,
+      "poster": "/zMpGfkiDIdg5bB7WGcAT3Fdrfpt.jpg",
+      "title": "The Grifters",
+      "year": 1990
+    },
+    "American Beauty": {
+      "id": 14,
+      "poster": "/wby9315QzVKdW9BonAefg8jGTTb.jpg",
+      "title": "American Beauty",
+      "year": 1999
+    },
+    "The American President": {
+      "id": 9087,
+      "poster": "/yObOAYFIHXHkFPQ3jhgkN2ezaD.jpg",
+      "title": "The American President",
+      "year": 1995
+    },
+    "20th Century Women": {
+      "id": 342737,
+      "poster": "/mso2rEr9i0MilRIOao5HaWFipS9.jpg",
+      "title": "20th Century Women",
+      "year": 2016
+    },
+    "Crazy Rich Asians": {
+      "id": 455207,
+      "poster": "/1XxL4LJ5WHdrcYcihEZUCgNCpAW.jpg",
+      "title": "Crazy Rich Asians",
+      "year": 2018
+    },
+    "Star Wars: The Force Awakens": {
+      "id": 140607,
+      "poster": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+      "title": "Star Wars: The Force Awakens",
+      "year": 2015
+    }
+  }
+}

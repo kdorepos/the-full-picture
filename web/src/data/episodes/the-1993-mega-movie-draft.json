@@ -1,0 +1,654 @@
+{
+  "slug": "the-1993-mega-movie-draft",
+  "title": "The 1993 Mega Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2023-02-14",
+  "runtimeMin": 89,
+  "tmdbOverrides": {
+    "Blood In, Blood Out": 9702
+  },
+  "format": "Sean, Amanda, Chris Ryan, Van Lathan, and Rob Mahoney draft the movies of 1993 across six categories, a year so stacked that Tombstone and Demolition Man are still on the board deep into the later rounds.",
+  "segments": [
+    {
+      "kind": "draft",
+      "heading": "The 1993 Movie Draft",
+      "note": "drama, comedy, Oscar nominee, action/horror, blockbuster, wildcard",
+      "draftOf": "1993 movies",
+      "categories": [
+        "Drama",
+        "Comedy",
+        "Oscar Nominee",
+        "Action/Horror",
+        "Blockbuster",
+        "Wildcard"
+      ],
+      "teams": [
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Jurassic Park",
+              "year": 1993,
+              "category": "Blockbuster",
+              "note": "The first overall pick, taken without hesitation, called \"the most universally beloved movie among the five of us.\""
+            },
+            {
+              "title": "So I Married an Axe Murderer",
+              "year": 1993,
+              "category": "Comedy",
+              "note": "Mike Myers doing multiple characters for the first time Sean had seen it done: the old Scottish grandfather \"lives in my heart.\""
+            },
+            {
+              "title": "In the Line of Fire",
+              "year": 1993,
+              "category": "Oscar Nominee",
+              "note": "Clint Eastwood's Secret Service agent versus John Malkovich, a shout-out to the late Wolfgang Petersen and a below-the-line \"hitters team\" (John Bailey, Anne V. Coates)."
+            },
+            {
+              "title": "Cliffhanger",
+              "year": 1993,
+              "category": "Action/Horror",
+              "note": "Renny Harlin's mountain thriller, \"Sly in his bag\" against Michael Rooker and John Lithgow's overacting."
+            },
+            {
+              "title": "True Romance",
+              "year": 1993,
+              "category": "Drama",
+              "note": "Sean's second-favorite film of the year: Tony Scott directing a young Tarantino script, plus the Walken/Hopper scene."
+            },
+            {
+              "title": "A Bronx Tale",
+              "year": 1993,
+              "category": "Wildcard",
+              "note": "Robert De Niro's directorial debut, written by and starring Chaz Palminteri, hitting its 30th anniversary."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Dazed and Confused",
+              "year": 1993,
+              "category": "Comedy",
+              "note": "\"The greatest American high school movie ever made,\" quotable front to back. Launched Richard Linklater after Slacker."
+            },
+            {
+              "title": "Carlito's Way",
+              "year": 1993,
+              "category": "Drama",
+              "note": "De Palma's New York crime epic with Al Pacino and Sean Penn, singled out for the subway tracking sequence."
+            },
+            {
+              "title": "The Firm",
+              "year": 1993,
+              "category": "Oscar Nominee",
+              "note": "Sydney Pollack's Tom Cruise legal thriller with a stacked ensemble (Holly Hunter, Gene Hackman, Hal Holbrook, Wilford Brimley) that barely sets foot in a courtroom."
+            },
+            {
+              "title": "El Mariachi",
+              "year": 1993,
+              "category": "Action/Horror",
+              "note": "Robert Rodriguez's self-financed 16mm debut, the movie that led to Desperado."
+            },
+            {
+              "title": "The Pelican Brief",
+              "year": 1993,
+              "category": "Blockbuster",
+              "note": "Denzel Washington and Julia Roberts; Chris argues it's more emotionally felt than The Firm even if \"The Firm is way more fun.\""
+            },
+            {
+              "title": "Searching for Bobby Fischer",
+              "year": 1993,
+              "category": "Wildcard",
+              "note": "Laurence Fishburne, Ben Kingsley, and Joan Allen star in a movie Chris says he has near-total recall of."
+            }
+          ]
+        },
+        {
+          "host": "Van Lathan",
+          "picks": [
+            {
+              "title": "Menace II Society",
+              "year": 1993,
+              "category": "Drama",
+              "note": "The Hughes brothers refusing to let Caine get out clean the way Boyz n the Hood let Tre. \"I've never recovered from the experience of watching it.\""
+            },
+            {
+              "title": "Groundhog Day",
+              "year": 1993,
+              "category": "Comedy",
+              "note": "One of Van's top ten movies ever. He wrote a ninth-grade Groundhog Day prequel screenplay called Punxsutawney."
+            },
+            {
+              "title": "What's Love Got to Do with It",
+              "year": 1993,
+              "category": "Oscar Nominee",
+              "note": "Angela Bassett and Laurence Fishburne's Tina Turner biopic, which Van calls the first biopic that ever moved him."
+            },
+            {
+              "title": "Blood In, Blood Out",
+              "year": 1993,
+              "category": "Action/Horror",
+              "note": "Shout-out to Shea Serrano, grouped alongside American Me and Mi Vida Loca as the year's LA gang-life movies."
+            },
+            {
+              "title": "Mrs. Doubtfire",
+              "year": 1993,
+              "category": "Blockbuster",
+              "note": "The No. 2 domestic grosser of 1993 releases at $220 million. Van calls it \"my generation's Kramer vs. Kramer,\" too sad to really file as comedy."
+            },
+            {
+              "title": "Tombstone",
+              "year": 1993,
+              "category": "Wildcard",
+              "note": "\"It fucking kicks ass\": Val Kilmer's Doc Holliday, and the open secret that Kurt Russell actually directed it."
+            }
+          ]
+        },
+        {
+          "host": "Rob Mahoney",
+          "picks": [
+            {
+              "title": "Sleepless in Seattle",
+              "year": 1993,
+              "category": "Blockbuster",
+              "note": "Taken right out from under Amanda, who says she was \"banking on\" it. Tom Hanks sells an absurd premise without sharing a scene with Meg Ryan until the end."
+            },
+            {
+              "title": "Schindler's List",
+              "year": 1993,
+              "category": "Oscar Nominee",
+              "note": "Shown to Rob twice in school, once in European history and once in American history: \"incredible, difficult, beautiful.\""
+            },
+            {
+              "title": "Short Cuts",
+              "year": 1993,
+              "category": "Drama",
+              "note": "Altman's ensemble of eight overlapping stories, adapted from Raymond Carver. Robert Downey Jr. waking himself up with a fart sealed it for Rob."
+            },
+            {
+              "title": "Demolition Man",
+              "year": 1993,
+              "category": "Action/Horror",
+              "note": "Rob's pick that Van never saw coming: Stallone vs. Wesley Snipes, and the movie that inspired Dennis Rodman's platinum hair."
+            },
+            {
+              "title": "Addams Family Values",
+              "year": 1993,
+              "category": "Comedy",
+              "note": "Christina Ricci burning down Camp Chippewa, Barry Sonnenfeld's last movie before Get Shorty."
+            },
+            {
+              "title": "The Nightmare Before Christmas",
+              "year": 1993,
+              "category": "Wildcard",
+              "note": "An animated movie and an all-time musical, per Rob. He missed Danny Elfman and Phoebe Bridgers performing the score live in London."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "The Fugitive",
+              "year": 1993,
+              "category": "Action/Horror",
+              "note": "The pick Amanda was sure everyone else would take first: Tommy Lee Jones's Oscar-winning Gerard chasing Harrison Ford's Richard Kimble."
+            },
+            {
+              "title": "Dave",
+              "year": 1993,
+              "category": "Comedy",
+              "note": "A defining movie of her childhood, owned on VHS, with Kevin Kline's presidential double and Charles Grodin balancing the budget with sauerkraut money."
+            },
+            {
+              "title": "The Age of Innocence",
+              "year": 1993,
+              "category": "Oscar Nominee",
+              "note": "Scorsese's Edith Wharton adaptation with Daniel Day-Lewis, Michelle Pfeiffer, and Winona Ryder. Amanda calls it his most underrated movie."
+            },
+            {
+              "title": "Indecent Proposal",
+              "year": 1993,
+              "category": "Blockbuster",
+              "note": "Robert Redford and Demi Moore, directed by Adrian Lyne: \"caused so much ruckus in my house.\""
+            },
+            {
+              "title": "Rudy",
+              "year": 1993,
+              "category": "Drama",
+              "note": "One of Amanda's favorite sports movies. She asked her Tennessee-fan dad if they could root for Notre Dame after seeing it."
+            },
+            {
+              "title": "Sister Act 2: Back in the Habit",
+              "year": 1993,
+              "category": "Wildcard",
+              "note": "Watched at least ten times the year it came out, especially the closing Lauryn Hill solo."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "1993 films mentioned but not drafted",
+      "films": [
+        "Robin Hood: Men in Tights",
+        "Batman: Mask of the Phantasm",
+        "The Joy Luck Club",
+        "The Remains of the Day",
+        "This Boy's Life",
+        "Mi Vida Loca",
+        "American Me"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Vibes",
+        "Pig",
+        "National Treasure",
+        "Ghost",
+        "Grand Canyon",
+        "Magnolia",
+        "The Player",
+        "Slacker",
+        "Reservoir Dogs",
+        "Pulp Fiction",
+        "Sneakers",
+        "Get Shorty",
+        "Desperado",
+        "Wyatt Earp",
+        "Cutthroat Island",
+        "A Man Called Otto",
+        "Babylon",
+        "Red Notice",
+        "65",
+        "Ant-Man and the Wasp: Quantumania",
+        "Avengers: Endgame",
+        "Cocaine Bear"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Mighty Morphin Power Rangers",
+      "Law & Order: Organized Crime"
+    ],
+    "Ads": [
+      "Bandsplain",
+      "FanDuel",
+      "Netflix (FIFA World Cup Launch Edition)",
+      "Boar's Head",
+      "Carvana",
+      "Meta Ray-Ban glasses"
+    ],
+    "Not 1993 releases": [
+      "Aladdin (1992)",
+      "A Few Good Men (1992)"
+    ]
+  },
+  "tmdb": {
+    "Jurassic Park": {
+      "id": 329,
+      "poster": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "title": "Jurassic Park",
+      "year": 1993
+    },
+    "So I Married an Axe Murderer": {
+      "id": 10442,
+      "poster": "/zQlpQDKDADKlgqfMs1E191ofDJU.jpg",
+      "title": "So I Married an Axe Murderer",
+      "year": 1993
+    },
+    "In the Line of Fire": {
+      "id": 9386,
+      "poster": "/3NvOFpmyECI3DNExYMtFIRcGMsu.jpg",
+      "title": "In the Line of Fire",
+      "year": 1993
+    },
+    "Cliffhanger": {
+      "id": 9350,
+      "poster": "/b28DOM54OHb1c7Lsk6Nu7Kwuonj.jpg",
+      "title": "Cliffhanger",
+      "year": 1993
+    },
+    "True Romance": {
+      "id": 319,
+      "poster": "/39lXk6ud6KiJgGbbWI2PUKS7y2.jpg",
+      "title": "True Romance",
+      "year": 1993
+    },
+    "A Bronx Tale": {
+      "id": 1607,
+      "poster": "/sDbO6LmLYtyqAoFTPpRcMgPSCEO.jpg",
+      "title": "A Bronx Tale",
+      "year": 1993
+    },
+    "Dazed and Confused": {
+      "id": 9571,
+      "poster": "/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+      "title": "Dazed and Confused",
+      "year": 1993
+    },
+    "Carlito's Way": {
+      "id": 6075,
+      "poster": "/g6D7mjQtndu768cusGmoEQY9fTB.jpg",
+      "title": "Carlito's Way",
+      "year": 1993
+    },
+    "The Firm": {
+      "id": 37233,
+      "poster": "/kFexXCzidkm4LwlgZqxsJsDQB5v.jpg",
+      "title": "The Firm",
+      "year": 1993
+    },
+    "El Mariachi": {
+      "id": 9367,
+      "poster": "/zRh7K4SV1xQ419m8gzGITak51vc.jpg",
+      "title": "El Mariachi",
+      "year": 1993
+    },
+    "The Pelican Brief": {
+      "id": 9944,
+      "poster": "/7B1HS0SqfJR1jbeHS6V0ZWdzLXP.jpg",
+      "title": "The Pelican Brief",
+      "year": 1993
+    },
+    "Searching for Bobby Fischer": {
+      "id": 14291,
+      "poster": "/oAJpHkMpfXiFY9F3HocIz9fhHLc.jpg",
+      "title": "Searching for Bobby Fischer",
+      "year": 1993
+    },
+    "Menace II Society": {
+      "id": 9516,
+      "poster": "/nS7yqmSVeNoH22VXj69JoFCxW1h.jpg",
+      "title": "Menace II Society",
+      "year": 1993
+    },
+    "Groundhog Day": {
+      "id": 137,
+      "poster": "/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
+      "title": "Groundhog Day",
+      "year": 1993
+    },
+    "What's Love Got to Do with It": {
+      "id": 15765,
+      "poster": "/btC4819GhihmkCELqO3qgepNGos.jpg",
+      "title": "What's Love Got to Do with It",
+      "year": 1993
+    },
+    "Blood In, Blood Out": {
+      "id": 9702,
+      "poster": "/gvP6R6juhe2IpCG7QGDgjyUvm0g.jpg",
+      "title": "Bound by Honor",
+      "year": 1993
+    },
+    "Mrs. Doubtfire": {
+      "id": 788,
+      "poster": "/shHrSmXS5140o6sQzgzXxn3KqSm.jpg",
+      "title": "Mrs. Doubtfire",
+      "year": 1993
+    },
+    "Tombstone": {
+      "id": 11969,
+      "poster": "/wGFCvylul8iEQhJOKfwZGGvXMzA.jpg",
+      "title": "Tombstone",
+      "year": 1993
+    },
+    "Sleepless in Seattle": {
+      "id": 858,
+      "poster": "/jAXfku1u1uaLGh4cUmK0ESf1pPu.jpg",
+      "title": "Sleepless in Seattle",
+      "year": 1993
+    },
+    "Schindler's List": {
+      "id": 424,
+      "poster": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+      "title": "Schindler's List",
+      "year": 1993
+    },
+    "Short Cuts": {
+      "id": 695,
+      "poster": "/mbNTvbtWfV4soyErimDTdX67OAr.jpg",
+      "title": "Short Cuts",
+      "year": 1993
+    },
+    "Demolition Man": {
+      "id": 9739,
+      "poster": "/dq6AmlVFo92PRuoLCcIyFdoRuxf.jpg",
+      "title": "Demolition Man",
+      "year": 1993
+    },
+    "Addams Family Values": {
+      "id": 2758,
+      "poster": "/sdxT2VjVSx9DRicwnuECUdBHeE7.jpg",
+      "title": "Addams Family Values",
+      "year": 1993
+    },
+    "The Nightmare Before Christmas": {
+      "id": 9479,
+      "poster": "/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+      "title": "The Nightmare Before Christmas",
+      "year": 1993
+    },
+    "The Fugitive": {
+      "id": 5503,
+      "poster": "/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg",
+      "title": "The Fugitive",
+      "year": 1993
+    },
+    "Dave": {
+      "id": 11566,
+      "poster": "/n7wQlcexeER5bW7DvV8sji2vRRH.jpg",
+      "title": "Dave",
+      "year": 1993
+    },
+    "The Age of Innocence": {
+      "id": 10436,
+      "poster": "/5Tuyt26v7qNR8Cl3m7ZRx36rduf.jpg",
+      "title": "The Age of Innocence",
+      "year": 1993
+    },
+    "Indecent Proposal": {
+      "id": 4478,
+      "poster": "/a39WoiTJEG5kNLIrr3kOMwg3LFg.jpg",
+      "title": "Indecent Proposal",
+      "year": 1993
+    },
+    "Rudy": {
+      "id": 14534,
+      "poster": "/fAbfTCRpjHe2rprXBly55KL1dL9.jpg",
+      "title": "Rudy",
+      "year": 1993
+    },
+    "Sister Act 2: Back in the Habit": {
+      "id": 6279,
+      "poster": "/dlkBp5S6Ei5f54031rAhyb4IwML.jpg",
+      "title": "Sister Act 2: Back in the Habit",
+      "year": 1993
+    },
+    "Robin Hood: Men in Tights": {
+      "id": 8005,
+      "poster": "/woexOLEkUlYsPLLuZRK6LjZaF38.jpg",
+      "title": "Robin Hood: Men in Tights",
+      "year": 1993
+    },
+    "Batman: Mask of the Phantasm": {
+      "id": 14919,
+      "poster": "/hT4ehUteagUrhUOHAtmYiY7mp5l.jpg",
+      "title": "Batman: Mask of the Phantasm",
+      "year": 1993
+    },
+    "The Joy Luck Club": {
+      "id": 19931,
+      "poster": "/s1Sk0hhVARNs7i9wqRHqbCriu8n.jpg",
+      "title": "The Joy Luck Club",
+      "year": 1993
+    },
+    "The Remains of the Day": {
+      "id": 1245,
+      "poster": "/uDGDtqSvuch324WnM7Ukdp1bCAQ.jpg",
+      "title": "The Remains of the Day",
+      "year": 1993
+    },
+    "This Boy's Life": {
+      "id": 8092,
+      "poster": "/pRMSZfen1Cv1eqwDbtxCBpBqxnU.jpg",
+      "title": "This Boy's Life",
+      "year": 1993
+    },
+    "Mi Vida Loca": {
+      "id": 32325,
+      "poster": "/gtKIaHUqkNqdgVnMFosyVJXvKMC.jpg",
+      "title": "Mi Vida Loca",
+      "year": 1994
+    },
+    "American Me": {
+      "id": 13199,
+      "poster": "/mrcdh66L6K1Nb5xPORuZufvE9aE.jpg",
+      "title": "American Me",
+      "year": 1992
+    },
+    "Vibes": {
+      "id": 21185,
+      "poster": "/yAT8QJquco2dGBEwqQJBLfP7wtM.jpg",
+      "title": "Vibes",
+      "year": 1988
+    },
+    "Pig": {
+      "id": 635731,
+      "poster": "/1InMm4Mbjx8wCKvIy5gglo5i3HN.jpg",
+      "title": "Pig",
+      "year": 2021
+    },
+    "National Treasure": {
+      "id": 2059,
+      "poster": "/pxL6E4GBOPUG6CdkO9cUQN5VMwI.jpg",
+      "title": "National Treasure",
+      "year": 2004
+    },
+    "Ghost": {
+      "id": 251,
+      "poster": "/w9RaPHov8oM5cnzeE27isnFMsvS.jpg",
+      "title": "Ghost",
+      "year": 1990
+    },
+    "Grand Canyon": {
+      "id": 13697,
+      "poster": "/gpqLukoUXAXkyMZ0jPSuAbWf5Nx.jpg",
+      "title": "Grand Canyon",
+      "year": 1991
+    },
+    "Magnolia": {
+      "id": 334,
+      "poster": "/tpfC325Jk6S38VTe5dDWjWtoyxr.jpg",
+      "title": "Magnolia",
+      "year": 1999
+    },
+    "The Player": {
+      "id": 10403,
+      "poster": "/tZ3kDut2dhFVGkWNEn9xoCHCNAx.jpg",
+      "title": "The Player",
+      "year": 1992
+    },
+    "Slacker": {
+      "id": 14022,
+      "poster": "/f7Iov2nd0XX9bp2laQEPYPEhisc.jpg",
+      "title": "Slacker",
+      "year": 1990
+    },
+    "Reservoir Dogs": {
+      "id": 500,
+      "poster": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+      "title": "Reservoir Dogs",
+      "year": 1992
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "Sneakers": {
+      "id": 2322,
+      "poster": "/l2pIGwCvpZEpBuMb55YBl6A04Jv.jpg",
+      "title": "Sneakers",
+      "year": 1992
+    },
+    "Get Shorty": {
+      "id": 8012,
+      "poster": "/r82SdPhg4fnIcLt0ogIjQxqjdcO.jpg",
+      "title": "Get Shorty",
+      "year": 1995
+    },
+    "Desperado": {
+      "id": 8068,
+      "poster": "/e3gwpBeXpvGZsxUya9zNym5QXrw.jpg",
+      "title": "Desperado",
+      "year": 1995
+    },
+    "Wyatt Earp": {
+      "id": 12160,
+      "poster": "/51LItgyecu2KMAtIchYogEykCIu.jpg",
+      "title": "Wyatt Earp",
+      "year": 1994
+    },
+    "Cutthroat Island": {
+      "id": 1408,
+      "poster": "/hYdeBZ4BFXivdouxLfQGWNE6zRx.jpg",
+      "title": "Cutthroat Island",
+      "year": 1995
+    },
+    "A Man Called Otto": {
+      "id": 937278,
+      "poster": "/130H1gap9lFfiTF9iDrqNIkFvC9.jpg",
+      "title": "A Man Called Otto",
+      "year": 2022
+    },
+    "Babylon": {
+      "id": 615777,
+      "poster": "/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+      "title": "Babylon",
+      "year": 2022
+    },
+    "Red Notice": {
+      "id": 512195,
+      "poster": "/lAXONuqg41NwUMuzMiFvicDET9Y.jpg",
+      "title": "Red Notice",
+      "year": 2021
+    },
+    "65": {
+      "id": 700391,
+      "poster": "/rzRb63TldOKdKydCvWJM8B6EkPM.jpg",
+      "title": "65",
+      "year": 2023
+    },
+    "Ant-Man and the Wasp: Quantumania": {
+      "id": 640146,
+      "poster": "/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "year": 2023
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Cocaine Bear": {
+      "id": 804150,
+      "poster": "/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg",
+      "title": "Cocaine Bear",
+      "year": 2023
+    }
+  }
+}

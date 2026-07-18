@@ -1,0 +1,443 @@
+{
+  "slug": "the-importance-of-spike-lee",
+  "title": "The Importance of Spike Lee",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2020-06-09",
+  "runtimeMin": 97,
+  "format": "A solo tribute ahead of Da 5 Bloods: Sean's top five Spike Lee films, a replayed Rewatchables conversation with Wesley Morris about Do the Right Thing, and interviews with two of Lee's longest-running collaborators, composer Terrence Blanchard and editor Barry Alexander Brown.",
+  "segments": [
+    {
+      "kind": "topfive",
+      "heading": "Sean's Top Five Spike Lee Films",
+      "note": "recorded amid the George Floyd protests, ahead of Da 5 Bloods",
+      "subject": "Spike Lee",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Do the Right Thing",
+          "year": 1989,
+          "note": "No. 1. Maybe the best movie of the 1980s, and maybe the most essential text on what it means to live in and be a citizen of New York."
+        },
+        {
+          "title": "25th Hour",
+          "year": 2002,
+          "note": "No. 2. Written by David Benioff from his own novel; Ed Norton's Monty Brogan spends his last day before prison. One of the most impactful movies of this century, and proof Spike works on a broader canvas than he's given credit for."
+        },
+        {
+          "title": "Crooklyn",
+          "year": 1994,
+          "note": "Tied for No. 3 with Clockers. A personal reflection of Lee's family life, co-written with his sisters, and one of the most touching movies Sean can recall."
+        },
+        {
+          "title": "Clockers",
+          "year": 1995,
+          "note": "Tied for No. 3 with Crooklyn. Still a story of family and community, but also of crime and policing, with Mekhi Phifer, Harvey Keitel, John Turturro, and a towering Delroy Lindo."
+        },
+        {
+          "title": "Inside Man",
+          "year": 2006,
+          "note": "No. 4. Originally conceived as a Ron Howard movie; Lee turns it into his version of Dog Day Afternoon, working openly in Sidney Lumet's mold, with Denzel Washington and Jodie Foster."
+        },
+        {
+          "title": "Bamboozled",
+          "year": 2000,
+          "note": "No. 5. An extravagant satire: Damon Wayans's Black TV executive, pushed by his white studio boss (Michael Rapaport), reinvents the minstrel show for the new millennium. Recently reissued by Criterion."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Do the Right Thing, revisited",
+      "note": "replayed from a 2019 Rewatchables conversation with Wesley Morris",
+      "guest": "Wesley Morris on",
+      "films": [
+        {
+          "title": "Do the Right Thing",
+          "year": 1989,
+          "note": "The Wikipedia synopsis reduces it to the pizzeria wall of fame, but that dispute over whose photos hang there really is the whole movie: who gets a foothold in a neighborhood, and who's given one just by being who they are. David Denby's contemporary review in New York Magazine called the ending 'a shambles'; Morris and Fennessey call it a perfect, deliberately dialectical film that nobody 'wins.'"
+        },
+        {
+          "title": "Red Hook Summer",
+          "year": 2012,
+          "note": "Mookie reappears years later, delivering pizza for a relocated Sal's. Lee insisted it wasn't a sequel to Do the Right Thing, but the choice clearly says Brooklyn doesn't change."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Terrence Blanchard on scoring Spike",
+      "guest": "Terrence Blanchard on",
+      "films": [
+        {
+          "title": "Mo' Better Blues",
+          "year": 1990,
+          "note": "Blanchard's first collaboration with Lee, coaching Denzel Washington's trumpet fingering scene by scene."
+        },
+        {
+          "title": "Jungle Fever",
+          "year": 1991,
+          "note": "Blanchard's first score for Lee: he played Spike a solo piano piece he was writing for the murdered children of Soweto, and it became the film's love theme after Spike overheard it."
+        },
+        {
+          "title": "Miracle at St. Anna",
+          "year": 2008,
+          "note": "Lee sent Blanchard set-still screensavers before footage existed; Blanchard had to rewrite the entire opening battle sequence once Lee asked for something more emotional and melodic instead of action music."
+        },
+        {
+          "title": "Inside Man",
+          "year": 2006,
+          "note": "Blanchard tried to signal a delicate love theme by scoring it for piano and flute; Lee heard it and made it the main theme instead."
+        },
+        {
+          "title": "BlacKkKlansman",
+          "year": 2018,
+          "note": "Blanchard calls it the culmination of decades of work with Lee."
+        },
+        {
+          "title": "Da 5 Bloods",
+          "year": 2020,
+          "note": "Built around Marvin Gaye; the four-minute-49-second opening sequence alone took Blanchard five days to write and, he says, will go down as a classic."
+        },
+        {
+          "title": "25th Hour",
+          "year": 2002,
+          "note": "Its drum sound came up again while Blanchard was scoring Da 5 Bloods."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Barry Alexander Brown on cutting Spike",
+      "guest": "Barry Alexander Brown on",
+      "films": [
+        {
+          "title": "She's Gotta Have It",
+          "year": 1986,
+          "note": "Brown cut one scene; Lee cut the rest himself."
+        },
+        {
+          "title": "School Daze",
+          "year": 1988,
+          "note": "The first film Lee actually hired Brown to cut in full."
+        },
+        {
+          "title": "Do the Right Thing",
+          "year": 1989,
+          "note": "Neither of them knew editors were supposed to cut during the shoot, so Brown didn't touch the footage until Lee wrapped, then cut the whole film in six weeks."
+        },
+        {
+          "title": "Malcolm X",
+          "year": 1992,
+          "note": "The film after which Brown finally started to think of himself as an editor rather than a writer or documentarian who happened to cut."
+        },
+        {
+          "title": "Summer of Sam",
+          "year": 1999,
+          "note": "One of the run of films Lee and Brown shot on film with nightly projected dailies, before the shift to digital."
+        },
+        {
+          "title": "The Original Kings of Comedy",
+          "year": 2000,
+          "note": "Their first digital feature, cut with an assistant, Kim Chisholm, who'd never worked on film before."
+        },
+        {
+          "title": "BlacKkKlansman",
+          "year": 2018,
+          "note": "Cut fast on Avid; the Kwame Ture campus-speech portraits and the Harry Belafonte/Birth of a Nation intercut were both built in days, not weeks, with Lee tweaking after the first pass."
+        },
+        {
+          "title": "25th Hour",
+          "year": 2002,
+          "note": "Shot partly on film even as they went digital: a frame-rate mismatch in the final Brian Cox monologue forced Brown back onto an old-fashioned work print to fix it."
+        },
+        {
+          "title": "Salaam Bombay!",
+          "year": 1988,
+          "note": "Brown edited Mira Nair's film in the same period he was cutting for Lee; it earned a foreign-language Oscar nomination."
+        },
+        {
+          "title": "Madonna: Truth or Dare",
+          "year": 1991,
+          "note": "Brown cut Madonna's tour documentary not long after Do the Right Thing."
+        },
+        {
+          "title": "The War at Home",
+          "year": 1979,
+          "note": "Brown's own Oscar-nominated documentary about 1960s Madison, Wisconsin, which he calls the film school he never had."
+        },
+        {
+          "title": "Son of the South",
+          "year": 2020,
+          "note": "Brown's own film, in pre-production at the time of this interview: Bob Zellner, a white Alabama college graduate radicalized by the 1961 Freedom Riders."
+        },
+        {
+          "title": "Spider-Man: Into the Spider-Verse",
+          "year": 2018,
+          "note": "Brown's answer to the show's closing question ('the last great thing you've seen'), calling it, animation or not, some of the best editing around."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Where to watch him (Sean's rundown)",
+      "films": [
+        "He Got Game",
+        "4 Little Girls",
+        "Get on the Bus",
+        "Da Sweet Blood of Jesus",
+        "Chi-Raq",
+        "She Hate Me",
+        "Girl 6"
+      ]
+    },
+    {
+      "group": "Named in passing",
+      "films": [
+        "Weekend at Bernie's",
+        "Dog Day Afternoon",
+        "Beverly Hills Cop",
+        "Wedding Crashers",
+        "Oklahoma!",
+        "West Side Story",
+        "The Birth of a Nation"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "When the Levees Broke",
+      "If God Is Willing and da Creek Don't Rise",
+      "Mike Tyson: Undisputed Truth",
+      "She's Gotta Have It (Netflix series)"
+    ],
+    "Opera": [
+      "Fire Shut Up in My Bones"
+    ]
+  },
+  "tmdbOverrides": {
+    "West Side Story": 1725
+  },
+  "tmdb": {
+    "Do the Right Thing": {
+      "id": 925,
+      "poster": "/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+      "title": "Do the Right Thing",
+      "year": 1989
+    },
+    "25th Hour": {
+      "id": 1429,
+      "poster": "/uW7tTRElr2tRhmAVESzvHy4ByXg.jpg",
+      "title": "25th Hour",
+      "year": 2002
+    },
+    "Crooklyn": {
+      "id": 34152,
+      "poster": "/iFqe07F78SO0SIBzWcK4I5MwNvP.jpg",
+      "title": "Crooklyn",
+      "year": 1994
+    },
+    "Clockers": {
+      "id": 20649,
+      "poster": "/c79uqLJleho2a7OQayfrW5Ypphf.jpg",
+      "title": "Clockers",
+      "year": 1995
+    },
+    "Inside Man": {
+      "id": 388,
+      "poster": "/ffMUgkDZICNiyaws1Jkv8qG8uFW.jpg",
+      "title": "Inside Man",
+      "year": 2006
+    },
+    "Bamboozled": {
+      "id": 24664,
+      "poster": "/oAg1mUUxdWJNLa6t1gctbQhXHVN.jpg",
+      "title": "Bamboozled",
+      "year": 2000
+    },
+    "Red Hook Summer": {
+      "id": 84328,
+      "poster": "/qxAc0F0zzGj0YROOOr6OQIEOvq1.jpg",
+      "title": "Red Hook Summer",
+      "year": 2012
+    },
+    "Mo' Better Blues": {
+      "id": 41823,
+      "poster": "/sEa6m5RjfrqfTzY1eHkC85shiUF.jpg",
+      "title": "Mo' Better Blues",
+      "year": 1990
+    },
+    "Jungle Fever": {
+      "id": 1713,
+      "poster": "/pw7cOdwCylBuiv6rvosBSkcgKEe.jpg",
+      "title": "Jungle Fever",
+      "year": 1991
+    },
+    "Miracle at St. Anna": {
+      "id": 12412,
+      "poster": "/7PqmgaQBuD0Zp9pDIkkEjkhCJUj.jpg",
+      "title": "Miracle at St. Anna",
+      "year": 2008
+    },
+    "BlacKkKlansman": {
+      "id": 487558,
+      "poster": "/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg",
+      "title": "BlacKkKlansman",
+      "year": 2018
+    },
+    "Da 5 Bloods": {
+      "id": 581859,
+      "poster": "/yx4cp1ljJMDSFeEex0Zjv45b55E.jpg",
+      "title": "Da 5 Bloods",
+      "year": 2020
+    },
+    "She's Gotta Have It": {
+      "id": 27995,
+      "poster": "/qiJuXvPONqTSSnzhbCBqE7EotV.jpg",
+      "title": "She's Gotta Have It",
+      "year": 1986
+    },
+    "School Daze": {
+      "id": 36739,
+      "poster": "/vnfjKHcmah7ReMxLNF18JMXFgSZ.jpg",
+      "title": "School Daze",
+      "year": 1988
+    },
+    "Malcolm X": {
+      "id": 1883,
+      "poster": "/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
+      "title": "Malcolm X",
+      "year": 1992
+    },
+    "Summer of Sam": {
+      "id": 10279,
+      "poster": "/yvGGA2CbT6xyFVTZUA9f2ok0q5V.jpg",
+      "title": "Summer of Sam",
+      "year": 1999
+    },
+    "The Original Kings of Comedy": {
+      "id": 23618,
+      "poster": "/vjbEcW9OqWoXKr9e2KySG1WZlNS.jpg",
+      "title": "The Original Kings of Comedy",
+      "year": 2000
+    },
+    "Salaam Bombay!": {
+      "id": 45129,
+      "poster": "/405GFXA7NKwVxqP9WHD5RaKZ84C.jpg",
+      "title": "Salaam Bombay!",
+      "year": 1988
+    },
+    "Madonna: Truth or Dare": {
+      "id": 10174,
+      "poster": "/kJHCqwDgS9MEhdChIkGn7QAUoyL.jpg",
+      "title": "Madonna: Truth or Dare",
+      "year": 1991
+    },
+    "The War at Home": {
+      "id": 149362,
+      "poster": "/tDijvB2Nfmosm39jrI0vQa8cNSm.jpg",
+      "title": "The War at Home",
+      "year": 1979
+    },
+    "Son of the South": {
+      "id": 686548,
+      "poster": "/3LExC6FEHKkHdeb7z3W0ncU2CKY.jpg",
+      "title": "Son of the South",
+      "year": 2021
+    },
+    "Spider-Man: Into the Spider-Verse": {
+      "id": 324857,
+      "poster": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018
+    },
+    "He Got Game": {
+      "id": 9469,
+      "poster": "/kd8hRaysUQOz7AvSorZDJHuihcJ.jpg",
+      "title": "He Got Game",
+      "year": 1998
+    },
+    "4 Little Girls": {
+      "id": 26580,
+      "poster": "/7kbV3fDjuy9dQmcuZuT9NKNAEix.jpg",
+      "title": "4 Little Girls",
+      "year": 1997
+    },
+    "Get on the Bus": {
+      "id": 49471,
+      "poster": "/7p8FvHMSr11LQw9Xv6dPJdrBeU2.jpg",
+      "title": "Get on the Bus",
+      "year": 1996
+    },
+    "Da Sweet Blood of Jesus": {
+      "id": 278316,
+      "poster": "/dUqIwSKX9cEkahmv1lsolT8ouE9.jpg",
+      "title": "Da Sweet Blood of Jesus",
+      "year": 2015
+    },
+    "Chi-Raq": {
+      "id": 340275,
+      "poster": "/goT9g4Lem6mwkwmehR3mOGJXLBQ.jpg",
+      "title": "Chi-Raq",
+      "year": 2015
+    },
+    "She Hate Me": {
+      "id": 20912,
+      "poster": "/jjfzD3AEABBuJRnCJAZhUuwQvPi.jpg",
+      "title": "She Hate Me",
+      "year": 2004
+    },
+    "Girl 6": {
+      "id": 61752,
+      "poster": "/1SSYCOTrHucd9aBCyTfbLWcJ2zD.jpg",
+      "title": "Girl 6",
+      "year": 1996
+    },
+    "Weekend at Bernie's": {
+      "id": 8491,
+      "poster": "/4RtjBkBSqHG46uieHgTtM7oKlpo.jpg",
+      "title": "Weekend at Bernie's",
+      "year": 1989
+    },
+    "Dog Day Afternoon": {
+      "id": 968,
+      "poster": "/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg",
+      "title": "Dog Day Afternoon",
+      "year": 1975
+    },
+    "Beverly Hills Cop": {
+      "id": 90,
+      "poster": "/eBJEvKkhQ0tUt1dBAcTEYW6kCle.jpg",
+      "title": "Beverly Hills Cop",
+      "year": 1984
+    },
+    "Wedding Crashers": {
+      "id": 9522,
+      "poster": "/lFM3lk2zVzC1YFnKm0r6LbFPyRu.jpg",
+      "title": "Wedding Crashers",
+      "year": 2005
+    },
+    "Oklahoma!": {
+      "id": 13936,
+      "poster": "/ztqT5GmJVI2o8vShGWRVVqykQqA.jpg",
+      "title": "Oklahoma!",
+      "year": 1955
+    },
+    "West Side Story": {
+      "id": 1725,
+      "poster": "/nzCMu6D5q60i2bVrIQ0DxlRSgCZ.jpg",
+      "title": "West Side Story",
+      "year": 1961
+    },
+    "The Birth of a Nation": {
+      "id": 618,
+      "poster": "/pNpOXpQI5GSUfiWypubYtMh9928.jpg",
+      "title": "The Birth of a Nation",
+      "year": 1915
+    }
+  }
+}

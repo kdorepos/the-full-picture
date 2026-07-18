@@ -1,0 +1,179 @@
+{
+  "slug": "jason-reitman-is-not-here-to-make-a-blockbuster-the-big-pict",
+  "title": "Jason Reitman Is Not Here to Make a Blockbuster | The Big Picture (Ep. 63)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2018-05-10",
+  "runtimeMin": 30,
+  "format": "Sean Fennessey talks to Jason Reitman about Tully, his five-year gap between theatrical films, and why he keeps making small movies while everyone else chases box office.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Jason Reitman on",
+      "films": [
+        {
+          "title": "Tully",
+          "year": 2018,
+          "note": "His new film: a Diablo Cody script with Charlize Theron as Marlo, a mother of three, built as a double narrative you only fully see at the closing moment."
+        },
+        {
+          "title": "Young Adult",
+          "year": 2011,
+          "note": "The earlier Cody/Theron collaboration. Reitman says it grew on people after release, especially among directors who name it their favorite of his."
+        },
+        {
+          "title": "Juno",
+          "year": 2007,
+          "note": "The breakout that 'caught a wave': quotable, hamburger phones, a specialty-film phenomenon he doubts could happen in 2018."
+        },
+        {
+          "title": "Up in the Air",
+          "year": 2009,
+          "note": "His first experience pulling the rug from under an audience; he guarded the ending closely."
+        },
+        {
+          "title": "Thank You for Smoking",
+          "year": 2005,
+          "note": "The debut. 'Not about cigarettes: it's about parenting, about choice.'"
+        },
+        {
+          "title": "The Front Runner",
+          "year": 2018,
+          "note": "His next film, the Gary Hart story. A bigger, 1987 period piece with 20-plus characters he compares to a Robert Altman movie."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Films he cites",
+      "films": [
+        "Get Out",
+        "Memento",
+        "Die Hard",
+        "Alien",
+        "The Florida Project",
+        "The Shape of Water",
+        "Black Swan",
+        "Solo: A Star Wars Story",
+        "Avengers: Infinity War"
+      ]
+    },
+    {
+      "group": "Outro plug",
+      "films": [
+        "Life of the Party"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "24"
+    ],
+    "Music video": [
+      "This Is America"
+    ]
+  },
+  "tmdb": {
+    "Tully": {
+      "id": 400579,
+      "poster": "/wDI4YXBXolMYi15Qx2kClvdSERM.jpg",
+      "title": "Tully",
+      "year": 2018
+    },
+    "Young Adult": {
+      "id": 57157,
+      "poster": "/4tGMz5xUs9sk8X9B28G6UalHK1d.jpg",
+      "title": "Young Adult",
+      "year": 2011
+    },
+    "Juno": {
+      "id": 7326,
+      "poster": "/jNIn2tVhpvFD6P9IojldI3mNYcn.jpg",
+      "title": "Juno",
+      "year": 2007
+    },
+    "Up in the Air": {
+      "id": 22947,
+      "poster": "/useGH8nfwlaHK44IWEZdUYJOE2N.jpg",
+      "title": "Up in the Air",
+      "year": 2009
+    },
+    "Thank You for Smoking": {
+      "id": 9388,
+      "poster": "/41bMmglWT72OaRXrMROEyksOf3J.jpg",
+      "title": "Thank You for Smoking",
+      "year": 2005
+    },
+    "The Front Runner": {
+      "id": 476764,
+      "poster": "/9QKzd31H1bCjMAJ8HoaASWqbHfY.jpg",
+      "title": "The Front Runner",
+      "year": 2018
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Memento": {
+      "id": 77,
+      "poster": "/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+      "title": "Memento",
+      "year": 2000
+    },
+    "Die Hard": {
+      "id": 562,
+      "poster": "/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg",
+      "title": "Die Hard",
+      "year": 1988
+    },
+    "Alien": {
+      "id": 348,
+      "poster": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "title": "Alien",
+      "year": 1979
+    },
+    "The Florida Project": {
+      "id": 394117,
+      "poster": "/5QnDxdJg1fi6uMSkSi4x8tHsltm.jpg",
+      "title": "The Florida Project",
+      "year": 2017
+    },
+    "The Shape of Water": {
+      "id": 399055,
+      "poster": "/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg",
+      "title": "The Shape of Water",
+      "year": 2017
+    },
+    "Black Swan": {
+      "id": 44214,
+      "poster": "/viWheBd44bouiLCHgNMvahLThqx.jpg",
+      "title": "Black Swan",
+      "year": 2010
+    },
+    "Solo: A Star Wars Story": {
+      "id": 348350,
+      "poster": "/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg",
+      "title": "Solo: A Star Wars Story",
+      "year": 2018
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    },
+    "Life of the Party": {
+      "id": 399796,
+      "poster": "/749iUAWQWeutQuTd9excjmigecw.jpg",
+      "title": "Life of the Party",
+      "year": 2018
+    }
+  }
+}

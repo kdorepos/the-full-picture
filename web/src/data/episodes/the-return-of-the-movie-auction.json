@@ -1,0 +1,600 @@
+{
+  "slug": "the-return-of-the-movie-auction",
+  "title": "The Return of the Movie Auction!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2021-07-16",
+  "runtimeMin": 129,
+  "format": "Sean, Amanda, and Chris go back to the well: another $1,000 each, five more 2021 movies. Then Morgan Neville on Roadrunner, his documentary about Anthony Bourdain.",
+  "segments": [
+    {
+      "kind": "auction",
+      "heading": "The paddles",
+      "saleLabel": "Second sale · 2021",
+      "slates": [
+        {
+          "host": "Sean Fennessey",
+          "spent": 1000,
+          "budgetLeft": 0,
+          "picks": [
+            {
+              "title": "The Tragedy of Macbeth",
+              "year": 2021,
+              "price": 255,
+              "note": "Won a bidding war with Chris that climbed from $100 to $255. Joel Coen's first solo directing effort, adapting Shakespeare with Denzel Washington and Frances McDormand."
+            },
+            {
+              "title": "Halloween Kills",
+              "year": 2021,
+              "price": 1,
+              "note": "An uncontested dollar bid. David Gordon Green's Michael Myers sequel."
+            },
+            {
+              "title": "Licorice Pizza",
+              "year": 2021,
+              "price": 515,
+              "note": "Drafted under its working title, Soggy Bottom. The single highest bid of either auction, run up by Chris as much out of spite as interest. Paul Thomas Anderson's coming-of-age film set in the San Fernando Valley, starring Cooper Hoffman and Alana Haim."
+            },
+            {
+              "title": "The Harder They Fall",
+              "year": 2021,
+              "price": 50,
+              "note": "Pitched off a trailer Sean had just seen. Jeymes Samuel's revisionist Black western with Regina King and Jonathan Majors."
+            },
+            {
+              "title": "The Card Counter",
+              "year": 2021,
+              "price": 179,
+              "note": "His last $179, uncontested. Paul Schrader's poker drama starring Oscar Isaac."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "spent": 860,
+          "budgetLeft": 140,
+          "picks": [
+            {
+              "title": "Blonde",
+              "year": 2022,
+              "price": 100,
+              "note": "Chris bailed at $95. Andrew Dominik's Netflix adaptation of the Joyce Carol Oates novel, with Ana de Armas as Marilyn Monroe."
+            },
+            {
+              "title": "Don't Look Up",
+              "year": 2021,
+              "price": 215,
+              "note": "Outbid Chris by five bucks. Adam McKay's Netflix satire with Jennifer Lawrence and Leonardo DiCaprio."
+            },
+            {
+              "title": "The Power of the Dog",
+              "year": 2021,
+              "price": 85,
+              "note": "Uncontested; she called it a steal on the spot. Jane Campion's first feature since 2009's Bright Star, with Benedict Cumberbatch, Kirsten Dunst, and Jesse Plemons."
+            },
+            {
+              "title": "King Richard",
+              "year": 2021,
+              "price": 200,
+              "note": "Uncontested. Reinaldo Marcus Green's Venus and Serena Williams biopic starring Will Smith."
+            },
+            {
+              "title": "West Side Story",
+              "year": 2021,
+              "price": 260,
+              "note": "Won over Chris, who stopped at $250. Steven Spielberg's remake of the Bernstein-Sondheim musical, with Ansel Elgort and Rachel Zegler."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "spent": 1000,
+          "budgetLeft": 0,
+          "picks": [
+            {
+              "title": "Eternals",
+              "year": 2021,
+              "price": 150,
+              "note": "Uncontested. Chloé Zhao's entry into the MCU, with Richard Madden and Angelina Jolie."
+            },
+            {
+              "title": "Spiderhead",
+              "year": 2022,
+              "price": 80,
+              "note": "Drafted as 'Escape From Spider-Head.' Joseph Kosinski's Netflix thriller adapting a George Saunders story, with Chris Hemsworth and Miles Teller."
+            },
+            {
+              "title": "Venom: Let There Be Carnage",
+              "year": 2021,
+              "price": 50,
+              "note": "Uncontested; nobody else wanted to sit through an explanation of symbiote mythology. Tom Hardy and Woody Harrelson."
+            },
+            {
+              "title": "Spider-Man: No Way Home",
+              "year": 2021,
+              "price": 230,
+              "note": "Opened at a dollar and climbed to $230 mostly to keep it out of Sean's hands. Jon Watts's multiverse sequel."
+            },
+            {
+              "title": "Causeway",
+              "year": 2022,
+              "price": 490,
+              "note": "Drafted as 'Red, White and Water,' known then only from paparazzi photos. The second-highest bid of either auction, just under Licorice Pizza. Lila Neugebauer's directing debut, starring Jennifer Lawrence and Brian Tyree Henry."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Morgan Neville on",
+      "films": [
+        {
+          "title": "Roadrunner: A Film About Anthony Bourdain",
+          "year": 2021,
+          "note": "Neville's documentary on the late chef and TV host, assembled from an 18-hour playlist of every song Bourdain ever referenced and about 34 interviews, only 18 of which made the final cut."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "2021 films raised in passing",
+      "films": [
+        "Shang-Chi and the Legend of the Ten Rings",
+        "Clifford the Big Red Dog",
+        "Candyman",
+        "Don't Worry Darling",
+        "Old",
+        "Annette",
+        "Benedetta",
+        "Nightmare Alley",
+        "The Many Saints of Newark",
+        "The Eyes of Tammy Faye",
+        "The Tender Bar",
+        "Killers of the Flower Moon",
+        "Babylon",
+        "Deep Water",
+        "Elvis",
+        "After Yang",
+        "Armageddon Time",
+        "The Whale"
+      ]
+    },
+    {
+      "group": "Older films name-checked",
+      "films": [
+        "Miller's Crossing",
+        "The Ladykillers",
+        "Wimbledon",
+        "Match Point",
+        "Battle of the Sexes",
+        "Lincoln",
+        "In the Heights",
+        "Ghostbusters",
+        "Tron: Legacy",
+        "Once Upon a Time in Hollywood",
+        "Citizen Kane",
+        "Green Book",
+        "Killing Them Softly",
+        "Dazed and Confused"
+      ]
+    },
+    {
+      "group": "Named in the Siskel and Ebert interview",
+      "films": [
+        "Die Hard 2",
+        "Aliens",
+        "Silence of the Lambs",
+        "The Thing",
+        "The Thin Blue Line",
+        "Norma Rae",
+        "RoboCop",
+        "Psycho II"
+      ]
+    },
+    {
+      "group": "Named in the Morgan Neville interview",
+      "films": [
+        "They'll Love Me When I'm Dead",
+        "Won't You Be My Neighbor?",
+        "20 Feet from Stardom",
+        "Summer of Soul"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Top Chef",
+      "Room 104"
+    ],
+    "Podcasts": [
+      "Gene and Roger",
+      "The Watch",
+      "The Ringerverse",
+      "Binge Mode"
+    ],
+    "Ads": [
+      "Netflix (FIFA World Cup Launch Edition)",
+      "Boar's Head",
+      "White Claw"
+    ]
+  },
+  "tmdbOverrides": {
+    "Summer of Soul": 776527,
+    "Candyman": 565028,
+    "Ghostbusters": 620,
+    "Silence of the Lambs": 274,
+    "The Thin Blue Line": 14285,
+    "RoboCop": 5548,
+    "Deep Water": 619979
+  },
+  "tmdb": {
+    "The Tragedy of Macbeth": {
+      "id": 591538,
+      "poster": "/tDNJEhcLbX3jIk3BMCur9pCdaVD.jpg",
+      "title": "The Tragedy of Macbeth",
+      "year": 2021
+    },
+    "Halloween Kills": {
+      "id": 610253,
+      "poster": "/ir9eyz1mtgsohjvo7UYtqUfFuES.jpg",
+      "title": "Halloween Kills",
+      "year": 2021
+    },
+    "Licorice Pizza": {
+      "id": 718032,
+      "poster": "/ivXtvzfliGvoJ1DhSHIGyYBToWe.jpg",
+      "title": "Licorice Pizza",
+      "year": 2021
+    },
+    "The Harder They Fall": {
+      "id": 618162,
+      "poster": "/su9WzL7lwUZPhjH6eZByAYFx2US.jpg",
+      "title": "The Harder They Fall",
+      "year": 2021
+    },
+    "The Card Counter": {
+      "id": 643532,
+      "poster": "/y5DNLVg0gPiGSkuK4yFc4fjQ42Q.jpg",
+      "title": "The Card Counter",
+      "year": 2021
+    },
+    "Blonde": {
+      "id": 301502,
+      "poster": "/mEeHqtnWOR44vLCutEFku2WK6ou.jpg",
+      "title": "Blonde",
+      "year": 2022
+    },
+    "Don't Look Up": {
+      "id": 646380,
+      "poster": "/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+      "title": "Don't Look Up",
+      "year": 2021
+    },
+    "The Power of the Dog": {
+      "id": 600583,
+      "poster": "/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg",
+      "title": "The Power of the Dog",
+      "year": 2021
+    },
+    "King Richard": {
+      "id": 614917,
+      "poster": "/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg",
+      "title": "King Richard",
+      "year": 2021
+    },
+    "West Side Story": {
+      "id": 511809,
+      "poster": "/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+      "title": "West Side Story",
+      "year": 2021
+    },
+    "Eternals": {
+      "id": 524434,
+      "poster": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+      "title": "Eternals",
+      "year": 2021
+    },
+    "Spiderhead": {
+      "id": 615469,
+      "poster": "/7COPO5B9AOKIB4sEkvNu0wfve3c.jpg",
+      "title": "Spiderhead",
+      "year": 2022
+    },
+    "Venom: Let There Be Carnage": {
+      "id": 580489,
+      "poster": "/pzKsRuKLFmYrW5Q0q8E8G78Tcgo.jpg",
+      "title": "Venom: Let There Be Carnage",
+      "year": 2021
+    },
+    "Spider-Man: No Way Home": {
+      "id": 634649,
+      "poster": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "title": "Spider-Man: No Way Home",
+      "year": 2021
+    },
+    "Causeway": {
+      "id": 595586,
+      "poster": "/bUzKIqFIS05Ss31zRTfZfHJIgDP.jpg",
+      "title": "Causeway",
+      "year": 2022
+    },
+    "Roadrunner: A Film About Anthony Bourdain": {
+      "id": 642732,
+      "poster": "/fSIxSilGIoo9x4OZbzxT1QJ9B5e.jpg",
+      "title": "Roadrunner: A Film About Anthony Bourdain",
+      "year": 2021
+    },
+    "Shang-Chi and the Legend of the Ten Rings": {
+      "id": 566525,
+      "poster": "/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "year": 2021
+    },
+    "Clifford the Big Red Dog": {
+      "id": 585245,
+      "poster": "/30ULVKdjBcQTsj2aOSThXXZNSxF.jpg",
+      "title": "Clifford the Big Red Dog",
+      "year": 2021
+    },
+    "Candyman": {
+      "id": 565028,
+      "poster": "/dqoshZPLNsXlC1qtz5n34raUyrE.jpg",
+      "title": "Candyman",
+      "year": 2021
+    },
+    "Don't Worry Darling": {
+      "id": 619730,
+      "poster": "/jOqxKIOC92BVyinYO1Fm73XY7Tc.jpg",
+      "title": "Don't Worry Darling",
+      "year": 2022
+    },
+    "Old": {
+      "id": 631843,
+      "poster": "/vclShucpUmPhdAOmKgf3B3Z4POD.jpg",
+      "title": "Old",
+      "year": 2021
+    },
+    "Annette": {
+      "id": 424277,
+      "poster": "/4FTnypxpGltJdIARrfFsP31pGTp.jpg",
+      "title": "Annette",
+      "year": 2021
+    },
+    "Benedetta": {
+      "id": 454527,
+      "poster": "/yofVXmLYQbr8pdOeyDRrf9N8rF4.jpg",
+      "title": "Benedetta",
+      "year": 2021
+    },
+    "Nightmare Alley": {
+      "id": 597208,
+      "poster": "/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg",
+      "title": "Nightmare Alley",
+      "year": 2021
+    },
+    "The Many Saints of Newark": {
+      "id": 524369,
+      "poster": "/1UkbPQspPbq1FPbFP4VV1ELCfSN.jpg",
+      "title": "The Many Saints of Newark",
+      "year": 2021
+    },
+    "The Eyes of Tammy Faye": {
+      "id": 601470,
+      "poster": "/yL3IAfOxUH7h1Og9kxG3czxa4XV.jpg",
+      "title": "The Eyes of Tammy Faye",
+      "year": 2021
+    },
+    "The Tender Bar": {
+      "id": 727293,
+      "poster": "/m6Ej3F4tYTOHD26fvX1zN9bcEUg.jpg",
+      "title": "The Tender Bar",
+      "year": 2021
+    },
+    "Killers of the Flower Moon": {
+      "id": 466420,
+      "poster": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+      "title": "Killers of the Flower Moon",
+      "year": 2023
+    },
+    "Babylon": {
+      "id": 615777,
+      "poster": "/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+      "title": "Babylon",
+      "year": 2022
+    },
+    "Deep Water": {
+      "id": 619979,
+      "poster": "/6yRMyWwjuhKg6IU66uiZIGhaSc8.jpg",
+      "title": "Deep Water",
+      "year": 2022
+    },
+    "Elvis": {
+      "id": 614934,
+      "poster": "/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg",
+      "title": "Elvis",
+      "year": 2022
+    },
+    "After Yang": {
+      "id": 585378,
+      "poster": "/qjEuDeKOhA7JqaaqhLSfoS9titb.jpg",
+      "title": "After Yang",
+      "year": 2022
+    },
+    "Armageddon Time": {
+      "id": 615952,
+      "poster": "/wMK717aDWhboXOiVbZ9sLBqLmKh.jpg",
+      "title": "Armageddon Time",
+      "year": 2022
+    },
+    "The Whale": {
+      "id": 785084,
+      "poster": "/jQ0gylJMxWSL490sy0RrPj1Lj7e.jpg",
+      "title": "The Whale",
+      "year": 2022
+    },
+    "Miller's Crossing": {
+      "id": 379,
+      "poster": "/i83gYdglRCjCRLSsmCk5nRWRmDM.jpg",
+      "title": "Miller's Crossing",
+      "year": 1990
+    },
+    "The Ladykillers": {
+      "id": 5516,
+      "poster": "/l4g9R39NCp6VaYFrw6q8JwKNW9x.jpg",
+      "title": "The Ladykillers",
+      "year": 2004
+    },
+    "Wimbledon": {
+      "id": 11823,
+      "poster": "/agiItFfsvNsjpinLGwjfpYOhLaX.jpg",
+      "title": "Wimbledon",
+      "year": 2004
+    },
+    "Match Point": {
+      "id": 116,
+      "poster": "/vHjEVTD8ucuwKSFOZJeyAnTZYli.jpg",
+      "title": "Match Point",
+      "year": 2005
+    },
+    "Battle of the Sexes": {
+      "id": 369192,
+      "poster": "/fWy0A3VojTCb0S2MKtEJjpquubF.jpg",
+      "title": "Battle of the Sexes",
+      "year": 2017
+    },
+    "Lincoln": {
+      "id": 72976,
+      "poster": "/7mUYEkv9W3ek61eetZCfMQYVoi.jpg",
+      "title": "Lincoln",
+      "year": 2012
+    },
+    "In the Heights": {
+      "id": 467909,
+      "poster": "/RO4KoJyoQMQzh9z76d4v4FJMmJ.jpg",
+      "title": "In the Heights",
+      "year": 2021
+    },
+    "Ghostbusters": {
+      "id": 620,
+      "poster": "/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
+      "title": "Ghostbusters",
+      "year": 1984
+    },
+    "Tron: Legacy": {
+      "id": 20526,
+      "poster": "/8Nc6R8k7bG8frSiDJo0oLucF7dN.jpg",
+      "title": "TRON: Legacy",
+      "year": 2010
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Citizen Kane": {
+      "id": 15,
+      "poster": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+      "title": "Citizen Kane",
+      "year": 1941
+    },
+    "Green Book": {
+      "id": 490132,
+      "poster": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+      "title": "Green Book",
+      "year": 2018
+    },
+    "Killing Them Softly": {
+      "id": 64689,
+      "poster": "/heaz45kpFa4Oa7iLis0OBas68ls.jpg",
+      "title": "Killing Them Softly",
+      "year": 2012
+    },
+    "Dazed and Confused": {
+      "id": 9571,
+      "poster": "/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+      "title": "Dazed and Confused",
+      "year": 1993
+    },
+    "Die Hard 2": {
+      "id": 1573,
+      "poster": "/ybki0UWO3OPhaM6MSniuKC7sy1R.jpg",
+      "title": "Die Hard 2",
+      "year": 1990
+    },
+    "Aliens": {
+      "id": 679,
+      "poster": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "title": "Aliens",
+      "year": 1986
+    },
+    "Silence of the Lambs": {
+      "id": 274,
+      "poster": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+      "title": "The Silence of the Lambs",
+      "year": 1991
+    },
+    "The Thing": {
+      "id": 1091,
+      "poster": "/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+      "title": "The Thing",
+      "year": 1982
+    },
+    "The Thin Blue Line": {
+      "id": 14285,
+      "poster": "/4w4BJk3l8y9gYwPPLRs6uPHOmGL.jpg",
+      "title": "The Thin Blue Line",
+      "year": 1988
+    },
+    "Norma Rae": {
+      "id": 40842,
+      "poster": "/6au7WBVYoKhV1jORyFSIRszb46S.jpg",
+      "title": "Norma Rae",
+      "year": 1979
+    },
+    "RoboCop": {
+      "id": 5548,
+      "poster": "/esmAU0fCO28FbS6bUBKLAzJrohZ.jpg",
+      "title": "RoboCop",
+      "year": 1987
+    },
+    "Psycho II": {
+      "id": 10576,
+      "poster": "/sJAPRj3vHmjV4z97YK84iDovYlm.jpg",
+      "title": "Psycho II",
+      "year": 1983
+    },
+    "They'll Love Me When I'm Dead": {
+      "id": 538002,
+      "poster": "/h7YHg3BOEjlZSCJ41FBHyeQkoUG.jpg",
+      "title": "They'll Love Me When I'm Dead",
+      "year": 2018
+    },
+    "Won't You Be My Neighbor?": {
+      "id": 490003,
+      "poster": "/8qE8NZjiP2M884baH0VoLF828Vp.jpg",
+      "title": "Won't You Be My Neighbor?",
+      "year": 2018
+    },
+    "20 Feet from Stardom": {
+      "id": 159014,
+      "poster": "/6iRxKxfE6SB586cQV3BH8NSMzoZ.jpg",
+      "title": "20 Feet from Stardom",
+      "year": 2013
+    },
+    "Summer of Soul": {
+      "id": 776527,
+      "poster": "/8kNwhqUGvpzWJd60O1Qvb8G6psK.jpg",
+      "title": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
+      "year": 2021
+    }
+  }
+}

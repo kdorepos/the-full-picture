@@ -1,0 +1,317 @@
+{
+  "slug": "the-queens-gambit-small-axe-and-the-top-five-miniseries-of-2",
+  "title": "‘The Queen’s Gambit,’ ‘Small Axe,’ and the Top Five Miniseries of 2020",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2020-11-19",
+  "runtimeMin": 80,
+  "format": "Sean and Amanda put movies aside to talk The Queen's Gambit, Steve McQueen's Small Axe, and the best miniseries of 2020, then Aneesh Chaganty stops by to talk his new thriller Run.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Wonder Woman 1984 Jumps to HBO Max",
+      "note": "day-and-date release news",
+      "films": [
+        {
+          "title": "Wonder Woman 1984",
+          "year": 2020,
+          "note": "Announced for a same-day HBO Max and theatrical release on Christmas, the closest a mainstream blockbuster has come to a true day-and-date release."
+        },
+        {
+          "title": "Palm Springs",
+          "year": 2020,
+          "note": "One of the movies redirected to streaming this year that still found an audience."
+        },
+        {
+          "title": "Trolls World Tour",
+          "year": 2020,
+          "note": "As Sean puts it, this one “walked so Wonder Woman 1984 could run.”"
+        },
+        {
+          "title": "An American Pickle",
+          "year": 2020,
+          "note": "Another pandemic-era streaming redirect they mention in the same breath."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Mangrove and The Trial of the Chicago 7",
+      "note": "Steve McQueen's Small Axe vs. Aaron Sorkin's courtroom drama",
+      "films": [
+        {
+          "title": "Mangrove",
+          "year": 2020,
+          "note": "The first Small Axe installment. Amanda calls it one of the five best movies of the year, despite airing as a “TV show” on Amazon and the BBC."
+        },
+        {
+          "title": "The Trial of the Chicago 7",
+          "year": 2020,
+          "note": "Watched back-to-back with Mangrove by accident; both are courtroom dramas about activists on trial, but Sean argues Mangrove is the tougher, more purely cinematic film."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Aneesh Chaganty on Run",
+      "guest": "Aneesh Chaganty on",
+      "films": [
+        {
+          "title": "Run",
+          "year": 2020,
+          "note": "His new Hulu thriller, deliberately built as the opposite of Searching: a stripped-down two-hander about a mother, her daughter, and one very big secret."
+        },
+        {
+          "title": "Searching",
+          "year": 2018,
+          "note": "His breakout, shot entirely on computer screens. That's the reason he wanted to prove next he could make something with “no gimmick.”"
+        },
+        {
+          "title": "Shadow of a Doubt",
+          "year": 1943,
+          "note": "One of Sean's reference points for Run's Hitchcockian dread."
+        },
+        {
+          "title": "Rear Window",
+          "year": 1954,
+          "note": "Another Hitchcock touchstone Sean raises."
+        },
+        {
+          "title": "Misery",
+          "year": 1990,
+          "note": "Sits in Chaganty's Letterboxd top four. Run leans hard on its captor-in-the-house tension."
+        },
+        {
+          "title": "What Ever Happened to Baby Jane?",
+          "year": 1962,
+          "note": "A visual reference Chaganty cites, one he found only after the script was already written."
+        },
+        {
+          "title": "Psycho",
+          "year": 1960,
+          "note": "Named alongside Misery as a source for Run's Mrs. Bates-coded references."
+        },
+        {
+          "title": "Alien 3",
+          "year": 1992,
+          "note": "David Fincher's fraught studio debut, brought up as a parallel for a young director working with an unfamiliar crew."
+        },
+        {
+          "title": "Mank",
+          "year": 2020,
+          "note": "Mentioned in passing as the reason Fincher's Alien 3 years are back in conversation."
+        },
+        {
+          "title": "The Irishman",
+          "year": 2019,
+          "note": "Cited as a film that changed how audiences weigh a movie's “theatricality” after premiering at home."
+        },
+        {
+          "title": "Leave No Trace",
+          "year": 2018,
+          "note": "Chaganty's answer to the show's closing question. He admires how much drama it conveys without dialogue."
+        },
+        {
+          "title": "Columbus",
+          "year": 2017,
+          "note": "Chaganty compares Leave No Trace's quiet control to this film."
+        },
+        {
+          "title": "Dick Johnson Is Dead",
+          "year": 2020,
+          "note": "His other recent favorite. He calls its vulnerability something he's “not yet capable of.”"
+        },
+        {
+          "title": "Contagion",
+          "year": 2011,
+          "note": "Chaganty's pet Letterboxd grievance. He thinks its 3.6 average badly undersells it."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Also mentioned",
+      "films": [
+        "Lovers Rock",
+        "Red, White and Blue"
+      ]
+    },
+    {
+      "group": "Coming next week",
+      "films": [
+        "Hillbilly Elegy"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Alien 3": 8077,
+    "Mangrove": null,
+    "Lovers Rock": null,
+    "Red, White and Blue": null
+  },
+  "excluded": {
+    "TV": [
+      "The Queen's Gambit",
+      "The Undoing",
+      "The Haunting of Bly Manor",
+      "The Haunting of Hill House",
+      "Fargo",
+      "American Horror Story",
+      "The Twilight Zone",
+      "The Crown",
+      "The Vow",
+      "GLOW",
+      "Castle Rock",
+      "The Outsider",
+      "Tiger King",
+      "The Last Dance",
+      "Cheer",
+      "Hillary",
+      "The Reagans",
+      "Normal People",
+      "I May Destroy You",
+      "Devs",
+      "Unorthodox",
+      "Mrs. America",
+      "Godless"
+    ],
+    "Ads": [
+      "Netflix (FIFA World Cup Launch Edition)",
+      "Boar's Head",
+      "NOS Energy",
+      "Carvana",
+      "Uber",
+      "Shopify"
+    ]
+  },
+  "tmdb": {
+    "Wonder Woman 1984": {
+      "id": 464052,
+      "poster": "/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
+      "title": "Wonder Woman 1984",
+      "year": 2020
+    },
+    "Palm Springs": {
+      "id": 587792,
+      "poster": "/gnAfqiV7yO3Jq9IntTmwkcaICqc.jpg",
+      "title": "Palm Springs",
+      "year": 2020
+    },
+    "Trolls World Tour": {
+      "id": 446893,
+      "poster": "/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg",
+      "title": "Trolls World Tour",
+      "year": 2020
+    },
+    "An American Pickle": {
+      "id": 628917,
+      "poster": "/8ziUp2q71vCmMgYY2MRCwI3mSs5.jpg",
+      "title": "An American Pickle",
+      "year": 2020
+    },
+    "Mangrove": null,
+    "The Trial of the Chicago 7": {
+      "id": 556984,
+      "poster": "/ahf5cVdooMAlDRiJOZQNuLqa1Is.jpg",
+      "title": "The Trial of the Chicago 7",
+      "year": 2020
+    },
+    "Run": {
+      "id": 546121,
+      "poster": "/ilHG4EayOVoYeKqslspY3pR4wzC.jpg",
+      "title": "Run",
+      "year": 2020
+    },
+    "Searching": {
+      "id": 489999,
+      "poster": "/yuAPCsCGJGSxA7YOW4elF5JNrzK.jpg",
+      "title": "Searching",
+      "year": 2018
+    },
+    "Shadow of a Doubt": {
+      "id": 21734,
+      "poster": "/ptyWagbWE8jSGyV2tGEzAdVbRCj.jpg",
+      "title": "Shadow of a Doubt",
+      "year": 1943
+    },
+    "Rear Window": {
+      "id": 567,
+      "poster": "/ILVF0eJxHMddjxeQhswFtpMtqx.jpg",
+      "title": "Rear Window",
+      "year": 1954
+    },
+    "Misery": {
+      "id": 1700,
+      "poster": "/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg",
+      "title": "Misery",
+      "year": 1990
+    },
+    "What Ever Happened to Baby Jane?": {
+      "id": 10242,
+      "poster": "/msGYzyWwtjAaA3DScdgmvJ5MReG.jpg",
+      "title": "What Ever Happened to Baby Jane?",
+      "year": 1962
+    },
+    "Psycho": {
+      "id": 539,
+      "poster": "/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+      "title": "Psycho",
+      "year": 1960
+    },
+    "Alien 3": {
+      "id": 8077,
+      "poster": "/xh5wI0UoW7DfS1IyLy3d2CgrCEP.jpg",
+      "title": "Alien³",
+      "year": 1992
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Leave No Trace": {
+      "id": 443463,
+      "poster": "/sygnLx3sZV5P8M2dyaGRegHdEL1.jpg",
+      "title": "Leave No Trace",
+      "year": 2018
+    },
+    "Columbus": {
+      "id": 414453,
+      "poster": "/3ZE5Wl3CdfUH4BkWRmyMKPHkWHx.jpg",
+      "title": "Columbus",
+      "year": 2017
+    },
+    "Dick Johnson Is Dead": {
+      "id": 653574,
+      "poster": "/vnfI34kmi3fcdgP7HZjIgGOJHGY.jpg",
+      "title": "Dick Johnson Is Dead",
+      "year": 2020
+    },
+    "Contagion": {
+      "id": 39538,
+      "poster": "/qL0IooP0bjXy0KXl9KEyPo22ll0.jpg",
+      "title": "Contagion",
+      "year": 2011
+    },
+    "Lovers Rock": null,
+    "Red, White and Blue": null,
+    "Hillbilly Elegy": {
+      "id": 592984,
+      "poster": "/aA0D6DKIfLtXYNy94Qq2IW5NiGR.jpg",
+      "title": "Hillbilly Elegy",
+      "year": 2020
+    }
+  }
+}

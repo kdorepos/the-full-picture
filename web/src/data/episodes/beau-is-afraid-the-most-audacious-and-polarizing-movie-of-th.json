@@ -1,0 +1,366 @@
+{
+  "slug": "beau-is-afraid-the-most-audacious-and-polarizing-movie-of-th",
+  "title": "‘Beau Is Afraid’: The Most Audacious and Polarizing Movie of the Year, With Ari Aster!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Adam Nayman"
+  ],
+  "published": "2023-04-21",
+  "runtimeMin": 94,
+  "format": "Sean Fennessey and Adam Nayman work through Ari Aster's three-hour anxiety picaresque, then Aster joins to talk gag machines, Joaquin Phoenix, and the shot he never expected to get.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The most debated movie of the year",
+      "note": "Sean Fennessey and Adam Nayman",
+      "films": [
+        {
+          "title": "Beau Is Afraid",
+          "year": 2023,
+          "note": "Ari Aster's 179-minute Odyssey-shaped picaresque, Joaquin Phoenix's Beau dodging his way home to his mother. Nayman reads it as a parade of alienation effects that gets it from both sides; Fennessey found it his funniest and most imperfect Aster film, held back only by the CGI-heavy finale."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Ari Aster on",
+      "films": [
+        {
+          "title": "Beau Is Afraid",
+          "year": 2023,
+          "note": "Aster grew it from a 2011 apartment-shoot idea into an intuitively built world he calls a gag machine turned up on the dial, and says it feels more like him than anything he's made."
+        },
+        {
+          "title": "No Bears",
+          "year": 2022,
+          "note": "Aster's last-great pick is Jafar Panahi's film, which he calls magnificent and haunting and says has been nagging at him since December."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Aster's first two features",
+      "films": [
+        "Hereditary",
+        "Midsommar"
+      ]
+    },
+    {
+      "group": "Joaquin Phoenix on screen",
+      "films": [
+        "The Master",
+        "Joker",
+        "I'm Still Here",
+        "Two Lovers",
+        "Her",
+        "To Die For",
+        "The Immigrant",
+        "Napoleon"
+      ]
+    },
+    {
+      "group": "Comparisons and influences",
+      "films": [
+        "The Warriors",
+        "The Boss Baby",
+        "Barton Fink",
+        "A Serious Man",
+        "Heaven's Gate",
+        "Babylon",
+        "Possession",
+        "Dogville",
+        "Showgirls",
+        "Under the Silver Lake",
+        "mother!",
+        "The Empty Man",
+        "Eraserhead",
+        "E.T. the Extra-Terrestrial",
+        "The Discreet Charm of the Bourgeoisie",
+        "Viridiana",
+        "L'Age d'Or",
+        "Defending Your Life",
+        "Lost in America",
+        "The King of Comedy",
+        "After Hours",
+        "Playtime",
+        "The Wolf House"
+      ]
+    },
+    {
+      "group": "Also on the horizon",
+      "films": [
+        "The Northman",
+        "Barbie",
+        "Black Panther: Wakanda Forever",
+        "Blackberry",
+        "Oppenheimer"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "L'Age d'Or": 5729,
+    "The Wolf House": 499537
+  },
+  "excluded": {
+    "TV": [
+      "Barry",
+      "The Underground Railroad",
+      "Party Down",
+      "Prestige TV podcast"
+    ],
+    "Ads": [
+      "NOS Energy",
+      "Carvana",
+      "Whole Foods Market",
+      "Netflix / FIFA World Cup",
+      "FanDuel",
+      "Blinds.com"
+    ]
+  },
+  "tmdb": {
+    "Beau Is Afraid": {
+      "id": 798286,
+      "poster": "/wgVkkjigF31r1nZV80uV0xNIoun.jpg",
+      "title": "Beau Is Afraid",
+      "year": 2023
+    },
+    "No Bears": {
+      "id": 974521,
+      "poster": "/e2yKKrBYhZbwO1kEc1Meq2uaGso.jpg",
+      "title": "No Bears",
+      "year": 2022
+    },
+    "Hereditary": {
+      "id": 493922,
+      "poster": "/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+      "title": "Hereditary",
+      "year": 2018
+    },
+    "Midsommar": {
+      "id": 530385,
+      "poster": "/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+      "title": "Midsommar",
+      "year": 2019
+    },
+    "The Master": {
+      "id": 68722,
+      "poster": "/rUSjbyvYWN9H4az8xt0tDtU7I6v.jpg",
+      "title": "The Master",
+      "year": 2012
+    },
+    "Joker": {
+      "id": 475557,
+      "poster": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "title": "Joker",
+      "year": 2019
+    },
+    "I'm Still Here": {
+      "id": 43939,
+      "poster": "/h8c53OPv2miF6vzpVXQZX8jw1pJ.jpg",
+      "title": "I'm Still Here",
+      "year": 2010
+    },
+    "Two Lovers": {
+      "id": 10362,
+      "poster": "/skwYEUcxhUub9QCSwPDMvBySphS.jpg",
+      "title": "Two Lovers",
+      "year": 2008
+    },
+    "Her": {
+      "id": 152601,
+      "poster": "/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg",
+      "title": "Her",
+      "year": 2013
+    },
+    "To Die For": {
+      "id": 577,
+      "poster": "/whz4bwvqE1OmQHIyqHdZD8jU9CO.jpg",
+      "title": "To Die For",
+      "year": 1995
+    },
+    "The Immigrant": {
+      "id": 152599,
+      "poster": "/ArWRRQYeXL3nG4jYpMOPoBvgmy9.jpg",
+      "title": "The Immigrant",
+      "year": 2013
+    },
+    "Napoleon": {
+      "id": 753342,
+      "poster": "/ytFOXyghxLzAM4KZyazDdEkM66q.jpg",
+      "title": "Napoleon",
+      "year": 2023
+    },
+    "The Warriors": {
+      "id": 11474,
+      "poster": "/d6YZpBq4BhQr1K985J3CuL1cA8J.jpg",
+      "title": "The Warriors",
+      "year": 1979
+    },
+    "The Boss Baby": {
+      "id": 295693,
+      "poster": "/9MsQJKe4cUAGxc7R2NGaFQLqOPc.jpg",
+      "title": "The Boss Baby",
+      "year": 2017
+    },
+    "Barton Fink": {
+      "id": 290,
+      "poster": "/oDkp5iClJ9WKJGtKHz8BydodHC3.jpg",
+      "title": "Barton Fink",
+      "year": 1991
+    },
+    "A Serious Man": {
+      "id": 12573,
+      "poster": "/5gGxDS8WmrebPlMHexVS8EVehiP.jpg",
+      "title": "A Serious Man",
+      "year": 2009
+    },
+    "Heaven's Gate": {
+      "id": 10935,
+      "poster": "/kW4Vk31nhtKPKGuYMaVATq3wcHC.jpg",
+      "title": "Heaven's Gate",
+      "year": 1980
+    },
+    "Babylon": {
+      "id": 615777,
+      "poster": "/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+      "title": "Babylon",
+      "year": 2022
+    },
+    "Possession": {
+      "id": 21484,
+      "poster": "/A9bnRn05riOKWftvQlLKa2gl51n.jpg",
+      "title": "Possession",
+      "year": 1981
+    },
+    "Dogville": {
+      "id": 553,
+      "poster": "/lraVawavIXh5geMlVjpzCw9TGwR.jpg",
+      "title": "Dogville",
+      "year": 2003
+    },
+    "Showgirls": {
+      "id": 10802,
+      "poster": "/o4HT3Ap5c99W4FYpdXUtTvxGgPc.jpg",
+      "title": "Showgirls",
+      "year": 1995
+    },
+    "Under the Silver Lake": {
+      "id": 396461,
+      "poster": "/6sq6fOb02zjhguNpi5VOklq6Nj.jpg",
+      "title": "Under the Silver Lake",
+      "year": 2018
+    },
+    "mother!": {
+      "id": 381283,
+      "poster": "/fjny9chXPx69ln1LMJxbwi5yHMt.jpg",
+      "title": "mother!",
+      "year": 2017
+    },
+    "The Empty Man": {
+      "id": 516632,
+      "poster": "/8apzu9JFTUMtOpYkHk6LNPOs3pY.jpg",
+      "title": "The Empty Man",
+      "year": 2020
+    },
+    "Eraserhead": {
+      "id": 985,
+      "poster": "/mxveW3mGVc0DzLdOmtkZsgd7c3B.jpg",
+      "title": "Eraserhead",
+      "year": 1977
+    },
+    "E.T. the Extra-Terrestrial": {
+      "id": 601,
+      "poster": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+      "title": "E.T. the Extra-Terrestrial",
+      "year": 1982
+    },
+    "The Discreet Charm of the Bourgeoisie": {
+      "id": 4593,
+      "poster": "/zN4ILX2x64PvT2jIOAHXxCOi5WA.jpg",
+      "title": "The Discreet Charm of the Bourgeoisie",
+      "year": 1972
+    },
+    "Viridiana": {
+      "id": 4497,
+      "poster": "/mYPuSx5JwL8AdTwS1iQW4Un1cYP.jpg",
+      "title": "Viridiana",
+      "year": 1962
+    },
+    "L'Age d'Or": {
+      "id": 5729,
+      "poster": "/q3OH9Yk3hOE5uYEK55ASjEtsPfE.jpg",
+      "title": "L'Âge d'or",
+      "year": 1930
+    },
+    "Defending Your Life": {
+      "id": 12186,
+      "poster": "/flXJ4AnKYq8DH1f1TmQ4QrqSwsB.jpg",
+      "title": "Defending Your Life",
+      "year": 1991
+    },
+    "Lost in America": {
+      "id": 27223,
+      "poster": "/j7QiwUekGiYOmjKratNORIr35zg.jpg",
+      "title": "Lost in America",
+      "year": 1985
+    },
+    "The King of Comedy": {
+      "id": 262,
+      "poster": "/m24EbHxT9NGYEkOlu29YcLOgjgK.jpg",
+      "title": "The King of Comedy",
+      "year": 1982
+    },
+    "After Hours": {
+      "id": 10843,
+      "poster": "/eamOBurHBu0MIxohTIVcfxmZ6Z7.jpg",
+      "title": "After Hours",
+      "year": 1985
+    },
+    "Playtime": {
+      "id": 10227,
+      "poster": "/kQOrS0DLUXYsqPMedM2G6NJcJBq.jpg",
+      "title": "PlayTime",
+      "year": 1967
+    },
+    "The Wolf House": {
+      "id": 499537,
+      "poster": "/kvgch2e25cd6dWhRJ6G8BCJ1Wcq.jpg",
+      "title": "The Wolf House",
+      "year": 2018
+    },
+    "The Northman": {
+      "id": 639933,
+      "poster": "/aSSJMnHknzKjlZ6zybwD7eyJ4Po.jpg",
+      "title": "The Northman",
+      "year": 2022
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Black Panther: Wakanda Forever": {
+      "id": 505642,
+      "poster": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+      "title": "Black Panther: Wakanda Forever",
+      "year": 2022
+    },
+    "Blackberry": {
+      "id": 1016084,
+      "poster": "/ePWKQzOnwabMcJsWYWIiy5p1Ofr.jpg",
+      "title": "BlackBerry",
+      "year": 2023
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    }
+  }
+}

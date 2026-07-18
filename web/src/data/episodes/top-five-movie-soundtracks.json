@@ -1,0 +1,473 @@
+{
+  "slug": "top-five-movie-soundtracks",
+  "title": "Top Five Movie Soundtracks",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Rob Harvilla"
+  ],
+  "published": "2021-12-09",
+  "runtimeMin": 77,
+  "format": "Sean and Rob Harvilla argue about what actually makes a soundtrack great, then each run a five-deep countdown, before Sean talks to director John Maggio about his Robert Stigwood documentary Mr. Saturday Night.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "What makes a great soundtrack",
+      "note": "needle drops vs. standalone albums",
+      "films": [
+        {
+          "title": "Wayne's World",
+          "year": 1992,
+          "note": "Rob's favorite music-movie moment (Bohemian Rhapsody in the car), though he can't name another song from the soundtrack besides Crucial Taunt's Ballroom Blitz cover."
+        },
+        {
+          "title": "Ghostbusters",
+          "year": 1984,
+          "note": "The first soundtrack that ever hit Rob, via a cassette tape of Ray Parker Jr.'s title song when he was six."
+        },
+        {
+          "title": "The Breakfast Club",
+          "year": 1985,
+          "note": "Sean's example of the one-song-does-it-all soundtrack, via Don't You (Forget About Me)."
+        },
+        {
+          "title": "Ferris Bueller's Day Off",
+          "year": 1986,
+          "note": "Sean's platonic ideal: the art-museum scene set to an instrumental Smiths cover permanently rewrote the song for him."
+        },
+        {
+          "title": "The Royal Tenenbaums",
+          "year": 2001,
+          "note": "Rob on Gwyneth Paltrow's bus entrance to Nico's These Days recontextualizing a song he thought he already knew."
+        },
+        {
+          "title": "Juno",
+          "year": 2007,
+          "note": "Rob tears up every time at the hospital scene set to Cat Power's cover of Sea of Love."
+        },
+        {
+          "title": "Palm Springs",
+          "year": 2020,
+          "note": "Both hosts' favorite movie of 2020; Rob on John Cale's Barracuda landing like someone reading his mind."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Rob Harvilla's Top Five Movie Soundtracks",
+      "subject": "Movie soundtracks",
+      "ranked": false,
+      "films": [
+        {
+          "title": "Purple Rain",
+          "year": 1984,
+          "note": "No. 1. Rob's New Testament to the Harder They Come's Old Testament: Let's Go Crazy, When Doves Cry, Darling Nikki, staged in the film as a heel turn the crowd hates."
+        },
+        {
+          "title": "The Harder They Come",
+          "year": 1972,
+          "note": "No. 2. The reggae soundtrack's gateway drug, from Many Rivers to Cross to the title song; Rob thinks the record is better than the movie, and the movie is fine."
+        },
+        {
+          "title": "Once",
+          "year": 2007,
+          "note": "No. 3. The Irish busker film with Glen Hansard and Markéta Irglová; their Oscar winner Falling Slowly anchors a soundtrack Rob calls more human than Garden State's."
+        },
+        {
+          "title": "Waiting to Exhale",
+          "year": 1995,
+          "note": "No. 4. Babyface-orchestrated murderer's row of 90s R&B: Whitney Houston, Toni Braxton's Let It Flow, Mary J. Blige's Not Gon' Cry, Brandy, Aretha, Patti LaBelle. Rob picks it over The Bodyguard despite I Will Always Love You being the bigger song."
+        },
+        {
+          "title": "Angus",
+          "year": 1995,
+          "note": "No. 5. Rob's dark-horse pick: a scruffy pop-punk soundtrack (Green Day, Weezer's Say It Ain't So, Ash, the Psychedelic Furs' Richard Butler covering his own Am I Wrong under the band name Love Spit Love) for a small bully movie with James Van Der Beek's first credit, plus George C. Scott and, he says, Rita Moreno."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Sean Fennessey's Top Five Movie Soundtracks",
+      "subject": "Movie soundtracks",
+      "ranked": false,
+      "films": [
+        {
+          "title": "Super Fly",
+          "year": 1972,
+          "note": "No. 1. Curtis Mayfield's score-as-character album (Freddie's Dead, Give Me Your Love, Pusherman); Sean picked it before learning critic Greg Tate, who championed the film's Criterion release, had just died."
+        },
+        {
+          "title": "Goodfellas",
+          "year": 1990,
+          "note": "No. 2. Scorsese's needle drops (Rags to Riches by Tony Bennett, the Layla piano coda) chart the decades and shepherd Henry Hill's rise and fall."
+        },
+        {
+          "title": "Kill Bill: Vol. 1",
+          "year": 2003,
+          "note": "No. 3. Tarantino's most unusual soundtrack: almost entirely pre-existing film scores and TV themes, not pop songs, including the Green Hornet theme."
+        },
+        {
+          "title": "Kill Bill: Vol. 2",
+          "year": 2004,
+          "note": "No. 3 (paired with Vol. 1). Same collage approach, drawing on blaxploitation cues like Isaac Hayes's Truck Turner and spaghetti-western scores."
+        },
+        {
+          "title": "American Graffiti",
+          "year": 1973,
+          "note": "No. 4. George Lucas's teenage-cruising soundtrack of late-50s/early-60s pop; Sean calls it a clear influence on Licorice Pizza."
+        },
+        {
+          "title": "Juice",
+          "year": 1992,
+          "note": "No. 5. Ernest Dickerson's hip-hop soundtrack anchored by Eric B. & Rakim's title track and Cypress Hill's How I Could Just Kill a Man; Tupac Shakur (Bishop) doesn't appear on it because he wasn't signed to the label."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "John Maggio on Mr. Saturday Night",
+      "guest": "John Maggio on",
+      "films": [
+        {
+          "title": "Mr. Saturday Night",
+          "year": 2021,
+          "note": "Maggio's HBO documentary on Robert Stigwood, the manager and producer who paired the Bee Gees to Saturday Night Fever and helped invent the movie soundtrack. Built almost entirely from archival footage; no talking-head interviews."
+        },
+        {
+          "title": "Saturday Night Fever",
+          "year": 1977,
+          "note": "Stigwood's biggest gamble, made for a fraction of what it earned; Maggio calls it one of the darker American films once you look past the dance scenes."
+        },
+        {
+          "title": "Grease",
+          "year": 1978,
+          "note": "The other Stigwood-Travolta smash from the same run."
+        },
+        {
+          "title": "Jesus Christ Superstar",
+          "year": 1973,
+          "note": "One of the stage productions Stigwood turned into a film."
+        },
+        {
+          "title": "Tommy",
+          "year": 1975,
+          "note": "Another Stigwood stage-to-screen production, from his run managing the Who."
+        },
+        {
+          "title": "Sgt. Pepper's Lonely Hearts Club Band",
+          "year": 1978,
+          "note": "Stigwood's big swing that missed, mentioned as the gamble that didn't pay off."
+        },
+        {
+          "title": "Shaft",
+          "year": 1971,
+          "note": "Gordon Parks's biggest commercial hit, brought up because Maggio's prior documentary covered Parks and drew him toward this project."
+        },
+        {
+          "title": "Elvis",
+          "year": 2022,
+          "note": "The Baz Luhrmann film producer Kevin McCormick (a key interview source) was shooting with Tom Hanks in Australia when Hanks announced his COVID diagnosis."
+        },
+        {
+          "title": "Val",
+          "year": 2021,
+          "note": "Maggio's answer to the last-great-thing-he's-seen question: the Val Kilmer documentary, messy but affecting."
+        },
+        {
+          "title": "The Rescue",
+          "year": 2021,
+          "note": "Sean recommends it back to Maggio as the one to see next."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Named in passing",
+      "films": [
+        "Clueless",
+        "The Crow",
+        "Singles",
+        "Reality Bites",
+        "Garden State",
+        "The Bodyguard",
+        "Licorice Pizza",
+        "Jackie Brown",
+        "Once Upon a Time in Hollywood",
+        "Reservoir Dogs",
+        "Pulp Fiction",
+        "High School High",
+        "Friday",
+        "Above the Rim"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Homecoming"
+    ],
+    "Ads": [
+      "Plain English",
+      "FIFA World Cup Launch Edition"
+    ]
+  },
+  "tmdbOverrides": {
+    "Mr. Saturday Night": 890823
+  },
+  "tmdb": {
+    "Wayne's World": {
+      "id": 8872,
+      "poster": "/fHwZnFNWR7PaS9t5EBwTvGPeoYQ.jpg",
+      "title": "Wayne's World",
+      "year": 1992
+    },
+    "Ghostbusters": {
+      "id": 620,
+      "poster": "/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
+      "title": "Ghostbusters",
+      "year": 1984
+    },
+    "The Breakfast Club": {
+      "id": 2108,
+      "poster": "/gp4zlj7wgbiofLMNsTPndMuO3PN.jpg",
+      "title": "The Breakfast Club",
+      "year": 1985
+    },
+    "Ferris Bueller's Day Off": {
+      "id": 9377,
+      "poster": "/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg",
+      "title": "Ferris Bueller's Day Off",
+      "year": 1986
+    },
+    "The Royal Tenenbaums": {
+      "id": 9428,
+      "poster": "/nG7hZJn7wQTSDCQT39Gy3s3tbrp.jpg",
+      "title": "The Royal Tenenbaums",
+      "year": 2001
+    },
+    "Juno": {
+      "id": 7326,
+      "poster": "/jNIn2tVhpvFD6P9IojldI3mNYcn.jpg",
+      "title": "Juno",
+      "year": 2007
+    },
+    "Palm Springs": {
+      "id": 587792,
+      "poster": "/gnAfqiV7yO3Jq9IntTmwkcaICqc.jpg",
+      "title": "Palm Springs",
+      "year": 2020
+    },
+    "Purple Rain": {
+      "id": 13763,
+      "poster": "/vkQmzaSuDj8QyXmwNhCceCAmwUe.jpg",
+      "title": "Purple Rain",
+      "year": 1984
+    },
+    "The Harder They Come": {
+      "id": 7514,
+      "poster": "/nXcWgfds0E8T2pQLvgWLCiUmlV6.jpg",
+      "title": "The Harder They Come",
+      "year": 1972
+    },
+    "Once": {
+      "id": 5723,
+      "poster": "/7nW363kSYRCkr4VGOMvuSGwtzKs.jpg",
+      "title": "Once",
+      "year": 2007
+    },
+    "Waiting to Exhale": {
+      "id": 31357,
+      "poster": "/4wjGMwPsdlvi025ZqR4rXnFDvBz.jpg",
+      "title": "Waiting to Exhale",
+      "year": 1995
+    },
+    "Angus": {
+      "id": 25969,
+      "poster": "/x1Py4TB8Y0Wx9IZ62derpSDqwjd.jpg",
+      "title": "Angus",
+      "year": 1995
+    },
+    "Super Fly": {
+      "id": 21968,
+      "poster": "/lCj4IZ9l8NfOEiM4zHq3BRF2LzX.jpg",
+      "title": "Super Fly",
+      "year": 1972
+    },
+    "Goodfellas": {
+      "id": 769,
+      "poster": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+      "title": "GoodFellas",
+      "year": 1990
+    },
+    "Kill Bill: Vol. 1": {
+      "id": 24,
+      "poster": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+      "title": "Kill Bill: Vol. 1",
+      "year": 2003
+    },
+    "Kill Bill: Vol. 2": {
+      "id": 393,
+      "poster": "/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
+      "title": "Kill Bill: Vol. 2",
+      "year": 2004
+    },
+    "American Graffiti": {
+      "id": 838,
+      "poster": "/1tjLivPad2PX8FAzWko7FPIb8d2.jpg",
+      "title": "American Graffiti",
+      "year": 1973
+    },
+    "Juice": {
+      "id": 16136,
+      "poster": "/hfXFPMhNjLnCugBHMN0nrtKW7Ra.jpg",
+      "title": "Juice",
+      "year": 1992
+    },
+    "Mr. Saturday Night": {
+      "id": 890823,
+      "poster": "/e5bLLcoTbZLgzMHFizVS7y3Hwdn.jpg",
+      "title": "Mr. Saturday Night",
+      "year": 2021
+    },
+    "Saturday Night Fever": {
+      "id": 11009,
+      "poster": "/ylA7E5Md21aqgzxbwa2dFxX8LKV.jpg",
+      "title": "Saturday Night Fever",
+      "year": 1977
+    },
+    "Grease": {
+      "id": 621,
+      "poster": "/2rM7fQKpb7cs1Iq7IBqub9LFDzJ.jpg",
+      "title": "Grease",
+      "year": 1978
+    },
+    "Jesus Christ Superstar": {
+      "id": 12545,
+      "poster": "/2NQgIjHxYyMJZWeUFH5cuKhN4nh.jpg",
+      "title": "Jesus Christ Superstar",
+      "year": 1973
+    },
+    "Tommy": {
+      "id": 11326,
+      "poster": "/pAImVnqBJwoFAKrcpAe17JjLGUs.jpg",
+      "title": "Tommy",
+      "year": 1975
+    },
+    "Sgt. Pepper's Lonely Hearts Club Band": {
+      "id": 36759,
+      "poster": "/Ben7ogJNNjWhzwVeo7LZYgiHPH.jpg",
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "year": 1978
+    },
+    "Shaft": {
+      "id": 482,
+      "poster": "/yJChPuu2V339IiDPQDHeIh1SYpA.jpg",
+      "title": "Shaft",
+      "year": 1971
+    },
+    "Elvis": {
+      "id": 614934,
+      "poster": "/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg",
+      "title": "Elvis",
+      "year": 2022
+    },
+    "Val": {
+      "id": 834027,
+      "poster": "/vWJKmfmjpkFeTbUGep6t7w5TexA.jpg",
+      "title": "Val",
+      "year": 2021
+    },
+    "The Rescue": {
+      "id": 680058,
+      "poster": "/kC7fVtCkJACwPBaRr2hlj2whfKX.jpg",
+      "title": "The Rescue",
+      "year": 2021
+    },
+    "Clueless": {
+      "id": 9603,
+      "poster": "/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",
+      "title": "Clueless",
+      "year": 1995
+    },
+    "The Crow": {
+      "id": 9495,
+      "poster": "/rMMB3v6jYHjsvXRNJYESacoTD7j.jpg",
+      "title": "The Crow",
+      "year": 1994
+    },
+    "Singles": {
+      "id": 200836,
+      "poster": "/1qFZhxM7OMdKdD18bxim5xMFJyc.jpg",
+      "title": "Singles",
+      "year": 2003
+    },
+    "Reality Bites": {
+      "id": 2788,
+      "poster": "/qGDhodtpkpxkrFqokenGNJlzt6w.jpg",
+      "title": "Reality Bites",
+      "year": 1994
+    },
+    "Garden State": {
+      "id": 401,
+      "poster": "/h3iqYiGS6F3y7GxaS4AT8nFxZ2i.jpg",
+      "title": "Garden State",
+      "year": 2004
+    },
+    "The Bodyguard": {
+      "id": 619,
+      "poster": "/ihWF0uY1xnKqw9YK7ZHNLUZOhcO.jpg",
+      "title": "The Bodyguard",
+      "year": 1992
+    },
+    "Licorice Pizza": {
+      "id": 718032,
+      "poster": "/ivXtvzfliGvoJ1DhSHIGyYBToWe.jpg",
+      "title": "Licorice Pizza",
+      "year": 2021
+    },
+    "Jackie Brown": {
+      "id": 184,
+      "poster": "/rOUx7qg4KmEh1juEDwqzbDSL1Nr.jpg",
+      "title": "Jackie Brown",
+      "year": 1997
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Reservoir Dogs": {
+      "id": 500,
+      "poster": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+      "title": "Reservoir Dogs",
+      "year": 1992
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "High School High": {
+      "id": 9308,
+      "poster": "/rVaKt2stFzTfae2VEuTz3hlF3yC.jpg",
+      "title": "High School High",
+      "year": 1996
+    },
+    "Friday": {
+      "id": 10634,
+      "poster": "/3Ya1RurP2NqaYoiok4DmfO41rCC.jpg",
+      "title": "Friday",
+      "year": 1995
+    },
+    "Above the Rim": {
+      "id": 19092,
+      "poster": "/56NFHuZXdgZbVxvCyYw92E5uLQa.jpg",
+      "title": "Above the Rim",
+      "year": 1994
+    }
+  },
+  "spotifyEpisodeId": "59D4Z7domRJ7h3iOquGF3F"
+}

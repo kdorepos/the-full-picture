@@ -1,0 +1,984 @@
+{
+  "slug": "10-fearless-golden-globes-predictions-and-the-magic-of-minar",
+  "title": "10 Fearless Golden Globes Predictions and the Magic of ‘Minari’",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2021-02-25",
+  "runtimeMin": 100,
+  "format": "Sean and Amanda pick every 2021 Golden Globes category, working off the LA Times reporting on the HFPA, then Sean talks to Lee Isaac Chung about writing and making ‘Minari’.",
+  "segments": [
+    {
+      "kind": "awards",
+      "heading": "Golden Globes Predictions",
+      "note": "their picks, category by category — consensus marked",
+      "ceremony": "78th Golden Globe Awards",
+      "categories": [
+        {
+          "name": "Best Original Song",
+          "predicted": "One Night in Miami",
+          "nominees": [
+            {
+              "title": "One Night in Miami",
+              "year": 2020,
+              "person": "‘Speak Now’"
+            },
+            {
+              "title": "The Trial of the Chicago 7",
+              "year": 2020,
+              "person": "‘Hear My Voice’"
+            },
+            {
+              "title": "Judas and the Black Messiah",
+              "year": 2021,
+              "person": "‘Fight for You’"
+            },
+            {
+              "title": "The Life Ahead",
+              "year": 2020,
+              "person": "‘Io Sì (Seen)’"
+            },
+            {
+              "title": "The United States vs. Billie Holiday",
+              "year": 2021,
+              "person": "‘Tigress & Tweed’"
+            }
+          ]
+        },
+        {
+          "name": "Best Original Score",
+          "predicted": "Soul",
+          "nominees": [
+            {
+              "title": "Soul",
+              "year": 2020,
+              "person": "Trent Reznor & Atticus Ross"
+            },
+            {
+              "title": "Mank",
+              "year": 2020,
+              "person": "Trent Reznor & Atticus Ross"
+            },
+            {
+              "title": "Tenet",
+              "year": 2020,
+              "person": "Ludwig Göransson"
+            },
+            {
+              "title": "The Midnight Sky",
+              "year": 2020,
+              "person": "Alexandre Desplat"
+            },
+            {
+              "title": "News of the World",
+              "year": 2020,
+              "person": "James Newton Howard"
+            }
+          ]
+        },
+        {
+          "name": "Best Motion Picture — Foreign Language",
+          "predicted": "Minari",
+          "nominees": [
+            {
+              "title": "Minari",
+              "year": 2020,
+              "note": "American production shunted here for its Korean dialogue. It's the pick because it's the most-seen of the five, and because of the eligibility flap."
+            },
+            {
+              "title": "Another Round",
+              "year": 2020
+            },
+            {
+              "title": "La Llorona",
+              "year": 2019
+            },
+            {
+              "title": "The Life Ahead",
+              "year": 2020
+            },
+            {
+              "title": "Two of Us",
+              "year": 2019
+            }
+          ]
+        },
+        {
+          "name": "Best Motion Picture — Animated",
+          "predicted": "Soul",
+          "nominees": [
+            {
+              "title": "Soul",
+              "year": 2020
+            },
+            {
+              "title": "The Croods: A New Age",
+              "year": 2020
+            },
+            {
+              "title": "Onward",
+              "year": 2020
+            },
+            {
+              "title": "Over the Moon",
+              "year": 2020
+            },
+            {
+              "title": "Wolfwalkers",
+              "year": 2020,
+              "note": "Sean's dark horse: a hand-drawn Apple TV+ film that could sneak in the way ‘Missing Link’ did last year."
+            }
+          ]
+        },
+        {
+          "name": "Best Screenplay",
+          "note": "split — Sean took Sorkin, Amanda took Fennell",
+          "nominees": [
+            {
+              "title": "The Trial of the Chicago 7",
+              "year": 2020,
+              "person": "Aaron Sorkin"
+            },
+            {
+              "title": "Promising Young Woman",
+              "year": 2020,
+              "person": "Emerald Fennell"
+            },
+            {
+              "title": "Mank",
+              "year": 2020,
+              "person": "Jack Fincher"
+            },
+            {
+              "title": "The Father",
+              "year": 2020,
+              "person": "Christopher Hampton & Florian Zeller"
+            },
+            {
+              "title": "Nomadland",
+              "year": 2020,
+              "person": "Chloé Zhao"
+            }
+          ]
+        },
+        {
+          "name": "Best Supporting Actor",
+          "predicted": "Judas and the Black Messiah",
+          "nominees": [
+            {
+              "title": "Judas and the Black Messiah",
+              "year": 2021,
+              "person": "Daniel Kaluuya"
+            },
+            {
+              "title": "The Trial of the Chicago 7",
+              "year": 2020,
+              "person": "Sacha Baron Cohen"
+            },
+            {
+              "title": "The Little Things",
+              "year": 2021,
+              "person": "Jared Leto"
+            },
+            {
+              "title": "On the Rocks",
+              "year": 2020,
+              "person": "Bill Murray"
+            },
+            {
+              "title": "One Night in Miami",
+              "year": 2020,
+              "person": "Leslie Odom Jr."
+            }
+          ]
+        },
+        {
+          "name": "Best Supporting Actress",
+          "note": "split — Sean took Colman, Amanda took Seyfried",
+          "nominees": [
+            {
+              "title": "The Father",
+              "year": 2020,
+              "person": "Olivia Colman"
+            },
+            {
+              "title": "Mank",
+              "year": 2020,
+              "person": "Amanda Seyfried"
+            },
+            {
+              "title": "Hillbilly Elegy",
+              "year": 2020,
+              "person": "Glenn Close"
+            },
+            {
+              "title": "The Mauritanian",
+              "year": 2021,
+              "person": "Jodie Foster"
+            },
+            {
+              "title": "News of the World",
+              "year": 2020,
+              "person": "Helena Zengel"
+            }
+          ]
+        },
+        {
+          "name": "Best Actor — Musical or Comedy",
+          "predicted": "Borat Subsequent Moviefilm",
+          "nominees": [
+            {
+              "title": "Borat Subsequent Moviefilm",
+              "year": 2020,
+              "person": "Sacha Baron Cohen"
+            },
+            {
+              "title": "The Prom",
+              "year": 2020,
+              "person": "James Corden"
+            },
+            {
+              "title": "Hamilton",
+              "year": 2020,
+              "person": "Lin-Manuel Miranda"
+            },
+            {
+              "title": "The Personal History of David Copperfield",
+              "year": 2019,
+              "person": "Dev Patel"
+            },
+            {
+              "title": "Palm Springs",
+              "year": 2020,
+              "person": "Andy Samberg"
+            }
+          ]
+        },
+        {
+          "name": "Best Actress — Musical or Comedy",
+          "note": "split — Sean took Bakalova, Amanda took Pike",
+          "nominees": [
+            {
+              "title": "Borat Subsequent Moviefilm",
+              "year": 2020,
+              "person": "Maria Bakalova"
+            },
+            {
+              "title": "I Care a Lot",
+              "year": 2020,
+              "person": "Rosamund Pike"
+            },
+            {
+              "title": "Music",
+              "year": 2021,
+              "person": "Kate Hudson"
+            },
+            {
+              "title": "French Exit",
+              "year": 2020,
+              "person": "Michelle Pfeiffer"
+            },
+            {
+              "title": "Emma.",
+              "year": 2020,
+              "person": "Anya Taylor-Joy"
+            }
+          ]
+        },
+        {
+          "name": "Best Actor — Drama",
+          "predicted": "Ma Rainey's Black Bottom",
+          "nominees": [
+            {
+              "title": "Ma Rainey's Black Bottom",
+              "year": 2020,
+              "person": "Chadwick Boseman",
+              "note": "The clean, worthy posthumous favorite. An upset here is the kind of result they said could get the Globes ‘stripped for parts’."
+            },
+            {
+              "title": "Sound of Metal",
+              "year": 2019,
+              "person": "Riz Ahmed"
+            },
+            {
+              "title": "The Father",
+              "year": 2020,
+              "person": "Anthony Hopkins"
+            },
+            {
+              "title": "Mank",
+              "year": 2020,
+              "person": "Gary Oldman"
+            },
+            {
+              "title": "The Mauritanian",
+              "year": 2021,
+              "person": "Tahar Rahim"
+            }
+          ]
+        },
+        {
+          "name": "Best Actress — Drama",
+          "note": "split — Frances McDormand vs. Carey Mulligan",
+          "nominees": [
+            {
+              "title": "Nomadland",
+              "year": 2020,
+              "person": "Frances McDormand"
+            },
+            {
+              "title": "Promising Young Woman",
+              "year": 2020,
+              "person": "Carey Mulligan"
+            },
+            {
+              "title": "Pieces of a Woman",
+              "year": 2020,
+              "person": "Vanessa Kirby"
+            },
+            {
+              "title": "Ma Rainey's Black Bottom",
+              "year": 2020,
+              "person": "Viola Davis"
+            },
+            {
+              "title": "The United States vs. Billie Holiday",
+              "year": 2021,
+              "person": "Andra Day"
+            }
+          ]
+        },
+        {
+          "name": "Best Director",
+          "predicted": "Nomadland",
+          "nominees": [
+            {
+              "title": "Nomadland",
+              "year": 2020,
+              "person": "Chloé Zhao"
+            },
+            {
+              "title": "Promising Young Woman",
+              "year": 2020,
+              "person": "Emerald Fennell"
+            },
+            {
+              "title": "Mank",
+              "year": 2020,
+              "person": "David Fincher"
+            },
+            {
+              "title": "One Night in Miami",
+              "year": 2020,
+              "person": "Regina King"
+            },
+            {
+              "title": "The Trial of the Chicago 7",
+              "year": 2020,
+              "person": "Aaron Sorkin"
+            }
+          ]
+        },
+        {
+          "name": "Best Motion Picture — Musical or Comedy",
+          "predicted": "Hamilton",
+          "nominees": [
+            {
+              "title": "Hamilton",
+              "year": 2020,
+              "note": "Both expect it to win, and both hate that: a filmed stage show, Sean's words, ‘not a movie’."
+            },
+            {
+              "title": "Borat Subsequent Moviefilm",
+              "year": 2020
+            },
+            {
+              "title": "Music",
+              "year": 2021
+            },
+            {
+              "title": "Palm Springs",
+              "year": 2020
+            },
+            {
+              "title": "The Prom",
+              "year": 2020
+            }
+          ]
+        },
+        {
+          "name": "Best Motion Picture — Drama",
+          "predicted": "The Trial of the Chicago 7",
+          "nominees": [
+            {
+              "title": "The Trial of the Chicago 7",
+              "year": 2020
+            },
+            {
+              "title": "The Father",
+              "year": 2020
+            },
+            {
+              "title": "Mank",
+              "year": 2020
+            },
+            {
+              "title": "Nomadland",
+              "year": 2020
+            },
+            {
+              "title": "Promising Young Woman",
+              "year": 2020
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Lee Isaac Chung on ‘Minari’",
+      "guest": "Lee Isaac Chung on",
+      "films": [
+        {
+          "title": "Minari",
+          "year": 2020,
+          "note": "Written on borrowed time before a teaching job in Korea; Chung built it from a list of memories sorted into character columns in Excel, then rewrote it around Steven Yeun once he came aboard."
+        },
+        {
+          "title": "A.I. Artificial Intelligence",
+          "year": 2001,
+          "note": "Part of the 2000-2010 Spielberg run he rewatched in quarantine. He calls it underrated, ‘a masterpiece.’"
+        },
+        {
+          "title": "Minority Report",
+          "year": 2002,
+          "note": "Named among the Spielberg films he returned to."
+        },
+        {
+          "title": "War of the Worlds",
+          "year": 2005,
+          "note": "Rewatched alongside ‘Minority Report’; the fun-in-theaters feeling he wants to chase in his own work."
+        },
+        {
+          "title": "Catch Me If You Can",
+          "year": 2002,
+          "note": "The last title he cites in the Spielberg recommendation."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In the interview",
+      "films": [
+        "The Last Black Man in San Francisco",
+        "Moonlight"
+      ]
+    },
+    {
+      "group": "Globes best-drama history",
+      "films": [
+        "Argo",
+        "12 Years a Slave",
+        "1917",
+        "Parasite",
+        "Three Billboards Outside Ebbing, Missouri",
+        "The Shape of Water"
+      ]
+    },
+    {
+      "group": "Animated-category history",
+      "films": [
+        "The Adventures of Tintin",
+        "Missing Link",
+        "Toy Story 4",
+        "The Lion King",
+        "How to Train Your Dragon: The Hidden World",
+        "Frozen II"
+      ]
+    },
+    {
+      "group": "Screenplay precedent",
+      "films": [
+        "Green Book",
+        "Bohemian Rhapsody",
+        "Darkest Hour"
+      ]
+    },
+    {
+      "group": "The 2009 musical-or-comedy field",
+      "films": [
+        "Nine",
+        "Julie & Julia",
+        "(500) Days of Summer",
+        "The Hangover",
+        "It's Complicated"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Get Out",
+        "A Private War",
+        "Predator",
+        "Eternals",
+        "A Quiet Place Part II",
+        "Top Gun: Maverick",
+        "Zack Snyder's Justice League"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Emily in Paris",
+      "I May Destroy You",
+      "The Crown",
+      "The Last Dance"
+    ],
+    "Stage": [
+      "Miss Saigon"
+    ],
+    "Games": [
+      "EA Sports FC / FIFA World Cup (Netflix)"
+    ],
+    "Ads": [
+      "Tremfya",
+      "NOS Energy",
+      "Boar's Head",
+      "Carvana",
+      "FanDuel"
+    ]
+  },
+  "tmdbOverrides": {
+    "Borat Subsequent Moviefilm": 740985,
+    "Hamilton": 556574,
+    "Two of Us": 621744,
+    "Emma.": 556678,
+    "Nine": 10197
+  },
+  "tmdb": {
+    "One Night in Miami": {
+      "id": 661914,
+      "poster": "/1DLUb9PTDqXMSgsD7RmiJs7ZJIx.jpg",
+      "title": "One Night in Miami...",
+      "year": 2020
+    },
+    "The Trial of the Chicago 7": {
+      "id": 556984,
+      "poster": "/ahf5cVdooMAlDRiJOZQNuLqa1Is.jpg",
+      "title": "The Trial of the Chicago 7",
+      "year": 2020
+    },
+    "Judas and the Black Messiah": {
+      "id": 583406,
+      "poster": "/iIgr75GoqFxe1X5Wz9siOODGe9u.jpg",
+      "title": "Judas and the Black Messiah",
+      "year": 2021
+    },
+    "The Life Ahead": {
+      "id": 667869,
+      "poster": "/6oTn5kXRS84exXTC7XcqotKZu9B.jpg",
+      "title": "The Life Ahead",
+      "year": 2020
+    },
+    "The United States vs. Billie Holiday": {
+      "id": 566076,
+      "poster": "/vEzkxuE2sJcmHYjXQHM8xvR9ICH.jpg",
+      "title": "The United States vs. Billie Holiday",
+      "year": 2021
+    },
+    "Soul": {
+      "id": 508442,
+      "poster": "/6jmppcaubzLF8wkXM36ganVISCo.jpg",
+      "title": "Soul",
+      "year": 2020
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "The Midnight Sky": {
+      "id": 614911,
+      "poster": "/l8lXesOLXKS0VYjzWNZN6gDxv2F.jpg",
+      "title": "The Midnight Sky",
+      "year": 2020
+    },
+    "News of the World": {
+      "id": 581032,
+      "poster": "/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+      "title": "News of the World",
+      "year": 2020
+    },
+    "Minari": {
+      "id": 615643,
+      "poster": "/6mPNdmjdbVKPITv3LLCmQoKs9Zw.jpg",
+      "title": "Minari",
+      "year": 2021
+    },
+    "Another Round": {
+      "id": 580175,
+      "poster": "/aDcIt4NHURLKnAEu7gow51Yd00Q.jpg",
+      "title": "Another Round",
+      "year": 2020
+    },
+    "La Llorona": {
+      "id": 617708,
+      "poster": "/n2O3cSuxSKlnCiEXI2CB5auXA2G.jpg",
+      "title": "La Llorona",
+      "year": 2019
+    },
+    "Two of Us": {
+      "id": 621744,
+      "poster": "/itPHi7V84mUOYuvD3t0QK2oWfVP.jpg",
+      "title": "Two of Us",
+      "year": 2020
+    },
+    "The Croods: A New Age": {
+      "id": 529203,
+      "poster": "/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg",
+      "title": "The Croods: A New Age",
+      "year": 2020
+    },
+    "Onward": {
+      "id": 508439,
+      "poster": "/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg",
+      "title": "Onward",
+      "year": 2020
+    },
+    "Over the Moon": {
+      "id": 560050,
+      "poster": "/lG0TF0wj1n9p9CPy5xlIUIkF56a.jpg",
+      "title": "Over the Moon",
+      "year": 2020
+    },
+    "Wolfwalkers": {
+      "id": 441130,
+      "poster": "/vqGiNbdc2sDwsnivMMYzwAoSSu6.jpg",
+      "title": "Wolfwalkers",
+      "year": 2020
+    },
+    "Promising Young Woman": {
+      "id": 582014,
+      "poster": "/73QoFJFmUrJfDG2EynFjNc5gJxk.jpg",
+      "title": "Promising Young Woman",
+      "year": 2020
+    },
+    "The Father": {
+      "id": 600354,
+      "poster": "/pr3bEQ517uMb5loLvjFQi8uLAsp.jpg",
+      "title": "The Father",
+      "year": 2020
+    },
+    "Nomadland": {
+      "id": 581734,
+      "poster": "/8Vc5EOUEIF1EUXuX9eLFf7BvN3P.jpg",
+      "title": "Nomadland",
+      "year": 2021
+    },
+    "The Little Things": {
+      "id": 602269,
+      "poster": "/tLO1aD1ghdtVMT32z2sRmzgYKYd.jpg",
+      "title": "The Little Things",
+      "year": 2021
+    },
+    "On the Rocks": {
+      "id": 575417,
+      "poster": "/fcijRCmB7yTtloh4Pumy9b1rkwU.jpg",
+      "title": "On the Rocks",
+      "year": 2020
+    },
+    "Hillbilly Elegy": {
+      "id": 592984,
+      "poster": "/aA0D6DKIfLtXYNy94Qq2IW5NiGR.jpg",
+      "title": "Hillbilly Elegy",
+      "year": 2020
+    },
+    "The Mauritanian": {
+      "id": 644583,
+      "poster": "/lIADEa6oH74uUapjsPbNRzxus8M.jpg",
+      "title": "The Mauritanian",
+      "year": 2021
+    },
+    "Borat Subsequent Moviefilm": {
+      "id": 740985,
+      "poster": "/3L1Ml5RWjFVfVq3rQENvgFymT0U.jpg",
+      "title": "Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan",
+      "year": 2020
+    },
+    "The Prom": {
+      "id": 611213,
+      "poster": "/9oHvqd1QL5kaqt6zmCuDmM8esjV.jpg",
+      "title": "The Prom",
+      "year": 2020
+    },
+    "Hamilton": {
+      "id": 556574,
+      "poster": "/h1B7tW0t399VDjAcWJh8m87469b.jpg",
+      "title": "Hamilton",
+      "year": 2025
+    },
+    "The Personal History of David Copperfield": {
+      "id": 520900,
+      "poster": "/2epgo9k2Jrs7qrTL1Rork1mDSKT.jpg",
+      "title": "The Personal History of David Copperfield",
+      "year": 2019
+    },
+    "Palm Springs": {
+      "id": 587792,
+      "poster": "/gnAfqiV7yO3Jq9IntTmwkcaICqc.jpg",
+      "title": "Palm Springs",
+      "year": 2020
+    },
+    "I Care a Lot": {
+      "id": 601666,
+      "poster": "/gKnhEsjNefpKnUdAkn7INzIFLSu.jpg",
+      "title": "I Care a Lot",
+      "year": 2021
+    },
+    "Music": {
+      "id": 586101,
+      "poster": "/xzDXq7ofNkvIovB6Vb8KZpjqkK0.jpg",
+      "title": "Music",
+      "year": 2021
+    },
+    "French Exit": {
+      "id": 599960,
+      "poster": "/l5iZuQr62YCs72AZ9P3HwApowaC.jpg",
+      "title": "French Exit",
+      "year": 2021
+    },
+    "Emma.": {
+      "id": 556678,
+      "poster": "/uHpHzbHLSsVmAuuGuQSpyVDZmDc.jpg",
+      "title": "Emma.",
+      "year": 2020
+    },
+    "Ma Rainey's Black Bottom": {
+      "id": 615667,
+      "poster": "/pvtyxijaBrCSbByXLcUIDDSvc40.jpg",
+      "title": "Ma Rainey's Black Bottom",
+      "year": 2020
+    },
+    "Sound of Metal": {
+      "id": 502033,
+      "poster": "/3178oOJKKPDeQ2legWQvMPpllv.jpg",
+      "title": "Sound of Metal",
+      "year": 2020
+    },
+    "Pieces of a Woman": {
+      "id": 641662,
+      "poster": "/OgUfLlhfBFx5BPK6LzBWFvBW1w.jpg",
+      "title": "Pieces of a Woman",
+      "year": 2020
+    },
+    "A.I. Artificial Intelligence": {
+      "id": 644,
+      "poster": "/8MZSGX5JORoO72EfuAEcejH5yHn.jpg",
+      "title": "A.I. Artificial Intelligence",
+      "year": 2001
+    },
+    "Minority Report": {
+      "id": 180,
+      "poster": "/ccqpHq5tk5W4ymbSbuoy4uYOxFI.jpg",
+      "title": "Minority Report",
+      "year": 2002
+    },
+    "War of the Worlds": {
+      "id": 74,
+      "poster": "/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
+      "title": "War of the Worlds",
+      "year": 2005
+    },
+    "Catch Me If You Can": {
+      "id": 640,
+      "poster": "/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+      "title": "Catch Me If You Can",
+      "year": 2002
+    },
+    "The Last Black Man in San Francisco": {
+      "id": 522039,
+      "poster": "/ow9zjibNrz5TYVZ6cqwmvCR1YX1.jpg",
+      "title": "The Last Black Man in San Francisco",
+      "year": 2019
+    },
+    "Moonlight": {
+      "id": 376867,
+      "poster": "/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+      "title": "Moonlight",
+      "year": 2016
+    },
+    "Argo": {
+      "id": 68734,
+      "poster": "/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
+      "title": "Argo",
+      "year": 2012
+    },
+    "12 Years a Slave": {
+      "id": 76203,
+      "poster": "/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+      "title": "12 Years a Slave",
+      "year": 2013
+    },
+    "1917": {
+      "id": 530915,
+      "poster": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+      "title": "1917",
+      "year": 2019
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Three Billboards Outside Ebbing, Missouri": {
+      "id": 359940,
+      "poster": "/bRYLt8fV82tdVoDppSFTZIcJiLN.jpg",
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "year": 2017
+    },
+    "The Shape of Water": {
+      "id": 399055,
+      "poster": "/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg",
+      "title": "The Shape of Water",
+      "year": 2017
+    },
+    "The Adventures of Tintin": {
+      "id": 17578,
+      "poster": "/fQZ3sLR1Fi63NMsNRbjm9q5qODJ.jpg",
+      "title": "The Adventures of Tintin",
+      "year": 2011
+    },
+    "Missing Link": {
+      "id": 458253,
+      "poster": "/bqQ38oKuROlAgyZcRII9tqtoPNi.jpg",
+      "title": "Missing Link",
+      "year": 2019
+    },
+    "Toy Story 4": {
+      "id": 301528,
+      "poster": "/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+      "title": "Toy Story 4",
+      "year": 2019
+    },
+    "The Lion King": {
+      "id": 8587,
+      "poster": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+      "title": "The Lion King",
+      "year": 1994
+    },
+    "How to Train Your Dragon: The Hidden World": {
+      "id": 166428,
+      "poster": "/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg",
+      "title": "How to Train Your Dragon: The Hidden World",
+      "year": 2019
+    },
+    "Frozen II": {
+      "id": 330457,
+      "poster": "/mINJaa34MtknCYl5AjtNJzWj8cD.jpg",
+      "title": "Frozen II",
+      "year": 2019
+    },
+    "Green Book": {
+      "id": 490132,
+      "poster": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+      "title": "Green Book",
+      "year": 2018
+    },
+    "Bohemian Rhapsody": {
+      "id": 424694,
+      "poster": "/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+      "title": "Bohemian Rhapsody",
+      "year": 2018
+    },
+    "Darkest Hour": {
+      "id": 399404,
+      "poster": "/xa6G3aKlysQeVg9wOb0dRcIGlWu.jpg",
+      "title": "Darkest Hour",
+      "year": 2017
+    },
+    "Nine": {
+      "id": 10197,
+      "poster": "/bSxdTXktgPQPNwlkQ0DZtuAJXlb.jpg",
+      "title": "Nine",
+      "year": 2009
+    },
+    "Julie & Julia": {
+      "id": 24803,
+      "poster": "/1QZNWOOwfRi86ZApGvr2TtJZPBK.jpg",
+      "title": "Julie & Julia",
+      "year": 2009
+    },
+    "(500) Days of Summer": {
+      "id": 19913,
+      "poster": "/qXAuQ9hF30sQRsXf40OfRVl0MJZ.jpg",
+      "title": "(500) Days of Summer",
+      "year": 2009
+    },
+    "The Hangover": {
+      "id": 18785,
+      "poster": "/A0uS9rHR56FeBtpjVki16M5xxSW.jpg",
+      "title": "The Hangover",
+      "year": 2009
+    },
+    "It's Complicated": {
+      "id": 22897,
+      "poster": "/bmjPrJgrGENFRrERP7lCJ9FGIVB.jpg",
+      "title": "It's Complicated",
+      "year": 2009
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "A Private War": {
+      "id": 475132,
+      "poster": "/pAh6uDR9bBznybiJCVYZNJmjg63.jpg",
+      "title": "A Private War",
+      "year": 2018
+    },
+    "Predator": {
+      "id": 106,
+      "poster": "/aN3cdjIK70KGmD84et8MMblU87Q.jpg",
+      "title": "Predator",
+      "year": 1987
+    },
+    "Eternals": {
+      "id": 524434,
+      "poster": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+      "title": "Eternals",
+      "year": 2021
+    },
+    "A Quiet Place Part II": {
+      "id": 520763,
+      "poster": "/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",
+      "title": "A Quiet Place Part II",
+      "year": 2021
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Zack Snyder's Justice League": {
+      "id": 791373,
+      "poster": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+      "title": "Zack Snyder's Justice League",
+      "year": 2021
+    }
+  }
+}

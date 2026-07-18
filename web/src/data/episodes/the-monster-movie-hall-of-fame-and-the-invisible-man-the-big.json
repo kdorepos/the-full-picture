@@ -1,0 +1,612 @@
+{
+  "slug": "the-monster-movie-hall-of-fame-and-the-invisible-man-the-big",
+  "title": "The Monster Movie Hall of Fame and 'The Invisible Man'",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Adam Nayman"
+  ],
+  "published": "2020-02-28",
+  "runtimeMin": 84,
+  "format": "Sean and critic Adam Nayman build a Monster Movie Hall of Fame, five picks apiece, running chronologically from King Kong to The Mist. Then Leigh Whannell on turning The Invisible Man into a stalker thriller told from the victim's side.",
+  "segments": [
+    {
+      "kind": "halloffame",
+      "heading": "The Monster Movie Hall of Fame",
+      "honoree": "Monster movies",
+      "note": "five picks each, chronological",
+      "films": [
+        {
+          "title": "King Kong",
+          "year": 1933,
+          "note": "Adam's pick. Monster as pure spectacle: stop-motion built for a giant screen, and somehow still sympathetic even as he's smashing people into paste."
+        },
+        {
+          "title": "Cat People",
+          "year": 1942,
+          "note": "Adam's pick. A Val Lewton production directed by Jacques Tourneur, working the suggestion-over-effects route his low budgets forced on him."
+        },
+        {
+          "title": "Creature from the Black Lagoon",
+          "year": 1954,
+          "note": "Adam's pick, directed by Jack Arnold. The underwater-stalking template Jaws would run with. Per Adam, it's also the movie Guillermo del Toro's Shape of Water waters down."
+        },
+        {
+          "title": "Jaws",
+          "year": 1975,
+          "note": "Sean's pick, and by his own account his favorite movie period. His case: the shark doesn't mean anything, and that's exactly why it works."
+        },
+        {
+          "title": "Dawn of the Dead",
+          "year": 1978,
+          "note": "Sean's pick. George Romero's consumerism satire, with Tom Savini's gore effects doing as much talking as the metaphor."
+        },
+        {
+          "title": "Alien",
+          "year": 1979,
+          "note": "Sean's pick. H.R. Giger's design work on a creature Adam calls monster as lack of character: there's no reading its motives, only its shape."
+        },
+        {
+          "title": "The Evil Dead",
+          "year": 1981,
+          "note": "Adam's pick, Sam Raimi's debut. The monster here is a book (the Necronomicon), not a body. Edited by a pre-Blood Simple Joel Coen."
+        },
+        {
+          "title": "The Thing",
+          "year": 1982,
+          "note": "Sean's pick, John Carpenter's remake. Rob Bottin's transformation effects opened the same summer as E.T. and got buried for it."
+        },
+        {
+          "title": "The Fly",
+          "year": 1986,
+          "note": "Sean's pick. David Cronenberg and Jeff Goldblum, produced by Mel Brooks. It's the one on the list that gets Sean, by his own admission."
+        },
+        {
+          "title": "The Mist",
+          "year": 2007,
+          "note": "Adam's closing pick. Frank Darabont's Stephen King adaptation. Both hosts prefer watching it in the black-and-white cut."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Leigh Whannell on 'The Invisible Man'",
+      "guest": "Leigh Whannell on",
+      "films": [
+        {
+          "title": "The Invisible Man",
+          "year": 2020,
+          "note": "Writer-director Leigh Whannell moves the story to the victim's point of view, with Elisabeth Moss carrying it. The invisibility effects mix CGI with 1930s-style practical tricks: a stunt performer in a green suit, a crew member pulling a wire from inside a cabinet."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Cited in the Hall of Fame conversation",
+      "films": [
+        "Bride of Frankenstein",
+        "Frankenstein",
+        "Dracula",
+        "Young Frankenstein",
+        "Godzilla",
+        "Psycho",
+        "The Shape of Water",
+        "King Kong (2005)",
+        "Pan's Labyrinth",
+        "Prometheus",
+        "Aliens",
+        "Cat People (1982)",
+        "Invasion of the Body Snatchers",
+        "They Live",
+        "Halloween",
+        "The Fog",
+        "Blood Simple",
+        "An American Werewolf in London",
+        "Q",
+        "The Howling",
+        "Gremlins",
+        "Gremlins 2: The New Batch",
+        "Small Soldiers",
+        "The Wolf Man",
+        "Wendigo",
+        "Child's Play",
+        "Annabelle",
+        "The Exorcist",
+        "The Omen",
+        "The Changeling",
+        "The Blair Witch Project",
+        "Paranormal Activity",
+        "Pacific Rim",
+        "It Chapter Two",
+        "Parasite",
+        "Logan",
+        "Pinocchio",
+        "20,000 Leagues Under the Sea"
+      ]
+    },
+    {
+      "group": "Films Whannell watched while writing The Invisible Man",
+      "films": [
+        "Misery",
+        "Fatal Attraction",
+        "Wait Until Dark",
+        "Cat People",
+        "Gone Girl",
+        "Dead Calm",
+        "Mad Monster Party?"
+      ]
+    },
+    {
+      "group": "Also mentioned in the Whannell interview",
+      "films": [
+        "Upgrade",
+        "RoboCop",
+        "Total Recall",
+        "Scanners",
+        "Big Trouble in Little China",
+        "Inception",
+        "The Matrix",
+        "Star Wars",
+        "Once Upon a Time in Hollywood",
+        "Knives Out",
+        "Judy",
+        "Ghostbusters",
+        "The Elephant Man"
+      ]
+    },
+    {
+      "group": "Next week's teaser",
+      "films": [
+        "The Way Back",
+        "Spenser Confidential"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Mad Men",
+      "The Handmaid's Tale"
+    ],
+    "Ads": [
+      "Higher Learning",
+      "Vision Quest"
+    ],
+    "Stage": [
+      "The Woman in Black"
+    ]
+  },
+  "tmdbOverrides": {
+    "Frankenstein": 3035,
+    "Dracula": 138,
+    "Godzilla": 1678,
+    "The Fog": 790,
+    "RoboCop": 5548,
+    "Ghostbusters": 620,
+    "Cat People (1982)": 6217,
+    "King Kong (2005)": 254
+  },
+  "tmdb": {
+    "King Kong": {
+      "id": 244,
+      "poster": "/lHlnxKL5GbgRibyRFI7n1Ey850i.jpg",
+      "title": "King Kong",
+      "year": 1933
+    },
+    "Cat People": {
+      "id": 25508,
+      "poster": "/zSNTDd5Q6No5BmY39Zp5BVgl8XE.jpg",
+      "title": "Cat People",
+      "year": 1942
+    },
+    "Creature from the Black Lagoon": {
+      "id": 10973,
+      "poster": "/euCzA2Exc70MpTDCVYih8tdE7z1.jpg",
+      "title": "Creature from the Black Lagoon",
+      "year": 1954
+    },
+    "Jaws": {
+      "id": 578,
+      "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "title": "Jaws",
+      "year": 1975
+    },
+    "Dawn of the Dead": {
+      "id": 923,
+      "poster": "/70MY8H0bLMvXf8ED2SgVMPhDVVM.jpg",
+      "title": "Dawn of the Dead",
+      "year": 1978
+    },
+    "Alien": {
+      "id": 348,
+      "poster": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "title": "Alien",
+      "year": 1979
+    },
+    "The Evil Dead": {
+      "id": 764,
+      "poster": "/54C1qdaiSijIU5NeNb4WsPJdNkG.jpg",
+      "title": "The Evil Dead",
+      "year": 1981
+    },
+    "The Thing": {
+      "id": 1091,
+      "poster": "/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+      "title": "The Thing",
+      "year": 1982
+    },
+    "The Fly": {
+      "id": 9426,
+      "poster": "/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg",
+      "title": "The Fly",
+      "year": 1986
+    },
+    "The Mist": {
+      "id": 5876,
+      "poster": "/1CvJ6diBACKPVGOpcWuY4XPQdqX.jpg",
+      "title": "The Mist",
+      "year": 2007
+    },
+    "The Invisible Man": {
+      "id": 570670,
+      "poster": "/5EufsDwXdY2CVttYOk2WtYhgKpa.jpg",
+      "title": "The Invisible Man",
+      "year": 2020
+    },
+    "Bride of Frankenstein": {
+      "id": 229,
+      "poster": "/5241zUwe7rC17MNc2QpCBKKdp1N.jpg",
+      "title": "Bride of Frankenstein",
+      "year": 1935
+    },
+    "Frankenstein": {
+      "id": 3035,
+      "poster": "/mu6wHwH0IwCCaEYtpqujuPJYat1.jpg",
+      "title": "Frankenstein",
+      "year": 1931
+    },
+    "Dracula": {
+      "id": 138,
+      "poster": "/ueVSPt7vAba0XScHWTDWS5tNxYX.jpg",
+      "title": "Dracula",
+      "year": 1931
+    },
+    "Young Frankenstein": {
+      "id": 3034,
+      "poster": "/3BvvVKPg9yucChlSvQtJxAbLmj9.jpg",
+      "title": "Young Frankenstein",
+      "year": 1974
+    },
+    "Godzilla": {
+      "id": 1678,
+      "poster": "/2W0Yw0qrgVMgdsSCZRKtfvaAh0i.jpg",
+      "title": "Godzilla",
+      "year": 1954
+    },
+    "Psycho": {
+      "id": 539,
+      "poster": "/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+      "title": "Psycho",
+      "year": 1960
+    },
+    "The Shape of Water": {
+      "id": 399055,
+      "poster": "/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg",
+      "title": "The Shape of Water",
+      "year": 2017
+    },
+    "King Kong (2005)": {
+      "id": 254,
+      "poster": "/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg",
+      "title": "King Kong",
+      "year": 2005
+    },
+    "Pan's Labyrinth": {
+      "id": 1417,
+      "poster": "/z7xXihu5wHuSMWymq5VAulPVuvg.jpg",
+      "title": "Pan's Labyrinth",
+      "year": 2006
+    },
+    "Prometheus": {
+      "id": 70981,
+      "poster": "/qsYQflQhOuhDpQ0W2aOcwqgDAeI.jpg",
+      "title": "Prometheus",
+      "year": 2012
+    },
+    "Aliens": {
+      "id": 679,
+      "poster": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "title": "Aliens",
+      "year": 1986
+    },
+    "Cat People (1982)": {
+      "id": 6217,
+      "poster": "/nYcQnkbTD4LDmp11HCReQuUoMKD.jpg",
+      "title": "Cat People",
+      "year": 1982
+    },
+    "Invasion of the Body Snatchers": {
+      "id": 11850,
+      "poster": "/skS02wdeH2C0nrbCQP3qKwJdZtZ.jpg",
+      "title": "Invasion of the Body Snatchers",
+      "year": 1978
+    },
+    "They Live": {
+      "id": 8337,
+      "poster": "/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg",
+      "title": "They Live",
+      "year": 1988
+    },
+    "Halloween": {
+      "id": 948,
+      "poster": "/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+      "title": "Halloween",
+      "year": 1978
+    },
+    "The Fog": {
+      "id": 790,
+      "poster": "/12EeSboRofP3CI4SPmMFNNXCbtY.jpg",
+      "title": "The Fog",
+      "year": 1980
+    },
+    "Blood Simple": {
+      "id": 11368,
+      "poster": "/1DuCXzYWMAE9oGpxIrFWMn1NS0W.jpg",
+      "title": "Blood Simple",
+      "year": 1985
+    },
+    "An American Werewolf in London": {
+      "id": 814,
+      "poster": "/hVEqUASJmCQaolkKFEySCHZ8uKG.jpg",
+      "title": "An American Werewolf in London",
+      "year": 1981
+    },
+    "Q": {
+      "id": 27726,
+      "poster": "/hm5mvCN7IMAFjtkQwL4U1qwoJ4c.jpg",
+      "title": "Q",
+      "year": 1982
+    },
+    "The Howling": {
+      "id": 11298,
+      "poster": "/nRTonikdpMUYr3y3RXESLBhRUov.jpg",
+      "title": "The Howling",
+      "year": 1981
+    },
+    "Gremlins": {
+      "id": 927,
+      "poster": "/6m0F7fsXjQvUbCZrPWcJNrjvIui.jpg",
+      "title": "Gremlins",
+      "year": 1984
+    },
+    "Gremlins 2: The New Batch": {
+      "id": 928,
+      "poster": "/35F5yD7MljvBE2AC0NHAVCoPGEi.jpg",
+      "title": "Gremlins 2: The New Batch",
+      "year": 1990
+    },
+    "Small Soldiers": {
+      "id": 11551,
+      "poster": "/2nuUjSzHsoYlRvTPmLo7m7gCQry.jpg",
+      "title": "Small Soldiers",
+      "year": 1998
+    },
+    "The Wolf Man": {
+      "id": 13666,
+      "poster": "/vG8fu5syTtQLzK1hQXyi3ugOPNF.jpg",
+      "title": "The Wolf Man",
+      "year": 1941
+    },
+    "Wendigo": {
+      "id": 44340,
+      "poster": "/cPtteHPYzO0ZBgr94Bx0a87zmzy.jpg",
+      "title": "Wendigo",
+      "year": 2002
+    },
+    "Child's Play": {
+      "id": 10585,
+      "poster": "/wvpgvcWNkF2HLuTEMIM7K83MvZ.jpg",
+      "title": "Child's Play",
+      "year": 1988
+    },
+    "Annabelle": {
+      "id": 250546,
+      "poster": "/yLsuU2P2SpDYFwtZQ7dtfVAf6TE.jpg",
+      "title": "Annabelle",
+      "year": 2014
+    },
+    "The Exorcist": {
+      "id": 9552,
+      "poster": "/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
+      "title": "The Exorcist",
+      "year": 1973
+    },
+    "The Omen": {
+      "id": 794,
+      "poster": "/mDcjjEu1fMNmsXi4l4D8IftlTix.jpg",
+      "title": "The Omen",
+      "year": 1976
+    },
+    "The Changeling": {
+      "id": 13550,
+      "poster": "/z4nTYj3JZ5jWAhDgrmEhW2GRAzb.jpg",
+      "title": "The Changeling",
+      "year": 1980
+    },
+    "The Blair Witch Project": {
+      "id": 2667,
+      "poster": "/9050VGrYjYrEjpOvDZVAngLbg1f.jpg",
+      "title": "The Blair Witch Project",
+      "year": 1999
+    },
+    "Paranormal Activity": {
+      "id": 23827,
+      "poster": "/tmclkEpjeo4Zu564gf3KrwIOuKw.jpg",
+      "title": "Paranormal Activity",
+      "year": 2007
+    },
+    "Pacific Rim": {
+      "id": 68726,
+      "poster": "/8wo4eN8dWKaKlxhSvBz19uvj8gA.jpg",
+      "title": "Pacific Rim",
+      "year": 2013
+    },
+    "It Chapter Two": {
+      "id": 474350,
+      "poster": "/zfE0R94v1E8cuKAerbskfD3VfUt.jpg",
+      "title": "It Chapter Two",
+      "year": 2019
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Logan": {
+      "id": 263115,
+      "poster": "/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+      "title": "Logan",
+      "year": 2017
+    },
+    "Pinocchio": {
+      "id": 10895,
+      "poster": "/bnZJrLRnoQHpzEJdka1KYfsAF3N.jpg",
+      "title": "Pinocchio",
+      "year": 1940
+    },
+    "20,000 Leagues Under the Sea": {
+      "id": 173,
+      "poster": "/heAEH85fdxEgV98LizHbQCL95iZ.jpg",
+      "title": "20,000 Leagues Under the Sea",
+      "year": 1954
+    },
+    "Misery": {
+      "id": 1700,
+      "poster": "/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg",
+      "title": "Misery",
+      "year": 1990
+    },
+    "Fatal Attraction": {
+      "id": 10998,
+      "poster": "/vjB9XwJKnYqFKKjhWcE6WpAf5Ki.jpg",
+      "title": "Fatal Attraction",
+      "year": 1987
+    },
+    "Wait Until Dark": {
+      "id": 11206,
+      "poster": "/cNW3ewCB52KkxzSE47PcE5Bqvmr.jpg",
+      "title": "Wait Until Dark",
+      "year": 1967
+    },
+    "Gone Girl": {
+      "id": 210577,
+      "poster": "/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+      "title": "Gone Girl",
+      "year": 2014
+    },
+    "Dead Calm": {
+      "id": 10493,
+      "poster": "/hXpav86ZX5N1YIfVfVtzuZLNrjW.jpg",
+      "title": "Dead Calm",
+      "year": 1989
+    },
+    "Mad Monster Party?": {
+      "id": 17278,
+      "poster": "/6DsTP8PSrOPxlO1926sFZF6VPd0.jpg",
+      "title": "Mad Monster Party?",
+      "year": 1967
+    },
+    "Upgrade": {
+      "id": 500664,
+      "poster": "/woLGROUdPWdBnLVFKYdGD3kFkPY.jpg",
+      "title": "Upgrade",
+      "year": 2018
+    },
+    "RoboCop": {
+      "id": 5548,
+      "poster": "/esmAU0fCO28FbS6bUBKLAzJrohZ.jpg",
+      "title": "RoboCop",
+      "year": 1987
+    },
+    "Total Recall": {
+      "id": 861,
+      "poster": "/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
+      "title": "Total Recall",
+      "year": 1990
+    },
+    "Scanners": {
+      "id": 9538,
+      "poster": "/VTqLdveNXxGsIAZL5I4RliTTt7.jpg",
+      "title": "Scanners",
+      "year": 1981
+    },
+    "Big Trouble in Little China": {
+      "id": 6978,
+      "poster": "/rCy3CFJfWVBSyiVcFOQMcMAh5R2.jpg",
+      "title": "Big Trouble in Little China",
+      "year": 1986
+    },
+    "Inception": {
+      "id": 27205,
+      "poster": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+      "title": "Inception",
+      "year": 2010
+    },
+    "The Matrix": {
+      "id": 603,
+      "poster": "/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+      "title": "The Matrix",
+      "year": 1999
+    },
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Knives Out": {
+      "id": 546554,
+      "poster": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+      "title": "Knives Out",
+      "year": 2019
+    },
+    "Judy": {
+      "id": 491283,
+      "poster": "/iqJhHjD6k6T07waELjMKDpQJUP.jpg",
+      "title": "Judy",
+      "year": 2019
+    },
+    "Ghostbusters": {
+      "id": 620,
+      "poster": "/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
+      "title": "Ghostbusters",
+      "year": 1984
+    },
+    "The Elephant Man": {
+      "id": 1955,
+      "poster": "/u0wpPYjuSt8DIe1Y3Vapnh8jcKE.jpg",
+      "title": "The Elephant Man",
+      "year": 1980
+    },
+    "The Way Back": {
+      "id": 49009,
+      "poster": "/xQ6hxfpD5XQGJz0ekVle5zegam7.jpg",
+      "title": "The Way Back",
+      "year": 2010
+    },
+    "Spenser Confidential": {
+      "id": 581600,
+      "poster": "/fePczipv6ZzDO2uoww4vTAu2Sq3.jpg",
+      "title": "Spenser Confidential",
+      "year": 2020
+    }
+  }
+}

@@ -1,0 +1,446 @@
+{
+  "slug": "the-nancy-meyers-hall-of-fame",
+  "title": "The Nancy Meyers Hall of Fame",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2020-10-09",
+  "runtimeMin": 114,
+  "format": "For Private Benjamin's 40th anniversary, Sean and Amanda build a chronological Hall of Fame out of Nancy Meyers's filmography: all ten inductees, plus the four movies that didn't make the cut.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Where Meyers comes from",
+      "note": "before the countdown starts",
+      "films": [
+        {
+          "title": "An Unmarried Woman",
+          "year": 1978,
+          "note": "Paul Mazursky's Jill Clayburgh film, about a wife whose husband leaves her out of nowhere. Meyers named Mazursky as an influence in a 2015 interview, and Sean calls this the proto Nancy Meyers movie."
+        },
+        {
+          "title": "Bob & Carol & Ted & Alice",
+          "year": 1969,
+          "note": "The other Mazursky title that comes up when tracing Meyers back to '70s dramedy."
+        }
+      ]
+    },
+    {
+      "kind": "halloffame",
+      "heading": "The Nancy Meyers Hall of Fame",
+      "note": "chronological, and all ten make it in",
+      "honoree": "Nancy Meyers",
+      "films": [
+        {
+          "title": "Private Benjamin",
+          "year": 1980,
+          "note": "Her only Oscar nomination, for a movie neither host can fully defend. Goldie Hawn's rich widow joins the Army; the tone swings from pratfall comedy to melodrama to spy movie and the ending explains nothing. In on the strength of the nomination alone."
+        },
+        {
+          "title": "Irreconcilable Differences",
+          "year": 1984,
+          "note": "A barely disguised, fairly savage take on the Peter Bogdanovich and Polly Platt split, framed around tiny Drew Barrymore suing to divorce her parents. Shot by William Fraker. Hard to find (Amanda had to buy a copy), and the pick both hosts enjoyed most all week."
+        },
+        {
+          "title": "Baby Boom",
+          "year": 1987,
+          "note": "Diane Keaton's ad executive inherits a baby and trades Manhattan for a Vermont farmhouse and a baby-food company. Directed by then-husband Charles Shyer; called the source code for every Meyers movie that follows."
+        },
+        {
+          "title": "Father of the Bride",
+          "year": 1991,
+          "note": "A remake of Vincente Minnelli's 1950 original, narrated by Steve Martin. No real conflict beyond a wedding, 'the fun ten minutes stretched out to the whole movie,' and it still works."
+        },
+        {
+          "title": "The Parent Trap",
+          "year": 1998,
+          "note": "Meyers's directing debut, Lindsay Lohan playing both twins. Amanda's formative Meyers text at thirteen; Sean, a few years too old for it at release, didn't come around until much later."
+        },
+        {
+          "title": "What Women Want",
+          "year": 2000,
+          "note": "Mel Gibson's ad man gets electrocuted and starts hearing women's thoughts. A rewrite Meyers doesn't have credit on. Neither host buys his arc, but it made $182 million."
+        },
+        {
+          "title": "Something's Gotta Give",
+          "year": 2003,
+          "note": "Jack Nicholson, Diane Keaton, and a Paris ending. Called the masterpiece and one of the great films of the 21st century on the show."
+        },
+        {
+          "title": "The Holiday",
+          "year": 2006,
+          "note": "Kate Winslet and Cameron Diaz swap houses over Christmas while Jack Black sings movie scores in a Blockbuster. Neither host loves it, but they defer to its cult following and vote it in unanimously."
+        },
+        {
+          "title": "It's Complicated",
+          "year": 2009,
+          "note": "Meryl Streep, Alec Baldwin, and Steve Martin in an $85 million domestic comedy that made $225 million. Amanda's favorite of the ten; shot by John Toll, scored by Hans Zimmer."
+        },
+        {
+          "title": "The Intern",
+          "year": 2015,
+          "note": "Robert De Niro as a seventy-year-old intern at Anne Hathaway's e-commerce startup. Meyers answering her own Baby Boom thirty years later, without the happy ending."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Cut from the Hall of Fame",
+      "note": "considered, then left out",
+      "films": [
+        {
+          "title": "Once Upon a Crime",
+          "year": 1992,
+          "note": "Co-written with Charles Shyer and Steve Kluger, directed by Eugene Levy. Neither host rewatched it; Amanda calls it a not-good Clue."
+        },
+        {
+          "title": "I Love Trouble",
+          "year": 1994,
+          "note": "Nick Nolte and Julia Roberts as rival newspaper columnists with no chemistry. 'I kind of want to turn this off,' Sean says, the one clean no of the episode."
+        },
+        {
+          "title": "Father of the Bride Part II",
+          "year": 1995,
+          "note": "The pregnancy sequel. Neither host rewatched it; both call it nice but not essential."
+        },
+        {
+          "title": "Father of the Bride Part 3(ish)",
+          "year": 2020,
+          "note": "A Zoom reunion short for World Central Kitchen. Both hosts say it's bad on its own merits, charity aside, and leave it out."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "The Third Man",
+        "Marriage Story",
+        "Mask",
+        "Broadcast News",
+        "Paper Moon",
+        "Rosemary's Baby",
+        "Bullitt",
+        "Close Encounters of the Third Kind",
+        "Clue",
+        "The Fugitive",
+        "The Maltese Falcon",
+        "The Pelican Brief",
+        "Notting Hill",
+        "Inception",
+        "The Irishman",
+        "Almost Famous",
+        "What Men Want",
+        "Iron Man",
+        "Captain America: The Winter Soldier",
+        "Melancholia"
+      ]
+    },
+    {
+      "group": "Mel Gibson's filmography, in passing",
+      "films": [
+        "Lethal Weapon",
+        "Braveheart",
+        "Maverick",
+        "Conspiracy Theory",
+        "The Patriot",
+        "We Were Soldiers",
+        "Signs",
+        "The Passion of the Christ"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Price Is Right",
+      "The Mary Tyler Moore Show",
+      "Mad Men",
+      "Succession"
+    ],
+    "Podcasts": [
+      "You Must Remember This"
+    ],
+    "Games": [
+      "FIFA World Cup Launch Edition"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "Carvana",
+      "Blinds.com",
+      "Storm Energy"
+    ]
+  },
+  "tmdbOverrides": {
+    "Father of the Bride Part 3(ish)": 746358
+  },
+  "tmdb": {
+    "An Unmarried Woman": {
+      "id": 38731,
+      "poster": "/pJ6BLvNcLhNxvVCGgTynO5BJtQq.jpg",
+      "title": "An Unmarried Woman",
+      "year": 1978
+    },
+    "Bob & Carol & Ted & Alice": {
+      "id": 26520,
+      "poster": "/8fDLuB1q3JycYJPK0F65OYO3lAX.jpg",
+      "title": "Bob & Carol & Ted & Alice",
+      "year": 1969
+    },
+    "Private Benjamin": {
+      "id": 10765,
+      "poster": "/maIiPNXddZXKHQCi0HyULd5kces.jpg",
+      "title": "Private Benjamin",
+      "year": 1980
+    },
+    "Irreconcilable Differences": {
+      "id": 47874,
+      "poster": "/jBr9FR2pUpjOERgxljxaNtpIj9c.jpg",
+      "title": "Irreconcilable Differences",
+      "year": 1984
+    },
+    "Baby Boom": {
+      "id": 11215,
+      "poster": "/4Jy5U4HITJWUDYJc1NGgJLIjbWz.jpg",
+      "title": "Baby Boom",
+      "year": 1987
+    },
+    "Father of the Bride": {
+      "id": 11846,
+      "poster": "/bU7HzJbJpY5OiLdqWhKSqGPtYii.jpg",
+      "title": "Father of the Bride",
+      "year": 1991
+    },
+    "The Parent Trap": {
+      "id": 9820,
+      "poster": "/p4dGmi8u9W0HHyVXcgWPoiFfKTF.jpg",
+      "title": "The Parent Trap",
+      "year": 1998
+    },
+    "What Women Want": {
+      "id": 3981,
+      "poster": "/eqkBEMDk1316Yx5wVoabWY07JAi.jpg",
+      "title": "What Women Want",
+      "year": 2000
+    },
+    "Something's Gotta Give": {
+      "id": 6964,
+      "poster": "/1cpdqe0SpiHzzbOLq9GDUUlZdSl.jpg",
+      "title": "Something's Gotta Give",
+      "year": 2003
+    },
+    "The Holiday": {
+      "id": 1581,
+      "poster": "/h1ITOpvJN3Tw4Sy60w2QTfYMvdd.jpg",
+      "title": "The Holiday",
+      "year": 2006
+    },
+    "It's Complicated": {
+      "id": 22897,
+      "poster": "/bmjPrJgrGENFRrERP7lCJ9FGIVB.jpg",
+      "title": "It's Complicated",
+      "year": 2009
+    },
+    "The Intern": {
+      "id": 257211,
+      "poster": "/bTQ46fupPbjBfFBHuzfD3hxxL0Q.jpg",
+      "title": "The Intern",
+      "year": 2015
+    },
+    "Once Upon a Crime": {
+      "id": 27465,
+      "poster": "/13zU7il6WMJ0QlXTMokJyBYSsYE.jpg",
+      "title": "Once Upon a Crime",
+      "year": 1992
+    },
+    "I Love Trouble": {
+      "id": 10879,
+      "poster": "/2uyytK3XFRPFXoTchFDtsWiSujn.jpg",
+      "title": "I Love Trouble",
+      "year": 1994
+    },
+    "Father of the Bride Part II": {
+      "id": 11862,
+      "poster": "/rj4LBtwQ0uGrpBnCELr716Qo3mw.jpg",
+      "title": "Father of the Bride Part II",
+      "year": 1995
+    },
+    "Father of the Bride Part 3(ish)": {
+      "id": 746358,
+      "poster": "/iOsDWEq7U9xAtflxjUq83e0sBTd.jpg",
+      "title": "Father of the Bride Part 3 (ish)",
+      "year": 2020
+    },
+    "The Third Man": {
+      "id": 1092,
+      "poster": "/rO2Fq0AZZx9obs52KJdx4mRE8p5.jpg",
+      "title": "The Third Man",
+      "year": 1949
+    },
+    "Marriage Story": {
+      "id": 492188,
+      "poster": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+      "title": "Marriage Story",
+      "year": 2019
+    },
+    "Mask": {
+      "id": 11177,
+      "poster": "/dBYzEETDHNyt12VCD5owVW6bpEC.jpg",
+      "title": "Mask",
+      "year": 1985
+    },
+    "Broadcast News": {
+      "id": 12626,
+      "poster": "/kQNR1Lc0qAF5xuBySpDn481KVjb.jpg",
+      "title": "Broadcast News",
+      "year": 1987
+    },
+    "Paper Moon": {
+      "id": 11293,
+      "poster": "/3GHG0kTcBWHKdXjj3RdK8GjBCd6.jpg",
+      "title": "Paper Moon",
+      "year": 1973
+    },
+    "Rosemary's Baby": {
+      "id": 805,
+      "poster": "/uYgvlHceRFjAFbsNeMInYcLZLUb.jpg",
+      "title": "Rosemary's Baby",
+      "year": 1968
+    },
+    "Bullitt": {
+      "id": 916,
+      "poster": "/2ffzF1WmeXtH420fSUoCrecFvDA.jpg",
+      "title": "Bullitt",
+      "year": 1968
+    },
+    "Close Encounters of the Third Kind": {
+      "id": 840,
+      "poster": "/yaPx3cK9zGFX3SbcKwxWM1QIbUh.jpg",
+      "title": "Close Encounters of the Third Kind",
+      "year": 1977
+    },
+    "Clue": {
+      "id": 15196,
+      "poster": "/aRxbYOYHS8T73nzR8hsLousoplR.jpg",
+      "title": "Clue",
+      "year": 1985
+    },
+    "The Fugitive": {
+      "id": 5503,
+      "poster": "/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg",
+      "title": "The Fugitive",
+      "year": 1993
+    },
+    "The Maltese Falcon": {
+      "id": 963,
+      "poster": "/bf4o6Uzw5wqLjdKwRuiDrN1xyvl.jpg",
+      "title": "The Maltese Falcon",
+      "year": 1941
+    },
+    "The Pelican Brief": {
+      "id": 9944,
+      "poster": "/7B1HS0SqfJR1jbeHS6V0ZWdzLXP.jpg",
+      "title": "The Pelican Brief",
+      "year": 1993
+    },
+    "Notting Hill": {
+      "id": 509,
+      "poster": "/hHRIf2XHeQMbyRb3HUx19SF5Ujw.jpg",
+      "title": "Notting Hill",
+      "year": 1999
+    },
+    "Inception": {
+      "id": 27205,
+      "poster": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+      "title": "Inception",
+      "year": 2010
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Almost Famous": {
+      "id": 786,
+      "poster": "/3rrkyLYbgLj84AYvjhdcJot4JPx.jpg",
+      "title": "Almost Famous",
+      "year": 2000
+    },
+    "What Men Want": {
+      "id": 487297,
+      "poster": "/30IiwvIRqPGjUV0bxJkZfnSiCL.jpg",
+      "title": "What Men Want",
+      "year": 2019
+    },
+    "Iron Man": {
+      "id": 1726,
+      "poster": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "title": "Iron Man",
+      "year": 2008
+    },
+    "Captain America: The Winter Soldier": {
+      "id": 100402,
+      "poster": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+      "title": "Captain America: The Winter Soldier",
+      "year": 2014
+    },
+    "Melancholia": {
+      "id": 62215,
+      "poster": "/fMneszMiQuTKY8JUXrGGB5vwqJf.jpg",
+      "title": "Melancholia",
+      "year": 2011
+    },
+    "Lethal Weapon": {
+      "id": 941,
+      "poster": "/fTq4ThIP3pQTYR9eDepsbDHqdcs.jpg",
+      "title": "Lethal Weapon",
+      "year": 1987
+    },
+    "Braveheart": {
+      "id": 197,
+      "poster": "/or1gBugydmjToAEq7OZY0owwFk.jpg",
+      "title": "Braveheart",
+      "year": 1995
+    },
+    "Maverick": {
+      "id": 9359,
+      "poster": "/mTVbGGi5PIexmxVzeyFd2RYKwfM.jpg",
+      "title": "Maverick",
+      "year": 1994
+    },
+    "Conspiracy Theory": {
+      "id": 8834,
+      "poster": "/sTyTKZVikQU6g50HE8HR1tBSRxj.jpg",
+      "title": "Conspiracy Theory",
+      "year": 1997
+    },
+    "The Patriot": {
+      "id": 2024,
+      "poster": "/fWZd815QxUCUcrWQZwUkAp9ljG.jpg",
+      "title": "The Patriot",
+      "year": 2000
+    },
+    "We Were Soldiers": {
+      "id": 10590,
+      "poster": "/q2LeLzw4q9HTelkKx29dyTMf5zK.jpg",
+      "title": "We Were Soldiers",
+      "year": 2002
+    },
+    "Signs": {
+      "id": 2675,
+      "poster": "/YtrIdrTxpRhvCnlw43dwOjfLqx.jpg",
+      "title": "Signs",
+      "year": 2002
+    },
+    "The Passion of the Christ": {
+      "id": 615,
+      "poster": "/rBM5o2HpmCfDejuIPybI09tkY3V.jpg",
+      "title": "The Passion of the Christ",
+      "year": 2004
+    }
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "slug": "aquaman-the-weird-sort-of-good-future-of-comic-book-movies-e",
+  "title": "‘Aquaman’: The Weird, Sort of Good (?) Future of Comic Book Movies | Exit Survey (Ep. 111)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "David Shoemaker"
+  ],
+  "published": "2018-12-21",
+  "runtimeMin": 40,
+  "format": "Sean Fennessey and David Shoemaker run an exit survey on 'Aquaman,' James Wan's DC detour: the most beautiful superhero movie yet, welded to dialogue they figure a 14-year-old wrote. Then they look ahead at the DC slate: Shazam!, Birds of Prey, and a Cyborg movie nobody asked for.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "'Aquaman': the exit survey",
+      "note": "good, not great, and trying to be six movies at once",
+      "films": [
+        {
+          "title": "Aquaman",
+          "year": 2018,
+          "note": "Both land on 'good, not great.' James Wan directs it as purposeful schlock (bad dialogue, psychedelic set pieces), and the hosts count six films it's cribbing from at once. They call the CGI undersea work the most beautiful in any superhero movie, with the trench sequence and its flare as the single best shot, but the surface scenes look faker and the straightforward story drags once you can see every beat coming. Jason Momoa recast as a 'rock' instead of the blond, chiseled Arthur; Patrick Wilson as half-brother Orm; Nicole Kidman underused; Dolph Lundgren stiffening the mythology; the Sicily trident detour is the designated popcorn/bathroom-break stretch. Julie Andrews voices the giant sea creature at the climax."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The DC slate ahead",
+      "note": "what comes after Aquaman",
+      "films": [
+        {
+          "title": "Shazam!",
+          "year": 2019,
+          "note": "Due April 2019, from horror director David Sandberg. The hosts expect a jokier, teen, almost-Netflix tone, and note the character's odd tension with Superman (originally a rival Captain Marvel)."
+        },
+        {
+          "title": "Birds of Prey",
+          "year": 2020,
+          "note": "Margot Robbie developing and starring, first-time feature director Cathy Yan. Framed as low-IP-risk, high-star bet: extend Harley Quinn without a 10-picture lock-in. Cast floated: Mary Elizabeth Winstead, Jurnee Smollett-Bell, Rosie Perez. Sean reads the full parenthetical title aloud."
+        },
+        {
+          "title": "Dead Pigs",
+          "year": 2018,
+          "note": "Cathy Yan's feature before Birds of Prey, cited as why handing her a tentpole reads as a risk."
+        },
+        {
+          "title": "Suicide Squad",
+          "year": 2016,
+          "note": "Where Harley Quinn / Margot Robbie came from; the template for luring big stars into DC at low IP risk (the Will Smith model)."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The movies it's trying to be",
+      "films": [
+        "20,000 Leagues Under the Sea",
+        "Romancing the Stone",
+        "Ordinary People",
+        "Raiders of the Lost Ark",
+        "Jurassic Park",
+        "The Bourne Identity",
+        "The Bourne Ultimatum",
+        "Avatar",
+        "The Little Mermaid",
+        "Under the Tuscan Sun",
+        "The Lord of the Rings: The Fellowship of the Ring",
+        "Under Siege",
+        "Gangs of New York",
+        "Masters of the Universe"
+      ]
+    },
+    {
+      "group": "Superhero touchstones",
+      "films": [
+        "Justice League",
+        "Wonder Woman",
+        "Black Panther",
+        "Guardians of the Galaxy",
+        "Spider-Man: Into the Spider-Verse",
+        "Iron Man",
+        "Thor",
+        "Captain America: The First Avenger",
+        "Captain America: The Winter Soldier",
+        "Batman",
+        "Batman Begins",
+        "The Dark Knight",
+        "Batman v Superman: Dawn of Justice",
+        "Captain Marvel"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Three Days of the Condor",
+        "Mary Poppins Returns",
+        "Creed II",
+        "The Revenant",
+        "Insidious",
+        "Terminator 2: Judgment Day",
+        "Back to the Future",
+        "RoboCop",
+        "Furious 7",
+        "Annabelle: Creation",
+        "Lights Out"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "This Is Us",
+      "Game of Thrones",
+      "Jessica Jones",
+      "Teen Titans",
+      "Entourage",
+      "Fargo"
+    ],
+    "Ads": [
+      "A Star Is Born",
+      "This Is Bus"
+    ]
+  },
+  "tmdbOverrides": {
+    "Birds of Prey": 495764,
+    "The Little Mermaid": 10144,
+    "Masters of the Universe": 11649,
+    "RoboCop": 5548
+  },
+  "tmdb": {
+    "Aquaman": {
+      "id": 297802,
+      "poster": "/ufl63EFcc5XpByEV2Ecdw6WJZAI.jpg",
+      "title": "Aquaman",
+      "year": 2018
+    },
+    "Shazam!": {
+      "id": 287947,
+      "poster": "/xnopI5Xtky18MPhK40cZAGAOVeV.jpg",
+      "title": "Shazam!",
+      "year": 2019
+    },
+    "Birds of Prey": {
+      "id": 495764,
+      "poster": "/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
+      "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "year": 2020
+    },
+    "Dead Pigs": {
+      "id": 491305,
+      "poster": "/bF6jJa2ChLeEnFoJ1gAcngttQV6.jpg",
+      "title": "Dead Pigs",
+      "year": 2018
+    },
+    "Suicide Squad": {
+      "id": 297761,
+      "poster": "/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg",
+      "title": "Suicide Squad",
+      "year": 2016
+    },
+    "20,000 Leagues Under the Sea": {
+      "id": 173,
+      "poster": "/heAEH85fdxEgV98LizHbQCL95iZ.jpg",
+      "title": "20,000 Leagues Under the Sea",
+      "year": 1954
+    },
+    "Romancing the Stone": {
+      "id": 9326,
+      "poster": "/qfIlVOYZH5RiZ0ndFKUpr5Zn2Bx.jpg",
+      "title": "Romancing the Stone",
+      "year": 1984
+    },
+    "Ordinary People": {
+      "id": 16619,
+      "poster": "/tJVETEDAKgD3fEh88SHOvMvOQue.jpg",
+      "title": "Ordinary People",
+      "year": 1980
+    },
+    "Raiders of the Lost Ark": {
+      "id": 85,
+      "poster": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+      "title": "Raiders of the Lost Ark",
+      "year": 1981
+    },
+    "Jurassic Park": {
+      "id": 329,
+      "poster": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "title": "Jurassic Park",
+      "year": 1993
+    },
+    "The Bourne Identity": {
+      "id": 2501,
+      "poster": "/aP8swke3gmowbkfZ6lmNidu0y9p.jpg",
+      "title": "The Bourne Identity",
+      "year": 2002
+    },
+    "The Bourne Ultimatum": {
+      "id": 2503,
+      "poster": "/15rMz5MRXFp7CP4VxhjYw4y0FUn.jpg",
+      "title": "The Bourne Ultimatum",
+      "year": 2007
+    },
+    "Avatar": {
+      "id": 19995,
+      "poster": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "title": "Avatar",
+      "year": 2009
+    },
+    "The Little Mermaid": {
+      "id": 10144,
+      "poster": "/plcZXvI310FkbwIptvd6rqk63LP.jpg",
+      "title": "The Little Mermaid",
+      "year": 1989
+    },
+    "Under the Tuscan Sun": {
+      "id": 10934,
+      "poster": "/3vQUQwdtfPt1Sl2GZrIECWWA0dk.jpg",
+      "title": "Under the Tuscan Sun",
+      "year": 2003
+    },
+    "The Lord of the Rings: The Fellowship of the Ring": {
+      "id": 120,
+      "poster": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001
+    },
+    "Under Siege": {
+      "id": 8845,
+      "poster": "/myHxm9p8fhEsXyaLO6DawYJKolg.jpg",
+      "title": "Under Siege",
+      "year": 1992
+    },
+    "Gangs of New York": {
+      "id": 3131,
+      "poster": "/lemqKtcCuAano5aqrzxYiKC8kkn.jpg",
+      "title": "Gangs of New York",
+      "year": 2002
+    },
+    "Masters of the Universe": {
+      "id": 11649,
+      "poster": "/gaUecXFd31V68yOTJPJYaB9YhAf.jpg",
+      "title": "Masters of the Universe",
+      "year": 1987
+    },
+    "Justice League": {
+      "id": 141052,
+      "poster": "/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
+      "title": "Justice League",
+      "year": 2017
+    },
+    "Wonder Woman": {
+      "id": 297762,
+      "poster": "/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+      "title": "Wonder Woman",
+      "year": 2017
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "Guardians of the Galaxy": {
+      "id": 118340,
+      "poster": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "title": "Guardians of the Galaxy",
+      "year": 2014
+    },
+    "Spider-Man: Into the Spider-Verse": {
+      "id": 324857,
+      "poster": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018
+    },
+    "Iron Man": {
+      "id": 1726,
+      "poster": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "title": "Iron Man",
+      "year": 2008
+    },
+    "Thor": {
+      "id": 10195,
+      "poster": "/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
+      "title": "Thor",
+      "year": 2011
+    },
+    "Captain America: The First Avenger": {
+      "id": 1771,
+      "poster": "/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+      "title": "Captain America: The First Avenger",
+      "year": 2011
+    },
+    "Captain America: The Winter Soldier": {
+      "id": 100402,
+      "poster": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+      "title": "Captain America: The Winter Soldier",
+      "year": 2014
+    },
+    "Batman": {
+      "id": 268,
+      "poster": "/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
+      "title": "Batman",
+      "year": 1989
+    },
+    "Batman Begins": {
+      "id": 272,
+      "poster": "/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+      "title": "Batman Begins",
+      "year": 2005
+    },
+    "The Dark Knight": {
+      "id": 155,
+      "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    "Batman v Superman: Dawn of Justice": {
+      "id": 209112,
+      "poster": "/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
+      "title": "Batman v Superman: Dawn of Justice",
+      "year": 2016
+    },
+    "Captain Marvel": {
+      "id": 299537,
+      "poster": "/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+      "title": "Captain Marvel",
+      "year": 2019
+    },
+    "Three Days of the Condor": {
+      "id": 11963,
+      "poster": "/zinwtZqdb7gnc4zMu8dfkK1fMN3.jpg",
+      "title": "Three Days of the Condor",
+      "year": 1975
+    },
+    "Mary Poppins Returns": {
+      "id": 400650,
+      "poster": "/uTVGku4LibMGyKgQvjBtv3OYfAX.jpg",
+      "title": "Mary Poppins Returns",
+      "year": 2018
+    },
+    "Creed II": {
+      "id": 480530,
+      "poster": "/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg",
+      "title": "Creed II",
+      "year": 2018
+    },
+    "The Revenant": {
+      "id": 281957,
+      "poster": "/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",
+      "title": "The Revenant",
+      "year": 2015
+    },
+    "Insidious": {
+      "id": 49018,
+      "poster": "/1egpmVXuXed58TH2UOnX1nATTrf.jpg",
+      "title": "Insidious",
+      "year": 2011
+    },
+    "Terminator 2: Judgment Day": {
+      "id": 280,
+      "poster": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991
+    },
+    "Back to the Future": {
+      "id": 105,
+      "poster": "/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+      "title": "Back to the Future",
+      "year": 1985
+    },
+    "RoboCop": {
+      "id": 5548,
+      "poster": "/esmAU0fCO28FbS6bUBKLAzJrohZ.jpg",
+      "title": "RoboCop",
+      "year": 1987
+    },
+    "Furious 7": {
+      "id": 168259,
+      "poster": "/ktofZ9Htrjiy0P6LEowsDaxd3Ri.jpg",
+      "title": "Furious 7",
+      "year": 2015
+    },
+    "Annabelle: Creation": {
+      "id": 396422,
+      "poster": "/tb86j8jVCVsdZnzf8I6cIi65IeM.jpg",
+      "title": "Annabelle: Creation",
+      "year": 2017
+    },
+    "Lights Out": {
+      "id": 345911,
+      "poster": "/8BnElzAQQpp7ZgdJJiAe1diomr4.jpg",
+      "title": "Lights Out",
+      "year": 2016
+    }
+  }
+}

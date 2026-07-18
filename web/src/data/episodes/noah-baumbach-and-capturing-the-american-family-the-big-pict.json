@@ -1,0 +1,207 @@
+{
+  "slug": "noah-baumbach-and-capturing-the-american-family-the-big-pict",
+  "title": "Noah Baumbach and Capturing the American Family | The Big Picture (Ep. 29)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2017-10-16",
+  "runtimeMin": 33,
+  "format": "Sean Fennessey talks with Noah Baumbach about The Meyerowitz Stories, his ambivalence over releasing it on Netflix, and the movies that made him.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "Noah Baumbach on family, film, and Netflix",
+      "guest": "Noah Baumbach on",
+      "films": [
+        {
+          "title": "The Meyerowitz Stories (New and Selected)",
+          "year": 2017,
+          "note": "The new film. Adam Sandler and Ben Stiller as half-brothers, Dustin Hoffman as their domineering artist father. Baumbach wrote Sandler's role for Sandler and Stiller's for Stiller; readers assumed the parts were swapped. Structured as a collection of short stories, which he says unlocked the movie. Randy Newman scored it, playing live to picture."
+        },
+        {
+          "title": "The Squid and the Whale",
+          "year": 2005,
+          "note": "The film that made Sandler reach out to work with Baumbach."
+        },
+        {
+          "title": "Kicking and Screaming",
+          "year": 1995,
+          "note": "His first film. Fathers and sons bond over the Mets in Meyerowitz the way Elliott Gould and Josh Hamilton's characters bonded over the Knicks here. In early drafts it was the Knicks, before Baumbach moved the action to fall."
+        },
+        {
+          "title": "Frances Ha",
+          "year": 2012,
+          "note": "Co-written with Greta Gerwig; staffers tell him 'that is my life.' Changing the shooting model on it, he says, felt like making a first film he never made in his 40s."
+        },
+        {
+          "title": "Greenberg",
+          "year": 2010,
+          "note": "A deeply felt Stiller performance, but a transformation into someone very different from him, unlike the closer-to-the-bone role in Meyerowitz."
+        },
+        {
+          "title": "While We're Young",
+          "year": 2014,
+          "note": "Stiller playing a Ben Stiller-ish character inside Baumbach's world."
+        },
+        {
+          "title": "Mistress America",
+          "year": 2015,
+          "note": "Also with Gerwig; Fennessey calls its look a new version of an old film."
+        },
+        {
+          "title": "Lady Bird",
+          "year": 2017,
+          "note": "Gerwig's directorial debut, premiering the same festival season; the two show each other drafts and cuts constantly."
+        },
+        {
+          "title": "De Palma",
+          "year": 2015,
+          "note": "The documentary Baumbach and Jake Paltrow made about Brian De Palma, who talks in it about needing to work as an interpretive director to free himself up."
+        },
+        {
+          "title": "Scarface",
+          "year": 1983,
+          "note": "Cited as one of the others'-material films that freed De Palma up."
+        },
+        {
+          "title": "The Untouchables",
+          "year": 1987,
+          "note": "The other De Palma work-for-hire he mentions."
+        },
+        {
+          "title": "Dunkirk",
+          "year": 2017,
+          "note": "The fifth consecutive guest to cite it as a must-see-in-theaters film; Baumbach argues intimate-scale movies deserve the theater too."
+        },
+        {
+          "title": "Diner",
+          "year": 1982,
+          "note": "Saw it as a kid and thought 'I am those guys.' The movie that made him want to make movies."
+        },
+        {
+          "title": "Popeye",
+          "year": 1980,
+          "note": "Took his son to a Metrograph reissue; loved it as a kid for Robin Williams before coming to Altman. The son didn't quite love it."
+        },
+        {
+          "title": "Bugsy Malone",
+          "year": 1976,
+          "note": "Part of a three-Sunday kids-musical run at the Metrograph."
+        },
+        {
+          "title": "The Great Muppet Caper",
+          "year": 1981,
+          "note": "The third in that run: 'does not hold up.'"
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "Books": [
+      "In the Blink of an Eye"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Meyerowitz Stories (New and Selected)": 396398
+  },
+  "tmdb": {
+    "The Meyerowitz Stories (New and Selected)": {
+      "id": 396398,
+      "poster": "/c9teDTgwxgnb7wnZjZo4oNcF80R.jpg",
+      "title": "The Meyerowitz Stories (New and Selected)",
+      "year": 2017
+    },
+    "The Squid and the Whale": {
+      "id": 10707,
+      "poster": "/9NbXn1NMdfGM491V3EFjZADR9SX.jpg",
+      "title": "The Squid and the Whale",
+      "year": 2005
+    },
+    "Kicking and Screaming": {
+      "id": 28387,
+      "poster": "/ynAtSpTou7snNOq32djzILw9VCA.jpg",
+      "title": "Kicking and Screaming",
+      "year": 1995
+    },
+    "Frances Ha": {
+      "id": 121986,
+      "poster": "/jrq1NoKvsxWCcffVOjegiYwloFN.jpg",
+      "title": "Frances Ha",
+      "year": 2013
+    },
+    "Greenberg": {
+      "id": 27583,
+      "poster": "/jAsN4vPpycVxC89QlA6NYBXRuK7.jpg",
+      "title": "Greenberg",
+      "year": 2010
+    },
+    "While We're Young": {
+      "id": 252512,
+      "poster": "/rdYXGeK3OZjBrd2R8A1sSS0Kxcq.jpg",
+      "title": "While We're Young",
+      "year": 2015
+    },
+    "Mistress America": {
+      "id": 309245,
+      "poster": "/w0V4M9nY9bjsoTKdaAYzL9gRpWY.jpg",
+      "title": "Mistress America",
+      "year": 2015
+    },
+    "Lady Bird": {
+      "id": 391713,
+      "poster": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+      "title": "Lady Bird",
+      "year": 2017
+    },
+    "De Palma": {
+      "id": 355254,
+      "poster": "/uYYxSGwKWrnN86Uyuk0NyDzCLwh.jpg",
+      "title": "De Palma",
+      "year": 2016
+    },
+    "Scarface": {
+      "id": 111,
+      "poster": "/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+      "title": "Scarface",
+      "year": 1983
+    },
+    "The Untouchables": {
+      "id": 117,
+      "poster": "/tPq0R4jTO4Ey8ZspFaWK9wGA4Ls.jpg",
+      "title": "The Untouchables",
+      "year": 1987
+    },
+    "Dunkirk": {
+      "id": 374720,
+      "poster": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "title": "Dunkirk",
+      "year": 2017
+    },
+    "Diner": {
+      "id": 13776,
+      "poster": "/2vKIdZ6JkFIzcQeaHg3xtdvOyRO.jpg",
+      "title": "Diner",
+      "year": 1982
+    },
+    "Popeye": {
+      "id": 11335,
+      "poster": "/hCCp4pESgYY6uTFARYf4UYV1BdU.jpg",
+      "title": "Popeye",
+      "year": 1980
+    },
+    "Bugsy Malone": {
+      "id": 8446,
+      "poster": "/j9BPl3jkNCFgsYe5poKrirUqrf8.jpg",
+      "title": "Bugsy Malone",
+      "year": 1976
+    },
+    "The Great Muppet Caper": {
+      "id": 14900,
+      "poster": "/lnJc4B4njeyNHWqG00ozuUIhtu5.jpg",
+      "title": "The Great Muppet Caper",
+      "year": 1981
+    }
+  }
+}

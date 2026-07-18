@@ -1,0 +1,314 @@
+{
+  "slug": "blonde-and-the-top-5-essential-marilyn-monroe-movies",
+  "title": "‘Blonde’ and the Top 5 Essential Marilyn Monroe Movies",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2022-09-28",
+  "runtimeMin": 64,
+  "format": "Sean and Amanda pan Andrew Dominik's three-hour Marilyn Monroe biopic, then work through the films that actually made her.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘Blonde’",
+      "note": "the Netflix Marilyn Monroe biopic",
+      "films": [
+        {
+          "title": "Blonde",
+          "year": 2022,
+          "note": "Andrew Dominik's NC-17 fictionalization of Marilyn's life, adapted from the Joyce Carol Oates novel with Ana de Armas as Marilyn. Both hosts admire the visual craft and the shot-for-shot recreations but read the film as relentless trauma porn that strips her of any agency. Sean lands on two stars; Amanda would give it none."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The essential Marilyn Monroe movies",
+      "note": "the work behind the icon",
+      "films": [
+        {
+          "title": "Some Like It Hot",
+          "year": 1959,
+          "note": "The Billy Wilder classic both hosts name as her best film and best performance — she goes toe to toe with Jack Lemmon, funny but a little heartbreaking."
+        },
+        {
+          "title": "All About Eve",
+          "year": 1950,
+          "note": "A scene or two, but her looks and presence do the work; Sean calls it a movie that already understood Hollywood 30 years in."
+        },
+        {
+          "title": "Niagara",
+          "year": 1953,
+          "note": "An overheated color noir Sean loves — she's the dame who makes everything go haywire, and she's well used in it."
+        },
+        {
+          "title": "Gentlemen Prefer Blondes",
+          "year": 1953,
+          "note": "One of her two Jane Russell pictures from her early-'50s hot streak; the 'Diamonds Are a Girl's Best Friend' number Blonde recreates comes from here."
+        },
+        {
+          "title": "How to Marry a Millionaire",
+          "year": 1953,
+          "note": "The other Jane Russell-era hit from the same peak stretch."
+        },
+        {
+          "title": "River of No Return",
+          "year": 1954,
+          "note": "An Otto Preminger Western opposite Robert Mitchum; Sean watched it fresh and liked that she plays a real part, not the silly showgirl."
+        },
+        {
+          "title": "Bus Stop",
+          "year": 1956,
+          "note": "Not a good movie, Sean says, but maybe her best performance because it's her least 'Marilyn' — brunette, a decent Southern accent, resisting the cowboy pursuing her."
+        },
+        {
+          "title": "The Misfits",
+          "year": 1961,
+          "note": "John Huston directs an Arthur Miller script written for her, with Clark Gable and Montgomery Clift; impressionistic, not a success, and she's ravishing turning the corner on her beauty."
+        },
+        {
+          "title": "The Asphalt Jungle",
+          "year": 1950,
+          "note": "One of her first parts, also directed by Huston, cited as the start of a career that ran through 10 of the era's major directors."
+        },
+        {
+          "title": "The Seven Year Itch",
+          "year": 1955,
+          "note": "Source of the 30-foot cutout image the movie treats as her alter-ego superhero self."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Andrew Dominik's other films",
+      "films": [
+        "Chopper",
+        "The Assassination of Jesse James by the Coward Robert Ford",
+        "Killing Them Softly"
+      ]
+    },
+    {
+      "group": "The other 'sad famous woman' biopics",
+      "films": [
+        "Jackie",
+        "Spencer",
+        "My Week with Marilyn",
+        "The Prince and the Showgirl"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "JFK",
+        "Knives Out",
+        "No Time to Die",
+        "Don't Worry Darling",
+        "The Woman King",
+        "Forrest Gump",
+        "Elvis",
+        "Do Revenge",
+        "White Noise",
+        "The Fabelmans",
+        "Bros",
+        "The Redeemed Team"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Mare of Easttown",
+      "The Man in the High Castle",
+      "Norma Jean & Marilyn"
+    ],
+    "Podcasts": [
+      "Bandsplain"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "Carvana",
+      "Quaker",
+      "Sam's Club",
+      "FIFA World Cup Launch Edition"
+    ]
+  },
+  "tmdb": {
+    "Blonde": {
+      "id": 301502,
+      "poster": "/mEeHqtnWOR44vLCutEFku2WK6ou.jpg",
+      "title": "Blonde",
+      "year": 2022
+    },
+    "Some Like It Hot": {
+      "id": 239,
+      "poster": "/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+      "title": "Some Like It Hot",
+      "year": 1959
+    },
+    "All About Eve": {
+      "id": 705,
+      "poster": "/blBzZaatPWVuWpXEnPscMA4Xp6m.jpg",
+      "title": "All About Eve",
+      "year": 1950
+    },
+    "Niagara": {
+      "id": 19997,
+      "poster": "/wb9OBAiO3aUpY4UBkE07KscXSkA.jpg",
+      "title": "Niagara",
+      "year": 1953
+    },
+    "Gentlemen Prefer Blondes": {
+      "id": 759,
+      "poster": "/fDozhst5HVJJcd3BM8ZOsKniO7Q.jpg",
+      "title": "Gentlemen Prefer Blondes",
+      "year": 1953
+    },
+    "How to Marry a Millionaire": {
+      "id": 10297,
+      "poster": "/dFwefYyEOOZaWVn15xGY6CbYYJ2.jpg",
+      "title": "How to Marry a Millionaire",
+      "year": 1953
+    },
+    "River of No Return": {
+      "id": 1936,
+      "poster": "/jXYjgPad6IIfZfCtzLuWTnJdijo.jpg",
+      "title": "River of No Return",
+      "year": 1954
+    },
+    "Bus Stop": {
+      "id": 24010,
+      "poster": "/oXZiz5zIyynjQMJMBbXijS4434z.jpg",
+      "title": "Bus Stop",
+      "year": 1956
+    },
+    "The Misfits": {
+      "id": 11536,
+      "poster": "/rkIkyPhT5oetT463HxpdIuct30l.jpg",
+      "title": "The Misfits",
+      "year": 1961
+    },
+    "The Asphalt Jungle": {
+      "id": 16958,
+      "poster": "/8xsUnT0P2fJWQv9jGDhs3i9Zx2l.jpg",
+      "title": "The Asphalt Jungle",
+      "year": 1950
+    },
+    "The Seven Year Itch": {
+      "id": 10653,
+      "poster": "/4oLqx0QbjWFzWtkxRmDLGH47CUJ.jpg",
+      "title": "The Seven Year Itch",
+      "year": 1955
+    },
+    "Chopper": {
+      "id": 9519,
+      "poster": "/8Ua4voSMwqzlL8DzYi6dOOe1Dxw.jpg",
+      "title": "Chopper",
+      "year": 2000
+    },
+    "The Assassination of Jesse James by the Coward Robert Ford": {
+      "id": 4512,
+      "poster": "/xMKn6EQS7eR5ubhPJbw5pQSBZMw.jpg",
+      "title": "The Assassination of Jesse James by the Coward Robert Ford",
+      "year": 2007
+    },
+    "Killing Them Softly": {
+      "id": 64689,
+      "poster": "/heaz45kpFa4Oa7iLis0OBas68ls.jpg",
+      "title": "Killing Them Softly",
+      "year": 2012
+    },
+    "Jackie": {
+      "id": 376866,
+      "poster": "/nF9N33PfhizMEzbfxHoxXBo2vx9.jpg",
+      "title": "Jackie",
+      "year": 2016
+    },
+    "Spencer": {
+      "id": 716612,
+      "poster": "/7GcqdBKaMM9BWXWN07BirBMkcBF.jpg",
+      "title": "Spencer",
+      "year": 2021
+    },
+    "My Week with Marilyn": {
+      "id": 75900,
+      "poster": "/5naqXRY1Zug5cyJJbO9H4DOg28q.jpg",
+      "title": "My Week with Marilyn",
+      "year": 2011
+    },
+    "The Prince and the Showgirl": {
+      "id": 24012,
+      "poster": "/eNnzkk6OPRnx2jApJ4MnbvJFEvm.jpg",
+      "title": "The Prince and the Showgirl",
+      "year": 1957
+    },
+    "JFK": {
+      "id": 820,
+      "poster": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+      "title": "JFK",
+      "year": 1991
+    },
+    "Knives Out": {
+      "id": 546554,
+      "poster": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+      "title": "Knives Out",
+      "year": 2019
+    },
+    "No Time to Die": {
+      "id": 370172,
+      "poster": "/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+      "title": "No Time to Die",
+      "year": 2021
+    },
+    "Don't Worry Darling": {
+      "id": 619730,
+      "poster": "/jOqxKIOC92BVyinYO1Fm73XY7Tc.jpg",
+      "title": "Don't Worry Darling",
+      "year": 2022
+    },
+    "The Woman King": {
+      "id": 724495,
+      "poster": "/438QXt1E3WJWb3PqNniK0tAE5c1.jpg",
+      "title": "The Woman King",
+      "year": 2022
+    },
+    "Forrest Gump": {
+      "id": 13,
+      "poster": "/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
+      "title": "Forrest Gump",
+      "year": 1994
+    },
+    "Elvis": {
+      "id": 614934,
+      "poster": "/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg",
+      "title": "Elvis",
+      "year": 2022
+    },
+    "Do Revenge": {
+      "id": 762968,
+      "poster": "/akIjKJDHcVN4bzifcEarKVPNpoa.jpg",
+      "title": "Do Revenge",
+      "year": 2022
+    },
+    "White Noise": {
+      "id": 744594,
+      "poster": "/kesxNdLZlmGoTRspDHU1WgdEuGw.jpg",
+      "title": "White Noise",
+      "year": 2022
+    },
+    "The Fabelmans": {
+      "id": 804095,
+      "poster": "/h7llKkqkkJtJrTOaDLuVeUYDQ7I.jpg",
+      "title": "The Fabelmans",
+      "year": 2022
+    },
+    "Bros": {
+      "id": 614939,
+      "poster": "/op02Hv5i4Z049nGJYmk6BScRqHO.jpg",
+      "title": "Bros",
+      "year": 2022
+    },
+    "The Redeemed Team": null
+  }
+}

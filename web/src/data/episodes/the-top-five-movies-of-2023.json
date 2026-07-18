@@ -1,0 +1,493 @@
+{
+  "slug": "the-top-five-movies-of-2023",
+  "title": "The Top Five Movies of 2023",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2023-12-05",
+  "runtimeMin": 92,
+  "format": "Sean, Amanda, Chris Ryan, and Adam Nayman each rank their five best movies of 2023, take a box-office trivia detour, and compare their toughest cuts.",
+  "segments": [
+    {
+      "kind": "topfive",
+      "heading": "Sean's Top Five",
+      "subject": "Sean Fennessey",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Killers of the Flower Moon",
+          "year": 2023,
+          "note": "His No. 1: the movie he keeps coming back to when he thinks about the year."
+        },
+        {
+          "title": "Spider-Man: Across the Spider-Verse",
+          "year": 2023,
+          "note": "Called it the Empire Strikes Back of comic book movies."
+        },
+        {
+          "title": "Oppenheimer",
+          "year": 2023
+        },
+        {
+          "title": "May December",
+          "year": 2023
+        },
+        {
+          "title": "The Taste of Things",
+          "year": 2023,
+          "note": "Not yet released wide; premiered at Cannes as The Pot-au-Feu."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Amanda's Top Five",
+      "subject": "Amanda Dobbins",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Killers of the Flower Moon",
+          "year": 2023
+        },
+        {
+          "title": "Barbie",
+          "year": 2023
+        },
+        {
+          "title": "Past Lives",
+          "year": 2023
+        },
+        {
+          "title": "Showing Up",
+          "year": 2023
+        },
+        {
+          "title": "Priscilla",
+          "year": 2023
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Chris Ryan's Top Five",
+      "guest": "Chris Ryan",
+      "subject": "Chris Ryan",
+      "ranked": true,
+      "films": [
+        {
+          "title": "The Killer",
+          "year": 2023,
+          "note": "His No. 1: he called it his 'nightlight movie' of the year."
+        },
+        {
+          "title": "Oppenheimer",
+          "year": 2023
+        },
+        {
+          "title": "Killers of the Flower Moon",
+          "year": 2023
+        },
+        {
+          "title": "How to Blow Up a Pipeline",
+          "year": 2023
+        },
+        {
+          "title": "Ferrari",
+          "year": 2023
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Adam Nayman's Top Five",
+      "guest": "Adam Nayman",
+      "subject": "Adam Nayman",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Showing Up",
+          "year": 2023,
+          "note": "His No. 1: his film of the year, and a proposed double bill with The Killer."
+        },
+        {
+          "title": "The Zone of Interest",
+          "year": 2023
+        },
+        {
+          "title": "Killers of the Flower Moon",
+          "year": 2023
+        },
+        {
+          "title": "May December",
+          "year": 2023
+        },
+        {
+          "title": "Are You There God, It's Me Margaret",
+          "year": 2023
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "heading": "Toughest cuts",
+      "note": "the movies that just missed each list",
+      "picks": [
+        {
+          "title": "The Holdovers",
+          "year": 2023,
+          "by": "Sierra"
+        },
+        {
+          "title": "Asteroid City",
+          "year": 2023,
+          "by": "Sean Fennessey"
+        },
+        {
+          "title": "All of Us Strangers",
+          "year": 2023,
+          "by": "Adam Nayman"
+        },
+        {
+          "title": "Afire",
+          "year": 2023,
+          "by": "Adam Nayman"
+        },
+        {
+          "title": "Anatomy of a Fall",
+          "year": 2023,
+          "by": "Adam Nayman"
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Box office trivia",
+      "films": [
+        "Harry Potter and the Philosopher's Stone",
+        "Monsters, Inc.",
+        "The Lord of the Rings: The Fellowship of the Ring",
+        "E.T. the Extra-Terrestrial",
+        "An Officer and a Gentleman",
+        "Tootsie"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Napoleon",
+        "Wonka",
+        "Lady Ballers",
+        "Sound of Freedom",
+        "The Fabelmans",
+        "Godzilla Minus One",
+        "Saint Omer",
+        "Basic Instinct",
+        "Five Nights at Freddy's",
+        "Pacifiction",
+        "Trolls Band Together",
+        "The Empty Man",
+        "Avengers: Infinity War",
+        "Blackhat",
+        "Miami Vice",
+        "The Insider",
+        "The Big Lebowski",
+        "Boogie Nights",
+        "Chasing Amy",
+        "Poor Things"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Curse",
+      "Riverdale"
+    ],
+    "Games": [
+      "GoldenEye 007"
+    ],
+    "Ads": [
+      "Dissect (podcast)",
+      "Boar's Head",
+      "FanDuel",
+      "Carvana",
+      "NOS Energy",
+      "Talk About PD"
+    ]
+  },
+  "tmdb": {
+    "Killers of the Flower Moon": {
+      "id": 466420,
+      "poster": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+      "title": "Killers of the Flower Moon",
+      "year": 2023
+    },
+    "Spider-Man: Across the Spider-Verse": {
+      "id": 569094,
+      "poster": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "year": 2023
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "May December": {
+      "id": 839369,
+      "poster": "/zhV7B610l7hjlri4ywikJ18ONuq.jpg",
+      "title": "May December",
+      "year": 2023
+    },
+    "The Taste of Things": {
+      "id": 964960,
+      "poster": "/gZsXtzwI3CgCvKF5TkgHVhhbEg1.jpg",
+      "title": "The Taste of Things",
+      "year": 2023
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Past Lives": {
+      "id": 666277,
+      "poster": "/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg",
+      "title": "Past Lives",
+      "year": 2023
+    },
+    "Showing Up": {
+      "id": 790416,
+      "poster": "/iJw55oTb2MlG4NWjq3sbIFUVU76.jpg",
+      "title": "Showing Up",
+      "year": 2023
+    },
+    "Priscilla": {
+      "id": 1020006,
+      "poster": "/uDCeELWWpsNq7ErM61Yuq70WAE9.jpg",
+      "title": "Priscilla",
+      "year": 2023
+    },
+    "The Killer": {
+      "id": 800158,
+      "poster": "/ipkcgvN7h3yZnbYowthloHLKsf4.jpg",
+      "title": "The Killer",
+      "year": 2023
+    },
+    "How to Blow Up a Pipeline": {
+      "id": 1008048,
+      "poster": "/5HJF47ywTuxxouVdAHAZ7iPzB4T.jpg",
+      "title": "How to Blow Up a Pipeline",
+      "year": 2023
+    },
+    "Ferrari": {
+      "id": 365620,
+      "poster": "/LyCOcGqOTyTmaXu2TK8LfGveIb.jpg",
+      "title": "Ferrari",
+      "year": 2023
+    },
+    "The Zone of Interest": {
+      "id": 467244,
+      "poster": "/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg",
+      "title": "The Zone of Interest",
+      "year": 2023
+    },
+    "Are You There God, It's Me Margaret": {
+      "id": 555285,
+      "poster": "/yb6UB4WC3znlwU0L4AqMnjR9G9S.jpg",
+      "title": "Are You There God? It's Me, Margaret.",
+      "year": 2023
+    },
+    "The Holdovers": {
+      "id": 840430,
+      "poster": "/VHSzNBTwxV8vh7wylo7O9CLdac.jpg",
+      "title": "The Holdovers",
+      "year": 2023
+    },
+    "Asteroid City": {
+      "id": 747188,
+      "poster": "/hfo7pvL9Fys7rocfL4VOzw9qDEQ.jpg",
+      "title": "Asteroid City",
+      "year": 2023
+    },
+    "All of Us Strangers": {
+      "id": 994108,
+      "poster": "/aviJMFZSnnCAsCVyJGaPNx4Ef3i.jpg",
+      "title": "All of Us Strangers",
+      "year": 2023
+    },
+    "Afire": {
+      "id": 900379,
+      "poster": "/k8NYzD01zAUsdqocjhLXbO9BSS8.jpg",
+      "title": "Afire",
+      "year": 2023
+    },
+    "Anatomy of a Fall": {
+      "id": 915935,
+      "poster": "/1ho0d4LNZw3Y0voeKmSvPSgJOJ2.jpg",
+      "title": "Anatomy of a Fall",
+      "year": 2023
+    },
+    "Harry Potter and the Philosopher's Stone": {
+      "id": 671,
+      "poster": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "year": 2001
+    },
+    "Monsters, Inc.": {
+      "id": 585,
+      "poster": "/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
+      "title": "Monsters, Inc.",
+      "year": 2001
+    },
+    "The Lord of the Rings: The Fellowship of the Ring": {
+      "id": 120,
+      "poster": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001
+    },
+    "E.T. the Extra-Terrestrial": {
+      "id": 601,
+      "poster": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+      "title": "E.T. the Extra-Terrestrial",
+      "year": 1982
+    },
+    "An Officer and a Gentleman": {
+      "id": 2623,
+      "poster": "/69adZbLeRk5TNQ3e0008dMnde9p.jpg",
+      "title": "An Officer and a Gentleman",
+      "year": 1982
+    },
+    "Tootsie": {
+      "id": 9576,
+      "poster": "/ngyCzZwb9y5sMUCig5JQT4Y33Q.jpg",
+      "title": "Tootsie",
+      "year": 1982
+    },
+    "Napoleon": {
+      "id": 753342,
+      "poster": "/ytFOXyghxLzAM4KZyazDdEkM66q.jpg",
+      "title": "Napoleon",
+      "year": 2023
+    },
+    "Wonka": {
+      "id": 787699,
+      "poster": "/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+      "title": "Wonka",
+      "year": 2023
+    },
+    "Lady Ballers": {
+      "id": 1210646,
+      "poster": "/2mud8Gr8s7RxNPDQOK7OSFxglyO.jpg",
+      "title": "Lady Ballers",
+      "year": 2023
+    },
+    "Sound of Freedom": {
+      "id": 678512,
+      "poster": "/qA5kPYZA7FkVvqcEfJRoOy4kpHg.jpg",
+      "title": "Sound of Freedom",
+      "year": 2023
+    },
+    "The Fabelmans": {
+      "id": 804095,
+      "poster": "/h7llKkqkkJtJrTOaDLuVeUYDQ7I.jpg",
+      "title": "The Fabelmans",
+      "year": 2022
+    },
+    "Godzilla Minus One": {
+      "id": 940721,
+      "poster": "/2E2WTX0TJEflAged6kzErwqX1kt.jpg",
+      "title": "Godzilla Minus One",
+      "year": 2023
+    },
+    "Saint Omer": {
+      "id": 925943,
+      "poster": "/ekr25uuxlH7kg3KLhLLZcDZ15xd.jpg",
+      "title": "Saint Omer",
+      "year": 2022
+    },
+    "Basic Instinct": {
+      "id": 402,
+      "poster": "/76Ts0yoHk8kVQj9MMnoMixhRWoh.jpg",
+      "title": "Basic Instinct",
+      "year": 1992
+    },
+    "Five Nights at Freddy's": {
+      "id": 507089,
+      "poster": "/7BpNtNfxuocYEVREzVMO75hso1l.jpg",
+      "title": "Five Nights at Freddy's",
+      "year": 2023
+    },
+    "Pacifiction": {
+      "id": 691214,
+      "poster": "/kElJcT1oteDCyRzw0XNqrTZcCvA.jpg",
+      "title": "Pacifiction",
+      "year": 2022
+    },
+    "Trolls Band Together": {
+      "id": 901362,
+      "poster": "/3ySgD2xwasTHOK6R9bNZiEwKgYo.jpg",
+      "title": "Trolls Band Together",
+      "year": 2023
+    },
+    "The Empty Man": {
+      "id": 516632,
+      "poster": "/8apzu9JFTUMtOpYkHk6LNPOs3pY.jpg",
+      "title": "The Empty Man",
+      "year": 2020
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    },
+    "Blackhat": {
+      "id": 201088,
+      "poster": "/7zu6HPnKPjNA7NuR4DGRdaH0PdX.jpg",
+      "title": "Blackhat",
+      "year": 2015
+    },
+    "Miami Vice": {
+      "id": 82,
+      "poster": "/iJPSls4taB09EUKtLj6FjFSprb3.jpg",
+      "title": "Miami Vice",
+      "year": 2006
+    },
+    "The Insider": {
+      "id": 9008,
+      "poster": "/w695X0FvTlBCS7GSLHNILnrfqPm.jpg",
+      "title": "The Insider",
+      "year": 1999
+    },
+    "The Big Lebowski": {
+      "id": 115,
+      "poster": "/3bv6WAp6BSxxYvB5ozKFUYuRA8C.jpg",
+      "title": "The Big Lebowski",
+      "year": 1998
+    },
+    "Boogie Nights": {
+      "id": 4995,
+      "poster": "/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg",
+      "title": "Boogie Nights",
+      "year": 1997
+    },
+    "Chasing Amy": {
+      "id": 2255,
+      "poster": "/tqydORBcNlQxy3ijgSpPurgDHM2.jpg",
+      "title": "Chasing Amy",
+      "year": 1997
+    },
+    "Poor Things": {
+      "id": 792307,
+      "poster": "/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+      "title": "Poor Things",
+      "year": 2023
+    }
+  }
+}

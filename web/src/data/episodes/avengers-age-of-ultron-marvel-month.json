@@ -1,0 +1,292 @@
+{
+  "slug": "avengers-age-of-ultron-marvel-month",
+  "title": "‘Avengers: Age of Ultron’ | Marvel Month",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Micah Peters"
+  ],
+  "published": "2019-04-17",
+  "runtimeMin": 59,
+  "format": "The fourth Marvel Month installment. Sean Fennessey and Micah Peters revisit Joss Whedon's 'Avengers: Age of Ultron': Ultron as evil-cyborg fable, the movie's locale-hopping bloat, the farmhouse and hammer-lifting scenes, and the point where the MCU's endgame stopped being a tease.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Marvel Month: ‘Avengers: Age of Ultron’",
+      "note": "installment four",
+      "films": [
+        {
+          "title": "Avengers: Age of Ultron",
+          "year": 2015,
+          "note": "Joss Whedon's second Avengers team-up, and the movie where the phrase 'endgame' first turns up in the MCU. Micah, who covered the press junket for USA Today, likes it fine, though he prefers The Winter Soldier's MMA-choreographed fights and thinks the first Avengers had novelty this one lacks. Sean's read: after a 10-minute Hydra-stronghold opener it swaps invasion for world-building, as Tony Stark quietly builds Ultron out of the scepter's Mind Stone and it goes 'terribly awry.' They dig into James Spader's mocap Ultron (a rod of red lights over his head for eyelines; Elizabeth Olsen acting opposite him), Ultron as the latest in an evil-machine lineage, and the movie's odd need to affirm that humanity is worth saving. Best scenes are the human ones: the hammer-lifting party, the Hawkeye farmhouse (which Disney execs reportedly disliked), Hawkeye's 'I have a bow and arrow' pep talk to Wanda, and Hulk vs. the Hulkbuster as maybe the best set piece in any Avengers movie. Complaints: two hours twenty is too long (cut Thor's cave side-quest), the waves-of-robots finale over Sokovia, and a Thanos tease that, in hindsight, makes the surrounding films feel like 'throat clearing.' $429M domestic, $1.405B worldwide; 141 minutes."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Elsewhere in the MCU",
+      "films": [
+        "The Avengers",
+        "Guardians of the Galaxy",
+        "Ant-Man",
+        "Captain America: The Winter Soldier",
+        "Captain America: Civil War",
+        "Avengers: Infinity War",
+        "Avengers: Endgame",
+        "Captain Marvel",
+        "Thor",
+        "Thor: The Dark World",
+        "Thor: Ragnarok",
+        "Spider-Man: Homecoming"
+      ]
+    },
+    {
+      "group": "The evil-machine lineage",
+      "films": [
+        "2001: A Space Odyssey",
+        "Total Recall",
+        "The Terminator",
+        "Terminator 2: Judgment Day"
+      ]
+    },
+    {
+      "group": "Whedon's writing credits",
+      "films": [
+        "Serenity",
+        "Toy Story",
+        "Alien Resurrection",
+        "Titan A.E.",
+        "The Cabin in the Woods"
+      ]
+    },
+    {
+      "group": "Other superhero movies",
+      "films": [
+        "Batman v Superman: Dawn of Justice",
+        "Shazam!",
+        "Dark Phoenix",
+        "Brightburn"
+      ]
+    },
+    {
+      "group": "Touchstones",
+      "films": [
+        "The Empire Strikes Back",
+        "The Godfather Part II",
+        "Return of the Jedi",
+        "Rosemary's Baby"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Buffy the Vampire Slayer",
+      "Firefly",
+      "Boston Legal",
+      "Yu Yu Hakusho",
+      "The Walking Dead",
+      "Live PD",
+      "SpongeBob SquarePants",
+      "Paw Patrol"
+    ],
+    "Video games": [
+      "Grand Theft Auto IV"
+    ],
+    "Comics": [
+      "The Infinity Gauntlet",
+      "Infinity",
+      "Secret Wars",
+      "East of West",
+      "Sex Criminals",
+      "Watchmen"
+    ],
+    "Ads": [
+      "Philo",
+      "NHTSA"
+    ]
+  },
+  "tmdb": {
+    "Avengers: Age of Ultron": {
+      "id": 99861,
+      "poster": "/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+      "title": "Avengers: Age of Ultron",
+      "year": 2015
+    },
+    "The Avengers": {
+      "id": 24428,
+      "poster": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "title": "The Avengers",
+      "year": 2012
+    },
+    "Guardians of the Galaxy": {
+      "id": 118340,
+      "poster": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "title": "Guardians of the Galaxy",
+      "year": 2014
+    },
+    "Ant-Man": {
+      "id": 102899,
+      "poster": "/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg",
+      "title": "Ant-Man",
+      "year": 2015
+    },
+    "Captain America: The Winter Soldier": {
+      "id": 100402,
+      "poster": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+      "title": "Captain America: The Winter Soldier",
+      "year": 2014
+    },
+    "Captain America: Civil War": {
+      "id": 271110,
+      "poster": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+      "title": "Captain America: Civil War",
+      "year": 2016
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Captain Marvel": {
+      "id": 299537,
+      "poster": "/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+      "title": "Captain Marvel",
+      "year": 2019
+    },
+    "Thor": {
+      "id": 10195,
+      "poster": "/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
+      "title": "Thor",
+      "year": 2011
+    },
+    "Thor: The Dark World": {
+      "id": 76338,
+      "poster": "/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",
+      "title": "Thor: The Dark World",
+      "year": 2013
+    },
+    "Thor: Ragnarok": {
+      "id": 284053,
+      "poster": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "title": "Thor: Ragnarok",
+      "year": 2017
+    },
+    "Spider-Man: Homecoming": {
+      "id": 315635,
+      "poster": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+      "title": "Spider-Man: Homecoming",
+      "year": 2017
+    },
+    "2001: A Space Odyssey": {
+      "id": 62,
+      "poster": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "title": "2001: A Space Odyssey",
+      "year": 1968
+    },
+    "Total Recall": {
+      "id": 861,
+      "poster": "/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
+      "title": "Total Recall",
+      "year": 1990
+    },
+    "The Terminator": {
+      "id": 218,
+      "poster": "/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+      "title": "The Terminator",
+      "year": 1984
+    },
+    "Terminator 2: Judgment Day": {
+      "id": 280,
+      "poster": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991
+    },
+    "Serenity": {
+      "id": 16320,
+      "poster": "/4sqUOaPFoP2W81mq1UYqZqf5WzA.jpg",
+      "title": "Serenity",
+      "year": 2005
+    },
+    "Toy Story": {
+      "id": 862,
+      "poster": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+      "title": "Toy Story",
+      "year": 1995
+    },
+    "Alien Resurrection": {
+      "id": 8078,
+      "poster": "/9aRDMlU5Zwpysilm0WCWzU2PCFv.jpg",
+      "title": "Alien Resurrection",
+      "year": 1997
+    },
+    "Titan A.E.": {
+      "id": 7450,
+      "poster": "/el2iHk3LTJWfEnwrvcRkvWY501G.jpg",
+      "title": "Titan A.E.",
+      "year": 2000
+    },
+    "The Cabin in the Woods": {
+      "id": 22970,
+      "poster": "/zZZe5wn0udlhMtdlDjN4NB72R6e.jpg",
+      "title": "The Cabin in the Woods",
+      "year": 2012
+    },
+    "Batman v Superman: Dawn of Justice": {
+      "id": 209112,
+      "poster": "/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
+      "title": "Batman v Superman: Dawn of Justice",
+      "year": 2016
+    },
+    "Shazam!": {
+      "id": 287947,
+      "poster": "/xnopI5Xtky18MPhK40cZAGAOVeV.jpg",
+      "title": "Shazam!",
+      "year": 2019
+    },
+    "Dark Phoenix": {
+      "id": 320288,
+      "poster": "/cCTJPelKGLhALq3r51A9uMonxKj.jpg",
+      "title": "Dark Phoenix",
+      "year": 2019
+    },
+    "Brightburn": {
+      "id": 531309,
+      "poster": "/sJWwkYc9ajwnPRSkqj8Aue5JbKz.jpg",
+      "title": "Brightburn",
+      "year": 2019
+    },
+    "The Empire Strikes Back": {
+      "id": 1891,
+      "poster": "/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+      "title": "The Empire Strikes Back",
+      "year": 1980
+    },
+    "The Godfather Part II": {
+      "id": 240,
+      "poster": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+      "title": "The Godfather Part II",
+      "year": 1974
+    },
+    "Return of the Jedi": {
+      "id": 1892,
+      "poster": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+      "title": "Return of the Jedi",
+      "year": 1983
+    },
+    "Rosemary's Baby": {
+      "id": 805,
+      "poster": "/uYgvlHceRFjAFbsNeMInYcLZLUb.jpg",
+      "title": "Rosemary's Baby",
+      "year": 1968
+    }
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "slug": "matt-reeves-puts-humanity-in-the-planet-of-the-apes-the-big-",
+  "title": "Matt Reeves Puts Humanity in 'The Planet of the Apes' | The Big Picture (Ep. 18)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Chris Ryan"
+  ],
+  "published": "2017-07-14",
+  "runtimeMin": 50,
+  "format": "Chris Ryan on how directors get vaulted into franchise jobs, then Matt Reeves on the mocap grind behind War for the Planet of the Apes and his coming Batman.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The franchise-director track",
+      "note": "Sean Fennessey and Chris Ryan",
+      "films": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "year": 2017,
+          "note": "John Watts jumps from two tiny films to the A-list; Ryan reads him as a Russo-type the Marvel people like."
+        },
+        {
+          "title": "Cop Car",
+          "year": 2015,
+          "note": "One of Watts's two pre-Marvel movies. Ryan notes he directs kids well."
+        },
+        {
+          "title": "Clown",
+          "year": 2014,
+          "note": "Watts's small horror film, the other pre-Homecoming credit."
+        },
+        {
+          "title": "Baby Driver",
+          "year": 2017,
+          "note": "Used as the yardstick: does Watts have a non-franchise swing of his own in him?"
+        },
+        {
+          "title": "The Book of Henry",
+          "year": 2017,
+          "note": "Colin Trevorrow's misfire; Ryan thinks it's unfair to judge his Star Wars off it."
+        },
+        {
+          "title": "Transformers: The Last Knight",
+          "year": 2017,
+          "note": "Bay goes back to the well; poorly received, soft box office."
+        },
+        {
+          "title": "Dunkirk",
+          "year": 2017,
+          "note": "Nolan's other choice: still big, but an intense, fat-free IMAX ride rather than a Transformers-scale blockbuster."
+        },
+        {
+          "title": "Pain & Gain",
+          "year": 2013,
+          "note": "Ryan's alt-history: Bay has spent a decade trying to make Nolan movies like this one."
+        },
+        {
+          "title": "13 Hours: The Secret Soldiers of Benghazi",
+          "year": 2016,
+          "note": "The other Bay passion project; couldn't find an audience."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Matt Reeves on 'War for the Planet of the Apes'",
+      "guest": "Matt Reeves on",
+      "films": [
+        {
+          "title": "War for the Planet of the Apes",
+          "year": 2017,
+          "note": "His second Apes film; the first with no scene lacking apes. Shot on Alexa 65, a year of writing with Mark Bomback, over a year in post matching Andy Serkis's face onto Caesar shot by shot."
+        },
+        {
+          "title": "Dawn of the Planet of the Apes",
+          "year": 2014,
+          "note": "He stepped in after Rupert Wyatt left and made it in two years, not the usual three; a crash course in motion capture he chose War to build on."
+        },
+        {
+          "title": "Rise of the Planet of the Apes",
+          "year": 2011,
+          "note": "Where Reeves first felt full emotional identification with a CG character."
+        },
+        {
+          "title": "Planet of the Apes",
+          "year": 1968,
+          "note": "The endpoint the trilogy is written toward; you get the Statue of Liberty reveal only once, so the whole burden shifts from what to how."
+        },
+        {
+          "title": "Beneath the Planet of the Apes",
+          "year": 1970,
+          "note": "His childhood favorite of the sequels; the mutants unmasking and praying to the bomb freaked him out."
+        },
+        {
+          "title": "Cloverfield",
+          "year": 2008,
+          "note": "An independent film made at Bad Robot, not the studio picture people assume; Abrams told him the VFX were the easy part."
+        },
+        {
+          "title": "Let Me In",
+          "year": 2010,
+          "note": "A remake he turned down until it became the most personal thing he could make; John Ajvide Lindqvist told him to do it."
+        },
+        {
+          "title": "Let the Right One In",
+          "year": 2008,
+          "note": "The Tomas Alfredson original he loved and was reluctant to remake."
+        },
+        {
+          "title": "The Pallbearer",
+          "year": 1996,
+          "note": "His first film, a Miramax comedy with David Schwimmer and Gwyneth Paltrow; he was after Hal Ashby-style 'painful comedies' and it didn't fully work."
+        },
+        {
+          "title": "The Batman",
+          "year": 2022,
+          "note": "Next up: a noir, heavily point-of-view take that finds a parallel between Batman and Caesar as tortured men trying to do right in a corrupt world."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Name-checked in the director talk",
+      "films": [
+        "Doctor Strange",
+        "Guardians of the Galaxy",
+        "Citizen Kane",
+        "Saving Private Ryan",
+        "Atonement",
+        "Lone Survivor"
+      ]
+    },
+    {
+      "group": "Touchstones in the Reeves interview",
+      "films": [
+        "2001: A Space Odyssey",
+        "Shampoo",
+        "Harold and Maude"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Felicity",
+      "The Twilight Zone"
+    ],
+    "Podcasts": [
+      "The Watch"
+    ],
+    "Ads": [
+      "Mack Weldon"
+    ]
+  },
+  "tmdb": {
+    "Spider-Man: Homecoming": {
+      "id": 315635,
+      "poster": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+      "title": "Spider-Man: Homecoming",
+      "year": 2017
+    },
+    "Cop Car": {
+      "id": 310133,
+      "poster": "/6MCvmPcMdbmdsIeRNQhKzLcZorP.jpg",
+      "title": "Cop Car",
+      "year": 2015
+    },
+    "Clown": {
+      "id": 112454,
+      "poster": "/gp5QyaU49utfWVVL698BzlN2vMh.jpg",
+      "title": "Clown",
+      "year": 2014
+    },
+    "Baby Driver": {
+      "id": 339403,
+      "poster": "/tYzFuYXmT8LOYASlFCkaPiAFAl0.jpg",
+      "title": "Baby Driver",
+      "year": 2017
+    },
+    "The Book of Henry": {
+      "id": 382614,
+      "poster": "/suLFg4UjvM5BoDipg2Wu3gZ802T.jpg",
+      "title": "The Book of Henry",
+      "year": 2017
+    },
+    "Transformers: The Last Knight": {
+      "id": 335988,
+      "poster": "/s5HQf2Gb3lIO2cRcFwNL9sn1o1o.jpg",
+      "title": "Transformers: The Last Knight",
+      "year": 2017
+    },
+    "Dunkirk": {
+      "id": 374720,
+      "poster": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "title": "Dunkirk",
+      "year": 2017
+    },
+    "Pain & Gain": {
+      "id": 134374,
+      "poster": "/9WqA0Ry9wmTzFvom8mNbcyKZQgP.jpg",
+      "title": "Pain & Gain",
+      "year": 2013
+    },
+    "13 Hours: The Secret Soldiers of Benghazi": {
+      "id": 300671,
+      "poster": "/fZlAxZMo6BId1SiqyjLmkd7oUB7.jpg",
+      "title": "13 Hours: The Secret Soldiers of Benghazi",
+      "year": 2016
+    },
+    "War for the Planet of the Apes": {
+      "id": 281338,
+      "poster": "/3vYhLLxrTtZLysXtIWktmd57Snv.jpg",
+      "title": "War for the Planet of the Apes",
+      "year": 2017
+    },
+    "Dawn of the Planet of the Apes": {
+      "id": 119450,
+      "poster": "/mSmAc9G25fhOHH45SLEeagR0qi7.jpg",
+      "title": "Dawn of the Planet of the Apes",
+      "year": 2014
+    },
+    "Rise of the Planet of the Apes": {
+      "id": 61791,
+      "poster": "/oqA45qMyyo1TtrnVEBKxqmTPhbN.jpg",
+      "title": "Rise of the Planet of the Apes",
+      "year": 2011
+    },
+    "Planet of the Apes": {
+      "id": 871,
+      "poster": "/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+      "title": "Planet of the Apes",
+      "year": 1968
+    },
+    "Beneath the Planet of the Apes": {
+      "id": 1685,
+      "poster": "/szHCeYwi4ubewuYnlnz0YGqWnQC.jpg",
+      "title": "Beneath the Planet of the Apes",
+      "year": 1970
+    },
+    "Cloverfield": {
+      "id": 7191,
+      "poster": "/qIegUGJqyMMCRjkKV1s7A9MqdJ8.jpg",
+      "title": "Cloverfield",
+      "year": 2008
+    },
+    "Let Me In": {
+      "id": 41402,
+      "poster": "/rgNb9nwPKwV45c5PTvFqFmpzGt0.jpg",
+      "title": "Let Me In",
+      "year": 2010
+    },
+    "Let the Right One In": {
+      "id": 13310,
+      "poster": "/7IG4WjaAOVDlLvLUkh513HSwhW8.jpg",
+      "title": "Let the Right One In",
+      "year": 2008
+    },
+    "The Pallbearer": {
+      "id": 23570,
+      "poster": "/zwHI9B3kcj3WqZoE2LaLDi6ZeAO.jpg",
+      "title": "The Pallbearer",
+      "year": 1996
+    },
+    "The Batman": {
+      "id": 414906,
+      "poster": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "title": "The Batman",
+      "year": 2022
+    },
+    "Doctor Strange": {
+      "id": 284052,
+      "poster": "/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg",
+      "title": "Doctor Strange",
+      "year": 2016
+    },
+    "Guardians of the Galaxy": {
+      "id": 118340,
+      "poster": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "title": "Guardians of the Galaxy",
+      "year": 2014
+    },
+    "Citizen Kane": {
+      "id": 15,
+      "poster": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+      "title": "Citizen Kane",
+      "year": 1941
+    },
+    "Saving Private Ryan": {
+      "id": 857,
+      "poster": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+      "title": "Saving Private Ryan",
+      "year": 1998
+    },
+    "Atonement": {
+      "id": 4347,
+      "poster": "/hMRIyBjPzxaSXWM06se3OcNjIQa.jpg",
+      "title": "Atonement",
+      "year": 2007
+    },
+    "Lone Survivor": {
+      "id": 193756,
+      "poster": "/zaBIrloyhGK7iNTZMb3f9SARsl8.jpg",
+      "title": "Lone Survivor",
+      "year": 2013
+    },
+    "2001: A Space Odyssey": {
+      "id": 62,
+      "poster": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "title": "2001: A Space Odyssey",
+      "year": 1968
+    },
+    "Shampoo": {
+      "id": 31121,
+      "poster": "/6jmFvXPV6OhtX3AkAVnH7rwdeUJ.jpg",
+      "title": "Shampoo",
+      "year": 1975
+    },
+    "Harold and Maude": {
+      "id": 343,
+      "poster": "/t7qEuGwDjcYu8ajaKZ68DeDnOxw.jpg",
+      "title": "Harold and Maude",
+      "year": 1971
+    }
+  }
+}

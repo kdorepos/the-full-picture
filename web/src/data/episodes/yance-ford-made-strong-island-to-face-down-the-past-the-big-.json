@@ -1,0 +1,50 @@
+{
+  "slug": "yance-ford-made-strong-island-to-face-down-the-past-the-big-",
+  "title": "Yance Ford Made ‘Strong Island’ to Face Down the Past | The Big Picture (Ep. 50)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2018-02-19",
+  "runtimeMin": 33,
+  "format": "Sean sits down with Oscar-nominated director Yance Ford to talk through the decade it took to make Strong Island, a documentary about his brother's 1992 murder.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "Yance Ford on Strong Island",
+      "guest": "Yance Ford on",
+      "films": [
+        {
+          "title": "Strong Island",
+          "year": 2017,
+          "note": "Ford's Oscar-nominated documentary about the 1992 murder of his brother William and the broken case that followed. Ten years in the making; he left his job at PBS's POV in 2012 to finish it full time."
+        },
+        {
+          "title": "When We Were Kings",
+          "year": 1996,
+          "note": "Leon Gast's documentary on the 1974 Ali-Foreman fight in Kinshasa. Ford's answer to the show's closing question, having just seen a 35mm restoration at the Museum of the Moving Image."
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "Ads": [
+      "Bachelor Party podcast"
+    ]
+  },
+  "tmdb": {
+    "Strong Island": {
+      "id": 428612,
+      "poster": "/qGq7WCNv9S8GBbP8DfIchiaodWn.jpg",
+      "title": "Strong Island",
+      "year": 2017
+    },
+    "When We Were Kings": {
+      "id": 10548,
+      "poster": "/yBkZK1JZOOJ3q5Jj1H9UP9T8YuV.jpg",
+      "title": "When We Were Kings",
+      "year": 1996
+    }
+  }
+}

@@ -1,0 +1,537 @@
+{
+  "slug": "top-five-summertime-movies",
+  "title": "Top Five Summertime Movies",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2020-07-17",
+  "runtimeMin": 77,
+  "format": "With the real summer movie season canceled and Tenet in limbo, Sean Fennessey, Amanda Dobbins, and Chris Ryan invent their own, each counting down five movies that capture the feeling of summer, then somehow all agreeing on the same No. 2.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "No Tenet, no Summer of Nolan",
+      "note": "before the lists",
+      "films": [
+        {
+          "title": "Tenet",
+          "year": 2020,
+          "note": "Word breaks mid-taping that it won't open August 12 after all. The three debate why Christopher Nolan and Warner Bros. wouldn't just push it a year rather than tie its whole identity to reopened theaters."
+        },
+        {
+          "title": "Inception",
+          "year": 2010,
+          "note": "Its 10th anniversary landed during the shutdown; Chris admits he missed the Rewatchables tribute."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Chris Ryan's Top Five Summertime Movies",
+      "note": "best to worst",
+      "subject": "summertime movies",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Adventureland",
+          "year": 2009,
+          "note": "No. 1. Chris's most personal pick: Jesse Eisenberg killing a post-college summer at a Pittsburgh amusement park. He pairs it with Dazed and Confused as a coming-of-age touchstone and calls the soundtrack one of the best ever assembled."
+        },
+        {
+          "title": "Do the Right Thing",
+          "year": 1989,
+          "note": "No. 2, and the one unanimous pick of the whole episode: all three hosts had it in the same spot."
+        },
+        {
+          "title": "Die Hard with a Vengeance",
+          "year": 1995,
+          "note": "No. 3. Chris's all-in-one-day, all-in-one-hangover New York movie. He notes it started life as an unrelated script called Simon Says before being reworked into the Die Hard franchise, and singles out Samuel L. Jackson's chemistry with Bruce Willis."
+        },
+        {
+          "title": "Bull Durham",
+          "year": 1988,
+          "note": "No. 4. Chris grew up with baseball as his summer's organizing principle; he calls the romance between Susan Sarandon and Kevin Costner the ultimate summer romance."
+        },
+        {
+          "title": "Rear Window",
+          "year": 1954,
+          "note": "No. 5. Chris admits it's arguably a top-30-all-time film rather than merely a top-five summer one. James Stewart's heatwave-bound voyeurism hit differently after months of quarantine nosiness about his own neighbors."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Amanda Dobbins's Top Five Summertime Movies",
+      "note": "best to worst",
+      "subject": "summertime movies",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Dirty Dancing",
+          "year": 1987,
+          "note": "No. 1. A Catskills resort, Jennifer Grey's Baby coming into her own, and Patrick Swayze as, in Amanda's telling, most of her sex education."
+        },
+        {
+          "title": "Do the Right Thing",
+          "year": 1989,
+          "note": "No. 2, unanimous across all three lists. Amanda calls it the ultimate New York summer movie: you can feel the heat and the tempers rising in real time."
+        },
+        {
+          "title": "Something's Gotta Give",
+          "year": 2003,
+          "note": "No. 3. Nancy Meyers's Hamptons beach house, with Diane Keaton and Jack Nicholson (and Keanu Reeves) making the case for summer romance well past your twenties."
+        },
+        {
+          "title": "Call Me by Your Name",
+          "year": 2017,
+          "note": "No. 4. Luca Guadagnino's Italy, all lazy pool afternoons and long bike rides. It's a summer love story that ends bittersweet rather than happy."
+        },
+        {
+          "title": "Now and Then",
+          "year": 1995,
+          "note": "No. 5. Amanda's \"Stand By Me, but for girls\": four women recall the childhood summer of 1970 that made them friends."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Sean Fennessey's Top Five Summertime Movies",
+      "note": "best to worst",
+      "subject": "summertime movies",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Jaws",
+          "year": 1975,
+          "note": "No. 1, which Sean calls \"really a collective number one.\" Amity's need for summer dollars, he argues, is the template the summer blockbuster never left."
+        },
+        {
+          "title": "Do the Right Thing",
+          "year": 1989,
+          "note": "No. 2, unanimous. Sean credits cinematographer Ernest Dickerson with making Brooklyn's heat visible on screen, down to the red paint on the walls."
+        },
+        {
+          "title": "Summer School",
+          "year": 1987,
+          "note": "No. 3. Carl Reiner's Mark Harmon comedy ran on cable constantly during Sean's childhood; he calls it the stand-in for a whole genre of '80s summer comedies."
+        },
+        {
+          "title": "Risky Business",
+          "year": 1983,
+          "note": "No. 4. Paul Brickman's Reagan-era satire, with Tom Cruise at peak charm. Sean argues it's more subtle and artful than its sunglasses-and-Bob-Seger reputation suggests."
+        },
+        {
+          "title": "Big Wednesday",
+          "year": 1978,
+          "note": "No. 5. Sean's \"pointy-headed\" pick: John Milius's tribute to surfing friendship, made by the same movie-brat generation as Scorsese and Spielberg."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Bill Murray's summer résumé",
+      "films": [
+        "What About Bob?",
+        "Quick Change",
+        "Caddyshack",
+        "Meatballs",
+        "Moonrise Kingdom",
+        "Ghostbusters"
+      ]
+    },
+    {
+      "group": "Amanda's honorable mentions",
+      "films": [
+        "The Talented Mr. Ripley",
+        "The Notebook",
+        "The Parent Trap",
+        "A League of Their Own",
+        "The Sandlot",
+        "Mamma Mia!"
+      ]
+    },
+    {
+      "group": "Chris's honorable mentions",
+      "films": [
+        "Friday the 13th",
+        "Friday the 13th Part 2",
+        "Friday the 13th Part III"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Point Break",
+        "Grease",
+        "Dog Day Afternoon",
+        "Wet Hot American Summer",
+        "Weekend at Bernie's",
+        "The Great Outdoors",
+        "One Crazy Summer",
+        "National Lampoon's Vacation",
+        "Ghost",
+        "Apollo 13",
+        "Footloose",
+        "Quicksilver",
+        "Animal House",
+        "Zombieland",
+        "The Social Network",
+        "Twilight",
+        "Halloween",
+        "Close Encounters of the Third Kind",
+        "American Graffiti",
+        "Red Dawn",
+        "Conan the Barbarian",
+        "Porky's",
+        "Hot Dog...The Movie",
+        "Visions of Light"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "NCIS",
+      "Homeland"
+    ],
+    "Podcasts": [
+      "The Cam Chronicles"
+    ]
+  },
+  "tmdbOverrides": {
+    "Ghostbusters": 620,
+    "Red Dawn": 1880,
+    "Halloween": 424139
+  },
+  "tmdb": {
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "Inception": {
+      "id": 27205,
+      "poster": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+      "title": "Inception",
+      "year": 2010
+    },
+    "Adventureland": {
+      "id": 16614,
+      "poster": "/eeSJNAR1aWcgANq26KWIHm3cbyB.jpg",
+      "title": "Adventureland",
+      "year": 2009
+    },
+    "Do the Right Thing": {
+      "id": 925,
+      "poster": "/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+      "title": "Do the Right Thing",
+      "year": 1989
+    },
+    "Die Hard with a Vengeance": {
+      "id": 1572,
+      "poster": "/buqmCdFQEWwEpL3agGgg2GVjN2d.jpg",
+      "title": "Die Hard: With a Vengeance",
+      "year": 1995
+    },
+    "Bull Durham": {
+      "id": 287,
+      "poster": "/q3T9bO6p74NcTxWOhdUA6fASQ5T.jpg",
+      "title": "Bull Durham",
+      "year": 1988
+    },
+    "Rear Window": {
+      "id": 567,
+      "poster": "/ILVF0eJxHMddjxeQhswFtpMtqx.jpg",
+      "title": "Rear Window",
+      "year": 1954
+    },
+    "Dirty Dancing": {
+      "id": 88,
+      "poster": "/9Jw6jys7q9gjzVX5zm1z0gC8gY9.jpg",
+      "title": "Dirty Dancing",
+      "year": 1987
+    },
+    "Something's Gotta Give": {
+      "id": 6964,
+      "poster": "/1cpdqe0SpiHzzbOLq9GDUUlZdSl.jpg",
+      "title": "Something's Gotta Give",
+      "year": 2003
+    },
+    "Call Me by Your Name": {
+      "id": 398818,
+      "poster": "/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
+      "title": "Call Me by Your Name",
+      "year": 2017
+    },
+    "Now and Then": {
+      "id": 9263,
+      "poster": "/q31Ks8oAmM4Nq2CcGjyYYpdBAmh.jpg",
+      "title": "Now and Then",
+      "year": 1995
+    },
+    "Jaws": {
+      "id": 578,
+      "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "title": "Jaws",
+      "year": 1975
+    },
+    "Summer School": {
+      "id": 14671,
+      "poster": "/s1Ad6q0XnVS6u1yoaYghHw5dskv.jpg",
+      "title": "Summer School",
+      "year": 1987
+    },
+    "Risky Business": {
+      "id": 9346,
+      "poster": "/82KOHShH9raGhkcAN3TztVjqjj3.jpg",
+      "title": "Risky Business",
+      "year": 1983
+    },
+    "Big Wednesday": {
+      "id": 18387,
+      "poster": "/zMOZoNszmmlf3jUivDUEFgCrReo.jpg",
+      "title": "Big Wednesday",
+      "year": 1978
+    },
+    "What About Bob?": {
+      "id": 10276,
+      "poster": "/pFCrGGGhV5xeAdvEysv6aSv8T13.jpg",
+      "title": "What About Bob?",
+      "year": 1991
+    },
+    "Quick Change": {
+      "id": 10729,
+      "poster": "/8q0VQYwOhhuRFMsyzdZ5JoB676g.jpg",
+      "title": "Quick Change",
+      "year": 1990
+    },
+    "Caddyshack": {
+      "id": 11977,
+      "poster": "/lXnNz7zOXCsftMDVoU3VSo0Eioi.jpg",
+      "title": "Caddyshack",
+      "year": 1980
+    },
+    "Meatballs": {
+      "id": 14035,
+      "poster": "/9YA2erSNcca9NWd0xePC9ArFWnx.jpg",
+      "title": "Meatballs",
+      "year": 1979
+    },
+    "Moonrise Kingdom": {
+      "id": 83666,
+      "poster": "/y4SXcbNl6CEF2t36icuzuBioj7K.jpg",
+      "title": "Moonrise Kingdom",
+      "year": 2012
+    },
+    "Ghostbusters": {
+      "id": 620,
+      "poster": "/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
+      "title": "Ghostbusters",
+      "year": 1984
+    },
+    "The Talented Mr. Ripley": {
+      "id": 1213,
+      "poster": "/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg",
+      "title": "The Talented Mr. Ripley",
+      "year": 1999
+    },
+    "The Notebook": {
+      "id": 11036,
+      "poster": "/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
+      "title": "The Notebook",
+      "year": 2004
+    },
+    "The Parent Trap": {
+      "id": 9820,
+      "poster": "/p4dGmi8u9W0HHyVXcgWPoiFfKTF.jpg",
+      "title": "The Parent Trap",
+      "year": 1998
+    },
+    "A League of Their Own": {
+      "id": 11287,
+      "poster": "/f9BtX6wYOwJUyfUr4vyeT3COz6m.jpg",
+      "title": "A League of Their Own",
+      "year": 1992
+    },
+    "The Sandlot": {
+      "id": 11528,
+      "poster": "/7PYqz0viEuW8qTvuGinUMjDWMnj.jpg",
+      "title": "The Sandlot",
+      "year": 1993
+    },
+    "Mamma Mia!": {
+      "id": 11631,
+      "poster": "/zdUA4FNHbXPadzVOJiU0Rgn6cHR.jpg",
+      "title": "Mamma Mia!",
+      "year": 2008
+    },
+    "Friday the 13th": {
+      "id": 4488,
+      "poster": "/uGGpnWHOmWTARVN9wbC1nPxNgps.jpg",
+      "title": "Friday the 13th",
+      "year": 1980
+    },
+    "Friday the 13th Part 2": {
+      "id": 9725,
+      "poster": "/92rGctBMTv4uaSlIBVnhz01kRWL.jpg",
+      "title": "Friday the 13th Part 2",
+      "year": 1981
+    },
+    "Friday the 13th Part III": {
+      "id": 9728,
+      "poster": "/9kukTSlgFgXnQGdpcHvHcpTDiUc.jpg",
+      "title": "Friday the 13th Part III",
+      "year": 1982
+    },
+    "Point Break": {
+      "id": 1089,
+      "poster": "/tlbERIghrQ4oofqlbF7H0K0EYnx.jpg",
+      "title": "Point Break",
+      "year": 1991
+    },
+    "Grease": {
+      "id": 621,
+      "poster": "/2rM7fQKpb7cs1Iq7IBqub9LFDzJ.jpg",
+      "title": "Grease",
+      "year": 1978
+    },
+    "Dog Day Afternoon": {
+      "id": 968,
+      "poster": "/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg",
+      "title": "Dog Day Afternoon",
+      "year": 1975
+    },
+    "Wet Hot American Summer": {
+      "id": 2171,
+      "poster": "/skKRPj1Cdsxqzn8BwKxvNV20rRW.jpg",
+      "title": "Wet Hot American Summer",
+      "year": 2001
+    },
+    "Weekend at Bernie's": {
+      "id": 8491,
+      "poster": "/4RtjBkBSqHG46uieHgTtM7oKlpo.jpg",
+      "title": "Weekend at Bernie's",
+      "year": 1989
+    },
+    "The Great Outdoors": {
+      "id": 2617,
+      "poster": "/zxIoPZiqKOxrWvieumpxA6bOgkt.jpg",
+      "title": "The Great Outdoors",
+      "year": 1988
+    },
+    "One Crazy Summer": {
+      "id": 18282,
+      "poster": "/hwrMVPwGFB3fouqD5PhhmbafB7G.jpg",
+      "title": "One Crazy Summer",
+      "year": 1986
+    },
+    "National Lampoon's Vacation": {
+      "id": 11153,
+      "poster": "/q3DvoqY06yZnRp9faH6uge7n7VP.jpg",
+      "title": "National Lampoon's Vacation",
+      "year": 1983
+    },
+    "Ghost": {
+      "id": 251,
+      "poster": "/w9RaPHov8oM5cnzeE27isnFMsvS.jpg",
+      "title": "Ghost",
+      "year": 1990
+    },
+    "Apollo 13": {
+      "id": 568,
+      "poster": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+      "title": "Apollo 13",
+      "year": 1995
+    },
+    "Footloose": {
+      "id": 1788,
+      "poster": "/9JEDjBCXCx3eKTSkXwispf0UN3O.jpg",
+      "title": "Footloose",
+      "year": 1984
+    },
+    "Quicksilver": {
+      "id": 21332,
+      "poster": "/9E5eUvyIJoygfmKX36EmoRvOMGg.jpg",
+      "title": "Quicksilver",
+      "year": 1986
+    },
+    "Animal House": {
+      "id": 8469,
+      "poster": "/fWooBbipMRIKeSRhEzmeaDV0T8H.jpg",
+      "title": "Animal House",
+      "year": 1978
+    },
+    "Zombieland": {
+      "id": 19908,
+      "poster": "/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg",
+      "title": "Zombieland",
+      "year": 2009
+    },
+    "The Social Network": {
+      "id": 37799,
+      "poster": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+      "title": "The Social Network",
+      "year": 2010
+    },
+    "Twilight": {
+      "id": 8966,
+      "poster": "/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
+      "title": "Twilight",
+      "year": 2008
+    },
+    "Halloween": {
+      "id": 424139,
+      "poster": "/f7JAX5EGk4GgsEnus6OxyzwpFp7.jpg",
+      "title": "Halloween",
+      "year": 2018
+    },
+    "Close Encounters of the Third Kind": {
+      "id": 840,
+      "poster": "/yaPx3cK9zGFX3SbcKwxWM1QIbUh.jpg",
+      "title": "Close Encounters of the Third Kind",
+      "year": 1977
+    },
+    "American Graffiti": {
+      "id": 838,
+      "poster": "/1tjLivPad2PX8FAzWko7FPIb8d2.jpg",
+      "title": "American Graffiti",
+      "year": 1973
+    },
+    "Red Dawn": {
+      "id": 1880,
+      "poster": "/a2GkHcioc2QEFJbQk1NTB85u3vD.jpg",
+      "title": "Red Dawn",
+      "year": 1984
+    },
+    "Conan the Barbarian": {
+      "id": 9387,
+      "poster": "/qw2A587Ee61IwcSOLNFRhuOACZZ.jpg",
+      "title": "Conan the Barbarian",
+      "year": 1982
+    },
+    "Porky's": {
+      "id": 10246,
+      "poster": "/AqCOt1cWfKqCepxK7LIdT812idH.jpg",
+      "title": "Porky's",
+      "year": 1981
+    },
+    "Hot Dog...The Movie": {
+      "id": 21989,
+      "poster": "/qJ4tVNjjapCLigrVJi3ZXNX6xvB.jpg",
+      "title": "Hot Dog... The Movie",
+      "year": 1984
+    },
+    "Visions of Light": {
+      "id": 41778,
+      "poster": "/62ry0lNv4gQRuusC1EkUkOmTuUY.jpg",
+      "title": "Visions of Light",
+      "year": 1992
+    }
+  },
+  "spotifyEpisodeId": "5ThIXoNHnCq7Fhi7ntyibV"
+}

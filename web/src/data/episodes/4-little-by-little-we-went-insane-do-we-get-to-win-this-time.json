@@ -1,0 +1,243 @@
+{
+  "slug": "4-little-by-little-we-went-insane-do-we-get-to-win-this-time",
+  "title": "4. Little by Little, We Went Insane | Do We Get to Win This Time?",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Brian Raftery"
+  ],
+  "published": "2023-08-16",
+  "runtimeMin": 49,
+  "format": "Brian Raftery's Vietnam-film history reaches Apocalypse Now, the movie that cost Coppola 238 days of shooting in the Philippines, a typhoon, and his own fortune, and that eclipsed every other Vietnam film released in 1978.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Apocalypse Now and the movies it eclipsed",
+      "note": "how Coppola's Vietnam epic got made, and what it buried",
+      "films": [
+        {
+          "title": "Apocalypse Now",
+          "year": 1979,
+          "note": "Coppola's Vietnam epic, adapted from Conrad's Heart of Darkness through a John Milius / George Lucas script Coppola bought for $25,000. 238 days shooting in the Philippines through a typhoon, Martin Sheen's heart attack, and a Brando who arrived overweight and hadn't read the novel; Coppola put up his house and his Godfather earnings as collateral. Eight Oscar nominations, wins for sound and cinematography, about $100 million worldwide. His line at Cannes, 'little by little we went insane,' gives the episode its title."
+        },
+        {
+          "title": "The Deer Hunter",
+          "year": 1978,
+          "note": "Cimino's film reached theaters first, claiming the distinction Coppola wanted: Hollywood's first big-budget Vietnam drama. Coppola concedes as much in the hotel-room anecdote that opens the episode ('You beat me, baby')."
+        },
+        {
+          "title": "Who'll Stop the Rain",
+          "year": 1978,
+          "note": "Action-romance with Nick Nolte as a Vietnam vet smuggling heroin back to the US, one of the smaller films that reached screens while Apocalypse stalled."
+        },
+        {
+          "title": "The Boys in Company C",
+          "year": 1978,
+          "note": "A combat-and-hangout film following an oddball group of Marines from basic training to the battlefield."
+        },
+        {
+          "title": "Go Tell the Spartans",
+          "year": 1978,
+          "note": "Ted Post's 1964-set drama, seven years in the making, with Burt Lancaster as an aging WWII vet ordered to hold a doomed outpost. Shot for under $1 million in the California hills behind an amusement park, with South Vietnamese refugees as extras paid $35 a day. Dumped on release, revived by Siskel and Ebert in the '80s."
+        },
+        {
+          "title": "Hearts of Darkness: A Filmmaker's Apocalypse",
+          "year": 1991,
+          "note": "The making-of documentary built from Eleanor Coppola's 60 hours of set footage, co-directed with Fax Bahr and George Hickenlooper. Its subject is Coppola himself, coming apart on camera. He tried to block its Cannes premiere and joked it should have been called 'Watch Francis Suffer.'"
+        },
+        {
+          "title": "Jarhead",
+          "year": 2005,
+          "note": "Viet Thanh Nguyen shows students the scene where Gulf War Marines pump themselves up watching Apocalypse Now, his example of Hollywood spectacle overwhelming a war film's anti-war message."
+        },
+        {
+          "title": "Milius",
+          "year": 2013,
+          "note": "The documentary on screenwriter John Milius, source for his account of writing the Apocalypse script and once planning to die young in combat."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Patton",
+        "The Godfather",
+        "The Godfather Part II",
+        "The Conversation",
+        "Star Wars",
+        "Jaws",
+        "Superman",
+        "Coming Home",
+        "Taxi Driver",
+        "Rolling Thunder",
+        "The Green Berets",
+        "Seven Samurai",
+        "Rambo: First Blood Part II",
+        "Big Wednesday"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Superman": 1924,
+    "Coming Home": 31657,
+    "Big Wednesday": 18387
+  },
+  "excluded": {
+    "Books": [
+      "Heart of Darkness (Joseph Conrad)",
+      "Notes (Eleanor Coppola)",
+      "The Sympathizer (Viet Thanh Nguyen)"
+    ],
+    "TV / radio": [
+      "M*A*S*H",
+      "Heart of Darkness (Orson Welles radio, 1938)"
+    ],
+    "Podcasts": [
+      "Icons Club",
+      "This Blew Up",
+      "Gamblers"
+    ],
+    "Ads": [
+      "FIFA World Cup Launch Edition (Netflix)",
+      "Boar's Head",
+      "Carvana",
+      "Pepsi"
+    ]
+  },
+  "tmdb": {
+    "Apocalypse Now": {
+      "id": 28,
+      "poster": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "title": "Apocalypse Now",
+      "year": 1979
+    },
+    "The Deer Hunter": {
+      "id": 11778,
+      "poster": "/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
+      "title": "The Deer Hunter",
+      "year": 1978
+    },
+    "Who'll Stop the Rain": {
+      "id": 31941,
+      "poster": "/rnJepCsvb2adCmEmCSDBqhTV2Wy.jpg",
+      "title": "Who'll Stop the Rain",
+      "year": 1978
+    },
+    "The Boys in Company C": {
+      "id": 27521,
+      "poster": "/9nZyHahR2yrXgkha9IrbAGr3Yni.jpg",
+      "title": "The Boys in Company C",
+      "year": 1978
+    },
+    "Go Tell the Spartans": {
+      "id": 32052,
+      "poster": "/fUmid11VCcYixxEb2Odwy5dxe3J.jpg",
+      "title": "Go Tell the Spartans",
+      "year": 1978
+    },
+    "Hearts of Darkness: A Filmmaker's Apocalypse": {
+      "id": 4539,
+      "poster": "/nVMCtL3r2nj4fySihDDvamaVkfx.jpg",
+      "title": "Hearts of Darkness: A Filmmaker's Apocalypse",
+      "year": 1991
+    },
+    "Jarhead": {
+      "id": 25,
+      "poster": "/6vdj47RAWOUZBkeQmqToeZ7eaio.jpg",
+      "title": "Jarhead",
+      "year": 2005
+    },
+    "Milius": {
+      "id": 173467,
+      "poster": "/iCf2e0HvH2T42M4qxL25zu4dvU8.jpg",
+      "title": "Milius",
+      "year": 2013
+    },
+    "Patton": {
+      "id": 11202,
+      "poster": "/rLM7jIEPTjj4CF7F1IrzzNjLUCu.jpg",
+      "title": "Patton",
+      "year": 1970
+    },
+    "The Godfather": {
+      "id": 238,
+      "poster": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "title": "The Godfather",
+      "year": 1972
+    },
+    "The Godfather Part II": {
+      "id": 240,
+      "poster": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+      "title": "The Godfather Part II",
+      "year": 1974
+    },
+    "The Conversation": {
+      "id": 592,
+      "poster": "/dHqVBwcv1SGymOpUueRoKzcmdes.jpg",
+      "title": "The Conversation",
+      "year": 1974
+    },
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
+    },
+    "Jaws": {
+      "id": 578,
+      "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "title": "Jaws",
+      "year": 1975
+    },
+    "Superman": {
+      "id": 1924,
+      "poster": "/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
+      "title": "Superman",
+      "year": 1978
+    },
+    "Coming Home": {
+      "id": 31657,
+      "poster": "/jBsYWNBYNEi5EhT1hC8iexcTsWT.jpg",
+      "title": "Coming Home",
+      "year": 1978
+    },
+    "Taxi Driver": {
+      "id": 103,
+      "poster": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "title": "Taxi Driver",
+      "year": 1976
+    },
+    "Rolling Thunder": {
+      "id": 21948,
+      "poster": "/9iZjVn6Q5FJa92SQLcFMrskpES9.jpg",
+      "title": "Rolling Thunder",
+      "year": 1977
+    },
+    "The Green Berets": {
+      "id": 22377,
+      "poster": "/c5WG23iqf3RakGOTjZnBATbYM1f.jpg",
+      "title": "The Green Berets",
+      "year": 1968
+    },
+    "Seven Samurai": {
+      "id": 346,
+      "poster": "/lOMGc8bnSwQhS4XyE1S99uH8NXf.jpg",
+      "title": "Seven Samurai",
+      "year": 1954
+    },
+    "Rambo: First Blood Part II": {
+      "id": 1369,
+      "poster": "/fVwRtWqEPdsCH21BVDGqgkAQcff.jpg",
+      "title": "Rambo: First Blood Part II",
+      "year": 1985
+    },
+    "Big Wednesday": {
+      "id": 18387,
+      "poster": "/zMOZoNszmmlf3jUivDUEFgCrReo.jpg",
+      "title": "Big Wednesday",
+      "year": 1978
+    }
+  }
+}

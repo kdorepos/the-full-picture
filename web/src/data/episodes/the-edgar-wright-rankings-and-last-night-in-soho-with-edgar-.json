@@ -1,0 +1,320 @@
+{
+  "slug": "the-edgar-wright-rankings-and-last-night-in-soho-with-edgar-",
+  "title": "The Edgar Wright Rankings and ‘Last Night in Soho’ With Edgar Wright!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Rob Harvilla"
+  ],
+  "published": "2021-10-29",
+  "runtimeMin": 85,
+  "format": "Rob Harvilla joins to rank Edgar Wright's filmography, then Edgar himself calls in to talk 'Last Night in Soho,' the 1960s ghosts he can't shake, and shooting mirror tricks in camera instead of on a green screen.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Talking Edgar Wright",
+      "note": "with Rob Harvilla, host of 60 Songs That Explain the '90s",
+      "films": [
+        {
+          "title": "Ant-Man",
+          "year": 2015,
+          "note": "Harvilla swears the shrinking-suitcase fight scored to the Cure is pure Edgar Wright. It's actually Peyton Reed, who finished the film after Wright departed."
+        },
+        {
+          "title": "The Adventures of Tintin",
+          "year": 2011,
+          "note": "Wright co-wrote it; Fennessey hasn't gotten around to it."
+        },
+        {
+          "title": "A Fistful of Fingers",
+          "year": 1995,
+          "note": "Wright's undistributed first feature, a spaghetti-western spoof shot for cheap (findable on YouTube)."
+        },
+        {
+          "title": "Dead Right",
+          "year": 1993,
+          "note": "A student-film 'Dirty Harry' parody Wright made in college."
+        },
+        {
+          "title": "Don't",
+          "year": 2007,
+          "note": "Wright's fake trailer inside Grindhouse, a horror homage to Hammer films of the '60s and '70s."
+        }
+      ]
+    },
+    {
+      "kind": "ranking",
+      "heading": "Rob Harvilla's Edgar Wright Rankings",
+      "note": "best to worst; Fennessey mostly agreed, give or take whichever Cornetto film he'd watched most recently",
+      "subject": "Edgar Wright's filmography",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Scott Pilgrim vs. the World",
+          "year": 2010,
+          "note": "No. 1. A box-office flop at the time that both hosts say has aged into a consensus favorite. Harvilla still watches the blooper reel on a loop."
+        },
+        {
+          "title": "Shaun of the Dead",
+          "year": 2004,
+          "note": "The record-throwing scene sold Harvilla for life."
+        },
+        {
+          "title": "The World's End",
+          "year": 2013,
+          "note": "Harvilla admits he's overrating it because he can't stop turning it over in his head."
+        },
+        {
+          "title": "Hot Fuzz",
+          "year": 2007,
+          "note": "Last of the Cornetto trilogy, not for lack of love. Harvilla figures the hate mail is coming."
+        },
+        {
+          "title": "The Sparks Brothers",
+          "year": 2021,
+          "note": "Wright's Sparks documentary, discussed at length on an earlier episode."
+        },
+        {
+          "title": "Baby Driver",
+          "year": 2017,
+          "note": "A hit Harvilla admires more than he loves: all style, not much left over to chew on afterward."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Edgar Wright on 'Last Night in Soho'",
+      "guest": "Edgar Wright on",
+      "films": [
+        {
+          "title": "Last Night in Soho",
+          "year": 2021,
+          "note": "His first film centered on a woman's perspective, co-written with Krysty Wilson-Cairns; a decade-long obsession with Soho's dueling glamour and darkness, built around unbroken in-camera mirror choreography rather than green screen."
+        },
+        {
+          "title": "Terminator 2: Judgment Day",
+          "year": 1991,
+          "note": "Wright cites an unused deleted-scene mirror shot. He later mentioned it to James Cameron directly."
+        },
+        {
+          "title": "Poltergeist III",
+          "year": 1988,
+          "note": "Practical mirror-shot trickery Wright studied frame by frame with the film's director, Gary Sherman, over Zoom."
+        },
+        {
+          "title": "Dr. Jekyll and Mr. Hyde",
+          "year": 1931,
+          "note": "Rouben Mamoulian's transformation mirror trick, an inspiration Wright cites for Soho's doubling effects."
+        },
+        {
+          "title": "Orpheus",
+          "year": 1950,
+          "note": "Jean Cocteau's mirror-as-portal imagery, another reference point."
+        },
+        {
+          "title": "Caught",
+          "year": 1949,
+          "note": "One of the Max Ophuls noirs Wright had already seen before diving into the rest of his filmography."
+        },
+        {
+          "title": "The Reckless Moment",
+          "year": 1949,
+          "note": "The other Ophuls noir Wright already knew."
+        },
+        {
+          "title": "Letter From an Unknown Woman",
+          "year": 1948,
+          "note": "Part of Wright's deep dive into Ophuls last year, his pick for the last great thing he'd seen."
+        },
+        {
+          "title": "The Earrings of Madame de...",
+          "year": 1953,
+          "note": "Fennessey pitches it as a double feature with Soho for the camerawork alone."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "West Side Story",
+        "Ferris Bueller's Day Off",
+        "Thor: Ragnarok",
+        "Hereditary",
+        "Midsommar",
+        "Grindhouse"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "What We Do in the Shadows",
+      "The Mandalorian",
+      "Squid Game",
+      "Stranger Things"
+    ],
+    "Ads": [
+      "Netflix FIFA World Cup",
+      "Boar's Head",
+      "Whole Foods",
+      "NOS Energy",
+      "Carvana",
+      "FanDuel"
+    ]
+  },
+  "tmdb": {
+    "Ant-Man": {
+      "id": 102899,
+      "poster": "/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg",
+      "title": "Ant-Man",
+      "year": 2015
+    },
+    "The Adventures of Tintin": {
+      "id": 17578,
+      "poster": "/fQZ3sLR1Fi63NMsNRbjm9q5qODJ.jpg",
+      "title": "The Adventures of Tintin",
+      "year": 2011
+    },
+    "A Fistful of Fingers": {
+      "id": 52996,
+      "poster": "/twX9BoM6XpbklfvjSIX9NQmPuxT.jpg",
+      "title": "A Fistful of Fingers",
+      "year": 1995
+    },
+    "Dead Right": {
+      "id": 200674,
+      "poster": "/grnD2ZdD6cjMIMcLF7bgfM3Ao22.jpg",
+      "title": "Dead Right",
+      "year": 1993
+    },
+    "Don't": null,
+    "Scott Pilgrim vs. the World": {
+      "id": 22538,
+      "poster": "/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg",
+      "title": "Scott Pilgrim vs. the World",
+      "year": 2010
+    },
+    "Shaun of the Dead": {
+      "id": 747,
+      "poster": "/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg",
+      "title": "Shaun of the Dead",
+      "year": 2004
+    },
+    "The World's End": {
+      "id": 107985,
+      "poster": "/kpglnOBYmKn0AkkWDzGxzKHDbds.jpg",
+      "title": "The World's End",
+      "year": 2013
+    },
+    "Hot Fuzz": {
+      "id": 4638,
+      "poster": "/zPib4ukTSdXvHP9pxGkFCe34f3y.jpg",
+      "title": "Hot Fuzz",
+      "year": 2007
+    },
+    "The Sparks Brothers": {
+      "id": 776485,
+      "poster": "/e8jtG3WS0Ku7Dh4fBne1rgriXZt.jpg",
+      "title": "The Sparks Brothers",
+      "year": 2021
+    },
+    "Baby Driver": {
+      "id": 339403,
+      "poster": "/tYzFuYXmT8LOYASlFCkaPiAFAl0.jpg",
+      "title": "Baby Driver",
+      "year": 2017
+    },
+    "Last Night in Soho": {
+      "id": 576845,
+      "poster": "/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg",
+      "title": "Last Night in Soho",
+      "year": 2021
+    },
+    "Terminator 2: Judgment Day": {
+      "id": 280,
+      "poster": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991
+    },
+    "Poltergeist III": {
+      "id": 10306,
+      "poster": "/pLewUibOJLGISvMqB94mAMdjz2q.jpg",
+      "title": "Poltergeist III",
+      "year": 1988
+    },
+    "Dr. Jekyll and Mr. Hyde": {
+      "id": 3019,
+      "poster": "/mZtQORzQWkCSqeeHApH6vJDA1D2.jpg",
+      "title": "Dr. Jekyll and Mr. Hyde",
+      "year": 1931
+    },
+    "Orpheus": {
+      "id": 4558,
+      "poster": "/diu88F9PlUsrzHApC7VCV2QkNxR.jpg",
+      "title": "Orpheus",
+      "year": 1950
+    },
+    "Caught": {
+      "id": 43397,
+      "poster": "/htMtSPue5zDW79iL67quA6dM4Gz.jpg",
+      "title": "Caught",
+      "year": 1949
+    },
+    "The Reckless Moment": {
+      "id": 28007,
+      "poster": "/qvGt1gbQt7g5vUzJrZU2qWQNEqR.jpg",
+      "title": "The Reckless Moment",
+      "year": 1949
+    },
+    "Letter From an Unknown Woman": {
+      "id": 946,
+      "poster": "/gRGRW7DKyK8qBtKJTWguULMGbHG.jpg",
+      "title": "Letter from an Unknown Woman",
+      "year": 1948
+    },
+    "The Earrings of Madame de...": {
+      "id": 27030,
+      "poster": "/3eJIw86taD84NkpuZaORf5k2DsH.jpg",
+      "title": "The Earrings of Madame de...",
+      "year": 1953
+    },
+    "West Side Story": {
+      "id": 511809,
+      "poster": "/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+      "title": "West Side Story",
+      "year": 2021
+    },
+    "Ferris Bueller's Day Off": {
+      "id": 9377,
+      "poster": "/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg",
+      "title": "Ferris Bueller's Day Off",
+      "year": 1986
+    },
+    "Thor: Ragnarok": {
+      "id": 284053,
+      "poster": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "title": "Thor: Ragnarok",
+      "year": 2017
+    },
+    "Hereditary": {
+      "id": 493922,
+      "poster": "/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+      "title": "Hereditary",
+      "year": 2018
+    },
+    "Midsommar": {
+      "id": 530385,
+      "poster": "/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+      "title": "Midsommar",
+      "year": 2019
+    },
+    "Grindhouse": {
+      "id": 285923,
+      "poster": "/tvMBwJlmQTIQf5EBjHzzyE9tjcN.jpg",
+      "title": "Grindhouse",
+      "year": 2007
+    }
+  }
+}

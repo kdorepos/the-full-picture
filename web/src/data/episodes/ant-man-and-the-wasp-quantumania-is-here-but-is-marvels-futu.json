@@ -1,0 +1,412 @@
+{
+  "slug": "ant-man-and-the-wasp-quantumania-is-here-but-is-marvels-futu",
+  "title": "‘Ant-Man and the Wasp: Quantumania’ Is Here! But Is Marvel’s Future Here Too?",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Mallory Rubin"
+  ],
+  "published": "2023-02-17",
+  "runtimeMin": 87,
+  "format": "Sean, Amanda, and Ringerverse chief Mallory Rubin cover Phase 5's opener: Kang, MODOK, and whether the multiverse can still land, capped by the first Amanda's Science Corner.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘Ant-Man and the Wasp: Quantumania’",
+      "note": "the review",
+      "films": [
+        {
+          "title": "Ant-Man and the Wasp: Quantumania",
+          "year": 2023,
+          "note": "Phase 5's opener, spent almost entirely in the quantum realm. Sean liked it, Amanda had no idea what happened but laughed a lot, and Mallory came away mixed: she thinks the CGI setting drained the heart the first two Ant-Man films ran on. Jonathan Majors' Kang and a Corey Stoll MODOK get the most love; the Baskin-Robbins framing and Michael Douglas' Hank Pym close behind."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Is Marvel's future here too?",
+      "note": "the state of the MCU",
+      "films": [
+        {
+          "title": "Spider-Man: No Way Home",
+          "year": 2021,
+          "note": "The last MCU film to clear a billion dollars, the yardstick everything since has fallen short of."
+        },
+        {
+          "title": "Doctor Strange in the Multiverse of Madness",
+          "year": 2022,
+          "note": "Hugely hyped, never broke a billion; cited as the multiverse-fatigue warning sign."
+        },
+        {
+          "title": "Black Panther: Wakanda Forever",
+          "year": 2022,
+          "note": "Mallory rates it well above Quantumania; different aims entirely, she argues, so not a fair comp."
+        },
+        {
+          "title": "Guardians of the Galaxy Vol. 3",
+          "year": 2023,
+          "note": "Due in May; the one film on the slate nobody at the table doubts."
+        },
+        {
+          "title": "The Marvels",
+          "year": 2023,
+          "note": "The July release that closes out Marvel's year, with no dated TV shows behind it."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Ant-Man history",
+      "films": [
+        "Ant-Man",
+        "Ant-Man and the Wasp"
+      ]
+    },
+    {
+      "group": "MCU comps in passing",
+      "films": [
+        "Iron Man",
+        "The Incredible Hulk",
+        "Iron Man 2",
+        "Iron Man 3",
+        "Thor",
+        "Thor: The Dark World",
+        "Thor: Ragnarok",
+        "Thor: Love and Thunder",
+        "Captain America: The First Avenger",
+        "Captain America: The Winter Soldier",
+        "Captain America: Civil War",
+        "Guardians of the Galaxy",
+        "Shang-Chi and the Legend of the Ten Rings",
+        "Eternals",
+        "Spider-Man: Homecoming",
+        "Doctor Strange",
+        "Avengers: Infinity War",
+        "Avengers: Endgame"
+      ]
+    },
+    {
+      "group": "Upcoming Marvel",
+      "films": [
+        "Captain America: Brave New World",
+        "Thunderbolts",
+        "Blade",
+        "Fantastic Four",
+        "Avengers: The Kang Dynasty",
+        "Avengers: Secret Wars"
+      ]
+    },
+    {
+      "group": "Outside the MCU",
+      "films": [
+        "Creed III",
+        "Magazine Dreams",
+        "Top Gun: Maverick",
+        "Avatar: The Way of Water",
+        "Fast X",
+        "Magic Mike's Last Dance",
+        "Triangle of Sadness",
+        "Guillermo del Toro's Pinocchio",
+        "Star Wars",
+        "Back to the Future",
+        "Ghostbusters",
+        "Fatal Attraction"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Loki",
+      "WandaVision",
+      "The Falcon and the Winter Soldier",
+      "What If...?",
+      "Hawkeye",
+      "Moon Knight",
+      "Ms. Marvel",
+      "She-Hulk: Attorney at Law",
+      "M.O.D.O.K.",
+      "Muppet Babies"
+    ],
+    "Podcasts": [
+      "The Bill Simmons Podcast",
+      "Bandsplain",
+      "Binge Mode"
+    ],
+    "Games": [
+      "FIFA World Cup Launch Edition"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "Netflix",
+      "Carvana",
+      "FanDuel",
+      "Botox",
+      "Blinds.com",
+      "Storm Energy"
+    ]
+  },
+  "tmdbOverrides": {
+    "Ghostbusters": 620,
+    "Fantastic Four": 617126,
+    "Blade": null
+  },
+  "tmdb": {
+    "Ant-Man and the Wasp: Quantumania": {
+      "id": 640146,
+      "poster": "/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "year": 2023
+    },
+    "Spider-Man: No Way Home": {
+      "id": 634649,
+      "poster": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "title": "Spider-Man: No Way Home",
+      "year": 2021
+    },
+    "Doctor Strange in the Multiverse of Madness": {
+      "id": 453395,
+      "poster": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "year": 2022
+    },
+    "Black Panther: Wakanda Forever": {
+      "id": 505642,
+      "poster": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+      "title": "Black Panther: Wakanda Forever",
+      "year": 2022
+    },
+    "Guardians of the Galaxy Vol. 3": {
+      "id": 447365,
+      "poster": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "year": 2023
+    },
+    "The Marvels": {
+      "id": 609681,
+      "poster": "/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
+      "title": "The Marvels",
+      "year": 2023
+    },
+    "Ant-Man": {
+      "id": 102899,
+      "poster": "/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg",
+      "title": "Ant-Man",
+      "year": 2015
+    },
+    "Ant-Man and the Wasp": {
+      "id": 363088,
+      "poster": "/cFQEO687n1K6umXbInzocxcnAQz.jpg",
+      "title": "Ant-Man and the Wasp",
+      "year": 2018
+    },
+    "Iron Man": {
+      "id": 1726,
+      "poster": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "title": "Iron Man",
+      "year": 2008
+    },
+    "The Incredible Hulk": {
+      "id": 1724,
+      "poster": "/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
+      "title": "The Incredible Hulk",
+      "year": 2008
+    },
+    "Iron Man 2": {
+      "id": 10138,
+      "poster": "/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+      "title": "Iron Man 2",
+      "year": 2010
+    },
+    "Iron Man 3": {
+      "id": 68721,
+      "poster": "/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+      "title": "Iron Man 3",
+      "year": 2013
+    },
+    "Thor": {
+      "id": 10195,
+      "poster": "/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
+      "title": "Thor",
+      "year": 2011
+    },
+    "Thor: The Dark World": {
+      "id": 76338,
+      "poster": "/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",
+      "title": "Thor: The Dark World",
+      "year": 2013
+    },
+    "Thor: Ragnarok": {
+      "id": 284053,
+      "poster": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "title": "Thor: Ragnarok",
+      "year": 2017
+    },
+    "Thor: Love and Thunder": {
+      "id": 616037,
+      "poster": "/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+      "title": "Thor: Love and Thunder",
+      "year": 2022
+    },
+    "Captain America: The First Avenger": {
+      "id": 1771,
+      "poster": "/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+      "title": "Captain America: The First Avenger",
+      "year": 2011
+    },
+    "Captain America: The Winter Soldier": {
+      "id": 100402,
+      "poster": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+      "title": "Captain America: The Winter Soldier",
+      "year": 2014
+    },
+    "Captain America: Civil War": {
+      "id": 271110,
+      "poster": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+      "title": "Captain America: Civil War",
+      "year": 2016
+    },
+    "Guardians of the Galaxy": {
+      "id": 118340,
+      "poster": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "title": "Guardians of the Galaxy",
+      "year": 2014
+    },
+    "Shang-Chi and the Legend of the Ten Rings": {
+      "id": 566525,
+      "poster": "/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "year": 2021
+    },
+    "Eternals": {
+      "id": 524434,
+      "poster": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+      "title": "Eternals",
+      "year": 2021
+    },
+    "Spider-Man: Homecoming": {
+      "id": 315635,
+      "poster": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+      "title": "Spider-Man: Homecoming",
+      "year": 2017
+    },
+    "Doctor Strange": {
+      "id": 284052,
+      "poster": "/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg",
+      "title": "Doctor Strange",
+      "year": 2016
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Captain America: Brave New World": {
+      "id": 822119,
+      "poster": "/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
+      "title": "Captain America: Brave New World",
+      "year": 2025
+    },
+    "Thunderbolts": {
+      "id": 986056,
+      "poster": "/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
+      "title": "Thunderbolts*",
+      "year": 2025
+    },
+    "Blade": null,
+    "Fantastic Four": {
+      "id": 617126,
+      "poster": "/nf5qaSEvyYSNeFH0YhSs5EsBLX9.jpg",
+      "title": "The Fantastic 4: First Steps",
+      "year": 2025
+    },
+    "Avengers: The Kang Dynasty": null,
+    "Avengers: Secret Wars": {
+      "id": 1003598,
+      "poster": "/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
+      "title": "Avengers: Secret Wars",
+      "year": 2027
+    },
+    "Creed III": {
+      "id": 677179,
+      "poster": "/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg",
+      "title": "Creed III",
+      "year": 2023
+    },
+    "Magazine Dreams": {
+      "id": 784524,
+      "poster": "/vSidx9NHKuQIPEQ4yI9b9zkTeh3.jpg",
+      "title": "Magazine Dreams",
+      "year": 2025
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Avatar: The Way of Water": {
+      "id": 76600,
+      "poster": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "title": "Avatar: The Way of Water",
+      "year": 2022
+    },
+    "Fast X": {
+      "id": 385687,
+      "poster": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+      "title": "Fast X",
+      "year": 2023
+    },
+    "Magic Mike's Last Dance": {
+      "id": 906221,
+      "poster": "/9a9pyJZRhUWUSBT8BQqWihtqbI8.jpg",
+      "title": "Magic Mike's Last Dance",
+      "year": 2023
+    },
+    "Triangle of Sadness": {
+      "id": 497828,
+      "poster": "/k9eLozCgCed5FGTSdHu0bBElAV8.jpg",
+      "title": "Triangle of Sadness",
+      "year": 2022
+    },
+    "Guillermo del Toro's Pinocchio": {
+      "id": 555604,
+      "poster": "/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",
+      "title": "Guillermo del Toro's Pinocchio",
+      "year": 2022
+    },
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
+    },
+    "Back to the Future": {
+      "id": 105,
+      "poster": "/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+      "title": "Back to the Future",
+      "year": 1985
+    },
+    "Ghostbusters": {
+      "id": 620,
+      "poster": "/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
+      "title": "Ghostbusters",
+      "year": 1984
+    },
+    "Fatal Attraction": {
+      "id": 10998,
+      "poster": "/vjB9XwJKnYqFKKjhWcE6WpAf5Ki.jpg",
+      "title": "Fatal Attraction",
+      "year": 1987
+    }
+  }
+}

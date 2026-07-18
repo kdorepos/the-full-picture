@@ -1,0 +1,116 @@
+{
+  "slug": "janicza-bravo-and-brett-gelman-channel-rejection-and-anxiety",
+  "title": "Janicza Bravo and Brett Gelman Channel Rejection and Anxiety to Make ‘Lemon’ | The Big Picture (Ep. 22)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Allison Herman"
+  ],
+  "published": "2017-08-18",
+  "runtimeMin": 41,
+  "format": "A warm-up on Janicza Bravo's Atlanta episode 'Juneteenth,' then Bravo and Brett Gelman on the five-year slog to make 'Lemon.'",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Setting up Janicza Bravo: 'Juneteenth'",
+      "note": "with The Ringer's Allison Herman on the Atlanta episode Bravo directed",
+      "films": [
+        {
+          "title": "Eyes Wide Shut",
+          "year": 1999,
+          "note": "Earn's in-episode description of the rich couple's party: 'a Spike Lee-directed reboot of Eyes Wide Shut.'"
+        },
+        {
+          "title": "Get Out",
+          "year": 2017,
+          "note": "Herman's other reference point for 'Juneteenth': white affluence weaponized into dread, though less visceral here."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Janicza Bravo and Brett Gelman on",
+      "films": [
+        {
+          "title": "Lemon",
+          "year": 2017,
+          "note": "The surreal, absurd comedy of failure the couple spent five years making, from a first draft banged out in five days at SXSW off a lie about having a feature. Gelman plays Isaac; Bravo pitches it as 'come watch me fail for 90 minutes,' a rebuke to the loser-white-guy comedy where everything works out."
+        },
+        {
+          "title": "Eat",
+          "year": 2011,
+          "note": "Bravo's first short, starring Gelman and Katherine Waterston; it played SXSW and started the run that led to Lemon."
+        },
+        {
+          "title": "Gregory Go Boom",
+          "year": 2013,
+          "note": "The short Bravo wrote for Jash after Lemon's financing collapsed and its lead actor dropped out — her follow-up to a year lost to depression."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Next week",
+      "films": [
+        "Death Note"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Atlanta",
+      "Juneteenth (Atlanta)",
+      "Twin Peaks",
+      "Curb Your Enthusiasm",
+      "Catastrophe",
+      "You're the Worst",
+      "Community",
+      "Game of Thrones",
+      "Talk the Thrones"
+    ],
+    "Ads": [
+      "Proper Cloth"
+    ]
+  },
+  "tmdb": {
+    "Eyes Wide Shut": {
+      "id": 345,
+      "poster": "/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+      "title": "Eyes Wide Shut",
+      "year": 1999
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Lemon": {
+      "id": 428585,
+      "poster": "/cZWjfUKuqufDjp3C9ufI8DLAxH7.jpg",
+      "title": "Lemon",
+      "year": 2017
+    },
+    "Eat": {
+      "id": 205818,
+      "poster": "/6mRahsxOZPwU60sCoX0jp0BSStg.jpg",
+      "title": "Eat",
+      "year": 2011
+    },
+    "Gregory Go Boom": {
+      "id": 196255,
+      "poster": "/abUerQjZYuw3SWFMYVN48VLrTcw.jpg",
+      "title": "Gregory Go Boom",
+      "year": 2013
+    },
+    "Death Note": {
+      "id": 351460,
+      "poster": "/8xRQ0KG9ZZzjEiFa5fgEaTKhc0d.jpg",
+      "title": "Death Note",
+      "year": 2017
+    }
+  }
+}

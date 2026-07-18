@@ -1,0 +1,268 @@
+{
+  "slug": "the-oath-and-ike-barinholtzs-response-to-the-chaotic-news-cy",
+  "title": "‘The Oath’ and Ike Barinholtz’s Response to the Chaotic News Cycle | The Big Picture (Ep. 88)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessy"
+  ],
+  "published": "2018-10-12",
+  "runtimeMin": 40,
+  "format": "Sean Fennessey talks to Ike Barinholtz about writing, directing, and starring in The Oath, a Thanksgiving-dinner-goes-dystopian comedy he shot in 19 days, plus the state of studio comedy.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "Ike Barinholtz on 'The Oath'",
+      "guest": "Ike Barinholtz on",
+      "films": [
+        {
+          "title": "The Oath",
+          "year": 2018,
+          "note": "Barinholtz's writing-directing-starring debut, shot in 19 days for QC Entertainment (Get Out). Started as a real argument at his family's Thanksgiving table after Trump's election and merged with an idea about a government loyalty pledge that comes with tax and healthcare perks. Tiffany Haddish's character is loosely based on his own wife; John Cho plays a civil-servant enforcer; Billy Magnussen's villain was rewritten as a young man after Charlottesville. The frame tightens and the palette darkens as the movie turns from family comedy to something closer to home invasion."
+        },
+        {
+          "title": "Children of Men",
+          "year": 2006,
+          "note": "His go-to dystopia touchstone and a direct model for The Oath, though not for the jokes: there are none, save Michael Caine's fart. He drew from its sense of people clinging to a decayed world."
+        },
+        {
+          "title": "Mrs. Miniver",
+          "year": 1942,
+          "note": "The Greer Garson drama he thought of as two movies stitched together: idyllic English countryside life, then a Nazi soldier shows up in the house."
+        },
+        {
+          "title": "M*A*S*H",
+          "year": 1970,
+          "note": "Cited for Altman's ability to land a genuine joke inside carnage: the blood-soaked surgeons batting away Hot Lips' small talk."
+        },
+        {
+          "title": "Manchester by the Sea",
+          "year": 2016,
+          "note": "His example of a scene playing agony and comedy at once: the gurney that won't fit in the ambulance."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The cast's other credits",
+      "films": [
+        "Get Out",
+        "BlacKkKlansman",
+        "Keanu",
+        "Girls Trip",
+        "Searching",
+        "The Big Short",
+        "Meet the Spartans"
+      ]
+    },
+    {
+      "group": "The state of studio comedy",
+      "films": [
+        "Zoolander",
+        "Step Brothers",
+        "Neighbors",
+        "Blockers",
+        "The Hangover",
+        "Bridesmaids",
+        "Game Night",
+        "I Feel Pretty",
+        "Ghostbusters",
+        "Avengers: Infinity War"
+      ]
+    },
+    {
+      "group": "The last great thing he's seen",
+      "films": [
+        "Crazy Rich Asians",
+        "Eighth Grade"
+      ]
+    },
+    {
+      "group": "Coming up on the show",
+      "films": [
+        "First Man",
+        "Mid90s"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Mindy Project",
+      "Eastbound & Down",
+      "The Apprentice",
+      "Boardwalk Empire",
+      "American Crime Story"
+    ],
+    "Podcasts": [
+      "Ike's Hollywood Tips"
+    ],
+    "Promos": [
+      "Ringer NBA Palooza"
+    ],
+    "Ads": [
+      "Warby Parker"
+    ]
+  },
+  "tmdbOverrides": {
+    "Ghostbusters": 620
+  },
+  "tmdb": {
+    "The Oath": {
+      "id": 520596,
+      "poster": "/kHB7Nq93pQxGOit1Lyz1ELfUvy0.jpg",
+      "title": "The Oath",
+      "year": 2018
+    },
+    "Children of Men": {
+      "id": 9693,
+      "poster": "/k9IAS4TehZFcKi4HVByxZNPfqex.jpg",
+      "title": "Children of Men",
+      "year": 2006
+    },
+    "Mrs. Miniver": {
+      "id": 27367,
+      "poster": "/fjPjx6FTaoTussbqoLj6OYTtUyi.jpg",
+      "title": "Mrs. Miniver",
+      "year": 1942
+    },
+    "M*A*S*H": {
+      "id": 651,
+      "poster": "/on8Q9LhtHYNhmITjUMpgOUkIG8o.jpg",
+      "title": "M*A*S*H",
+      "year": 1970
+    },
+    "Manchester by the Sea": {
+      "id": 334541,
+      "poster": "/o9VXYOuaJxCEKOxbA86xqtwmqYn.jpg",
+      "title": "Manchester by the Sea",
+      "year": 2016
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "BlacKkKlansman": {
+      "id": 487558,
+      "poster": "/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg",
+      "title": "BlacKkKlansman",
+      "year": 2018
+    },
+    "Keanu": {
+      "id": 342521,
+      "poster": "/dPWlBmCixh9k3Jjb7c7jkIaxBbL.jpg",
+      "title": "Keanu",
+      "year": 2016
+    },
+    "Girls Trip": {
+      "id": 417870,
+      "poster": "/fM1h8CwtdileV3zlemXx7UWJjOP.jpg",
+      "title": "Girls Trip",
+      "year": 2017
+    },
+    "Searching": {
+      "id": 489999,
+      "poster": "/yuAPCsCGJGSxA7YOW4elF5JNrzK.jpg",
+      "title": "Searching",
+      "year": 2018
+    },
+    "The Big Short": {
+      "id": 318846,
+      "poster": "/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg",
+      "title": "The Big Short",
+      "year": 2015
+    },
+    "Meet the Spartans": {
+      "id": 7278,
+      "poster": "/DWQOjAPvM8Kk1Qp3Xq0zae0Z6w.jpg",
+      "title": "Meet the Spartans",
+      "year": 2008
+    },
+    "Zoolander": {
+      "id": 9398,
+      "poster": "/qdrbSneHZjJG2Dj0hhBxzzAo4HB.jpg",
+      "title": "Zoolander",
+      "year": 2001
+    },
+    "Step Brothers": {
+      "id": 12133,
+      "poster": "/nvggBbEraUTAVR6ffP3AaBUWSHs.jpg",
+      "title": "Step Brothers",
+      "year": 2008
+    },
+    "Neighbors": {
+      "id": 195589,
+      "poster": "/sN1RU08CMi8xkRIibremh3AOdgw.jpg",
+      "title": "Neighbors",
+      "year": 2014
+    },
+    "Blockers": {
+      "id": 437557,
+      "poster": "/uvlUQXg0AlpGzKukO11K7QtW3Yu.jpg",
+      "title": "Blockers",
+      "year": 2018
+    },
+    "The Hangover": {
+      "id": 18785,
+      "poster": "/A0uS9rHR56FeBtpjVki16M5xxSW.jpg",
+      "title": "The Hangover",
+      "year": 2009
+    },
+    "Bridesmaids": {
+      "id": 55721,
+      "poster": "/gJtA7hYsBMQ7EM3sPBMUdBfU7a0.jpg",
+      "title": "Bridesmaids",
+      "year": 2011
+    },
+    "Game Night": {
+      "id": 445571,
+      "poster": "/85R8LMyn9f2Lev2YPBF8Nughrkv.jpg",
+      "title": "Game Night",
+      "year": 2018
+    },
+    "I Feel Pretty": {
+      "id": 460668,
+      "poster": "/iuPs45XIxfARKPLEkCGXWUrBrTR.jpg",
+      "title": "I Feel Pretty",
+      "year": 2018
+    },
+    "Ghostbusters": {
+      "id": 620,
+      "poster": "/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
+      "title": "Ghostbusters",
+      "year": 1984
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    },
+    "Crazy Rich Asians": {
+      "id": 455207,
+      "poster": "/1XxL4LJ5WHdrcYcihEZUCgNCpAW.jpg",
+      "title": "Crazy Rich Asians",
+      "year": 2018
+    },
+    "Eighth Grade": {
+      "id": 489925,
+      "poster": "/xTa9cLhGHfQ7084UvoPQ2bBXKqd.jpg",
+      "title": "Eighth Grade",
+      "year": 2018
+    },
+    "First Man": {
+      "id": 369972,
+      "poster": "/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
+      "title": "First Man",
+      "year": 2018
+    },
+    "Mid90s": {
+      "id": 437586,
+      "poster": "/9Tw0Y3DK5kGIU9X1yw3Q9gCkOlb.jpg",
+      "title": "mid90s",
+      "year": 2018
+    }
+  }
+}

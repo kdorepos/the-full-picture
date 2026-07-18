@@ -1,0 +1,692 @@
+{
+  "slug": "the-1980s-comedy-movie-draft",
+  "title": "The 1980s Comedy Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2022-09-16",
+  "runtimeMin": 80,
+  "format": "Sean Fennessey, Amanda Dobbins, and Chris Ryan draft the best comedies of the 1980s across six categories, after a quick verdict on the new Confess Fletch.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Confess Fletch",
+      "note": "in theaters and on VOD this weekend",
+      "films": [
+        {
+          "title": "Confess Fletch",
+          "year": 2022,
+          "note": "Jon Hamm as a sardonic, un-Chevy-Chase-like Fletch, directed by Greg Mottola; a faithful adaptation of the novels that both hosts went in low on and came out liking."
+        }
+      ]
+    },
+    {
+      "kind": "draft",
+      "heading": "The teams",
+      "draftOf": "1980s comedies",
+      "categories": [
+        "Teen Comedy",
+        "Rom-Com",
+        "Oscar Nominee",
+        "Action / Horror / Sci-Fi Comedy",
+        "Blockbuster",
+        "Wild Card"
+      ],
+      "teams": [
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Heathers",
+              "year": 1989,
+              "category": "Teen Comedy",
+              "note": "an obsessive artifact of his school years; Winona Ryder and Christian Slater in a black comedy about bullying."
+            },
+            {
+              "title": "Say Anything",
+              "year": 1989,
+              "category": "Rom-Com",
+              "note": "the movie he says was his gateway to discovering music."
+            },
+            {
+              "title": "Broadcast News",
+              "year": 1987,
+              "category": "Oscar Nominee",
+              "note": "the first overall pick; James L. Brooks with William Hurt, Holly Hunter, and Albert Brooks."
+            },
+            {
+              "title": "Midnight Run",
+              "year": 1988,
+              "category": "Action / Horror / Sci-Fi Comedy",
+              "note": "his most-quoted movie ('surf and turf'); De Niro and Grodin, with Philip Baker Hall and Dennis Farina in support."
+            },
+            {
+              "title": "Trading Places",
+              "year": 1983,
+              "category": "Blockbuster",
+              "note": "his favorite Eddie Murphy comedy; Aykroyd and Murphy, set in Philadelphia."
+            },
+            {
+              "title": "Fletch",
+              "year": 1985,
+              "category": "Wild Card",
+              "note": "left on the board until the final pick; Chevy Chase at his most quotable."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "The Breakfast Club",
+              "year": 1985,
+              "category": "Teen Comedy",
+              "note": "the archetypal John Hughes movie, shown to her in a high school English class."
+            },
+            {
+              "title": "Working Girl",
+              "year": 1988,
+              "category": "Rom-Com",
+              "note": "Mike Nichols; Melanie Griffith and Sigourney Weaver, plus the Carly Simon theme."
+            },
+            {
+              "title": "Moonstruck",
+              "year": 1987,
+              "category": "Oscar Nominee",
+              "note": "her mother's favorite movie to show her, after Goodfellas; Cher and Nicolas Cage."
+            },
+            {
+              "title": "The Princess Bride",
+              "year": 1987,
+              "category": "Action / Horror / Sci-Fi Comedy",
+              "note": "Rob Reiner; Cary Elwes and Mandy Patinkin, watched a thousand times."
+            },
+            {
+              "title": "When Harry Met Sally",
+              "year": 1989,
+              "category": "Blockbuster",
+              "note": "her most important romantic comedy of the last 40 years; Nora Ephron sets the template for the genre."
+            },
+            {
+              "title": "Ghostbusters",
+              "year": 1984,
+              "category": "Wild Card",
+              "note": "possibly the earliest a film has gone in Wild Card in the show's history; she turned down a trade for Ferris Bueller's Day Off."
+            }
+          ]
+        },
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Ferris Bueller's Day Off",
+              "year": 1986,
+              "category": "Teen Comedy",
+              "note": "owned on VHS as a kid; John Hughes, with Matthew Broderick and Alan Ruck."
+            },
+            {
+              "title": "Bull Durham",
+              "year": 1988,
+              "category": "Rom-Com",
+              "note": "Ron Shelton; Costner, Sarandon, and Tim Robbins."
+            },
+            {
+              "title": "Big",
+              "year": 1988,
+              "category": "Oscar Nominee",
+              "note": "Penny Marshall directs Tom Hanks as an adolescent boy whose wish to grow up is granted."
+            },
+            {
+              "title": "Back to the Future",
+              "year": 1985,
+              "category": "Action / Horror / Sci-Fi Comedy",
+              "note": "picked despite Amanda's teasing over whether it counts as funny."
+            },
+            {
+              "title": "Beverly Hills Cop",
+              "year": 1984,
+              "category": "Blockbuster",
+              "note": "discussed alongside Lethal Weapon as a template-setter for the action-comedy."
+            },
+            {
+              "title": "Planes, Trains and Automobiles",
+              "year": 1987,
+              "category": "Wild Card",
+              "note": "the last pick of the draft, taken over This Is Spinal Tap; John Hughes and John Candy."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Police Academy",
+        "Cocktail",
+        "Fast Times at Ridgemont High",
+        "48 Hrs.",
+        "Spaceballs",
+        "Something Wild",
+        "Splash",
+        "Married to the Mob",
+        "Tootsie",
+        "Who Framed Roger Rabbit",
+        "This Is Spinal Tap",
+        "Big Trouble in Little China",
+        "Clue",
+        "Three Amigos",
+        "Raising Arizona",
+        "9 to 5",
+        "Stripes",
+        "Airplane!",
+        "Caddyshack",
+        "A Fish Called Wanda",
+        "Lost in America",
+        "Modern Romance",
+        "One Crazy Summer",
+        "Better Off Dead",
+        "Weird Science",
+        "Real Genius"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Adventureland",
+        "Red Notice",
+        "Wall Street",
+        "Chariots of Fire",
+        "Empire of Light",
+        "Drive",
+        "Diner",
+        "Tin Men",
+        "Cocoon",
+        "Short Circuit",
+        "Three Men and a Baby",
+        "Revenge of the Nerds II: Nerds in Paradise",
+        "Porky's",
+        "Mr. Jealousy",
+        "Kicking and Screaming",
+        "Pinocchio",
+        "National Lampoon's Christmas Vacation",
+        "National Lampoon's European Vacation",
+        "National Lampoon's Vacation",
+        "The Blues Brothers",
+        "Gremlins",
+        "Indiana Jones and the Temple of Doom",
+        "Barbarian",
+        "Home Alone",
+        "Rebecca",
+        "Hitch",
+        "American Psycho",
+        "Angst"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Party Down",
+      "Chicago Hope",
+      "Homeland",
+      "Euphoria",
+      "House of the Dragon"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "Netflix",
+      "Athletic Brewing Company"
+    ]
+  },
+  "tmdbOverrides": {
+    "Diner": 13776,
+    "Cocoon": 10328,
+    "Three Men and a Baby": 12154,
+    "9 to 5": 19494,
+    "Modern Romance": 63443,
+    "Pinocchio": 532639,
+    "Angst": 18912
+  },
+  "tmdb": {
+    "Confess Fletch": {
+      "id": 724665,
+      "poster": "/h2oyiPu7aql1s1mLDoKBNAH7p3B.jpg",
+      "title": "Confess, Fletch",
+      "year": 2022
+    },
+    "Heathers": {
+      "id": 2640,
+      "poster": "/dGbVfM4WlM7uvIbyRehfPZUIgp2.jpg",
+      "title": "Heathers",
+      "year": 1989
+    },
+    "Say Anything": {
+      "id": 2028,
+      "poster": "/nkucKciFGSRalw6dJtsglWqOXMC.jpg",
+      "title": "Say Anything...",
+      "year": 1989
+    },
+    "Broadcast News": {
+      "id": 12626,
+      "poster": "/kQNR1Lc0qAF5xuBySpDn481KVjb.jpg",
+      "title": "Broadcast News",
+      "year": 1987
+    },
+    "Midnight Run": {
+      "id": 9013,
+      "poster": "/yx0touyDQ9enWDsFgS4MbBwCSNd.jpg",
+      "title": "Midnight Run",
+      "year": 1988
+    },
+    "Trading Places": {
+      "id": 1621,
+      "poster": "/8mBuLCOcpWnmYtZc4aqtvDXslv6.jpg",
+      "title": "Trading Places",
+      "year": 1983
+    },
+    "Fletch": {
+      "id": 9749,
+      "poster": "/nKDnMvVynvj7lwdv1iAZO1DzTYn.jpg",
+      "title": "Fletch",
+      "year": 1985
+    },
+    "The Breakfast Club": {
+      "id": 2108,
+      "poster": "/gp4zlj7wgbiofLMNsTPndMuO3PN.jpg",
+      "title": "The Breakfast Club",
+      "year": 1985
+    },
+    "Working Girl": {
+      "id": 3525,
+      "poster": "/q2jfFzZvAzjTaArQR0tjilIZ5aJ.jpg",
+      "title": "Working Girl",
+      "year": 1988
+    },
+    "Moonstruck": {
+      "id": 2039,
+      "poster": "/2mnVWpvsHEHHnfvLn1NXYVvBGl5.jpg",
+      "title": "Moonstruck",
+      "year": 1987
+    },
+    "The Princess Bride": {
+      "id": 2493,
+      "poster": "/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+      "title": "The Princess Bride",
+      "year": 1987
+    },
+    "When Harry Met Sally": {
+      "id": 639,
+      "poster": "/rFOiFUhTMtDetqCGClC9PIgnC1P.jpg",
+      "title": "When Harry Met Sally...",
+      "year": 1989
+    },
+    "Ghostbusters": {
+      "id": 620,
+      "poster": "/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
+      "title": "Ghostbusters",
+      "year": 1984
+    },
+    "Ferris Bueller's Day Off": {
+      "id": 9377,
+      "poster": "/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg",
+      "title": "Ferris Bueller's Day Off",
+      "year": 1986
+    },
+    "Bull Durham": {
+      "id": 287,
+      "poster": "/q3T9bO6p74NcTxWOhdUA6fASQ5T.jpg",
+      "title": "Bull Durham",
+      "year": 1988
+    },
+    "Big": {
+      "id": 2280,
+      "poster": "/eWhCDJiwxvx3YXkAFRiHjimnF0j.jpg",
+      "title": "Big",
+      "year": 1988
+    },
+    "Back to the Future": {
+      "id": 105,
+      "poster": "/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+      "title": "Back to the Future",
+      "year": 1985
+    },
+    "Beverly Hills Cop": {
+      "id": 90,
+      "poster": "/eBJEvKkhQ0tUt1dBAcTEYW6kCle.jpg",
+      "title": "Beverly Hills Cop",
+      "year": 1984
+    },
+    "Planes, Trains and Automobiles": {
+      "id": 2609,
+      "poster": "/fwi2cET87xArJCb8MdbWq2BZO3n.jpg",
+      "title": "Planes, Trains and Automobiles",
+      "year": 1987
+    },
+    "Police Academy": {
+      "id": 9336,
+      "poster": "/3PriqoVUQcPwcyvk0SJRiMTdBJK.jpg",
+      "title": "Police Academy",
+      "year": 1984
+    },
+    "Cocktail": {
+      "id": 7520,
+      "poster": "/jFRhEPhtsln9tDwzMdZN3OlhUob.jpg",
+      "title": "Cocktail",
+      "year": 1988
+    },
+    "Fast Times at Ridgemont High": {
+      "id": 13342,
+      "poster": "/s1DA8H7qwoOcAEhow2rCzuQtpuO.jpg",
+      "title": "Fast Times at Ridgemont High",
+      "year": 1982
+    },
+    "48 Hrs.": {
+      "id": 150,
+      "poster": "/rvvjXHzEDBIvIVDBHNOwHS7hVPu.jpg",
+      "title": "48 Hrs.",
+      "year": 1982
+    },
+    "Spaceballs": {
+      "id": 957,
+      "poster": "/aHNeKtkNnyQcietzi2cgiYL8sC9.jpg",
+      "title": "Spaceballs",
+      "year": 1987
+    },
+    "Something Wild": {
+      "id": 11300,
+      "poster": "/344lhBozqFWKxBb4fp6azYQMLEy.jpg",
+      "title": "Something Wild",
+      "year": 1986
+    },
+    "Splash": {
+      "id": 2619,
+      "poster": "/7FutTsMWBwVhjk1Ujf1wtndUVZh.jpg",
+      "title": "Splash",
+      "year": 1984
+    },
+    "Married to the Mob": {
+      "id": 2321,
+      "poster": "/gkOsxv1RvV5smRnm6wrmn2wDXyZ.jpg",
+      "title": "Married to the Mob",
+      "year": 1988
+    },
+    "Tootsie": {
+      "id": 9576,
+      "poster": "/ngyCzZwb9y5sMUCig5JQT4Y33Q.jpg",
+      "title": "Tootsie",
+      "year": 1982
+    },
+    "Who Framed Roger Rabbit": {
+      "id": 856,
+      "poster": "/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg",
+      "title": "Who Framed Roger Rabbit",
+      "year": 1988
+    },
+    "This Is Spinal Tap": {
+      "id": 11031,
+      "poster": "/b3lllDltoBws5uKZzBYVSjpjjJx.jpg",
+      "title": "This Is Spinal Tap",
+      "year": 1984
+    },
+    "Big Trouble in Little China": {
+      "id": 6978,
+      "poster": "/rCy3CFJfWVBSyiVcFOQMcMAh5R2.jpg",
+      "title": "Big Trouble in Little China",
+      "year": 1986
+    },
+    "Clue": {
+      "id": 15196,
+      "poster": "/aRxbYOYHS8T73nzR8hsLousoplR.jpg",
+      "title": "Clue",
+      "year": 1985
+    },
+    "Three Amigos": {
+      "id": 8388,
+      "poster": "/dUNRnhl2cwjFJ6TOsaPJmZeMZ0S.jpg",
+      "title": "¡Three Amigos!",
+      "year": 1986
+    },
+    "Raising Arizona": {
+      "id": 378,
+      "poster": "/niKyjOqiB4XVl0BqgKTHIlHOCeF.jpg",
+      "title": "Raising Arizona",
+      "year": 1987
+    },
+    "9 to 5": {
+      "id": 19494,
+      "poster": "/anGHRo1tAAVoa7juvAuxldAE4lL.jpg",
+      "title": "Nine to Five",
+      "year": 1980
+    },
+    "Stripes": {
+      "id": 10890,
+      "poster": "/vP8tPOgmJSNOh4bpOv1bFjid3rZ.jpg",
+      "title": "Stripes",
+      "year": 1981
+    },
+    "Airplane!": {
+      "id": 813,
+      "poster": "/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg",
+      "title": "Airplane!",
+      "year": 1980
+    },
+    "Caddyshack": {
+      "id": 11977,
+      "poster": "/lXnNz7zOXCsftMDVoU3VSo0Eioi.jpg",
+      "title": "Caddyshack",
+      "year": 1980
+    },
+    "A Fish Called Wanda": {
+      "id": 623,
+      "poster": "/hkSGFNVfEEUXFCxRZDITFHVhUlu.jpg",
+      "title": "A Fish Called Wanda",
+      "year": 1988
+    },
+    "Lost in America": {
+      "id": 27223,
+      "poster": "/j7QiwUekGiYOmjKratNORIr35zg.jpg",
+      "title": "Lost in America",
+      "year": 1985
+    },
+    "Modern Romance": {
+      "id": 63443,
+      "poster": "/iDRBGabz2BqlqjidUOtTvYOaSli.jpg",
+      "title": "Modern Romance",
+      "year": 1981
+    },
+    "One Crazy Summer": {
+      "id": 18282,
+      "poster": "/hwrMVPwGFB3fouqD5PhhmbafB7G.jpg",
+      "title": "One Crazy Summer",
+      "year": 1986
+    },
+    "Better Off Dead": {
+      "id": 13667,
+      "poster": "/pHmbSkpxdB7jXozrovEfacArtW0.jpg",
+      "title": "Better Off Dead...",
+      "year": 1985
+    },
+    "Weird Science": {
+      "id": 11814,
+      "poster": "/jaEauZd2joSAKn42D83gm3S0y3F.jpg",
+      "title": "Weird Science",
+      "year": 1985
+    },
+    "Real Genius": {
+      "id": 14370,
+      "poster": "/8az0Tr8hEGDmrUH9WlFz1QIKsMy.jpg",
+      "title": "Real Genius",
+      "year": 1985
+    },
+    "Adventureland": {
+      "id": 16614,
+      "poster": "/eeSJNAR1aWcgANq26KWIHm3cbyB.jpg",
+      "title": "Adventureland",
+      "year": 2009
+    },
+    "Red Notice": {
+      "id": 512195,
+      "poster": "/lAXONuqg41NwUMuzMiFvicDET9Y.jpg",
+      "title": "Red Notice",
+      "year": 2021
+    },
+    "Wall Street": {
+      "id": 10673,
+      "poster": "/2tQYq9ntzn2dEwDIGLBSipYPenv.jpg",
+      "title": "Wall Street",
+      "year": 1987
+    },
+    "Chariots of Fire": {
+      "id": 9443,
+      "poster": "/qnRaum8k0HqGRml2i7OawFqUtEb.jpg",
+      "title": "Chariots of Fire",
+      "year": 1981
+    },
+    "Empire of Light": {
+      "id": 814757,
+      "poster": "/h84SnIQF91Gz2Fv1OpMJ3245t4i.jpg",
+      "title": "Empire of Light",
+      "year": 2022
+    },
+    "Drive": {
+      "id": 64690,
+      "poster": "/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
+      "title": "Drive",
+      "year": 2011
+    },
+    "Diner": {
+      "id": 13776,
+      "poster": "/2vKIdZ6JkFIzcQeaHg3xtdvOyRO.jpg",
+      "title": "Diner",
+      "year": 1982
+    },
+    "Tin Men": {
+      "id": 10896,
+      "poster": "/5rWE9ft0Uc2kuDWlkg5vQth58XZ.jpg",
+      "title": "Tin Men",
+      "year": 1987
+    },
+    "Cocoon": {
+      "id": 10328,
+      "poster": "/wqNNm36j3nkucAucHEGAW5pNZcd.jpg",
+      "title": "Cocoon",
+      "year": 1985
+    },
+    "Short Circuit": {
+      "id": 2605,
+      "poster": "/e3eimdUK6lLe0iaSlLrYVQF3yeL.jpg",
+      "title": "Short Circuit",
+      "year": 1986
+    },
+    "Three Men and a Baby": {
+      "id": 12154,
+      "poster": "/oYetboAljWR2N5A7MU3i63DvUtd.jpg",
+      "title": "3 Men and a Baby",
+      "year": 1987
+    },
+    "Revenge of the Nerds II: Nerds in Paradise": {
+      "id": 16889,
+      "poster": "/cza5sS7AzexM4rLQSvfGzGX8a3N.jpg",
+      "title": "Revenge of the Nerds II: Nerds in Paradise",
+      "year": 1987
+    },
+    "Porky's": {
+      "id": 10246,
+      "poster": "/AqCOt1cWfKqCepxK7LIdT812idH.jpg",
+      "title": "Porky's",
+      "year": 1981
+    },
+    "Mr. Jealousy": {
+      "id": 53765,
+      "poster": "/eHKAQTwZOIzUvqz4pZ3Tj6JX3K1.jpg",
+      "title": "Mr. Jealousy",
+      "year": 1998
+    },
+    "Kicking and Screaming": {
+      "id": 28387,
+      "poster": "/ynAtSpTou7snNOq32djzILw9VCA.jpg",
+      "title": "Kicking and Screaming",
+      "year": 1995
+    },
+    "Pinocchio": {
+      "id": 532639,
+      "poster": "/zaZhjKrJeWczQ3AotKoQObppEbH.jpg",
+      "title": "Pinocchio",
+      "year": 2022
+    },
+    "National Lampoon's Christmas Vacation": {
+      "id": 5825,
+      "poster": "/oat42hUw8XzKYUmfy0YLAxYd484.jpg",
+      "title": "National Lampoon's Christmas Vacation",
+      "year": 1989
+    },
+    "National Lampoon's European Vacation": {
+      "id": 11418,
+      "poster": "/hZL7g1oSDrA0Lx5wcHpEl99MYKi.jpg",
+      "title": "National Lampoon's European Vacation",
+      "year": 1985
+    },
+    "National Lampoon's Vacation": {
+      "id": 11153,
+      "poster": "/q3DvoqY06yZnRp9faH6uge7n7VP.jpg",
+      "title": "National Lampoon's Vacation",
+      "year": 1983
+    },
+    "The Blues Brothers": {
+      "id": 525,
+      "poster": "/rhYJKOt6UrQq7JQgLyQcSWW5R86.jpg",
+      "title": "The Blues Brothers",
+      "year": 1980
+    },
+    "Gremlins": {
+      "id": 927,
+      "poster": "/6m0F7fsXjQvUbCZrPWcJNrjvIui.jpg",
+      "title": "Gremlins",
+      "year": 1984
+    },
+    "Indiana Jones and the Temple of Doom": {
+      "id": 87,
+      "poster": "/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg",
+      "title": "Indiana Jones and the Temple of Doom",
+      "year": 1984
+    },
+    "Barbarian": {
+      "id": 913290,
+      "poster": "/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
+      "title": "Barbarian",
+      "year": 2022
+    },
+    "Home Alone": {
+      "id": 771,
+      "poster": "/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
+      "title": "Home Alone",
+      "year": 1990
+    },
+    "Rebecca": {
+      "id": 223,
+      "poster": "/1qz3qUOHnVy7dL7M7G8jSErxE4b.jpg",
+      "title": "Rebecca",
+      "year": 1940
+    },
+    "Hitch": {
+      "id": 8488,
+      "poster": "/x3W9H3nhGQbWSlyI8Amp2F6Z6cz.jpg",
+      "title": "Hitch",
+      "year": 2005
+    },
+    "American Psycho": {
+      "id": 1359,
+      "poster": "/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+      "title": "American Psycho",
+      "year": 2000
+    },
+    "Angst": {
+      "id": 18912,
+      "poster": "/nSYdWrPPwvcs5t5hG67XqDbwncG.jpg",
+      "title": "Angst",
+      "year": 1983
+    }
+  }
+}

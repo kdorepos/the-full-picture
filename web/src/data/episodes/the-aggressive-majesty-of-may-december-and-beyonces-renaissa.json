@@ -1,0 +1,166 @@
+{
+  "slug": "the-aggressive-majesty-of-may-december-and-beyonces-renaissa",
+  "title": "The Aggressive Majesty of ‘May December’ and Beyoncé’s ‘Renaissance’",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Wesley Morris"
+  ],
+  "published": "2023-12-01",
+  "runtimeMin": 109,
+  "format": "Todd Haynes' Mary Kay Letourneau riff and Beyoncé's concert film, reviewed with Wesley Morris.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "‘May December’",
+      "note": "Todd Haynes' Netflix drama, with Wesley Morris",
+      "films": [
+        {
+          "title": "May December",
+          "year": 2023,
+          "note": "Loosely drawn from Mary Kay Letourneau, with Julianne Moore, Natalie Portman, and Charles Melton; Wesley calls it a movie you have to watch twice, Sean calls it a borderline masterpiece."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "‘Renaissance: A Film by Beyoncé’",
+      "note": "the concert documentary, with Wesley Morris",
+      "films": [
+        {
+          "title": "Renaissance: A Film by Beyoncé",
+          "year": 2023,
+          "note": "All 56 tour dates cut into one non-chronological show, written and directed by Beyoncé; the panel ranks it well above this year's other pop-star tour movie."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Todd Haynes catalog",
+      "films": [
+        "Carol",
+        "Mildred Pierce",
+        "I'm Not There"
+      ]
+    },
+    {
+      "group": "Natalie Portman's other performances",
+      "films": [
+        "Jackie",
+        "Vox Lux",
+        "Black Swan"
+      ]
+    },
+    {
+      "group": "Concert-film comparisons",
+      "films": [
+        "Taylor Swift: The Eras Tour",
+        "Homecoming: A Film by Beyoncé",
+        "Lemonade",
+        "Stop Making Sense"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Godzilla Minus One"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Riverdale",
+      "Law & Order: SVU"
+    ],
+    "Ads": [
+      "The Wedding Scammer",
+      "Carvana",
+      "FIFA World Cup Launch Edition",
+      "Boar's Head",
+      "FanDuel"
+    ]
+  },
+  "tmdb": {
+    "May December": {
+      "id": 839369,
+      "poster": "/zhV7B610l7hjlri4ywikJ18ONuq.jpg",
+      "title": "May December",
+      "year": 2023
+    },
+    "Renaissance: A Film by Beyoncé": {
+      "id": 1185743,
+      "poster": "/6sVB5xuQq9njHK455JdwgN8Tx07.jpg",
+      "title": "Renaissance: A Film by Beyoncé",
+      "year": 2023
+    },
+    "Carol": {
+      "id": 258480,
+      "poster": "/cJeled7EyPdur6TnCA5GYg0UVna.jpg",
+      "title": "Carol",
+      "year": 2015
+    },
+    "Mildred Pierce": {
+      "id": 3309,
+      "poster": "/3bqF5bJPjeITNeC8ydbUOQZfuqP.jpg",
+      "title": "Mildred Pierce",
+      "year": 1945
+    },
+    "I'm Not There": {
+      "id": 3902,
+      "poster": "/bucgvB7gQqcl1m71efHkenfIMTj.jpg",
+      "title": "I'm Not There",
+      "year": 2007
+    },
+    "Jackie": {
+      "id": 376866,
+      "poster": "/nF9N33PfhizMEzbfxHoxXBo2vx9.jpg",
+      "title": "Jackie",
+      "year": 2016
+    },
+    "Vox Lux": {
+      "id": 429202,
+      "poster": "/xmFOjB5bGvFqNzsX5TbIWzdvpGd.jpg",
+      "title": "Vox Lux",
+      "year": 2018
+    },
+    "Black Swan": {
+      "id": 44214,
+      "poster": "/viWheBd44bouiLCHgNMvahLThqx.jpg",
+      "title": "Black Swan",
+      "year": 2010
+    },
+    "Taylor Swift: The Eras Tour": {
+      "id": 1160164,
+      "poster": "/jf3YO8hOqGHCupsREf5qymYq1n.jpg",
+      "title": "TAYLOR SWIFT | THE ERAS TOUR",
+      "year": 2023
+    },
+    "Homecoming: A Film by Beyoncé": {
+      "id": 593691,
+      "poster": "/nKdP4K3Bj3qnjtDCq9lTg7UOHVy.jpg",
+      "title": "HOMECOMING: A film by Beyoncé",
+      "year": 2019
+    },
+    "Lemonade": {
+      "id": 394269,
+      "poster": "/x6sBCNHyjrCVF5Pa3Oa8GCP58UU.jpg",
+      "title": "Lemonade",
+      "year": 2016
+    },
+    "Stop Making Sense": {
+      "id": 24128,
+      "poster": "/utNpurUe1MMjEaHqvpkfxgfpSnV.jpg",
+      "title": "Stop Making Sense",
+      "year": 1984
+    },
+    "Godzilla Minus One": {
+      "id": 940721,
+      "poster": "/2E2WTX0TJEflAged6kzErwqX1kt.jpg",
+      "title": "Godzilla Minus One",
+      "year": 2023
+    }
+  }
+}

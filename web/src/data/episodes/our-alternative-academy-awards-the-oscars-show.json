@@ -1,0 +1,1081 @@
+{
+  "slug": "our-alternative-academy-awards-the-oscars-show",
+  "title": "Our Alternative Academy Awards | The Oscars Show",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Wesley Morris"
+  ],
+  "published": "2020-02-05",
+  "runtimeMin": 104,
+  "format": "Sean Fennessey and Amanda Dobbins hand the ballot to Wesley Morris and rebuild the Oscars from scratch: nine invented categories, then all-new nominees in the six biggest races. Atlantics, Rob Morgan, and American Factory go home with statues that don't exist.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The State of the 2020 Oscars",
+      "note": "before the alternate ceremony",
+      "films": [
+        {
+          "title": "Parasite",
+          "year": 2019,
+          "note": "No precedent for a film like this getting this close to a Best Picture win, unimaginable even in September."
+        },
+        {
+          "title": "The Irishman",
+          "year": 2019,
+          "note": "One of a couple of expensive, studio-defying swings that pushed this year's slate up."
+        },
+        {
+          "title": "Marriage Story",
+          "year": 2019,
+          "note": "The other one: money no other studio would have spent."
+        },
+        {
+          "title": "Joker",
+          "year": 2019,
+          "note": "A highly unusual movie to have been made, marketed, and rewarded the way it was."
+        },
+        {
+          "title": "1917",
+          "year": 2019,
+          "note": "Loved but the definition of an 'Oscar movie'; a win would feel like a message being sent."
+        }
+      ]
+    },
+    {
+      "kind": "awards",
+      "heading": "New Categories We're Adding",
+      "note": "invented awards, hosts' consensus picks marked",
+      "categories": [
+        {
+          "name": "Best First Feature",
+          "winner": "Atlantics",
+          "nominees": [
+            {
+              "title": "Honey Boy",
+              "year": 2019,
+              "person": "Alma Har'el"
+            },
+            {
+              "title": "Booksmart",
+              "year": 2019,
+              "person": "Olivia Wilde"
+            },
+            {
+              "title": "The Last Black Man in San Francisco",
+              "year": 2019,
+              "person": "Joe Talbot"
+            },
+            {
+              "title": "Atlantics",
+              "year": 2019,
+              "person": "Mati Diop"
+            },
+            {
+              "title": "The Peanut Butter Falcon",
+              "year": 2019,
+              "person": "Tyler Nilson & Michael Schwartz"
+            }
+          ]
+        },
+        {
+          "name": "Breakthrough Performance",
+          "winner": "The Last Black Man in San Francisco",
+          "nominees": [
+            {
+              "title": "Plus One",
+              "year": 2019,
+              "person": "Maya Erskine"
+            },
+            {
+              "title": "The Last Black Man in San Francisco",
+              "year": 2019,
+              "person": "Jonathan Majors"
+            },
+            {
+              "title": "The Souvenir",
+              "year": 2019,
+              "person": "Honor Swinton Byrne"
+            },
+            {
+              "title": "Richard Jewell",
+              "year": 2019,
+              "person": "Paul Walter Hauser"
+            },
+            {
+              "title": "Uncut Gems",
+              "year": 2019,
+              "person": "Julia Fox"
+            }
+          ]
+        },
+        {
+          "name": "Best Cameo",
+          "winner": "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+          "nominees": [
+            {
+              "title": "Always Be My Maybe",
+              "year": 2019,
+              "person": "Keanu Reeves"
+            },
+            {
+              "title": "Avengers: Endgame",
+              "year": 2019,
+              "person": "Gwyneth Paltrow"
+            },
+            {
+              "title": "Spider-Man: Far From Home",
+              "year": 2019,
+              "person": "J.K. Simmons"
+            },
+            {
+              "title": "Uncut Gems",
+              "year": 2019,
+              "person": "The Weeknd"
+            },
+            {
+              "title": "Long Shot",
+              "year": 2019,
+              "person": "Boyz II Men"
+            },
+            {
+              "title": "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+              "year": 2019,
+              "person": "Sharon Stone"
+            }
+          ]
+        },
+        {
+          "name": "Best Kid Performance",
+          "winner": "Once Upon a Time in Hollywood",
+          "nominees": [
+            {
+              "title": "Jojo Rabbit",
+              "year": 2019,
+              "person": "Archie Yates"
+            },
+            {
+              "title": "Once Upon a Time in Hollywood",
+              "year": 2019,
+              "person": "Julia Butters"
+            },
+            {
+              "title": "Honey Boy",
+              "year": 2019,
+              "person": "Noah Jupe"
+            },
+            {
+              "title": "Good Boys",
+              "year": 2019,
+              "person": "Jacob Tremblay"
+            },
+            {
+              "title": "Dumbo",
+              "year": 2019,
+              "person": "Nico Parker"
+            }
+          ]
+        },
+        {
+          "name": "Best Casting",
+          "winner": "Uncut Gems",
+          "nominees": [
+            {
+              "title": "Us",
+              "year": 2019
+            },
+            {
+              "title": "Triple Frontier",
+              "year": 2019
+            },
+            {
+              "title": "Little Women",
+              "year": 2019
+            },
+            {
+              "title": "Once Upon a Time in Hollywood",
+              "year": 2019
+            },
+            {
+              "title": "Uncut Gems",
+              "year": 2019
+            }
+          ]
+        },
+        {
+          "name": "Best Action Sequence",
+          "winner": "John Wick: Chapter 3 - Parabellum",
+          "nominees": [
+            {
+              "title": "Fast & Furious Presents: Hobbs & Shaw",
+              "year": 2019,
+              "person": "the helicopter drag race"
+            },
+            {
+              "title": "John Wick: Chapter 3 - Parabellum",
+              "year": 2019,
+              "person": "the dogfight"
+            },
+            {
+              "title": "6 Underground",
+              "year": 2019,
+              "person": "the Italian car chase"
+            },
+            {
+              "title": "Gemini Man",
+              "year": 2019,
+              "person": "the motorcycle duel"
+            },
+            {
+              "title": "Alita: Battle Angel",
+              "year": 2019,
+              "person": "the motorball brawl"
+            }
+          ]
+        },
+        {
+          "name": "Best Ending",
+          "winner": "Once Upon a Time in Hollywood",
+          "nominees": [
+            {
+              "title": "The Irishman",
+              "year": 2019
+            },
+            {
+              "title": "Portrait of a Lady on Fire",
+              "year": 2019
+            },
+            {
+              "title": "Parasite",
+              "year": 2019
+            },
+            {
+              "title": "Midsommar",
+              "year": 2019
+            },
+            {
+              "title": "Spider-Man: Far From Home",
+              "year": 2019
+            },
+            {
+              "title": "Once Upon a Time in Hollywood",
+              "year": 2019,
+              "person": "write-in"
+            }
+          ]
+        },
+        {
+          "name": "Best Trailer",
+          "winner": "Joker",
+          "nominees": [
+            {
+              "title": "The Last Black Man in San Francisco",
+              "year": 2019
+            },
+            {
+              "title": "Joker",
+              "year": 2019
+            },
+            {
+              "title": "Uncut Gems",
+              "year": 2019
+            },
+            {
+              "title": "Godzilla: King of the Monsters",
+              "year": 2019
+            },
+            {
+              "title": "The Lighthouse",
+              "year": 2019
+            }
+          ]
+        },
+        {
+          "name": "The 'It's Time' Oscar",
+          "winner": "Marriage Story",
+          "nominees": [
+            {
+              "title": "Marriage Story",
+              "year": 2019,
+              "person": "Laura Dern"
+            },
+            {
+              "title": "Little Women",
+              "year": 2019,
+              "person": "Laura Dern"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "awards",
+      "heading": "The Big Six, Reimagined",
+      "note": "all-new nominees, ceremony's key races",
+      "ceremony": "92nd Academy Awards",
+      "categories": [
+        {
+          "name": "Best Supporting Actor",
+          "winner": "Just Mercy",
+          "nominees": [
+            {
+              "title": "Parasite",
+              "year": 2019,
+              "person": "Song Kang-ho"
+            },
+            {
+              "title": "The Lighthouse",
+              "year": 2019,
+              "person": "Willem Dafoe"
+            },
+            {
+              "title": "Waves",
+              "year": 2019,
+              "person": "Sterling K. Brown"
+            },
+            {
+              "title": "Honey Boy",
+              "year": 2019,
+              "person": "Shia LaBeouf"
+            },
+            {
+              "title": "Just Mercy",
+              "year": 2019,
+              "person": "Rob Morgan"
+            }
+          ]
+        },
+        {
+          "name": "Best Supporting Actress",
+          "winner": "Parasite",
+          "nominees": [
+            {
+              "title": "Hustlers",
+              "year": 2019,
+              "person": "Jennifer Lopez"
+            },
+            {
+              "title": "The Farewell",
+              "year": 2019,
+              "person": "Zhao Shuzhen"
+            },
+            {
+              "title": "Parasite",
+              "year": 2019,
+              "person": "Cho Yeo-jeong"
+            },
+            {
+              "title": "Booksmart",
+              "year": 2019,
+              "person": "Kaitlyn Dever"
+            },
+            {
+              "title": "Waves",
+              "year": 2019,
+              "person": "Taylor Russell"
+            }
+          ]
+        },
+        {
+          "name": "Best Actor",
+          "winner": "Richard Jewell",
+          "nominees": [
+            {
+              "title": "Uncut Gems",
+              "year": 2019,
+              "person": "Adam Sandler"
+            },
+            {
+              "title": "Richard Jewell",
+              "year": 2019,
+              "person": "Paul Walter Hauser"
+            },
+            {
+              "title": "Ad Astra",
+              "year": 2019,
+              "person": "Brad Pitt"
+            },
+            {
+              "title": "The Beach Bum",
+              "year": 2019,
+              "person": "Matthew McConaughey"
+            },
+            {
+              "title": "High Flying Bird",
+              "year": 2019,
+              "person": "André Holland"
+            }
+          ]
+        },
+        {
+          "name": "Best Actress",
+          "winner": "Us",
+          "nominees": [
+            {
+              "title": "Us",
+              "year": 2019,
+              "person": "Lupita Nyong'o"
+            },
+            {
+              "title": "Portrait of a Lady on Fire",
+              "year": 2019,
+              "person": "Adèle Haenel"
+            },
+            {
+              "title": "Midsommar",
+              "year": 2019,
+              "person": "Florence Pugh"
+            },
+            {
+              "title": "Long Shot",
+              "year": 2019,
+              "person": "Charlize Theron"
+            },
+            {
+              "title": "Her Smell",
+              "year": 2019,
+              "person": "Elisabeth Moss"
+            }
+          ]
+        },
+        {
+          "name": "Best Director",
+          "winner": "Little Women",
+          "nominees": [
+            {
+              "title": "Little Women",
+              "year": 2019,
+              "person": "Greta Gerwig"
+            },
+            {
+              "title": "Waves",
+              "year": 2019,
+              "person": "Trey Edward Shults"
+            },
+            {
+              "title": "Midsommar",
+              "year": 2019,
+              "person": "Ari Aster"
+            },
+            {
+              "title": "Pain and Glory",
+              "year": 2019,
+              "person": "Pedro Almodóvar"
+            },
+            {
+              "title": "American Factory",
+              "year": 2019,
+              "person": "Julia Reichert & Steven Bognar"
+            }
+          ]
+        },
+        {
+          "name": "Best Picture",
+          "winner": "American Factory",
+          "nominees": [
+            {
+              "title": "Uncut Gems",
+              "year": 2019
+            },
+            {
+              "title": "Waves",
+              "year": 2019
+            },
+            {
+              "title": "American Factory",
+              "year": 2019
+            },
+            {
+              "title": "The Souvenir",
+              "year": 2019
+            },
+            {
+              "title": "The Lighthouse",
+              "year": 2019
+            },
+            {
+              "title": "Booksmart",
+              "year": 2019
+            },
+            {
+              "title": "The Farewell",
+              "year": 2019
+            },
+            {
+              "title": "Knives Out",
+              "year": 2019
+            },
+            {
+              "title": "Pain and Glory",
+              "year": 2019
+            },
+            {
+              "title": "Portrait of a Lady on Fire",
+              "year": 2019
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Oscar-history touchstones",
+      "films": [
+        "The Departed",
+        "Moonlight",
+        "The Blind Side",
+        "District 9",
+        "Shakespeare in Love",
+        "Howards End",
+        "Get Out"
+      ]
+    },
+    {
+      "group": "Clip-reel and career highlights",
+      "films": [
+        "Shirley Valentine",
+        "Pretty Woman",
+        "Rambling Rose",
+        "Wild at Heart",
+        "Inland Empire",
+        "Jurassic Park",
+        "Captain Phillips",
+        "Mudbound",
+        "Can't Hardly Wait",
+        "Home Alone",
+        "A Quiet Place"
+      ]
+    },
+    {
+      "group": "Also mentioned",
+      "films": [
+        "Yesterday",
+        "Miss Americana",
+        "Cats",
+        "Harriet",
+        "Widows",
+        "Gloria Bell",
+        "The Nightingale",
+        "The Witch",
+        "25th Hour",
+        "Mission: Impossible - Fallout",
+        "Brick",
+        "The Brothers Bloom",
+        "Looper",
+        "Matador",
+        "The Ice Storm",
+        "Eat Drink Man Woman",
+        "Call Me by Your Name",
+        "Heat"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Big Little Lies",
+      "The Outsider",
+      "Undone"
+    ],
+    "Ads": [
+      "The Ringer NFL Show",
+      "Slow News Day"
+    ]
+  },
+  "tmdb": {
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Marriage Story": {
+      "id": 492188,
+      "poster": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+      "title": "Marriage Story",
+      "year": 2019
+    },
+    "Joker": {
+      "id": 475557,
+      "poster": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "title": "Joker",
+      "year": 2019
+    },
+    "1917": {
+      "id": 530915,
+      "poster": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+      "title": "1917",
+      "year": 2019
+    },
+    "Honey Boy": {
+      "id": 512263,
+      "poster": "/3BZ2rBn31kWER45ZMj7OTe9keMm.jpg",
+      "title": "Honey Boy",
+      "year": 2019
+    },
+    "Booksmart": {
+      "id": 505600,
+      "poster": "/2aSxRDmisJP90H3S0aocyuQIe4z.jpg",
+      "title": "Booksmart",
+      "year": 2019
+    },
+    "The Last Black Man in San Francisco": {
+      "id": 522039,
+      "poster": "/ow9zjibNrz5TYVZ6cqwmvCR1YX1.jpg",
+      "title": "The Last Black Man in San Francisco",
+      "year": 2019
+    },
+    "Atlantics": {
+      "id": 496967,
+      "poster": "/zRnZM6HqglFK31MYyrTSQVlj1dQ.jpg",
+      "title": "Atlantics",
+      "year": 2019
+    },
+    "The Peanut Butter Falcon": {
+      "id": 463257,
+      "poster": "/qyQcRGvdW3VtxHR4fSDgPOePEip.jpg",
+      "title": "The Peanut Butter Falcon",
+      "year": 2019
+    },
+    "Plus One": {
+      "id": 508101,
+      "poster": "/4w3bCp5UkLeemdq8MBNlyA3Zl2J.jpg",
+      "title": "Plus One",
+      "year": 2019
+    },
+    "The Souvenir": {
+      "id": 473019,
+      "poster": "/2Nj04HsZ0lNkv07JnfBZ0bAIECn.jpg",
+      "title": "The Souvenir",
+      "year": 2019
+    },
+    "Richard Jewell": {
+      "id": 292011,
+      "poster": "/5Lgkm8jt4roAFPZQ52fKMhVmDaZ.jpg",
+      "title": "Richard Jewell",
+      "year": 2019
+    },
+    "Uncut Gems": {
+      "id": 473033,
+      "poster": "/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+      "title": "Uncut Gems",
+      "year": 2019
+    },
+    "Always Be My Maybe": {
+      "id": 513576,
+      "poster": "/3BO6pPa7qDcpPYct061Luh9fvst.jpg",
+      "title": "Always Be My Maybe",
+      "year": 2019
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Spider-Man: Far From Home": {
+      "id": 429617,
+      "poster": "/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+      "title": "Spider-Man: Far From Home",
+      "year": 2019
+    },
+    "Long Shot": {
+      "id": 459992,
+      "poster": "/1F9AItQ6fhrfhBVQlmC8ReOQAFG.jpg",
+      "title": "Long Shot",
+      "year": 2019
+    },
+    "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese": {
+      "id": 574638,
+      "poster": "/ixxELBgYj9OH8hz0XCrcZOJpIx9.jpg",
+      "title": "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+      "year": 2019
+    },
+    "Jojo Rabbit": {
+      "id": 515001,
+      "poster": "/1mqL7VG4Ix8wmxwypmCA1HTHBky.jpg",
+      "title": "Jojo Rabbit",
+      "year": 2019
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Good Boys": {
+      "id": 521777,
+      "poster": "/tximyCXMEnWIIyOy9STkOduUprG.jpg",
+      "title": "Good Boys",
+      "year": 2019
+    },
+    "Dumbo": {
+      "id": 329996,
+      "poster": "/A7XkpLfNH0El2yyDLc4b0KLAKvE.jpg",
+      "title": "Dumbo",
+      "year": 2019
+    },
+    "Us": {
+      "id": 458723,
+      "poster": "/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+      "title": "Us",
+      "year": 2019
+    },
+    "Triple Frontier": {
+      "id": 399361,
+      "poster": "/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg",
+      "title": "Triple Frontier",
+      "year": 2019
+    },
+    "Little Women": {
+      "id": 331482,
+      "poster": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+      "title": "Little Women",
+      "year": 2019
+    },
+    "Fast & Furious Presents: Hobbs & Shaw": {
+      "id": 384018,
+      "poster": "/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg",
+      "title": "Fast & Furious Presents: Hobbs & Shaw",
+      "year": 2019
+    },
+    "John Wick: Chapter 3 - Parabellum": {
+      "id": 458156,
+      "poster": "/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg",
+      "title": "John Wick: Chapter 3 - Parabellum",
+      "year": 2019
+    },
+    "6 Underground": {
+      "id": 509967,
+      "poster": "/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg",
+      "title": "6 Underground",
+      "year": 2019
+    },
+    "Gemini Man": {
+      "id": 453405,
+      "poster": "/uTALxjQU8e1lhmNjP9nnJ3t2pRU.jpg",
+      "title": "Gemini Man",
+      "year": 2019
+    },
+    "Alita: Battle Angel": {
+      "id": 399579,
+      "poster": "/xRWht48C2V8XNfzvPehyClOvDni.jpg",
+      "title": "Alita: Battle Angel",
+      "year": 2019
+    },
+    "Portrait of a Lady on Fire": {
+      "id": 531428,
+      "poster": "/rUDuOKpkKBHxx41BScqKej72iT3.jpg",
+      "title": "Portrait of a Lady on Fire",
+      "year": 2019
+    },
+    "Midsommar": {
+      "id": 530385,
+      "poster": "/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+      "title": "Midsommar",
+      "year": 2019
+    },
+    "Godzilla: King of the Monsters": {
+      "id": 373571,
+      "poster": "/mzOHg7Q5q9yUmY0b9Esu8Qe6Nnm.jpg",
+      "title": "Godzilla: King of the Monsters",
+      "year": 2019
+    },
+    "The Lighthouse": {
+      "id": 503919,
+      "poster": "/yAKNmpcUweGH6WMCEWenwU9PsbE.jpg",
+      "title": "The Lighthouse",
+      "year": 2019
+    },
+    "Waves": {
+      "id": 533444,
+      "poster": "/3xbjL0z8iH8e8L3USyeKGQrBfuZ.jpg",
+      "title": "Waves",
+      "year": 2019
+    },
+    "Just Mercy": {
+      "id": 522212,
+      "poster": "/2bDZl3PzFLFWe4gaFUQnnaslqT3.jpg",
+      "title": "Just Mercy",
+      "year": 2019
+    },
+    "Hustlers": {
+      "id": 540901,
+      "poster": "/zBhv8rsLOfpFW2M5b6wW78Uoojs.jpg",
+      "title": "Hustlers",
+      "year": 2019
+    },
+    "The Farewell": {
+      "id": 565310,
+      "poster": "/7ht2IMGynDSVQGvAXhAb83DLET8.jpg",
+      "title": "The Farewell",
+      "year": 2019
+    },
+    "Ad Astra": {
+      "id": 419704,
+      "poster": "/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg",
+      "title": "Ad Astra",
+      "year": 2019
+    },
+    "The Beach Bum": {
+      "id": 441384,
+      "poster": "/iXMxdC7T0t3dxislnUNybcvJmAH.jpg",
+      "title": "The Beach Bum",
+      "year": 2019
+    },
+    "High Flying Bird": {
+      "id": 510498,
+      "poster": "/ccE21xixa1zhkGtWDr4n8ReOp40.jpg",
+      "title": "High Flying Bird",
+      "year": 2019
+    },
+    "Her Smell": {
+      "id": 520679,
+      "poster": "/qEvgdGBMORPS0rz8pqkVH3obLee.jpg",
+      "title": "Her Smell",
+      "year": 2019
+    },
+    "Pain and Glory": {
+      "id": 519010,
+      "poster": "/cMlueArJXXwZbeLpb4NhC3pxmBk.jpg",
+      "title": "Pain and Glory",
+      "year": 2019
+    },
+    "American Factory": {
+      "id": 565716,
+      "poster": "/7jH3dQOJ3CHMrp9tWsI3rRCDiaD.jpg",
+      "title": "American Factory",
+      "year": 2019
+    },
+    "Knives Out": {
+      "id": 546554,
+      "poster": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+      "title": "Knives Out",
+      "year": 2019
+    },
+    "The Departed": {
+      "id": 1422,
+      "poster": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+      "title": "The Departed",
+      "year": 2006
+    },
+    "Moonlight": {
+      "id": 376867,
+      "poster": "/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+      "title": "Moonlight",
+      "year": 2016
+    },
+    "The Blind Side": {
+      "id": 22881,
+      "poster": "/bMgq7VBriuBFknXEe9E9pVBYGZq.jpg",
+      "title": "The Blind Side",
+      "year": 2009
+    },
+    "District 9": {
+      "id": 17654,
+      "poster": "/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg",
+      "title": "District 9",
+      "year": 2009
+    },
+    "Shakespeare in Love": {
+      "id": 1934,
+      "poster": "/zdW7jdzPi4J9KZR3TyY2jn3Xh5e.jpg",
+      "title": "Shakespeare in Love",
+      "year": 1998
+    },
+    "Howards End": {
+      "id": 8293,
+      "poster": "/1009nhfj28VhhQnVadtjkOacduX.jpg",
+      "title": "Howards End",
+      "year": 1992
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Shirley Valentine": {
+      "id": 18683,
+      "poster": "/rrRrHNhur1DTp1KOp0YfFWvymQD.jpg",
+      "title": "Shirley Valentine",
+      "year": 1989
+    },
+    "Pretty Woman": {
+      "id": 114,
+      "poster": "/hVHUfT801LQATGd26VPzhorIYza.jpg",
+      "title": "Pretty Woman",
+      "year": 1990
+    },
+    "Rambling Rose": {
+      "id": 32221,
+      "poster": "/hAoluBzewlMqRH4mgFJvr4EPOMw.jpg",
+      "title": "Rambling Rose",
+      "year": 1991
+    },
+    "Wild at Heart": {
+      "id": 483,
+      "poster": "/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg",
+      "title": "Wild at Heart",
+      "year": 1990
+    },
+    "Inland Empire": {
+      "id": 1730,
+      "poster": "/s5f0FbVAABEnJYKaApWORTxhiFC.jpg",
+      "title": "Inland Empire",
+      "year": 2006
+    },
+    "Jurassic Park": {
+      "id": 329,
+      "poster": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "title": "Jurassic Park",
+      "year": 1993
+    },
+    "Captain Phillips": {
+      "id": 109424,
+      "poster": "/8Td0kkocW6sD3uRpzwfMfkqMWhx.jpg",
+      "title": "Captain Phillips",
+      "year": 2013
+    },
+    "Mudbound": {
+      "id": 414425,
+      "poster": "/tf21kSKepMOlnorszWaiFwksKU4.jpg",
+      "title": "Mudbound",
+      "year": 2017
+    },
+    "Can't Hardly Wait": {
+      "id": 15037,
+      "poster": "/r3a5gGWfS0SDS9nriNrJzSSrErf.jpg",
+      "title": "Can't Hardly Wait",
+      "year": 1998
+    },
+    "Home Alone": {
+      "id": 771,
+      "poster": "/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
+      "title": "Home Alone",
+      "year": 1990
+    },
+    "A Quiet Place": {
+      "id": 447332,
+      "poster": "/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+      "title": "A Quiet Place",
+      "year": 2018
+    },
+    "Yesterday": {
+      "id": 515195,
+      "poster": "/9fYka5CQt9nrb6LOtKicysUf9NA.jpg",
+      "title": "Yesterday",
+      "year": 2019
+    },
+    "Miss Americana": {
+      "id": 653567,
+      "poster": "/z1HiEB1UEfdA5fPkngekjQ2vlCC.jpg",
+      "title": "Miss Americana",
+      "year": 2020
+    },
+    "Cats": {
+      "id": 536869,
+      "poster": "/aCNch5FmzT2WaUcY44925owIZXY.jpg",
+      "title": "Cats",
+      "year": 2019
+    },
+    "Harriet": {
+      "id": 506528,
+      "poster": "/rsUs58bDqpJJxZSOebZOMN9gzw2.jpg",
+      "title": "Harriet",
+      "year": 2019
+    },
+    "Widows": {
+      "id": 401469,
+      "poster": "/d31SGJSaX29ba5ZUbZcesGoDE7I.jpg",
+      "title": "Widows",
+      "year": 2018
+    },
+    "Gloria Bell": {
+      "id": 491473,
+      "poster": "/oTfAWQXUceUszmifA4AwkIsDccQ.jpg",
+      "title": "Gloria Bell",
+      "year": 2019
+    },
+    "The Nightingale": {
+      "id": 400090,
+      "poster": "/wEzqFiatOJSbGBu6pb8z5sQuZt1.jpg",
+      "title": "The Nightingale",
+      "year": 2018
+    },
+    "The Witch": {
+      "id": 310131,
+      "poster": "/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
+      "title": "The Witch",
+      "year": 2016
+    },
+    "25th Hour": {
+      "id": 1429,
+      "poster": "/uW7tTRElr2tRhmAVESzvHy4ByXg.jpg",
+      "title": "25th Hour",
+      "year": 2002
+    },
+    "Mission: Impossible - Fallout": {
+      "id": 353081,
+      "poster": "/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+      "title": "Mission: Impossible - Fallout",
+      "year": 2018
+    },
+    "Brick": {
+      "id": 9270,
+      "poster": "/5WVk8JpNIxepn4fpZzQeCumkOL5.jpg",
+      "title": "Brick",
+      "year": 2006
+    },
+    "The Brothers Bloom": {
+      "id": 21755,
+      "poster": "/xIz8iwzyjgWGzcIwHKpqhBs77ML.jpg",
+      "title": "The Brothers Bloom",
+      "year": 2008
+    },
+    "Looper": {
+      "id": 59967,
+      "poster": "/sNjL6SqErDBE8OUZlrDLkexfsCj.jpg",
+      "title": "Looper",
+      "year": 2012
+    },
+    "Matador": {
+      "id": 8047,
+      "poster": "/gdqyLupS8sQ8qQRuHutiaNAKyz3.jpg",
+      "title": "Matador",
+      "year": 1986
+    },
+    "The Ice Storm": {
+      "id": 68924,
+      "poster": "/3a6uLta7K8Dzojps4RoJAPHD0km.jpg",
+      "title": "The Ice Storm",
+      "year": 1997
+    },
+    "Eat Drink Man Woman": {
+      "id": 10451,
+      "poster": "/olhIWtIBFg6VWK59DEd4lAvgVgz.jpg",
+      "title": "Eat Drink Man Woman",
+      "year": 1994
+    },
+    "Call Me by Your Name": {
+      "id": 398818,
+      "poster": "/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
+      "title": "Call Me by Your Name",
+      "year": 2017
+    },
+    "Heat": {
+      "id": 949,
+      "poster": "/e09dLw1Ljtccd2P4NsuUvVtS5du.jpg",
+      "title": "Heat",
+      "year": 1995
+    }
+  }
+}

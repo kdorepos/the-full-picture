@@ -1,0 +1,330 @@
+{
+  "slug": "the-effing-minions-episode-and-top-5-movies-well-show-our-ki",
+  "title": "The Effing Minions Episode and Top 5 Movies We'll Show Our Kids",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2022-07-05",
+  "runtimeMin": 63,
+  "format": "Sean and Amanda finally give in and review Minions: The Rise of Gru, then each draft five movies they're planning to show their kids.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "Minions: The Rise of Gru",
+      "films": [
+        {
+          "title": "Minions: The Rise of Gru",
+          "year": 2022,
+          "note": "It broke the Fourth of July weekend box office record ($108.5 million), and both hosts spotted \"gentle minions\" costumes at their screenings. They also got into a real argument about whether the franchise is secretly a late-capitalism parable about drones who just want a leader. Cast includes Steve Carell, Taraji P. Henson as Belle Bottom, Alan Arkin as Wild Knuckles, plus Michelle Yeoh, RZA, Jean-Claude Van Damme, Lucy Lawless, Dolph Lundgren, Danny Trejo, Russell Brand, and Julie Andrews. Jack Antonoff-produced soundtrack has Phoebe Bridgers covering the Carpenters and a minion choir doing \"You Can't Always Get What You Want.\" Both hosts liked it, mostly for the parts with actual minions in them."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Amanda's Watchlist for Knox",
+      "note": "ranked, revealed 5 to 1",
+      "subject": "Movies for Knox",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Singin' in the Rain",
+          "year": 1952,
+          "note": "No. 1 - she's starting with the musical numbers and hoping he loves Donald O'Connor; the dream ballet can wait."
+        },
+        {
+          "title": "Mary Poppins",
+          "year": 1964,
+          "note": "No. 2 - rewatched it for the Emily Blunt sequel and got hit with a wave of sense memory from age two or three."
+        },
+        {
+          "title": "Home Alone",
+          "year": 1990,
+          "note": "No. 3 (tied) - the John Hughes half of a double pick for early childhood."
+        },
+        {
+          "title": "Ferris Bueller's Day Off",
+          "year": 1986,
+          "note": "No. 3 (tied) - possibly her favorite movie; she's already resigned to Knox being a Cameron, not a Ferris."
+        },
+        {
+          "title": "Toy Story",
+          "year": 1995,
+          "note": "No. 4 - her nephew Jack clicked with it around age two, once he understood what toys are."
+        },
+        {
+          "title": "Matilda",
+          "year": 1996,
+          "note": "No. 5 - her favorite book as a kid, and one of the rare adaptations that matched what she'd pictured."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Sean's Watchlist for Alice",
+      "note": "ranked, revealed 5 to 1",
+      "subject": "Movies for Alice",
+      "ranked": true,
+      "films": [
+        {
+          "title": "The Wizard of Oz",
+          "year": 1939,
+          "note": "No. 1 - the most important movie in his life; he's just not sure yet when the black-and-white-to-color switch will land for her."
+        },
+        {
+          "title": "Beauty and the Beast",
+          "year": 1991,
+          "note": "No. 2 - he wasn't a fan at nine or ten, discovering Reservoir Dogs instead, but he's come around, and \"Be Our Guest\" already plays well in the house."
+        },
+        {
+          "title": "The Red Balloon",
+          "year": 1956,
+          "note": "No. 3 - the strategic pick: 33 minutes, mostly wordless, and short enough that Alice might actually finish it."
+        },
+        {
+          "title": "The Muppets Take Manhattan",
+          "year": 1984,
+          "note": "No. 4 - puppets over animation for him; he credits the Muppets with shaping his sense of humor."
+        },
+        {
+          "title": "My Neighbor Totoro",
+          "year": 1988,
+          "note": "No. 5 (tied) - the most-recommended kids' film from his more cinematically inclined friends."
+        },
+        {
+          "title": "The Iron Giant",
+          "year": 1999,
+          "note": "No. 5 (tied) - paired with Totoro as the other side of the same coin: an unreal friend under doubt, not attack."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The Minions franchise",
+      "films": [
+        "Despicable Me",
+        "Minions"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Raiders of the Lost Ark",
+        "Shang-Chi and the Legend of the Ten Rings",
+        "Lyle, Lyle, Crocodile",
+        "Lightyear",
+        "Hustle",
+        "Donnie Brasco",
+        "The Great Muppet Caper"
+      ]
+    },
+    {
+      "group": "Movies for later",
+      "films": [
+        "Robin Hood",
+        "Bambi",
+        "Miller's Crossing",
+        "There Will Be Blood",
+        "Dog Day Afternoon",
+        "The Sound of Music",
+        "The Parent Trap"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Mister Rogers' Neighborhood",
+      "The Muppet Show",
+      "Sesame Street"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "FanDuel",
+      "NOS Energy",
+      "Netflix (FIFA World Cup Launch Edition)",
+      "Botox"
+    ]
+  },
+  "tmdbOverrides": {
+    "Robin Hood": 11886
+  },
+  "tmdb": {
+    "Minions: The Rise of Gru": {
+      "id": 438148,
+      "poster": "/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg",
+      "title": "Minions: The Rise of Gru",
+      "year": 2022
+    },
+    "Singin' in the Rain": {
+      "id": 872,
+      "poster": "/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+      "title": "Singin' in the Rain",
+      "year": 1952
+    },
+    "Mary Poppins": {
+      "id": 433,
+      "poster": "/o4Wsby4ydIXhWmtmfvb451D5Np1.jpg",
+      "title": "Mary Poppins",
+      "year": 1964
+    },
+    "Home Alone": {
+      "id": 771,
+      "poster": "/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
+      "title": "Home Alone",
+      "year": 1990
+    },
+    "Ferris Bueller's Day Off": {
+      "id": 9377,
+      "poster": "/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg",
+      "title": "Ferris Bueller's Day Off",
+      "year": 1986
+    },
+    "Toy Story": {
+      "id": 862,
+      "poster": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+      "title": "Toy Story",
+      "year": 1995
+    },
+    "Matilda": {
+      "id": 10830,
+      "poster": "/wYoDpWInsBEVSmWStnRH06ddoyk.jpg",
+      "title": "Matilda",
+      "year": 1996
+    },
+    "The Wizard of Oz": {
+      "id": 630,
+      "poster": "/uCC3j4pV9eOZwzDUWp2ilbcTf1f.jpg",
+      "title": "The Wizard of Oz",
+      "year": 1939
+    },
+    "Beauty and the Beast": {
+      "id": 10020,
+      "poster": "/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+      "title": "Beauty and the Beast",
+      "year": 1991
+    },
+    "The Red Balloon": {
+      "id": 15265,
+      "poster": "/3XrEggEOEnKGi8hTOau44vcvbmV.jpg",
+      "title": "The Red Balloon",
+      "year": 1956
+    },
+    "The Muppets Take Manhattan": {
+      "id": 11899,
+      "poster": "/nMPm9TNoW8zwNibTFJAePryXUgT.jpg",
+      "title": "The Muppets Take Manhattan",
+      "year": 1984
+    },
+    "My Neighbor Totoro": {
+      "id": 8392,
+      "poster": "/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
+      "title": "My Neighbor Totoro",
+      "year": 1988
+    },
+    "The Iron Giant": {
+      "id": 10386,
+      "poster": "/ct04FCFLPImNG5thcPLRnVsZlmS.jpg",
+      "title": "The Iron Giant",
+      "year": 1999
+    },
+    "Despicable Me": {
+      "id": 20352,
+      "poster": "/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg",
+      "title": "Despicable Me",
+      "year": 2010
+    },
+    "Minions": {
+      "id": 211672,
+      "poster": "/dr02BdCNAUPVU07aOodwPYv6HCf.jpg",
+      "title": "Minions",
+      "year": 2015
+    },
+    "Raiders of the Lost Ark": {
+      "id": 85,
+      "poster": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+      "title": "Raiders of the Lost Ark",
+      "year": 1981
+    },
+    "Shang-Chi and the Legend of the Ten Rings": {
+      "id": 566525,
+      "poster": "/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "year": 2021
+    },
+    "Lyle, Lyle, Crocodile": {
+      "id": 830784,
+      "poster": "/dN6XnCEP3AO7N4XFOFyZ8V8kZF5.jpg",
+      "title": "Lyle, Lyle, Crocodile",
+      "year": 2022
+    },
+    "Lightyear": {
+      "id": 718789,
+      "poster": "/b9t3w1loraDh7hjdWmpc9ZsaYns.jpg",
+      "title": "Lightyear",
+      "year": 2022
+    },
+    "Hustle": {
+      "id": 705861,
+      "poster": "/xWic7kPq13oRxYjbGLApXCnc7pz.jpg",
+      "title": "Hustle",
+      "year": 2022
+    },
+    "Donnie Brasco": {
+      "id": 9366,
+      "poster": "/xtKLvpOfARi1XVm8u2FTdhY5Piq.jpg",
+      "title": "Donnie Brasco",
+      "year": 1997
+    },
+    "The Great Muppet Caper": {
+      "id": 14900,
+      "poster": "/lnJc4B4njeyNHWqG00ozuUIhtu5.jpg",
+      "title": "The Great Muppet Caper",
+      "year": 1981
+    },
+    "Robin Hood": {
+      "id": 11886,
+      "poster": "/x9AvkYek0bGdxQSZ8W3lAjGrREm.jpg",
+      "title": "Robin Hood",
+      "year": 1973
+    },
+    "Bambi": {
+      "id": 3170,
+      "poster": "/wV9e2y4myJ4KMFsyFfWYcUOawyK.jpg",
+      "title": "Bambi",
+      "year": 1942
+    },
+    "Miller's Crossing": {
+      "id": 379,
+      "poster": "/i83gYdglRCjCRLSsmCk5nRWRmDM.jpg",
+      "title": "Miller's Crossing",
+      "year": 1990
+    },
+    "There Will Be Blood": {
+      "id": 7345,
+      "poster": "/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+      "title": "There Will Be Blood",
+      "year": 2007
+    },
+    "Dog Day Afternoon": {
+      "id": 968,
+      "poster": "/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg",
+      "title": "Dog Day Afternoon",
+      "year": 1975
+    },
+    "The Sound of Music": {
+      "id": 15121,
+      "poster": "/c6CrUZypAsBCaRWX0M3RVRDbhNS.jpg",
+      "title": "The Sound of Music",
+      "year": 1965
+    },
+    "The Parent Trap": {
+      "id": 9820,
+      "poster": "/p4dGmi8u9W0HHyVXcgWPoiFfKTF.jpg",
+      "title": "The Parent Trap",
+      "year": 1998
+    }
+  }
+}

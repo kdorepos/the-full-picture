@@ -1,0 +1,385 @@
+{
+  "slug": "movie-swap-casablanca-vs-the-in-laws-vs-spy-kids",
+  "title": "Movie Swap: 'Casablanca' vs. 'The In-Laws' vs. 'Spy Kids'",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Bobby Wagner"
+  ],
+  "published": "2023-04-14",
+  "runtimeMin": 91,
+  "format": "A movie swap with a soft espionage thread: Amanda's pick, Bobby's, and the classic Bobby had never seen. They work through all three in release order.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "'Casablanca' — Bobby finally watches",
+      "note": "Amanda's pick for Bobby; the Ur Hollywood movie",
+      "films": [
+        {
+          "title": "Casablanca",
+          "year": 1942,
+          "note": "Bobby's first watch after years of being needled about it. A tight 100 minutes that still doesn't drag: Bogart and Bergman, Claude Rains as Renault, a mostly international cast of real European exiles, and a Max Steiner score built around 'As Time Goes By' after he couldn't get it cut. Won Best Picture, Director (Michael Curtiz), and Screenplay; came in tied at No. 63 on the 2022 Sight and Sound poll."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "'The In-Laws' — Amanda's pick",
+      "note": "Falk and Arkin, 1979",
+      "films": [
+        {
+          "title": "The In-Laws",
+          "year": 1979,
+          "note": "Arthur Hiller's comedy, written by Andrew Bergman, recently added to the Criterion Collection. A Long Island dentist (Alan Arkin) meets his daughter's future father-in-law (Peter Falk), a supposed CIA operative, and gets dragged into a spy caper. The 'serpentine!' tarmac run and the firing-squad scene are the standouts; Ed Begley Jr., James Hong, and David Paymer fill out the cast."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "'Spy Kids' — Bobby's pick",
+      "note": "Robert Rodriguez, 2001",
+      "films": [
+        {
+          "title": "Spy Kids",
+          "year": 2001,
+          "note": "The first movie Bobby remembers seeing in theaters. Rodriguez wrote, directed, shot, and scored it: a $35M film that made nearly $150M, with Antonio Banderas and Carla Gugino as retired-spy parents and Alexa Vega and Daryl Sabara as the kids who rescue them. Alan Cumming and Tony Shalhoub play the villains, plus Danny Trejo (the seed of Machete), Cheech Marin, and a George Clooney cameo. Sean calls it 'Oppenheimer for kids.'"
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In the 'Casablanca' conversation",
+      "films": [
+        "The Maltese Falcon",
+        "When Harry Met Sally...",
+        "Citizen Kane",
+        "The Wizard of Oz",
+        "Good Will Hunting",
+        "Gaslight",
+        "Notorious",
+        "The Third Man",
+        "Goodfellas",
+        "Passage to Marseille",
+        "Captain Blood",
+        "The Adventures of Robin Hood",
+        "King Kong",
+        "Gone with the Wind",
+        "Barbie",
+        "Ant-Man and the Wasp: Quantumania",
+        "Home Alone"
+      ]
+    },
+    {
+      "group": "In the 'In-Laws' conversation",
+      "films": [
+        "The Interview",
+        "Blazing Saddles",
+        "The Freshman",
+        "Love Story",
+        "Top Gun: Maverick"
+      ]
+    },
+    {
+      "group": "In the 'Spy Kids' conversation",
+      "films": [
+        "El Mariachi",
+        "Desperado",
+        "From Dusk Till Dawn",
+        "The Faculty",
+        "Kill Bill: Vol. 1",
+        "Sin City",
+        "Planet Terror",
+        "The Incredibles",
+        "Oppenheimer",
+        "Alita: Battle Angel",
+        "Austin Powers: International Man of Mystery",
+        "Road House",
+        "Josie and the Pussycats",
+        "Machete",
+        "Troop Beverly Hills",
+        "Singin' in the Rain",
+        "High School Musical 3: Senior Year"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "King Kong": 244,
+    "The Freshman": 10168
+  },
+  "excluded": {
+    "TV": [
+      "Columbo",
+      "Poker Face",
+      "Better Call Saul",
+      "The Price Is Right",
+      "H.R. Pufnstuf",
+      "Teletubbies",
+      "El Rey Network"
+    ],
+    "Ads": [
+      "Bandsplain",
+      "Boar's Head",
+      "FanDuel",
+      "NOS Energy",
+      "Netflix / FIFA World Cup",
+      "Carvana"
+    ]
+  },
+  "tmdb": {
+    "Casablanca": {
+      "id": 289,
+      "poster": "/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+      "title": "Casablanca",
+      "year": 1943
+    },
+    "The In-Laws": {
+      "id": 19827,
+      "poster": "/dt82c6NAqBgENPiy7LHNwYiBKkY.jpg",
+      "title": "The In-Laws",
+      "year": 1979
+    },
+    "Spy Kids": {
+      "id": 10054,
+      "poster": "/j3rUkHIAAoKr6jU30q3Db4fcIF9.jpg",
+      "title": "Spy Kids",
+      "year": 2001
+    },
+    "The Maltese Falcon": {
+      "id": 963,
+      "poster": "/bf4o6Uzw5wqLjdKwRuiDrN1xyvl.jpg",
+      "title": "The Maltese Falcon",
+      "year": 1941
+    },
+    "When Harry Met Sally...": {
+      "id": 639,
+      "poster": "/rFOiFUhTMtDetqCGClC9PIgnC1P.jpg",
+      "title": "When Harry Met Sally...",
+      "year": 1989
+    },
+    "Citizen Kane": {
+      "id": 15,
+      "poster": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+      "title": "Citizen Kane",
+      "year": 1941
+    },
+    "The Wizard of Oz": {
+      "id": 630,
+      "poster": "/uCC3j4pV9eOZwzDUWp2ilbcTf1f.jpg",
+      "title": "The Wizard of Oz",
+      "year": 1939
+    },
+    "Good Will Hunting": {
+      "id": 489,
+      "poster": "/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+      "title": "Good Will Hunting",
+      "year": 1997
+    },
+    "Gaslight": {
+      "id": 13528,
+      "poster": "/gXKszCl5Q1KrgWRWpPcqn94CP58.jpg",
+      "title": "Gaslight",
+      "year": 1944
+    },
+    "Notorious": {
+      "id": 303,
+      "poster": "/4RERYb1NIQrJHYY5e8nUlYM7t2z.jpg",
+      "title": "Notorious",
+      "year": 1946
+    },
+    "The Third Man": {
+      "id": 1092,
+      "poster": "/rO2Fq0AZZx9obs52KJdx4mRE8p5.jpg",
+      "title": "The Third Man",
+      "year": 1949
+    },
+    "Goodfellas": {
+      "id": 769,
+      "poster": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+      "title": "GoodFellas",
+      "year": 1990
+    },
+    "Passage to Marseille": {
+      "id": 18229,
+      "poster": "/14s5iMOLt8EboZmnltXjB7g2sap.jpg",
+      "title": "Passage to Marseille",
+      "year": 1944
+    },
+    "Captain Blood": {
+      "id": 16905,
+      "poster": "/Ae0ltppMl66pAH1odgDU1C4H1iq.jpg",
+      "title": "Captain Blood",
+      "year": 1935
+    },
+    "The Adventures of Robin Hood": {
+      "id": 10907,
+      "poster": "/c7LX3GMf9uXQTgVm3uxpm7E6Woc.jpg",
+      "title": "The Adventures of Robin Hood",
+      "year": 1938
+    },
+    "King Kong": {
+      "id": 244,
+      "poster": "/lHlnxKL5GbgRibyRFI7n1Ey850i.jpg",
+      "title": "King Kong",
+      "year": 1933
+    },
+    "Gone with the Wind": {
+      "id": 770,
+      "poster": "/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg",
+      "title": "Gone with the Wind",
+      "year": 1939
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Ant-Man and the Wasp: Quantumania": {
+      "id": 640146,
+      "poster": "/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "year": 2023
+    },
+    "Home Alone": {
+      "id": 771,
+      "poster": "/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
+      "title": "Home Alone",
+      "year": 1990
+    },
+    "The Interview": {
+      "id": 228967,
+      "poster": "/tIDC4xT65l7a8qbgg8GvwD5g8c5.jpg",
+      "title": "The Interview",
+      "year": 2014
+    },
+    "Blazing Saddles": {
+      "id": 11072,
+      "poster": "/vNw1gOEDdYTDeNMuuq8OmiEHrfH.jpg",
+      "title": "Blazing Saddles",
+      "year": 1974
+    },
+    "The Freshman": {
+      "id": 10168,
+      "poster": "/tKeZDE3Hbne5w43k7ASFolDKroC.jpg",
+      "title": "The Freshman",
+      "year": 1990
+    },
+    "Love Story": {
+      "id": 9062,
+      "poster": "/yCjADq9fwbdPnxMo0DKNeRGZ4YC.jpg",
+      "title": "Love Story",
+      "year": 1970
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "El Mariachi": {
+      "id": 9367,
+      "poster": "/zRh7K4SV1xQ419m8gzGITak51vc.jpg",
+      "title": "El Mariachi",
+      "year": 1993
+    },
+    "Desperado": {
+      "id": 8068,
+      "poster": "/e3gwpBeXpvGZsxUya9zNym5QXrw.jpg",
+      "title": "Desperado",
+      "year": 1995
+    },
+    "From Dusk Till Dawn": {
+      "id": 755,
+      "poster": "/sV3kIAmvJ9tPz4Lq5fuf9LLMxte.jpg",
+      "title": "From Dusk Till Dawn",
+      "year": 1996
+    },
+    "The Faculty": {
+      "id": 9276,
+      "poster": "/5XetJwmAiDC0EtH23NIXaqFn3Wl.jpg",
+      "title": "The Faculty",
+      "year": 1998
+    },
+    "Kill Bill: Vol. 1": {
+      "id": 24,
+      "poster": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+      "title": "Kill Bill: Vol. 1",
+      "year": 2003
+    },
+    "Sin City": {
+      "id": 187,
+      "poster": "/i66G50wATMmPrvpP95f0XP6ZdVS.jpg",
+      "title": "Sin City",
+      "year": 2005
+    },
+    "Planet Terror": {
+      "id": 1992,
+      "poster": "/3705GxG0RN9XDV5y9IiXKYHw1fK.jpg",
+      "title": "Planet Terror",
+      "year": 2007
+    },
+    "The Incredibles": {
+      "id": 9806,
+      "poster": "/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+      "title": "The Incredibles",
+      "year": 2004
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Alita: Battle Angel": {
+      "id": 399579,
+      "poster": "/xRWht48C2V8XNfzvPehyClOvDni.jpg",
+      "title": "Alita: Battle Angel",
+      "year": 2019
+    },
+    "Austin Powers: International Man of Mystery": {
+      "id": 816,
+      "poster": "/5uD4dxNX8JKFjWKYMHyOsqhi5pN.jpg",
+      "title": "Austin Powers: International Man of Mystery",
+      "year": 1997
+    },
+    "Road House": {
+      "id": 359410,
+      "poster": "/fDEdtS4P0gJsxHDIt8dG8TR5dx1.jpg",
+      "title": "Road House",
+      "year": 2024
+    },
+    "Josie and the Pussycats": {
+      "id": 19366,
+      "poster": "/dYwbqjnSFsvCGok8gsqRcY8ewTU.jpg",
+      "title": "Josie and the Pussycats",
+      "year": 2001
+    },
+    "Machete": {
+      "id": 23631,
+      "poster": "/dcPSm1rGEFdiEc7DaKz0t5kb66b.jpg",
+      "title": "Machete",
+      "year": 2010
+    },
+    "Troop Beverly Hills": {
+      "id": 22102,
+      "poster": "/2HOzh7t2THdZ3r9BaDucEjfzLlL.jpg",
+      "title": "Troop Beverly Hills",
+      "year": 1989
+    },
+    "Singin' in the Rain": {
+      "id": 872,
+      "poster": "/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+      "title": "Singin' in the Rain",
+      "year": 1952
+    },
+    "High School Musical 3: Senior Year": {
+      "id": 11887,
+      "poster": "/aq2o1wT0crBOTxof36O6KTyjpgE.jpg",
+      "title": "High School Musical 3: Senior Year",
+      "year": 2008
+    }
+  }
+}

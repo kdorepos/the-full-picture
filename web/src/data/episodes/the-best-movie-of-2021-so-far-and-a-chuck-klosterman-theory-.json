@@ -1,0 +1,341 @@
+{
+  "slug": "the-best-movie-of-2021-so-far-and-a-chuck-klosterman-theory-",
+  "title": "The Best Movie of 2021 So Far, and a Chuck Klosterman Theory of Film",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2021-03-23",
+  "runtimeMin": 89,
+  "format": "Chuck Klosterman stops by with two ideas: a defense of Adam Curtis's sprawling BBC documentary Can't Get You Out of My Head, and a long-standing theory about whether the movies a character has supposedly seen also exist in the reality of the movie they're in.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "Adam Curtis and \"Can't Get You Out of My Head\"",
+      "guest": "Chuck Klosterman on",
+      "films": [
+        {
+          "title": "HyperNormalisation",
+          "year": 2016,
+          "note": "Curtis's shorter, less abstract predecessor to \"Can't Get You Out of My Head\"; Klosterman watched it after starting the new series."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "The Chuck Klosterman Theory: Do Movies Exist Within Movies?",
+      "note": "if a character in a movie could watch other movies, which ones exist in their reality?",
+      "guest": "Chuck Klosterman on",
+      "films": [
+        {
+          "title": "The Beach",
+          "year": 2000,
+          "note": "Klosterman's test case: does Titanic exist in the world of this movie, and if so, who plays the lead?"
+        },
+        {
+          "title": "Titanic",
+          "year": 1997,
+          "note": "If it exists in the reality of The Beach, Klosterman argues Matthew McConaughey plays the lead instead of DiCaprio."
+        },
+        {
+          "title": "Contact",
+          "year": 1997,
+          "note": "Part of Klosterman's chain reaction: if McConaughey is in Titanic instead, does Ethan Hawke get this role instead?"
+        },
+        {
+          "title": "The Newton Boys",
+          "year": 1998,
+          "note": "Another link in the McConaughey/Hawke recasting chain Klosterman walks through."
+        },
+        {
+          "title": "Dazed and Confused",
+          "year": 1993,
+          "note": "Cited as the movie that would have sent people to see Contact instead, in Klosterman's alternate-casting chain."
+        },
+        {
+          "title": "Last Action Hero",
+          "year": 1993,
+          "note": "Schwarzenegger plays a character who steps out of a movie into the \"real world\" of the film, then meets the real Arnold; Klosterman's favorite example of the concept."
+        },
+        {
+          "title": "Fight Club",
+          "year": 1999,
+          "note": "Raised for a street scene with a poster for Seven Years in Tibet."
+        },
+        {
+          "title": "Seven Years in Tibet",
+          "year": 1997,
+          "note": "The movie on the poster glimpsed in Fight Club."
+        },
+        {
+          "title": "Ocean's Twelve",
+          "year": 2004,
+          "note": "Fennessey's pick for the movie that most aggressively confronts this concept: it posits a woman named Tess who looks exactly like Julia Roberts, so she can be used as a decoy for the real Julia Roberts."
+        },
+        {
+          "title": "Notting Hill",
+          "year": 1999,
+          "note": "Fennessey's counter-example: Julia Roberts plays a movie star who is essentially Julia Roberts, the same question turned around."
+        },
+        {
+          "title": "Godzilla vs. Kong",
+          "year": 2021,
+          "note": "Klosterman brings up the then-upcoming release (referred to on air as \"King Kong versus Godzilla\") to ask whether the old Godzilla movies exist as historical fact in its world."
+        },
+        {
+          "title": "Footloose",
+          "year": 1984,
+          "note": "Klosterman's example of a closed-world movie with no other movies in it, though the hero's memories of dancing in Chicago complicate that."
+        },
+        {
+          "title": "I'm Thinking of Ending Things",
+          "year": 2020,
+          "note": "Fennessey raises its parody of a fictional Robert Zemeckis movie as another version of the question."
+        },
+        {
+          "title": "Being John Malkovich",
+          "year": 1999,
+          "note": "Cited as a film whose internal rules simply have to be accepted, the way Star Trek's speed rules are."
+        },
+        {
+          "title": "Scream",
+          "year": 1996,
+          "note": "The literal version of the theory: characters survive because they know the rules of horror movies from having watched them."
+        },
+        {
+          "title": "Once Upon a Time in Hollywood",
+          "year": 2019,
+          "note": "DiCaprio's character appears in fictional TV shows alongside real ones, and the film's ending diverges from real history entirely: what else is different in that world?"
+        },
+        {
+          "title": "The Doors",
+          "year": 1991,
+          "note": "Oliver Stone's Jim Morrison biopic; a recent Rewatchables episode on it is what launches Klosterman's biopics tangent."
+        },
+        {
+          "title": "I'm Not There",
+          "year": 2007,
+          "note": "Klosterman's preferred model for biopics: an interpretive, non-chronological approach to a life rather than cradle-to-grave."
+        },
+        {
+          "title": "The Butterfly Effect",
+          "year": 2004,
+          "note": "Cited by Fennessey at the close as \"the movie that explains this concept\" of small changes cascading into different realities."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing (movies-within-movies)",
+      "films": [
+        "Rocky",
+        "Rambo",
+        "Over the Top",
+        "Desperately Seeking Susan",
+        "Cobra",
+        "Ocean's Eleven",
+        "Nixon",
+        "Zack Snyder's Justice League"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "A Century of the Self",
+      "Can't Get You Out of My Head",
+      "The Power of Nightmares",
+      "Friday Night Lights",
+      "St. Elsewhere",
+      "Cheers",
+      "Frasier",
+      "The White Shadow",
+      "WandaVision",
+      "The Crown",
+      "The Twilight Zone",
+      "The Wire",
+      "Mad Men"
+    ],
+    "Ads": [
+      "Ringer Dish",
+      "Carvana",
+      "Netflix (FIFA World Cup Launch Edition)",
+      "FanDuel",
+      "Boar's Head",
+      "Pepsi",
+      "Mint Mobile"
+    ]
+  },
+  "tmdb": {
+    "HyperNormalisation": {
+      "id": 419546,
+      "poster": "/tTqI2xoB7cGO7HASB22Sss6x44J.jpg",
+      "title": "HyperNormalisation",
+      "year": 2016
+    },
+    "The Beach": {
+      "id": 1907,
+      "poster": "/4y7LxD8TSi6AtsM2xSYqUm1gu7u.jpg",
+      "title": "The Beach",
+      "year": 2000
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "Contact": {
+      "id": 686,
+      "poster": "/bCpMIywuNZeWt3i5UMLEIc0VSwM.jpg",
+      "title": "Contact",
+      "year": 1997
+    },
+    "The Newton Boys": {
+      "id": 42807,
+      "poster": "/v3VuDClmFZNjfI6YLTkeinae9HK.jpg",
+      "title": "The Newton Boys",
+      "year": 1998
+    },
+    "Dazed and Confused": {
+      "id": 9571,
+      "poster": "/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+      "title": "Dazed and Confused",
+      "year": 1993
+    },
+    "Last Action Hero": {
+      "id": 9593,
+      "poster": "/vkhEaWAv5j3qgrOGp3BgMeiYPKj.jpg",
+      "title": "Last Action Hero",
+      "year": 1993
+    },
+    "Fight Club": {
+      "id": 550,
+      "poster": "/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+      "title": "Fight Club",
+      "year": 1999
+    },
+    "Seven Years in Tibet": {
+      "id": 978,
+      "poster": "/qm87HHUew8ICtUCM4asO3gFYvby.jpg",
+      "title": "Seven Years in Tibet",
+      "year": 1997
+    },
+    "Ocean's Twelve": {
+      "id": 163,
+      "poster": "/pE5anFf7nf6ah7V3VRezQ1KSovi.jpg",
+      "title": "Ocean's Twelve",
+      "year": 2004
+    },
+    "Notting Hill": {
+      "id": 509,
+      "poster": "/hHRIf2XHeQMbyRb3HUx19SF5Ujw.jpg",
+      "title": "Notting Hill",
+      "year": 1999
+    },
+    "Godzilla vs. Kong": {
+      "id": 399566,
+      "poster": "/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+      "title": "Godzilla vs. Kong",
+      "year": 2021
+    },
+    "Footloose": {
+      "id": 1788,
+      "poster": "/9JEDjBCXCx3eKTSkXwispf0UN3O.jpg",
+      "title": "Footloose",
+      "year": 1984
+    },
+    "I'm Thinking of Ending Things": {
+      "id": 500840,
+      "poster": "/5ynWWapdl45hJXUh0KIevxSG9JQ.jpg",
+      "title": "I'm Thinking of Ending Things",
+      "year": 2020
+    },
+    "Being John Malkovich": {
+      "id": 492,
+      "poster": "/31FGQu3OnwdmS4COquENe0vMZc0.jpg",
+      "title": "Being John Malkovich",
+      "year": 1999
+    },
+    "Scream": {
+      "id": 4232,
+      "poster": "/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+      "title": "Scream",
+      "year": 1996
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "The Doors": {
+      "id": 10537,
+      "poster": "/x1LM3dzGuG6xOz0aT2e71o11vhu.jpg",
+      "title": "The Doors",
+      "year": 1991
+    },
+    "I'm Not There": {
+      "id": 3902,
+      "poster": "/bucgvB7gQqcl1m71efHkenfIMTj.jpg",
+      "title": "I'm Not There",
+      "year": 2007
+    },
+    "The Butterfly Effect": {
+      "id": 1954,
+      "poster": "/ea5iv7TWMh18fOKoRGgmtcg85Gx.jpg",
+      "title": "The Butterfly Effect",
+      "year": 2004
+    },
+    "Rocky": {
+      "id": 1366,
+      "poster": "/aYtBYWqCdUqcnoodWJdcTG3pFev.jpg",
+      "title": "Rocky",
+      "year": 1976
+    },
+    "Rambo": {
+      "id": 7555,
+      "poster": "/3mInub5c8o00H7EJ1TrjAqOzIuc.jpg",
+      "title": "Rambo",
+      "year": 2008
+    },
+    "Over the Top": {
+      "id": 1825,
+      "poster": "/a926UPf4EYbHfjdzf012M5YHiQ5.jpg",
+      "title": "Over the Top",
+      "year": 1987
+    },
+    "Desperately Seeking Susan": {
+      "id": 8130,
+      "poster": "/ighImRgzYzZ88skBHaT4B7ntJG8.jpg",
+      "title": "Desperately Seeking Susan",
+      "year": 1985
+    },
+    "Cobra": {
+      "id": 9874,
+      "poster": "/jCxfbTh8JvJil5edhNywxaTHoWv.jpg",
+      "title": "Cobra",
+      "year": 1986
+    },
+    "Ocean's Eleven": {
+      "id": 161,
+      "poster": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+      "title": "Ocean's Eleven",
+      "year": 2001
+    },
+    "Nixon": {
+      "id": 10858,
+      "poster": "/cz2MTGr2wpDZLirgV2rGHBdA2t3.jpg",
+      "title": "Nixon",
+      "year": 1995
+    },
+    "Zack Snyder's Justice League": {
+      "id": 791373,
+      "poster": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+      "title": "Zack Snyder's Justice League",
+      "year": 2021
+    }
+  }
+}

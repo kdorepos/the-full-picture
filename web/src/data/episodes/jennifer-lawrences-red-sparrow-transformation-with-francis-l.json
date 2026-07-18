@@ -1,0 +1,181 @@
+{
+  "slug": "jennifer-lawrences-red-sparrow-transformation-with-francis-l",
+  "title": "Jennifer Lawrence’s ‘Red Sparrow’ Transformation With Francis Lawrence | The Big Picture (Ep. 53)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2018-03-02",
+  "runtimeMin": 26,
+  "format": "Sean Fennessey talks to director Francis Lawrence about Red Sparrow, his fourth film with Jennifer Lawrence.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Francis Lawrence on",
+      "films": [
+        {
+          "title": "Red Sparrow",
+          "year": 2018,
+          "note": "The subject. A hard-R spy thriller adapted from ex-CIA officer Jason Matthews's novel; the Ringer office took to calling it 'sex spies.' Lawrence pitched studio president Emma Watts on an R rating over the phone and changed the book's ending. He pushes back on calling it an action movie, saying that's a common misread."
+        },
+        {
+          "title": "The Hunger Games: Catching Fire",
+          "year": 2013,
+          "note": "The first of his films with Lawrence, a role he inherited coming onto the series' second installment."
+        },
+        {
+          "title": "The Hunger Games: Mockingjay - Part 1",
+          "year": 2014,
+          "note": "Part of the roughly five straight years he spent inside the franchise."
+        },
+        {
+          "title": "The Hunger Games: Mockingjay - Part 2",
+          "year": 2015,
+          "note": "He was in post on the last Mockingjay when Fox sent him the Red Sparrow book."
+        },
+        {
+          "title": "I Am Legend",
+          "year": 2007,
+          "note": "His example of not assuming an audience knows anything: a quarter of critics thought he'd left the city's power on because he never showed Will Smith kick-starting the pantry generators."
+        },
+        {
+          "title": "There Will Be Blood",
+          "year": 2007,
+          "note": "His stated favorite film of all time; he'd caught it on TV the day before and sat through the whole thing again when asked for the last great thing he'd seen."
+        },
+        {
+          "title": "Phantom Thread",
+          "year": 2017,
+          "note": "His pick for a recent great, another Paul Thomas Anderson film, a director he says inspires him."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Spy films, name-checked",
+      "films": [
+        "Tinker Tailor Soldier Spy"
+      ]
+    },
+    {
+      "group": "R-rated studio hits cited to the studio",
+      "films": [
+        "Gone Girl",
+        "Logan",
+        "Deadpool"
+      ]
+    },
+    {
+      "group": "Steve Knight scripts",
+      "films": [
+        "Eastern Promises",
+        "Locke"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Peaky Blinders",
+      "Westworld",
+      "The Bachelor",
+      "Bachelor Winter Games",
+      "Bachelor in Paradise",
+      "The Challenge"
+    ],
+    "Podcasts": [
+      "The Watch",
+      "Bachelor Party"
+    ],
+    "In development (unmade)": [
+      "Battlestar Galactica (Lawrence's mooted movie)",
+      "Women's Battalion of Death (Maria Bochkareva project)",
+      "Untitled Steve Knight sci-fi series for Apple"
+    ],
+    "Ads": [
+      "Bachelor Party podcast promo"
+    ]
+  },
+  "tmdb": {
+    "Red Sparrow": {
+      "id": 401981,
+      "poster": "/cdefNr6aS00IwVbSlxdFJnfmzKh.jpg",
+      "title": "Red Sparrow",
+      "year": 2018
+    },
+    "The Hunger Games: Catching Fire": {
+      "id": 101299,
+      "poster": "/vrQHDXjVmbYzadOXQ0UaObunoy2.jpg",
+      "title": "The Hunger Games: Catching Fire",
+      "year": 2013
+    },
+    "The Hunger Games: Mockingjay - Part 1": {
+      "id": 131631,
+      "poster": "/4FAA18ZIja70d1Tu5hr5cj2q1sB.jpg",
+      "title": "The Hunger Games: Mockingjay - Part 1",
+      "year": 2014
+    },
+    "The Hunger Games: Mockingjay - Part 2": {
+      "id": 131634,
+      "poster": "/lImKHDfExAulp16grYm8zD5eONE.jpg",
+      "title": "The Hunger Games: Mockingjay - Part 2",
+      "year": 2015
+    },
+    "I Am Legend": {
+      "id": 6479,
+      "poster": "/iPDkaSdKk2jRLTM65UOEoKtsIZ8.jpg",
+      "title": "I Am Legend",
+      "year": 2007
+    },
+    "There Will Be Blood": {
+      "id": 7345,
+      "poster": "/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+      "title": "There Will Be Blood",
+      "year": 2007
+    },
+    "Phantom Thread": {
+      "id": 400617,
+      "poster": "/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg",
+      "title": "Phantom Thread",
+      "year": 2017
+    },
+    "Tinker Tailor Soldier Spy": {
+      "id": 49517,
+      "poster": "/e0dZ7TapGY9HtJ9xk1TUHPEOccl.jpg",
+      "title": "Tinker Tailor Soldier Spy",
+      "year": 2011
+    },
+    "Gone Girl": {
+      "id": 210577,
+      "poster": "/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+      "title": "Gone Girl",
+      "year": 2014
+    },
+    "Logan": {
+      "id": 263115,
+      "poster": "/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+      "title": "Logan",
+      "year": 2017
+    },
+    "Deadpool": {
+      "id": 293660,
+      "poster": "/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
+      "title": "Deadpool",
+      "year": 2016
+    },
+    "Eastern Promises": {
+      "id": 2252,
+      "poster": "/nLwv1pxRCRZucQaqs6oPkq7HH3K.jpg",
+      "title": "Eastern Promises",
+      "year": 2007
+    },
+    "Locke": {
+      "id": 210479,
+      "poster": "/tTREq5tTyYwmSLDRMhybJ82zXcX.jpg",
+      "title": "Locke",
+      "year": 2014
+    }
+  }
+}

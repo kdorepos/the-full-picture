@@ -1,0 +1,532 @@
+{
+  "slug": "top-10-stage-to-screen-movies-and-one-night-in-miami",
+  "title": "Top 10 Stage-to-Screen Movies and ‘One Night in Miami’",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2021-01-15",
+  "runtimeMin": 104,
+  "format": "News on a week of new movie announcements, a review of Regina King's One Night in Miami, a split top 10 of stage-to-screen adaptations (five plays, five musicals), and Sean's interview with star Kingsley Ben-Adir.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Movie News Roundup",
+      "note": "fast-formed opinions on a week of announcements",
+      "films": [
+        {
+          "title": "The Whale",
+          "year": 2022,
+          "note": "Darren Aronofsky's adaptation of Samuel D. Hunter's play, with Brendan Fraser as a reclusive, severely obese English teacher trying to reconnect with his daughter."
+        },
+        {
+          "title": "Men",
+          "year": 2022,
+          "note": "Alex Garland writing and directing Jessie Buckley as a woman on a solo countryside vacation after her ex-husband's death."
+        },
+        {
+          "title": "White Noise",
+          "year": 2022,
+          "note": "Noah Baumbach adapting Don DeLillo's supposedly unadaptable novel, with Adam Driver and Greta Gerwig (her first film in six years)."
+        },
+        {
+          "title": "The Tragedy of Macbeth",
+          "year": 2021,
+          "note": "Joel Coen's black-and-white Shakespeare, shot with Denzel Washington and Frances McDormand, for A24."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "One Night in Miami",
+      "note": "now streaming on Amazon Prime",
+      "films": [
+        {
+          "title": "One Night in Miami",
+          "year": 2020,
+          "note": "Regina King's directorial debut, written by Kemp Powers, imagines Malcolm X, Muhammad Ali, Jim Brown, and Sam Cooke spending one long night together in a Miami motel room after Ali's title win over Sonny Liston in February 1964. Kingsley Ben-Adir plays Malcolm X, Eli Goree plays Ali, Aldis Hodge plays Jim Brown, and Leslie Odom Jr. plays Sam Cooke."
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "heading": "Top 10 Stage-to-Screen: The Plays",
+      "note": "five picks each, one Shakespeare apiece, Broadway/stage plays only",
+      "picks": [
+        {
+          "title": "Henry V",
+          "year": 1944,
+          "by": "Sean Fennessey",
+          "note": "Laurence Olivier's Technicolor Shakespeare, with production design Sean compares to Wes Anderson and one of the great St. Crispin's Day speeches on film."
+        },
+        {
+          "title": "Romeo + Juliet",
+          "year": 1996,
+          "by": "Amanda Dobbins",
+          "note": "Baz Luhrmann keeps every line of Shakespeare's dialogue while staging it as a teen spectacle; a formative movie for Amanda's generation, with Leonardo DiCaprio and Claire Danes."
+        },
+        {
+          "title": "Brief Encounter",
+          "year": 1945,
+          "by": "Sean Fennessey",
+          "note": "David Lean directing Noel Coward's one-act play about an illicit almost-affair that plays out mostly at a train station."
+        },
+        {
+          "title": "The Philadelphia Story",
+          "year": 1940,
+          "by": "Amanda Dobbins",
+          "note": "One of two Katharine Hepburn picks: the play-and-film combo that reversed her 'box office poison' run after Bringing Up Baby."
+        },
+        {
+          "title": "The Lion in Winter",
+          "year": 1968,
+          "by": "Amanda Dobbins",
+          "note": "James Goldman's screenplay from his own play, with Hepburn and Peter O'Toole as Eleanor of Aquitaine and Henry II tearing into each other over Christmas."
+        },
+        {
+          "title": "Sleuth",
+          "year": 1972,
+          "by": "Sean Fennessey",
+          "note": "Joseph L. Mankiewicz's last film, from Anthony Shaffer's play, with Michael Caine and Laurence Olivier trading cat-and-mouse dialogue for two and a half hours. Remade in 2007 with Jude Law; not to be confused with the similar Deathtrap."
+        },
+        {
+          "title": "Dial M for Murder",
+          "year": 1954,
+          "by": "Sean Fennessey",
+          "note": "Hitchcock's stage-play adaptation, where the confined geography of one room becomes the whole tension."
+        },
+        {
+          "title": "Amadeus",
+          "year": 1984,
+          "by": "Sean Fennessey",
+          "note": "Milos Forman's Mozart-and-Salieri epic with Tom Hulce and F. Murray Abraham; Amanda says it would have made her list too."
+        },
+        {
+          "title": "Secret Honor",
+          "year": 1984,
+          "by": "Sean Fennessey",
+          "note": "A bonus rewatch, not an official pick: Robert Altman's one-set Nixon monologue, with Philip Baker Hall memorizing what amounts to a 200-page speech. A favorite of Paul Thomas Anderson's."
+        },
+        {
+          "title": "Who's Afraid of Virginia Woolf?",
+          "year": 1966,
+          "by": "Amanda Dobbins",
+          "note": "Mike Nichols adapting Edward Albee, with Elizabeth Taylor and Richard Burton as George and Martha tearing each other apart over one night."
+        },
+        {
+          "title": "Glengarry Glen Ross",
+          "year": 1992,
+          "by": "Amanda Dobbins",
+          "note": "David Mamet's real estate salesmen, directed by James Foley. 'Always be closing.'"
+        },
+        {
+          "title": "A Few Good Men",
+          "year": 1992,
+          "by": "Amanda Dobbins",
+          "note": "Aaron Sorkin's own play, adapted for the screen, and a perennial pick on Big Picture top fives."
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "heading": "Top 10 Stage-to-Screen: The Musicals",
+      "note": "five picks each, stage musicals only, no Hollywood-original musicals like Singin' in the Rain",
+      "picks": [
+        {
+          "title": "Brigadoon",
+          "year": 1954,
+          "by": "Sean Fennessey",
+          "note": "Vincente Minnelli's musical about a hidden Scottish village that appears once every hundred years; the movie Francis Ford Coppola told Ryan Coogler to watch before making Black Panther. Not Sean's number one."
+        },
+        {
+          "title": "Bye Bye Birdie",
+          "year": 1963,
+          "by": "Amanda Dobbins",
+          "note": "A last-minute add for Amanda, led by Ann-Margret's opening number, which was written for the film version rather than the stage show."
+        },
+        {
+          "title": "Cabaret",
+          "year": 1972,
+          "by": "Amanda Dobbins",
+          "note": "Bob Fosse's Weimar-set follow-up to the flop of his first movie musical, Sweet Charity, with Liza Minnelli. Won Best Picture."
+        },
+        {
+          "title": "My Fair Lady",
+          "year": 1964,
+          "by": "Amanda Dobbins",
+          "note": "George Cukor directing Audrey Hepburn (dubbed by Marni Nixon) in the Lerner and Loewe musical. Julie Andrews originated the role onstage but lost the film casting, then won her Oscar the same year for Mary Poppins instead."
+        },
+        {
+          "title": "The Sound of Music",
+          "year": 1965,
+          "by": "Amanda Dobbins",
+          "note": "Robert Wise directing Julie Andrews and Christopher Plummer in the Rodgers and Hammerstein musical, shot on location in Austria. A childhood-formative, annual-rewatch pick for Amanda."
+        },
+        {
+          "title": "Little Shop of Horrors",
+          "year": 1986,
+          "by": "Sean Fennessey",
+          "note": "Frank Oz directing the Alan Menken/Howard Ashman musical (itself based on Roger Corman's low-budget original), with Rick Moranis and Ellen Greene."
+        },
+        {
+          "title": "Topsy-Turvy",
+          "year": 1999,
+          "by": "Sean Fennessey",
+          "note": "Mike Leigh's backstage drama about Gilbert and Sullivan staging The Mikado, ending with an extended performance of the operetta itself."
+        },
+        {
+          "title": "Grease",
+          "year": 1978,
+          "by": "Sean Fennessey",
+          "note": "A peak childhood-sleepover pick, spun off into Grease 2 and later live TV versions."
+        },
+        {
+          "title": "West Side Story",
+          "year": 1961,
+          "by": "Sean Fennessey and Amanda Dobbins",
+          "note": "Both hosts' shared number one. Directed by Robert Wise and Jerome Robbins, from the Bernstein/Sondheim/Arthur Laurents stage musical, with Rita Moreno's performance and Robbins's choreography singled out. Steven Spielberg's remake was due out for its 60th anniversary."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In Conversation",
+      "guest": "Kingsley Ben-Adir",
+      "note": "on playing Malcolm X in One Night in Miami and Barack Obama in The Comey Rule",
+      "films": [
+        {
+          "title": "21 Grams",
+          "year": 2003,
+          "note": "Ben-Adir's answer to the show's closing question, 'the last great thing you've seen': rewatched the night before, on an Alejandro G. Iñárritu kick."
+        },
+        {
+          "title": "Babel",
+          "year": 2006,
+          "note": "Also watched that same morning as part of his Iñárritu binge, though 21 Grams was his official pick."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The 2020 stage-to-screen wave (setup for the list)",
+      "films": [
+        "The Prom",
+        "David Byrne's American Utopia",
+        "Ma Rainey's Black Bottom",
+        "Hamilton"
+      ]
+    },
+    {
+      "group": "Comparisons in the One Night in Miami discussion",
+      "films": [
+        "Malcolm X",
+        "Soul",
+        "The Invisible Man",
+        "The Greatest"
+      ]
+    },
+    {
+      "group": "Mentioned in passing during the news roundup",
+      "films": [
+        "Bewitched",
+        "Steve Jobs",
+        "Moneyball",
+        "The Social Network",
+        "I'm Thinking of Ending Things",
+        "Howard"
+      ]
+    },
+    {
+      "group": "Considered for the plays list, then cut",
+      "films": [
+        "Casablanca",
+        "The Front Page"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "WandaVision",
+      "The Comey Rule",
+      "Fosse/Verdon",
+      "The OA",
+      "Tiger King 2"
+    ],
+    "Ads": [
+      "Carvana",
+      "Boar's Head",
+      "NOS Energy",
+      "Whole Foods",
+      "TalkAboutPD.com"
+    ]
+  },
+  "tmdb": {
+    "The Whale": {
+      "id": 785084,
+      "poster": "/jQ0gylJMxWSL490sy0RrPj1Lj7e.jpg",
+      "title": "The Whale",
+      "year": 2022
+    },
+    "Men": {
+      "id": 780609,
+      "poster": "/jo1Kv3P3UgDVk7JnUFr2Cl8WWUM.jpg",
+      "title": "Men",
+      "year": 2022
+    },
+    "White Noise": {
+      "id": 744594,
+      "poster": "/kesxNdLZlmGoTRspDHU1WgdEuGw.jpg",
+      "title": "White Noise",
+      "year": 2022
+    },
+    "The Tragedy of Macbeth": {
+      "id": 591538,
+      "poster": "/tDNJEhcLbX3jIk3BMCur9pCdaVD.jpg",
+      "title": "The Tragedy of Macbeth",
+      "year": 2021
+    },
+    "One Night in Miami": {
+      "id": 661914,
+      "poster": "/1DLUb9PTDqXMSgsD7RmiJs7ZJIx.jpg",
+      "title": "One Night in Miami...",
+      "year": 2020
+    },
+    "Henry V": {
+      "id": 22638,
+      "poster": "/eAisr20DvaKJeHvjDN0oHSx0l7u.jpg",
+      "title": "Henry V",
+      "year": 1944
+    },
+    "Romeo + Juliet": {
+      "id": 454,
+      "poster": "/eLf4jclPijOqfEp6bDAmezRFxk5.jpg",
+      "title": "Romeo + Juliet",
+      "year": 1996
+    },
+    "Brief Encounter": {
+      "id": 851,
+      "poster": "/jC9EwLJcGhYMSQAHu2LxkKN5v7O.jpg",
+      "title": "Brief Encounter",
+      "year": 1945
+    },
+    "The Philadelphia Story": {
+      "id": 981,
+      "poster": "/dKUubjvxO78XDts6VP1Ggcp4R9O.jpg",
+      "title": "The Philadelphia Story",
+      "year": 1940
+    },
+    "The Lion in Winter": {
+      "id": 18988,
+      "poster": "/yMgJnZADJObzfjA70ygXJkjnrFX.jpg",
+      "title": "The Lion in Winter",
+      "year": 1968
+    },
+    "Sleuth": {
+      "id": 993,
+      "poster": "/jAREYLUnYGwPjbQr0vs1s38QLkH.jpg",
+      "title": "Sleuth",
+      "year": 1972
+    },
+    "Dial M for Murder": {
+      "id": 521,
+      "poster": "/2gDCAgl2iBQNuJuk6p2xtuS1ewg.jpg",
+      "title": "Dial M for Murder",
+      "year": 1954
+    },
+    "Amadeus": {
+      "id": 279,
+      "poster": "/gQRfiyfGvr1az0quaYyMram3Aqt.jpg",
+      "title": "Amadeus",
+      "year": 1984
+    },
+    "Secret Honor": {
+      "id": 50034,
+      "poster": "/hYiadiL0xgIqpPgKj02NkYsb988.jpg",
+      "title": "Secret Honor",
+      "year": 1984
+    },
+    "Who's Afraid of Virginia Woolf?": {
+      "id": 396,
+      "poster": "/wF7ihB5V5gSm6zxjv3ZhHOpgREI.jpg",
+      "title": "Who's Afraid of Virginia Woolf?",
+      "year": 1966
+    },
+    "Glengarry Glen Ross": {
+      "id": 9504,
+      "poster": "/zcaEDx8KlVfh4vKfMNLhiSi5Oz4.jpg",
+      "title": "Glengarry Glen Ross",
+      "year": 1992
+    },
+    "A Few Good Men": {
+      "id": 881,
+      "poster": "/rLOk4z9zL1tTukIYV56P94aZXKk.jpg",
+      "title": "A Few Good Men",
+      "year": 1992
+    },
+    "Brigadoon": {
+      "id": 18283,
+      "poster": "/va3DcpyZDnnWdRB0FTPKzObo3Uz.jpg",
+      "title": "Brigadoon",
+      "year": 1954
+    },
+    "Bye Bye Birdie": {
+      "id": 25167,
+      "poster": "/u3m2kU5aFj6V6cNYOd9a22Iia7O.jpg",
+      "title": "Bye Bye Birdie",
+      "year": 1963
+    },
+    "Cabaret": {
+      "id": 10784,
+      "poster": "/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg",
+      "title": "Cabaret",
+      "year": 1972
+    },
+    "My Fair Lady": {
+      "id": 11113,
+      "poster": "/bTXVc29lGSNclf94VIZ49W4gGKl.jpg",
+      "title": "My Fair Lady",
+      "year": 1964
+    },
+    "The Sound of Music": {
+      "id": 15121,
+      "poster": "/c6CrUZypAsBCaRWX0M3RVRDbhNS.jpg",
+      "title": "The Sound of Music",
+      "year": 1965
+    },
+    "Little Shop of Horrors": {
+      "id": 10776,
+      "poster": "/iKkbN17OmFosaW6asCNZTTsyvpu.jpg",
+      "title": "Little Shop of Horrors",
+      "year": 1986
+    },
+    "Topsy-Turvy": {
+      "id": 46435,
+      "poster": "/nxHjVAVOFgWbD2RptBBCLVO6SIR.jpg",
+      "title": "Topsy-Turvy",
+      "year": 1999
+    },
+    "Grease": {
+      "id": 621,
+      "poster": "/2rM7fQKpb7cs1Iq7IBqub9LFDzJ.jpg",
+      "title": "Grease",
+      "year": 1978
+    },
+    "West Side Story": {
+      "id": 1725,
+      "poster": "/nzCMu6D5q60i2bVrIQ0DxlRSgCZ.jpg",
+      "title": "West Side Story",
+      "year": 1961
+    },
+    "21 Grams": {
+      "id": 470,
+      "poster": "/wZ0l6or5juuVWqDkLEgaghs4f9l.jpg",
+      "title": "21 Grams",
+      "year": 2003
+    },
+    "Babel": {
+      "id": 1164,
+      "poster": "/bZByZbvU7u14WjoUJERqCRW9saN.jpg",
+      "title": "Babel",
+      "year": 2006
+    },
+    "The Prom": {
+      "id": 611213,
+      "poster": "/9oHvqd1QL5kaqt6zmCuDmM8esjV.jpg",
+      "title": "The Prom",
+      "year": 2020
+    },
+    "David Byrne's American Utopia": {
+      "id": 668800,
+      "poster": "/sHVeVCNhlY2asvoGsSMP5HOLbCI.jpg",
+      "title": "David Byrne's American Utopia",
+      "year": 2020
+    },
+    "Ma Rainey's Black Bottom": {
+      "id": 615667,
+      "poster": "/pvtyxijaBrCSbByXLcUIDDSvc40.jpg",
+      "title": "Ma Rainey's Black Bottom",
+      "year": 2020
+    },
+    "Hamilton": {
+      "id": 556574,
+      "poster": "/h1B7tW0t399VDjAcWJh8m87469b.jpg",
+      "title": "Hamilton",
+      "year": 2020
+    },
+    "Malcolm X": {
+      "id": 1883,
+      "poster": "/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
+      "title": "Malcolm X",
+      "year": 1992
+    },
+    "Soul": {
+      "id": 508442,
+      "poster": "/6jmppcaubzLF8wkXM36ganVISCo.jpg",
+      "title": "Soul",
+      "year": 2020
+    },
+    "The Invisible Man": {
+      "id": 570670,
+      "poster": "/5EufsDwXdY2CVttYOk2WtYhgKpa.jpg",
+      "title": "The Invisible Man",
+      "year": 2020
+    },
+    "The Greatest": {
+      "id": 69903,
+      "poster": "/dkPVN51q9hbzkN5zmwybsLMhCej.jpg",
+      "title": "The Greatest",
+      "year": 1977
+    },
+    "Bewitched": {
+      "id": 9722,
+      "poster": "/8lx4EXmAZo8ogh4128UBZRQfCjI.jpg",
+      "title": "Bewitched",
+      "year": 2005
+    },
+    "Steve Jobs": {
+      "id": 321697,
+      "poster": "/ljiRO29Y9khEERRqMluptUYunJ9.jpg",
+      "title": "Steve Jobs",
+      "year": 2015
+    },
+    "Moneyball": {
+      "id": 60308,
+      "poster": "/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+      "title": "Moneyball",
+      "year": 2011
+    },
+    "The Social Network": {
+      "id": 37799,
+      "poster": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+      "title": "The Social Network",
+      "year": 2010
+    },
+    "I'm Thinking of Ending Things": {
+      "id": 500840,
+      "poster": "/5ynWWapdl45hJXUh0KIevxSG9JQ.jpg",
+      "title": "I'm Thinking of Ending Things",
+      "year": 2020
+    },
+    "Howard": {
+      "id": 512191,
+      "poster": "/kTMIYVGKeXsIcVumZvyapkhvQiY.jpg",
+      "title": "Howard",
+      "year": 2018
+    },
+    "Casablanca": {
+      "id": 289,
+      "poster": "/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+      "title": "Casablanca",
+      "year": 1943
+    },
+    "The Front Page": {
+      "id": 987,
+      "poster": "/r4RtbJk8wVyZ1yk6yBZjzGD4ANU.jpg",
+      "title": "The Front Page",
+      "year": 1974
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "introducing-gene-and-roger",
+  "title": "Introducing 'Gene and Roger'",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Brian Raftery"
+  ],
+  "published": "2021-07-14",
+  "runtimeMin": 1,
+  "format": "A one-minute trailer for 'Gene and Roger' ran on the Big Picture feed. It's Brian Raftery's Spotify series on Gene Siskel and Roger Ebert, premiering July 20th. No films reviewed.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The trailer",
+      "note": "series premieres July 20th",
+      "films": []
+    }
+  ],
+  "excluded": {
+    "Podcast": [
+      "Gene and Roger"
+    ]
+  },
+  "tmdb": {}
+}

@@ -1,0 +1,437 @@
+{
+  "slug": "jurassic-world-dominion-and-the-jurassic-movie-rankings",
+  "title": "'Jurassic World: Dominion' and the Jurassic Movie Rankings",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Bryan Curtis"
+  ],
+  "published": "2022-06-10",
+  "runtimeMin": 66,
+  "format": "Sean and Bryan Curtis review 'Jurassic World: Dominion,' the legacy-sequel finale that reunites the original cast, then rank all six Jurassic films from worst to first.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "'Jurassic World: Dominion'",
+      "films": [
+        {
+          "title": "Jurassic World: Dominion",
+          "year": 2022,
+          "note": "Colin Trevorrow's globe-trotting trilogy-capper: Owen, Claire, a clone daughter, and the returning Grant/Sattler/Malcolm trio versus a biotech CEO and giant Cretaceous locusts. The hosts read it as the franchise's 'Rise of Skywalker': pre-sold, callback-stuffed, not boring but not good."
+        }
+      ]
+    },
+    {
+      "kind": "ranking",
+      "heading": "The Jurassic Movie Rankings",
+      "note": "worst to first (No. 1 first)",
+      "subject": "the Jurassic franchise",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Jurassic Park",
+          "year": 1993,
+          "note": "No. 1, unanimous. The Spielberg original: 'oh my God, they created dinosaurs' as both plot and moviegoing miracle. Dean Cundey's photography, Stan Winston and Phil Tippett's effects."
+        },
+        {
+          "title": "Jurassic Park III",
+          "year": 2001,
+          "note": "Curtis's No. 2, to Sean's disbelief. Joe Johnston's blessedly short 90-minute chase movie; screenplay credit to Alexander Payne and Jim Taylor. Sean calls it mediocre but concedes it's the one you'd throw on."
+        },
+        {
+          "title": "Jurassic World",
+          "year": 2015,
+          "note": "No. 3. Trevorrow's 2015 reboot: the gyrosphere balls, a new dino or two, 'a copy of a copy' but fun. Made $1.67 billion."
+        },
+        {
+          "title": "The Lost World: Jurassic Park",
+          "year": 1997,
+          "note": "No. 4 for Curtis, who calls it a lazy, badly lit cash-out with some of Goldblum's worst acting; Sean would rank it higher. Kaminski replaces Cundey; the San Diego Godzilla finale lands for neither host."
+        },
+        {
+          "title": "Jurassic World: Dominion",
+          "year": 2022,
+          "note": "No. 5. A Bourne/Mission: Impossible/'give me back my daughter'/bug-horror mash-up that piles on one animal too many with the locusts."
+        },
+        {
+          "title": "Jurassic World: Fallen Kingdom",
+          "year": 2018,
+          "note": "Last. J.A. Bayona's haunted-house-plus-dino-auction entry that both hosts basically blacked out on; the movie that started the running 'what even happened' bit."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Legacy sequels and franchises compared",
+      "films": [
+        "Top Gun: Maverick",
+        "Star Wars: The Force Awakens",
+        "Star Wars: The Last Jedi",
+        "Star Wars: The Rise of Skywalker",
+        "Indiana Jones and the Kingdom of the Crystal Skull",
+        "Thor: Love and Thunder"
+      ]
+    },
+    {
+      "group": "Cast and crew filmographies",
+      "films": [
+        "Terminator 2: Judgment Day",
+        "Thor: Ragnarok",
+        "Aliens",
+        "Safety Not Guaranteed",
+        "The Book of Henry",
+        "E.T. the Extra-Terrestrial",
+        "Close Encounters of the Third Kind",
+        "Schindler's List",
+        "A.I. Artificial Intelligence",
+        "West Side Story",
+        "Rambling Rose",
+        "The Orphanage",
+        "The Impossible",
+        "A Monster Calls",
+        "The Rocketeer",
+        "October Sky",
+        "Honey, I Shrunk the Kids",
+        "Jumanji",
+        "The Pagemaster",
+        "Hidalgo",
+        "The Wolfman",
+        "Captain America: The First Avenger",
+        "Who Framed Roger Rabbit",
+        "Sideways",
+        "Nebraska"
+      ]
+    },
+    {
+      "group": "Crichton and other name-drops",
+      "films": [
+        "Congo",
+        "Sphere",
+        "Disclosure",
+        "In the Mouth of Madness",
+        "Hunt for the Wilderpeople",
+        "Popeye",
+        "The Karate Kid",
+        "Clerks",
+        "Shrek",
+        "Elvis",
+        "Die Hard: With a Vengeance"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "The Karate Kid": 1885
+  },
+  "excluded": {
+    "TV": [
+      "Westworld",
+      "Jurassic World: Camp Cretaceous",
+      "Parks and Recreation"
+    ],
+    "Podcasts / other": [
+      "The Press Box",
+      "The Rewatchables",
+      "The Business (KCRW)",
+      "Call Her Daddy",
+      "Higher Learning"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "Netflix FIFA World Cup Launch Edition",
+      "White Claw",
+      "Nespresso"
+    ]
+  },
+  "tmdb": {
+    "Jurassic World: Dominion": {
+      "id": 507086,
+      "poster": "/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg",
+      "title": "Jurassic World Dominion",
+      "year": 2022
+    },
+    "Jurassic Park": {
+      "id": 329,
+      "poster": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "title": "Jurassic Park",
+      "year": 1993
+    },
+    "Jurassic Park III": {
+      "id": 331,
+      "poster": "/oQXj4NUfS3r3gHXtDOzcJgj1lLc.jpg",
+      "title": "Jurassic Park III",
+      "year": 2001
+    },
+    "Jurassic World": {
+      "id": 135397,
+      "poster": "/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
+      "title": "Jurassic World",
+      "year": 2015
+    },
+    "The Lost World: Jurassic Park": {
+      "id": 330,
+      "poster": "/7st3JW0xpMAkwB3dYfv3iqAwD8Y.jpg",
+      "title": "The Lost World: Jurassic Park",
+      "year": 1997
+    },
+    "Jurassic World: Fallen Kingdom": {
+      "id": 351286,
+      "poster": "/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg",
+      "title": "Jurassic World: Fallen Kingdom",
+      "year": 2018
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Star Wars: The Force Awakens": {
+      "id": 140607,
+      "poster": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+      "title": "Star Wars: The Force Awakens",
+      "year": 2015
+    },
+    "Star Wars: The Last Jedi": {
+      "id": 181808,
+      "poster": "/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
+      "title": "Star Wars: The Last Jedi",
+      "year": 2017
+    },
+    "Star Wars: The Rise of Skywalker": {
+      "id": 181812,
+      "poster": "/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+      "title": "Star Wars: The Rise of Skywalker",
+      "year": 2019
+    },
+    "Indiana Jones and the Kingdom of the Crystal Skull": {
+      "id": 217,
+      "poster": "/56As6XEM1flWvprX4LgkPl8ii4K.jpg",
+      "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+      "year": 2008
+    },
+    "Thor: Love and Thunder": {
+      "id": 616037,
+      "poster": "/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+      "title": "Thor: Love and Thunder",
+      "year": 2022
+    },
+    "Terminator 2: Judgment Day": {
+      "id": 280,
+      "poster": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991
+    },
+    "Thor: Ragnarok": {
+      "id": 284053,
+      "poster": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "title": "Thor: Ragnarok",
+      "year": 2017
+    },
+    "Aliens": {
+      "id": 679,
+      "poster": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "title": "Aliens",
+      "year": 1986
+    },
+    "Safety Not Guaranteed": {
+      "id": 84332,
+      "poster": "/gH0l9kiaK1Ulalbq07nqR7jtin5.jpg",
+      "title": "Safety Not Guaranteed",
+      "year": 2012
+    },
+    "The Book of Henry": {
+      "id": 382614,
+      "poster": "/suLFg4UjvM5BoDipg2Wu3gZ802T.jpg",
+      "title": "The Book of Henry",
+      "year": 2017
+    },
+    "E.T. the Extra-Terrestrial": {
+      "id": 601,
+      "poster": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+      "title": "E.T. the Extra-Terrestrial",
+      "year": 1982
+    },
+    "Close Encounters of the Third Kind": {
+      "id": 840,
+      "poster": "/yaPx3cK9zGFX3SbcKwxWM1QIbUh.jpg",
+      "title": "Close Encounters of the Third Kind",
+      "year": 1977
+    },
+    "Schindler's List": {
+      "id": 424,
+      "poster": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+      "title": "Schindler's List",
+      "year": 1993
+    },
+    "A.I. Artificial Intelligence": {
+      "id": 644,
+      "poster": "/8MZSGX5JORoO72EfuAEcejH5yHn.jpg",
+      "title": "A.I. Artificial Intelligence",
+      "year": 2001
+    },
+    "West Side Story": {
+      "id": 511809,
+      "poster": "/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+      "title": "West Side Story",
+      "year": 2021
+    },
+    "Rambling Rose": {
+      "id": 32221,
+      "poster": "/hAoluBzewlMqRH4mgFJvr4EPOMw.jpg",
+      "title": "Rambling Rose",
+      "year": 1991
+    },
+    "The Orphanage": {
+      "id": 6537,
+      "poster": "/vIpi1KtHLXUOfSVC2m6MqpjSPgL.jpg",
+      "title": "The Orphanage",
+      "year": 2007
+    },
+    "The Impossible": {
+      "id": 80278,
+      "poster": "/k0DLCiDbnYywOHiISALbl2EH2NE.jpg",
+      "title": "The Impossible",
+      "year": 2012
+    },
+    "A Monster Calls": {
+      "id": 258230,
+      "poster": "/vNzWJwVqjszWwXrA7ZfsrJmhgV9.jpg",
+      "title": "A Monster Calls",
+      "year": 2016
+    },
+    "The Rocketeer": {
+      "id": 10249,
+      "poster": "/2tDFRESFwKww1LHRE8W1Exj9edH.jpg",
+      "title": "The Rocketeer",
+      "year": 1991
+    },
+    "October Sky": {
+      "id": 13466,
+      "poster": "/umWrXCIWdcYPf764ruvMRCpG3cA.jpg",
+      "title": "October Sky",
+      "year": 1999
+    },
+    "Honey, I Shrunk the Kids": {
+      "id": 9354,
+      "poster": "/omQOzahi2NIeiYznNxHFDvNbvo6.jpg",
+      "title": "Honey, I Shrunk the Kids",
+      "year": 1989
+    },
+    "Jumanji": {
+      "id": 8844,
+      "poster": "/iWV47r6kFneCiApgrMII5HSkfHw.jpg",
+      "title": "Jumanji",
+      "year": 1995
+    },
+    "The Pagemaster": {
+      "id": 15139,
+      "poster": "/iIWUuCjN8VND7BDugvf45LveA6p.jpg",
+      "title": "The Pagemaster",
+      "year": 1994
+    },
+    "Hidalgo": {
+      "id": 2023,
+      "poster": "/iGzENlBPYJEFWZnye4t3nqWSSp1.jpg",
+      "title": "Hidalgo",
+      "year": 2004
+    },
+    "The Wolfman": {
+      "id": 7978,
+      "poster": "/fQqPoAHvHicie1ttuiV2q0yv9V7.jpg",
+      "title": "The Wolfman",
+      "year": 2010
+    },
+    "Captain America: The First Avenger": {
+      "id": 1771,
+      "poster": "/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+      "title": "Captain America: The First Avenger",
+      "year": 2011
+    },
+    "Who Framed Roger Rabbit": {
+      "id": 856,
+      "poster": "/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg",
+      "title": "Who Framed Roger Rabbit",
+      "year": 1988
+    },
+    "Sideways": {
+      "id": 9675,
+      "poster": "/zOsaxYLgvZVU7cJBpPn8CuE0MrP.jpg",
+      "title": "Sideways",
+      "year": 2004
+    },
+    "Nebraska": {
+      "id": 129670,
+      "poster": "/o1t2Mw18EEBnl8v4Nby3PFjxnM1.jpg",
+      "title": "Nebraska",
+      "year": 2013
+    },
+    "Congo": {
+      "id": 10329,
+      "poster": "/hPNSToNIIpRO6y5Rh973leqQqNr.jpg",
+      "title": "Congo",
+      "year": 1995
+    },
+    "Sphere": {
+      "id": 10153,
+      "poster": "/reR7C7EYe3DiHm5OYpA0ACUMDld.jpg",
+      "title": "Sphere",
+      "year": 1998
+    },
+    "Disclosure": {
+      "id": 8984,
+      "poster": "/9e8cp3ho2aZrHMFgitysCoJxXwP.jpg",
+      "title": "Disclosure",
+      "year": 1994
+    },
+    "In the Mouth of Madness": {
+      "id": 2654,
+      "poster": "/msh4tEUzbnEqlHcFOUH4O0Zti8r.jpg",
+      "title": "In the Mouth of Madness",
+      "year": 1995
+    },
+    "Hunt for the Wilderpeople": {
+      "id": 371645,
+      "poster": "/hkmz9rxgcweizXNElozGeKwmAJE.jpg",
+      "title": "Hunt for the Wilderpeople",
+      "year": 2016
+    },
+    "Popeye": {
+      "id": 11335,
+      "poster": "/hCCp4pESgYY6uTFARYf4UYV1BdU.jpg",
+      "title": "Popeye",
+      "year": 1980
+    },
+    "The Karate Kid": {
+      "id": 1885,
+      "poster": "/1mp4ViklKvA0WXXsNvNx0RBuiit.jpg",
+      "title": "The Karate Kid",
+      "year": 1984
+    },
+    "Clerks": {
+      "id": 2292,
+      "poster": "/9IiSgiq4h4siTIS9H3o4nZ3h5L9.jpg",
+      "title": "Clerks",
+      "year": 1994
+    },
+    "Shrek": {
+      "id": 808,
+      "poster": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+      "title": "Shrek",
+      "year": 2001
+    },
+    "Elvis": {
+      "id": 614934,
+      "poster": "/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg",
+      "title": "Elvis",
+      "year": 2022
+    },
+    "Die Hard: With a Vengeance": {
+      "id": 1572,
+      "poster": "/buqmCdFQEWwEpL3agGgg2GVjN2d.jpg",
+      "title": "Die Hard: With a Vengeance",
+      "year": 1995
+    }
+  }
+}

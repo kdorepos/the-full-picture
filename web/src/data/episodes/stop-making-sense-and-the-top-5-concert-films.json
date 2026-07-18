@@ -1,0 +1,395 @@
+{
+  "slug": "stop-making-sense-and-the-top-5-concert-films",
+  "title": "‘Stop Making Sense’ and the Top 5 Concert Films",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Rob Harvilla"
+  ],
+  "published": "2023-09-26",
+  "runtimeMin": 103,
+  "format": "Stop Making Sense returns to theaters in a 4K rerelease, and Sean, Amanda, and guest Rob Harvilla argue over the best concert film ever made before drafting their own top fives.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "Stop Making Sense at 40",
+      "note": "Jonathan Demme's 1984 Talking Heads concert film, rereleased in 4K by A24",
+      "films": [
+        {
+          "title": "Stop Making Sense",
+          "year": 1984,
+          "note": "Jonathan Demme's document of Talking Heads' 1983 tour, staged and shot as a fully constructed piece rather than a captured moment. Rereleased in 4K by A24 for its 40th anniversary. Both hosts call it the best concert film ever made, ahead of The Last Waltz."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Sean Fennessey's top five concert films",
+      "note": "best to worst",
+      "subject": "Sean Fennessey",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Gimme Shelter",
+          "year": 1970,
+          "note": "Albert and David Maysles and Charlotte Zwerin's document of the Rolling Stones' 1969 tour, ending at the Altamont Speedway show where a concertgoer was stabbed to death by a Hells Angel working security. Shot in the Maysles' direct-cinema style, including footage of Mick Jagger watching the violence back on an editing deck."
+        },
+        {
+          "title": "Amazing Grace",
+          "year": 2018,
+          "note": "Sydney Pollack filmed Aretha Franklin recording her 1972 gospel album live at a small church, but the footage sat unsynced and unreleased for over 30 years until Alan Elliott finished it. Franklin blocked its release in her lifetime; it came out a year after she died."
+        },
+        {
+          "title": "Dave Chappelle's Block Party",
+          "year": 2004,
+          "note": "Michel Gondry's film of the block party Dave Chappelle threw in Brooklyn in 2004, mixing performances from Kanye West, Erykah Badu, Mos Def, and a Fugees reunion with Chappelle putting the whole thing together."
+        },
+        {
+          "title": "Jazz on a Summer's Day",
+          "year": 1959,
+          "note": "Bert Stern's only film as director, shot at the 1958 Newport Jazz Festival and intercut with footage of that year's America's Cup sailing races. Louis Armstrong, Thelonious Monk, and Mahalia Jackson all perform."
+        },
+        {
+          "title": "Shut Up and Play the Hits",
+          "year": 2012,
+          "note": "Chronicles LCD Soundsystem's announced-in-advance final show at Madison Square Garden on April 2, 2011."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Rob Harvilla's top five concert films",
+      "note": "best to worst",
+      "subject": "Rob Harvilla",
+      "ranked": true,
+      "films": [
+        {
+          "title": "The Last Waltz",
+          "year": 1978,
+          "note": "Martin Scorsese's film of The Band's farewell concert on Thanksgiving 1976 at San Francisco's Winterland Ballroom, with guest turns from Bob Dylan, Joni Mitchell, Neil Young, Van Morrison, and Neil Diamond."
+        },
+        {
+          "title": "Homecoming",
+          "year": 2019,
+          "note": "Beyoncé directed and stars in this document of her 2018 Coachella headlining set, built around a tribute to historically Black colleges and universities. A joint pick with Amanda."
+        },
+        {
+          "title": "Prince: Sign 'o' the Times",
+          "year": 1987,
+          "note": "Prince directed this concert film himself, staged with dialogue and comic interludes between songs; Sheila E. plays drums throughout."
+        },
+        {
+          "title": "Instrument",
+          "year": 1999,
+          "note": "Jem Cohen's document of Fugazi, split between concert footage and behind-the-scenes material shot over the band's decade together."
+        },
+        {
+          "title": "Woodstock",
+          "year": 1970,
+          "note": "Michael Wadleigh's document of the 1969 festival; Rob watched the 1994 director's cut, which runs 224 minutes and was edited in part by Martin Scorsese and Thelma Schoonmaker."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Amanda Dobbins's top five concert films",
+      "note": "best to worst",
+      "subject": "Amanda Dobbins",
+      "ranked": true,
+      "films": [
+        {
+          "title": "The Beatles: Get Back",
+          "year": 2021,
+          "note": "Peter Jackson's reedit and expansion of outtakes from the 1969 Let It Be sessions, ending with the band's impromptu rooftop concert."
+        },
+        {
+          "title": "Homecoming",
+          "year": 2019,
+          "note": "Beyoncé's 2018 Coachella set, built around a tribute to historically Black colleges and universities. A joint pick with Rob."
+        },
+        {
+          "title": "David Byrne's American Utopia",
+          "year": 2020,
+          "note": "Spike Lee's film of David Byrne's Broadway show, built around Talking Heads songs and staged in explicit conversation with Stop Making Sense."
+        },
+        {
+          "title": "Madonna: Truth or Dare",
+          "year": 1991,
+          "note": "Alek Keshishian's document of Madonna's 1990 Blond Ambition tour, shot in black and white behind the scenes and color on stage."
+        },
+        {
+          "title": "Fade to Black",
+          "year": 2004,
+          "note": "Chronicles Jay-Z's announced retirement concert at Madison Square Garden, intercut with studio footage of The Black Album sessions with Kanye West, Pharrell, Timbaland, and Rick Rubin."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Also part of the concert-film conversation",
+      "films": [
+        "Monterey Pop",
+        "Festival",
+        "Summer of Soul",
+        "Backstage"
+      ]
+    },
+    {
+      "group": "Coming soon",
+      "films": [
+        "Taylor Swift: The Eras Tour"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Trolls",
+        "Trolls World Tour",
+        "Trolls Band Together",
+        "Wonka",
+        "Dune: Part Two",
+        "Reds",
+        "The Super Mario Bros. Movie",
+        "The Flash",
+        "Blue Beetle",
+        "The Creator",
+        "Justin Bieber: Never Say Never",
+        "Katy Perry: Part of Me",
+        "Lemonade",
+        "Renaissance: A Film by Beyoncé"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "MTV Unplugged",
+      "Kelce (Amazon Prime docuseries)"
+    ],
+    "Podcasts": [
+      "The Ringer Wrestling Show",
+      "The Town with Matthew Belloni",
+      "The Watch",
+      "60 Songs That Explain the 90s"
+    ],
+    "Games": [
+      "FIFA World Cup Launch Edition"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "Carvana",
+      "FanDuel"
+    ]
+  },
+  "tmdb": {
+    "Stop Making Sense": {
+      "id": 24128,
+      "poster": "/utNpurUe1MMjEaHqvpkfxgfpSnV.jpg",
+      "title": "Stop Making Sense",
+      "year": 1984
+    },
+    "Gimme Shelter": {
+      "id": 132,
+      "poster": "/6Cem6KcIClKit3KhKYou4aXFxob.jpg",
+      "title": "Gimme Shelter",
+      "year": 1970
+    },
+    "Amazing Grace": {
+      "id": 356199,
+      "poster": "/eABsBr5TnW8FBSSSsAKFnwDW1BW.jpg",
+      "title": "Amazing Grace",
+      "year": 2018
+    },
+    "Dave Chappelle's Block Party": {
+      "id": 292,
+      "poster": "/lGS9iKGGRjM049ZGK4J8TvQeBHg.jpg",
+      "title": "Dave Chappelle's Block Party",
+      "year": 2005
+    },
+    "Jazz on a Summer's Day": {
+      "id": 53434,
+      "poster": "/ltdAJF4sVIRAOJmHIUzfLylrVRr.jpg",
+      "title": "Jazz on a Summer's Day",
+      "year": 1960
+    },
+    "Shut Up and Play the Hits": {
+      "id": 83589,
+      "poster": "/8e5f9fMU1FtWPmZZTrvqk3hCG81.jpg",
+      "title": "Shut Up and Play the Hits",
+      "year": 2012
+    },
+    "The Last Waltz": {
+      "id": 13963,
+      "poster": "/2K7CFH0AIHnGrA4yQjPCoIB5CmQ.jpg",
+      "title": "The Last Waltz",
+      "year": 1978
+    },
+    "Homecoming": {
+      "id": 593691,
+      "poster": "/nKdP4K3Bj3qnjtDCq9lTg7UOHVy.jpg",
+      "title": "HOMECOMING: A film by Beyoncé",
+      "year": 2019
+    },
+    "Prince: Sign 'o' the Times": {
+      "id": 38178,
+      "poster": "/zk0C7KOk30M2Awr3vecEUKB2JPP.jpg",
+      "title": "Prince: Sign 'o' the Times",
+      "year": 1987
+    },
+    "Instrument": {
+      "id": 34380,
+      "poster": "/5f3gPdJeYyTIrFPKT08Yhe2vYTg.jpg",
+      "title": "Instrument",
+      "year": 1999
+    },
+    "Woodstock": {
+      "id": 9459,
+      "poster": "/cnfhelfQucSb4Y54yFgtnSNhsAT.jpg",
+      "title": "Woodstock",
+      "year": 1970
+    },
+    "The Beatles: Get Back": null,
+    "David Byrne's American Utopia": {
+      "id": 668800,
+      "poster": "/sHVeVCNhlY2asvoGsSMP5HOLbCI.jpg",
+      "title": "David Byrne's American Utopia",
+      "year": 2020
+    },
+    "Madonna: Truth or Dare": {
+      "id": 10174,
+      "poster": "/kJHCqwDgS9MEhdChIkGn7QAUoyL.jpg",
+      "title": "Madonna: Truth or Dare",
+      "year": 1991
+    },
+    "Fade to Black": {
+      "id": 19614,
+      "poster": "/7hQ7GFrdFzs3CWGD5ntTY8z98Nr.jpg",
+      "title": "JAY-Z: Fade to Black",
+      "year": 2004
+    },
+    "Monterey Pop": {
+      "id": 42632,
+      "poster": "/wEB3c5Y5spAHOQaFWcsfFky3SWb.jpg",
+      "title": "Monterey Pop",
+      "year": 1968
+    },
+    "Festival": {
+      "id": 16247,
+      "poster": "/opVOkaGWfZqbEt5m6AlVMTtvNVs.jpg",
+      "title": "Festival",
+      "year": 1967
+    },
+    "Summer of Soul": {
+      "id": 776527,
+      "poster": "/8kNwhqUGvpzWJd60O1Qvb8G6psK.jpg",
+      "title": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
+      "year": 2021
+    },
+    "Backstage": {
+      "id": 137236,
+      "poster": "/yXSUxgu49QQmTRdDsSZK6U1Qe0F.jpg",
+      "title": "Backstage",
+      "year": 2000
+    },
+    "Taylor Swift: The Eras Tour": {
+      "id": 1160164,
+      "poster": "/jf3YO8hOqGHCupsREf5qymYq1n.jpg",
+      "title": "TAYLOR SWIFT | THE ERAS TOUR",
+      "year": 2023
+    },
+    "Trolls": {
+      "id": 136799,
+      "poster": "/9VlK2j0THZWzhQPq0W3Oc0IIdBB.jpg",
+      "title": "Trolls",
+      "year": 2016
+    },
+    "Trolls World Tour": {
+      "id": 446893,
+      "poster": "/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg",
+      "title": "Trolls World Tour",
+      "year": 2020
+    },
+    "Trolls Band Together": {
+      "id": 901362,
+      "poster": "/3ySgD2xwasTHOK6R9bNZiEwKgYo.jpg",
+      "title": "Trolls Band Together",
+      "year": 2023
+    },
+    "Wonka": {
+      "id": 787699,
+      "poster": "/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+      "title": "Wonka",
+      "year": 2023
+    },
+    "Dune: Part Two": {
+      "id": 693134,
+      "poster": "/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+      "title": "Dune: Part Two",
+      "year": 2024
+    },
+    "Reds": {
+      "id": 18254,
+      "poster": "/AeiKdVVM93fwfQG1m3N0cgVZgHl.jpg",
+      "title": "Reds",
+      "year": 1981
+    },
+    "The Super Mario Bros. Movie": {
+      "id": 502356,
+      "poster": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+      "title": "The Super Mario Bros. Movie",
+      "year": 2023
+    },
+    "The Flash": {
+      "id": 298618,
+      "poster": "/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+      "title": "The Flash",
+      "year": 2023
+    },
+    "Blue Beetle": {
+      "id": 565770,
+      "poster": "/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg",
+      "title": "Blue Beetle",
+      "year": 2023
+    },
+    "The Creator": {
+      "id": 670292,
+      "poster": "/3dSivDtOuyxLDxPH4v2tcNG1fP7.jpg",
+      "title": "The Creator",
+      "year": 2023
+    },
+    "Justin Bieber: Never Say Never": {
+      "id": 54518,
+      "poster": "/dGNMD5XTBQN3teIth21ohKOCJcR.jpg",
+      "title": "Justin Bieber: Never Say Never",
+      "year": 2011
+    },
+    "Katy Perry: Part of Me": {
+      "id": 101267,
+      "poster": "/yPW5Lmptt7z8rCYtVYjkpyjI3SY.jpg",
+      "title": "Katy Perry: Part of Me",
+      "year": 2012
+    },
+    "Lemonade": {
+      "id": 394269,
+      "poster": "/x6sBCNHyjrCVF5Pa3Oa8GCP58UU.jpg",
+      "title": "Lemonade",
+      "year": 2016
+    },
+    "Renaissance: A Film by Beyoncé": {
+      "id": 1185743,
+      "poster": "/6sVB5xuQq9njHK455JdwgN8Tx07.jpg",
+      "title": "Renaissance: A Film by Beyoncé",
+      "year": 2023
+    }
+  },
+  "tmdbOverrides": {
+    "Homecoming": 593691,
+    "Fade to Black": 19614,
+    "Festival": 16247,
+    "Backstage": 137236,
+    "The Beatles: Get Back": null,
+    "Summer of Soul": 776527
+  }
+}

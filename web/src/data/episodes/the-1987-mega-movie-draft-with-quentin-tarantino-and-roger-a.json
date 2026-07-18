@@ -1,0 +1,610 @@
+{
+  "slug": "the-1987-mega-movie-draft-with-quentin-tarantino-and-roger-a",
+  "title": "The 1987 Mega-Movie Draft With Quentin Tarantino and Roger Avary!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan",
+    "Quentin Tarantino",
+    "Roger Avary"
+  ],
+  "published": "2022-07-26",
+  "runtimeMin": 148,
+  "format": "Quentin Tarantino and Roger Avary join Sean, Amanda, and Chris for a five-way snake draft of 1987 across six categories, from Robocop to Babette's Feast.",
+  "segments": [
+    {
+      "kind": "draft",
+      "heading": "The 1987 Movie Draft",
+      "draftOf": "the movies of 1987",
+      "categories": [
+        "Drama / Action",
+        "Comedy",
+        "Oscar Nominee",
+        "Horror / Exploitation",
+        "Blockbuster",
+        "Wildcard"
+      ],
+      "teams": [
+        {
+          "host": "Roger Avary",
+          "picks": [
+            {
+              "title": "Robocop",
+              "year": 1987,
+              "category": "Blockbuster",
+              "note": "First overall pick. Verhoeven, Peter Weller; nobody else at the table had it in their top four."
+            },
+            {
+              "title": "Hope and Glory",
+              "year": 1987,
+              "category": "Oscar Nominee",
+              "note": "John Boorman's autobiographical account of the London Blitz. His second-favorite Boorman film after Excalibur."
+            },
+            {
+              "title": "River's Edge",
+              "year": 1987,
+              "category": "Drama / Action",
+              "note": "Tim Hunter, from Neil Jimenez's script; Crispin Glover and Keanu Reeves. Premiered at the same Sundance as Reservoir Dogs."
+            },
+            {
+              "title": "Hellraiser",
+              "year": 1987,
+              "category": "Horror / Exploitation",
+              "note": "Clive Barker's debut, picked over Jack Sholder's The Hidden."
+            },
+            {
+              "title": "Innerspace",
+              "year": 1987,
+              "category": "Comedy",
+              "note": "Joe Dante, Martin Short, Dennis Quaid. Where he and his future wife met."
+            },
+            {
+              "title": "Babette's Feast",
+              "year": 1987,
+              "category": "Wildcard",
+              "note": "The foreign-film Oscar winner that year, picked over Barfly."
+            }
+          ]
+        },
+        {
+          "host": "Quentin Tarantino",
+          "picks": [
+            {
+              "title": "Evil Dead II",
+              "year": 1987,
+              "category": "Horror / Exploitation",
+              "note": "One of his four \"real\" picks for the year; compares its impact to Godard's Breathless."
+            },
+            {
+              "title": "Three O'Clock High",
+              "year": 1987,
+              "category": "Comedy",
+              "note": "Phil Joanou's directorial debut; a flop at the time that he still calls one of the great directorial debuts he'd ever seen."
+            },
+            {
+              "title": "Wall Street",
+              "year": 1987,
+              "category": "Oscar Nominee",
+              "note": "Oliver Stone, Michael Douglas's Best Actor win; ranks it behind JFK among Stone's films."
+            },
+            {
+              "title": "China Girl",
+              "year": 1987,
+              "category": "Drama / Action",
+              "note": "Abel Ferrara's Chinatown-set West Side Story riff, with James Russo."
+            },
+            {
+              "title": "The Secret of My Success",
+              "year": 1987,
+              "category": "Blockbuster",
+              "note": "Michael J. Fox's first movie after Back to the Future; picked partly for editor Paul Hirsch."
+            },
+            {
+              "title": "Crazy Love",
+              "year": 1987,
+              "category": "Wildcard",
+              "note": "Dominique Deruddere's Bukowski anthology film, referred to on the show by its US release title, Love Is a Dog from Hell."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Raising Arizona",
+              "year": 1987,
+              "category": "Comedy",
+              "note": "The Coen Brothers; the Nicolas Cage monologue over Carter Burwell's score. Tarantino says it would've been his own first pick, but let Chris have it."
+            },
+            {
+              "title": "Lethal Weapon",
+              "year": 1987,
+              "category": "Drama / Action",
+              "note": "Mel Gibson and Danny Glover; a sentimental pick from when he started watching \"quasi-adult\" movies."
+            },
+            {
+              "title": "Empire of the Sun",
+              "year": 1987,
+              "category": "Oscar Nominee",
+              "note": "Spielberg; Christian Bale's performance and John Malkovich."
+            },
+            {
+              "title": "Prince of Darkness",
+              "year": 1987,
+              "category": "Horror / Exploitation",
+              "note": "John Carpenter's quantum-physics horror movie, made alongside They Live."
+            },
+            {
+              "title": "The Untouchables",
+              "year": 1987,
+              "category": "Blockbuster",
+              "note": "De Palma, fresh off a Rewatchables rewatch; the Ennio Morricone opening credits."
+            },
+            {
+              "title": "Straight to Hell",
+              "year": 1987,
+              "category": "Wildcard",
+              "note": "Alex Cox's punk Western with Joe Strummer, shot by Tom Richmond (later Tarantino's Killing Zoe DP)."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Fatal Attraction",
+              "year": 1987,
+              "category": "Blockbuster",
+              "note": "Adrian Lyne; the group debates and rejects putting it in horror instead."
+            },
+            {
+              "title": "Broadcast News",
+              "year": 1987,
+              "category": "Drama / Action",
+              "note": "James L. Brooks; Holly Hunter, William Hurt, Albert Brooks."
+            },
+            {
+              "title": "Moonstruck",
+              "year": 1987,
+              "category": "Oscar Nominee",
+              "note": "Cher and Nicolas Cage; argues it predates the modern rom-com template set later by When Harry Met Sally."
+            },
+            {
+              "title": "The Lost Boys",
+              "year": 1987,
+              "category": "Horror / Exploitation",
+              "note": "Joel Schumacher; Kiefer Sutherland, Jason Patric."
+            },
+            {
+              "title": "Baby Boom",
+              "year": 1987,
+              "category": "Comedy",
+              "note": "Written by Nancy Meyers; Diane Keaton."
+            },
+            {
+              "title": "Dirty Dancing",
+              "year": 1987,
+              "category": "Wildcard",
+              "note": "Patrick Swayze and Jennifer Grey; also would have been her Oscar-nominee backup pick."
+            }
+          ]
+        },
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Full Metal Jacket",
+              "year": 1987,
+              "category": "Drama / Action",
+              "note": "Kubrick; the first new Kubrick film he saw on opening night having already known his work."
+            },
+            {
+              "title": "Predator",
+              "year": 1987,
+              "category": "Blockbuster",
+              "note": "A movie closely tied to Chris Ryan; picked partly to needle him."
+            },
+            {
+              "title": "The Princess Bride",
+              "year": 1987,
+              "category": "Oscar Nominee",
+              "note": "Rob Reiner, from William Goldman's script; Andre the Giant, Mandy Patinkin."
+            },
+            {
+              "title": "Near Dark",
+              "year": 1987,
+              "category": "Horror / Exploitation",
+              "note": "Kathryn Bigelow's vampire film with Bill Paxton; the one pick that genuinely stings Tarantino to have lost."
+            },
+            {
+              "title": "Spaceballs",
+              "year": 1987,
+              "category": "Comedy",
+              "note": "Mel Brooks; picked over Withnail and I."
+            },
+            {
+              "title": "Prince: Sign 'o' the Times",
+              "year": 1987,
+              "category": "Wildcard",
+              "note": "Prince's concert film, made to prop up a lagging album."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Can't Buy Me Love",
+        "Less Than Zero",
+        "No Way Out",
+        "Matewan",
+        "Extreme Prejudice",
+        "Hello Mary Lou: Prom Night II",
+        "The Garbage Pail Kids Movie",
+        "Nadine",
+        "Ishtar",
+        "Sammy and Rosie Get Laid",
+        "The Stepfather",
+        "White of the Eye",
+        "Walker",
+        "A Better Tomorrow II"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Superman IV: The Quest for Peace",
+        "Planes, Trains and Automobiles",
+        "Outrageous Fortune",
+        "3 Men and a Baby",
+        "The Great Outdoors",
+        "The Living Daylights",
+        "Dragnet",
+        "The Last Emperor",
+        "My Life as a Dog"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Miami Vice",
+      "Crime Story",
+      "The Gladiator"
+    ],
+    "Ads": [
+      "FIFA World Cup Launch Edition",
+      "Boar's Head",
+      "FanDuel",
+      "White Claw",
+      "American Express Business Cash"
+    ],
+    "Podcasts": [
+      "Last Song Standing"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Stepfather": 25155
+  },
+  "tmdb": {
+    "Robocop": {
+      "id": 5548,
+      "poster": "/esmAU0fCO28FbS6bUBKLAzJrohZ.jpg",
+      "title": "RoboCop",
+      "year": 1987
+    },
+    "Hope and Glory": {
+      "id": 32054,
+      "poster": "/4xE9oW222uiaJwMWqAdGQw4puOX.jpg",
+      "title": "Hope and Glory",
+      "year": 1987
+    },
+    "River's Edge": {
+      "id": 21309,
+      "poster": "/bT68aKa9d7zDF7Z8MaskbWBRqzb.jpg",
+      "title": "River's Edge",
+      "year": 1986
+    },
+    "Hellraiser": {
+      "id": 9003,
+      "poster": "/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg",
+      "title": "Hellraiser",
+      "year": 1987
+    },
+    "Innerspace": {
+      "id": 2614,
+      "poster": "/A4azclZQjqeQxXvcok3rdUmuq8a.jpg",
+      "title": "Innerspace",
+      "year": 1987
+    },
+    "Babette's Feast": {
+      "id": 11832,
+      "poster": "/3ibptSbnAHd0SUBnOKapNZQBpCl.jpg",
+      "title": "Babette's Feast",
+      "year": 1987
+    },
+    "Evil Dead II": {
+      "id": 765,
+      "poster": "/4zqCKJVHUolGs6C5AZwAZqLWixW.jpg",
+      "title": "Evil Dead II",
+      "year": 1987
+    },
+    "Three O'Clock High": {
+      "id": 13339,
+      "poster": "/8IKEBJdaFWVBxPmsmUx5eICRwKf.jpg",
+      "title": "Three O'Clock High",
+      "year": 1987
+    },
+    "Wall Street": {
+      "id": 10673,
+      "poster": "/2tQYq9ntzn2dEwDIGLBSipYPenv.jpg",
+      "title": "Wall Street",
+      "year": 1987
+    },
+    "China Girl": {
+      "id": 47212,
+      "poster": "/x0VilySeyfLX3HSobjWv3CXxvCp.jpg",
+      "title": "China Girl",
+      "year": 1987
+    },
+    "The Secret of My Success": {
+      "id": 10021,
+      "poster": "/7UizUgCGt2Vx48m3v2bOUEt51b2.jpg",
+      "title": "The Secret of My Success",
+      "year": 1987
+    },
+    "Crazy Love": {
+      "id": 53741,
+      "poster": "/ar9PMY3jJb9g7Ql2j0ynG3g3GH9.jpg",
+      "title": "Crazy Love",
+      "year": 1987
+    },
+    "Raising Arizona": {
+      "id": 378,
+      "poster": "/niKyjOqiB4XVl0BqgKTHIlHOCeF.jpg",
+      "title": "Raising Arizona",
+      "year": 1987
+    },
+    "Lethal Weapon": {
+      "id": 941,
+      "poster": "/fTq4ThIP3pQTYR9eDepsbDHqdcs.jpg",
+      "title": "Lethal Weapon",
+      "year": 1987
+    },
+    "Empire of the Sun": {
+      "id": 10110,
+      "poster": "/gEaCzjwHoPgyQFcwHql7o5YLHAU.jpg",
+      "title": "Empire of the Sun",
+      "year": 1987
+    },
+    "Prince of Darkness": {
+      "id": 8852,
+      "poster": "/jjcAOhtGuX4p8XvlVn1WXUT1jWi.jpg",
+      "title": "Prince of Darkness",
+      "year": 1987
+    },
+    "The Untouchables": {
+      "id": 117,
+      "poster": "/tPq0R4jTO4Ey8ZspFaWK9wGA4Ls.jpg",
+      "title": "The Untouchables",
+      "year": 1987
+    },
+    "Straight to Hell": {
+      "id": 9698,
+      "poster": "/n024xDQXXjtabakNYdRtRKCyvEd.jpg",
+      "title": "Straight to Hell",
+      "year": 1987
+    },
+    "Fatal Attraction": {
+      "id": 10998,
+      "poster": "/vjB9XwJKnYqFKKjhWcE6WpAf5Ki.jpg",
+      "title": "Fatal Attraction",
+      "year": 1987
+    },
+    "Broadcast News": {
+      "id": 12626,
+      "poster": "/kQNR1Lc0qAF5xuBySpDn481KVjb.jpg",
+      "title": "Broadcast News",
+      "year": 1987
+    },
+    "Moonstruck": {
+      "id": 2039,
+      "poster": "/2mnVWpvsHEHHnfvLn1NXYVvBGl5.jpg",
+      "title": "Moonstruck",
+      "year": 1987
+    },
+    "The Lost Boys": {
+      "id": 1547,
+      "poster": "/nH1lvyQvfbL5GKScTtT6zkIvDEn.jpg",
+      "title": "The Lost Boys",
+      "year": 1987
+    },
+    "Baby Boom": {
+      "id": 11215,
+      "poster": "/4Jy5U4HITJWUDYJc1NGgJLIjbWz.jpg",
+      "title": "Baby Boom",
+      "year": 1987
+    },
+    "Dirty Dancing": {
+      "id": 88,
+      "poster": "/9Jw6jys7q9gjzVX5zm1z0gC8gY9.jpg",
+      "title": "Dirty Dancing",
+      "year": 1987
+    },
+    "Full Metal Jacket": {
+      "id": 600,
+      "poster": "/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+      "title": "Full Metal Jacket",
+      "year": 1987
+    },
+    "Predator": {
+      "id": 106,
+      "poster": "/aN3cdjIK70KGmD84et8MMblU87Q.jpg",
+      "title": "Predator",
+      "year": 1987
+    },
+    "The Princess Bride": {
+      "id": 2493,
+      "poster": "/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+      "title": "The Princess Bride",
+      "year": 1987
+    },
+    "Near Dark": {
+      "id": 11879,
+      "poster": "/hVhFNn3IQxxARvnpLIKMx8ZfTtG.jpg",
+      "title": "Near Dark",
+      "year": 1987
+    },
+    "Spaceballs": {
+      "id": 957,
+      "poster": "/aHNeKtkNnyQcietzi2cgiYL8sC9.jpg",
+      "title": "Spaceballs",
+      "year": 1987
+    },
+    "Prince: Sign 'o' the Times": {
+      "id": 38178,
+      "poster": "/zk0C7KOk30M2Awr3vecEUKB2JPP.jpg",
+      "title": "Prince: Sign 'o' the Times",
+      "year": 1987
+    },
+    "Can't Buy Me Love": {
+      "id": 12919,
+      "poster": "/qK3yiqo84U3twOOKOx81c407Hpr.jpg",
+      "title": "Can't Buy Me Love",
+      "year": 1987
+    },
+    "Less Than Zero": {
+      "id": 13703,
+      "poster": "/8pFMuyJJwJLqOJ3Ljq3M5BFGbTF.jpg",
+      "title": "Less Than Zero",
+      "year": 1987
+    },
+    "No Way Out": {
+      "id": 10083,
+      "poster": "/93CzsBvRhg035yvQosRtSsTL19v.jpg",
+      "title": "No Way Out",
+      "year": 1987
+    },
+    "Matewan": {
+      "id": 24276,
+      "poster": "/jMYqoM60clzYIQriM1wYXXBjU3O.jpg",
+      "title": "Matewan",
+      "year": 1987
+    },
+    "Extreme Prejudice": {
+      "id": 20287,
+      "poster": "/fqN3duCLrjcsF8dfiP1XCCtlWZC.jpg",
+      "title": "Extreme Prejudice",
+      "year": 1987
+    },
+    "Hello Mary Lou: Prom Night II": {
+      "id": 39929,
+      "poster": "/9mBMhOieTGqnsDpAW3AKQ3M7eDe.jpg",
+      "title": "Hello Mary Lou: Prom Night II",
+      "year": 1987
+    },
+    "The Garbage Pail Kids Movie": {
+      "id": 14443,
+      "poster": "/v6PqKUptGhQjTTgqN2s2uPdNW0h.jpg",
+      "title": "The Garbage Pail Kids Movie",
+      "year": 1987
+    },
+    "Nadine": {
+      "id": 61178,
+      "poster": "/mim8TLLXmD3ui03f9jVmOXGACv8.jpg",
+      "title": "Nadine",
+      "year": 1987
+    },
+    "Ishtar": {
+      "id": 12704,
+      "poster": "/2n6cDGd84I1KvCeYlTju7MBC9sN.jpg",
+      "title": "Ishtar",
+      "year": 1987
+    },
+    "Sammy and Rosie Get Laid": {
+      "id": 42013,
+      "poster": "/1qqhHVnrIyQAIpJn9H4yqtAoTw1.jpg",
+      "title": "Sammy and Rosie Get Laid",
+      "year": 1987
+    },
+    "The Stepfather": {
+      "id": 25155,
+      "poster": "/r5CKg3VJQjYvSWTRojK2tE7LpM0.jpg",
+      "title": "The Stepfather",
+      "year": 1987
+    },
+    "White of the Eye": {
+      "id": 33592,
+      "poster": "/aLFoGmQpknOvcyx4imCP7Fuvoip.jpg",
+      "title": "White of the Eye",
+      "year": 1987
+    },
+    "Walker": {
+      "id": 28448,
+      "poster": "/1C0oYAeNjIBLuj7CVWz3HTIUdeP.jpg",
+      "title": "Walker",
+      "year": 1987
+    },
+    "A Better Tomorrow II": {
+      "id": 18305,
+      "poster": "/e8352Dw1SeM4rNAGYDZVkQ0aenz.jpg",
+      "title": "A Better Tomorrow II",
+      "year": 1987
+    },
+    "Superman IV: The Quest for Peace": {
+      "id": 11411,
+      "poster": "/nJFBeU1oKIaIoLVyQYUeB36DW55.jpg",
+      "title": "Superman IV: The Quest for Peace",
+      "year": 1987
+    },
+    "Planes, Trains and Automobiles": {
+      "id": 2609,
+      "poster": "/fwi2cET87xArJCb8MdbWq2BZO3n.jpg",
+      "title": "Planes, Trains and Automobiles",
+      "year": 1987
+    },
+    "Outrageous Fortune": {
+      "id": 20242,
+      "poster": "/bZdQaa9HymxGfjBo3mFhhpWXVeG.jpg",
+      "title": "Outrageous Fortune",
+      "year": 1987
+    },
+    "3 Men and a Baby": {
+      "id": 12154,
+      "poster": "/oYetboAljWR2N5A7MU3i63DvUtd.jpg",
+      "title": "3 Men and a Baby",
+      "year": 1987
+    },
+    "The Great Outdoors": {
+      "id": 2617,
+      "poster": "/zxIoPZiqKOxrWvieumpxA6bOgkt.jpg",
+      "title": "The Great Outdoors",
+      "year": 1988
+    },
+    "The Living Daylights": {
+      "id": 708,
+      "poster": "/1oRlmWX9hewpn2B44wawBjHd7dx.jpg",
+      "title": "The Living Daylights",
+      "year": 1987
+    },
+    "Dragnet": {
+      "id": 10023,
+      "poster": "/77H17YDeHoJCHebpfGF1rY3Dfof.jpg",
+      "title": "Dragnet",
+      "year": 1987
+    },
+    "The Last Emperor": {
+      "id": 746,
+      "poster": "/7TILJhdeJAaEyDiwvJZMo9SQBoe.jpg",
+      "title": "The Last Emperor",
+      "year": 1987
+    },
+    "My Life as a Dog": {
+      "id": 8816,
+      "poster": "/eVg9IsX2HtR1BNYH0UAhF4JPHi7.jpg",
+      "title": "My Life as a Dog",
+      "year": 1985
+    }
+  }
+}

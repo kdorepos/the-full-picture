@@ -1,0 +1,98 @@
+{
+  "slug": "jenny-slate-gillian-robespierre-and-elisabeth-holm-on-landli",
+  "title": "Jenny Slate, Gillian Robespierre, and Elisabeth Holm on 'Landline'",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2017-07-21",
+  "runtimeMin": 38,
+  "format": "Sean and Amanda set up 'Landline', then Sean sits down with Jenny Slate, director Gillian Robespierre, and writer-producer Elisabeth Holm to talk about the 1995-set family comedy and its 'Obvious Child' lineage.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Setting up 'Landline'",
+      "note": "Sean Fennessey and Amanda Dobbins",
+      "films": [
+        {
+          "title": "Landline",
+          "year": 2017,
+          "note": "A bigger canvas than 'Obvious Child': a whole family, set in 1995, more homage to the domestic drama than reinvention of it. Amanda liked it but couldn't shake how personal the divorce material hit."
+        },
+        {
+          "title": "Obvious Child",
+          "year": 2014,
+          "note": "Robespierre's debut and Slate's first big post-SNL role: a Brooklyn woman has a one-night stand, gets pregnant, and decides on an abortion. A rom-com that stayed messy and grounded rather than glossy."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Jenny Slate, Gillian Robespierre, and Elisabeth Holm on",
+      "films": [
+        {
+          "title": "Landline",
+          "year": 2017,
+          "note": "Loosely drawn from Robespierre's and Holm's own 90s New York childhoods and their parents' divorces. Robespierre couldn't clear the Fugazi song 'Waiting Room' she wanted, so an Archers of Loaf track stands in. Slate was going through her own divorce during the shoot."
+        },
+        {
+          "title": "Obvious Child",
+          "year": 2014,
+          "note": "Shot in 18 days on nights and weekends while Robespierre and Holm kept day jobs; sold to A24 out of Sundance. Slate on how it let her finally be seen as an actress, not just a comedian."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Spanglish",
+        "Spider-Man: Homecoming"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Saturday Night Live",
+      "Girls",
+      "House of Cards",
+      "Twin Peaks",
+      "The Sopranos",
+      "Casual",
+      "Crashing"
+    ],
+    "Shorts / web series": [
+      "Marcel the Shell with Shoes On"
+    ]
+  },
+  "tmdb": {
+    "Landline": {
+      "id": 419459,
+      "poster": "/p7RVsyi67S95RyNJjX99E1MaOsA.jpg",
+      "title": "Landline",
+      "year": 2017
+    },
+    "Obvious Child": {
+      "id": 248774,
+      "poster": "/vAVuQuboHiqc6ClsFeWQXBHJkOX.jpg",
+      "title": "Obvious Child",
+      "year": 2014
+    },
+    "Spanglish": {
+      "id": 2539,
+      "poster": "/x3OTaBvjqzhRL53Q39fOoIYqxyO.jpg",
+      "title": "Spanglish",
+      "year": 2004
+    },
+    "Spider-Man: Homecoming": {
+      "id": 315635,
+      "poster": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+      "title": "Spider-Man: Homecoming",
+      "year": 2017
+    }
+  }
+}

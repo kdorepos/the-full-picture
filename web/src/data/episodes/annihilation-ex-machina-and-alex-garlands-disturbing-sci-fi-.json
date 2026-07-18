@@ -1,0 +1,171 @@
+{
+  "slug": "annihilation-ex-machina-and-alex-garlands-disturbing-sci-fi-",
+  "title": "'Annihilation,' 'Ex Machina,' and Alex Garland's Disturbing Sci-Fi Vision",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2018-02-23",
+  "runtimeMin": 34,
+  "format": "Sean Fennessey sits down with writer-director Alex Garland to talk through Annihilation, Ex Machina, and the screenwriting years before them.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Alex Garland on",
+      "films": [
+        {
+          "title": "Annihilation",
+          "year": 2018,
+          "note": "The new one, a $40M adaptation of Jeff VanderMeer's novel. Garland calls it a metaphysical, hallucinogenic atmosphere piece he built around self-destruction, and told VanderMeer up front he couldn't do a faithful version."
+        },
+        {
+          "title": "Ex Machina",
+          "year": 2015,
+          "note": "His directing debut, described here as a Swiss watch of a film: four people, one house, $15M. A surprise hit that Garland says looked like it would lose money before it didn't."
+        },
+        {
+          "title": "Dredd",
+          "year": 2012,
+          "note": "The drug-fueled, ultra-violent one before Ex Machina. The only time Garland tried a franchise, and he was relieved when the sequel never happened."
+        },
+        {
+          "title": "Never Let Me Go",
+          "year": 2010,
+          "note": "The small, sad, literary adaptation he wrote before Dredd, part of a run he says lost money three films in a row."
+        },
+        {
+          "title": "Sunshine",
+          "year": 2007,
+          "note": "One of the back-to-back films Garland lists as box-office losses, alongside Never Let Me Go and Dredd."
+        },
+        {
+          "title": "28 Days Later",
+          "year": 2002,
+          "note": "The first film he wrote, a reaction against The Beach. His schooling in filmmaking came from working with director Danny Boyle here."
+        },
+        {
+          "title": "The Beach",
+          "year": 2000,
+          "note": "The adaptation of his first novel, which he felt was too soft. 28 Days Later was his push toward more aggression and punk attitude."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Reference points while making Annihilation",
+      "films": [
+        "Stalker",
+        "Apocalypse Now",
+        "Southern Comfort"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Léon: The Professional",
+        "Moonlight",
+        "Transformers",
+        "Get Out"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Handmaid's Tale"
+    ],
+    "Ads": [
+      "The Bachelor",
+      "Bachelor Party (podcast)"
+    ]
+  },
+  "tmdb": {
+    "Annihilation": {
+      "id": 300668,
+      "poster": "/4YRplSk6BhH6PRuE9gfyw9byUJ6.jpg",
+      "title": "Annihilation",
+      "year": 2018
+    },
+    "Ex Machina": {
+      "id": 264660,
+      "poster": "/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
+      "title": "Ex Machina",
+      "year": 2015
+    },
+    "Dredd": {
+      "id": 49049,
+      "poster": "/wLx65gtGVnUFCxceHWGszcruCZj.jpg",
+      "title": "Dredd",
+      "year": 2012
+    },
+    "Never Let Me Go": {
+      "id": 42188,
+      "poster": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
+      "title": "Never Let Me Go",
+      "year": 2010
+    },
+    "Sunshine": {
+      "id": 1272,
+      "poster": "/oKGGeJ8qvm0UmClz43VJ31fzPP7.jpg",
+      "title": "Sunshine",
+      "year": 2007
+    },
+    "28 Days Later": {
+      "id": 170,
+      "poster": "/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
+      "title": "28 Days Later",
+      "year": 2002
+    },
+    "The Beach": {
+      "id": 1907,
+      "poster": "/4y7LxD8TSi6AtsM2xSYqUm1gu7u.jpg",
+      "title": "The Beach",
+      "year": 2000
+    },
+    "Stalker": {
+      "id": 1398,
+      "poster": "/1qhOyf5C4s9ZdvY8d5JDx9DFMeT.jpg",
+      "title": "Stalker",
+      "year": 1979
+    },
+    "Apocalypse Now": {
+      "id": 28,
+      "poster": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "title": "Apocalypse Now",
+      "year": 1979
+    },
+    "Southern Comfort": {
+      "id": 12528,
+      "poster": "/nBPOcxiqc0PsG7Hz58JxSUN5BF0.jpg",
+      "title": "Southern Comfort",
+      "year": 1981
+    },
+    "Léon: The Professional": {
+      "id": 101,
+      "poster": "/bxB2q91nKYp8JNzqE7t7TWBVupB.jpg",
+      "title": "Léon: The Professional",
+      "year": 1994
+    },
+    "Moonlight": {
+      "id": 376867,
+      "poster": "/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+      "title": "Moonlight",
+      "year": 2016
+    },
+    "Transformers": {
+      "id": 1858,
+      "poster": "/4N4sipl8T72tNE4earcctQa2Kw2.jpg",
+      "title": "Transformers",
+      "year": 2007
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    }
+  },
+  "spotifyEpisodeId": "1lFkBezAakYSX2KctwUfAz"
+}

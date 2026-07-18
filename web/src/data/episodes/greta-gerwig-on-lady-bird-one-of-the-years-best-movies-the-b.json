@@ -1,0 +1,118 @@
+{
+  "slug": "greta-gerwig-on-lady-bird-one-of-the-years-best-movies-the-b",
+  "title": "Greta Gerwig on ‘Lady Bird,’ One of the Year’s Best Movies | The Big Picture (Ep. 34)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2017-11-13",
+  "runtimeMin": 30,
+  "format": "Greta Gerwig talks about her solo writing-directing debut, why she set it in 2002 Sacramento, casting from the theater, and reviving Dave Matthews.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Greta Gerwig on",
+      "films": [
+        {
+          "title": "Lady Bird",
+          "year": 2017,
+          "note": "Her debut as sole writer-director; a Sacramento coming-of-age story she began drafting in 2013 and financed off a finished script, with Scott Rudin and Eli Bush coming aboard without asking for changes."
+        },
+        {
+          "title": "Frances Ha",
+          "year": 2013,
+          "note": "Co-written with Noah Baumbach; she cites it as proof she can build true-feeling detail from a life she hasn't lived."
+        },
+        {
+          "title": "Mistress America",
+          "year": 2015,
+          "note": "Another Baumbach co-write; long scripting time and no on-set improvisation."
+        },
+        {
+          "title": "Manchester by the Sea",
+          "year": 2016,
+          "note": "Where she'd seen Lucas Hedges before handing him the script."
+        },
+        {
+          "title": "The Shape of Water",
+          "year": 2017,
+          "note": "Her pick for the last great film she'd seen, watched the day before; a showcase for Sally Hawkins."
+        },
+        {
+          "title": "Vera Drake",
+          "year": 2004,
+          "note": "The Mike Leigh film where she first noticed Sally Hawkins."
+        },
+        {
+          "title": "Happy-Go-Lucky",
+          "year": 2008,
+          "note": "Another Leigh/Hawkins performance she brings up as evidence Hawkins is great every time."
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "Theater": [
+      "The Crucible"
+    ],
+    "Music": [
+      "Crash Into Me",
+      "One Sweet World",
+      "Wowee Zowee"
+    ],
+    "Books": [
+      "Moby-Dick",
+      "Billy Budd"
+    ],
+    "Ads": [
+      "Ben & Jerry's",
+      "Coca-Cola"
+    ]
+  },
+  "tmdb": {
+    "Lady Bird": {
+      "id": 391713,
+      "poster": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+      "title": "Lady Bird",
+      "year": 2017
+    },
+    "Frances Ha": {
+      "id": 121986,
+      "poster": "/jrq1NoKvsxWCcffVOjegiYwloFN.jpg",
+      "title": "Frances Ha",
+      "year": 2013
+    },
+    "Mistress America": {
+      "id": 309245,
+      "poster": "/w0V4M9nY9bjsoTKdaAYzL9gRpWY.jpg",
+      "title": "Mistress America",
+      "year": 2015
+    },
+    "Manchester by the Sea": {
+      "id": 334541,
+      "poster": "/o9VXYOuaJxCEKOxbA86xqtwmqYn.jpg",
+      "title": "Manchester by the Sea",
+      "year": 2016
+    },
+    "The Shape of Water": {
+      "id": 399055,
+      "poster": "/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg",
+      "title": "The Shape of Water",
+      "year": 2017
+    },
+    "Vera Drake": {
+      "id": 11109,
+      "poster": "/556fElboCLlEmP8UULaYosU45Bc.jpg",
+      "title": "Vera Drake",
+      "year": 2004
+    },
+    "Happy-Go-Lucky": {
+      "id": 10503,
+      "poster": "/sO9ZZsqDfreFxiCPrUuBYeqsAHi.jpg",
+      "title": "Happy-Go-Lucky",
+      "year": 2008
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "slug": "the-top-10-junk-sci-fi-movies-moonfall-and-michael-manns-fer",
+  "title": "The Top 10 Junk Sci-Fi Movies, ‘Moonfall,’ and Michael Mann’s ‘Ferrari’",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": ["Sean Fennessy", "Chris Ryan"],
+  "published": "2022-02-11",
+  "runtimeMin": 79,
+  "format": "A sequel to their 2020 garbage crime episode: Sean and Chris Ryan argue out the rules of junk sci-fi, then each induct five movies into a ten-film hall of fame, with quick stops for the Oscar nominations, Michael Mann's long-gestating 'Ferrari,' and capsule reviews of 'Moonfall' and 'Kimi.'",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The Oscar Nominations",
+      "note": "on the eve of the 94th Academy Awards",
+      "films": [
+        { "title": "Don't Look Up", "year": 2021, "note": "the Kimmel comparison point — overwrought satire, not without laughs" },
+        { "title": "Spider-Man: No Way Home", "year": 2021, "note": "left off the Best Picture list; the hypothetical snub they keep circling" },
+        { "title": "The Power of the Dog", "year": 2021, "note": "the grim, serious front-runner" },
+        { "title": "Drive My Car", "year": 2021, "note": "a Best Picture nominee neither host predicted" },
+        { "title": "The Worst Person in the World", "year": 2021, "note": "hoping the nomination sends people to see it" },
+        { "title": "CODA", "year": 2021, "note": "Sean hasn't seen it yet, but the nominations made him want to" },
+        { "title": "Belfast", "year": 2021, "note": "Branagh's nomination felt inevitable from day one" }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Michael Mann's 'Ferrari'",
+      "note": "Adam Driver, Penélope Cruz, and Shailene Woodley join a 20-years-gestating passion project",
+      "films": [
+        { "title": "Ferrari", "year": 2023, "note": "Driver plays Enzo Ferrari; Mann's long-delayed dream project finally has a cast" },
+        { "title": "House of Gucci", "year": 2021, "note": "Driver stayed in Italy — and in the accent — straight off this one" },
+        { "title": "Ford v Ferrari", "year": 2019, "note": "once a Michael Mann project before it went to James Mangold" },
+        { "title": "Heat", "year": 1995, "note": "the movie they say their whole garbage-crime bit flows from" }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "'Moonfall' and 'Kimi'",
+      "note": "Emmerich's disaster epic vs. Soderbergh's techno-anxiety thriller",
+      "films": [
+        { "title": "Moonfall", "year": 2022, "note": "bad, per Sean — but a great VOD rental" },
+        { "title": "Kimi", "year": 2022, "note": "minor Soderbergh, but a fun genre dip; a strong Zoë Kravitz performance" }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "What Counts as Junk Sci-Fi",
+      "note": "the ground rules, argued out before the list starts",
+      "films": [
+        { "title": "Gattaca", "year": 1997, "note": "Andrew Niccol's debut — too highfalutin to be garbage" },
+        { "title": "The Truman Show", "year": 1998, "note": "Niccol wrote it" },
+        { "title": "S1m0ne", "year": 2002, "note": "Niccol's Al Pacino robot movie — called \"Simone\" on air" },
+        { "title": "Lord of War", "year": 2005, "note": "Niccol again, not sci-fi" },
+        { "title": "In Time", "year": 2011, "note": "Niccol's time-as-currency movie — right on the edge of garbage" },
+        { "title": "Looper", "year": 2012, "note": "too much of an indie-drama sensibility to be garbage" },
+        { "title": "Chronicle", "year": 2012, "note": "same verdict, different director — Josh Trank" },
+        { "title": "Midnight Special", "year": 2016, "note": "Jeff Nichols — too philosophically driven" },
+        { "title": "The Guest", "year": 2014, "note": "John Carpenter homage, but too A24-cool to be garbage" },
+        { "title": "Network", "year": 1976, "note": "raised as a satire test case — ruled a masterpiece, not garbage" },
+        { "title": "Dr. Strangelove", "year": 1964, "note": "same conversation, same verdict" },
+        { "title": "Alien³", "year": 1992, "note": "\"industrial goth metal sci-fi,\" not garbage" },
+        { "title": "Alien Resurrection", "year": 1997, "note": "gloopy, junky, neon-green production design — this one's garbage" },
+        { "title": "Alien: Covenant", "year": 2017, "note": "has garbage elements but gets pulled into the bigger mythology" },
+        { "title": "Sunshine", "year": 2007, "note": "beautiful sci-fi for the first half, garbage once the demon shows up" },
+        { "title": "Mission to Mars", "year": 2000, "note": "junky, but sincere about the search for life — not garbage" },
+        { "title": "Red Planet", "year": 2000, "note": "junk, unlike its 2000 Mars-movie twin" },
+        { "title": "The Matrix", "year": 1999, "note": "the test case for how much \"terrestrial\" sci-fi even counts" },
+        { "title": "Blade Runner", "year": 1982, "note": "cited as future film noir, not garbage" },
+        { "title": "Strange Days", "year": 1995, "note": "same lineage as Blade Runner" },
+        { "title": "I, Robot", "year": 2004, "note": "an Alex Proyas credit up for debate" },
+        { "title": "The Crow", "year": 1994, "note": "same director, same question mark" },
+        { "title": "Dark City", "year": 1998, "note": "probably qualifies, despite the Ebert rave" },
+        { "title": "Knowing", "year": 2009, "note": "same Proyas question mark" },
+        { "title": "Gods of Egypt", "year": 2016, "note": "same" },
+        { "title": "Starship Troopers", "year": 1997, "note": "\"the most important film in this conversation\" — ruled not garbage because the fascism satire was the intent, not a later reading" },
+        { "title": "Total Recall", "year": 1990, "note": "Verhoeven — an out-and-out classic, not garbage" },
+        { "title": "RoboCop", "year": 1987, "note": "same Verhoeven defense" },
+        { "title": "The Running Man", "year": 1987, "note": "allowed in — future dystopia is enough, even light on tech" },
+        { "title": "Aliens", "year": 1986, "note": "the source of the Paul Reiser corporate-suit archetype they keep referencing" },
+        { "title": "Predator", "year": 1987, "note": "cited while laying out the genre's beats" },
+        { "title": "Predator 2", "year": 1990, "note": "preferred over the original as junk sci-fi" },
+        { "title": "The Core", "year": 2003, "note": "the platonic ideal of the \"the\" + one noun title" },
+        { "title": "The Cell", "year": 2000, "note": "wanted to be the new Alien, wasn't" },
+        { "title": "The Island", "year": 2005, "note": "too good for garbage sci-fi, per both hosts" },
+        { "title": "The Arrival", "year": 1996, "note": "David Twohy, Charlie Sheen — the garbage one, not to be confused with Villeneuve's film" },
+        { "title": "Arrival", "year": 2016, "note": "explicitly not garbage — the film they're distinguishing The Arrival from" },
+        { "title": "The Fifth Element", "year": 1997, "note": "not garbage, but the root of a whole vaudevillian strand of '90s sci-fi costume design" },
+        { "title": "Battlefield Earth", "year": 2000, "note": "widely derided source material, cited as a genre hallmark" },
+        { "title": "The Butterfly Effect", "year": 2004, "note": "the titled-after-its-own-phenomenon example" }
+      ]
+    },
+    {
+      "kind": "list",
+      "heading": "The Junk Sci-Fi Hall of Fame",
+      "note": "five picks each — Sean and Chris overlapped on only one",
+      "picks": [
+        { "title": "Event Horizon", "year": 1997, "by": "Sean Fennessy & Chris Ryan", "note": "the shared No. 1, \"the alpha and the omega\" — Sam Neill and Laurence Fishburne anchor a movie that turns fully feral two-thirds through" },
+        { "title": "Stargate", "year": 1994, "by": "Sean Fennessy", "note": "Kurt Russell and James Spader crack open a portal to another dimension; a $200M hit that's since been half-forgotten" },
+        { "title": "Ghosts of Mars", "year": 2001, "by": "Chris Ryan", "note": "Rio Bravo in space — Natasha Henstridge, Ice Cube, and Jason Statham fighting possessed Mars colonists" },
+        { "title": "Cube", "year": 1997, "by": "Sean Fennessy", "note": "six strangers wake up trapped in a deadly cube on a $350,000 budget" },
+        { "title": "Freejack", "year": 1992, "by": "Chris Ryan", "note": "Emilio Estevez's soul gets evicted by Anthony Hopkins in a dystopian near-future L.A." },
+        { "title": "Species", "year": 1995, "by": "Chris Ryan", "note": "Natasha Henstridge's alien-human hybrid, designed by H.R. Giger, hunting for a mate" },
+        { "title": "Underwater", "year": 2020, "by": "Sean Fennessy", "note": "Kristen Stewart does Sigourney Weaver eight miles under the ocean" },
+        { "title": "Congo", "year": 1995, "by": "Sean Fennessy", "note": "Michael Crichton's talking gorillas and a laser-beam shootout in the finale — Sean's favorite on the whole list" },
+        { "title": "Pandorum", "year": 2009, "by": "Chris Ryan", "note": "Dennis Quaid and Ben Foster wake from deep sleep with amnesia, then the aliens show up" }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "More Junk Sci-Fi",
+      "note": "closing honorable mentions",
+      "films": [
+        { "title": "Sphere", "year": 1998, "note": "another Crichton adaptation — Dustin Hoffman investigating a spacecraft at the bottom of the ocean" },
+        { "title": "Predators", "year": 2010, "note": "Adrien Brody, Topher Grace, Walton Goggins, and Mahershala Ali dropped on a planet to fight Predators" },
+        { "title": "Johnny Mnemonic", "year": 1995, "note": "a precursor to The Matrix, adapted from beloved source material into a mediocre movie" },
+        { "title": "Judge Dredd", "year": 1995, "note": "the Stallone version — could've been better" },
+        { "title": "Screamers", "year": 1995, "note": "Peter Weller vs. underground burrowing robots on a distant mining planet" },
+        { "title": "Timecop", "year": 1994, "note": "Van Damme's significant entry in the genre" },
+        { "title": "Planet of the Apes", "year": 2001, "note": "the Tim Burton version — \"more trash than sci-fi,\" and the one that counts here, unlike the original '60s/'70s films or the Matt Reeves trilogy" },
+        { "title": "Leviathan", "year": 1989, "note": "Peter Weller again — a monster at the bottom of the ocean; Chris's runner-up underwater pick" },
+        { "title": "Supernova", "year": 2000, "note": "Walter Hill's movie, recut by Francis Ford Coppola after a disastrous test screening" }
+      ]
+    }
+  ],
+  "referenced": [
+    { "group": "Genre origin points", "films": ["Star Wars", "Alien", "Battle Beyond the Stars"] },
+    { "group": "In passing", "films": ["Titanic"] },
+    { "group": "Roger Donaldson filmography, run down live", "films": ["No Way Out", "Cocktail", "Cadillac Man", "White Sands", "The Getaway", "Dante's Peak"] },
+    { "group": "Geoff Murphy filmography", "films": ["Young Guns II", "Under Siege 2: Dark Territory"] },
+    { "group": "Michael Crichton's other adaptations, mentioned in passing", "films": ["Jurassic Park", "The Andromeda Strain", "Westworld", "The Great Train Robbery"] },
+    { "group": "Kristen Stewart films mentioned", "films": ["Spencer", "Clouds of Sils Maria", "Personal Shopper", "Snow White and the Huntsman", "Happiest Season"] },
+    { "group": "William Eubank's other films", "films": ["The Signal", "Paranormal Activity: The Ghost Dimension"] },
+    { "group": "John Carpenter films ruled not garbage", "films": ["Big Trouble in Little China", "Starman", "Vampires"] },
+    { "group": "Vincenzo Natali's other films", "films": ["Cypher", "Nothing", "Splice"] },
+    { "group": "Roland Emmerich's other junk sci-fi", "films": ["Independence Day", "Universal Soldier", "The Day After Tomorrow"] },
+    { "group": "One-word titles, rattled off", "films": ["Jumper", "Daybreakers", "Rollerball", "Skyline", "Paycheck", "Lucy", "Push", "Mimic"] },
+    { "group": "Paul W.S. Anderson's other genre films", "films": ["Mortal Kombat", "Alien vs. Predator"] },
+    { "group": "Soderbergh's recent run, for comparison", "films": ["No Sudden Move", "The Laundromat", "High Flying Bird", "Let Them All Talk", "Unsane", "Side Effects", "The Girlfriend Experience"] }
+  ],
+  "excluded": {
+    "TV": ["Tokyo Vice", "1883"],
+    "Podcasts": ["Just Like Us"],
+    "Ads": ["Boar's Head", "FIFA World Cup Launch Edition", "Pepsi"]
+  }
+}

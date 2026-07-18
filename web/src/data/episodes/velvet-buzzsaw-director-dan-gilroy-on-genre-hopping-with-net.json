@@ -1,0 +1,156 @@
+{
+  "slug": "velvet-buzzsaw-director-dan-gilroy-on-genre-hopping-with-net",
+  "title": "‘Velvet Buzzsaw’ Director Dan Gilroy on Genre-Hopping with Netflix | Interview (Ep. 122)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2019-02-01",
+  "runtimeMin": 27,
+  "format": "Sean Fennessey talks to Dan Gilroy about mashing thriller, satire, and horror into Velvet Buzzsaw, making a movie for Netflix, and looking back at Nightcrawler and Roman J. Israel, Esq.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Dan Gilroy on",
+      "films": [
+        {
+          "title": "Velvet Buzzsaw",
+          "year": 2019,
+          "note": "His art-world satire-thriller-horror mashup, starring Jake Gyllenhaal, Rene Russo, John Malkovich, and Toni Collette."
+        },
+        {
+          "title": "Nightcrawler",
+          "year": 2014,
+          "note": "His directorial breakout, also with Gyllenhaal. He says the laughter it got from audiences taught him thrills and humor could work together."
+        },
+        {
+          "title": "Roman J. Israel, Esq.",
+          "year": 2017,
+          "note": "His second film, with Denzel Washington. He calls it underdiscussed and describes it as a story about “the burden of belief.”"
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Films he and his cinematographer studied while making Velvet Buzzsaw",
+      "films": [
+        "The Player",
+        "MASH",
+        "Nashville",
+        "Rosemary's Baby",
+        "The Exorcist",
+        "American Psycho"
+      ]
+    },
+    {
+      "group": "Also mentioned",
+      "films": [
+        "The Meyerowitz Stories (New and Selected)",
+        "Roma",
+        "The Price of Everything",
+        "Slumdog Millionaire",
+        "Bird Box"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Escape at Dannemora"
+    ],
+    "Unproduced": [
+      "Superman Lives"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Meyerowitz Stories (New and Selected)": 396398
+  },
+  "tmdb": {
+    "Velvet Buzzsaw": {
+      "id": 463684,
+      "poster": "/3rViQPcrWthMNecp5XnkKev6BzW.jpg",
+      "title": "Velvet Buzzsaw",
+      "year": 2019
+    },
+    "Nightcrawler": {
+      "id": 242582,
+      "poster": "/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
+      "title": "Nightcrawler",
+      "year": 2014
+    },
+    "Roman J. Israel, Esq.": {
+      "id": 413362,
+      "poster": "/epTCHVcyLkT8Aqt08Ki3PWC2sUh.jpg",
+      "title": "Roman J. Israel, Esq.",
+      "year": 2017
+    },
+    "The Player": {
+      "id": 10403,
+      "poster": "/tZ3kDut2dhFVGkWNEn9xoCHCNAx.jpg",
+      "title": "The Player",
+      "year": 1992
+    },
+    "MASH": {
+      "id": 651,
+      "poster": "/on8Q9LhtHYNhmITjUMpgOUkIG8o.jpg",
+      "title": "M*A*S*H",
+      "year": 1970
+    },
+    "Nashville": {
+      "id": 3121,
+      "poster": "/twl4ovyjb8muFKvZmcCDzPR0hy1.jpg",
+      "title": "Nashville",
+      "year": 1975
+    },
+    "Rosemary's Baby": {
+      "id": 805,
+      "poster": "/uYgvlHceRFjAFbsNeMInYcLZLUb.jpg",
+      "title": "Rosemary's Baby",
+      "year": 1968
+    },
+    "The Exorcist": {
+      "id": 9552,
+      "poster": "/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
+      "title": "The Exorcist",
+      "year": 1973
+    },
+    "American Psycho": {
+      "id": 1359,
+      "poster": "/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+      "title": "American Psycho",
+      "year": 2000
+    },
+    "The Meyerowitz Stories (New and Selected)": {
+      "id": 396398,
+      "poster": "/c9teDTgwxgnb7wnZjZo4oNcF80R.jpg",
+      "title": "The Meyerowitz Stories (New and Selected)",
+      "year": 2017
+    },
+    "Roma": {
+      "id": 426426,
+      "poster": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+      "title": "Roma",
+      "year": 2018
+    },
+    "The Price of Everything": {
+      "id": 489987,
+      "poster": "/uadzQutAibRCSuCN53laPmFJX7Z.jpg",
+      "title": "The Price of Everything",
+      "year": 2018
+    },
+    "Slumdog Millionaire": {
+      "id": 12405,
+      "poster": "/5leCCi7ZF0CawAfM5Qo2ECKPprc.jpg",
+      "title": "Slumdog Millionaire",
+      "year": 2008
+    },
+    "Bird Box": {
+      "id": 405774,
+      "poster": "/rGfGfgL2pEPCfhIvqHXieXFn7gp.jpg",
+      "title": "Bird Box",
+      "year": 2018
+    }
+  }
+}

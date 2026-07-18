@@ -1,0 +1,314 @@
+{
+  "slug": "spike-lee-s-da-5-bloods-the-most-important-movie-of-2020",
+  "title": "Spike Lee's 'Da 5 Bloods': The Most Important Movie of 2020",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Justin Charity"
+  ],
+  "published": "2020-06-12",
+  "runtimeMin": 87,
+  "format": "Sean Fennessey and Amanda Dobbins are joined by Justin Charity to talk through Spike Lee's career and favorite films, then dig into 'Da 5 Bloods,' his Vietnam War heist movie about four Black veterans returning for buried gold and their squad leader's remains.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Spike Lee in 2020",
+      "note": "career, reputation, and favorites",
+      "films": [
+        {
+          "title": "Inside Man",
+          "year": 2006,
+          "note": "Both Justin's and Sean's favorite Spike movie, which Sean admits feels like an unserious answer next to 'Do the Right Thing' or 'Malcolm X.' Amanda's watching it too: 'this is the Inside Man fan club.'"
+        },
+        {
+          "title": "Do the Right Thing",
+          "year": 1989,
+          "note": "Called his masterpiece, no dissent."
+        },
+        {
+          "title": "Malcolm X",
+          "year": 1992,
+          "note": "Amanda's pick, missing from Sean's published top five. Denzel Washington's non-nomination is still, in her words, one of the great Oscar travesties."
+        },
+        {
+          "title": "Crooklyn",
+          "year": 1994,
+          "note": "Amanda rewatched it for the first time since the '90s and was floored by how much of the homesickness and family dysfunction landed differently as an adult."
+        },
+        {
+          "title": "Clockers",
+          "year": 1995,
+          "note": "One of the films Sean ranks above 'Malcolm X' on pure rewatchability."
+        },
+        {
+          "title": "25th Hour",
+          "year": 2002,
+          "note": "Same list as 'Clockers' for Sean: important isn't the same as favorite."
+        },
+        {
+          "title": "BlacKkKlansman",
+          "year": 2018,
+          "note": "The $15 million movie that made $100 million and won Lee his first competitive Oscar, yet still wasn't enough to get 'Da 5 Bloods' financed anywhere but Netflix."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "'Da 5 Bloods'",
+      "films": [
+        {
+          "title": "Da 5 Bloods",
+          "year": 2020,
+          "note": "Four Vietnam vets (Delroy Lindo, Clarke Peters, Norm Lewis, Isaiah Whitlock Jr.) go back to retrieve their squad leader's remains and the gold they buried decades earlier; Chadwick Boseman plays that leader in flashback, an idealized, almost Christ-like figure the group still measures itself against. No de-aging for the leads: Lee just cast the actors as themselves, which the hosts land on as purposeful once they clock it. Delroy Lindo's Trump-supporting veteran is the centerpiece: the movie treats his politics as a symptom of untreated trauma rather than a punchline, and pairs the MAGA hat with an OxyContin bottle in the same scene. A landmine set piece involving Jonathan Majors (playing Lindo's son) is singled out as some of the best filmmaking Lee's done in years. Consensus: very good, a genre swing that folds in Coppola, Aldrich, and even Michael Bay, but not quite in the 'Do the Right Thing'/'Malcolm X'/'Inside Man' tier."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Other Spike Lee films mentioned",
+      "films": [
+        "Da Sweet Blood of Jesus",
+        "She Hate Me",
+        "4 Little Girls",
+        "Chi-Raq"
+      ]
+    },
+    {
+      "group": "Films that inspired or echo 'Da 5 Bloods'",
+      "films": [
+        "Apocalypse Now",
+        "The Dirty Dozen",
+        "The Treasure of the Sierra Madre",
+        "Stand by Me",
+        "Dead Presidents",
+        "Triple Frontier",
+        "The Irishman",
+        "The Ballad of Buster Scruggs",
+        "Girls Trip",
+        "Saving Private Ryan",
+        "Master and Commander: The Far Side of the World",
+        "The Rocketeer"
+      ]
+    },
+    {
+      "group": "Cast credits mentioned",
+      "films": [
+        "Congo",
+        "42",
+        "Get On Up",
+        "Black Panther"
+      ]
+    },
+    {
+      "group": "Awards conversation",
+      "films": [
+        "Selma",
+        "Moonlight"
+      ]
+    },
+    {
+      "group": "Outro plug",
+      "films": [
+        "The King of Staten Island"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Good Fight",
+      "The Wire",
+      "When the Levees Broke"
+    ]
+  },
+  "tmdb": {
+    "Inside Man": {
+      "id": 388,
+      "poster": "/ffMUgkDZICNiyaws1Jkv8qG8uFW.jpg",
+      "title": "Inside Man",
+      "year": 2006
+    },
+    "Do the Right Thing": {
+      "id": 925,
+      "poster": "/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+      "title": "Do the Right Thing",
+      "year": 1989
+    },
+    "Malcolm X": {
+      "id": 1883,
+      "poster": "/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
+      "title": "Malcolm X",
+      "year": 1992
+    },
+    "Crooklyn": {
+      "id": 34152,
+      "poster": "/iFqe07F78SO0SIBzWcK4I5MwNvP.jpg",
+      "title": "Crooklyn",
+      "year": 1994
+    },
+    "Clockers": {
+      "id": 20649,
+      "poster": "/c79uqLJleho2a7OQayfrW5Ypphf.jpg",
+      "title": "Clockers",
+      "year": 1995
+    },
+    "25th Hour": {
+      "id": 1429,
+      "poster": "/uW7tTRElr2tRhmAVESzvHy4ByXg.jpg",
+      "title": "25th Hour",
+      "year": 2002
+    },
+    "BlacKkKlansman": {
+      "id": 487558,
+      "poster": "/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg",
+      "title": "BlacKkKlansman",
+      "year": 2018
+    },
+    "Da 5 Bloods": {
+      "id": 581859,
+      "poster": "/yx4cp1ljJMDSFeEex0Zjv45b55E.jpg",
+      "title": "Da 5 Bloods",
+      "year": 2020
+    },
+    "Da Sweet Blood of Jesus": {
+      "id": 278316,
+      "poster": "/dUqIwSKX9cEkahmv1lsolT8ouE9.jpg",
+      "title": "Da Sweet Blood of Jesus",
+      "year": 2015
+    },
+    "She Hate Me": {
+      "id": 20912,
+      "poster": "/jjfzD3AEABBuJRnCJAZhUuwQvPi.jpg",
+      "title": "She Hate Me",
+      "year": 2004
+    },
+    "4 Little Girls": {
+      "id": 26580,
+      "poster": "/7kbV3fDjuy9dQmcuZuT9NKNAEix.jpg",
+      "title": "4 Little Girls",
+      "year": 1997
+    },
+    "Chi-Raq": {
+      "id": 340275,
+      "poster": "/goT9g4Lem6mwkwmehR3mOGJXLBQ.jpg",
+      "title": "Chi-Raq",
+      "year": 2015
+    },
+    "Apocalypse Now": {
+      "id": 28,
+      "poster": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "title": "Apocalypse Now",
+      "year": 1979
+    },
+    "The Dirty Dozen": {
+      "id": 1654,
+      "poster": "/tFWWsuhp22zJ6OG6QepJIiPUfeF.jpg",
+      "title": "The Dirty Dozen",
+      "year": 1967
+    },
+    "The Treasure of the Sierra Madre": {
+      "id": 3090,
+      "poster": "/pWcst7zVbi8Z8W6GFrdNE7HHRxL.jpg",
+      "title": "The Treasure of the Sierra Madre",
+      "year": 1948
+    },
+    "Stand by Me": {
+      "id": 235,
+      "poster": "/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg",
+      "title": "Stand by Me",
+      "year": 1986
+    },
+    "Dead Presidents": {
+      "id": 11443,
+      "poster": "/eGfsSXizR11tTHVo0kuOOFPAxZt.jpg",
+      "title": "Dead Presidents",
+      "year": 1995
+    },
+    "Triple Frontier": {
+      "id": 399361,
+      "poster": "/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg",
+      "title": "Triple Frontier",
+      "year": 2019
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "The Ballad of Buster Scruggs": {
+      "id": 537996,
+      "poster": "/voxl654m7p36y8FLu8oQD7dfwwK.jpg",
+      "title": "The Ballad of Buster Scruggs",
+      "year": 2018
+    },
+    "Girls Trip": {
+      "id": 417870,
+      "poster": "/fM1h8CwtdileV3zlemXx7UWJjOP.jpg",
+      "title": "Girls Trip",
+      "year": 2017
+    },
+    "Saving Private Ryan": {
+      "id": 857,
+      "poster": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+      "title": "Saving Private Ryan",
+      "year": 1998
+    },
+    "Master and Commander: The Far Side of the World": {
+      "id": 8619,
+      "poster": "/s1cVTQEZYn4nSjZLnFbzLP0j8y2.jpg",
+      "title": "Master and Commander: The Far Side of the World",
+      "year": 2003
+    },
+    "The Rocketeer": {
+      "id": 10249,
+      "poster": "/2tDFRESFwKww1LHRE8W1Exj9edH.jpg",
+      "title": "The Rocketeer",
+      "year": 1991
+    },
+    "Congo": {
+      "id": 10329,
+      "poster": "/hPNSToNIIpRO6y5Rh973leqQqNr.jpg",
+      "title": "Congo",
+      "year": 1995
+    },
+    "42": {
+      "id": 109410,
+      "poster": "/iZ7jVGQWj3eBUdqwAPUlKk0BaS2.jpg",
+      "title": "42",
+      "year": 2013
+    },
+    "Get On Up": {
+      "id": 239566,
+      "poster": "/dVbGeU5agxFGcJnL5hk4uO8W7i2.jpg",
+      "title": "Get On Up",
+      "year": 2014
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "Selma": {
+      "id": 273895,
+      "poster": "/2QyUcitU0hrxy6B2zkyJ0EhNlqm.jpg",
+      "title": "Selma",
+      "year": 2014
+    },
+    "Moonlight": {
+      "id": 376867,
+      "poster": "/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+      "title": "Moonlight",
+      "year": 2016
+    },
+    "The King of Staten Island": {
+      "id": 579583,
+      "poster": "/zQFjMmE3K9AX5QrBL1SXIxYQ9jz.jpg",
+      "title": "The King of Staten Island",
+      "year": 2020
+    }
+  }
+}

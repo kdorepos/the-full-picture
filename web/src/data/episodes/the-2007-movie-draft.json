@@ -1,0 +1,574 @@
+{
+  "slug": "the-2007-movie-draft",
+  "title": "The 2007 Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2021-08-12",
+  "runtimeMin": 71,
+  "format": "Sean Fennessey, Amanda Dobbins, and Chris Ryan draft 2007 across six categories (Oscar Winner, Drama, Comedy or Horror, Sequel, Blockbuster, and Wildcard), from There Will Be Blood to Ratatouille.",
+  "segments": [
+    {
+      "kind": "draft",
+      "heading": "The 2007 Movie Draft",
+      "draftOf": "2007 movies",
+      "categories": [
+        "Oscar Winner",
+        "Drama",
+        "Comedy or Horror",
+        "Sequel",
+        "Blockbuster",
+        "Wildcard"
+      ],
+      "teams": [
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "There Will Be Blood",
+              "year": 2007,
+              "category": "Oscar Winner",
+              "note": "Sean's favorite movie of the 21st century and the only 2007 movie he rewatched before the draft. Paul Thomas Anderson's Daniel Plainview story, scored by Jonny Greenwood."
+            },
+            {
+              "title": "Zodiac",
+              "year": 2007,
+              "category": "Drama",
+              "note": "Sean calls it the second-best movie of the year, David Fincher's meticulous docudrama about the hunt for the Zodiac Killer. He grabbed it after Chris took Superbad instead of it."
+            },
+            {
+              "title": "Hot Fuzz",
+              "year": 2007,
+              "category": "Comedy or Horror",
+              "note": "Sean's pick, the second-to-last of Edgar Wright's Cornetto trilogy with Simon Pegg and Nick Frost, spoofing Lethal Weapon-style buddy-cop movies."
+            },
+            {
+              "title": "28 Weeks Later",
+              "year": 2007,
+              "category": "Sequel",
+              "note": "After stalling between this and Elizabeth: The Golden Age, Sean took the 28 Days Later sequel, calling it a pretty good follow-up to a movie that didn't need one."
+            },
+            {
+              "title": "Transformers",
+              "year": 2007,
+              "category": "Blockbuster",
+              "note": "Sean covered the premiere for Vibe Magazine in 2007 and calls it the last Michael Bay movie he genuinely liked until 6 Underground."
+            },
+            {
+              "title": "Death Proof",
+              "year": 2007,
+              "category": "Wildcard",
+              "note": "Tarantino's standalone half of Grindhouse. Sean saw it opening night with a hardcore Tarantino crowd and calls it slept-on."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Michael Clayton",
+              "year": 2007,
+              "category": "Oscar Winner",
+              "note": "Amanda's number-one movie of the year and her first overall pick. Tilda Swinton won best supporting actress for it."
+            },
+            {
+              "title": "Gone Baby Gone",
+              "year": 2007,
+              "category": "Drama",
+              "note": "Ben Affleck's directorial debut, adapted from Dennis Lehane's novel."
+            },
+            {
+              "title": "Knocked Up",
+              "year": 2007,
+              "category": "Comedy or Horror",
+              "note": "Amanda calls it a genuine phenomenon at the time, with mixed feelings now about how its comedy and politics have aged. She says she'd have felt silly taking Walk Hard while this was still on the board."
+            },
+            {
+              "title": "Ocean's Thirteen",
+              "year": 2007,
+              "category": "Sequel",
+              "note": "Amanda's actual favorite sequel of all time is Ocean's Twelve, but she took Thirteen here."
+            },
+            {
+              "title": "Ratatouille",
+              "year": 2007,
+              "category": "Blockbuster",
+              "note": "Amanda calls it a strategic act of aggression aimed at Sean; she'd watched it again the day before taping."
+            },
+            {
+              "title": "I'm Not There",
+              "year": 2007,
+              "category": "Wildcard",
+              "note": "Todd Haynes's fractured Bob Dylan biopic, with different actors playing different facets of Dylan."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "No Country for Old Men",
+              "year": 2007,
+              "category": "Oscar Winner",
+              "note": "Adapted from Cormac McCarthy's novel, the year's Best Picture winner, with Javier Bardem's supporting-actor win. On rewatch, Chris singles out Tommy Lee Jones."
+            },
+            {
+              "title": "The Assassination of Jesse James by the Coward Robert Ford",
+              "year": 2007,
+              "category": "Drama",
+              "note": "Chris's pick, a movie with a famously troubled production that became a cult favorite, shot by Roger Deakins."
+            },
+            {
+              "title": "Walk Hard: The Dewey Cox Story",
+              "year": 2007,
+              "category": "Comedy or Horror",
+              "note": "Chris still loves the Judd Apatow/Jake Kasdan music-biopic spoof, which he notes has become the more cult-adored pick next to Knocked Up."
+            },
+            {
+              "title": "The Bourne Ultimatum",
+              "year": 2007,
+              "category": "Sequel",
+              "note": "Chris calls it his third-favorite Bourne movie but still a strong pick from the original trilogy."
+            },
+            {
+              "title": "Superbad",
+              "year": 2007,
+              "category": "Blockbuster",
+              "note": "Chris's strategic pick in a weak blockbuster year, crediting Seth Rogen, Evan Goldberg, and Michael Cera."
+            },
+            {
+              "title": "Sunshine",
+              "year": 2007,
+              "category": "Wildcard",
+              "note": "Danny Boyle's sci-fi movie with Cillian Murphy, Rose Byrne, and Chris Evans. Chris saw it in a nearly empty ArcLight theater alongside Drew Barrymore."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "American Gangster",
+        "The Savages",
+        "Black Book",
+        "We Own the Night",
+        "The Lookout",
+        "Juno",
+        "Hot Rod",
+        "The Simpsons Movie",
+        "Paranormal Activity",
+        "Before the Devil Knows You're Dead",
+        "Atonement",
+        "Into the Wild",
+        "The Darjeeling Limited",
+        "The Mist",
+        "Margot at the Wedding",
+        "Away from Her",
+        "Bug",
+        "Beowulf",
+        "Eastern Promises",
+        "3:10 to Yuma",
+        "Once",
+        "P.S. I Love You",
+        "National Treasure: Book of Secrets",
+        "Daddy Day Camp",
+        "Fantastic Four: Rise of the Silver Surfer",
+        "Rush Hour 3",
+        "Saw IV",
+        "Aliens vs Predator: Requiem",
+        "Spider-Man 3",
+        "Pirates of the Caribbean: At World's End",
+        "Harry Potter and the Order of the Phoenix",
+        "Elizabeth: The Golden Age"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "The Rock",
+        "Armageddon",
+        "Bad Boys",
+        "Bad Boys II",
+        "Pearl Harbor",
+        "6 Underground",
+        "Ocean's Twelve",
+        "Alien vs. Predator",
+        "Daddy Day Care",
+        "Chicago"
+      ]
+    }
+  ],
+  "excluded": {
+    "Ads": [
+      "Higher Learning",
+      "Boar's Head",
+      "Netflix FIFA World Cup Launch Edition"
+    ]
+  },
+  "tmdb": {
+    "There Will Be Blood": {
+      "id": 7345,
+      "poster": "/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+      "title": "There Will Be Blood",
+      "year": 2007
+    },
+    "Zodiac": {
+      "id": 1949,
+      "poster": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+      "title": "Zodiac",
+      "year": 2007
+    },
+    "Hot Fuzz": {
+      "id": 4638,
+      "poster": "/zPib4ukTSdXvHP9pxGkFCe34f3y.jpg",
+      "title": "Hot Fuzz",
+      "year": 2007
+    },
+    "28 Weeks Later": {
+      "id": 1562,
+      "poster": "/oix0aNv1lvW3nUGspUyvSIBlpbs.jpg",
+      "title": "28 Weeks Later",
+      "year": 2007
+    },
+    "Transformers": {
+      "id": 1858,
+      "poster": "/4N4sipl8T72tNE4earcctQa2Kw2.jpg",
+      "title": "Transformers",
+      "year": 2007
+    },
+    "Death Proof": {
+      "id": 1991,
+      "poster": "/vtu6H4NWnQVqEp3aanUq3hNeeot.jpg",
+      "title": "Death Proof",
+      "year": 2007
+    },
+    "Michael Clayton": {
+      "id": 4566,
+      "poster": "/hhkW4yVIGo8Bee3UITKvqOvhNMG.jpg",
+      "title": "Michael Clayton",
+      "year": 2007
+    },
+    "Gone Baby Gone": {
+      "id": 4771,
+      "poster": "/5BXDhjKZ4AL9VPxcygdG3oL60GP.jpg",
+      "title": "Gone Baby Gone",
+      "year": 2007
+    },
+    "Knocked Up": {
+      "id": 4964,
+      "poster": "/b4OaXw2MW97VvIiZE0Sbn1NfxSh.jpg",
+      "title": "Knocked Up",
+      "year": 2007
+    },
+    "Ocean's Thirteen": {
+      "id": 298,
+      "poster": "/pBsZs4zYUiUTemqbikTZ76iQRaU.jpg",
+      "title": "Ocean's Thirteen",
+      "year": 2007
+    },
+    "Ratatouille": {
+      "id": 2062,
+      "poster": "/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+      "title": "Ratatouille",
+      "year": 2007
+    },
+    "I'm Not There": {
+      "id": 3902,
+      "poster": "/bucgvB7gQqcl1m71efHkenfIMTj.jpg",
+      "title": "I'm Not There",
+      "year": 2007
+    },
+    "No Country for Old Men": {
+      "id": 6977,
+      "poster": "/uB7RDZby43Wvu8SKGHHTwGyTDBX.jpg",
+      "title": "No Country for Old Men",
+      "year": 2007
+    },
+    "The Assassination of Jesse James by the Coward Robert Ford": {
+      "id": 4512,
+      "poster": "/xMKn6EQS7eR5ubhPJbw5pQSBZMw.jpg",
+      "title": "The Assassination of Jesse James by the Coward Robert Ford",
+      "year": 2007
+    },
+    "Walk Hard: The Dewey Cox Story": {
+      "id": 6575,
+      "poster": "/Aa1IQ4Cuin3d7qIahvPheMmR4E5.jpg",
+      "title": "Walk Hard: The Dewey Cox Story",
+      "year": 2007
+    },
+    "The Bourne Ultimatum": {
+      "id": 2503,
+      "poster": "/15rMz5MRXFp7CP4VxhjYw4y0FUn.jpg",
+      "title": "The Bourne Ultimatum",
+      "year": 2007
+    },
+    "Superbad": {
+      "id": 8363,
+      "poster": "/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg",
+      "title": "Superbad",
+      "year": 2007
+    },
+    "Sunshine": {
+      "id": 1272,
+      "poster": "/oKGGeJ8qvm0UmClz43VJ31fzPP7.jpg",
+      "title": "Sunshine",
+      "year": 2007
+    },
+    "American Gangster": {
+      "id": 4982,
+      "poster": "/sX9idXDqRUxE5ffww3n3RV5gL55.jpg",
+      "title": "American Gangster",
+      "year": 2007
+    },
+    "The Savages": {
+      "id": 8272,
+      "poster": "/nY54gSmTOmSXlQpWDB7DWp4u8a7.jpg",
+      "title": "The Savages",
+      "year": 2007
+    },
+    "Black Book": {
+      "id": 9075,
+      "poster": "/s8UyT6tUKJl07gYhPheLAzogG8V.jpg",
+      "title": "Black Book",
+      "year": 2006
+    },
+    "We Own the Night": {
+      "id": 2001,
+      "poster": "/fcb2c9BcRc21iiWih23FQfT39uB.jpg",
+      "title": "We Own the Night",
+      "year": 2007
+    },
+    "The Lookout": {
+      "id": 8270,
+      "poster": "/wTYyXCoIBy2TDxetoGS4Sc0VBP1.jpg",
+      "title": "The Lookout",
+      "year": 2007
+    },
+    "Juno": {
+      "id": 7326,
+      "poster": "/jNIn2tVhpvFD6P9IojldI3mNYcn.jpg",
+      "title": "Juno",
+      "year": 2007
+    },
+    "Hot Rod": {
+      "id": 10074,
+      "poster": "/jRkt03dXCVKnbvcQm3ygU1cjg9Y.jpg",
+      "title": "Hot Rod",
+      "year": 2007
+    },
+    "The Simpsons Movie": {
+      "id": 35,
+      "poster": "/s3b8TZWwmkYc2KoJ5zk77qB6PzY.jpg",
+      "title": "The Simpsons Movie",
+      "year": 2007
+    },
+    "Paranormal Activity": {
+      "id": 23827,
+      "poster": "/tmclkEpjeo4Zu564gf3KrwIOuKw.jpg",
+      "title": "Paranormal Activity",
+      "year": 2007
+    },
+    "Before the Devil Knows You're Dead": {
+      "id": 7972,
+      "poster": "/h4QXi4Ysuc3zICiK9jHxjCAK9Oh.jpg",
+      "title": "Before the Devil Knows You're Dead",
+      "year": 2007
+    },
+    "Atonement": {
+      "id": 4347,
+      "poster": "/hMRIyBjPzxaSXWM06se3OcNjIQa.jpg",
+      "title": "Atonement",
+      "year": 2007
+    },
+    "Into the Wild": {
+      "id": 5915,
+      "poster": "/jnLnLYP5pGDfri04gxtAqAvkHMw.jpg",
+      "title": "Into the Wild",
+      "year": 2007
+    },
+    "The Darjeeling Limited": {
+      "id": 4538,
+      "poster": "/oSW5OVXTulaIXcoNwJAp5YEKpbP.jpg",
+      "title": "The Darjeeling Limited",
+      "year": 2007
+    },
+    "The Mist": {
+      "id": 5876,
+      "poster": "/1CvJ6diBACKPVGOpcWuY4XPQdqX.jpg",
+      "title": "The Mist",
+      "year": 2007
+    },
+    "Margot at the Wedding": {
+      "id": 13998,
+      "poster": "/g92DyjiMKhuWLxF8qkXOxZwvWMf.jpg",
+      "title": "Margot at the Wedding",
+      "year": 2007
+    },
+    "Away from Her": {
+      "id": 1919,
+      "poster": "/oyPE6i9sylR1UhTPFmniOHcQpKb.jpg",
+      "title": "Away from Her",
+      "year": 2007
+    },
+    "Bug": {
+      "id": 12526,
+      "poster": "/yjTmmAngldFoyDhHxNM8fHblk3O.jpg",
+      "title": "Bug",
+      "year": 2007
+    },
+    "Beowulf": {
+      "id": 2310,
+      "poster": "/7QsWYyJAV97N9jOh21pdRIqJeJq.jpg",
+      "title": "Beowulf",
+      "year": 2007
+    },
+    "Eastern Promises": {
+      "id": 2252,
+      "poster": "/nLwv1pxRCRZucQaqs6oPkq7HH3K.jpg",
+      "title": "Eastern Promises",
+      "year": 2007
+    },
+    "3:10 to Yuma": {
+      "id": 14168,
+      "poster": "/emYeJVZrpl2WfndJlhbls1e7lzQ.jpg",
+      "title": "3:10 to Yuma",
+      "year": 1957
+    },
+    "Once": {
+      "id": 5723,
+      "poster": "/7nW363kSYRCkr4VGOMvuSGwtzKs.jpg",
+      "title": "Once",
+      "year": 2007
+    },
+    "P.S. I Love You": {
+      "id": 6023,
+      "poster": "/x6M9nlTpgpI4AOw0tMkOAVbhL5z.jpg",
+      "title": "P.S. I Love You",
+      "year": 2007
+    },
+    "National Treasure: Book of Secrets": {
+      "id": 6637,
+      "poster": "/xxoIBbvmTj1ZttzV439jAvoovTw.jpg",
+      "title": "National Treasure: Book of Secrets",
+      "year": 2007
+    },
+    "Daddy Day Camp": {
+      "id": 14144,
+      "poster": "/fhuhSVb3j8SShe6FhnVUAfSRg6h.jpg",
+      "title": "Daddy Day Camp",
+      "year": 2007
+    },
+    "Fantastic Four: Rise of the Silver Surfer": {
+      "id": 1979,
+      "poster": "/9wRfzTcMyyzkQxVDqBHv8RwuZOv.jpg",
+      "title": "Fantastic Four: Rise of the Silver Surfer",
+      "year": 2007
+    },
+    "Rush Hour 3": {
+      "id": 5174,
+      "poster": "/mp9CzKxLa2i7yblMXUrzVfGqsCo.jpg",
+      "title": "Rush Hour 3",
+      "year": 2007
+    },
+    "Saw IV": {
+      "id": 663,
+      "poster": "/ku1QdCXOU4ckz3zxLLlis8MIJVm.jpg",
+      "title": "Saw IV",
+      "year": 2007
+    },
+    "Aliens vs Predator: Requiem": {
+      "id": 440,
+      "poster": "/5iTwPDNtvK6ZZF607BHBbU3HO0B.jpg",
+      "title": "Aliens vs Predator: Requiem",
+      "year": 2007
+    },
+    "Spider-Man 3": {
+      "id": 559,
+      "poster": "/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
+      "title": "Spider-Man 3",
+      "year": 2007
+    },
+    "Pirates of the Caribbean: At World's End": {
+      "id": 285,
+      "poster": "/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
+      "title": "Pirates of the Caribbean: At World's End",
+      "year": 2007
+    },
+    "Harry Potter and the Order of the Phoenix": {
+      "id": 675,
+      "poster": "/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg",
+      "title": "Harry Potter and the Order of the Phoenix",
+      "year": 2007
+    },
+    "Elizabeth: The Golden Age": {
+      "id": 4517,
+      "poster": "/oBQ64TyPEINgVpwKWriv3QsIDJb.jpg",
+      "title": "Elizabeth: The Golden Age",
+      "year": 2007
+    },
+    "The Rock": {
+      "id": 9802,
+      "poster": "/eBcoxveWzzXQrCrwWMGAROcqgpP.jpg",
+      "title": "The Rock",
+      "year": 1996
+    },
+    "Armageddon": {
+      "id": 95,
+      "poster": "/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg",
+      "title": "Armageddon",
+      "year": 1998
+    },
+    "Bad Boys": {
+      "id": 9737,
+      "poster": "/x1ygBecKHfXX4M2kRhmFKWfWbJc.jpg",
+      "title": "Bad Boys",
+      "year": 1995
+    },
+    "Bad Boys II": {
+      "id": 8961,
+      "poster": "/yCvB5fG5aEPqa1St7ihY6KEAsHD.jpg",
+      "title": "Bad Boys II",
+      "year": 2003
+    },
+    "Pearl Harbor": {
+      "id": 676,
+      "poster": "/y8A0Cvp8WQmZ3bjbnsL53lY0dsC.jpg",
+      "title": "Pearl Harbor",
+      "year": 2001
+    },
+    "6 Underground": {
+      "id": 509967,
+      "poster": "/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg",
+      "title": "6 Underground",
+      "year": 2019
+    },
+    "Ocean's Twelve": {
+      "id": 163,
+      "poster": "/pE5anFf7nf6ah7V3VRezQ1KSovi.jpg",
+      "title": "Ocean's Twelve",
+      "year": 2004
+    },
+    "Alien vs. Predator": {
+      "id": 960947,
+      "poster": "/7pp460bxrRLpFFOCXwsb1e94VAE.jpg",
+      "title": "Alien vs Predator",
+      "year": 2022
+    },
+    "Daddy Day Care": {
+      "id": 10708,
+      "poster": "/uiey5XUKuPicwpIJMf1OpaOd1jL.jpg",
+      "title": "Daddy Day Care",
+      "year": 2003
+    },
+    "Chicago": {
+      "id": 1574,
+      "poster": "/3ED8cWCXY9zkx77Sd0N5qMbsdDP.jpg",
+      "title": "Chicago",
+      "year": 2002
+    }
+  }
+}

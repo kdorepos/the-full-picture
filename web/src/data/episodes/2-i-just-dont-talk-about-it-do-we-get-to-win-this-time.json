@@ -1,0 +1,284 @@
+{
+  "slug": "2-i-just-dont-talk-about-it-do-we-get-to-win-this-time",
+  "title": "2. I Just Don’t Talk About It | Do We Get to Win This Time?",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Brian Raftery"
+  ],
+  "published": "2023-08-11",
+  "runtimeMin": 38,
+  "format": "Episode 2 of the Ringer's Vietnam-and-Hollywood documentary. With the studios still ducking the war, filmmakers smuggled it onto the screen as a WWII epic, a Korea comedy, a Western massacre. Then the returning vet became a stock character who might snap at any moment.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The war in disguise",
+      "note": "Vietnam smuggled in as some other battle",
+      "films": [
+        {
+          "title": "Patton",
+          "year": 1970,
+          "note": "George C. Scott as the WWII general, from a script co-written by Francis Ford Coppola. Nixon screened it repeatedly during April 1970 as he weighed sending troops into Cambodia; critics wondered if the invasion followed the movie."
+        },
+        {
+          "title": "The Green Berets",
+          "year": 1968,
+          "note": "John Wayne's pro-war film, the one big-studio Vietnam movie, and the exception the episode measures everything against."
+        },
+        {
+          "title": "The Charge of the Light Brigade",
+          "year": 1968,
+          "note": "British satire of a doomed cavalry charge. CIA officer Frank Snepp watched it on a Saigon rooftop and read it as a metaphor for the hopeless war around him."
+        },
+        {
+          "title": "MASH",
+          "year": 1970,
+          "note": "Robert Altman's pitch-black Korean War comedy. Fox forced on-screen titles fixing it in Korea because they feared audiences would read it as Vietnam, and Altman admitted it was."
+        },
+        {
+          "title": "Johnny Got His Gun",
+          "year": 1971,
+          "note": "Dalton Trumbo's WWI drama with Jason Robards as a gravely wounded soldier; Metallica later sampled it in the video for 'One.'"
+        },
+        {
+          "title": "Soldier Blue",
+          "year": 1970,
+          "note": "Ralph Nelson's Western ending in a cavalry massacre of Cheyenne women and children, a stand-in for My Lai; Candice Bergen stars. Walkouts and refund demands at early screenings."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The vet comes home",
+      "note": "the returning soldier as new screen stereotype",
+      "films": [
+        {
+          "title": "Brotherhood of Death",
+          "year": 1976,
+          "note": "Cheap B-movie about Black Vietnam vets who bring the war home against their town's Klan. Stars first-timer Haskell V. Anderson and ex-NFL receiver Roy Jefferson; a Tarantino favorite. The vet's line, 'I just don't talk about it,' gives the episode its title."
+        },
+        {
+          "title": "The No Mercy Man",
+          "year": 1973,
+          "note": "Revenge picture: a decorated vet returns to a town overrun by thugs and fights back."
+        },
+        {
+          "title": "Dead of Night",
+          "year": 1974,
+          "note": "Bob Clark horror, later retitled 'Deathdream.' A soldier killed in action comes home anyway, stilted and murderous, and ends up burying himself."
+        },
+        {
+          "title": "The Best Years of Our Lives",
+          "year": 1946,
+          "note": "The earlier model: three WWII servicemen readjusting. Harold Russell, who lost his hands in the war, played the sailor Homer and won two Oscars for a role he'd lived."
+        },
+        {
+          "title": "In a Lonely Place",
+          "year": 1950,
+          "note": "Bogart as veteran-screenwriter Dixon Steele, a noir vet who can't be trusted: the untrustworthy-outsider template."
+        },
+        {
+          "title": "Slaughter",
+          "year": 1972,
+          "note": "Jim Brown as an ex-Green Beret taking on the mob; a classier, sympathetic exception to the killing-machine vet."
+        },
+        {
+          "title": "Targets",
+          "year": 1968,
+          "note": "Peter Bogdanovich's clean-cut vet turned sniper, ending in a drive-in shootout; re-released after 'The Last Picture Show' made him a hit."
+        },
+        {
+          "title": "The Visitors",
+          "year": 1972,
+          "note": "Elia Kazan drama, one of the early films casting Vietnam vets as violent, potentially murderous brutes."
+        },
+        {
+          "title": "Welcome Home, Soldier Boys",
+          "year": 1971,
+          "note": "Same stereotype: returning vets who turn violent."
+        },
+        {
+          "title": "Taxi Driver",
+          "year": 1976,
+          "note": "Scorsese and Paul Schrader's Travis Bickle, maybe a Marine, maybe lying, with Vietnam hanging over the whole city. The film that made Scorsese a name."
+        },
+        {
+          "title": "Rolling Thunder",
+          "year": 1977,
+          "note": "John Flynn's revenge picture, a Schrader script rewritten by Heywood Gould. William Devane as a POW who loses his family and his hand; Tommy Lee Jones as his fellow vet. Screenings so gnarly moviegoers threatened the executives."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "The Sound of Music",
+        "White Christmas",
+        "It's a Wonderful Life",
+        "An American in Paris",
+        "The Last Picture Show"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Dead of Night": 38996
+  },
+  "excluded": {
+    "TV": [
+      "The Smothers Brothers Comedy Hour",
+      "ABC News"
+    ],
+    "Music": [
+      "Fortunate Son (Creedence Clearwater Revival)",
+      "One (Metallica)",
+      "The Draft Dodger Rag"
+    ],
+    "Ads": [
+      "Carvana",
+      "Netflix FIFA World Cup Launch Edition",
+      "Boar's Head",
+      "Starbucks Frappuccino",
+      "Brooks Brothers",
+      "The Wall Street Journal",
+      "Icons Club",
+      "This Blew Up",
+      "Gamblers"
+    ]
+  },
+  "tmdb": {
+    "Patton": {
+      "id": 11202,
+      "poster": "/rLM7jIEPTjj4CF7F1IrzzNjLUCu.jpg",
+      "title": "Patton",
+      "year": 1970
+    },
+    "The Green Berets": {
+      "id": 22377,
+      "poster": "/c5WG23iqf3RakGOTjZnBATbYM1f.jpg",
+      "title": "The Green Berets",
+      "year": 1968
+    },
+    "The Charge of the Light Brigade": {
+      "id": 42193,
+      "poster": "/6mh7BKo0AFjweVGnUyNTbtCK1HN.jpg",
+      "title": "The Charge of the Light Brigade",
+      "year": 1968
+    },
+    "MASH": {
+      "id": 651,
+      "poster": "/on8Q9LhtHYNhmITjUMpgOUkIG8o.jpg",
+      "title": "M*A*S*H",
+      "year": 1970
+    },
+    "Johnny Got His Gun": {
+      "id": 16328,
+      "poster": "/ryIY3FPmTtXu9g6W4I69qCdkxKj.jpg",
+      "title": "Johnny Got His Gun",
+      "year": 1971
+    },
+    "Soldier Blue": {
+      "id": 14384,
+      "poster": "/2fRfVQpdrjAhvxwytG0scOqdQOJ.jpg",
+      "title": "Soldier Blue",
+      "year": 1970
+    },
+    "Brotherhood of Death": {
+      "id": 87790,
+      "poster": "/6sc156Zlu477KMKZGUqF3gHZtLe.jpg",
+      "title": "Brotherhood of Death",
+      "year": 1976
+    },
+    "The No Mercy Man": {
+      "id": 105503,
+      "poster": "/vowUpRpRhK2JWkjkNhKZqSXGOAS.jpg",
+      "title": "The No Mercy Man",
+      "year": 1973
+    },
+    "Dead of Night": {
+      "id": 38996,
+      "poster": "/zunyiTXzsDI4K2SUbjQ0b6UAEsE.jpg",
+      "title": "Dead of Night",
+      "year": 1974
+    },
+    "The Best Years of Our Lives": {
+      "id": 887,
+      "poster": "/gd5EoAU4MM57sW3vlWxJ0NMM8cV.jpg",
+      "title": "The Best Years of Our Lives",
+      "year": 1946
+    },
+    "In a Lonely Place": {
+      "id": 17057,
+      "poster": "/vbdgtwzLOpE6MppZlyYChMagvQq.jpg",
+      "title": "In a Lonely Place",
+      "year": 1950
+    },
+    "Slaughter": {
+      "id": 56535,
+      "poster": "/vVwOhNDw0GLvxXTgOVzrUBD49Mx.jpg",
+      "title": "Slaughter",
+      "year": 1972
+    },
+    "Targets": {
+      "id": 19383,
+      "poster": "/n0xQThLhrymktXzQbD0KwwUMXSB.jpg",
+      "title": "Targets",
+      "year": 1968
+    },
+    "The Visitors": {
+      "id": 102699,
+      "poster": "/rlnSJXYfCzbmBN2utn7BRZX5Lak.jpg",
+      "title": "The Visitors",
+      "year": 1972
+    },
+    "Welcome Home, Soldier Boys": {
+      "id": 106823,
+      "poster": "/jEM8rYzWsQ71ndkxtPSJWtCJU5.jpg",
+      "title": "Welcome Home, Soldier Boys",
+      "year": 1971
+    },
+    "Taxi Driver": {
+      "id": 103,
+      "poster": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "title": "Taxi Driver",
+      "year": 1976
+    },
+    "Rolling Thunder": {
+      "id": 21948,
+      "poster": "/9iZjVn6Q5FJa92SQLcFMrskpES9.jpg",
+      "title": "Rolling Thunder",
+      "year": 1977
+    },
+    "The Sound of Music": {
+      "id": 15121,
+      "poster": "/c6CrUZypAsBCaRWX0M3RVRDbhNS.jpg",
+      "title": "The Sound of Music",
+      "year": 1965
+    },
+    "White Christmas": {
+      "id": 13368,
+      "poster": "/A5kBQsHKbIptxJyELEpHQJROCRj.jpg",
+      "title": "White Christmas",
+      "year": 1954
+    },
+    "It's a Wonderful Life": {
+      "id": 1585,
+      "poster": "/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+      "title": "It's a Wonderful Life",
+      "year": 1946
+    },
+    "An American in Paris": {
+      "id": 2769,
+      "poster": "/lyDXkvG53ldz6Cf7dbjJl7TaoP5.jpg",
+      "title": "An American in Paris",
+      "year": 1951
+    },
+    "The Last Picture Show": {
+      "id": 25188,
+      "poster": "/7NYePZc0lZrRomtmQsjOJMePTEb.jpg",
+      "title": "The Last Picture Show",
+      "year": 1971
+    }
+  }
+}

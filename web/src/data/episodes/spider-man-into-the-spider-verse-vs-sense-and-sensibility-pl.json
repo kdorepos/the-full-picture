@@ -1,0 +1,409 @@
+{
+  "slug": "spider-man-into-the-spider-verse-vs-sense-and-sensibility-pl",
+  "title": "'Spider-Man: Into the Spider-Verse' vs. 'Sense and Sensibility.' Plus: Avi Belkin on 'Mike Wallace Is Here'",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2019-08-05",
+  "runtimeMin": 115,
+  "format": "Sean and Amanda each pick a movie the other has never seen and defend it: his is 'Into the Spider-Verse,' hers is 'Sense and Sensibility.' Then Avi Belkin on his Mike Wallace documentary.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Sean's pick: 'Into the Spider-Verse'",
+      "note": "the animation swap",
+      "films": [
+        {
+          "title": "Spider-Man: Into the Spider-Verse",
+          "year": 2018,
+          "note": "Sean's pick. Amanda came in dubious about animation and left won over by the voice cast and the willingness to let the multiverse mechanics stay a blur."
+        },
+        {
+          "title": "Rango",
+          "year": 2011,
+          "note": "The last non-Pixar, non-Disney animated Best Picture winner before this one; Sean calls it a top-10-of-the-decade contender."
+        },
+        {
+          "title": "Inside Out",
+          "year": 2015,
+          "note": "Amanda's counterexample for animation that worked on her, because it stayed grounded in something human."
+        },
+        {
+          "title": "Toy Story 4",
+          "year": 2019,
+          "note": "Named as the year's leading Best Animated Feature contender, with nothing else on the calendar to challenge Spider-Verse's precedent."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Amanda's pick: 'Sense and Sensibility'",
+      "note": "the costume drama swap",
+      "films": [
+        {
+          "title": "Sense and Sensibility",
+          "year": 1995,
+          "note": "Amanda's pick, first seen at age 11. Ang Lee directs Emma Thompson's Oscar-winning script; Sean respects it but can't fully warm to the genre."
+        },
+        {
+          "title": "Howards End",
+          "year": 1992,
+          "note": "Sean's structural comp for Sense and Sensibility (two sisters, a marriage plot, a fight over inheritance): 'Forster owes Austen some money.'"
+        },
+        {
+          "title": "Clueless",
+          "year": 1995,
+          "note": "Part of the same 1995 Austen glut, an update of 'Emma.'"
+        },
+        {
+          "title": "Braveheart",
+          "year": 1995,
+          "note": "The Best Picture winner over Sense and Sensibility that year; Sean notes the two share the historical-costume-epic DNA, minus the marriage plot."
+        },
+        {
+          "title": "Apollo 13",
+          "year": 1995,
+          "note": "Also up for Best Picture that year; Amanda's other 1995 formative theatrical experience."
+        },
+        {
+          "title": "Babe",
+          "year": 1995,
+          "note": "The other 1995 Best Picture nominee, and Amanda's rebuttal in the ongoing Lion King argument: 'Babe did a lot of that first.'"
+        },
+        {
+          "title": "The Postman",
+          "year": 1995,
+          "note": "Il Postino, the fifth Best Picture nominee, flagged as an early Harvey Weinstein campaign play with no lasting legacy."
+        },
+        {
+          "title": "Toy Story",
+          "year": 1995,
+          "note": "Not nominated for Best Picture at all, which Sean calls the real snub of that year."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Avi Belkin on",
+      "films": [
+        {
+          "title": "Mike Wallace Is Here",
+          "year": 2019,
+          "note": "Belkin's all-archival portrait of the '60 Minutes' interviewer, built from CBS's unreleased footage and drawn from the idea that Wallace's own toughest questions were aimed at himself."
+        },
+        {
+          "title": "The Insider",
+          "year": 1999,
+          "note": "Belkin says the Michael Mann film, most people's reference point for Wallace, unfairly reduces him to one weak moment."
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "year": 2018,
+          "note": "Belkin's answer to Sean's closing question about the last great thing he's seen: 'maybe the best superhero movie I've ever seen.'"
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Spirited Away",
+        "Captain America: Civil War",
+        "Incredibles 2",
+        "Coco",
+        "Get Out",
+        "Solo: A Star Wars Story",
+        "Pride and Prejudice",
+        "Persuasion",
+        "The Lion King",
+        "Spotlight"
+      ]
+    },
+    {
+      "group": "Ang Lee's other films",
+      "films": [
+        "The Wedding Banquet",
+        "Eat Drink Man Woman",
+        "Brokeback Mountain",
+        "Life of Pi"
+      ]
+    },
+    {
+      "group": "Emma Thompson's other screenplays",
+      "films": [
+        "Nanny McPhee",
+        "Nanny McPhee Returns",
+        "Effie Gray",
+        "Bridget Jones's Baby",
+        "Last Christmas"
+      ]
+    },
+    {
+      "group": "Michael Coulter's other films",
+      "films": [
+        "Four Weddings and a Funeral",
+        "Notting Hill",
+        "Love Actually",
+        "Maleficent",
+        "The Hustle"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "The Wedding Banquet": 9261,
+    "Nanny McPhee Returns": 35019
+  },
+  "excluded": {
+    "TV": [
+      "No One Saw a Thing",
+      "Downton Abbey",
+      "Pride and Prejudice (BBC miniseries)",
+      "Howards End (miniseries)",
+      "Game of Thrones",
+      "The OA",
+      "Wit",
+      "60 Minutes"
+    ]
+  },
+  "tmdb": {
+    "Spider-Man: Into the Spider-Verse": {
+      "id": 324857,
+      "poster": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018
+    },
+    "Rango": {
+      "id": 44896,
+      "poster": "/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
+      "title": "Rango",
+      "year": 2011
+    },
+    "Inside Out": {
+      "id": 150540,
+      "poster": "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+      "title": "Inside Out",
+      "year": 2015
+    },
+    "Toy Story 4": {
+      "id": 301528,
+      "poster": "/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+      "title": "Toy Story 4",
+      "year": 2019
+    },
+    "Sense and Sensibility": {
+      "id": 4584,
+      "poster": "/9YdQ73YmvInxpXZVNjEKePw9tRO.jpg",
+      "title": "Sense and Sensibility",
+      "year": 1995
+    },
+    "Howards End": {
+      "id": 8293,
+      "poster": "/1009nhfj28VhhQnVadtjkOacduX.jpg",
+      "title": "Howards End",
+      "year": 1992
+    },
+    "Clueless": {
+      "id": 9603,
+      "poster": "/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",
+      "title": "Clueless",
+      "year": 1995
+    },
+    "Braveheart": {
+      "id": 197,
+      "poster": "/or1gBugydmjToAEq7OZY0owwFk.jpg",
+      "title": "Braveheart",
+      "year": 1995
+    },
+    "Apollo 13": {
+      "id": 568,
+      "poster": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+      "title": "Apollo 13",
+      "year": 1995
+    },
+    "Babe": {
+      "id": 9598,
+      "poster": "/zKuQMtnbVTz9DsOnOJmlW71v4qH.jpg",
+      "title": "Babe",
+      "year": 1995
+    },
+    "The Postman": {
+      "id": 11010,
+      "poster": "/cUaCpjVDefYShKyLmkcDsiPaBHn.jpg",
+      "title": "The Postman",
+      "year": 1994
+    },
+    "Toy Story": {
+      "id": 862,
+      "poster": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+      "title": "Toy Story",
+      "year": 1995
+    },
+    "Mike Wallace Is Here": {
+      "id": 566366,
+      "poster": "/i77vZGCNMVB0zK1l0qVGeH9whox.jpg",
+      "title": "Mike Wallace Is Here",
+      "year": 2019
+    },
+    "The Insider": {
+      "id": 9008,
+      "poster": "/w695X0FvTlBCS7GSLHNILnrfqPm.jpg",
+      "title": "The Insider",
+      "year": 1999
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    },
+    "Spirited Away": {
+      "id": 129,
+      "poster": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+      "title": "Spirited Away",
+      "year": 2001
+    },
+    "Captain America: Civil War": {
+      "id": 271110,
+      "poster": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+      "title": "Captain America: Civil War",
+      "year": 2016
+    },
+    "Incredibles 2": {
+      "id": 260513,
+      "poster": "/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
+      "title": "Incredibles 2",
+      "year": 2018
+    },
+    "Coco": {
+      "id": 354912,
+      "poster": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+      "title": "Coco",
+      "year": 2017
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Solo: A Star Wars Story": {
+      "id": 348350,
+      "poster": "/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg",
+      "title": "Solo: A Star Wars Story",
+      "year": 2018
+    },
+    "Pride and Prejudice": {
+      "id": 43818,
+      "poster": "/yoWwsLkuY5tMxUqkKMOHAJlImTs.jpg",
+      "title": "Pride and Prejudice",
+      "year": 1940
+    },
+    "Persuasion": {
+      "id": 17015,
+      "poster": "/10hycdhFLq3M3y0ONxIMSiY8Mrs.jpg",
+      "title": "Persuasion",
+      "year": 1995
+    },
+    "The Lion King": {
+      "id": 8587,
+      "poster": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+      "title": "The Lion King",
+      "year": 1994
+    },
+    "Spotlight": {
+      "id": 314365,
+      "poster": "/8DPGG400FgaFWaqcv11n8mRd2NG.jpg",
+      "title": "Spotlight",
+      "year": 2015
+    },
+    "The Wedding Banquet": {
+      "id": 9261,
+      "poster": "/arWCA8lg0rbdlwHUMvI46LNDhnL.jpg",
+      "title": "The Wedding Banquet",
+      "year": 1993
+    },
+    "Eat Drink Man Woman": {
+      "id": 10451,
+      "poster": "/olhIWtIBFg6VWK59DEd4lAvgVgz.jpg",
+      "title": "Eat Drink Man Woman",
+      "year": 1994
+    },
+    "Brokeback Mountain": {
+      "id": 142,
+      "poster": "/aByfQOQBNa4CMFwIgq3QrqY2ZHh.jpg",
+      "title": "Brokeback Mountain",
+      "year": 2005
+    },
+    "Life of Pi": {
+      "id": 87827,
+      "poster": "/iLgRu4hhSr6V1uManX6ukDriiSc.jpg",
+      "title": "Life of Pi",
+      "year": 2012
+    },
+    "Nanny McPhee": {
+      "id": 11283,
+      "poster": "/8tommndfI0W62teXwSmXdmVZ7gz.jpg",
+      "title": "Nanny McPhee",
+      "year": 2005
+    },
+    "Nanny McPhee Returns": {
+      "id": 35019,
+      "poster": "/9cgHfgBXVZmVR63AhwJ82R1kAFS.jpg",
+      "title": "Nanny McPhee and the Big Bang",
+      "year": 2010
+    },
+    "Effie Gray": {
+      "id": 114155,
+      "poster": "/eEeuxFscc6NLdyhpvqBGsHgpqV3.jpg",
+      "title": "Effie Gray",
+      "year": 2014
+    },
+    "Bridget Jones's Baby": {
+      "id": 95610,
+      "poster": "/5hHomngoPZrNoXOPlyaHV6eXaQW.jpg",
+      "title": "Bridget Jones's Baby",
+      "year": 2016
+    },
+    "Last Christmas": {
+      "id": 549053,
+      "poster": "/kDEjffiKgjuGo2DRzsqfjvW0CQh.jpg",
+      "title": "Last Christmas",
+      "year": 2019
+    },
+    "Four Weddings and a Funeral": {
+      "id": 712,
+      "poster": "/qa72G2VS0bpxms6yo0tI9vsHm2e.jpg",
+      "title": "Four Weddings and a Funeral",
+      "year": 1994
+    },
+    "Notting Hill": {
+      "id": 509,
+      "poster": "/hHRIf2XHeQMbyRb3HUx19SF5Ujw.jpg",
+      "title": "Notting Hill",
+      "year": 1999
+    },
+    "Love Actually": {
+      "id": 508,
+      "poster": "/7QPeVsr9rcFU9Gl90yg0gTOTpVv.jpg",
+      "title": "Love Actually",
+      "year": 2003
+    },
+    "Maleficent": {
+      "id": 102651,
+      "poster": "/ik8PugpL41s137RAWEGTAWu0dPo.jpg",
+      "title": "Maleficent",
+      "year": 2014
+    },
+    "The Hustle": {
+      "id": 449562,
+      "poster": "/qZniBGQRESLIfxw6GeZLZ2G1osa.jpg",
+      "title": "The Hustle",
+      "year": 2019
+    }
+  }
+}

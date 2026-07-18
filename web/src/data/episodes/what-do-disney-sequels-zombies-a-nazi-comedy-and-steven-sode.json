@@ -1,0 +1,420 @@
+{
+  "slug": "what-do-disney-sequels-zombies-a-nazi-comedy-and-steven-sode",
+  "title": "What Do Disney Sequels, Zombies, a Nazi Comedy, and Steven Soderbergh Have in Common?",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2019-10-18",
+  "runtimeMin": 84,
+  "format": "Sean and Amanda ask whether four new political-minded studio movies actually mean anything, then Ruben Fleischer explains ten years of Zombieland: Double Tap.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Movies in a state of political anxiety",
+      "note": "Maleficent, The Laundromat, Jojo Rabbit, and Zombieland: Double Tap",
+      "films": [
+        {
+          "title": "Maleficent: Mistress of Evil",
+          "year": 2019,
+          "note": "A Disney sequel that stumbles into a border-war, us-versus-them allegory. Michelle Pfeiffer's Queen Ingrith plays as a straightforward authoritarian, and Sean and Amanda can't tell if the movie knows how dark it's gotten."
+        },
+        {
+          "title": "The Laundromat",
+          "year": 2019,
+          "note": "Soderbergh's Panama Papers anthology, structured after Wild Tales, with Meryl Streep, Gary Oldman, and Antonio Banderas. It premiered to middling festival reviews, but Sean and Amanda liked it more than most; they think its nihilistic ending is exactly what turned people off."
+        },
+        {
+          "title": "Jojo Rabbit",
+          "year": 2019,
+          "note": "Taika Waititi's Hitler satire won the audience award at Toronto. Amanda finds the emotional material, the kid, the Anne Frank figure, works better than the comedy, some of which lands on Jewish people rather than at the Nazis' expense."
+        },
+        {
+          "title": "Zombieland: Double Tap",
+          "year": 2019,
+          "note": "Ten years later, the characters are still named for the cities they're from, which is either a comment on tribal identity or nothing at all. Sean mostly just thinks it works as a zombie comedy."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Ruben Fleischer on",
+      "films": [
+        {
+          "title": "Zombieland: Double Tap",
+          "year": 2019,
+          "note": "Ten years in the making. An earlier draft with human villains missed the tone of the original entirely and got shelved."
+        },
+        {
+          "title": "Zombieland",
+          "year": 2009,
+          "note": "Never a box-office giant, but it became a cable-and-DVD family staple. Woody Harrelson pushed the studio to cast an unknown Jesse Eisenberg."
+        },
+        {
+          "title": "Venom",
+          "year": 2018,
+          "note": "Fleischer's reference point was An American Werewolf in London. He wrapped it two weeks before release, took a week off, then went straight into Double Tap prep."
+        },
+        {
+          "title": "Gangster Squad",
+          "year": 2013,
+          "note": "A history major's dream assignment: 1949 Los Angeles."
+        },
+        {
+          "title": "30 Minutes or Less",
+          "year": 2011,
+          "note": "His dark comedy, made in the gap between Zombieland films."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Also political-minded this year",
+      "films": [
+        "Three Billboards Outside Ebbing, Missouri",
+        "Green Book",
+        "Joker",
+        "Parasite",
+        "Us",
+        "Bombshell",
+        "Vice",
+        "The Big Short",
+        "Wild Tales"
+      ]
+    },
+    {
+      "group": "Soderbergh, elsewhere",
+      "films": [
+        "The Informant!",
+        "Erin Brockovich",
+        "Traffic",
+        "High Flying Bird",
+        "Unsane"
+      ]
+    },
+    {
+      "group": "Disney and family-film precedent",
+      "films": [
+        "Mary Poppins",
+        "Mary Poppins Returns",
+        "The Wizard of Oz",
+        "Aladdin",
+        "The Lion King",
+        "Kung Fu Panda 3",
+        "Frozen"
+      ]
+    },
+    {
+      "group": "Zombie and genre lineage",
+      "films": [
+        "Night of the Living Dead",
+        "An American Werewolf in London",
+        "The Untouchables",
+        "Panic Room",
+        "National Lampoon's Vacation"
+      ]
+    },
+    {
+      "group": "Waititi's other films",
+      "films": [
+        "Thor: Ragnarok",
+        "What We Do in the Shadows"
+      ]
+    },
+    {
+      "group": "Maleficent's cast, elsewhere",
+      "films": [
+        "Control"
+      ]
+    },
+    {
+      "group": "Ruben Fleischer's filmography",
+      "films": [
+        "Chuck & Buck",
+        "Superbad",
+        "Leave No Trace",
+        "Deadpool",
+        "Deadpool 2"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Succession",
+      "Game of Thrones",
+      "The Walking Dead",
+      "The Bold Type",
+      "Stumptown",
+      "Dawson's Creek",
+      "People Just Do Nothing",
+      "Cheers"
+    ],
+    "Podcasts": [
+      "Number One Boys"
+    ],
+    "Named without a specific film": [
+      "Star Wars"
+    ]
+  },
+  "tmdbOverrides": {
+    "Night of the Living Dead": 10331
+  },
+  "tmdb": {
+    "Maleficent: Mistress of Evil": {
+      "id": 420809,
+      "poster": "/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg",
+      "title": "Maleficent: Mistress of Evil",
+      "year": 2019
+    },
+    "The Laundromat": {
+      "id": 517909,
+      "poster": "/hwNMJgbiUUvPCxsnADjbV9ysM5j.jpg",
+      "title": "The Laundromat",
+      "year": 2019
+    },
+    "Jojo Rabbit": {
+      "id": 515001,
+      "poster": "/1mqL7VG4Ix8wmxwypmCA1HTHBky.jpg",
+      "title": "Jojo Rabbit",
+      "year": 2019
+    },
+    "Zombieland: Double Tap": {
+      "id": 338967,
+      "poster": "/dtRbVsUb5O12WWO54SRpiMtHKC0.jpg",
+      "title": "Zombieland: Double Tap",
+      "year": 2019
+    },
+    "Zombieland": {
+      "id": 19908,
+      "poster": "/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg",
+      "title": "Zombieland",
+      "year": 2009
+    },
+    "Venom": {
+      "id": 335983,
+      "poster": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+      "title": "Venom",
+      "year": 2018
+    },
+    "Gangster Squad": {
+      "id": 82682,
+      "poster": "/wAuQNTBFBu2yXZsX6yLhUPiwTlW.jpg",
+      "title": "Gangster Squad",
+      "year": 2013
+    },
+    "30 Minutes or Less": {
+      "id": 62206,
+      "poster": "/12VgS5G6OG7ANKrSbhtUD2POHb8.jpg",
+      "title": "30 Minutes or Less",
+      "year": 2011
+    },
+    "Three Billboards Outside Ebbing, Missouri": {
+      "id": 359940,
+      "poster": "/bRYLt8fV82tdVoDppSFTZIcJiLN.jpg",
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "year": 2017
+    },
+    "Green Book": {
+      "id": 490132,
+      "poster": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+      "title": "Green Book",
+      "year": 2018
+    },
+    "Joker": {
+      "id": 475557,
+      "poster": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "title": "Joker",
+      "year": 2019
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Us": {
+      "id": 458723,
+      "poster": "/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+      "title": "Us",
+      "year": 2019
+    },
+    "Bombshell": {
+      "id": 525661,
+      "poster": "/gbPfvwBqbiHpQkYZQvVwB6MVauV.jpg",
+      "title": "Bombshell",
+      "year": 2019
+    },
+    "Vice": {
+      "id": 429197,
+      "poster": "/1gCab6rNv1r6V64cwsU4oEr649Y.jpg",
+      "title": "Vice",
+      "year": 2018
+    },
+    "The Big Short": {
+      "id": 318846,
+      "poster": "/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg",
+      "title": "The Big Short",
+      "year": 2015
+    },
+    "Wild Tales": {
+      "id": 265195,
+      "poster": "/bU7IUeTdYFOgeUPtwpWKQNhORMC.jpg",
+      "title": "Wild Tales",
+      "year": 2014
+    },
+    "The Informant!": {
+      "id": 11323,
+      "poster": "/eV8u5crNe4QYWcu0zjKxFVq2Qem.jpg",
+      "title": "The Informant!",
+      "year": 2009
+    },
+    "Erin Brockovich": {
+      "id": 462,
+      "poster": "/eMs20iUQyZVs05Ck7Q0LNnRsstr.jpg",
+      "title": "Erin Brockovich",
+      "year": 2000
+    },
+    "Traffic": {
+      "id": 1900,
+      "poster": "/jbccmnqE4oAPI67bApgt2JiRPz8.jpg",
+      "title": "Traffic",
+      "year": 2000
+    },
+    "High Flying Bird": {
+      "id": 510498,
+      "poster": "/ccE21xixa1zhkGtWDr4n8ReOp40.jpg",
+      "title": "High Flying Bird",
+      "year": 2019
+    },
+    "Unsane": {
+      "id": 467660,
+      "poster": "/wdaUssQhZDOgegkJZx7NfY75HRX.jpg",
+      "title": "Unsane",
+      "year": 2018
+    },
+    "Mary Poppins": {
+      "id": 433,
+      "poster": "/o4Wsby4ydIXhWmtmfvb451D5Np1.jpg",
+      "title": "Mary Poppins",
+      "year": 1964
+    },
+    "Mary Poppins Returns": {
+      "id": 400650,
+      "poster": "/uTVGku4LibMGyKgQvjBtv3OYfAX.jpg",
+      "title": "Mary Poppins Returns",
+      "year": 2018
+    },
+    "The Wizard of Oz": {
+      "id": 630,
+      "poster": "/uCC3j4pV9eOZwzDUWp2ilbcTf1f.jpg",
+      "title": "The Wizard of Oz",
+      "year": 1939
+    },
+    "Aladdin": {
+      "id": 812,
+      "poster": "/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
+      "title": "Aladdin",
+      "year": 1992
+    },
+    "The Lion King": {
+      "id": 8587,
+      "poster": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+      "title": "The Lion King",
+      "year": 1994
+    },
+    "Kung Fu Panda 3": {
+      "id": 140300,
+      "poster": "/oajNi4Su39WAByHI6EONu8G8HYn.jpg",
+      "title": "Kung Fu Panda 3",
+      "year": 2016
+    },
+    "Frozen": {
+      "id": 109445,
+      "poster": "/itAKcobTYGpYT8Phwjd8c9hleTo.jpg",
+      "title": "Frozen",
+      "year": 2013
+    },
+    "Night of the Living Dead": {
+      "id": 10331,
+      "poster": "/rb2NWyb008u1EcKCOyXs2Nmj0ra.jpg",
+      "title": "Night of the Living Dead",
+      "year": 1968
+    },
+    "An American Werewolf in London": {
+      "id": 814,
+      "poster": "/hVEqUASJmCQaolkKFEySCHZ8uKG.jpg",
+      "title": "An American Werewolf in London",
+      "year": 1981
+    },
+    "The Untouchables": {
+      "id": 117,
+      "poster": "/tPq0R4jTO4Ey8ZspFaWK9wGA4Ls.jpg",
+      "title": "The Untouchables",
+      "year": 1987
+    },
+    "Panic Room": {
+      "id": 4547,
+      "poster": "/hANYbvfwxmkC9E4yY6YyJxYxlSJ.jpg",
+      "title": "Panic Room",
+      "year": 2002
+    },
+    "National Lampoon's Vacation": {
+      "id": 11153,
+      "poster": "/q3DvoqY06yZnRp9faH6uge7n7VP.jpg",
+      "title": "National Lampoon's Vacation",
+      "year": 1983
+    },
+    "Thor: Ragnarok": {
+      "id": 284053,
+      "poster": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "title": "Thor: Ragnarok",
+      "year": 2017
+    },
+    "What We Do in the Shadows": {
+      "id": 246741,
+      "poster": "/a2rD3i3DBMeYbA34rBv6z3B9S3a.jpg",
+      "title": "What We Do in the Shadows",
+      "year": 2014
+    },
+    "Control": {
+      "id": 5708,
+      "poster": "/jOJiaOhwrDdwqTRZvZOhbndqHGp.jpg",
+      "title": "Control",
+      "year": 2007
+    },
+    "Chuck & Buck": {
+      "id": 44490,
+      "poster": "/k0GY9haWiwZtBOf2T7winwNcsep.jpg",
+      "title": "Chuck & Buck",
+      "year": 2000
+    },
+    "Superbad": {
+      "id": 8363,
+      "poster": "/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg",
+      "title": "Superbad",
+      "year": 2007
+    },
+    "Leave No Trace": {
+      "id": 443463,
+      "poster": "/sygnLx3sZV5P8M2dyaGRegHdEL1.jpg",
+      "title": "Leave No Trace",
+      "year": 2018
+    },
+    "Deadpool": {
+      "id": 293660,
+      "poster": "/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
+      "title": "Deadpool",
+      "year": 2016
+    },
+    "Deadpool 2": {
+      "id": 383498,
+      "poster": "/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+      "title": "Deadpool 2",
+      "year": 2018
+    }
+  }
+}

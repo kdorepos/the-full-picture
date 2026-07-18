@@ -1,0 +1,359 @@
+{
+  "slug": "top-gun-maverick-is-here",
+  "title": "'Top Gun: Maverick' Is Here!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessy",
+    "Amanda Dobbins"
+  ],
+  "published": "2022-05-27",
+  "runtimeMin": 81,
+  "format": "Sean and Amanda give a spoiler-free verdict on 'Top Gun: Maverick,' then Sean sits down with director Joseph Kosinski to talk pitching Tom Cruise, six IMAX cameras crammed into an F-18 cockpit, and why the mission stays nameless.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Remembering Ray Liotta",
+      "note": "a brief tribute before the main event",
+      "films": [
+        {
+          "title": "Goodfellas",
+          "year": 1990
+        },
+        {
+          "title": "Something Wild",
+          "year": 1986
+        },
+        {
+          "title": "Unlawful Entry",
+          "year": 1992
+        },
+        {
+          "title": "Corrina, Corrina",
+          "year": 1994
+        },
+        {
+          "title": "Cop Land",
+          "year": 1997
+        },
+        {
+          "title": "The Many Saints of Newark",
+          "year": 2021,
+          "note": "the Sopranos prequel Sean calls Liotta's best recent work"
+        },
+        {
+          "title": "Marriage Story",
+          "year": 2019,
+          "note": "Amanda's guess for what Sean would cite; he didn't"
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "'Top Gun: Maverick' Review",
+      "note": "spoiler-free",
+      "films": [
+        {
+          "title": "Top Gun: Maverick",
+          "year": 2022,
+          "note": "1,050 days late, and both hosts think it beats the original"
+        },
+        {
+          "title": "Top Gun",
+          "year": 1986,
+          "note": "Amanda: the closest she gets to loving a 'bad good movie'"
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Joseph Kosinski on",
+      "films": [
+        {
+          "title": "Oblivion",
+          "year": 2013,
+          "note": "his first film with Cruise; the crew shirt read 'Oblivion' in the Top Gun font"
+        },
+        {
+          "title": "Only the Brave",
+          "year": 2017,
+          "note": "the drama that convinced him Top Gun had to be a drama too"
+        },
+        {
+          "title": "Tron: Legacy",
+          "year": 2010,
+          "note": "the other project that started with a pitch to a movie star, in this case Jeff Bridges"
+        },
+        {
+          "title": "Spiderhead",
+          "year": 2022,
+          "note": "his Netflix film, out the same month"
+        },
+        {
+          "title": "The Green Knight",
+          "year": 2021,
+          "note": "the last great thing he saw, on a flight to the UK"
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Legacy sequels, for comparison",
+      "films": [
+        "Mad Max: Fury Road",
+        "Tron: Legacy",
+        "Space Jam: A New Legacy",
+        "Blade Runner 2049",
+        "Creed",
+        "Star Wars: The Force Awakens"
+      ]
+    },
+    {
+      "group": "Tom Cruise, elsewhere",
+      "films": [
+        "The Verdict",
+        "The Color of Money",
+        "Eyes Wide Shut",
+        "Jack Reacher: Never Go Back"
+      ]
+    },
+    {
+      "group": "Jon Hamm's recent run of stern men in uniform",
+      "films": [
+        "No Sudden Move",
+        "Richard Jewell",
+        "Lucy in the Sky",
+        "The Report",
+        "Bad Times at the El Royale",
+        "Confess, Fletch"
+      ]
+    },
+    {
+      "group": "Tony Scott, cited by Kosinski",
+      "films": [
+        "The Hunger",
+        "Days of Thunder",
+        "Crimson Tide",
+        "True Romance"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Barry",
+      "Mad Men",
+      "The Sopranos"
+    ],
+    "Ads": [
+      "FIFA World Cup Launch Edition (Netflix)",
+      "Boar's Head",
+      "Botox",
+      "Sam's Club",
+      "Pepsi",
+      "Progressive (Jon Hamm's commercials)"
+    ]
+  },
+  "tmdb": {
+    "Goodfellas": {
+      "id": 769,
+      "poster": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+      "title": "GoodFellas",
+      "year": 1990
+    },
+    "Something Wild": {
+      "id": 11300,
+      "poster": "/344lhBozqFWKxBb4fp6azYQMLEy.jpg",
+      "title": "Something Wild",
+      "year": 1986
+    },
+    "Unlawful Entry": {
+      "id": 17494,
+      "poster": "/dvw1Pkt0tk8tvXy61cMwOaPgkyb.jpg",
+      "title": "Unlawful Entry",
+      "year": 1992
+    },
+    "Corrina, Corrina": {
+      "id": 10464,
+      "poster": "/atPbnSNt21aSysWOk4QCvRT5XxE.jpg",
+      "title": "Corrina, Corrina",
+      "year": 1994
+    },
+    "Cop Land": {
+      "id": 2142,
+      "poster": "/dyOqXyPCQh8VF0KA5aelBCCQond.jpg",
+      "title": "Cop Land",
+      "year": 1997
+    },
+    "The Many Saints of Newark": {
+      "id": 524369,
+      "poster": "/1UkbPQspPbq1FPbFP4VV1ELCfSN.jpg",
+      "title": "The Many Saints of Newark",
+      "year": 2021
+    },
+    "Marriage Story": {
+      "id": 492188,
+      "poster": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+      "title": "Marriage Story",
+      "year": 2019
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Top Gun": {
+      "id": 744,
+      "poster": "/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+      "title": "Top Gun",
+      "year": 1986
+    },
+    "Oblivion": {
+      "id": 75612,
+      "poster": "/bYLM3GpNUZnoFElPXp1zlhDPdtv.jpg",
+      "title": "Oblivion",
+      "year": 2013
+    },
+    "Only the Brave": {
+      "id": 395991,
+      "poster": "/db5IkOJu9UHktrKroNktw1Z8ARY.jpg",
+      "title": "Only the Brave",
+      "year": 2017
+    },
+    "Tron: Legacy": {
+      "id": 20526,
+      "poster": "/8Nc6R8k7bG8frSiDJo0oLucF7dN.jpg",
+      "title": "TRON: Legacy",
+      "year": 2010
+    },
+    "Spiderhead": {
+      "id": 615469,
+      "poster": "/7COPO5B9AOKIB4sEkvNu0wfve3c.jpg",
+      "title": "Spiderhead",
+      "year": 2022
+    },
+    "The Green Knight": {
+      "id": 559907,
+      "poster": "/if4hw3Ou5Sav9Em7WWHj66mnywp.jpg",
+      "title": "The Green Knight",
+      "year": 2021
+    },
+    "Mad Max: Fury Road": {
+      "id": 76341,
+      "poster": "/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+      "title": "Mad Max: Fury Road",
+      "year": 2015
+    },
+    "Space Jam: A New Legacy": {
+      "id": 379686,
+      "poster": "/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg",
+      "title": "Space Jam: A New Legacy",
+      "year": 2021
+    },
+    "Blade Runner 2049": {
+      "id": 335984,
+      "poster": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+      "title": "Blade Runner 2049",
+      "year": 2017
+    },
+    "Creed": {
+      "id": 312221,
+      "poster": "/1BfTsk5VWuw8FCocAhCyqnRbEzq.jpg",
+      "title": "Creed",
+      "year": 2015
+    },
+    "Star Wars: The Force Awakens": {
+      "id": 140607,
+      "poster": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+      "title": "Star Wars: The Force Awakens",
+      "year": 2015
+    },
+    "The Verdict": {
+      "id": 24226,
+      "poster": "/iYEuFP1bpj5yOenKliiRFcNO3VE.jpg",
+      "title": "The Verdict",
+      "year": 1982
+    },
+    "The Color of Money": {
+      "id": 11873,
+      "poster": "/dVdnHmdQu3JtLAAksjTmTEF76gD.jpg",
+      "title": "The Color of Money",
+      "year": 1986
+    },
+    "Eyes Wide Shut": {
+      "id": 345,
+      "poster": "/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+      "title": "Eyes Wide Shut",
+      "year": 1999
+    },
+    "Jack Reacher: Never Go Back": {
+      "id": 343611,
+      "poster": "/cOg3UT2NYWHZxp41vpxAnVCOC4M.jpg",
+      "title": "Jack Reacher: Never Go Back",
+      "year": 2016
+    },
+    "No Sudden Move": {
+      "id": 649409,
+      "poster": "/kARdPEc4b32GQlHmJXMhGOCplEA.jpg",
+      "title": "No Sudden Move",
+      "year": 2021
+    },
+    "Richard Jewell": {
+      "id": 292011,
+      "poster": "/5Lgkm8jt4roAFPZQ52fKMhVmDaZ.jpg",
+      "title": "Richard Jewell",
+      "year": 2019
+    },
+    "Lucy in the Sky": {
+      "id": 340104,
+      "poster": "/ofhOB6EGSBqzGHA0MStMx9zWnML.jpg",
+      "title": "Lucy in the Sky",
+      "year": 2019
+    },
+    "The Report": {
+      "id": 524348,
+      "poster": "/sG5NI6TMNR9ftOdTIXmG0hrBYSY.jpg",
+      "title": "The Report",
+      "year": 2019
+    },
+    "Bad Times at the El Royale": {
+      "id": 446021,
+      "poster": "/qExufIc4Rw0e4xdVZlhMdmEDGES.jpg",
+      "title": "Bad Times at the El Royale",
+      "year": 2018
+    },
+    "Confess, Fletch": {
+      "id": 724665,
+      "poster": "/h2oyiPu7aql1s1mLDoKBNAH7p3B.jpg",
+      "title": "Confess, Fletch",
+      "year": 2022
+    },
+    "The Hunger": {
+      "id": 11654,
+      "poster": "/lFTDtRtK8J55A1LTpwigV7QGQg7.jpg",
+      "title": "The Hunger",
+      "year": 1983
+    },
+    "Days of Thunder": {
+      "id": 2119,
+      "poster": "/8UvcoeMJag8UWGF8sg7eYspzq0Q.jpg",
+      "title": "Days of Thunder",
+      "year": 1990
+    },
+    "Crimson Tide": {
+      "id": 8963,
+      "poster": "/21nqRJ6ofEgVvEl68J4O9V26Xzy.jpg",
+      "title": "Crimson Tide",
+      "year": 1995
+    },
+    "True Romance": {
+      "id": 319,
+      "poster": "/39lXk6ud6KiJgGbbWI2PUKS7y2.jpg",
+      "title": "True Romance",
+      "year": 1993
+    }
+  },
+  "spotifyEpisodeId": "1WxMYgHkYz1iCgjB13pss1"
+}

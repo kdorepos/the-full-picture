@@ -1,0 +1,320 @@
+{
+  "slug": "a-joker-deep-dive-spoilers-the-big-picture",
+  "title": "A 'Joker' Deep Dive (SPOILERS) | The Big Picture",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Jason Concepcion"
+  ],
+  "published": "2019-10-04",
+  "runtimeMin": 110,
+  "format": "Sean Fennessey and Jason Concepcion trace the Joker from Batman #1 through the movies, then dig into Todd Phillips's film. Plus: Sean talks Lucy in the Sky with writer-director Noah Hawley.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The Joker on screen, before Phillips",
+      "note": "80 years of the character, four movie versions",
+      "films": [
+        {
+          "title": "The Man Who Laughs",
+          "year": 1928,
+          "note": "The Conrad Veidt silent film Bill Finger and Bob Kane cite as the source; Gwynplaine's permanent grin is the visual template for the Joker."
+        },
+        {
+          "title": "Batman",
+          "year": 1989,
+          "note": "Jack Nicholson plays to the rafters; Burton's version retcons the Joker as the man who shot Bruce Wayne's parents, an early fanboy-canon flashpoint."
+        },
+        {
+          "title": "Batman Returns",
+          "year": 1992,
+          "note": "Cited alongside the first as a strange, goofy cultural document, nothing like the later Marvel house style."
+        },
+        {
+          "title": "Batman Begins",
+          "year": 2005,
+          "note": "The Nolan reboot, a hit whose success set up the anticipation for its sequel."
+        },
+        {
+          "title": "The Dark Knight",
+          "year": 2008,
+          "note": "Heath Ledger's Joker, an unreliable narrator with no origin, reset the template and changed how the comics drew him too."
+        },
+        {
+          "title": "Suicide Squad",
+          "year": 2016,
+          "note": "Jared Leto's muscular, tattooed Joker; a bungled, over-vain take with too many trace elements of Ledger to work."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "'Joker'",
+      "note": "spoilers throughout",
+      "films": [
+        {
+          "title": "Joker",
+          "year": 2019,
+          "note": "Todd Phillips's Travis Bickle riff, Joaquin Phoenix as Arthur Fleck. The hosts call it compelling and troubling, the truest screen version of the Joker as mentally ill, and a Trojan-horse 70s character study that only turns comic-book in its final act."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Noah Hawley on",
+      "films": [
+        {
+          "title": "Lucy in the Sky",
+          "year": 2019,
+          "note": "Hawley's feature debut, a fictionalized magic-realism riff on the Lisa Nowak astronaut story with Natalie Portman, built around a shifting aspect ratio."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The 'Joker' touchstones",
+      "films": [
+        "Taxi Driver",
+        "The King of Comedy",
+        "Joe",
+        "Network",
+        "I'm Still Here",
+        "Psycho",
+        "Zorro, The Gay Blade"
+      ]
+    },
+    {
+      "group": "The R-rated superhero wave",
+      "films": [
+        "Logan",
+        "Deadpool",
+        "The Wild Bunch",
+        "Avengers: Endgame",
+        "Avengers: Infinity War",
+        "Black Panther",
+        "Aquaman",
+        "Iron Man",
+        "Die Hard"
+      ]
+    },
+    {
+      "group": "Hawley's references",
+      "films": [
+        "The Right Stuff",
+        "Gravity",
+        "The Great Beauty",
+        "Youth",
+        "I, Tonya"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Joe": 46691,
+    "Youth": 310593
+  },
+  "excluded": {
+    "TV": [
+      "Fargo",
+      "Legion",
+      "Batman (1966 series)",
+      "Batman: The Animated Series",
+      "The Boys",
+      "Breaking Bad",
+      "The Unusuals",
+      "My Generation",
+      "NBA Desktop",
+      "Escape at Dannemora"
+    ],
+    "Podcasts": [
+      "Sonic Boom",
+      "Binge Mode",
+      "The Rewatchables"
+    ],
+    "Games": [
+      "Batman: Arkham series"
+    ],
+    "Ads": [
+      "MasterClass",
+      "Luminary"
+    ]
+  },
+  "tmdb": {
+    "The Man Who Laughs": {
+      "id": 27517,
+      "poster": "/iQXBMr4NzQst4X0rDU6MII6ZUOM.jpg",
+      "title": "The Man Who Laughs",
+      "year": 1928
+    },
+    "Batman": {
+      "id": 268,
+      "poster": "/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
+      "title": "Batman",
+      "year": 1989
+    },
+    "Batman Returns": {
+      "id": 364,
+      "poster": "/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg",
+      "title": "Batman Returns",
+      "year": 1992
+    },
+    "Batman Begins": {
+      "id": 272,
+      "poster": "/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+      "title": "Batman Begins",
+      "year": 2005
+    },
+    "The Dark Knight": {
+      "id": 155,
+      "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    "Suicide Squad": {
+      "id": 297761,
+      "poster": "/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg",
+      "title": "Suicide Squad",
+      "year": 2016
+    },
+    "Joker": {
+      "id": 475557,
+      "poster": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "title": "Joker",
+      "year": 2019
+    },
+    "Lucy in the Sky": {
+      "id": 340104,
+      "poster": "/ofhOB6EGSBqzGHA0MStMx9zWnML.jpg",
+      "title": "Lucy in the Sky",
+      "year": 2019
+    },
+    "Taxi Driver": {
+      "id": 103,
+      "poster": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "title": "Taxi Driver",
+      "year": 1976
+    },
+    "The King of Comedy": {
+      "id": 262,
+      "poster": "/m24EbHxT9NGYEkOlu29YcLOgjgK.jpg",
+      "title": "The King of Comedy",
+      "year": 1982
+    },
+    "Joe": {
+      "id": 46691,
+      "poster": "/2x4YCP8uV4cKOS5ZEKt1Cc1h4eF.jpg",
+      "title": "Joe",
+      "year": 1970
+    },
+    "Network": {
+      "id": 10774,
+      "poster": "/qZomlHsaALUtkFeMDwdYmwS2Pbo.jpg",
+      "title": "Network",
+      "year": 1976
+    },
+    "I'm Still Here": {
+      "id": 43939,
+      "poster": "/h8c53OPv2miF6vzpVXQZX8jw1pJ.jpg",
+      "title": "I'm Still Here",
+      "year": 2010
+    },
+    "Psycho": {
+      "id": 539,
+      "poster": "/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+      "title": "Psycho",
+      "year": 1960
+    },
+    "Zorro, The Gay Blade": {
+      "id": 19317,
+      "poster": "/qNrJKDXx0hPKPKcNFRXMI7MjPSD.jpg",
+      "title": "Zorro, The Gay Blade",
+      "year": 1981
+    },
+    "Logan": {
+      "id": 263115,
+      "poster": "/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+      "title": "Logan",
+      "year": 2017
+    },
+    "Deadpool": {
+      "id": 293660,
+      "poster": "/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
+      "title": "Deadpool",
+      "year": 2016
+    },
+    "The Wild Bunch": {
+      "id": 576,
+      "poster": "/8j9yEC3xjy1PJDSizIbaxcHaSph.jpg",
+      "title": "The Wild Bunch",
+      "year": 1969
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "Aquaman": {
+      "id": 297802,
+      "poster": "/ufl63EFcc5XpByEV2Ecdw6WJZAI.jpg",
+      "title": "Aquaman",
+      "year": 2018
+    },
+    "Iron Man": {
+      "id": 1726,
+      "poster": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "title": "Iron Man",
+      "year": 2008
+    },
+    "Die Hard": {
+      "id": 562,
+      "poster": "/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg",
+      "title": "Die Hard",
+      "year": 1988
+    },
+    "The Right Stuff": {
+      "id": 9549,
+      "poster": "/btqTjNRxecYgQ1FGfVlLqSSNjz.jpg",
+      "title": "The Right Stuff",
+      "year": 1983
+    },
+    "Gravity": {
+      "id": 49047,
+      "poster": "/kZ2nZw8D681aphje8NJi8EfbL1U.jpg",
+      "title": "Gravity",
+      "year": 2013
+    },
+    "The Great Beauty": {
+      "id": 179144,
+      "poster": "/7suf0vaQfv5E7X1GVh4HJwK90yo.jpg",
+      "title": "The Great Beauty",
+      "year": 2013
+    },
+    "Youth": {
+      "id": 310593,
+      "poster": "/ceRN51oeadmccAvqvDxpnnNRcLU.jpg",
+      "title": "Youth",
+      "year": 2015
+    },
+    "I, Tonya": {
+      "id": 389015,
+      "poster": "/6gNXwSHxaksR1PjVZRqNapmkgj3.jpg",
+      "title": "I, Tonya",
+      "year": 2017
+    }
+  }
+}

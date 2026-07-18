@@ -1,0 +1,311 @@
+{
+  "slug": "the-magic-of-air-and-the-return-of-ben-affleck-and-matt-damo",
+  "title": "The Magic of ‘Air’ and the Return of Ben Affleck and Matt Damon",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2023-04-07",
+  "runtimeMin": 96,
+  "format": "Affleck and Damon reunite for a Nike shoe drama that plays like corny Moneyball, and Sean and Amanda spend most of the review arguing over whether loving it makes them corporate shills. Then Sean talks to Sam Jones about directing the Jason Isbell documentary Running With Our Eyes Closed.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "Air",
+      "note": "Ben Affleck and Matt Damon's Nike drama",
+      "films": [
+        {
+          "title": "Air",
+          "year": 2023,
+          "note": "Affleck directs Damon as Sonny Vaccaro, the Nike exec who chased Michael Jordan in 1984. Amanda loves it and hates herself for loving it, since underneath the movie-star chemistry it plays like a well-dressed ad for Nike (and for corporations generally). Sean argues the same tension runs through Moneyball and nobody minds. Jordan himself stays offscreen (heard, rarely seen) so his real footage and The Last Dance don't have to compete with an actor. Viola Davis, as Jordan's mother Dolores, gets singled out as the film's best performance and the person who should probably be its protagonist. Jason Bateman, Chris Tucker, Marlon Wayans, and Chris Messina round out the supporting cast; Sean calls it a $90 million demonstration that movie stars and production value are the actual difference between this and the mediocre streaming version of the same story."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Sam Jones on",
+      "films": [
+        {
+          "title": "Jason Isbell: Running with Our Eyes Closed",
+          "year": 2023,
+          "note": "Sam Jones' verité documentary about Isbell recording Reunions, which turns into a pandemic-disrupted portrait of his marriage to bandmate Amanda Shires. Sean worked on the film and says so upfront; Jones talks through shooting it himself as the closest camera operator, and pivoting to remote-rigged Zoom shoots when COVID shut down the Nashville sessions."
+        },
+        {
+          "title": "I Am Trying to Break Your Heart: A Film About Wilco",
+          "year": 2002,
+          "note": "Jones' Wilco documentary, the reference point for Running With Our Eyes Closed's studio-verité style. Played 400 theaters; Jones still calls a theatrical run irreplaceable."
+        },
+        {
+          "title": "Tony Hawk: Until the Wheels Fall Off",
+          "year": 2022,
+          "note": "Jones' HBO documentary on Tony Hawk, released the year before. He puts it at roughly 10% verité versus 85% for the Isbell film, since Hawk's story is a completed career arc rather than an artist mid-process."
+        },
+        {
+          "title": "The French",
+          "year": 1982,
+          "note": "Jones' pick for last great thing he's seen: a verité documentary shot at the French Open with rare access to McEnroe, Borg, Arthur Ashe, and Martina Navratilova, from before players had agents keeping cameras out of locker rooms."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Damon and Affleck's filmography together",
+      "films": [
+        "The Last Duel",
+        "Good Will Hunting",
+        "School Ties",
+        "Rounders"
+      ]
+    },
+    {
+      "group": "Affleck solo",
+      "films": [
+        "Argo",
+        "Paycheck",
+        "Gigli",
+        "Hypnotic"
+      ]
+    },
+    {
+      "group": "Damon's Oscar history",
+      "films": [
+        "Invictus",
+        "The Martian",
+        "Manchester by the Sea",
+        "Promised Land"
+      ]
+    },
+    {
+      "group": "Corporate-biopic comparisons",
+      "films": [
+        "Moneyball",
+        "Tetris",
+        "BlackBerry",
+        "Flamin' Hot"
+      ]
+    },
+    {
+      "group": "2023 box office and awards chatter",
+      "films": [
+        "The Super Mario Bros. Movie",
+        "Killers of the Flower Moon",
+        "Napoleon",
+        "Ferrari",
+        "The Equalizer 3",
+        "Joker: Folie à Deux",
+        "Dungeons & Dragons: Honor Among Thieves"
+      ]
+    },
+    {
+      "group": "Coming up next week",
+      "films": [
+        "Showing Up"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Yellowstone"
+    ],
+    "Podcasts": [
+      "Off Camera",
+      "Plain English",
+      "Age of Napoleon",
+      "The History of Rome"
+    ],
+    "Games": [
+      "FIFA World Cup Launch Edition"
+    ],
+    "Ads": [
+      "Netflix",
+      "FanDuel",
+      "Boar's Head",
+      "Carvana",
+      "NOS Energy",
+      "Blinds.com"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Last Duel": 617653
+  },
+  "tmdb": {
+    "Air": {
+      "id": 964980,
+      "poster": "/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg",
+      "title": "Air",
+      "year": 2023
+    },
+    "Jason Isbell: Running with Our Eyes Closed": {
+      "id": 1103461,
+      "poster": "/3eYl2GyxCAwVJMlBiJVWnZYkEKr.jpg",
+      "title": "Jason Isbell: Running With Our Eyes Closed",
+      "year": 2023
+    },
+    "I Am Trying to Break Your Heart: A Film About Wilco": {
+      "id": 14308,
+      "poster": "/fM4eEtfq0Nsvz6gi6t8UpC4Xdhq.jpg",
+      "title": "I Am Trying to Break Your Heart: A Film About Wilco",
+      "year": 2002
+    },
+    "Tony Hawk: Until the Wheels Fall Off": {
+      "id": 881198,
+      "poster": "/namFh1FM7BkCkiljALtgMXOoANI.jpg",
+      "title": "Tony Hawk: Until the Wheels Fall Off",
+      "year": 2022
+    },
+    "The French": {
+      "id": 183981,
+      "poster": "/62CdhRG0meYvc6HaLxpOz7tim9p.jpg",
+      "title": "The French",
+      "year": 1982
+    },
+    "The Last Duel": {
+      "id": 617653,
+      "poster": "/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg",
+      "title": "The Last Duel",
+      "year": 2021
+    },
+    "Good Will Hunting": {
+      "id": 489,
+      "poster": "/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+      "title": "Good Will Hunting",
+      "year": 1997
+    },
+    "School Ties": {
+      "id": 14684,
+      "poster": "/h9u6VSyEPlF5L69QSzOh1eo4F5q.jpg",
+      "title": "School Ties",
+      "year": 1992
+    },
+    "Rounders": {
+      "id": 10220,
+      "poster": "/mqbMwYGwIChnaCO55h7v8DG8Wwy.jpg",
+      "title": "Rounders",
+      "year": 1998
+    },
+    "Argo": {
+      "id": 68734,
+      "poster": "/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
+      "title": "Argo",
+      "year": 2012
+    },
+    "Paycheck": {
+      "id": 9620,
+      "poster": "/h0BWaPnWYXwbCXF69DxS0YWcVy2.jpg",
+      "title": "Paycheck",
+      "year": 2003
+    },
+    "Gigli": {
+      "id": 8046,
+      "poster": "/qOhAK3WDqdeVTIE59loXvEGU7Lu.jpg",
+      "title": "Gigli",
+      "year": 2003
+    },
+    "Hypnotic": {
+      "id": 536437,
+      "poster": "/3IhGkkalwXguTlceGSl8XUJZOVI.jpg",
+      "title": "Hypnotic",
+      "year": 2023
+    },
+    "Invictus": {
+      "id": 22954,
+      "poster": "/runuhBAAX7PmdjGhqRKCyl4bh7z.jpg",
+      "title": "Invictus",
+      "year": 2009
+    },
+    "The Martian": {
+      "id": 286217,
+      "poster": "/fASz8A0yFE3QB6LgGoOfwvFSseV.jpg",
+      "title": "The Martian",
+      "year": 2015
+    },
+    "Manchester by the Sea": {
+      "id": 334541,
+      "poster": "/o9VXYOuaJxCEKOxbA86xqtwmqYn.jpg",
+      "title": "Manchester by the Sea",
+      "year": 2016
+    },
+    "Promised Land": {
+      "id": 133694,
+      "poster": "/5C0b6Wu4Z0V4NuA1cD8SZU7FCkb.jpg",
+      "title": "Promised Land",
+      "year": 2012
+    },
+    "Moneyball": {
+      "id": 60308,
+      "poster": "/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+      "title": "Moneyball",
+      "year": 2011
+    },
+    "Tetris": {
+      "id": 726759,
+      "poster": "/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg",
+      "title": "Tetris",
+      "year": 2023
+    },
+    "BlackBerry": {
+      "id": 1016084,
+      "poster": "/ePWKQzOnwabMcJsWYWIiy5p1Ofr.jpg",
+      "title": "BlackBerry",
+      "year": 2023
+    },
+    "Flamin' Hot": {
+      "id": 626332,
+      "poster": "/a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg",
+      "title": "Flamin' Hot",
+      "year": 2023
+    },
+    "The Super Mario Bros. Movie": {
+      "id": 502356,
+      "poster": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+      "title": "The Super Mario Bros. Movie",
+      "year": 2023
+    },
+    "Killers of the Flower Moon": {
+      "id": 466420,
+      "poster": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+      "title": "Killers of the Flower Moon",
+      "year": 2023
+    },
+    "Napoleon": {
+      "id": 753342,
+      "poster": "/ytFOXyghxLzAM4KZyazDdEkM66q.jpg",
+      "title": "Napoleon",
+      "year": 2023
+    },
+    "Ferrari": {
+      "id": 365620,
+      "poster": "/LyCOcGqOTyTmaXu2TK8LfGveIb.jpg",
+      "title": "Ferrari",
+      "year": 2023
+    },
+    "The Equalizer 3": {
+      "id": 926393,
+      "poster": "/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg",
+      "title": "The Equalizer 3",
+      "year": 2023
+    },
+    "Joker: Folie à Deux": {
+      "id": 889737,
+      "poster": "/aciP8Km0waTLXEYf5ybFK5CSUxl.jpg",
+      "title": "Joker: Folie à Deux",
+      "year": 2024
+    },
+    "Dungeons & Dragons: Honor Among Thieves": {
+      "id": 493529,
+      "poster": "/v7UF7ypAqjsFZFdjksjQ7IUpXdn.jpg",
+      "title": "Dungeons & Dragons: Honor Among Thieves",
+      "year": 2023
+    },
+    "Showing Up": {
+      "id": 790416,
+      "poster": "/iJw55oTb2MlG4NWjq3sbIFUVU76.jpg",
+      "title": "Showing Up",
+      "year": 2023
+    }
+  }
+}

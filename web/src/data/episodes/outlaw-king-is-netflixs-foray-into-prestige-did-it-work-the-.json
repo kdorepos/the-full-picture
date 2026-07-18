@@ -1,0 +1,426 @@
+{
+  "slug": "outlaw-king-is-netflixs-foray-into-prestige-did-it-work-the-",
+  "title": "‘Outlaw King’ Is Netflix’s Foray Into Prestige. Did It Work? | The Oscars Show (Ep. 97)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2018-11-13",
+  "runtimeMin": 49,
+  "format": "Sean and Amanda size up Netflix's prestige push through Outlaw King, Buster Scruggs, and Roma's theatrical test run, then move to The Front Runner, Green Book, Widows, and The Favorite.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Netflix's Prestige Push",
+      "note": "Outlaw King, Buster Scruggs, and the theatrical test run",
+      "films": [
+        {
+          "title": "Outlaw King",
+          "year": 2018,
+          "note": "Chris Pine as Robert the Bruce, directed by David McKenzie, picking up roughly where Braveheart leaves off. Amanda calls it a perfectly acceptable Friday-night battle movie; neither thinks it's a real Oscar contender."
+        },
+        {
+          "title": "The Ballad of Buster Scruggs",
+          "year": 2018,
+          "note": "Six Coen brothers segments stitched together, released the same week as Outlaw King. Despite the pedigree of No Country for Old Men and True Grit, it isn't getting nearly the same awards buzz."
+        },
+        {
+          "title": "Roma",
+          "year": 2018,
+          "note": "Alfonso Cuarón's film gets Netflix's first real theatrical run (New York, LA, and Mexico City) after Alamo Drafthouse balked at a longer window. Sean and Amanda saw it in theaters and think it's the strongest of Netflix's three awards plays."
+        },
+        {
+          "title": "22 July",
+          "year": 2018,
+          "note": "Paul Greengrass's dramatization of the 2011 Norway attacks. Despite his Oscar history with United 93 and Captain Phillips, it wasn't well received."
+        },
+        {
+          "title": "Bird Box",
+          "year": 2018,
+          "note": "Sandra Bullock, directed by Susanne Bier, still to come this December. Sean guesses it'll land closer to Bright than to actual awards fare."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Stock Down: The Front Runner",
+      "films": [
+        {
+          "title": "The Front Runner",
+          "year": 2018,
+          "note": "Jason Reitman's Gary Hart movie, with Hugh Jackman playing the scandal-felled 1988 presidential candidate. Its Election Day release stunt backfired, and Sean and Amanda think its nuance is a bad fit for the current political mood."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The Buzzword: Crowd-Pleaser",
+      "note": "Green Book as this week's example",
+      "films": [
+        {
+          "title": "Green Book",
+          "year": 2018,
+          "note": "Peter Farrelly's Deep South road movie with Viggo Mortensen and Mahershala Ali. Both hosts were won over despite themselves and expect Best Picture and acting nominations."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Best Supporting Actress: Widows and The Favorite",
+      "films": [
+        {
+          "title": "Widows",
+          "year": 2018,
+          "note": "Steve McQueen's heist film, led by Viola Davis. Elizabeth Debicki and Cynthia Erivo are the two Sean and Amanda would actually nominate out of a crowded cast."
+        },
+        {
+          "title": "Bad Times at the El Royale",
+          "year": 2018,
+          "note": "Erivo's other 2018 role, a Motown-style singer in a thriller that didn't land, though it's another physical showcase for her."
+        },
+        {
+          "title": "The Favorite",
+          "year": 2018,
+          "note": "Yorgos Lanthimos's palace comedy. Olivia Colman is running lead, which leaves Rachel Weisz and Emma Stone splitting supporting-actress attention. Sean bets Stone edges out Weisz."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Netflix and Oscar-season touchstones",
+      "films": [
+        "Beasts of No Nation",
+        "Braveheart",
+        "Hell or High Water",
+        "United 93",
+        "Captain Phillips",
+        "Set It Up",
+        "To All the Boys I've Loved Before",
+        "The Kissing Booth",
+        "No Country for Old Men",
+        "True Grit",
+        "The Man Who Wasn't There",
+        "The Irishman",
+        "Bright",
+        "Tully"
+      ]
+    },
+    {
+      "group": "Filmography namedrops",
+      "films": [
+        "There's Something About Mary",
+        "Kingpin",
+        "Hidden Figures",
+        "Little Miss Sunshine",
+        "Driving Miss Daisy",
+        "12 Years a Slave",
+        "Shame",
+        "Hunger",
+        "Fences",
+        "Girlfight",
+        "The Lobster",
+        "The Killing of a Sacred Deer",
+        "The Constant Gardener",
+        "The Man from U.N.C.L.E."
+      ]
+    },
+    {
+      "group": "Also in the supporting actress conversation",
+      "films": [
+        "If Beale Street Could Talk",
+        "Vice",
+        "Boy Erased",
+        "Crazy Rich Asians",
+        "Mary Queen of Scots",
+        "Black Panther"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Game of Thrones",
+      "The Night Manager",
+      "True Detective",
+      "30 Rock"
+    ],
+    "Podcasts": [
+      "Villains (Ringer podcast trailer)"
+    ],
+    "Ads": [
+      "Kavo Control Center"
+    ]
+  },
+  "tmdbOverrides": {
+    "Hunger": 10360,
+    "Driving Miss Daisy": 403
+  },
+  "tmdb": {
+    "Outlaw King": {
+      "id": 454227,
+      "poster": "/rT49ousKUWN3dV7UlhaC9onTNdl.jpg",
+      "title": "Outlaw King",
+      "year": 2018
+    },
+    "The Ballad of Buster Scruggs": {
+      "id": 537996,
+      "poster": "/voxl654m7p36y8FLu8oQD7dfwwK.jpg",
+      "title": "The Ballad of Buster Scruggs",
+      "year": 2018
+    },
+    "Roma": {
+      "id": 426426,
+      "poster": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+      "title": "Roma",
+      "year": 2018
+    },
+    "22 July": {
+      "id": 474354,
+      "poster": "/rd940KzuIZwbdOvOUF7XDTzn8te.jpg",
+      "title": "22 July",
+      "year": 2018
+    },
+    "Bird Box": {
+      "id": 405774,
+      "poster": "/rGfGfgL2pEPCfhIvqHXieXFn7gp.jpg",
+      "title": "Bird Box",
+      "year": 2018
+    },
+    "The Front Runner": {
+      "id": 476764,
+      "poster": "/9QKzd31H1bCjMAJ8HoaASWqbHfY.jpg",
+      "title": "The Front Runner",
+      "year": 2018
+    },
+    "Green Book": {
+      "id": 490132,
+      "poster": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+      "title": "Green Book",
+      "year": 2018
+    },
+    "Widows": {
+      "id": 401469,
+      "poster": "/d31SGJSaX29ba5ZUbZcesGoDE7I.jpg",
+      "title": "Widows",
+      "year": 2018
+    },
+    "Bad Times at the El Royale": {
+      "id": 446021,
+      "poster": "/qExufIc4Rw0e4xdVZlhMdmEDGES.jpg",
+      "title": "Bad Times at the El Royale",
+      "year": 2018
+    },
+    "The Favorite": {
+      "id": 572281,
+      "poster": "/praGGuVbxfTzOYwikWafiwkI4aF.jpg",
+      "title": "The Favorite",
+      "year": 2019
+    },
+    "Beasts of No Nation": {
+      "id": 283587,
+      "poster": "/1D4vcJmJc58WXarpRtwgd2do9Rg.jpg",
+      "title": "Beasts of No Nation",
+      "year": 2015
+    },
+    "Braveheart": {
+      "id": 197,
+      "poster": "/or1gBugydmjToAEq7OZY0owwFk.jpg",
+      "title": "Braveheart",
+      "year": 1995
+    },
+    "Hell or High Water": {
+      "id": 338766,
+      "poster": "/ljRRxqy2aXIkIBXLmOVifcOR021.jpg",
+      "title": "Hell or High Water",
+      "year": 2016
+    },
+    "United 93": {
+      "id": 9829,
+      "poster": "/r3mdSgsnpoi4UiUufdybhjha68t.jpg",
+      "title": "United 93",
+      "year": 2006
+    },
+    "Captain Phillips": {
+      "id": 109424,
+      "poster": "/8Td0kkocW6sD3uRpzwfMfkqMWhx.jpg",
+      "title": "Captain Phillips",
+      "year": 2013
+    },
+    "Set It Up": {
+      "id": 384677,
+      "poster": "/7omfwqiiMld9EnUps3Uk9YZLy6g.jpg",
+      "title": "Set It Up",
+      "year": 2018
+    },
+    "To All the Boys I've Loved Before": {
+      "id": 466282,
+      "poster": "/hKHZhUbIyUAjcSrqJThFGYIR6kI.jpg",
+      "title": "To All the Boys I've Loved Before",
+      "year": 2018
+    },
+    "The Kissing Booth": {
+      "id": 454983,
+      "poster": "/vcQNnnXgKLacoYF4LNWgkNiDXPd.jpg",
+      "title": "The Kissing Booth",
+      "year": 2018
+    },
+    "No Country for Old Men": {
+      "id": 6977,
+      "poster": "/uB7RDZby43Wvu8SKGHHTwGyTDBX.jpg",
+      "title": "No Country for Old Men",
+      "year": 2007
+    },
+    "True Grit": {
+      "id": 44264,
+      "poster": "/tCrB8pcjadZjsDk7rleGJaIv78k.jpg",
+      "title": "True Grit",
+      "year": 2010
+    },
+    "The Man Who Wasn't There": {
+      "id": 10778,
+      "poster": "/lrCgt8NNMyFsfmXyXiSSCRXNH4u.jpg",
+      "title": "The Man Who Wasn't There",
+      "year": 2001
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Bright": {
+      "id": 400106,
+      "poster": "/whkT53Sv2vKAUiknQ13pqcWaPXB.jpg",
+      "title": "Bright",
+      "year": 2017
+    },
+    "Tully": {
+      "id": 400579,
+      "poster": "/wDI4YXBXolMYi15Qx2kClvdSERM.jpg",
+      "title": "Tully",
+      "year": 2018
+    },
+    "There's Something About Mary": {
+      "id": 544,
+      "poster": "/slJD1Dvnsf15LoeqhERsyzisAdn.jpg",
+      "title": "There's Something About Mary",
+      "year": 1998
+    },
+    "Kingpin": {
+      "id": 11543,
+      "poster": "/lVpejjxzBujSjLpxQ7hGe1s0wP2.jpg",
+      "title": "Kingpin",
+      "year": 1996
+    },
+    "Hidden Figures": {
+      "id": 381284,
+      "poster": "/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg",
+      "title": "Hidden Figures",
+      "year": 2016
+    },
+    "Little Miss Sunshine": {
+      "id": 773,
+      "poster": "/niNdhTpPHSgw22tK0PLjQMV640v.jpg",
+      "title": "Little Miss Sunshine",
+      "year": 2006
+    },
+    "Driving Miss Daisy": {
+      "id": 403,
+      "poster": "/iaCzvcY42HihFxQBTZCTKMpsI0P.jpg",
+      "title": "Driving Miss Daisy",
+      "year": 1989
+    },
+    "12 Years a Slave": {
+      "id": 76203,
+      "poster": "/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+      "title": "12 Years a Slave",
+      "year": 2013
+    },
+    "Shame": {
+      "id": 76025,
+      "poster": "/cAWLz9kFv4xc6IsEXTj2DrcqD55.jpg",
+      "title": "Shame",
+      "year": 2011
+    },
+    "Hunger": {
+      "id": 10360,
+      "poster": "/84HdTM39G2MzyTl8N9R0wVU9I5b.jpg",
+      "title": "Hunger",
+      "year": 2008
+    },
+    "Fences": {
+      "id": 393457,
+      "poster": "/8NvnB8aeWQvBEz2ruN4g313j991.jpg",
+      "title": "Fences",
+      "year": 2016
+    },
+    "Girlfight": {
+      "id": 19348,
+      "poster": "/ydHUoYtpZdkwxdroK1rWyEpJrLZ.jpg",
+      "title": "Girlfight",
+      "year": 2000
+    },
+    "The Lobster": {
+      "id": 254320,
+      "poster": "/7Y9ILV1unpW9mLpGcqyGQU72LUy.jpg",
+      "title": "The Lobster",
+      "year": 2015
+    },
+    "The Killing of a Sacred Deer": {
+      "id": 399057,
+      "poster": "/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg",
+      "title": "The Killing of a Sacred Deer",
+      "year": 2017
+    },
+    "The Constant Gardener": {
+      "id": 1985,
+      "poster": "/nkXq7V7mmJVbvwZGr3nxkHo7HkS.jpg",
+      "title": "The Constant Gardener",
+      "year": 2005
+    },
+    "The Man from U.N.C.L.E.": {
+      "id": 203801,
+      "poster": "/y5yZaForGSJbPD66Cvq9AT5WMAD.jpg",
+      "title": "The Man from U.N.C.L.E.",
+      "year": 2015
+    },
+    "If Beale Street Could Talk": {
+      "id": 465914,
+      "poster": "/76NfwnaZI43gOQove0LU9O23Qjz.jpg",
+      "title": "If Beale Street Could Talk",
+      "year": 2018
+    },
+    "Vice": {
+      "id": 429197,
+      "poster": "/1gCab6rNv1r6V64cwsU4oEr649Y.jpg",
+      "title": "Vice",
+      "year": 2018
+    },
+    "Boy Erased": {
+      "id": 472451,
+      "poster": "/oZbhTdi0ZQY7iiSQ0L7h3ya6NDF.jpg",
+      "title": "Boy Erased",
+      "year": 2018
+    },
+    "Crazy Rich Asians": {
+      "id": 455207,
+      "poster": "/1XxL4LJ5WHdrcYcihEZUCgNCpAW.jpg",
+      "title": "Crazy Rich Asians",
+      "year": 2018
+    },
+    "Mary Queen of Scots": {
+      "id": 457136,
+      "poster": "/b5RMzLAyq5QW6GtN9sIeAEMLlBI.jpg",
+      "title": "Mary Queen of Scots",
+      "year": 2018
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    }
+  }
+}

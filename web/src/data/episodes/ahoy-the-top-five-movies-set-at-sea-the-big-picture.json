@@ -1,0 +1,588 @@
+{
+  "slug": "ahoy-the-top-five-movies-set-at-sea-the-big-picture",
+  "title": "Ahoy! The Top Five Movies Set at Sea",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2020-05-12",
+  "runtimeMin": 70,
+  "format": "Sean, Amanda, and Chris each rank their five favorite movies set at sea, after settling what counts as the sea.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Ground rules: what counts as the sea",
+      "note": "the setup",
+      "films": [
+        {
+          "title": "Crimson Tide",
+          "year": 1995,
+          "note": "The theme-week tie-in; a submarine movie, so it qualifies under the rules."
+        },
+        {
+          "title": "Sea Fever",
+          "year": 2019,
+          "note": "Sean caught it on VOD the week before; proof the sea movie isn't extinct."
+        },
+        {
+          "title": "Underwater",
+          "year": 2020,
+          "note": "Kristen Stewart on the deep-sea rig, a recent example."
+        },
+        {
+          "title": "Crawl",
+          "year": 2019,
+          "note": "The alligator horror movie, another one that still gets made."
+        },
+        {
+          "title": "Waterworld",
+          "year": 1995,
+          "note": "The cautionary tale for directors who wade into a studio tank."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Chris Ryan's Top Five",
+      "note": "the terror within and around you",
+      "subject": "Chris Ryan",
+      "ranked": true,
+      "films": [
+        {
+          "title": "The Hunt for Red October",
+          "year": 1990,
+          "note": "No. 1 (and Amanda's No. 2). McTiernan directs; Connery's Ramius may be defecting or mad, and Baldwin's Jack Ryan has to find out which."
+        },
+        {
+          "title": "Master and Commander: The Far Side of the World",
+          "year": 2003,
+          "note": "No. 2. Peter Weir, Russell Crowe as Jack Aubrey; the on-deck surgery is the all-time look-away scene."
+        },
+        {
+          "title": "The Perfect Storm",
+          "year": 2000,
+          "note": "No. 3. Wolfgang Petersen, of Das Boot, sends Clooney and Wahlberg out for one last haul."
+        },
+        {
+          "title": "White Squall",
+          "year": 1996,
+          "note": "No. 4. Ridley Scott's gun-for-hire era; Jeff Bridges runs a sail-training academy for boys."
+        },
+        {
+          "title": "Open Water",
+          "year": 2003,
+          "note": "No. 5. Divers left behind at sea; made for roughly $120k, based on a true story. Chris misdates it to 2013."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Amanda Dobbins's Top Five",
+      "note": "aquatic blue, mostly optimistic",
+      "subject": "Amanda Dobbins",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Titanic",
+          "year": 1997,
+          "note": "No. 1. Cameron's romance-plus-disaster; the most-seen ocean movie there is."
+        },
+        {
+          "title": "The Hunt for Red October",
+          "year": 1990,
+          "note": "No. 2, shared with Chris; she woke up thinking it should have been No. 1."
+        },
+        {
+          "title": "The Lady Eve",
+          "year": 1941,
+          "note": "No. 3. Preston Sturges screwball, much of it aboard an ocean liner."
+        },
+        {
+          "title": "The Little Mermaid",
+          "year": 1989,
+          "note": "No. 4. The Disney movie that opened the Disney Renaissance. Amanda misdates it to 1999."
+        },
+        {
+          "title": "The Life Aquatic with Steve Zissou",
+          "year": 2004,
+          "note": "No. 5. Wes Anderson riffing on Jacques Cousteau; an affection that grew with age."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Sean Fennessey's Top Five",
+      "note": "the archetypes",
+      "subject": "Sean Fennessey",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Jaws",
+          "year": 1975,
+          "note": "No. 1. Sean's case: the entire third act is at sea, which for him is what makes a sea movie."
+        },
+        {
+          "title": "Mutiny on the Bounty",
+          "year": 1935,
+          "note": "No. 2. The Gable version; Charles Laughton's Captain Bligh anchors it."
+        },
+        {
+          "title": "Finding Nemo",
+          "year": 2003,
+          "note": "No. 3. Pixar's version of the sea as utopia rather than threat."
+        },
+        {
+          "title": "Lifeboat",
+          "year": 1944,
+          "note": "No. 4. Hitchcock's single-setting experiment, staged entirely in one boat."
+        },
+        {
+          "title": "The Poseidon Adventure",
+          "year": 1972,
+          "note": "No. 5. Irwin Allen's disaster template; Hackman rages as the reverend. The 1972 original, not the remake."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Ruled out by the ground rules",
+      "films": [
+        "A River Runs Through It",
+        "The River Wild",
+        "The Prince of Tides"
+      ]
+    },
+    {
+      "group": "Other sea movies mentioned",
+      "films": [
+        "All Is Lost",
+        "Cast Away",
+        "Das Boot",
+        "The Abyss",
+        "Beyond the Poseidon Adventure",
+        "The Swarm",
+        "The Silent World",
+        "Free Solo"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Around the World in 80 Days",
+        "It's a Mad, Mad, Mad, Mad World",
+        "Independence Day",
+        "The Rock",
+        "Avengers: Endgame",
+        "Thelma & Louise",
+        "1492: Conquest of Paradise",
+        "G.I. Jane",
+        "Gladiator",
+        "Aquaman",
+        "Suicide Squad",
+        "Rear Window",
+        "Dial M for Murder",
+        "Rope",
+        "Avatar",
+        "Avatar: The Way of Water",
+        "The Terminator",
+        "Aliens",
+        "Terminator 2: Judgment Day",
+        "Predator",
+        "Die Hard",
+        "Medicine Man",
+        "Citizen Kane",
+        "Dick Tracy",
+        "This Boy's Life",
+        "The Fan",
+        "The Untouchables",
+        "Soul Surfer",
+        "Capone",
+        "Star Wars"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Around the World in 80 Days": 2897
+  },
+  "excluded": {
+    "TV": [
+      "Better Call Saul",
+      "Mrs. America",
+      "Billions"
+    ],
+    "Podcasts": [
+      "The Rewatchables",
+      "Behind the Billions",
+      "The Joe Rogan Experience"
+    ],
+    "Other": [
+      "Pornhub"
+    ]
+  },
+  "tmdb": {
+    "Crimson Tide": {
+      "id": 8963,
+      "poster": "/21nqRJ6ofEgVvEl68J4O9V26Xzy.jpg",
+      "title": "Crimson Tide",
+      "year": 1995
+    },
+    "Sea Fever": {
+      "id": 507441,
+      "poster": "/h4cPVVNPZUHVeoF6dH2grBvSEKs.jpg",
+      "title": "Sea Fever",
+      "year": 2020
+    },
+    "Underwater": {
+      "id": 443791,
+      "poster": "/gzlbb3yeVISpQ3REd3Ga1scWGTU.jpg",
+      "title": "Underwater",
+      "year": 2020
+    },
+    "Crawl": {
+      "id": 511987,
+      "poster": "/4WH6AZd473lRZ3hUp8TYiv2LfZW.jpg",
+      "title": "Crawl",
+      "year": 2019
+    },
+    "Waterworld": {
+      "id": 9804,
+      "poster": "/X4UyUO5jgzs3c5YafnmYKLKKYw.jpg",
+      "title": "Waterworld",
+      "year": 1995
+    },
+    "The Hunt for Red October": {
+      "id": 1669,
+      "poster": "/yVl7zidse4KiWtGMqHFtZCx4X3N.jpg",
+      "title": "The Hunt for Red October",
+      "year": 1990
+    },
+    "Master and Commander: The Far Side of the World": {
+      "id": 8619,
+      "poster": "/s1cVTQEZYn4nSjZLnFbzLP0j8y2.jpg",
+      "title": "Master and Commander: The Far Side of the World",
+      "year": 2003
+    },
+    "The Perfect Storm": {
+      "id": 2133,
+      "poster": "/vJPoxqgpfFNbGi0HyoNsjFeLCio.jpg",
+      "title": "The Perfect Storm",
+      "year": 2000
+    },
+    "White Squall": {
+      "id": 10534,
+      "poster": "/5xF4qy44Lvv68glS7eHWH7laTqt.jpg",
+      "title": "White Squall",
+      "year": 1996
+    },
+    "Open Water": {
+      "id": 83,
+      "poster": "/7Gy5N0Yp7ocaKBR860v9KDbpYHj.jpg",
+      "title": "Open Water",
+      "year": 2004
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "The Lady Eve": {
+      "id": 3086,
+      "poster": "/lJYD3CMgKtv12hazSHc7xt3i2uq.jpg",
+      "title": "The Lady Eve",
+      "year": 1941
+    },
+    "The Little Mermaid": {
+      "id": 10144,
+      "poster": "/plcZXvI310FkbwIptvd6rqk63LP.jpg",
+      "title": "The Little Mermaid",
+      "year": 1989
+    },
+    "The Life Aquatic with Steve Zissou": {
+      "id": 421,
+      "poster": "/qZoFLNBC78jzboWeDH6Ha0qavF2.jpg",
+      "title": "The Life Aquatic with Steve Zissou",
+      "year": 2004
+    },
+    "Jaws": {
+      "id": 578,
+      "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "title": "Jaws",
+      "year": 1975
+    },
+    "Mutiny on the Bounty": {
+      "id": 12311,
+      "poster": "/GD98ozz6F6tSu8BWGulpseEKhv.jpg",
+      "title": "Mutiny on the Bounty",
+      "year": 1935
+    },
+    "Finding Nemo": {
+      "id": 12,
+      "poster": "/5lc6nQc0VhWFYFbNv016xze8Jvy.jpg",
+      "title": "Finding Nemo",
+      "year": 2003
+    },
+    "Lifeboat": {
+      "id": 13321,
+      "poster": "/2QXpzBMJJtmH7JvVf0ZzENvgc1o.jpg",
+      "title": "Lifeboat",
+      "year": 1944
+    },
+    "The Poseidon Adventure": {
+      "id": 551,
+      "poster": "/6RGiA5BfhelU9zoD0b1GAG4GWWf.jpg",
+      "title": "The Poseidon Adventure",
+      "year": 1972
+    },
+    "A River Runs Through It": {
+      "id": 293,
+      "poster": "/aVP45oS2cBL4WtZ1kB7r8uarruB.jpg",
+      "title": "A River Runs Through It",
+      "year": 1992
+    },
+    "The River Wild": {
+      "id": 8987,
+      "poster": "/wVgQ2T63ThjIsY4R0qoHXjyllql.jpg",
+      "title": "The River Wild",
+      "year": 1994
+    },
+    "The Prince of Tides": {
+      "id": 10333,
+      "poster": "/1AyeW3YlwfhRwLDeUCW686obceb.jpg",
+      "title": "The Prince of Tides",
+      "year": 1991
+    },
+    "All Is Lost": {
+      "id": 152747,
+      "poster": "/9cVA4oX2xHgiglv6hemxwAaofsq.jpg",
+      "title": "All Is Lost",
+      "year": 2013
+    },
+    "Cast Away": {
+      "id": 8358,
+      "poster": "/7lLJgKnAicAcR5UEuo8xhSMj18w.jpg",
+      "title": "Cast Away",
+      "year": 2000
+    },
+    "Das Boot": {
+      "id": 387,
+      "poster": "/u8FhQPncOAkwcei2OI9orPWhV6K.jpg",
+      "title": "Das Boot",
+      "year": 1981
+    },
+    "The Abyss": {
+      "id": 2756,
+      "poster": "/2dCit3XAtv9KWCJvRKdPkJ0FAkH.jpg",
+      "title": "The Abyss",
+      "year": 1989
+    },
+    "Beyond the Poseidon Adventure": {
+      "id": 31638,
+      "poster": "/hTsUNXz38lIvDlJt7z8wzctuEFV.jpg",
+      "title": "Beyond the Poseidon Adventure",
+      "year": 1979
+    },
+    "The Swarm": {
+      "id": 46878,
+      "poster": "/pO5qEEpjxdQ40ScLcFOowyziNiT.jpg",
+      "title": "The Swarm",
+      "year": 1978
+    },
+    "The Silent World": {
+      "id": 60234,
+      "poster": "/ys1AiQJbQPNimud1kZQ91FgOJLR.jpg",
+      "title": "The Silent World",
+      "year": 1956
+    },
+    "Free Solo": {
+      "id": 515042,
+      "poster": "/v4QfYZMACODlWul9doN9RxE99ag.jpg",
+      "title": "Free Solo",
+      "year": 2018
+    },
+    "Around the World in 80 Days": {
+      "id": 2897,
+      "poster": "/kk6Rrwh0toMz9tjuUHdS4O3v2Rk.jpg",
+      "title": "Around the World in 80 Days",
+      "year": 1956
+    },
+    "It's a Mad, Mad, Mad, Mad World": {
+      "id": 11576,
+      "poster": "/j4mWzOisSHFkaqIkq34l2mm8a5K.jpg",
+      "title": "It's a Mad, Mad, Mad, Mad World",
+      "year": 1963
+    },
+    "Independence Day": {
+      "id": 602,
+      "poster": "/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg",
+      "title": "Independence Day",
+      "year": 1996
+    },
+    "The Rock": {
+      "id": 9802,
+      "poster": "/eBcoxveWzzXQrCrwWMGAROcqgpP.jpg",
+      "title": "The Rock",
+      "year": 1996
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Thelma & Louise": {
+      "id": 1541,
+      "poster": "/vbRAGLzbC75QfiKD1lKjmnQGuph.jpg",
+      "title": "Thelma & Louise",
+      "year": 1991
+    },
+    "1492: Conquest of Paradise": {
+      "id": 1492,
+      "poster": "/3effmbI6BbGW9i0HzEDfVGuOsvz.jpg",
+      "title": "1492: Conquest of Paradise",
+      "year": 1992
+    },
+    "G.I. Jane": {
+      "id": 4421,
+      "poster": "/6yBgZJYqaR4XkxwjsB9tS4GK1ZN.jpg",
+      "title": "G.I. Jane",
+      "year": 1997
+    },
+    "Gladiator": {
+      "id": 98,
+      "poster": "/wN2xWp1eIwCKOD0BHTcErTBv1Uq.jpg",
+      "title": "Gladiator",
+      "year": 2000
+    },
+    "Aquaman": {
+      "id": 297802,
+      "poster": "/ufl63EFcc5XpByEV2Ecdw6WJZAI.jpg",
+      "title": "Aquaman",
+      "year": 2018
+    },
+    "Suicide Squad": {
+      "id": 297761,
+      "poster": "/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg",
+      "title": "Suicide Squad",
+      "year": 2016
+    },
+    "Rear Window": {
+      "id": 567,
+      "poster": "/ILVF0eJxHMddjxeQhswFtpMtqx.jpg",
+      "title": "Rear Window",
+      "year": 1954
+    },
+    "Dial M for Murder": {
+      "id": 521,
+      "poster": "/2gDCAgl2iBQNuJuk6p2xtuS1ewg.jpg",
+      "title": "Dial M for Murder",
+      "year": 1954
+    },
+    "Rope": {
+      "id": 1580,
+      "poster": "/9ar6rxLDB8kagAnXZKn6h9smscr.jpg",
+      "title": "Rope",
+      "year": 1948
+    },
+    "Avatar": {
+      "id": 19995,
+      "poster": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "title": "Avatar",
+      "year": 2009
+    },
+    "Avatar: The Way of Water": {
+      "id": 76600,
+      "poster": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "title": "Avatar: The Way of Water",
+      "year": 2022
+    },
+    "The Terminator": {
+      "id": 218,
+      "poster": "/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+      "title": "The Terminator",
+      "year": 1984
+    },
+    "Aliens": {
+      "id": 679,
+      "poster": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "title": "Aliens",
+      "year": 1986
+    },
+    "Terminator 2: Judgment Day": {
+      "id": 280,
+      "poster": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991
+    },
+    "Predator": {
+      "id": 106,
+      "poster": "/aN3cdjIK70KGmD84et8MMblU87Q.jpg",
+      "title": "Predator",
+      "year": 1987
+    },
+    "Die Hard": {
+      "id": 562,
+      "poster": "/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg",
+      "title": "Die Hard",
+      "year": 1988
+    },
+    "Medicine Man": {
+      "id": 9096,
+      "poster": "/lkHqtViTG4Zzh7i9rrtHJGTnEUg.jpg",
+      "title": "Medicine Man",
+      "year": 1992
+    },
+    "Citizen Kane": {
+      "id": 15,
+      "poster": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+      "title": "Citizen Kane",
+      "year": 1941
+    },
+    "Dick Tracy": {
+      "id": 8592,
+      "poster": "/sjeP4bpgsUvAGE8oFcICy2GaHxw.jpg",
+      "title": "Dick Tracy",
+      "year": 1990
+    },
+    "This Boy's Life": {
+      "id": 8092,
+      "poster": "/pRMSZfen1Cv1eqwDbtxCBpBqxnU.jpg",
+      "title": "This Boy's Life",
+      "year": 1993
+    },
+    "The Fan": {
+      "id": 9566,
+      "poster": "/lu7CjP8YES5dJMCFg5O9o9jCkjl.jpg",
+      "title": "The Fan",
+      "year": 1996
+    },
+    "The Untouchables": {
+      "id": 117,
+      "poster": "/tPq0R4jTO4Ey8ZspFaWK9wGA4Ls.jpg",
+      "title": "The Untouchables",
+      "year": 1987
+    },
+    "Soul Surfer": {
+      "id": 43959,
+      "poster": "/cvgRxrEupUFeJ0xzUExJo4dMXbL.jpg",
+      "title": "Soul Surfer",
+      "year": 2011
+    },
+    "Capone": {
+      "id": 429422,
+      "poster": "/4dIo9k7aoJDi6OHK62YBAH3skOZ.jpg",
+      "title": "Capone",
+      "year": 2020
+    },
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
+    }
+  }
+}

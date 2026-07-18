@@ -1,0 +1,274 @@
+{
+  "slug": "black-panther-wakanda-forever-is-here",
+  "title": "‘Black Panther: Wakanda Forever’ Is Here!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Van Lathan"
+  ],
+  "published": "2022-11-11",
+  "runtimeMin": 74,
+  "format": "Sean, Amanda, and Van Lathan hash out the Wakanda Forever spoiler review: the Chadwick Boseman-shaped hole, Namor, and whether Marvel is asking its movies to carry too much.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘Black Panther: Wakanda Forever’",
+      "note": "spoiler review — spoilers start ~25 minutes in",
+      "films": [
+        {
+          "title": "Black Panther: Wakanda Forever",
+          "year": 2022,
+          "note": "Coogler and co-writer Joe Robert Cole return without Chadwick Boseman. Van loved it and thinks it tops the first; Sean and Amanda found it overstuffed: grief, allyship, Namor's origin, an Ironheart backdoor pilot, and MCU phase-four setup all fighting for room. Agreement on the bookends (the opening and Shuri's arc), Namor (Tenoch Huerta) as the best element, and Ruth Carter's costumes; complaints about the CGI action, Riri Williams feeling wedged in, and Lake Bell's dropped subplot."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Van's top five movies of all time",
+      "note": "a bit, counted down on air",
+      "subject": "movies of all time, per Van",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Black Panther: Wakanda Forever",
+          "year": 2022,
+          "note": "No. 1, delivered deadpan on the show about it."
+        },
+        {
+          "title": "The Godfather Part II",
+          "year": 1974,
+          "note": "No. 2."
+        },
+        {
+          "title": "The Godfather",
+          "year": 1972,
+          "note": "No. 3."
+        },
+        {
+          "title": "Madhouse",
+          "year": 1990,
+          "note": "No. 4 (the John Larroquette comedy)."
+        },
+        {
+          "title": "Raising Arizona",
+          "year": 1987,
+          "note": "No. 5."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The first film & the MCU",
+      "films": [
+        "Black Panther",
+        "Captain America: Civil War",
+        "Iron Man 2",
+        "Doctor Strange in the Multiverse of Madness",
+        "Spider-Man: No Way Home",
+        "Avengers: Infinity War",
+        "Avengers: Endgame",
+        "Captain America: The Winter Soldier",
+        "Thor: Love and Thunder",
+        "Thor: Ragnarok",
+        "Ant-Man and the Wasp: Quantumania"
+      ]
+    },
+    {
+      "group": "Outside Marvel",
+      "films": [
+        "Tenet",
+        "Interstellar",
+        "Inception",
+        "Clash of the Titans (1981)",
+        "Clash of the Titans (2010)",
+        "Troy",
+        "Avatar",
+        "Avatar: The Way of Water",
+        "Working Girl"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Loki",
+      "Ironheart",
+      "Werewolf by Night",
+      "Game of Thrones",
+      "House of the Dragon",
+      "Thunderbolts"
+    ],
+    "Games": [
+      "FIFA World Cup Launch Edition"
+    ],
+    "Podcasts": [
+      "22 Goals",
+      "Higher Learning"
+    ],
+    "Ads": [
+      "Netflix",
+      "FanDuel",
+      "Boar's Head",
+      "Uber",
+      "Botox"
+    ]
+  },
+  "tmdbOverrides": {
+    "Clash of the Titans (1981)": 10323,
+    "Clash of the Titans (2010)": 18823
+  },
+  "tmdb": {
+    "Black Panther: Wakanda Forever": {
+      "id": 505642,
+      "poster": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+      "title": "Black Panther: Wakanda Forever",
+      "year": 2022
+    },
+    "The Godfather Part II": {
+      "id": 240,
+      "poster": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+      "title": "The Godfather Part II",
+      "year": 1974
+    },
+    "The Godfather": {
+      "id": 238,
+      "poster": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "title": "The Godfather",
+      "year": 1972
+    },
+    "Madhouse": {
+      "id": 51036,
+      "poster": "/l8BBcinqXq50PeKObT2lvLdTkYb.jpg",
+      "title": "MadHouse",
+      "year": 1990
+    },
+    "Raising Arizona": {
+      "id": 378,
+      "poster": "/niKyjOqiB4XVl0BqgKTHIlHOCeF.jpg",
+      "title": "Raising Arizona",
+      "year": 1987
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "Captain America: Civil War": {
+      "id": 271110,
+      "poster": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+      "title": "Captain America: Civil War",
+      "year": 2016
+    },
+    "Iron Man 2": {
+      "id": 10138,
+      "poster": "/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+      "title": "Iron Man 2",
+      "year": 2010
+    },
+    "Doctor Strange in the Multiverse of Madness": {
+      "id": 453395,
+      "poster": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "year": 2022
+    },
+    "Spider-Man: No Way Home": {
+      "id": 634649,
+      "poster": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "title": "Spider-Man: No Way Home",
+      "year": 2021
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Captain America: The Winter Soldier": {
+      "id": 100402,
+      "poster": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+      "title": "Captain America: The Winter Soldier",
+      "year": 2014
+    },
+    "Thor: Love and Thunder": {
+      "id": 616037,
+      "poster": "/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+      "title": "Thor: Love and Thunder",
+      "year": 2022
+    },
+    "Thor: Ragnarok": {
+      "id": 284053,
+      "poster": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "title": "Thor: Ragnarok",
+      "year": 2017
+    },
+    "Ant-Man and the Wasp: Quantumania": {
+      "id": 640146,
+      "poster": "/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "year": 2023
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "Interstellar": {
+      "id": 157336,
+      "poster": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+      "title": "Interstellar",
+      "year": 2014
+    },
+    "Inception": {
+      "id": 27205,
+      "poster": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+      "title": "Inception",
+      "year": 2010
+    },
+    "Clash of the Titans (1981)": {
+      "id": 10323,
+      "poster": "/5JCLODNLJH6alc3KmyoiC21Nlob.jpg",
+      "title": "Clash of the Titans",
+      "year": 1981
+    },
+    "Clash of the Titans (2010)": {
+      "id": 18823,
+      "poster": "/6iHYLipwEyZUPNO8MM3l1yHDaFE.jpg",
+      "title": "Clash of the Titans",
+      "year": 2010
+    },
+    "Troy": {
+      "id": 652,
+      "poster": "/a07wLy4ONfpsjnBqMwhlWTJTcm.jpg",
+      "title": "Troy",
+      "year": 2004
+    },
+    "Avatar": {
+      "id": 19995,
+      "poster": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "title": "Avatar",
+      "year": 2009
+    },
+    "Avatar: The Way of Water": {
+      "id": 76600,
+      "poster": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "title": "Avatar: The Way of Water",
+      "year": 2022
+    },
+    "Working Girl": {
+      "id": 3525,
+      "poster": "/q2jfFzZvAzjTaArQR0tjilIZ5aJ.jpg",
+      "title": "Working Girl",
+      "year": 1988
+    }
+  }
+}

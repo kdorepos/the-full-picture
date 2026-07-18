@@ -1,0 +1,304 @@
+{
+  "slug": "the-oppenheimer-deep-dive",
+  "title": "The ‘Oppenheimer’ Deep Dive",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2023-07-24",
+  "runtimeMin": 105,
+  "format": "Chris Ryan joins Sean and Amanda for a spoiler-filled hour on Oppenheimer: the movie, the Barbenheimer weekend, and where it lands in the Nolan rankings.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Barbenheimer",
+      "note": "the weekend that broke the release calendar",
+      "films": [
+        {
+          "title": "Barbie",
+          "year": 2023,
+          "note": "Grossed $155M domestic and $182M abroad opening weekend, the pink half of a $511M combined haul."
+        },
+        {
+          "title": "Oppenheimer",
+          "year": 2023,
+          "note": "Opened to $80M, a huge number for a three-hour biopic, with IMAX 70mm prints sold out across L.A."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "Oppenheimer: The Deep Dive",
+      "note": "full spoilers",
+      "films": [
+        {
+          "title": "Oppenheimer",
+          "year": 2023,
+          "note": "Chris and Sean each saw it twice (once in 70mm, once in IMAX) and preferred the taller IMAX frame even for scenes of men talking in rooms. Verdict: a great movie with real flaws, built out of American Prometheus and Nolan's usual burdened-genius themes, carried by Cillian Murphy and an ensemble (Damon, Blunt, Pugh, Downey Jr., Affleck) doing a lot of the emotional work. The Trinity test around the two-hour mark is the peak; the black-and-white Strauss/Senate hearing hour after it split the room: Chris thought it dragged, Sean and Amanda thought the kangaroo-court framing paid off."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Where it lands in the Nolan rankings",
+      "films": [
+        {
+          "title": "The Dark Knight",
+          "year": 2008,
+          "note": "Amanda's pick for Nolan's best: structurally close to Oppenheimer, an hour and a half of setup before it turns into, as she put it, driving around with Two-Face for a while."
+        },
+        {
+          "title": "Memento",
+          "year": 2000,
+          "note": "In Sean and Amanda's Nolan top three: a lean idea for a movie, incredible execution on no budget."
+        },
+        {
+          "title": "Dunkirk",
+          "year": 2017,
+          "note": "Chris's favorite Nolan alongside Inception; barely any dialogue, characters that are, in his words, stand-ins for concepts rather than people."
+        },
+        {
+          "title": "Inception",
+          "year": 2010,
+          "note": "Chris's other favorite. Came up earlier too, as the sharper version of the dead-wife-as-plot-device problem the group has with how the movie handles Kitty."
+        },
+        {
+          "title": "Tenet",
+          "year": 2020,
+          "note": "Sean still loves it and still doesn't fully understand it."
+        },
+        {
+          "title": "Interstellar",
+          "year": 2014,
+          "note": "Rewatched over the weekend; the group agrees the sound design and burdened-man-of-science framing are a direct dry run for Oppenheimer."
+        },
+        {
+          "title": "Insomnia",
+          "year": 2002,
+          "note": "Chris's rewatch pick, the Pacino remake he thinks set the template, even ahead of Memento, for Nolan's men undone by their own competence."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "That record-breaking weekend",
+      "films": [
+        "The Dark Knight",
+        "Mamma Mia!",
+        "The Fugitive",
+        "The Matrix",
+        "Jurassic Park",
+        "Spider-Man: No Way Home",
+        "Avengers: Endgame",
+        "Sound of Freedom",
+        "Mission: Impossible – Dead Reckoning Part One",
+        "Meg 2: The Trench"
+      ]
+    },
+    {
+      "group": "Comparisons and asides",
+      "films": [
+        "JFK",
+        "The Social Network",
+        "Being the Ricardos",
+        "Molly's Game",
+        "Fat Man and Little Boy",
+        "Munich",
+        "A Few Good Men",
+        "The Departed",
+        "The Suicide Squad",
+        "Avengers: Infinity War"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Hijack",
+      "Breaking Bad",
+      "The English"
+    ],
+    "Ads": [
+      "Nas Energy",
+      "FanDuel",
+      "Boar's Head",
+      "Carvana"
+    ],
+    "Games": [
+      "FIFA World Cup Launch Edition"
+    ]
+  },
+  "tmdb": {
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "The Dark Knight": {
+      "id": 155,
+      "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    "Memento": {
+      "id": 77,
+      "poster": "/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+      "title": "Memento",
+      "year": 2000
+    },
+    "Dunkirk": {
+      "id": 374720,
+      "poster": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "title": "Dunkirk",
+      "year": 2017
+    },
+    "Inception": {
+      "id": 27205,
+      "poster": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+      "title": "Inception",
+      "year": 2010
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "Interstellar": {
+      "id": 157336,
+      "poster": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+      "title": "Interstellar",
+      "year": 2014
+    },
+    "Insomnia": {
+      "id": 320,
+      "poster": "/riVXh3EimGO0y5dgQxEWPRy5Itg.jpg",
+      "title": "Insomnia",
+      "year": 2002
+    },
+    "Mamma Mia!": {
+      "id": 11631,
+      "poster": "/zdUA4FNHbXPadzVOJiU0Rgn6cHR.jpg",
+      "title": "Mamma Mia!",
+      "year": 2008
+    },
+    "The Fugitive": {
+      "id": 5503,
+      "poster": "/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg",
+      "title": "The Fugitive",
+      "year": 1993
+    },
+    "The Matrix": {
+      "id": 603,
+      "poster": "/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+      "title": "The Matrix",
+      "year": 1999
+    },
+    "Jurassic Park": {
+      "id": 329,
+      "poster": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "title": "Jurassic Park",
+      "year": 1993
+    },
+    "Spider-Man: No Way Home": {
+      "id": 634649,
+      "poster": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "title": "Spider-Man: No Way Home",
+      "year": 2021
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Sound of Freedom": {
+      "id": 678512,
+      "poster": "/qA5kPYZA7FkVvqcEfJRoOy4kpHg.jpg",
+      "title": "Sound of Freedom",
+      "year": 2023
+    },
+    "Mission: Impossible – Dead Reckoning Part One": {
+      "id": 575264,
+      "poster": "/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "year": 2023
+    },
+    "Meg 2: The Trench": {
+      "id": 615656,
+      "poster": "/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg",
+      "title": "Meg 2: The Trench",
+      "year": 2023
+    },
+    "JFK": {
+      "id": 820,
+      "poster": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+      "title": "JFK",
+      "year": 1991
+    },
+    "The Social Network": {
+      "id": 37799,
+      "poster": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+      "title": "The Social Network",
+      "year": 2010
+    },
+    "Being the Ricardos": {
+      "id": 517088,
+      "poster": "/oztBLWdRk5gApYmNdADXvXkLT5m.jpg",
+      "title": "Being the Ricardos",
+      "year": 2021
+    },
+    "Molly's Game": {
+      "id": 396371,
+      "poster": "/zrGQwKNmAz5awZI2V1k5M4eTTTN.jpg",
+      "title": "Molly's Game",
+      "year": 2017
+    },
+    "Fat Man and Little Boy": {
+      "id": 27461,
+      "poster": "/4CLeeHTMUesP8MCFt5phmdPSS5k.jpg",
+      "title": "Fat Man and Little Boy",
+      "year": 1989
+    },
+    "Munich": {
+      "id": 612,
+      "poster": "/iUekaw96QLInZpsNwRTlRKrZgwm.jpg",
+      "title": "Munich",
+      "year": 2005
+    },
+    "A Few Good Men": {
+      "id": 881,
+      "poster": "/rLOk4z9zL1tTukIYV56P94aZXKk.jpg",
+      "title": "A Few Good Men",
+      "year": 1992
+    },
+    "The Departed": {
+      "id": 1422,
+      "poster": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+      "title": "The Departed",
+      "year": 2006
+    },
+    "The Suicide Squad": {
+      "id": 436969,
+      "poster": "/q61qEyssk2ku3okWICKArlAdhBn.jpg",
+      "title": "The Suicide Squad",
+      "year": 2021
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    }
+  }
+}

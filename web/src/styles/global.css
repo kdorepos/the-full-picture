@@ -116,10 +116,10 @@ em { font-style: italic; }
 .search__sub { font-family: var(--mono); font-size: 0.66rem; color: var(--faint); flex: none; white-space: nowrap; }
 .search__empty { padding: 0.7rem; color: var(--muted); font-size: 0.85rem; }
 @media (max-width: 640px) {
-  .topnav { width: 100%; margin-left: 0; }
+  .topnav { width: 100%; margin-left: 0; flex-wrap: wrap; }
   .topnav__link { padding-top: 0.8rem; padding-bottom: 0.8rem; }
-  .search { flex: 1; }
-  .search__input { width: 100%; }
+  .search { flex: 1 1 100%; }           /* full-width row below the nav links, not squeezed beside them */
+  .search__input { width: 100%; min-height: 2.75rem; }   /* 44px tap target */
   .search__results { width: 100%; }
 }
 
@@ -440,4 +440,4 @@ footer p:last-child { margin-bottom: 0; }
 .year-group[open] > .year-summary::before { transform: rotate(90deg); }
 .year-summary:hover { color: var(--brass-lit); }
 .year-count { margin-left: auto; color: var(--faint); font-size: 0.7rem; letter-spacing: 0.16em; }
-.ep-list { grid-template-columns: repeat(auto-fill, minmax(28rem, 1fr)); padding-bottom: 1.4rem; }
+.ep-list { grid-template-columns: repeat(auto-fill, minmax(min(28rem, 100%), 1fr)); padding-bottom: 1.4rem; }

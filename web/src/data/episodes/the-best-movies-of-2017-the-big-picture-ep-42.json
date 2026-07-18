@@ -1,0 +1,340 @@
+{
+  "slug": "the-best-movies-of-2017-the-big-picture-ep-42",
+  "title": "The Best Movies of 2017 | The Big Picture (Ep. 42)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan",
+    "K. Austin Collins"
+  ],
+  "published": "2017-12-22",
+  "runtimeMin": 38,
+  "format": "Sean Fennessey brings on Amanda Dobbins, Chris Ryan, and K. Austin Collins to argue out their best-of-2017 lists, one overlap and one grudge at a time.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The Overlap Picks",
+      "note": "the movies that showed up on two or three ballots",
+      "films": [
+        {
+          "title": "Get Out",
+          "year": 2017,
+          "note": "On Cam's top 10 and honorable mentions, but not his top five. He's seen it three times and likes it more each time."
+        },
+        {
+          "title": "Lady Bird",
+          "year": 2017,
+          "note": "No. 1 on both Chris's and Amanda's lists. Chris calls it the movie that moved him most in years; both admit the pick is biased by growing up in Lady Bird's exact generational lane."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The Lost City of Z",
+      "films": [
+        {
+          "title": "The Lost City of Z",
+          "year": 2017,
+          "note": "Amanda's honorable mention, and on both Chris's and Cam's lists. Cam ranked it 13th or 14th despite reservations about Charlie Hunnam's accent, calling it a quiet, old-world adventure movie in the Merchant Ivory vein."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Phantom Thread, The Beguiled, and mother!",
+      "note": "three very different takes on a man, a woman, and control",
+      "films": [
+        {
+          "title": "Phantom Thread",
+          "year": 2017,
+          "note": "Sean's No. 1; No. 4 on both Amanda's and Cam's lists. The group digs into Paul Thomas Anderson's collaboration with Daniel Day-Lewis and the film's dark, deliberate humor."
+        },
+        {
+          "title": "The Beguiled",
+          "year": 2017,
+          "note": "Amanda pairs it with Phantom Thread: two period pieces about power dynamics between a man and a house of women, one directed by a man and one by a woman."
+        },
+        {
+          "title": "mother!",
+          "year": 2017,
+          "note": "Nobody's top ten (Cam kept it as an honorable mention), but it dominates the conversation anyway. Sean interviewed Darren Aronofsky about it and came away, in his words, checkmated."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The Popcorn Movies",
+      "note": "honorable mentions picked purely for the fun of it",
+      "films": [
+        {
+          "title": "Baby Driver",
+          "year": 2017,
+          "note": "Sean's pick, after seeing it at SXSW: \"it was a rock concert.\""
+        },
+        {
+          "title": "Atomic Blonde",
+          "year": 2017,
+          "note": "Chris's SXSW companion pick: James McAvoy and Charlize Theron doing two hours of damage."
+        },
+        {
+          "title": "Blade Runner 2049",
+          "year": 2017,
+          "note": "Sean's honorable mention. Flawed, he says, but he's glad a studio still handed $150 million to a swing this ambitious."
+        },
+        {
+          "title": "Girls Trip",
+          "year": 2017,
+          "note": "Amanda's pick: a $100 million-plus hit led by four Black women, and Regina Hall's closing speech got her."
+        },
+        {
+          "title": "John Wick: Chapter 2",
+          "year": 2017,
+          "note": "Cam's most-fun pick, despite what he calls his complicated relationship with movie violence right now."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Call Me by Your Name",
+      "films": [
+        {
+          "title": "Call Me by Your Name",
+          "year": 2017,
+          "note": "On Amanda's list, an honorable mention for Chris, and off the list entirely for Cam and Sean. The group gets into how much their own expectations, and each other's enthusiasm, color what they end up loving."
+        },
+        {
+          "title": "Logan Lucky",
+          "year": 2017,
+          "note": "Cam's other expectations case: his co-hosts told him not to get his hopes up, and he liked it more than any of them anyway."
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "heading": "Last Licks",
+      "note": "one shout-out each before they sign off",
+      "picks": [
+        {
+          "title": "Wonder Woman",
+          "year": 2017,
+          "by": "Amanda Dobbins",
+          "note": "Her No. 3 movie, and a surprise from someone who says her default stance on superhero films is indifference to active distaste."
+        },
+        {
+          "title": "Dunkirk",
+          "year": 2017,
+          "by": "Chris Ryan",
+          "note": "Easily his top five, he says, despite a reputation as a Dunkirk skeptic. He singles out Tom Hardy's landing at the end."
+        },
+        {
+          "title": "The Work",
+          "year": 2017,
+          "by": "K. Austin Collins",
+          "note": "His No. 2 film of the year, a documentary shot inside a four-day group-therapy program at Folsom Prison."
+        },
+        {
+          "title": "The Meyerowitz Stories (New and Selected)",
+          "year": 2017,
+          "by": "Sean Fennessey",
+          "note": "Noah Baumbach's Netflix film, which Sean argues is a case for seeing even a Netflix movie on a big screen."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Movies nobody on the panel had seen yet",
+      "films": [
+        "All the Money in the World",
+        "Bright",
+        "Downsizing",
+        "The Post"
+      ]
+    },
+    {
+      "group": "The \"Dunkirk extended universe\"",
+      "films": [
+        "Darkest Hour",
+        "Churchill",
+        "Their Finest"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Raiders of the Lost Ark"
+      ]
+    }
+  ],
+  "excluded": {
+    "Web series": [
+      "Cousin Sal's Best Bet",
+      "Sloan Newsday",
+      "NBA Desktop",
+      "No BS",
+      "Table Reads",
+      "Director's Commentaries",
+      "Captain Morgan's Make Believe Casino",
+      "Take Hunter",
+      "Ringer 360",
+      "Clatheism"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Meyerowitz Stories (New and Selected)": 396398
+  },
+  "tmdb": {
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Lady Bird": {
+      "id": 391713,
+      "poster": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+      "title": "Lady Bird",
+      "year": 2017
+    },
+    "The Lost City of Z": {
+      "id": 314095,
+      "poster": "/8SxHVNk6tqXYwygmDzz1YuJEm2J.jpg",
+      "title": "The Lost City of Z",
+      "year": 2017
+    },
+    "Phantom Thread": {
+      "id": 400617,
+      "poster": "/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg",
+      "title": "Phantom Thread",
+      "year": 2017
+    },
+    "The Beguiled": {
+      "id": 399019,
+      "poster": "/x4R9jyiZhJzevASus5n6WyHQTdR.jpg",
+      "title": "The Beguiled",
+      "year": 2017
+    },
+    "mother!": {
+      "id": 381283,
+      "poster": "/fjny9chXPx69ln1LMJxbwi5yHMt.jpg",
+      "title": "mother!",
+      "year": 2017
+    },
+    "Baby Driver": {
+      "id": 339403,
+      "poster": "/tYzFuYXmT8LOYASlFCkaPiAFAl0.jpg",
+      "title": "Baby Driver",
+      "year": 2017
+    },
+    "Atomic Blonde": {
+      "id": 341013,
+      "poster": "/kV9R5h0Yct1kR8Hf8sJ1nX0Vz4x.jpg",
+      "title": "Atomic Blonde",
+      "year": 2017
+    },
+    "Blade Runner 2049": {
+      "id": 335984,
+      "poster": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+      "title": "Blade Runner 2049",
+      "year": 2017
+    },
+    "Girls Trip": {
+      "id": 417870,
+      "poster": "/fM1h8CwtdileV3zlemXx7UWJjOP.jpg",
+      "title": "Girls Trip",
+      "year": 2017
+    },
+    "John Wick: Chapter 2": {
+      "id": 324552,
+      "poster": "/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg",
+      "title": "John Wick: Chapter 2",
+      "year": 2017
+    },
+    "Call Me by Your Name": {
+      "id": 398818,
+      "poster": "/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
+      "title": "Call Me by Your Name",
+      "year": 2017
+    },
+    "Logan Lucky": {
+      "id": 399170,
+      "poster": "/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg",
+      "title": "Logan Lucky",
+      "year": 2017
+    },
+    "Wonder Woman": {
+      "id": 297762,
+      "poster": "/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+      "title": "Wonder Woman",
+      "year": 2017
+    },
+    "Dunkirk": {
+      "id": 374720,
+      "poster": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "title": "Dunkirk",
+      "year": 2017
+    },
+    "The Work": {
+      "id": 438449,
+      "poster": "/yxPk4a44miDk17tNpqhrwnrf3DZ.jpg",
+      "title": "The Work",
+      "year": 2017
+    },
+    "The Meyerowitz Stories (New and Selected)": {
+      "id": 396398,
+      "poster": "/c9teDTgwxgnb7wnZjZo4oNcF80R.jpg",
+      "title": "The Meyerowitz Stories (New and Selected)",
+      "year": 2017
+    },
+    "All the Money in the World": {
+      "id": 446791,
+      "poster": "/q6nE9Hf0ezszjI4DbCxwzQ73MMy.jpg",
+      "title": "All the Money in the World",
+      "year": 2017
+    },
+    "Bright": {
+      "id": 400106,
+      "poster": "/whkT53Sv2vKAUiknQ13pqcWaPXB.jpg",
+      "title": "Bright",
+      "year": 2017
+    },
+    "Downsizing": {
+      "id": 301337,
+      "poster": "/5bNzInSSAXfr0MFlHfb4IoQePVx.jpg",
+      "title": "Downsizing",
+      "year": 2017
+    },
+    "The Post": {
+      "id": 446354,
+      "poster": "/h4XG3g6uMMPIBPjAoQhC2QIMdkl.jpg",
+      "title": "The Post",
+      "year": 2017
+    },
+    "Darkest Hour": {
+      "id": 399404,
+      "poster": "/xa6G3aKlysQeVg9wOb0dRcIGlWu.jpg",
+      "title": "Darkest Hour",
+      "year": 2017
+    },
+    "Churchill": {
+      "id": 399790,
+      "poster": "/zdDthGLJxzEYOCb9IHHjLmSqoRx.jpg",
+      "title": "Churchill",
+      "year": 2017
+    },
+    "Their Finest": {
+      "id": 340101,
+      "poster": "/tF0dhJfxzOjvkybJVfNPuuj5ClH.jpg",
+      "title": "Their Finest",
+      "year": 2017
+    },
+    "Raiders of the Lost Ark": {
+      "id": 85,
+      "poster": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+      "title": "Raiders of the Lost Ark",
+      "year": 1981
+    }
+  }
+}

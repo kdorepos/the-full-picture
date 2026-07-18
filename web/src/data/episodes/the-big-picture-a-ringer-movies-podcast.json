@@ -1,0 +1,44 @@
+{
+  "slug": "the-big-picture-a-ringer-movies-podcast",
+  "title": "The Big Picture: A Ringer Movies Podcast",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2020-10-31",
+  "runtimeMin": 1,
+  "format": "Sean Fennessey announces the show's move off the channel 33 feed onto its own, with a preview of an Ethan Hawke interview and quick takes on two Oscar-season titles.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "What's coming on the new feed",
+      "films": [
+        {
+          "title": "A Star Is Born",
+          "year": 2018,
+          "note": "Sean calls it Bradley Cooper's bid to be taken seriously as a director — he was skeptical of the gamble but says the movie delivers and will clean up at the Oscars."
+        },
+        {
+          "title": "Eighth Grade",
+          "year": 2018,
+          "note": "One of the movies he says he just loved this year."
+        }
+      ]
+    }
+  ],
+  "tmdb": {
+    "A Star Is Born": {
+      "id": 332562,
+      "poster": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "title": "A Star Is Born",
+      "year": 2018
+    },
+    "Eighth Grade": {
+      "id": 489925,
+      "poster": "/xTa9cLhGHfQ7084UvoPQ2bBXKqd.jpg",
+      "title": "Eighth Grade",
+      "year": 2018
+    }
+  }
+}

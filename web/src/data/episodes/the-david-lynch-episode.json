@@ -1,0 +1,266 @@
+{
+  "slug": "the-david-lynch-episode",
+  "title": "The David Lynch Episode",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2022-10-11",
+  "runtimeMin": 95,
+  "format": "Sean Fennessey and Ringer contributor Adam Nayman mark 30 years of Twin Peaks: Fire Walk with Me and 25 of Lost Highway with a new Criterion restoration, then rank all ten Lynch features.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Where David Lynch sits now",
+      "note": "with Ringer contributor Adam Nayman",
+      "films": [
+        {
+          "title": "Eraserhead",
+          "year": 1977,
+          "note": "Nayman calls it arguably the cult film of the last 50 years in America, and the thing Lynch was already semi-famous for before Blue Velvet."
+        },
+        {
+          "title": "The Elephant Man",
+          "year": 1980,
+          "note": "The Mel Brooks-produced follow-up that got Lynch his first Oscar nominations and nearly landed him Return of the Jedi."
+        },
+        {
+          "title": "Dune",
+          "year": 1984,
+          "note": "The disastrous studio project both agree derailed his trajectory as an artist, even as they admit to liking pieces of it."
+        },
+        {
+          "title": "Blue Velvet",
+          "year": 1986,
+          "note": "The film that made him seriously famous; Nayman argues it's been picked over so thoroughly it's nearly immune to analysis at this point."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "Twin Peaks: Fire Walk with Me at 30",
+      "films": [
+        {
+          "title": "Twin Peaks: Fire Walk with Me",
+          "year": 1992,
+          "note": "Nayman calls it his most primal movie and top tier for him personally. Both trace how Lynch built a prequel forcing viewers to watch what actually happened to Laura Palmer, largely without the show's original cast, and land on it as a horror film that's also deep melodrama."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "Lost Highway at 25",
+      "note": "new 4K Criterion restoration",
+      "films": [
+        {
+          "title": "Lost Highway",
+          "year": 1997,
+          "note": "The pair frame it around voyeurism and Bill Pullman's line 'I like to remember things my own way' as a mission statement for Lynch, and note the Robert Blake role riffing on the O.J. Simpson case."
+        },
+        {
+          "title": "Mulholland Drive",
+          "year": 2001,
+          "note": "Discussed as the sunnier half of the same Hollywood story Lost Highway tells, with Naomi Watts singled out as the best-directed performance in any Lynch film."
+        },
+        {
+          "title": "Inland Empire",
+          "year": 2006,
+          "note": "Called the unofficial third part of the Hollywood trilogy with Lost Highway and Mulholland Drive, and probably his least-seen film."
+        }
+      ]
+    },
+    {
+      "kind": "ranking",
+      "heading": "The David Lynch Rankings",
+      "note": "best to worst",
+      "subject": "David Lynch",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Mulholland Drive",
+          "year": 2001,
+          "note": "No. 1 for both. Nayman: it's the movie where culture decided he'd come out the other end of his unfashionability, and it was a date-night movie he and his now-wife dissected for hours."
+        },
+        {
+          "title": "Blue Velvet",
+          "year": 1986,
+          "note": "No. 2. The one that made him seriously famous as a filmmaker."
+        },
+        {
+          "title": "The Elephant Man",
+          "year": 1980,
+          "note": "No. 3. Nayman's sentimental favorite even knowing it won't win: John Hurt's performance and Lynch making the conventional feel unconventional."
+        },
+        {
+          "title": "Twin Peaks: Fire Walk with Me",
+          "year": 1992,
+          "note": "No. 4, the spot they agree feels right after an hour of arguing for it."
+        },
+        {
+          "title": "The Straight Story",
+          "year": 1999,
+          "note": "No. 5. Nayman would rank it higher; Sean notes one site once ranked it below the Pokemon movie in a 1999 roundup."
+        },
+        {
+          "title": "Lost Highway",
+          "year": 1997,
+          "note": "No. 6, negotiated down from Nayman's initial instinct to put it at 7."
+        },
+        {
+          "title": "Eraserhead",
+          "year": 1977,
+          "note": "No. 7. Both admit a recent rewatch wasn't much fun, precisely because its influence has been so thoroughly absorbed."
+        },
+        {
+          "title": "Inland Empire",
+          "year": 2006,
+          "note": "No. 8. Nayman: high on obsession, lower on pleasure, though he rates it a bit above Sean."
+        },
+        {
+          "title": "Wild at Heart",
+          "year": 1990,
+          "note": "No. 9. Nayman's clearly stated least favorite, despite its Palme d'Or and defenders who'd rank it near the top."
+        },
+        {
+          "title": "Dune",
+          "year": 1984,
+          "note": "No. 10 by unanimous, immediate agreement."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Some Call It Loving",
+        "Showgirls",
+        "Boogie Nights",
+        "Blonde",
+        "The Fabelmans",
+        "The Wizard of Oz",
+        "Lynch/Oz",
+        "Side by Side"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Twin Peaks",
+      "Twin Peaks: The Return",
+      "Hotel Room",
+      "On the Air"
+    ]
+  },
+  "tmdb": {
+    "Eraserhead": {
+      "id": 985,
+      "poster": "/mxveW3mGVc0DzLdOmtkZsgd7c3B.jpg",
+      "title": "Eraserhead",
+      "year": 1977
+    },
+    "The Elephant Man": {
+      "id": 1955,
+      "poster": "/u0wpPYjuSt8DIe1Y3Vapnh8jcKE.jpg",
+      "title": "The Elephant Man",
+      "year": 1980
+    },
+    "Dune": {
+      "id": 841,
+      "poster": "/4kJmUCE7mkVJjXa7A0g2rY4IGTm.jpg",
+      "title": "Dune",
+      "year": 1984
+    },
+    "Blue Velvet": {
+      "id": 793,
+      "poster": "/6v1zYh2FKOYVddY5pCQhd4PO9uX.jpg",
+      "title": "Blue Velvet",
+      "year": 1986
+    },
+    "Twin Peaks: Fire Walk with Me": {
+      "id": 1923,
+      "poster": "/mxsGXqetGnirf99qapYd5MMY1VL.jpg",
+      "title": "Twin Peaks: Fire Walk with Me",
+      "year": 1992
+    },
+    "Lost Highway": {
+      "id": 638,
+      "poster": "/5POhfNeFPIi4VUNwCTaK85sh98r.jpg",
+      "title": "Lost Highway",
+      "year": 1997
+    },
+    "Mulholland Drive": {
+      "id": 1018,
+      "poster": "/x7A59t6ySylr1L7aubOQEA480vM.jpg",
+      "title": "Mulholland Drive",
+      "year": 2001
+    },
+    "Inland Empire": {
+      "id": 1730,
+      "poster": "/s5f0FbVAABEnJYKaApWORTxhiFC.jpg",
+      "title": "Inland Empire",
+      "year": 2006
+    },
+    "The Straight Story": {
+      "id": 404,
+      "poster": "/tT9cMiVDdtlcdZxOoFy3VRmEoKk.jpg",
+      "title": "The Straight Story",
+      "year": 1999
+    },
+    "Wild at Heart": {
+      "id": 483,
+      "poster": "/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg",
+      "title": "Wild at Heart",
+      "year": 1990
+    },
+    "Some Call It Loving": {
+      "id": 168228,
+      "poster": "/siijljsFvwOUVKBPABiYaCwqktb.jpg",
+      "title": "Some Call It Loving",
+      "year": 1973
+    },
+    "Showgirls": {
+      "id": 10802,
+      "poster": "/o4HT3Ap5c99W4FYpdXUtTvxGgPc.jpg",
+      "title": "Showgirls",
+      "year": 1995
+    },
+    "Boogie Nights": {
+      "id": 4995,
+      "poster": "/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg",
+      "title": "Boogie Nights",
+      "year": 1997
+    },
+    "Blonde": {
+      "id": 301502,
+      "poster": "/mEeHqtnWOR44vLCutEFku2WK6ou.jpg",
+      "title": "Blonde",
+      "year": 2022
+    },
+    "The Fabelmans": {
+      "id": 804095,
+      "poster": "/h7llKkqkkJtJrTOaDLuVeUYDQ7I.jpg",
+      "title": "The Fabelmans",
+      "year": 2022
+    },
+    "The Wizard of Oz": {
+      "id": 630,
+      "poster": "/uCC3j4pV9eOZwzDUWp2ilbcTf1f.jpg",
+      "title": "The Wizard of Oz",
+      "year": 1939
+    },
+    "Lynch/Oz": {
+      "id": 965400,
+      "poster": "/utMuIiigJPVQZXvpkyGL1mPw9Ib.jpg",
+      "title": "Lynch/Oz",
+      "year": 2023
+    },
+    "Side by Side": {
+      "id": 110354,
+      "poster": "/qeeQ7rfTAXNYh4EqqdolFLkNwKM.jpg",
+      "title": "Side by Side",
+      "year": 2012
+    }
+  }
+}

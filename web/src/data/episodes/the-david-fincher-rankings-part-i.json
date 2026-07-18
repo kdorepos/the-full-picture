@@ -1,0 +1,239 @@
+{
+  "slug": "the-david-fincher-rankings-part-i",
+  "title": "The David Fincher Rankings, Part I",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2020-09-22",
+  "runtimeMin": 92,
+  "format": "Sean Fennessey, Amanda Dobbins, and Chris Ryan open a 25-slot countdown of David Fincher's career - films, commercials, music videos, and TV - working from No. 25 up to No. 11. Movies are the minority on this stretch of the list.",
+  "segments": [
+    {
+      "kind": "ranking",
+      "heading": "The David Fincher Rankings, Nos. 25-11",
+      "note": "worst to best, part I of II - only the films are below; the commercials, music videos, TV, and bonus features from the same countdown are under Excluded",
+      "subject": "David Fincher's body of work",
+      "ranked": true,
+      "films": [
+        {
+          "title": "The Girl with the Dragon Tattoo",
+          "year": 2011,
+          "note": "No. 11 - \"deeply, deeply deranged,\" and, per Sean, Fincher \"circling the square on a lot of his interests.\""
+        },
+        {
+          "title": "Panic Room",
+          "year": 2002,
+          "note": "Placed in tier D (Nos. 20-16), swapped in for Mindhunter at Chris's request. \"Technically marvelous,\" but the Fincher film he returns to least - his Rope and Rear Window mashup, a deliberate comedown after Fight Club."
+        },
+        {
+          "title": "Alien 3",
+          "year": 1992,
+          "note": "No. 25, opening the list. Even the 2003 assembly cut doesn't clear the bar Alien and Aliens set; Charles Dance's death 45 minutes in is where it drops off."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Named but held back for Part II",
+      "films": [
+        "Se7en",
+        "Fight Club",
+        "Zodiac",
+        "The Social Network",
+        "Gone Girl",
+        "The Game",
+        "Mank"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "The Curious Case of Benjamin Button",
+        "Alien",
+        "Aliens",
+        "Alien Resurrection",
+        "Butch Cassidy and the Sundance Kid",
+        "Indiana Jones and the Temple of Doom",
+        "Return of the Jedi",
+        "Citizen Kane",
+        "The Irishman",
+        "La La Land",
+        "Klute"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Alien 3": 8077
+  },
+  "excluded": {
+    "TV": [
+      "House of Cards (pilot, No. 23)",
+      "Mindhunter (No. 12)",
+      "Ted Lasso"
+    ],
+    "Music videos": [
+      "Bop Till You Drop (Rick Springfield)",
+      "Cold Hearted (Paula Abdul, No. 22)",
+      "Straight Up (Paula Abdul, tied No. 16/17)",
+      "Express Yourself (Madonna, tied No. 16/17)",
+      "Vogue (Madonna)",
+      "Freedom '90 (George Michael)",
+      "an unnamed Christy Turlington video",
+      "Cradle of Love (Billy Idol)",
+      "Sixth Avenue Heartache (The Wallflowers)",
+      "Judith (A Perfect Circle)",
+      "Suit & Tie (JAY-Z ft. Justin Timberlake)",
+      "The End of the Innocence (Don Henley)"
+    ],
+    "Ads": [
+      "Instant Karma (Nike, No. 24)",
+      "Fate / Leave Nothing Behind (Nike, No. 21)",
+      "American Cancer Society smoking-fetus PSA (No. 13)",
+      "Dress Normal driving-range spot (Gap)",
+      "Barkley on Broadway (Nike / Charles Barkley)",
+      "The Referee (Nike / Dennis Hopper)",
+      "a Coca-Cola spot with the Arquettes",
+      "a Heineken spot with Brad Pitt",
+      "Honda Del Sol",
+      "The Chase (Levi's)",
+      "You Will (AT&T)"
+    ],
+    "Bonus features": [
+      "Gone Girl director's commentary (No. 20)",
+      "The Social Network 'making of' featurette with Aaron Sorkin"
+    ]
+  },
+  "tmdb": {
+    "The Girl with the Dragon Tattoo": {
+      "id": 65754,
+      "poster": "/8bokS83zGdhaXgN9tjidUKmAftW.jpg",
+      "title": "The Girl with the Dragon Tattoo",
+      "year": 2011
+    },
+    "Panic Room": {
+      "id": 4547,
+      "poster": "/hANYbvfwxmkC9E4yY6YyJxYxlSJ.jpg",
+      "title": "Panic Room",
+      "year": 2002
+    },
+    "Alien 3": {
+      "id": 8077,
+      "poster": "/xh5wI0UoW7DfS1IyLy3d2CgrCEP.jpg",
+      "title": "Alien³",
+      "year": 1992
+    },
+    "Se7en": {
+      "id": 807,
+      "poster": "/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+      "title": "Se7en",
+      "year": 1995
+    },
+    "Fight Club": {
+      "id": 550,
+      "poster": "/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+      "title": "Fight Club",
+      "year": 1999
+    },
+    "Zodiac": {
+      "id": 1949,
+      "poster": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+      "title": "Zodiac",
+      "year": 2007
+    },
+    "The Social Network": {
+      "id": 37799,
+      "poster": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+      "title": "The Social Network",
+      "year": 2010
+    },
+    "Gone Girl": {
+      "id": 210577,
+      "poster": "/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+      "title": "Gone Girl",
+      "year": 2014
+    },
+    "The Game": {
+      "id": 2649,
+      "poster": "/4UOa079915QjiTA2u5hT2yKVgUu.jpg",
+      "title": "The Game",
+      "year": 1997
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "The Curious Case of Benjamin Button": {
+      "id": 4922,
+      "poster": "/26wEWZYt6yJkwRVkjcbwJEFh9IS.jpg",
+      "title": "The Curious Case of Benjamin Button",
+      "year": 2008
+    },
+    "Alien": {
+      "id": 348,
+      "poster": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "title": "Alien",
+      "year": 1979
+    },
+    "Aliens": {
+      "id": 679,
+      "poster": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "title": "Aliens",
+      "year": 1986
+    },
+    "Alien Resurrection": {
+      "id": 8078,
+      "poster": "/9aRDMlU5Zwpysilm0WCWzU2PCFv.jpg",
+      "title": "Alien Resurrection",
+      "year": 1997
+    },
+    "Butch Cassidy and the Sundance Kid": {
+      "id": 642,
+      "poster": "/gFmmykF1Ym3OGzENo50nZQaD1dx.jpg",
+      "title": "Butch Cassidy and the Sundance Kid",
+      "year": 1969
+    },
+    "Indiana Jones and the Temple of Doom": {
+      "id": 87,
+      "poster": "/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg",
+      "title": "Indiana Jones and the Temple of Doom",
+      "year": 1984
+    },
+    "Return of the Jedi": {
+      "id": 1892,
+      "poster": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+      "title": "Return of the Jedi",
+      "year": 1983
+    },
+    "Citizen Kane": {
+      "id": 15,
+      "poster": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+      "title": "Citizen Kane",
+      "year": 1941
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "La La Land": {
+      "id": 313369,
+      "poster": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "title": "La La Land",
+      "year": 2016
+    },
+    "Klute": {
+      "id": 466,
+      "poster": "/tVyINAsNGSgD1OIstqwCcs7wyGH.jpg",
+      "title": "Klute",
+      "year": 1971
+    }
+  }
+}

@@ -1,0 +1,529 @@
+{
+  "slug": "the-dark-knight-rises-watch-along",
+  "title": "The ‘Dark Knight Rises’ Watch-Along",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessy",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2023-03-07",
+  "runtimeMin": 169,
+  "format": "A live-to-tape watch-along of Christopher Nolan's 'The Dark Knight Rises.' Sean, Amanda, and Chris press play and talk through the trilogy-capper, from the plane hijacking cold open to the urine-powered climax, four days before the Oscars.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "The Watch-Along",
+      "note": "press play with them",
+      "films": [
+        {
+          "title": "The Dark Knight Rises",
+          "year": 2012,
+          "note": "Watched start to finish, live. Sean loves the top and tail of it but calls the occupied-Gotham middle stretch 'incoherent and stupid,' a knock Amanda seconds. Tom Hardy's Bane, jacked and doing the voice, is the one thing nobody in the room has a bad word for."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Christopher Nolan, elsewhere",
+      "films": [
+        "Batman Begins",
+        "The Dark Knight",
+        "Inception",
+        "Interstellar",
+        "Dunkirk",
+        "Tenet",
+        "Oppenheimer"
+      ]
+    },
+    {
+      "group": "Catwoman, elsewhere",
+      "films": [
+        "Batman Returns",
+        "The Batman"
+      ]
+    },
+    {
+      "group": "Christian Bale's extreme prep",
+      "films": [
+        "The Machinist",
+        "Rescue Dawn"
+      ]
+    },
+    {
+      "group": "Joseph Gordon-Levitt, elsewhere",
+      "films": [
+        "10 Things I Hate About You",
+        "Brick"
+      ]
+    },
+    {
+      "group": "Matthew Modine's résumé, quizzed",
+      "films": [
+        "Vision Quest",
+        "Full Metal Jacket",
+        "Pacific Heights",
+        "Memphis Belle"
+      ]
+    },
+    {
+      "group": "William Devane's résumé",
+      "films": [
+        "Rolling Thunder",
+        "Marathon Man"
+      ]
+    },
+    {
+      "group": "Ben Mendelsohn's résumé, quizzed",
+      "films": [
+        "Rogue One: A Star Wars Story",
+        "Killing Them Softly",
+        "Blonde",
+        "Mississippi Grind",
+        "The Place Beyond the Pines"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Ordinary People",
+        "My Left Foot: The Story of Christy Brown",
+        "Skyfall",
+        "Zero Dark Thirty",
+        "Creed III",
+        "21 Bridges",
+        "Plane",
+        "Black Panther",
+        "The Marvels",
+        "Asterix & Obelix: The Middle Kingdom",
+        "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "Barbie",
+        "Everything Everywhere All at Once",
+        "Up in the Air",
+        "The Bourne Identity",
+        "Babylon",
+        "The Killer",
+        "Top Gun: Maverick",
+        "Ant-Man and the Wasp: Quantumania",
+        "The Hunt for Red October",
+        "Zodiac",
+        "The Big Lebowski",
+        "Ace Ventura: When Nature Calls",
+        "Million Dollar Baby",
+        "The Trial of the Chicago 7",
+        "Free Solo",
+        "Locke",
+        "The Devil Wears Prada",
+        "The Lego Batman Movie",
+        "John Wick: Chapter 4",
+        "Robin Hood",
+        "Eyes Wide Shut",
+        "It Happened One Night",
+        "The Pelican Brief",
+        "Spotlight",
+        "College"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Slow Horses",
+      "Poker Face",
+      "Stranger Things",
+      "The Mandalorian",
+      "Rescue Me",
+      "Party Down",
+      "The Last of Us",
+      "SAS Rogue Heroes",
+      "Chernobyl",
+      "Broadchurch",
+      "Game of Thrones",
+      "Ted Lasso",
+      "Mindhunter"
+    ],
+    "Video games": [
+      "FIFA World Cup Launch Edition"
+    ],
+    "Ads": [
+      "One Shining Podcast (promo)",
+      "Boar's Head",
+      "FanDuel",
+      "Carvana",
+      "Starbucks Frappuccino"
+    ]
+  },
+  "tmdbOverrides": {
+    "Robin Hood": 20662,
+    "College": 34847
+  },
+  "tmdb": {
+    "The Dark Knight Rises": {
+      "id": 49026,
+      "poster": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+      "title": "The Dark Knight Rises",
+      "year": 2012
+    },
+    "Batman Begins": {
+      "id": 272,
+      "poster": "/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+      "title": "Batman Begins",
+      "year": 2005
+    },
+    "The Dark Knight": {
+      "id": 155,
+      "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    "Inception": {
+      "id": 27205,
+      "poster": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+      "title": "Inception",
+      "year": 2010
+    },
+    "Interstellar": {
+      "id": 157336,
+      "poster": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+      "title": "Interstellar",
+      "year": 2014
+    },
+    "Dunkirk": {
+      "id": 374720,
+      "poster": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "title": "Dunkirk",
+      "year": 2017
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Batman Returns": {
+      "id": 364,
+      "poster": "/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg",
+      "title": "Batman Returns",
+      "year": 1992
+    },
+    "The Batman": {
+      "id": 414906,
+      "poster": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "title": "The Batman",
+      "year": 2022
+    },
+    "The Machinist": {
+      "id": 4553,
+      "poster": "/diAYqR4xdF9Hnj7qun6DEQhRrT2.jpg",
+      "title": "The Machinist",
+      "year": 2004
+    },
+    "Rescue Dawn": {
+      "id": 9952,
+      "poster": "/ymPlV2ymUBSctfRzpehFOxFmJiS.jpg",
+      "title": "Rescue Dawn",
+      "year": 2007
+    },
+    "10 Things I Hate About You": {
+      "id": 4951,
+      "poster": "/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg",
+      "title": "10 Things I Hate About You",
+      "year": 1999
+    },
+    "Brick": {
+      "id": 9270,
+      "poster": "/5WVk8JpNIxepn4fpZzQeCumkOL5.jpg",
+      "title": "Brick",
+      "year": 2006
+    },
+    "Vision Quest": {
+      "id": 30069,
+      "poster": "/l3g4e6ocqGA8aNL1hIrIVWLkljL.jpg",
+      "title": "Vision Quest",
+      "year": 1985
+    },
+    "Full Metal Jacket": {
+      "id": 600,
+      "poster": "/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+      "title": "Full Metal Jacket",
+      "year": 1987
+    },
+    "Pacific Heights": {
+      "id": 2990,
+      "poster": "/9iHD6xIrGSuuMEFWhwSVGXSddY2.jpg",
+      "title": "Pacific Heights",
+      "year": 1990
+    },
+    "Memphis Belle": {
+      "id": 12651,
+      "poster": "/epsraI4swsSu9Fyefj7vPPhsOHK.jpg",
+      "title": "Memphis Belle",
+      "year": 1990
+    },
+    "Rolling Thunder": {
+      "id": 21948,
+      "poster": "/9iZjVn6Q5FJa92SQLcFMrskpES9.jpg",
+      "title": "Rolling Thunder",
+      "year": 1977
+    },
+    "Marathon Man": {
+      "id": 10518,
+      "poster": "/uPNgubSiri2yvBQRPtP77ViYjN.jpg",
+      "title": "Marathon Man",
+      "year": 1976
+    },
+    "Rogue One: A Star Wars Story": {
+      "id": 330459,
+      "poster": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+      "title": "Rogue One: A Star Wars Story",
+      "year": 2016
+    },
+    "Killing Them Softly": {
+      "id": 64689,
+      "poster": "/heaz45kpFa4Oa7iLis0OBas68ls.jpg",
+      "title": "Killing Them Softly",
+      "year": 2012
+    },
+    "Blonde": {
+      "id": 301502,
+      "poster": "/mEeHqtnWOR44vLCutEFku2WK6ou.jpg",
+      "title": "Blonde",
+      "year": 2022
+    },
+    "Mississippi Grind": {
+      "id": 309242,
+      "poster": "/vS3Bc6BiuZtAbSQpKhhRzPa7c2d.jpg",
+      "title": "Mississippi Grind",
+      "year": 2015
+    },
+    "The Place Beyond the Pines": {
+      "id": 97367,
+      "poster": "/vY5j2xQzMGWmxBuhQo0HfA4Lxqb.jpg",
+      "title": "The Place Beyond the Pines",
+      "year": 2013
+    },
+    "Ordinary People": {
+      "id": 16619,
+      "poster": "/tJVETEDAKgD3fEh88SHOvMvOQue.jpg",
+      "title": "Ordinary People",
+      "year": 1980
+    },
+    "My Left Foot: The Story of Christy Brown": {
+      "id": 10161,
+      "poster": "/GRAAl0bMQFoFIjV3aunc5jsM5u.jpg",
+      "title": "My Left Foot: The Story of Christy Brown",
+      "year": 1989
+    },
+    "Skyfall": {
+      "id": 37724,
+      "poster": "/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
+      "title": "Skyfall",
+      "year": 2012
+    },
+    "Zero Dark Thirty": {
+      "id": 97630,
+      "poster": "/wNSdSSxowM3WIqmPJNg3RagYbwP.jpg",
+      "title": "Zero Dark Thirty",
+      "year": 2012
+    },
+    "Creed III": {
+      "id": 677179,
+      "poster": "/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg",
+      "title": "Creed III",
+      "year": 2023
+    },
+    "21 Bridges": {
+      "id": 535292,
+      "poster": "/kDlmrGZROewneCoSwPjKx6Qfown.jpg",
+      "title": "21 Bridges",
+      "year": 2019
+    },
+    "Plane": {
+      "id": 646389,
+      "poster": "/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg",
+      "title": "Plane",
+      "year": 2023
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "The Marvels": {
+      "id": 609681,
+      "poster": "/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
+      "title": "The Marvels",
+      "year": 2023
+    },
+    "Asterix & Obelix: The Middle Kingdom": {
+      "id": 643215,
+      "poster": "/ifOqT5SmA4ANjmyEacLw3KAFKUd.jpg",
+      "title": "Asterix & Obelix: The Middle Kingdom",
+      "year": 2023
+    },
+    "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb": {
+      "id": 935,
+      "poster": "/6x7MzQ6BOMlRzam1StcmPO9v61g.jpg",
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "year": 1964
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Everything Everywhere All at Once": {
+      "id": 545611,
+      "poster": "/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+      "title": "Everything Everywhere All at Once",
+      "year": 2022
+    },
+    "Up in the Air": {
+      "id": 22947,
+      "poster": "/useGH8nfwlaHK44IWEZdUYJOE2N.jpg",
+      "title": "Up in the Air",
+      "year": 2009
+    },
+    "The Bourne Identity": {
+      "id": 2501,
+      "poster": "/aP8swke3gmowbkfZ6lmNidu0y9p.jpg",
+      "title": "The Bourne Identity",
+      "year": 2002
+    },
+    "Babylon": {
+      "id": 615777,
+      "poster": "/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+      "title": "Babylon",
+      "year": 2022
+    },
+    "The Killer": {
+      "id": 800158,
+      "poster": "/ipkcgvN7h3yZnbYowthloHLKsf4.jpg",
+      "title": "The Killer",
+      "year": 2023
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Ant-Man and the Wasp: Quantumania": {
+      "id": 640146,
+      "poster": "/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "year": 2023
+    },
+    "The Hunt for Red October": {
+      "id": 1669,
+      "poster": "/yVl7zidse4KiWtGMqHFtZCx4X3N.jpg",
+      "title": "The Hunt for Red October",
+      "year": 1990
+    },
+    "Zodiac": {
+      "id": 1949,
+      "poster": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+      "title": "Zodiac",
+      "year": 2007
+    },
+    "The Big Lebowski": {
+      "id": 115,
+      "poster": "/3bv6WAp6BSxxYvB5ozKFUYuRA8C.jpg",
+      "title": "The Big Lebowski",
+      "year": 1998
+    },
+    "Ace Ventura: When Nature Calls": {
+      "id": 9273,
+      "poster": "/wcinCf1ov2D6M3P7BBZkzQFOiIb.jpg",
+      "title": "Ace Ventura: When Nature Calls",
+      "year": 1995
+    },
+    "Million Dollar Baby": {
+      "id": 70,
+      "poster": "/jcfEqKdWF1zeyvECPqp3mkWLct2.jpg",
+      "title": "Million Dollar Baby",
+      "year": 2004
+    },
+    "The Trial of the Chicago 7": {
+      "id": 556984,
+      "poster": "/ahf5cVdooMAlDRiJOZQNuLqa1Is.jpg",
+      "title": "The Trial of the Chicago 7",
+      "year": 2020
+    },
+    "Free Solo": {
+      "id": 515042,
+      "poster": "/v4QfYZMACODlWul9doN9RxE99ag.jpg",
+      "title": "Free Solo",
+      "year": 2018
+    },
+    "Locke": {
+      "id": 210479,
+      "poster": "/tTREq5tTyYwmSLDRMhybJ82zXcX.jpg",
+      "title": "Locke",
+      "year": 2014
+    },
+    "The Devil Wears Prada": {
+      "id": 350,
+      "poster": "/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+      "title": "The Devil Wears Prada",
+      "year": 2006
+    },
+    "The Lego Batman Movie": {
+      "id": 324849,
+      "poster": "/e1TliRWOdXQ73pRunbpFiGst6Kd.jpg",
+      "title": "The Lego Batman Movie",
+      "year": 2017
+    },
+    "John Wick: Chapter 4": {
+      "id": 603692,
+      "poster": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+      "title": "John Wick: Chapter 4",
+      "year": 2023
+    },
+    "Robin Hood": {
+      "id": 20662,
+      "poster": "/kE4Wie1VVRGQbVSIsEnxmly3FqZ.jpg",
+      "title": "Robin Hood",
+      "year": 2010
+    },
+    "Eyes Wide Shut": {
+      "id": 345,
+      "poster": "/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+      "title": "Eyes Wide Shut",
+      "year": 1999
+    },
+    "It Happened One Night": {
+      "id": 3078,
+      "poster": "/2PNUGWAflH6UUumas0POMmokHlc.jpg",
+      "title": "It Happened One Night",
+      "year": 1934
+    },
+    "The Pelican Brief": {
+      "id": 9944,
+      "poster": "/7B1HS0SqfJR1jbeHS6V0ZWdzLXP.jpg",
+      "title": "The Pelican Brief",
+      "year": 1993
+    },
+    "Spotlight": {
+      "id": 314365,
+      "poster": "/8DPGG400FgaFWaqcv11n8mRd2NG.jpg",
+      "title": "Spotlight",
+      "year": 2015
+    },
+    "College": {
+      "id": 34847,
+      "poster": "/dUwk8qNkXb243JViqdVqOvUmiMt.jpg",
+      "title": "College",
+      "year": 1927
+    }
+  }
+}

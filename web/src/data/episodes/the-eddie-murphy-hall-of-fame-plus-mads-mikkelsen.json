@@ -19,7 +19,7 @@
         {
           "title": "Coming 2 America",
           "year": 2021,
-          "note": "The verdict: fine, familiar, a nostalgia lap that leans on old jokes rather than new ones. Wesley Snipes is the best part; the original is the one worth revisiting."
+          "note": "A fine, familiar nostalgia lap that leans on old jokes rather than new ones. Wesley Snipes is the best part; the original is the one worth revisiting."
         }
       ]
     },
@@ -41,7 +41,7 @@
         {
           "title": "Harlem Nights",
           "year": 1989,
-          "note": "Eddie's directorial debut, a thank-you to Pryor and Redd Foxx — more meaningful to Van than to the other two."
+          "note": "Eddie's directorial debut, a thank-you to Pryor and Redd Foxx, more meaningful to Van than to the other two."
         },
         {
           "title": "Bowfinger",
@@ -64,17 +64,17 @@
         {
           "title": "Trading Places",
           "year": 1983,
-          "note": "The panel's pick for his funniest performance — before mega-fame, when he barely seems to know how funny he is."
+          "note": "The panel's pick for his funniest performance, from before mega-fame, when he barely seems to know how funny he is."
         },
         {
           "title": "Beverly Hills Cop",
           "year": 1984,
-          "note": "The one that made him an untouchable movie star; Van knew the theme song before he'd seen the film."
+          "note": "The one that made him a movie star; Van knew the theme song before he'd seen the film."
         },
         {
           "title": "Eddie Murphy Raw",
           "year": 1987,
-          "note": "The highest-grossing stand-up film ever made — dated in spots, but still an all-timer performance."
+          "note": "The highest-grossing stand-up film ever made. Dated in spots, but still an all-timer performance."
         },
         {
           "title": "Coming to America",
@@ -99,7 +99,7 @@
         {
           "title": "Dreamgirls",
           "year": 2006,
-          "note": "His only Oscar nomination — limited screen time, but 'when he is on, he's perfect.' He lost to Alan Arkin, and the panel still isn't over it."
+          "note": "His only Oscar nomination: limited screen time, but 'when he is on, he's perfect.' He lost to Alan Arkin, and the panel still isn't over it."
         },
         {
           "title": "Dolemite Is My Name",
@@ -116,7 +116,7 @@
         {
           "title": "Another Round",
           "year": 2020,
-          "note": "Vinterberg had Mikkelsen in mind before there was even a story — a film that wants to be about both the celebration and the damage of drinking, built around a booze boot camp that calibrated exact blood-alcohol levels for each scene, and closing on Mikkelsen's unscripted-feeling dance, drawing on his years as a professional dancer."
+          "note": "Vinterberg had Mikkelsen in mind before there was even a story. The film wants to be about both the celebration and the damage of drinking. The cast went through a booze boot camp that calibrated exact blood-alcohol levels for each scene, and it closes on Mikkelsen's unscripted-feeling dance, which draws on his years as a professional dancer."
         },
         {
           "title": "The Hunt",
@@ -217,6 +217,12 @@
       "Whole Foods",
       "talkaboutpd.com"
     ]
+  },
+  "tmdbOverrides": {
+    "Life": 6522,
+    "Hope": 616561,
+    "Dr. Dolittle": 3050,
+    "Beauty and the Beast": 10020
   },
   "tmdb": {
     "Coming 2 America": {
@@ -322,10 +328,10 @@
       "year": 2012
     },
     "Hope": {
-      "id": 734972,
-      "poster": "/zx4kq0QY4DMCdxA2r6QEO4f46Ze.jpg",
+      "id": 616561,
+      "poster": "/GmsHT0ssqeJceSoxfmoMYBZWQu.jpg",
       "title": "Hope",
-      "year": 2020
+      "year": 2019
     },
     "I'm No Longer Here": {
       "id": 582927,
@@ -376,10 +382,10 @@
       "year": 1998
     },
     "Dr. Dolittle": {
-      "id": 1624324,
-      "poster": "/h4iz1B0e1Ba0z2LPE0XW7lJ98ml.jpg",
-      "title": "Dr. Dolittle",
-      "year": null
+      "id": 3050,
+      "poster": "/tLrchGMIkdo1KamQJA6fwvDQEy0.jpg",
+      "title": "Doctor Dolittle",
+      "year": 1998
     },
     "Holy Man": {
       "id": 9713,
@@ -388,10 +394,10 @@
       "year": 1998
     },
     "Life": {
-      "id": 395992,
-      "poster": "/wztfli5NgYDgurVgShNflvnyA3Z.jpg",
+      "id": 6522,
+      "poster": "/saWYpX3ADdmdByQZVrSYUNbQ9GC.jpg",
       "title": "Life",
-      "year": 2017
+      "year": 1999
     },
     "Nutty Professor II: The Klumps": {
       "id": 12107,
@@ -592,10 +598,10 @@
       "year": 2000
     },
     "Beauty and the Beast": {
-      "id": 321612,
-      "poster": "/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg",
+      "id": 10020,
+      "poster": "/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
       "title": "Beauty and the Beast",
-      "year": 2017
+      "year": 1991
     },
     "Aladdin": {
       "id": 812,

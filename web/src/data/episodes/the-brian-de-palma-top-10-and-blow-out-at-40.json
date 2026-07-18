@@ -28,7 +28,7 @@
         {
           "title": "Hi, Mom!",
           "year": 1970,
-          "note": "Contains the “Be Black Baby” sequence, where a Black theater troupe stages an immersive show that puts white audience members in blackface — shot so it's unclear what's staged and what's real."
+          "note": "Contains the “Be Black Baby” sequence, where a Black theater troupe stages an immersive show that puts white audience members in blackface; it's shot so it's unclear what's staged and what's real."
         },
         {
           "title": "Dionysus in '69",
@@ -58,7 +58,7 @@
         {
           "title": "Obsession",
           "year": 1976,
-          "note": "An underseen, unapologetically Hitchcockian thriller; Paul Schrader, who wrote it, also wrote Taxi Driver — reportedly with De Palma once attached to direct that too."
+          "note": "An underseen, unapologetically Hitchcockian thriller; Paul Schrader, who wrote it, also wrote Taxi Driver, a film De Palma was reportedly once attached to direct himself."
         },
         {
           "title": "The Fury",
@@ -68,7 +68,7 @@
         {
           "title": "Dressed to Kill",
           "year": 1980,
-          "note": "Widely hated on release for its violence and Hitchcock appropriation, but a hit relative to his budget — the film that fixed his reputation as a talented pain in the ass."
+          "note": "Widely hated on release for its violence and Hitchcock appropriation, but a hit relative to his budget: the film that fixed his reputation as a talented pain in the ass."
         },
         {
           "title": "Scarface",
@@ -78,7 +78,12 @@
         {
           "title": "Body Double",
           "year": 1984,
-          "note": "A power-drill murder set piece in a movie so loose it barely holds together — which is the point; American Psycho's Patrick Bateman calls it his favorite film."
+          "note": "A power-drill murder set piece in a movie so loose it barely holds together, which is the point; American Psycho's Patrick Bateman calls it his favorite film."
+        },
+        {
+          "title": "Wise Guys",
+          "year": 1986,
+          "note": "A Joe Piscopo/Danny DeVito mob comedy, lumped together with Body Double and The Untouchables as one of the era's De Palma titles, though it's the one nobody remembers."
         },
         {
           "title": "The Untouchables",
@@ -108,7 +113,7 @@
         {
           "title": "Mission: Impossible",
           "year": 1996,
-          "note": "Set the template the franchise still runs on — and its ending kills off most of the original TV show's cast, a meaner version of a plan De Palma wanted to push even further."
+          "note": "Set the template the franchise still runs on. Its ending kills off most of the original TV show's cast, a meaner version of a plan De Palma wanted to push even further."
         },
         {
           "title": "Snake Eyes",
@@ -123,7 +128,7 @@
         {
           "title": "Femme Fatale",
           "year": 2002,
-          "note": "Opens with a sex scene in a Cannes bathroom stall while a worse movie plays in the theater — a litmus-test film for whether his sensibility is for you."
+          "note": "Opens with a sex scene in a Cannes bathroom stall while a worse movie plays in the theater: a litmus-test film for whether his sensibility is for you."
         },
         {
           "title": "The Black Dahlia",
@@ -148,7 +153,7 @@
         {
           "title": "De Palma",
           "year": 2015,
-          "note": "Noah Baumbach and Jake Paltrow's documentary, where De Palma is proudest discussing the films that made money — which the hosts find telling."
+          "note": "Noah Baumbach and Jake Paltrow's documentary, where De Palma is proudest discussing the films that made money, which the hosts find telling."
         }
       ]
     },
@@ -181,7 +186,11 @@
         "Nashville",
         "Battleship Potemkin",
         "Blow-Up",
-        "American Psycho"
+        "American Psycho",
+        "Mean Streets",
+        "Halloween",
+        "Black Christmas",
+        "Lawrence of Arabia"
       ]
     },
     {
@@ -192,6 +201,9 @@
       ]
     }
   ],
+  "tmdbOverrides": {
+    "Prince of the City": 32047
+  },
   "excluded": {
     "Ads": [
       "Tremfaya",
@@ -283,6 +295,12 @@
       "poster": "/lRFm5P2AdOGpELwm3HHhmUz6k5I.jpg",
       "title": "Body Double",
       "year": 1984
+    },
+    "Wise Guys": {
+      "id": 31659,
+      "poster": "/oN4xnH6SqigBlyTlOnOkZ2tdWAB.jpg",
+      "title": "Wise Guys",
+      "year": 1986
     },
     "The Untouchables": {
       "id": 117,
@@ -428,6 +446,30 @@
       "title": "American Psycho",
       "year": 2000
     },
+    "Mean Streets": {
+      "id": 203,
+      "poster": "/9msfwOeGc9uL1iRRTBdEf15XonC.jpg",
+      "title": "Mean Streets",
+      "year": 1973
+    },
+    "Halloween": {
+      "id": 948,
+      "poster": "/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+      "title": "Halloween",
+      "year": 1978
+    },
+    "Black Christmas": {
+      "id": 9656,
+      "poster": "/ggxi18MGqi0lucWvfsdYkzSdGUJ.jpg",
+      "title": "Black Christmas",
+      "year": 2006
+    },
+    "Lawrence of Arabia": {
+      "id": 947,
+      "poster": "/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg",
+      "title": "Lawrence of Arabia",
+      "year": 1962
+    },
     "Cruising": {
       "id": 27958,
       "poster": "/bb9CND0WyfwdHOZY5XmP4Qn8taz.jpg",
@@ -435,10 +477,10 @@
       "year": 1980
     },
     "Prince of the City": {
-      "id": 245331,
-      "poster": "/5QwgvjGrJKQ5PTGccv0GMpz1IeV.jpg",
+      "id": 32047,
+      "poster": "/511ulkuQ46NYiwAc39rXMBIB34r.jpg",
       "title": "Prince of the City",
-      "year": 2012
+      "year": 1981
     }
   }
 }

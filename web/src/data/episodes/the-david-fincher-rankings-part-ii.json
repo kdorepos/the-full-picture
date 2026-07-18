@@ -77,7 +77,7 @@
           "note": "The Mötley Crüe biopic was originally a Fincher project before landing at Netflix; Chris calls the version that got made 'not successful at all.'"
         },
         {
-          "title": "Black Dahlia",
+          "title": "The Black Dahlia",
           "year": 2006,
           "note": "Chris's biggest what-if: Brian De Palma's adaptation of James Ellroy's book is 'a very stiff movie' despite De Palma being a clear Fincher influence, and Chris sees echoes of the unmade Fincher version in both Mindhunter and Zodiac."
         }
@@ -207,10 +207,10 @@
       "year": 2020
     },
     "Mulan": {
-      "id": 10674,
-      "poster": "/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg",
+      "id": 337401,
+      "poster": "/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg",
       "title": "Mulan",
-      "year": 1998
+      "year": 2020
     },
     "West Side Story": {
       "id": 511809,
@@ -254,10 +254,10 @@
       "title": "The Dirt",
       "year": 2019
     },
-    "Black Dahlia": {
-      "id": 128762,
-      "poster": "/m596aNR56dl9YTuZAzXwM83Rm7F.jpg",
-      "title": "Black Dahlia",
+    "The Black Dahlia": {
+      "id": 9676,
+      "poster": "/su7yuXqGUHICfoijtcSaxWLE34Y.jpg",
+      "title": "The Black Dahlia",
       "year": 2006
     },
     "Zodiac": {
@@ -297,10 +297,10 @@
       "year": 2020
     },
     "Truth or Dare": {
-      "id": 460019,
-      "poster": "/ei2waWQAG8NP244WShIFgGu9IOu.jpg",
-      "title": "Truth or Dare",
-      "year": 2018
+      "id": 10174,
+      "poster": "/kJHCqwDgS9MEhdChIkGn7QAUoyL.jpg",
+      "title": "Madonna: Truth or Dare",
+      "year": 1991
     },
     "Red Sparrow": {
       "id": 401981,
@@ -320,5 +320,10 @@
       "title": "Me and You and Everyone We Know",
       "year": 2005
     }
+  },
+  "tmdbOverrides": {
+    "The Black Dahlia": 9676,
+    "Mulan": 337401,
+    "Truth or Dare": 10174
   }
 }

@@ -5,6 +5,7 @@ const modules = import.meta.glob('../data/episodes/*.json', { eager: true });
 const episodes = Object.values(modules)
   .map((m) => m.default)
   .sort((a, b) => (a.published < b.published ? 1 : -1));
+const recent = episodes.slice(0, 12);   // homepage is a recent teaser; /episodes is the full archive
 
 const filmsIn = (s) =>
   (s.films?.length ?? 0) +
@@ -39,7 +40,7 @@ const kind = (ep) => [...new Set((ep.segments ?? []).map((s) => KIND[s.kind] ?? 
         expect the occasional misheard title or a link to the wrong film.
       </p>
       <div class="catalog" id="catalog">
-        {episodes.map((ep) => (
+        {recent.map((ep) => (
           <a class="sale-card" href={`/ep/${ep.slug}`}>
             <div>
               <span class="eyebrow">{kind(ep)} · {fmt(ep.published)} · {ep.runtimeMin} min</span>
@@ -50,35 +51,11 @@ const kind = (ep) => [...new Set((ep.segments ?? []).map((s) => KIND[s.kind] ?? 
           </a>
         ))}
       </div>
-      {episodes.length > 5 && (
-        <button class="show-more" id="show-more" type="button">
-          Show more <span class="sub">5 at a time</span>
-        </button>
-      )}
+      <a class="show-more" href="/episodes">
+        See all {episodes.length.toLocaleString()} episodes <span class="sub">→</span>
+      </a>
     </section>
   </div>
-
-  <script is:inline>
-    // Show episodes 5 at a time; reveal the next 5 per click. Progressive enhancement:
-    // all cards are in the static HTML, so with JS off the full list still renders.
-    (function () {
-      const PAGE = 5;
-      const cards = Array.from(document.querySelectorAll('#catalog > .sale-card'));
-      const btn = document.getElementById('show-more');
-      if (!btn || cards.length <= PAGE) return;
-      let shown = PAGE;
-      const render = () => {
-        cards.forEach((c, i) => {
-          c.style.display = i < shown ? '' : 'none';
-          c.classList.remove('is-last-visible');
-        });
-        cards[Math.min(shown, cards.length) - 1]?.classList.add('is-last-visible');
-        btn.style.display = shown >= cards.length ? 'none' : '';
-      };
-      btn.addEventListener('click', () => { shown += PAGE; render(); });
-      render();
-    })();
-  </script>
 
   <script is:inline>
     // Hero headline: pick one line at random per page load (the canonical line ships in the

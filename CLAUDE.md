@@ -32,11 +32,15 @@ Exact-title matching attaches `{id, poster, year}` per title and rejects collisi
 (prefers null over a wrong link). It prints any UNMATCHED picks — usually a mishear.
 
 ### 5.5 Review — REQUIRED before publishing
-Always run the **film-title-reviewer** agent (`.claude/agents/film-title-reviewer.md`)
-on the episode. It grounds each pick in the transcript (stated director/cast/premise)
-and confirms the TMDb match is *that* film — catching mishears (Nirvana→Nirvanna) and
-wrong-but-same-title matches that enrichment can't. Apply its findings, then re-enrich.
-This step is not optional; `enrich_tmdb.py` ends by reminding you to run it.
+Run two complementary review agents on the episode:
+- **completeness-critic** (`.claude/agents/completeness-critic.md`) — finds films clearly discussed
+  in the transcript but *missing* from the extracted list (the opposite of the reviewer's job).
+  Add any it confirms, then re-enrich.
+- **film-title-reviewer** (`.claude/agents/film-title-reviewer.md`) — grounds each pick in the
+  transcript (stated director/cast/premise) and confirms the TMDb match is *that* film — catching
+  mishears (Nirvana→Nirvanna) and wrong-but-same-title matches that enrichment can't. Apply its
+  findings, then re-enrich.
+Both are required, not optional; `enrich_tmdb.py` ends by reminding you to run the review step.
 
 ### 5.6 Humanize — public copy must read human
 Run the **humanizer** agent (`.claude/agents/humanizer.md`) on the prose you wrote for the

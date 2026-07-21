@@ -43,6 +43,12 @@ def main():
     comment = f"This episode is now available on The Full Picture 🎞️\n\n{ep_url}"
     thread_search = f"https://www.reddit.com/r/{SUBREDDIT}/search/?" + urllib.parse.urlencode(
         {"q": title, "restrict_sr": "1", "sort": "new"})
+    # Deep-link the tap into Narwhal (iOS Reddit app) at the subreddit: narwhal://open-url/<enc url>.
+    # We can't go straight to the exact thread — Narwhal only deep-links specific posts, and Reddit
+    # 403s our server's thread lookup — so we land on the sub (the fresh episode thread is near the
+    # top) and the operator taps in. The GitHub-issue fallback links to a normal desktop search.
+    sub_url = f"https://www.reddit.com/r/{SUBREDDIT}/"
+    narwhal_link = "narwhal://open-url/" + urllib.parse.quote(sub_url, safe="")
 
     topic = env("NTFY_TOPIC")
     if topic:
@@ -51,7 +57,7 @@ def main():
                 f"https://ntfy.sh/{topic}", data=comment.encode("utf-8"),
                 headers={
                     "Title": f"New episode live - post to r/{SUBREDDIT}",
-                    "Click": thread_search,   # tap the notification -> the thread search; long-press the body to copy the comment
+                    "Click": narwhal_link,   # tap -> opens r/TheBigPicture in Narwhal; long-press the body to copy the comment
                     "Tags": "clapper",
                 })
             urllib.request.urlopen(req, timeout=15).read()

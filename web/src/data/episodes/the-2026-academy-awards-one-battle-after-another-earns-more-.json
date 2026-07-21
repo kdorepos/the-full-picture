@@ -1,0 +1,784 @@
+{
+  "slug": "the-2026-academy-awards-one-battle-after-another-earns-more-",
+  "title": "The 2026 Academy Awards: ‘One Battle After Another’ Earns More Than a Few Small Oscars",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2026-03-16",
+  "runtimeMin": 88,
+  "format": "Sean Fennessey and Amanda Dobbins recap the 98th Academy Awards from the office, bow tie and all, right after the telecast. One Battle After Another wins six, Sinners wins four, and the two films keep swapping the night's biggest awards. Paul Thomas Anderson finally lands the Picture/Director/Screenplay sweep, Michael B. Jordan takes Best Actor, Sean Penn wins a fourth Oscar without showing up, and Autumn Durald Arkapaw becomes the first woman to win Best Cinematography in 98 years. Plus Conan's second year hosting, the Bridesmaids reunion, and a rare Live Action Short tie.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The night, recapped",
+      "note": "the contenders and how they fared",
+      "films": [
+        {
+          "title": "One Battle After Another",
+          "year": 2025,
+          "note": "Six wins: Best Picture, Director, Adapted Screenplay (both Paul Thomas Anderson), Sean Penn's Supporting Actor, Film Editing, and the first-ever Casting Oscar. Anderson has been Sean's favorite director since he was 15; he takes the Picture/Director/Screenplay sweep on one night, for a film about handing your youth off to the people behind you. He dedicated the screenplay win to his children. The hosts note the casting win came before editing and read as this year's Best Picture tell."
+        },
+        {
+          "title": "Sinners",
+          "year": 2025,
+          "note": "Four Oscars: Michael B. Jordan's Best Actor and Ryan Coogler's Original Screenplay, both their first, plus a surprise Best Cinematography for Autumn Durald Arkapaw. Lost Picture and Director to One Battle, which the hosts argue may be better for its legacy. The MBJ win, telegraphed since the SAG Awards, was the room's loudest moment; Coogler ran back up the theater to bring Durald Arkapaw's son down for her win."
+        },
+        {
+          "title": "Hamnet",
+          "year": 2025,
+          "note": "Jessie Buckley's Best Actress win, understood to be locked for months. Amanda clocks how strange it is to win an award you've known was yours since fall. Bill Simmons' and Van Lathan's movie of the year."
+        },
+        {
+          "title": "Weapons",
+          "year": 2025,
+          "note": "Amy Madigan wins Supporting Actress, her first nomination in 40 years, and gives a daffy, heartfelt speech with Ed Harris in the front row. Conan appeared in Aunt Gladys drag two seconds into the broadcast, which the hosts took as the tell."
+        },
+        {
+          "title": "Frankenstein",
+          "year": 2025,
+          "note": "Guillermo del Toro's film takes the below-the-line crafts: Production Design, Costume Design, and Makeup and Hairstyling. Jessie Buckley also stars in it; del Toro was seated up front doing the Spielberg stare all night."
+        },
+        {
+          "title": "Sentimental Value",
+          "year": 2025,
+          "note": "Norway's Best International Feature winner (Joachim Trier). After its BAFTA the race felt settled, though some pundits stuck with The Secret Agent late. Four acting nominations plus screenplay, director, and picture left it few places to win but here."
+        },
+        {
+          "title": "K-Pop Demon Hunters",
+          "year": 2025,
+          "note": "Best Animated Feature, early in the night; Maggie Kang and Chris Appelhans accepted. A Netflix release out of Sony Pictures Animation. 'Golden' was held until the very end of the show, and EJ hit the note live even with the mix dialed down as insurance."
+        },
+        {
+          "title": "Marty Supreme",
+          "year": 2025,
+          "note": "Winless. Timothee Chalamet's Best Actor bid fell to Michael B. Jordan; the ballet-interview clip went viral only after voting had closed, so it was a reflection of the loss, not its cause. Sean stays team Timmy: 'I love Marty Supreme.'"
+        },
+        {
+          "title": "The Secret Agent",
+          "year": 2025,
+          "note": "Winless too, and now, the hosts say, overlooked. It was the nearest thing to a spoiler for Sentimental Value in International, and Wagner Moura was a Best Actor nominee."
+        },
+        {
+          "title": "Mr. Nobody Against Putin",
+          "year": 2025,
+          "note": "Best Documentary Feature, the win Amanda liked least in a doc slate she found weak. She praised the filmmaker's speech tying it to the moment more than the film itself."
+        },
+        {
+          "title": "Bridesmaids",
+          "year": 2011,
+          "note": "The 15th-anniversary cast reunion (Melissa McCarthy, Rose Byrne, Kristen Wiig, Maya Rudolph, Ellie Kemper) reading fake audience notes was the funniest bit of the night. Rudolph's husband, PTA, was busy winning."
+        }
+      ]
+    },
+    {
+      "kind": "awards",
+      "heading": "The winners, category by category",
+      "note": "as they happened at the 98th Academy Awards",
+      "ceremony": "98th Academy Awards",
+      "categories": [
+        {
+          "name": "Best Picture",
+          "winner": "One Battle After Another",
+          "nominees": [
+            {
+              "title": "One Battle After Another",
+              "year": 2025
+            },
+            {
+              "title": "Sinners",
+              "year": 2025
+            },
+            {
+              "title": "Sentimental Value",
+              "year": 2025
+            },
+            {
+              "title": "Hamnet",
+              "year": 2025
+            },
+            {
+              "title": "Frankenstein",
+              "year": 2025
+            },
+            {
+              "title": "Marty Supreme",
+              "year": 2025
+            },
+            {
+              "title": "The Secret Agent",
+              "year": 2025
+            }
+          ]
+        },
+        {
+          "name": "Best Director",
+          "winner": "One Battle After Another",
+          "nominees": [
+            {
+              "title": "One Battle After Another",
+              "year": 2025,
+              "person": "Paul Thomas Anderson"
+            },
+            {
+              "title": "Sinners",
+              "year": 2025,
+              "person": "Ryan Coogler"
+            },
+            {
+              "title": "Marty Supreme",
+              "year": 2025,
+              "person": "Josh Safdie"
+            }
+          ]
+        },
+        {
+          "name": "Best Actor",
+          "winner": "Sinners",
+          "nominees": [
+            {
+              "title": "Sinners",
+              "year": 2025,
+              "person": "Michael B. Jordan"
+            },
+            {
+              "title": "Marty Supreme",
+              "year": 2025,
+              "person": "Timothee Chalamet"
+            },
+            {
+              "title": "One Battle After Another",
+              "year": 2025,
+              "person": "Leonardo DiCaprio"
+            },
+            {
+              "title": "Blue Moon",
+              "year": 2025,
+              "person": "Ethan Hawke"
+            },
+            {
+              "title": "The Secret Agent",
+              "year": 2025,
+              "person": "Wagner Moura"
+            }
+          ]
+        },
+        {
+          "name": "Best Actress",
+          "winner": "Hamnet",
+          "nominees": [
+            {
+              "title": "Hamnet",
+              "year": 2025,
+              "person": "Jessie Buckley"
+            },
+            {
+              "title": "If I Had Legs I'd Kick You",
+              "year": 2025,
+              "person": "Rose Byrne"
+            },
+            {
+              "title": "Sentimental Value",
+              "year": 2025,
+              "person": "Renate Reinsve"
+            },
+            {
+              "title": "Song Sung Blue",
+              "year": 2025,
+              "person": "Kate Hudson"
+            }
+          ]
+        },
+        {
+          "name": "Best Supporting Actor",
+          "winner": "One Battle After Another",
+          "nominees": [
+            {
+              "title": "One Battle After Another",
+              "year": 2025,
+              "person": "Sean Penn"
+            }
+          ]
+        },
+        {
+          "name": "Best Supporting Actress",
+          "winner": "Weapons",
+          "nominees": [
+            {
+              "title": "Weapons",
+              "year": 2025,
+              "person": "Amy Madigan"
+            }
+          ]
+        },
+        {
+          "name": "Best Adapted Screenplay",
+          "winner": "One Battle After Another",
+          "nominees": [
+            {
+              "title": "One Battle After Another",
+              "year": 2025,
+              "person": "Paul Thomas Anderson"
+            }
+          ]
+        },
+        {
+          "name": "Best Original Screenplay",
+          "winner": "Sinners",
+          "nominees": [
+            {
+              "title": "Sinners",
+              "year": 2025,
+              "person": "Ryan Coogler"
+            }
+          ]
+        },
+        {
+          "name": "Best Cinematography",
+          "winner": "Sinners",
+          "nominees": [
+            {
+              "title": "Sinners",
+              "year": 2025,
+              "person": "Autumn Durald Arkapaw"
+            },
+            {
+              "title": "One Battle After Another",
+              "year": 2025,
+              "person": "Michael Bauman"
+            }
+          ]
+        },
+        {
+          "name": "Best Film Editing",
+          "winner": "One Battle After Another",
+          "nominees": [
+            {
+              "title": "One Battle After Another",
+              "year": 2025
+            }
+          ]
+        },
+        {
+          "name": "Best Casting",
+          "winner": "One Battle After Another",
+          "nominees": [
+            {
+              "title": "One Battle After Another",
+              "year": 2025,
+              "person": "Cassandra Kolokundis"
+            },
+            {
+              "title": "Sinners",
+              "year": 2025,
+              "person": "Francine Maisler"
+            }
+          ]
+        },
+        {
+          "name": "Best Production Design",
+          "winner": "Frankenstein",
+          "nominees": [
+            {
+              "title": "Frankenstein",
+              "year": 2025
+            }
+          ]
+        },
+        {
+          "name": "Best Costume Design",
+          "winner": "Frankenstein",
+          "nominees": [
+            {
+              "title": "Frankenstein",
+              "year": 2025
+            }
+          ]
+        },
+        {
+          "name": "Best Makeup and Hairstyling",
+          "winner": "Frankenstein",
+          "nominees": [
+            {
+              "title": "Frankenstein",
+              "year": 2025
+            }
+          ]
+        },
+        {
+          "name": "Best Animated Feature",
+          "winner": "K-Pop Demon Hunters",
+          "nominees": [
+            {
+              "title": "K-Pop Demon Hunters",
+              "year": 2025
+            }
+          ]
+        },
+        {
+          "name": "Best International Feature",
+          "winner": "Sentimental Value",
+          "nominees": [
+            {
+              "title": "Sentimental Value",
+              "year": 2025
+            },
+            {
+              "title": "The Secret Agent",
+              "year": 2025
+            }
+          ]
+        },
+        {
+          "name": "Best Documentary Feature",
+          "winner": "Mr. Nobody Against Putin",
+          "nominees": [
+            {
+              "title": "Mr. Nobody Against Putin",
+              "year": 2025
+            }
+          ]
+        },
+        {
+          "name": "Best Documentary Short",
+          "winner": "All the Empty Rooms",
+          "nominees": [
+            {
+              "title": "All the Empty Rooms",
+              "year": 2025
+            }
+          ]
+        },
+        {
+          "name": "Best Live Action Short Film (tie)",
+          "winner": "Two People Exchanging Saliva",
+          "nominees": [
+            {
+              "title": "Two People Exchanging Saliva",
+              "year": 2025
+            },
+            {
+              "title": "The Singers",
+              "year": 2025
+            }
+          ]
+        },
+        {
+          "name": "Best Animated Short",
+          "winner": "The Girl Who Cried Pearls",
+          "nominees": [
+            {
+              "title": "The Girl Who Cried Pearls",
+              "year": 2025
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Oscar history the hosts invoked",
+      "films": [
+        "American Beauty",
+        "Saving Private Ryan",
+        "Shakespeare in Love",
+        "Pulp Fiction",
+        "Forrest Gump",
+        "The Master",
+        "One Flew Over the Cuckoo's Nest",
+        "Barry Lyndon",
+        "Dog Day Afternoon",
+        "Jaws",
+        "Nashville",
+        "Moonlight",
+        "La La Land",
+        "Skyfall",
+        "Zero Dark Thirty"
+      ]
+    },
+    {
+      "group": "Careers they walked through",
+      "films": [
+        "Apollo 13",
+        "The Truman Show",
+        "Pollock",
+        "The Hours",
+        "Philadelphia",
+        "Come and Get It",
+        "Kentucky",
+        "The Westerner",
+        "Gaslight",
+        "Anastasia",
+        "Murder on the Orient Express",
+        "Morning Glory",
+        "Mank",
+        "The Social Network",
+        "The Curious Case of Benjamin Button"
+      ]
+    },
+    {
+      "group": "Promoted or on the way",
+      "films": [
+        "The Devil Wears Prada 2",
+        "The Mandalorian and Grogu",
+        "The Avengers",
+        "F1",
+        "The Dog Stars",
+        "Dune Part Three"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Wire",
+      "Friday Night Lights",
+      "Saturday Night Live"
+    ],
+    "Ads": [
+      "Netflix / T-Mobile Home Run Derby",
+      "State Farm",
+      "Volkswagen",
+      "Nordstrom Rack",
+      "Red Bull",
+      "White Claw",
+      "Rolex"
+    ],
+    "Sports": [
+      "World Baseball Classic"
+    ]
+  },
+  "tmdb": {
+    "One Battle After Another": {
+      "id": 1054867,
+      "poster": "/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+      "title": "One Battle After Another",
+      "year": 2025
+    },
+    "Sinners": {
+      "id": 1233413,
+      "poster": "/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+      "title": "Sinners",
+      "year": 2025
+    },
+    "Hamnet": {
+      "id": 858024,
+      "poster": "/zIcd6yuBucRNof5t9KVuGBHIhXU.jpg",
+      "title": "Hamnet",
+      "year": 2025
+    },
+    "Weapons": {
+      "id": 1078605,
+      "poster": "/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+      "title": "Weapons",
+      "year": 2025
+    },
+    "Frankenstein": {
+      "id": 1062722,
+      "poster": "/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+      "title": "Frankenstein",
+      "year": 2025
+    },
+    "Sentimental Value": {
+      "id": 1124566,
+      "poster": "/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
+      "title": "Sentimental Value",
+      "year": 2025
+    },
+    "K-Pop Demon Hunters": {
+      "id": 803796,
+      "poster": "/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg",
+      "title": "KPop Demon Hunters",
+      "year": 2025
+    },
+    "Marty Supreme": {
+      "id": 1317288,
+      "poster": "/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+      "title": "Marty Supreme",
+      "year": 2025
+    },
+    "The Secret Agent": {
+      "id": 1220564,
+      "poster": "/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
+      "title": "The Secret Agent",
+      "year": 2025
+    },
+    "Mr. Nobody Against Putin": {
+      "id": 1393151,
+      "poster": "/aXCEnrqecvPXohuptN0JRgIvkDj.jpg",
+      "title": "Mr. Nobody Against Putin",
+      "year": 2025
+    },
+    "Bridesmaids": {
+      "id": 55721,
+      "poster": "/gJtA7hYsBMQ7EM3sPBMUdBfU7a0.jpg",
+      "title": "Bridesmaids",
+      "year": 2011
+    },
+    "Blue Moon": {
+      "id": 1299655,
+      "poster": "/dVU7SNc6dgStTVdtbPLQncWxsyZ.jpg",
+      "title": "Blue Moon",
+      "year": 2025
+    },
+    "If I Had Legs I'd Kick You": {
+      "id": 1160360,
+      "poster": "/va0TQ9WprMXRqQAzY56vyqY0Yd5.jpg",
+      "title": "If I Had Legs I'd Kick You",
+      "year": 2025
+    },
+    "Song Sung Blue": {
+      "id": 1371185,
+      "poster": "/xStmzLprgzqjzfvpBI7uTbcRpwQ.jpg",
+      "title": "Song Sung Blue",
+      "year": 2025
+    },
+    "All the Empty Rooms": {
+      "id": 1525091,
+      "poster": "/ajOXPpgh96rxxaHqqQCoxPP6dH5.jpg",
+      "title": "All the Empty Rooms",
+      "year": 2025
+    },
+    "Two People Exchanging Saliva": {
+      "id": 1340625,
+      "poster": "/1Hi01LzZFpopWzNRlPBGsAdmoBI.jpg",
+      "title": "Two People Exchanging Saliva",
+      "year": 2025
+    },
+    "The Singers": {
+      "id": 1442908,
+      "poster": "/a6wheh1243vceZ7Dqb0knYmKqaj.jpg",
+      "title": "The Singers",
+      "year": 2026
+    },
+    "The Girl Who Cried Pearls": {
+      "id": 1142149,
+      "poster": "/sqdqvstmM2vOBnb5beVT8lOQ4Oi.jpg",
+      "title": "The Girl Who Cried Pearls",
+      "year": 2025
+    },
+    "American Beauty": {
+      "id": 14,
+      "poster": "/wby9315QzVKdW9BonAefg8jGTTb.jpg",
+      "title": "American Beauty",
+      "year": 1999
+    },
+    "Saving Private Ryan": {
+      "id": 857,
+      "poster": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+      "title": "Saving Private Ryan",
+      "year": 1998
+    },
+    "Shakespeare in Love": {
+      "id": 1934,
+      "poster": "/zdW7jdzPi4J9KZR3TyY2jn3Xh5e.jpg",
+      "title": "Shakespeare in Love",
+      "year": 1998
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "Forrest Gump": {
+      "id": 13,
+      "poster": "/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
+      "title": "Forrest Gump",
+      "year": 1994
+    },
+    "The Master": {
+      "id": 68722,
+      "poster": "/rUSjbyvYWN9H4az8xt0tDtU7I6v.jpg",
+      "title": "The Master",
+      "year": 2012
+    },
+    "One Flew Over the Cuckoo's Nest": {
+      "id": 510,
+      "poster": "/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": 1975
+    },
+    "Barry Lyndon": {
+      "id": 3175,
+      "poster": "/znfLskGQnXYB2xcOGM9eInRHPAV.jpg",
+      "title": "Barry Lyndon",
+      "year": 1975
+    },
+    "Dog Day Afternoon": {
+      "id": 968,
+      "poster": "/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg",
+      "title": "Dog Day Afternoon",
+      "year": 1975
+    },
+    "Jaws": {
+      "id": 578,
+      "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "title": "Jaws",
+      "year": 1975
+    },
+    "Nashville": {
+      "id": 3121,
+      "poster": "/twl4ovyjb8muFKvZmcCDzPR0hy1.jpg",
+      "title": "Nashville",
+      "year": 1975
+    },
+    "Moonlight": {
+      "id": 376867,
+      "poster": "/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+      "title": "Moonlight",
+      "year": 2016
+    },
+    "La La Land": {
+      "id": 313369,
+      "poster": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "title": "La La Land",
+      "year": 2016
+    },
+    "Skyfall": {
+      "id": 37724,
+      "poster": "/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
+      "title": "Skyfall",
+      "year": 2012
+    },
+    "Zero Dark Thirty": {
+      "id": 97630,
+      "poster": "/wNSdSSxowM3WIqmPJNg3RagYbwP.jpg",
+      "title": "Zero Dark Thirty",
+      "year": 2012
+    },
+    "Apollo 13": {
+      "id": 568,
+      "poster": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+      "title": "Apollo 13",
+      "year": 1995
+    },
+    "The Truman Show": {
+      "id": 37165,
+      "poster": "/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+      "title": "The Truman Show",
+      "year": 1998
+    },
+    "Pollock": {
+      "id": 12509,
+      "poster": "/azsBSw2zw2uNHiCjTnbe9TJVEDB.jpg",
+      "title": "Pollock",
+      "year": 2000
+    },
+    "The Hours": {
+      "id": 590,
+      "poster": "/4myDtowDJQPQnkEDB1IWGtJR1Fo.jpg",
+      "title": "The Hours",
+      "year": 2002
+    },
+    "Philadelphia": {
+      "id": 9800,
+      "poster": "/tFe5Yoo5zT495okA49bq1vPPkiV.jpg",
+      "title": "Philadelphia",
+      "year": 1993
+    },
+    "Come and Get It": {
+      "id": 93313,
+      "poster": "/4w65AMsJ0RZVkxGfxw4DVWWSTyq.jpg",
+      "title": "Come and Get It",
+      "year": 1936
+    },
+    "Kentucky": {
+      "id": 118889,
+      "poster": "/s7sKkeaXl2wVbLHCONorHMQHYqu.jpg",
+      "title": "Kentucky",
+      "year": 1938
+    },
+    "The Westerner": {
+      "id": 14710,
+      "poster": "/5DpDg1GYiqAKoCozbunCqPYvRPD.jpg",
+      "title": "The Westerner",
+      "year": 1940
+    },
+    "Gaslight": {
+      "id": 13528,
+      "poster": "/gXKszCl5Q1KrgWRWpPcqn94CP58.jpg",
+      "title": "Gaslight",
+      "year": 1944
+    },
+    "Anastasia": {
+      "id": 38171,
+      "poster": "/26wHOXNt4XNn2lYT8i8pWx1JOP0.jpg",
+      "title": "Anastasia",
+      "year": 1956
+    },
+    "Murder on the Orient Express": {
+      "id": 4176,
+      "poster": "/x7E9iNMi5iFTdUNJvEZ1x8YNEZ2.jpg",
+      "title": "Murder on the Orient Express",
+      "year": 1974
+    },
+    "Morning Glory": {
+      "id": 38357,
+      "poster": "/aFRXEoB3QkeHNHYmVGC3uzFSol8.jpg",
+      "title": "Morning Glory",
+      "year": 2010
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "The Social Network": {
+      "id": 37799,
+      "poster": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+      "title": "The Social Network",
+      "year": 2010
+    },
+    "The Curious Case of Benjamin Button": {
+      "id": 4922,
+      "poster": "/26wEWZYt6yJkwRVkjcbwJEFh9IS.jpg",
+      "title": "The Curious Case of Benjamin Button",
+      "year": 2008
+    },
+    "The Devil Wears Prada 2": {
+      "id": 1314481,
+      "poster": "/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+      "title": "The Devil Wears Prada 2",
+      "year": 2026
+    },
+    "The Mandalorian and Grogu": {
+      "id": 1228710,
+      "poster": "/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+      "title": "The Mandalorian and Grogu",
+      "year": 2026
+    },
+    "The Avengers": {
+      "id": 24428,
+      "poster": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "title": "The Avengers",
+      "year": 2012
+    },
+    "F1": {
+      "id": 911430,
+      "poster": "/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
+      "title": "F1",
+      "year": 2025
+    },
+    "The Dog Stars": {
+      "id": 1384216,
+      "poster": "/A7i16oDi03qrKep5pBfuTWNUTb.jpg",
+      "title": "The Dog Stars",
+      "year": 2026
+    },
+    "Dune Part Three": {
+      "id": 1170608,
+      "poster": "/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+      "title": "Dune: Part Three",
+      "year": 2026
+    }
+  },
+  "tmdbOverrides": {
+    "Anastasia": 38171,
+    "Murder on the Orient Express": 4176
+  },
+  "spotifyEpisodeId": "31TmyfbKJRzzkyqGU6VWW5"
+}

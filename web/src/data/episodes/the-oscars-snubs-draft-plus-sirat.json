@@ -1,0 +1,563 @@
+{
+  "slug": "the-oscars-snubs-draft-plus-sirat",
+  "title": "The Oscars Snubs Draft. Plus: 'Sirāt'!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan",
+    "Joanna Robinson",
+    "Katie Rich"
+  ],
+  "published": "2026-02-16",
+  "runtimeMin": 171,
+  "spotifyEpisodeId": "1o0SsbQrlLLJSabBvVB2jj",
+  "format": "A five-person snake draft (Joanna Robinson, Amanda, Chris, Sean, Katie Rich) of the most egregious Oscar snubs across seven categories. One year comes off the board per pick, so 35 years of Academy history get rewritten. It closes with Sean's interview with 'Sirāt' director Oliver Laxe. Note: the full 35-pick rosters weren't recapped on-air; below are the marquee picks that could be confidently attributed.",
+  "segments": [
+    {
+      "kind": "draft",
+      "heading": "The teams",
+      "draftOf": "the greatest Oscar snubs in history",
+      "teams": [
+        {
+          "host": "Joanna Robinson",
+          "picks": [
+            {
+              "title": "Mad Max: Fury Road",
+              "year": 2015,
+              "category": "Best Picture Winner Snub",
+              "note": "The #1 overall pick, the snub of snubs. A true-blue genre classic that lost to Spotlight before the Academy learned to honor genre."
+            },
+            {
+              "title": "Rebecca",
+              "year": 1940,
+              "category": "Best Director Winner Snub",
+              "note": "Finally give Hitchcock a directing Oscar, over John Ford's The Grapes of Wrath. Takes 1940 (and His Girl Friday) off the board."
+            },
+            {
+              "title": "In the Mood for Love",
+              "year": 2000,
+              "category": "Best Picture Nominee Snub (21st c.)",
+              "note": "Submitted as international but never nominated, a generous read of the 2000 eligibility."
+            },
+            {
+              "title": "Witness",
+              "year": 1985,
+              "category": "Best Actor Winner Snub",
+              "note": "Give Harrison Ford the Oscar he deserved, taken from William Hurt."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "The Social Network",
+              "year": 2010,
+              "category": "Best Picture Winner Snub",
+              "note": "One of the great miscarriages of Oscar justice: lost to The King's Speech, and Fincher still has no Oscar."
+            },
+            {
+              "title": "Malcolm X",
+              "year": 1992,
+              "category": "Best Actor Winner Snub",
+              "note": "A forever-actor announcement robbed. Denzel, one of our all-timers, taken from Pacino (who has Godfather II anyway)."
+            },
+            {
+              "title": "The Grand Budapest Hotel",
+              "year": 2014,
+              "category": "Best Director Winner Snub",
+              "note": "Wes Anderson's coronation moment that just passed him by, taken from Iñárritu's Birdman."
+            },
+            {
+              "title": "The Dark Knight",
+              "year": 2008,
+              "category": "Best Picture Nominee Snub (21st c.)",
+              "note": "The snub that triggered the Academy's Best Picture expansion, 'and then I don't have to hear about it anymore.'"
+            },
+            {
+              "title": "Bringing Up Baby",
+              "year": 1938,
+              "category": "Best Picture Nominee Snub (20th c.)",
+              "note": "Zero nominations for a signature screwball that invents the whole genre."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Goodfellas",
+              "year": 1990,
+              "category": "Best Picture Winner Snub",
+              "note": "Over Dances with Wolves, the most egregious one. Scorsese then waited 16 years for The Departed."
+            },
+            {
+              "title": "2001: A Space Odyssey",
+              "year": 1968,
+              "category": "Best Picture Nominee Snub (20th c.)",
+              "note": "Kubrick, criminally overlooked, never topped as science fiction."
+            },
+            {
+              "title": "All About Eve",
+              "year": 1950,
+              "category": "Best Actress Winner Snub",
+              "note": "Bette Davis, one of CR's five favorite performances ever, over Judy Holliday."
+            },
+            {
+              "title": "The Girl with the Dragon Tattoo",
+              "year": 2011,
+              "category": "Best Picture Nominee Snub (21st c.)",
+              "note": "Into one of the worst nominee slates ever, 'closer to Fincher every day.'"
+            }
+          ]
+        },
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Singin' in the Rain",
+              "year": 1952,
+              "category": "Best Picture Nominee Snub (20th c.)",
+              "note": "Should have won outright. Take out The Greatest Show on Earth entirely."
+            },
+            {
+              "title": "The Last Detail",
+              "year": 1973,
+              "category": "Best Actor Winner Snub",
+              "note": "Give Nicholson his 1973 (from Jack Lemmon, who already had one), a domino chain that ends with the slap never happening."
+            }
+          ]
+        },
+        {
+          "host": "Katie Rich",
+          "picks": [
+            {
+              "title": "Brokeback Mountain",
+              "year": 2005,
+              "category": "Best Picture Winner Snub",
+              "note": "Maybe the worst Best Picture win of all time (Crash), a chalk pick that had to be done."
+            },
+            {
+              "title": "Do the Right Thing",
+              "year": 1989,
+              "category": "Best Picture Nominee Snub (20th c.)",
+              "note": "The be-all, end-all Spike Lee snub, taken over When Harry Met Sally."
+            },
+            {
+              "title": "Eternal Sunshine of the Spotless Mind",
+              "year": 2004,
+              "category": "Best Actress Winner Snub",
+              "note": "Kate Winslet, overdue. A chain that eventually frees Glenn Close for Albert Nobbs."
+            }
+          ]
+        }
+      ],
+      "categories": [
+        "Best Picture Nominee Snub (20th c.)",
+        "Best Picture Nominee Snub (21st c.)",
+        "Best Picture Winner Snub",
+        "Best Actor Winner Snub",
+        "Best Actress Winner Snub",
+        "Best Director Winner Snub",
+        "Wild Card"
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "The review",
+      "note": "the film in the room",
+      "films": [
+        {
+          "title": "Sirāt",
+          "year": 2025,
+          "note": "Sean's conversation with director Oliver Laxe about his Cannes-awarded, techno-scored desert odyssey: cinema as a place of transformation and healing, the 32-minute-delayed title card, and thinking of films 'like operas.'"
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Also on the board / debated",
+      "films": [
+        "Spotlight",
+        "Dances with Wolves",
+        "The King's Speech",
+        "Crash",
+        "When Harry Met Sally...",
+        "The Squid and the Whale",
+        "Citizen Kane",
+        "The Exorcist",
+        "Chinatown",
+        "Ordinary People",
+        "Coal Miner's Daughter",
+        "Carrie",
+        "The Tree of Life",
+        "Moneyball",
+        "Hugo",
+        "Midnight in Paris",
+        "The Big Lebowski",
+        "Melancholia",
+        "Shame",
+        "The Master",
+        "Doubt",
+        "Albert Nobbs",
+        "Out of Africa",
+        "Ran",
+        "La La Land",
+        "Arrival",
+        "The Grapes of Wrath",
+        "His Girl Friday",
+        "Wuthering Heights",
+        "Grand Illusion",
+        "The Adventures of Robin Hood",
+        "You Can't Take It with You",
+        "The Truman Show"
+      ]
+    },
+    {
+      "group": "From the Sirāt interview",
+      "films": [
+        "It Was Just an Accident",
+        "Sorcerer"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Mandalorian",
+      "Game of Thrones",
+      "Andor"
+    ],
+    "Ads": [
+      "White Claw"
+    ]
+  },
+  "tmdb": {
+    "Mad Max: Fury Road": {
+      "id": 76341,
+      "poster": "/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+      "title": "Mad Max: Fury Road",
+      "year": 2015
+    },
+    "Rebecca": {
+      "id": 223,
+      "poster": "/1qz3qUOHnVy7dL7M7G8jSErxE4b.jpg",
+      "title": "Rebecca",
+      "year": 1940
+    },
+    "In the Mood for Love": {
+      "id": 843,
+      "poster": "/iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg",
+      "title": "In the Mood for Love",
+      "year": 2000
+    },
+    "Witness": {
+      "id": 9281,
+      "poster": "/kOymD1rChAMykmDVEzJpIh4OYS7.jpg",
+      "title": "Witness",
+      "year": 1985
+    },
+    "The Social Network": {
+      "id": 37799,
+      "poster": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+      "title": "The Social Network",
+      "year": 2010
+    },
+    "Malcolm X": {
+      "id": 1883,
+      "poster": "/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
+      "title": "Malcolm X",
+      "year": 1992
+    },
+    "The Grand Budapest Hotel": {
+      "id": 120467,
+      "poster": "/zOVCqKUzjFKqa1eDMcOzvXwthY4.jpg",
+      "title": "The Grand Budapest Hotel",
+      "year": 2014
+    },
+    "The Dark Knight": {
+      "id": 155,
+      "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    "Bringing Up Baby": {
+      "id": 900,
+      "poster": "/vTNNOtemaYmtx3k2NpsLMRJKEwZ.jpg",
+      "title": "Bringing Up Baby",
+      "year": 1938
+    },
+    "Goodfellas": {
+      "id": 769,
+      "poster": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+      "title": "GoodFellas",
+      "year": 1990
+    },
+    "2001: A Space Odyssey": {
+      "id": 62,
+      "poster": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "title": "2001: A Space Odyssey",
+      "year": 1968
+    },
+    "All About Eve": {
+      "id": 705,
+      "poster": "/blBzZaatPWVuWpXEnPscMA4Xp6m.jpg",
+      "title": "All About Eve",
+      "year": 1950
+    },
+    "The Girl with the Dragon Tattoo": {
+      "id": 65754,
+      "poster": "/8bokS83zGdhaXgN9tjidUKmAftW.jpg",
+      "title": "The Girl with the Dragon Tattoo",
+      "year": 2011
+    },
+    "Singin' in the Rain": {
+      "id": 872,
+      "poster": "/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+      "title": "Singin' in the Rain",
+      "year": 1952
+    },
+    "The Last Detail": {
+      "id": 14886,
+      "poster": "/zQoNkO99qfaBjh5aoA0pKau1prp.jpg",
+      "title": "The Last Detail",
+      "year": 1973
+    },
+    "Brokeback Mountain": {
+      "id": 142,
+      "poster": "/aByfQOQBNa4CMFwIgq3QrqY2ZHh.jpg",
+      "title": "Brokeback Mountain",
+      "year": 2005
+    },
+    "Do the Right Thing": {
+      "id": 925,
+      "poster": "/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+      "title": "Do the Right Thing",
+      "year": 1989
+    },
+    "Eternal Sunshine of the Spotless Mind": {
+      "id": 38,
+      "poster": "/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year": 2004
+    },
+    "Sirāt": {
+      "id": 1151272,
+      "poster": "/bzBtsLi17rK4G6kDvOXfUZfAhca.jpg",
+      "title": "Sirāt",
+      "year": 2025
+    },
+    "Spotlight": {
+      "id": 314365,
+      "poster": "/8DPGG400FgaFWaqcv11n8mRd2NG.jpg",
+      "title": "Spotlight",
+      "year": 2015
+    },
+    "Dances with Wolves": {
+      "id": 581,
+      "poster": "/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg",
+      "title": "Dances with Wolves",
+      "year": 1990
+    },
+    "The King's Speech": {
+      "id": 45269,
+      "poster": "/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg",
+      "title": "The King's Speech",
+      "year": 2010
+    },
+    "Crash": {
+      "id": 884,
+      "poster": "/gpai5oUFyFGLHOCsYTvVMqlbY7A.jpg",
+      "title": "Crash",
+      "year": 1996
+    },
+    "When Harry Met Sally...": {
+      "id": 639,
+      "poster": "/rFOiFUhTMtDetqCGClC9PIgnC1P.jpg",
+      "title": "When Harry Met Sally...",
+      "year": 1989
+    },
+    "The Squid and the Whale": {
+      "id": 10707,
+      "poster": "/9NbXn1NMdfGM491V3EFjZADR9SX.jpg",
+      "title": "The Squid and the Whale",
+      "year": 2005
+    },
+    "Citizen Kane": {
+      "id": 15,
+      "poster": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+      "title": "Citizen Kane",
+      "year": 1941
+    },
+    "The Exorcist": {
+      "id": 9552,
+      "poster": "/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
+      "title": "The Exorcist",
+      "year": 1973
+    },
+    "Chinatown": {
+      "id": 829,
+      "poster": "/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg",
+      "title": "Chinatown",
+      "year": 1974
+    },
+    "Ordinary People": {
+      "id": 16619,
+      "poster": "/tJVETEDAKgD3fEh88SHOvMvOQue.jpg",
+      "title": "Ordinary People",
+      "year": 1980
+    },
+    "Coal Miner's Daughter": {
+      "id": 16769,
+      "poster": "/bzHFDAdUad4QcHPi2UOqvaQKNWA.jpg",
+      "title": "Coal Miner's Daughter",
+      "year": 1980
+    },
+    "Carrie": {
+      "id": 7340,
+      "poster": "/8tT1rqlsTguyfUBMrbHR9cv1rxM.jpg",
+      "title": "Carrie",
+      "year": 1976
+    },
+    "The Tree of Life": {
+      "id": 8967,
+      "poster": "/l8cwuB5WJSoj4uMAsnzuHBOMaSJ.jpg",
+      "title": "The Tree of Life",
+      "year": 2011
+    },
+    "Moneyball": {
+      "id": 60308,
+      "poster": "/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+      "title": "Moneyball",
+      "year": 2011
+    },
+    "Hugo": {
+      "id": 44826,
+      "poster": "/1dxRq3o3l3bVWNRvvSb7rRf68qp.jpg",
+      "title": "Hugo",
+      "year": 2011
+    },
+    "Midnight in Paris": {
+      "id": 59436,
+      "poster": "/4wBG5kbfagTQclETblPRRGihk0I.jpg",
+      "title": "Midnight in Paris",
+      "year": 2011
+    },
+    "The Big Lebowski": {
+      "id": 115,
+      "poster": "/3bv6WAp6BSxxYvB5ozKFUYuRA8C.jpg",
+      "title": "The Big Lebowski",
+      "year": 1998
+    },
+    "Melancholia": {
+      "id": 62215,
+      "poster": "/fMneszMiQuTKY8JUXrGGB5vwqJf.jpg",
+      "title": "Melancholia",
+      "year": 2011
+    },
+    "Shame": {
+      "id": 76025,
+      "poster": "/cAWLz9kFv4xc6IsEXTj2DrcqD55.jpg",
+      "title": "Shame",
+      "year": 2011
+    },
+    "The Master": {
+      "id": 68722,
+      "poster": "/rUSjbyvYWN9H4az8xt0tDtU7I6v.jpg",
+      "title": "The Master",
+      "year": 2012
+    },
+    "Doubt": {
+      "id": 14359,
+      "poster": "/9lypT2ghNuUPYVJf66oe4fKvUqI.jpg",
+      "title": "Doubt",
+      "year": 2008
+    },
+    "Albert Nobbs": {
+      "id": 73873,
+      "poster": "/68fdlvmqTWGC2y5nGXQE5RfgNB5.jpg",
+      "title": "Albert Nobbs",
+      "year": 2011
+    },
+    "Out of Africa": {
+      "id": 606,
+      "poster": "/6oMKqh08TfxmvnoFR4mm1wZB67P.jpg",
+      "title": "Out of Africa",
+      "year": 1985
+    },
+    "Ran": {
+      "id": 11645,
+      "poster": "/dGgiXMWDcS5aJTBEFu7bmaQPNox.jpg",
+      "title": "Ran",
+      "year": 1985
+    },
+    "La La Land": {
+      "id": 313369,
+      "poster": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "title": "La La Land",
+      "year": 2016
+    },
+    "Arrival": {
+      "id": 329865,
+      "poster": "/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
+      "title": "Arrival",
+      "year": 2016
+    },
+    "The Grapes of Wrath": {
+      "id": 596,
+      "poster": "/eUcxMVBIA0Jg8l1RGUqycrc3eIQ.jpg",
+      "title": "The Grapes of Wrath",
+      "year": 1940
+    },
+    "His Girl Friday": {
+      "id": 3085,
+      "poster": "/lu86Y9zTPH3neCiUzLzHCEFHf7f.jpg",
+      "title": "His Girl Friday",
+      "year": 1940
+    },
+    "Wuthering Heights": {
+      "id": 1316092,
+      "poster": "/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
+      "title": "\"Wuthering Heights\"",
+      "year": 2026
+    },
+    "Grand Illusion": {
+      "id": 777,
+      "poster": "/lWg41zE0FVixkNsFgxnlRyvDYv9.jpg",
+      "title": "Grand Illusion",
+      "year": 1937
+    },
+    "The Adventures of Robin Hood": {
+      "id": 10907,
+      "poster": "/c7LX3GMf9uXQTgVm3uxpm7E6Woc.jpg",
+      "title": "The Adventures of Robin Hood",
+      "year": 1938
+    },
+    "You Can't Take It with You": {
+      "id": 305006,
+      "poster": "/1iFZKwp0bSbo75QJUL02RBWuqdj.jpg",
+      "title": "You Can't Take it With You",
+      "year": 1979
+    },
+    "The Truman Show": {
+      "id": 37165,
+      "poster": "/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+      "title": "The Truman Show",
+      "year": 1998
+    },
+    "It Was Just an Accident": {
+      "id": 1456349,
+      "poster": "/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
+      "title": "It Was Just an Accident",
+      "year": 2025
+    },
+    "Sorcerer": {
+      "id": 38985,
+      "poster": "/2b7oexm173SF1FSEq0DdgxZZNRH.jpg",
+      "title": "Sorcerer",
+      "year": 1977
+    }
+  }
+}

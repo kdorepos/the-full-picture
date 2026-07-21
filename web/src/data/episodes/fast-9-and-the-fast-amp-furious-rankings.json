@@ -1,0 +1,308 @@
+{
+  "slug": "fast-9-and-the-fast-amp-furious-rankings",
+  "title": "‘Fast 9’ and the ‘Fast & Furious’ Rankings",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2021-06-25",
+  "runtimeMin": 61,
+  "format": "Sean, Amanda, and superfan Shea Serrano rank all 10 Fast & Furious movies (the nine mainline films plus Hobbs & Shaw), then review F9. Family, magnets, a low-stakes space walk, and nobody walks away from the ranking happy.",
+  "segments": [
+    {
+      "kind": "ranking",
+      "heading": "The 'Fast & Furious' Rankings",
+      "note": "with Shea Serrano · best to worst, all 10",
+      "subject": "Fast & Furious",
+      "ranked": true,
+      "films": [
+        {
+          "title": "The Fast and the Furious",
+          "year": 2001,
+          "note": "No. 1: the start of everything, and the best the series ever gets for Dom-and-Brian and for Vin Diesel. Took its title from a 1955 Roger Corman exploitation picture."
+        },
+        {
+          "title": "Fast Five",
+          "year": 2011,
+          "note": "Where the franchise breaks open. Amanda's actual No. 1 (she agreed to No. 2 only in the spirit of family), and the safe dragged through Rio."
+        },
+        {
+          "title": "Furious 7",
+          "year": 2015,
+          "note": "The Paul Walker send-off. The beach scene and the Wiz Khalifa song had the whole theater, Shea included, crying."
+        },
+        {
+          "title": "The Fast and the Furious: Tokyo Drift",
+          "year": 2006,
+          "note": "Shea disliked it at first, now calls it the load-bearing film: take it out and the rest falls apart. Gets a big shout-out in F9."
+        },
+        {
+          "title": "2 Fast 2 Furious",
+          "year": 2003,
+          "note": "John Singleton, fresh off Baby Boy, introduces Roman and Ludacris and the franchise's looser, funnier tone."
+        },
+        {
+          "title": "Fast & Furious 6",
+          "year": 2013,
+          "note": "The best Letty movie (the subway fight, the Gina fights), plus the cargo-plane finale and the Shaw family's debut via the younger brother."
+        },
+        {
+          "title": "Fast & Furious",
+          "year": 2009,
+          "note": "The fourth film. Barely registers for anyone except the Dom-vs-Brian fight over Letty's death."
+        },
+        {
+          "title": "F9",
+          "year": 2021,
+          "note": "Ranked over Fate purely on the magnet set pieces. Everything around them (the space walk, John Cena) is take-it-or-leave-it."
+        },
+        {
+          "title": "The Fate of the Furious",
+          "year": 2017,
+          "note": "Charlize Theron as the box-standing villain; Amanda's beloved baby set piece with Statham not quite enough to lift it higher."
+        },
+        {
+          "title": "Fast & Furious Presents: Hobbs & Shaw",
+          "year": 2019,
+          "note": "Last. Fake helicopter effects and none of the original DNA. Shea left it off his list entirely."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "'F9'",
+      "note": "the review",
+      "films": [
+        {
+          "title": "F9",
+          "year": 2021,
+          "note": "Justin Lin back for the magnets, the NASCAR-car flip of Dom's father's death, and Han's return (Sung Kang, out of Lin's Better Luck Tomorrow). Sean didn't like it; the space walk plays too low-stakes; John Cena's heel turn never lands before he joins the family."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Also mentioned",
+      "films": [
+        "Better Luck Tomorrow",
+        "Baby Boy",
+        "xXx",
+        "Boiler Room",
+        "Find Me Guilty",
+        "Bloodshot",
+        "Without Remorse",
+        "Playing with Fire",
+        "The Suicide Squad",
+        "Gravity",
+        "Citizen Kane",
+        "Bloodsport",
+        "Widows",
+        "Miss Sloane",
+        "Sicario: Day of the Soldado",
+        "Dora and the Lost City of Gold",
+        "Once Upon a Time in Hollywood",
+        "Mission: Impossible - Fallout",
+        "Friday Night Lights"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Without Remorse": 567189
+  },
+  "excluded": {
+    "TV": [
+      "Game of Thrones",
+      "Mare of Easttown",
+      "Billions"
+    ],
+    "Web": [
+      "Full Court Fits",
+      "The Onion 'Fast Five screenwriter' video"
+    ],
+    "Ads": [
+      "Netflix FIFA World Cup game",
+      "Boar's Head",
+      "White Claw",
+      "Nespresso"
+    ]
+  },
+  "tmdb": {
+    "The Fast and the Furious": {
+      "id": 9799,
+      "poster": "/gqY0ITBgT7A82poL9jv851qdnIb.jpg",
+      "title": "The Fast and the Furious",
+      "year": 2001
+    },
+    "Fast Five": {
+      "id": 51497,
+      "poster": "/gEfQjjQwY7fh5bI4GlG0RrBu7Pz.jpg",
+      "title": "Fast Five",
+      "year": 2011
+    },
+    "Furious 7": {
+      "id": 168259,
+      "poster": "/ktofZ9Htrjiy0P6LEowsDaxd3Ri.jpg",
+      "title": "Furious 7",
+      "year": 2015
+    },
+    "The Fast and the Furious: Tokyo Drift": {
+      "id": 9615,
+      "poster": "/46xqGOwHbh2TH2avWSw3SMXph4E.jpg",
+      "title": "The Fast and the Furious: Tokyo Drift",
+      "year": 2006
+    },
+    "2 Fast 2 Furious": {
+      "id": 584,
+      "poster": "/6nDZExrDKIXvSAghsFKVFRVJuSf.jpg",
+      "title": "2 Fast 2 Furious",
+      "year": 2003
+    },
+    "Fast & Furious 6": {
+      "id": 82992,
+      "poster": "/thSmnRdrzPBBospIOJjLZBReqzo.jpg",
+      "title": "Fast & Furious 6",
+      "year": 2013
+    },
+    "Fast & Furious": {
+      "id": 13804,
+      "poster": "/lUtVoRukW7WNtUySwd8hWlByBds.jpg",
+      "title": "Fast & Furious",
+      "year": 2009
+    },
+    "F9": {
+      "id": 385128,
+      "poster": "/deEmLILTPejEb6OGsXRJ5MCvyDW.jpg",
+      "title": "F9",
+      "year": 2021
+    },
+    "The Fate of the Furious": {
+      "id": 337339,
+      "poster": "/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg",
+      "title": "The Fate of the Furious",
+      "year": 2017
+    },
+    "Fast & Furious Presents: Hobbs & Shaw": {
+      "id": 384018,
+      "poster": "/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg",
+      "title": "Fast & Furious Presents: Hobbs & Shaw",
+      "year": 2019
+    },
+    "Better Luck Tomorrow": {
+      "id": 14290,
+      "poster": "/alJULQQnuiYXjgVmj2EYgwXOcIn.jpg",
+      "title": "Better Luck Tomorrow",
+      "year": 2003
+    },
+    "Baby Boy": {
+      "id": 16161,
+      "poster": "/9dcic3zV5Gq6BQ1Et696qBtp9Xg.jpg",
+      "title": "Baby Boy",
+      "year": 2001
+    },
+    "xXx": {
+      "id": 7451,
+      "poster": "/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+      "title": "xXx",
+      "year": 2002
+    },
+    "Boiler Room": {
+      "id": 14181,
+      "poster": "/jFB5uvCZ3HXF00liAEAuOruCPs6.jpg",
+      "title": "Boiler Room",
+      "year": 2000
+    },
+    "Find Me Guilty": {
+      "id": 9950,
+      "poster": "/8M0dkX7jOor7exKor1txoUl9Ynu.jpg",
+      "title": "Find Me Guilty",
+      "year": 2006
+    },
+    "Bloodshot": {
+      "id": 338762,
+      "poster": "/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg",
+      "title": "Bloodshot",
+      "year": 2020
+    },
+    "Without Remorse": {
+      "id": 567189,
+      "poster": "/6OnlqShdRinhJwV1uGiRE70lD63.jpg",
+      "title": "Tom Clancy's Without Remorse",
+      "year": 2021
+    },
+    "Playing with Fire": {
+      "id": 554241,
+      "poster": "/nBLPIpReSatt1zcgVzSVzq5e581.jpg",
+      "title": "Playing with Fire",
+      "year": 2019
+    },
+    "The Suicide Squad": {
+      "id": 436969,
+      "poster": "/q61qEyssk2ku3okWICKArlAdhBn.jpg",
+      "title": "The Suicide Squad",
+      "year": 2021
+    },
+    "Gravity": {
+      "id": 49047,
+      "poster": "/kZ2nZw8D681aphje8NJi8EfbL1U.jpg",
+      "title": "Gravity",
+      "year": 2013
+    },
+    "Citizen Kane": {
+      "id": 15,
+      "poster": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+      "title": "Citizen Kane",
+      "year": 1941
+    },
+    "Bloodsport": {
+      "id": 11690,
+      "poster": "/kndxR9TRK0kJ5hxzDprRSS80F2W.jpg",
+      "title": "Bloodsport",
+      "year": 1988
+    },
+    "Widows": {
+      "id": 401469,
+      "poster": "/d31SGJSaX29ba5ZUbZcesGoDE7I.jpg",
+      "title": "Widows",
+      "year": 2018
+    },
+    "Miss Sloane": {
+      "id": 376290,
+      "poster": "/ptfvQlqe2xJiMSewSj52qAVq5z0.jpg",
+      "title": "Miss Sloane",
+      "year": 2016
+    },
+    "Sicario: Day of the Soldado": {
+      "id": 400535,
+      "poster": "/qcLYofEhNh51Sk1jUWjmKHLzkqw.jpg",
+      "title": "Sicario: Day of the Soldado",
+      "year": 2018
+    },
+    "Dora and the Lost City of Gold": {
+      "id": 499701,
+      "poster": "/xvYCZ740XvngXK0FNeSNVTJJJ5v.jpg",
+      "title": "Dora and the Lost City of Gold",
+      "year": 2019
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Mission: Impossible - Fallout": {
+      "id": 353081,
+      "poster": "/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+      "title": "Mission: Impossible - Fallout",
+      "year": 2018
+    },
+    "Friday Night Lights": {
+      "id": 13416,
+      "poster": "/8HIqpOgqShRc3TAleabnYispDl1.jpg",
+      "title": "Friday Night Lights",
+      "year": 2004
+    }
+  }
+}

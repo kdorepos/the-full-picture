@@ -1,0 +1,724 @@
+{
+  "slug": "the-richard-linklater-hall-of-fame",
+  "title": "The Richard Linklater Hall of Fame",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2024-05-31",
+  "runtimeMin": 122,
+  "format": "Sean, Amanda, and Chris Ryan go film by film through Richard Linklater's catalog and settle on a 10-film Hall of Fame. Plus: Sean talks to Ron Howard about 'Jim Henson: Idea Man' and his run of documentaries.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Before the shrine: a box-office check-in",
+      "note": "Furiosa, Anyone But You, and Edward Norton's deck company",
+      "films": [
+        {
+          "title": "Furiosa: A Mad Max Saga",
+          "year": 2024,
+          "note": "The soft opening that set off the doom talk; Amanda saw it advertised as 'Bleu & Co.' on posters in Paris. Sean says the business has changed and everyone knows it, which is depressing but done."
+        },
+        {
+          "title": "Anyone But You",
+          "year": 2023,
+          "note": "The rom-com everyone admits isn't that good but watched anyway; its run is chalked up to Sydney Sweeney TikTok. On the plane it was the movie everyone but Sean chose."
+        },
+        {
+          "title": "Challengers",
+          "year": 2024,
+          "note": "Made $86 million; cited as the reason to wait a beat before declaring the year a disaster."
+        },
+        {
+          "title": "The Fall Guy",
+          "year": 2024,
+          "note": "More people wanted it last Tuesday than the Tuesday before, ten days into digital, which nobody can explain."
+        }
+      ]
+    },
+    {
+      "kind": "halloffame",
+      "heading": "The Richard Linklater Hall of Fame",
+      "note": "The 10 inductees",
+      "honoree": "Richard Linklater",
+      "films": [
+        {
+          "title": "Slacker",
+          "year": 1990,
+          "note": "The Austin breakthrough and the totem of underground culture that hooked a 12-year-old Chris. In on the first ballot as the origin point."
+        },
+        {
+          "title": "Dazed and Confused",
+          "year": 1993,
+          "note": "Sean's six-star classic and the hangout template every later Linklater keeps chasing. Locked."
+        },
+        {
+          "title": "Before Sunrise",
+          "year": 1995,
+          "note": "The Vienna walk-and-talk; a sincere movie about being 23. The first of the trilogy, in."
+        },
+        {
+          "title": "School of Rock",
+          "year": 2003,
+          "note": "His biggest, most conventional hit ($130M on a $35M budget), written by Mike White. The 'from the director of' calling card. Green."
+        },
+        {
+          "title": "Before Sunset",
+          "year": 2004,
+          "note": "The group's near-consensus favorite: a sequel that elevates the original, with the 'you go by, you go by' car scene and one of the best endings in movies."
+        },
+        {
+          "title": "A Scanner Darkly",
+          "year": 2006,
+          "note": "The rotoscope they kept over Waking Life; Philip K. Dick surveillance paranoia with Downey, Keanu, Harrelson, and Ryder. The one animated slot."
+        },
+        {
+          "title": "Before Midnight",
+          "year": 2013,
+          "note": "The hard, brave one: a perfect couple gnawing at each other a decade on, the hotel-room fight and all. Oscar-nominated screenplay, only now becoming resonant for Sean."
+        },
+        {
+          "title": "Boyhood",
+          "year": 2014,
+          "note": "Shot over 12 years; an aimless-by-design experiment that won Patricia Arquette an Oscar and should have been Linklater's year. Absolutely in."
+        },
+        {
+          "title": "Everybody Wants Some!!",
+          "year": 2016,
+          "note": "The under-seen college-baseball hangout the show evangelizes; a spiritual Dazed follow-up that turns out to be about much more than busting balls."
+        },
+        {
+          "title": "Hit Man",
+          "year": 2023,
+          "note": "The Glen Powell / Skip Hollandsworth story; a recent film is hard to induct, but they call it a brave choice and expect it to keep rising past the rotoscopes and Bernie."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The ones left out",
+      "note": "Debated film by film and cut",
+      "films": [
+        {
+          "title": "SubUrbia",
+          "year": 1996,
+          "note": "The dark side of Dazed, from Eric Bogosian's play; Ribisi and Steve Zahn are good, but it's too misanthropic for a filmmaker with an earnest core. Out, with respect."
+        },
+        {
+          "title": "The Newton Boys",
+          "year": 1998,
+          "note": "His big Hollywood period-gangster swing, with Altman's Thieves Like Us in its DNA; the movie of his that works least well. Out."
+        },
+        {
+          "title": "Waking Life",
+          "year": 2001,
+          "note": "The first rotoscope experiment, a reel of filmed conversations and ruminations reuniting Wiley Wiggins. Lost the animated slot to A Scanner Darkly."
+        },
+        {
+          "title": "Tape",
+          "year": 2001,
+          "note": "The real-time one-room Steven Belber play with Ethan Hawke and Uma Thurman; a fascinating experiment that hasn't aged as well as you'd want. Red."
+        },
+        {
+          "title": "Bad News Bears",
+          "year": 2005,
+          "note": "A rare complete miss. The original is perfect; Billy Bob's fine, but the remake is the red-meat end of one-for-them. Out."
+        },
+        {
+          "title": "Fast Food Nation",
+          "year": 2006,
+          "note": "The Eric Schlosser adaptation and polemic, sprawling and Altman-esque; noble, bracing in spots, but it doesn't land. First of four Glen Powell collaborations. Red."
+        },
+        {
+          "title": "Me and Orson Welles",
+          "year": 2008,
+          "note": "Overlooked old-Hollywood charmer with Christian McKay as Welles and a strong Zac Efron; pretty good, not Hall of Fame. Nearly skipped entirely."
+        },
+        {
+          "title": "Inning by Inning: A Portrait of a Coach",
+          "year": 2008,
+          "note": "His rare documentary, on Texas's Augie Garrido, the winningest coach in college baseball history. Not in."
+        },
+        {
+          "title": "Bernie",
+          "year": 2011,
+          "note": "The Texas true-crime dark comedy with Jack Black, McConaughey, and Shirley MacLaine, carried by its small-town Greek chorus. From another Skip Hollandsworth story; a yellow that just missed."
+        },
+        {
+          "title": "Last Flag Flying",
+          "year": 2017,
+          "note": "The downbeat Amazon road drama with Carell, Fishburne, and Cranston; his Manchester by the Sea that doesn't quite work, maybe a casting problem. Red."
+        },
+        {
+          "title": "Where'd You Go, Bernadette",
+          "year": 2019,
+          "note": "The Cate Blanchett adaptation critics savaged; the hosts found it fine, even charming, more a Billy Crudup movie than a Blanchett one. Out."
+        },
+        {
+          "title": "Apollo 10½: A Space Age Childhood",
+          "year": 2022,
+          "note": "The Netflix rotoscoped memory piece about a Houston kid and the moon landing, with Glen Powell; overlooked, and the hosts admit they were a little too kind to it on air. Red."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Ron Howard on 'Jim Henson: Idea Man'",
+      "guest": "Ron Howard on",
+      "films": [
+        {
+          "title": "Jim Henson: Idea Man",
+          "year": 2024,
+          "note": "Howard's Disney+ documentary; he opens on a melancholy Henson photo shoot and leans on a late-arriving Jane Henson audio tape and Lisa Henson's high-school photos to build the family story alongside the Muppets origin."
+        },
+        {
+          "title": "Thirteen Lives",
+          "year": 2022,
+          "note": "His Thai cave-rescue film, which he says the doc work directly shaped: less theatrical, more observed. He thinks it didn't find its audience because of when it came out."
+        },
+        {
+          "title": "Eden",
+          "year": 2024,
+          "note": "The cautionary true-crime thriller he'd just finished shooting while cutting Jim Henson: 'a schizophrenic creative year.'"
+        },
+        {
+          "title": "Rebuilding Paradise",
+          "year": 2020,
+          "note": "His documentary on the Paradise, California fire; the raw emotion his cameras caught there informed how he staged the parents and divers in 13 Lives."
+        },
+        {
+          "title": "The Beatles: Eight Days a Week - The Touring Years",
+          "year": 2016,
+          "note": "The touring-years doc; on the last day of interviews, Lynn Oliver's account of the Beatles refusing to play a segregated concert changed the whole structure."
+        },
+        {
+          "title": "Harlan County U.S.A.",
+          "year": 1976,
+          "note": "His 'last great thing,' Barbara Kopple's 1976 labor documentary, which he finally watched all the way through on a Delta flight and found still 100% relevant."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Still to come from Linklater",
+      "films": [
+        "Nouvelle Vague",
+        "Merrily We Roll Along",
+        "God Save Texas"
+      ]
+    },
+    {
+      "group": "Ron Howard's filmography, in passing",
+      "films": [
+        "Apollo 13",
+        "Frost/Nixon",
+        "Cinderella Man",
+        "Solo: A Star Wars Story",
+        "The Da Vinci Code",
+        "The Paper",
+        "Backdraft",
+        "Rush",
+        "Parenthood",
+        "Ransom",
+        "Hillbilly Elegy",
+        "Willow",
+        "Splash",
+        "Cocoon",
+        "How the Grinch Stole Christmas"
+      ]
+    },
+    {
+      "group": "Named in passing",
+      "films": [
+        "Rounders",
+        "A Complete Unknown",
+        "The Holiday",
+        "Shoah",
+        "The Zone of Interest",
+        "The Beekeeper",
+        "Ferrari",
+        "Bull Durham",
+        "JFK",
+        "There Will Be Blood",
+        "The Master",
+        "Manchester by the Sea",
+        "Spotlight",
+        "Barbie",
+        "Oppenheimer",
+        "The Raid",
+        "The Big Lebowski",
+        "The Sound of Music",
+        "Forrest Gump",
+        "Horizon: An American Saga - Chapter 1",
+        "Black or White",
+        "The Dark Crystal",
+        "Labyrinth",
+        "The Night House"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Shogun",
+      "Homeland",
+      "Downton Abbey",
+      "The Bear",
+      "Sesame Street"
+    ],
+    "Promos": [
+      "Ringer Movies"
+    ]
+  },
+  "tmdbOverrides": {
+    "School of Rock": 1584,
+    "Thirteen Lives": 698948,
+    "Cocoon": 10328,
+    "Black or White": 253331
+  },
+  "tmdb": {
+    "Furiosa: A Mad Max Saga": {
+      "id": 786892,
+      "poster": "/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
+      "title": "Furiosa: A Mad Max Saga",
+      "year": 2024
+    },
+    "Anyone But You": {
+      "id": 1072790,
+      "poster": "/5qHoazZiaLe7oFBok7XlUhg96f2.jpg",
+      "title": "Anyone but You",
+      "year": 2023
+    },
+    "Challengers": {
+      "id": 937287,
+      "poster": "/H6vke7zGiuLsz4v4RPeReb9rsv.jpg",
+      "title": "Challengers",
+      "year": 2024
+    },
+    "The Fall Guy": {
+      "id": 746036,
+      "poster": "/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg",
+      "title": "The Fall Guy",
+      "year": 2024
+    },
+    "Slacker": {
+      "id": 14022,
+      "poster": "/f7Iov2nd0XX9bp2laQEPYPEhisc.jpg",
+      "title": "Slacker",
+      "year": 1990
+    },
+    "Dazed and Confused": {
+      "id": 9571,
+      "poster": "/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+      "title": "Dazed and Confused",
+      "year": 1993
+    },
+    "Before Sunrise": {
+      "id": 76,
+      "poster": "/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg",
+      "title": "Before Sunrise",
+      "year": 1995
+    },
+    "School of Rock": {
+      "id": 1584,
+      "poster": "/zXLXaepIBvFVLU25DH3wv4IPSbe.jpg",
+      "title": "The School of Rock",
+      "year": 2003
+    },
+    "Before Sunset": {
+      "id": 80,
+      "poster": "/4sW5XH9ZfYXpvFzev00S1IGAEbg.jpg",
+      "title": "Before Sunset",
+      "year": 2004
+    },
+    "A Scanner Darkly": {
+      "id": 3509,
+      "poster": "/lUKudOpHICDj6A6SO7DdaZM4W48.jpg",
+      "title": "A Scanner Darkly",
+      "year": 2006
+    },
+    "Before Midnight": {
+      "id": 132344,
+      "poster": "/qbGKJmNUroDz75kh5Oafoall89e.jpg",
+      "title": "Before Midnight",
+      "year": 2013
+    },
+    "Boyhood": {
+      "id": 85350,
+      "poster": "/2BvtvDUyxiMJ4dmKfiQf4qdOHQN.jpg",
+      "title": "Boyhood",
+      "year": 2014
+    },
+    "Everybody Wants Some!!": {
+      "id": 295699,
+      "poster": "/vAIFZ8bw0spSvcIYgfuX99B3H2w.jpg",
+      "title": "Everybody Wants Some!!",
+      "year": 2016
+    },
+    "Hit Man": {
+      "id": 974635,
+      "poster": "/oil3EZwKFp3CWxZnfGfGglesvm9.jpg",
+      "title": "Hit Man",
+      "year": 2024
+    },
+    "SubUrbia": {
+      "id": 28059,
+      "poster": "/7PdRbG09K9JHYyOwwCSn3OdJb0N.jpg",
+      "title": "SubUrbia",
+      "year": 1997
+    },
+    "The Newton Boys": {
+      "id": 42807,
+      "poster": "/v3VuDClmFZNjfI6YLTkeinae9HK.jpg",
+      "title": "The Newton Boys",
+      "year": 1998
+    },
+    "Waking Life": {
+      "id": 9081,
+      "poster": "/2MRM4PL6H7yraAkwyUEe2EqoQH3.jpg",
+      "title": "Waking Life",
+      "year": 2001
+    },
+    "Tape": {
+      "id": 23949,
+      "poster": "/4Flz17KOjGdGqJ2dFRhKnB7eg5.jpg",
+      "title": "Tape",
+      "year": 2001
+    },
+    "Bad News Bears": {
+      "id": 13341,
+      "poster": "/ja1yrgfYAGmwnridioMY3MV0GDm.jpg",
+      "title": "Bad News Bears",
+      "year": 2005
+    },
+    "Fast Food Nation": {
+      "id": 8324,
+      "poster": "/vcRgWIj4p6FtezgZTl4YoxYbSJ7.jpg",
+      "title": "Fast Food Nation",
+      "year": 2006
+    },
+    "Me and Orson Welles": {
+      "id": 12404,
+      "poster": "/jU7KFn4O1HLgzj9WkkmBkzJNPlN.jpg",
+      "title": "Me and Orson Welles",
+      "year": 2008
+    },
+    "Inning by Inning: A Portrait of a Coach": {
+      "id": 194514,
+      "poster": "/izlgnFQkltNwMX9EkgUk60NvEYo.jpg",
+      "title": "Inning by Inning: A Portrait of a Coach",
+      "year": 2008
+    },
+    "Bernie": {
+      "id": 92591,
+      "poster": "/rW5CetooG545jpkPNpD4FjFAXfe.jpg",
+      "title": "Bernie",
+      "year": 2012
+    },
+    "Last Flag Flying": {
+      "id": 419709,
+      "poster": "/pizynKUzJ9YucGff1O1MYisY1WM.jpg",
+      "title": "Last Flag Flying",
+      "year": 2017
+    },
+    "Where'd You Go, Bernadette": {
+      "id": 405177,
+      "poster": "/BziuuZULnGmTRLthEty1QdKSEo.jpg",
+      "title": "Where'd You Go, Bernadette",
+      "year": 2019
+    },
+    "Apollo 10½: A Space Age Childhood": {
+      "id": 664996,
+      "poster": "/ms3qa9LH9kosaGCSe22NJ7fDPv9.jpg",
+      "title": "Apollo 10½: A Space Age Childhood",
+      "year": 2022
+    },
+    "Jim Henson: Idea Man": {
+      "id": 1273196,
+      "poster": "/w1IYhFVW2XyKfkIyZ65jZ2Uyn6Y.jpg",
+      "title": "Jim Henson Idea Man",
+      "year": 2024
+    },
+    "Thirteen Lives": {
+      "id": 698948,
+      "poster": "/yi5KcJqFxy0D6yP8nCfcF8gJGg5.jpg",
+      "title": "Thirteen Lives",
+      "year": 2022
+    },
+    "Eden": {
+      "id": 1042834,
+      "poster": "/jbFEESMVbpJU8IjZBjiWGJdEsxR.jpg",
+      "title": "Eden",
+      "year": 2025
+    },
+    "Rebuilding Paradise": {
+      "id": 653751,
+      "poster": "/xScO03feJ95K5XjOyqxk0CEwady.jpg",
+      "title": "Rebuilding Paradise",
+      "year": 2020
+    },
+    "The Beatles: Eight Days a Week - The Touring Years": {
+      "id": 391698,
+      "poster": "/A6q7Jy4vXgXXoCoHX4lpCaKvcMV.jpg",
+      "title": "The Beatles: Eight Days a Week - The Touring Years",
+      "year": 2016
+    },
+    "Harlan County U.S.A.": {
+      "id": 33324,
+      "poster": "/p0cyMNsoP5ap0omfhakhImBWTRw.jpg",
+      "title": "Harlan County U.S.A.",
+      "year": 1977
+    },
+    "Nouvelle Vague": {
+      "id": 1254808,
+      "poster": "/yZUZAMsw31KfIg66eB00eJrYN8n.jpg",
+      "title": "Nouvelle Vague",
+      "year": 2025
+    },
+    "Merrily We Roll Along": {
+      "id": 627012,
+      "poster": null,
+      "title": "Merrily We Roll Along",
+      "year": null
+    },
+    "God Save Texas": null,
+    "Apollo 13": {
+      "id": 568,
+      "poster": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+      "title": "Apollo 13",
+      "year": 1995
+    },
+    "Frost/Nixon": {
+      "id": 11499,
+      "poster": "/nLrRrHZQ40tWqLTY3kxgS4x7GUw.jpg",
+      "title": "Frost/Nixon",
+      "year": 2008
+    },
+    "Cinderella Man": {
+      "id": 921,
+      "poster": "/wkeOjIcpuqLMW4GnVowlM9VI0JE.jpg",
+      "title": "Cinderella Man",
+      "year": 2005
+    },
+    "Solo: A Star Wars Story": {
+      "id": 348350,
+      "poster": "/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg",
+      "title": "Solo: A Star Wars Story",
+      "year": 2018
+    },
+    "The Da Vinci Code": {
+      "id": 591,
+      "poster": "/9ejKfNk0LBhSI9AahH4f9NJNZNM.jpg",
+      "title": "The Da Vinci Code",
+      "year": 2006
+    },
+    "The Paper": {
+      "id": 12280,
+      "poster": "/pGPrFbucRLwVtCKCeinwAklAl0l.jpg",
+      "title": "The Paper",
+      "year": 1994
+    },
+    "Backdraft": {
+      "id": 2924,
+      "poster": "/bymJtYNIdiAiBR1LRetaJXbfryc.jpg",
+      "title": "Backdraft",
+      "year": 1991
+    },
+    "Rush": {
+      "id": 96721,
+      "poster": "/95BDrWmcfJDEa2WCfjmLgi67jhi.jpg",
+      "title": "Rush",
+      "year": 2013
+    },
+    "Parenthood": {
+      "id": 1552,
+      "poster": "/e51tNNQBJpJi9xkyuj0QFhyBcz7.jpg",
+      "title": "Parenthood",
+      "year": 1989
+    },
+    "Ransom": {
+      "id": 3595,
+      "poster": "/4nmOA5ZOY2VlHzwSlKY03sF2JUz.jpg",
+      "title": "Ransom",
+      "year": 1996
+    },
+    "Hillbilly Elegy": {
+      "id": 592984,
+      "poster": "/aA0D6DKIfLtXYNy94Qq2IW5NiGR.jpg",
+      "title": "Hillbilly Elegy",
+      "year": 2020
+    },
+    "Willow": {
+      "id": 847,
+      "poster": "/pAIRGMIdN7ZdZhflazdV2ezuJ9f.jpg",
+      "title": "Willow",
+      "year": 1988
+    },
+    "Splash": {
+      "id": 2619,
+      "poster": "/7FutTsMWBwVhjk1Ujf1wtndUVZh.jpg",
+      "title": "Splash",
+      "year": 1984
+    },
+    "Cocoon": {
+      "id": 10328,
+      "poster": "/wqNNm36j3nkucAucHEGAW5pNZcd.jpg",
+      "title": "Cocoon",
+      "year": 1985
+    },
+    "How the Grinch Stole Christmas": {
+      "id": 8871,
+      "poster": "/1WZbbPApEivA421gCOluuzMMKCk.jpg",
+      "title": "How the Grinch Stole Christmas",
+      "year": 2000
+    },
+    "Rounders": {
+      "id": 10220,
+      "poster": "/mqbMwYGwIChnaCO55h7v8DG8Wwy.jpg",
+      "title": "Rounders",
+      "year": 1998
+    },
+    "A Complete Unknown": {
+      "id": 661539,
+      "poster": "/llWl3GtNoXosbvYboelmoT459NM.jpg",
+      "title": "A Complete Unknown",
+      "year": 2024
+    },
+    "The Holiday": {
+      "id": 1581,
+      "poster": "/h1ITOpvJN3Tw4Sy60w2QTfYMvdd.jpg",
+      "title": "The Holiday",
+      "year": 2006
+    },
+    "Shoah": {
+      "id": 42044,
+      "poster": "/yvwF7dfSCybFcBOklUzKpE46bHM.jpg",
+      "title": "Shoah",
+      "year": 1985
+    },
+    "The Zone of Interest": {
+      "id": 467244,
+      "poster": "/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg",
+      "title": "The Zone of Interest",
+      "year": 2023
+    },
+    "The Beekeeper": {
+      "id": 866398,
+      "poster": "/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
+      "title": "The Beekeeper",
+      "year": 2024
+    },
+    "Ferrari": {
+      "id": 365620,
+      "poster": "/LyCOcGqOTyTmaXu2TK8LfGveIb.jpg",
+      "title": "Ferrari",
+      "year": 2023
+    },
+    "Bull Durham": {
+      "id": 287,
+      "poster": "/q3T9bO6p74NcTxWOhdUA6fASQ5T.jpg",
+      "title": "Bull Durham",
+      "year": 1988
+    },
+    "JFK": {
+      "id": 820,
+      "poster": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+      "title": "JFK",
+      "year": 1991
+    },
+    "There Will Be Blood": {
+      "id": 7345,
+      "poster": "/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+      "title": "There Will Be Blood",
+      "year": 2007
+    },
+    "The Master": {
+      "id": 68722,
+      "poster": "/rUSjbyvYWN9H4az8xt0tDtU7I6v.jpg",
+      "title": "The Master",
+      "year": 2012
+    },
+    "Manchester by the Sea": {
+      "id": 334541,
+      "poster": "/o9VXYOuaJxCEKOxbA86xqtwmqYn.jpg",
+      "title": "Manchester by the Sea",
+      "year": 2016
+    },
+    "Spotlight": {
+      "id": 314365,
+      "poster": "/8DPGG400FgaFWaqcv11n8mRd2NG.jpg",
+      "title": "Spotlight",
+      "year": 2015
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "The Raid": {
+      "id": 94329,
+      "poster": "/Abnm1Ws3JH0ReCfEhLMPwPcMcGO.jpg",
+      "title": "The Raid",
+      "year": 2012
+    },
+    "The Big Lebowski": {
+      "id": 115,
+      "poster": "/3bv6WAp6BSxxYvB5ozKFUYuRA8C.jpg",
+      "title": "The Big Lebowski",
+      "year": 1998
+    },
+    "The Sound of Music": {
+      "id": 15121,
+      "poster": "/c6CrUZypAsBCaRWX0M3RVRDbhNS.jpg",
+      "title": "The Sound of Music",
+      "year": 1965
+    },
+    "Forrest Gump": {
+      "id": 13,
+      "poster": "/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
+      "title": "Forrest Gump",
+      "year": 1994
+    },
+    "Horizon: An American Saga - Chapter 1": {
+      "id": 932086,
+      "poster": "/posWMQwX1HCIK26TGL3niJp5fg0.jpg",
+      "title": "Horizon: An American Saga - Chapter 1",
+      "year": 2024
+    },
+    "Black or White": {
+      "id": 253331,
+      "poster": "/hOxxudUwgh5KGC7LtxDCkkwn1YP.jpg",
+      "title": "Black or White",
+      "year": 2015
+    },
+    "The Dark Crystal": {
+      "id": 11639,
+      "poster": "/fZPxRaa6gvCyGCh9Xk5kyPqz7fp.jpg",
+      "title": "The Dark Crystal",
+      "year": 1982
+    },
+    "Labyrinth": {
+      "id": 13597,
+      "poster": "/pejayhTVBEL4w8YKSfrhOjjWVlH.jpg",
+      "title": "Labyrinth",
+      "year": 1986
+    },
+    "The Night House": {
+      "id": 547565,
+      "poster": "/rqs2CXpc4d5FzeP1EZCYItAVo81.jpg",
+      "title": "The Night House",
+      "year": 2021
+    }
+  },
+  "spotifyEpisodeId": "0dGEelZ4nuVnhuJ0lVvuTV"
+}

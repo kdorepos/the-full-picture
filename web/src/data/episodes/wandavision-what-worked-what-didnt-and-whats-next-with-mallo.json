@@ -1,0 +1,311 @@
+{
+  "slug": "wandavision-what-worked-what-didnt-and-whats-next-with-mallo",
+  "title": "‘WandaVision’: What Worked, What Didn’t, and What’s Next With Mallory Rubin",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Mallory Rubin"
+  ],
+  "published": "2021-03-08",
+  "runtimeMin": 105,
+  "format": "Sean and Mallory dig through the 'WandaVision' finale, then Sean reviews 'Raya and the Last Dragon' and talks to Kevin Macdonald about 'The Mauritanian.'",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "‘WandaVision’ Season One Autopsy",
+      "note": "the finale, Wanda's arc, and where phase four goes next",
+      "films": [
+        {
+          "title": "Avengers: Age of Ultron",
+          "year": 2015,
+          "note": "Wanda and Pietro's real MCU introduction. Neither host's favorite entry, but they call it foundational to everything that follows."
+        },
+        {
+          "title": "Captain America: Civil War",
+          "year": 2016,
+          "note": "The twins first appeared in its post-credits stinger before Age of Ultron proper."
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "year": 2018,
+          "note": "Vision's death at Wanda's own hands. Mallory calls it one of her all-time favorites."
+        },
+        {
+          "title": "Avengers: Endgame",
+          "year": 2019,
+          "note": "The two watched it together in theaters and were, in Sean's words, vibrating."
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "year": 2019,
+          "note": "Its post-blip In Memoriam sequence and its timeline (set after WandaVision, oddly) both come up."
+        },
+        {
+          "title": "Captain Marvel",
+          "year": 2019,
+          "note": "Backstory for Monica's mother Maria, and the Nick Fury/Talos body-double question raised by the finale's stinger."
+        },
+        {
+          "title": "Black Widow",
+          "year": 2021,
+          "note": "Was originally slated to kick off phase four before the pandemic pushed WandaVision into that slot instead."
+        },
+        {
+          "title": "Doctor Strange in the Multiverse of Madness",
+          "note": "The show's real target: Agatha's Darkhold, the nexus talk, and Wanda's villain-or-hero status all point here."
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "note": "Named as one of the films WandaVision is quietly setting up."
+        },
+        {
+          "title": "The Devil's Advocate",
+          "year": 1997,
+          "note": "The internet's short-lived theory that Al Pacino's devil would resurface as Mephisto."
+        },
+        {
+          "title": "The Evil Dead",
+          "year": 1981,
+          "note": "Cited for director Sam Raimi's history with the Necronomicon, ahead of him bringing the Darkhold to Doctor Strange 2."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "‘Raya and the Last Dragon’",
+      "note": "Disney's $29.99 premiere-tier release",
+      "films": [
+        {
+          "title": "Raya and the Last Dragon",
+          "year": 2021,
+          "note": "Sean went in with low expectations after Disney's muted marketing and came out impressed by the cast, the action, and Awkwafina's dragon."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Kevin Macdonald on",
+      "films": [
+        {
+          "title": "The Mauritanian",
+          "year": 2021,
+          "note": "Macdonald on adapting Mohamedou Ould Slahi's smuggled Guantanamo memoir, and on Jodie Foster cutting her own lines down to the bone."
+        },
+        {
+          "title": "Touching the Void",
+          "year": 2003,
+          "note": "Raised as an earlier example of Macdonald's pull toward undiscovered, off-the-map settings."
+        },
+        {
+          "title": "The Last King of Scotland",
+          "year": 2006,
+          "note": "Same thread: Macdonald's recurring interest in unfamiliar places and people."
+        },
+        {
+          "title": "Dear Comrades!",
+          "year": 2020,
+          "note": "Macdonald's pick for the last great thing he'd seen: Andrei Konchalovsky's black-and-white Soviet strike drama, made at 86."
+        },
+        {
+          "title": "Runaway Train",
+          "year": 1985,
+          "note": "Mentioned as Konchalovsky's earlier, very mainstream Jon Voight vehicle."
+        },
+        {
+          "title": "Tango & Cash",
+          "year": 1989,
+          "note": "Another Konchalovsky Hollywood credit, brought up in the same breath."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Mulan",
+        "Soul",
+        "Big Hero 6",
+        "Blindspotting",
+        "Avatar",
+        "The Trial of the Chicago 7",
+        "Malcolm X"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "WandaVision",
+      "The Falcon and the Winter Soldier",
+      "Secret Invasion",
+      "Avatar: The Last Airbender"
+    ],
+    "Ads": [
+      "Sound Only",
+      "Tremfya",
+      "Carvana",
+      "DraftKings",
+      "Netflix / FIFA World Cup",
+      "Wells Fargo Active Cash",
+      "NOS Energy",
+      "Whole Foods"
+    ]
+  },
+  "tmdbOverrides": {
+    "Mulan": 337401
+  },
+  "tmdb": {
+    "Avengers: Age of Ultron": {
+      "id": 99861,
+      "poster": "/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+      "title": "Avengers: Age of Ultron",
+      "year": 2015
+    },
+    "Captain America: Civil War": {
+      "id": 271110,
+      "poster": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+      "title": "Captain America: Civil War",
+      "year": 2016
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Spider-Man: Far From Home": {
+      "id": 429617,
+      "poster": "/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+      "title": "Spider-Man: Far From Home",
+      "year": 2019
+    },
+    "Captain Marvel": {
+      "id": 299537,
+      "poster": "/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+      "title": "Captain Marvel",
+      "year": 2019
+    },
+    "Black Widow": {
+      "id": 497698,
+      "poster": "/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+      "title": "Black Widow",
+      "year": 2021
+    },
+    "Doctor Strange in the Multiverse of Madness": {
+      "id": 453395,
+      "poster": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "year": 2022
+    },
+    "Spider-Man: No Way Home": {
+      "id": 634649,
+      "poster": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "title": "Spider-Man: No Way Home",
+      "year": 2021
+    },
+    "The Devil's Advocate": {
+      "id": 1813,
+      "poster": "/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg",
+      "title": "The Devil's Advocate",
+      "year": 1997
+    },
+    "The Evil Dead": {
+      "id": 764,
+      "poster": "/54C1qdaiSijIU5NeNb4WsPJdNkG.jpg",
+      "title": "The Evil Dead",
+      "year": 1981
+    },
+    "Raya and the Last Dragon": {
+      "id": 527774,
+      "poster": "/5nVhgCzxKbK47OLIKxCR1syulOn.jpg",
+      "title": "Raya and the Last Dragon",
+      "year": 2021
+    },
+    "The Mauritanian": {
+      "id": 644583,
+      "poster": "/lIADEa6oH74uUapjsPbNRzxus8M.jpg",
+      "title": "The Mauritanian",
+      "year": 2021
+    },
+    "Touching the Void": {
+      "id": 11194,
+      "poster": "/fsydA5H8FSDaYlYWddfMpMpDUX.jpg",
+      "title": "Touching the Void",
+      "year": 2003
+    },
+    "The Last King of Scotland": {
+      "id": 1523,
+      "poster": "/n1CgN2mS7RSxHhv2R1DdisYDvT6.jpg",
+      "title": "The Last King of Scotland",
+      "year": 2006
+    },
+    "Dear Comrades!": {
+      "id": 587609,
+      "poster": "/ds7T5PEplJQeKzpLWbIvW9xpHX1.jpg",
+      "title": "Dear Comrades!",
+      "year": 2020
+    },
+    "Runaway Train": {
+      "id": 11893,
+      "poster": "/yEvMuhIdwPhhEtikAihxUTM1u75.jpg",
+      "title": "Runaway Train",
+      "year": 1985
+    },
+    "Tango & Cash": {
+      "id": 9618,
+      "poster": "/jxxxjTu87OSmQYkMFF7MgOEDXRn.jpg",
+      "title": "Tango & Cash",
+      "year": 1989
+    },
+    "Mulan": {
+      "id": 337401,
+      "poster": "/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg",
+      "title": "Mulan",
+      "year": 2020
+    },
+    "Soul": {
+      "id": 508442,
+      "poster": "/6jmppcaubzLF8wkXM36ganVISCo.jpg",
+      "title": "Soul",
+      "year": 2020
+    },
+    "Big Hero 6": {
+      "id": 177572,
+      "poster": "/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
+      "title": "Big Hero 6",
+      "year": 2014
+    },
+    "Blindspotting": {
+      "id": 489930,
+      "poster": "/x4DRZfTqOlmzNWAvy4vcKWkgEGL.jpg",
+      "title": "Blindspotting",
+      "year": 2018
+    },
+    "Avatar": {
+      "id": 19995,
+      "poster": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "title": "Avatar",
+      "year": 2009
+    },
+    "The Trial of the Chicago 7": {
+      "id": 556984,
+      "poster": "/ahf5cVdooMAlDRiJOZQNuLqa1Is.jpg",
+      "title": "The Trial of the Chicago 7",
+      "year": 2020
+    },
+    "Malcolm X": {
+      "id": 1883,
+      "poster": "/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
+      "title": "Malcolm X",
+      "year": 1992
+    }
+  }
+}

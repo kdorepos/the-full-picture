@@ -1,0 +1,960 @@
+{
+  "slug": "the-slasher-movie-hall-of-fame-with-alex-ross-perry",
+  "title": "The Slasher Movie Hall of Fame, With Alex Ross Perry",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Alex Ross Perry"
+  ],
+  "published": "2024-10-23",
+  "runtimeMin": 109,
+  "format": "A Halloween bonus episode: Sean Fennessey and returning champion Alex Ross Perry catch up on Perry's Pavement film and this year's slasher wave, then build a slasher hall of fame live, yellowing and redding candidates until ten survive (eleven, once they cheat and pair X with Terrifier).",
+  "segments": [
+    {
+      "kind": "halloffame",
+      "heading": "The Slasher Movie Hall of Fame",
+      "note": "the ten (well, eleven) that survived the vote",
+      "honoree": "The slasher movie",
+      "films": [
+        {
+          "title": "Psycho",
+          "year": 1960,
+          "note": "The one the conversation keeps circling back to. Greenlit outright, since leaving it out would be silly."
+        },
+        {
+          "title": "The Texas Chain Saw Massacre",
+          "year": 1974,
+          "note": "Auto-green. The movie all three hosts tried to grab first in their old horror draft."
+        },
+        {
+          "title": "Deep Red",
+          "year": 1975,
+          "note": "The lone Italian pick, chosen over Blood and Black Lace so the list isn't all American. It's Argento's Profondo Rosso, the button Perry is wearing on mic."
+        },
+        {
+          "title": "Halloween",
+          "year": 1978,
+          "note": "The other no-brainer, in immediately alongside Chainsaw."
+        },
+        {
+          "title": "Friday the 13th Part 2",
+          "year": 1981,
+          "note": "The Jason entry, and Perry's favorite of the franchise. Sean would program Part 3 in 3D instead, but concedes 2 is undeniable."
+        },
+        {
+          "title": "Pieces",
+          "year": 1982,
+          "note": "The Spanish slot, a Camp Blood drive-in favorite that Sean has advocated for on the show for years."
+        },
+        {
+          "title": "The House on Sorority Row",
+          "year": 1982,
+          "note": "Perry's academia pick, taken over Slumber Party Massacre and Black Christmas."
+        },
+        {
+          "title": "Silent Night, Deadly Night",
+          "year": 1984,
+          "note": "The Christmas slot. Its first 20 minutes rank among the most depraved in the genre, and it was protested on release."
+        },
+        {
+          "title": "Scream",
+          "year": 1996,
+          "note": "Called the best horror movie of the '90s and a true slasher. The mandatory meta pick."
+        },
+        {
+          "title": "Terrifier",
+          "year": 2018,
+          "note": "Half of the X/Terrifier 'cheat' closing slot. Damien Leone's meaning-free continuation of the movies he was raised on."
+        },
+        {
+          "title": "X",
+          "year": 2022,
+          "note": "The other half of the closing slot: Ti West's signifier-heavy throwback, set against Terrifier as the two ends of where slashers are now."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Pavements and the festival circuit",
+      "films": [
+        "Pavements",
+        "Queer",
+        "The Brutalist",
+        "Joker",
+        "Megalopolis",
+        "Meet Me in the Bathroom",
+        "Listen Up Philip",
+        "Nosferatu",
+        "Wolfs",
+        "The Substance",
+        "Van Helsing",
+        "Princess Mononoke"
+      ]
+    },
+    {
+      "group": "This year's slasher wave",
+      "films": [
+        "In a Violent Nature",
+        "Terrifier 3",
+        "Terrifier 2",
+        "Thanksgiving",
+        "MaXXXine",
+        "V/H/S",
+        "V/H/S/2",
+        "V/H/S/94",
+        "V/H/S/99",
+        "V/H/S/85",
+        "V/H/S/Viral",
+        "V/H/S/Beyond",
+        "Beetlejuice",
+        "Beetlejuice Beetlejuice",
+        "Poltergeist",
+        "The Blair Witch Project"
+      ]
+    },
+    {
+      "group": "Contenders yellowed or cut",
+      "films": [
+        "Peeping Tom",
+        "Blood and Black Lace",
+        "Black Christmas",
+        "A Nightmare on Elm Street",
+        "Dressed to Kill",
+        "Body Double",
+        "The Slumber Party Massacre",
+        "Prom Night",
+        "My Bloody Valentine",
+        "Child's Play",
+        "Sleepaway Camp",
+        "The Hitcher",
+        "The Prowler",
+        "The Burning",
+        "Candyman",
+        "Saw",
+        "High Tension",
+        "The Strangers",
+        "Haunt",
+        "Happy Death Day",
+        "Totally Killer",
+        "Knife+Heart",
+        "Wrong Turn",
+        "House of 1000 Corpses",
+        "Hostel"
+      ]
+    },
+    {
+      "group": "Grindhouse, video nasties, and deep cuts",
+      "films": [
+        "The Driller Killer",
+        "The Last House on the Left",
+        "Angst",
+        "Maniac",
+        "Maniac Cop",
+        "When a Stranger Calls",
+        "Happy Birthday to Me",
+        "Fade to Black",
+        "I Know What You Did Last Summer",
+        "Urban Legend",
+        "Urban Legends: Final Cut",
+        "Valentine",
+        "Final Destination",
+        "New Year's Evil",
+        "Strangeland",
+        "Hellraiser",
+        "Society",
+        "Honey, I Shrunk the Kids",
+        "Cannibal Holocaust",
+        "Cannibal Ferox",
+        "Blood Feast",
+        "I Spit on Your Grave",
+        "Tenebrae",
+        "Mardi Gras Massacre",
+        "Faces of Death",
+        "The Beyond",
+        "The Funhouse",
+        "The New York Ripper",
+        "Suspiria",
+        "Inferno"
+      ]
+    },
+    {
+      "group": "Franchise entries and classics name-checked",
+      "films": [
+        "Friday the 13th",
+        "Jason Goes to Hell: The Final Friday",
+        "Friday the 13th Part VIII: Jason Takes Manhattan",
+        "Halloween II",
+        "Halloween III: Season of the Witch",
+        "Halloween Kills",
+        "Halloween Ends",
+        "Psycho II",
+        "Psycho III",
+        "Bride of Chucky",
+        "A Nightmare on Elm Street 3: Dream Warriors",
+        "Wes Craven's New Nightmare",
+        "Sorority Row",
+        "The Exorcist",
+        "Critters 3",
+        "Leprechaun",
+        "Island of Lost Souls",
+        "Murders in the Zoo",
+        "The Elephant Man",
+        "Kill, Baby... Kill!",
+        "Demons",
+        "A Blade in the Dark",
+        "Night of the Howling Beast",
+        "Black Sunday"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Chucky",
+      "Vampirina",
+      "Succession",
+      "Blue Bloods",
+      "Law & Order: SVU"
+    ],
+    "Podcasts": [
+      "The Big Picture",
+      "Blank Check",
+      "Radio Davos"
+    ],
+    "Ads": [
+      "Truthless",
+      "Starbucks Frappuccino"
+    ]
+  },
+  "tmdbOverrides": {
+    "Angst": 18912,
+    "Maniac": 27346,
+    "Black Sunday": 27632,
+    "Inferno": 16395,
+    "Suspiria": 11906,
+    "Demons": 14029,
+    "Tenebrae": 29702,
+    "Blood Feast": 28172,
+    "Faces of Death": 12237,
+    "I Spit on Your Grave": 25239,
+    "The Last House on the Left": 15516,
+    "Prom Night": 36599,
+    "My Bloody Valentine": 39874,
+    "Black Christmas": 16938,
+    "Fade to Black": 40034,
+    "When a Stranger Calls": 45964,
+    "I Know What You Did Last Summer": 3597
+  },
+  "tmdb": {
+    "Psycho": {
+      "id": 539,
+      "poster": "/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+      "title": "Psycho",
+      "year": 1960
+    },
+    "The Texas Chain Saw Massacre": {
+      "id": 30497,
+      "poster": "/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg",
+      "title": "The Texas Chain Saw Massacre",
+      "year": 1974
+    },
+    "Deep Red": {
+      "id": 20126,
+      "poster": "/wq7RxV5gMvgO0EKeWpNhegnpJBh.jpg",
+      "title": "Deep Red",
+      "year": 1975
+    },
+    "Halloween": {
+      "id": 948,
+      "poster": "/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+      "title": "Halloween",
+      "year": 1978
+    },
+    "Friday the 13th Part 2": {
+      "id": 9725,
+      "poster": "/92rGctBMTv4uaSlIBVnhz01kRWL.jpg",
+      "title": "Friday the 13th Part 2",
+      "year": 1981
+    },
+    "Pieces": {
+      "id": 47886,
+      "poster": "/pYviMR1o0g8VMUZJK5WTvnZBS2g.jpg",
+      "title": "Pieces",
+      "year": 1982
+    },
+    "The House on Sorority Row": {
+      "id": 40229,
+      "poster": "/x2e22IVGkbCNCCDcw4gg5HezrSQ.jpg",
+      "title": "The House on Sorority Row",
+      "year": 1982
+    },
+    "Silent Night, Deadly Night": {
+      "id": 27414,
+      "poster": "/ypj2JwAN4vWcc4zSqFCTgUwMbJV.jpg",
+      "title": "Silent Night, Deadly Night",
+      "year": 1984
+    },
+    "Scream": {
+      "id": 4232,
+      "poster": "/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+      "title": "Scream",
+      "year": 1996
+    },
+    "Terrifier": {
+      "id": 420634,
+      "poster": "/fjXqhGmaeQpB73WerhrYU6HlyV5.jpg",
+      "title": "Terrifier",
+      "year": 2018
+    },
+    "X": {
+      "id": 760104,
+      "poster": "/lopZSVtXzhFY603E9OqF7O1YKsh.jpg",
+      "title": "X",
+      "year": 2022
+    },
+    "Pavements": {
+      "id": 1063307,
+      "poster": "/9ZCWGDGk1GJGQtlu2X5gDVbnU0v.jpg",
+      "title": "Pavements",
+      "year": 2025
+    },
+    "Queer": {
+      "id": 1059128,
+      "poster": "/xe4b2TMciLKA1C0JlhWxb4ENLln.jpg",
+      "title": "Queer",
+      "year": 2024
+    },
+    "The Brutalist": {
+      "id": 549509,
+      "poster": "/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
+      "title": "The Brutalist",
+      "year": 2024
+    },
+    "Joker": {
+      "id": 475557,
+      "poster": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "title": "Joker",
+      "year": 2019
+    },
+    "Megalopolis": {
+      "id": 592831,
+      "poster": "/8Sok3HNA3r1GHnK2lCytHyBz1A.jpg",
+      "title": "Megalopolis",
+      "year": 2024
+    },
+    "Meet Me in the Bathroom": {
+      "id": 913792,
+      "poster": "/3XNYt5zo3B8urZLiSXNavuHgmVC.jpg",
+      "title": "Meet Me in the Bathroom",
+      "year": 2022
+    },
+    "Listen Up Philip": {
+      "id": 251736,
+      "poster": "/rHfrGEdTEW20W6L26qbJ0DFNDKo.jpg",
+      "title": "Listen Up Philip",
+      "year": 2014
+    },
+    "Nosferatu": {
+      "id": 426063,
+      "poster": "/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",
+      "title": "Nosferatu",
+      "year": 2024
+    },
+    "Wolfs": {
+      "id": 877817,
+      "poster": "/vOX1Zng472PC2KnS0B9nRfM8aaZ.jpg",
+      "title": "Wolfs",
+      "year": 2024
+    },
+    "The Substance": {
+      "id": 933260,
+      "poster": "/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+      "title": "The Substance",
+      "year": 2024
+    },
+    "Van Helsing": {
+      "id": 7131,
+      "poster": "/gsFun8nATm52aGHeT8ueAel98nE.jpg",
+      "title": "Van Helsing",
+      "year": 2004
+    },
+    "Princess Mononoke": {
+      "id": 128,
+      "poster": "/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+      "title": "Princess Mononoke",
+      "year": 1997
+    },
+    "In a Violent Nature": {
+      "id": 1214509,
+      "poster": "/hPfWHgq07nXbeldwEGxWB4JqwtE.jpg",
+      "title": "In a Violent Nature",
+      "year": 2024
+    },
+    "Terrifier 3": {
+      "id": 1034541,
+      "poster": "/ju10W5gl3PPK3b7TjEmVOZap51I.jpg",
+      "title": "Terrifier 3",
+      "year": 2024
+    },
+    "Terrifier 2": {
+      "id": 663712,
+      "poster": "/qEAlwXbYk6IHA4ztoS2XFFaa7Xo.jpg",
+      "title": "Terrifier 2",
+      "year": 2022
+    },
+    "Thanksgiving": {
+      "id": 1071215,
+      "poster": "/f5f3TEVst1nHHyqgn7Z3tlwnBIH.jpg",
+      "title": "Thanksgiving",
+      "year": 2023
+    },
+    "MaXXXine": {
+      "id": 1023922,
+      "poster": "/ArvoFK6nlouZRxYmtIOUzKIrg90.jpg",
+      "title": "MaXXXine",
+      "year": 2024
+    },
+    "V/H/S": {
+      "id": 84348,
+      "poster": "/xVGfCaTwVdZt3lFqtOVhTDqmG58.jpg",
+      "title": "V/H/S",
+      "year": 2012
+    },
+    "V/H/S/2": {
+      "id": 159117,
+      "poster": "/o4hcWsHaHaNQ9BBReOxLvYJNRhA.jpg",
+      "title": "V/H/S/2",
+      "year": 2013
+    },
+    "V/H/S/94": {
+      "id": 753453,
+      "poster": "/9fSogEkqDfJQTuGHsTFloQz3Tw8.jpg",
+      "title": "V/H/S/94",
+      "year": 2021
+    },
+    "V/H/S/99": {
+      "id": 1005776,
+      "poster": "/1bOMmFtnykBmvhFcx8zdXO6bCAa.jpg",
+      "title": "V/H/S/99",
+      "year": 2022
+    },
+    "V/H/S/85": {
+      "id": 1032948,
+      "poster": "/aM3wnZTKEuPLDwxuMWcHDibOkiw.jpg",
+      "title": "V/H/S/85",
+      "year": 2023
+    },
+    "V/H/S/Viral": {
+      "id": 267806,
+      "poster": "/xe4S3x4Kq1UqCsDZdtLCeYt9moY.jpg",
+      "title": "V/H/S: Viral",
+      "year": 2014
+    },
+    "V/H/S/Beyond": {
+      "id": 1190868,
+      "poster": "/wXaf6VGNHIGU7qivapGOF7o4o4N.jpg",
+      "title": "V/H/S/Beyond",
+      "year": 2024
+    },
+    "Beetlejuice": {
+      "id": 4011,
+      "poster": "/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg",
+      "title": "Beetlejuice",
+      "year": 1988
+    },
+    "Beetlejuice Beetlejuice": {
+      "id": 917496,
+      "poster": "/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg",
+      "title": "Beetlejuice Beetlejuice",
+      "year": 2024
+    },
+    "Poltergeist": {
+      "id": 609,
+      "poster": "/m5AKo8iZAYulI87Uzxkn87vRY07.jpg",
+      "title": "Poltergeist",
+      "year": 1982
+    },
+    "The Blair Witch Project": {
+      "id": 2667,
+      "poster": "/9050VGrYjYrEjpOvDZVAngLbg1f.jpg",
+      "title": "The Blair Witch Project",
+      "year": 1999
+    },
+    "Peeping Tom": {
+      "id": 155858,
+      "poster": "/tjuELEqkmHUwJ8mcLOWArjiDers.jpg",
+      "title": "Peeping Tom",
+      "year": 1897
+    },
+    "Blood and Black Lace": {
+      "id": 28055,
+      "poster": "/zYCQjsdktEvlWTRap836iI5paEL.jpg",
+      "title": "Blood and Black Lace",
+      "year": 1964
+    },
+    "Black Christmas": {
+      "id": 16938,
+      "poster": "/ym0QcbrKNujzDyAU1IHGYUdRWub.jpg",
+      "title": "Black Christmas",
+      "year": 1974
+    },
+    "A Nightmare on Elm Street": {
+      "id": 377,
+      "poster": "/b9rMHAAKISRmIonaQd9Cccx0S4X.jpg",
+      "title": "A Nightmare on Elm Street",
+      "year": 1984
+    },
+    "Dressed to Kill": {
+      "id": 11033,
+      "poster": "/oy1m5dd44foNrxV8U9l6Walx82V.jpg",
+      "title": "Dressed to Kill",
+      "year": 1980
+    },
+    "Body Double": {
+      "id": 11507,
+      "poster": "/lRFm5P2AdOGpELwm3HHhmUz6k5I.jpg",
+      "title": "Body Double",
+      "year": 1984
+    },
+    "The Slumber Party Massacre": {
+      "id": 27475,
+      "poster": "/rh65oDy8CNJoEAOf7oudhIt3DM6.jpg",
+      "title": "The Slumber Party Massacre",
+      "year": 1982
+    },
+    "Prom Night": {
+      "id": 36599,
+      "poster": "/r2Ew7wUP96PsePEZseK6JqcPWY9.jpg",
+      "title": "Prom Night",
+      "year": 1980
+    },
+    "My Bloody Valentine": {
+      "id": 39874,
+      "poster": "/kl3mewFceFtYIavvGts2atzB0e0.jpg",
+      "title": "My Bloody Valentine",
+      "year": 1981
+    },
+    "Child's Play": {
+      "id": 10585,
+      "poster": "/wvpgvcWNkF2HLuTEMIM7K83MvZ.jpg",
+      "title": "Child's Play",
+      "year": 1988
+    },
+    "Sleepaway Camp": {
+      "id": 13567,
+      "poster": "/lZ7KjSyHjP4ula5ybiXuQcDvZLg.jpg",
+      "title": "Sleepaway Camp",
+      "year": 1983
+    },
+    "The Hitcher": {
+      "id": 9542,
+      "poster": "/89giuiFssSVCUxkCP386v66cry8.jpg",
+      "title": "The Hitcher",
+      "year": 1986
+    },
+    "The Prowler": {
+      "id": 44247,
+      "poster": "/g4sq725mXv5urY6nLQvYmv3RvcO.jpg",
+      "title": "The Prowler",
+      "year": 1981
+    },
+    "The Burning": {
+      "id": 24124,
+      "poster": "/d8as1GtCAhlc5rirarnUUd85gJA.jpg",
+      "title": "The Burning",
+      "year": 1981
+    },
+    "Candyman": {
+      "id": 9529,
+      "poster": "/jQtgkgDZE7egMq532sOt83DnT83.jpg",
+      "title": "Candyman",
+      "year": 1992
+    },
+    "Saw": {
+      "id": 176,
+      "poster": "/rLNSOudrayDBo1uqXjrhxcjODIC.jpg",
+      "title": "Saw",
+      "year": 2004
+    },
+    "High Tension": {
+      "id": 10226,
+      "poster": "/vKeFa7CqSxmWsQDjHP6SJXKoDbj.jpg",
+      "title": "High Tension",
+      "year": 2003
+    },
+    "The Strangers": {
+      "id": 10665,
+      "poster": "/gwsg4qFmLOvlhwXj4OZuxfFUdP0.jpg",
+      "title": "The Strangers",
+      "year": 2008
+    },
+    "Haunt": {
+      "id": 517116,
+      "poster": "/haQSrjFlq30I60UVN1VsB6uRwKM.jpg",
+      "title": "Haunt",
+      "year": 2019
+    },
+    "Happy Death Day": {
+      "id": 440021,
+      "poster": "/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg",
+      "title": "Happy Death Day",
+      "year": 2017
+    },
+    "Totally Killer": {
+      "id": 974931,
+      "poster": "/52YBwGJ3cJs54fpBzwnT1lnqgTo.jpg",
+      "title": "Totally Killer",
+      "year": 2023
+    },
+    "Knife+Heart": {
+      "id": 475930,
+      "poster": "/Aodlp3TH6FBti9igUCt8f5KS7Nb.jpg",
+      "title": "Knife+Heart",
+      "year": 2018
+    },
+    "Wrong Turn": {
+      "id": 9902,
+      "poster": "/12G5V0dTmljnv7RFMT144dJ2chh.jpg",
+      "title": "Wrong Turn",
+      "year": 2003
+    },
+    "House of 1000 Corpses": {
+      "id": 2662,
+      "poster": "/29c2qgXmSREosLBevOILEuMWzQC.jpg",
+      "title": "House of 1000 Corpses",
+      "year": 2003
+    },
+    "Hostel": {
+      "id": 1690,
+      "poster": "/dDrtuWUKhgUGp12kgUWuP0NpTdF.jpg",
+      "title": "Hostel",
+      "year": 2006
+    },
+    "The Driller Killer": {
+      "id": 13553,
+      "poster": "/qeFh14wpyxtmEZrpnPX1L4q5AJG.jpg",
+      "title": "The Driller Killer",
+      "year": 1979
+    },
+    "The Last House on the Left": {
+      "id": 15516,
+      "poster": "/qyTqXz1C7kPgWmxcD5otQ7xlrJP.jpg",
+      "title": "The Last House on the Left",
+      "year": 1972
+    },
+    "Angst": {
+      "id": 18912,
+      "poster": "/nSYdWrPPwvcs5t5hG67XqDbwncG.jpg",
+      "title": "Angst",
+      "year": 1983
+    },
+    "Maniac": {
+      "id": 27346,
+      "poster": "/cW67gScjmRn3uyFvldNcShBxJuC.jpg",
+      "title": "Maniac",
+      "year": 1980
+    },
+    "Maniac Cop": {
+      "id": 14240,
+      "poster": "/YS4Q7xHZLjZ5HvffqVDmJLjxce.jpg",
+      "title": "Maniac Cop",
+      "year": 1988
+    },
+    "When a Stranger Calls": {
+      "id": 45964,
+      "poster": "/mdhpKVuuNZcc9noZzYXruxeIxdJ.jpg",
+      "title": "When a Stranger Calls",
+      "year": 1979
+    },
+    "Happy Birthday to Me": {
+      "id": 37936,
+      "poster": "/8s8Z58Xah3VSe4kfKZFTUJTT33g.jpg",
+      "title": "Happy Birthday to Me",
+      "year": 1981
+    },
+    "Fade to Black": {
+      "id": 40034,
+      "poster": "/wQA5HMwryIjOwnmN6uumCz6mjJs.jpg",
+      "title": "Fade to Black",
+      "year": 1980
+    },
+    "I Know What You Did Last Summer": {
+      "id": 3597,
+      "poster": "/dQyaJx0SptDqvQcAewAr8FAtLB2.jpg",
+      "title": "I Know What You Did Last Summer",
+      "year": 1997
+    },
+    "Urban Legend": {
+      "id": 9877,
+      "poster": "/dUvZDNU9G0njhM628NA5phASntq.jpg",
+      "title": "Urban Legend",
+      "year": 1998
+    },
+    "Urban Legends: Final Cut": {
+      "id": 12212,
+      "poster": "/9kjGrnhMz37RYEd5BFcrU1qkPkl.jpg",
+      "title": "Urban Legends: Final Cut",
+      "year": 2000
+    },
+    "Valentine": {
+      "id": 10984,
+      "poster": "/jMtWV4FixMGTgUjbr9NFVEANGYQ.jpg",
+      "title": "Valentine",
+      "year": 2001
+    },
+    "Final Destination": {
+      "id": 9532,
+      "poster": "/1mXhlQMnlfvJ2frxTjZSQNnA9Vp.jpg",
+      "title": "Final Destination",
+      "year": 2000
+    },
+    "New Year's Evil": {
+      "id": 69165,
+      "poster": "/eEIpELOvXZZJvHx1MNga8wwn7GI.jpg",
+      "title": "New Year's Evil",
+      "year": 1980
+    },
+    "Strangeland": {
+      "id": 27791,
+      "poster": "/AhQh5rtPymR1J8daZc0FNXiSkU.jpg",
+      "title": "Strangeland",
+      "year": 1998
+    },
+    "Hellraiser": {
+      "id": 9003,
+      "poster": "/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg",
+      "title": "Hellraiser",
+      "year": 1987
+    },
+    "Society": {
+      "id": 22244,
+      "poster": "/8Yg51sD6loLBYIlUcMDCO0bUGSh.jpg",
+      "title": "Society",
+      "year": 1990
+    },
+    "Honey, I Shrunk the Kids": {
+      "id": 9354,
+      "poster": "/omQOzahi2NIeiYznNxHFDvNbvo6.jpg",
+      "title": "Honey, I Shrunk the Kids",
+      "year": 1989
+    },
+    "Cannibal Holocaust": {
+      "id": 8689,
+      "poster": "/otxZzMh53TsN7yYFqSZ3rwH1yMd.jpg",
+      "title": "Cannibal Holocaust",
+      "year": 1980
+    },
+    "Cannibal Ferox": {
+      "id": 8691,
+      "poster": "/ogvtVVsPSuzXKiQY1FCCKwIfBec.jpg",
+      "title": "Cannibal Ferox",
+      "year": 1981
+    },
+    "Blood Feast": {
+      "id": 28172,
+      "poster": "/u6mWxgOrNAF3AaevaGEE4NqCwcQ.jpg",
+      "title": "Blood Feast",
+      "year": 1963
+    },
+    "I Spit on Your Grave": {
+      "id": 25239,
+      "poster": "/nMCkOo26GtISoxJmpkTAJyMqBO8.jpg",
+      "title": "Day of the Woman",
+      "year": 1978
+    },
+    "Tenebrae": {
+      "id": 29702,
+      "poster": "/uWNCyUX9sjtnhleqyw2W5ECijlP.jpg",
+      "title": "Tenebre",
+      "year": 1982
+    },
+    "Mardi Gras Massacre": {
+      "id": 58644,
+      "poster": "/p8dXisOBFbff2dkMpAERjnix0As.jpg",
+      "title": "Mardi Gras Massacre",
+      "year": 1978
+    },
+    "Faces of Death": {
+      "id": 12237,
+      "poster": "/fhHzqDrdHLqjawXLXoV3w4FDOUd.jpg",
+      "title": "Faces of Death",
+      "year": 1978
+    },
+    "The Beyond": {
+      "id": 19204,
+      "poster": "/kMSZHq9VYQV1FCbM8nz2zrZShzx.jpg",
+      "title": "The Beyond",
+      "year": 1981
+    },
+    "The Funhouse": {
+      "id": 13555,
+      "poster": "/9eFgNrkTbXk1TBPuzxdOEjutNoC.jpg",
+      "title": "The Funhouse",
+      "year": 1981
+    },
+    "The New York Ripper": {
+      "id": 30874,
+      "poster": "/y8Sdx6ZKHRCwMunyBtzlJhnkxzj.jpg",
+      "title": "The New York Ripper",
+      "year": 1982
+    },
+    "Suspiria": {
+      "id": 11906,
+      "poster": "/sEcvc9h1X3hYZdFgtiiKMm6RB3f.jpg",
+      "title": "Suspiria",
+      "year": 1977
+    },
+    "Inferno": {
+      "id": 16395,
+      "poster": "/A92SmwJ4w2GSF6Mp2m8xE9GbG39.jpg",
+      "title": "Inferno",
+      "year": 1980
+    },
+    "Friday the 13th": {
+      "id": 4488,
+      "poster": "/uGGpnWHOmWTARVN9wbC1nPxNgps.jpg",
+      "title": "Friday the 13th",
+      "year": 1980
+    },
+    "Jason Goes to Hell: The Final Friday": {
+      "id": 10285,
+      "poster": "/Aacq05foqiWdXqetFv02HBvMoJy.jpg",
+      "title": "Jason Goes to Hell: The Final Friday",
+      "year": 1993
+    },
+    "Friday the 13th Part VIII: Jason Takes Manhattan": {
+      "id": 10283,
+      "poster": "/6ezOsZ9UzqGnbDokaatxdOWP6e9.jpg",
+      "title": "Friday the 13th Part VIII: Jason Takes Manhattan",
+      "year": 1989
+    },
+    "Halloween II": {
+      "id": 11281,
+      "poster": "/3nX5HHGgOKaVMxXwMLT9DHO1Ne6.jpg",
+      "title": "Halloween II",
+      "year": 1981
+    },
+    "Halloween III: Season of the Witch": {
+      "id": 10676,
+      "poster": "/WABfdeaThFYXCySGIOvRNv2sSW.jpg",
+      "title": "Halloween III: Season of the Witch",
+      "year": 1982
+    },
+    "Halloween Kills": {
+      "id": 610253,
+      "poster": "/ir9eyz1mtgsohjvo7UYtqUfFuES.jpg",
+      "title": "Halloween Kills",
+      "year": 2021
+    },
+    "Halloween Ends": {
+      "id": 616820,
+      "poster": "/q06saepaXeBdkMibuN4R2fXmgIw.jpg",
+      "title": "Halloween Ends",
+      "year": 2022
+    },
+    "Psycho II": {
+      "id": 10576,
+      "poster": "/sJAPRj3vHmjV4z97YK84iDovYlm.jpg",
+      "title": "Psycho II",
+      "year": 1983
+    },
+    "Psycho III": {
+      "id": 12662,
+      "poster": "/tgV4eeW0X7os7p3SYbNwDI0NYGa.jpg",
+      "title": "Psycho III",
+      "year": 1986
+    },
+    "Bride of Chucky": {
+      "id": 11932,
+      "poster": "/yaIPNOcC7ZRuwH3maNwP9qzIo5G.jpg",
+      "title": "Bride of Chucky",
+      "year": 1998
+    },
+    "A Nightmare on Elm Street 3: Dream Warriors": {
+      "id": 10072,
+      "poster": "/qbtZewU6EGvxi8yFVzwZ31NijLX.jpg",
+      "title": "A Nightmare on Elm Street 3: Dream Warriors",
+      "year": 1987
+    },
+    "Wes Craven's New Nightmare": {
+      "id": 11596,
+      "poster": "/q5BWxfL1x34nyYSvA3Qo5odleGW.jpg",
+      "title": "Wes Craven's New Nightmare",
+      "year": 1994
+    },
+    "Sorority Row": {
+      "id": 26688,
+      "poster": "/voIQd9TDplumz9wInHwj6bRyHnu.jpg",
+      "title": "Sorority Row",
+      "year": 2009
+    },
+    "The Exorcist": {
+      "id": 9552,
+      "poster": "/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
+      "title": "The Exorcist",
+      "year": 1973
+    },
+    "Critters 3": {
+      "id": 12702,
+      "poster": "/frjklbq23pRgBjhekEq6drQkrZm.jpg",
+      "title": "Critters 3",
+      "year": 1991
+    },
+    "Leprechaun": {
+      "id": 11811,
+      "poster": "/9i6HjU4CZJytN37LKQUDrNguQg7.jpg",
+      "title": "Leprechaun",
+      "year": 1993
+    },
+    "Island of Lost Souls": {
+      "id": 3031,
+      "poster": "/g7K7r1FojQC52YHxfmuXgwYBq5Q.jpg",
+      "title": "Island of Lost Souls",
+      "year": 1932
+    },
+    "Murders in the Zoo": {
+      "id": 39311,
+      "poster": "/8GL0POYXHakLfgWSi0iwehLdhcY.jpg",
+      "title": "Murders in the Zoo",
+      "year": 1933
+    },
+    "The Elephant Man": {
+      "id": 1955,
+      "poster": "/u0wpPYjuSt8DIe1Y3Vapnh8jcKE.jpg",
+      "title": "The Elephant Man",
+      "year": 1980
+    },
+    "Kill, Baby... Kill!": {
+      "id": 28049,
+      "poster": "/fyGzcMVf8iospgEtBoZkvO9j9Vr.jpg",
+      "title": "Kill, Baby... Kill!",
+      "year": 1966
+    },
+    "Demons": {
+      "id": 14029,
+      "poster": "/ym0mtcSt6i45NIcAoSBQhop0wSP.jpg",
+      "title": "Demons",
+      "year": 1985
+    },
+    "A Blade in the Dark": {
+      "id": 39991,
+      "poster": "/AmrG8GLjiQmrvIQxylEwPXhVgsG.jpg",
+      "title": "A Blade in the Dark",
+      "year": 1983
+    },
+    "Night of the Howling Beast": {
+      "id": 54112,
+      "poster": "/TepFt7kLtQ72fgwzLWhPJo3pQF.jpg",
+      "title": "Night of the Howling Beast",
+      "year": 1975
+    },
+    "Black Sunday": {
+      "id": 27632,
+      "poster": "/x41Zx8GeZhducquhOq9nE7z1GBG.jpg",
+      "title": "Black Sunday",
+      "year": 1960
+    }
+  },
+  "spotifyEpisodeId": "5WoQ8hP1te4i3pyEyYmY1j"
+}

@@ -1,0 +1,102 @@
+{
+  "slug": "ruben-ostlund-is-trying-to-provoke-you-the-big-picture-ep-31",
+  "title": "Ruben Östlund Is Trying to Provoke You | The Big Picture (Ep. 31)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2017-10-27",
+  "runtimeMin": 28,
+  "format": "Ruben Östlund walks through The Square, the dinner-party ape scene he built out of a GG Allin YouTube clip and a Terry Notary demo reel, the bystander-effect idea that runs from Play through Force Majeure, and the pitch for his next film, a modeling-world satire called Triangle of Sadness.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "Ruben Östlund on satire, provocation, and playing the ape",
+      "guest": "Ruben Östlund on",
+      "films": [
+        {
+          "title": "The Square",
+          "year": 2017,
+          "note": "The satire of art-world pretension he'd just finished. Traces back to a real 2008 case: a Gothenburg mall where boys were mugged in daylight while adults did nothing, which he'd already used as the basis for Play. He turned that bystander-effect idea into an art installation, then built the film around a museum curator (Claes Bang) hosting it. The dinner-gala scene where Terry Notary's performance artist goes full ape came from two places: YouTube clips of the punk musician GG Allin baiting his own audience, and a demo reel of Notary (a motion-capture veteran) showing off his chimp and gorilla walks. Elisabeth Moss and Dominic West round out the cast, brought in partly to get the film more attention in the U.S."
+        },
+        {
+          "title": "Force Majeure",
+          "year": 2014,
+          "note": "His prior film, well received enough to make him think an Oscar foreign-language nomination was a lock. It wasn't. He and producer Erik Hemmendorff filmed their own reaction to getting shut out and posted it to YouTube as 'Swedish director freaks out when he misses out on Oscar nomination,' jet-lagged and eating apples on camera. Some viewers didn't realize the breakdown was staged."
+        },
+        {
+          "title": "Play",
+          "year": 2011,
+          "note": "His 2008-conceived film about a real string of mall robberies in his native Gothenburg, where bystanders never intervened. The idea of a marked-off 'square' as a symbolic pact to help each other started here, and it later became the seed of his next film's title."
+        },
+        {
+          "title": "Triangle of Sadness",
+          "note": "The next project, still just a pitch at the time of this interview: a satire of the modeling and beauty industry centered on a male model whose career is cratering as he goes bald. Östlund jokes the title's an accident, following square with triangle and, eventually, an 'octagon of confusion' that never gets finished."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The last great thing he'd seen",
+      "films": [
+        "Weiner"
+      ]
+    },
+    {
+      "group": "Coming up on the show",
+      "films": [
+        "Thor: Ragnarok"
+      ]
+    }
+  ],
+  "excluded": {
+    "YouTube": [
+      "GG Allin's Boston performance clips",
+      "Swedish director freaks out when he misses out on Oscar nomination",
+      "Terry Notary's chimp/gorilla demo reel"
+    ]
+  },
+  "tmdb": {
+    "The Square": {
+      "id": 401246,
+      "poster": "/pefcv5VNspSK4Dt8doei5bJmmln.jpg",
+      "title": "The Square",
+      "year": 2017
+    },
+    "Force Majeure": {
+      "id": 265189,
+      "poster": "/41agNfzepz2DTdgTBX1fX0QclHp.jpg",
+      "title": "Force Majeure",
+      "year": 2014
+    },
+    "Play": {
+      "id": 85743,
+      "poster": "/bJWi0taJmU9WyPdIUVhShxISCFA.jpg",
+      "title": "Play",
+      "year": 2011
+    },
+    "Triangle of Sadness": {
+      "id": 497828,
+      "poster": "/k9eLozCgCed5FGTSdHu0bBElAV8.jpg",
+      "title": "Triangle of Sadness",
+      "year": 2022
+    },
+    "Weiner": {
+      "id": 376261,
+      "poster": "/r3eyunSmbTmvCSrKkU7YCmPyLQU.jpg",
+      "title": "Weiner",
+      "year": 2016
+    },
+    "Thor: Ragnarok": {
+      "id": 284053,
+      "poster": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "title": "Thor: Ragnarok",
+      "year": 2017
+    }
+  },
+  "tmdbOverrides": {
+    "Play": 85743
+  }
+}

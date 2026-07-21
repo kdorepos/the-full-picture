@@ -1,0 +1,45 @@
+---
+// Draft segment: a snake draft of existing films into per-host teams across categories.
+// (A "Plus: <film>" review rides along as its own review segment, not here.)
+const { seg, tmdb = {} } = Astro.props;
+const link = (t) => (tmdb[t]?.id ? `https://www.themoviedb.org/movie/${tmdb[t].id}` : null);
+const poster = (t) => (tmdb[t]?.poster ? `https://image.tmdb.org/t/p/w185${tmdb[t].poster}` : null);
+---
+<section class="sale-section">
+  <p class="rubric">{seg.heading ?? 'The teams'} <span class="sub">drafting {seg.draftOf}</span></p>
+  <div class="teams">
+    {seg.teams.map((t) => (
+      <div class="team">
+        <h3 class="team-host">{t.host}</h3>
+        {t.picks.map((p) => (
+          <article class="pick-card">
+            <div class="pick-card__poster">
+              {poster(p.title)
+                ? <img src={poster(p.title)} alt={`${p.title} poster`} width="54" height="81" loading="lazy" />
+                : <span class="noposter" aria-hidden="true"></span>}
+            </div>
+            <div class="pick-card__body">
+              <div class="pick-card__by">{p.category}</div>
+              <h4 class="pick-card__film">
+                {link(p.title) ? <a href={link(p.title)} target="_blank" rel="noopener">{p.title}</a> : p.title}
+                {p.year && <span class="yr">{p.year}</span>}
+              </h4>
+              {p.note && <p class="pick-card__note">{p.note}</p>}
+            </div>
+          </article>
+        ))}
+      </div>
+    ))}
+  </div>
+</section>
+
+{seg.undrafted?.length > 0 && (
+  <section class="sale-section">
+    <p class="rubric">On the board, undrafted <span class="sub">honorable mentions</span></p>
+    <p class="entrylist">
+      {seg.undrafted.map((f) => (link(f)
+        ? <a class="entry" href={link(f)} target="_blank" rel="noopener">{f}</a>
+        : <span class="entry">{f}</span>))}
+    </p>
+  </section>
+)}

@@ -1,0 +1,156 @@
+{
+  "slug": "solo-a-star-wars-story-instant-analysis-the-big-picture-ep-6",
+  "title": "'Solo: A Star Wars Story': Instant Analysis | The Big Picture (Ep. 67)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "David Shoemaker"
+  ],
+  "published": "2018-05-25",
+  "runtimeMin": 39,
+  "format": "Same-night reaction to 'Solo,' where the Lando problem turns out to be that there isn't one.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "'Solo: A Star Wars Story'",
+      "note": "full spoilers",
+      "films": [
+        {
+          "title": "Solo: A Star Wars Story",
+          "year": 2018,
+          "note": "Ehrenreich is fine, which is the whole problem when the role is Harrison Ford. Donald Glover's Lando is the through-line success; the Chewbacca meet-cute and the 10-minute war-movie detour work too. The knocks: a card game whose stakes you can't read, a Darth Maul cameo that raises more questions than it answers, and direction that's more competent than distinctive."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Star Wars canon, for comparison",
+      "films": [
+        "Rogue One: A Star Wars Story",
+        "The Empire Strikes Back",
+        "Star Wars: Episode I - The Phantom Menace"
+      ]
+    },
+    {
+      "group": "Comparisons and namedrops",
+      "films": [
+        "Indiana Jones and the Last Crusade",
+        "Avengers: Infinity War",
+        "Arrival",
+        "Blade Runner 2049",
+        "Splash",
+        "A Beautiful Mind",
+        "Apollo 13",
+        "Cinderella Man",
+        "21 Jump Street",
+        "The Lego Movie"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Game of Thrones",
+      "Fleabag",
+      "Killing Eve",
+      "The Walking Dead",
+      "Atlanta",
+      "Star Wars: The Clone Wars",
+      "Westworld: The Recappables",
+      "The Press Box",
+      "The Masked Man Show",
+      "The Last Man on Earth"
+    ],
+    "Ads": [
+      "MUBI",
+      "Joe Pera Talks With You"
+    ]
+  },
+  "tmdb": {
+    "Solo: A Star Wars Story": {
+      "id": 348350,
+      "poster": "/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg",
+      "title": "Solo: A Star Wars Story",
+      "year": 2018
+    },
+    "Rogue One: A Star Wars Story": {
+      "id": 330459,
+      "poster": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+      "title": "Rogue One: A Star Wars Story",
+      "year": 2016
+    },
+    "The Empire Strikes Back": {
+      "id": 1891,
+      "poster": "/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+      "title": "The Empire Strikes Back",
+      "year": 1980
+    },
+    "Star Wars: Episode I - The Phantom Menace": {
+      "id": 1893,
+      "poster": "/xQzMnuiv81d0gfUIVstuleNutjA.jpg",
+      "title": "Star Wars: Episode I - The Phantom Menace",
+      "year": 1999
+    },
+    "Indiana Jones and the Last Crusade": {
+      "id": 89,
+      "poster": "/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg",
+      "title": "Indiana Jones and the Last Crusade",
+      "year": 1989
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    },
+    "Arrival": {
+      "id": 329865,
+      "poster": "/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
+      "title": "Arrival",
+      "year": 2016
+    },
+    "Blade Runner 2049": {
+      "id": 335984,
+      "poster": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+      "title": "Blade Runner 2049",
+      "year": 2017
+    },
+    "Splash": {
+      "id": 2619,
+      "poster": "/7FutTsMWBwVhjk1Ujf1wtndUVZh.jpg",
+      "title": "Splash",
+      "year": 1984
+    },
+    "A Beautiful Mind": {
+      "id": 453,
+      "poster": "/rEIg5yJdNOt9fmX4P8gU9LeNoTQ.jpg",
+      "title": "A Beautiful Mind",
+      "year": 2001
+    },
+    "Apollo 13": {
+      "id": 568,
+      "poster": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+      "title": "Apollo 13",
+      "year": 1995
+    },
+    "Cinderella Man": {
+      "id": 921,
+      "poster": "/wkeOjIcpuqLMW4GnVowlM9VI0JE.jpg",
+      "title": "Cinderella Man",
+      "year": 2005
+    },
+    "21 Jump Street": {
+      "id": 64688,
+      "poster": "/8v3Sqv9UcIUC4ebmpKWROqPBINZ.jpg",
+      "title": "21 Jump Street",
+      "year": 2012
+    },
+    "The Lego Movie": {
+      "id": 137106,
+      "poster": "/lbctonEnewCYZ4FYoTZhs8cidAl.jpg",
+      "title": "The Lego Movie",
+      "year": 2014
+    }
+  }
+}

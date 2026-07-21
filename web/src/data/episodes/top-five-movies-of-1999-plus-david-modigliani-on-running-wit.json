@@ -1,0 +1,576 @@
+{
+  "slug": "top-five-movies-of-1999-plus-david-modigliani-on-running-wit",
+  "title": "Top Five Movies of 1999, Plus David Modigliani on ‘Running With Beto’ | Discussion",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2019-03-26",
+  "runtimeMin": 106,
+  "format": "Sean Fennessey, Amanda Dobbins, and Chris Ryan each draft a top five from 1999, a year they argue produced more great movies than any other, alongside a run of forgettable ones from great directors. Then Sean talks to documentarian David Modigliani about 'Running With Beto.'",
+  "segments": [
+    {
+      "kind": "topfive",
+      "heading": "Amanda's Top Five",
+      "note": "movies of 1999, best to worst",
+      "subject": "Movies of 1999",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Notting Hill",
+          "year": 1999,
+          "note": "Her No. 1. Richard Curtis's follow-up to Four Weddings, with Julia Roberts playing a movie star who's engaging with her own fame."
+        },
+        {
+          "title": "The Talented Mr. Ripley",
+          "year": 1999,
+          "note": "Damon's best performance, she says, an ability he's since edited out of his acting except in flashes as Linus in the Ocean's movies."
+        },
+        {
+          "title": "10 Things I Hate About You",
+          "year": 1999,
+          "note": "The most rewatchable of the year's teen movies, carried by Heath Ledger's breakout."
+        },
+        {
+          "title": "Election",
+          "year": 1999,
+          "note": "Tracy Flick as a personality test she can't fully pass."
+        },
+        {
+          "title": "The Thomas Crown Affair",
+          "year": 1999,
+          "note": "Her actual favorite movie of the five, just not her No. 1: the McTiernan remake with Pierce Brosnan and Rene Russo."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Chris's Top Five",
+      "note": "movies of 1999, best to worst",
+      "subject": "Movies of 1999",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Fight Club",
+          "year": 1999,
+          "note": "Filmmaking at its best across the board, though he thinks the way people talk about it has outlasted the movie itself."
+        },
+        {
+          "title": "The Matrix",
+          "year": 1999,
+          "note": "It was the first DVD he ever owned; he's watched it close to a hundred times."
+        },
+        {
+          "title": "The Insider",
+          "year": 1999,
+          "note": "Michael Mann's only non-action movie: Pacino and Crowe on the Brown & Williamson tobacco story."
+        },
+        {
+          "title": "The Blair Witch Project",
+          "year": 1999,
+          "note": "The defining theater experience of his life; he remembers most of the opening-weekend crowd walking out convinced it was real."
+        },
+        {
+          "title": "Go",
+          "year": 1999,
+          "note": "A rave-culture redo of Pulp Fiction he thinks has aged into a better L.A. time capsule than Swingers."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Sean's Top Five",
+      "note": "movies of 1999, best to worst",
+      "subject": "Movies of 1999",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Fight Club",
+          "year": 1999,
+          "note": "Says more about 2019 than about 1999, he thinks, maybe because of what got made of it."
+        },
+        {
+          "title": "Magnolia",
+          "year": 1999,
+          "note": "PTA pouring every feeling he had into the longest movie he could make, right after Boogie Nights got him called the next Scorsese."
+        },
+        {
+          "title": "Three Kings",
+          "year": 1999,
+          "note": "A heist movie about Gulf War soldiers who arrived too late for their war, shot during a production notorious for Clooney and David O. Russell coming to blows."
+        },
+        {
+          "title": "South Park: Bigger, Longer & Uncut",
+          "year": 1999,
+          "note": "A movie musical with the safety off, its songs sung by everyone from Satan to Saddam Hussein."
+        },
+        {
+          "title": "The Matrix",
+          "year": 1999,
+          "note": "The first time since seeing Star Wars that he remembers a movie hitting him that hard in a theater."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Eyes Wide Shut",
+      "note": "off everyone's list, but not off the table",
+      "films": [
+        {
+          "title": "Eyes Wide Shut",
+          "year": 1999,
+          "note": "Amanda calls it a fascinating case study of Tom Cruise and Nicole Kidman's actual marriage; Sean ranks it low among great Kubrick films but still says it's the real thing."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "David Modigliani on",
+      "films": [
+        {
+          "title": "Running with Beto",
+          "year": 2019,
+          "note": "His HBO documentary on Beto O'Rourke's 2018 Senate run, built around whether he could revive Texas turnout rather than whether he'd win."
+        },
+        {
+          "title": "Street Fight",
+          "year": 2005,
+          "note": "Marshall Curry's film on Cory Booker's first, losing mayoral run. One of two campaign docs he had his crew watch to prove a loss can still make a great film."
+        },
+        {
+          "title": "Mitt",
+          "year": 2014,
+          "note": "The other reference point: Romney's failed 2012 campaign, which he says felt non-partisan even to viewers who didn't share Romney's politics."
+        },
+        {
+          "title": "The War Room",
+          "year": 1993,
+          "note": "D.A. Pennebaker's Clinton-campaign doc, cited for its focus on staffers rather than the candidate."
+        },
+        {
+          "title": "Crisis: Behind a Presidential Commitment",
+          "year": 1963,
+          "note": "A friend's recommendation after the fact: JFK and Bobby Kennedy navigating George Wallace's schoolhouse-door standoff."
+        },
+        {
+          "title": "Don't Look Back",
+          "year": 1967,
+          "note": "Pennebaker's Dylan tour film, his biggest single influence on Running with Beto for its fly-on-the-wall intimacy."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Also 1999, in passing",
+      "films": [
+        "Happy, Texas",
+        "At First Sight",
+        "American Beauty",
+        "Office Space",
+        "The Green Mile",
+        "Girl, Interrupted",
+        "The Hurricane",
+        "Star Wars: Episode I - The Phantom Menace",
+        "Toy Story 2",
+        "American Pie",
+        "Austin Powers: The Spy Who Shagged Me",
+        "The Mummy",
+        "The World Is Not Enough",
+        "Pokémon: The First Movie",
+        "The Sixth Sense",
+        "Bringing Out the Dead",
+        "Summer of Sam",
+        "Music of the Heart",
+        "True Crime",
+        "Sleepy Hollow",
+        "Gloria",
+        "The Muse",
+        "The Straight Story",
+        "Random Hearts",
+        "Mumford",
+        "Cruel Intentions",
+        "She's All That",
+        "Never Been Kissed",
+        "Varsity Blues",
+        "Jawbreaker",
+        "Any Given Sunday",
+        "For Love of the Game",
+        "Mystery, Alaska",
+        "Big Daddy",
+        "Deep Blue Sea",
+        "Lake Placid",
+        "Run Lola Run",
+        "All About My Mother"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Game of Thrones",
+      "Dawson's Creek",
+      "South Park (TV series)",
+      "The Daily Show",
+      "Big Little Lies"
+    ]
+  },
+  "tmdbOverrides": {
+    "Gloria": 45712,
+    "Don't Look Back": 135
+  },
+  "tmdb": {
+    "Notting Hill": {
+      "id": 509,
+      "poster": "/hHRIf2XHeQMbyRb3HUx19SF5Ujw.jpg",
+      "title": "Notting Hill",
+      "year": 1999
+    },
+    "The Talented Mr. Ripley": {
+      "id": 1213,
+      "poster": "/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg",
+      "title": "The Talented Mr. Ripley",
+      "year": 1999
+    },
+    "10 Things I Hate About You": {
+      "id": 4951,
+      "poster": "/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg",
+      "title": "10 Things I Hate About You",
+      "year": 1999
+    },
+    "Election": {
+      "id": 9451,
+      "poster": "/fbo0IYzBc32dD5SjFzKIgfp4O4F.jpg",
+      "title": "Election",
+      "year": 1999
+    },
+    "The Thomas Crown Affair": {
+      "id": 913,
+      "poster": "/5yqs1MVlqdIg1DY5adC5jFx3d7j.jpg",
+      "title": "The Thomas Crown Affair",
+      "year": 1999
+    },
+    "Fight Club": {
+      "id": 550,
+      "poster": "/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+      "title": "Fight Club",
+      "year": 1999
+    },
+    "The Matrix": {
+      "id": 603,
+      "poster": "/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+      "title": "The Matrix",
+      "year": 1999
+    },
+    "The Insider": {
+      "id": 9008,
+      "poster": "/w695X0FvTlBCS7GSLHNILnrfqPm.jpg",
+      "title": "The Insider",
+      "year": 1999
+    },
+    "The Blair Witch Project": {
+      "id": 2667,
+      "poster": "/9050VGrYjYrEjpOvDZVAngLbg1f.jpg",
+      "title": "The Blair Witch Project",
+      "year": 1999
+    },
+    "Go": {
+      "id": 9430,
+      "poster": "/7UzD5Dmu3jqb2ls4Lnb4SYQqbYm.jpg",
+      "title": "Go",
+      "year": 1999
+    },
+    "Magnolia": {
+      "id": 334,
+      "poster": "/tpfC325Jk6S38VTe5dDWjWtoyxr.jpg",
+      "title": "Magnolia",
+      "year": 1999
+    },
+    "Three Kings": {
+      "id": 6415,
+      "poster": "/fClJQW8xn8wHOFqoA4jUn0PZh1f.jpg",
+      "title": "Three Kings",
+      "year": 1999
+    },
+    "South Park: Bigger, Longer & Uncut": {
+      "id": 9473,
+      "poster": "/tS0PedvA2mFO9VCHYwQpaU1K36U.jpg",
+      "title": "South Park: Bigger, Longer & Uncut",
+      "year": 1999
+    },
+    "Eyes Wide Shut": {
+      "id": 345,
+      "poster": "/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+      "title": "Eyes Wide Shut",
+      "year": 1999
+    },
+    "Running with Beto": {
+      "id": 575812,
+      "poster": "/2CxbRbPxgU4JQagNDu8Oz5vOry7.jpg",
+      "title": "Running with Beto",
+      "year": 2019
+    },
+    "Street Fight": {
+      "id": 29044,
+      "poster": "/1abhRslbpFUSCLD5S4cA3nvu4Kx.jpg",
+      "title": "Street Fight",
+      "year": 2005
+    },
+    "Mitt": {
+      "id": 250769,
+      "poster": "/v1bfKOvTqQDseBAetUpNKn1Iq3q.jpg",
+      "title": "Mitt",
+      "year": 2014
+    },
+    "The War Room": {
+      "id": 26408,
+      "poster": "/prfxsyG4SnlnqqulavCJ4RksFUA.jpg",
+      "title": "The War Room",
+      "year": 1993
+    },
+    "Crisis: Behind a Presidential Commitment": {
+      "id": 162494,
+      "poster": "/fkBQDLYzGM23Hz7pLDKoAqYwdpz.jpg",
+      "title": "Crisis: Behind a Presidential Commitment",
+      "year": 1963
+    },
+    "Don't Look Back": {
+      "id": 135,
+      "poster": "/2kd5XfH2MhFlChq7DkjxWBLoYPF.jpg",
+      "title": "Bob Dylan – Don't Look Back",
+      "year": 1967
+    },
+    "Happy, Texas": {
+      "id": 24066,
+      "poster": "/5bUoL781c0YdWmqtcNWjbPATyAb.jpg",
+      "title": "Happy, Texas",
+      "year": 1999
+    },
+    "At First Sight": {
+      "id": 15556,
+      "poster": "/9nylrKj8zWxTor9BCy3umv6WHZe.jpg",
+      "title": "At First Sight",
+      "year": 1999
+    },
+    "American Beauty": {
+      "id": 14,
+      "poster": "/wby9315QzVKdW9BonAefg8jGTTb.jpg",
+      "title": "American Beauty",
+      "year": 1999
+    },
+    "Office Space": {
+      "id": 1542,
+      "poster": "/iEmTwOkUaLziMQCUZii5wPQBIAO.jpg",
+      "title": "Office Space",
+      "year": 1999
+    },
+    "The Green Mile": {
+      "id": 497,
+      "poster": "/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+      "title": "The Green Mile",
+      "year": 1999
+    },
+    "Girl, Interrupted": {
+      "id": 3558,
+      "poster": "/dOBdatHIVppvmRFw2z7bf9VKJr9.jpg",
+      "title": "Girl, Interrupted",
+      "year": 1999
+    },
+    "The Hurricane": {
+      "id": 10400,
+      "poster": "/zhnxjsNnnpsBMF5V1H7Pzkec45Y.jpg",
+      "title": "The Hurricane",
+      "year": 1999
+    },
+    "Star Wars: Episode I - The Phantom Menace": {
+      "id": 1893,
+      "poster": "/xQzMnuiv81d0gfUIVstuleNutjA.jpg",
+      "title": "Star Wars: Episode I - The Phantom Menace",
+      "year": 1999
+    },
+    "Toy Story 2": {
+      "id": 863,
+      "poster": "/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
+      "title": "Toy Story 2",
+      "year": 1999
+    },
+    "American Pie": {
+      "id": 2105,
+      "poster": "/5P68by2Thn8wHAziyWGEw2O7hco.jpg",
+      "title": "American Pie",
+      "year": 1999
+    },
+    "Austin Powers: The Spy Who Shagged Me": {
+      "id": 817,
+      "poster": "/jiF7UShERJFn5RtgfBK2lIJrOTc.jpg",
+      "title": "Austin Powers: The Spy Who Shagged Me",
+      "year": 1999
+    },
+    "The Mummy": {
+      "id": 564,
+      "poster": "/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg",
+      "title": "The Mummy",
+      "year": 1999
+    },
+    "The World Is Not Enough": {
+      "id": 36643,
+      "poster": "/wCb2msgoZPK01WIqry24M4xsM73.jpg",
+      "title": "The World Is Not Enough",
+      "year": 1999
+    },
+    "Pokémon: The First Movie": {
+      "id": 10228,
+      "poster": "/6YPzBcMH0aPNTvdXNCDLY0zdE1g.jpg",
+      "title": "Pokémon: The First Movie",
+      "year": 1998
+    },
+    "The Sixth Sense": {
+      "id": 745,
+      "poster": "/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg",
+      "title": "The Sixth Sense",
+      "year": 1999
+    },
+    "Bringing Out the Dead": {
+      "id": 8649,
+      "poster": "/gE2Q8mL0m0EA6HakRyc92uzSPJn.jpg",
+      "title": "Bringing Out the Dead",
+      "year": 1999
+    },
+    "Summer of Sam": {
+      "id": 10279,
+      "poster": "/yvGGA2CbT6xyFVTZUA9f2ok0q5V.jpg",
+      "title": "Summer of Sam",
+      "year": 1999
+    },
+    "Music of the Heart": {
+      "id": 26149,
+      "poster": "/yKbzT8q9b65hc1eIZxuRsLxopi7.jpg",
+      "title": "Music of the Heart",
+      "year": 1999
+    },
+    "True Crime": {
+      "id": 10354,
+      "poster": "/ozrV1xtwU3Y5XOFuVn9T00ZYoiV.jpg",
+      "title": "True Crime",
+      "year": 1999
+    },
+    "Sleepy Hollow": {
+      "id": 2668,
+      "poster": "/1GuK965FLJxqUw9fd1pmvjbFAlv.jpg",
+      "title": "Sleepy Hollow",
+      "year": 1999
+    },
+    "Gloria": {
+      "id": 45712,
+      "poster": "/1AKAfnT3nm7asU9qyNT6gtS1vbe.jpg",
+      "title": "Gloria",
+      "year": 1999
+    },
+    "The Muse": {
+      "id": 37718,
+      "poster": "/hmtvDW52V3EuFmbhTOLjaGMYCDx.jpg",
+      "title": "The Muse",
+      "year": 1999
+    },
+    "The Straight Story": {
+      "id": 404,
+      "poster": "/tT9cMiVDdtlcdZxOoFy3VRmEoKk.jpg",
+      "title": "The Straight Story",
+      "year": 1999
+    },
+    "Random Hearts": {
+      "id": 12618,
+      "poster": "/k7LoKDWDesvYD7DXDh9Ewlxtcx8.jpg",
+      "title": "Random Hearts",
+      "year": 1999
+    },
+    "Mumford": {
+      "id": 24071,
+      "poster": "/a2uqenG3BZICDrcrr49IZwoHA8Y.jpg",
+      "title": "Mumford",
+      "year": 1999
+    },
+    "Cruel Intentions": {
+      "id": 796,
+      "poster": "/76cCsRtQ5MJBAqoigojXsLXLJwh.jpg",
+      "title": "Cruel Intentions",
+      "year": 1999
+    },
+    "She's All That": {
+      "id": 10314,
+      "poster": "/a0pepZNFCjggc7Na9gEwbTI1f46.jpg",
+      "title": "She's All That",
+      "year": 1999
+    },
+    "Never Been Kissed": {
+      "id": 11355,
+      "poster": "/6BngDhDNfbBjhVFWDT2yMve32vi.jpg",
+      "title": "Never Been Kissed",
+      "year": 1999
+    },
+    "Varsity Blues": {
+      "id": 14709,
+      "poster": "/g2jX2Xmx7drbc6J9MLJEBghR7Mg.jpg",
+      "title": "Varsity Blues",
+      "year": 1999
+    },
+    "Jawbreaker": {
+      "id": 18892,
+      "poster": "/7YrxXoG25hVCK4nYDHQv9YIk3Ye.jpg",
+      "title": "Jawbreaker",
+      "year": 1999
+    },
+    "Any Given Sunday": {
+      "id": 9563,
+      "poster": "/bysZeUvSPZPJnku4qkHF34CdgMG.jpg",
+      "title": "Any Given Sunday",
+      "year": 1999
+    },
+    "For Love of the Game": {
+      "id": 10390,
+      "poster": "/vkeKxoSXE1qMArcFNTNBBH8TjKZ.jpg",
+      "title": "For Love of the Game",
+      "year": 1999
+    },
+    "Mystery, Alaska": {
+      "id": 15198,
+      "poster": "/bmg4sjOQswcrP5mPL9YzNom9cXx.jpg",
+      "title": "Mystery, Alaska",
+      "year": 1999
+    },
+    "Big Daddy": {
+      "id": 9032,
+      "poster": "/lEYg1X8RjqNB5NWEtodcbK7vm1G.jpg",
+      "title": "Big Daddy",
+      "year": 1999
+    },
+    "Deep Blue Sea": {
+      "id": 8914,
+      "poster": "/fyn0zyCI4kIlbDoHH0Hzv09hDC5.jpg",
+      "title": "Deep Blue Sea",
+      "year": 1999
+    },
+    "Lake Placid": {
+      "id": 9825,
+      "poster": "/pEszakCP8j9E9S0UPLfEa3Cad3O.jpg",
+      "title": "Lake Placid",
+      "year": 1999
+    },
+    "Run Lola Run": {
+      "id": 104,
+      "poster": "/v0giIi4bTILVhNhJajet3WWY3FA.jpg",
+      "title": "Run Lola Run",
+      "year": 1998
+    },
+    "All About My Mother": {
+      "id": 99,
+      "poster": "/hjQhzhkGYXPNM96k0mOgob6HMmn.jpg",
+      "title": "All About My Mother",
+      "year": 1999
+    }
+  },
+  "spotifyEpisodeId": "2OpPrfniS21gCj6NCf34Vi"
+}

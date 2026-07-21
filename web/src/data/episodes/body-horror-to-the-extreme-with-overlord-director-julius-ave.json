@@ -1,0 +1,403 @@
+{
+  "slug": "body-horror-to-the-extreme-with-overlord-director-julius-ave",
+  "title": "Body Horror to the Extreme With ‘Overlord’ Director Julius Avery | Interview (Ep. 96)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Chris Ryan"
+  ],
+  "published": "2018-11-09",
+  "runtimeMin": 45,
+  "format": "Sean Fennessey and Chris Ryan trace the body-horror canon, then Sean talks to Julius Avery about making the Nazi-zombie war movie Overlord.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "What makes good gore",
+      "note": "with Chris Ryan",
+      "films": [
+        {
+          "title": "The Thing",
+          "year": 1982,
+          "note": "Ryan's platonic ideal: Carpenter marries atmosphere to the worst thing that could happen in the worst place for it."
+        },
+        {
+          "title": "Overlord",
+          "year": 2018,
+          "note": "The Bad Robot war movie that pushed Sean to book the conversation; starts as Saving Private Ryan, ends up somewhere much grosser."
+        },
+        {
+          "title": "Suspiria",
+          "year": 1977,
+          "note": "Argento uses violence as color; they bring up Guadagnino's new remake as the weekend double bill."
+        },
+        {
+          "title": "Deep Red",
+          "year": 1975,
+          "note": "Also cited as Profondo Rosso; the Argento slasher where color carries a metaphysical charge."
+        },
+        {
+          "title": "Tenebrae",
+          "year": 1982
+        },
+        {
+          "title": "Jaws",
+          "year": 1975,
+          "note": "Quint's death as the moment the slight-of-hand drops and you see what being eaten actually looks like."
+        },
+        {
+          "title": "The Raid",
+          "year": 2011,
+          "note": "Gareth Evans; the face-cutting Ryan can watch without flinching."
+        },
+        {
+          "title": "Apostle",
+          "year": 2018,
+          "note": "Evans again, with Dan Stevens and Michael Sheen; the torture scenes sit right at Ryan's edge."
+        },
+        {
+          "title": "The Last House on the Left",
+          "year": 1972,
+          "note": "The over-the-line subgenre they say has mostly disappeared."
+        },
+        {
+          "title": "I Spit on Your Grave",
+          "year": 1978
+        },
+        {
+          "title": "Straw Dogs",
+          "year": 1971
+        },
+        {
+          "title": "The Strangers",
+          "year": 2008
+        },
+        {
+          "title": "Cannibal Holocaust",
+          "year": 1980,
+          "note": "Their example of the most grotesque, in part for the real animal killings."
+        },
+        {
+          "title": "Alien",
+          "year": 1979,
+          "note": "The chestburster works because it's about what's happening, not because it repeats four times a movie."
+        },
+        {
+          "title": "Raiders of the Lost Ark",
+          "year": 1981,
+          "note": "Gruesome once you get to the Ark; the phantasmagorical streak Overlord shares."
+        },
+        {
+          "title": "eXistenZ",
+          "year": 1999,
+          "note": "Cronenberg, whom Ryan calls a better influence than a frequent watch."
+        },
+        {
+          "title": "Crash",
+          "year": 1996,
+          "note": "The J.G. Ballard car-crash adaptation."
+        },
+        {
+          "title": "The Fly",
+          "year": 1986
+        },
+        {
+          "title": "A History of Violence",
+          "year": 2005,
+          "note": "The later Cronenberg mode Ryan actually returns to."
+        },
+        {
+          "title": "Eastern Promises",
+          "year": 2007
+        },
+        {
+          "title": "Cloverfield",
+          "year": 2008,
+          "note": "Overlord was rumored to join the mythology and ultimately didn't."
+        },
+        {
+          "title": "The Cloverfield Paradox",
+          "year": 2018,
+          "note": "The hiccup in Abrams's whole-cloth universe-building."
+        },
+        {
+          "title": "Avatar",
+          "year": 2009,
+          "note": "Floated as the next franchise built from scratch, if it ever ships enough product."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Julius Avery on ‘Overlord’",
+      "guest": "Julius Avery on",
+      "films": [
+        {
+          "title": "Overlord",
+          "year": 2018,
+          "note": "Avery's note to himself halfway through the red-paper script: completely bonkers Indiana Jones on acid. Shot in-camera and practical, with a first-person plane-bailout long take he had no coverage for."
+        },
+        {
+          "title": "Son of a Gun",
+          "year": 2014,
+          "note": "His Perth prison-heist debut with Ewan McGregor and Alicia Vikander, loosely his own story; the letter he wrote McGregor got a yes over a weekend."
+        },
+        {
+          "title": "Saving Private Ryan",
+          "year": 1998,
+          "note": "The D-Day benchmark he had to answer with Overlord's aerial opening."
+        },
+        {
+          "title": "Big Trouble in Little China",
+          "year": 1986,
+          "note": "His favorite Carpenter, for how it threads action, drama, and horror together."
+        },
+        {
+          "title": "Macbeth",
+          "year": 2015,
+          "note": "By his film-school classmate Justin Kurzel."
+        },
+        {
+          "title": "2001: A Space Odyssey",
+          "year": 1968,
+          "note": "Cited as proof the space problems can be solved, with Flash Gordon ahead."
+        },
+        {
+          "title": "Mission: Impossible - Fallout",
+          "year": 2018,
+          "note": "His last-great-thing; the closing helicopter sequence he calls next level."
+        },
+        {
+          "title": "Roma",
+          "year": 2018
+        },
+        {
+          "title": "The Ballad of Buster Scruggs",
+          "year": 2018
+        },
+        {
+          "title": "Outlaw King",
+          "year": 2018
+        }
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Tenebrae": 29702,
+    "I Spit on Your Grave": 25239
+  },
+  "excluded": {
+    "TV": [
+      "Homecoming",
+      "The Good Place",
+      "True Detective"
+    ],
+    "Games": [
+      "Fortnite"
+    ],
+    "Shorts": [
+      "Little Man",
+      "Jerry Can"
+    ],
+    "In development": [
+      "Flash Gordon"
+    ],
+    "Podcasts": [
+      "Binge Mode"
+    ]
+  },
+  "tmdb": {
+    "The Thing": {
+      "id": 1091,
+      "poster": "/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+      "title": "The Thing",
+      "year": 1982
+    },
+    "Overlord": {
+      "id": 438799,
+      "poster": "/l76Rgp32z2UxjULApxGXAPpYdAP.jpg",
+      "title": "Overlord",
+      "year": 2018
+    },
+    "Suspiria": {
+      "id": 11906,
+      "poster": "/sEcvc9h1X3hYZdFgtiiKMm6RB3f.jpg",
+      "title": "Suspiria",
+      "year": 1977
+    },
+    "Deep Red": {
+      "id": 20126,
+      "poster": "/wq7RxV5gMvgO0EKeWpNhegnpJBh.jpg",
+      "title": "Deep Red",
+      "year": 1975
+    },
+    "Tenebrae": {
+      "id": 29702,
+      "poster": "/uWNCyUX9sjtnhleqyw2W5ECijlP.jpg",
+      "title": "Tenebre",
+      "year": 1982
+    },
+    "Jaws": {
+      "id": 578,
+      "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "title": "Jaws",
+      "year": 1975
+    },
+    "The Raid": {
+      "id": 94329,
+      "poster": "/Abnm1Ws3JH0ReCfEhLMPwPcMcGO.jpg",
+      "title": "The Raid",
+      "year": 2012
+    },
+    "Apostle": {
+      "id": 424121,
+      "poster": "/rd269f2Yftxxam3EOJPYVwrvjIJ.jpg",
+      "title": "Apostle",
+      "year": 2018
+    },
+    "The Last House on the Left": {
+      "id": 15516,
+      "poster": "/qyTqXz1C7kPgWmxcD5otQ7xlrJP.jpg",
+      "title": "The Last House on the Left",
+      "year": 1972
+    },
+    "I Spit on Your Grave": {
+      "id": 25239,
+      "poster": "/nMCkOo26GtISoxJmpkTAJyMqBO8.jpg",
+      "title": "Day of the Woman",
+      "year": 1978
+    },
+    "Straw Dogs": {
+      "id": 994,
+      "poster": "/yigkfHE1OhkxPPrjrV78Y9ibGEk.jpg",
+      "title": "Straw Dogs",
+      "year": 1971
+    },
+    "The Strangers": {
+      "id": 10665,
+      "poster": "/gwsg4qFmLOvlhwXj4OZuxfFUdP0.jpg",
+      "title": "The Strangers",
+      "year": 2008
+    },
+    "Cannibal Holocaust": {
+      "id": 8689,
+      "poster": "/otxZzMh53TsN7yYFqSZ3rwH1yMd.jpg",
+      "title": "Cannibal Holocaust",
+      "year": 1980
+    },
+    "Alien": {
+      "id": 348,
+      "poster": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "title": "Alien",
+      "year": 1979
+    },
+    "Raiders of the Lost Ark": {
+      "id": 85,
+      "poster": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+      "title": "Raiders of the Lost Ark",
+      "year": 1981
+    },
+    "eXistenZ": {
+      "id": 1946,
+      "poster": "/kETKF0JhdTPn1knci8CAdYL0d79.jpg",
+      "title": "eXistenZ",
+      "year": 1999
+    },
+    "Crash": {
+      "id": 884,
+      "poster": "/gpai5oUFyFGLHOCsYTvVMqlbY7A.jpg",
+      "title": "Crash",
+      "year": 1996
+    },
+    "The Fly": {
+      "id": 9426,
+      "poster": "/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg",
+      "title": "The Fly",
+      "year": 1986
+    },
+    "A History of Violence": {
+      "id": 59,
+      "poster": "/3qnO72NHmUgs9JZXAmu4aId9QDl.jpg",
+      "title": "A History of Violence",
+      "year": 2005
+    },
+    "Eastern Promises": {
+      "id": 2252,
+      "poster": "/nLwv1pxRCRZucQaqs6oPkq7HH3K.jpg",
+      "title": "Eastern Promises",
+      "year": 2007
+    },
+    "Cloverfield": {
+      "id": 7191,
+      "poster": "/qIegUGJqyMMCRjkKV1s7A9MqdJ8.jpg",
+      "title": "Cloverfield",
+      "year": 2008
+    },
+    "The Cloverfield Paradox": {
+      "id": 384521,
+      "poster": "/vJi2ExTcWdJR3150VPKqqtdGxsT.jpg",
+      "title": "The Cloverfield Paradox",
+      "year": 2018
+    },
+    "Avatar": {
+      "id": 19995,
+      "poster": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "title": "Avatar",
+      "year": 2009
+    },
+    "Son of a Gun": {
+      "id": 294652,
+      "poster": "/yRLVyhQfkW2hn15e8NIqarswLAr.jpg",
+      "title": "Son of a Gun",
+      "year": 2014
+    },
+    "Saving Private Ryan": {
+      "id": 857,
+      "poster": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+      "title": "Saving Private Ryan",
+      "year": 1998
+    },
+    "Big Trouble in Little China": {
+      "id": 6978,
+      "poster": "/rCy3CFJfWVBSyiVcFOQMcMAh5R2.jpg",
+      "title": "Big Trouble in Little China",
+      "year": 1986
+    },
+    "Macbeth": {
+      "id": 225728,
+      "poster": "/a5NEpil29Uns1wEYF8k99qVgj1T.jpg",
+      "title": "Macbeth",
+      "year": 2015
+    },
+    "2001: A Space Odyssey": {
+      "id": 62,
+      "poster": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "title": "2001: A Space Odyssey",
+      "year": 1968
+    },
+    "Mission: Impossible - Fallout": {
+      "id": 353081,
+      "poster": "/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+      "title": "Mission: Impossible - Fallout",
+      "year": 2018
+    },
+    "Roma": {
+      "id": 426426,
+      "poster": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+      "title": "Roma",
+      "year": 2018
+    },
+    "The Ballad of Buster Scruggs": {
+      "id": 537996,
+      "poster": "/voxl654m7p36y8FLu8oQD7dfwwK.jpg",
+      "title": "The Ballad of Buster Scruggs",
+      "year": 2018
+    },
+    "Outlaw King": {
+      "id": 454227,
+      "poster": "/rT49ousKUWN3dV7UlhaC9onTNdl.jpg",
+      "title": "Outlaw King",
+      "year": 2018
+    }
+  }
+}

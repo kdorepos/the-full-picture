@@ -1,0 +1,996 @@
+{
+  "slug": "year-end-mailbag-the-top-10-performances-trailers-and-needle",
+  "title": "Year-End Mailbag! The Top 10 Performances, Trailers, and Needle Drops of 2021",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Bobby Wagner"
+  ],
+  "published": "2021-12-30",
+  "runtimeMin": 83,
+  "format": "Sean and Amanda run dueling top-five performance lists to close out 2021, then Bobby Wagner joins for a mailbag on repertory double features, trailer hype, needle drops, and who deserves Best Picture.",
+  "segments": [
+    {
+      "kind": "topfive",
+      "heading": "Sean's Top Five Performances of 2021",
+      "note": "No. 1 first",
+      "subject": "performances of 2021",
+      "ranked": true,
+      "films": [
+        {
+          "title": "C'mon C'mon",
+          "year": 2021,
+          "note": "No. 1 - Joaquin Phoenix as an uncle turned stand-in father, playing off newcomer Woody Norman. \"Always nice to have him acting like a human being and not a clown prince of crime.\""
+        },
+        {
+          "title": "The Last Duel",
+          "year": 2021,
+          "note": "No. 2 - really a pick for Ben Affleck's whole year (the Snyder Cut, the JLo reunion, the Bill Simmons snub), but his underrated work here, playing a part he co-wrote with self-aware humor about his own celebrity, is the anchor."
+        },
+        {
+          "title": "No Time to Die",
+          "year": 2021,
+          "note": "No. 3 - Ana de Armas walks away with the movie in a single scene. \"She just absolutely blew that scene out of the water.\""
+        },
+        {
+          "title": "Black Widow",
+          "year": 2021,
+          "note": "No. 4 - Florence Pugh eating Scarlett Johansson's lunch, then doing it again across Hawkeye."
+        },
+        {
+          "title": "The Green Knight",
+          "year": 2021,
+          "note": "No. 5 - Dev Patel as a \"sad fail son who becomes a knight,\" holding together a movie that's trying to undermine its own genre."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Amanda's Top Five Performances of 2021",
+      "note": "No. 1 first",
+      "subject": "performances of 2021",
+      "ranked": true,
+      "films": [
+        {
+          "title": "The Worst Person in the World",
+          "year": 2021,
+          "note": "No. 1 - Renate Reinsve running the emotional gamut of turning 30. Barely seen in the U.S. yet, but the year's best performance nobody can watch."
+        },
+        {
+          "title": "Pig",
+          "year": 2021,
+          "note": "No. 2 - Nicolas Cage as a man looking for his kidnapped pig. \"It doesn't work without him\" - credit the restraint and physical bearing, beyond the dinner-scene monologue everyone quotes."
+        },
+        {
+          "title": "Zola",
+          "year": 2021,
+          "note": "No. 3 - Colman Domingo playing a pimp and hustler in two personas at once. \"He does sinister really, really well.\""
+        },
+        {
+          "title": "Red Rocket",
+          "year": 2021,
+          "note": "No. 4 - Simon Rex as a washed-up porn star back in his Texas hometown. A charismatic scumbag performance with no easy comparison."
+        },
+        {
+          "title": "The Lost Daughter",
+          "year": 2021,
+          "note": "No. 5 - Jessie Buckley and Dagmara Domińczyk as, respectively, the young version of Olivia Colman's character and a pregnant beach interloper. Two supporting turns in one slot."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Honorable mentions",
+      "note": "the ones that didn't make the top five",
+      "films": [
+        {
+          "title": "The Night House",
+          "year": 2021,
+          "note": "Rebecca Hall, all in on an upsetting horror film."
+        },
+        {
+          "title": "Passing",
+          "year": 2021,
+          "note": "Ruth Negga, directed by Rebecca Hall, trending toward a Best Supporting Actress nomination."
+        },
+        {
+          "title": "Dune",
+          "year": 2021,
+          "note": "Jason Momoa as Duncan Idaho, the only one who seems to be having fun. Also a nod to Timothée Chalamet for not screwing up Paul Atreides, and to Denis Villeneuve for being right about theaters."
+        },
+        {
+          "title": "Licorice Pizza",
+          "year": 2021,
+          "note": "Alana Haim - \"a really well-directed performance,\" better on a second viewing."
+        },
+        {
+          "title": "Parallel Mothers",
+          "year": 2021,
+          "note": "Penélope Cruz, a Best Actress possibility even without Spain's submission behind her."
+        },
+        {
+          "title": "King Richard",
+          "year": 2021,
+          "note": "Will Smith and Aunjanue Ellis, plus a shout to Jon Bernthal in a small role."
+        },
+        {
+          "title": "House of Gucci",
+          "year": 2021,
+          "note": "Lady Gaga and Jared Leto going full more-is-more."
+        },
+        {
+          "title": "tick, tick... BOOM!",
+          "year": 2021,
+          "note": "Andrew Garfield's twofer year, part one."
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "year": 2021,
+          "note": "Andrew Garfield's twofer year, part two - deeply touching work everyone's been texting about."
+        },
+        {
+          "title": "West Side Story",
+          "year": 2021,
+          "note": "Ariana DeBose, a lock for recognition, and Mike Faist, whom the hosts had heard was quitting acting for van life (he isn't)."
+        },
+        {
+          "title": "The Suicide Squad",
+          "year": 2021,
+          "note": "John Cena - \"he really got the assignment.\""
+        },
+        {
+          "title": "Nobody",
+          "year": 2021,
+          "note": "Bob Odenkirk, trained and different enough from Saul Goodman to make it work."
+        },
+        {
+          "title": "Shiva Baby",
+          "year": 2020,
+          "note": "Rachel Sennott, a sweaty, anxious screen style unlike anyone else's."
+        },
+        {
+          "title": "Old",
+          "year": 2021,
+          "note": "Vicky Krieps, good enough that the hosts want her cast in more mainstream work despite the movie's magic-ending problem."
+        },
+        {
+          "title": "Bergman Island",
+          "year": 2021,
+          "note": "Vicky Krieps again, in a movie Amanda loved this year."
+        },
+        {
+          "title": "Drive My Car",
+          "year": 2021,
+          "note": "Hidetoshi Nishijima - \"probably the performance of the year that has no chance to be recognized,\" a restrained director holding back until the movie's center explodes."
+        },
+        {
+          "title": "Bo Burnham: Inside",
+          "year": 2021,
+          "note": "Bo Burnham, treated as a movie performance even though the hosts flip-flop on whether it counts as one."
+        },
+        {
+          "title": "Belfast",
+          "year": 2021,
+          "note": "Ciarán Hinds gets the pick over Judi Dench's fourteen Oscar nominations; Jamie Dornan and Caitríona Balfe get a nod for being distractingly attractive parents."
+        },
+        {
+          "title": "Mass",
+          "year": 2021,
+          "note": "Ann Dowd, the standout of a very upsetting Fran Kranz film about the parents of a school shooter and a victim."
+        },
+        {
+          "title": "Those Who Wish Me Dead",
+          "year": 2021,
+          "note": "Jon Bernthal, part of a busy year that also included The Many Saints of Newark, Small Engine Repair, and a trailer for The Unforgivable."
+        },
+        {
+          "title": "Shang-Chi and the Legend of the Ten Rings",
+          "year": 2021,
+          "note": "Tony Leung - \"the superpower of that film,\" no stranger to crime pictures, new to dragons."
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "heading": "Three movies to explain the 2010s to an alien",
+      "note": "Jason's question",
+      "picks": [
+        {
+          "title": "The Matrix",
+          "year": 1999,
+          "by": "Sean",
+          "note": "\"A loaded and really prescient text.\""
+        },
+        {
+          "title": "Hillbilly Elegy",
+          "year": 2020,
+          "by": "Sean",
+          "note": "The unintentional-capture-of-a-terrible-country pick. Sean watched it election night 2020 and has no regrets."
+        },
+        {
+          "title": "The Master",
+          "year": 2012,
+          "by": "Sean",
+          "note": "Idolatry and false prophets as a defining theme of the decade."
+        },
+        {
+          "title": "Manchester by the Sea",
+          "year": 2016,
+          "by": "Amanda",
+          "note": "\"Fuck, what have we done? What is our life?\""
+        },
+        {
+          "title": "Get Out",
+          "year": 2017,
+          "by": "Amanda",
+          "note": "Number one for how it captures power, race, and delusion."
+        },
+        {
+          "title": "The Big Short",
+          "year": 2015,
+          "by": "Bobby",
+          "note": "\"Everything in the world is the Big Short.\""
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "heading": "Worst movie moment of the year",
+      "note": "Derek's question",
+      "picks": [
+        {
+          "title": "Dear Evan Hansen",
+          "year": 2021,
+          "by": "Amanda",
+          "note": "The first time anyone starts singing, and every time after."
+        },
+        {
+          "title": "Cinderella",
+          "year": 2021,
+          "by": "Amanda",
+          "note": "Same problem, different musical."
+        },
+        {
+          "title": "Free Guy",
+          "year": 2021,
+          "by": "Sean",
+          "note": "Referencing an already-litigated take."
+        },
+        {
+          "title": "Space Jam: A New Legacy",
+          "year": 2021,
+          "by": "Sean",
+          "note": "LeBron James sucked into the Warner Bros. multiverse. \"It's so painful.\""
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The Big Picture's own repertory theater",
+      "note": "Drew's question - opening night double (or triple) feature",
+      "films": [
+        {
+          "title": "Heat",
+          "year": 1995,
+          "note": "Chris Ryan's imagined opener, paired with itself and a Den of Thieves chaser."
+        },
+        {
+          "title": "Den of Thieves",
+          "year": 2018,
+          "note": "The chaser to Chris Ryan's Heat double."
+        },
+        {
+          "title": "Moneyball",
+          "year": 2011,
+          "note": "Sean and Amanda's actual pick - the movie they've talked about and returned to the most."
+        },
+        {
+          "title": "The Social Network",
+          "year": 2010,
+          "note": "Paired with Moneyball as most representative of the show."
+        },
+        {
+          "title": "Zack Snyder's Justice League",
+          "year": 2021,
+          "note": "Bobby's suggested third film. Vetoed."
+        },
+        {
+          "title": "Once Upon a Time in Hollywood",
+          "year": 2019,
+          "note": "Bobby's alternate new-beverly-style suggestion."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Zach's birthday rom-com homework",
+      "note": "picking between Roman Holiday, Broadcast News, and Something's Gotta Give",
+      "films": [
+        {
+          "title": "Roman Holiday",
+          "year": 1953,
+          "note": "Sean's least essential of the three - delightful, but skippable."
+        },
+        {
+          "title": "Broadcast News",
+          "year": 1987,
+          "note": "Sean's recommendation as a foundation text before the more modern picks."
+        },
+        {
+          "title": "Something's Gotta Give",
+          "year": 2003,
+          "note": "Amanda's answer - the quintessential Nancy Meyers movie, Diane Keaton, Jack Nicholson, a Hamptons house, and that opening needle drop."
+        },
+        {
+          "title": "Down with Love",
+          "year": 2003,
+          "note": "Amanda's bonus pick - Peyton Reed's Doris Day riff."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Sean's movie poster collection",
+      "note": "Andy's question",
+      "films": [
+        {
+          "title": "Sweet Smell of Success",
+          "year": 1957,
+          "note": "The one poster currently hanging - Sean's favorite screenplay of all time."
+        },
+        {
+          "title": "Network",
+          "year": 1976,
+          "note": "Sean's favorite item he owns, never hung: an oversized French poster his wife bought him on their honeymoon."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Trailers that lived up to the hype",
+      "note": "Jennifer's question",
+      "films": [
+        {
+          "title": "House of Gucci",
+          "year": 2021,
+          "note": "\"Needed to be two plus hours of the trailer\" - and delivered."
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "year": 2021,
+          "note": "The movie somehow topped an already-hyped trailer."
+        },
+        {
+          "title": "Judas and the Black Messiah",
+          "year": 2021,
+          "note": "A 2020-trailer, 2021-release title with one of the great trailers of the last five years."
+        },
+        {
+          "title": "The Batman",
+          "year": 2022,
+          "note": "The best trailer of the year for a movie that hadn't come out yet, set to Nirvana's \"Something in the Way.\""
+        },
+        {
+          "title": "Zola",
+          "year": 2021,
+          "note": "Self-contained, and it captures the whole film."
+        },
+        {
+          "title": "Red Rocket",
+          "year": 2021,
+          "note": "Same praise as Zola - a trailer that nails the movie's tone."
+        },
+        {
+          "title": "Licorice Pizza",
+          "year": 2021,
+          "note": "Paul Thomas Anderson cuts his own trailers. \"Perfect trailer.\""
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "One movie we'd give a do-over",
+      "note": "Spencer's question",
+      "films": [
+        {
+          "title": "Spencer",
+          "year": 2021,
+          "note": "Sean's pick, for the pun as much as anything - advice: \"have somebody else make it.\""
+        },
+        {
+          "title": "In the Heights",
+          "year": 2021,
+          "note": "Amanda's pick - wanted it to work, and it mostly does, but it's a little disappointing."
+        },
+        {
+          "title": "The Woman in the Window",
+          "year": 2021,
+          "note": "Too much talent involved for a thriller that needed a satisfying reveal and didn't have one."
+        },
+        {
+          "title": "Beckett",
+          "year": 2021,
+          "note": "John David Washington's Netflix thriller - the kind of setup that should've been a Rewatchables staple, minus the follow-through."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Favorite needle drops of the year",
+      "note": "Byronic Hero's question",
+      "films": [
+        {
+          "title": "Spencer",
+          "year": 2021,
+          "note": "\"All I Need Is a Miracle\" by Mike + The Mechanics, closing the film."
+        },
+        {
+          "title": "The Night House",
+          "year": 2021,
+          "note": "\"The Cavalry Cross\" by Richard and Linda Thompson, a recurring cue signaling the late husband's presence."
+        },
+        {
+          "title": "Bergman Island",
+          "year": 2021,
+          "note": "ABBA's \"The Winner Takes It All,\" Mia Wasikowska dancing around a fire scene."
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "year": 2021,
+          "note": "De La Soul's \"The Magic Number\" over the end credits - a riff on \"Three Is a Magic Number\" for a movie with three Spider-Men."
+        },
+        {
+          "title": "Titane",
+          "year": 2021,
+          "note": "\"Doing It to Death\" and \"She's Not There\" both feature."
+        },
+        {
+          "title": "Red Rocket",
+          "year": 2021,
+          "note": "*NSYNC's \"Bye Bye Bye,\" switching from a haunted girls'-chorus cover to the real thing."
+        },
+        {
+          "title": "Last Night in Soho",
+          "year": 2021,
+          "note": "The original James Ray recording of \"I've Got My Mind Set on You,\" scoring a dance sequence with Matt Smith and Anya Taylor-Joy."
+        },
+        {
+          "title": "Judas and the Black Messiah",
+          "year": 2021,
+          "note": "The Outlaw Blues Band's \"Deep Gully\" as Daniel Kaluuya's character enters the club."
+        },
+        {
+          "title": "Zola",
+          "year": 2021,
+          "note": "The Clickettes' doo-wop \"Because of My Best Friend,\" secretly the film's whole theme."
+        },
+        {
+          "title": "Licorice Pizza",
+          "year": 2021,
+          "note": "\"Let Me Roll It\" - the number-one pick, spoiled on the show many times already."
+        },
+        {
+          "title": "House of Gucci",
+          "year": 2021,
+          "note": "George Michael's \"Faith\" as Lady Gaga walks down the aisle, straight out of full-on opera."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Best (and worst) Best Picture winner for the industry",
+      "note": "Dalton's question",
+      "films": [
+        {
+          "title": "Free Guy",
+          "year": 2021,
+          "note": "The hoped-against worst-case winner."
+        },
+        {
+          "title": "Eternals",
+          "year": 2021,
+          "note": "The other worst-case answer."
+        },
+        {
+          "title": "Dune",
+          "year": 2021,
+          "note": "The Mad Max: Fury Road comparison - a real visual achievement people actually saw, but still IP winning the top prize."
+        },
+        {
+          "title": "The Power of the Dog",
+          "year": 2021,
+          "note": "Bobby's pick to win, and a plausible one - Netflix's first potential Best Picture, though back-to-back streaming-era winners (after Nomadland) is a mixed signal for theatrical."
+        },
+        {
+          "title": "Belfast",
+          "year": 2021,
+          "note": "Part of the late-search conversation alongside Power of the Dog."
+        },
+        {
+          "title": "King Richard",
+          "year": 2021,
+          "note": "A possible late surge - flatters and subverts the Academy's sensibilities at once."
+        },
+        {
+          "title": "Don't Look Up",
+          "year": 2021,
+          "note": "The hypothetical none of them would actually cheer for."
+        },
+        {
+          "title": "West Side Story",
+          "year": 2021,
+          "note": "Amanda's actual worst-case winner - a remake of a musical that already won, that barely anyone saw in theaters."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Mandy",
+        "Joker",
+        "Candyman",
+        "Fast Five",
+        "The Wolf of Wall Street",
+        "Mad Max: Fury Road",
+        "Titanic"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Hawkeye",
+      "Succession",
+      "Fear the Walking Dead",
+      "Euphoria",
+      "Homicide: Life on the Street",
+      "Sports Night",
+      "The West Wing",
+      "Westworld"
+    ],
+    "Music": [
+      "Sour (Olivia Rodrigo album)"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "Netflix FIFA World Cup Launch Edition"
+    ],
+    "Cross-promo": [
+      "Ring or Dish (Ringer podcast promo)"
+    ]
+  },
+  "tmdbOverrides": {
+    "Candyman": 565028
+  },
+  "tmdb": {
+    "C'mon C'mon": {
+      "id": 632617,
+      "poster": "/1oOyJsdcJnnE7cl9bZdUQvBjKNH.jpg",
+      "title": "C'mon C'mon",
+      "year": 2021
+    },
+    "The Last Duel": {
+      "id": 617653,
+      "poster": "/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg",
+      "title": "The Last Duel",
+      "year": 2021
+    },
+    "No Time to Die": {
+      "id": 370172,
+      "poster": "/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+      "title": "No Time to Die",
+      "year": 2021
+    },
+    "Black Widow": {
+      "id": 497698,
+      "poster": "/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+      "title": "Black Widow",
+      "year": 2021
+    },
+    "The Green Knight": {
+      "id": 559907,
+      "poster": "/if4hw3Ou5Sav9Em7WWHj66mnywp.jpg",
+      "title": "The Green Knight",
+      "year": 2021
+    },
+    "The Worst Person in the World": {
+      "id": 660120,
+      "poster": "/1NxGNQchGBTHXJ6RShLY1IlZqWn.jpg",
+      "title": "The Worst Person in the World",
+      "year": 2021
+    },
+    "Pig": {
+      "id": 635731,
+      "poster": "/1InMm4Mbjx8wCKvIy5gglo5i3HN.jpg",
+      "title": "Pig",
+      "year": 2021
+    },
+    "Zola": {
+      "id": 539565,
+      "poster": "/bJLCPROp9bmNndurwZpVnOioVpB.jpg",
+      "title": "Zola",
+      "year": 2021
+    },
+    "Red Rocket": {
+      "id": 763329,
+      "poster": "/345gLhiNpItU1ICx8OxJQwjgPmH.jpg",
+      "title": "Red Rocket",
+      "year": 2021
+    },
+    "The Lost Daughter": {
+      "id": 554230,
+      "poster": "/t1oLNRFixpFOVsyz1HCqCUW3wiW.jpg",
+      "title": "The Lost Daughter",
+      "year": 2021
+    },
+    "The Night House": {
+      "id": 547565,
+      "poster": "/rqs2CXpc4d5FzeP1EZCYItAVo81.jpg",
+      "title": "The Night House",
+      "year": 2021
+    },
+    "Passing": {
+      "id": 541524,
+      "poster": "/t4tYUT1oSWOP6XKZBoclPAG96KP.jpg",
+      "title": "Passing",
+      "year": 2021
+    },
+    "Dune": {
+      "id": 438631,
+      "poster": "/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "title": "Dune",
+      "year": 2021
+    },
+    "Licorice Pizza": {
+      "id": 718032,
+      "poster": "/ivXtvzfliGvoJ1DhSHIGyYBToWe.jpg",
+      "title": "Licorice Pizza",
+      "year": 2021
+    },
+    "Parallel Mothers": {
+      "id": 766798,
+      "poster": "/gDaxYkYNbHuM2VlUazbcpnFZB6d.jpg",
+      "title": "Parallel Mothers",
+      "year": 2021
+    },
+    "King Richard": {
+      "id": 614917,
+      "poster": "/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg",
+      "title": "King Richard",
+      "year": 2021
+    },
+    "House of Gucci": {
+      "id": 644495,
+      "poster": "/oJCQjD2byiVF1EG408F9dBn9ndU.jpg",
+      "title": "House of Gucci",
+      "year": 2021
+    },
+    "tick, tick... BOOM!": {
+      "id": 537116,
+      "poster": "/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg",
+      "title": "tick, tick... BOOM!",
+      "year": 2021
+    },
+    "Spider-Man: No Way Home": {
+      "id": 634649,
+      "poster": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "title": "Spider-Man: No Way Home",
+      "year": 2021
+    },
+    "West Side Story": {
+      "id": 511809,
+      "poster": "/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+      "title": "West Side Story",
+      "year": 2021
+    },
+    "The Suicide Squad": {
+      "id": 436969,
+      "poster": "/q61qEyssk2ku3okWICKArlAdhBn.jpg",
+      "title": "The Suicide Squad",
+      "year": 2021
+    },
+    "Nobody": {
+      "id": 615457,
+      "poster": "/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg",
+      "title": "Nobody",
+      "year": 2021
+    },
+    "Shiva Baby": {
+      "id": 664300,
+      "poster": "/4sdqVsT6SHqtbCYZS7bhVoEftlL.jpg",
+      "title": "Shiva Baby",
+      "year": 2021
+    },
+    "Old": {
+      "id": 631843,
+      "poster": "/vclShucpUmPhdAOmKgf3B3Z4POD.jpg",
+      "title": "Old",
+      "year": 2021
+    },
+    "Bergman Island": {
+      "id": 477044,
+      "poster": "/q8bQfC7SbaTDVKywhCiNL3ZVSyy.jpg",
+      "title": "Bergman Island",
+      "year": 2021
+    },
+    "Drive My Car": {
+      "id": 758866,
+      "poster": "/a2lxHS6Au35k5XtFQEQW44yWHeH.jpg",
+      "title": "Drive My Car",
+      "year": 2021
+    },
+    "Bo Burnham: Inside": {
+      "id": 823754,
+      "poster": "/ku1UvTWYvhFQbSesOD6zteY7bXT.jpg",
+      "title": "Bo Burnham: Inside",
+      "year": 2021
+    },
+    "Belfast": {
+      "id": 777270,
+      "poster": "/3mInLZyPOVLsZRsBwNHi3UJXXnm.jpg",
+      "title": "Belfast",
+      "year": 2021
+    },
+    "Mass": {
+      "id": 423333,
+      "poster": "/c3MQ3YZKJadrH2Yv45i07qMHGPM.jpg",
+      "title": "Mass",
+      "year": 2021
+    },
+    "Those Who Wish Me Dead": {
+      "id": 578701,
+      "poster": "/xCEg6KowNISWvMh8GvPSxtdf9TO.jpg",
+      "title": "Those Who Wish Me Dead",
+      "year": 2021
+    },
+    "Shang-Chi and the Legend of the Ten Rings": {
+      "id": 566525,
+      "poster": "/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "year": 2021
+    },
+    "The Matrix": {
+      "id": 603,
+      "poster": "/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+      "title": "The Matrix",
+      "year": 1999
+    },
+    "Hillbilly Elegy": {
+      "id": 592984,
+      "poster": "/aA0D6DKIfLtXYNy94Qq2IW5NiGR.jpg",
+      "title": "Hillbilly Elegy",
+      "year": 2020
+    },
+    "The Master": {
+      "id": 68722,
+      "poster": "/rUSjbyvYWN9H4az8xt0tDtU7I6v.jpg",
+      "title": "The Master",
+      "year": 2012
+    },
+    "Manchester by the Sea": {
+      "id": 334541,
+      "poster": "/o9VXYOuaJxCEKOxbA86xqtwmqYn.jpg",
+      "title": "Manchester by the Sea",
+      "year": 2016
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "The Big Short": {
+      "id": 318846,
+      "poster": "/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg",
+      "title": "The Big Short",
+      "year": 2015
+    },
+    "Dear Evan Hansen": {
+      "id": 567690,
+      "poster": "/83pobg0tx4r4JeLenCAemanpnS2.jpg",
+      "title": "Dear Evan Hansen",
+      "year": 2021
+    },
+    "Cinderella": {
+      "id": 593910,
+      "poster": "/clDFqATL4zcE7LzUwkrVj3zHvk7.jpg",
+      "title": "Cinderella",
+      "year": 2021
+    },
+    "Free Guy": {
+      "id": 550988,
+      "poster": "/dxraF0qPr1OEgJk17ltQTO84kQF.jpg",
+      "title": "Free Guy",
+      "year": 2021
+    },
+    "Space Jam: A New Legacy": {
+      "id": 379686,
+      "poster": "/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg",
+      "title": "Space Jam: A New Legacy",
+      "year": 2021
+    },
+    "Heat": {
+      "id": 949,
+      "poster": "/e09dLw1Ljtccd2P4NsuUvVtS5du.jpg",
+      "title": "Heat",
+      "year": 1995
+    },
+    "Den of Thieves": {
+      "id": 449443,
+      "poster": "/dAP5NpkrMMczir5dUPjRR6ywqgz.jpg",
+      "title": "Den of Thieves",
+      "year": 2018
+    },
+    "Moneyball": {
+      "id": 60308,
+      "poster": "/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+      "title": "Moneyball",
+      "year": 2011
+    },
+    "The Social Network": {
+      "id": 37799,
+      "poster": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+      "title": "The Social Network",
+      "year": 2010
+    },
+    "Zack Snyder's Justice League": {
+      "id": 791373,
+      "poster": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+      "title": "Zack Snyder's Justice League",
+      "year": 2021
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Roman Holiday": {
+      "id": 804,
+      "poster": "/8lI9dmz1RH20FAqltkGelY1v4BE.jpg",
+      "title": "Roman Holiday",
+      "year": 1953
+    },
+    "Broadcast News": {
+      "id": 12626,
+      "poster": "/kQNR1Lc0qAF5xuBySpDn481KVjb.jpg",
+      "title": "Broadcast News",
+      "year": 1987
+    },
+    "Something's Gotta Give": {
+      "id": 6964,
+      "poster": "/1cpdqe0SpiHzzbOLq9GDUUlZdSl.jpg",
+      "title": "Something's Gotta Give",
+      "year": 2003
+    },
+    "Down with Love": {
+      "id": 10720,
+      "poster": "/74lG2SGDJdyiS8hB4kkFcRIviSi.jpg",
+      "title": "Down with Love",
+      "year": 2003
+    },
+    "Sweet Smell of Success": {
+      "id": 976,
+      "poster": "/akzvV8JasNrgEl5iAP9K6zPHGJe.jpg",
+      "title": "Sweet Smell of Success",
+      "year": 1957
+    },
+    "Network": {
+      "id": 10774,
+      "poster": "/qZomlHsaALUtkFeMDwdYmwS2Pbo.jpg",
+      "title": "Network",
+      "year": 1976
+    },
+    "Judas and the Black Messiah": {
+      "id": 583406,
+      "poster": "/iIgr75GoqFxe1X5Wz9siOODGe9u.jpg",
+      "title": "Judas and the Black Messiah",
+      "year": 2021
+    },
+    "The Batman": {
+      "id": 414906,
+      "poster": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "title": "The Batman",
+      "year": 2022
+    },
+    "Spencer": {
+      "id": 716612,
+      "poster": "/7GcqdBKaMM9BWXWN07BirBMkcBF.jpg",
+      "title": "Spencer",
+      "year": 2021
+    },
+    "In the Heights": {
+      "id": 467909,
+      "poster": "/RO4KoJyoQMQzh9z76d4v4FJMmJ.jpg",
+      "title": "In the Heights",
+      "year": 2021
+    },
+    "The Woman in the Window": {
+      "id": 520663,
+      "poster": "/wcrjc1uwQaqoqtqi67Su4VCOYo0.jpg",
+      "title": "The Woman in the Window",
+      "year": 2021
+    },
+    "Beckett": {
+      "id": 597433,
+      "poster": "/hGIxOfxsgcNS8aco8xgFlv3rYnt.jpg",
+      "title": "Beckett",
+      "year": 2021
+    },
+    "Titane": {
+      "id": 630240,
+      "poster": "/mBlpouG3gqB8WLdP65LCOXb3jFb.jpg",
+      "title": "Titane",
+      "year": 2021
+    },
+    "Last Night in Soho": {
+      "id": 576845,
+      "poster": "/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg",
+      "title": "Last Night in Soho",
+      "year": 2021
+    },
+    "Eternals": {
+      "id": 524434,
+      "poster": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+      "title": "Eternals",
+      "year": 2021
+    },
+    "The Power of the Dog": {
+      "id": 600583,
+      "poster": "/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg",
+      "title": "The Power of the Dog",
+      "year": 2021
+    },
+    "Don't Look Up": {
+      "id": 646380,
+      "poster": "/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+      "title": "Don't Look Up",
+      "year": 2021
+    },
+    "Mandy": {
+      "id": 460885,
+      "poster": "/m0yf7J7HsKeK6E81SMRcX8vx6mH.jpg",
+      "title": "Mandy",
+      "year": 2018
+    },
+    "Joker": {
+      "id": 475557,
+      "poster": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "title": "Joker",
+      "year": 2019
+    },
+    "Candyman": {
+      "id": 565028,
+      "poster": "/dqoshZPLNsXlC1qtz5n34raUyrE.jpg",
+      "title": "Candyman",
+      "year": 2021
+    },
+    "Fast Five": {
+      "id": 51497,
+      "poster": "/gEfQjjQwY7fh5bI4GlG0RrBu7Pz.jpg",
+      "title": "Fast Five",
+      "year": 2011
+    },
+    "The Wolf of Wall Street": {
+      "id": 106646,
+      "poster": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+      "title": "The Wolf of Wall Street",
+      "year": 2013
+    },
+    "Mad Max: Fury Road": {
+      "id": 76341,
+      "poster": "/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+      "title": "Mad Max: Fury Road",
+      "year": 2015
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    }
+  }
+}

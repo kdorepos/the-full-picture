@@ -1,0 +1,212 @@
+{
+  "slug": "making-midsommar-a-deep-dive-into-the-movie-freakout-of-the-",
+  "title": "Making ‘Midsommar,’ A Deep Dive Into the Movie Freakout of the Year | Interview",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Chris Ryan"
+  ],
+  "published": "2019-07-03",
+  "runtimeMin": 52,
+  "format": "Sean and Chris talk through Ari Aster's Midsommar, then Sean sits down with Aster on building the Hårga village, casting Florence Pugh, and the eleven scripts in his drawer.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Midsommar",
+      "note": "Sean and Chris, spoilers kept to a minimum",
+      "films": [
+        {
+          "title": "Midsommar",
+          "year": 2019,
+          "note": "Aster's daytime folk-horror breakup movie; a group of grad students follow a friend to his Swedish commune. Both hosts came out blown away and a little rattled."
+        },
+        {
+          "title": "Hereditary",
+          "year": 2018,
+          "note": "The 2018 debut they keep measuring Midsommar against; more supernatural, more two-movies-in-one, where this one plays as a single cohesive sentence."
+        },
+        {
+          "title": "Lady Macbeth",
+          "year": 2016,
+          "note": "Where Sean first clocked Florence Pugh, whom he calls one of the best performances of the year."
+        },
+        {
+          "title": "Little Women",
+          "year": 2019,
+          "note": "Greta Gerwig's adaptation, out later in 2019, also starring Pugh; Sean jokes it was its own kind of horror movie for a certain generation of men."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Ari Aster on",
+      "films": [
+        {
+          "title": "Midsommar",
+          "year": 2019,
+          "note": "Aster frames it as a macabre fairy tale and an operatic breakup movie; the Hårga village was built from scratch in a Hungarian field, scored by Bobby Krlic as the Haxan Cloak."
+        },
+        {
+          "title": "Hereditary",
+          "year": 2018,
+          "note": "He was in Hungarian pre-production the day after it opened, so he never really felt its reception."
+        },
+        {
+          "title": "Lady Macbeth",
+          "year": 2016,
+          "note": "The William Oldroyd film that sold him on Pugh, who couldn't audition at first because she was shooting Park Chan-wook's Little Drummer Girl."
+        },
+        {
+          "title": "Fighting With My Family",
+          "year": 2019,
+          "note": "Cited as part of Pugh's run of demanding roles, for which she had to learn to wrestle."
+        },
+        {
+          "title": "The Wicker Man",
+          "year": 1973,
+          "note": "The brightly lit pagan-horror touchstone Aster reaches for, though he notes it's mostly grim and overcast."
+        },
+        {
+          "title": "The Color of Pomegranates",
+          "year": 1969,
+          "note": "Sergei Parajanov film Aster had production designer Henrik Svensson watch."
+        },
+        {
+          "title": "Shadows of Forgotten Ancestors",
+          "year": 1965,
+          "note": "The other Parajanov reference for the film's design."
+        },
+        {
+          "title": "The Wizard of Oz",
+          "year": 1939,
+          "note": "A color reference, especially the garish 'Crayola phase' near the end; they also studied 40s and 50s MGM musicals."
+        },
+        {
+          "title": "Last Year at Marienbad",
+          "year": 1961,
+          "note": "A restored Alain Resnais DCP he caught at Film Forum. He calls it a recent favorite, and traces Roeg's montage back to it."
+        },
+        {
+          "title": "Don't Look Now",
+          "year": 1973,
+          "note": "The Nicolas Roeg film he says is deeply important to him, talked about while touring Hereditary."
+        },
+        {
+          "title": "The Souvenir",
+          "year": 2019,
+          "note": "The Joanna Hogg film that recently made him jealous."
+        },
+        {
+          "title": "Exhibition",
+          "year": 2013,
+          "note": "An earlier Hogg film he loves; he's been a fan a long time."
+        },
+        {
+          "title": "Unrelated",
+          "year": 2008,
+          "note": "Hogg's debut, another Aster favorite."
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Little Drummer Girl"
+    ],
+    "Books": [
+      "The Golden Bough",
+      "Little Women (Louisa May Alcott novel)"
+    ],
+    "Ads": [
+      "Ringer Dish"
+    ]
+  },
+  "tmdb": {
+    "Midsommar": {
+      "id": 530385,
+      "poster": "/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+      "title": "Midsommar",
+      "year": 2019
+    },
+    "Hereditary": {
+      "id": 493922,
+      "poster": "/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+      "title": "Hereditary",
+      "year": 2018
+    },
+    "Lady Macbeth": {
+      "id": 410117,
+      "poster": "/xWTJbhTwSTJmhLlX5xAOxPhdnXc.jpg",
+      "title": "Lady Macbeth",
+      "year": 2016
+    },
+    "Little Women": {
+      "id": 331482,
+      "poster": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+      "title": "Little Women",
+      "year": 2019
+    },
+    "Fighting With My Family": {
+      "id": 445629,
+      "poster": "/pGLTCdeoeD57hK5RZTP2KB3DP2f.jpg",
+      "title": "Fighting with My Family",
+      "year": 2019
+    },
+    "The Wicker Man": {
+      "id": 16307,
+      "poster": "/wwtrXRL8SiOWxhwLEvw7iBgYh0g.jpg",
+      "title": "The Wicker Man",
+      "year": 1973
+    },
+    "The Color of Pomegranates": {
+      "id": 26302,
+      "poster": "/rMUbQf7RgsYgQ47AFf1wpoSt4dX.jpg",
+      "title": "The Color of Pomegranates",
+      "year": 1969
+    },
+    "Shadows of Forgotten Ancestors": {
+      "id": 26782,
+      "poster": "/9oSZTeejmx80tIBVSqYzJpFhjkI.jpg",
+      "title": "Shadows of Forgotten Ancestors",
+      "year": 1965
+    },
+    "The Wizard of Oz": {
+      "id": 630,
+      "poster": "/uCC3j4pV9eOZwzDUWp2ilbcTf1f.jpg",
+      "title": "The Wizard of Oz",
+      "year": 1939
+    },
+    "Last Year at Marienbad": {
+      "id": 4024,
+      "poster": "/syIJCqiSkGRJTlyaBtyI5jqPtE7.jpg",
+      "title": "Last Year at Marienbad",
+      "year": 1961
+    },
+    "Don't Look Now": {
+      "id": 931,
+      "poster": "/ivWsU3QtcstImCTOjItsH0SAbNn.jpg",
+      "title": "Don't Look Now",
+      "year": 1973
+    },
+    "The Souvenir": {
+      "id": 473019,
+      "poster": "/2Nj04HsZ0lNkv07JnfBZ0bAIECn.jpg",
+      "title": "The Souvenir",
+      "year": 2019
+    },
+    "Exhibition": {
+      "id": 208028,
+      "poster": "/9dbJ2i1JOQju3umd1lgh5tplos9.jpg",
+      "title": "Exhibition",
+      "year": 2013
+    },
+    "Unrelated": {
+      "id": 29982,
+      "poster": "/5TFsgS0EkClv2KlA1j5ARp3DoRq.jpg",
+      "title": "Unrelated",
+      "year": 2008
+    }
+  }
+}

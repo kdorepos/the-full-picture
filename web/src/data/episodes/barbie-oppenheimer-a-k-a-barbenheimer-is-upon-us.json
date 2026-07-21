@@ -1,0 +1,334 @@
+{
+  "slug": "barbie-oppenheimer-a-k-a-barbenheimer-is-upon-us",
+  "title": "‘Barbie’ + ‘Oppenheimer,’ a.k.a. Barbenheimer, Is Upon Us!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessy",
+    "Amanda Dobbins"
+  ],
+  "published": "2023-07-21",
+  "runtimeMin": 102,
+  "format": "Sean and Amanda give their first, spoiler-free reactions to the two movies opening the same day, plus advice on running the double bill and box-office bets.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "Oppenheimer",
+      "note": "spoiler-free first reactions",
+      "films": [
+        {
+          "title": "Oppenheimer",
+          "year": 2023,
+          "note": "Christopher Nolan's adaptation of the Pulitzer-winning biography 'American Prometheus,' shot on 70mm IMAX with Cillian Murphy as J. Robert Oppenheimer. Sean calls it his favorite Nolan and the closest anyone has come to Oliver Stone's 'JFK,' citing the shifting stocks, aspect ratios, and cross-cutting. Amanda was mesmerized by the first two hours and openly bored by the procedural third; both flag Nolan's familiar problem writing the women. Cillian Murphy is their MVP."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "Barbie",
+      "note": "spoiler-free first reactions",
+      "films": [
+        {
+          "title": "Barbie",
+          "year": 2023,
+          "note": "Greta Gerwig's studio swing, written with Noah Baumbach, starring Margot Robbie and Ryan Gosling. Amanda loved it without distance and calls it an instant touchstone; Sean liked it but docked the Mattel-boardroom middle stretch, which makes the whole thing feel corporate. Both rate the first 40 minutes of Barbie Land as the standout and think Margot Robbie deserves an Oscar nomination."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Oppenheimer touchstones",
+      "films": [
+        "JFK",
+        "Being the Ricardos",
+        "Fat Man and Little Boy",
+        "The Imitation Game"
+      ]
+    },
+    {
+      "group": "The rest of the Nolan filmography",
+      "films": [
+        "Memento",
+        "The Dark Knight",
+        "Inception",
+        "Interstellar",
+        "Dunkirk",
+        "Tenet"
+      ]
+    },
+    {
+      "group": "Barbie's lineage",
+      "films": [
+        "Lady Bird",
+        "Little Women",
+        "Frances Ha",
+        "The Truman Show",
+        "The Matrix",
+        "The Wizard of Oz",
+        "Pee-wee's Big Adventure",
+        "Toy Story",
+        "The Lego Movie",
+        "Heaven Can Wait",
+        "The Hudsucker Proxy"
+      ]
+    },
+    {
+      "group": "Also in the mix",
+      "films": [
+        "Air",
+        "Babylon",
+        "The Wolf of Wall Street",
+        "Nope",
+        "Beau Is Afraid",
+        "The Devil Wears Prada",
+        "Ocean's Eleven",
+        "Amanda"
+      ]
+    },
+    {
+      "group": "The summer box office",
+      "films": [
+        "Mission: Impossible - Dead Reckoning Part One",
+        "Sound of Freedom",
+        "Transformers: Rise of the Beasts",
+        "Transformers: Dark of the Moon"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Amanda": 1004642
+  },
+  "excluded": {
+    "TV": [
+      "The Bear"
+    ],
+    "Games": [
+      "FIFA World Cup Launch Edition"
+    ],
+    "Podcasts": [
+      "The Watch",
+      "The Rewatchables",
+      "60 Songs That Explain the 90s"
+    ],
+    "Ads": [
+      "NOS Energy",
+      "Netflix",
+      "Carvana",
+      "Boar's Head",
+      "FanDuel"
+    ]
+  },
+  "tmdb": {
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "JFK": {
+      "id": 820,
+      "poster": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+      "title": "JFK",
+      "year": 1991
+    },
+    "Being the Ricardos": {
+      "id": 517088,
+      "poster": "/oztBLWdRk5gApYmNdADXvXkLT5m.jpg",
+      "title": "Being the Ricardos",
+      "year": 2021
+    },
+    "Fat Man and Little Boy": {
+      "id": 27461,
+      "poster": "/4CLeeHTMUesP8MCFt5phmdPSS5k.jpg",
+      "title": "Fat Man and Little Boy",
+      "year": 1989
+    },
+    "The Imitation Game": {
+      "id": 205596,
+      "poster": "/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg",
+      "title": "The Imitation Game",
+      "year": 2014
+    },
+    "Memento": {
+      "id": 77,
+      "poster": "/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+      "title": "Memento",
+      "year": 2000
+    },
+    "The Dark Knight": {
+      "id": 155,
+      "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    "Inception": {
+      "id": 27205,
+      "poster": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+      "title": "Inception",
+      "year": 2010
+    },
+    "Interstellar": {
+      "id": 157336,
+      "poster": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+      "title": "Interstellar",
+      "year": 2014
+    },
+    "Dunkirk": {
+      "id": 374720,
+      "poster": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "title": "Dunkirk",
+      "year": 2017
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "Lady Bird": {
+      "id": 391713,
+      "poster": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+      "title": "Lady Bird",
+      "year": 2017
+    },
+    "Little Women": {
+      "id": 331482,
+      "poster": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+      "title": "Little Women",
+      "year": 2019
+    },
+    "Frances Ha": {
+      "id": 121986,
+      "poster": "/jrq1NoKvsxWCcffVOjegiYwloFN.jpg",
+      "title": "Frances Ha",
+      "year": 2013
+    },
+    "The Truman Show": {
+      "id": 37165,
+      "poster": "/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+      "title": "The Truman Show",
+      "year": 1998
+    },
+    "The Matrix": {
+      "id": 603,
+      "poster": "/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+      "title": "The Matrix",
+      "year": 1999
+    },
+    "The Wizard of Oz": {
+      "id": 630,
+      "poster": "/uCC3j4pV9eOZwzDUWp2ilbcTf1f.jpg",
+      "title": "The Wizard of Oz",
+      "year": 1939
+    },
+    "Pee-wee's Big Adventure": {
+      "id": 5683,
+      "poster": "/414IUXc54mrhX88ZUQiRDLXn01i.jpg",
+      "title": "Pee-wee's Big Adventure",
+      "year": 1985
+    },
+    "Toy Story": {
+      "id": 862,
+      "poster": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+      "title": "Toy Story",
+      "year": 1995
+    },
+    "The Lego Movie": {
+      "id": 137106,
+      "poster": "/lbctonEnewCYZ4FYoTZhs8cidAl.jpg",
+      "title": "The Lego Movie",
+      "year": 2014
+    },
+    "Heaven Can Wait": {
+      "id": 12185,
+      "poster": "/h1yOiO9cow6gwmGxSAWvPdY4lhJ.jpg",
+      "title": "Heaven Can Wait",
+      "year": 1978
+    },
+    "The Hudsucker Proxy": {
+      "id": 11934,
+      "poster": "/xBQBr6Q1OTivouBK66oFgy86n03.jpg",
+      "title": "The Hudsucker Proxy",
+      "year": 1994
+    },
+    "Air": {
+      "id": 964980,
+      "poster": "/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg",
+      "title": "Air",
+      "year": 2023
+    },
+    "Babylon": {
+      "id": 615777,
+      "poster": "/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+      "title": "Babylon",
+      "year": 2022
+    },
+    "The Wolf of Wall Street": {
+      "id": 106646,
+      "poster": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+      "title": "The Wolf of Wall Street",
+      "year": 2013
+    },
+    "Nope": {
+      "id": 762504,
+      "poster": "/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
+      "title": "Nope",
+      "year": 2022
+    },
+    "Beau Is Afraid": {
+      "id": 798286,
+      "poster": "/wgVkkjigF31r1nZV80uV0xNIoun.jpg",
+      "title": "Beau Is Afraid",
+      "year": 2023
+    },
+    "The Devil Wears Prada": {
+      "id": 350,
+      "poster": "/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+      "title": "The Devil Wears Prada",
+      "year": 2006
+    },
+    "Ocean's Eleven": {
+      "id": 161,
+      "poster": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+      "title": "Ocean's Eleven",
+      "year": 2001
+    },
+    "Amanda": {
+      "id": 1004642,
+      "poster": "/bGWPFd71ygELIkPf9SjcOBkLAZY.jpg",
+      "title": "Amanda",
+      "year": 2022
+    },
+    "Mission: Impossible - Dead Reckoning Part One": {
+      "id": 575264,
+      "poster": "/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "year": 2023
+    },
+    "Sound of Freedom": {
+      "id": 678512,
+      "poster": "/qA5kPYZA7FkVvqcEfJRoOy4kpHg.jpg",
+      "title": "Sound of Freedom",
+      "year": 2023
+    },
+    "Transformers: Rise of the Beasts": {
+      "id": 667538,
+      "poster": "/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",
+      "title": "Transformers: Rise of the Beasts",
+      "year": 2023
+    },
+    "Transformers: Dark of the Moon": {
+      "id": 38356,
+      "poster": "/28YlCLrFhONteYSs9hKjD1Km0Cj.jpg",
+      "title": "Transformers: Dark of the Moon",
+      "year": 2011
+    }
+  }
+}

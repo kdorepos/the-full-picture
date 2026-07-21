@@ -1,0 +1,949 @@
+{
+  "slug": "the-horror-movie-draft",
+  "title": "The Horror Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan",
+    "Alex Ross Perry"
+  ],
+  "published": "2022-10-14",
+  "runtimeMin": 127,
+  "format": "A three-way horror snake draft for Halloween season: Sean and Chris Ryan bring in six-time returning champion Alex Ross Perry to fill six categories, Amanda watching from the sidelines with veto power on Twitter.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Before the draft",
+      "note": "childhood scares, and what even counts as horror",
+      "films": [
+        {
+          "title": "Arachnophobia",
+          "year": 1990,
+          "note": "Alex's first scary movie, watched at a friend's house at six; he hid behind the couch and slept with a trash can by his bed for years after."
+        },
+        {
+          "title": "Shocker",
+          "year": 1989,
+          "note": "Chris snuck into it at 12; rewatched it recently and found Wes Craven's psychic-killer movie 'hysterical,' Pete Berg and Timothy Leary and all."
+        },
+        {
+          "title": "Candyman",
+          "year": 1992,
+          "note": "Sean's gateway, seen on cable, tangled up with the schoolyard mirror-chant myth before he understood it was any good."
+        },
+        {
+          "title": "Gremlins",
+          "year": 1984,
+          "note": "Amanda's benchmark for how far she'll go with a horror movie: turn it off once Gizmo's dry and it's just a Christmas movie about a family and a pet."
+        },
+        {
+          "title": "The Omen",
+          "year": 1976,
+          "note": "Amanda can handle the stately ambassador setup but checks out once the gross-out kills start; the group can't agree on whether it's the nanny or the priest who gets impaled."
+        },
+        {
+          "title": "Alien",
+          "year": 1979,
+          "note": "The episode's longest-running argument: Alex says it's not a horror movie because Amanda's seen and liked it, Sean insists it belongs given the tagline alone."
+        },
+        {
+          "title": "Predator",
+          "year": 1987,
+          "note": "Floated as horror-adjacent to Alien and waved off as an action movie."
+        },
+        {
+          "title": "The Silence of the Lambs",
+          "year": 1991,
+          "note": "Debated as both a sequel (to Manhunter) and a horror movie; the table lands on neither, which is why nobody drafts it."
+        },
+        {
+          "title": "Se7en",
+          "year": 1995,
+          "note": "Cited alongside Silence of the Lambs as a thriller that borrows horror's tonality without qualifying as one."
+        },
+        {
+          "title": "Barbarian",
+          "year": 2022,
+          "note": "Amanda's crash course in the genre via the guys walking her through it scene by scene."
+        },
+        {
+          "title": "Speak No Evil",
+          "year": 2022,
+          "note": "Amanda was hooked by the Airbnb-vacation-friends setup until the plot description turned dark."
+        },
+        {
+          "title": "The Strangers",
+          "year": 2008,
+          "note": "Chris's masked-strangers-on-the-porch classic; Amanda now pictures it every time she hears something outside at night."
+        },
+        {
+          "title": "Pearl",
+          "year": 2022,
+          "note": "Named with Barbarian as evidence horror's had an unusually healthy run the last six weeks."
+        },
+        {
+          "title": "The Night House",
+          "year": 2020,
+          "note": "Alex's pick for one of the best horror movies of the 2020s so far."
+        }
+      ]
+    },
+    {
+      "kind": "draft",
+      "heading": "The teams",
+      "draftOf": "horror movies",
+      "categories": [
+        "Slasher",
+        "Sequel",
+        "Blockbuster",
+        "Classical Era",
+        "Foreign Language or British",
+        "Wildcard"
+      ],
+      "teams": [
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "The Texas Chain Saw Massacre",
+              "year": 1974,
+              "category": "Slasher",
+              "note": "First overall pick. Chris first saw it at 1 a.m. in a beat-up group house in Boston and stayed up all night afterward; still 'the apex of horror' to him."
+            },
+            {
+              "title": "Scream 2",
+              "year": 1997,
+              "category": "Sequel",
+              "note": "Picked for variety over a movie he'd rate higher; likes the meta college-set sequel talk and Timothy Olyphant's masquerading villain."
+            },
+            {
+              "title": "The Blair Witch Project",
+              "year": 1999,
+              "category": "Blockbuster",
+              "note": "His favorite theater experience ever, from a sold-out Ritz East show at 15; rewatched last year with a group of 12-to-14-year-olds who got fully swept up."
+            },
+            {
+              "title": "Night of the Living Dead",
+              "year": 1968,
+              "category": "Classical Era",
+              "note": "A Philly rep-house and midnight-movie staple growing up; taken over his real favorite, Dawn of the Dead, already spent in Sequel."
+            },
+            {
+              "title": "[Rec]",
+              "year": 2007,
+              "category": "Foreign Language or British",
+              "note": "The Spanish found-footage outbreak movie he and his wife have rewatched three times and chased through every sequel; the late blackout stretch is the highlight."
+            },
+            {
+              "title": "The Thing",
+              "year": 1982,
+              "category": "Wildcard",
+              "note": "Argued it's a monster movie, not sci-fi ('it wouldn't rent in sci-fi'); one of four films he'd locked into Wildcard along with Hellraiser, The Shining, and The Fly."
+            }
+          ]
+        },
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Halloween",
+              "year": 1978,
+              "category": "Slasher",
+              "note": "Sat at No. 1 on his list; John Carpenter's original, taken with visible relief that it survived to his pick."
+            },
+            {
+              "title": "Evil Dead II",
+              "year": 1987,
+              "category": "Sequel",
+              "note": "Argued it splits the atom on horror comedy, being a horror movie and a comedy at once rather than one dressed as the other; Amanda calls it not her thing."
+            },
+            {
+              "title": "The Exorcist",
+              "year": 1973,
+              "category": "Blockbuster",
+              "note": "The genre's highest-grossing film and one of the most frenzied moviegoing events in American history; Sean keeps a Pazuzu statue in his backyard."
+            },
+            {
+              "title": "Rosemary's Baby",
+              "year": 1968,
+              "category": "Classical Era",
+              "note": "Made $33.4 million unadjusted, short of the $75 million Blockbuster line, which is why it fell to him here."
+            },
+            {
+              "title": "Deep Red",
+              "year": 1975,
+              "category": "Foreign Language or British",
+              "note": "Dario Argento's Profondo Rosso, the movie that opened Sean up to horror past Scream and Blair Witch, via a VHS-collecting older friend named Ben."
+            },
+            {
+              "title": "The Shining",
+              "year": 1980,
+              "category": "Wildcard",
+              "note": "Doesn't fit Slasher, Blockbuster (it underperformed for a Kubrick/Nicholson film), Classical, or Foreign, so Wildcard is the only place it could go."
+            }
+          ]
+        },
+        {
+          "host": "Alex Ross Perry",
+          "picks": [
+            {
+              "title": "Psycho",
+              "year": 1960,
+              "category": "Slasher",
+              "note": "His No. 2 pick overall after losing Texas Chain Saw; first saw it as a kid at Philadelphia's Prince Theatre, driven in by his dad, going in blind."
+            },
+            {
+              "title": "Dawn of the Dead",
+              "year": 1978,
+              "category": "Sequel",
+              "note": "Romero's zombie-mall movie, his No. 1 in the category over Day of the Dead, which he says he actually prefers on any given day."
+            },
+            {
+              "title": "The Amityville Horror",
+              "year": 1979,
+              "category": "Blockbuster",
+              "note": "Alex grew up 25-30 minutes from the real house; calls the original underrated and the Italian-made sequel, Amityville II: The Possession, nearly as good."
+            },
+            {
+              "title": "Freaks",
+              "year": 1932,
+              "category": "Classical Era",
+              "note": "Tod Browning's carnival film, intermittently banned for decades; Alex noticed its Toy Story homage while sitting in a doctor's office with his daughter."
+            },
+            {
+              "title": "28 Days Later",
+              "year": 2002,
+              "category": "Foreign Language or British",
+              "note": "Danny Boyle's rage-virus movie, a huge hit in the UK; made $85.7 million worldwide, just clearing the Blockbuster line no one thought it hit."
+            },
+            {
+              "title": "Hellraiser",
+              "year": 1987,
+              "category": "Wildcard",
+              "note": "Clive Barker's S&M-inflected demon movie; one of four films (with The Thing, The Shining, and The Fly) Alex felt couldn't fit anywhere else."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "The Fly",
+        "My Bloody Valentine",
+        "The Burning",
+        "The Mutilator",
+        "Sleepaway Camp",
+        "The Prowler",
+        "Bram Stoker's Dracula",
+        "The Others",
+        "Cannibal Holocaust",
+        "Zombie Flesh Eaters",
+        "Nosferatu the Vampyre",
+        "A Tale of Two Sisters",
+        "Funny Games",
+        "Friday the 13th",
+        "A Nightmare on Elm Street",
+        "Halloween III: Season of the Witch"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The Conjuring universe & other new horror",
+      "films": [
+        "The Conjuring",
+        "The Nun",
+        "Annabelle",
+        "The Curse of La Llorona",
+        "Insidious",
+        "Who Invited Them",
+        "Hereditary"
+      ]
+    },
+    {
+      "group": "The 'is it horror?' tangent",
+      "films": [
+        "Aliens",
+        "Alien³",
+        "Alien: Covenant",
+        "Manhunter",
+        "Fatal Attraction",
+        "The Bone Collector",
+        "Taking Lives"
+      ]
+    },
+    {
+      "group": "Franchise sequel rankings",
+      "films": [
+        "Friday the 13th Part 2",
+        "Friday the 13th Part III",
+        "Friday the 13th: The Final Chapter",
+        "Friday the 13th: A New Beginning",
+        "Jason Lives: Friday the 13th Part VI",
+        "Friday the 13th Part VII: The New Blood",
+        "Friday the 13th Part VIII: Jason Takes Manhattan",
+        "Jason Goes to Hell: The Final Friday",
+        "Jason X",
+        "Freddy vs. Jason",
+        "A Nightmare on Elm Street 3: Dream Warriors",
+        "A Nightmare on Elm Street 4: The Dream Master",
+        "A Nightmare on Elm Street: The Dream Child",
+        "Freddy's Dead: The Final Nightmare",
+        "Halloween II",
+        "Halloween 4: The Return of Michael Myers",
+        "Halloween 5: The Revenge of Michael Myers",
+        "Halloween: The Curse of Michael Myers",
+        "Halloween H20: 20 Years Later"
+      ]
+    },
+    {
+      "group": "Also mentioned",
+      "films": [
+        "Poltergeist",
+        "Poltergeist III",
+        "Dracula",
+        "Dracula 3D",
+        "The Exorcist III",
+        "The Ninth Configuration",
+        "Quarantine",
+        "Quarantine 2: Terminal",
+        "The Unknown",
+        "London After Midnight",
+        "Renfield",
+        "Suspiria",
+        "The Stendhal Syndrome",
+        "Toy Story",
+        "Last Night in Soho",
+        "Rear Window",
+        "Saboteur",
+        "Bones and All",
+        "Dark Water"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Haunting of Hill House",
+      "The Haunting of Bly Manor",
+      "Dahmer - Monster: The Jeffrey Dahmer Story"
+    ],
+    "Video games": [
+      "FIFA World Cup Launch Edition"
+    ],
+    "Ads": [
+      "Whole Foods Market",
+      "Boar's Head",
+      "FanDuel",
+      "NOS Energy"
+    ],
+    "Podcasts": [
+      "22 Goals"
+    ]
+  },
+  "tmdbOverrides": {
+    "Suspiria": 11906,
+    "Dracula": 138
+  },
+  "tmdb": {
+    "Arachnophobia": {
+      "id": 6488,
+      "poster": "/lHjpwv1Yv2RcGcTQb4Lc1cKw1y9.jpg",
+      "title": "Arachnophobia",
+      "year": 1990
+    },
+    "Shocker": {
+      "id": 12521,
+      "poster": "/m5EKmXhFFq8wg6xE15eEoKaHfnO.jpg",
+      "title": "Shocker",
+      "year": 1989
+    },
+    "Candyman": {
+      "id": 9529,
+      "poster": "/jQtgkgDZE7egMq532sOt83DnT83.jpg",
+      "title": "Candyman",
+      "year": 1992
+    },
+    "Gremlins": {
+      "id": 927,
+      "poster": "/6m0F7fsXjQvUbCZrPWcJNrjvIui.jpg",
+      "title": "Gremlins",
+      "year": 1984
+    },
+    "The Omen": {
+      "id": 794,
+      "poster": "/mDcjjEu1fMNmsXi4l4D8IftlTix.jpg",
+      "title": "The Omen",
+      "year": 1976
+    },
+    "Alien": {
+      "id": 348,
+      "poster": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "title": "Alien",
+      "year": 1979
+    },
+    "Predator": {
+      "id": 106,
+      "poster": "/aN3cdjIK70KGmD84et8MMblU87Q.jpg",
+      "title": "Predator",
+      "year": 1987
+    },
+    "The Silence of the Lambs": {
+      "id": 274,
+      "poster": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+      "title": "The Silence of the Lambs",
+      "year": 1991
+    },
+    "Se7en": {
+      "id": 807,
+      "poster": "/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+      "title": "Se7en",
+      "year": 1995
+    },
+    "Barbarian": {
+      "id": 913290,
+      "poster": "/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
+      "title": "Barbarian",
+      "year": 2022
+    },
+    "Speak No Evil": {
+      "id": 833339,
+      "poster": "/ukYuuFzPTumN1QNpQyz863bcNvr.jpg",
+      "title": "Speak No Evil",
+      "year": 2022
+    },
+    "The Strangers": {
+      "id": 10665,
+      "poster": "/gwsg4qFmLOvlhwXj4OZuxfFUdP0.jpg",
+      "title": "The Strangers",
+      "year": 2008
+    },
+    "Pearl": {
+      "id": 949423,
+      "poster": "/z5uIG81pXyHKg7cUFIu84Wjn4NS.jpg",
+      "title": "Pearl",
+      "year": 2022
+    },
+    "The Night House": {
+      "id": 547565,
+      "poster": "/rqs2CXpc4d5FzeP1EZCYItAVo81.jpg",
+      "title": "The Night House",
+      "year": 2021
+    },
+    "The Texas Chain Saw Massacre": {
+      "id": 30497,
+      "poster": "/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg",
+      "title": "The Texas Chain Saw Massacre",
+      "year": 1974
+    },
+    "Scream 2": {
+      "id": 4233,
+      "poster": "/dORlVasiaDkJXTqt9bdH7nFNs6C.jpg",
+      "title": "Scream 2",
+      "year": 1997
+    },
+    "The Blair Witch Project": {
+      "id": 2667,
+      "poster": "/9050VGrYjYrEjpOvDZVAngLbg1f.jpg",
+      "title": "The Blair Witch Project",
+      "year": 1999
+    },
+    "Night of the Living Dead": {
+      "id": 10331,
+      "poster": "/rb2NWyb008u1EcKCOyXs2Nmj0ra.jpg",
+      "title": "Night of the Living Dead",
+      "year": 1968
+    },
+    "[Rec]": {
+      "id": 8329,
+      "poster": "/hgyJR4sgMsee6xMFM3xYiG6cDCh.jpg",
+      "title": "[REC]",
+      "year": 2007
+    },
+    "The Thing": {
+      "id": 1091,
+      "poster": "/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+      "title": "The Thing",
+      "year": 1982
+    },
+    "Halloween": {
+      "id": 948,
+      "poster": "/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+      "title": "Halloween",
+      "year": 1978
+    },
+    "Evil Dead II": {
+      "id": 765,
+      "poster": "/4zqCKJVHUolGs6C5AZwAZqLWixW.jpg",
+      "title": "Evil Dead II",
+      "year": 1987
+    },
+    "The Exorcist": {
+      "id": 9552,
+      "poster": "/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
+      "title": "The Exorcist",
+      "year": 1973
+    },
+    "Rosemary's Baby": {
+      "id": 805,
+      "poster": "/uYgvlHceRFjAFbsNeMInYcLZLUb.jpg",
+      "title": "Rosemary's Baby",
+      "year": 1968
+    },
+    "Deep Red": {
+      "id": 20126,
+      "poster": "/wq7RxV5gMvgO0EKeWpNhegnpJBh.jpg",
+      "title": "Deep Red",
+      "year": 1975
+    },
+    "The Shining": {
+      "id": 694,
+      "poster": "/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg",
+      "title": "The Shining",
+      "year": 1980
+    },
+    "Psycho": {
+      "id": 539,
+      "poster": "/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+      "title": "Psycho",
+      "year": 1960
+    },
+    "Dawn of the Dead": {
+      "id": 923,
+      "poster": "/70MY8H0bLMvXf8ED2SgVMPhDVVM.jpg",
+      "title": "Dawn of the Dead",
+      "year": 1978
+    },
+    "The Amityville Horror": {
+      "id": 11449,
+      "poster": "/7VMscq0659xKmcXzd86de1DGV4W.jpg",
+      "title": "The Amityville Horror",
+      "year": 1979
+    },
+    "Freaks": {
+      "id": 136,
+      "poster": "/fX2Wxd0W9E7eVClUd8kJTfennoV.jpg",
+      "title": "Freaks",
+      "year": 1932
+    },
+    "28 Days Later": {
+      "id": 170,
+      "poster": "/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
+      "title": "28 Days Later",
+      "year": 2002
+    },
+    "Hellraiser": {
+      "id": 9003,
+      "poster": "/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg",
+      "title": "Hellraiser",
+      "year": 1987
+    },
+    "The Fly": {
+      "id": 9426,
+      "poster": "/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg",
+      "title": "The Fly",
+      "year": 1986
+    },
+    "My Bloody Valentine": {
+      "id": 14435,
+      "poster": "/9biIVOMTdvv4aj4a5HClmrK5EHB.jpg",
+      "title": "My Bloody Valentine",
+      "year": 2009
+    },
+    "The Burning": {
+      "id": 24124,
+      "poster": "/d8as1GtCAhlc5rirarnUUd85gJA.jpg",
+      "title": "The Burning",
+      "year": 1981
+    },
+    "The Mutilator": {
+      "id": 40451,
+      "poster": "/WdTypYAKttmUPWMQ4uLzRS6Hye.jpg",
+      "title": "The Mutilator",
+      "year": 1985
+    },
+    "Sleepaway Camp": {
+      "id": 13567,
+      "poster": "/lZ7KjSyHjP4ula5ybiXuQcDvZLg.jpg",
+      "title": "Sleepaway Camp",
+      "year": 1983
+    },
+    "The Prowler": {
+      "id": 44247,
+      "poster": "/g4sq725mXv5urY6nLQvYmv3RvcO.jpg",
+      "title": "The Prowler",
+      "year": 1981
+    },
+    "Bram Stoker's Dracula": {
+      "id": 6114,
+      "poster": "/4ZbUxjY5DZ7RCxGwvzSEr4rThd1.jpg",
+      "title": "Bram Stoker's Dracula",
+      "year": 1992
+    },
+    "The Others": {
+      "id": 1933,
+      "poster": "/p8g1vlTvpM6nr2hMMiZ1fUlKF0D.jpg",
+      "title": "The Others",
+      "year": 2001
+    },
+    "Cannibal Holocaust": {
+      "id": 8689,
+      "poster": "/otxZzMh53TsN7yYFqSZ3rwH1yMd.jpg",
+      "title": "Cannibal Holocaust",
+      "year": 1980
+    },
+    "Zombie Flesh Eaters": {
+      "id": 7219,
+      "poster": "/jc17a3PqDnQeBzT7GbK0dp8TDvx.jpg",
+      "title": "Zombie Flesh Eaters",
+      "year": 1979
+    },
+    "Nosferatu the Vampyre": {
+      "id": 6404,
+      "poster": "/jHKzGYwf7P34vz8MhJBTN6cnaYD.jpg",
+      "title": "Nosferatu the Vampyre",
+      "year": 1979
+    },
+    "A Tale of Two Sisters": {
+      "id": 4552,
+      "poster": "/l3exwhwyGE0NnHJ3lFQ7eXoBSkH.jpg",
+      "title": "A Tale of Two Sisters",
+      "year": 2003
+    },
+    "Funny Games": {
+      "id": 8461,
+      "poster": "/zs92sAOh3Q0kDIJkgaJFTBzSFka.jpg",
+      "title": "Funny Games",
+      "year": 2008
+    },
+    "Friday the 13th": {
+      "id": 4488,
+      "poster": "/uGGpnWHOmWTARVN9wbC1nPxNgps.jpg",
+      "title": "Friday the 13th",
+      "year": 1980
+    },
+    "A Nightmare on Elm Street": {
+      "id": 377,
+      "poster": "/b9rMHAAKISRmIonaQd9Cccx0S4X.jpg",
+      "title": "A Nightmare on Elm Street",
+      "year": 1984
+    },
+    "Halloween III: Season of the Witch": {
+      "id": 10676,
+      "poster": "/WABfdeaThFYXCySGIOvRNv2sSW.jpg",
+      "title": "Halloween III: Season of the Witch",
+      "year": 1982
+    },
+    "The Conjuring": {
+      "id": 138843,
+      "poster": "/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+      "title": "The Conjuring",
+      "year": 2013
+    },
+    "The Nun": {
+      "id": 439079,
+      "poster": "/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg",
+      "title": "The Nun",
+      "year": 2018
+    },
+    "Annabelle": {
+      "id": 250546,
+      "poster": "/yLsuU2P2SpDYFwtZQ7dtfVAf6TE.jpg",
+      "title": "Annabelle",
+      "year": 2014
+    },
+    "The Curse of La Llorona": {
+      "id": 480414,
+      "poster": "/hETrPpoKs6BwoilK64YJ7Z5GcRT.jpg",
+      "title": "The Curse of La Llorona",
+      "year": 2019
+    },
+    "Insidious": {
+      "id": 49018,
+      "poster": "/1egpmVXuXed58TH2UOnX1nATTrf.jpg",
+      "title": "Insidious",
+      "year": 2011
+    },
+    "Who Invited Them": {
+      "id": 931346,
+      "poster": "/2aY7M59bGPRqPHtUz6qGArN7bed.jpg",
+      "title": "Who Invited Them",
+      "year": 2022
+    },
+    "Hereditary": {
+      "id": 493922,
+      "poster": "/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+      "title": "Hereditary",
+      "year": 2018
+    },
+    "Aliens": {
+      "id": 679,
+      "poster": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "title": "Aliens",
+      "year": 1986
+    },
+    "Alien³": {
+      "id": 348,
+      "poster": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "title": "Alien",
+      "year": 1979
+    },
+    "Alien: Covenant": {
+      "id": 126889,
+      "poster": "/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg",
+      "title": "Alien: Covenant",
+      "year": 2017
+    },
+    "Manhunter": {
+      "id": 100279,
+      "poster": "/jkVpV6Crjc6i7sf5EjezAqam5oY.jpg",
+      "title": "Manhunter",
+      "year": 1974
+    },
+    "Fatal Attraction": {
+      "id": 10998,
+      "poster": "/vjB9XwJKnYqFKKjhWcE6WpAf5Ki.jpg",
+      "title": "Fatal Attraction",
+      "year": 1987
+    },
+    "The Bone Collector": {
+      "id": 9481,
+      "poster": "/7atMCqRaDpAOnGsteTRm17zmvN3.jpg",
+      "title": "The Bone Collector",
+      "year": 1999
+    },
+    "Taking Lives": {
+      "id": 11081,
+      "poster": "/zeFGOS1kj0CxuZjGhtK3WlMCYsa.jpg",
+      "title": "Taking Lives",
+      "year": 2004
+    },
+    "Friday the 13th Part 2": {
+      "id": 9725,
+      "poster": "/92rGctBMTv4uaSlIBVnhz01kRWL.jpg",
+      "title": "Friday the 13th Part 2",
+      "year": 1981
+    },
+    "Friday the 13th Part III": {
+      "id": 9728,
+      "poster": "/9kukTSlgFgXnQGdpcHvHcpTDiUc.jpg",
+      "title": "Friday the 13th Part III",
+      "year": 1982
+    },
+    "Friday the 13th: The Final Chapter": {
+      "id": 9730,
+      "poster": "/1J7zudfR3VLPwAf9lK5YPfSu0n6.jpg",
+      "title": "Friday the 13th: The Final Chapter",
+      "year": 1984
+    },
+    "Friday the 13th: A New Beginning": {
+      "id": 9731,
+      "poster": "/ewnIs4aCuWnKQ13Eaj8f3ybrQc8.jpg",
+      "title": "Friday the 13th: A New Beginning",
+      "year": 1985
+    },
+    "Jason Lives: Friday the 13th Part VI": {
+      "id": 10225,
+      "poster": "/6vdUpHvkspQonXBdWcLWW5ciEPJ.jpg",
+      "title": "Jason Lives - Friday the 13th Part VI",
+      "year": 1986
+    },
+    "Friday the 13th Part VII: The New Blood": {
+      "id": 10281,
+      "poster": "/rUzk9Qnyz2FZGxHMBrq6DYIQZkO.jpg",
+      "title": "Friday the 13th Part VII - The New Blood",
+      "year": 1988
+    },
+    "Friday the 13th Part VIII: Jason Takes Manhattan": {
+      "id": 10283,
+      "poster": "/6ezOsZ9UzqGnbDokaatxdOWP6e9.jpg",
+      "title": "Friday the 13th Part VIII: Jason Takes Manhattan",
+      "year": 1989
+    },
+    "Jason Goes to Hell: The Final Friday": {
+      "id": 10285,
+      "poster": "/Aacq05foqiWdXqetFv02HBvMoJy.jpg",
+      "title": "Jason Goes to Hell: The Final Friday",
+      "year": 1993
+    },
+    "Jason X": {
+      "id": 11470,
+      "poster": "/ggOND0hfoE0f3K857joSzEeIchb.jpg",
+      "title": "Jason X",
+      "year": 2001
+    },
+    "Freddy vs. Jason": {
+      "id": 6466,
+      "poster": "/f9ZASRUfl8Jlco7rgRx3ujPR0P7.jpg",
+      "title": "Freddy vs. Jason",
+      "year": 2003
+    },
+    "A Nightmare on Elm Street 3: Dream Warriors": {
+      "id": 10072,
+      "poster": "/qbtZewU6EGvxi8yFVzwZ31NijLX.jpg",
+      "title": "A Nightmare on Elm Street 3: Dream Warriors",
+      "year": 1987
+    },
+    "A Nightmare on Elm Street 4: The Dream Master": {
+      "id": 10131,
+      "poster": "/boStYG7jKdoIZTduiOOsUVknD13.jpg",
+      "title": "A Nightmare on Elm Street 4: The Dream Master",
+      "year": 1988
+    },
+    "A Nightmare on Elm Street: The Dream Child": {
+      "id": 10160,
+      "poster": "/kizvpgXQfrAgN8FhOd87LbKk6kO.jpg",
+      "title": "A Nightmare on Elm Street: The Dream Child",
+      "year": 1989
+    },
+    "Freddy's Dead: The Final Nightmare": {
+      "id": 11284,
+      "poster": "/e4qh58n2WaG4Gyh9VhjOUeN9Mhv.jpg",
+      "title": "Freddy's Dead: The Final Nightmare",
+      "year": 1991
+    },
+    "Halloween II": {
+      "id": 11281,
+      "poster": "/3nX5HHGgOKaVMxXwMLT9DHO1Ne6.jpg",
+      "title": "Halloween II",
+      "year": 1981
+    },
+    "Halloween 4: The Return of Michael Myers": {
+      "id": 11357,
+      "poster": "/eFSOkXF9n9hsfGv45MDsPixiOyx.jpg",
+      "title": "Halloween 4: The Return of Michael Myers",
+      "year": 1988
+    },
+    "Halloween 5: The Revenge of Michael Myers": {
+      "id": 11361,
+      "poster": "/rYvP6yMXCIVHnkVtwGaAXFmpzkB.jpg",
+      "title": "Halloween 5: The Revenge of Michael Myers",
+      "year": 1989
+    },
+    "Halloween: The Curse of Michael Myers": {
+      "id": 10987,
+      "poster": "/noCnM8nEI2bEDSdKHh0RKbwBwbC.jpg",
+      "title": "Halloween: The Curse of Michael Myers",
+      "year": 1995
+    },
+    "Halloween H20: 20 Years Later": {
+      "id": 11675,
+      "poster": "/lqLXUm3oK59sGJKRH2Zjj2m3iMg.jpg",
+      "title": "Halloween H20: 20 Years Later",
+      "year": 1998
+    },
+    "Poltergeist": {
+      "id": 609,
+      "poster": "/4eMN3GANH5GG4kXdHkrTZEUuQ9M.jpg",
+      "title": "Poltergeist",
+      "year": 1982
+    },
+    "Poltergeist III": {
+      "id": 10306,
+      "poster": "/pLewUibOJLGISvMqB94mAMdjz2q.jpg",
+      "title": "Poltergeist III",
+      "year": 1988
+    },
+    "Dracula": {
+      "id": 138,
+      "poster": "/ueVSPt7vAba0XScHWTDWS5tNxYX.jpg",
+      "title": "Dracula",
+      "year": 1931
+    },
+    "Dracula 3D": {
+      "id": 135812,
+      "poster": "/n1EsoM2cotsQRmvNnQJlOeC1jNe.jpg",
+      "title": "Dracula 3D",
+      "year": 2012
+    },
+    "The Exorcist III": {
+      "id": 11587,
+      "poster": "/rhSftgj3vwpIDSP8v67N8KEubmz.jpg",
+      "title": "The Exorcist III",
+      "year": 1990
+    },
+    "The Ninth Configuration": {
+      "id": 18910,
+      "poster": "/jlQMBckfnLhiCusar62sJ7WCKBv.jpg",
+      "title": "The Ninth Configuration",
+      "year": 1980
+    },
+    "Quarantine": {
+      "id": 13812,
+      "poster": "/rGfOD8IC1x4PqmnqRuA8KyCckia.jpg",
+      "title": "Quarantine",
+      "year": 2008
+    },
+    "Quarantine 2: Terminal": {
+      "id": 59115,
+      "poster": "/ouQOquRqqaO8sPAziD4BFoNO1Pb.jpg",
+      "title": "Quarantine 2: Terminal",
+      "year": 2011
+    },
+    "The Unknown": {
+      "id": 48800,
+      "poster": "/gxcHU9q4GFhDLmUmxrAeYBcer72.jpg",
+      "title": "The Unknown",
+      "year": 1946
+    },
+    "London After Midnight": {
+      "id": 1360507,
+      "poster": "/mCHqmCmQQyVx4lTwbibsngi8F3B.jpg",
+      "title": "London After Midnight",
+      "year": null
+    },
+    "Renfield": {
+      "id": 649609,
+      "poster": "/jG83l0tDwoQj3hBAioIsJ5rTPHw.jpg",
+      "title": "Renfield",
+      "year": 2023
+    },
+    "Suspiria": {
+      "id": 11906,
+      "poster": "/sEcvc9h1X3hYZdFgtiiKMm6RB3f.jpg",
+      "title": "Suspiria",
+      "year": 1977
+    },
+    "The Stendhal Syndrome": {
+      "id": 39434,
+      "poster": "/ttgMlgv76nbh3vwRl91P4JkgroA.jpg",
+      "title": "The Stendhal Syndrome",
+      "year": 1996
+    },
+    "Toy Story": {
+      "id": 862,
+      "poster": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+      "title": "Toy Story",
+      "year": 1995
+    },
+    "Last Night in Soho": {
+      "id": 576845,
+      "poster": "/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg",
+      "title": "Last Night in Soho",
+      "year": 2021
+    },
+    "Rear Window": {
+      "id": 567,
+      "poster": "/ILVF0eJxHMddjxeQhswFtpMtqx.jpg",
+      "title": "Rear Window",
+      "year": 1954
+    },
+    "Saboteur": {
+      "id": 31997,
+      "poster": "/iDKOOTymUZg0WAWPcbdP6nPZEFF.jpg",
+      "title": "Saboteur",
+      "year": 1942
+    },
+    "Bones and All": {
+      "id": 791177,
+      "poster": "/dBQuk2LkHjrDsSjueirPQg96GCc.jpg",
+      "title": "Bones and All",
+      "year": 2022
+    },
+    "Dark Water": {
+      "id": 12205,
+      "poster": "/iSq6J55RFLfwcceDKxYtMjOr1sz.jpg",
+      "title": "Dark Water",
+      "year": 2002
+    }
+  }
+}

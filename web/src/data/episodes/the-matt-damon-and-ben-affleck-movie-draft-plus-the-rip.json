@@ -1,0 +1,659 @@
+{
+  "slug": "the-matt-damon-and-ben-affleck-movie-draft-plus-the-rip",
+  "title": "The Matt Damon and Ben Affleck Movie Draft. Plus: 'The Rip.'",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2026-01-19",
+  "runtimeMin": 103,
+  "spotifyEpisodeId": "6FVeikbGjN6U8147ER5Ldx",
+  "format": "A snake draft (Chris, then Sean, then Amanda) of Matt Damon and Ben Affleck movies, each host filling a six-slot roster across categories. Plus a review of 'The Rip,' the duo's new Netflix thriller from Joe Carnahan.",
+  "segments": [
+    {
+      "kind": "draft",
+      "heading": "The teams",
+      "draftOf": "Matt Damon & Ben Affleck movies",
+      "teams": [
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Armageddon",
+              "year": 1998,
+              "category": "Blockbuster",
+              "note": "'When I close my eyes and think of a summer blockbuster, it's this.'"
+            },
+            {
+              "title": "Good Will Hunting",
+              "year": 1997,
+              "category": "Oscar Nominee",
+              "note": "The #1 overall pick, where it all began."
+            },
+            {
+              "title": "The Last Duel",
+              "year": 2021,
+              "category": "Matt & Ben Together",
+              "note": "Ridley Scott; Affleck having the most fun of his career. A little lost in a two-movie Ridley year."
+            },
+            {
+              "title": "Argo",
+              "year": 2012,
+              "category": "Directed or Produced By",
+              "note": "Affleck directs a clean, expertly made genre film; Arkin and Goodman stand out."
+            },
+            {
+              "title": "Saving Private Ryan",
+              "year": 1998,
+              "category": "Supporting Role",
+              "note": "Spielberg; Damon as the ingrate at the center of a five-star all-timer."
+            },
+            {
+              "title": "The Bourne Supremacy",
+              "year": 2004,
+              "category": "Wildcard",
+              "note": "Peak Greengrass: the Moscow car chase and the opening twist."
+            }
+          ]
+        },
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "The Departed",
+              "year": 2006,
+              "category": "Blockbuster",
+              "note": "Scorsese; some of Damon's best work, and a Best Picture winner turning 20."
+            },
+            {
+              "title": "The Martian",
+              "year": 2015,
+              "category": "Oscar Nominee",
+              "note": "Ridley Scott; Damon selling defeated, intelligent struggle, 'his talk-show persona in a blockbuster.'"
+            },
+            {
+              "title": "Dogma",
+              "year": 1999,
+              "category": "Matt & Ben Together",
+              "note": "Kevin Smith; fallen angels and the parking-garage scene, 'the most them of them together.'"
+            },
+            {
+              "title": "The Town",
+              "year": 2010,
+              "category": "Directed or Produced By",
+              "note": "Affleck directs Boston heist, an easy, great pick."
+            },
+            {
+              "title": "Dazed and Confused",
+              "year": 1993,
+              "category": "Supporting Role",
+              "note": "Affleck as an insecure bully nobody forgets, and everyone remembers the paint dump."
+            },
+            {
+              "title": "Rounders",
+              "year": 1998,
+              "category": "Wildcard",
+              "note": "A classical star turn, 'something Paul Newman could have played,' and Damon fits it perfectly."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Gone Girl",
+              "year": 2014,
+              "category": "Blockbuster",
+              "note": "Fincher, and 'still the single best movie made about Ben Affleck.'"
+            },
+            {
+              "title": "The Talented Mr. Ripley",
+              "year": 1999,
+              "category": "Oscar Nominee",
+              "note": "Her favorite Damon performance, a messed-up weirdo playing against his charisma."
+            },
+            {
+              "title": "Field of Dreams",
+              "year": 1989,
+              "category": "Matt & Ben Together",
+              "note": "The sneaky third pick, made eligible by Matt and Ben's Fenway cameo."
+            },
+            {
+              "title": "Manchester by the Sea",
+              "year": 2016,
+              "category": "Directed or Produced By",
+              "note": "Damon produced (and stepped aside for Casey Affleck). The saddest film of the 2010s."
+            },
+            {
+              "title": "Ocean's Twelve",
+              "year": 2004,
+              "category": "Supporting Role",
+              "note": "Linus comes into his own, an Adam-Sandler-style 'pay everyone you love to make a fun movie.'"
+            },
+            {
+              "title": "Gone Baby Gone",
+              "year": 2007,
+              "category": "Wildcard",
+              "note": "Affleck's directorial debut, quite good and very upsetting."
+            }
+          ]
+        }
+      ],
+      "categories": [
+        "Blockbuster",
+        "Oscar Nominee",
+        "Matt & Ben Together",
+        "Directed or Produced By",
+        "Supporting Role",
+        "Wildcard"
+      ],
+      "undrafted": [
+        "Interstellar",
+        "True Grit",
+        "Oppenheimer",
+        "Promised Land",
+        "Invictus",
+        "The Bourne Identity",
+        "The Informant!",
+        "Behind the Candelabra",
+        "Shakespeare in Love",
+        "Boiler Room",
+        "Hollywoodland",
+        "Extract",
+        "The Tender Bar",
+        "State of Play",
+        "No Sudden Move",
+        "Courage Under Fire",
+        "Ford v Ferrari",
+        "Air"
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "The review",
+      "note": "the film in the room",
+      "films": [
+        {
+          "title": "The Rip",
+          "year": 2026,
+          "note": "Joe Carnahan's Netflix thriller: Miami cops find a stash of cash and turn on each other. A B-movie with A stars (Damon, Affleck, Steven Yeun, Teyana Taylor); Triple Frontier energy, an obvious rat reveal, but a great time."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "January movies through history",
+      "films": [
+        "High School Musical",
+        "Glory Road",
+        "Tristan & Isolde",
+        "13 Hours: The Secret Soldiers of Benghazi",
+        "Kung Fu Panda 3",
+        "The Finest Hours",
+        "Jane Got a Gun",
+        "Dirty Grandpa",
+        "Fifty Shades of Black"
+      ]
+    },
+    {
+      "group": "Also mentioned",
+      "films": [
+        "Triple Frontier",
+        "Back in Action",
+        "The Bride",
+        "Super Mario Bros. Galaxy",
+        "Scream 7",
+        "Crime 101",
+        "The Uprising",
+        "The Lost Bus",
+        "News of the World",
+        "Melancholia",
+        "Ambulance",
+        "Hereditary",
+        "Chasing Amy",
+        "Mallrats",
+        "Jay and Silent Bob Strike Back",
+        "Phantoms",
+        "Reindeer Games",
+        "Paycheck",
+        "Pearl Harbor",
+        "Moneyball",
+        "Che: Part Two",
+        "Side Effects",
+        "Unsane"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Andor",
+      "The Pit"
+    ],
+    "Sports": [
+      "MLB free agency",
+      "the Mets",
+      "the Dodgers"
+    ],
+    "Ads": [
+      "Rag & Bone"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Uprising": 977942
+  },
+  "tmdb": {
+    "Armageddon": {
+      "id": 95,
+      "poster": "/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg",
+      "title": "Armageddon",
+      "year": 1998
+    },
+    "Good Will Hunting": {
+      "id": 489,
+      "poster": "/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+      "title": "Good Will Hunting",
+      "year": 1997
+    },
+    "The Last Duel": {
+      "id": 617653,
+      "poster": "/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg",
+      "title": "The Last Duel",
+      "year": 2021
+    },
+    "Argo": {
+      "id": 68734,
+      "poster": "/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
+      "title": "Argo",
+      "year": 2012
+    },
+    "Saving Private Ryan": {
+      "id": 857,
+      "poster": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+      "title": "Saving Private Ryan",
+      "year": 1998
+    },
+    "The Bourne Supremacy": {
+      "id": 2502,
+      "poster": "/jupG9sFT64YwM8PSkwkUD2wHcYD.jpg",
+      "title": "The Bourne Supremacy",
+      "year": 2004
+    },
+    "The Departed": {
+      "id": 1422,
+      "poster": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+      "title": "The Departed",
+      "year": 2006
+    },
+    "The Martian": {
+      "id": 286217,
+      "poster": "/fASz8A0yFE3QB6LgGoOfwvFSseV.jpg",
+      "title": "The Martian",
+      "year": 2015
+    },
+    "Dogma": {
+      "id": 1832,
+      "poster": "/oxhHl2YokTqcP44QK5tiTgjgLgk.jpg",
+      "title": "Dogma",
+      "year": 1999
+    },
+    "The Town": {
+      "id": 23168,
+      "poster": "/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
+      "title": "The Town",
+      "year": 2010
+    },
+    "Dazed and Confused": {
+      "id": 9571,
+      "poster": "/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+      "title": "Dazed and Confused",
+      "year": 1993
+    },
+    "Rounders": {
+      "id": 10220,
+      "poster": "/mqbMwYGwIChnaCO55h7v8DG8Wwy.jpg",
+      "title": "Rounders",
+      "year": 1998
+    },
+    "Gone Girl": {
+      "id": 210577,
+      "poster": "/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+      "title": "Gone Girl",
+      "year": 2014
+    },
+    "The Talented Mr. Ripley": {
+      "id": 1213,
+      "poster": "/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg",
+      "title": "The Talented Mr. Ripley",
+      "year": 1999
+    },
+    "Field of Dreams": {
+      "id": 2323,
+      "poster": "/oeM7nAw6FVFICwUaXKCRkDsKjqO.jpg",
+      "title": "Field of Dreams",
+      "year": 1989
+    },
+    "Manchester by the Sea": {
+      "id": 334541,
+      "poster": "/o9VXYOuaJxCEKOxbA86xqtwmqYn.jpg",
+      "title": "Manchester by the Sea",
+      "year": 2016
+    },
+    "Ocean's Twelve": {
+      "id": 163,
+      "poster": "/pE5anFf7nf6ah7V3VRezQ1KSovi.jpg",
+      "title": "Ocean's Twelve",
+      "year": 2004
+    },
+    "Gone Baby Gone": {
+      "id": 4771,
+      "poster": "/rm3Dl8DWYGO3UQ3w2kju62L9rkn.jpg",
+      "title": "Gone Baby Gone",
+      "year": 2007
+    },
+    "Interstellar": {
+      "id": 157336,
+      "poster": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+      "title": "Interstellar",
+      "year": 2014
+    },
+    "True Grit": {
+      "id": 44264,
+      "poster": "/tCrB8pcjadZjsDk7rleGJaIv78k.jpg",
+      "title": "True Grit",
+      "year": 2010
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Promised Land": {
+      "id": 133694,
+      "poster": "/5C0b6Wu4Z0V4NuA1cD8SZU7FCkb.jpg",
+      "title": "Promised Land",
+      "year": 2012
+    },
+    "Invictus": {
+      "id": 22954,
+      "poster": "/runuhBAAX7PmdjGhqRKCyl4bh7z.jpg",
+      "title": "Invictus",
+      "year": 2009
+    },
+    "The Bourne Identity": {
+      "id": 2501,
+      "poster": "/aP8swke3gmowbkfZ6lmNidu0y9p.jpg",
+      "title": "The Bourne Identity",
+      "year": 2002
+    },
+    "The Informant!": {
+      "id": 11323,
+      "poster": "/eV8u5crNe4QYWcu0zjKxFVq2Qem.jpg",
+      "title": "The Informant!",
+      "year": 2009
+    },
+    "Behind the Candelabra": {
+      "id": 119675,
+      "poster": "/iodt6hrewVXxR415PIjBeuZg3Qs.jpg",
+      "title": "Behind the Candelabra",
+      "year": 2013
+    },
+    "Shakespeare in Love": {
+      "id": 1934,
+      "poster": "/zdW7jdzPi4J9KZR3TyY2jn3Xh5e.jpg",
+      "title": "Shakespeare in Love",
+      "year": 1998
+    },
+    "Boiler Room": {
+      "id": 14181,
+      "poster": "/jFB5uvCZ3HXF00liAEAuOruCPs6.jpg",
+      "title": "Boiler Room",
+      "year": 2000
+    },
+    "Hollywoodland": {
+      "id": 1249,
+      "poster": "/8FgNVvJEEwRgFURiAcW7VuXwvf1.jpg",
+      "title": "Hollywoodland",
+      "year": 2006
+    },
+    "Extract": {
+      "id": 12569,
+      "poster": "/cjen0vxjybwItQPH3NNCJuME2MY.jpg",
+      "title": "Extract",
+      "year": 2009
+    },
+    "The Tender Bar": {
+      "id": 727293,
+      "poster": "/m6Ej3F4tYTOHD26fvX1zN9bcEUg.jpg",
+      "title": "The Tender Bar",
+      "year": 2021
+    },
+    "State of Play": {
+      "id": 16995,
+      "poster": "/mWsfeSFUM3NxWa62UrA9IIn240B.jpg",
+      "title": "State of Play",
+      "year": 2009
+    },
+    "No Sudden Move": {
+      "id": 649409,
+      "poster": "/kARdPEc4b32GQlHmJXMhGOCplEA.jpg",
+      "title": "No Sudden Move",
+      "year": 2021
+    },
+    "Courage Under Fire": {
+      "id": 10684,
+      "poster": "/vDJurMJkrx049AiXa3DJx5Zx7a4.jpg",
+      "title": "Courage Under Fire",
+      "year": 1996
+    },
+    "Ford v Ferrari": {
+      "id": 359724,
+      "poster": "/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+      "title": "Ford v Ferrari",
+      "year": 2019
+    },
+    "Air": {
+      "id": 964980,
+      "poster": "/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg",
+      "title": "Air",
+      "year": 2023
+    },
+    "The Rip": {
+      "id": 1306368,
+      "poster": "/4wsYWH73Hb1B6noGIFaRQSAkuXj.jpg",
+      "title": "The Rip",
+      "year": 2026
+    },
+    "High School Musical": {
+      "id": 10947,
+      "poster": "/1DGmWZjUJPeKGFRHGCA6VPFUBML.jpg",
+      "title": "High School Musical",
+      "year": 2006
+    },
+    "Glory Road": {
+      "id": 9918,
+      "poster": "/bGRSV5tStxDNPRLCewnOeeiZzrY.jpg",
+      "title": "Glory Road",
+      "year": 2006
+    },
+    "Tristan & Isolde": {
+      "id": 9044,
+      "poster": "/r7TpY5hJ4jQGH7c8yzJgBnTwPH6.jpg",
+      "title": "Tristan & Isolde",
+      "year": 2006
+    },
+    "13 Hours: The Secret Soldiers of Benghazi": {
+      "id": 300671,
+      "poster": "/fZlAxZMo6BId1SiqyjLmkd7oUB7.jpg",
+      "title": "13 Hours: The Secret Soldiers of Benghazi",
+      "year": 2016
+    },
+    "Kung Fu Panda 3": {
+      "id": 140300,
+      "poster": "/oajNi4Su39WAByHI6EONu8G8HYn.jpg",
+      "title": "Kung Fu Panda 3",
+      "year": 2016
+    },
+    "The Finest Hours": {
+      "id": 300673,
+      "poster": "/6UG91TJ4DKI6FGdqXZfDBeRZHX8.jpg",
+      "title": "The Finest Hours",
+      "year": 2016
+    },
+    "Jane Got a Gun": {
+      "id": 174751,
+      "poster": "/hmfZZ7QeD2RTqkCQX09OC2ehawz.jpg",
+      "title": "Jane Got a Gun",
+      "year": 2015
+    },
+    "Dirty Grandpa": {
+      "id": 291870,
+      "poster": "/k0Lz1TfSlbcQthQKYGwE7blDfwN.jpg",
+      "title": "Dirty Grandpa",
+      "year": 2016
+    },
+    "Fifty Shades of Black": {
+      "id": 351819,
+      "poster": "/nkGhv7WMbyX7tL8CJkvMY3S2lW.jpg",
+      "title": "Fifty Shades of Black",
+      "year": 2016
+    },
+    "Triple Frontier": {
+      "id": 399361,
+      "poster": "/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg",
+      "title": "Triple Frontier",
+      "year": 2019
+    },
+    "Back in Action": {
+      "id": 993710,
+      "poster": "/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg",
+      "title": "Back in Action",
+      "year": 2025
+    },
+    "The Bride": {
+      "id": 1159831,
+      "poster": "/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
+      "title": "The Bride!",
+      "year": 2026
+    },
+    "Super Mario Bros. Galaxy": null,
+    "Scream 7": {
+      "id": 1159559,
+      "poster": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+      "title": "Scream 7",
+      "year": 2026
+    },
+    "Crime 101": {
+      "id": 1171145,
+      "poster": "/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
+      "title": "Crime 101",
+      "year": 2026
+    },
+    "The Uprising": {
+      "id": 977942,
+      "poster": "/xBn14Qxc7jYpl5GVVfKRMRE52k8.jpg",
+      "title": "The Uprising",
+      "year": 2026
+    },
+    "The Lost Bus": {
+      "id": 1236470,
+      "poster": "/4IPxzGlE17fJAwUTMul4opMeutA.jpg",
+      "title": "The Lost Bus",
+      "year": 2025
+    },
+    "News of the World": {
+      "id": 581032,
+      "poster": "/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+      "title": "News of the World",
+      "year": 2020
+    },
+    "Melancholia": {
+      "id": 62215,
+      "poster": "/fMneszMiQuTKY8JUXrGGB5vwqJf.jpg",
+      "title": "Melancholia",
+      "year": 2011
+    },
+    "Ambulance": {
+      "id": 763285,
+      "poster": "/hUbgg3mMSbY9PlpTxBo4IFUVSd6.jpg",
+      "title": "Ambulance",
+      "year": 2022
+    },
+    "Hereditary": {
+      "id": 493922,
+      "poster": "/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+      "title": "Hereditary",
+      "year": 2018
+    },
+    "Chasing Amy": {
+      "id": 2255,
+      "poster": "/tqydORBcNlQxy3ijgSpPurgDHM2.jpg",
+      "title": "Chasing Amy",
+      "year": 1997
+    },
+    "Mallrats": {
+      "id": 2293,
+      "poster": "/2ip0sGIMPN0XEN6q3lQIoaNI6tP.jpg",
+      "title": "Mallrats",
+      "year": 1995
+    },
+    "Jay and Silent Bob Strike Back": {
+      "id": 2294,
+      "poster": "/aEsAdMAhwKYFgnHHxMOknktQYKK.jpg",
+      "title": "Jay and Silent Bob Strike Back",
+      "year": 2001
+    },
+    "Phantoms": {
+      "id": 9827,
+      "poster": "/FM8MOTW8BbyoTLa2V8PnI6UPib.jpg",
+      "title": "Phantoms",
+      "year": 1998
+    },
+    "Reindeer Games": {
+      "id": 2155,
+      "poster": "/8y1PedfYWllJVoBbkt9KWLY155v.jpg",
+      "title": "Reindeer Games",
+      "year": 2000
+    },
+    "Paycheck": {
+      "id": 9620,
+      "poster": "/h0BWaPnWYXwbCXF69DxS0YWcVy2.jpg",
+      "title": "Paycheck",
+      "year": 2003
+    },
+    "Pearl Harbor": {
+      "id": 676,
+      "poster": "/y8A0Cvp8WQmZ3bjbnsL53lY0dsC.jpg",
+      "title": "Pearl Harbor",
+      "year": 2001
+    },
+    "Moneyball": {
+      "id": 60308,
+      "poster": "/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+      "title": "Moneyball",
+      "year": 2011
+    },
+    "Che: Part Two": {
+      "id": 8880,
+      "poster": "/fKQwwWXYQNkrZa59VbnfVy2kfoF.jpg",
+      "title": "Che: Part Two",
+      "year": 2008
+    },
+    "Side Effects": {
+      "id": 109421,
+      "poster": "/dk10bwGyj8aRdOTl3EkgATEefh2.jpg",
+      "title": "Side Effects",
+      "year": 2013
+    },
+    "Unsane": {
+      "id": 467660,
+      "poster": "/wdaUssQhZDOgegkJZx7NfY75HRX.jpg",
+      "title": "Unsane",
+      "year": 2018
+    }
+  }
+}

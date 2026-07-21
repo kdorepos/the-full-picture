@@ -1,0 +1,127 @@
+{
+  "slug": "barry-jenkins-on-crafting-the-sincerity-of-moonlight-the-big",
+  "title": "Barry Jenkins on Crafting the Sincerity of 'Moonlight' | The Big Picture (Ep. 4)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2017-02-09",
+  "runtimeMin": 32,
+  "format": "Sean Fennessey talks to Barry Jenkins about Moonlight, the eight years of dead screenplays between it and Medicine for Melancholy, and casting non-actors out of Liberty City.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "Barry Jenkins on 'Moonlight'",
+      "guest": "Barry Jenkins on",
+      "films": [
+        {
+          "title": "Moonlight",
+          "year": 2016,
+          "note": "Up for eight Academy Awards when Jenkins sat down, weeks before the ceremony. Adapted from Tarell Alvin McCraney's play; both men grew up in Liberty City and both their mothers went through the addiction Naomi Harris plays as Paula. Jenkins wrote the first draft in ten days on one block in Brussels and made it with his film-school friends. He deliberately blended trained actors with non-actors so the audience would meet the character rather than a familiar face, and kept the film in the present tense with no flashbacks. He describes coaxing the one scene between Trevante Rhodes and Naomi Harris, who had never met, by having him light her cigarette on camera."
+        },
+        {
+          "title": "Medicine for Melancholy",
+          "year": 2008,
+          "note": "Jenkins's debut, shot for about $13,000 with five friends, including Moonlight cinematographer James Laxton and editor Nat Sanders. A CAA signing and a Focus Features project followed, but four and a half years of screenplays that didn't work came before Moonlight."
+        },
+        {
+          "title": "My Josephine",
+          "year": 2003,
+          "note": "His first short, which he'd reshared on Twitter around the election. He looks back at that 22-year-old as a different filmmaker and person, but is glad he was already trying to speak to some real shit."
+        },
+        {
+          "title": "Happy Together",
+          "year": 1997,
+          "note": "Wong Kar-wai, a big influence Jenkins hadn't watched in five or six years. He avoids direct influences before writing so a potent image doesn't leak into the work."
+        },
+        {
+          "title": "George Washington",
+          "year": 2000,
+          "note": "David Gordon Green's debut, which Jenkins and Laxton were obsessed with in film school alongside Claire Denis and Wong Kar-wai."
+        },
+        {
+          "title": "Fight Club",
+          "year": 1999,
+          "note": "His example of why he cast lesser-known actors for the leads: you can suspend disbelief, but at the end of the day you're still watching Brad Pitt."
+        },
+        {
+          "title": "Traffic",
+          "year": 2000,
+          "note": "Soderbergh, whom Jenkins cites as approaching television no differently than features. It's why he isn't worried about moving between the two."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Captain America"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Captain America": null
+  },
+  "excluded": {
+    "TV": [
+      "The Knick",
+      "Girls",
+      "Togetherness"
+    ],
+    "Books": [
+      "Portrait of an Addict as a Young Man",
+      "The Underground Railroad"
+    ],
+    "Ads": [
+      "The Watch (podcast promo)"
+    ]
+  },
+  "tmdb": {
+    "Moonlight": {
+      "id": 376867,
+      "poster": "/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+      "title": "Moonlight",
+      "year": 2016
+    },
+    "Medicine for Melancholy": {
+      "id": 24885,
+      "poster": "/gyO8w5lpK3kwBojTulRpYcA4MAo.jpg",
+      "title": "Medicine for Melancholy",
+      "year": 2009
+    },
+    "My Josephine": {
+      "id": 189923,
+      "poster": "/hHPX3s5s4SF19wnRiCd9WC05iyr.jpg",
+      "title": "My Josephine",
+      "year": 2003
+    },
+    "Happy Together": {
+      "id": 18329,
+      "poster": "/kO4KjUkQOfWSBw06Bdl7m6AlEP7.jpg",
+      "title": "Happy Together",
+      "year": 1997
+    },
+    "George Washington": {
+      "id": 18292,
+      "poster": "/g9nZi8u5LqSrVKEpSm199EM4hk5.jpg",
+      "title": "George Washington",
+      "year": 2000
+    },
+    "Fight Club": {
+      "id": 550,
+      "poster": "/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+      "title": "Fight Club",
+      "year": 1999
+    },
+    "Traffic": {
+      "id": 1900,
+      "poster": "/jbccmnqE4oAPI67bApgt2JiRPz8.jpg",
+      "title": "Traffic",
+      "year": 2000
+    },
+    "Captain America": null
+  },
+  "spotifyEpisodeId": "0fckqB0bWLI8F4yPPcMCVh"
+}

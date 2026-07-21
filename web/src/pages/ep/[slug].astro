@@ -1,0 +1,130 @@
+---
+import Base from '../../layouts/Base.astro';
+import Segment from '../../components/Segment.astro';
+
+export async function getStaticPaths() {
+  const modules = import.meta.glob('../../data/episodes/*.json', { eager: true });
+  return Object.values(modules).map((m) => ({
+    params: { slug: m.default.slug },
+    props: { ep: m.default },
+  }));
+}
+
+const { ep } = Astro.props;
+const tmdb = ep.tmdb || {};
+const link = (t) => (tmdb[t]?.id ? `https://www.themoviedb.org/movie/${tmdb[t].id}` : null);
+
+const KIND = {
+  review: 'Review', ranking: 'Rankings', topfive: 'Top Five', halloffame: 'Hall of Fame',
+  discussion: 'Discussion', interview: 'Interview', list: 'Roundtable', draft: 'Draft',
+  auction: 'Auction', awards: 'Awards',
+};
+const segs = ep.segments ?? [];
+const kinds = [...new Set(segs.map((s) => KIND[s.kind] ?? 'Segment'))].join(' · ');
+const pubDate = new Date(ep.published).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+
+const filmsIn = (s) =>
+  (s.films?.length ?? 0) +
+  (s.picks?.length ?? 0) +
+  (s.teams?.reduce((n, t) => n + t.picks.filter((p) => p.year).length, 0) ?? 0) +
+  (s.slates?.reduce((n, sl) => n + sl.picks.length, 0) ?? 0) +
+  (s.categories?.reduce((n, c) => n + (c.nominees?.length ?? 0), 0) ?? 0);
+const filmTotal = segs.reduce((n, s) => n + filmsIn(s), 0);
+
+// Auction episodes keep their signature hero furniture (sale line + sold stamp).
+const auction = segs.find((s) => s.kind === 'auction');
+const money = (p) => (p == null ? '—' : `$${p.toLocaleString()}`);
+let sale = null;
+if (auction) {
+  const paddle = {};
+  auction.slates.forEach((s, i) => (paddle[s.host] = i + 1));
+  const board = auction.slates.flatMap((s) => s.picks.map((p) => ({ ...p, host: s.host })))
+    .sort((a, b) => (b.price ?? -1) - (a.price ?? -1));
+  sale = {
+    lots: board.length,
+    paddles: auction.slates.length,
+    hammer: auction.slates.reduce((n, s) => n + s.spent, 0),
+    top: board[0],
+    topPaddle: paddle[board[0].host],
+    label: auction.saleLabel ?? 'Mid-year sale · 2026',
+  };
+}
+---
+<Base title={`${ep.title} · The Full Picture`} description={ep.format}>
+  <section class="cover">
+    <div class="wrap">
+      <p class="eyebrow">{ep.show} · {kinds}</p>
+      <h1>{ep.title}</h1>
+      <p class="credits">
+        <span>{pubDate}</span><span class="sep">/</span>
+        <span>{ep.runtimeMin} min</span><span class="sep">/</span>
+        <span>{ep.hosts.join(' · ')}</span>
+      </p>
+      <p class="lede">{ep.format}</p>
+      {sale ? (
+        <>
+          <p class="sale-line">
+            A sale of <b>{sale.lots}</b> lots across <b>{sale.paddles}</b> paddles, <b>${sale.hammer.toLocaleString()}</b> at the hammer.
+          </p>
+          <p class="toplot-cap">
+            Top lot: <b>{sale.top.title}</b>, to Paddle {sale.topPaddle}, <span class="hammer">{money(sale.top.price)}</span>.
+          </p>
+          <div class="sold" aria-hidden="true"><span class="word">Sold</span><span class="fine">{sale.label}</span></div>
+        </>
+      ) : (
+        <p class="sale-line">
+          <b>{filmTotal}</b> films across <b>{segs.length}</b> {segs.length === 1 ? 'segment' : 'segments'}.
+        </p>
+      )}
+    </div>
+  </section>
+
+  {ep.spotifyEpisodeId && (
+    <section class="listen">
+      <div class="wrap">
+        <iframe
+          title="Listen on Spotify"
+          src={`https://open.spotify.com/embed/episode/${ep.spotifyEpisodeId}?theme=0`}
+          width="100%" height="152" frameborder="0" loading="lazy"
+          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+        ></iframe>
+      </div>
+    </section>
+  )}
+
+  <div class="wrap">
+    <p class="ai-note">
+      <b>AI-generated</b>
+      This episode was transcribed and analyzed with AI models. The matches aren't perfect —
+      expect the occasional misheard title or a link to the wrong film.
+    </p>
+
+    {segs.map((s) => <Segment seg={s} tmdb={tmdb} />)}
+
+    {ep.referenced?.length > 0 && (
+      <section class="sale-section">
+        <p class="rubric">Also mentioned <span class="sub">raised along the way</span></p>
+        {ep.referenced.map((g) => (
+          <p class="entrylist">
+            <span class="g">{g.group}</span>
+            {g.films.map((f) => (link(f)
+              ? <a class="entry" href={link(f)} target="_blank" rel="noopener">{f}</a>
+              : <span class="entry">{f}</span>))}
+          </p>
+        ))}
+      </section>
+    )}
+
+    {ep.excluded && (
+      <section class="sale-section">
+        <p class="rubric">Not films <span class="sub">filtered out: TV, games, ads</span></p>
+        {Object.entries(ep.excluded).map(([k, arr]) => (
+          <p class="entrylist dim">
+            <span class="g">{k}</span>
+            {arr.map((f) => <span class="entry">{f}</span>)}
+          </p>
+        ))}
+      </section>
+    )}
+  </div>
+</Base>

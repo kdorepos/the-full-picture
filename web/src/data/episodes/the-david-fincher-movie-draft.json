@@ -1,0 +1,539 @@
+{
+  "slug": "the-david-fincher-movie-draft",
+  "title": "The David Fincher Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2023-11-03",
+  "runtimeMin": 100,
+  "format": "Sean, Amanda, and Chris Ryan draft the 12 films of David Fincher's filmography across six categories (thriller, blockbuster, Oscar nominee, wildcard, sequence or scene, and music video or commercial), then scrap the no-repeats rule and run the whole thing back.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Remembering Fincher",
+      "note": "before the draft",
+      "films": [
+        {
+          "title": "Se7en",
+          "year": 1995,
+          "note": "The first Fincher movie that felt like a bomb going off for a certain kind of teenager; rewatching it now, Sean reads it less as a serial-killer thriller and more as a mournful movie about the death of the nuclear family."
+        },
+        {
+          "title": "Alien 3",
+          "year": 1992,
+          "note": "The first Fincher film Chris Ryan saw in a theater, without realizing at the time he was watching a Fincher movie."
+        },
+        {
+          "title": "Fight Club",
+          "year": 1999,
+          "note": "Amanda's first Fincher movie, seen alone at 14; she and Sean revisit the Blank Check argument that the film's anti-consumerist point of view reads as more juvenile now, even if it's still a thrilling piece of pure filmmaking."
+        },
+        {
+          "title": "Gone Girl",
+          "year": 2014,
+          "note": "Amanda rewatched it the night before taping and found it plays differently now, funnier, and colored by \"the Ben Affleck of it all.\""
+        },
+        {
+          "title": "The Girl with the Dragon Tattoo",
+          "year": 2011,
+          "note": "Cited alongside Se7en and The Game as a film that hits differently on rewatch as the hosts get older."
+        },
+        {
+          "title": "Mank",
+          "year": 2020,
+          "note": "The one Fincher film that plays like autobiography as much as craft: his most direct reckoning with his father."
+        },
+        {
+          "title": "The Killer",
+          "year": 2023,
+          "note": "The occasion for the episode; Sean saw it at the Academy Museum with Fincher on stage, Chris at its Venice premiere. Streaming on Netflix November 10, the date they plan to cover it properly."
+        }
+      ]
+    },
+    {
+      "kind": "draft",
+      "heading": "The first draft",
+      "note": "no repeats",
+      "draftOf": "David Fincher's films",
+      "categories": [
+        "Thriller",
+        "Blockbuster",
+        "Oscar Nominee",
+        "Wildcard",
+        "Sequence or Scene",
+        "Music Video or Commercial"
+      ],
+      "teams": [
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Zodiac",
+              "year": 2007,
+              "category": "Thriller",
+              "note": "His first pick, and his favorite Fincher movie: the masterwork, not eligible for Oscar or Blockbuster, so thriller was really the only slot for it."
+            },
+            {
+              "title": "Fight Club",
+              "year": 1999,
+              "category": "Sequence or Scene",
+              "note": "The Where Is My Mind ending: Jack revealed as Tyler Durden, the exploding buildings, Marla and the narrator holding hands."
+            },
+            {
+              "title": "Freedom 90",
+              "category": "Music Video or Commercial",
+              "note": "George Michael's video with the supermodels: Turlington, Crawford, Evangelista. Sean argues it invented the modern supermodel era and got Fincher his shot at Alien 3."
+            },
+            {
+              "title": "Panic Room",
+              "year": 2002,
+              "category": "Blockbuster",
+              "note": "Sean's pick; Amanda calls it the number one movie about a house in the Fincher canon while defending her own choice of The Game as the underrated house movie."
+            },
+            {
+              "title": "Mank",
+              "year": 2020,
+              "category": "Oscar Nominee",
+              "note": "The only Oscar-eligible film left once Gone Girl and Social Network were off the board; Sean still rates it highly."
+            },
+            {
+              "title": "Alien 3",
+              "year": 1992,
+              "category": "Wildcard",
+              "note": "\"If given the opportunity to take a movie I will always take a movie,\" passing on the gimmick picks. Sean argues its chaotic production is what taught Fincher to control everything after."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "The Game",
+              "year": 1997,
+              "category": "Thriller",
+              "note": "A value pick since it was still on the board; she calls it underrated, and 'pretty fucked up' in a good way."
+            },
+            {
+              "title": "The Girl with the Dragon Tattoo",
+              "year": 2011,
+              "category": "Sequence or Scene",
+              "note": "The Enya torture-chamber scene."
+            },
+            {
+              "title": "Vogue",
+              "category": "Music Video or Commercial",
+              "note": "Madonna's video, picked after Sean claimed Freedom 90; Amanda argues it's more iconic than Madonna's Express Yourself."
+            },
+            {
+              "title": "The Curious Case of Benjamin Button",
+              "year": 2008,
+              "category": "Blockbuster",
+              "note": "Her defense: it's basically a movie about being in love with an old man baby, and it still made her cry."
+            },
+            {
+              "title": "The Social Network",
+              "year": 2010,
+              "category": "Oscar Nominee",
+              "note": "Her first pick and favorite Fincher film: she and Sean call it the best movie of the 21st century so far."
+            },
+            {
+              "title": "Ben Affleck interviewing David Fincher",
+              "category": "Wildcard",
+              "note": "A Mank-era press conversation, picked over options like footage of Fincher driving around Hollywood in his white Mercedes."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Se7en",
+              "year": 1995,
+              "category": "Thriller",
+              "note": "His first pick: the movie that made a generation want to be serial-killer-movie people."
+            },
+            {
+              "title": "The Killer",
+              "year": 2023,
+              "category": "Sequence or Scene",
+              "note": "A sequence Chris nicknames 'Scooter' from The Killer."
+            },
+            {
+              "title": "Leave Nothing",
+              "category": "Music Video or Commercial",
+              "note": "The Nike track-and-field ad set to Ennio Morricone; Chris calls it better than any sports movie made in the 21st century."
+            },
+            {
+              "title": "Gone Girl",
+              "year": 2014,
+              "category": "Oscar Nominee",
+              "note": "Rosamund Pike's Oscar-nominated performance."
+            },
+            {
+              "title": "Mindhunter",
+              "category": "Wildcard",
+              "note": "Specifically the season one finale: Holden visiting Ed Kemper in the hospital, scored to Led Zeppelin's 'In the Light.' Chris calls it as radiant a sequence as Fincher has ever made, and notes he technically didn't direct every episode."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "draft",
+      "heading": "The redraft",
+      "note": "repeats allowed, speed round",
+      "draftOf": "David Fincher's films",
+      "categories": [
+        "Thriller",
+        "Blockbuster",
+        "Oscar Nominee",
+        "Wildcard",
+        "Sequence or Scene",
+        "Music Video or Commercial"
+      ],
+      "teams": [
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "The Social Network",
+              "year": 2010,
+              "category": "Oscar Nominee",
+              "note": "Goes first this round and re-drafts it from Amanda, now that repeats are allowed."
+            },
+            {
+              "title": "Fight Club",
+              "year": 1999,
+              "category": "Thriller"
+            },
+            {
+              "title": "The Curious Case of Benjamin Button",
+              "year": 2008,
+              "category": "Sequence or Scene",
+              "note": "The U-boat battle in the middle of the movie."
+            },
+            {
+              "title": "Golf",
+              "category": "Music Video or Commercial",
+              "note": "From 'Dress Normal,' Fincher's quartet of black-and-white Gap ads (Golf, Drive, Stairs, The Kiss), probably his last known commercial work."
+            },
+            {
+              "title": "The Girl with the Dragon Tattoo",
+              "year": 2011,
+              "category": "Blockbuster"
+            },
+            {
+              "title": "Hitchcock/Truffaut",
+              "category": "Wildcard",
+              "note": "Fincher's talking-head contribution to the Hitchcock/Truffaut documentary, where he describes his dad giving him the Truffaut-Hitchcock book as a kid, clearly talking about himself as much as Hitchcock."
+            }
+          ]
+        },
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Zodiac",
+              "year": 2007,
+              "category": "Thriller",
+              "note": "Takes it again after passing on it for two takes of the argument."
+            },
+            {
+              "title": "The Social Network",
+              "year": 2010,
+              "category": "Sequence or Scene",
+              "note": "\"You better lawyer up, asshole\": Eduardo's confrontation with Zuckerberg and Sean Parker."
+            },
+            {
+              "title": "Only",
+              "category": "Music Video or Commercial",
+              "note": "Fincher's 2005 Nine Inch Nails video, a digitally animated Trent Reznor head, the first of Fincher and Reznor's collaborations, years before The Social Network and Gone Girl scores."
+            },
+            {
+              "title": "Se7en",
+              "year": 1995,
+              "category": "Blockbuster"
+            },
+            {
+              "title": "The Curious Case of Benjamin Button",
+              "year": 2008,
+              "category": "Oscar Nominee"
+            },
+            {
+              "title": "The Game",
+              "year": 1997,
+              "category": "Wildcard",
+              "note": "It went undrafted the second time around, so Sean takes it as his wildcard rather than pick a novelty item."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "The Killer",
+              "year": 2023,
+              "category": "Thriller"
+            },
+            {
+              "title": "Zodiac",
+              "year": 2007,
+              "category": "Sequence or Scene",
+              "note": "The Lake Berryessa killing."
+            },
+            {
+              "title": "Freedom 90",
+              "category": "Music Video or Commercial",
+              "note": "Takes it back this round, having lost it to Sean the first time."
+            },
+            {
+              "title": "Gone Girl",
+              "year": 2014,
+              "category": "Blockbuster"
+            },
+            {
+              "title": "Mank",
+              "year": 2020,
+              "category": "Oscar Nominee"
+            },
+            {
+              "title": "Gone Girl (director's commentary)",
+              "category": "Wildcard",
+              "note": "Ruled ineligible the first round because you can't take the commentary without the film; with the rules loosened, she finally gets it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Left on the board",
+      "note": "honorable mentions",
+      "films": [
+        {
+          "title": "Se7en",
+          "year": 1995,
+          "note": "What's in the box never got drafted, and neither did the ending: 'Explain to me what I'm not understanding. John Doe has the upper hand!'"
+        },
+        {
+          "title": "The Game",
+          "year": 1997,
+          "note": "The ending, and the cab ride, both went undrafted."
+        },
+        {
+          "title": "Fight Club",
+          "year": 1999,
+          "note": "The basement fight-club scenes and the taxi-driver murder both got left off."
+        },
+        {
+          "title": "Zodiac",
+          "year": 2007,
+          "note": "The door-to-door canvassing, the cab ride, and the final interrogation of Arthur Leigh Allen by Ruffalo, Elias Koteas, and Anthony Edwards, a scene Sean says he almost stood up and applauded."
+        },
+        {
+          "title": "The Social Network",
+          "year": 2010,
+          "note": "The Henley Royal Regatta rowing sequence and the opening breakup scene both went undrafted, the latter singled out as Fincher and Sorkin at their best."
+        },
+        {
+          "title": "Gone Girl",
+          "year": 2014,
+          "note": "Desi's murder ('I've killed for you') and the 'I'm that c-word' reunion scene both got left on the table."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Callbacks to past drafts",
+      "films": [
+        "Michael Clayton",
+        "Talladega Nights: The Ballad of Ricky Bobby",
+        "The Devil Wears Prada",
+        "Marie Antoinette",
+        "The Queen"
+      ]
+    },
+    {
+      "group": "On adaptation",
+      "films": [
+        "Killers of the Flower Moon",
+        "No Country for Old Men",
+        "There Will Be Blood"
+      ]
+    },
+    {
+      "group": "Coming up on the show",
+      "films": [
+        "Priscilla",
+        "Five Nights at Freddy's",
+        "The Pigeon Tunnel"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "House of Cards",
+      "The Morning Show"
+    ],
+    "Podcasts": [
+      "Dissect",
+      "The Rewatchables",
+      "Blank Check",
+      "The Bill Simmons Podcast"
+    ],
+    "Ads": [
+      "Netflix (FIFA World Cup Launch Edition)",
+      "Boar's Head",
+      "Carvana",
+      "FanDuel"
+    ]
+  },
+  "tmdbOverrides": {
+    "Alien 3": 8077
+  },
+  "tmdb": {
+    "Se7en": {
+      "id": 807,
+      "poster": "/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+      "title": "Se7en",
+      "year": 1995
+    },
+    "Alien 3": {
+      "id": 8077,
+      "poster": "/xh5wI0UoW7DfS1IyLy3d2CgrCEP.jpg",
+      "title": "Alien³",
+      "year": 1992
+    },
+    "Fight Club": {
+      "id": 550,
+      "poster": "/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+      "title": "Fight Club",
+      "year": 1999
+    },
+    "Gone Girl": {
+      "id": 210577,
+      "poster": "/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+      "title": "Gone Girl",
+      "year": 2014
+    },
+    "The Girl with the Dragon Tattoo": {
+      "id": 65754,
+      "poster": "/8bokS83zGdhaXgN9tjidUKmAftW.jpg",
+      "title": "The Girl with the Dragon Tattoo",
+      "year": 2011
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "The Killer": {
+      "id": 800158,
+      "poster": "/ipkcgvN7h3yZnbYowthloHLKsf4.jpg",
+      "title": "The Killer",
+      "year": 2023
+    },
+    "Zodiac": {
+      "id": 1949,
+      "poster": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+      "title": "Zodiac",
+      "year": 2007
+    },
+    "Panic Room": {
+      "id": 4547,
+      "poster": "/hANYbvfwxmkC9E4yY6YyJxYxlSJ.jpg",
+      "title": "Panic Room",
+      "year": 2002
+    },
+    "The Game": {
+      "id": 2649,
+      "poster": "/4UOa079915QjiTA2u5hT2yKVgUu.jpg",
+      "title": "The Game",
+      "year": 1997
+    },
+    "The Curious Case of Benjamin Button": {
+      "id": 4922,
+      "poster": "/26wEWZYt6yJkwRVkjcbwJEFh9IS.jpg",
+      "title": "The Curious Case of Benjamin Button",
+      "year": 2008
+    },
+    "The Social Network": {
+      "id": 37799,
+      "poster": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+      "title": "The Social Network",
+      "year": 2010
+    },
+    "Michael Clayton": {
+      "id": 4566,
+      "poster": "/hhkW4yVIGo8Bee3UITKvqOvhNMG.jpg",
+      "title": "Michael Clayton",
+      "year": 2007
+    },
+    "Talladega Nights: The Ballad of Ricky Bobby": {
+      "id": 9718,
+      "poster": "/3iCiTqsmJz1mO85AHzTiHNkRmb6.jpg",
+      "title": "Talladega Nights: The Ballad of Ricky Bobby",
+      "year": 2006
+    },
+    "The Devil Wears Prada": {
+      "id": 350,
+      "poster": "/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+      "title": "The Devil Wears Prada",
+      "year": 2006
+    },
+    "Marie Antoinette": {
+      "id": 1887,
+      "poster": "/cybXGmv8Rjd5Os8Xml6YxMBQ0Zt.jpg",
+      "title": "Marie Antoinette",
+      "year": 2006
+    },
+    "The Queen": {
+      "id": 1165,
+      "poster": "/v08RH5Cx9EFAQMBWQuE5jHAgHYs.jpg",
+      "title": "The Queen",
+      "year": 2006
+    },
+    "Killers of the Flower Moon": {
+      "id": 466420,
+      "poster": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+      "title": "Killers of the Flower Moon",
+      "year": 2023
+    },
+    "No Country for Old Men": {
+      "id": 6977,
+      "poster": "/uB7RDZby43Wvu8SKGHHTwGyTDBX.jpg",
+      "title": "No Country for Old Men",
+      "year": 2007
+    },
+    "There Will Be Blood": {
+      "id": 7345,
+      "poster": "/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+      "title": "There Will Be Blood",
+      "year": 2007
+    },
+    "Priscilla": {
+      "id": 1020006,
+      "poster": "/uDCeELWWpsNq7ErM61Yuq70WAE9.jpg",
+      "title": "Priscilla",
+      "year": 2023
+    },
+    "Five Nights at Freddy's": {
+      "id": 507089,
+      "poster": "/7BpNtNfxuocYEVREzVMO75hso1l.jpg",
+      "title": "Five Nights at Freddy's",
+      "year": 2023
+    },
+    "The Pigeon Tunnel": {
+      "id": 1155770,
+      "poster": "/xsDb7JlPS6QnI26bTP3sREz9n0K.jpg",
+      "title": "The Pigeon Tunnel",
+      "year": 2023
+    }
+  }
+}

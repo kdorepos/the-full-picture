@@ -1,0 +1,355 @@
+{
+  "slug": "the-25-best-movies-of-the-century-no-7-in-the-mood-for-love",
+  "title": "The 25 Best Movies of the Century: No. 7 - 'In The Mood for Love'",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2025-10-29",
+  "runtimeMin": 45,
+  "format": "Sean and Amanda take No. 7 on the century list, Wong Kar-wai's In the Mood for Love. They cover its color and composition, the unconsummated romance between Maggie Cheung and Tony Leung, how much of it turns up in fashion and advertising, and why it let them leave Lost in Translation off the list.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "No. 7 - 'In the Mood for Love'",
+      "note": "the Wong Kar-wai pick",
+      "films": [
+        {
+          "title": "In the Mood for Love",
+          "year": 2000,
+          "note": "Wong Kar-wai wrote, produced, and directed it; it premiered at the 2000 Cannes Film Festival and reached U.S. theaters in March 2001. Set in Hong Kong in 1962, it follows two married neighbors (Maggie Cheung and Tony Leung) who realize their absent spouses are having an affair with each other, and who circle their own feelings through rehearsed, role-played conversations without ever consummating anything. The hosts dwell on the color and composition (characters framed by hallways, doorways, windows, and Cheung's cheongsams), the 98-minute runtime that deliberately feels long, Yumeji's Theme, and Nat King Cole's Spanish recordings including 'Quizas, Quizas, Quizas.' Shot over 15 months and largely improvised, with cinematography by Christopher Doyle (who left mid-production) and Ping Bin Lee, and editing, production design, and costumes all by William Chang Suk Ping. It ends at Angkor Wat, where Leung whispers his secret into a hole in a wall. Amanda calls it the reason they didn't need Lost in Translation on the list; Sean argues it's one of the most influential films of the century, felt in watch and perfume commercials as much as in arthouse filmmaking. Tony Leung won Best Actor at Cannes; Hong Kong submitted it for the Best Foreign Language Film Oscar but the Academy didn't nominate it. No. 4 on the New York Times' century list, 87 on Metacritic, and three stars from Roger Ebert."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The rest of the Wong Kar-wai shelf",
+      "films": [
+        "Chungking Express",
+        "Days of Being Wild",
+        "Fallen Angels",
+        "Happy Together",
+        "2046",
+        "The Grandmaster",
+        "My Blueberry Nights"
+      ]
+    },
+    {
+      "group": "Century romances it stood in for",
+      "films": [
+        "Lost in Translation",
+        "Eternal Sunshine of the Spotless Mind",
+        "Brokeback Mountain",
+        "Past Lives",
+        "Call Me by Your Name",
+        "Portrait of a Lady on Fire",
+        "Moonlight",
+        "Far from Heaven",
+        "Carol",
+        "Yi Yi"
+      ]
+    },
+    {
+      "group": "Older romance touchstones",
+      "films": [
+        "Brief Encounter",
+        "The Bridges of Madison County",
+        "The English Patient"
+      ]
+    },
+    {
+      "group": "Where the stars turned up otherwise",
+      "films": [
+        "Police Story",
+        "The Heroic Trio",
+        "Irma Vep",
+        "Shang-Chi and the Legend of the Ten Rings",
+        "Crouching Tiger, Hidden Dragon",
+        "Everything Everywhere All at Once"
+      ]
+    },
+    {
+      "group": "Hong Kong action getting rediscovered",
+      "films": [
+        "The Killer",
+        "Hard Boiled"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Mad Max: Fury Road",
+        "Die Hard with a Vengeance",
+        "Marie Antoinette",
+        "Pride & Prejudice",
+        "One Battle After Another",
+        "Bugonia",
+        "Wuthering Heights",
+        "Spider-Man 2",
+        "Bachelorette",
+        "Crash",
+        "Barbie"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Blossoms Shanghai",
+      "Mad Men"
+    ],
+    "Ads": [
+      "LinkedIn",
+      "State Farm"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Killer": 10835,
+    "Crash": 1640
+  },
+  "tmdb": {
+    "In the Mood for Love": {
+      "id": 843,
+      "poster": "/iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg",
+      "title": "In the Mood for Love",
+      "year": 2000
+    },
+    "Chungking Express": {
+      "id": 11104,
+      "poster": "/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg",
+      "title": "Chungking Express",
+      "year": 1994
+    },
+    "Days of Being Wild": {
+      "id": 18311,
+      "poster": "/g0nbZt1eFlL8FqG8r524iXnpoQV.jpg",
+      "title": "Days of Being Wild",
+      "year": 1990
+    },
+    "Fallen Angels": {
+      "id": 11220,
+      "poster": "/yyM9BPdwttK5LKZSLvHae7QPKo1.jpg",
+      "title": "Fallen Angels",
+      "year": 1995
+    },
+    "Happy Together": {
+      "id": 18329,
+      "poster": "/kO4KjUkQOfWSBw06Bdl7m6AlEP7.jpg",
+      "title": "Happy Together",
+      "year": 1997
+    },
+    "2046": {
+      "id": 844,
+      "poster": "/jIN65qw0Giplo4CshzMrxz204Wn.jpg",
+      "title": "2046",
+      "year": 2004
+    },
+    "The Grandmaster": {
+      "id": 44865,
+      "poster": "/ydBVVIscL6TsX5hYztA5YpBCwJ3.jpg",
+      "title": "The Grandmaster",
+      "year": 2013
+    },
+    "My Blueberry Nights": {
+      "id": 1989,
+      "poster": "/w9w3m2IB9QRZXxi6R51ZamKv3HS.jpg",
+      "title": "My Blueberry Nights",
+      "year": 2007
+    },
+    "Lost in Translation": {
+      "id": 153,
+      "poster": "/3jCLmYDIIiSMPujbwygNpqdpM8N.jpg",
+      "title": "Lost in Translation",
+      "year": 2003
+    },
+    "Eternal Sunshine of the Spotless Mind": {
+      "id": 38,
+      "poster": "/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year": 2004
+    },
+    "Brokeback Mountain": {
+      "id": 142,
+      "poster": "/aByfQOQBNa4CMFwIgq3QrqY2ZHh.jpg",
+      "title": "Brokeback Mountain",
+      "year": 2005
+    },
+    "Past Lives": {
+      "id": 666277,
+      "poster": "/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg",
+      "title": "Past Lives",
+      "year": 2023
+    },
+    "Call Me by Your Name": {
+      "id": 398818,
+      "poster": "/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
+      "title": "Call Me by Your Name",
+      "year": 2017
+    },
+    "Portrait of a Lady on Fire": {
+      "id": 531428,
+      "poster": "/rUDuOKpkKBHxx41BScqKej72iT3.jpg",
+      "title": "Portrait of a Lady on Fire",
+      "year": 2019
+    },
+    "Moonlight": {
+      "id": 376867,
+      "poster": "/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+      "title": "Moonlight",
+      "year": 2016
+    },
+    "Far from Heaven": {
+      "id": 10712,
+      "poster": "/9gQuvFDRPLx39smUvyafm36tp0d.jpg",
+      "title": "Far from Heaven",
+      "year": 2002
+    },
+    "Carol": {
+      "id": 258480,
+      "poster": "/cJeled7EyPdur6TnCA5GYg0UVna.jpg",
+      "title": "Carol",
+      "year": 2015
+    },
+    "Yi Yi": {
+      "id": 25538,
+      "poster": "/mR8dSQZI8X6Z1NClJhFrtJp636z.jpg",
+      "title": "Yi Yi",
+      "year": 2000
+    },
+    "Brief Encounter": {
+      "id": 851,
+      "poster": "/jC9EwLJcGhYMSQAHu2LxkKN5v7O.jpg",
+      "title": "Brief Encounter",
+      "year": 1945
+    },
+    "The Bridges of Madison County": {
+      "id": 688,
+      "poster": "/aCBrhOQjhG397GLkEZ49zReQEKX.jpg",
+      "title": "The Bridges of Madison County",
+      "year": 1995
+    },
+    "The English Patient": {
+      "id": 409,
+      "poster": "/8eHHqMg8qEYtVw8LQLygsHXSR2q.jpg",
+      "title": "The English Patient",
+      "year": 1996
+    },
+    "Police Story": {
+      "id": 9056,
+      "poster": "/1eFB0Iy1TMU4VO5hMcoCE064JAT.jpg",
+      "title": "Police Story",
+      "year": 1985
+    },
+    "The Heroic Trio": {
+      "id": 43636,
+      "poster": "/ilYFTXzy04qP5rZoQtWfz5JYH9a.jpg",
+      "title": "The Heroic Trio",
+      "year": 1993
+    },
+    "Irma Vep": {
+      "id": 25355,
+      "poster": "/9Z84G7mn8eS7WxiHr5CrXRrneaF.jpg",
+      "title": "Irma Vep",
+      "year": 1996
+    },
+    "Shang-Chi and the Legend of the Ten Rings": {
+      "id": 566525,
+      "poster": "/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "year": 2021
+    },
+    "Crouching Tiger, Hidden Dragon": {
+      "id": 146,
+      "poster": "/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg",
+      "title": "Crouching Tiger, Hidden Dragon",
+      "year": 2000
+    },
+    "Everything Everywhere All at Once": {
+      "id": 545611,
+      "poster": "/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+      "title": "Everything Everywhere All at Once",
+      "year": 2022
+    },
+    "The Killer": {
+      "id": 10835,
+      "poster": "/8hTxlSqMAHBXAh1eB69ir0BXhzE.jpg",
+      "title": "The Killer",
+      "year": 1989
+    },
+    "Hard Boiled": {
+      "id": 11782,
+      "poster": "/oMqr4CGGqVlfI8DdrSelK1e9aFM.jpg",
+      "title": "Hard Boiled",
+      "year": 1992
+    },
+    "Mad Max: Fury Road": {
+      "id": 76341,
+      "poster": "/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+      "title": "Mad Max: Fury Road",
+      "year": 2015
+    },
+    "Die Hard with a Vengeance": {
+      "id": 1572,
+      "poster": "/buqmCdFQEWwEpL3agGgg2GVjN2d.jpg",
+      "title": "Die Hard: With a Vengeance",
+      "year": 1995
+    },
+    "Marie Antoinette": {
+      "id": 1887,
+      "poster": "/cybXGmv8Rjd5Os8Xml6YxMBQ0Zt.jpg",
+      "title": "Marie Antoinette",
+      "year": 2006
+    },
+    "Pride & Prejudice": {
+      "id": 4348,
+      "poster": "/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg",
+      "title": "Pride & Prejudice",
+      "year": 2005
+    },
+    "One Battle After Another": {
+      "id": 1054867,
+      "poster": "/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+      "title": "One Battle After Another",
+      "year": 2025
+    },
+    "Bugonia": {
+      "id": 701387,
+      "poster": "/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+      "title": "Bugonia",
+      "year": 2025
+    },
+    "Wuthering Heights": {
+      "id": 1316092,
+      "poster": "/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
+      "title": "\"Wuthering Heights\"",
+      "year": 2026
+    },
+    "Spider-Man 2": {
+      "id": 558,
+      "poster": "/aGuvNAaaZuWXYQQ6N2v7DeuP6mB.jpg",
+      "title": "Spider-Man 2",
+      "year": 2004
+    },
+    "Bachelorette": {
+      "id": 84174,
+      "poster": "/yAr4LLjZnoIvrfb1VrV3mh38rTK.jpg",
+      "title": "Bachelorette",
+      "year": 2012
+    },
+    "Crash": {
+      "id": 1640,
+      "poster": "/86BdPC6RDX88NC880pLidKn2LCj.jpg",
+      "title": "Crash",
+      "year": 2005
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    }
+  },
+  "spotifyEpisodeId": "58r6YXngDooUwqPNvWVc4q"
+}

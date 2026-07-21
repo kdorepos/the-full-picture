@@ -1,0 +1,555 @@
+{
+  "slug": "the-2001-movie-draft",
+  "title": "The 2001 Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2023-06-13",
+  "runtimeMin": 118,
+  "format": "Sean Fennessey, Amanda Dobbins, and Chris Ryan draft 2001 across six categories (Blockbuster, Drama, Comedy, Action Horror Thriller, Oscar Nominee, and Wildcard), from Mulholland Drive to Zoolander.",
+  "segments": [
+    {
+      "kind": "draft",
+      "heading": "The 2001 Movie Draft",
+      "draftOf": "2001 movies",
+      "categories": [
+        "Blockbuster",
+        "Drama",
+        "Comedy",
+        "Action Horror Thriller",
+        "Oscar Nominee",
+        "Wildcard"
+      ],
+      "teams": [
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "The Lord of the Rings: The Fellowship of the Ring",
+              "year": 2001,
+              "category": "Blockbuster",
+              "note": "Sean's pick from what he calls a weak blockbuster field. He defends it as 'unimpeachable' after Amanda gives him a mocking thumbs up."
+            },
+            {
+              "title": "Mulholland Drive",
+              "year": 2001,
+              "category": "Drama",
+              "note": "David Lynch on Los Angeles, ambition, and stardom. Sean calls the diner scene maybe the scariest jump scare of the 21st century."
+            },
+            {
+              "title": "Wet Hot American Summer",
+              "year": 2001,
+              "category": "Comedy",
+              "note": "Barely released in theaters and became a cult object. David Wain directed, Michael Showalter co-wrote; Bradley Cooper's first movie and an early Amy Poehler role."
+            },
+            {
+              "title": "Vanilla Sky",
+              "year": 2001,
+              "category": "Action Horror Thriller",
+              "note": "Cameron Crowe's Lynchian swing with Tom Cruise, adapted from Abre los Ojos. Sean pairs it with Frankenheimer's Seconds as a spiritual cousin."
+            },
+            {
+              "title": "A.I. Artificial Intelligence",
+              "year": 2001,
+              "category": "Oscar Nominee",
+              "note": "Spielberg completing a project Kubrick left unfinished. Sean calls it one of the great Spielberg films and cites Haley Joel Osment's performance."
+            },
+            {
+              "title": "In the Mood for Love",
+              "year": 2001,
+              "category": "Wildcard",
+              "note": "Wong Kar-wai's film, shot by Christopher Doyle. Sean floats it as possibly the best movie of the year and admits he almost forgot to draft it."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "The Princess Diaries",
+              "year": 2001,
+              "category": "Blockbuster",
+              "note": "Amanda's pick after reading through a long list of that year's blockbuster board. Anne Hathaway's debut and a returning Julie Andrews."
+            },
+            {
+              "title": "The Royal Tenenbaums",
+              "year": 2001,
+              "category": "Drama",
+              "note": "Amanda's category choice for a Wes Anderson film both she and Sean say could've gone comedy instead."
+            },
+            {
+              "title": "Legally Blonde",
+              "year": 2001,
+              "category": "Comedy",
+              "note": "Amanda didn't like it the first time she saw it with friends in high school; came around on a rewatch."
+            },
+            {
+              "title": "Training Day",
+              "year": 2001,
+              "category": "Action Horror Thriller",
+              "note": "The movie Amanda saw twice on consecutive days."
+            },
+            {
+              "title": "Bridget Jones's Diary",
+              "year": 2001,
+              "category": "Oscar Nominee",
+              "note": "Renée Zellweger's best actress nomination. The film's conference speech was a reading at Amanda's wedding."
+            },
+            {
+              "title": "Zoolander",
+              "year": 2001,
+              "category": "Wildcard",
+              "note": "Released weeks after 9/11 and flopped; became a heavy-rotation favorite in Amanda's freshman dorm."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Ocean's Eleven",
+              "year": 2001,
+              "category": "Blockbuster",
+              "note": "Chris's first-overall pick and, by his account, one of the trio's three shared favorite movies (with Moneyball and The Social Network)."
+            },
+            {
+              "title": "Memento",
+              "year": 2001,
+              "category": "Drama",
+              "note": "Christopher Nolan's breakthrough. Chris says it's where his relationship with Nolan's films began."
+            },
+            {
+              "title": "Jay and Silent Bob Strike Back",
+              "year": 2001,
+              "category": "Comedy",
+              "note": "Kevin Smith's Clerks spinoff, which Chris saw on opening night in college."
+            },
+            {
+              "title": "Heist",
+              "year": 2001,
+              "category": "Action Horror Thriller",
+              "note": "David Mamet's con movie with Gene Hackman and Delroy Lindo. Chris rewatched it the day before taping and calls it excellent."
+            },
+            {
+              "title": "Sexy Beast",
+              "year": 2001,
+              "category": "Oscar Nominee",
+              "note": "Ben Kingsley's nomination; Chris argues Jonathan Glazer should have been nominated for directing instead of Ron Howard, who won for A Beautiful Mind."
+            },
+            {
+              "title": "Ali",
+              "year": 2001,
+              "category": "Wildcard",
+              "note": "Michael Mann's Muhammad Ali biopic with Will Smith and Jamie Foxx. Chris calls the opening ten minutes the best of any 21st-century film."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Gosford Park",
+        "In the Bedroom",
+        "Black Hawk Down",
+        "Hannibal",
+        "Joy Ride",
+        "Donnie Darko",
+        "A Beautiful Mind",
+        "Harry Potter and the Sorcerer's Stone",
+        "Shrek",
+        "Monsters, Inc.",
+        "Rush Hour 2",
+        "The Mummy Returns",
+        "Pearl Harbor",
+        "Jurassic Park III",
+        "Planet of the Apes",
+        "American Pie 2",
+        "The Fast and the Furious",
+        "Lara Croft: Tomb Raider",
+        "Dr. Dolittle 2",
+        "Spy Kids",
+        "Spy Game",
+        "The Others",
+        "The Man Who Wasn't There",
+        "Waking Life",
+        "Tape",
+        "Original Sin",
+        "The Score",
+        "The Majestic",
+        "The Wedding Planner",
+        "Moulin Rouge!",
+        "Freddy Got Fingered",
+        "Pootie Tang",
+        "Down to Earth",
+        "Baby Boy",
+        "Ghosts of Mars",
+        "Josie and the Pussycats",
+        "Amélie",
+        "Wit",
+        "A Knight's Tale"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Barry",
+      "The Tom Green Show"
+    ],
+    "Ads": [
+      "Carvana",
+      "Boar's Head",
+      "Whole Foods"
+    ]
+  },
+  "tmdbOverrides": {
+    "Joy Ride": 10866,
+    "Harry Potter and the Sorcerer's Stone": 671,
+    "Amélie": 194
+  },
+  "tmdb": {
+    "The Lord of the Rings: The Fellowship of the Ring": {
+      "id": 120,
+      "poster": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001
+    },
+    "Mulholland Drive": {
+      "id": 1018,
+      "poster": "/x7A59t6ySylr1L7aubOQEA480vM.jpg",
+      "title": "Mulholland Drive",
+      "year": 2001
+    },
+    "Wet Hot American Summer": {
+      "id": 2171,
+      "poster": "/skKRPj1Cdsxqzn8BwKxvNV20rRW.jpg",
+      "title": "Wet Hot American Summer",
+      "year": 2001
+    },
+    "Vanilla Sky": {
+      "id": 1903,
+      "poster": "/cAh2pCiNPftsY3aSqJuIOde7uWr.jpg",
+      "title": "Vanilla Sky",
+      "year": 2001
+    },
+    "A.I. Artificial Intelligence": {
+      "id": 644,
+      "poster": "/8MZSGX5JORoO72EfuAEcejH5yHn.jpg",
+      "title": "A.I. Artificial Intelligence",
+      "year": 2001
+    },
+    "In the Mood for Love": {
+      "id": 843,
+      "poster": "/iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg",
+      "title": "In the Mood for Love",
+      "year": 2000
+    },
+    "The Princess Diaries": {
+      "id": 9880,
+      "poster": "/7axhsbEzFan6HQQ1aMOy7w3CFRx.jpg",
+      "title": "The Princess Diaries",
+      "year": 2001
+    },
+    "The Royal Tenenbaums": {
+      "id": 9428,
+      "poster": "/nG7hZJn7wQTSDCQT39Gy3s3tbrp.jpg",
+      "title": "The Royal Tenenbaums",
+      "year": 2001
+    },
+    "Legally Blonde": {
+      "id": 8835,
+      "poster": "/9ohlMrJHQqKhfUKh7Zr3JQqHNLZ.jpg",
+      "title": "Legally Blonde",
+      "year": 2001
+    },
+    "Training Day": {
+      "id": 2034,
+      "poster": "/bUeiwBQdupBLQthMCHKV7zv56uv.jpg",
+      "title": "Training Day",
+      "year": 2001
+    },
+    "Bridget Jones's Diary": {
+      "id": 634,
+      "poster": "/olMTi7uCaec9Yr3Ar07D2SIja1G.jpg",
+      "title": "Bridget Jones's Diary",
+      "year": 2001
+    },
+    "Zoolander": {
+      "id": 9398,
+      "poster": "/qdrbSneHZjJG2Dj0hhBxzzAo4HB.jpg",
+      "title": "Zoolander",
+      "year": 2001
+    },
+    "Ocean's Eleven": {
+      "id": 161,
+      "poster": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+      "title": "Ocean's Eleven",
+      "year": 2001
+    },
+    "Memento": {
+      "id": 77,
+      "poster": "/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+      "title": "Memento",
+      "year": 2000
+    },
+    "Jay and Silent Bob Strike Back": {
+      "id": 2294,
+      "poster": "/aEsAdMAhwKYFgnHHxMOknktQYKK.jpg",
+      "title": "Jay and Silent Bob Strike Back",
+      "year": 2001
+    },
+    "Heist": {
+      "id": 11088,
+      "poster": "/5yKomryA4Oak54fPjBS9TXBmYji.jpg",
+      "title": "Heist",
+      "year": 2001
+    },
+    "Sexy Beast": {
+      "id": 11826,
+      "poster": "/xTfCZTzhgHNAR1pf5D49WH4buI5.jpg",
+      "title": "Sexy Beast",
+      "year": 2001
+    },
+    "Ali": {
+      "id": 8489,
+      "poster": "/32l3FaCzs8cXWps6hkgNJAcOsP.jpg",
+      "title": "Ali",
+      "year": 2001
+    },
+    "Gosford Park": {
+      "id": 5279,
+      "poster": "/7r8DeZuaaHCiOEbkqZC6MFmwJ69.jpg",
+      "title": "Gosford Park",
+      "year": 2001
+    },
+    "In the Bedroom": {
+      "id": 1999,
+      "poster": "/IQj11YbraLDyPYaz79jtDoAscc.jpg",
+      "title": "In the Bedroom",
+      "year": 2001
+    },
+    "Black Hawk Down": {
+      "id": 855,
+      "poster": "/7fU5dSqKRL4XHeEUz62rCKBfYok.jpg",
+      "title": "Black Hawk Down",
+      "year": 2001
+    },
+    "Hannibal": {
+      "id": 9740,
+      "poster": "/v5wAZwRqpGWmyAaaJ8BBHYuNXnj.jpg",
+      "title": "Hannibal",
+      "year": 2001
+    },
+    "Joy Ride": {
+      "id": 10866,
+      "poster": "/1LVGjf1QWgkNNPQssZtuT1GYKoP.jpg",
+      "title": "Joy Ride",
+      "year": 2001
+    },
+    "Donnie Darko": {
+      "id": 141,
+      "poster": "/j2AtZFsflxiluaNtajMTI0Avm8C.jpg",
+      "title": "Donnie Darko",
+      "year": 2001
+    },
+    "A Beautiful Mind": {
+      "id": 453,
+      "poster": "/rEIg5yJdNOt9fmX4P8gU9LeNoTQ.jpg",
+      "title": "A Beautiful Mind",
+      "year": 2001
+    },
+    "Harry Potter and the Sorcerer's Stone": {
+      "id": 671,
+      "poster": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "year": 2001
+    },
+    "Shrek": {
+      "id": 808,
+      "poster": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+      "title": "Shrek",
+      "year": 2001
+    },
+    "Monsters, Inc.": {
+      "id": 585,
+      "poster": "/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
+      "title": "Monsters, Inc.",
+      "year": 2001
+    },
+    "Rush Hour 2": {
+      "id": 5175,
+      "poster": "/aBQf2vMiCINeVC9v6BGVYKXurTh.jpg",
+      "title": "Rush Hour 2",
+      "year": 2001
+    },
+    "The Mummy Returns": {
+      "id": 1734,
+      "poster": "/kdJsW7hcy1lrj7tdMPycTAQPAiR.jpg",
+      "title": "The Mummy Returns",
+      "year": 2001
+    },
+    "Pearl Harbor": {
+      "id": 676,
+      "poster": "/y8A0Cvp8WQmZ3bjbnsL53lY0dsC.jpg",
+      "title": "Pearl Harbor",
+      "year": 2001
+    },
+    "Jurassic Park III": {
+      "id": 331,
+      "poster": "/oQXj4NUfS3r3gHXtDOzcJgj1lLc.jpg",
+      "title": "Jurassic Park III",
+      "year": 2001
+    },
+    "Planet of the Apes": {
+      "id": 869,
+      "poster": "/3ZWsuP5rExMSji7erxnb1P5SK6F.jpg",
+      "title": "Planet of the Apes",
+      "year": 2001
+    },
+    "American Pie 2": {
+      "id": 2770,
+      "poster": "/854ZZxXdeabAs90mrV72NqShJqR.jpg",
+      "title": "American Pie 2",
+      "year": 2001
+    },
+    "The Fast and the Furious": {
+      "id": 9799,
+      "poster": "/gqY0ITBgT7A82poL9jv851qdnIb.jpg",
+      "title": "The Fast and the Furious",
+      "year": 2001
+    },
+    "Lara Croft: Tomb Raider": {
+      "id": 1995,
+      "poster": "/sJpl1EfHGZhbKtZ3fWTlwrpM1tH.jpg",
+      "title": "Lara Croft: Tomb Raider",
+      "year": 2001
+    },
+    "Dr. Dolittle 2": {
+      "id": 10808,
+      "poster": "/asYjHXBoD44B6mLOcZtMfMV3hm1.jpg",
+      "title": "Dr. Dolittle 2",
+      "year": 2001
+    },
+    "Spy Kids": {
+      "id": 10054,
+      "poster": "/j3rUkHIAAoKr6jU30q3Db4fcIF9.jpg",
+      "title": "Spy Kids",
+      "year": 2001
+    },
+    "Spy Game": {
+      "id": 1535,
+      "poster": "/6y8M1rxjKofQCRKKe6xeV91K2Fc.jpg",
+      "title": "Spy Game",
+      "year": 2001
+    },
+    "The Others": {
+      "id": 1933,
+      "poster": "/p8g1vlTvpM6nr2hMMiZ1fUlKF0D.jpg",
+      "title": "The Others",
+      "year": 2001
+    },
+    "The Man Who Wasn't There": {
+      "id": 10778,
+      "poster": "/lrCgt8NNMyFsfmXyXiSSCRXNH4u.jpg",
+      "title": "The Man Who Wasn't There",
+      "year": 2001
+    },
+    "Waking Life": {
+      "id": 9081,
+      "poster": "/2MRM4PL6H7yraAkwyUEe2EqoQH3.jpg",
+      "title": "Waking Life",
+      "year": 2001
+    },
+    "Tape": {
+      "id": 23949,
+      "poster": "/4Flz17KOjGdGqJ2dFRhKnB7eg5.jpg",
+      "title": "Tape",
+      "year": 2001
+    },
+    "Original Sin": {
+      "id": 2057,
+      "poster": "/xvTtsdvvVr1NYlVJxWZibzhaEt5.jpg",
+      "title": "Original Sin",
+      "year": 2001
+    },
+    "The Score": {
+      "id": 11371,
+      "poster": "/fsb4m9XW59mei8GKznvI3lLzcfp.jpg",
+      "title": "The Score",
+      "year": 2001
+    },
+    "The Majestic": {
+      "id": 11086,
+      "poster": "/m9WrB91B8ghxIZhyFugkoSleBE7.jpg",
+      "title": "The Majestic",
+      "year": 2001
+    },
+    "The Wedding Planner": {
+      "id": 2018,
+      "poster": "/meq4bLUPcBlOG3Z5YdiWuBMlpO.jpg",
+      "title": "The Wedding Planner",
+      "year": 2001
+    },
+    "Moulin Rouge!": {
+      "id": 824,
+      "poster": "/2kjM5CUZRIU5yOANUowrbJcRL9L.jpg",
+      "title": "Moulin Rouge!",
+      "year": 2001
+    },
+    "Freddy Got Fingered": {
+      "id": 13166,
+      "poster": "/gVmSZgxiT7ynyRLsEgg8Xs8ZVWX.jpg",
+      "title": "Freddy Got Fingered",
+      "year": 2001
+    },
+    "Pootie Tang": {
+      "id": 10615,
+      "poster": "/fNvx45x4JWHYucpnV2vuKn9TZnV.jpg",
+      "title": "Pootie Tang",
+      "year": 2001
+    },
+    "Down to Earth": {
+      "id": 16300,
+      "poster": "/w2XM4YCfBOOWEL4a0abQji7QxwI.jpg",
+      "title": "Down to Earth",
+      "year": 2001
+    },
+    "Baby Boy": {
+      "id": 16161,
+      "poster": "/9dcic3zV5Gq6BQ1Et696qBtp9Xg.jpg",
+      "title": "Baby Boy",
+      "year": 2001
+    },
+    "Ghosts of Mars": {
+      "id": 10016,
+      "poster": "/i2zztssCIbahGES1fdfWFmDXian.jpg",
+      "title": "Ghosts of Mars",
+      "year": 2001
+    },
+    "Josie and the Pussycats": {
+      "id": 19366,
+      "poster": "/dYwbqjnSFsvCGok8gsqRcY8ewTU.jpg",
+      "title": "Josie and the Pussycats",
+      "year": 2001
+    },
+    "Amélie": {
+      "id": 194,
+      "poster": "/nSxDa3M9aMvGVLoItzWTepQ5h5d.jpg",
+      "title": "Amélie",
+      "year": 2001
+    },
+    "Wit": {
+      "id": 26976,
+      "poster": "/1ONOsIo5gby9hABPdknL7OAYBLm.jpg",
+      "title": "Wit",
+      "year": 2001
+    },
+    "A Knight's Tale": {
+      "id": 9476,
+      "poster": "/srb1XnrlDZHcdpjBKqUu4qAzxKU.jpg",
+      "title": "A Knight's Tale",
+      "year": 2001
+    }
+  }
+}

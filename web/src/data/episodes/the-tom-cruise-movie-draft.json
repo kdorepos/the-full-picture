@@ -1,0 +1,879 @@
+{
+  "slug": "the-tom-cruise-movie-draft",
+  "title": "The Tom Cruise Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Van Lathan",
+    "Chris Ryan",
+    "Bill Simmons"
+  ],
+  "published": "2025-05-16",
+  "runtimeMin": 126,
+  "format": "Five drafters snake through Tom Cruise's 46-film career across eight categories, from '80s and '90s to Mission: Impossible and 'Tom Cruise does a sports thing.'",
+  "segments": [
+    {
+      "kind": "draft",
+      "heading": "The teams",
+      "draftOf": "Tom Cruise's filmography",
+      "categories": [
+        "'80s",
+        "'90s",
+        "21st century",
+        "Oscar nominee",
+        "Mission: Impossible",
+        "Tom Cruise does a sports thing",
+        "Blockbuster",
+        "Wild card"
+      ],
+      "teams": [
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Risky Business",
+              "year": 1983,
+              "category": "'80s",
+              "note": "The movie that made him a star; Rebecca De Mornay, whom he dated for a year after."
+            },
+            {
+              "title": "A Few Good Men",
+              "year": 1992,
+              "category": "'90s",
+              "note": "First overall pick; Rob Reiner at the tail end of his great run."
+            },
+            {
+              "title": "American Made",
+              "year": 2017,
+              "category": "21st century",
+              "note": "The other Doug Liman film, about a pilot turned smuggler who loses his mind."
+            },
+            {
+              "title": "Born on the Fourth of July",
+              "year": 1989,
+              "category": "Oscar nominee",
+              "note": "Oliver Stone; Cruise's Best Actor nomination and a hard watch."
+            },
+            {
+              "title": "Mission: Impossible - Rogue Nation",
+              "year": 2015,
+              "category": "Mission: Impossible",
+              "note": "The McQuarrie era begins; Ilsa arrives and Cruise hangs off the plane."
+            },
+            {
+              "title": "All the Right Moves",
+              "year": 1983,
+              "category": "Tom Cruise does a sports thing",
+              "note": "The last real sports thing on the board; one of the best football sequences in the genre."
+            },
+            {
+              "title": "The Last Samurai",
+              "year": 2003,
+              "category": "Blockbuster",
+              "note": "Down-and-out alcoholic Cruise; Ken Watanabe and the battle sequences carry it."
+            },
+            {
+              "title": "Jack Reacher: Never Go Back",
+              "year": 2016,
+              "category": "Wild card",
+              "note": "The Ed Zwick one that bombed at $58M domestic."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Endless Love",
+              "year": 1981,
+              "category": "'80s",
+              "note": "Franco Zeffirelli; Cruise's screen debut, two scenes, gives a guy the idea to burn a house down."
+            },
+            {
+              "title": "Magnolia",
+              "year": 1999,
+              "category": "'90s",
+              "note": "The Frank T.J. Mackey performance; his best dramatic swing and the start of the auteur run."
+            },
+            {
+              "title": "Edge of Tomorrow",
+              "year": 2014,
+              "category": "21st century",
+              "note": "A good movie nobody believed during his down period; cult status with Emily Blunt."
+            },
+            {
+              "title": "Mission: Impossible - Dead Reckoning Part One",
+              "year": 2023,
+              "category": "Oscar nominee",
+              "note": "The franchise's first Oscar nominations; the cliff jump and the tiny car in Rome."
+            },
+            {
+              "title": "Mission: Impossible",
+              "year": 1996,
+              "category": "Mission: Impossible",
+              "note": "The Langley drop and the knock list; the whole franchise in one image."
+            },
+            {
+              "title": "War of the Worlds",
+              "year": 2005,
+              "category": "Tom Cruise does a sports thing",
+              "note": "The game of catch; Yankees dad, Red Sox kid."
+            },
+            {
+              "title": "Top Gun: Maverick",
+              "year": 2022,
+              "category": "Blockbuster",
+              "note": "The movie Spielberg credits with saving theatrical."
+            },
+            {
+              "title": "Knight and Day",
+              "year": 2010,
+              "category": "Wild card",
+              "note": "Drafted just to needle Bill; Cameron Diaz fixes cars, gets roped into the mission."
+            }
+          ]
+        },
+        {
+          "host": "Van Lathan",
+          "picks": [
+            {
+              "title": "Cocktail",
+              "year": 1988,
+              "category": "'80s",
+              "note": "The best Cruise performance relative to the quality of the movie; still no 4K."
+            },
+            {
+              "title": "Far and Away",
+              "year": 1992,
+              "category": "'90s",
+              "note": "Taken over Interview with the Vampire on principle; the worst Irish accent he's ever seen."
+            },
+            {
+              "title": "Collateral",
+              "year": 2004,
+              "category": "21st century",
+              "note": "The coolest he's ever been; Michael Mann's definitive LA movie."
+            },
+            {
+              "title": "Vanilla Sky",
+              "year": 2001,
+              "category": "Oscar nominee",
+              "note": "Nominated for Best Original Song; Cameron Diaz at her most unhinged."
+            },
+            {
+              "title": "Mission: Impossible - Fallout",
+              "year": 2018,
+              "category": "Mission: Impossible",
+              "note": "The one that made him all in on the franchise; still the best."
+            },
+            {
+              "title": "Days of Thunder",
+              "year": 1990,
+              "category": "Tom Cruise does a sports thing",
+              "note": "The rental-car race beats anything on the track; Kidman as a 24-year-old neurosurgeon."
+            },
+            {
+              "title": "Interview with the Vampire",
+              "year": 1994,
+              "category": "Blockbuster",
+              "note": "The last blockbuster left; first Cruise-and-Pitt pairing."
+            },
+            {
+              "title": "Legend",
+              "year": 1985,
+              "category": "Wild card",
+              "note": "Ridley Scott and Tim Curry; taken over Oblivion."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "The Outsiders",
+              "year": 1983,
+              "category": "'80s",
+              "note": "Ratty kid on the edge of the ensemble; Macchio and Swayze out-cook him."
+            },
+            {
+              "title": "Eyes Wide Shut",
+              "year": 1999,
+              "category": "'90s",
+              "note": "Kubrick asks him to turn the charisma down; holds up on rewatch, shaped a lot that came after."
+            },
+            {
+              "title": "Valkyrie",
+              "year": 2008,
+              "category": "21st century",
+              "note": "The Bryan Singer Hitler-plot thriller; Cruise skips the German accent."
+            },
+            {
+              "title": "The Firm",
+              "year": 1993,
+              "category": "Oscar nominee",
+              "note": "John Grisham paranoid thriller; the last 15 minutes with the suitcase still land."
+            },
+            {
+              "title": "Mission: Impossible III",
+              "year": 2006,
+              "category": "Mission: Impossible",
+              "note": "The J.J. Abrams one; Philip Seymour Hoffman is the franchise's best villain."
+            },
+            {
+              "title": "The Color of Money",
+              "year": 1986,
+              "category": "Tom Cruise does a sports thing",
+              "note": "King twerp opposite Paul Newman; the Werewolves of London scene."
+            },
+            {
+              "title": "Minority Report",
+              "year": 2002,
+              "category": "Blockbuster",
+              "note": "Spielberg Hitchcock thriller; Cruise as the wrongly-accused man on the run."
+            },
+            {
+              "title": "Mission: Impossible II",
+              "year": 2000,
+              "category": "Wild card",
+              "note": "The John Woo motorcycle fight alone; having a little resurgence."
+            }
+          ]
+        },
+        {
+          "host": "Bill Simmons",
+          "picks": [
+            {
+              "title": "Taps",
+              "year": 1981,
+              "category": "'80s",
+              "note": "Cruise goes maniac letting off rounds; Sean Penn and Timothy Hutton."
+            },
+            {
+              "title": "Jerry Maguire",
+              "year": 1996,
+              "category": "'90s",
+              "note": "Peak-powers Cruise; in the running for best sports movie of the last 30 years."
+            },
+            {
+              "title": "Jack Reacher",
+              "year": 2012,
+              "category": "21st century",
+              "note": "Too short for the role and it still works; a book fan base in revolt."
+            },
+            {
+              "title": "Rain Man",
+              "year": 1988,
+              "category": "Oscar nominee",
+              "note": "Actually won the Oscar (Hoffman); the archetype before it went stale."
+            },
+            {
+              "title": "Mission: Impossible - Ghost Protocol",
+              "year": 2011,
+              "category": "Mission: Impossible",
+              "note": "The Burj Khalifa climb; got the franchise younger and sexier."
+            },
+            {
+              "title": "Top Gun",
+              "year": 1986,
+              "category": "Tom Cruise does a sports thing",
+              "note": "The volleyball scene; he checks his watch and ends the game."
+            },
+            {
+              "title": "Tropic Thunder",
+              "year": 2008,
+              "category": "Blockbuster",
+              "note": "Les Grossman cleared $195M; the crawdads scene."
+            },
+            {
+              "title": "Oblivion",
+              "year": 2013,
+              "category": "Wild card",
+              "note": "Kosinski's first Cruise film, which begat Maverick; the drones and Morgan Freeman underground."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Losin' It",
+        "Lions for Lambs",
+        "The Mummy",
+        "Rock of Ages"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Also mentioned",
+      "films": [
+        "The Verdict",
+        "The Revenant",
+        "Tenet",
+        "Sinners",
+        "Ghost",
+        "The Deep",
+        "Masquerade",
+        "Misery",
+        "When Harry Met Sally...",
+        "The Princess Bride",
+        "This Is Spinal Tap",
+        "The American President",
+        "The Sure Thing",
+        "The Life of Chuck",
+        "Ferris Bueller's Day Off",
+        "JFK",
+        "Casualties of War",
+        "The Town",
+        "Do the Right Thing",
+        "Point Break",
+        "Road House",
+        "Dirty Dancing",
+        "Toy Soldiers",
+        "Lucas",
+        "Fast Times at Ridgemont High",
+        "The Breakfast Club",
+        "Pretty in Pink",
+        "Shooter",
+        "Open Your Eyes",
+        "The Counselor",
+        "Dances with Wolves",
+        "Roxanne",
+        "Basic Instinct",
+        "Pulp Fiction",
+        "Twins",
+        "The Rapture",
+        "Austin Powers in Goldmember",
+        "Crimson Tide",
+        "True Romance",
+        "Enemy of the State"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Bear",
+      "Alias",
+      "thirtysomething",
+      "Interview with the Vampire (AMC series)",
+      "Reacher (Amazon series)",
+      "Quarterback Princess"
+    ],
+    "Ads": [
+      "The Zach Lowe Show"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Rapture": 1411,
+    "Masquerade": 41963,
+    "The Mummy": 282035,
+    "Losin' It": 33676
+  },
+  "tmdb": {
+    "Risky Business": {
+      "id": 9346,
+      "poster": "/82KOHShH9raGhkcAN3TztVjqjj3.jpg",
+      "title": "Risky Business",
+      "year": 1983
+    },
+    "A Few Good Men": {
+      "id": 881,
+      "poster": "/rLOk4z9zL1tTukIYV56P94aZXKk.jpg",
+      "title": "A Few Good Men",
+      "year": 1992
+    },
+    "American Made": {
+      "id": 337170,
+      "poster": "/23ILgoPSO5ShKcTZOuiTVfqFAUB.jpg",
+      "title": "American Made",
+      "year": 2017
+    },
+    "Born on the Fourth of July": {
+      "id": 2604,
+      "poster": "/c5gSie6ZA90iBs62yNM5MV4y9R7.jpg",
+      "title": "Born on the Fourth of July",
+      "year": 1989
+    },
+    "Mission: Impossible - Rogue Nation": {
+      "id": 177677,
+      "poster": "/fRJLXQBHK2wyznK5yZbO7vmsuVK.jpg",
+      "title": "Mission: Impossible - Rogue Nation",
+      "year": 2015
+    },
+    "All the Right Moves": {
+      "id": 18172,
+      "poster": "/y8OSutSNEi84ROcqyV7Tu7p8xYg.jpg",
+      "title": "All the Right Moves",
+      "year": 1983
+    },
+    "The Last Samurai": {
+      "id": 616,
+      "poster": "/a8jmJPs5eZBARmnuEEvZwbjwyz4.jpg",
+      "title": "The Last Samurai",
+      "year": 2003
+    },
+    "Jack Reacher: Never Go Back": {
+      "id": 343611,
+      "poster": "/cOg3UT2NYWHZxp41vpxAnVCOC4M.jpg",
+      "title": "Jack Reacher: Never Go Back",
+      "year": 2016
+    },
+    "Endless Love": {
+      "id": 19114,
+      "poster": "/eAU5kEn3n2PROao46iqs0w57Tqr.jpg",
+      "title": "Endless Love",
+      "year": 1981
+    },
+    "Magnolia": {
+      "id": 334,
+      "poster": "/tpfC325Jk6S38VTe5dDWjWtoyxr.jpg",
+      "title": "Magnolia",
+      "year": 1999
+    },
+    "Edge of Tomorrow": {
+      "id": 137113,
+      "poster": "/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
+      "title": "Edge of Tomorrow",
+      "year": 2014
+    },
+    "Mission: Impossible - Dead Reckoning Part One": {
+      "id": 575264,
+      "poster": "/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "year": 2023
+    },
+    "Mission: Impossible": {
+      "id": 954,
+      "poster": "/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
+      "title": "Mission: Impossible",
+      "year": 1996
+    },
+    "War of the Worlds": {
+      "id": 74,
+      "poster": "/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
+      "title": "War of the Worlds",
+      "year": 2005
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Knight and Day": {
+      "id": 37834,
+      "poster": "/phhp52CZZJiGYmiOTp9ZBDkGHB3.jpg",
+      "title": "Knight and Day",
+      "year": 2010
+    },
+    "Cocktail": {
+      "id": 7520,
+      "poster": "/jFRhEPhtsln9tDwzMdZN3OlhUob.jpg",
+      "title": "Cocktail",
+      "year": 1988
+    },
+    "Far and Away": {
+      "id": 11259,
+      "poster": "/is80o8p0sCok3UqtnHEE2oyXyad.jpg",
+      "title": "Far and Away",
+      "year": 1992
+    },
+    "Collateral": {
+      "id": 1538,
+      "poster": "/nV5316WUsVij8sVXLCF1g7TFitg.jpg",
+      "title": "Collateral",
+      "year": 2004
+    },
+    "Vanilla Sky": {
+      "id": 1903,
+      "poster": "/cAh2pCiNPftsY3aSqJuIOde7uWr.jpg",
+      "title": "Vanilla Sky",
+      "year": 2001
+    },
+    "Mission: Impossible - Fallout": {
+      "id": 353081,
+      "poster": "/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+      "title": "Mission: Impossible - Fallout",
+      "year": 2018
+    },
+    "Days of Thunder": {
+      "id": 2119,
+      "poster": "/8UvcoeMJag8UWGF8sg7eYspzq0Q.jpg",
+      "title": "Days of Thunder",
+      "year": 1990
+    },
+    "Interview with the Vampire": {
+      "id": 628,
+      "poster": "/2162lAT2MP36MyJd2sttmj5du5T.jpg",
+      "title": "Interview with the Vampire",
+      "year": 1994
+    },
+    "Legend": {
+      "id": 11976,
+      "poster": "/6n3PQSYpZRK5YPk2w8JEwED7AZk.jpg",
+      "title": "Legend",
+      "year": 1985
+    },
+    "The Outsiders": {
+      "id": 227,
+      "poster": "/l9os0HcXY8BOkvUWAx4rvby3j6L.jpg",
+      "title": "The Outsiders",
+      "year": 1983
+    },
+    "Eyes Wide Shut": {
+      "id": 345,
+      "poster": "/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+      "title": "Eyes Wide Shut",
+      "year": 1999
+    },
+    "Valkyrie": {
+      "id": 2253,
+      "poster": "/8eoRtXswC8IQDsqW7iJWO56NhAv.jpg",
+      "title": "Valkyrie",
+      "year": 2008
+    },
+    "The Firm": {
+      "id": 37233,
+      "poster": "/kFexXCzidkm4LwlgZqxsJsDQB5v.jpg",
+      "title": "The Firm",
+      "year": 1993
+    },
+    "Mission: Impossible III": {
+      "id": 956,
+      "poster": "/vKGYCpmQyV9uHybWDzXuII8Los5.jpg",
+      "title": "Mission: Impossible III",
+      "year": 2006
+    },
+    "The Color of Money": {
+      "id": 11873,
+      "poster": "/dVdnHmdQu3JtLAAksjTmTEF76gD.jpg",
+      "title": "The Color of Money",
+      "year": 1986
+    },
+    "Minority Report": {
+      "id": 180,
+      "poster": "/ccqpHq5tk5W4ymbSbuoy4uYOxFI.jpg",
+      "title": "Minority Report",
+      "year": 2002
+    },
+    "Mission: Impossible II": {
+      "id": 955,
+      "poster": "/hfnrual76gPeNFduhD4xzHWpfTw.jpg",
+      "title": "Mission: Impossible II",
+      "year": 2000
+    },
+    "Taps": {
+      "id": 10627,
+      "poster": "/m6w9QiuYQSBle3jygH9oV5JC8sP.jpg",
+      "title": "Taps",
+      "year": 1981
+    },
+    "Jerry Maguire": {
+      "id": 9390,
+      "poster": "/lABvGN7fDk5ifnwZoxij6G96t2w.jpg",
+      "title": "Jerry Maguire",
+      "year": 1996
+    },
+    "Jack Reacher": {
+      "id": 75780,
+      "poster": "/uQBbjrLVsUibWxNDGA4Czzo8lwz.jpg",
+      "title": "Jack Reacher",
+      "year": 2012
+    },
+    "Rain Man": {
+      "id": 380,
+      "poster": "/iTNHwO896WKkaoPtpMMS74d8VNi.jpg",
+      "title": "Rain Man",
+      "year": 1988
+    },
+    "Mission: Impossible - Ghost Protocol": {
+      "id": 56292,
+      "poster": "/eRZTGx7GsiKqPch96k27LK005ZL.jpg",
+      "title": "Mission: Impossible - Ghost Protocol",
+      "year": 2011
+    },
+    "Top Gun": {
+      "id": 744,
+      "poster": "/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+      "title": "Top Gun",
+      "year": 1986
+    },
+    "Tropic Thunder": {
+      "id": 7446,
+      "poster": "/zAurB9mNxfYRoVrVjAJJwGV3sPg.jpg",
+      "title": "Tropic Thunder",
+      "year": 2008
+    },
+    "Oblivion": {
+      "id": 75612,
+      "poster": "/bYLM3GpNUZnoFElPXp1zlhDPdtv.jpg",
+      "title": "Oblivion",
+      "year": 2013
+    },
+    "Losin' It": {
+      "id": 33676,
+      "poster": "/7BQP8GzBW4ZZxqcc5tDH68yNeAI.jpg",
+      "title": "Losin' It",
+      "year": 1983
+    },
+    "Lions for Lambs": {
+      "id": 4515,
+      "poster": "/37L6IoLhTgLzq6XYWpWUlbbEzMj.jpg",
+      "title": "Lions for Lambs",
+      "year": 2007
+    },
+    "The Mummy": {
+      "id": 282035,
+      "poster": "/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg",
+      "title": "The Mummy",
+      "year": 2017
+    },
+    "Rock of Ages": {
+      "id": 80585,
+      "poster": "/oVeE2QTUb14jPU2lYEGPE3s8T9j.jpg",
+      "title": "Rock of Ages",
+      "year": 2012
+    },
+    "The Verdict": {
+      "id": 24226,
+      "poster": "/iYEuFP1bpj5yOenKliiRFcNO3VE.jpg",
+      "title": "The Verdict",
+      "year": 1982
+    },
+    "The Revenant": {
+      "id": 281957,
+      "poster": "/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",
+      "title": "The Revenant",
+      "year": 2015
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "Sinners": {
+      "id": 1233413,
+      "poster": "/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+      "title": "Sinners",
+      "year": 2025
+    },
+    "Ghost": {
+      "id": 251,
+      "poster": "/w9RaPHov8oM5cnzeE27isnFMsvS.jpg",
+      "title": "Ghost",
+      "year": 1990
+    },
+    "The Deep": {
+      "id": 20416,
+      "poster": "/z3HXf0nIN7tvpTF8fxiJrvD603f.jpg",
+      "title": "The Deep",
+      "year": 1977
+    },
+    "Masquerade": {
+      "id": 41963,
+      "poster": "/vf2fZMZ0s44STAjF6kE7wVcKiw1.jpg",
+      "title": "Masquerade",
+      "year": 1988
+    },
+    "Misery": {
+      "id": 1700,
+      "poster": "/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg",
+      "title": "Misery",
+      "year": 1990
+    },
+    "When Harry Met Sally...": {
+      "id": 639,
+      "poster": "/rFOiFUhTMtDetqCGClC9PIgnC1P.jpg",
+      "title": "When Harry Met Sally...",
+      "year": 1989
+    },
+    "The Princess Bride": {
+      "id": 2493,
+      "poster": "/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+      "title": "The Princess Bride",
+      "year": 1987
+    },
+    "This Is Spinal Tap": {
+      "id": 11031,
+      "poster": "/b3lllDltoBws5uKZzBYVSjpjjJx.jpg",
+      "title": "This Is Spinal Tap",
+      "year": 1984
+    },
+    "The American President": {
+      "id": 9087,
+      "poster": "/yObOAYFIHXHkFPQ3jhgkN2ezaD.jpg",
+      "title": "The American President",
+      "year": 1995
+    },
+    "The Sure Thing": {
+      "id": 8992,
+      "poster": "/a9cuohQn5kczi4htWZAZjEZvXkZ.jpg",
+      "title": "The Sure Thing",
+      "year": 1985
+    },
+    "The Life of Chuck": {
+      "id": 842924,
+      "poster": "/oumprkO9bThExP8NwxBIBnvBu2v.jpg",
+      "title": "The Life of Chuck",
+      "year": 2025
+    },
+    "Ferris Bueller's Day Off": {
+      "id": 9377,
+      "poster": "/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg",
+      "title": "Ferris Bueller's Day Off",
+      "year": 1986
+    },
+    "JFK": {
+      "id": 820,
+      "poster": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+      "title": "JFK",
+      "year": 1991
+    },
+    "Casualties of War": {
+      "id": 10142,
+      "poster": "/3SerZUDoU9TMCXMsQqiXvSWm0uL.jpg",
+      "title": "Casualties of War",
+      "year": 1989
+    },
+    "The Town": {
+      "id": 23168,
+      "poster": "/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
+      "title": "The Town",
+      "year": 2010
+    },
+    "Do the Right Thing": {
+      "id": 925,
+      "poster": "/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+      "title": "Do the Right Thing",
+      "year": 1989
+    },
+    "Point Break": {
+      "id": 1089,
+      "poster": "/tlbERIghrQ4oofqlbF7H0K0EYnx.jpg",
+      "title": "Point Break",
+      "year": 1991
+    },
+    "Road House": {
+      "id": 359410,
+      "poster": "/fDEdtS4P0gJsxHDIt8dG8TR5dx1.jpg",
+      "title": "Road House",
+      "year": 2024
+    },
+    "Dirty Dancing": {
+      "id": 88,
+      "poster": "/9Jw6jys7q9gjzVX5zm1z0gC8gY9.jpg",
+      "title": "Dirty Dancing",
+      "year": 1987
+    },
+    "Toy Soldiers": {
+      "id": 10750,
+      "poster": "/nL3ccvqU1Wq1j31feHWAydzpbr2.jpg",
+      "title": "Toy Soldiers",
+      "year": 1991
+    },
+    "Lucas": {
+      "id": 13346,
+      "poster": "/7qq4sxYj59Aq6wmnnIlot5iXaux.jpg",
+      "title": "Lucas",
+      "year": 1986
+    },
+    "Fast Times at Ridgemont High": {
+      "id": 13342,
+      "poster": "/s1DA8H7qwoOcAEhow2rCzuQtpuO.jpg",
+      "title": "Fast Times at Ridgemont High",
+      "year": 1982
+    },
+    "The Breakfast Club": {
+      "id": 2108,
+      "poster": "/gp4zlj7wgbiofLMNsTPndMuO3PN.jpg",
+      "title": "The Breakfast Club",
+      "year": 1985
+    },
+    "Pretty in Pink": {
+      "id": 11522,
+      "poster": "/jeFJyzJBufJexpOuywuPp8q2tCJ.jpg",
+      "title": "Pretty in Pink",
+      "year": 1986
+    },
+    "Shooter": {
+      "id": 7485,
+      "poster": "/2aWGxo1E5polpBjPvtBRkWp7qaS.jpg",
+      "title": "Shooter",
+      "year": 2007
+    },
+    "Open Your Eyes": {
+      "id": 1902,
+      "poster": "/1NkQNM5bw3U7n3RCba8JKnb61Ds.jpg",
+      "title": "Open Your Eyes",
+      "year": 1997
+    },
+    "The Counselor": {
+      "id": 109091,
+      "poster": "/aNiLkGnzVb5CorZHKk16w9S4COt.jpg",
+      "title": "The Counselor",
+      "year": 2013
+    },
+    "Dances with Wolves": {
+      "id": 581,
+      "poster": "/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg",
+      "title": "Dances with Wolves",
+      "year": 1990
+    },
+    "Roxanne": {
+      "id": 11584,
+      "poster": "/c2XSGkpAIIof6Oi8Sr6wBvwt1Lk.jpg",
+      "title": "Roxanne",
+      "year": 1987
+    },
+    "Basic Instinct": {
+      "id": 402,
+      "poster": "/76Ts0yoHk8kVQj9MMnoMixhRWoh.jpg",
+      "title": "Basic Instinct",
+      "year": 1992
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "Twins": {
+      "id": 9493,
+      "poster": "/stJx9BQZbXrZnTGf9Erc7d2UMVc.jpg",
+      "title": "Twins",
+      "year": 1988
+    },
+    "The Rapture": {
+      "id": 1411,
+      "poster": "/4EkFm13ecqO0eszr7OKT8vf1YjJ.jpg",
+      "title": "The Rapture",
+      "year": 1991
+    },
+    "Austin Powers in Goldmember": {
+      "id": 818,
+      "poster": "/n8V61f1v7idya4WJzGEJNoIp9iL.jpg",
+      "title": "Austin Powers in Goldmember",
+      "year": 2002
+    },
+    "Crimson Tide": {
+      "id": 8963,
+      "poster": "/21nqRJ6ofEgVvEl68J4O9V26Xzy.jpg",
+      "title": "Crimson Tide",
+      "year": 1995
+    },
+    "True Romance": {
+      "id": 319,
+      "poster": "/39lXk6ud6KiJgGbbWI2PUKS7y2.jpg",
+      "title": "True Romance",
+      "year": 1993
+    },
+    "Enemy of the State": {
+      "id": 9798,
+      "poster": "/x9pXrMKLsBGGOFyyZ0Gwt9YpVub.jpg",
+      "title": "Enemy of the State",
+      "year": 1998
+    }
+  },
+  "spotifyEpisodeId": "0rvNwvFzIW5gMJG3AiwO3z"
+}

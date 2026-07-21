@@ -1,0 +1,534 @@
+{
+  "slug": "the-julia-roberts-hall-of-fame-and-ticket-to-paradise",
+  "title": "The Julia Roberts Hall of Fame and ‘Ticket to Paradise’",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2022-10-21",
+  "runtimeMin": 101,
+  "format": "Clooney and Roberts reunite for a Bali rom-com, then Dobbins builds the ten-film Julia Roberts Hall of Fame and Fennessey fights for a 90-second cameo to count.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "Ticket to Paradise",
+      "note": "grade: B",
+      "films": [
+        {
+          "title": "Ticket to Paradise",
+          "year": 2022,
+          "note": "Divorced parents David and Georgia (Clooney and Roberts) fly to Bali to sabotage their daughter's whirlwind wedding. Directed by Ol Parker. Dobbins: a delightful, disposable night out that 'sticks out like a sore thumb' because nobody makes this kind of star vehicle anymore. Both hosts flag the third act getting speech-heavy and a script that can't decide if the daughter went to college or law school."
+        }
+      ]
+    },
+    {
+      "kind": "halloffame",
+      "heading": "The Julia Roberts Hall of Fame",
+      "note": "ten essential roles, chosen by Dobbins",
+      "honoree": "Julia Roberts",
+      "films": [
+        {
+          "title": "Mystic Pizza",
+          "year": 1988,
+          "note": "Her first real notice, in an ensemble dramedy about a Connecticut pizza joint. Dobbins didn't love the rewatch but watched the whole thing anyway: if you're building the myth, this one matters."
+        },
+        {
+          "title": "Pretty Woman",
+          "year": 1990,
+          "note": "She was famously the last choice cast, and this is the movie where you watch her become a star in real time. Big mistake. Huge."
+        },
+        {
+          "title": "The Player",
+          "year": 1992,
+          "note": "A 90-second cameo, playing herself, in Robert Altman's comeback. Fennessey campaigned hard for a cameo to count toward the Hall of Fame."
+        },
+        {
+          "title": "The Pelican Brief",
+          "year": 1993,
+          "note": "A Grisham conspiracy thriller with Denzel Washington, directed by Alan J. Pakula. Runs long untangling its plot, but 'so who cares': the most underrated of her legal thrillers."
+        },
+        {
+          "title": "My Best Friend's Wedding",
+          "year": 1997,
+          "note": "She plays the wedding-ruiner, finally using the caustic, mean-mode register she'd kept in her back pocket. Dobbins' pick for her favorite Roberts performance."
+        },
+        {
+          "title": "Notting Hill",
+          "year": 1999,
+          "note": "Fennessey's favorite: a movie star basically playing herself falls for a London bookshop owner. The film turns her own fame into the actual subject."
+        },
+        {
+          "title": "Erin Brockovich",
+          "year": 2000,
+          "note": "Won her the Oscar, directed by Soderbergh. A rare case of the trophy actually lining up with the performance: real character work that's still fully Julia."
+        },
+        {
+          "title": "Ocean's Eleven",
+          "year": 2001,
+          "note": "In, with reservations: Fennessey admits the part barely tests her and floats revisiting the call once Twelve comes up."
+        },
+        {
+          "title": "Ocean's Twelve",
+          "year": 2004,
+          "note": "The bit where her character impersonates Julia Roberts. A favorite the hosts have referenced on the show before."
+        },
+        {
+          "title": "Ben Is Back",
+          "year": 2018,
+          "note": "A mother trying to keep her son alive through one night after he comes home from rehab. Both hosts single it out as a late-career high point."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Considered for the Hall of Fame, not inducted",
+      "films": [
+        "Satisfaction",
+        "Blood Red",
+        "Steel Magnolias",
+        "Flatliners",
+        "Sleeping with the Enemy",
+        "Dying Young",
+        "Hook",
+        "I Love Trouble",
+        "Prêt-à-Porter",
+        "Something to Talk About",
+        "Mary Reilly",
+        "Michael Collins",
+        "Everyone Says I Love You",
+        "Conspiracy Theory",
+        "Stepmom",
+        "Runaway Bride",
+        "The Mexican",
+        "America's Sweethearts",
+        "Full Frontal",
+        "Confessions of a Dangerous Mind",
+        "Mona Lisa Smile",
+        "Closer",
+        "Charlie Wilson's War",
+        "Fireflies in the Garden",
+        "Duplicity",
+        "Valentine's Day",
+        "Eat Pray Love",
+        "Larry Crowne",
+        "Mirror Mirror",
+        "August: Osage County",
+        "The Normal Heart",
+        "Secret in Their Eyes",
+        "Mother's Day",
+        "Money Monster",
+        "Wonder"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "The Lost City",
+        "Mamma Mia! Here We Go Again",
+        "One Fine Day",
+        "Klute",
+        "All the President's Men",
+        "Thelma & Louise",
+        "Hail, Caesar!",
+        "His Girl Friday",
+        "Boogie Nights",
+        "Bros",
+        "Black Adam",
+        "The Hand that Rocks the Cradle",
+        "Unlawful Entry",
+        "Pacific Heights",
+        "Mank"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Satisfaction": 17126
+  },
+  "excluded": {
+    "TV": [
+      "Emily in Paris"
+    ],
+    "Podcasts": [
+      "Dissect"
+    ],
+    "Ads": [
+      "Carvana",
+      "Whole Foods",
+      "Boar's Head",
+      "Netflix FIFA World Cup Launch Edition",
+      "FanDuel",
+      "Athletic Brewing"
+    ]
+  },
+  "tmdb": {
+    "Ticket to Paradise": {
+      "id": 800939,
+      "poster": "/1tzERH50P5c2mFWtLbgixzLZS1L.jpg",
+      "title": "Ticket to Paradise",
+      "year": 2022
+    },
+    "Mystic Pizza": {
+      "id": 11191,
+      "poster": "/2wqMKLJEMjenT7U8UqnuI070cUC.jpg",
+      "title": "Mystic Pizza",
+      "year": 1988
+    },
+    "Pretty Woman": {
+      "id": 114,
+      "poster": "/hVHUfT801LQATGd26VPzhorIYza.jpg",
+      "title": "Pretty Woman",
+      "year": 1990
+    },
+    "The Player": {
+      "id": 10403,
+      "poster": "/tZ3kDut2dhFVGkWNEn9xoCHCNAx.jpg",
+      "title": "The Player",
+      "year": 1992
+    },
+    "The Pelican Brief": {
+      "id": 9944,
+      "poster": "/7B1HS0SqfJR1jbeHS6V0ZWdzLXP.jpg",
+      "title": "The Pelican Brief",
+      "year": 1993
+    },
+    "My Best Friend's Wedding": {
+      "id": 8874,
+      "poster": "/b5g4bp8gS5ovMyR5439AII6zQ3n.jpg",
+      "title": "My Best Friend's Wedding",
+      "year": 1997
+    },
+    "Notting Hill": {
+      "id": 509,
+      "poster": "/hHRIf2XHeQMbyRb3HUx19SF5Ujw.jpg",
+      "title": "Notting Hill",
+      "year": 1999
+    },
+    "Erin Brockovich": {
+      "id": 462,
+      "poster": "/eMs20iUQyZVs05Ck7Q0LNnRsstr.jpg",
+      "title": "Erin Brockovich",
+      "year": 2000
+    },
+    "Ocean's Eleven": {
+      "id": 161,
+      "poster": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+      "title": "Ocean's Eleven",
+      "year": 2001
+    },
+    "Ocean's Twelve": {
+      "id": 163,
+      "poster": "/pE5anFf7nf6ah7V3VRezQ1KSovi.jpg",
+      "title": "Ocean's Twelve",
+      "year": 2004
+    },
+    "Ben Is Back": {
+      "id": 492452,
+      "poster": "/eSPiprXuWqwMGi6t8BkdiTz9Ou3.jpg",
+      "title": "Ben Is Back",
+      "year": 2018
+    },
+    "Satisfaction": {
+      "id": 17126,
+      "poster": "/yvLIYS4lDfsQL4khLly73cDczaM.jpg",
+      "title": "Satisfaction",
+      "year": 1988
+    },
+    "Blood Red": {
+      "id": 135643,
+      "poster": "/nqSNkrCfWAHstfBtdho31irY2pF.jpg",
+      "title": "Blood Red",
+      "year": 1989
+    },
+    "Steel Magnolias": {
+      "id": 10860,
+      "poster": "/7ExUSN9s9gX9bhVM17zDLEizano.jpg",
+      "title": "Steel Magnolias",
+      "year": 1989
+    },
+    "Flatliners": {
+      "id": 1551,
+      "poster": "/wda3j7p7YHXKpFIlSzoTCtP7myF.jpg",
+      "title": "Flatliners",
+      "year": 1990
+    },
+    "Sleeping with the Enemy": {
+      "id": 7442,
+      "poster": "/zaUkndJP8IClB1gMsbw13PoVeLS.jpg",
+      "title": "Sleeping with the Enemy",
+      "year": 1991
+    },
+    "Dying Young": {
+      "id": 9079,
+      "poster": "/nLVV8TETjCxWQmIip6t3HO1znVJ.jpg",
+      "title": "Dying Young",
+      "year": 1991
+    },
+    "Hook": {
+      "id": 879,
+      "poster": "/a6rB1lGXoGms7gWxRfJneQmAjNV.jpg",
+      "title": "Hook",
+      "year": 1991
+    },
+    "I Love Trouble": {
+      "id": 10879,
+      "poster": "/2uyytK3XFRPFXoTchFDtsWiSujn.jpg",
+      "title": "I Love Trouble",
+      "year": 1994
+    },
+    "Prêt-à-Porter": {
+      "id": 3586,
+      "poster": "/bb8pq3ap09S4KHsOvflXqoNJdWZ.jpg",
+      "title": "Prêt-à-Porter",
+      "year": 1994
+    },
+    "Something to Talk About": {
+      "id": 18402,
+      "poster": "/a52KpsmvLNdTdmDzw1fUrJONpfH.jpg",
+      "title": "Something to Talk About",
+      "year": 1995
+    },
+    "Mary Reilly": {
+      "id": 9095,
+      "poster": "/cW5wTiv5fdtBOd22utmAIZBCMS3.jpg",
+      "title": "Mary Reilly",
+      "year": 1996
+    },
+    "Michael Collins": {
+      "id": 1770,
+      "poster": "/brIBbU6t9glEGAKRTJ4PMj9OiDC.jpg",
+      "title": "Michael Collins",
+      "year": 1996
+    },
+    "Everyone Says I Love You": {
+      "id": 9716,
+      "poster": "/cFOZ4bNbWtnIIboc43M86yhwPBX.jpg",
+      "title": "Everyone Says I Love You",
+      "year": 1996
+    },
+    "Conspiracy Theory": {
+      "id": 8834,
+      "poster": "/sTyTKZVikQU6g50HE8HR1tBSRxj.jpg",
+      "title": "Conspiracy Theory",
+      "year": 1997
+    },
+    "Stepmom": {
+      "id": 9441,
+      "poster": "/wMPv2Yz6QDzv6YhSbaqM48Medl1.jpg",
+      "title": "Stepmom",
+      "year": 1998
+    },
+    "Runaway Bride": {
+      "id": 4806,
+      "poster": "/wzivR0yWJStVdhcl0A5rQvVdTQ7.jpg",
+      "title": "Runaway Bride",
+      "year": 1999
+    },
+    "The Mexican": {
+      "id": 6073,
+      "poster": "/5GqF6rVjUW6CVTuj7w1A2JE49AF.jpg",
+      "title": "The Mexican",
+      "year": 2001
+    },
+    "America's Sweethearts": {
+      "id": 11467,
+      "poster": "/4TQOYs8rCWi44O1tNbIQiRqHQkA.jpg",
+      "title": "America's Sweethearts",
+      "year": 2001
+    },
+    "Full Frontal": {
+      "id": 15186,
+      "poster": "/7FeoefSYELryi04Kz74xYTayPZk.jpg",
+      "title": "Full Frontal",
+      "year": 2002
+    },
+    "Confessions of a Dangerous Mind": {
+      "id": 4912,
+      "poster": "/mM58ABMRzwn5zVx6BS7IiNK0j3F.jpg",
+      "title": "Confessions of a Dangerous Mind",
+      "year": 2002
+    },
+    "Mona Lisa Smile": {
+      "id": 11820,
+      "poster": "/bg0VKsXnLjIZ0cHmZHZLs9gzrvm.jpg",
+      "title": "Mona Lisa Smile",
+      "year": 2003
+    },
+    "Closer": {
+      "id": 2288,
+      "poster": "/fGGaokx4k00S0J603VG53Qlr9jz.jpg",
+      "title": "Closer",
+      "year": 2004
+    },
+    "Charlie Wilson's War": {
+      "id": 6538,
+      "poster": "/45FghqcdSYRWK7PsHUInaFPNd8l.jpg",
+      "title": "Charlie Wilson's War",
+      "year": 2007
+    },
+    "Fireflies in the Garden": {
+      "id": 7353,
+      "poster": "/ozRz07oyk4ZKu5fbYHE33DnnuM9.jpg",
+      "title": "Fireflies in the Garden",
+      "year": 2008
+    },
+    "Duplicity": {
+      "id": 16558,
+      "poster": "/vpWQs3CjwG6Er3DgZlv4L3NFjXg.jpg",
+      "title": "Duplicity",
+      "year": 2009
+    },
+    "Valentine's Day": {
+      "id": 32856,
+      "poster": "/qOTcfD2DdnOTmhH0r1TOE09VvNh.jpg",
+      "title": "Valentine's Day",
+      "year": 2010
+    },
+    "Eat Pray Love": {
+      "id": 38167,
+      "poster": "/gjR5zUeMGV6UNqtI0OuzqrLQcjU.jpg",
+      "title": "Eat Pray Love",
+      "year": 2010
+    },
+    "Larry Crowne": {
+      "id": 59861,
+      "poster": "/8GDM7RqM6J1vNUdlU94rmtlNa3e.jpg",
+      "title": "Larry Crowne",
+      "year": 2011
+    },
+    "Mirror Mirror": {
+      "id": 62764,
+      "poster": "/pys6zIJN8Sxlk2Ss2GZuYuXPbtw.jpg",
+      "title": "Mirror Mirror",
+      "year": 2012
+    },
+    "August: Osage County": {
+      "id": 152737,
+      "poster": "/fvjxr77dfxdIOY3lvj0bHP4B5xT.jpg",
+      "title": "August: Osage County",
+      "year": 2013
+    },
+    "The Normal Heart": {
+      "id": 113833,
+      "poster": "/rQwdv1bNdc0OSG8svAEfWACcAAU.jpg",
+      "title": "The Normal Heart",
+      "year": 2014
+    },
+    "Secret in Their Eyes": {
+      "id": 290751,
+      "poster": "/gJl4iTxQlazkPCplGmSLGBUwqg9.jpg",
+      "title": "Secret in Their Eyes",
+      "year": 2015
+    },
+    "Mother's Day": {
+      "id": 353069,
+      "poster": "/1TGkhTsbkm2v1nMGJW0eTOFBjAd.jpg",
+      "title": "Mother's Day",
+      "year": 2016
+    },
+    "Money Monster": {
+      "id": 303858,
+      "poster": "/DlgdAkAKirD01R1mBejhFjS6nQ.jpg",
+      "title": "Money Monster",
+      "year": 2016
+    },
+    "Wonder": {
+      "id": 406997,
+      "poster": "/sONh3LYGFcVDTy8pm1tbSOB13Li.jpg",
+      "title": "Wonder",
+      "year": 2017
+    },
+    "The Lost City": {
+      "id": 752623,
+      "poster": "/rnheO8cFvCYcmZsDrBoabJbKLFE.jpg",
+      "title": "The Lost City",
+      "year": 2022
+    },
+    "Mamma Mia! Here We Go Again": {
+      "id": 458423,
+      "poster": "/aWicerX4Y7n7tUwRAVHsVcBBpj2.jpg",
+      "title": "Mamma Mia! Here We Go Again",
+      "year": 2018
+    },
+    "One Fine Day": {
+      "id": 7300,
+      "poster": "/5NiRRR7JDNHOr21JNoGRxPWh9vb.jpg",
+      "title": "One Fine Day",
+      "year": 1996
+    },
+    "Klute": {
+      "id": 466,
+      "poster": "/tVyINAsNGSgD1OIstqwCcs7wyGH.jpg",
+      "title": "Klute",
+      "year": 1971
+    },
+    "All the President's Men": {
+      "id": 891,
+      "poster": "/pCe6lfLxt1B58zPD4lgQrlnDS2j.jpg",
+      "title": "All the President's Men",
+      "year": 1976
+    },
+    "Thelma & Louise": {
+      "id": 1541,
+      "poster": "/vbRAGLzbC75QfiKD1lKjmnQGuph.jpg",
+      "title": "Thelma & Louise",
+      "year": 1991
+    },
+    "Hail, Caesar!": {
+      "id": 270487,
+      "poster": "/qvecZ7WyemhGW8fuJ8190p472jQ.jpg",
+      "title": "Hail, Caesar!",
+      "year": 2016
+    },
+    "His Girl Friday": {
+      "id": 3085,
+      "poster": "/lu86Y9zTPH3neCiUzLzHCEFHf7f.jpg",
+      "title": "His Girl Friday",
+      "year": 1940
+    },
+    "Boogie Nights": {
+      "id": 4995,
+      "poster": "/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg",
+      "title": "Boogie Nights",
+      "year": 1997
+    },
+    "Bros": {
+      "id": 614939,
+      "poster": "/op02Hv5i4Z049nGJYmk6BScRqHO.jpg",
+      "title": "Bros",
+      "year": 2022
+    },
+    "Black Adam": {
+      "id": 436270,
+      "poster": "/rCtreCr4xiYEWDQTebybolIh6Xe.jpg",
+      "title": "Black Adam",
+      "year": 2022
+    },
+    "The Hand that Rocks the Cradle": {
+      "id": 11087,
+      "poster": "/1fBnyO3SbNBplck45js6O4pQaLw.jpg",
+      "title": "The Hand That Rocks the Cradle",
+      "year": 1992
+    },
+    "Unlawful Entry": {
+      "id": 17494,
+      "poster": "/dvw1Pkt0tk8tvXy61cMwOaPgkyb.jpg",
+      "title": "Unlawful Entry",
+      "year": 1992
+    },
+    "Pacific Heights": {
+      "id": 2990,
+      "poster": "/9iHD6xIrGSuuMEFWhwSVGXSddY2.jpg",
+      "title": "Pacific Heights",
+      "year": 1990
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    }
+  }
+}

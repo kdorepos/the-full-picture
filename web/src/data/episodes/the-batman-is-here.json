@@ -1,0 +1,285 @@
+{
+  "slug": "the-batman-is-here",
+  "title": "'The Batman' Is Here!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessy",
+    "Joanna Robinson",
+    "Chris Ryan"
+  ],
+  "published": "2022-03-03",
+  "runtimeMin": 88,
+  "format": "Sean, Joanna, and Chris review Matt Reeves's nearly three-hour, year-two Batman reboot, starring Robert Pattinson as a grungier, more traumatized Bruce Wayne opposite Zoe Kravitz, Paul Dano, and Colin Farrell. Then Sean sits down with Reeves to talk about noir influences and practical stunts, and asks why he wanted an early-days detective story instead of another origin tale.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "'The Batman'",
+      "note": "the bat and the cat weigh in",
+      "films": [
+        {
+          "title": "The Batman",
+          "year": 2022,
+          "note": "Matt Reeves's year-two reboot, heavily indebted to Frank Miller's 'Year One' and Darwyn Cooke's Ego run, with Robert Pattinson as a more insomniac, emotionally raw Batman opposite Zoe Kravitz's Selina Kyle, Paul Dano's Riddler, Jeffrey Wright, Colin Farrell, John Turturro, Peter Sarsgaard, and Andy Serkis. Joanna loved it start to finish; Chris admired it more than he enjoyed it, calling the nearly three-hour runtime 'a slog' at times and the PG-13 rating a constraint on how dark Reeves could go."
+        },
+        {
+          "title": "Batman: Mask of the Phantasm",
+          "year": 1993,
+          "note": "Chris's self-described favorite movie of all time (he owns it on laserdisc); Sean cites it as a heavy influence on the new film's noir tone."
+        },
+        {
+          "title": "Batman",
+          "year": 1989,
+          "note": "Tim Burton's original, and Chris's soft spot since it was the first Batman he saw on screen."
+        },
+        {
+          "title": "Batman Returns",
+          "year": 1992,
+          "note": "Michelle Pfeiffer's Catwoman comes up as the group's touchstone for how a cat burglar has been played before; Joanna notes Kravitz's version is far more grounded and doesn't do anything 'catlike' beyond drinking milk."
+        },
+        {
+          "title": "The Dark Knight",
+          "year": 2008,
+          "note": "Sean compares the Riddler's relationship with Batman to Ledger's Joker and Bale's Batman needing each other. Chris argues this new film shares the most tonal DNA with Nolan's trilogy, though Joanna finds Gotham here more visually distinct thanks to Greg Fraser's photography."
+        },
+        {
+          "title": "The Dark Knight Rises",
+          "year": 2012,
+          "note": "Chris hears Occupy-era overtones in how the Riddler organizes his followers, comparable to Bane's rhetoric here; also the other reference point (with Hathaway) for a Catwoman running her own agenda alongside Batman's."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Matt Reeves on",
+      "note": "Sean's conversation with the director",
+      "films": [
+        {
+          "title": "The Batman",
+          "year": 2022,
+          "note": "Reeves describes wanting an 'early years' Batman who hasn't figured himself out, driven by trauma rather than heroism, opening on the line 'I am vengeance' instead of 'I'm Batman.' He talks through the Hitchcockian, subjective camera approach and the deliberately imperfect anamorphic lenses. The Batmobile chase was shot practically, with a hard-mounted camera, modeled on 'The French Connection' and 'Bullitt'; the finished digital image was then shot out to film and back to rough up the texture. The script dates to 2017; the pandemic stretched production to five years."
+        },
+        {
+          "title": "Cloverfield",
+          "year": 2008,
+          "note": "Reeves recalls the viral 'Transformers' trailer moment creating outsized expectations before the movie was even finished, a feeling he says returned with 'The Batman.'"
+        },
+        {
+          "title": "Let Me In",
+          "year": 2010,
+          "note": "He calls it his most personal film going in, tied to being bullied as a kid; he wrote to original novelist John Ajvide Lindqvist, who urged him to make it."
+        },
+        {
+          "title": "Rise of the Planet of the Apes",
+          "year": 2011,
+          "note": "Rupert Wyatt's franchise-starter; Reeves came aboard for the next two entries."
+        },
+        {
+          "title": "Dawn of the Planet of the Apes",
+          "year": 2014,
+          "note": "Reeves's first Apes film, and the start of his ongoing collaboration with production designer James Chinlund, who also designed 'The Batman.'"
+        },
+        {
+          "title": "War for the Planet of the Apes",
+          "year": 2017,
+          "note": "Reeves was finishing this when he signed on to 'The Batman' in 2017; the two productions overlapped by roughly five years."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Reeves's noir and detective-movie touchstones",
+      "films": [
+        "Chinatown",
+        "Serpico",
+        "To Have and Have Not",
+        "Se7en",
+        "Zodiac",
+        "The French Connection",
+        "Bullitt",
+        "Blade Runner"
+      ]
+    },
+    {
+      "group": "Elsewhere in the conversation",
+      "films": [
+        "Avengers: Endgame",
+        "Dune",
+        "Uncharted",
+        "Spider-Man: No Way Home",
+        "Twilight",
+        "tick, tick... BOOM!"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Gotham P.D. (planned HBO Max series)",
+      "The Penguin (planned HBO Max series)",
+      "High Fidelity (TV series)",
+      "The North Water (miniseries, referred to as 'the Northwater')",
+      "PAW Patrol"
+    ],
+    "Ads": [
+      "The Bill Simmons Podcast (promo)",
+      "Boar's Head",
+      "Netflix FIFA World Cup Launch Edition",
+      "American Express Business Platinum",
+      "Colgate Optic White"
+    ]
+  },
+  "tmdb": {
+    "The Batman": {
+      "id": 414906,
+      "poster": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "title": "The Batman",
+      "year": 2022
+    },
+    "Batman: Mask of the Phantasm": {
+      "id": 14919,
+      "poster": "/hT4ehUteagUrhUOHAtmYiY7mp5l.jpg",
+      "title": "Batman: Mask of the Phantasm",
+      "year": 1993
+    },
+    "Batman": {
+      "id": 268,
+      "poster": "/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
+      "title": "Batman",
+      "year": 1989
+    },
+    "Batman Returns": {
+      "id": 364,
+      "poster": "/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg",
+      "title": "Batman Returns",
+      "year": 1992
+    },
+    "The Dark Knight": {
+      "id": 155,
+      "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    "The Dark Knight Rises": {
+      "id": 49026,
+      "poster": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+      "title": "The Dark Knight Rises",
+      "year": 2012
+    },
+    "Cloverfield": {
+      "id": 7191,
+      "poster": "/qIegUGJqyMMCRjkKV1s7A9MqdJ8.jpg",
+      "title": "Cloverfield",
+      "year": 2008
+    },
+    "Let Me In": {
+      "id": 41402,
+      "poster": "/rgNb9nwPKwV45c5PTvFqFmpzGt0.jpg",
+      "title": "Let Me In",
+      "year": 2010
+    },
+    "Rise of the Planet of the Apes": {
+      "id": 61791,
+      "poster": "/oqA45qMyyo1TtrnVEBKxqmTPhbN.jpg",
+      "title": "Rise of the Planet of the Apes",
+      "year": 2011
+    },
+    "Dawn of the Planet of the Apes": {
+      "id": 119450,
+      "poster": "/mSmAc9G25fhOHH45SLEeagR0qi7.jpg",
+      "title": "Dawn of the Planet of the Apes",
+      "year": 2014
+    },
+    "War for the Planet of the Apes": {
+      "id": 281338,
+      "poster": "/3vYhLLxrTtZLysXtIWktmd57Snv.jpg",
+      "title": "War for the Planet of the Apes",
+      "year": 2017
+    },
+    "Chinatown": {
+      "id": 829,
+      "poster": "/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg",
+      "title": "Chinatown",
+      "year": 1974
+    },
+    "Serpico": {
+      "id": 9040,
+      "poster": "/pRagfd10PPWryFRSzLPIivfAXHJ.jpg",
+      "title": "Serpico",
+      "year": 1973
+    },
+    "To Have and Have Not": {
+      "id": 22584,
+      "poster": "/m6EjBAY7gA6tx5RMutXGtZWFzyI.jpg",
+      "title": "To Have and Have Not",
+      "year": 1945
+    },
+    "Se7en": {
+      "id": 807,
+      "poster": "/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+      "title": "Se7en",
+      "year": 1995
+    },
+    "Zodiac": {
+      "id": 1949,
+      "poster": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+      "title": "Zodiac",
+      "year": 2007
+    },
+    "The French Connection": {
+      "id": 1051,
+      "poster": "/pH4saPwMjhnVGwmSH6RkMaHrt3s.jpg",
+      "title": "The French Connection",
+      "year": 1971
+    },
+    "Bullitt": {
+      "id": 916,
+      "poster": "/2ffzF1WmeXtH420fSUoCrecFvDA.jpg",
+      "title": "Bullitt",
+      "year": 1968
+    },
+    "Blade Runner": {
+      "id": 78,
+      "poster": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+      "title": "Blade Runner",
+      "year": 1982
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Dune": {
+      "id": 438631,
+      "poster": "/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "title": "Dune",
+      "year": 2021
+    },
+    "Uncharted": {
+      "id": 335787,
+      "poster": "/rJHC1RUORuUhtfNb4Npclx0xnOf.jpg",
+      "title": "Uncharted",
+      "year": 2022
+    },
+    "Spider-Man: No Way Home": {
+      "id": 634649,
+      "poster": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "title": "Spider-Man: No Way Home",
+      "year": 2021
+    },
+    "Twilight": {
+      "id": 8966,
+      "poster": "/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
+      "title": "Twilight",
+      "year": 2008
+    },
+    "tick, tick... BOOM!": {
+      "id": 537116,
+      "poster": "/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg",
+      "title": "tick, tick... BOOM!",
+      "year": 2021
+    }
+  }
+}

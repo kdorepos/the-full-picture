@@ -1,0 +1,302 @@
+{
+  "slug": "ex-machina-annihilation-and-men-the-mind-bending-movies-of-a",
+  "title": "‘Ex Machina,’ ‘Annihilation,’ and ‘Men’: The Mind-bending Movies of Alex Garland",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Joanna Robinson"
+  ],
+  "published": "2022-05-20",
+  "runtimeMin": 97,
+  "format": "Sean Fennessey and Joanna Robinson walk through Alex Garland's filmography around the release of 'Men,' then Fennessey sits down with Garland on authorship, permission, and whether he still wants to direct.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The Garland machine",
+      "note": "with Joanna Robinson",
+      "films": [
+        {
+          "title": "Men",
+          "year": 2022,
+          "note": "Garland's 10th produced screenplay and his third film as director, an A24 folk-horror freakout with Jessie Buckley opposite Rory Kinnear, who plays every man in the village. Robinson likens the one-actor conceit to a stage Turn of the Screw; both agree the birth-imagery finale is unlike anything else on screens."
+        },
+        {
+          "title": "Ex Machina",
+          "year": 2014,
+          "note": "His directing debut and, Robinson argues, the real companion piece to 'Men': the Gleeson and Isaac characters embody two ways men see women. Won the visual-effects Oscar and got him a screenplay nomination after ~15 years writing."
+        },
+        {
+          "title": "Annihilation",
+          "year": 2018,
+          "note": "His largest-scale film, a box-office disappointment with loyal champions. He rewrote the VanderMeer novel heavily, treating Portman as a co-author."
+        },
+        {
+          "title": "The Beach",
+          "year": 2000,
+          "note": "Garland's debut novel, adapted by Danny Boyle with DiCaprio; Garland has said the film has little to do with the book."
+        },
+        {
+          "title": "28 Days Later",
+          "year": 2002,
+          "note": "Boyle collaboration Fennessey rates among Boyle's best."
+        },
+        {
+          "title": "Sunshine",
+          "year": 2007,
+          "note": "The other Boyle collaboration: a space movie with a garden on the ship, the nature-inside-technology motif that recurs across his work."
+        },
+        {
+          "title": "Never Let Me Go",
+          "year": 2010,
+          "note": "His Ishiguro adaptation, unusually faithful for him."
+        },
+        {
+          "title": "Dredd",
+          "year": 2012,
+          "note": "Written by Garland and directed by Pete Travis; star Karl Urban has said Garland drove the film's tone and execution."
+        },
+        {
+          "title": "Civil War",
+          "year": 2024,
+          "note": "His next film, then in production with Kirsten Dunst, named as evidence he isn't waiting on 'Men's' returns before mounting the next one."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation with Alex Garland",
+      "guest": "Alex Garland on",
+      "films": [
+        {
+          "title": "Men",
+          "year": 2022,
+          "note": "Garland traces the script back ~15 years (four prior drafts), explains the Sheela na gig and green-man iconography, and defends leaving the same-actor conceit unexplained: two readings, neither right."
+        },
+        {
+          "title": "Come and See",
+          "year": 1985,
+          "note": "His last-great-thing pick; rewatched it for his current film and found it even better than he remembered."
+        },
+        {
+          "title": "Possession",
+          "year": 1981,
+          "note": "The Żuławski film Fennessey names as a cousin to 'Men'; Garland recommends it back to him."
+        },
+        {
+          "title": "The Wicker Man",
+          "year": 1973,
+          "note": "The original: the folk-horror touchstone he says is hard to avoid, remake excepted."
+        },
+        {
+          "title": "The Evil Dead",
+          "year": 1981,
+          "note": "Garland realized on the second take he'd unconsciously set up a shot straight out of it."
+        },
+        {
+          "title": "Stalker",
+          "year": 1979,
+          "note": "Raised as a reference point back during their Annihilation conversation."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Comparisons drawn",
+      "films": [
+        "The Green Knight",
+        "Mother!",
+        "Midsommar",
+        "Westworld"
+      ]
+    },
+    {
+      "group": "Jessie Buckley elsewhere",
+      "films": [
+        "The Lost Daughter",
+        "Wild Rose"
+      ]
+    },
+    {
+      "group": "Also at the movies that week",
+      "films": [
+        "Chip 'n Dale: Rescue Rangers",
+        "Emergency",
+        "Downton Abbey: A New Era",
+        "Top Gun: Maverick"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Emergency": 819309
+  },
+  "excluded": {
+    "TV": [
+      "Devs",
+      "Chernobyl",
+      "Penny Dreadful",
+      "Black Mirror",
+      "Westworld (HBO series)",
+      "She-Hulk",
+      "Downton Abbey (series)"
+    ],
+    "Stage": [
+      "The Turn of the Screw"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "Netflix FIFA World Cup",
+      "White Claw",
+      "Quaker",
+      "Pepsi",
+      "Botox"
+    ]
+  },
+  "tmdb": {
+    "Men": {
+      "id": 780609,
+      "poster": "/jo1Kv3P3UgDVk7JnUFr2Cl8WWUM.jpg",
+      "title": "Men",
+      "year": 2022
+    },
+    "Ex Machina": {
+      "id": 264660,
+      "poster": "/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
+      "title": "Ex Machina",
+      "year": 2015
+    },
+    "Annihilation": {
+      "id": 300668,
+      "poster": "/4YRplSk6BhH6PRuE9gfyw9byUJ6.jpg",
+      "title": "Annihilation",
+      "year": 2018
+    },
+    "The Beach": {
+      "id": 1907,
+      "poster": "/4y7LxD8TSi6AtsM2xSYqUm1gu7u.jpg",
+      "title": "The Beach",
+      "year": 2000
+    },
+    "28 Days Later": {
+      "id": 170,
+      "poster": "/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
+      "title": "28 Days Later",
+      "year": 2002
+    },
+    "Sunshine": {
+      "id": 1272,
+      "poster": "/oKGGeJ8qvm0UmClz43VJ31fzPP7.jpg",
+      "title": "Sunshine",
+      "year": 2007
+    },
+    "Never Let Me Go": {
+      "id": 42188,
+      "poster": "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg",
+      "title": "Never Let Me Go",
+      "year": 2010
+    },
+    "Dredd": {
+      "id": 49049,
+      "poster": "/wLx65gtGVnUFCxceHWGszcruCZj.jpg",
+      "title": "Dredd",
+      "year": 2012
+    },
+    "Civil War": {
+      "id": 929590,
+      "poster": "/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+      "title": "Civil War",
+      "year": 2024
+    },
+    "Come and See": {
+      "id": 25237,
+      "poster": "/qNbMsKVzigERgJUbwf8pKyZogpb.jpg",
+      "title": "Come and See",
+      "year": 1985
+    },
+    "Possession": {
+      "id": 21484,
+      "poster": "/A9bnRn05riOKWftvQlLKa2gl51n.jpg",
+      "title": "Possession",
+      "year": 1981
+    },
+    "The Wicker Man": {
+      "id": 16307,
+      "poster": "/wwtrXRL8SiOWxhwLEvw7iBgYh0g.jpg",
+      "title": "The Wicker Man",
+      "year": 1973
+    },
+    "The Evil Dead": {
+      "id": 764,
+      "poster": "/54C1qdaiSijIU5NeNb4WsPJdNkG.jpg",
+      "title": "The Evil Dead",
+      "year": 1981
+    },
+    "Stalker": {
+      "id": 1398,
+      "poster": "/1qhOyf5C4s9ZdvY8d5JDx9DFMeT.jpg",
+      "title": "Stalker",
+      "year": 1979
+    },
+    "The Green Knight": {
+      "id": 559907,
+      "poster": "/if4hw3Ou5Sav9Em7WWHj66mnywp.jpg",
+      "title": "The Green Knight",
+      "year": 2021
+    },
+    "Mother!": {
+      "id": 381283,
+      "poster": "/fjny9chXPx69ln1LMJxbwi5yHMt.jpg",
+      "title": "mother!",
+      "year": 2017
+    },
+    "Midsommar": {
+      "id": 530385,
+      "poster": "/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+      "title": "Midsommar",
+      "year": 2019
+    },
+    "Westworld": {
+      "id": 2362,
+      "poster": "/qNt29HzxwZ4jGTgSRxdA34ino9Q.jpg",
+      "title": "Westworld",
+      "year": 1973
+    },
+    "The Lost Daughter": {
+      "id": 554230,
+      "poster": "/t1oLNRFixpFOVsyz1HCqCUW3wiW.jpg",
+      "title": "The Lost Daughter",
+      "year": 2021
+    },
+    "Wild Rose": {
+      "id": 482981,
+      "poster": "/79THplH9WM7y3gRPYM4dcC0IRPw.jpg",
+      "title": "Wild Rose",
+      "year": 2019
+    },
+    "Chip 'n Dale: Rescue Rangers": {
+      "id": 420821,
+      "poster": "/7UGmn8TyWPPzkjhLUW58cOUHjPS.jpg",
+      "title": "Chip 'n Dale: Rescue Rangers",
+      "year": 2022
+    },
+    "Emergency": {
+      "id": 819309,
+      "poster": "/zVIa7Ynom2k96mNRXulOpTWP6SF.jpg",
+      "title": "Emergency",
+      "year": 2022
+    },
+    "Downton Abbey: A New Era": {
+      "id": 820446,
+      "poster": "/r5n4CLoIjUcnT3shWDi6MHdJ25a.jpg",
+      "title": "Downton Abbey: A New Era",
+      "year": 2022
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    }
+  }
+}

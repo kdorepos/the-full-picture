@@ -1,0 +1,871 @@
+{
+  "slug": "the-five-most-important-movies-at-sundance-the-big-picture",
+  "title": "The Five Most Important Movies at Sundance",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2020-01-31",
+  "runtimeMin": 77,
+  "format": "Sean Fennessey and Amanda Dobbins sort what they saw at the 2020 Sundance Film Festival into five recurring types of Sundance movie, run through what sold and what flopped, then Sean talks to Never Rarely Sometimes Always director Eliza Hittman.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The family drama",
+      "note": "the first Sundance archetype",
+      "films": [
+        {
+          "title": "Winter's Bone",
+          "year": 2010,
+          "note": "A 'more severe' precedent for the archetype."
+        },
+        {
+          "title": "Fruitvale Station",
+          "year": 2013,
+          "note": "Another severe precedent."
+        },
+        {
+          "title": "Affliction",
+          "year": 1997,
+          "note": "Another severe precedent."
+        },
+        {
+          "title": "Big Night",
+          "year": 1996,
+          "note": "The 'lighthearted' precedent."
+        },
+        {
+          "title": "Take Shelter",
+          "year": 2011,
+          "note": "The 'genre-fied' precedent."
+        },
+        {
+          "title": "Minari",
+          "year": 2020,
+          "note": "Lee Isaac Chung's A24 film about a Korean American family moving to Arkansas in the 1980s, starring Steven Yeun and Han Ye-ri, with Will Patton as a local farmhand named Paul. Both hosts call it one of the best films of the festival, singling out the child performance from Alan Kim and the film's specificity and restraint."
+        },
+        {
+          "title": "The Farewell",
+          "year": 2019,
+          "note": "Raised as a comparison for Minari's three-generations, culture-clash story."
+        },
+        {
+          "title": "Burning",
+          "year": 2018,
+          "note": "Steven Yeun's prior lead role, floated as a thematically related double feature with Minari."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The adult-oriented comedy",
+      "films": [
+        {
+          "title": "Four Weddings and a Funeral",
+          "year": 1994
+        },
+        {
+          "title": "In Bruges",
+          "year": 2008,
+          "note": "Martin McDonagh's 'nasty, hilarious' assassin comedy, cited as a career highlight before Three Billboards."
+        },
+        {
+          "title": "500 Days of Summer",
+          "year": 2009
+        },
+        {
+          "title": "Garden State",
+          "year": 2004,
+          "note": "Directed by Zach Braff."
+        },
+        {
+          "title": "Downhill",
+          "year": 2020,
+          "note": "Julia Louis-Dreyfus and Will Ferrell in a remake of Ruben Östlund's Force Majeure, about a father who abandons his family during a false avalanche scare on a ski trip. Both praise the leads' more serious register and the cinematography, and note it's the first release under Fox Searchlight's new logo."
+        },
+        {
+          "title": "Force Majeure",
+          "year": 2014,
+          "note": "The Ruben Östlund original that Downhill remakes."
+        },
+        {
+          "title": "Palm Springs",
+          "year": 2020,
+          "note": "Produced with the Lonely Island; neither host had seen it yet, but word was it sold for a huge sum."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The provocation",
+      "films": [
+        {
+          "title": "Reservoir Dogs",
+          "year": 1992
+        },
+        {
+          "title": "Secretary",
+          "year": 2002
+        },
+        {
+          "title": "The Blair Witch Project",
+          "year": 1999
+        },
+        {
+          "title": "American Psycho",
+          "year": 2000
+        },
+        {
+          "title": "The Raid 2",
+          "year": 2014
+        },
+        {
+          "title": "Zola",
+          "year": 2020,
+          "note": "Janicza Bravo's adaptation of the viral Twitter thread about a stripper's road trip to Florida, scored by Mica Levi. Both praise its sensory-overload style and how well it keeps moving."
+        },
+        {
+          "title": "Assassination Nation",
+          "year": 2018,
+          "note": "Sam Levinson's earlier, less successful stab at similar sensory overload."
+        },
+        {
+          "title": "Spring Breakers",
+          "year": 2012,
+          "note": "Cited, and dismissed, as a comparison for Zola."
+        },
+        {
+          "title": "Moonlight",
+          "year": 2016,
+          "note": "Part of the 'A24 Florida movies' lineage Zola extends."
+        },
+        {
+          "title": "The Florida Project",
+          "year": 2017,
+          "note": "Same lineage."
+        },
+        {
+          "title": "Waves",
+          "year": 2019,
+          "note": "Same lineage."
+        },
+        {
+          "title": "Promising Young Woman",
+          "year": 2020,
+          "note": "Emerald Fennell's revenge film starring Carey Mulligan, discussed carefully to avoid spoiling it."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The issues-oriented documentary",
+      "films": [
+        {
+          "title": "The Celluloid Closet",
+          "year": 1995
+        },
+        {
+          "title": "Grizzly Man",
+          "year": 2005
+        },
+        {
+          "title": "Crip Camp: A Disability Revolution",
+          "year": 2020,
+          "note": "Briefly noted as well-received."
+        },
+        {
+          "title": "On the Record",
+          "year": 2020,
+          "note": "Kirby Dick and Amy Ziering's documentary on Drew Dixon's allegations against Russell Simmons at Def Jam, and the wider music industry. Oprah Winfrey removed her producer credit three days before the premiere."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The sneaky Oscar contender",
+      "films": [
+        {
+          "title": "Whiplash",
+          "year": 2014
+        },
+        {
+          "title": "Get Out",
+          "year": 2017
+        },
+        {
+          "title": "Call Me by Your Name",
+          "year": 2017
+        },
+        {
+          "title": "Manchester by the Sea",
+          "year": 2016
+        },
+        {
+          "title": "Minari",
+          "year": 2020,
+          "note": "Revisited here as they debate the right release window for an Oscar run; Sean guesses September."
+        },
+        {
+          "title": "The Last Black Man in San Francisco",
+          "year": 2019
+        },
+        {
+          "title": "Honey Boy",
+          "year": 2019
+        },
+        {
+          "title": "The Souvenir",
+          "year": 2019
+        },
+        {
+          "title": "The Nightingale",
+          "year": 2018,
+          "note": "Jennifer Kent's film about a woman in 19th-century Australia; they admit giving it too little time on the show when it played last year."
+        },
+        {
+          "title": "Clemency",
+          "year": 2019,
+          "note": "Took 11 months from Sundance to a wide release, which they think worked against it."
+        },
+        {
+          "title": "1917",
+          "year": 2019,
+          "note": "Cited as the opposite case, a film a fast turnaround helped."
+        },
+        {
+          "title": "Knock Down the House",
+          "year": 2019
+        },
+        {
+          "title": "American Factory",
+          "year": 2019
+        },
+        {
+          "title": "One Child Nation",
+          "year": 2019
+        },
+        {
+          "title": "Apollo 11",
+          "year": 2019
+        },
+        {
+          "title": "Late Night",
+          "year": 2019
+        },
+        {
+          "title": "Brittany Runs a Marathon",
+          "year": 2019
+        },
+        {
+          "title": "Honeyland",
+          "year": 2019
+        },
+        {
+          "title": "Dick Johnson Is Dead",
+          "year": 2020
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "What sold at Sundance",
+      "note": "back in Los Angeles",
+      "films": [
+        {
+          "title": "Palm Springs",
+          "year": 2020,
+          "note": "The festival's biggest sale: $17.5 million and 69 cents from Hulu and Neon, the odd cents added to make it the highest Sundance sale ever. They guess the price reflects Andy Samberg's built-in Brooklyn Nine-Nine audience on Hulu."
+        },
+        {
+          "title": "Parasite",
+          "year": 2019,
+          "note": "Cited as Neon's last big splashy acquisition, which paid off with a $30 million box office."
+        },
+        {
+          "title": "The Night House",
+          "year": 2020,
+          "note": "David Bruckner's horror thriller starring Rebecca Hall, bought by Sony for $12 million."
+        },
+        {
+          "title": "The Ritual",
+          "year": 2017,
+          "note": "Bruckner's previous film, streaming on Netflix."
+        },
+        {
+          "title": "Herself",
+          "year": 2020,
+          "note": "Phyllida Lloyd's small Irish drama, bought by Amazon, a departure from Amazon's usual Sundance buys."
+        },
+        {
+          "title": "Boys State",
+          "year": 2020,
+          "note": "Jesse Moss and Amanda McBaine's documentary about teenage boys building a mock American political system in Texas, bought by A24 for Apple TV+. Sean calls it the best movie he saw at the festival."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The biggest disappointment",
+      "films": [
+        {
+          "title": "The Last Thing He Wanted",
+          "year": 2020,
+          "note": "Dee Rees' Netflix adaptation of the Joan Didion novel, starring Anne Hathaway, Ben Affleck, and Willem Dafoe, about arms dealing and the Contra war in 1980s Nicaragua and El Salvador. Both call it a confusing, total failure despite a promising cast and subject."
+        },
+        {
+          "title": "Play It As It Lays",
+          "year": 1972,
+          "note": "The earlier, 'famously weird' Didion adaptation, cited as evidence her prose resists adaptation."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "What's next for Anne Hathaway",
+      "films": [
+        {
+          "title": "The Intern",
+          "year": 2015
+        },
+        {
+          "title": "Ocean's Eight",
+          "year": 2018,
+          "note": "She's the 'scene stealer,' per Amanda."
+        },
+        {
+          "title": "Serenity",
+          "year": 2019,
+          "note": "Called 'a historical disaster,' but 'really funny and dumb.'"
+        },
+        {
+          "title": "The Hustle",
+          "year": 2019
+        },
+        {
+          "title": "Dark Waters",
+          "year": 2019,
+          "note": "A throwaway part she elevates, per Amanda."
+        },
+        {
+          "title": "Roald Dahl's The Witches",
+          "year": 2020,
+          "note": "Robert Zemeckis' Roald Dahl adaptation; she plays the Grand High Witch."
+        },
+        {
+          "title": "Sesame Street",
+          "year": 2022,
+          "note": "An upcoming Sesame Street movie from Jonathan Krisel, said to also feature Bo Burnham, with a release date given as January 14, 2022."
+        },
+        {
+          "title": "The Princess Diaries",
+          "year": 2001,
+          "note": "Cited as evidence she's always been best as a comedian."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Eliza Hittman on",
+      "films": [
+        {
+          "title": "Never Rarely Sometimes Always",
+          "year": 2020,
+          "note": "Hittman's third feature, about two teenage cousins traveling from rural Pennsylvania to New York City for an abortion. She traces its origin to a 2013 news story about Savita Halappanavar, discusses casting first-time actor Sidney Flanigan (whom she'd met years earlier on the set of Buffalo Juggalos), and the film's sparse, non-naturalistic dialogue. Distributed by Focus Features, opening in March."
+        },
+        {
+          "title": "Beach Rats",
+          "year": 2017,
+          "note": "Her previous film; she says it didn't open many doors beyond some TV work."
+        },
+        {
+          "title": "Buffalo Juggalos",
+          "year": 2013,
+          "note": "A staged, documentary-style portrait she produced, on the set of which she first met Sidney Flanigan."
+        },
+        {
+          "title": "Midnight Cowboy",
+          "year": 1969,
+          "note": "A reference point she revisited for the film's road-trip structure."
+        },
+        {
+          "title": "Atlantics",
+          "year": 2019,
+          "note": "Mati Diop's film, the 'last great thing' she'd seen, praised for shifting from social realism into something 'haunting and supernatural.'"
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Judy",
+        "Dolittle",
+        "Cats",
+        "Welcome to Marwen",
+        "On the Rocks"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Leaving Neverland",
+      "Brooklyn Nine-Nine",
+      "Curb Your Enthusiasm",
+      "Veep",
+      "Euphoria",
+      "High Maintenance",
+      "13 Reasons Why",
+      "Stranger Things",
+      "Kroll Show",
+      "Portlandia"
+    ],
+    "Ads": [
+      "AT&T"
+    ]
+  },
+  "tmdb": {
+    "Winter's Bone": {
+      "id": 39013,
+      "poster": "/a0qhPkNlxLfsf5B2jFyI1Pp04XV.jpg",
+      "title": "Winter's Bone",
+      "year": 2010
+    },
+    "Fruitvale Station": {
+      "id": 157354,
+      "poster": "/oXSy3nEKFtfw5iRxdG8ouEFAnxs.jpg",
+      "title": "Fruitvale Station",
+      "year": 2013
+    },
+    "Affliction": {
+      "id": 31662,
+      "poster": "/hNu8ePwoRyXDQxhLY4iurCVXAQs.jpg",
+      "title": "Affliction",
+      "year": 1998
+    },
+    "Big Night": {
+      "id": 18203,
+      "poster": "/8AJGSDyrj3Dz2B57n1ZB4qNPbmJ.jpg",
+      "title": "Big Night",
+      "year": 1996
+    },
+    "Take Shelter": {
+      "id": 64720,
+      "poster": "/dldIX0q5jewe8rSyCh8d5I1RYx3.jpg",
+      "title": "Take Shelter",
+      "year": 2011
+    },
+    "Minari": {
+      "id": 615643,
+      "poster": "/6mPNdmjdbVKPITv3LLCmQoKs9Zw.jpg",
+      "title": "Minari",
+      "year": 2021
+    },
+    "The Farewell": {
+      "id": 565310,
+      "poster": "/7ht2IMGynDSVQGvAXhAb83DLET8.jpg",
+      "title": "The Farewell",
+      "year": 2019
+    },
+    "Burning": {
+      "id": 491584,
+      "poster": "/kXiF80o74fE9gf3Utf9moAI7ar0.jpg",
+      "title": "Burning",
+      "year": 2018
+    },
+    "Four Weddings and a Funeral": {
+      "id": 712,
+      "poster": "/qa72G2VS0bpxms6yo0tI9vsHm2e.jpg",
+      "title": "Four Weddings and a Funeral",
+      "year": 1994
+    },
+    "In Bruges": {
+      "id": 8321,
+      "poster": "/vz3Vd6nfq9YZrVvyYx5RHFaYKV3.jpg",
+      "title": "In Bruges",
+      "year": 2008
+    },
+    "500 Days of Summer": {
+      "id": 19913,
+      "poster": "/qXAuQ9hF30sQRsXf40OfRVl0MJZ.jpg",
+      "title": "(500) Days of Summer",
+      "year": 2009
+    },
+    "Garden State": {
+      "id": 401,
+      "poster": "/h3iqYiGS6F3y7GxaS4AT8nFxZ2i.jpg",
+      "title": "Garden State",
+      "year": 2004
+    },
+    "Downhill": {
+      "id": 560391,
+      "poster": "/ruLqLb2bfWKykckxVlVZayuBOgW.jpg",
+      "title": "Downhill",
+      "year": 2020
+    },
+    "Force Majeure": {
+      "id": 265189,
+      "poster": "/41agNfzepz2DTdgTBX1fX0QclHp.jpg",
+      "title": "Force Majeure",
+      "year": 2014
+    },
+    "Palm Springs": {
+      "id": 587792,
+      "poster": "/gnAfqiV7yO3Jq9IntTmwkcaICqc.jpg",
+      "title": "Palm Springs",
+      "year": 2020
+    },
+    "Reservoir Dogs": {
+      "id": 500,
+      "poster": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+      "title": "Reservoir Dogs",
+      "year": 1992
+    },
+    "Secretary": {
+      "id": 11013,
+      "poster": "/8mHdYNKCmvjB1r87waCtEi9nvTt.jpg",
+      "title": "Secretary",
+      "year": 2002
+    },
+    "The Blair Witch Project": {
+      "id": 2667,
+      "poster": "/9050VGrYjYrEjpOvDZVAngLbg1f.jpg",
+      "title": "The Blair Witch Project",
+      "year": 1999
+    },
+    "American Psycho": {
+      "id": 1359,
+      "poster": "/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+      "title": "American Psycho",
+      "year": 2000
+    },
+    "The Raid 2": {
+      "id": 180299,
+      "poster": "/mlGuKlIDLdPhYjz1QBXi0FmyYik.jpg",
+      "title": "The Raid 2",
+      "year": 2014
+    },
+    "Zola": {
+      "id": 539565,
+      "poster": "/bJLCPROp9bmNndurwZpVnOioVpB.jpg",
+      "title": "Zola",
+      "year": 2021
+    },
+    "Assassination Nation": {
+      "id": 446101,
+      "poster": "/dMg1wPakqPx54yMzm0OuHn1jl42.jpg",
+      "title": "Assassination Nation",
+      "year": 2018
+    },
+    "Spring Breakers": {
+      "id": 122081,
+      "poster": "/9tyPnyEkL44qbAliM9jMRWc6bjg.jpg",
+      "title": "Spring Breakers",
+      "year": 2013
+    },
+    "Moonlight": {
+      "id": 376867,
+      "poster": "/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+      "title": "Moonlight",
+      "year": 2016
+    },
+    "The Florida Project": {
+      "id": 394117,
+      "poster": "/5QnDxdJg1fi6uMSkSi4x8tHsltm.jpg",
+      "title": "The Florida Project",
+      "year": 2017
+    },
+    "Waves": {
+      "id": 533444,
+      "poster": "/3xbjL0z8iH8e8L3USyeKGQrBfuZ.jpg",
+      "title": "Waves",
+      "year": 2019
+    },
+    "Promising Young Woman": {
+      "id": 582014,
+      "poster": "/73QoFJFmUrJfDG2EynFjNc5gJxk.jpg",
+      "title": "Promising Young Woman",
+      "year": 2020
+    },
+    "The Celluloid Closet": {
+      "id": 32562,
+      "poster": "/x0DSh3uMeQk6EG1DHjGJUywN7C0.jpg",
+      "title": "The Celluloid Closet",
+      "year": 1996
+    },
+    "Grizzly Man": {
+      "id": 501,
+      "poster": "/zuZWpcuye25rpsiZ4XzsAvmLDHG.jpg",
+      "title": "Grizzly Man",
+      "year": 2005
+    },
+    "Crip Camp: A Disability Revolution": {
+      "id": 653725,
+      "poster": "/iALSypN3MhC6kBVwc9VpuJUlm1j.jpg",
+      "title": "Crip Camp: A Disability Revolution",
+      "year": 2020
+    },
+    "On the Record": {
+      "id": 653612,
+      "poster": "/9x6cjkO8cV0rocVYmaWpbcKB49o.jpg",
+      "title": "On the Record",
+      "year": 2020
+    },
+    "Whiplash": {
+      "id": 244786,
+      "poster": "/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+      "title": "Whiplash",
+      "year": 2014
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Call Me by Your Name": {
+      "id": 398818,
+      "poster": "/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
+      "title": "Call Me by Your Name",
+      "year": 2017
+    },
+    "Manchester by the Sea": {
+      "id": 334541,
+      "poster": "/o9VXYOuaJxCEKOxbA86xqtwmqYn.jpg",
+      "title": "Manchester by the Sea",
+      "year": 2016
+    },
+    "The Last Black Man in San Francisco": {
+      "id": 522039,
+      "poster": "/ow9zjibNrz5TYVZ6cqwmvCR1YX1.jpg",
+      "title": "The Last Black Man in San Francisco",
+      "year": 2019
+    },
+    "Honey Boy": {
+      "id": 512263,
+      "poster": "/3BZ2rBn31kWER45ZMj7OTe9keMm.jpg",
+      "title": "Honey Boy",
+      "year": 2019
+    },
+    "The Souvenir": {
+      "id": 473019,
+      "poster": "/2Nj04HsZ0lNkv07JnfBZ0bAIECn.jpg",
+      "title": "The Souvenir",
+      "year": 2019
+    },
+    "The Nightingale": {
+      "id": 400090,
+      "poster": "/wEzqFiatOJSbGBu6pb8z5sQuZt1.jpg",
+      "title": "The Nightingale",
+      "year": 2018
+    },
+    "Clemency": {
+      "id": 565307,
+      "poster": "/uQgi5hq29saWiG4DbmQfz2EEnKI.jpg",
+      "title": "Clemency",
+      "year": 2019
+    },
+    "1917": {
+      "id": 530915,
+      "poster": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+      "title": "1917",
+      "year": 2019
+    },
+    "Knock Down the House": {
+      "id": 565312,
+      "poster": "/uAfixuZIFVbWIsWytzROJDY85D7.jpg",
+      "title": "Knock Down the House",
+      "year": 2019
+    },
+    "American Factory": {
+      "id": 565716,
+      "poster": "/7jH3dQOJ3CHMrp9tWsI3rRCDiaD.jpg",
+      "title": "American Factory",
+      "year": 2019
+    },
+    "One Child Nation": {
+      "id": 566368,
+      "poster": "/bV0aqhB7fsw5mWJROBnFro1Qhwn.jpg",
+      "title": "One Child Nation",
+      "year": 2019
+    },
+    "Apollo 11": {
+      "id": 549559,
+      "poster": "/woLMRroHyoTGoXyxdEeBJEYBFtu.jpg",
+      "title": "Apollo 11",
+      "year": 2019
+    },
+    "Late Night": {
+      "id": 523172,
+      "poster": "/xxwb5KBqS0SHsUcyLgWMk3vuVxY.jpg",
+      "title": "Late Night",
+      "year": 2019
+    },
+    "Brittany Runs a Marathon": {
+      "id": 529862,
+      "poster": "/aSWePCEtLpNdD7ykW6OuZqvVhyn.jpg",
+      "title": "Brittany Runs a Marathon",
+      "year": 2019
+    },
+    "Honeyland": {
+      "id": 566213,
+      "poster": "/3IxGhQEzLWOxkZlcNMAIiYlOT8D.jpg",
+      "title": "Honeyland",
+      "year": 2019
+    },
+    "Dick Johnson Is Dead": {
+      "id": 653574,
+      "poster": "/vnfI34kmi3fcdgP7HZjIgGOJHGY.jpg",
+      "title": "Dick Johnson Is Dead",
+      "year": 2020
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "The Night House": {
+      "id": 547565,
+      "poster": "/rqs2CXpc4d5FzeP1EZCYItAVo81.jpg",
+      "title": "The Night House",
+      "year": 2021
+    },
+    "The Ritual": {
+      "id": 433808,
+      "poster": "/9022CYEGqYETCeXN1oE3uwYJWub.jpg",
+      "title": "The Ritual",
+      "year": 2017
+    },
+    "Herself": {
+      "id": 653708,
+      "poster": "/qTCdyHTibEl90w6rDxTTHTX9k3O.jpg",
+      "title": "Herself",
+      "year": 2020
+    },
+    "Boys State": {
+      "id": 653723,
+      "poster": "/cuvt3ImM3wQdijib7OeIH48uRfQ.jpg",
+      "title": "Boys State",
+      "year": 2020
+    },
+    "The Last Thing He Wanted": {
+      "id": 505225,
+      "poster": "/4mDbGqi8mloDdxkviq13SKCfuFH.jpg",
+      "title": "The Last Thing He Wanted",
+      "year": 2020
+    },
+    "Play It As It Lays": {
+      "id": 84796,
+      "poster": "/86XdjBK8FJJuTefGtGHzhTIYI0c.jpg",
+      "title": "Play It as It Lays",
+      "year": 1972
+    },
+    "The Intern": {
+      "id": 257211,
+      "poster": "/bTQ46fupPbjBfFBHuzfD3hxxL0Q.jpg",
+      "title": "The Intern",
+      "year": 2015
+    },
+    "Ocean's Eight": {
+      "id": 402900,
+      "poster": "/MvYpKlpFukTivnlBhizGbkAe3v.jpg",
+      "title": "Ocean's Eight",
+      "year": 2018
+    },
+    "Serenity": {
+      "id": 452832,
+      "poster": "/hgWAcic93phg4DOuQ8NrsgQWiqu.jpg",
+      "title": "Serenity",
+      "year": 2019
+    },
+    "The Hustle": {
+      "id": 449562,
+      "poster": "/qZniBGQRESLIfxw6GeZLZ2G1osa.jpg",
+      "title": "The Hustle",
+      "year": 2019
+    },
+    "Dark Waters": {
+      "id": 552178,
+      "poster": "/bzvzaHqKBSuGIIWhinTQPHvT0zf.jpg",
+      "title": "Dark Waters",
+      "year": 2019
+    },
+    "Roald Dahl's The Witches": {
+      "id": 531219,
+      "poster": "/betExZlgK0l7CZ9CsCBVcwO1OjL.jpg",
+      "title": "Roald Dahl's The Witches",
+      "year": 2020
+    },
+    "Sesame Street": null,
+    "The Princess Diaries": {
+      "id": 9880,
+      "poster": "/7axhsbEzFan6HQQ1aMOy7w3CFRx.jpg",
+      "title": "The Princess Diaries",
+      "year": 2001
+    },
+    "Never Rarely Sometimes Always": {
+      "id": 595671,
+      "poster": "/7yiSyQhhjTFphhfCUcn05tCQxyG.jpg",
+      "title": "Never Rarely Sometimes Always",
+      "year": 2020
+    },
+    "Beach Rats": {
+      "id": 426238,
+      "poster": "/oQZPPsvoipd38jasPhvJOpajbug.jpg",
+      "title": "Beach Rats",
+      "year": 2017
+    },
+    "Buffalo Juggalos": {
+      "id": 309134,
+      "poster": "/eVK9KsapEJyxs4qVkEMYG54M2Ei.jpg",
+      "title": "Buffalo Juggalos",
+      "year": 2014
+    },
+    "Midnight Cowboy": {
+      "id": 3116,
+      "poster": "/ckklq45UxUkwgHve9xItXqXr06r.jpg",
+      "title": "Midnight Cowboy",
+      "year": 1969
+    },
+    "Atlantics": {
+      "id": 496967,
+      "poster": "/zRnZM6HqglFK31MYyrTSQVlj1dQ.jpg",
+      "title": "Atlantics",
+      "year": 2019
+    },
+    "Judy": {
+      "id": 491283,
+      "poster": "/iqJhHjD6k6T07waELjMKDpQJUP.jpg",
+      "title": "Judy",
+      "year": 2019
+    },
+    "Dolittle": {
+      "id": 448119,
+      "poster": "/3Nt3v1uzUgfSuVARD1AnI9g9Zl9.jpg",
+      "title": "Dolittle",
+      "year": 2020
+    },
+    "Cats": {
+      "id": 536869,
+      "poster": "/aCNch5FmzT2WaUcY44925owIZXY.jpg",
+      "title": "Cats",
+      "year": 2019
+    },
+    "Welcome to Marwen": {
+      "id": 351044,
+      "poster": "/dOULsxYQFsOR0cEBBB20xnjJkPD.jpg",
+      "title": "Welcome to Marwen",
+      "year": 2018
+    },
+    "On the Rocks": {
+      "id": 575417,
+      "poster": "/fcijRCmB7yTtloh4Pumy9b1rkwU.jpg",
+      "title": "On the Rocks",
+      "year": 2020
+    }
+  }
+}

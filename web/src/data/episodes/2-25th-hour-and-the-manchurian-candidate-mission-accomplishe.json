@@ -1,0 +1,229 @@
+{
+  "slug": "2-25th-hour-and-the-manchurian-candidate-mission-accomplishe",
+  "title": "2. ‘25th Hour’ and ‘The Manchurian Candidate’ | Mission Accomplished",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Brian Raftery"
+  ],
+  "published": "2025-08-15",
+  "runtimeMin": 49,
+  "format": "Episode two of Brian Raftery's Bush-era series pairs two films about the mood after 9/11: Spike Lee's '25th Hour,' the last-night-of-freedom drama Lee turned into the first studio movie to put Ground Zero on screen, and Jonathan Demme's 'The Manchurian Candidate,' a remake that swapped the Cold War's communist brainwashers for a Halliburton-shaped defense corporation. Raftery talks to cinematographer Rodrigo Prieto and screenwriters Dean Georgaris and Daniel Pine, and reads both films against the run-up to the Iraq War.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "‘25th Hour’",
+      "note": "Spike Lee's last-night-in-New-York drama",
+      "films": [
+        {
+          "title": "25th Hour",
+          "year": 2002,
+          "note": "Spike Lee's adaptation of David Benioff's novel, with Edward Norton as Monty, a convicted dealer spending his last night of freedom before a seven-year prison term. Benioff wrote the script before 9/11; after the towers fell, Lee wove the attacks into the film rather than 'punk out' like the directors who erased the World Trade Center from their skylines. Cinematographer Rodrigo Prieto shot the present-day scenes with a staccato shutter and a grain he thought of as ash in the air, and filmed the opening titles beside the Tribute in Light beams on his one available night. Tobey Maguire was first cast as Monty before Norton, fresh off the Concert for New York City, took over. Touchstone made it for $15 million, with Philip Seymour Hoffman, Rosario Dawson, Barry Pepper and Brian Cox rounding out the cast. Its two most-remembered moments: the Ground Zero window scene and Monty's five-minute mirror rant."
+        },
+        {
+          "title": "8 Mile",
+          "year": 2002,
+          "note": "Rodrigo Prieto's first film shot in the United States. He was in the Detroit production office on the morning of September 11th; '25th Hour' was the New York job he took shortly after."
+        },
+        {
+          "title": "Amores Perros",
+          "year": 2000,
+          "note": "The 2000 Mexico City drama that made Hollywood want to work with Prieto, his breakout before '8 Mile.'"
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "‘The Manchurian Candidate’",
+      "note": "Jonathan Demme's post-9/11 remake",
+      "films": [
+        {
+          "title": "The Manchurian Candidate",
+          "year": 2004,
+          "note": "Jonathan Demme's remake, with Denzel Washington as brainwashed Desert Storm vet Ben Marco, Liev Schreiber as vice-presidential candidate Raymond Shaw, and Meryl Streep as his mother, Senator Eleanor Shaw. Dean Georgaris started the script in the late 1990s and moved the conspiracy from Cold War communists to a Halliburton-like defense contractor, Manchurian Global; Daniel Pine took over the rewrite and kept chasing a reality that outran the fiction. Producer Scott Rudin got it unstuck in about 48 hours after it languished on the shelf; Sherry Lansing's Paramount spent $80 million and released it in the summer of 2004, where its sober, paranoid tone underperformed with audiences expecting Denzel to kick some ass. Bruno Ganz plays the scientist who lays out the plot; Streep modeled Eleanor's look on Nancy Pelosi and Hillary Clinton."
+        },
+        {
+          "title": "The Manchurian Candidate (1962)",
+          "year": 1962,
+          "note": "The original, from Richard Condon's novel, with Frank Sinatra as a Korean War vet who discovers a fellow soldier has been brainwashed by communists to kill the president. Georgaris loved it and at first refused the remake; its Red Scare paranoia became the frame he updated for the corporate era."
+        },
+        {
+          "title": "The Silence of the Lambs",
+          "year": 1991,
+          "note": "One of Jonathan Demme's best-known films, cited to establish the director Paramount landed for the remake."
+        },
+        {
+          "title": "Stop Making Sense",
+          "year": 1984,
+          "note": "Demme's Talking Heads concert film, named alongside 'The Silence of the Lambs' as a measure of his range."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Everybody's 9/11 movie",
+      "films": [
+        "Children of Men",
+        "Signs",
+        "Donnie Darko"
+      ]
+    },
+    {
+      "group": "Hollywood's post-9/11 jitters",
+      "films": [
+        "Collateral Damage",
+        "Men in Black II",
+        "Zoolander",
+        "Serendipity"
+      ]
+    },
+    {
+      "group": "The Bush-era backlash",
+      "films": [
+        "Bowling for Columbine",
+        "Bull Durham"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Invasion of the Body Snatchers",
+        "Crocodile Dundee",
+        "Anchorman: The Legend of Ron Burgundy"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Game of Thrones",
+      "Saturday Night Live",
+      "Face the Nation"
+    ],
+    "Ads": [
+      "Netflix",
+      "FanDuel",
+      "Boar's Head",
+      "White Claw",
+      "Sam's Club",
+      "Mint Mobile"
+    ]
+  },
+  "tmdb": {
+    "25th Hour": {
+      "id": 1429,
+      "poster": "/uW7tTRElr2tRhmAVESzvHy4ByXg.jpg",
+      "title": "25th Hour",
+      "year": 2002
+    },
+    "8 Mile": {
+      "id": 65,
+      "poster": "/7BmQj8qE1FLuLTf7Xjf9sdIHzoa.jpg",
+      "title": "8 Mile",
+      "year": 2002
+    },
+    "Amores Perros": {
+      "id": 55,
+      "poster": "/A4lH22nlFF7MdalGfcvSrlC1ttt.jpg",
+      "title": "Amores Perros",
+      "year": 2000
+    },
+    "The Manchurian Candidate": {
+      "id": 14462,
+      "poster": "/4xEWtEbKK2EXMZ8UPff8hDCSiVW.jpg",
+      "title": "The Manchurian Candidate",
+      "year": 2004
+    },
+    "The Manchurian Candidate (1962)": {
+      "id": 982,
+      "poster": "/2xQ856kd9hw6bB3OnusGyTvvkwB.jpg",
+      "title": "The Manchurian Candidate",
+      "year": 1962
+    },
+    "The Silence of the Lambs": {
+      "id": 274,
+      "poster": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+      "title": "The Silence of the Lambs",
+      "year": 1991
+    },
+    "Stop Making Sense": {
+      "id": 24128,
+      "poster": "/utNpurUe1MMjEaHqvpkfxgfpSnV.jpg",
+      "title": "Stop Making Sense",
+      "year": 1984
+    },
+    "Children of Men": {
+      "id": 9693,
+      "poster": "/k9IAS4TehZFcKi4HVByxZNPfqex.jpg",
+      "title": "Children of Men",
+      "year": 2006
+    },
+    "Signs": {
+      "id": 2675,
+      "poster": "/YtrIdrTxpRhvCnlw43dwOjfLqx.jpg",
+      "title": "Signs",
+      "year": 2002
+    },
+    "Donnie Darko": {
+      "id": 141,
+      "poster": "/j2AtZFsflxiluaNtajMTI0Avm8C.jpg",
+      "title": "Donnie Darko",
+      "year": 2001
+    },
+    "Collateral Damage": {
+      "id": 9884,
+      "poster": "/rALb2pU8QQGIlYdHezB2F5kwecI.jpg",
+      "title": "Collateral Damage",
+      "year": 2002
+    },
+    "Men in Black II": {
+      "id": 608,
+      "poster": "/enA22EPyzc2WQ1VVyY7zxresQQr.jpg",
+      "title": "Men in Black II",
+      "year": 2002
+    },
+    "Zoolander": {
+      "id": 9398,
+      "poster": "/qdrbSneHZjJG2Dj0hhBxzzAo4HB.jpg",
+      "title": "Zoolander",
+      "year": 2001
+    },
+    "Serendipity": {
+      "id": 9778,
+      "poster": "/4jS66Qmq2Ru5S2YzHVknGd4xJyT.jpg",
+      "title": "Serendipity",
+      "year": 2001
+    },
+    "Bowling for Columbine": {
+      "id": 1430,
+      "poster": "/4XsiTsZcNCRSkee1o0fdr5OqYRT.jpg",
+      "title": "Bowling for Columbine",
+      "year": 2002
+    },
+    "Bull Durham": {
+      "id": 287,
+      "poster": "/q3T9bO6p74NcTxWOhdUA6fASQ5T.jpg",
+      "title": "Bull Durham",
+      "year": 1988
+    },
+    "Invasion of the Body Snatchers": {
+      "id": 11850,
+      "poster": "/skS02wdeH2C0nrbCQP3qKwJdZtZ.jpg",
+      "title": "Invasion of the Body Snatchers",
+      "year": 1978
+    },
+    "Crocodile Dundee": {
+      "id": 9671,
+      "poster": "/pduPduL1ub5kok3lPYT15ryC9L6.jpg",
+      "title": "Crocodile Dundee",
+      "year": 1986
+    },
+    "Anchorman: The Legend of Ron Burgundy": {
+      "id": 8699,
+      "poster": "/mhZIcRePT7U8viFQVjt1ZjYIsR4.jpg",
+      "title": "Anchorman: The Legend of Ron Burgundy",
+      "year": 2004
+    }
+  },
+  "spotifyEpisodeId": "1bfbsS9DU4JYrRLyI9dhQb"
+}

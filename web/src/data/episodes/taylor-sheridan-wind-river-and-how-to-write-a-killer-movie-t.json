@@ -1,0 +1,173 @@
+{
+  "slug": "taylor-sheridan-wind-river-and-how-to-write-a-killer-movie-t",
+  "title": "Taylor Sheridan, 'Wind River,' and How to Write a Killer Movie | The Big Picture (Ep. 20)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Chris Ryan"
+  ],
+  "published": "2017-08-04",
+  "runtimeMin": 27,
+  "format": "Sean and Chris break down Taylor Sheridan's frontier trilogy before Sheridan himself comes on to talk directing his own script for the first time.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The Sheridan Trilogy",
+      "note": "Sicario, Hell or High Water, and Wind River",
+      "films": [
+        {
+          "title": "Wind River",
+          "year": 2017,
+          "note": "Sheridan's directorial debut, closing out his self-described frontier trilogy. Chris calls it more John Ford than his first two scripts, wide open and mournful, until the last act detonates."
+        },
+        {
+          "title": "Sicario",
+          "year": 2015,
+          "note": "Denis Villeneuve's film of Sheridan's script. Chris: an Apocalypse Now for the drug war, with Emily Blunt as the audience's moral compass getting dismantled by Benicio del Toro and Josh Brolin."
+        },
+        {
+          "title": "Hell or High Water",
+          "year": 2016,
+          "note": "David Mackenzie directs Sheridan's bank-robbery script. Chris reads it as a ghost-town West: a depopulated frontier, brothers robbing banks to save their mother's farm from foreclosure."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The Jeremy Renner Case",
+      "note": "Chris makes his pitch for an underused actor",
+      "films": [
+        {
+          "title": "The Bourne Legacy",
+          "year": 2012,
+          "note": "Chris's admitted minority position: he thinks Renner is genuinely excellent here."
+        },
+        {
+          "title": "Kill the Messenger",
+          "year": 2014,
+          "note": "Sean's counterexample: a Renner vehicle he couldn't carry."
+        },
+        {
+          "title": "The Town",
+          "year": 2010
+        },
+        {
+          "title": "The Hurt Locker",
+          "year": 2008
+        },
+        {
+          "title": "The Immigrant",
+          "year": 2013
+        },
+        {
+          "title": "Hansel & Gretel: Witch Hunters",
+          "year": 2013
+        },
+        {
+          "title": "Avengers: Age of Ultron",
+          "year": 2015,
+          "note": "The farmhouse scene with Linda Cardellini, about all the Marvel run gave him, per Chris."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Taylor Sheridan on",
+      "films": [
+        {
+          "title": "Wind River",
+          "year": 2017,
+          "note": "Sheridan on directing his own script for the first time: every decision is now his to make, with nobody else to delegate it to."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Teased for next week",
+      "films": [
+        "Good Time"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Talk the Thrones",
+      "Sons of Anarchy",
+      "Yellowstone"
+    ],
+    "Ads": [
+      "West of Eden (Audible)"
+    ]
+  },
+  "tmdb": {
+    "Wind River": {
+      "id": 395834,
+      "poster": "/pySivdR845Hom4u4T2WNkJxe6Ad.jpg",
+      "title": "Wind River",
+      "year": 2017
+    },
+    "Sicario": {
+      "id": 273481,
+      "poster": "/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+      "title": "Sicario",
+      "year": 2015
+    },
+    "Hell or High Water": {
+      "id": 338766,
+      "poster": "/ljRRxqy2aXIkIBXLmOVifcOR021.jpg",
+      "title": "Hell or High Water",
+      "year": 2016
+    },
+    "The Bourne Legacy": {
+      "id": 49040,
+      "poster": "/1aExL5DTGHj25ZfIC3dDwS84RWi.jpg",
+      "title": "The Bourne Legacy",
+      "year": 2012
+    },
+    "Kill the Messenger": {
+      "id": 245916,
+      "poster": "/8gaNZiKZHvKCqMDByY00dUIV0YC.jpg",
+      "title": "Kill the Messenger",
+      "year": 2014
+    },
+    "The Town": {
+      "id": 23168,
+      "poster": "/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
+      "title": "The Town",
+      "year": 2010
+    },
+    "The Hurt Locker": {
+      "id": 12162,
+      "poster": "/io2dfBJhasvGbgkCX9cCGVOiA99.jpg",
+      "title": "The Hurt Locker",
+      "year": 2008
+    },
+    "The Immigrant": {
+      "id": 152599,
+      "poster": "/ArWRRQYeXL3nG4jYpMOPoBvgmy9.jpg",
+      "title": "The Immigrant",
+      "year": 2013
+    },
+    "Hansel & Gretel: Witch Hunters": {
+      "id": 60304,
+      "poster": "/j343Rpj3WeNvP0SV80zveve70io.jpg",
+      "title": "Hansel & Gretel: Witch Hunters",
+      "year": 2013
+    },
+    "Avengers: Age of Ultron": {
+      "id": 99861,
+      "poster": "/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+      "title": "Avengers: Age of Ultron",
+      "year": 2015
+    },
+    "Good Time": {
+      "id": 429200,
+      "poster": "/yE1c9hj5Hf8a9KplAdRdhADqUro.jpg",
+      "title": "Good Time",
+      "year": 2017
+    }
+  }
+}

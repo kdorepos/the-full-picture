@@ -1,0 +1,589 @@
+{
+  "slug": "10-movies-we-missed-this-year",
+  "title": "10 Movies We Missed This Year",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2023-07-10",
+  "runtimeMin": 70,
+  "format": "Before the Barbenheimer weekend, Sean and Amanda clear the backlog: ten mid-2023 releases they never got to on the show, from a raunchy Lionsgate comedy to a Negro Leagues documentary.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The 10 we missed",
+      "note": "backlog catch-up, in the order they aired",
+      "films": [
+        {
+          "title": "Joy Ride",
+          "year": 2023,
+          "note": "Adele Lim's raunchy comedy with Ashley Park, Sherry Cola, Stephanie Hsu, and Sabrina Wu. Sean pegs the jokes at a 50% hit rate but was floored by a third-act turn; Amanda loved it and blames the empty theater on near-nonexistent Lionsgate marketing. A Point Grey (Rogen/Goldberg) production."
+        },
+        {
+          "title": "Insidious: The Red Door",
+          "year": 2023,
+          "note": "Patrick Wilson's directorial debut and the fifth Insidious, ignoring parts three and four to return to Wilson, Ty Simpkins as Dalton, Rose Byrne, and Lin Shaye. Sean says the reshot scares work but the trauma framing drags; it still beat Indiana Jones with $32M."
+        },
+        {
+          "title": "Elemental",
+          "year": 2023,
+          "note": "Pixar's anthropomorphic-elements romance between fire (Ember) and water (Wade). Amanda found it baffling and half-baked; Sean calls it a competent two-out-of-four that got stuck on a concept Pixar's usual creative council would have torn up. Quietly holding at the box office for lack of kids' competition."
+        },
+        {
+          "title": "Extraction 2",
+          "year": 2023,
+          "note": "Sam Hargrave's Chris Hemsworth sequel. Sean admires the ambition of the prison 'oner' but finds the film humorless and self-serious next to John Wick or Mission: Impossible; Amanda liked the helicopter beat and little else. Both dread Extraction 4, 6, and 12."
+        },
+        {
+          "title": "The Blackening",
+          "year": 2023,
+          "note": "Tim Story's horror-comedy about Black friends stalked at a Juneteenth cabin getaway. Sean says it plays better as comedy than horror (the board-game scene lands; the scares don't) and reads it as the parody that closes out the 'Get Out generation.' Great tagline: 'We can't all die first.'"
+        },
+        {
+          "title": "Amanda",
+          "year": 2022,
+          "note": "Carolina Cavalli's Italian debut, Benedetta Porcaroli as a friendless 24-year-old who decides a childhood acquaintance is her best friend. Sean's surprise favorite of the batch, Wes Anderson- and Gerwig-adjacent. From Oscilloscope. Amanda (Dobbins) reserves the right to hold all Amandas to a higher standard."
+        },
+        {
+          "title": "Biosphere",
+          "year": 2023,
+          "note": "Mel Eslyn's soft sci-fi with Mark Duplass and Sterling K. Brown as the last two men on Earth in a geodesic dome. Sean discloses a working relationship with the team (the Jason Isbell doc) but praises Brown; he keeps the physical surprises spoiler-free."
+        },
+        {
+          "title": "Flamin' Hot",
+          "year": 2023,
+          "note": "Eva Longoria's directorial debut about Richard Montanez, the Frito-Lay janitor who supposedly invented Flamin' Hot Cheetos. Jesse Garcia, Annie Gonzalez, Dennis Haysbert, Tony Shalhoub. Both found it fine and diverting, but the story reportedly isn't true, which sours the up-from-the-bootstraps pitch."
+        },
+        {
+          "title": "The League",
+          "year": 2023,
+          "note": "Sam Pollard's documentary on the Negro Leagues and Black baseball in the first half of the 20th century. Archival footage plus Willie Mays and Hank Aaron interviews. Sean, a serious baseball reader, learned plenty and calls it a necessary, if dry, film."
+        },
+        {
+          "title": "Earth Mama",
+          "year": 2023,
+          "note": "Savannah Leaf's debut, Tia Nomore as a pregnant single mother fighting to reclaim two kids from foster care in the Bay Area. Sean compares it to 'Never Rarely Sometimes Always' and flags Jody Lee Lipes's cinematography; a calling-card movie built from Leaf's earlier short with Taylor Russell."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Barbenheimer weekend and what's next",
+      "films": [
+        "Barbie",
+        "Oppenheimer",
+        "Mission: Impossible - Dead Reckoning Part One",
+        "Indiana Jones and the Dial of Destiny",
+        "Theater Camp",
+        "Sympathy for the Devil"
+      ]
+    },
+    {
+      "group": "Comedy touchstones",
+      "films": [
+        "Girls Trip",
+        "The Hangover",
+        "Waiting for Guffman",
+        "No Hard Feelings"
+      ]
+    },
+    {
+      "group": "The Patrick Wilson filmography",
+      "films": [
+        "The Conjuring",
+        "Aquaman",
+        "Morning Glory",
+        "Little Children"
+      ]
+    },
+    {
+      "group": "Horror keeps chugging",
+      "films": [
+        "Evil Dead Rise",
+        "M3GAN",
+        "The Flash"
+      ]
+    },
+    {
+      "group": "The Venom classics",
+      "films": [
+        "Venom",
+        "Venom: Let There Be Carnage"
+      ]
+    },
+    {
+      "group": "Pixar and the animation slate",
+      "films": [
+        "Inside Out",
+        "Turning Red",
+        "The Super Mario Bros. Movie"
+      ]
+    },
+    {
+      "group": "Action with a sense of humor",
+      "films": [
+        "Extraction",
+        "John Wick: Chapter 4",
+        "No Time to Die",
+        "Heat"
+      ]
+    },
+    {
+      "group": "The 'Get Out' generation",
+      "films": [
+        "Get Out",
+        "Us",
+        "Nope",
+        "BlacKkKlansman",
+        "Bad Hair",
+        "Run",
+        "Antebellum",
+        "Ma",
+        "Candyman",
+        "Nanny",
+        "Texas Chainsaw Massacre",
+        "Bodies Bodies Bodies",
+        "Last Night in Soho",
+        "In the Earth",
+        "Men",
+        "Barbarian",
+        "Midsommar",
+        "Scream VI",
+        "Scary Movie"
+      ]
+    },
+    {
+      "group": "Elemental's forebears",
+      "films": [
+        "Jungle Fever",
+        "Guess Who's Coming to Dinner"
+      ]
+    },
+    {
+      "group": "Earth Mama's lineage",
+      "films": [
+        "Never Rarely Sometimes Always",
+        "Martha Marcy May Marlene",
+        "Manchester by the Sea"
+      ]
+    },
+    {
+      "group": "The Mission: Impossible ritual",
+      "films": [
+        "Mission: Impossible - Fallout",
+        "Top Gun: Maverick",
+        "National Treasure"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Party Down",
+      "Dead Ringers",
+      "Girls",
+      "Living Single",
+      "The Cosby Show",
+      "The Amanda Show",
+      "Dynasty",
+      "Captain Planet",
+      "Baseball (Ken Burns)"
+    ],
+    "Ads": [
+      "Press Box (podcast)",
+      "Boar's Head",
+      "FanDuel",
+      "NOS Energy",
+      "FIFA World Cup Launch Edition (Netflix)",
+      "Priceline",
+      "Mint Mobile"
+    ]
+  },
+  "tmdbOverrides": {
+    "Theater Camp": 986054,
+    "Run": 546121,
+    "Scary Movie": 4247
+  },
+  "tmdb": {
+    "Joy Ride": {
+      "id": 864168,
+      "poster": "/lTZ3r9NBdbrR6NA90v3hFYqd6TC.jpg",
+      "title": "Joy Ride",
+      "year": 2023
+    },
+    "Insidious: The Red Door": {
+      "id": 614479,
+      "poster": "/d07phJqCx6z5wILDYqkyraorDPi.jpg",
+      "title": "Insidious: The Red Door",
+      "year": 2023
+    },
+    "Elemental": {
+      "id": 976573,
+      "poster": "/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg",
+      "title": "Elemental",
+      "year": 2023
+    },
+    "Extraction 2": {
+      "id": 697843,
+      "poster": "/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg",
+      "title": "Extraction 2",
+      "year": 2023
+    },
+    "The Blackening": {
+      "id": 1008392,
+      "poster": "/n2aS9FE0C3VUHtSb3Ak41aU9K3y.jpg",
+      "title": "The Blackening",
+      "year": 2023
+    },
+    "Amanda": {
+      "id": 1004642,
+      "poster": "/bGWPFd71ygELIkPf9SjcOBkLAZY.jpg",
+      "title": "Amanda",
+      "year": 2022
+    },
+    "Biosphere": {
+      "id": 865797,
+      "poster": "/2yqYQMibudBGrqP70mEcv7pNOQX.jpg",
+      "title": "Biosphere",
+      "year": 2023
+    },
+    "Flamin' Hot": {
+      "id": 626332,
+      "poster": "/a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg",
+      "title": "Flamin' Hot",
+      "year": 2023
+    },
+    "The League": {
+      "id": 1115095,
+      "poster": "/vL2DZFvUFZwfvHSWi4IPNoNTpz2.jpg",
+      "title": "The League",
+      "year": 2023
+    },
+    "Earth Mama": {
+      "id": 980537,
+      "poster": "/pA20kQaKxPvUbPeXyyc6ENJEEuN.jpg",
+      "title": "Earth Mama",
+      "year": 2023
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Mission: Impossible - Dead Reckoning Part One": {
+      "id": 575264,
+      "poster": "/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "year": 2023
+    },
+    "Indiana Jones and the Dial of Destiny": {
+      "id": 335977,
+      "poster": "/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",
+      "title": "Indiana Jones and the Dial of Destiny",
+      "year": 2023
+    },
+    "Theater Camp": {
+      "id": 986054,
+      "poster": "/2osbLk1MMt9qjXPKSB2hMcBUyrw.jpg",
+      "title": "Theater Camp",
+      "year": 2023
+    },
+    "Sympathy for the Devil": {
+      "id": 1030987,
+      "poster": "/afGdVMa80LMs6ibLP22CwM5uI4e.jpg",
+      "title": "Sympathy for the Devil",
+      "year": 2023
+    },
+    "Girls Trip": {
+      "id": 417870,
+      "poster": "/fM1h8CwtdileV3zlemXx7UWJjOP.jpg",
+      "title": "Girls Trip",
+      "year": 2017
+    },
+    "The Hangover": {
+      "id": 18785,
+      "poster": "/A0uS9rHR56FeBtpjVki16M5xxSW.jpg",
+      "title": "The Hangover",
+      "year": 2009
+    },
+    "Waiting for Guffman": {
+      "id": 16448,
+      "poster": "/zuArI6EBpV6mExrvfnyidoOtzdf.jpg",
+      "title": "Waiting for Guffman",
+      "year": 1997
+    },
+    "No Hard Feelings": {
+      "id": 884605,
+      "poster": "/gD72DhJ7NbfxvtxGiAzLaa0xaoj.jpg",
+      "title": "No Hard Feelings",
+      "year": 2023
+    },
+    "The Conjuring": {
+      "id": 138843,
+      "poster": "/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+      "title": "The Conjuring",
+      "year": 2013
+    },
+    "Aquaman": {
+      "id": 297802,
+      "poster": "/ufl63EFcc5XpByEV2Ecdw6WJZAI.jpg",
+      "title": "Aquaman",
+      "year": 2018
+    },
+    "Morning Glory": {
+      "id": 38357,
+      "poster": "/aFRXEoB3QkeHNHYmVGC3uzFSol8.jpg",
+      "title": "Morning Glory",
+      "year": 2010
+    },
+    "Little Children": {
+      "id": 1440,
+      "poster": "/l2wTSP0Ifo9vY03nJEfkFBbT2S9.jpg",
+      "title": "Little Children",
+      "year": 2006
+    },
+    "Evil Dead Rise": {
+      "id": 713704,
+      "poster": "/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg",
+      "title": "Evil Dead Rise",
+      "year": 2023
+    },
+    "M3GAN": {
+      "id": 536554,
+      "poster": "/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
+      "title": "M3GAN",
+      "year": 2022
+    },
+    "The Flash": {
+      "id": 298618,
+      "poster": "/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+      "title": "The Flash",
+      "year": 2023
+    },
+    "Venom": {
+      "id": 335983,
+      "poster": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+      "title": "Venom",
+      "year": 2018
+    },
+    "Venom: Let There Be Carnage": {
+      "id": 580489,
+      "poster": "/pzKsRuKLFmYrW5Q0q8E8G78Tcgo.jpg",
+      "title": "Venom: Let There Be Carnage",
+      "year": 2021
+    },
+    "Inside Out": {
+      "id": 150540,
+      "poster": "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+      "title": "Inside Out",
+      "year": 2015
+    },
+    "Turning Red": {
+      "id": 508947,
+      "poster": "/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
+      "title": "Turning Red",
+      "year": 2022
+    },
+    "The Super Mario Bros. Movie": {
+      "id": 502356,
+      "poster": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+      "title": "The Super Mario Bros. Movie",
+      "year": 2023
+    },
+    "Extraction": {
+      "id": 545609,
+      "poster": "/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg",
+      "title": "Extraction",
+      "year": 2020
+    },
+    "John Wick: Chapter 4": {
+      "id": 603692,
+      "poster": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+      "title": "John Wick: Chapter 4",
+      "year": 2023
+    },
+    "No Time to Die": {
+      "id": 370172,
+      "poster": "/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+      "title": "No Time to Die",
+      "year": 2021
+    },
+    "Heat": {
+      "id": 949,
+      "poster": "/e09dLw1Ljtccd2P4NsuUvVtS5du.jpg",
+      "title": "Heat",
+      "year": 1995
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Us": {
+      "id": 458723,
+      "poster": "/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+      "title": "Us",
+      "year": 2019
+    },
+    "Nope": {
+      "id": 762504,
+      "poster": "/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
+      "title": "Nope",
+      "year": 2022
+    },
+    "BlacKkKlansman": {
+      "id": 487558,
+      "poster": "/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg",
+      "title": "BlacKkKlansman",
+      "year": 2018
+    },
+    "Bad Hair": {
+      "id": 530351,
+      "poster": "/979LvAwRGCkVFgJ04uyPcsPaPF2.jpg",
+      "title": "Bad Hair",
+      "year": 2021
+    },
+    "Run": {
+      "id": 546121,
+      "poster": "/ilHG4EayOVoYeKqslspY3pR4wzC.jpg",
+      "title": "Run",
+      "year": 2020
+    },
+    "Antebellum": {
+      "id": 627290,
+      "poster": "/irkse1FMm9dWemwlxKJ7RINT9Iy.jpg",
+      "title": "Antebellum",
+      "year": 2020
+    },
+    "Ma": {
+      "id": 502416,
+      "poster": "/6n7ASmQ1wY2cxTubFFGlcvPpyk7.jpg",
+      "title": "Ma",
+      "year": 2019
+    },
+    "Candyman": {
+      "id": 9529,
+      "poster": "/jQtgkgDZE7egMq532sOt83DnT83.jpg",
+      "title": "Candyman",
+      "year": 1992
+    },
+    "Nanny": {
+      "id": 843932,
+      "poster": "/mPhXHRudGxsXIQq1WM6oVePkFIp.jpg",
+      "title": "Nanny",
+      "year": 2022
+    },
+    "Texas Chainsaw Massacre": {
+      "id": 632727,
+      "poster": "/7sKiGNWFM15WNyY7LYd5vmb3brO.jpg",
+      "title": "Texas Chainsaw Massacre",
+      "year": 2022
+    },
+    "Bodies Bodies Bodies": {
+      "id": 520023,
+      "poster": "/hSuTjDmqRdy7Dii8ymnF2WILTeP.jpg",
+      "title": "Bodies Bodies Bodies",
+      "year": 2022
+    },
+    "Last Night in Soho": {
+      "id": 576845,
+      "poster": "/n1ZRmjlk1BJTY7aASqACfPAaLn2.jpg",
+      "title": "Last Night in Soho",
+      "year": 2021
+    },
+    "In the Earth": {
+      "id": 748853,
+      "poster": "/a2e9GLb14xX1DFv80nsioci5Zld.jpg",
+      "title": "In the Earth",
+      "year": 2021
+    },
+    "Men": {
+      "id": 780609,
+      "poster": "/jo1Kv3P3UgDVk7JnUFr2Cl8WWUM.jpg",
+      "title": "Men",
+      "year": 2022
+    },
+    "Barbarian": {
+      "id": 913290,
+      "poster": "/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
+      "title": "Barbarian",
+      "year": 2022
+    },
+    "Midsommar": {
+      "id": 530385,
+      "poster": "/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+      "title": "Midsommar",
+      "year": 2019
+    },
+    "Scream VI": {
+      "id": 934433,
+      "poster": "/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg",
+      "title": "Scream VI",
+      "year": 2023
+    },
+    "Scary Movie": {
+      "id": 4247,
+      "poster": "/fVQFPRuw3yWXojYDJvA5EoFjUOY.jpg",
+      "title": "Scary Movie",
+      "year": 2000
+    },
+    "Jungle Fever": {
+      "id": 1713,
+      "poster": "/pw7cOdwCylBuiv6rvosBSkcgKEe.jpg",
+      "title": "Jungle Fever",
+      "year": 1991
+    },
+    "Guess Who's Coming to Dinner": {
+      "id": 1879,
+      "poster": "/fkHeYWahNbhxhuLefaAg553lYo5.jpg",
+      "title": "Guess Who's Coming to Dinner",
+      "year": 1967
+    },
+    "Never Rarely Sometimes Always": {
+      "id": 595671,
+      "poster": "/7yiSyQhhjTFphhfCUcn05tCQxyG.jpg",
+      "title": "Never Rarely Sometimes Always",
+      "year": 2020
+    },
+    "Martha Marcy May Marlene": {
+      "id": 50837,
+      "poster": "/bgB4sa9UfCyGdamfKAZXyEWuAwR.jpg",
+      "title": "Martha Marcy May Marlene",
+      "year": 2011
+    },
+    "Manchester by the Sea": {
+      "id": 334541,
+      "poster": "/o9VXYOuaJxCEKOxbA86xqtwmqYn.jpg",
+      "title": "Manchester by the Sea",
+      "year": 2016
+    },
+    "Mission: Impossible - Fallout": {
+      "id": 353081,
+      "poster": "/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+      "title": "Mission: Impossible - Fallout",
+      "year": 2018
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "National Treasure": {
+      "id": 2059,
+      "poster": "/pxL6E4GBOPUG6CdkO9cUQN5VMwI.jpg",
+      "title": "National Treasure",
+      "year": 2004
+    }
+  }
+}

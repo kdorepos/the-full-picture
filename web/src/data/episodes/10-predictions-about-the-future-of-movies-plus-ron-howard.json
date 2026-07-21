@@ -1,0 +1,529 @@
+{
+  "slug": "10-predictions-about-the-future-of-movies-plus-ron-howard",
+  "title": "10 Predictions About the Future of Movies. Plus: Ron Howard!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2020-07-28",
+  "runtimeMin": 103,
+  "format": "A mailbag on what movies become after COVID, an Olivia de Havilland remembrance, and Sean's talk with Ron Howard about the fire documentary Rebuilding Paradise.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "In memoriam",
+      "note": "Olivia de Havilland and John Saxon",
+      "films": [
+        {
+          "title": "The Heiress",
+          "year": 1949,
+          "note": "Sean's de Havilland recommendation: William Wyler's take on Henry James's Washington Square, recently reissued by Criterion."
+        },
+        {
+          "title": "Gone with the Wind",
+          "year": 1939,
+          "note": "She was the last major surviving star of the golden-age cast."
+        },
+        {
+          "title": "Captain Blood",
+          "year": 1935,
+          "note": "One of her pairings with Errol Flynn."
+        },
+        {
+          "title": "The Adventures of Robin Hood",
+          "year": 1938,
+          "note": "Another Flynn vehicle from her early Warner Bros. run."
+        },
+        {
+          "title": "Enter the Dragon",
+          "year": 1973,
+          "note": "Sean's shout-out to the late John Saxon, a great character actor."
+        },
+        {
+          "title": "Tenebrae",
+          "year": 1982,
+          "note": "Saxon in Dario Argento's giallo."
+        },
+        {
+          "title": "Black Christmas",
+          "year": 1974
+        },
+        {
+          "title": "Joe Kidd",
+          "year": 1972,
+          "note": "Saxon opposite Clint Eastwood."
+        },
+        {
+          "title": "A Nightmare on Elm Street",
+          "year": 1984,
+          "note": "The face you know even if you never knew the name."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The future-of-movies mailbag",
+      "note": "listener questions on what the movies even are now",
+      "films": [
+        {
+          "title": "Tenet",
+          "year": 2020,
+          "note": "The recurring subject: fourth date change, going international August 26th before a U.S. Labor Day window that nobody trusts. Sean and Amanda war-game a road trip to Vancouver to see it, then remember the border is closed."
+        },
+        {
+          "title": "The New Mutants",
+          "year": 2020,
+          "note": "The running gag: 'death, taxes, and The New Mutants is never coming out.' A Fox holdover whose HBO contract blocks a Disney+ or PVOD dodge."
+        },
+        {
+          "title": "The French Dispatch",
+          "year": 2021,
+          "note": "Another Fox-era holdover; Wes Anderson likely has a theatrical clause, so undated rather than PVOD."
+        },
+        {
+          "title": "Palm Springs",
+          "year": 2020,
+          "note": "The counterexample they both loved: a well-received film with a slow-burn, less front-loaded rollout, though not a $100M opening."
+        },
+        {
+          "title": "The Last Duel",
+          "year": 2021,
+          "note": "Sean's example of an original, star-driven, $100M-capable movie that just quietly slipped to fall 2021."
+        },
+        {
+          "title": "Trolls World Tour",
+          "year": 2020,
+          "note": "Universal's PVOD experiment, cited as maybe a predictor, maybe just cutting losses."
+        },
+        {
+          "title": "The Rental",
+          "year": 2020,
+          "note": "Dave Franco's directorial debut opened on ~420 drive-in screens and did decent business."
+        },
+        {
+          "title": "The King of Staten Island",
+          "year": 2020,
+          "note": "Universal sent it straight to PVOD."
+        },
+        {
+          "title": "Scoob!",
+          "year": 2020,
+          "note": "Warner Bros. moved it to PVOD, then HBO Max within six weeks."
+        },
+        {
+          "title": "The Trial of the Chicago Seven",
+          "year": 2020,
+          "note": "Aaron Sorkin's Netflix film: 'the most Oscar movie I've ever seen,' part of the Netflix Best Picture push."
+        },
+        {
+          "title": "Extraction",
+          "year": 2020,
+          "note": "Netflix's inflated viewership claims as a stand-in for the death of transparent numbers."
+        },
+        {
+          "title": "Triple Frontier",
+          "year": 2019,
+          "note": "Amanda's evidence the Netflix numbers are a lie: nobody she knows watched it despite the reported 63 million."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Ron Howard on Rebuilding Paradise",
+      "guest": "Ron Howard on",
+      "films": [
+        {
+          "title": "Rebuilding Paradise",
+          "year": 2020,
+          "note": "The National Geographic verite doc following residents of Paradise, CA after the 2018 Camp Fire. The film he's promoting."
+        },
+        {
+          "title": "Made in America",
+          "year": 2013,
+          "note": "His first documentary, on Jay-Z's Philadelphia festival; a Robert Altman's-Nashville tapestry approach that Jonathan Demme talked him into."
+        },
+        {
+          "title": "Rush",
+          "year": 2013,
+          "note": "He was in post on it when the Jay-Z doc offer came in."
+        },
+        {
+          "title": "Beyond the Mat",
+          "year": 1999,
+          "note": "A Brian Grazer wrestling doc Howard pitched in on before directing his own."
+        },
+        {
+          "title": "Inside Deep Throat",
+          "year": 2005,
+          "note": "The other Grazer doc he helped shepherd."
+        },
+        {
+          "title": "The Beatles: Eight Days a Week - The Touring Years",
+          "year": 2016,
+          "note": "Limited by design to the touring years, which he cracked by thinking of it like Das Boot."
+        },
+        {
+          "title": "Pavarotti",
+          "year": 2019,
+          "note": "His third music doc, again with producer Nigel Sinclair."
+        },
+        {
+          "title": "Das Boot",
+          "year": 1981,
+          "note": "The structural model for the Beatles doc: men in a bubble who can't see how the war is going."
+        },
+        {
+          "title": "Nashville",
+          "year": 1975,
+          "note": "Altman's multi-perspective template for Made in America."
+        },
+        {
+          "title": "Backdraft",
+          "year": 1991,
+          "note": "He made a fire movie, and says the Paradise footage makes it 'nothing.'"
+        },
+        {
+          "title": "Hillbilly Elegy",
+          "year": 2020,
+          "note": "He cut it in a room next door to Paradise, borrowing a doc-editing trick to fix a scene."
+        },
+        {
+          "title": "How the Grinch Stole Christmas",
+          "year": 2000,
+          "note": "His litmus-test example: he did it mostly to watch Jim Carrey build the character in the flesh."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Named in passing",
+      "films": [
+        "Mulan",
+        "A Quiet Place Part II",
+        "Top Gun: Maverick",
+        "Avatar: The Way of Water",
+        "Inception",
+        "The Wretched",
+        "Hamilton",
+        "Once Upon a Time in Hollywood",
+        "The Lovebirds",
+        "Jaws",
+        "Star Wars",
+        "Marriage Story",
+        "Lucy in the Sky",
+        "Groundhog Day",
+        "Dirty Dancing"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Yellowstone",
+      "I May Destroy You",
+      "Normal People",
+      "Ramy"
+    ],
+    "Ads": [
+      "An American Pickle"
+    ]
+  },
+  "tmdbOverrides": {
+    "Tenebrae": 29702,
+    "The French Dispatch": 542178,
+    "The Trial of the Chicago Seven": 556984,
+    "Mulan": 337401
+  },
+  "tmdb": {
+    "The Heiress": {
+      "id": 28571,
+      "poster": "/1oN0zsjw3iS1HaOLoZbmptzrD1W.jpg",
+      "title": "The Heiress",
+      "year": 1949
+    },
+    "Gone with the Wind": {
+      "id": 770,
+      "poster": "/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg",
+      "title": "Gone with the Wind",
+      "year": 1939
+    },
+    "Captain Blood": {
+      "id": 16905,
+      "poster": "/Ae0ltppMl66pAH1odgDU1C4H1iq.jpg",
+      "title": "Captain Blood",
+      "year": 1935
+    },
+    "The Adventures of Robin Hood": {
+      "id": 10907,
+      "poster": "/c7LX3GMf9uXQTgVm3uxpm7E6Woc.jpg",
+      "title": "The Adventures of Robin Hood",
+      "year": 1938
+    },
+    "Enter the Dragon": {
+      "id": 9461,
+      "poster": "/fyrh2ULEcmLpGTVLPQqFW45hqr5.jpg",
+      "title": "Enter the Dragon",
+      "year": 1973
+    },
+    "Tenebrae": {
+      "id": 29702,
+      "poster": "/uWNCyUX9sjtnhleqyw2W5ECijlP.jpg",
+      "title": "Tenebre",
+      "year": 1982
+    },
+    "Black Christmas": {
+      "id": 16938,
+      "poster": "/ym0QcbrKNujzDyAU1IHGYUdRWub.jpg",
+      "title": "Black Christmas",
+      "year": 1974
+    },
+    "Joe Kidd": {
+      "id": 14881,
+      "poster": "/gwVL6a6ZPijqM5hB4n2Ztg1akWY.jpg",
+      "title": "Joe Kidd",
+      "year": 1972
+    },
+    "A Nightmare on Elm Street": {
+      "id": 377,
+      "poster": "/b9rMHAAKISRmIonaQd9Cccx0S4X.jpg",
+      "title": "A Nightmare on Elm Street",
+      "year": 1984
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "The New Mutants": {
+      "id": 340102,
+      "poster": "/xiDGcXJTvu1lazFRYip6g1eLt9c.jpg",
+      "title": "The New Mutants",
+      "year": 2020
+    },
+    "The French Dispatch": {
+      "id": 542178,
+      "poster": "/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg",
+      "title": "The French Dispatch of the Liberty, Kansas Evening Sun",
+      "year": 2021
+    },
+    "Palm Springs": {
+      "id": 587792,
+      "poster": "/gnAfqiV7yO3Jq9IntTmwkcaICqc.jpg",
+      "title": "Palm Springs",
+      "year": 2020
+    },
+    "The Last Duel": {
+      "id": 617653,
+      "poster": "/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg",
+      "title": "The Last Duel",
+      "year": 2021
+    },
+    "Trolls World Tour": {
+      "id": 446893,
+      "poster": "/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg",
+      "title": "Trolls World Tour",
+      "year": 2020
+    },
+    "The Rental": {
+      "id": 587496,
+      "poster": "/3ynPnBXQVT2Y0s19fDIPlWKUlxH.jpg",
+      "title": "The Rental",
+      "year": 2020
+    },
+    "The King of Staten Island": {
+      "id": 579583,
+      "poster": "/zQFjMmE3K9AX5QrBL1SXIxYQ9jz.jpg",
+      "title": "The King of Staten Island",
+      "year": 2020
+    },
+    "Scoob!": {
+      "id": 385103,
+      "poster": "/jHo2M1OiH9Re33jYtUQdfzPeUkx.jpg",
+      "title": "Scoob!",
+      "year": 2020
+    },
+    "The Trial of the Chicago Seven": {
+      "id": 556984,
+      "poster": "/ahf5cVdooMAlDRiJOZQNuLqa1Is.jpg",
+      "title": "The Trial of the Chicago 7",
+      "year": 2020
+    },
+    "Extraction": {
+      "id": 545609,
+      "poster": "/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg",
+      "title": "Extraction",
+      "year": 2020
+    },
+    "Triple Frontier": {
+      "id": 399361,
+      "poster": "/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg",
+      "title": "Triple Frontier",
+      "year": 2019
+    },
+    "Rebuilding Paradise": {
+      "id": 653751,
+      "poster": "/xScO03feJ95K5XjOyqxk0CEwady.jpg",
+      "title": "Rebuilding Paradise",
+      "year": 2020
+    },
+    "Made in America": {
+      "id": 217925,
+      "poster": "/kp9fHTRLpxAnAEd3ibJSnGNltDN.jpg",
+      "title": "Made in America",
+      "year": 2013
+    },
+    "Rush": {
+      "id": 96721,
+      "poster": "/95BDrWmcfJDEa2WCfjmLgi67jhi.jpg",
+      "title": "Rush",
+      "year": 2013
+    },
+    "Beyond the Mat": {
+      "id": 14271,
+      "poster": "/48AfKc79mpRcavpA5Hc7UW9Qqq6.jpg",
+      "title": "Beyond the Mat",
+      "year": 1999
+    },
+    "Inside Deep Throat": {
+      "id": 12228,
+      "poster": "/iy96Ud1jpnjOEYiHh2XMooD1PfG.jpg",
+      "title": "Inside Deep Throat",
+      "year": 2005
+    },
+    "The Beatles: Eight Days a Week - The Touring Years": {
+      "id": 391698,
+      "poster": "/A6q7Jy4vXgXXoCoHX4lpCaKvcMV.jpg",
+      "title": "The Beatles: Eight Days a Week - The Touring Years",
+      "year": 2016
+    },
+    "Pavarotti": {
+      "id": 561325,
+      "poster": "/bf0Iim4D6XXrAAJGwHXyrWFqUz8.jpg",
+      "title": "Pavarotti",
+      "year": 2019
+    },
+    "Das Boot": {
+      "id": 387,
+      "poster": "/u8FhQPncOAkwcei2OI9orPWhV6K.jpg",
+      "title": "Das Boot",
+      "year": 1981
+    },
+    "Nashville": {
+      "id": 3121,
+      "poster": "/twl4ovyjb8muFKvZmcCDzPR0hy1.jpg",
+      "title": "Nashville",
+      "year": 1975
+    },
+    "Backdraft": {
+      "id": 2924,
+      "poster": "/bymJtYNIdiAiBR1LRetaJXbfryc.jpg",
+      "title": "Backdraft",
+      "year": 1991
+    },
+    "Hillbilly Elegy": {
+      "id": 592984,
+      "poster": "/aA0D6DKIfLtXYNy94Qq2IW5NiGR.jpg",
+      "title": "Hillbilly Elegy",
+      "year": 2020
+    },
+    "How the Grinch Stole Christmas": {
+      "id": 8871,
+      "poster": "/1WZbbPApEivA421gCOluuzMMKCk.jpg",
+      "title": "How the Grinch Stole Christmas",
+      "year": 2000
+    },
+    "Mulan": {
+      "id": 337401,
+      "poster": "/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg",
+      "title": "Mulan",
+      "year": 2020
+    },
+    "A Quiet Place Part II": {
+      "id": 520763,
+      "poster": "/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",
+      "title": "A Quiet Place Part II",
+      "year": 2021
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Avatar: The Way of Water": {
+      "id": 76600,
+      "poster": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "title": "Avatar: The Way of Water",
+      "year": 2022
+    },
+    "Inception": {
+      "id": 27205,
+      "poster": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+      "title": "Inception",
+      "year": 2010
+    },
+    "The Wretched": {
+      "id": 605804,
+      "poster": "/yCBslw91HrA66w8fsMqhKMvtgff.jpg",
+      "title": "The Wretched",
+      "year": 2019
+    },
+    "Hamilton": {
+      "id": 556574,
+      "poster": "/h1B7tW0t399VDjAcWJh8m87469b.jpg",
+      "title": "Hamilton",
+      "year": 2025
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "The Lovebirds": {
+      "id": 576156,
+      "poster": "/5jdLnvALCpK1NkeQU1z4YvOe2dZ.jpg",
+      "title": "The Lovebirds",
+      "year": 2020
+    },
+    "Jaws": {
+      "id": 578,
+      "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "title": "Jaws",
+      "year": 1975
+    },
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
+    },
+    "Marriage Story": {
+      "id": 492188,
+      "poster": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+      "title": "Marriage Story",
+      "year": 2019
+    },
+    "Lucy in the Sky": {
+      "id": 340104,
+      "poster": "/ofhOB6EGSBqzGHA0MStMx9zWnML.jpg",
+      "title": "Lucy in the Sky",
+      "year": 2019
+    },
+    "Groundhog Day": {
+      "id": 137,
+      "poster": "/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
+      "title": "Groundhog Day",
+      "year": 1993
+    },
+    "Dirty Dancing": {
+      "id": 88,
+      "poster": "/9Jw6jys7q9gjzVX5zm1z0gC8gY9.jpg",
+      "title": "Dirty Dancing",
+      "year": 1987
+    }
+  }
+}

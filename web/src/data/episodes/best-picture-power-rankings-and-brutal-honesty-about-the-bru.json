@@ -1,0 +1,463 @@
+{
+  "slug": "best-picture-power-rankings-and-brutal-honesty-about-the-bru",
+  "title": "Best Picture Power Rankings and Brutal Honesty About ‘The Brutalist’",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Joanna Robinson"
+  ],
+  "published": "2025-01-31",
+  "runtimeMin": 144,
+  "format": "Amanda finally sees 'The Brutalist' and argues it out with Sean, Sean reports back from 'Nosferatu,' and Joanna Robinson joins to power-rank the ten Best Picture nominees a month out from the ceremony.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘The Brutalist’",
+      "note": "spoilers throughout",
+      "films": [
+        {
+          "title": "The Brutalist",
+          "year": 2024,
+          "note": "Amanda's first watch against Sean's third. They circle whether a film this ambitious can be great without landing every beat: Adrien Brody's Laszlo Toth as a near-blameless cipher, Guy Pearce walking off with the movie, Amanda's dislike of Felicity Jones, the Carrara set piece, the rape, the dinner-scene wobble, and the epilogue's Holocaust-memorial reveal. Amanda gave it 4.5 stars; Sean calls it the year's best despite the flaws."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "‘Nosferatu’",
+      "films": [
+        {
+          "title": "Nosferatu",
+          "year": 2024,
+          "note": "Robert Eggers' remake of Murnau's 1922 film. Amanda finds it airtight and sterile, beautiful craft that couldn't keep her awake, though she concedes Lily-Rose Depp's performance is the exception that carries it. Sean, a Witch-era Eggers fan, is stunned it became a $200M-plus hit."
+        }
+      ]
+    },
+    {
+      "kind": "ranking",
+      "heading": "Best Picture Power Rankings",
+      "note": "with Joanna Robinson, the second-to-last ranking before the ceremony",
+      "subject": "Best Picture",
+      "ranked": true,
+      "films": [
+        {
+          "title": "The Brutalist",
+          "year": 2024,
+          "note": "New No. 1, up from 4th. Directing/screenplay/editing nods, the misunderstood-male-genius narrative the Academy loves, and likely higher on more ballots than Emilia Pérez. A PGA win would seal it."
+        },
+        {
+          "title": "Emilia Pérez",
+          "year": 2024,
+          "note": "Neck-and-neck for the top, buoyed by the international bloc and Netflix's undivided resources, but the Karla Sofía Gascón tweet scandal has done real damage, and nobody on the panel wants it to win."
+        },
+        {
+          "title": "Anora",
+          "year": 2024,
+          "note": "Sean's No. 1 film of the year and long the front-runner here. Has directing, screenplay and editing, but thin below-the-line support is the tough beat."
+        },
+        {
+          "title": "A Complete Unknown",
+          "year": 2024,
+          "note": "The old-school nominee, unscathed by the smear season. Eight nominations, Mangold in Director, and an effective Timothée Chalamet campaign vaulted it up the board."
+        },
+        {
+          "title": "Conclave",
+          "year": 2024,
+          "note": "The crowd-pleaser and likely screenplay winner, but the Director and Stanley Tucci snubs cap it. A second/third-choice magnet for the 10-8 voters."
+        },
+        {
+          "title": "The Substance",
+          "year": 2024,
+          "note": "A body-horror Best Picture nominee is a genre first, something Katie called months early. Too divisive to win, and a Hollywood-about-Hollywood hook that helps at the margins."
+        },
+        {
+          "title": "Wicked",
+          "year": 2024,
+          "note": "Craft everywhere but only editing among the bellwethers; no Director or Writing. Last film to win without those was Grand Hotel. Could take SAG on ensemble alone."
+        },
+        {
+          "title": "Nickel Boys",
+          "year": 2024,
+          "note": "Its screenplay nod signals real support in a weak category; the RaMell Ross Director snub stung. A film common moviegoers find hard to parse."
+        },
+        {
+          "title": "I'm Still Here",
+          "year": 2024,
+          "note": "A Best Picture surprise riding the international vote and Fernanda Torres' Golden Globe. No screenplay, editing or directing, so it sits near the floor."
+        },
+        {
+          "title": "Dune: Part Two",
+          "year": 2024,
+          "note": "Everyone's bottom pick despite a great time at the theater. Big below-the-line presence but no Director, Writing or Editing, and an early-year release voters forget."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In the ‘Brutalist’ conversation",
+      "films": [
+        "Vox Lux",
+        "The Master",
+        "The Immigrant",
+        "The Pianist",
+        "The Godfather",
+        "The Godfather Part II",
+        "A Real Pain",
+        "Challengers",
+        "The Fall Guy",
+        "Funny Games",
+        "White Noise",
+        "Chinatown",
+        "The Social Network",
+        "The King's Speech",
+        "Interstellar",
+        "Oppenheimer"
+      ]
+    },
+    {
+      "group": "Oscar history and precedent",
+      "films": [
+        "Nomadland",
+        "Moonlight",
+        "Everything Everywhere All at Once",
+        "Parasite",
+        "CODA",
+        "The Power of the Dog",
+        "Mank",
+        "Roma",
+        "Maria",
+        "The Piano Lesson",
+        "The Irishman",
+        "Birdman",
+        "Green Book",
+        "Titanic",
+        "Barbie",
+        "Grand Hotel",
+        "Hidden Figures",
+        "Sing Sing"
+      ]
+    },
+    {
+      "group": "Around ‘Nosferatu’",
+      "films": [
+        "Wolf Man",
+        "The Witch",
+        "Horizon: An American Saga - Chapter 1"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Sing Sing": 1155828,
+    "Birdman": 194662
+  },
+  "excluded": {
+    "TV": [
+      "Saturday Night Live"
+    ],
+    "Podcasts": [
+      "The Big Picture",
+      "The Press Box",
+      "House of R"
+    ],
+    "Web": [
+      "Johán, Sacre Bleu"
+    ],
+    "Ads": [
+      "Mint Mobile"
+    ]
+  },
+  "tmdb": {
+    "The Brutalist": {
+      "id": 549509,
+      "poster": "/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
+      "title": "The Brutalist",
+      "year": 2024
+    },
+    "Nosferatu": {
+      "id": 426063,
+      "poster": "/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",
+      "title": "Nosferatu",
+      "year": 2024
+    },
+    "Emilia Pérez": {
+      "id": 974950,
+      "poster": "/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg",
+      "title": "Emilia Pérez",
+      "year": 2024
+    },
+    "Anora": {
+      "id": 1064213,
+      "poster": "/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg",
+      "title": "Anora",
+      "year": 2024
+    },
+    "A Complete Unknown": {
+      "id": 661539,
+      "poster": "/llWl3GtNoXosbvYboelmoT459NM.jpg",
+      "title": "A Complete Unknown",
+      "year": 2024
+    },
+    "Conclave": {
+      "id": 974576,
+      "poster": "/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
+      "title": "Conclave",
+      "year": 2024
+    },
+    "The Substance": {
+      "id": 933260,
+      "poster": "/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+      "title": "The Substance",
+      "year": 2024
+    },
+    "Wicked": {
+      "id": 402431,
+      "poster": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+      "title": "Wicked",
+      "year": 2024
+    },
+    "Nickel Boys": {
+      "id": 1028196,
+      "poster": "/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg",
+      "title": "Nickel Boys",
+      "year": 2024
+    },
+    "I'm Still Here": {
+      "id": 1000837,
+      "poster": "/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg",
+      "title": "I'm Still Here",
+      "year": 2024
+    },
+    "Dune: Part Two": {
+      "id": 693134,
+      "poster": "/heM4XKC0jA8fTSNe8F7oUkcJV7Z.jpg",
+      "title": "Dune: Part Two",
+      "year": 2024
+    },
+    "Vox Lux": {
+      "id": 429202,
+      "poster": "/xmFOjB5bGvFqNzsX5TbIWzdvpGd.jpg",
+      "title": "Vox Lux",
+      "year": 2018
+    },
+    "The Master": {
+      "id": 68722,
+      "poster": "/rUSjbyvYWN9H4az8xt0tDtU7I6v.jpg",
+      "title": "The Master",
+      "year": 2012
+    },
+    "The Immigrant": {
+      "id": 152599,
+      "poster": "/ArWRRQYeXL3nG4jYpMOPoBvgmy9.jpg",
+      "title": "The Immigrant",
+      "year": 2013
+    },
+    "The Pianist": {
+      "id": 423,
+      "poster": "/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
+      "title": "The Pianist",
+      "year": 2002
+    },
+    "The Godfather": {
+      "id": 238,
+      "poster": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "title": "The Godfather",
+      "year": 1972
+    },
+    "The Godfather Part II": {
+      "id": 240,
+      "poster": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+      "title": "The Godfather Part II",
+      "year": 1974
+    },
+    "A Real Pain": {
+      "id": 1013850,
+      "poster": "/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg",
+      "title": "A Real Pain",
+      "year": 2024
+    },
+    "Challengers": {
+      "id": 937287,
+      "poster": "/H6vke7zGiuLsz4v4RPeReb9rsv.jpg",
+      "title": "Challengers",
+      "year": 2024
+    },
+    "The Fall Guy": {
+      "id": 746036,
+      "poster": "/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg",
+      "title": "The Fall Guy",
+      "year": 2024
+    },
+    "Funny Games": {
+      "id": 8461,
+      "poster": "/zs92sAOh3Q0kDIJkgaJFTBzSFka.jpg",
+      "title": "Funny Games",
+      "year": 2008
+    },
+    "White Noise": {
+      "id": 744594,
+      "poster": "/kesxNdLZlmGoTRspDHU1WgdEuGw.jpg",
+      "title": "White Noise",
+      "year": 2022
+    },
+    "Chinatown": {
+      "id": 829,
+      "poster": "/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg",
+      "title": "Chinatown",
+      "year": 1974
+    },
+    "The Social Network": {
+      "id": 37799,
+      "poster": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+      "title": "The Social Network",
+      "year": 2010
+    },
+    "The King's Speech": {
+      "id": 45269,
+      "poster": "/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg",
+      "title": "The King's Speech",
+      "year": 2010
+    },
+    "Interstellar": {
+      "id": 157336,
+      "poster": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+      "title": "Interstellar",
+      "year": 2014
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Nomadland": {
+      "id": 581734,
+      "poster": "/8Vc5EOUEIF1EUXuX9eLFf7BvN3P.jpg",
+      "title": "Nomadland",
+      "year": 2021
+    },
+    "Moonlight": {
+      "id": 376867,
+      "poster": "/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+      "title": "Moonlight",
+      "year": 2016
+    },
+    "Everything Everywhere All at Once": {
+      "id": 545611,
+      "poster": "/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+      "title": "Everything Everywhere All at Once",
+      "year": 2022
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "CODA": {
+      "id": 776503,
+      "poster": "/BzVjmm8l23rPsijLiNLUzuQtyd.jpg",
+      "title": "CODA",
+      "year": 2021
+    },
+    "The Power of the Dog": {
+      "id": 600583,
+      "poster": "/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg",
+      "title": "The Power of the Dog",
+      "year": 2021
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "Roma": {
+      "id": 426426,
+      "poster": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+      "title": "Roma",
+      "year": 2018
+    },
+    "Maria": {
+      "id": 1038263,
+      "poster": "/3oQRG0bwPUqE4N4n8z2kAzr7e40.jpg",
+      "title": "Maria",
+      "year": 2024
+    },
+    "The Piano Lesson": {
+      "id": 804406,
+      "poster": "/cgampq63AqCrza6bnvmWqCcvCzY.jpg",
+      "title": "The Piano Lesson",
+      "year": 2024
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Birdman": {
+      "id": 194662,
+      "poster": "/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg",
+      "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+      "year": 2014
+    },
+    "Green Book": {
+      "id": 490132,
+      "poster": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+      "title": "Green Book",
+      "year": 2018
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Grand Hotel": {
+      "id": 33680,
+      "poster": "/g8xrpXJWzz91R4jL8ybMKMValB2.jpg",
+      "title": "Grand Hotel",
+      "year": 1932
+    },
+    "Hidden Figures": {
+      "id": 381284,
+      "poster": "/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg",
+      "title": "Hidden Figures",
+      "year": 2016
+    },
+    "Sing Sing": {
+      "id": 1155828,
+      "poster": "/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg",
+      "title": "Sing Sing",
+      "year": 2024
+    },
+    "Wolf Man": {
+      "id": 710295,
+      "poster": "/wpSDzTBfF0Eeo5lzu2w9FTujGqd.jpg",
+      "title": "Wolf Man",
+      "year": 2025
+    },
+    "The Witch": {
+      "id": 310131,
+      "poster": "/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
+      "title": "The Witch",
+      "year": 2016
+    },
+    "Horizon: An American Saga - Chapter 1": {
+      "id": 932086,
+      "poster": "/posWMQwX1HCIK26TGL3niJp5fg0.jpg",
+      "title": "Horizon: An American Saga - Chapter 1",
+      "year": 2024
+    }
+  },
+  "spotifyEpisodeId": "69KtgjC6HqRFfMbxG1gwbt"
+}

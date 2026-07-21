@@ -1,0 +1,871 @@
+{
+  "slug": "the-10-best-horror-movies-of-the-decade-the-big-picture",
+  "title": "The 10 Best Horror Movies of the Decade | The Big Picture",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Chris Ryan"
+  ],
+  "published": "2019-10-25",
+  "runtimeMin": 110,
+  "format": "Chris Ryan and Sean Fennessey each build a horror list for the 2010s — Chris's five favorites, then Sean's pick for every year of the decade — before Dolemite Is My Name screenwriters Scott Alexander and Larry Karaszewski talk their long partnership, from Ed Wood to Eddie Murphy.",
+  "segments": [
+    {
+      "kind": "topfive",
+      "heading": "Chris Ryan's Best Horror Movies of the Decade",
+      "note": "his five, ranked, not necessarily the biggest hits",
+      "subject": "Horror movies of the decade",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Green Room",
+          "year": 2015,
+          "note": "No. 1 - Jeremy Saulnier's punk band vs. white-power-gang siege, with Patrick Stewart as a chillingly calm villain."
+        },
+        {
+          "title": "It Follows",
+          "year": 2014,
+          "note": "No. 2 - David Robert Mitchell's post-industrial Detroit curse movie, starring Maika Monroe."
+        },
+        {
+          "title": "The Invitation",
+          "year": 2015,
+          "note": "No. 3 - Karyn Kusama turns a Los Angeles dinner party into a claustrophobic trap."
+        },
+        {
+          "title": "You're Next",
+          "year": 2011,
+          "note": "No. 4 - Adam Wingard's home-invasion siege: a family reunion, animal masks, an arrow through the eye."
+        },
+        {
+          "title": "Unfriended",
+          "year": 2015,
+          "note": "No. 5 - a haunting that plays out entirely on a group Skype call. The only Blumhouse movie on his list."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Sean's Best Horror Movie of Each Year, 2010-2019",
+      "note": "chronological, one per year",
+      "films": [
+        {
+          "title": "Black Swan",
+          "year": 2010,
+          "note": "Sean's pick for 2010. Chris isn't a fan - tonally not his thing."
+        },
+        {
+          "title": "You're Next",
+          "year": 2011,
+          "note": "Sean's pick for 2011, also on Chris's top five."
+        },
+        {
+          "title": "The Cabin in the Woods",
+          "year": 2012,
+          "note": "Sean's pick for 2012. Chris argues it's representational of horror even if it isn't scary."
+        },
+        {
+          "title": "The Conjuring",
+          "year": 2013,
+          "note": "Sean's pick for 2013."
+        },
+        {
+          "title": "It Follows",
+          "year": 2014,
+          "note": "Sean's pick for 2014, also No. 2 on Chris's list."
+        },
+        {
+          "title": "The Witch",
+          "year": 2015,
+          "note": "Sean's pick for 2015 - Robert Eggers' puritanical New England folk-horror debut."
+        },
+        {
+          "title": "Don't Breathe",
+          "year": 2016,
+          "note": "Sean's pick for 2016 - Fede Alvarez's home-invasion thriller."
+        },
+        {
+          "title": "Get Out",
+          "year": 2017,
+          "note": "Sean's pick for 2017, and per Sean maybe the best horror movie of the decade regardless of year."
+        },
+        {
+          "title": "Hereditary",
+          "year": 2018,
+          "note": "Sean's pick for 2018 - Ari Aster's feature debut."
+        },
+        {
+          "title": "Midsommar",
+          "year": 2019,
+          "note": "Sean's pick for 2019 - Ari Aster's follow-up to Hereditary."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Scott Alexander and Larry Karaszewski on",
+      "films": [
+        {
+          "title": "Dolemite Is My Name",
+          "year": 2019,
+          "note": "Craig Brewer's Rudy Ray Moore biopic starring Eddie Murphy - the reason the pair are on the show."
+        },
+        {
+          "title": "Ed Wood",
+          "year": 1994,
+          "note": "Tim Burton's take on their script. The film that set their formula: a sympathetic biopic about a fringe figure."
+        },
+        {
+          "title": "Problem Child",
+          "year": 1990,
+          "note": "Their first produced script, rewritten by close to a dozen other writers before release."
+        },
+        {
+          "title": "Problem Child 2",
+          "year": 1991,
+          "note": "The sequel they also wrote."
+        },
+        {
+          "title": "The People vs. Larry Flynt",
+          "year": 1996,
+          "note": "Directed by Milos Forman - their biopic of the pornographer turned presidential candidate."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "State of horror in 2019",
+      "films": [
+        "A Quiet Place",
+        "Us",
+        "Doctor Sleep",
+        "The Lighthouse",
+        "Halloween",
+        "Ouija: Origin of Evil",
+        "Mama",
+        "It"
+      ]
+    },
+    {
+      "group": "Heavy hitters not on Chris's list",
+      "films": [
+        "Insidious",
+        "Sinister",
+        "The Purge",
+        "Happy Death Day",
+        "The Visit",
+        "The Conjuring 2"
+      ]
+    },
+    {
+      "group": "Runners-up",
+      "films": [
+        "What We Do in the Shadows",
+        "Stake Land",
+        "In the Shadow of the Moon",
+        "Starry Eyes",
+        "Pet Sematary",
+        "The House of the Devil",
+        "The Innkeepers",
+        "The Crazies",
+        "Sahara",
+        "The Last Witch Hunter",
+        "Kill List",
+        "The First Purge",
+        "The Nun",
+        "Unfriended: Dark Web"
+      ]
+    },
+    {
+      "group": "Adam Wingard's run",
+      "films": [
+        "The Guest",
+        "Blair Witch",
+        "Death Note",
+        "A Horrible Way to Die",
+        "V/H/S",
+        "Godzilla vs. Kong"
+      ]
+    },
+    {
+      "group": "Comparisons and side references",
+      "films": [
+        "Rosemary's Baby",
+        "Seven",
+        "The Exorcist III",
+        "The Exorcist",
+        "Dracula",
+        "Bram Stoker's Dracula",
+        "Noah",
+        "Mother!",
+        "The Myth of the American Sleepover",
+        "Under the Silver Lake",
+        "Destroyer",
+        "Music of the Heart",
+        "Blue Ruin",
+        "Rolling Thunder",
+        "Evil Dead",
+        "The Girl in the Spider's Web",
+        "8mm",
+        "Candyman"
+      ]
+    },
+    {
+      "group": "Scott and Larry's other scripts and touchstones",
+      "films": [
+        "The War of the Roses",
+        "Plan 9 from Outer Space",
+        "The Last of Sheila",
+        "Modern Romance",
+        "Annie Hall",
+        "Man on the Moon",
+        "The Fortune Cookie",
+        "Ruthless People",
+        "Animal Crackers",
+        "The Towering Inferno",
+        "The Shaggy Dog",
+        "The World's Greatest Athlete",
+        "What's Up, Doc?",
+        "Heathers",
+        "Batman Returns",
+        "Dolemite",
+        "The Human Tornado",
+        "Disco Godfather",
+        "The Adventures of Pluto Nash",
+        "Shrek 2",
+        "Daddy Day Care",
+        "Billy Jack",
+        "The Life and Times of Grizzly Adams"
+      ]
+    },
+    {
+      "group": "Last great thing they've seen",
+      "films": [
+        "Parasite",
+        "Ball of Fire",
+        "Snow White and the Seven Dwarfs",
+        "The Irishman",
+        "Marriage Story",
+        "Roma",
+        "The Two Popes"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Into the Dark",
+      "Castle Rock",
+      "Stranger Things",
+      "American Horror Story",
+      "The People v. O.J. Simpson"
+    ],
+    "Promo": [
+      "NBA Palooza"
+    ]
+  },
+  "tmdb": {
+    "Green Room": {
+      "id": 313922,
+      "poster": "/evZicaR7nXe4LiD9G6QYTorcJGO.jpg",
+      "title": "Green Room",
+      "year": 2016
+    },
+    "It Follows": {
+      "id": 270303,
+      "poster": "/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg",
+      "title": "It Follows",
+      "year": 2015
+    },
+    "The Invitation": {
+      "id": 306947,
+      "poster": "/otZMaGHWnKPgOODF6SSVNGqbI4X.jpg",
+      "title": "The Invitation",
+      "year": 2016
+    },
+    "You're Next": {
+      "id": 1557310,
+      "poster": null,
+      "title": "You're Next",
+      "year": null
+    },
+    "Unfriended": {
+      "id": 277685,
+      "poster": "/8byPxREr3BqBNyyij5WHVSOVtYk.jpg",
+      "title": "Unfriended",
+      "year": 2014
+    },
+    "Black Swan": {
+      "id": 44214,
+      "poster": "/viWheBd44bouiLCHgNMvahLThqx.jpg",
+      "title": "Black Swan",
+      "year": 2010
+    },
+    "The Cabin in the Woods": {
+      "id": 22970,
+      "poster": "/zZZe5wn0udlhMtdlDjN4NB72R6e.jpg",
+      "title": "The Cabin in the Woods",
+      "year": 2012
+    },
+    "The Conjuring": {
+      "id": 138843,
+      "poster": "/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+      "title": "The Conjuring",
+      "year": 2013
+    },
+    "The Witch": {
+      "id": 310131,
+      "poster": "/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
+      "title": "The Witch",
+      "year": 2016
+    },
+    "Don't Breathe": {
+      "id": 300669,
+      "poster": "/dSxHyPZ2nipSfvdft4IhQKjk5eZ.jpg",
+      "title": "Don't Breathe",
+      "year": 2016
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Hereditary": {
+      "id": 493922,
+      "poster": "/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+      "title": "Hereditary",
+      "year": 2018
+    },
+    "Midsommar": {
+      "id": 530385,
+      "poster": "/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+      "title": "Midsommar",
+      "year": 2019
+    },
+    "Dolemite Is My Name": {
+      "id": 528888,
+      "poster": "/uoAqJg7ZSmftnBGOkupU1ySZQU0.jpg",
+      "title": "Dolemite Is My Name",
+      "year": 2019
+    },
+    "Ed Wood": {
+      "id": 522,
+      "poster": "/n8SrO3WbyuY2b6KazogqbQF348C.jpg",
+      "title": "Ed Wood",
+      "year": 1994
+    },
+    "Problem Child": {
+      "id": 11077,
+      "poster": "/4cJK28DhybQGEldJJPtTdKlSbWB.jpg",
+      "title": "Problem Child",
+      "year": 1990
+    },
+    "Problem Child 2": {
+      "id": 28597,
+      "poster": "/dnmw3F3rdbxb08zSdfHHMwfXMLI.jpg",
+      "title": "Problem Child 2",
+      "year": 1991
+    },
+    "The People vs. Larry Flynt": {
+      "id": 1630,
+      "poster": "/sAgHn7ys6TiVXBDTZ0UBEjinIUk.jpg",
+      "title": "The People vs. Larry Flynt",
+      "year": 1996
+    },
+    "A Quiet Place": {
+      "id": 447332,
+      "poster": "/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+      "title": "A Quiet Place",
+      "year": 2018
+    },
+    "Us": {
+      "id": 458723,
+      "poster": "/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+      "title": "Us",
+      "year": 2019
+    },
+    "Doctor Sleep": {
+      "id": 501170,
+      "poster": "/p69QzIBbN06aTYqRRiCOY1emNBh.jpg",
+      "title": "Doctor Sleep",
+      "year": 2019
+    },
+    "The Lighthouse": {
+      "id": 503919,
+      "poster": "/yAKNmpcUweGH6WMCEWenwU9PsbE.jpg",
+      "title": "The Lighthouse",
+      "year": 2019
+    },
+    "Halloween": {
+      "id": 948,
+      "poster": "/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+      "title": "Halloween",
+      "year": 1978
+    },
+    "Ouija: Origin of Evil": {
+      "id": 335796,
+      "poster": "/gwynHc2RrOFaplYMMpQRpr3TIA4.jpg",
+      "title": "Ouija: Origin of Evil",
+      "year": 2016
+    },
+    "Mama": {
+      "id": 132232,
+      "poster": "/eo8BhR8Q5STmWE9sMLsEPagxmy6.jpg",
+      "title": "Mama",
+      "year": 2013
+    },
+    "It": {
+      "id": 346364,
+      "poster": "/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg",
+      "title": "It",
+      "year": 2017
+    },
+    "Insidious": {
+      "id": 49018,
+      "poster": "/1egpmVXuXed58TH2UOnX1nATTrf.jpg",
+      "title": "Insidious",
+      "year": 2011
+    },
+    "Sinister": {
+      "id": 82507,
+      "poster": "/nzx10sca3arCeYBAomHan4Q6wa1.jpg",
+      "title": "Sinister",
+      "year": 2012
+    },
+    "The Purge": {
+      "id": 158015,
+      "poster": "/46X1ei9uf13nkkr0OhWldGyr5Uh.jpg",
+      "title": "The Purge",
+      "year": 2013
+    },
+    "Happy Death Day": {
+      "id": 440021,
+      "poster": "/cTaEIUYTt52ooq9quVbAQ7NpGwo.jpg",
+      "title": "Happy Death Day",
+      "year": 2017
+    },
+    "The Visit": {
+      "id": 298312,
+      "poster": "/mtMfKRCa2V5b7d9k4piogB72mcY.jpg",
+      "title": "The Visit",
+      "year": 2015
+    },
+    "The Conjuring 2": {
+      "id": 259693,
+      "poster": "/zEqyD0SBt6HL7W9JQoWwtd5Do1T.jpg",
+      "title": "The Conjuring 2",
+      "year": 2016
+    },
+    "What We Do in the Shadows": {
+      "id": 246741,
+      "poster": "/a2rD3i3DBMeYbA34rBv6z3B9S3a.jpg",
+      "title": "What We Do in the Shadows",
+      "year": 2014
+    },
+    "Stake Land": {
+      "id": 52015,
+      "poster": "/q5Cq3svR0XPEb9VkVBHPowT1Bxf.jpg",
+      "title": "Stake Land",
+      "year": 2010
+    },
+    "In the Shadow of the Moon": {
+      "id": 530382,
+      "poster": "/5DSVYlKwEzGBxTkS95L73c3oxLs.jpg",
+      "title": "In the Shadow of the Moon",
+      "year": 2019
+    },
+    "Starry Eyes": {
+      "id": 254194,
+      "poster": "/t1sIumVCl91XThMoJqUjpERYeAM.jpg",
+      "title": "Starry Eyes",
+      "year": 2014
+    },
+    "Pet Sematary": {
+      "id": 157433,
+      "poster": "/7SPhr7Qj39vbnfF9O2qHRYaKHAL.jpg",
+      "title": "Pet Sematary",
+      "year": 2019
+    },
+    "The House of the Devil": {
+      "id": 25983,
+      "poster": "/4abKUbc9IbsndbaY1hacN1iPM0Y.jpg",
+      "title": "The House of the Devil",
+      "year": 2009
+    },
+    "The Innkeepers": {
+      "id": 58428,
+      "poster": "/aC9XHtf0Opw2IJDVjSkL8eO71An.jpg",
+      "title": "The Innkeepers",
+      "year": 2012
+    },
+    "The Crazies": {
+      "id": 29425,
+      "poster": "/xSNgBJL9WKMHwl42gZXeRsQXFa1.jpg",
+      "title": "The Crazies",
+      "year": 1973
+    },
+    "Sahara": {
+      "id": 7364,
+      "poster": "/kyY1onYxkKBDlJsheRsVbMaoQEM.jpg",
+      "title": "Sahara",
+      "year": 2005
+    },
+    "The Last Witch Hunter": {
+      "id": 274854,
+      "poster": "/dS9YdnJkxtKE2PKCSsxTaO7Jpf5.jpg",
+      "title": "The Last Witch Hunter",
+      "year": 2015
+    },
+    "Kill List": {
+      "id": 74725,
+      "poster": "/qwT2I3ons0oD58jIppKmd4qLtvB.jpg",
+      "title": "Kill List",
+      "year": 2011
+    },
+    "The First Purge": {
+      "id": 442249,
+      "poster": "/litjsBoiydO6JlO70uOX4N3WnNL.jpg",
+      "title": "The First Purge",
+      "year": 2018
+    },
+    "The Nun": {
+      "id": 439079,
+      "poster": "/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg",
+      "title": "The Nun",
+      "year": 2018
+    },
+    "Unfriended: Dark Web": {
+      "id": 505058,
+      "poster": "/nOXuOeD07nZPT29IgiGT0S8PZH.jpg",
+      "title": "Unfriended: Dark Web",
+      "year": 2018
+    },
+    "The Guest": {
+      "id": 241848,
+      "poster": "/gvlEFHu9FuYLmBZwsARTtuNIiDO.jpg",
+      "title": "The Guest",
+      "year": 2014
+    },
+    "Blair Witch": {
+      "id": 351211,
+      "poster": "/Ai73frMEz68bibFGRlPKdWBaIaq.jpg",
+      "title": "Blair Witch",
+      "year": 2016
+    },
+    "Death Note": {
+      "id": 351460,
+      "poster": "/8xRQ0KG9ZZzjEiFa5fgEaTKhc0d.jpg",
+      "title": "Death Note",
+      "year": 2017
+    },
+    "A Horrible Way to Die": {
+      "id": 44950,
+      "poster": "/dzAMpGbcIhPtJLD057BCkjYc022.jpg",
+      "title": "A Horrible Way to Die",
+      "year": 2010
+    },
+    "V/H/S": {
+      "id": 84348,
+      "poster": "/xVGfCaTwVdZt3lFqtOVhTDqmG58.jpg",
+      "title": "V/H/S",
+      "year": 2012
+    },
+    "Godzilla vs. Kong": {
+      "id": 399566,
+      "poster": "/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+      "title": "Godzilla vs. Kong",
+      "year": 2021
+    },
+    "Rosemary's Baby": {
+      "id": 805,
+      "poster": "/uYgvlHceRFjAFbsNeMInYcLZLUb.jpg",
+      "title": "Rosemary's Baby",
+      "year": 1968
+    },
+    "Seven": {
+      "id": 754137,
+      "poster": "/h7904tdTu4O6EVX4UyesxtqF0xR.jpg",
+      "title": "SEVEN",
+      "year": 2020
+    },
+    "The Exorcist III": {
+      "id": 11587,
+      "poster": "/rhSftgj3vwpIDSP8v67N8KEubmz.jpg",
+      "title": "The Exorcist III",
+      "year": 1990
+    },
+    "The Exorcist": {
+      "id": 9552,
+      "poster": "/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
+      "title": "The Exorcist",
+      "year": 1973
+    },
+    "Dracula": {
+      "id": 1246049,
+      "poster": "/dYRqA50yd0nB3qBR7AtWEJJQ8q.jpg",
+      "title": "Dracula",
+      "year": 2025
+    },
+    "Bram Stoker's Dracula": {
+      "id": 6114,
+      "poster": "/4ZbUxjY5DZ7RCxGwvzSEr4rThd1.jpg",
+      "title": "Bram Stoker's Dracula",
+      "year": 1992
+    },
+    "Noah": {
+      "id": 86834,
+      "poster": "/vVLkHabnF5lVpCpqyhZBI5iCYMA.jpg",
+      "title": "Noah",
+      "year": 2014
+    },
+    "Mother!": {
+      "id": 381283,
+      "poster": "/fjny9chXPx69ln1LMJxbwi5yHMt.jpg",
+      "title": "mother!",
+      "year": 2017
+    },
+    "The Myth of the American Sleepover": {
+      "id": 70588,
+      "poster": "/6zIu3afpJjz5Js6S7GkDxpCJCYM.jpg",
+      "title": "The Myth of the American Sleepover",
+      "year": 2011
+    },
+    "Under the Silver Lake": {
+      "id": 396461,
+      "poster": "/6sq6fOb02zjhguNpi5VOklq6Nj.jpg",
+      "title": "Under the Silver Lake",
+      "year": 2018
+    },
+    "Destroyer": {
+      "id": 471507,
+      "poster": "/sHw9gTdo43nJL82py0oaROkXXNr.jpg",
+      "title": "Destroyer",
+      "year": 2018
+    },
+    "Music of the Heart": {
+      "id": 26149,
+      "poster": "/yKbzT8q9b65hc1eIZxuRsLxopi7.jpg",
+      "title": "Music of the Heart",
+      "year": 1999
+    },
+    "Blue Ruin": {
+      "id": 188166,
+      "poster": "/q0itEsso2drJXqH9kfdidxIT5dF.jpg",
+      "title": "Blue Ruin",
+      "year": 2014
+    },
+    "Rolling Thunder": {
+      "id": 21948,
+      "poster": "/9iZjVn6Q5FJa92SQLcFMrskpES9.jpg",
+      "title": "Rolling Thunder",
+      "year": 1977
+    },
+    "Evil Dead": {
+      "id": 109428,
+      "poster": "/1gDV0Lm9y8ufIKzyf0h0GBgb9Zj.jpg",
+      "title": "Evil Dead",
+      "year": 2013
+    },
+    "The Girl in the Spider's Web": {
+      "id": 446807,
+      "poster": "/w4ibr8R702DCjwYniry1D1XwQXj.jpg",
+      "title": "The Girl in the Spider's Web",
+      "year": 2018
+    },
+    "8mm": {
+      "id": 8224,
+      "poster": "/mhr9xRpjOBqlBjgDwtiOx6FsLvV.jpg",
+      "title": "8MM",
+      "year": 1999
+    },
+    "Candyman": {
+      "id": 9529,
+      "poster": "/jQtgkgDZE7egMq532sOt83DnT83.jpg",
+      "title": "Candyman",
+      "year": 1992
+    },
+    "The War of the Roses": {
+      "id": 249,
+      "poster": "/9VWwYsuXhRImUtrJGvN6bYJB2He.jpg",
+      "title": "The War of the Roses",
+      "year": 1989
+    },
+    "Plan 9 from Outer Space": {
+      "id": 10513,
+      "poster": "/bmicZi7PvlnZ9rZqp6QXN2Db0pT.jpg",
+      "title": "Plan 9 from Outer Space",
+      "year": 1957
+    },
+    "The Last of Sheila": {
+      "id": 26331,
+      "poster": "/oTwaBz4wByO8qcYqWaBuRLeCTC8.jpg",
+      "title": "The Last of Sheila",
+      "year": 1973
+    },
+    "Modern Romance": {
+      "id": 401321,
+      "poster": "/iVo1pbk4iaiUjJIqDwGtu6ujNEB.jpg",
+      "title": "Modern Romance",
+      "year": 1994
+    },
+    "Annie Hall": {
+      "id": 703,
+      "poster": "/dEtjPywhDbAXYjoFfhBC4U9unU7.jpg",
+      "title": "Annie Hall",
+      "year": 1977
+    },
+    "Man on the Moon": {
+      "id": 1850,
+      "poster": "/msOZS07xRIFnapwp3fprGbKEAfT.jpg",
+      "title": "Man on the Moon",
+      "year": 1999
+    },
+    "The Fortune Cookie": {
+      "id": 1888,
+      "poster": "/tGZc0sRoXgGzRDhHaCRmqxNSKVZ.jpg",
+      "title": "The Fortune Cookie",
+      "year": 1966
+    },
+    "Ruthless People": {
+      "id": 12151,
+      "poster": "/fA3f8bsXoVbIALq4EdiAwptF1ws.jpg",
+      "title": "Ruthless People",
+      "year": 1986
+    },
+    "Animal Crackers": {
+      "id": 315064,
+      "poster": "/dxFqZiO5MqqVoFZuWOjTdjmDh6d.jpg",
+      "title": "Animal Crackers",
+      "year": 2018
+    },
+    "The Towering Inferno": {
+      "id": 5919,
+      "poster": "/mFM1GbrRrT3DWUFFo8koSITFnYe.jpg",
+      "title": "The Towering Inferno",
+      "year": 1974
+    },
+    "The Shaggy Dog": {
+      "id": 10067,
+      "poster": "/tGX3YyPaYMbjiRwR5PjRsJW7GtM.jpg",
+      "title": "The Shaggy Dog",
+      "year": 2006
+    },
+    "The World's Greatest Athlete": {
+      "id": 33331,
+      "poster": "/gDgfRDuhT6KXtBwq0Z1G2uqY1eQ.jpg",
+      "title": "The World's Greatest Athlete",
+      "year": 1973
+    },
+    "What's Up, Doc?": {
+      "id": 6949,
+      "poster": "/d5WwZxneeAH2Kj2SeDV6oUY2oW0.jpg",
+      "title": "What's Up, Doc?",
+      "year": 1972
+    },
+    "Heathers": {
+      "id": 2640,
+      "poster": "/dGbVfM4WlM7uvIbyRehfPZUIgp2.jpg",
+      "title": "Heathers",
+      "year": 1989
+    },
+    "Batman Returns": {
+      "id": 364,
+      "poster": "/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg",
+      "title": "Batman Returns",
+      "year": 1992
+    },
+    "Dolemite": {
+      "id": 19174,
+      "poster": "/sc81lG0MdHq1UCY5b2B10c9wSKw.jpg",
+      "title": "Dolemite",
+      "year": 1975
+    },
+    "The Human Tornado": {
+      "id": 32100,
+      "poster": "/xTwLcUMwjktY6XZnUSJZlWGfWt0.jpg",
+      "title": "The Human Tornado",
+      "year": 1976
+    },
+    "Disco Godfather": {
+      "id": 77403,
+      "poster": "/1vqv7Pqooiis8PCpRZXikE3j3UN.jpg",
+      "title": "Disco Godfather",
+      "year": 1979
+    },
+    "The Adventures of Pluto Nash": {
+      "id": 11692,
+      "poster": "/96vvhLWWDosS1zRrfQ6XEGAzByL.jpg",
+      "title": "The Adventures of Pluto Nash",
+      "year": 2002
+    },
+    "Shrek 2": {
+      "id": 809,
+      "poster": "/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
+      "title": "Shrek 2",
+      "year": 2004
+    },
+    "Daddy Day Care": {
+      "id": 10708,
+      "poster": "/uiey5XUKuPicwpIJMf1OpaOd1jL.jpg",
+      "title": "Daddy Day Care",
+      "year": 2003
+    },
+    "Billy Jack": {
+      "id": 21142,
+      "poster": "/rVE2YKxiHMHTxA5yPZPzsChc37H.jpg",
+      "title": "Billy Jack",
+      "year": 1971
+    },
+    "The Life and Times of Grizzly Adams": {
+      "id": 112323,
+      "poster": "/1wz1JpCm2TX3Lc5ZGWEHSAgWXYz.jpg",
+      "title": "The Life and Times of Grizzly Adams",
+      "year": 1974
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Ball of Fire": {
+      "id": 29884,
+      "poster": "/t9L16dMTuNq4saLpQswZjkNvaMt.jpg",
+      "title": "Ball of Fire",
+      "year": 1941
+    },
+    "Snow White and the Seven Dwarfs": {
+      "id": 408,
+      "poster": "/3VAHfuNb6Z7UiW12iYKANSPBl8m.jpg",
+      "title": "Snow White and the Seven Dwarfs",
+      "year": 1938
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Marriage Story": {
+      "id": 492188,
+      "poster": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+      "title": "Marriage Story",
+      "year": 2019
+    },
+    "Roma": {
+      "id": 426426,
+      "poster": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+      "title": "Roma",
+      "year": 2018
+    },
+    "The Two Popes": {
+      "id": 551332,
+      "poster": "/4d4mTSfDIFIbUbMLUfaKodvxYXA.jpg",
+      "title": "The Two Popes",
+      "year": 2019
+    }
+  }
+}

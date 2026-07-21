@@ -1,0 +1,712 @@
+{
+  "slug": "the-robert-de-niro-movie-draft",
+  "title": "The Robert De Niro Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2023-05-23",
+  "runtimeMin": 107,
+  "format": "Sean Fennessey and Amanda Dobbins bring in Chris Ryan for a snake draft of Robert De Niro's career, six categories deep, timed to All About My Father and De Niro turning 80 this year.",
+  "segments": [
+    {
+      "kind": "draft",
+      "heading": "The Robert De Niro Draft",
+      "note": "snake draft, six categories",
+      "draftOf": "Robert De Niro's filmography",
+      "categories": [
+        "Drama",
+        "Comedy",
+        "Action/Horror/Thriller",
+        "Supporting Role",
+        "Oscar Nominee",
+        "Wildcard"
+      ],
+      "teams": [
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Goodfellas",
+              "year": 1990,
+              "category": "Drama",
+              "note": "First overall pick. She'd told her brother Zach beforehand that Goodfellas would be her pick if she got first; his response was 'what do you know about Goodfellas?'"
+            },
+            {
+              "title": "The Intern",
+              "year": 2015,
+              "category": "Comedy",
+              "note": "Directed by Nancy Meyers. De Niro as a retired widower interning at Anne Hathaway's startup; sets off a long tangent about the plot mid-draft."
+            },
+            {
+              "title": "Midnight Run",
+              "year": 1988,
+              "category": "Action/Horror/Thriller",
+              "note": "Taken from under Chris Ryan, who wanted it and objects that it's a comedy, not action. Amanda credits Charles Grodin as much as De Niro."
+            },
+            {
+              "title": "The Untouchables",
+              "year": 1987,
+              "category": "Supporting Role",
+              "note": "De Niro as Al Capone, including the baseball-bat scene. Also the first De Niro movie Chris Ryan ever saw."
+            },
+            {
+              "title": "The Irishman",
+              "year": 2019,
+              "category": "Oscar Nominee",
+              "note": "A sentimental, personal pick. Amanda and Sean were both at the premiere, seated across the theater from each other."
+            },
+            {
+              "title": "Analyze This",
+              "year": 1999,
+              "category": "Wildcard",
+              "note": "Possibly the first De Niro movie Amanda ever saw, thanks to her aunt Betty's impression of him."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "The Deer Hunter",
+              "year": 1978,
+              "category": "Drama",
+              "note": "One of five movies CR says will 'live forever.' Also the movie Amanda's dad had at No. 1 and No. 2 on his own De Niro top five, prepared for the episode."
+            },
+            {
+              "title": "Jackie Brown",
+              "year": 1997,
+              "category": "Comedy",
+              "note": "As Louis Gara, just out of prison and pulling a heist with his old partner Ordell. CR calls it a performance that plays into De Niro's taciturn public image."
+            },
+            {
+              "title": "Cape Fear",
+              "year": 1991,
+              "category": "Action/Horror/Thriller",
+              "note": "Picked over Limitless; CR says the De Niro performance here outweighs the other film."
+            },
+            {
+              "title": "Cop Land",
+              "year": 1997,
+              "category": "Supporting Role",
+              "note": "Picked over Backdraft. De Niro and Harvey Keitel share a diner scene."
+            },
+            {
+              "title": "Taxi Driver",
+              "year": 1976,
+              "category": "Oscar Nominee",
+              "note": "CR calls it maybe the pick he'd have made first overall if categories didn't exist."
+            },
+            {
+              "title": "Casino",
+              "year": 1995,
+              "category": "Wildcard",
+              "note": "The Rewatchables episode about this movie is the one where Bill Simmons forgot to plug in CR's microphone."
+            }
+          ]
+        },
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Raging Bull",
+              "year": 1980,
+              "category": "Drama",
+              "note": "The Oscar-winning performance Sean calls the signal, post-Brando lesson in great acting for actors of his generation."
+            },
+            {
+              "title": "The King of Comedy",
+              "year": 1982,
+              "category": "Comedy",
+              "note": "One of Sean's five favorite Scorsese movies. He calls it maybe the cleverest movie of the 1980s about fame."
+            },
+            {
+              "title": "Heat",
+              "year": 1995,
+              "category": "Action/Horror/Thriller",
+              "note": "Taken over Chris Ryan's objections, which he holds a grudge about for the rest of the episode."
+            },
+            {
+              "title": "Mean Streets",
+              "year": 1973,
+              "category": "Supporting Role",
+              "note": "De Niro's breakthrough as Johnny Boy in Scorsese's directorial debut, and the pick Sean calls the one that changed the trajectory of American movies."
+            },
+            {
+              "title": "The Godfather Part II",
+              "year": 1974,
+              "category": "Oscar Nominee",
+              "note": "One of two picks Sean makes back to back. Calls it one of the greatest films of all time."
+            },
+            {
+              "title": "Once Upon a Time in America",
+              "year": 1984,
+              "category": "Wildcard",
+              "note": "Sergio Leone's final film. Sean saw a rough cut of it in 1984 at Anthology Film Archives, with John Cage playing a live score."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Wag the Dog",
+        "The Wizard of Lies",
+        "The Good Shepherd",
+        "The Mission",
+        "Mad Dog and Glory",
+        "True Confessions",
+        "Bang the Drum Slowly",
+        "Stanley & Iris",
+        "Awakenings",
+        "Hi, Mom!",
+        "Greetings",
+        "Sleepers",
+        "Brazil",
+        "Meet the Parents",
+        "The Score",
+        "The Fan",
+        "Machete",
+        "New York, New York",
+        "Great Expectations",
+        "Silver Linings Playbook",
+        "1900",
+        "Angel Heart",
+        "Joker",
+        "Analyze That",
+        "This Boy's Life"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Personal De Niro origin stories, before the draft started",
+      "films": [
+        "All About My Father",
+        "Sam's Song",
+        "The Swap",
+        "Last Vegas",
+        "Savage Salvation",
+        "A Bronx Tale",
+        "Marvin's Room"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "The Godfather",
+        "Killers of the Flower Moon",
+        "Amsterdam",
+        "Master Gardener",
+        "Guardians of the Galaxy Vol. 3",
+        "Uncut Gems",
+        "Top Gun: Maverick",
+        "Dune: Part Two",
+        "Oppenheimer",
+        "Ferrari",
+        "Heaven's Gate",
+        "The Sicilian",
+        "Year of the Dragon",
+        "Desperate Hours",
+        "Diner",
+        "Tin Men",
+        "The Bay",
+        "Rebecca",
+        "In the Earth",
+        "Zero Dark Thirty",
+        "Nightcrawler",
+        "Murder by Numbers",
+        "Drive",
+        "Crazy, Stupid, Love.",
+        "The Place Beyond the Pines"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "New York, New York": 12637,
+    "Diner": 13776,
+    "The Bay": 123105,
+    "Rebecca": 505379,
+    "Bang the Drum Slowly": 42459,
+    "The Swap": 110843,
+    "Sam's Song": 73612
+  },
+  "excluded": {
+    "TV": [
+      "Inside the Actors Studio",
+      "Saturday Night Live",
+      "MADtv",
+      "The Diplomat",
+      "Dead Ringers",
+      "Yellowstone",
+      "Mare of Easttown",
+      "Copenhagen Cowboy",
+      "Beef"
+    ],
+    "Unreleased": [
+      "Heat 2"
+    ],
+    "Games": [
+      "FIFA World Cup Launch Edition"
+    ],
+    "Ads": [
+      "60 Songs That Explain the 90s (podcast promo)",
+      "NOS Energy Grand Prix Guava",
+      "Carvana",
+      "Boar's Head",
+      "FanDuel"
+    ]
+  },
+  "tmdb": {
+    "Goodfellas": {
+      "id": 769,
+      "poster": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+      "title": "GoodFellas",
+      "year": 1990
+    },
+    "The Intern": {
+      "id": 257211,
+      "poster": "/bTQ46fupPbjBfFBHuzfD3hxxL0Q.jpg",
+      "title": "The Intern",
+      "year": 2015
+    },
+    "Midnight Run": {
+      "id": 9013,
+      "poster": "/yx0touyDQ9enWDsFgS4MbBwCSNd.jpg",
+      "title": "Midnight Run",
+      "year": 1988
+    },
+    "The Untouchables": {
+      "id": 117,
+      "poster": "/tPq0R4jTO4Ey8ZspFaWK9wGA4Ls.jpg",
+      "title": "The Untouchables",
+      "year": 1987
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Analyze This": {
+      "id": 9535,
+      "poster": "/eqa4TEgkx63WRhqyD8eTwmL7bUi.jpg",
+      "title": "Analyze This",
+      "year": 1999
+    },
+    "The Deer Hunter": {
+      "id": 11778,
+      "poster": "/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
+      "title": "The Deer Hunter",
+      "year": 1978
+    },
+    "Jackie Brown": {
+      "id": 184,
+      "poster": "/rOUx7qg4KmEh1juEDwqzbDSL1Nr.jpg",
+      "title": "Jackie Brown",
+      "year": 1997
+    },
+    "Cape Fear": {
+      "id": 1598,
+      "poster": "/meJZAAuVcjic2ipvbOPz5UlE4P9.jpg",
+      "title": "Cape Fear",
+      "year": 1991
+    },
+    "Cop Land": {
+      "id": 2142,
+      "poster": "/dyOqXyPCQh8VF0KA5aelBCCQond.jpg",
+      "title": "Cop Land",
+      "year": 1997
+    },
+    "Taxi Driver": {
+      "id": 103,
+      "poster": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "title": "Taxi Driver",
+      "year": 1976
+    },
+    "Casino": {
+      "id": 524,
+      "poster": "/gziIkUSnYuj9ChCi8qOu2ZunpSC.jpg",
+      "title": "Casino",
+      "year": 1995
+    },
+    "Raging Bull": {
+      "id": 1578,
+      "poster": "/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
+      "title": "Raging Bull",
+      "year": 1980
+    },
+    "The King of Comedy": {
+      "id": 262,
+      "poster": "/m24EbHxT9NGYEkOlu29YcLOgjgK.jpg",
+      "title": "The King of Comedy",
+      "year": 1982
+    },
+    "Heat": {
+      "id": 949,
+      "poster": "/e09dLw1Ljtccd2P4NsuUvVtS5du.jpg",
+      "title": "Heat",
+      "year": 1995
+    },
+    "Mean Streets": {
+      "id": 203,
+      "poster": "/9msfwOeGc9uL1iRRTBdEf15XonC.jpg",
+      "title": "Mean Streets",
+      "year": 1973
+    },
+    "The Godfather Part II": {
+      "id": 240,
+      "poster": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+      "title": "The Godfather Part II",
+      "year": 1974
+    },
+    "Once Upon a Time in America": {
+      "id": 311,
+      "poster": "/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg",
+      "title": "Once Upon a Time in America",
+      "year": 1984
+    },
+    "Wag the Dog": {
+      "id": 586,
+      "poster": "/wyQDucg22FivG3Rz7CpaOY64eMr.jpg",
+      "title": "Wag the Dog",
+      "year": 1997
+    },
+    "The Wizard of Lies": {
+      "id": 363992,
+      "poster": "/8k4lJ4e0hvDQtKpItXmmPdw69sO.jpg",
+      "title": "The Wizard of Lies",
+      "year": 2017
+    },
+    "The Good Shepherd": {
+      "id": 1247,
+      "poster": "/qWmF0rQRPeIVQRfwQN3C9VFKsBh.jpg",
+      "title": "The Good Shepherd",
+      "year": 2006
+    },
+    "The Mission": {
+      "id": 11416,
+      "poster": "/6K9cG6LOOtySZF4D4xBu1MApC1N.jpg",
+      "title": "The Mission",
+      "year": 1986
+    },
+    "Mad Dog and Glory": {
+      "id": 10433,
+      "poster": "/wmgmTe9uQ5mtudN6e4IVEGvSqg1.jpg",
+      "title": "Mad Dog and Glory",
+      "year": 1993
+    },
+    "True Confessions": {
+      "id": 32077,
+      "poster": "/qwTwHKesH4QcvSBkS1dE89AIFst.jpg",
+      "title": "True Confessions",
+      "year": 1981
+    },
+    "Bang the Drum Slowly": {
+      "id": 42459,
+      "poster": "/2MojRzTHI2UMmhEANYZZCsMPHr.jpg",
+      "title": "Bang the Drum Slowly",
+      "year": 1973
+    },
+    "Stanley & Iris": {
+      "id": 36094,
+      "poster": "/ydDNS3aCnBWOT9jQiEVmN56rk2i.jpg",
+      "title": "Stanley & Iris",
+      "year": 1990
+    },
+    "Awakenings": {
+      "id": 11005,
+      "poster": "/9gztZXuHLG6AJ0fgqGd7Q43cWRI.jpg",
+      "title": "Awakenings",
+      "year": 1990
+    },
+    "Hi, Mom!": {
+      "id": 42589,
+      "poster": "/l4rge37nxK6nQFQVJxgdRaBG1xS.jpg",
+      "title": "Hi, Mom!",
+      "year": 1970
+    },
+    "Greetings": {
+      "id": 73604,
+      "poster": "/saqtwYWMbIAOzWp4Nm8oGEzDUqU.jpg",
+      "title": "Greetings",
+      "year": 1968
+    },
+    "Sleepers": {
+      "id": 819,
+      "poster": "/yUpiEk2EojS9ZEXb3nIQonQCYYF.jpg",
+      "title": "Sleepers",
+      "year": 1996
+    },
+    "Brazil": {
+      "id": 68,
+      "poster": "/aewan59WcFThBimkTVVoNf2o5Vb.jpg",
+      "title": "Brazil",
+      "year": 1985
+    },
+    "Meet the Parents": {
+      "id": 1597,
+      "poster": "/5tXJ9ctuyEOMUFLaeqRisbXowWs.jpg",
+      "title": "Meet the Parents",
+      "year": 2000
+    },
+    "The Score": {
+      "id": 11371,
+      "poster": "/fsb4m9XW59mei8GKznvI3lLzcfp.jpg",
+      "title": "The Score",
+      "year": 2001
+    },
+    "The Fan": {
+      "id": 9566,
+      "poster": "/lu7CjP8YES5dJMCFg5O9o9jCkjl.jpg",
+      "title": "The Fan",
+      "year": 1996
+    },
+    "Machete": {
+      "id": 23631,
+      "poster": "/dcPSm1rGEFdiEc7DaKz0t5kb66b.jpg",
+      "title": "Machete",
+      "year": 2010
+    },
+    "New York, New York": {
+      "id": 12637,
+      "poster": "/1nD40aUcPAxYdE1WxERrTjZuFGe.jpg",
+      "title": "New York, New York",
+      "year": 1977
+    },
+    "Great Expectations": {
+      "id": 9410,
+      "poster": "/djLsfl3lm7BZKWsKfVZ2wM1ZMrP.jpg",
+      "title": "Great Expectations",
+      "year": 1998
+    },
+    "Silver Linings Playbook": {
+      "id": 82693,
+      "poster": "/fhHB1uvfFKKFbj6bTKE8xdtsjKi.jpg",
+      "title": "Silver Linings Playbook",
+      "year": 2012
+    },
+    "1900": {
+      "id": 3870,
+      "poster": "/deWzfCC59tmtEQvKSmflDe14FvR.jpg",
+      "title": "1900",
+      "year": 1976
+    },
+    "Angel Heart": {
+      "id": 635,
+      "poster": "/h5v3wjJQNB7q2RntEnKDLhKtTFE.jpg",
+      "title": "Angel Heart",
+      "year": 1987
+    },
+    "Joker": {
+      "id": 475557,
+      "poster": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "title": "Joker",
+      "year": 2019
+    },
+    "Analyze That": {
+      "id": 9932,
+      "poster": "/q3R6Hno3WFfIkHQg7CeVAEOcHQQ.jpg",
+      "title": "Analyze That",
+      "year": 2002
+    },
+    "This Boy's Life": {
+      "id": 8092,
+      "poster": "/pRMSZfen1Cv1eqwDbtxCBpBqxnU.jpg",
+      "title": "This Boy's Life",
+      "year": 1993
+    },
+    "All About My Father": {
+      "id": 1075980,
+      "poster": "/goMgYZznZYwO2SSW5KA1hI7evp4.jpg",
+      "title": "All About My Father",
+      "year": 2010
+    },
+    "Sam's Song": {
+      "id": 73612,
+      "poster": "/hP99mnZzQ0ySALTJYwmzq8bkIFR.jpg",
+      "title": "Sam's Song",
+      "year": 1969
+    },
+    "The Swap": {
+      "id": 110843,
+      "poster": "/gSRkM0Jz6nbpyrW3Imotu4Xx7Mv.jpg",
+      "title": "The Swap",
+      "year": 1979
+    },
+    "Last Vegas": {
+      "id": 137093,
+      "poster": "/9Aht200Eu2jYiE9cEQdFfNDtHl6.jpg",
+      "title": "Last Vegas",
+      "year": 2013
+    },
+    "Savage Salvation": {
+      "id": 740952,
+      "poster": "/fJRt3mmZEvf8gQzoNLzjPtWpc9o.jpg",
+      "title": "Savage Salvation",
+      "year": 2022
+    },
+    "A Bronx Tale": {
+      "id": 1607,
+      "poster": "/sDbO6LmLYtyqAoFTPpRcMgPSCEO.jpg",
+      "title": "A Bronx Tale",
+      "year": 1993
+    },
+    "Marvin's Room": {
+      "id": 9819,
+      "poster": "/lTHq1K5Y6EDRjxTBvReXHY6AKQ3.jpg",
+      "title": "Marvin's Room",
+      "year": 1996
+    },
+    "The Godfather": {
+      "id": 238,
+      "poster": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "title": "The Godfather",
+      "year": 1972
+    },
+    "Killers of the Flower Moon": {
+      "id": 466420,
+      "poster": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+      "title": "Killers of the Flower Moon",
+      "year": 2023
+    },
+    "Amsterdam": {
+      "id": 664469,
+      "poster": "/6sJcVzGCwrDCBMV0DU6eRzA2UxM.jpg",
+      "title": "Amsterdam",
+      "year": 2022
+    },
+    "Master Gardener": {
+      "id": 869612,
+      "poster": "/pmcYL7mgjVlWhFyNCc05mFTt6at.jpg",
+      "title": "Master Gardener",
+      "year": 2023
+    },
+    "Guardians of the Galaxy Vol. 3": {
+      "id": 447365,
+      "poster": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "year": 2023
+    },
+    "Uncut Gems": {
+      "id": 473033,
+      "poster": "/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+      "title": "Uncut Gems",
+      "year": 2019
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Dune: Part Two": {
+      "id": 693134,
+      "poster": "/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+      "title": "Dune: Part Two",
+      "year": 2024
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Ferrari": {
+      "id": 365620,
+      "poster": "/LyCOcGqOTyTmaXu2TK8LfGveIb.jpg",
+      "title": "Ferrari",
+      "year": 2023
+    },
+    "Heaven's Gate": {
+      "id": 10935,
+      "poster": "/kW4Vk31nhtKPKGuYMaVATq3wcHC.jpg",
+      "title": "Heaven's Gate",
+      "year": 1980
+    },
+    "The Sicilian": {
+      "id": 31945,
+      "poster": "/3zjrYyAtTs0uxX1a4hhDR3Ir5Rz.jpg",
+      "title": "The Sicilian",
+      "year": 1987
+    },
+    "Year of the Dragon": {
+      "id": 11018,
+      "poster": "/c8SfIgwR5mfu0c0qTBKbsvBfecJ.jpg",
+      "title": "Year of the Dragon",
+      "year": 1985
+    },
+    "Desperate Hours": {
+      "id": 31676,
+      "poster": "/gtIRVVHRRr4iWN8yJ6tQs0CqWV2.jpg",
+      "title": "Desperate Hours",
+      "year": 1990
+    },
+    "Diner": {
+      "id": 13776,
+      "poster": "/2vKIdZ6JkFIzcQeaHg3xtdvOyRO.jpg",
+      "title": "Diner",
+      "year": 1982
+    },
+    "Tin Men": {
+      "id": 10896,
+      "poster": "/5rWE9ft0Uc2kuDWlkg5vQth58XZ.jpg",
+      "title": "Tin Men",
+      "year": 1987
+    },
+    "The Bay": {
+      "id": 123105,
+      "poster": "/fnmYgr4AOOE09zKa7omPW1FWT8K.jpg",
+      "title": "The Bay",
+      "year": 2012
+    },
+    "Rebecca": {
+      "id": 505379,
+      "poster": "/kGhllBArW7ImDycSMIG5bj6GEPL.jpg",
+      "title": "Rebecca",
+      "year": 2020
+    },
+    "In the Earth": {
+      "id": 748853,
+      "poster": "/a2e9GLb14xX1DFv80nsioci5Zld.jpg",
+      "title": "In the Earth",
+      "year": 2021
+    },
+    "Zero Dark Thirty": {
+      "id": 97630,
+      "poster": "/wNSdSSxowM3WIqmPJNg3RagYbwP.jpg",
+      "title": "Zero Dark Thirty",
+      "year": 2012
+    },
+    "Nightcrawler": {
+      "id": 242582,
+      "poster": "/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
+      "title": "Nightcrawler",
+      "year": 2014
+    },
+    "Murder by Numbers": {
+      "id": 11892,
+      "poster": "/plH3TujSUVttiIikToKfwdCorJI.jpg",
+      "title": "Murder by Numbers",
+      "year": 2002
+    },
+    "Drive": {
+      "id": 64690,
+      "poster": "/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
+      "title": "Drive",
+      "year": 2011
+    },
+    "Crazy, Stupid, Love.": {
+      "id": 50646,
+      "poster": "/p4RafgAPk558muOjnBMHhMArjS2.jpg",
+      "title": "Crazy, Stupid, Love.",
+      "year": 2011
+    },
+    "The Place Beyond the Pines": {
+      "id": 97367,
+      "poster": "/vY5j2xQzMGWmxBuhQo0HfA4Lxqb.jpg",
+      "title": "The Place Beyond the Pines",
+      "year": 2013
+    }
+  }
+}

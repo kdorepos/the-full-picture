@@ -1,0 +1,401 @@
+{
+  "slug": "6-the-human-condition-gene-and-roger",
+  "title": "6. “The Human Condition” | Gene and Roger",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Brian Raftery"
+  ],
+  "published": "2021-08-17",
+  "runtimeMin": 28,
+  "format": "Brian Raftery's narrative history of Siskel and Ebert reaches the 1990s, when the two critics went from watching Hollywood to fighting it out over the Do the Right Thing snub, the documentary Oscar, the X rating, and Bob Dole.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The 90s: Gene and Roger take on Hollywood",
+      "films": [
+        {
+          "title": "Do the Right Thing",
+          "year": 1989,
+          "note": "The film that opens the episode and never leaves it. Both critics named it the best film of 1989 and put it on their decade top tens; its shutout at Cannes and the Oscars became a running source of outrage."
+        },
+        {
+          "title": "sex, lies, and videotape",
+          "year": 1989,
+          "note": "Soderbergh's debut, cited as the film that kicked off the American indie wave the two had been covering since 1981."
+        },
+        {
+          "title": "Boyz n the Hood",
+          "year": 1991,
+          "note": "John Singleton's debut, part of the surge of new Black filmmakers alongside Spike Lee."
+        },
+        {
+          "title": "Menace II Society",
+          "year": 1993,
+          "note": "The Hughes brothers, grouped with Singleton in the early-90s wave."
+        },
+        {
+          "title": "Crumb",
+          "year": 1994,
+          "note": "One of the decade's documentaries the critics championed."
+        },
+        {
+          "title": "The War Room",
+          "year": 1993,
+          "note": "Paired with Crumb as part of the 90s documentary run."
+        },
+        {
+          "title": "One False Move",
+          "year": 1992,
+          "note": "Carl Franklin's low-budget thriller, headed straight to video until Gene and Roger praised it on Leno's Tonight Show and pushed it into 50-plus cities."
+        },
+        {
+          "title": "Roger & Me",
+          "year": 1989,
+          "note": "Michael Moore's Flint documentary, shut out of the documentary Oscar race. The critics blamed the snub on the Academy's flashlight-voting committee."
+        },
+        {
+          "title": "Hoop Dreams",
+          "year": 1994,
+          "note": "Steve James's basketball doc, also denied a documentary nomination; the critics took the case to Letterman and the rules changed months later."
+        },
+        {
+          "title": "Beyond the Valley of the Dolls",
+          "year": 1970,
+          "note": "The showbiz satire Ebert co-wrote; its X rating gave him a personal stake in the fight against the rating."
+        },
+        {
+          "title": "Henry: Portrait of a Serial Killer",
+          "year": 1986,
+          "note": "Released without a rating in 1990, one of the adult films whose limbo exposed the system's flaws before the NC-17 debate."
+        },
+        {
+          "title": "Showgirls",
+          "year": 1995,
+          "note": "The NC-17 rating Ebert lobbied for made a theatrical release for films like this possible, which the critics half-jokingly took credit for."
+        },
+        {
+          "title": "Reservoir Dogs",
+          "year": 1992,
+          "note": "Tarantino's debut. Both critics gave it a thumbs down and stood by that verdict even after Pulp Fiction."
+        },
+        {
+          "title": "Pulp Fiction",
+          "year": 1994,
+          "note": "Ebert's 90s obsession; he held screenings and dissected it the way he did Citizen Kane."
+        },
+        {
+          "title": "Ready to Wear",
+          "year": 1994,
+          "note": "Altman's fashion satire. Producer Harvey Weinstein called to talk Ebert out of a bad review; Ebert wrote the thumbs down anyway."
+        },
+        {
+          "title": "The Color of Money",
+          "year": 1986,
+          "note": "Scorsese's pool drama, an emphatic thumbs down from both despite their admiration for the director."
+        },
+        {
+          "title": "Casino",
+          "year": 1995,
+          "note": "Siskel went negative, saying Scorsese had reached the end of the mob milieu."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The well-made popcorn movies (thumbs up)",
+      "films": [
+        "Die Hard 2",
+        "Speed",
+        "The Fugitive",
+        "Goodfellas",
+        "Unforgiven",
+        "Basic Instinct",
+        "The Last of the Mohicans"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Raging Bull",
+        "My Dinner with Andre",
+        "Glory",
+        "Driving Miss Daisy",
+        "The Right Stuff",
+        "Aliens",
+        "The Terminator",
+        "The Cook, the Thief, His Wife & Her Lover",
+        "Wild Orchid",
+        "Angel Heart",
+        "9½ Weeks",
+        "True Romance",
+        "Natural Born Killers",
+        "Forrest Gump",
+        "Citizen Kane"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Siskel & Ebert",
+      "Sneak Previews",
+      "The Tonight Show",
+      "Late Show with David Letterman",
+      "The Phil Donahue Show",
+      "Murphy Brown",
+      "Married... with Children"
+    ],
+    "Music": [
+      "We Didn't Start the Fire",
+      "2 Live Crew",
+      "Ice-T"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "Netflix / FIFA World Cup Launch Edition",
+      "White Claw"
+    ]
+  },
+  "tmdbOverrides": {
+    "Ready to Wear": 3586,
+    "9½ Weeks": 10068,
+    "Driving Miss Daisy": 403
+  },
+  "tmdb": {
+    "Do the Right Thing": {
+      "id": 925,
+      "poster": "/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+      "title": "Do the Right Thing",
+      "year": 1989
+    },
+    "sex, lies, and videotape": {
+      "id": 1412,
+      "poster": "/pj1uKm07svgXZDHbYE8AzRfNHcu.jpg",
+      "title": "sex, lies, and videotape",
+      "year": 1989
+    },
+    "Boyz n the Hood": {
+      "id": 650,
+      "poster": "/v4ox4aSCNT5vyLXl4Q71JiWwCXW.jpg",
+      "title": "Boyz n the Hood",
+      "year": 1991
+    },
+    "Menace II Society": {
+      "id": 9516,
+      "poster": "/nS7yqmSVeNoH22VXj69JoFCxW1h.jpg",
+      "title": "Menace II Society",
+      "year": 1993
+    },
+    "Crumb": {
+      "id": 26564,
+      "poster": "/9ocTHdBCJdwJ65Tubg3lYlfMxEY.jpg",
+      "title": "Crumb",
+      "year": 1995
+    },
+    "The War Room": {
+      "id": 26408,
+      "poster": "/prfxsyG4SnlnqqulavCJ4RksFUA.jpg",
+      "title": "The War Room",
+      "year": 1993
+    },
+    "One False Move": {
+      "id": 21128,
+      "poster": "/x5xCkGw4jutMcc8nmWLKNzbDKht.jpg",
+      "title": "One False Move",
+      "year": 1992
+    },
+    "Roger & Me": {
+      "id": 1779,
+      "poster": "/ePVEnKOMtrIfHZ6wQBfWihTvwqD.jpg",
+      "title": "Roger & Me",
+      "year": 1989
+    },
+    "Hoop Dreams": {
+      "id": 14275,
+      "poster": "/gLzHl2XBtVwycl8DxdOXRHPm8G3.jpg",
+      "title": "Hoop Dreams",
+      "year": 1994
+    },
+    "Beyond the Valley of the Dolls": {
+      "id": 5722,
+      "poster": "/eslylQSssnNIV4f06fHtfxPTH3I.jpg",
+      "title": "Beyond the Valley of the Dolls",
+      "year": 1970
+    },
+    "Henry: Portrait of a Serial Killer": {
+      "id": 10692,
+      "poster": "/diVMzTarVLgjc3jyODyhZMadfwD.jpg",
+      "title": "Henry: Portrait of a Serial Killer",
+      "year": 1986
+    },
+    "Showgirls": {
+      "id": 10802,
+      "poster": "/o4HT3Ap5c99W4FYpdXUtTvxGgPc.jpg",
+      "title": "Showgirls",
+      "year": 1995
+    },
+    "Reservoir Dogs": {
+      "id": 500,
+      "poster": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+      "title": "Reservoir Dogs",
+      "year": 1992
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "Ready to Wear": {
+      "id": 3586,
+      "poster": "/bb8pq3ap09S4KHsOvflXqoNJdWZ.jpg",
+      "title": "Prêt-à-Porter",
+      "year": 1994
+    },
+    "The Color of Money": {
+      "id": 11873,
+      "poster": "/dVdnHmdQu3JtLAAksjTmTEF76gD.jpg",
+      "title": "The Color of Money",
+      "year": 1986
+    },
+    "Casino": {
+      "id": 524,
+      "poster": "/gziIkUSnYuj9ChCi8qOu2ZunpSC.jpg",
+      "title": "Casino",
+      "year": 1995
+    },
+    "Die Hard 2": {
+      "id": 1573,
+      "poster": "/ybki0UWO3OPhaM6MSniuKC7sy1R.jpg",
+      "title": "Die Hard 2",
+      "year": 1990
+    },
+    "Speed": {
+      "id": 1637,
+      "poster": "/82PkCE4R95KhHICUDF7G4Ly2z3l.jpg",
+      "title": "Speed",
+      "year": 1994
+    },
+    "The Fugitive": {
+      "id": 5503,
+      "poster": "/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg",
+      "title": "The Fugitive",
+      "year": 1993
+    },
+    "Goodfellas": {
+      "id": 769,
+      "poster": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+      "title": "GoodFellas",
+      "year": 1990
+    },
+    "Unforgiven": {
+      "id": 33,
+      "poster": "/54roTwbX9fltg85zjsmrooXAs12.jpg",
+      "title": "Unforgiven",
+      "year": 1992
+    },
+    "Basic Instinct": {
+      "id": 402,
+      "poster": "/76Ts0yoHk8kVQj9MMnoMixhRWoh.jpg",
+      "title": "Basic Instinct",
+      "year": 1992
+    },
+    "The Last of the Mohicans": {
+      "id": 9361,
+      "poster": "/qzJMPWRtZveBkxXOv3ucWhoJuyj.jpg",
+      "title": "The Last of the Mohicans",
+      "year": 1992
+    },
+    "Raging Bull": {
+      "id": 1578,
+      "poster": "/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
+      "title": "Raging Bull",
+      "year": 1980
+    },
+    "My Dinner with Andre": {
+      "id": 25468,
+      "poster": "/nJAn4vkJEX5G3Bsms8UElSTVLlL.jpg",
+      "title": "My Dinner with Andre",
+      "year": 1981
+    },
+    "Glory": {
+      "id": 9665,
+      "poster": "/pGDzBjZvzmSCIEduQBfESLMiwtp.jpg",
+      "title": "Glory",
+      "year": 1989
+    },
+    "Driving Miss Daisy": {
+      "id": 403,
+      "poster": "/iaCzvcY42HihFxQBTZCTKMpsI0P.jpg",
+      "title": "Driving Miss Daisy",
+      "year": 1989
+    },
+    "The Right Stuff": {
+      "id": 9549,
+      "poster": "/btqTjNRxecYgQ1FGfVlLqSSNjz.jpg",
+      "title": "The Right Stuff",
+      "year": 1983
+    },
+    "Aliens": {
+      "id": 679,
+      "poster": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "title": "Aliens",
+      "year": 1986
+    },
+    "The Terminator": {
+      "id": 218,
+      "poster": "/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+      "title": "The Terminator",
+      "year": 1984
+    },
+    "The Cook, the Thief, His Wife & Her Lover": {
+      "id": 7452,
+      "poster": "/15xMqAnFsROopAT66zdRyu2Dtek.jpg",
+      "title": "The Cook, the Thief, His Wife & Her Lover",
+      "year": 1989
+    },
+    "Wild Orchid": {
+      "id": 5203,
+      "poster": "/6UfS8J9Ixn0BAv1aeuAFWom5YEk.jpg",
+      "title": "Wild Orchid",
+      "year": 1989
+    },
+    "Angel Heart": {
+      "id": 635,
+      "poster": "/h5v3wjJQNB7q2RntEnKDLhKtTFE.jpg",
+      "title": "Angel Heart",
+      "year": 1987
+    },
+    "9½ Weeks": {
+      "id": 10068,
+      "poster": "/aE1iunrgO8UHfoXKJcjCy4Ih17n.jpg",
+      "title": "Nine 1/2 Weeks",
+      "year": 1986
+    },
+    "True Romance": {
+      "id": 319,
+      "poster": "/39lXk6ud6KiJgGbbWI2PUKS7y2.jpg",
+      "title": "True Romance",
+      "year": 1993
+    },
+    "Natural Born Killers": {
+      "id": 241,
+      "poster": "/fEKZwT91gxvkAoyPgpNXo8W5fu0.jpg",
+      "title": "Natural Born Killers",
+      "year": 1994
+    },
+    "Forrest Gump": {
+      "id": 13,
+      "poster": "/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
+      "title": "Forrest Gump",
+      "year": 1994
+    },
+    "Citizen Kane": {
+      "id": 15,
+      "poster": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+      "title": "Citizen Kane",
+      "year": 1941
+    }
+  }
+}

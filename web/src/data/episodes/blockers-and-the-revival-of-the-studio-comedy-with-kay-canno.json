@@ -1,0 +1,150 @@
+{
+  "slug": "blockers-and-the-revival-of-the-studio-comedy-with-kay-canno",
+  "title": "'Blockers' and the Revival of the Studio Comedy With Kay Cannon",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2018-04-06",
+  "runtimeMin": 30,
+  "format": "Sean Fennessey talks to Kay Cannon about her directorial debut, Blockers, and where the R-rated studio comedy stands in 2018.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Kay Cannon on",
+      "films": [
+        {
+          "title": "Blockers",
+          "year": 2018,
+          "note": "Cannon's first film as director, after writing all three Pitch Perfect movies. An R-rated comedy about three teen girls' pact to lose their virginity on prom night and the parents chasing them. She kept the butt-chugging and the Marcy/Lisa double-standard argument in over producer notes to cut them."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Studio comedies discussed",
+      "films": [
+        "The Hangover",
+        "American Pie",
+        "Old School",
+        "Game Night",
+        "Stripes",
+        "Girls Trip",
+        "Trainwreck"
+      ]
+    },
+    {
+      "group": "John Hughes touchstones",
+      "films": [
+        "The Breakfast Club",
+        "Weird Science",
+        "Ferris Bueller's Day Off",
+        "Pretty in Pink"
+      ]
+    },
+    {
+      "group": "Cannon also wrote",
+      "films": [
+        "Pitch Perfect"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "30 Rock",
+      "New Girl",
+      "Girlboss",
+      "American Vandal",
+      "The Marvelous Mrs. Maisel"
+    ],
+    "Ads": [
+      "Google Assistant",
+      "Acer Swift 5",
+      "The Ringer Store"
+    ]
+  },
+  "tmdb": {
+    "Blockers": {
+      "id": 437557,
+      "poster": "/uvlUQXg0AlpGzKukO11K7QtW3Yu.jpg",
+      "title": "Blockers",
+      "year": 2018
+    },
+    "The Hangover": {
+      "id": 18785,
+      "poster": "/A0uS9rHR56FeBtpjVki16M5xxSW.jpg",
+      "title": "The Hangover",
+      "year": 2009
+    },
+    "American Pie": {
+      "id": 2105,
+      "poster": "/5P68by2Thn8wHAziyWGEw2O7hco.jpg",
+      "title": "American Pie",
+      "year": 1999
+    },
+    "Old School": {
+      "id": 11635,
+      "poster": "/nYtuwNHpEoIbTgS3aFPSEwZNN6l.jpg",
+      "title": "Old School",
+      "year": 2003
+    },
+    "Game Night": {
+      "id": 445571,
+      "poster": "/85R8LMyn9f2Lev2YPBF8Nughrkv.jpg",
+      "title": "Game Night",
+      "year": 2018
+    },
+    "Stripes": {
+      "id": 10890,
+      "poster": "/vP8tPOgmJSNOh4bpOv1bFjid3rZ.jpg",
+      "title": "Stripes",
+      "year": 1981
+    },
+    "Girls Trip": {
+      "id": 417870,
+      "poster": "/fM1h8CwtdileV3zlemXx7UWJjOP.jpg",
+      "title": "Girls Trip",
+      "year": 2017
+    },
+    "Trainwreck": {
+      "id": 271718,
+      "poster": "/wrY629UTCUAKLJ4CxQXz6DCE7pr.jpg",
+      "title": "Trainwreck",
+      "year": 2015
+    },
+    "The Breakfast Club": {
+      "id": 2108,
+      "poster": "/gp4zlj7wgbiofLMNsTPndMuO3PN.jpg",
+      "title": "The Breakfast Club",
+      "year": 1985
+    },
+    "Weird Science": {
+      "id": 11814,
+      "poster": "/jaEauZd2joSAKn42D83gm3S0y3F.jpg",
+      "title": "Weird Science",
+      "year": 1985
+    },
+    "Ferris Bueller's Day Off": {
+      "id": 9377,
+      "poster": "/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg",
+      "title": "Ferris Bueller's Day Off",
+      "year": 1986
+    },
+    "Pretty in Pink": {
+      "id": 11522,
+      "poster": "/jeFJyzJBufJexpOuywuPp8q2tCJ.jpg",
+      "title": "Pretty in Pink",
+      "year": 1986
+    },
+    "Pitch Perfect": {
+      "id": 114150,
+      "poster": "/gsFoJk9g8W3zgaipRrrURk7LbiF.jpg",
+      "title": "Pitch Perfect",
+      "year": 2012
+    }
+  },
+  "spotifyEpisodeId": "6Oumlen71qCA5dhtfWk86i"
+}

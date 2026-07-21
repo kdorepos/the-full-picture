@@ -1,0 +1,375 @@
+{
+  "slug": "the-failure-of-dark-phoenix-and-the-end-of-x-men-movies-for-",
+  "title": "The Failure of 'Dark Phoenix' and the End of X-Men Movies ... For Now | Exit Survey",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Chris Ryan"
+  ],
+  "published": "2019-06-07",
+  "runtimeMin": 53,
+  "format": "Sean Fennessey and Chris Ryan review 'Dark Phoenix', panned by critics, and use it as an excuse to go through the entire 20-year X-Men franchise: the mismanaged timelines, the actors who outgrew the material, and what Fox's sale to Disney means for whatever comes next.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "'Dark Phoenix'",
+      "films": [
+        {
+          "title": "Dark Phoenix",
+          "year": 2019,
+          "note": "Writer-director Simon Kinberg's debut and the franchise's supposed send-off, savaged by critics (reviews in the 20s on Rotten Tomatoes) for a humorless second act that doesn't match its slapped-on first act or its confusing train-set third act. Sean and Chris single out Jessica Chastain's bizarre villain performance and note Sophie Turner gets blown off the screen playing Jean Grey/Phoenix."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The X-Men Franchise, 20 Years Later",
+      "note": "on the eve of the Disney-Fox merger",
+      "films": [
+        {
+          "title": "X-Men",
+          "year": 2000,
+          "note": "The movie that proved CGI had caught up enough to make a comic book movie work; Sean argues it set the template the MCU would later follow."
+        },
+        {
+          "title": "X2",
+          "year": 2003,
+          "note": "Both hosts call it radical for its time, before Spider-Man or the MCU existed; Chris reads it as a coded story about coming out of the closet."
+        },
+        {
+          "title": "X-Men: The Last Stand",
+          "year": 2006,
+          "note": "Brett Ratner's version, made after Bryan Singer backed out; fuses the Dark Phoenix and 'gifted' storylines and gets more credit from Chris on rewatch than he remembered giving it."
+        },
+        {
+          "title": "X-Men Origins: Wolverine",
+          "year": 2009,
+          "note": "David Benioff's original script got reworked by Skip Woods into more of a straight action movie, one of several times the studio overruled the writer's original take."
+        },
+        {
+          "title": "X-Men: First Class",
+          "year": 2011,
+          "note": "Both call it the series' creative high point: Matthew Vaughn and Jane Goldman's script and a stacked young cast (Fassbender, McAvoy, Lawrence) reset the timeline and the franchise's confidence."
+        },
+        {
+          "title": "X-Men: Days of Future Past",
+          "year": 2014,
+          "note": "Singer's return; Sean argues it could have been a top-five superhero movie had Vaughn stayed on to direct it instead."
+        },
+        {
+          "title": "X-Men: Apocalypse",
+          "year": 2016,
+          "note": "Kinberg's first directing-adjacent writing credit on the series; both note Fassbender and McAvoy are already visibly better than the material by this point."
+        },
+        {
+          "title": "Deadpool",
+          "year": 2016,
+          "note": "The outlier: the one X-Men-adjacent movie in this stretch where a director got to make a specific, funny movie on its own terms."
+        },
+        {
+          "title": "Logan",
+          "year": 2017,
+          "note": "The consensus best of the whole series for both hosts, and, per Chris, the only entry with a consistent tone start to finish, earned by James Mangold and Hugh Jackman fighting for an R rating."
+        },
+        {
+          "title": "The New Mutants",
+          "year": 2020,
+          "note": "Josh Boone's spinoff, already delayed multiple times as of this recording; neither host is confident what role, if any, it'll end up playing."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Comic-book comparisons",
+      "films": [
+        "Batman v Superman: Dawn of Justice",
+        "The Dark Knight",
+        "Batman Begins",
+        "Black Panther",
+        "Captain America: The Winter Soldier",
+        "Captain America: Civil War",
+        "Avengers: Infinity War",
+        "Captain Marvel",
+        "Guardians of the Galaxy",
+        "Suicide Squad",
+        "Fantastic Four"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Terminator 2: Judgment Day",
+        "Mission: Impossible II",
+        "Rounders",
+        "Ready Player One",
+        "Zero Dark Thirty",
+        "Atomic Blonde",
+        "Powder",
+        "Ford v Ferrari",
+        "Always Be My Maybe",
+        "War for the Planet of the Apes",
+        "Heaven's Gate",
+        "The Martian",
+        "The Hunger Games",
+        "Red Sparrow",
+        "Silver Linings Playbook",
+        "Gladiator",
+        "The Empire Strikes Back",
+        "Die Hard"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Game of Thrones",
+      "Chernobyl"
+    ]
+  },
+  "tmdbOverrides": {
+    "Fantastic Four": 166424
+  },
+  "tmdb": {
+    "Dark Phoenix": {
+      "id": 320288,
+      "poster": "/cCTJPelKGLhALq3r51A9uMonxKj.jpg",
+      "title": "Dark Phoenix",
+      "year": 2019
+    },
+    "X-Men": {
+      "id": 36657,
+      "poster": "/bRDAc4GogyS9ci3ow7UnInOcriN.jpg",
+      "title": "X-Men",
+      "year": 2000
+    },
+    "X2": {
+      "id": 36658,
+      "poster": "/bst4alFUXCxISwdRUKSMhhkrX1M.jpg",
+      "title": "X2",
+      "year": 2003
+    },
+    "X-Men: The Last Stand": {
+      "id": 36668,
+      "poster": "/a2xicU8DpKtRizOHjQLC1JyCSRS.jpg",
+      "title": "X-Men: The Last Stand",
+      "year": 2006
+    },
+    "X-Men Origins: Wolverine": {
+      "id": 2080,
+      "poster": "/yj8LbTju1p7CUJg7US2unSBk33s.jpg",
+      "title": "X-Men Origins: Wolverine",
+      "year": 2009
+    },
+    "X-Men: First Class": {
+      "id": 49538,
+      "poster": "/hNEokmUke0dazoBhttFN0o3L7Xv.jpg",
+      "title": "X-Men: First Class",
+      "year": 2011
+    },
+    "X-Men: Days of Future Past": {
+      "id": 127585,
+      "poster": "/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
+      "title": "X-Men: Days of Future Past",
+      "year": 2014
+    },
+    "X-Men: Apocalypse": {
+      "id": 246655,
+      "poster": "/ikA8UhYdTGpqbatFa93nIf6noSr.jpg",
+      "title": "X-Men: Apocalypse",
+      "year": 2016
+    },
+    "Deadpool": {
+      "id": 293660,
+      "poster": "/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
+      "title": "Deadpool",
+      "year": 2016
+    },
+    "Logan": {
+      "id": 263115,
+      "poster": "/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+      "title": "Logan",
+      "year": 2017
+    },
+    "The New Mutants": {
+      "id": 340102,
+      "poster": "/xiDGcXJTvu1lazFRYip6g1eLt9c.jpg",
+      "title": "The New Mutants",
+      "year": 2020
+    },
+    "Batman v Superman: Dawn of Justice": {
+      "id": 209112,
+      "poster": "/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
+      "title": "Batman v Superman: Dawn of Justice",
+      "year": 2016
+    },
+    "The Dark Knight": {
+      "id": 155,
+      "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    "Batman Begins": {
+      "id": 272,
+      "poster": "/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+      "title": "Batman Begins",
+      "year": 2005
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "Captain America: The Winter Soldier": {
+      "id": 100402,
+      "poster": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+      "title": "Captain America: The Winter Soldier",
+      "year": 2014
+    },
+    "Captain America: Civil War": {
+      "id": 271110,
+      "poster": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+      "title": "Captain America: Civil War",
+      "year": 2016
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    },
+    "Captain Marvel": {
+      "id": 299537,
+      "poster": "/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+      "title": "Captain Marvel",
+      "year": 2019
+    },
+    "Guardians of the Galaxy": {
+      "id": 118340,
+      "poster": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "title": "Guardians of the Galaxy",
+      "year": 2014
+    },
+    "Suicide Squad": {
+      "id": 297761,
+      "poster": "/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg",
+      "title": "Suicide Squad",
+      "year": 2016
+    },
+    "Fantastic Four": {
+      "id": 166424,
+      "poster": "/cDroz5qSlP8xZ6tOpeYoPkBvKyL.jpg",
+      "title": "Fantastic Four",
+      "year": 2015
+    },
+    "Terminator 2: Judgment Day": {
+      "id": 280,
+      "poster": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991
+    },
+    "Mission: Impossible II": {
+      "id": 955,
+      "poster": "/hfnrual76gPeNFduhD4xzHWpfTw.jpg",
+      "title": "Mission: Impossible II",
+      "year": 2000
+    },
+    "Rounders": {
+      "id": 10220,
+      "poster": "/mqbMwYGwIChnaCO55h7v8DG8Wwy.jpg",
+      "title": "Rounders",
+      "year": 1998
+    },
+    "Ready Player One": {
+      "id": 333339,
+      "poster": "/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
+      "title": "Ready Player One",
+      "year": 2018
+    },
+    "Zero Dark Thirty": {
+      "id": 97630,
+      "poster": "/wNSdSSxowM3WIqmPJNg3RagYbwP.jpg",
+      "title": "Zero Dark Thirty",
+      "year": 2012
+    },
+    "Atomic Blonde": {
+      "id": 341013,
+      "poster": "/kV9R5h0Yct1kR8Hf8sJ1nX0Vz4x.jpg",
+      "title": "Atomic Blonde",
+      "year": 2017
+    },
+    "Powder": {
+      "id": 12665,
+      "poster": "/aQSA63T7zyzZxBZxr2MQaxt1gtO.jpg",
+      "title": "Powder",
+      "year": 1995
+    },
+    "Ford v Ferrari": {
+      "id": 359724,
+      "poster": "/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+      "title": "Ford v Ferrari",
+      "year": 2019
+    },
+    "Always Be My Maybe": {
+      "id": 513576,
+      "poster": "/3BO6pPa7qDcpPYct061Luh9fvst.jpg",
+      "title": "Always Be My Maybe",
+      "year": 2019
+    },
+    "War for the Planet of the Apes": {
+      "id": 281338,
+      "poster": "/3vYhLLxrTtZLysXtIWktmd57Snv.jpg",
+      "title": "War for the Planet of the Apes",
+      "year": 2017
+    },
+    "Heaven's Gate": {
+      "id": 10935,
+      "poster": "/kW4Vk31nhtKPKGuYMaVATq3wcHC.jpg",
+      "title": "Heaven's Gate",
+      "year": 1980
+    },
+    "The Martian": {
+      "id": 286217,
+      "poster": "/fASz8A0yFE3QB6LgGoOfwvFSseV.jpg",
+      "title": "The Martian",
+      "year": 2015
+    },
+    "The Hunger Games": {
+      "id": 70160,
+      "poster": "/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg",
+      "title": "The Hunger Games",
+      "year": 2012
+    },
+    "Red Sparrow": {
+      "id": 401981,
+      "poster": "/cdefNr6aS00IwVbSlxdFJnfmzKh.jpg",
+      "title": "Red Sparrow",
+      "year": 2018
+    },
+    "Silver Linings Playbook": {
+      "id": 82693,
+      "poster": "/fhHB1uvfFKKFbj6bTKE8xdtsjKi.jpg",
+      "title": "Silver Linings Playbook",
+      "year": 2012
+    },
+    "Gladiator": {
+      "id": 98,
+      "poster": "/wN2xWp1eIwCKOD0BHTcErTBv1Uq.jpg",
+      "title": "Gladiator",
+      "year": 2000
+    },
+    "The Empire Strikes Back": {
+      "id": 1891,
+      "poster": "/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+      "title": "The Empire Strikes Back",
+      "year": 1980
+    },
+    "Die Hard": {
+      "id": 562,
+      "poster": "/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg",
+      "title": "Die Hard",
+      "year": 1988
+    }
+  }
+}

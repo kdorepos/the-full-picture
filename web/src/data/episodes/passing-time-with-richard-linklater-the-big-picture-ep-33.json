@@ -1,0 +1,169 @@
+{
+  "slug": "passing-time-with-richard-linklater-the-big-picture-ep-33",
+  "title": "Passing Time With Richard Linklater | The Big Picture (Ep. 33)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2017-11-10",
+  "runtimeMin": 37,
+  "format": "Sean Fennessey talks to Richard Linklater about Last Flag Flying, his twentieth film, why the passage of time keeps coming back into his work, and the industry reckoning over sexual harassment.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Richard Linklater on",
+      "films": [
+        {
+          "title": "Last Flag Flying",
+          "year": 2017,
+          "note": "His new film: Steve Carell, Bryan Cranston, and Laurence Fishburne as three Vietnam-era friends who reunite in 2003 to bring Carell's son's body home from Iraq. Adapted from Daryl Ponicsan's novel, which he first read in 2005."
+        },
+        {
+          "title": "Dazed and Confused",
+          "year": 1993,
+          "note": "Named in the intro as one of his talky, single-day movies, set on the last day of school."
+        },
+        {
+          "title": "Before Sunrise",
+          "year": 1995,
+          "note": "The other intro touchstone; he and his co-stars keep circling a fourth Before film roughly every nine years without landing on the idea."
+        },
+        {
+          "title": "Boyhood",
+          "year": 2014,
+          "note": "The third intro touchstone, shot over twelve years; comes up again as an idea he sat with for a decade before making it."
+        },
+        {
+          "title": "Born on the Fourth of July",
+          "year": 1989,
+          "note": "His pick for a genuine anti-war movie, credited to Oliver Stone actually having fought in Vietnam."
+        },
+        {
+          "title": "Everybody Wants Some!!",
+          "year": 2016,
+          "note": "The film right before this one, a spiritual sequel to Dazed and Confused. Paramount financed it but barely released it; he says people keep discovering it a year or two late."
+        },
+        {
+          "title": "A Scanner Darkly",
+          "year": 2006,
+          "note": "Cited alongside Boyhood as proof he's found ways to make ambitious, unconventional films on a modest budget."
+        },
+        {
+          "title": "Me and Orson Welles",
+          "year": 2008,
+          "note": "Shot in London with an international cast, set backstage at Orson Welles's 1937 Mercury Theatre. Another one he loves that got buried by bad distribution."
+        },
+        {
+          "title": "Bernie",
+          "year": 2012,
+          "note": "His example of the backhanded compliment: a fan mentioning they just caught it on Showtime, years after the fact."
+        },
+        {
+          "title": "The Dead",
+          "year": 1987,
+          "note": "John Huston's final film, which Linklater is showing in his own film society retrospective. Huston made it while on oxygen for emphysema."
+        }
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "The Dead": 39507
+  },
+  "referenced": [
+    {
+      "group": "Named in passing",
+      "films": [
+        "Star Wars",
+        "Thor"
+      ]
+    },
+    {
+      "group": "Teased for next week",
+      "films": [
+        "Lady Bird"
+      ]
+    }
+  ],
+  "tmdb": {
+    "Last Flag Flying": {
+      "id": 419709,
+      "poster": "/pizynKUzJ9YucGff1O1MYisY1WM.jpg",
+      "title": "Last Flag Flying",
+      "year": 2017
+    },
+    "Dazed and Confused": {
+      "id": 9571,
+      "poster": "/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+      "title": "Dazed and Confused",
+      "year": 1993
+    },
+    "Before Sunrise": {
+      "id": 76,
+      "poster": "/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg",
+      "title": "Before Sunrise",
+      "year": 1995
+    },
+    "Boyhood": {
+      "id": 85350,
+      "poster": "/2BvtvDUyxiMJ4dmKfiQf4qdOHQN.jpg",
+      "title": "Boyhood",
+      "year": 2014
+    },
+    "Born on the Fourth of July": {
+      "id": 2604,
+      "poster": "/c5gSie6ZA90iBs62yNM5MV4y9R7.jpg",
+      "title": "Born on the Fourth of July",
+      "year": 1989
+    },
+    "Everybody Wants Some!!": {
+      "id": 295699,
+      "poster": "/vAIFZ8bw0spSvcIYgfuX99B3H2w.jpg",
+      "title": "Everybody Wants Some!!",
+      "year": 2016
+    },
+    "A Scanner Darkly": {
+      "id": 3509,
+      "poster": "/lUKudOpHICDj6A6SO7DdaZM4W48.jpg",
+      "title": "A Scanner Darkly",
+      "year": 2006
+    },
+    "Me and Orson Welles": {
+      "id": 12404,
+      "poster": "/jU7KFn4O1HLgzj9WkkmBkzJNPlN.jpg",
+      "title": "Me and Orson Welles",
+      "year": 2008
+    },
+    "Bernie": {
+      "id": 92591,
+      "poster": "/rW5CetooG545jpkPNpD4FjFAXfe.jpg",
+      "title": "Bernie",
+      "year": 2012
+    },
+    "The Dead": {
+      "id": 39507,
+      "poster": "/hFLUqiwvvtcUqA5NZNejaaNpTv0.jpg",
+      "title": "The Dead",
+      "year": 1987
+    },
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
+    },
+    "Thor": {
+      "id": 10195,
+      "poster": "/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
+      "title": "Thor",
+      "year": 2011
+    },
+    "Lady Bird": {
+      "id": 391713,
+      "poster": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+      "title": "Lady Bird",
+      "year": 2017
+    }
+  }
+}

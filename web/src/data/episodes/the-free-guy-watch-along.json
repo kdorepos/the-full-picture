@@ -1,0 +1,522 @@
+{
+  "slug": "the-free-guy-watch-along",
+  "title": "The ‘Free Guy’ Watch-along",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2022-03-10",
+  "runtimeMin": 117,
+  "format": "Sean, Amanda, and Chris Ryan watch Free Guy together, arguing about Ryan Reynolds as the Antichrist, Taika Waititi's mugging, and the lightsaber cameo that closes the movie out.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "Free Guy",
+      "note": "Watch-along with Chris Ryan",
+      "films": [
+        {
+          "title": "Free Guy",
+          "year": 2021,
+          "note": "Sean's least favorite of the show's three watch-alongs, behind Zack Snyder's Justice League and Tenet. Amanda and Chris are seeing it cold. Jodie Comer gets the praise; Taika Waititi's mugging gets the blame. By the last act the movie is stuffed with Marvel/Star Wars cameo bait (Captain America's shield, a lightsaber), which the group takes as proof it sold out its own premise about corporate IP eating everything good."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Ryan Reynolds, then and now",
+      "films": [
+        "Waiting...",
+        "National Lampoon's Van Wilder",
+        "Definitely, Maybe",
+        "The Proposal",
+        "Deadpool",
+        "Buried",
+        "Red Notice",
+        "The Adam Project"
+      ]
+    },
+    {
+      "group": "Shawn Levy's filmography",
+      "films": [
+        "Night at the Museum",
+        "Date Night",
+        "The Internship",
+        "This Is Where I Leave You"
+      ]
+    },
+    {
+      "group": "Channing Tatum sightings",
+      "films": [
+        "Dog",
+        "Haywire",
+        "Magic Mike",
+        "21 Jump Street",
+        "22 Jump Street",
+        "The Vow"
+      ]
+    },
+    {
+      "group": "Comps and callbacks",
+      "films": [
+        "Who Framed Roger Rabbit",
+        "The Matrix Resurrections",
+        "Alien",
+        "Rosemary's Baby",
+        "Inception",
+        "Dunkirk",
+        "Avatar: The Way of Water",
+        "Her",
+        "Licorice Pizza",
+        "A Clockwork Orange",
+        "Malcolm X",
+        "The Truman Show",
+        "Spider-Man: No Way Home",
+        "The Martian",
+        "Jerry Maguire",
+        "You've Got Mail",
+        "50 First Dates"
+      ]
+    },
+    {
+      "group": "Cast and crew elsewhere",
+      "films": [
+        "The Last Duel",
+        "Jojo Rabbit",
+        "The Town",
+        "Scream",
+        "The Northman",
+        "Old",
+        "Napoleon",
+        "Shang-Chi and the Legend of the Ten Rings",
+        "Venom: Let There Be Carnage",
+        "The Incredible Hulk",
+        "The Avengers",
+        "Ready Player One",
+        "The Christmas Chronicles",
+        "The Addams Family",
+        "Scoob!"
+      ]
+    },
+    {
+      "group": "Previously on this podcast",
+      "films": [
+        "Zack Snyder's Justice League",
+        "Tenet",
+        "City Slickers",
+        "City Slickers II: The Legend of Curly's Gold",
+        "Casino",
+        "13 Hours: The Secret Soldiers of Benghazi",
+        "JFK",
+        "The Texas Chain Saw Massacre",
+        "House of Gucci"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Stranger Things",
+      "Reservation Dogs",
+      "Westworld",
+      "Euphoria",
+      "Emily in Paris",
+      "Billions",
+      "Yellowstone",
+      "Winning Time",
+      "Call the Midwife",
+      "South Side"
+    ],
+    "Games": [
+      "Grand Theft Auto",
+      "Super Mario Bros.",
+      "The Legend of Zelda",
+      "Mike Tyson's Punch-Out!!",
+      "Metroid",
+      "Mega Man",
+      "Duck Hunt",
+      "GoldenEye 007",
+      "MLB The Show",
+      "FIFA",
+      "Red Dead Redemption",
+      "Fortnite",
+      "FIFA World Cup Launch Edition"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "Netflix (FIFA World Cup Launch Edition)",
+      "FanDuel",
+      "Just Like Us (podcast promo)"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Internship": 116741,
+    "The Last Duel": 617653,
+    "The Addams Family": 481084,
+    "Scream": 646385
+  },
+  "tmdb": {
+    "Free Guy": {
+      "id": 550988,
+      "poster": "/dxraF0qPr1OEgJk17ltQTO84kQF.jpg",
+      "title": "Free Guy",
+      "year": 2021
+    },
+    "Waiting...": {
+      "id": 7553,
+      "poster": "/h3NJDiaaliUH35ApXPu8PFKZwWz.jpg",
+      "title": "Waiting...",
+      "year": 2005
+    },
+    "National Lampoon's Van Wilder": {
+      "id": 11452,
+      "poster": "/4IvM4qnzlo62oLmS54FtyRt54ze.jpg",
+      "title": "National Lampoon's Van Wilder",
+      "year": 2002
+    },
+    "Definitely, Maybe": {
+      "id": 8390,
+      "poster": "/4FuN9nBJ7ttO4BUopJCpT6B0yhH.jpg",
+      "title": "Definitely, Maybe",
+      "year": 2008
+    },
+    "The Proposal": {
+      "id": 18240,
+      "poster": "/6stnAm1wSek8ZrislwK4xGTyCnt.jpg",
+      "title": "The Proposal",
+      "year": 2009
+    },
+    "Deadpool": {
+      "id": 293660,
+      "poster": "/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
+      "title": "Deadpool",
+      "year": 2016
+    },
+    "Buried": {
+      "id": 26388,
+      "poster": "/lQP2sZngXzjh3NDIWzo9OVK5YVh.jpg",
+      "title": "Buried",
+      "year": 2010
+    },
+    "Red Notice": {
+      "id": 512195,
+      "poster": "/lAXONuqg41NwUMuzMiFvicDET9Y.jpg",
+      "title": "Red Notice",
+      "year": 2021
+    },
+    "The Adam Project": {
+      "id": 696806,
+      "poster": "/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg",
+      "title": "The Adam Project",
+      "year": 2022
+    },
+    "Night at the Museum": {
+      "id": 1593,
+      "poster": "/pDsAAYf6Zn0yiAGJ6lYGs6hoZ4E.jpg",
+      "title": "Night at the Museum",
+      "year": 2006
+    },
+    "Date Night": {
+      "id": 35056,
+      "poster": "/9ftaHHJW2IrtnGbazdn5SP8V7Cf.jpg",
+      "title": "Date Night",
+      "year": 2010
+    },
+    "The Internship": {
+      "id": 116741,
+      "poster": "/hIh3ZgsZ31nbUAGn5SKIZGKiKCX.jpg",
+      "title": "The Internship",
+      "year": 2013
+    },
+    "This Is Where I Leave You": {
+      "id": 239678,
+      "poster": "/rVUI2267FdetVWz9UBQbqTmRVhQ.jpg",
+      "title": "This Is Where I Leave You",
+      "year": 2014
+    },
+    "Dog": {
+      "id": 626735,
+      "poster": "/zHQy4h36WwuCetKS7C3wcT1hkgA.jpg",
+      "title": "Dog",
+      "year": 2022
+    },
+    "Haywire": {
+      "id": 70435,
+      "poster": "/c9fJ0dYC30NnE9k2p61c0dqlZqW.jpg",
+      "title": "Haywire",
+      "year": 2011
+    },
+    "Magic Mike": {
+      "id": 77930,
+      "poster": "/cfRv1INLSSumjvxAqEGOP6b0Aw1.jpg",
+      "title": "Magic Mike",
+      "year": 2012
+    },
+    "21 Jump Street": {
+      "id": 64688,
+      "poster": "/8v3Sqv9UcIUC4ebmpKWROqPBINZ.jpg",
+      "title": "21 Jump Street",
+      "year": 2012
+    },
+    "22 Jump Street": {
+      "id": 187017,
+      "poster": "/850chzYHYbT3IISl6Q7dbBuFP2B.jpg",
+      "title": "22 Jump Street",
+      "year": 2014
+    },
+    "The Vow": {
+      "id": 72570,
+      "poster": "/y5GUXzTvt7kSQbdQrSvbYNoa8HB.jpg",
+      "title": "The Vow",
+      "year": 2012
+    },
+    "Who Framed Roger Rabbit": {
+      "id": 856,
+      "poster": "/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg",
+      "title": "Who Framed Roger Rabbit",
+      "year": 1988
+    },
+    "The Matrix Resurrections": {
+      "id": 624860,
+      "poster": "/8c4a8kE7PizaGQQnditMmI1xbRp.jpg",
+      "title": "The Matrix Resurrections",
+      "year": 2021
+    },
+    "Alien": {
+      "id": 348,
+      "poster": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "title": "Alien",
+      "year": 1979
+    },
+    "Rosemary's Baby": {
+      "id": 805,
+      "poster": "/uYgvlHceRFjAFbsNeMInYcLZLUb.jpg",
+      "title": "Rosemary's Baby",
+      "year": 1968
+    },
+    "Inception": {
+      "id": 27205,
+      "poster": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+      "title": "Inception",
+      "year": 2010
+    },
+    "Dunkirk": {
+      "id": 374720,
+      "poster": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "title": "Dunkirk",
+      "year": 2017
+    },
+    "Avatar: The Way of Water": {
+      "id": 76600,
+      "poster": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "title": "Avatar: The Way of Water",
+      "year": 2022
+    },
+    "Her": {
+      "id": 152601,
+      "poster": "/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg",
+      "title": "Her",
+      "year": 2013
+    },
+    "Licorice Pizza": {
+      "id": 718032,
+      "poster": "/ivXtvzfliGvoJ1DhSHIGyYBToWe.jpg",
+      "title": "Licorice Pizza",
+      "year": 2021
+    },
+    "A Clockwork Orange": {
+      "id": 185,
+      "poster": "/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+      "title": "A Clockwork Orange",
+      "year": 1971
+    },
+    "Malcolm X": {
+      "id": 1883,
+      "poster": "/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
+      "title": "Malcolm X",
+      "year": 1992
+    },
+    "The Truman Show": {
+      "id": 37165,
+      "poster": "/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+      "title": "The Truman Show",
+      "year": 1998
+    },
+    "Spider-Man: No Way Home": {
+      "id": 634649,
+      "poster": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "title": "Spider-Man: No Way Home",
+      "year": 2021
+    },
+    "The Martian": {
+      "id": 286217,
+      "poster": "/fASz8A0yFE3QB6LgGoOfwvFSseV.jpg",
+      "title": "The Martian",
+      "year": 2015
+    },
+    "Jerry Maguire": {
+      "id": 9390,
+      "poster": "/lABvGN7fDk5ifnwZoxij6G96t2w.jpg",
+      "title": "Jerry Maguire",
+      "year": 1996
+    },
+    "You've Got Mail": {
+      "id": 9489,
+      "poster": "/e2uVtH6TpMfUl7WeOM70ezkcjsU.jpg",
+      "title": "You've Got Mail",
+      "year": 1998
+    },
+    "50 First Dates": {
+      "id": 1824,
+      "poster": "/lzUI2Cg7OMfcUNv3f7MywYNBjs6.jpg",
+      "title": "50 First Dates",
+      "year": 2004
+    },
+    "The Last Duel": {
+      "id": 617653,
+      "poster": "/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg",
+      "title": "The Last Duel",
+      "year": 2021
+    },
+    "Jojo Rabbit": {
+      "id": 515001,
+      "poster": "/1mqL7VG4Ix8wmxwypmCA1HTHBky.jpg",
+      "title": "Jojo Rabbit",
+      "year": 2019
+    },
+    "The Town": {
+      "id": 23168,
+      "poster": "/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
+      "title": "The Town",
+      "year": 2010
+    },
+    "Scream": {
+      "id": 646385,
+      "poster": "/nD4M4Bx457ryLuKYpxFwQ2IBJ5w.jpg",
+      "title": "Scream",
+      "year": 2022
+    },
+    "The Northman": {
+      "id": 639933,
+      "poster": "/aSSJMnHknzKjlZ6zybwD7eyJ4Po.jpg",
+      "title": "The Northman",
+      "year": 2022
+    },
+    "Old": {
+      "id": 631843,
+      "poster": "/vclShucpUmPhdAOmKgf3B3Z4POD.jpg",
+      "title": "Old",
+      "year": 2021
+    },
+    "Napoleon": {
+      "id": 753342,
+      "poster": "/ytFOXyghxLzAM4KZyazDdEkM66q.jpg",
+      "title": "Napoleon",
+      "year": 2023
+    },
+    "Shang-Chi and the Legend of the Ten Rings": {
+      "id": 566525,
+      "poster": "/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "year": 2021
+    },
+    "Venom: Let There Be Carnage": {
+      "id": 580489,
+      "poster": "/pzKsRuKLFmYrW5Q0q8E8G78Tcgo.jpg",
+      "title": "Venom: Let There Be Carnage",
+      "year": 2021
+    },
+    "The Incredible Hulk": {
+      "id": 1724,
+      "poster": "/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
+      "title": "The Incredible Hulk",
+      "year": 2008
+    },
+    "The Avengers": {
+      "id": 24428,
+      "poster": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "title": "The Avengers",
+      "year": 2012
+    },
+    "Ready Player One": {
+      "id": 333339,
+      "poster": "/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
+      "title": "Ready Player One",
+      "year": 2018
+    },
+    "The Christmas Chronicles": {
+      "id": 527435,
+      "poster": "/5Il2EMSF2KecrUKZPuen6BZmaCP.jpg",
+      "title": "The Christmas Chronicles",
+      "year": 2018
+    },
+    "The Addams Family": {
+      "id": 481084,
+      "poster": "/q1epO0eO8DWu8Vo8tPfvVlzW48T.jpg",
+      "title": "The Addams Family",
+      "year": 2019
+    },
+    "Scoob!": {
+      "id": 385103,
+      "poster": "/jHo2M1OiH9Re33jYtUQdfzPeUkx.jpg",
+      "title": "Scoob!",
+      "year": 2020
+    },
+    "Zack Snyder's Justice League": {
+      "id": 791373,
+      "poster": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+      "title": "Zack Snyder's Justice League",
+      "year": 2021
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "City Slickers": {
+      "id": 1406,
+      "poster": "/9DVZpm9pQNB3M17cRo752zqUYhL.jpg",
+      "title": "City Slickers",
+      "year": 1991
+    },
+    "City Slickers II: The Legend of Curly's Gold": {
+      "id": 11310,
+      "poster": "/gh0lsyJARglhpbKmnY8i8M7V5bI.jpg",
+      "title": "City Slickers II: The Legend of Curly's Gold",
+      "year": 1994
+    },
+    "Casino": {
+      "id": 524,
+      "poster": "/gziIkUSnYuj9ChCi8qOu2ZunpSC.jpg",
+      "title": "Casino",
+      "year": 1995
+    },
+    "13 Hours: The Secret Soldiers of Benghazi": {
+      "id": 300671,
+      "poster": "/fZlAxZMo6BId1SiqyjLmkd7oUB7.jpg",
+      "title": "13 Hours: The Secret Soldiers of Benghazi",
+      "year": 2016
+    },
+    "JFK": {
+      "id": 820,
+      "poster": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+      "title": "JFK",
+      "year": 1991
+    },
+    "The Texas Chain Saw Massacre": {
+      "id": 30497,
+      "poster": "/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg",
+      "title": "The Texas Chain Saw Massacre",
+      "year": 1974
+    },
+    "House of Gucci": {
+      "id": 644495,
+      "poster": "/oJCQjD2byiVF1EG408F9dBn9ndU.jpg",
+      "title": "House of Gucci",
+      "year": 2021
+    }
+  }
+}

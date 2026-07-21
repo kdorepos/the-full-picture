@@ -1,0 +1,260 @@
+{
+  "slug": "3-the-thumbs-gene-and-roger",
+  "title": "3. “The Thumbs” | Gene and Roger",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Brian Raftery"
+  ],
+  "published": "2021-07-27",
+  "runtimeMin": 27,
+  "format": "Brian Raftery's Siskel-and-Ebert history reaches 1982: the SNL cameo, the jump from PBS's Sneak Previews to syndicated At the Movies, and the debut of thumbs up / thumbs down.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "From Sneak Previews to the thumbs",
+      "films": [
+        {
+          "title": "Swamp Thing",
+          "year": 1982,
+          "note": "Used to show how the critics championed movies their colleagues dismissed. A monster-movie review on PBS, with Ebert calling the comic-book flick terrific."
+        },
+        {
+          "title": "Apocalypse Now",
+          "year": 1979,
+          "note": "A clip of the two arguing it out, praising the scale and the Sheen and Duvall performances; Gene later changed his mind, and they eventually devoted a whole special to Vietnam movies."
+        },
+        {
+          "title": "E.T. the Extra-Terrestrial",
+          "year": 1982,
+          "note": "The film big enough that Justin Lin's father closed the family fish-and-chips shop early to take the kids to a 10 p.m. show at Cerritos Mall."
+        },
+        {
+          "title": "Mr. Mom",
+          "year": 1983,
+          "note": "Lin remembers Siskel and Ebert reviewing it and wondering aloud what it would be like with the guy from Splash, before Tom Hanks was Tom Hanks."
+        },
+        {
+          "title": "Splash",
+          "year": 1984,
+          "note": "Invoked in that same review as the Tom Hanks calling card, the moment Lin first grasped that movies get cast."
+        },
+        {
+          "title": "99 Homes",
+          "year": 2014,
+          "note": "One of Ramin Bahrani's films; as a kid in Winston-Salem he learned about independent and foreign movies from the show."
+        },
+        {
+          "title": "The White Tiger",
+          "year": 2021,
+          "note": "Bahrani's later film, cited alongside 99 Homes to place the director whose film education ran through Siskel and Ebert."
+        },
+        {
+          "title": "Better Luck Tomorrow",
+          "year": 2002,
+          "note": "Justin Lin's breakout, the first film named in his path from watching the critics to directing."
+        },
+        {
+          "title": "Fast Five",
+          "year": 2011,
+          "note": "Lin's Fast entry, singled out as the one where they drag the safe through Rio."
+        },
+        {
+          "title": "F9",
+          "year": 2021,
+          "note": "Lin's then-current Fast film, released the same summer this episode aired."
+        },
+        {
+          "title": "Strange Brew",
+          "year": 1983,
+          "note": "The comedy that asked Gene and Roger to play themselves; they declined."
+        },
+        {
+          "title": "Terms of Endearment",
+          "year": 1983,
+          "note": "Two thumbs up on At the Movies, the segment used to introduce the new thumbs-up / thumbs-down verdict."
+        },
+        {
+          "title": "Twilight Zone: The Movie",
+          "year": 1983,
+          "note": "A close split in the same reel: a marginal thumbs up from Gene, a close thumbs down from Roger."
+        },
+        {
+          "title": "Psycho II",
+          "year": 1983,
+          "note": "Two downturned thumbs, dismissed as a well-made but weak carbon copy of the Hitchcock original."
+        },
+        {
+          "title": "Three Amigos",
+          "year": 1986,
+          "note": "Roger panned it on Carson with Chevy Chase sitting right next to him, proof of how much weight the thumbs now carried."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The era's vital mainstream movies (named in passing)",
+      "films": [
+        "Raging Bull",
+        "Ordinary People",
+        "Kramer vs. Kramer",
+        "Richard Pryor: Live on the Sunset Strip"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Seems Like Old Times"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Saturday Night Live",
+      "Sneak Previews",
+      "At the Movies",
+      "Late Night with David Letterman",
+      "The Tonight Show with Johnny Carson",
+      "Masterpiece Theatre",
+      "Kennedy Center Honors",
+      "The Benny Hill Show",
+      "Cheers",
+      "Hill Street Blues",
+      "Pardon the Interruption"
+    ],
+    "Games": [
+      "FIFA World Cup Launch Edition"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "Netflix",
+      "White Claw"
+    ]
+  },
+  "tmdbOverrides": {
+    "Psycho II": 10576
+  },
+  "tmdb": {
+    "Swamp Thing": {
+      "id": 17918,
+      "poster": "/7BGaE9A7UeyxH29aeFbQfzEmIi0.jpg",
+      "title": "Swamp Thing",
+      "year": 1982
+    },
+    "Apocalypse Now": {
+      "id": 28,
+      "poster": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "title": "Apocalypse Now",
+      "year": 1979
+    },
+    "E.T. the Extra-Terrestrial": {
+      "id": 601,
+      "poster": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+      "title": "E.T. the Extra-Terrestrial",
+      "year": 1982
+    },
+    "Mr. Mom": {
+      "id": 13105,
+      "poster": "/QuTlgKKykL7j0PnZZd3LNFVhCX.jpg",
+      "title": "Mr. Mom",
+      "year": 1983
+    },
+    "Splash": {
+      "id": 2619,
+      "poster": "/7FutTsMWBwVhjk1Ujf1wtndUVZh.jpg",
+      "title": "Splash",
+      "year": 1984
+    },
+    "99 Homes": {
+      "id": 283235,
+      "poster": "/6Zul5Spndok1WriSMfiyQFbAyLY.jpg",
+      "title": "99 Homes",
+      "year": 2015
+    },
+    "The White Tiger": {
+      "id": 628534,
+      "poster": "/5JnmseS3DZ6ad2VMbrnbGCs8Rst.jpg",
+      "title": "The White Tiger",
+      "year": 2021
+    },
+    "Better Luck Tomorrow": {
+      "id": 14290,
+      "poster": "/alJULQQnuiYXjgVmj2EYgwXOcIn.jpg",
+      "title": "Better Luck Tomorrow",
+      "year": 2003
+    },
+    "Fast Five": {
+      "id": 51497,
+      "poster": "/gEfQjjQwY7fh5bI4GlG0RrBu7Pz.jpg",
+      "title": "Fast Five",
+      "year": 2011
+    },
+    "F9": {
+      "id": 385128,
+      "poster": "/deEmLILTPejEb6OGsXRJ5MCvyDW.jpg",
+      "title": "F9",
+      "year": 2021
+    },
+    "Strange Brew": {
+      "id": 12921,
+      "poster": "/rScplcvRHX7o7XK88SFb5mddo8y.jpg",
+      "title": "Strange Brew",
+      "year": 1983
+    },
+    "Terms of Endearment": {
+      "id": 11050,
+      "poster": "/l77DRjJuykqKMtD9GTK4YT7qKHW.jpg",
+      "title": "Terms of Endearment",
+      "year": 1983
+    },
+    "Twilight Zone: The Movie": {
+      "id": 15301,
+      "poster": "/sDWARc5aYTUKE8Y2FIGVgWXuI4K.jpg",
+      "title": "Twilight Zone: The Movie",
+      "year": 1983
+    },
+    "Psycho II": {
+      "id": 10576,
+      "poster": "/sJAPRj3vHmjV4z97YK84iDovYlm.jpg",
+      "title": "Psycho II",
+      "year": 1983
+    },
+    "Three Amigos": {
+      "id": 8388,
+      "poster": "/dUNRnhl2cwjFJ6TOsaPJmZeMZ0S.jpg",
+      "title": "¡Three Amigos!",
+      "year": 1986
+    },
+    "Raging Bull": {
+      "id": 1578,
+      "poster": "/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
+      "title": "Raging Bull",
+      "year": 1980
+    },
+    "Ordinary People": {
+      "id": 16619,
+      "poster": "/tJVETEDAKgD3fEh88SHOvMvOQue.jpg",
+      "title": "Ordinary People",
+      "year": 1980
+    },
+    "Kramer vs. Kramer": {
+      "id": 12102,
+      "poster": "/3CUP5V5SWfHSK4qvkZF7lMNyugY.jpg",
+      "title": "Kramer vs. Kramer",
+      "year": 1979
+    },
+    "Richard Pryor: Live on the Sunset Strip": {
+      "id": 21923,
+      "poster": "/rK9eAYCr68dwv1mw4weaJu6Lx3W.jpg",
+      "title": "Richard Pryor: Live on the Sunset Strip",
+      "year": 1982
+    },
+    "Seems Like Old Times": {
+      "id": 28124,
+      "poster": "/mT6l2TO3kbeG7olZV5Zmd8MqSh8.jpg",
+      "title": "Seems Like Old Times",
+      "year": 1980
+    }
+  }
+}

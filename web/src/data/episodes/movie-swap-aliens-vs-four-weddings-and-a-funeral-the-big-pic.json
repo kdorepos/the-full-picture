@@ -1,0 +1,635 @@
+{
+  "slug": "movie-swap-aliens-vs-four-weddings-and-a-funeral-the-big-pic",
+  "title": "Movie Swap: 'Aliens' vs. 'Four Weddings and a Funeral'",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2020-04-07",
+  "runtimeMin": 110,
+  "format": "Sean and Amanda's second movie swap: he assigns her James Cameron's Aliens, she gives him Four Weddings and a Funeral. Recorded during the March 2020 shutdown, so it opens on the emptied release calendar and what it does to the Oscars.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The Swap: 'Aliens'",
+      "note": "Sean's pick",
+      "films": [
+        {
+          "title": "Aliens",
+          "year": 1986,
+          "note": "Sean's pick and, by his reckoning, Cameron's best. He frames it as a war movie in the mold of The Dirty Dozen, not a horror one. Amanda watched it for the first time, respected the craft, but found the dark, gun-heavy chaos a grueling sit. Nominated for seven Oscars, including Sigourney Weaver for Best Actress."
+        },
+        {
+          "title": "Alien",
+          "year": 1979,
+          "note": "Ridley Scott's original, which both had seen. Amanda's point of comparison: the first film's fear is existential and unseen, where the sequel shows you dozens of xenomorphs."
+        },
+        {
+          "title": "Alien³",
+          "year": 1992,
+          "note": "David Fincher's directorial debut; Sean calls it a fascinating watch and a career-altering nightmare to make."
+        },
+        {
+          "title": "Alien Resurrection",
+          "year": 1997,
+          "note": "Sean finds it borderline unwatchable and won't recommend it."
+        },
+        {
+          "title": "Prometheus",
+          "year": 2012,
+          "note": "An object of obsession for Sean even though he doesn't think it's good; Amanda saw it in theaters and liked its more cerebral bent."
+        },
+        {
+          "title": "Alien: Covenant",
+          "year": 2017,
+          "note": "The last film in the franchise. Sean says it matches Aliens only in how disgusting it is."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The Swap: 'Four Weddings and a Funeral'",
+      "note": "Amanda's pick",
+      "films": [
+        {
+          "title": "Four Weddings and a Funeral",
+          "year": 1994,
+          "note": "Amanda's pick, and she's stunned Sean had never seen it. Written by Richard Curtis, directed by Mike Newell; the breakout that minted Hugh Grant and, on a $4.4M budget, became the highest-grossing British film of its moment. R-rated and bawdier than the rom-coms it spawned. Sean was won over: the John Hannah funeral eulogy (Auden's 'Funeral Blues') is the scene that got him."
+        },
+        {
+          "title": "Notting Hill",
+          "year": 1999,
+          "note": "Amanda's dissent: she calls it a masterpiece and the accessible 'studio version' of Four Weddings, even if not quite as good."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The shutdown release calendar",
+      "films": [
+        "Top Gun: Maverick",
+        "Soul",
+        "Tenet",
+        "The French Dispatch",
+        "The Green Knight",
+        "Mank",
+        "Da 5 Bloods",
+        "The Irishman",
+        "Venom: Let There Be Carnage",
+        "Black Widow",
+        "Eternals",
+        "Onward"
+      ]
+    },
+    {
+      "group": "Movie memories & last year's swap",
+      "films": [
+        "Mission: Impossible - Fallout",
+        "Spider-Man: Into the Spider-Verse"
+      ]
+    },
+    {
+      "group": "James Cameron's other films",
+      "films": [
+        "The Terminator",
+        "Terminator 2: Judgment Day",
+        "Titanic",
+        "Avatar",
+        "True Lies",
+        "The Abyss",
+        "Piranha II: The Spawning",
+        "Piranha"
+      ]
+    },
+    {
+      "group": "Aliens' action lineage",
+      "films": [
+        "RoboCop",
+        "Blade Runner",
+        "The Running Man",
+        "Full Metal Jacket",
+        "Total Recall",
+        "Die Hard",
+        "The Matrix",
+        "The Raid",
+        "The Bourne Identity",
+        "Seven Samurai",
+        "Bad Boys",
+        "Jaws",
+        "The Dirty Dozen",
+        "The Godfather Part II",
+        "Stray Dog"
+      ]
+    },
+    {
+      "group": "Weaver's 1986 Best Actress rivals",
+      "films": [
+        "Peggy Sue Got Married",
+        "Crimes of the Heart",
+        "The Morning After",
+        "Children of a Lesser God"
+      ]
+    },
+    {
+      "group": "Richard Curtis & Hugh Grant",
+      "films": [
+        "Love Actually",
+        "Bridget Jones's Diary",
+        "Bridget Jones: The Edge of Reason",
+        "About Time",
+        "Yesterday",
+        "War Horse",
+        "Maurice",
+        "Bitter Moon",
+        "The Remains of the Day",
+        "Sense and Sensibility",
+        "Mickey Blue Eyes",
+        "Two Weeks Notice",
+        "About a Boy",
+        "American Dreamz",
+        "Music and Lyrics",
+        "Did You Hear About the Morgans?",
+        "Nine Months",
+        "Sleepless in Seattle"
+      ]
+    },
+    {
+      "group": "The 1995 Best Picture field",
+      "films": [
+        "Forrest Gump",
+        "Pulp Fiction",
+        "Quiz Show",
+        "The Shawshank Redemption"
+      ]
+    },
+    {
+      "group": "Andie MacDowell elsewhere",
+      "films": [
+        "Sex, Lies, and Videotape",
+        "Groundhog Day"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "The French Dispatch": 542178,
+    "RoboCop": 5548,
+    "The Running Man": 865,
+    "Stray Dog": 30368
+  },
+  "excluded": {
+    "TV": [
+      "Mad About You",
+      "Downton Abbey",
+      "The Hour",
+      "Blackadder",
+      "Mr. Bean",
+      "Four Weddings and a Funeral (Hulu series)"
+    ],
+    "Ads": [
+      "Spotify"
+    ]
+  },
+  "tmdb": {
+    "Aliens": {
+      "id": 679,
+      "poster": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "title": "Aliens",
+      "year": 1986
+    },
+    "Alien": {
+      "id": 348,
+      "poster": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "title": "Alien",
+      "year": 1979
+    },
+    "Alien³": {
+      "id": 8077,
+      "poster": "/xh5wI0UoW7DfS1IyLy3d2CgrCEP.jpg",
+      "title": "Alien³",
+      "year": 1992
+    },
+    "Alien Resurrection": {
+      "id": 8078,
+      "poster": "/9aRDMlU5Zwpysilm0WCWzU2PCFv.jpg",
+      "title": "Alien Resurrection",
+      "year": 1997
+    },
+    "Prometheus": {
+      "id": 70981,
+      "poster": "/qsYQflQhOuhDpQ0W2aOcwqgDAeI.jpg",
+      "title": "Prometheus",
+      "year": 2012
+    },
+    "Alien: Covenant": {
+      "id": 126889,
+      "poster": "/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg",
+      "title": "Alien: Covenant",
+      "year": 2017
+    },
+    "Four Weddings and a Funeral": {
+      "id": 712,
+      "poster": "/qa72G2VS0bpxms6yo0tI9vsHm2e.jpg",
+      "title": "Four Weddings and a Funeral",
+      "year": 1994
+    },
+    "Notting Hill": {
+      "id": 509,
+      "poster": "/hHRIf2XHeQMbyRb3HUx19SF5Ujw.jpg",
+      "title": "Notting Hill",
+      "year": 1999
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Soul": {
+      "id": 508442,
+      "poster": "/6jmppcaubzLF8wkXM36ganVISCo.jpg",
+      "title": "Soul",
+      "year": 2020
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "The French Dispatch": {
+      "id": 542178,
+      "poster": "/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg",
+      "title": "The French Dispatch of the Liberty, Kansas Evening Sun",
+      "year": 2021
+    },
+    "The Green Knight": {
+      "id": 559907,
+      "poster": "/if4hw3Ou5Sav9Em7WWHj66mnywp.jpg",
+      "title": "The Green Knight",
+      "year": 2021
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "Da 5 Bloods": {
+      "id": 581859,
+      "poster": "/yx4cp1ljJMDSFeEex0Zjv45b55E.jpg",
+      "title": "Da 5 Bloods",
+      "year": 2020
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Venom: Let There Be Carnage": {
+      "id": 580489,
+      "poster": "/pzKsRuKLFmYrW5Q0q8E8G78Tcgo.jpg",
+      "title": "Venom: Let There Be Carnage",
+      "year": 2021
+    },
+    "Black Widow": {
+      "id": 497698,
+      "poster": "/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+      "title": "Black Widow",
+      "year": 2021
+    },
+    "Eternals": {
+      "id": 524434,
+      "poster": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+      "title": "Eternals",
+      "year": 2021
+    },
+    "Onward": {
+      "id": 508439,
+      "poster": "/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg",
+      "title": "Onward",
+      "year": 2020
+    },
+    "Mission: Impossible - Fallout": {
+      "id": 353081,
+      "poster": "/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+      "title": "Mission: Impossible - Fallout",
+      "year": 2018
+    },
+    "Spider-Man: Into the Spider-Verse": {
+      "id": 324857,
+      "poster": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018
+    },
+    "The Terminator": {
+      "id": 218,
+      "poster": "/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+      "title": "The Terminator",
+      "year": 1984
+    },
+    "Terminator 2: Judgment Day": {
+      "id": 280,
+      "poster": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "Avatar": {
+      "id": 19995,
+      "poster": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "title": "Avatar",
+      "year": 2009
+    },
+    "True Lies": {
+      "id": 36955,
+      "poster": "/pweFTnzzTfGK68woSVkiTgjLzWm.jpg",
+      "title": "True Lies",
+      "year": 1994
+    },
+    "The Abyss": {
+      "id": 2756,
+      "poster": "/2dCit3XAtv9KWCJvRKdPkJ0FAkH.jpg",
+      "title": "The Abyss",
+      "year": 1989
+    },
+    "Piranha II: The Spawning": {
+      "id": 31646,
+      "poster": "/rbcbLYbhc8ZmQmNHAt8E8knij88.jpg",
+      "title": "Piranha II: The Spawning",
+      "year": 1982
+    },
+    "Piranha": {
+      "id": 24831,
+      "poster": "/oaz0Le3fT3R8jzlkXkNV7JAsd7x.jpg",
+      "title": "Piranha",
+      "year": 1978
+    },
+    "RoboCop": {
+      "id": 5548,
+      "poster": "/esmAU0fCO28FbS6bUBKLAzJrohZ.jpg",
+      "title": "RoboCop",
+      "year": 1987
+    },
+    "Blade Runner": {
+      "id": 78,
+      "poster": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+      "title": "Blade Runner",
+      "year": 1982
+    },
+    "The Running Man": {
+      "id": 865,
+      "poster": "/GTAUOhO4BN0peJVvxGEQydJvUO.jpg",
+      "title": "The Running Man",
+      "year": 1987
+    },
+    "Full Metal Jacket": {
+      "id": 600,
+      "poster": "/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+      "title": "Full Metal Jacket",
+      "year": 1987
+    },
+    "Total Recall": {
+      "id": 861,
+      "poster": "/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
+      "title": "Total Recall",
+      "year": 1990
+    },
+    "Die Hard": {
+      "id": 562,
+      "poster": "/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg",
+      "title": "Die Hard",
+      "year": 1988
+    },
+    "The Matrix": {
+      "id": 603,
+      "poster": "/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+      "title": "The Matrix",
+      "year": 1999
+    },
+    "The Raid": {
+      "id": 94329,
+      "poster": "/Abnm1Ws3JH0ReCfEhLMPwPcMcGO.jpg",
+      "title": "The Raid",
+      "year": 2012
+    },
+    "The Bourne Identity": {
+      "id": 2501,
+      "poster": "/aP8swke3gmowbkfZ6lmNidu0y9p.jpg",
+      "title": "The Bourne Identity",
+      "year": 2002
+    },
+    "Seven Samurai": {
+      "id": 346,
+      "poster": "/lOMGc8bnSwQhS4XyE1S99uH8NXf.jpg",
+      "title": "Seven Samurai",
+      "year": 1954
+    },
+    "Bad Boys": {
+      "id": 9737,
+      "poster": "/x1ygBecKHfXX4M2kRhmFKWfWbJc.jpg",
+      "title": "Bad Boys",
+      "year": 1995
+    },
+    "Jaws": {
+      "id": 578,
+      "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "title": "Jaws",
+      "year": 1975
+    },
+    "The Dirty Dozen": {
+      "id": 1654,
+      "poster": "/tFWWsuhp22zJ6OG6QepJIiPUfeF.jpg",
+      "title": "The Dirty Dozen",
+      "year": 1967
+    },
+    "The Godfather Part II": {
+      "id": 240,
+      "poster": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+      "title": "The Godfather Part II",
+      "year": 1974
+    },
+    "Stray Dog": {
+      "id": 30368,
+      "poster": "/riBzUgeYawBDi2q9PjARjHrQM7Z.jpg",
+      "title": "Stray Dog",
+      "year": 1949
+    },
+    "Peggy Sue Got Married": {
+      "id": 10013,
+      "poster": "/tfuQcvQmURiMqB2VPwytU3cPpEm.jpg",
+      "title": "Peggy Sue Got Married",
+      "year": 1986
+    },
+    "Crimes of the Heart": {
+      "id": 48259,
+      "poster": "/lg8npIjYrO0f4UsuNwWwd1TQhW6.jpg",
+      "title": "Crimes of the Heart",
+      "year": 1986
+    },
+    "The Morning After": {
+      "id": 31924,
+      "poster": "/kxuR1RpAUWRHKzCwbjg2bw6RTGI.jpg",
+      "title": "The Morning After",
+      "year": 1986
+    },
+    "Children of a Lesser God": {
+      "id": 1890,
+      "poster": "/yAiJlASIXC306qpqe5NZX2GgVlQ.jpg",
+      "title": "Children of a Lesser God",
+      "year": 1986
+    },
+    "Love Actually": {
+      "id": 508,
+      "poster": "/7QPeVsr9rcFU9Gl90yg0gTOTpVv.jpg",
+      "title": "Love Actually",
+      "year": 2003
+    },
+    "Bridget Jones's Diary": {
+      "id": 634,
+      "poster": "/olMTi7uCaec9Yr3Ar07D2SIja1G.jpg",
+      "title": "Bridget Jones's Diary",
+      "year": 2001
+    },
+    "Bridget Jones: The Edge of Reason": {
+      "id": 9801,
+      "poster": "/zDthRXkGnwFIWI0zWcJyS7h6lUl.jpg",
+      "title": "Bridget Jones: The Edge of Reason",
+      "year": 2004
+    },
+    "About Time": {
+      "id": 122906,
+      "poster": "/ls6zswrOZVhCXQBh96DlbnLBajM.jpg",
+      "title": "About Time",
+      "year": 2013
+    },
+    "Yesterday": {
+      "id": 515195,
+      "poster": "/9fYka5CQt9nrb6LOtKicysUf9NA.jpg",
+      "title": "Yesterday",
+      "year": 2019
+    },
+    "War Horse": {
+      "id": 57212,
+      "poster": "/3aRHhvvngFPJFy5uAjo7GVr3PhL.jpg",
+      "title": "War Horse",
+      "year": 2011
+    },
+    "Maurice": {
+      "id": 26371,
+      "poster": "/8HhCyxxzoUqEBmVGK25Jq69LhVo.jpg",
+      "title": "Maurice",
+      "year": 1987
+    },
+    "Bitter Moon": {
+      "id": 10497,
+      "poster": "/bW7E4cLWh0elRRbp2VCrtXrY1if.jpg",
+      "title": "Bitter Moon",
+      "year": 1992
+    },
+    "The Remains of the Day": {
+      "id": 1245,
+      "poster": "/uDGDtqSvuch324WnM7Ukdp1bCAQ.jpg",
+      "title": "The Remains of the Day",
+      "year": 1993
+    },
+    "Sense and Sensibility": {
+      "id": 4584,
+      "poster": "/9YdQ73YmvInxpXZVNjEKePw9tRO.jpg",
+      "title": "Sense and Sensibility",
+      "year": 1995
+    },
+    "Mickey Blue Eyes": {
+      "id": 10154,
+      "poster": "/gEnKsStQ27P0KCCIGtkYwvFQ0RX.jpg",
+      "title": "Mickey Blue Eyes",
+      "year": 1999
+    },
+    "Two Weeks Notice": {
+      "id": 2642,
+      "poster": "/r18hSGAcxWiUysbX6nFShIZyjjP.jpg",
+      "title": "Two Weeks Notice",
+      "year": 2002
+    },
+    "About a Boy": {
+      "id": 245,
+      "poster": "/qoZ1bD0q9EFqcNiEYbEigsRcNCt.jpg",
+      "title": "About a Boy",
+      "year": 2002
+    },
+    "American Dreamz": {
+      "id": 9310,
+      "poster": "/qwRbRvfJR7jjsaGfS741Tl3DRr7.jpg",
+      "title": "American Dreamz",
+      "year": 2006
+    },
+    "Music and Lyrics": {
+      "id": 11172,
+      "poster": "/1WXVpnovC0EETbqcjVhy3hwIITK.jpg",
+      "title": "Music and Lyrics",
+      "year": 2007
+    },
+    "Did You Hear About the Morgans?": {
+      "id": 24438,
+      "poster": "/zNRLfwUGKaSQEDvOKlIOLGn8qRk.jpg",
+      "title": "Did You Hear About the Morgans?",
+      "year": 2009
+    },
+    "Nine Months": {
+      "id": 11472,
+      "poster": "/y3VwPenHpiuIGb0fhgyt7PXZKLB.jpg",
+      "title": "Nine Months",
+      "year": 1995
+    },
+    "Sleepless in Seattle": {
+      "id": 858,
+      "poster": "/jAXfku1u1uaLGh4cUmK0ESf1pPu.jpg",
+      "title": "Sleepless in Seattle",
+      "year": 1993
+    },
+    "Forrest Gump": {
+      "id": 13,
+      "poster": "/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
+      "title": "Forrest Gump",
+      "year": 1994
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "Quiz Show": {
+      "id": 11450,
+      "poster": "/yoGJo1h3Hl2exXPVcG9UXWDENtX.jpg",
+      "title": "Quiz Show",
+      "year": 1994
+    },
+    "The Shawshank Redemption": {
+      "id": 278,
+      "poster": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+      "title": "The Shawshank Redemption",
+      "year": 1994
+    },
+    "Sex, Lies, and Videotape": {
+      "id": 1412,
+      "poster": "/pj1uKm07svgXZDHbYE8AzRfNHcu.jpg",
+      "title": "sex, lies, and videotape",
+      "year": 1989
+    },
+    "Groundhog Day": {
+      "id": 137,
+      "poster": "/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
+      "title": "Groundhog Day",
+      "year": 1993
+    }
+  }
+}

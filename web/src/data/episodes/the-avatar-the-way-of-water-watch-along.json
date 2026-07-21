@@ -1,0 +1,827 @@
+{
+  "slug": "the-avatar-the-way-of-water-watch-along",
+  "title": "The ‘Avatar: The Way of Water’ Watch-Along!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2025-12-03",
+  "runtimeMin": 197,
+  "format": "A watch-along of Avatar: The Way of Water with Chris Ryan, who has never seen the first one and narrates his confusion in real time. Recorded to warm up for Fire and Ash.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "The watch-along",
+      "note": "live commentary over the full film",
+      "films": [
+        {
+          "title": "Avatar: The Way of Water",
+          "year": 2022,
+          "note": "Sean and Amanda walk first-timer Chris through all 197 minutes. He warms to the action stretches and to Payakan the tulkun; the rest of the runtime drifts to yogurt, Lane Kiffin, and who would help bury a body. Sean's case: the film only works in 3D, so watching it flat on a TV undersells it."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The Avatar saga",
+      "films": [
+        "Avatar",
+        "Avatar: Fire and Ash"
+      ]
+    },
+    {
+      "group": "Cameron's back catalog",
+      "films": [
+        "Titanic",
+        "True Lies",
+        "Aliens",
+        "Alien",
+        "The Terminator",
+        "Terminator 2: Judgment Day",
+        "Piranha II: The Spawning"
+      ]
+    },
+    {
+      "group": "Best-of-2025 talk",
+      "films": [
+        "One Battle After Another",
+        "Weapons",
+        "Sentimental Value",
+        "No Other Choice",
+        "Black Phone 2",
+        "The Gorge",
+        "Wake Up Dead Man",
+        "Splitsville",
+        "Eternity",
+        "Blue Moon",
+        "Nouvelle Vague",
+        "Hamnet",
+        "The Wizard of the Kremlin",
+        "Happy Gilmore 2",
+        "Predator: Badlands",
+        "Now You See Me: Now You Don't",
+        "Materialists"
+      ]
+    },
+    {
+      "group": "Sigourney Weaver roles",
+      "films": [
+        "Ghostbusters",
+        "Working Girl",
+        "Galaxy Quest",
+        "Copycat",
+        "Master Gardener",
+        "Finding Dory",
+        "The Mandalorian and Grogu"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Babylon",
+        "Alien: Romulus",
+        "The Amateur",
+        "The Matrix",
+        "Dances with Wolves",
+        "FernGully: The Last Rainforest",
+        "Train Dreams",
+        "The Big Short",
+        "Michael Clayton",
+        "Drums Along the Mohawk",
+        "Gone with the Wind",
+        "How Green Was My Valley",
+        "Citizen Kane",
+        "Stagecoach",
+        "Young Mr. Lincoln",
+        "The Hand That Rocks the Cradle",
+        "Jurassic World",
+        "Mulan",
+        "The NeverEnding Story",
+        "The Goonies",
+        "Gremlins",
+        "The Dark Crystal",
+        "The Lord of the Rings: The Fellowship of the Ring",
+        "The Lord of the Rings: The Two Towers",
+        "The Lord of the Rings: The Return of the King",
+        "The Little Mermaid",
+        "Charlie's Angels",
+        "Ant-Man",
+        "Transformers",
+        "Us",
+        "Melancholia",
+        "Antichrist",
+        "Europa",
+        "Jaws",
+        "Jurassic Park",
+        "Free Guy",
+        "Decision to Leave",
+        "Doctor Strange",
+        "Good Will Hunting",
+        "Midsommar",
+        "Civil War",
+        "Emilia Pérez",
+        "The Odyssey",
+        "Dunkirk",
+        "The Social Network",
+        "Zodiac",
+        "Toy Story 3",
+        "West Side Story",
+        "Silence",
+        "There Will Be Blood",
+        "Wildlife",
+        "Project Hail Mary",
+        "The Fall Guy",
+        "Barbie",
+        "Star Wars: Starfighter",
+        "Drive",
+        "The Place Beyond the Pines",
+        "The Bridges of Madison County",
+        "Every Which Way but Loose",
+        "The Life Aquatic with Steve Zissou",
+        "The Brutalist",
+        "Wicked",
+        "Wicked: For Good",
+        "We're No Angels",
+        "The Rocky Horror Picture Show",
+        "Ballerina",
+        "May December",
+        "Scream VI",
+        "Avengers: Endgame",
+        "National Lampoon's Christmas Vacation",
+        "Singin' in the Rain"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Ghostbusters": 620,
+    "Mulan": 337401,
+    "The Little Mermaid": 10144,
+    "We're No Angels": 5996,
+    "Wake Up Dead Man": 812583
+  },
+  "excluded": {
+    "TV": [
+      "Special Ops: Lioness",
+      "Game of Thrones",
+      "White Vision",
+      "The Diplomat",
+      "The Beast in Me",
+      "Task",
+      "Stranger Things",
+      "Severance",
+      "The Gilded Age",
+      "Pluribus",
+      "Landman",
+      "The Chair Company",
+      "Andor",
+      "The Pitt",
+      "Adolescence",
+      "Lowdown",
+      "Call My Agent",
+      "Euphoria"
+    ],
+    "Games": [
+      "Red Dead Redemption"
+    ],
+    "Ads": [
+      "Amazon Prime"
+    ]
+  },
+  "tmdb": {
+    "Avatar: The Way of Water": {
+      "id": 76600,
+      "poster": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "title": "Avatar: The Way of Water",
+      "year": 2022
+    },
+    "Avatar": {
+      "id": 19995,
+      "poster": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "title": "Avatar",
+      "year": 2009
+    },
+    "Avatar: Fire and Ash": {
+      "id": 83533,
+      "poster": "/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
+      "title": "Avatar: Fire and Ash",
+      "year": 2025
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "True Lies": {
+      "id": 36955,
+      "poster": "/pweFTnzzTfGK68woSVkiTgjLzWm.jpg",
+      "title": "True Lies",
+      "year": 1994
+    },
+    "Aliens": {
+      "id": 679,
+      "poster": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "title": "Aliens",
+      "year": 1986
+    },
+    "Alien": {
+      "id": 348,
+      "poster": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "title": "Alien",
+      "year": 1979
+    },
+    "The Terminator": {
+      "id": 218,
+      "poster": "/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+      "title": "The Terminator",
+      "year": 1984
+    },
+    "Terminator 2: Judgment Day": {
+      "id": 280,
+      "poster": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991
+    },
+    "Piranha II: The Spawning": {
+      "id": 31646,
+      "poster": "/rbcbLYbhc8ZmQmNHAt8E8knij88.jpg",
+      "title": "Piranha II: The Spawning",
+      "year": 1982
+    },
+    "One Battle After Another": {
+      "id": 1054867,
+      "poster": "/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+      "title": "One Battle After Another",
+      "year": 2025
+    },
+    "Weapons": {
+      "id": 1078605,
+      "poster": "/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+      "title": "Weapons",
+      "year": 2025
+    },
+    "Sentimental Value": {
+      "id": 1124566,
+      "poster": "/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
+      "title": "Sentimental Value",
+      "year": 2025
+    },
+    "No Other Choice": {
+      "id": 639988,
+      "poster": "/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+      "title": "No Other Choice",
+      "year": 2025
+    },
+    "Black Phone 2": {
+      "id": 1197137,
+      "poster": "/gFddBLQ8wj9M9O82iPzgX5KVNHz.jpg",
+      "title": "Black Phone 2",
+      "year": 2025
+    },
+    "The Gorge": {
+      "id": 950396,
+      "poster": "/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
+      "title": "The Gorge",
+      "year": 2025
+    },
+    "Wake Up Dead Man": {
+      "id": 812583,
+      "poster": "/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
+      "title": "Wake Up Dead Man: A Knives Out Mystery",
+      "year": 2025
+    },
+    "Splitsville": {
+      "id": 1337562,
+      "poster": "/gxCv6kUdywxYzIXX6xYcmX5APUV.jpg",
+      "title": "Splitsville",
+      "year": 2025
+    },
+    "Eternity": {
+      "id": 1259102,
+      "poster": "/yiwGcjfDKXD5PqQnyKUU9kspWQQ.jpg",
+      "title": "Eternity",
+      "year": 2025
+    },
+    "Blue Moon": {
+      "id": 1299655,
+      "poster": "/dVU7SNc6dgStTVdtbPLQncWxsyZ.jpg",
+      "title": "Blue Moon",
+      "year": 2025
+    },
+    "Nouvelle Vague": {
+      "id": 1254808,
+      "poster": "/362sw9w5t7opM9LR7eSCzkpItPd.jpg",
+      "title": "Nouvelle Vague",
+      "year": 2025
+    },
+    "Hamnet": {
+      "id": 858024,
+      "poster": "/zIcd6yuBucRNof5t9KVuGBHIhXU.jpg",
+      "title": "Hamnet",
+      "year": 2025
+    },
+    "The Wizard of the Kremlin": {
+      "id": 1291659,
+      "poster": "/85EYON4oXVYTPdMuW5q5ELQLU88.jpg",
+      "title": "The Wizard of the Kremlin",
+      "year": 2026
+    },
+    "Happy Gilmore 2": {
+      "id": 1263256,
+      "poster": "/E3dPHPJigkXwuiE0n1vzz0se8a.jpg",
+      "title": "Happy Gilmore 2",
+      "year": 2025
+    },
+    "Predator: Badlands": {
+      "id": 1242898,
+      "poster": "/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+      "title": "Predator: Badlands",
+      "year": 2025
+    },
+    "Now You See Me: Now You Don't": {
+      "id": 425274,
+      "poster": "/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
+      "title": "Now You See Me: Now You Don't",
+      "year": 2025
+    },
+    "Materialists": {
+      "id": 1136867,
+      "poster": "/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg",
+      "title": "Materialists",
+      "year": 2025
+    },
+    "Ghostbusters": {
+      "id": 620,
+      "poster": "/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
+      "title": "Ghostbusters",
+      "year": 1984
+    },
+    "Working Girl": {
+      "id": 3525,
+      "poster": "/q2jfFzZvAzjTaArQR0tjilIZ5aJ.jpg",
+      "title": "Working Girl",
+      "year": 1988
+    },
+    "Galaxy Quest": {
+      "id": 926,
+      "poster": "/fZXSwgZknp81vmciTb86rw0MejV.jpg",
+      "title": "Galaxy Quest",
+      "year": 1999
+    },
+    "Copycat": {
+      "id": 1710,
+      "poster": "/oMgwJb016znNZcpDR20eXxZoW8A.jpg",
+      "title": "Copycat",
+      "year": 1995
+    },
+    "Master Gardener": {
+      "id": 869612,
+      "poster": "/pmcYL7mgjVlWhFyNCc05mFTt6at.jpg",
+      "title": "Master Gardener",
+      "year": 2023
+    },
+    "Finding Dory": {
+      "id": 127380,
+      "poster": "/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg",
+      "title": "Finding Dory",
+      "year": 2016
+    },
+    "The Mandalorian and Grogu": {
+      "id": 1228710,
+      "poster": "/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+      "title": "The Mandalorian and Grogu",
+      "year": 2026
+    },
+    "Babylon": {
+      "id": 615777,
+      "poster": "/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+      "title": "Babylon",
+      "year": 2022
+    },
+    "Alien: Romulus": {
+      "id": 945961,
+      "poster": "/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
+      "title": "Alien: Romulus",
+      "year": 2024
+    },
+    "The Amateur": {
+      "id": 1087891,
+      "poster": "/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg",
+      "title": "The Amateur",
+      "year": 2025
+    },
+    "The Matrix": {
+      "id": 603,
+      "poster": "/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+      "title": "The Matrix",
+      "year": 1999
+    },
+    "Dances with Wolves": {
+      "id": 581,
+      "poster": "/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg",
+      "title": "Dances with Wolves",
+      "year": 1990
+    },
+    "FernGully: The Last Rainforest": {
+      "id": 13225,
+      "poster": "/xkJxdeaibcrcsi1XHvT0IuOjdzB.jpg",
+      "title": "FernGully: The Last Rainforest",
+      "year": 1992
+    },
+    "Train Dreams": {
+      "id": 1241983,
+      "poster": "/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg",
+      "title": "Train Dreams",
+      "year": 2025
+    },
+    "The Big Short": {
+      "id": 318846,
+      "poster": "/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg",
+      "title": "The Big Short",
+      "year": 2015
+    },
+    "Michael Clayton": {
+      "id": 4566,
+      "poster": "/hhkW4yVIGo8Bee3UITKvqOvhNMG.jpg",
+      "title": "Michael Clayton",
+      "year": 2007
+    },
+    "Drums Along the Mohawk": {
+      "id": 73194,
+      "poster": "/xEBKiwxXByk5Co9ZwSwoQVLNT8e.jpg",
+      "title": "Drums Along the Mohawk",
+      "year": 1939
+    },
+    "Gone with the Wind": {
+      "id": 770,
+      "poster": "/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg",
+      "title": "Gone with the Wind",
+      "year": 1939
+    },
+    "How Green Was My Valley": {
+      "id": 43266,
+      "poster": "/8N7OmxBqjRVUrqergUduGgr6exy.jpg",
+      "title": "How Green Was My Valley",
+      "year": 1941
+    },
+    "Citizen Kane": {
+      "id": 15,
+      "poster": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+      "title": "Citizen Kane",
+      "year": 1941
+    },
+    "Stagecoach": {
+      "id": 39287,
+      "poster": "/wsifrzutFIzt51FLVDbWW5AOTUG.jpg",
+      "title": "Stagecoach",
+      "year": 1966
+    },
+    "Young Mr. Lincoln": {
+      "id": 43838,
+      "poster": "/gVHbi2AZfWsZB10FJcwaFV59kIo.jpg",
+      "title": "Young Mr. Lincoln",
+      "year": 1939
+    },
+    "The Hand That Rocks the Cradle": {
+      "id": 11087,
+      "poster": "/1fBnyO3SbNBplck45js6O4pQaLw.jpg",
+      "title": "The Hand That Rocks the Cradle",
+      "year": 1992
+    },
+    "Jurassic World": {
+      "id": 135397,
+      "poster": "/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
+      "title": "Jurassic World",
+      "year": 2015
+    },
+    "Mulan": {
+      "id": 337401,
+      "poster": "/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg",
+      "title": "Mulan",
+      "year": 2020
+    },
+    "The NeverEnding Story": {
+      "id": 34584,
+      "poster": "/ddYCa91iDXfJCxaqSYzwi2fjfnl.jpg",
+      "title": "The NeverEnding Story",
+      "year": 1984
+    },
+    "The Goonies": {
+      "id": 9340,
+      "poster": "/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
+      "title": "The Goonies",
+      "year": 1985
+    },
+    "Gremlins": {
+      "id": 927,
+      "poster": "/6m0F7fsXjQvUbCZrPWcJNrjvIui.jpg",
+      "title": "Gremlins",
+      "year": 1984
+    },
+    "The Dark Crystal": {
+      "id": 11639,
+      "poster": "/fZPxRaa6gvCyGCh9Xk5kyPqz7fp.jpg",
+      "title": "The Dark Crystal",
+      "year": 1982
+    },
+    "The Lord of the Rings: The Fellowship of the Ring": {
+      "id": 120,
+      "poster": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001
+    },
+    "The Lord of the Rings: The Two Towers": {
+      "id": 121,
+      "poster": "/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002
+    },
+    "The Lord of the Rings: The Return of the King": {
+      "id": 122,
+      "poster": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003
+    },
+    "The Little Mermaid": {
+      "id": 10144,
+      "poster": "/plcZXvI310FkbwIptvd6rqk63LP.jpg",
+      "title": "The Little Mermaid",
+      "year": 1989
+    },
+    "Charlie's Angels": {
+      "id": 4327,
+      "poster": "/iHTmZs0BmkwMCYi8rhvMWC5G4EM.jpg",
+      "title": "Charlie's Angels",
+      "year": 2000
+    },
+    "Ant-Man": {
+      "id": 102899,
+      "poster": "/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg",
+      "title": "Ant-Man",
+      "year": 2015
+    },
+    "Transformers": {
+      "id": 1858,
+      "poster": "/4N4sipl8T72tNE4earcctQa2Kw2.jpg",
+      "title": "Transformers",
+      "year": 2007
+    },
+    "Us": {
+      "id": 458723,
+      "poster": "/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+      "title": "Us",
+      "year": 2019
+    },
+    "Melancholia": {
+      "id": 62215,
+      "poster": "/fMneszMiQuTKY8JUXrGGB5vwqJf.jpg",
+      "title": "Melancholia",
+      "year": 2011
+    },
+    "Antichrist": {
+      "id": 17609,
+      "poster": "/ge7zbYvpfsDP3luKi0iSpzOgncM.jpg",
+      "title": "Antichrist",
+      "year": 2009
+    },
+    "Europa": {
+      "id": 9065,
+      "poster": "/pyFtuYQReoSmhNs55kRJedA5wEJ.jpg",
+      "title": "Europa",
+      "year": 1991
+    },
+    "Jaws": {
+      "id": 578,
+      "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "title": "Jaws",
+      "year": 1975
+    },
+    "Jurassic Park": {
+      "id": 329,
+      "poster": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "title": "Jurassic Park",
+      "year": 1993
+    },
+    "Free Guy": {
+      "id": 550988,
+      "poster": "/dxraF0qPr1OEgJk17ltQTO84kQF.jpg",
+      "title": "Free Guy",
+      "year": 2021
+    },
+    "Decision to Leave": {
+      "id": 705996,
+      "poster": "/zI8KZ4EdLUymWKX1YEkpZ0gtPUa.jpg",
+      "title": "Decision to Leave",
+      "year": 2022
+    },
+    "Doctor Strange": {
+      "id": 284052,
+      "poster": "/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg",
+      "title": "Doctor Strange",
+      "year": 2016
+    },
+    "Good Will Hunting": {
+      "id": 489,
+      "poster": "/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+      "title": "Good Will Hunting",
+      "year": 1997
+    },
+    "Midsommar": {
+      "id": 530385,
+      "poster": "/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+      "title": "Midsommar",
+      "year": 2019
+    },
+    "Civil War": {
+      "id": 929590,
+      "poster": "/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+      "title": "Civil War",
+      "year": 2024
+    },
+    "Emilia Pérez": {
+      "id": 974950,
+      "poster": "/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg",
+      "title": "Emilia Pérez",
+      "year": 2024
+    },
+    "The Odyssey": {
+      "id": 1368337,
+      "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "title": "The Odyssey",
+      "year": 2026
+    },
+    "Dunkirk": {
+      "id": 374720,
+      "poster": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "title": "Dunkirk",
+      "year": 2017
+    },
+    "The Social Network": {
+      "id": 37799,
+      "poster": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+      "title": "The Social Network",
+      "year": 2010
+    },
+    "Zodiac": {
+      "id": 1949,
+      "poster": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+      "title": "Zodiac",
+      "year": 2007
+    },
+    "Toy Story 3": {
+      "id": 10193,
+      "poster": "/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+      "title": "Toy Story 3",
+      "year": 2010
+    },
+    "West Side Story": {
+      "id": 511809,
+      "poster": "/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+      "title": "West Side Story",
+      "year": 2021
+    },
+    "Silence": {
+      "id": 68730,
+      "poster": "/x5T0cQDYws0xRBVG4Q3wpcrcmax.jpg",
+      "title": "Silence",
+      "year": 2016
+    },
+    "There Will Be Blood": {
+      "id": 7345,
+      "poster": "/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+      "title": "There Will Be Blood",
+      "year": 2007
+    },
+    "Wildlife": {
+      "id": 417812,
+      "poster": "/hQSUwjSSRtWCA5EBoY22gGzaE8Y.jpg",
+      "title": "Wildlife",
+      "year": 2018
+    },
+    "Project Hail Mary": {
+      "id": 687163,
+      "poster": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "title": "Project Hail Mary",
+      "year": 2026
+    },
+    "The Fall Guy": {
+      "id": 746036,
+      "poster": "/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg",
+      "title": "The Fall Guy",
+      "year": 2024
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Star Wars: Starfighter": {
+      "id": 1417668,
+      "poster": "/aUSQtKgQ0GNKJzXXJ6fY0auadjo.jpg",
+      "title": "Star Wars: Starfighter",
+      "year": 2027
+    },
+    "Drive": {
+      "id": 64690,
+      "poster": "/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
+      "title": "Drive",
+      "year": 2011
+    },
+    "The Place Beyond the Pines": {
+      "id": 97367,
+      "poster": "/vY5j2xQzMGWmxBuhQo0HfA4Lxqb.jpg",
+      "title": "The Place Beyond the Pines",
+      "year": 2013
+    },
+    "The Bridges of Madison County": {
+      "id": 688,
+      "poster": "/aCBrhOQjhG397GLkEZ49zReQEKX.jpg",
+      "title": "The Bridges of Madison County",
+      "year": 1995
+    },
+    "Every Which Way but Loose": {
+      "id": 15417,
+      "poster": "/vcSfAskDGCgInfJAXwLLORPQLAO.jpg",
+      "title": "Every Which Way but Loose",
+      "year": 1978
+    },
+    "The Life Aquatic with Steve Zissou": {
+      "id": 421,
+      "poster": "/qZoFLNBC78jzboWeDH6Ha0qavF2.jpg",
+      "title": "The Life Aquatic with Steve Zissou",
+      "year": 2004
+    },
+    "The Brutalist": {
+      "id": 549509,
+      "poster": "/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
+      "title": "The Brutalist",
+      "year": 2024
+    },
+    "Wicked": {
+      "id": 402431,
+      "poster": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+      "title": "Wicked",
+      "year": 2024
+    },
+    "Wicked: For Good": {
+      "id": 967941,
+      "poster": "/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+      "title": "Wicked: For Good",
+      "year": 2025
+    },
+    "We're No Angels": {
+      "id": 5996,
+      "poster": "/UsrZkcoj95K8ZVf7FMnTiZ5P4C.jpg",
+      "title": "We're No Angels",
+      "year": 1955
+    },
+    "The Rocky Horror Picture Show": {
+      "id": 36685,
+      "poster": "/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
+      "title": "The Rocky Horror Picture Show",
+      "year": 1975
+    },
+    "Ballerina": {
+      "id": 541671,
+      "poster": "/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg",
+      "title": "Ballerina",
+      "year": 2025
+    },
+    "May December": {
+      "id": 839369,
+      "poster": "/zhV7B610l7hjlri4ywikJ18ONuq.jpg",
+      "title": "May December",
+      "year": 2023
+    },
+    "Scream VI": {
+      "id": 934433,
+      "poster": "/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg",
+      "title": "Scream VI",
+      "year": 2023
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "National Lampoon's Christmas Vacation": {
+      "id": 5825,
+      "poster": "/oat42hUw8XzKYUmfy0YLAxYd484.jpg",
+      "title": "National Lampoon's Christmas Vacation",
+      "year": 1989
+    },
+    "Singin' in the Rain": {
+      "id": 872,
+      "poster": "/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+      "title": "Singin' in the Rain",
+      "year": 1952
+    }
+  },
+  "spotifyEpisodeId": "5O8x2LGP7HnyCOs9jzuQtu"
+}

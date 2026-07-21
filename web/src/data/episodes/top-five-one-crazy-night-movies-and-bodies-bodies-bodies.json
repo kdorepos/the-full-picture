@@ -1,0 +1,758 @@
+{
+  "slug": "top-five-one-crazy-night-movies-and-bodies-bodies-bodies",
+  "title": "Top Five “One Crazy Night” Movies and ‘Bodies Bodies Bodies’",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Joanna Robinson"
+  ],
+  "published": "2022-08-12",
+  "runtimeMin": 100,
+  "format": "Sean Fennessey and Joanna Robinson review A24's Gen Z whodunit Bodies Bodies Bodies, draft their favorite One Crazy Night movies, and Sean talks to director Halina Reijn about making her first American film.",
+  "tmdbOverrides": {
+    "Vengeance": 683340,
+    "Swingers": 10218,
+    "Lord of the Flies": 9960,
+    "Alice in Wonderland": null,
+    "And Then There Were None": null
+  },
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "Bodies Bodies Bodies",
+      "note": "Sean Fennessey and Joanna Robinson",
+      "films": [
+        {
+          "title": "Bodies Bodies Bodies",
+          "year": 2022,
+          "note": "A hurricane party turns into a game of Mafia gone wrong; both hosts land on real empathy under the satire, with Pete Davidson as the one performance that didn't land for Sean."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Comparisons and career check-ins",
+      "note": "what it echoes, and who's rising",
+      "films": [
+        {
+          "title": "Ready or Not",
+          "year": 2019,
+          "note": "The class-anxiety-at-a-mansion touchstone Joanna keeps coming back to."
+        },
+        {
+          "title": "Heathers",
+          "year": 1988,
+          "note": "Sean's number-one reference point for the film's teen-clique DNA."
+        },
+        {
+          "title": "Scream (1996)",
+          "year": 1996,
+          "note": "Sean's formative slasher; the yardstick he measures his own self-consciousness about age against."
+        },
+        {
+          "title": "I Know What You Did Last Summer",
+          "year": 1997,
+          "note": "Named alongside Scream as the Kevin Williamson-core era Sean and Joanna grew up on."
+        },
+        {
+          "title": "Fast Times at Ridgemont High",
+          "year": 1982,
+          "note": "Sean's shorthand for the movie's opening tone, before it curdles."
+        },
+        {
+          "title": "Shiva Baby",
+          "year": 2020,
+          "note": "One of Joanna's favorite movies of its year; she calls it a One Crazy Day movie and a straitjacket in equal measure."
+        },
+        {
+          "title": "Dear Evan Hansen",
+          "year": 2021,
+          "note": "Joanna says Amandla Stenberg stood out even in a movie everyone agrees is bad."
+        },
+        {
+          "title": "Assassination Nation",
+          "year": 2018,
+          "note": "Filed under the same Sam Levinson online-anxiety wave as Euphoria."
+        },
+        {
+          "title": "Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan",
+          "year": 2020,
+          "note": "Maria Bakalova's Oscar-nominated breakthrough; both hosts are still sizing her up as an actress from this one alone."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "What counts as a “One Crazy Night” movie",
+      "note": "sorting the subgenre before the lists",
+      "films": [
+        {
+          "title": "Halloween",
+          "year": 1978,
+          "note": "Sean's example of a slasher that's technically a One Crazy Night movie."
+        },
+        {
+          "title": "Sixteen Candles",
+          "year": 1984,
+          "note": "The teen-party-for-one-night flavor."
+        },
+        {
+          "title": "Can't Hardly Wait",
+          "year": 1998,
+          "note": "Same flavor, one more example."
+        },
+        {
+          "title": "It Happened One Night",
+          "year": 1934,
+          "note": "Sean's case that screwball comedies are basically the genre's root system."
+        },
+        {
+          "title": "Scream (2022)",
+          "year": 2022,
+          "note": "Comes up as Sean thinks through Ready or Not's filmmakers and their other locked-house thriller."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Joanna Robinson's Top Five One Crazy Night Movies",
+      "subject": "One Crazy Night movies",
+      "guest": "Joanna Robinson",
+      "ranked": true,
+      "films": [
+        {
+          "title": "After Hours",
+          "year": 1985,
+          "note": "No. 1 (tied) - Scorsese's Soho odyssey; she calls it the truest, bluest definition of the genre."
+        },
+        {
+          "title": "Before Sunrise",
+          "year": 1995,
+          "note": "No. 2 - the walk-and-talk entry; no external ticking clock, just two people breaking down each other's guard."
+        },
+        {
+          "title": "His Girl Friday",
+          "year": 1940,
+          "note": "No. 3 - the Howard Hawks screwball classic; a deadline movie instead of a party movie."
+        },
+        {
+          "title": "Collateral",
+          "year": 2004,
+          "note": "No. 4 - watched it for the first time for this episode; calls it a career-best Tom Cruise turn."
+        },
+        {
+          "title": "Go",
+          "year": 1999,
+          "note": "No. 5 - her self-declared cheat, since a chunk of it happens in Vegas."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Sean Fennessey's Top Five One Crazy Night Movies",
+      "subject": "One Crazy Night movies",
+      "guest": "Sean Fennessey",
+      "ranked": true,
+      "films": [
+        {
+          "title": "After Hours",
+          "year": 1985,
+          "note": "No. 1 (tied) - both hosts landed on it independently."
+        },
+        {
+          "title": "Who's Afraid of Virginia Woolf?",
+          "year": 1966,
+          "note": "No. 2 - Mike Nichols's directorial debut; Sean says he thought about it constantly while watching Bodies Bodies Bodies."
+        },
+        {
+          "title": "Something Wild",
+          "year": 1986,
+          "note": "No. 3 - Jonathan Demme's screwball turned dangerous; Ray Liotta shows up over halfway through and changes the temperature."
+        },
+        {
+          "title": "Panic Room",
+          "year": 2002,
+          "note": "No. 4 - Fincher's home-invasion piece with Jodie Foster and Kristen Stewart."
+        },
+        {
+          "title": "From Dusk Till Dawn",
+          "year": 1996,
+          "note": "No. 5 - the Rodriguez/Tarantino strip-club-turns-vampire-den movie he's picked for a top five before."
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "heading": "Honorable mentions",
+      "note": "the ones that almost made the cut",
+      "picks": [
+        {
+          "title": "Game Night",
+          "year": 2018,
+          "by": "Joanna Robinson",
+          "note": "Underrated and underseen, in her view."
+        },
+        {
+          "title": "Four Rooms",
+          "year": 1995,
+          "by": "Joanna Robinson",
+          "note": "Would've been her number five before she watched Collateral for the show."
+        },
+        {
+          "title": "The Invitation",
+          "year": 2015,
+          "by": "Sean Fennessey"
+        },
+        {
+          "title": "Green Room",
+          "year": 2015,
+          "by": "Sean Fennessey"
+        },
+        {
+          "title": "The Purge",
+          "year": 2013,
+          "by": "Sean Fennessey",
+          "note": "And its sequels, per Sean."
+        },
+        {
+          "title": "Good Time",
+          "year": 2017,
+          "by": "Sean Fennessey"
+        },
+        {
+          "title": "Superbad",
+          "year": 2007,
+          "by": "Sean Fennessey"
+        },
+        {
+          "title": "Booksmart",
+          "year": 2019,
+          "by": "Sean Fennessey"
+        },
+        {
+          "title": "Die Hard",
+          "year": 1988,
+          "by": "Sean Fennessey"
+        },
+        {
+          "title": "Miracle Mile",
+          "year": 1988,
+          "by": "Sean Fennessey",
+          "note": "A nuclear-panic meet-cute movie; a former video-store cult classic."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Halina Reijn on",
+      "films": [
+        {
+          "title": "Instinct",
+          "year": 2019,
+          "note": "Her Dutch feature debut, about a therapist who falls for a serial rapist; got her noticed by A24."
+        },
+        {
+          "title": "Don's Plum",
+          "year": 2001,
+          "note": "Her single biggest inspiration for Bodies Bodies Bodies; barely released in the U.S. and hard to find."
+        },
+        {
+          "title": "Kids",
+          "year": 1995,
+          "note": "Cited as one of the best films ever for how far inside its characters' world it gets."
+        },
+        {
+          "title": "Reservoir Dogs",
+          "year": 1992,
+          "note": "Cited for how the characters talk and for keeping the action in one place."
+        },
+        {
+          "title": "Broadcast News",
+          "year": 1987,
+          "note": "The last great thing she'd seen, though she admits mid-interview it's her first time watching it."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Bodies Bodies Bodies, in passing",
+      "films": [
+        "Godzilla vs. Kong",
+        "Ghostbusters: Afterlife",
+        "Vengeance",
+        "Gosford Park",
+        "And Then There Were None",
+        "Guardians of the Galaxy",
+        "The Hunger Games"
+      ]
+    },
+    {
+      "group": "Collateral and Panic Room asides",
+      "films": [
+        "Interview with the Vampire",
+        "Magnolia",
+        "Mission: Impossible - Fallout"
+      ]
+    },
+    {
+      "group": "Something Wild / Melanie Griffith tangent",
+      "films": [
+        "Working Girl",
+        "Nobody's Fool",
+        "A Stranger Among Us",
+        "The Bonfire of the Vanities"
+      ]
+    },
+    {
+      "group": "Go and After Hours asides",
+      "films": [
+        "Swingers",
+        "Bringing Up Baby",
+        "Thief",
+        "Public Enemies",
+        "Raging Bull",
+        "Goodfellas",
+        "The Color of Money",
+        "The Last Temptation of Christ",
+        "Oppenheimer",
+        "The Wizard of Oz",
+        "Alice in Wonderland"
+      ]
+    },
+    {
+      "group": "Halina Reijn interview, in passing",
+      "films": [
+        "Basic Instinct",
+        "Black Book",
+        "Mean Girls",
+        "Lord of the Flies"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Dawson's Creek",
+      "And Just Like That",
+      "Euphoria",
+      "The Idol",
+      "Succession",
+      "The Wire",
+      "Industry",
+      "Game of Thrones"
+    ],
+    "Podcasts": [
+      "22 Goals"
+    ],
+    "Ads": [
+      "Netflix's FIFA World Cup Launch Edition",
+      "Boar's Head Turkey Breast",
+      "Sportsbook (bet-reset offer)",
+      "Pepsi / Sam's Club",
+      "Ro (GLP-1)"
+    ]
+  },
+  "tmdb": {
+    "Bodies Bodies Bodies": {
+      "id": 520023,
+      "poster": "/hSuTjDmqRdy7Dii8ymnF2WILTeP.jpg",
+      "title": "Bodies Bodies Bodies",
+      "year": 2022
+    },
+    "Ready or Not": {
+      "id": 567609,
+      "poster": "/oJD9KQFoObZmxAS1je56SIFVNJt.jpg",
+      "title": "Ready or Not",
+      "year": 2019
+    },
+    "Heathers": {
+      "id": 2640,
+      "poster": "/dGbVfM4WlM7uvIbyRehfPZUIgp2.jpg",
+      "title": "Heathers",
+      "year": 1989
+    },
+    "Scream (1996)": {
+      "id": 4232,
+      "poster": "/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+      "title": "Scream",
+      "year": 1996
+    },
+    "I Know What You Did Last Summer": {
+      "id": 3597,
+      "poster": "/dQyaJx0SptDqvQcAewAr8FAtLB2.jpg",
+      "title": "I Know What You Did Last Summer",
+      "year": 1997
+    },
+    "Fast Times at Ridgemont High": {
+      "id": 13342,
+      "poster": "/s1DA8H7qwoOcAEhow2rCzuQtpuO.jpg",
+      "title": "Fast Times at Ridgemont High",
+      "year": 1982
+    },
+    "Shiva Baby": {
+      "id": 664300,
+      "poster": "/4sdqVsT6SHqtbCYZS7bhVoEftlL.jpg",
+      "title": "Shiva Baby",
+      "year": 2021
+    },
+    "Dear Evan Hansen": {
+      "id": 567690,
+      "poster": "/83pobg0tx4r4JeLenCAemanpnS2.jpg",
+      "title": "Dear Evan Hansen",
+      "year": 2021
+    },
+    "Assassination Nation": {
+      "id": 446101,
+      "poster": "/dMg1wPakqPx54yMzm0OuHn1jl42.jpg",
+      "title": "Assassination Nation",
+      "year": 2018
+    },
+    "Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan": {
+      "id": 740985,
+      "poster": "/3L1Ml5RWjFVfVq3rQENvgFymT0U.jpg",
+      "title": "Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan",
+      "year": 2020
+    },
+    "Halloween": {
+      "id": 948,
+      "poster": "/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+      "title": "Halloween",
+      "year": 1978
+    },
+    "Sixteen Candles": {
+      "id": 15144,
+      "poster": "/A3WGCAgJF33kZdlxUdyXHYdbYax.jpg",
+      "title": "Sixteen Candles",
+      "year": 1984
+    },
+    "Can't Hardly Wait": {
+      "id": 15037,
+      "poster": "/r3a5gGWfS0SDS9nriNrJzSSrErf.jpg",
+      "title": "Can't Hardly Wait",
+      "year": 1998
+    },
+    "It Happened One Night": {
+      "id": 3078,
+      "poster": "/2PNUGWAflH6UUumas0POMmokHlc.jpg",
+      "title": "It Happened One Night",
+      "year": 1934
+    },
+    "Scream (2022)": {
+      "id": 646385,
+      "poster": "/nD4M4Bx457ryLuKYpxFwQ2IBJ5w.jpg",
+      "title": "Scream",
+      "year": 2022
+    },
+    "After Hours": {
+      "id": 10843,
+      "poster": "/eamOBurHBu0MIxohTIVcfxmZ6Z7.jpg",
+      "title": "After Hours",
+      "year": 1985
+    },
+    "Before Sunrise": {
+      "id": 76,
+      "poster": "/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg",
+      "title": "Before Sunrise",
+      "year": 1995
+    },
+    "His Girl Friday": {
+      "id": 3085,
+      "poster": "/lu86Y9zTPH3neCiUzLzHCEFHf7f.jpg",
+      "title": "His Girl Friday",
+      "year": 1940
+    },
+    "Collateral": {
+      "id": 1538,
+      "poster": "/nV5316WUsVij8sVXLCF1g7TFitg.jpg",
+      "title": "Collateral",
+      "year": 2004
+    },
+    "Go": {
+      "id": 9430,
+      "poster": "/7UzD5Dmu3jqb2ls4Lnb4SYQqbYm.jpg",
+      "title": "Go",
+      "year": 1999
+    },
+    "Who's Afraid of Virginia Woolf?": {
+      "id": 396,
+      "poster": "/wF7ihB5V5gSm6zxjv3ZhHOpgREI.jpg",
+      "title": "Who's Afraid of Virginia Woolf?",
+      "year": 1966
+    },
+    "Something Wild": {
+      "id": 11300,
+      "poster": "/344lhBozqFWKxBb4fp6azYQMLEy.jpg",
+      "title": "Something Wild",
+      "year": 1986
+    },
+    "Panic Room": {
+      "id": 4547,
+      "poster": "/hANYbvfwxmkC9E4yY6YyJxYxlSJ.jpg",
+      "title": "Panic Room",
+      "year": 2002
+    },
+    "From Dusk Till Dawn": {
+      "id": 755,
+      "poster": "/sV3kIAmvJ9tPz4Lq5fuf9LLMxte.jpg",
+      "title": "From Dusk Till Dawn",
+      "year": 1996
+    },
+    "Game Night": {
+      "id": 445571,
+      "poster": "/85R8LMyn9f2Lev2YPBF8Nughrkv.jpg",
+      "title": "Game Night",
+      "year": 2018
+    },
+    "Four Rooms": {
+      "id": 5,
+      "poster": "/75aHn1NOYXh4M7L5shoeQ6NGykP.jpg",
+      "title": "Four Rooms",
+      "year": 1995
+    },
+    "The Invitation": {
+      "id": 306947,
+      "poster": "/otZMaGHWnKPgOODF6SSVNGqbI4X.jpg",
+      "title": "The Invitation",
+      "year": 2016
+    },
+    "Green Room": {
+      "id": 313922,
+      "poster": "/evZicaR7nXe4LiD9G6QYTorcJGO.jpg",
+      "title": "Green Room",
+      "year": 2016
+    },
+    "The Purge": {
+      "id": 158015,
+      "poster": "/46X1ei9uf13nkkr0OhWldGyr5Uh.jpg",
+      "title": "The Purge",
+      "year": 2013
+    },
+    "Good Time": {
+      "id": 429200,
+      "poster": "/yE1c9hj5Hf8a9KplAdRdhADqUro.jpg",
+      "title": "Good Time",
+      "year": 2017
+    },
+    "Superbad": {
+      "id": 8363,
+      "poster": "/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg",
+      "title": "Superbad",
+      "year": 2007
+    },
+    "Booksmart": {
+      "id": 505600,
+      "poster": "/2aSxRDmisJP90H3S0aocyuQIe4z.jpg",
+      "title": "Booksmart",
+      "year": 2019
+    },
+    "Die Hard": {
+      "id": 562,
+      "poster": "/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg",
+      "title": "Die Hard",
+      "year": 1988
+    },
+    "Miracle Mile": {
+      "id": 24739,
+      "poster": "/9qRCVO9L3s3CsPnoUO9c3iZm6aB.jpg",
+      "title": "Miracle Mile",
+      "year": 1989
+    },
+    "Instinct": {
+      "id": 530743,
+      "poster": "/i5Ai5Sr8UIHq4IbVnO45fm2RpVf.jpg",
+      "title": "Instinct",
+      "year": 2019
+    },
+    "Don's Plum": {
+      "id": 37857,
+      "poster": "/pXWiYyWaNUfZaud5maDWDFJ5AG7.jpg",
+      "title": "Don's Plum",
+      "year": 2002
+    },
+    "Kids": {
+      "id": 9344,
+      "poster": "/8qV8hUVCUnFIQKewzlhaFWhdszK.jpg",
+      "title": "Kids",
+      "year": 1995
+    },
+    "Reservoir Dogs": {
+      "id": 500,
+      "poster": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+      "title": "Reservoir Dogs",
+      "year": 1992
+    },
+    "Broadcast News": {
+      "id": 12626,
+      "poster": "/kQNR1Lc0qAF5xuBySpDn481KVjb.jpg",
+      "title": "Broadcast News",
+      "year": 1987
+    },
+    "Godzilla vs. Kong": {
+      "id": 399566,
+      "poster": "/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+      "title": "Godzilla vs. Kong",
+      "year": 2021
+    },
+    "Ghostbusters: Afterlife": {
+      "id": 425909,
+      "poster": "/sg4xJaufDiQl7caFEskBtQXfD4x.jpg",
+      "title": "Ghostbusters: Afterlife",
+      "year": 2021
+    },
+    "Vengeance": {
+      "id": 683340,
+      "poster": "/n1SlTeEv3dNJB3gF9AHAVElQ6LO.jpg",
+      "title": "Vengeance",
+      "year": 2022
+    },
+    "Gosford Park": {
+      "id": 5279,
+      "poster": "/7r8DeZuaaHCiOEbkqZC6MFmwJ69.jpg",
+      "title": "Gosford Park",
+      "year": 2001
+    },
+    "And Then There Were None": null,
+    "Guardians of the Galaxy": {
+      "id": 118340,
+      "poster": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "title": "Guardians of the Galaxy",
+      "year": 2014
+    },
+    "The Hunger Games": {
+      "id": 70160,
+      "poster": "/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg",
+      "title": "The Hunger Games",
+      "year": 2012
+    },
+    "Interview with the Vampire": {
+      "id": 628,
+      "poster": "/2162lAT2MP36MyJd2sttmj5du5T.jpg",
+      "title": "Interview with the Vampire",
+      "year": 1994
+    },
+    "Magnolia": {
+      "id": 334,
+      "poster": "/tpfC325Jk6S38VTe5dDWjWtoyxr.jpg",
+      "title": "Magnolia",
+      "year": 1999
+    },
+    "Mission: Impossible - Fallout": {
+      "id": 353081,
+      "poster": "/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+      "title": "Mission: Impossible - Fallout",
+      "year": 2018
+    },
+    "Working Girl": {
+      "id": 3525,
+      "poster": "/q2jfFzZvAzjTaArQR0tjilIZ5aJ.jpg",
+      "title": "Working Girl",
+      "year": 1988
+    },
+    "Nobody's Fool": {
+      "id": 11593,
+      "poster": "/xyAXFy6mOfgZcVWbceCeuTYadeq.jpg",
+      "title": "Nobody's Fool",
+      "year": 1994
+    },
+    "A Stranger Among Us": {
+      "id": 41670,
+      "poster": "/t9V1cE3PzlK0syDD2HzrUiUpIRV.jpg",
+      "title": "A Stranger Among Us",
+      "year": 1992
+    },
+    "The Bonfire of the Vanities": {
+      "id": 9586,
+      "poster": "/pdrPrygZ5dVKi8UxrUXMmq1k2iO.jpg",
+      "title": "The Bonfire of the Vanities",
+      "year": 1990
+    },
+    "Swingers": {
+      "id": 10218,
+      "poster": "/rRjWk68kU3a2so4lgr3TKB7Y5vA.jpg",
+      "title": "Swingers",
+      "year": 1996
+    },
+    "Bringing Up Baby": {
+      "id": 900,
+      "poster": "/vTNNOtemaYmtx3k2NpsLMRJKEwZ.jpg",
+      "title": "Bringing Up Baby",
+      "year": 1938
+    },
+    "Thief": {
+      "id": 11524,
+      "poster": "/bpjRGwfYJ71bU0hNhLIz7g3t6Oy.jpg",
+      "title": "Thief",
+      "year": 1981
+    },
+    "Public Enemies": {
+      "id": 11322,
+      "poster": "/3KgtekisQBrHRsm2cD5UOB6Ce3k.jpg",
+      "title": "Public Enemies",
+      "year": 2009
+    },
+    "Raging Bull": {
+      "id": 1578,
+      "poster": "/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
+      "title": "Raging Bull",
+      "year": 1980
+    },
+    "Goodfellas": {
+      "id": 769,
+      "poster": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+      "title": "GoodFellas",
+      "year": 1990
+    },
+    "The Color of Money": {
+      "id": 11873,
+      "poster": "/dVdnHmdQu3JtLAAksjTmTEF76gD.jpg",
+      "title": "The Color of Money",
+      "year": 1986
+    },
+    "The Last Temptation of Christ": {
+      "id": 11051,
+      "poster": "/7L4qwrC1mipZXJfU5oRgQWChLv1.jpg",
+      "title": "The Last Temptation of Christ",
+      "year": 1988
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "The Wizard of Oz": {
+      "id": 630,
+      "poster": "/uCC3j4pV9eOZwzDUWp2ilbcTf1f.jpg",
+      "title": "The Wizard of Oz",
+      "year": 1939
+    },
+    "Alice in Wonderland": null,
+    "Basic Instinct": {
+      "id": 402,
+      "poster": "/76Ts0yoHk8kVQj9MMnoMixhRWoh.jpg",
+      "title": "Basic Instinct",
+      "year": 1992
+    },
+    "Black Book": {
+      "id": 9075,
+      "poster": "/s8UyT6tUKJl07gYhPheLAzogG8V.jpg",
+      "title": "Black Book",
+      "year": 2006
+    },
+    "Mean Girls": {
+      "id": 10625,
+      "poster": "/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg",
+      "title": "Mean Girls",
+      "year": 2004
+    },
+    "Lord of the Flies": {
+      "id": 9960,
+      "poster": "/3jhp9oxZpwcWCZ1vfn3PyMWovzq.jpg",
+      "title": "Lord of the Flies",
+      "year": 1963
+    }
+  },
+  "spotifyEpisodeId": "6H4I3Gu63XNggTiaSzgTvc"
+}

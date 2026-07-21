@@ -1,0 +1,223 @@
+{
+  "slug": "guy-ritchie-and-the-challenges-of-making-king-arthur-the-big",
+  "title": "Guy Ritchie and the Challenges of Making 'King Arthur' | The Big Picture (Ep. 12)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Chris Ryan"
+  ],
+  "published": "2017-05-11",
+  "runtimeMin": 29,
+  "format": "Sean Fennessey and Chris Ryan trace Guy Ritchie's career up to 'King Arthur: Legend of the Sword,' then Ritchie joins to explain cutting the film from three and a half hours down to two.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Guy Ritchie, from cockney gangsters to Camelot",
+      "note": "Sean Fennessey and Chris Ryan",
+      "films": [
+        {
+          "title": "King Arthur: Legend of the Sword",
+          "year": 2017,
+          "note": "The new film: an origin story that strips out Merlin, Guinevere and the Grail and plays like Lock, Stock with a sword in a stone."
+        },
+        {
+          "title": "Lock, Stock and Two Smoking Barrels",
+          "year": 1998,
+          "note": "Ritchie's debut, made small and independent, with Jason Statham early in his career."
+        },
+        {
+          "title": "Snatch",
+          "year": 2000,
+          "note": "The wider-seen follow-up that put him on the map. Ryan calls it the Hollywood version of Lock, Stock."
+        },
+        {
+          "title": "Revolver",
+          "year": 2005,
+          "note": "The downturn: Ryan finds it incomprehensible and short on the earlier films' energy."
+        },
+        {
+          "title": "RocknRolla",
+          "year": 2008,
+          "note": "Fun to watch but where his ability to evolve past the crime template hits a ceiling."
+        },
+        {
+          "title": "Sherlock Holmes",
+          "year": 2009,
+          "note": "The franchise renaissance with Robert Downey Jr. and Jude Law, a big hit."
+        },
+        {
+          "title": "Sherlock Holmes: A Game of Shadows",
+          "year": 2011,
+          "note": "The second Downey/Law outing."
+        },
+        {
+          "title": "The Man from U.N.C.L.E.",
+          "year": 2015,
+          "note": "A cult favorite in hindsight, with Henry Cavill and Armie Hammer."
+        },
+        {
+          "title": "Excalibur",
+          "year": 1981,
+          "note": "John Boorman's film. Ryan's pick for the one genuinely good King Arthur movie, because it commits to the romance of the myth."
+        },
+        {
+          "title": "King Arthur",
+          "year": 2004,
+          "note": "Antoine Fuqua's historical-realist take with Clive Owen and Keira Knightley as a Celtic warrior Guinevere."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Guy Ritchie on making 'King Arthur'",
+      "guest": "Guy Ritchie on",
+      "films": [
+        {
+          "title": "King Arthur: Legend of the Sword",
+          "year": 2017,
+          "note": "Frames it as a man's struggle with himself, with Arthur as the alibi; shot a three-and-a-half-hour cut, then squidged $20M of scenes down to under two hours to keep the momentum."
+        },
+        {
+          "title": "Excalibur",
+          "year": 1981,
+          "note": "Boorman's film affected him deeply, but he saw its second half congest under too many components (Lancelot, Guinevere, Morgana, Merlin) and set out to strip them away."
+        },
+        {
+          "title": "300",
+          "year": 2007,
+          "note": "The reference point for the epic-fantasy license: 'we got 300 for elephants.'"
+        },
+        {
+          "title": "Django Unchained",
+          "year": 2012,
+          "note": "Held up as a very confident piece of work, the kind of filmmaking that excites him."
+        },
+        {
+          "title": "Whiplash",
+          "year": 2014,
+          "note": "He says he never sat down watching it, because of the confidence of the expression."
+        },
+        {
+          "title": "Aladdin",
+          "year": 2019,
+          "note": "His next film for Disney: a street kid who becomes a king, and an excuse to make a musical after scoring King Arthur."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Camelot",
+        "The Lord of the Rings"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "The Lord of the Rings": null
+  },
+  "excluded": {
+    "TV": [
+      "Game of Thrones",
+      "The Man from U.N.C.L.E. (1960s series)"
+    ],
+    "Ads": [
+      "Dollar Shave Club"
+    ]
+  },
+  "tmdb": {
+    "King Arthur: Legend of the Sword": {
+      "id": 274857,
+      "poster": "/9kKXH6eJpzoFGhCbTN3FVwSQK3n.jpg",
+      "title": "King Arthur: Legend of the Sword",
+      "year": 2017
+    },
+    "Lock, Stock and Two Smoking Barrels": {
+      "id": 100,
+      "poster": "/6pJB2t3MbQUy9m5pFIBHXLqnqNd.jpg",
+      "title": "Lock, Stock and Two Smoking Barrels",
+      "year": 1998
+    },
+    "Snatch": {
+      "id": 107,
+      "poster": "/kJZoAHq1SLDdWjeNGtlHAnGpmFV.jpg",
+      "title": "Snatch",
+      "year": 2000
+    },
+    "Revolver": {
+      "id": 10851,
+      "poster": "/cXJYFEIGNxiNTCekP1A68ICzJen.jpg",
+      "title": "Revolver",
+      "year": 2005
+    },
+    "RocknRolla": {
+      "id": 13809,
+      "poster": "/6mLXG2f7LBRpbZZgxsOFO5scgzd.jpg",
+      "title": "RocknRolla",
+      "year": 2008
+    },
+    "Sherlock Holmes": {
+      "id": 10528,
+      "poster": "/momkKuWburNTqKBF6ez7rvhYVhE.jpg",
+      "title": "Sherlock Holmes",
+      "year": 2009
+    },
+    "Sherlock Holmes: A Game of Shadows": {
+      "id": 58574,
+      "poster": "/2HsHurlnTOyU6yUS14gY6BQCyRs.jpg",
+      "title": "Sherlock Holmes: A Game of Shadows",
+      "year": 2011
+    },
+    "The Man from U.N.C.L.E.": {
+      "id": 203801,
+      "poster": "/y5yZaForGSJbPD66Cvq9AT5WMAD.jpg",
+      "title": "The Man from U.N.C.L.E.",
+      "year": 2015
+    },
+    "Excalibur": {
+      "id": 11527,
+      "poster": "/cTWF6zkr5mUOnheowKODIijWYcN.jpg",
+      "title": "Excalibur",
+      "year": 1981
+    },
+    "King Arthur": {
+      "id": 9477,
+      "poster": "/iKLZEAnjzr51Ij7TJtNejc5CN3i.jpg",
+      "title": "King Arthur",
+      "year": 2004
+    },
+    "300": {
+      "id": 1271,
+      "poster": "/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg",
+      "title": "300",
+      "year": 2007
+    },
+    "Django Unchained": {
+      "id": 68718,
+      "poster": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+      "title": "Django Unchained",
+      "year": 2012
+    },
+    "Whiplash": {
+      "id": 244786,
+      "poster": "/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+      "title": "Whiplash",
+      "year": 2014
+    },
+    "Aladdin": {
+      "id": 420817,
+      "poster": "/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg",
+      "title": "Aladdin",
+      "year": 2019
+    },
+    "Camelot": {
+      "id": 18978,
+      "poster": "/1ohPMbfmQVg0Zzy9wkySm1w8Kr7.jpg",
+      "title": "Camelot",
+      "year": 1967
+    },
+    "The Lord of the Rings": null
+  }
+}

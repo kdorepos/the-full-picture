@@ -1,0 +1,423 @@
+{
+  "slug": "the-25-best-movies-of-the-century-no-13-get-out",
+  "title": "The 25 Best Movies of the Century: No. 13 - 'Get Out'",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2025-09-01",
+  "runtimeMin": 41,
+  "format": "A 25-for-25 deep dive on No. 13: Jordan Peele's 'Get Out,' the $4 million horror debut that defined how movies talked about race after Obama and won Peele a screenwriting Oscar.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "No. 13 — 'Get Out'",
+      "note": "The 25 for 25 series",
+      "films": [
+        {
+          "title": "Get Out",
+          "year": 2017,
+          "note": "Peele's $4M directorial debut and the list's horror pick. The highest-grossing original debut in movie history, with four Oscar nominations and a Best Original Screenplay win. It gave the culture 'the sunken place' and the post-Obama vocabulary the hosts trace here."
+        },
+        {
+          "title": "Us",
+          "year": 2019,
+          "note": "Peele's follow-up. The first movie Sean and Amanda deep-dived together on the show, and to them the more flawed of the two."
+        },
+        {
+          "title": "Nope",
+          "year": 2022,
+          "note": "Peele's 2022 alien picture and Sean's favorite of his: a bigger, harder-to-unpack movie that reaches toward Spielberg."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Influences and double features",
+      "films": [
+        "Sinners",
+        "The Stepford Wives",
+        "Psycho",
+        "The Silence of the Lambs",
+        "Cool Hand Luke",
+        "The Texas Chain Saw Massacre",
+        "Judas and the Black Messiah",
+        "They Live",
+        "The Brood",
+        "The People Under the Stairs",
+        "The Shining",
+        "Shadow of a Doubt",
+        "I Know What You Did Last Summer",
+        "Baby Girl",
+        "M3GAN"
+      ]
+    },
+    {
+      "group": "The 2017 Best Picture race",
+      "films": [
+        "The Shape of Water",
+        "Dunkirk",
+        "Phantom Thread",
+        "Lady Bird",
+        "Call Me by Your Name",
+        "Darkest Hour",
+        "The Post",
+        "Three Billboards Outside Ebbing, Missouri",
+        "Philomena"
+      ]
+    },
+    {
+      "group": "Horror that didn't make the list",
+      "films": [
+        "Let the Right One In",
+        "Hereditary",
+        "The Witch",
+        "The Others",
+        "Pulse",
+        "Martyrs",
+        "Train to Busan",
+        "Signs",
+        "It Follows",
+        "The Babadook",
+        "28 Days Later",
+        "The Strangers",
+        "The Wailing",
+        "The Host",
+        "The Invitation",
+        "The Ring",
+        "The Conjuring"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Barbie",
+        "Oppenheimer",
+        "Michael Clayton",
+        "Children of Men",
+        "The Fantastic Four: First Steps"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "The Stepford Wives": 12223,
+    "Baby Girl": 1097549,
+    "The Host": 1255,
+    "Pulse": 27324,
+    "The Fantastic Four: First Steps": 617126
+  },
+  "excluded": {
+    "TV": [
+      "Key & Peele",
+      "Girls",
+      "Living Single",
+      "Horror Noire"
+    ],
+    "Ads": [
+      "State Farm",
+      "Netflix",
+      "T-Mobile Home Run Derby",
+      "Pepsi"
+    ]
+  },
+  "tmdb": {
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Us": {
+      "id": 458723,
+      "poster": "/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+      "title": "Us",
+      "year": 2019
+    },
+    "Nope": {
+      "id": 762504,
+      "poster": "/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
+      "title": "Nope",
+      "year": 2022
+    },
+    "Sinners": {
+      "id": 1233413,
+      "poster": "/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+      "title": "Sinners",
+      "year": 2025
+    },
+    "The Stepford Wives": {
+      "id": 12223,
+      "poster": "/5z1ogJJmQkCoU62VJmut4nnc2qs.jpg",
+      "title": "The Stepford Wives",
+      "year": 1975
+    },
+    "Psycho": {
+      "id": 539,
+      "poster": "/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+      "title": "Psycho",
+      "year": 1960
+    },
+    "The Silence of the Lambs": {
+      "id": 274,
+      "poster": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+      "title": "The Silence of the Lambs",
+      "year": 1991
+    },
+    "Cool Hand Luke": {
+      "id": 903,
+      "poster": "/4ykzTiHKLamh3eZJ8orVICtU2Jp.jpg",
+      "title": "Cool Hand Luke",
+      "year": 1967
+    },
+    "The Texas Chain Saw Massacre": {
+      "id": 30497,
+      "poster": "/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg",
+      "title": "The Texas Chain Saw Massacre",
+      "year": 1974
+    },
+    "Judas and the Black Messiah": {
+      "id": 583406,
+      "poster": "/iIgr75GoqFxe1X5Wz9siOODGe9u.jpg",
+      "title": "Judas and the Black Messiah",
+      "year": 2021
+    },
+    "They Live": {
+      "id": 8337,
+      "poster": "/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg",
+      "title": "They Live",
+      "year": 1988
+    },
+    "The Brood": {
+      "id": 28942,
+      "poster": "/zSEt4QXRI4Gypd9xvzvucOmPNl5.jpg",
+      "title": "The Brood",
+      "year": 1979
+    },
+    "The People Under the Stairs": {
+      "id": 13122,
+      "poster": "/8OWDBVmGdM7HwaDtbDsdn6Rlzqj.jpg",
+      "title": "The People Under the Stairs",
+      "year": 1991
+    },
+    "The Shining": {
+      "id": 694,
+      "poster": "/lzp5K0IVklSAAvyId6TRGTqxZSX.jpg",
+      "title": "The Shining",
+      "year": 1980
+    },
+    "Shadow of a Doubt": {
+      "id": 21734,
+      "poster": "/ptyWagbWE8jSGyV2tGEzAdVbRCj.jpg",
+      "title": "Shadow of a Doubt",
+      "year": 1943
+    },
+    "I Know What You Did Last Summer": {
+      "id": 1083433,
+      "poster": "/8FP2ObEGIiQYQCf83gL4ZVzwZF8.jpg",
+      "title": "I Know What You Did Last Summer",
+      "year": 2025
+    },
+    "Baby Girl": {
+      "id": 1097549,
+      "poster": "/ilwO6elz3mLV9CToT7C8pjVeKX0.jpg",
+      "title": "Babygirl",
+      "year": 2024
+    },
+    "M3GAN": {
+      "id": 536554,
+      "poster": "/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
+      "title": "M3GAN",
+      "year": 2022
+    },
+    "The Shape of Water": {
+      "id": 399055,
+      "poster": "/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg",
+      "title": "The Shape of Water",
+      "year": 2017
+    },
+    "Dunkirk": {
+      "id": 374720,
+      "poster": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "title": "Dunkirk",
+      "year": 2017
+    },
+    "Phantom Thread": {
+      "id": 400617,
+      "poster": "/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg",
+      "title": "Phantom Thread",
+      "year": 2017
+    },
+    "Lady Bird": {
+      "id": 391713,
+      "poster": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+      "title": "Lady Bird",
+      "year": 2017
+    },
+    "Call Me by Your Name": {
+      "id": 398818,
+      "poster": "/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
+      "title": "Call Me by Your Name",
+      "year": 2017
+    },
+    "Darkest Hour": {
+      "id": 399404,
+      "poster": "/xa6G3aKlysQeVg9wOb0dRcIGlWu.jpg",
+      "title": "Darkest Hour",
+      "year": 2017
+    },
+    "The Post": {
+      "id": 446354,
+      "poster": "/h4XG3g6uMMPIBPjAoQhC2QIMdkl.jpg",
+      "title": "The Post",
+      "year": 2017
+    },
+    "Three Billboards Outside Ebbing, Missouri": {
+      "id": 359940,
+      "poster": "/bRYLt8fV82tdVoDppSFTZIcJiLN.jpg",
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "year": 2017
+    },
+    "Philomena": {
+      "id": 205220,
+      "poster": "/eBUv2GmGdXmCk1AaSOmyiu70hN8.jpg",
+      "title": "Philomena",
+      "year": 2013
+    },
+    "Let the Right One In": {
+      "id": 13310,
+      "poster": "/7IG4WjaAOVDlLvLUkh513HSwhW8.jpg",
+      "title": "Let the Right One In",
+      "year": 2008
+    },
+    "Hereditary": {
+      "id": 493922,
+      "poster": "/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+      "title": "Hereditary",
+      "year": 2018
+    },
+    "The Witch": {
+      "id": 310131,
+      "poster": "/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
+      "title": "The Witch",
+      "year": 2016
+    },
+    "The Others": {
+      "id": 1933,
+      "poster": "/p8g1vlTvpM6nr2hMMiZ1fUlKF0D.jpg",
+      "title": "The Others",
+      "year": 2001
+    },
+    "Pulse": {
+      "id": 27324,
+      "poster": "/c3zEimDraIyMSasPMGDaNOrhnzn.jpg",
+      "title": "Pulse",
+      "year": 2001
+    },
+    "Martyrs": {
+      "id": 9539,
+      "poster": "/sT5ITTlTcnPOeFzHEu5j0hTZUvD.jpg",
+      "title": "Martyrs",
+      "year": 2008
+    },
+    "Train to Busan": {
+      "id": 396535,
+      "poster": "/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg",
+      "title": "Train to Busan",
+      "year": 2016
+    },
+    "Signs": {
+      "id": 2675,
+      "poster": "/YtrIdrTxpRhvCnlw43dwOjfLqx.jpg",
+      "title": "Signs",
+      "year": 2002
+    },
+    "It Follows": {
+      "id": 270303,
+      "poster": "/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg",
+      "title": "It Follows",
+      "year": 2015
+    },
+    "The Babadook": {
+      "id": 242224,
+      "poster": "/qt3fqapeo94TfvMyld8P7gkpXLz.jpg",
+      "title": "The Babadook",
+      "year": 2014
+    },
+    "28 Days Later": {
+      "id": 170,
+      "poster": "/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
+      "title": "28 Days Later",
+      "year": 2002
+    },
+    "The Strangers": {
+      "id": 10665,
+      "poster": "/gwsg4qFmLOvlhwXj4OZuxfFUdP0.jpg",
+      "title": "The Strangers",
+      "year": 2008
+    },
+    "The Wailing": {
+      "id": 293670,
+      "poster": "/RbymxgEM5SpDfO2Io2JMFG10Vi.jpg",
+      "title": "The Wailing",
+      "year": 2016
+    },
+    "The Host": {
+      "id": 1255,
+      "poster": "/m3OE5bpcGHMWYlPkYvgIrncuuGN.jpg",
+      "title": "The Host",
+      "year": 2006
+    },
+    "The Invitation": {
+      "id": 306947,
+      "poster": "/otZMaGHWnKPgOODF6SSVNGqbI4X.jpg",
+      "title": "The Invitation",
+      "year": 2016
+    },
+    "The Ring": {
+      "id": 565,
+      "poster": "/AeRpUynJKDpJveklBJipOYrVxCS.jpg",
+      "title": "The Ring",
+      "year": 2002
+    },
+    "The Conjuring": {
+      "id": 138843,
+      "poster": "/wVYREutTvI2tmxr6ujrHT704wGF.jpg",
+      "title": "The Conjuring",
+      "year": 2013
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Michael Clayton": {
+      "id": 4566,
+      "poster": "/hhkW4yVIGo8Bee3UITKvqOvhNMG.jpg",
+      "title": "Michael Clayton",
+      "year": 2007
+    },
+    "Children of Men": {
+      "id": 9693,
+      "poster": "/k9IAS4TehZFcKi4HVByxZNPfqex.jpg",
+      "title": "Children of Men",
+      "year": 2006
+    },
+    "The Fantastic Four: First Steps": {
+      "id": 617126,
+      "poster": "/nf5qaSEvyYSNeFH0YhSs5EsBLX9.jpg",
+      "title": "The Fantastic 4: First Steps",
+      "year": 2025
+    }
+  },
+  "spotifyEpisodeId": "1FO8DbMBbvrqZOCs90NPTA"
+}

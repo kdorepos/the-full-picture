@@ -1,0 +1,201 @@
+{
+  "slug": "ant-man-and-the-wasp-goes-big-with-peyton-reed-the-big-pictu",
+  "title": "'Ant-Man and the Wasp' Goes Big, With Peyton Reed",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2018-07-06",
+  "runtimeMin": 30,
+  "format": "Sean Fennessey talks to Peyton Reed the week 'Ant-Man and the Wasp' opens: pitching the sequel as an Elmore Leonard crime story, giving the Wasp her own suit, the Marvel visual-effects machine, and why the older cast and the quantum realm both got more room.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Peyton Reed on",
+      "films": [
+        {
+          "title": "Ant-Man and the Wasp",
+          "year": 2018,
+          "note": "The sequel he pitched as 'if Elmore Leonard wrote a science-fiction novel and they made a Marvel movie out of it': a search-and-rescue for Janet with a simple goal and constant complications, set over 36 hours of Scott Lang's house arrest. Marvel's 20th film and, he argues, its first with a woman's name in the title; he was set on giving Evangeline Lilly's Wasp her own suit and more of the Michael Douglas / Michelle Pfeiffer generational story."
+        },
+        {
+          "title": "Ant-Man",
+          "year": 2015,
+          "note": "The first film, a heist movie and, he says, a massive learning curve on Marvel's visual-effects pipeline; it cleared $500 million after being pegged as a possible bomb."
+        },
+        {
+          "title": "Bring It On",
+          "year": 2000,
+          "note": "His first feature, a $10 million cheerleader comedy that became unlikely IP with sequels and a Broadway show he had no hand in."
+        },
+        {
+          "title": "Down with Love",
+          "year": 2003,
+          "note": "Cited among the 'well-liked but cultish' comedies that preceded his move to Marvel."
+        },
+        {
+          "title": "Midnight Run",
+          "year": 1988,
+          "note": "The biggest tonal reference for the sequel: a simple goal, endless complications, forward momentum, a fixed clock. Screened for the producers and writers before shooting."
+        },
+        {
+          "title": "After Hours",
+          "year": 1985,
+          "note": "Another crime-comedy touchstone he screened for the team: one night of escalating trouble."
+        },
+        {
+          "title": "What's Up, Doc?",
+          "year": 1972,
+          "note": "Screened for its San Francisco chase and the chemistry between its leads."
+        },
+        {
+          "title": "Thor: Ragnarok",
+          "year": 2017,
+          "note": "Held up as proof of the MCU letting a distinct filmmaker run: Taika Waititi pumping 'fresh blood' into the whole thing."
+        },
+        {
+          "title": "Hunt for the Wilderpeople",
+          "year": 2016,
+          "note": "The Waititi film Reed loves; named alongside 'There Will Be Blood' when asked for the last great thing he'd seen."
+        },
+        {
+          "title": "There Will Be Blood",
+          "year": 2007,
+          "note": "His answer to the show's closing question and his favorite film ever: 'the perfect tonal distillation of America' and, he argues, the greatest film of the 21st century so far."
+        },
+        {
+          "title": "Planet of the Apes",
+          "year": 1968,
+          "note": "The original he loved as a kid; he invokes the five-film run's shrinking budgets as the cautionary template for a franchise past its peak."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Avengers: Infinity War",
+        "Captain America: Civil War",
+        "Captain America: The Winter Soldier",
+        "Guardians of the Galaxy",
+        "Doctor Strange",
+        "Star Wars: The Last Jedi",
+        "Battle for the Planet of the Apes"
+      ]
+    }
+  ],
+  "tmdb": {
+    "Ant-Man and the Wasp": {
+      "id": 363088,
+      "poster": "/cFQEO687n1K6umXbInzocxcnAQz.jpg",
+      "title": "Ant-Man and the Wasp",
+      "year": 2018
+    },
+    "Ant-Man": {
+      "id": 102899,
+      "poster": "/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg",
+      "title": "Ant-Man",
+      "year": 2015
+    },
+    "Bring It On": {
+      "id": 1588,
+      "poster": "/bnVby0qI0dS7YunbShP7mw68HY3.jpg",
+      "title": "Bring It On",
+      "year": 2000
+    },
+    "Down with Love": {
+      "id": 10720,
+      "poster": "/74lG2SGDJdyiS8hB4kkFcRIviSi.jpg",
+      "title": "Down with Love",
+      "year": 2003
+    },
+    "Midnight Run": {
+      "id": 9013,
+      "poster": "/yx0touyDQ9enWDsFgS4MbBwCSNd.jpg",
+      "title": "Midnight Run",
+      "year": 1988
+    },
+    "After Hours": {
+      "id": 10843,
+      "poster": "/eamOBurHBu0MIxohTIVcfxmZ6Z7.jpg",
+      "title": "After Hours",
+      "year": 1985
+    },
+    "What's Up, Doc?": {
+      "id": 6949,
+      "poster": "/d5WwZxneeAH2Kj2SeDV6oUY2oW0.jpg",
+      "title": "What's Up, Doc?",
+      "year": 1972
+    },
+    "Thor: Ragnarok": {
+      "id": 284053,
+      "poster": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "title": "Thor: Ragnarok",
+      "year": 2017
+    },
+    "Hunt for the Wilderpeople": {
+      "id": 371645,
+      "poster": "/hkmz9rxgcweizXNElozGeKwmAJE.jpg",
+      "title": "Hunt for the Wilderpeople",
+      "year": 2016
+    },
+    "There Will Be Blood": {
+      "id": 7345,
+      "poster": "/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+      "title": "There Will Be Blood",
+      "year": 2007
+    },
+    "Planet of the Apes": {
+      "id": 871,
+      "poster": "/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+      "title": "Planet of the Apes",
+      "year": 1968
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    },
+    "Captain America: Civil War": {
+      "id": 271110,
+      "poster": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+      "title": "Captain America: Civil War",
+      "year": 2016
+    },
+    "Captain America: The Winter Soldier": {
+      "id": 100402,
+      "poster": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+      "title": "Captain America: The Winter Soldier",
+      "year": 2014
+    },
+    "Guardians of the Galaxy": {
+      "id": 118340,
+      "poster": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "title": "Guardians of the Galaxy",
+      "year": 2014
+    },
+    "Doctor Strange": {
+      "id": 284052,
+      "poster": "/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg",
+      "title": "Doctor Strange",
+      "year": 2016
+    },
+    "Star Wars: The Last Jedi": {
+      "id": 181808,
+      "poster": "/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
+      "title": "Star Wars: The Last Jedi",
+      "year": 2017
+    },
+    "Battle for the Planet of the Apes": {
+      "id": 1705,
+      "poster": "/dP5dYjLp5p2CG103cJMio4Nj29d.jpg",
+      "title": "Battle for the Planet of the Apes",
+      "year": 1973
+    }
+  },
+  "spotifyEpisodeId": "5W9qQlCQjW2ZGAwXgzIXy5"
+}

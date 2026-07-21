@@ -1,0 +1,140 @@
+---
+import '@fontsource-variable/fraunces/opsz.css';
+import '@fontsource-variable/archivo';
+import '@fontsource/ibm-plex-mono/400.css';
+import '@fontsource/ibm-plex-mono/600.css';
+import '../styles/global.css';
+import Analytics from '@vercel/analytics/astro';
+const { title, description } = Astro.props;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    {description && <meta name="description" content={description} />}
+    <meta name="color-scheme" content="dark" />
+    <meta name="theme-color" content="#0a1611" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="/favicon-32.png" sizes="32x32" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  </head>
+  <body>
+    <header class="masthead">
+      <div class="wrap">
+        <a class="mark" href="/">
+          <svg class="mark-icon" viewBox="0 0 64 64" width="26" height="26" aria-hidden="true">
+            <g fill="#e6cd92">
+              <circle cx="24" cy="22" r="6"/><circle cx="32" cy="17" r="7"/><circle cx="40" cy="21" r="6"/>
+              <circle cx="18" cy="26" r="5"/><circle cx="46" cy="26" r="5"/>
+            </g>
+            <g fill="#c7a667"><circle cx="28" cy="26" r="5"/><circle cx="36" cy="26" r="5"/><circle cx="32" cy="24" r="4.5"/></g>
+            <rect x="15" y="29" width="34" height="6" rx="3" fill="#c7a667"/>
+            <clipPath id="mb"><path d="M18 35 H46 L43.5 55 Q43 57.5 40.5 57.5 H23.5 Q21 57.5 20.5 55 Z"/></clipPath>
+            <g clip-path="url(#mb)">
+              <rect x="18" y="35" width="28" height="23" fill="#c7a667"/>
+              <rect x="24" y="35" width="4" height="23" fill="#0a1611"/>
+              <rect x="36" y="35" width="4" height="23" fill="#0a1611"/>
+            </g>
+          </svg>
+          <span class="mark-name">The Full Picture</span>
+        </a>
+        <nav class="topnav" aria-label="Primary">
+          <a class="topnav__link" href="/movies">All movies</a>
+          <a class="topnav__link" href="/episodes">All episodes</a>
+          <div class="search" role="search">
+            <input id="site-search" class="search__input" type="search"
+                   placeholder="Search films &amp; episodes…" autocomplete="off"
+                   role="combobox" aria-expanded="false" aria-controls="search-results"
+                   aria-autocomplete="list" aria-label="Search films and episodes" />
+            <div id="search-results" class="search__results" role="listbox"
+                 aria-label="Search results" hidden></div>
+          </div>
+        </nav>
+      </div>
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer>
+      <div class="wrap">
+        <div class="foot-credits">
+          <a class="credit" href="https://www.themoviedb.org/" target="_blank" rel="noopener" aria-label="The Movie Database (TMDb)">
+            <svg class="logo-tmdb" viewBox="0 0 148 20" role="img" aria-label="TMDB">
+              <defs><linearGradient id="tmdbg" x1="0" y1="0" x2="1" y2="0">
+                <stop offset="0" stop-color="#90CEA1"/><stop offset="0.56" stop-color="#3CBEC9"/><stop offset="1" stop-color="#01B4E4"/>
+              </linearGradient></defs>
+              <text x="0" y="17" font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="20" letter-spacing="0.4" fill="url(#tmdbg)">TMDB</text>
+            </svg>
+          </a>
+          <a class="credit" href="https://open.spotify.com/show/6mTel3azvnK8isLs4VujvF" target="_blank" rel="noopener">
+            <svg class="logo-spotify" viewBox="0 0 24 24" width="17" height="17" role="img" aria-label="Spotify">
+              <path fill="#1DB954" d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.42 1.56-.299.421-1.02.599-1.559.3z"/>
+            </svg>
+            <span>Spotify</span>
+          </a>
+        </div>
+        <p class="foot-note">This product uses the TMDB API but is not endorsed or certified by TMDB. Podcast metadata and playback provided by Spotify.</p>
+        <p>A fan-made record of the films discussed on <em>The Big Picture</em>.
+        Independent and unaffiliated with The Ringer.</p>
+      </div>
+    </footer>
+    <Analytics />
+    <script>
+      // Header search: lazy-load the build-time index on first focus, fuzzy-match
+      // films + episodes with Fuse.js, render a keyboard-navigable dropdown.
+      import Fuse from 'fuse.js';
+      const input = document.getElementById('site-search');
+      const box = document.getElementById('search-results');
+      if (input && box) {
+        let fFilms = null, fEps = null, rows = [], active = -1;
+        const esc = (s) => { const d = document.createElement('div'); d.textContent = s; return d.innerHTML; };
+        const fmt = (d) => new Date(d).toLocaleDateString('en-US', { month: 'short', year: 'numeric' });
+        async function load() {
+          if (fFilms) return;
+          const data = await (await fetch('/search-index.json')).json();
+          const opts = { keys: ['t'], threshold: 0.4, ignoreLocation: true, minMatchCharLength: 3 };
+          fFilms = new Fuse(data.films, opts);
+          fEps = new Fuse(data.episodes, opts);
+        }
+        function close() { box.hidden = true; input.setAttribute('aria-expanded', 'false'); active = -1; }
+        function render(q) {
+          const films = fFilms.search(q).slice(0, 6).map((r) => r.item);
+          const eps = fEps.search(q).slice(0, 4).map((r) => r.item);
+          let html = '';
+          if (films.length) {
+            html += '<p class="search__group">Movies</p>';
+            html += films.map((f) => `<a class="search__row" href="/movie/${f.s}" role="option"><span class="search__t">${esc(f.t)}${f.y ? ` <span class="search__y">${f.y}</span>` : ''}</span><span class="search__sub">${f.e} episode${f.e === 1 ? '' : 's'}</span></a>`).join('');
+          }
+          if (eps.length) {
+            html += '<p class="search__group">Episodes</p>';
+            html += eps.map((e) => `<a class="search__row" href="/ep/${e.s}" role="option"><span class="search__t">${esc(e.t)}</span><span class="search__sub">${fmt(e.d)}</span></a>`).join('');
+          }
+          box.innerHTML = html || '<p class="search__empty">No matches</p>';
+          box.hidden = false; input.setAttribute('aria-expanded', 'true');
+          rows = [...box.querySelectorAll('.search__row')]; active = -1;
+        }
+        let t;
+        input.addEventListener('input', () => {
+          const q = input.value.trim();
+          clearTimeout(t);
+          if (q.length < 3) { close(); return; }
+          t = setTimeout(async () => { await load(); render(q); }, 120);
+        });
+        input.addEventListener('focus', load);
+        input.addEventListener('keydown', (e) => {
+          if (box.hidden) return;
+          if (e.key === 'ArrowDown') { e.preventDefault(); active = Math.min(active + 1, rows.length - 1); }
+          else if (e.key === 'ArrowUp') { e.preventDefault(); active = Math.max(active - 1, 0); }
+          else if (e.key === 'Enter') { if (rows[active]) { e.preventDefault(); rows[active].click(); } return; }
+          else if (e.key === 'Escape') { close(); input.blur(); return; }
+          else return;
+          rows.forEach((r, i) => r.setAttribute('aria-selected', i === active ? 'true' : 'false'));
+          rows[active]?.scrollIntoView({ block: 'nearest' });
+        });
+        document.addEventListener('click', (e) => { if (!input.closest('.search').contains(e.target)) close(); });
+      }
+    </script>
+  </body>
+</html>

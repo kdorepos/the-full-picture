@@ -1,0 +1,226 @@
+{
+  "slug": "emergency-deadpool-2-debate-the-big-picture-ep-65",
+  "title": "Emergency ‘Deadpool 2’ Debate | The Big Picture (Ep. 65)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Andrew Gruttadaro"
+  ],
+  "published": "2018-05-18",
+  "runtimeMin": 42,
+  "format": "A spoiler-heavy same-day debate on ‘Deadpool 2,’ pitting one comic-book head against one skeptic.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘Deadpool 2’: The Emergency Debate",
+      "note": "spoilers throughout",
+      "films": [
+        {
+          "title": "Deadpool 2",
+          "year": 2018,
+          "note": "Sean and Andrew split it down the middle: the X-Force audition run (capped by a one-second Brad Pitt as the Vanisher) and Josh Brolin's Cable land, but the grafted-on emotional stakes (Vanessa's death, the Julian Dennison kid) don't. Both agree the movie is a setup for an X-Force film."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The Deadpool corner of the X-Men",
+      "films": [
+        "Deadpool",
+        "Logan",
+        "X-Men Origins: Wolverine",
+        "Avengers: Infinity War"
+      ]
+    },
+    {
+      "group": "Compared and name-dropped",
+      "films": [
+        "Guardians of the Galaxy",
+        "Thor: Ragnarok",
+        "Captain America: The Winter Soldier",
+        "Batman v Superman: Dawn of Justice",
+        "Green Lantern",
+        "The Proposal",
+        "Sicario",
+        "Inglourious Basterds",
+        "Reality Bites",
+        "Pulp Fiction",
+        "Hunt for the Wilderpeople"
+      ]
+    },
+    {
+      "group": "Next week — the Paul Schrader teaser",
+      "films": [
+        "First Reformed",
+        "Taxi Driver",
+        "American Gigolo",
+        "Hardcore",
+        "Auto Focus"
+      ]
+    },
+    {
+      "group": "Named in the Unspooled promo",
+      "films": [
+        "Citizen Kane",
+        "The Graduate"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Atlanta",
+      "Joe Pera Talks With You",
+      "X-Men: The Animated Series"
+    ],
+    "Ads": [
+      "ZipRecruiter",
+      "Mubi"
+    ],
+    "Podcasts": [
+      "Unspooled",
+      "How Did This Get Made?"
+    ]
+  },
+  "tmdb": {
+    "Deadpool 2": {
+      "id": 383498,
+      "poster": "/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+      "title": "Deadpool 2",
+      "year": 2018
+    },
+    "Deadpool": {
+      "id": 293660,
+      "poster": "/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
+      "title": "Deadpool",
+      "year": 2016
+    },
+    "Logan": {
+      "id": 263115,
+      "poster": "/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+      "title": "Logan",
+      "year": 2017
+    },
+    "X-Men Origins: Wolverine": {
+      "id": 2080,
+      "poster": "/yj8LbTju1p7CUJg7US2unSBk33s.jpg",
+      "title": "X-Men Origins: Wolverine",
+      "year": 2009
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    },
+    "Guardians of the Galaxy": {
+      "id": 118340,
+      "poster": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "title": "Guardians of the Galaxy",
+      "year": 2014
+    },
+    "Thor: Ragnarok": {
+      "id": 284053,
+      "poster": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "title": "Thor: Ragnarok",
+      "year": 2017
+    },
+    "Captain America: The Winter Soldier": {
+      "id": 100402,
+      "poster": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+      "title": "Captain America: The Winter Soldier",
+      "year": 2014
+    },
+    "Batman v Superman: Dawn of Justice": {
+      "id": 209112,
+      "poster": "/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
+      "title": "Batman v Superman: Dawn of Justice",
+      "year": 2016
+    },
+    "Green Lantern": {
+      "id": 44912,
+      "poster": "/fj21HwUprqjjwTdkKC1XZurRSpV.jpg",
+      "title": "Green Lantern",
+      "year": 2011
+    },
+    "The Proposal": {
+      "id": 18240,
+      "poster": "/6stnAm1wSek8ZrislwK4xGTyCnt.jpg",
+      "title": "The Proposal",
+      "year": 2009
+    },
+    "Sicario": {
+      "id": 273481,
+      "poster": "/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+      "title": "Sicario",
+      "year": 2015
+    },
+    "Inglourious Basterds": {
+      "id": 16869,
+      "poster": "/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg",
+      "title": "Inglourious Basterds",
+      "year": 2009
+    },
+    "Reality Bites": {
+      "id": 2788,
+      "poster": "/qGDhodtpkpxkrFqokenGNJlzt6w.jpg",
+      "title": "Reality Bites",
+      "year": 1994
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "Hunt for the Wilderpeople": {
+      "id": 371645,
+      "poster": "/hkmz9rxgcweizXNElozGeKwmAJE.jpg",
+      "title": "Hunt for the Wilderpeople",
+      "year": 2016
+    },
+    "First Reformed": {
+      "id": 458737,
+      "poster": "/8HKA3Hwf8jQWy8TCYWr7C8Wft23.jpg",
+      "title": "First Reformed",
+      "year": 2018
+    },
+    "Taxi Driver": {
+      "id": 103,
+      "poster": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "title": "Taxi Driver",
+      "year": 1976
+    },
+    "American Gigolo": {
+      "id": 2768,
+      "poster": "/igXGCwti23PHOjLKQX6eGIGzQiJ.jpg",
+      "title": "American Gigolo",
+      "year": 1980
+    },
+    "Hardcore": {
+      "id": 42172,
+      "poster": "/g6m9xBTAzxXVhdJ624s9BLK9o6.jpg",
+      "title": "Hardcore",
+      "year": 1979
+    },
+    "Auto Focus": {
+      "id": 14112,
+      "poster": "/71CQUn4vtpDQtAPXtaLP7IGH0Sg.jpg",
+      "title": "Auto Focus",
+      "year": 2002
+    },
+    "Citizen Kane": {
+      "id": 15,
+      "poster": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+      "title": "Citizen Kane",
+      "year": 1941
+    },
+    "The Graduate": {
+      "id": 37247,
+      "poster": "/8XaDpF0COV1MLsDirJMnxmYc1Wp.jpg",
+      "title": "The Graduate",
+      "year": 1967
+    }
+  }
+}

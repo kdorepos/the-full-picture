@@ -1,0 +1,1234 @@
+{
+  "slug": "the-1982-movie-draft",
+  "title": "The 1982 Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2025-03-21",
+  "runtimeMin": 134,
+  "format": "A four-person snake draft of 1982 movies: Sean Fennessey, Chris Ryan, and Amanda Dobbins joined by returning champion Tracy Letts, each filling a six-category roster. Then a long run through the year's cult horror, exploitation, and comedy.",
+  "segments": [
+    {
+      "kind": "draft",
+      "heading": "The teams",
+      "draftOf": "the movies of 1982",
+      "categories": [
+        "Drama",
+        "Comedy",
+        "Thriller / Action / Horror / Sci-Fi",
+        "Blockbuster",
+        "Oscar Nominee",
+        "Wild Card"
+      ],
+      "teams": [
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "First Blood",
+              "year": 1982,
+              "category": "Drama",
+              "note": "The Stallone Vietnam-vet character study, taken in drama on the argument that it isn't the later Rambo movies. The room half-accepted the call."
+            },
+            {
+              "title": "The World According to Garp",
+              "year": 1982,
+              "category": "Comedy",
+              "note": "George Roy Hill's John Irving adaptation; Robin Williams playing low-key, Glenn Close and John Lithgow both Oscar-nominated."
+            },
+            {
+              "title": "The Thing",
+              "year": 1982,
+              "category": "Thriller / Action / Horror / Sci-Fi",
+              "note": "The first overall pick. Carpenter's film, with Rob Bottin's practical effects, Kurt Russell, and Keith David's first film role."
+            },
+            {
+              "title": "Poltergeist",
+              "year": 1982,
+              "category": "Blockbuster",
+              "note": "Tobe Hooper's haunted-suburbia hit and the year's 8th-highest grosser. Sean says the Spielberg-shadow-director rumor has been debunked."
+            },
+            {
+              "title": "Das Boot",
+              "year": 1982,
+              "category": "Oscar Nominee",
+              "note": "Wolfgang Petersen's submarine epic; one of Sean's two West German picks."
+            },
+            {
+              "title": "Fitzcarraldo",
+              "year": 1982,
+              "category": "Wild Card",
+              "note": "Herzog dragging a steamship over a mountain; Sean's favorite of a full Herzog rewatch, shot the same year as the making-of doc Burden of Dreams."
+            }
+          ]
+        },
+        {
+          "host": "Tracy Letts",
+          "picks": [
+            {
+              "title": "The Verdict",
+              "year": 1982,
+              "category": "Drama",
+              "note": "The clear drama No. 1: Newman, Mamet's best screenplay, Lumet directing."
+            },
+            {
+              "title": "Tootsie",
+              "year": 1982,
+              "category": "Comedy",
+              "note": "Pollack's cross-dressing comedy; Tracy on how the reveal played for minutes of screaming theater laughter."
+            },
+            {
+              "title": "The Road Warrior",
+              "year": 1982,
+              "category": "Thriller / Action / Horror / Sci-Fi",
+              "note": "Miller's Mad Max 2, which Tracy calls the greatest action movie ever made."
+            },
+            {
+              "title": "Star Trek II: The Wrath of Khan",
+              "year": 1982,
+              "category": "Blockbuster",
+              "note": "The film that saved the franchise; Montalbán eating the drapes. Tracy once projected it and let the screen go dark for 20 minutes."
+            },
+            {
+              "title": "Missing",
+              "year": 1982,
+              "category": "Oscar Nominee",
+              "note": "Costa-Gavras with Jack Lemmon and Sissy Spacek; a Spacek appreciation follows."
+            },
+            {
+              "title": "Eating Raoul",
+              "year": 1982,
+              "category": "Wild Card",
+              "note": "Paul Bartel's LA black comedy; Tracy tells of Bartel taking him to lunch years later after seeing his play Killer Joe."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "The Draughtsman's Contract",
+              "year": 1982,
+              "category": "Drama",
+              "note": "Peter Greenaway's period sex-and-class puzzle; Chris worked with its lead, Anthony Higgins, on a London play."
+            },
+            {
+              "title": "Fast Times at Ridgemont High",
+              "year": 1982,
+              "category": "Comedy",
+              "note": "Heckerling directs Crowe's script; Chris argues it's about 70 percent drama under the comedy."
+            },
+            {
+              "title": "Halloween III: Season of the Witch",
+              "year": 1982,
+              "category": "Thriller / Action / Horror / Sci-Fi",
+              "note": "The no-Michael-Myers entry (Silver Shamrock) that Chris and Sean rank as their second-favorite Halloween."
+            },
+            {
+              "title": "48 Hrs.",
+              "year": 1982,
+              "category": "Blockbuster",
+              "note": "Walter Hill; Eddie Murphy's screen debut, a template for the '80s buddy-cop movie."
+            },
+            {
+              "title": "E.T. the Extra-Terrestrial",
+              "year": 1982,
+              "category": "Oscar Nominee",
+              "note": "Third overall, taken in Oscar partly for category scarcity."
+            },
+            {
+              "title": "Personal Best",
+              "year": 1982,
+              "category": "Wild Card",
+              "note": "Robert Towne's track-and-field love story with Mariel Hemingway and Scott Glenn; a deep cut from a Towne rewatch."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Diner",
+              "year": 1982,
+              "category": "Drama",
+              "note": "Barry Levinson's ensemble, the famous movie her father sat 7-year-old Amanda down for."
+            },
+            {
+              "title": "Deathtrap",
+              "year": 1982,
+              "category": "Comedy",
+              "note": "The other 1982 Lumet, a whodunit sendup with Christopher Reeve and Dyan Cannon; Amanda's puzzle-box pick."
+            },
+            {
+              "title": "Blade Runner",
+              "year": 1982,
+              "category": "Thriller / Action / Horror / Sci-Fi",
+              "note": "Ridley Scott; Amanda rewatched The Final Cut, her second-favorite Ridley after Alien."
+            },
+            {
+              "title": "Annie",
+              "year": 1982,
+              "category": "Blockbuster",
+              "note": "The John Huston musical; one of Amanda's first movie musicals, Carol Burnett and Albert Finney and Tim Curry."
+            },
+            {
+              "title": "An Officer and a Gentleman",
+              "year": 1982,
+              "category": "Oscar Nominee",
+              "note": "Taylor Hackford; Richard Gere, Debra Winger, and an Oscar-winning Louis Gossett Jr."
+            },
+            {
+              "title": "Evil Under the Sun",
+              "year": 1982,
+              "category": "Wild Card",
+              "note": "Guy Hamilton's Peter Ustinov-as-Poirot Agatha Christie mystery; Amanda's favorite movie of the year."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Rocky III",
+        "Porky's",
+        "The Best Little Whorehouse in Texas",
+        "Gandhi",
+        "The Toy",
+        "Firefox",
+        "The Dark Crystal",
+        "Conan the Barbarian",
+        "Sophie's Choice",
+        "Victor/Victoria",
+        "Quest for Fire",
+        "My Favorite Year",
+        "Night Shift",
+        "Dead Men Don't Wear Plaid",
+        "A Midsummer Night's Sex Comedy",
+        "Author! Author!",
+        "The Last American Virgin",
+        "Gregory's Girl",
+        "Grease 2",
+        "Tempest",
+        "Shoot the Moon",
+        "One from the Heart",
+        "Still of the Night",
+        "Creepshow",
+        "The Entity",
+        "White Dog",
+        "Basket Case",
+        "Swamp Thing",
+        "Amityville II: The Possession",
+        "Pieces",
+        "The House on Sorority Row",
+        "The Slumber Party Massacre",
+        "Q: The Winged Serpent",
+        "Tenebrae",
+        "Class of 1984",
+        "Vice Squad",
+        "Frances",
+        "The Ballad of Gregorio Cortez",
+        "Barbarosa",
+        "Smash Palace",
+        "La Balance",
+        "Veronika Voss",
+        "Querelle",
+        "Koyaanisqatsi",
+        "Smithereens",
+        "Chan Is Missing",
+        "Richard Pryor: Live on the Sunset Strip",
+        "Say Amen, Somebody",
+        "Burden of Dreams"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "The King of Comedy",
+        "The Year of Living Dangerously",
+        "Halloween",
+        "Big Trouble in Little China",
+        "Alien",
+        "The Blues Brothers",
+        "Barry Lyndon",
+        "The Sting",
+        "Working Girl",
+        "When Harry Met Sally...",
+        "Avengers: Infinity War",
+        "Avengers: Endgame",
+        "The Martian",
+        "Ford v Ferrari",
+        "Terms of Endearment",
+        "Coal Miner's Daughter",
+        "Raggedy Man",
+        "The River",
+        "Kramer vs. Kramer",
+        "The Cider House Rules",
+        "The Great Waldo Pepper",
+        "That's Life!",
+        "S.O.B.",
+        "10",
+        "Star Trek: The Motion Picture",
+        "The Lovers",
+        "The Cook, the Thief, His Wife & Her Lover",
+        "A Zed & Two Noughts",
+        "The Belly of an Architect",
+        "Casino Royale",
+        "Skyfall",
+        "Mr. Arkadin",
+        "Kingdom of Heaven",
+        "Napoleon",
+        "Fight Club",
+        "Death on the Nile",
+        "Another 48 Hrs.",
+        "Lethal Weapon",
+        "Trading Places",
+        "Coming to America",
+        "North Dallas Forty",
+        "Wake in Fright",
+        "Fun with Dick and Jane",
+        "The Apprenticeship of Duddy Kravitz",
+        "The Brood",
+        "The Yakuza",
+        "Ask the Dust",
+        "Tequila Sunrise",
+        "The Godfather",
+        "The Parallax View",
+        "Marathon Man",
+        "Heaven Can Wait",
+        "Reds",
+        "Crimson Tide",
+        "Armageddon",
+        "The Music Man",
+        "The Substance",
+        "MaXXXine",
+        "Good One",
+        "Spartacus",
+        "Inglourious Basterds",
+        "The Dark Knight",
+        "Emilia Pérez",
+        "The Alto Knights",
+        "The Odyssey",
+        "Tin Men",
+        "The Great Muppet Caper",
+        "Aguirre, the Wrath of God",
+        "Nosferatu the Vampyre",
+        "Rescue Dawn",
+        "9 Songs",
+        "The Lord of the Rings: The Fellowship of the Ring"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Zero Day",
+      "The Gilded Age",
+      "Ozark",
+      "Emily in Paris",
+      "Das Boot (miniseries)",
+      "The Executioner's Song",
+      "The Shadow Riders",
+      "The Member of the Wedding",
+      "Who Am I This Time?",
+      "Your Show of Shows"
+    ],
+    "Podcasts": [
+      "The Rewatchables",
+      "The Watch",
+      "Good Hang",
+      "Jam Session"
+    ],
+    "Ads": [
+      "Audi Q6 e-tron",
+      "Good Hang"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Road Warrior": 8810,
+    "Q: The Winged Serpent": 27726,
+    "Night Shift": 14742,
+    "Shoot the Moon": 52772,
+    "Pieces": 47886,
+    "Tenebrae": 29702,
+    "Vice Squad": 63460,
+    "The Lovers": 426253,
+    "Fun with Dick and Jane": 24109,
+    "9 Songs": 27
+  },
+  "tmdb": {
+    "First Blood": {
+      "id": 1368,
+      "poster": "/a9sa6ERZCpplbPEO7OMWE763CLD.jpg",
+      "title": "First Blood",
+      "year": 1982
+    },
+    "The World According to Garp": {
+      "id": 11307,
+      "poster": "/9ItRFdSCb7Sz3AC9LRxAzbH73kG.jpg",
+      "title": "The World According to Garp",
+      "year": 1982
+    },
+    "The Thing": {
+      "id": 1091,
+      "poster": "/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+      "title": "The Thing",
+      "year": 1982
+    },
+    "Poltergeist": {
+      "id": 609,
+      "poster": "/m5AKo8iZAYulI87Uzxkn87vRY07.jpg",
+      "title": "Poltergeist",
+      "year": 1982
+    },
+    "Das Boot": {
+      "id": 387,
+      "poster": "/u8FhQPncOAkwcei2OI9orPWhV6K.jpg",
+      "title": "Das Boot",
+      "year": 1981
+    },
+    "Fitzcarraldo": {
+      "id": 9343,
+      "poster": "/oBCnYEKcg1rMhr5JjDnrRpilvDd.jpg",
+      "title": "Fitzcarraldo",
+      "year": 1982
+    },
+    "The Verdict": {
+      "id": 24226,
+      "poster": "/iYEuFP1bpj5yOenKliiRFcNO3VE.jpg",
+      "title": "The Verdict",
+      "year": 1982
+    },
+    "Tootsie": {
+      "id": 9576,
+      "poster": "/ngyCzZwb9y5sMUCig5JQT4Y33Q.jpg",
+      "title": "Tootsie",
+      "year": 1982
+    },
+    "The Road Warrior": {
+      "id": 8810,
+      "poster": "/l1KVEhkGDpWRzQ0VqIhZqDDuOim.jpg",
+      "title": "Mad Max 2",
+      "year": 1981
+    },
+    "Star Trek II: The Wrath of Khan": {
+      "id": 154,
+      "poster": "/uPyLsKl8Z0LOoxeaFXsY5MxhR5s.jpg",
+      "title": "Star Trek II: The Wrath of Khan",
+      "year": 1982
+    },
+    "Missing": {
+      "id": 15600,
+      "poster": "/fAAhC4RkpXu7SJgIESWQwVxcelo.jpg",
+      "title": "Missing",
+      "year": 1982
+    },
+    "Eating Raoul": {
+      "id": 28940,
+      "poster": "/bwbp2QoDH0MWxcoJCbErsfQpJmr.jpg",
+      "title": "Eating Raoul",
+      "year": 1982
+    },
+    "The Draughtsman's Contract": {
+      "id": 10831,
+      "poster": "/ljeTWR2kowGXijMc8LMuy72ULM3.jpg",
+      "title": "The Draughtsman's Contract",
+      "year": 1982
+    },
+    "Fast Times at Ridgemont High": {
+      "id": 13342,
+      "poster": "/s1DA8H7qwoOcAEhow2rCzuQtpuO.jpg",
+      "title": "Fast Times at Ridgemont High",
+      "year": 1982
+    },
+    "Halloween III: Season of the Witch": {
+      "id": 10676,
+      "poster": "/WABfdeaThFYXCySGIOvRNv2sSW.jpg",
+      "title": "Halloween III: Season of the Witch",
+      "year": 1982
+    },
+    "48 Hrs.": {
+      "id": 150,
+      "poster": "/rvvjXHzEDBIvIVDBHNOwHS7hVPu.jpg",
+      "title": "48 Hrs.",
+      "year": 1982
+    },
+    "E.T. the Extra-Terrestrial": {
+      "id": 601,
+      "poster": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+      "title": "E.T. the Extra-Terrestrial",
+      "year": 1982
+    },
+    "Personal Best": {
+      "id": 27609,
+      "poster": "/sQbIDpQ421ioiEhyo1VSXCDp1Si.jpg",
+      "title": "Personal Best",
+      "year": 1982
+    },
+    "Diner": {
+      "id": 13776,
+      "poster": "/2vKIdZ6JkFIzcQeaHg3xtdvOyRO.jpg",
+      "title": "Diner",
+      "year": 1982
+    },
+    "Deathtrap": {
+      "id": 17590,
+      "poster": "/fwrqCTcu5rAkU2dL2YqG6jjrLPn.jpg",
+      "title": "Deathtrap",
+      "year": 1982
+    },
+    "Blade Runner": {
+      "id": 78,
+      "poster": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+      "title": "Blade Runner",
+      "year": 1982
+    },
+    "Annie": {
+      "id": 15739,
+      "poster": "/xopqD99S1GqQOG8UAeSElsX9MeP.jpg",
+      "title": "Annie",
+      "year": 1982
+    },
+    "An Officer and a Gentleman": {
+      "id": 2623,
+      "poster": "/69adZbLeRk5TNQ3e0008dMnde9p.jpg",
+      "title": "An Officer and a Gentleman",
+      "year": 1982
+    },
+    "Evil Under the Sun": {
+      "id": 4193,
+      "poster": "/rQNMZoVVURf9YyYiBTsrOTEKALH.jpg",
+      "title": "Evil Under the Sun",
+      "year": 1982
+    },
+    "Rocky III": {
+      "id": 1371,
+      "poster": "/uqw16i2kmwVqkJHzjzbDU4xZ0Pl.jpg",
+      "title": "Rocky III",
+      "year": 1982
+    },
+    "Porky's": {
+      "id": 10246,
+      "poster": "/AqCOt1cWfKqCepxK7LIdT812idH.jpg",
+      "title": "Porky's",
+      "year": 1981
+    },
+    "The Best Little Whorehouse in Texas": {
+      "id": 16363,
+      "poster": "/yw3PNR3NVeKKfLWv8SgFQnXoHZh.jpg",
+      "title": "The Best Little Whorehouse in Texas",
+      "year": 1982
+    },
+    "Gandhi": {
+      "id": 783,
+      "poster": "/rOXftt7SluxskrFrvU7qFJa5zeN.jpg",
+      "title": "Gandhi",
+      "year": 1982
+    },
+    "The Toy": {
+      "id": 23805,
+      "poster": "/yt7Z37Uo2zls64XikaYh8nCwTAv.jpg",
+      "title": "The Toy",
+      "year": 1982
+    },
+    "Firefox": {
+      "id": 10724,
+      "poster": "/xP6VaKdFEriMzPXe3j5YyDF3ryS.jpg",
+      "title": "Firefox",
+      "year": 1982
+    },
+    "The Dark Crystal": {
+      "id": 11639,
+      "poster": "/fZPxRaa6gvCyGCh9Xk5kyPqz7fp.jpg",
+      "title": "The Dark Crystal",
+      "year": 1982
+    },
+    "Conan the Barbarian": {
+      "id": 9387,
+      "poster": "/qw2A587Ee61IwcSOLNFRhuOACZZ.jpg",
+      "title": "Conan the Barbarian",
+      "year": 1982
+    },
+    "Sophie's Choice": {
+      "id": 15764,
+      "poster": "/rZDPbPTFwuKgr5b9jixGFNYkGYt.jpg",
+      "title": "Sophie's Choice",
+      "year": 1982
+    },
+    "Victor/Victoria": {
+      "id": 12614,
+      "poster": "/mCjXcPRM3Rc7gOCGeVrBdPvF2bk.jpg",
+      "title": "Victor/Victoria",
+      "year": 1982
+    },
+    "Quest for Fire": {
+      "id": 62204,
+      "poster": "/tyzW1M00xfHKNtmTlT6wJ3F4pNr.jpg",
+      "title": "Quest for Fire",
+      "year": 1981
+    },
+    "My Favorite Year": {
+      "id": 31044,
+      "poster": "/xksAhZJx1WmHM03OaePNe9IiEBt.jpg",
+      "title": "My Favorite Year",
+      "year": 1982
+    },
+    "Night Shift": {
+      "id": 14742,
+      "poster": "/iS78MFtMDwWDP748juZQBK57C9o.jpg",
+      "title": "Night Shift",
+      "year": 1982
+    },
+    "Dead Men Don't Wear Plaid": {
+      "id": 9442,
+      "poster": "/cwYwZBEE73PakUWzbICzxYKlXAz.jpg",
+      "title": "Dead Men Don't Wear Plaid",
+      "year": 1982
+    },
+    "A Midsummer Night's Sex Comedy": {
+      "id": 8288,
+      "poster": "/8ahPxayLX8STeSeCy2MRWt4YiYV.jpg",
+      "title": "A Midsummer Night's Sex Comedy",
+      "year": 1982
+    },
+    "Author! Author!": {
+      "id": 41760,
+      "poster": "/t23OHqoicdzDOlQcpHJkuKJcQKd.jpg",
+      "title": "Author! Author!",
+      "year": 1982
+    },
+    "The Last American Virgin": {
+      "id": 27088,
+      "poster": "/ttGdSGgYDUGnPpJNyG2qGs4cd3C.jpg",
+      "title": "The Last American Virgin",
+      "year": 1982
+    },
+    "Gregory's Girl": {
+      "id": 21764,
+      "poster": "/vVOdKnervWwvxIeJzLCqQzQPs7o.jpg",
+      "title": "Gregory's Girl",
+      "year": 1980
+    },
+    "Grease 2": {
+      "id": 9037,
+      "poster": "/ufWc8AR5D66lwB2UZvZ9xvGcDSD.jpg",
+      "title": "Grease 2",
+      "year": 1982
+    },
+    "Tempest": {
+      "id": 48249,
+      "poster": "/wGhnc6SAOMH3p8wzFihLtHIKsyt.jpg",
+      "title": "Tempest",
+      "year": 1982
+    },
+    "Shoot the Moon": {
+      "id": 52772,
+      "poster": "/71GK3DRyFWN0Ke0s8WwgEEEOUJQ.jpg",
+      "title": "Shoot the Moon",
+      "year": 1982
+    },
+    "One from the Heart": {
+      "id": 41291,
+      "poster": "/5EyIQksa8C9tm82rHIJYGQXZ5Vs.jpg",
+      "title": "One from the Heart",
+      "year": 1982
+    },
+    "Still of the Night": {
+      "id": 32048,
+      "poster": "/qRTOsV47tfFIWF5QUx5KJtDPQwV.jpg",
+      "title": "Still of the Night",
+      "year": 1982
+    },
+    "Creepshow": {
+      "id": 16281,
+      "poster": "/4SoyTCEpsgLjX6yAyMsx3AsAyRQ.jpg",
+      "title": "Creepshow",
+      "year": 1982
+    },
+    "The Entity": {
+      "id": 24740,
+      "poster": "/e6fsd6zSJDPaFP4xWAtMkHJOkXU.jpg",
+      "title": "The Entity",
+      "year": 1982
+    },
+    "White Dog": {
+      "id": 47955,
+      "poster": "/2oU700G9pDwFt7px5GxOqDHFPfR.jpg",
+      "title": "White Dog",
+      "year": 1982
+    },
+    "Basket Case": {
+      "id": 27813,
+      "poster": "/ciyzEBzJ1TnafkgGXr6DqEVh1wk.jpg",
+      "title": "Basket Case",
+      "year": 1982
+    },
+    "Swamp Thing": {
+      "id": 17918,
+      "poster": "/7BGaE9A7UeyxH29aeFbQfzEmIi0.jpg",
+      "title": "Swamp Thing",
+      "year": 1982
+    },
+    "Amityville II: The Possession": {
+      "id": 16235,
+      "poster": "/xx9K2m2Arr5EZUQtmggKtEK1f2a.jpg",
+      "title": "Amityville II: The Possession",
+      "year": 1982
+    },
+    "Pieces": {
+      "id": 47886,
+      "poster": "/pYviMR1o0g8VMUZJK5WTvnZBS2g.jpg",
+      "title": "Pieces",
+      "year": 1982
+    },
+    "The House on Sorority Row": {
+      "id": 40229,
+      "poster": "/x2e22IVGkbCNCCDcw4gg5HezrSQ.jpg",
+      "title": "The House on Sorority Row",
+      "year": 1982
+    },
+    "The Slumber Party Massacre": {
+      "id": 27475,
+      "poster": "/rh65oDy8CNJoEAOf7oudhIt3DM6.jpg",
+      "title": "The Slumber Party Massacre",
+      "year": 1982
+    },
+    "Q: The Winged Serpent": {
+      "id": 27726,
+      "poster": "/hm5mvCN7IMAFjtkQwL4U1qwoJ4c.jpg",
+      "title": "Q",
+      "year": 1982
+    },
+    "Tenebrae": {
+      "id": 29702,
+      "poster": "/uWNCyUX9sjtnhleqyw2W5ECijlP.jpg",
+      "title": "Tenebre",
+      "year": 1982
+    },
+    "Class of 1984": {
+      "id": 11564,
+      "poster": "/qIu9UGDLeACl7YGuAAgTFfQ0j8I.jpg",
+      "title": "Class of 1984",
+      "year": 1982
+    },
+    "Vice Squad": {
+      "id": 63460,
+      "poster": "/3uvyU3s9cKiDcgdsDrkdUWemaNo.jpg",
+      "title": "Vice Squad",
+      "year": 1982
+    },
+    "Frances": {
+      "id": 3526,
+      "poster": "/eyUq8VBgoHncr0cXFTKgg3VPyfi.jpg",
+      "title": "Frances",
+      "year": 1982
+    },
+    "The Ballad of Gregorio Cortez": {
+      "id": 218500,
+      "poster": "/nU5xLRQBn1nLqhW9UumdRQTGjbF.jpg",
+      "title": "The Ballad of Gregorio Cortez",
+      "year": 1983
+    },
+    "Barbarosa": {
+      "id": 31665,
+      "poster": "/nfxPWtxocxrHutDpAdJhaHVEUek.jpg",
+      "title": "Barbarosa",
+      "year": 1982
+    },
+    "Smash Palace": {
+      "id": 33310,
+      "poster": "/84u6i9r8jsqTYVG6SRd0CvlaoP6.jpg",
+      "title": "Smash Palace",
+      "year": 1981
+    },
+    "La Balance": {
+      "id": 86404,
+      "poster": "/zQ5OfelytoqlK5o7hPAtgISkJQa.jpg",
+      "title": "La Balance",
+      "year": 1982
+    },
+    "Veronika Voss": {
+      "id": 2262,
+      "poster": "/A09gh5oWVfincs6BbRz91HL4Rgc.jpg",
+      "title": "Veronika Voss",
+      "year": 1982
+    },
+    "Querelle": {
+      "id": 42135,
+      "poster": "/7rakWIm1EeXvmInWljMqugxBqK2.jpg",
+      "title": "Querelle",
+      "year": 1982
+    },
+    "Koyaanisqatsi": {
+      "id": 11314,
+      "poster": "/6zCNciRcob8lwuydVXgq0esla8L.jpg",
+      "title": "Koyaanisqatsi",
+      "year": 1983
+    },
+    "Smithereens": {
+      "id": 94066,
+      "poster": "/jp29gfdiP7AxtjqzlzyaztFORMF.jpg",
+      "title": "Smithereens",
+      "year": 1982
+    },
+    "Chan Is Missing": {
+      "id": 14272,
+      "poster": "/tox88i0SL3Nv0E7dy5EBboN6j46.jpg",
+      "title": "Chan Is Missing",
+      "year": 1982
+    },
+    "Richard Pryor: Live on the Sunset Strip": {
+      "id": 21923,
+      "poster": "/rK9eAYCr68dwv1mw4weaJu6Lx3W.jpg",
+      "title": "Richard Pryor: Live on the Sunset Strip",
+      "year": 1982
+    },
+    "Say Amen, Somebody": {
+      "id": 123020,
+      "poster": "/84wtq20d0lxgJMO9NuUXydQaHRC.jpg",
+      "title": "Say Amen, Somebody",
+      "year": 1983
+    },
+    "Burden of Dreams": {
+      "id": 42124,
+      "poster": "/qJuD9yZ7Mn9QCVqKO9WarNNYo4R.jpg",
+      "title": "Burden of Dreams",
+      "year": 1982
+    },
+    "The King of Comedy": {
+      "id": 262,
+      "poster": "/m24EbHxT9NGYEkOlu29YcLOgjgK.jpg",
+      "title": "The King of Comedy",
+      "year": 1982
+    },
+    "The Year of Living Dangerously": {
+      "id": 11541,
+      "poster": "/y9GIM95xWWU4urqqu0kziby0Ykg.jpg",
+      "title": "The Year of Living Dangerously",
+      "year": 1982
+    },
+    "Halloween": {
+      "id": 948,
+      "poster": "/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+      "title": "Halloween",
+      "year": 1978
+    },
+    "Big Trouble in Little China": {
+      "id": 6978,
+      "poster": "/rCy3CFJfWVBSyiVcFOQMcMAh5R2.jpg",
+      "title": "Big Trouble in Little China",
+      "year": 1986
+    },
+    "Alien": {
+      "id": 348,
+      "poster": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "title": "Alien",
+      "year": 1979
+    },
+    "The Blues Brothers": {
+      "id": 525,
+      "poster": "/rhYJKOt6UrQq7JQgLyQcSWW5R86.jpg",
+      "title": "The Blues Brothers",
+      "year": 1980
+    },
+    "Barry Lyndon": {
+      "id": 3175,
+      "poster": "/znfLskGQnXYB2xcOGM9eInRHPAV.jpg",
+      "title": "Barry Lyndon",
+      "year": 1975
+    },
+    "The Sting": {
+      "id": 9277,
+      "poster": "/ckmYng37zey8INYf6d10cVgIG93.jpg",
+      "title": "The Sting",
+      "year": 1973
+    },
+    "Working Girl": {
+      "id": 3525,
+      "poster": "/q2jfFzZvAzjTaArQR0tjilIZ5aJ.jpg",
+      "title": "Working Girl",
+      "year": 1988
+    },
+    "When Harry Met Sally...": {
+      "id": 639,
+      "poster": "/rFOiFUhTMtDetqCGClC9PIgnC1P.jpg",
+      "title": "When Harry Met Sally...",
+      "year": 1989
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "The Martian": {
+      "id": 286217,
+      "poster": "/fASz8A0yFE3QB6LgGoOfwvFSseV.jpg",
+      "title": "The Martian",
+      "year": 2015
+    },
+    "Ford v Ferrari": {
+      "id": 359724,
+      "poster": "/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+      "title": "Ford v Ferrari",
+      "year": 2019
+    },
+    "Terms of Endearment": {
+      "id": 11050,
+      "poster": "/l77DRjJuykqKMtD9GTK4YT7qKHW.jpg",
+      "title": "Terms of Endearment",
+      "year": 1983
+    },
+    "Coal Miner's Daughter": {
+      "id": 16769,
+      "poster": "/bzHFDAdUad4QcHPi2UOqvaQKNWA.jpg",
+      "title": "Coal Miner's Daughter",
+      "year": 1980
+    },
+    "Raggedy Man": {
+      "id": 96966,
+      "poster": "/nYYAq3645BZPwdmfw7rsSTp8HFE.jpg",
+      "title": "Raggedy Man",
+      "year": 1981
+    },
+    "The River": {
+      "id": 38557,
+      "poster": "/bXIlE2QVIarVug9wpyPIz2xiWxf.jpg",
+      "title": "The River",
+      "year": 1984
+    },
+    "Kramer vs. Kramer": {
+      "id": 12102,
+      "poster": "/3CUP5V5SWfHSK4qvkZF7lMNyugY.jpg",
+      "title": "Kramer vs. Kramer",
+      "year": 1979
+    },
+    "The Cider House Rules": {
+      "id": 1715,
+      "poster": "/qAECAgqjSFRVZzEEGbFAZqZNiDh.jpg",
+      "title": "The Cider House Rules",
+      "year": 1999
+    },
+    "The Great Waldo Pepper": {
+      "id": 19740,
+      "poster": "/oe8ew2TXKbAoMTXHjHNIWWZKDBr.jpg",
+      "title": "The Great Waldo Pepper",
+      "year": 1975
+    },
+    "That's Life!": {
+      "id": 52961,
+      "poster": "/opZSLqdoRoAIg6oW99iiNmrSgAp.jpg",
+      "title": "That's Life!",
+      "year": 1986
+    },
+    "S.O.B.": {
+      "id": 27225,
+      "poster": "/6irq1xZdQ8rC4AuxPDlA9NkPyYs.jpg",
+      "title": "S.O.B.",
+      "year": 1981
+    },
+    "10": {
+      "id": 9051,
+      "poster": "/uUCr4WTogPnb7LOILL8opxSyxGw.jpg",
+      "title": "10",
+      "year": 1979
+    },
+    "Star Trek: The Motion Picture": {
+      "id": 152,
+      "poster": "/wfiAfNwH6CMKxz4vRaW8CPTabtk.jpg",
+      "title": "Star Trek: The Motion Picture",
+      "year": 1979
+    },
+    "The Lovers": {
+      "id": 426253,
+      "poster": "/tRWza39fHyef12FvScIBduaHMi6.jpg",
+      "title": "The Lovers",
+      "year": 2017
+    },
+    "The Cook, the Thief, His Wife & Her Lover": {
+      "id": 7452,
+      "poster": "/15xMqAnFsROopAT66zdRyu2Dtek.jpg",
+      "title": "The Cook, the Thief, His Wife & Her Lover",
+      "year": 1989
+    },
+    "A Zed & Two Noughts": {
+      "id": 33078,
+      "poster": "/55eiU0JNfNRqWbpabsf6NukntI2.jpg",
+      "title": "A Zed & Two Noughts",
+      "year": 1985
+    },
+    "The Belly of an Architect": {
+      "id": 17238,
+      "poster": "/gjS08AHtZ7b44WC2NCuYWpJRoCM.jpg",
+      "title": "The Belly of an Architect",
+      "year": 1987
+    },
+    "Casino Royale": {
+      "id": 36557,
+      "poster": "/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
+      "title": "Casino Royale",
+      "year": 2006
+    },
+    "Skyfall": {
+      "id": 37724,
+      "poster": "/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
+      "title": "Skyfall",
+      "year": 2012
+    },
+    "Mr. Arkadin": {
+      "id": 44026,
+      "poster": "/hoBfh3jmA3XDDx9tGgMwdGd37GE.jpg",
+      "title": "Mr. Arkadin",
+      "year": 1955
+    },
+    "Kingdom of Heaven": {
+      "id": 1495,
+      "poster": "/rNaBe4TwbMef71sgscqabpGKsxh.jpg",
+      "title": "Kingdom of Heaven",
+      "year": 2005
+    },
+    "Napoleon": {
+      "id": 753342,
+      "poster": "/ytFOXyghxLzAM4KZyazDdEkM66q.jpg",
+      "title": "Napoleon",
+      "year": 2023
+    },
+    "Fight Club": {
+      "id": 550,
+      "poster": "/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+      "title": "Fight Club",
+      "year": 1999
+    },
+    "Death on the Nile": {
+      "id": 505026,
+      "poster": "/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",
+      "title": "Death on the Nile",
+      "year": 2022
+    },
+    "Another 48 Hrs.": {
+      "id": 11595,
+      "poster": "/ixeygHHDsuzsg67H1IPTc3Qp8cR.jpg",
+      "title": "Another 48 Hrs.",
+      "year": 1990
+    },
+    "Lethal Weapon": {
+      "id": 941,
+      "poster": "/fTq4ThIP3pQTYR9eDepsbDHqdcs.jpg",
+      "title": "Lethal Weapon",
+      "year": 1987
+    },
+    "Trading Places": {
+      "id": 1621,
+      "poster": "/8mBuLCOcpWnmYtZc4aqtvDXslv6.jpg",
+      "title": "Trading Places",
+      "year": 1983
+    },
+    "Coming to America": {
+      "id": 9602,
+      "poster": "/8YZiA1o264dk0cr1USyMdph6SZl.jpg",
+      "title": "Coming to America",
+      "year": 1988
+    },
+    "North Dallas Forty": {
+      "id": 29786,
+      "poster": "/5e9IeZPFmApZZ37ixq9QhYZXURq.jpg",
+      "title": "North Dallas Forty",
+      "year": 1979
+    },
+    "Wake in Fright": {
+      "id": 26405,
+      "poster": "/5XwMDn2acQZ3CHuJ3EDXLg348G3.jpg",
+      "title": "Wake in Fright",
+      "year": 1971
+    },
+    "Fun with Dick and Jane": {
+      "id": 24109,
+      "poster": "/obBXkCU29eRzbVX5erjrAxugOpN.jpg",
+      "title": "Fun with Dick and Jane",
+      "year": 1977
+    },
+    "The Apprenticeship of Duddy Kravitz": {
+      "id": 42451,
+      "poster": "/wizmy0hFKs7lsn2ljHMctj86KEN.jpg",
+      "title": "The Apprenticeship of Duddy Kravitz",
+      "year": 1974
+    },
+    "The Brood": {
+      "id": 28942,
+      "poster": "/zSEt4QXRI4Gypd9xvzvucOmPNl5.jpg",
+      "title": "The Brood",
+      "year": 1979
+    },
+    "The Yakuza": {
+      "id": 28415,
+      "poster": "/Aj6JpRPswDR4eMO1OSnoTc2yrPu.jpg",
+      "title": "The Yakuza",
+      "year": 1974
+    },
+    "Ask the Dust": {
+      "id": 1967,
+      "poster": "/iuJZyJNiQxnmMBBqu40mF0a2nuv.jpg",
+      "title": "Ask the Dust",
+      "year": 2006
+    },
+    "Tequila Sunrise": {
+      "id": 10396,
+      "poster": "/8LoG0GL5N5e7zvvXezwwGnUfRHL.jpg",
+      "title": "Tequila Sunrise",
+      "year": 1988
+    },
+    "The Godfather": {
+      "id": 238,
+      "poster": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "title": "The Godfather",
+      "year": 1972
+    },
+    "The Parallax View": {
+      "id": 17365,
+      "poster": "/83mQRrNO9ewz0qLSJcGp4nGBRr.jpg",
+      "title": "The Parallax View",
+      "year": 1974
+    },
+    "Marathon Man": {
+      "id": 10518,
+      "poster": "/uPNgubSiri2yvBQRPtP77ViYjN.jpg",
+      "title": "Marathon Man",
+      "year": 1976
+    },
+    "Heaven Can Wait": {
+      "id": 12185,
+      "poster": "/h1yOiO9cow6gwmGxSAWvPdY4lhJ.jpg",
+      "title": "Heaven Can Wait",
+      "year": 1978
+    },
+    "Reds": {
+      "id": 18254,
+      "poster": "/AeiKdVVM93fwfQG1m3N0cgVZgHl.jpg",
+      "title": "Reds",
+      "year": 1981
+    },
+    "Crimson Tide": {
+      "id": 8963,
+      "poster": "/21nqRJ6ofEgVvEl68J4O9V26Xzy.jpg",
+      "title": "Crimson Tide",
+      "year": 1995
+    },
+    "Armageddon": {
+      "id": 95,
+      "poster": "/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg",
+      "title": "Armageddon",
+      "year": 1998
+    },
+    "The Music Man": {
+      "id": 13671,
+      "poster": "/4yo6qaqVF1IThXMapo4yW9BRWjV.jpg",
+      "title": "The Music Man",
+      "year": 1962
+    },
+    "The Substance": {
+      "id": 933260,
+      "poster": "/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+      "title": "The Substance",
+      "year": 2024
+    },
+    "MaXXXine": {
+      "id": 1023922,
+      "poster": "/ArvoFK6nlouZRxYmtIOUzKIrg90.jpg",
+      "title": "MaXXXine",
+      "year": 2024
+    },
+    "Good One": {
+      "id": 1122618,
+      "poster": "/yesxQtWrG5vCrNsnG3TrXiOfpOZ.jpg",
+      "title": "Good One",
+      "year": 2024
+    },
+    "Spartacus": {
+      "id": 967,
+      "poster": "/r0Fgg1GyZgzokaiw2HFQv3oPaL2.jpg",
+      "title": "Spartacus",
+      "year": 1960
+    },
+    "Inglourious Basterds": {
+      "id": 16869,
+      "poster": "/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg",
+      "title": "Inglourious Basterds",
+      "year": 2009
+    },
+    "The Dark Knight": {
+      "id": 155,
+      "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    "Emilia Pérez": {
+      "id": 974950,
+      "poster": "/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg",
+      "title": "Emilia Pérez",
+      "year": 2024
+    },
+    "The Alto Knights": {
+      "id": 1013601,
+      "poster": "/epGF8vv3caKLm6X8PKbD5xirFLa.jpg",
+      "title": "The Alto Knights",
+      "year": 2025
+    },
+    "The Odyssey": {
+      "id": 1368337,
+      "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "title": "The Odyssey",
+      "year": 2026
+    },
+    "Tin Men": {
+      "id": 10896,
+      "poster": "/5rWE9ft0Uc2kuDWlkg5vQth58XZ.jpg",
+      "title": "Tin Men",
+      "year": 1987
+    },
+    "The Great Muppet Caper": {
+      "id": 14900,
+      "poster": "/lnJc4B4njeyNHWqG00ozuUIhtu5.jpg",
+      "title": "The Great Muppet Caper",
+      "year": 1981
+    },
+    "Aguirre, the Wrath of God": {
+      "id": 2000,
+      "poster": "/zU1FLiGJw3m3iFrakwA0SzFvIPV.jpg",
+      "title": "Aguirre, the Wrath of God",
+      "year": 1972
+    },
+    "Nosferatu the Vampyre": {
+      "id": 6404,
+      "poster": "/jHKzGYwf7P34vz8MhJBTN6cnaYD.jpg",
+      "title": "Nosferatu the Vampyre",
+      "year": 1979
+    },
+    "Rescue Dawn": {
+      "id": 9952,
+      "poster": "/ymPlV2ymUBSctfRzpehFOxFmJiS.jpg",
+      "title": "Rescue Dawn",
+      "year": 2007
+    },
+    "9 Songs": {
+      "id": 27,
+      "poster": "/91O7z0vo7MiNWd5xD2BoivwbQsb.jpg",
+      "title": "9 Songs",
+      "year": 2004
+    },
+    "The Lord of the Rings: The Fellowship of the Ring": {
+      "id": 120,
+      "poster": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001
+    }
+  },
+  "spotifyEpisodeId": "1Czuwhw8Lct4Kx89KJe1Bz"
+}

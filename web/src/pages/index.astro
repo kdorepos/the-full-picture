@@ -1,0 +1,108 @@
+---
+import Base from '../layouts/Base.astro';
+
+const modules = import.meta.glob('../data/episodes/*.json', { eager: true });
+const episodes = Object.values(modules)
+  .map((m) => m.default)
+  .sort((a, b) => (a.published < b.published ? 1 : -1));
+
+const filmsIn = (s) =>
+  (s.films?.length ?? 0) +
+  (s.picks?.length ?? 0) +
+  (s.teams?.reduce((n, t) => n + t.picks.filter((p) => p.year).length, 0) ?? 0) +
+  (s.slates?.reduce((n, sl) => n + sl.picks.length, 0) ?? 0) +
+  (s.categories?.reduce((n, c) => n + (c.nominees?.length ?? 0), 0) ?? 0);
+const filmCount = (ep) => (ep.segments ?? []).reduce((n, s) => n + filmsIn(s), 0);
+const fmt = (d) => new Date(d).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+const KIND = {
+  review: 'Review', ranking: 'Rankings', topfive: 'Top Five', halloffame: 'Hall of Fame',
+  discussion: 'Discussion', interview: 'Interview', list: 'Roundtable', draft: 'Draft',
+  auction: 'Auction', awards: 'Awards',
+};
+const kind = (ep) => [...new Set((ep.segments ?? []).map((s) => KIND[s.kind] ?? 'Segment'))].join(' · ') || 'Episode';
+---
+<Base title="The Full Picture: every film, every episode" description="A catalog of every movie discussed on The Big Picture, episode by episode.">
+  <section class="cover">
+    <div class="wrap">
+      <p class="eyebrow">The Big Picture · Film catalog</p>
+      <h1><span id="hero">Every film they name, on the record.</span></h1>
+      <p class="lede">Every movie mentioned on each episode, cataloged and linked, whether it was reviewed, drafted, or just brought up in passing.</p>
+    </div>
+  </section>
+
+  <div class="wrap">
+    <section class="sale-section" style="border-bottom:none">
+      <p class="rubric">Episodes <span class="sub">newest first</span></p>
+      <p class="ai-note">
+        <b>AI-generated</b>
+        Episodes are transcribed and analyzed with AI models. The matches aren't perfect —
+        expect the occasional misheard title or a link to the wrong film.
+      </p>
+      <div class="catalog" id="catalog">
+        {episodes.map((ep) => (
+          <a class="sale-card" href={`/ep/${ep.slug}`}>
+            <div>
+              <span class="eyebrow">{kind(ep)} · {fmt(ep.published)} · {ep.runtimeMin} min</span>
+              <h2>{ep.title}</h2>
+              <span class="credits">{ep.hosts.join(' · ')}</span>
+            </div>
+            <span class="count">{filmCount(ep)}<small>films</small></span>
+          </a>
+        ))}
+      </div>
+      {episodes.length > 5 && (
+        <button class="show-more" id="show-more" type="button">
+          Show more <span class="sub">5 at a time</span>
+        </button>
+      )}
+    </section>
+  </div>
+
+  <script is:inline>
+    // Show episodes 5 at a time; reveal the next 5 per click. Progressive enhancement:
+    // all cards are in the static HTML, so with JS off the full list still renders.
+    (function () {
+      const PAGE = 5;
+      const cards = Array.from(document.querySelectorAll('#catalog > .sale-card'));
+      const btn = document.getElementById('show-more');
+      if (!btn || cards.length <= PAGE) return;
+      let shown = PAGE;
+      const render = () => {
+        cards.forEach((c, i) => {
+          c.style.display = i < shown ? '' : 'none';
+          c.classList.remove('is-last-visible');
+        });
+        cards[Math.min(shown, cards.length) - 1]?.classList.add('is-last-visible');
+        btn.style.display = shown >= cards.length ? 'none' : '';
+      };
+      btn.addEventListener('click', () => { shown += PAGE; render(); });
+      render();
+    })();
+  </script>
+
+  <script is:inline>
+    // Hero headline: pick one line at random per page load (the canonical line ships in the
+    // HTML for SEO / no-JS). No cycling — the h1 sizes to whatever line is shown, so there's
+    // no reserved whitespace under shorter lines.
+    (function () {
+      const el = document.getElementById('hero');
+      if (!el) return;
+      const lines = [
+        "Every film they name, on the record.",
+        "The films behind every draft, auction, and ranking.",
+        "Every pick, every snub, every movie-naming tangent.",
+        "So you don't have to rewind to catch the title.",
+        "The receipts for every movie they brought up.",
+        "Reviewed, drafted, or dropped in passing. All of it, listed.",
+        "The Big Picture's film mentions, cataloged episode by episode.",
+        "What they watched, argued over, and wouldn't let go of.",
+        "The movie behind every \"wait, have you seen—\".",
+        "From the headliner to the movie they mentioned once.",
+        "Every movie, every episode, none of the rewinding.",
+        "A running record of a show that can't stop naming movies.",
+        "Two-plus hours of movie talk, every title accounted for.",
+      ];
+      el.textContent = lines[Math.floor(Math.random() * lines.length)];
+    })();
+  </script>
+</Base>

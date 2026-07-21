@@ -1,0 +1,369 @@
+{
+  "slug": "leaving-neverland-spielbergs-oscar-battle-with-netflix-and-t",
+  "title": "'Leaving Neverland,' Spielberg's Oscar Battle with Netflix, and the Best Movies of 2019 So Far",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2019-03-05",
+  "runtimeMin": 57,
+  "format": "Sean Fennessey and Amanda Dobbins on Spielberg's push to keep Netflix out of the Oscars, then Rob Harvilla joins for 'Leaving Neverland,' and a run through the best movies of 2019 so far.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Spielberg, Netflix, and the Oscars",
+      "note": "the streaming-vs-theaters fight",
+      "films": [
+        {
+          "title": "Green Book",
+          "year": 2018,
+          "note": "Spielberg's own Best Picture vote, admitted in the same message: the profile Amanda pictured for a Green Book voter, confirmed."
+        },
+        {
+          "title": "Roma",
+          "year": 2018,
+          "note": "The Netflix release that set off the theatrical-window argument."
+        },
+        {
+          "title": "First Reformed",
+          "year": 2017,
+          "note": "Schrader's example: A24 kept it in theaters and festivals for a year, a run he doubts Netflix would have given it."
+        },
+        {
+          "title": "The Irishman",
+          "year": 2019,
+          "note": "Scorsese's Netflix film, the marquee title on a 2019 slate they'd love to see in a theater for an extra buck a month."
+        },
+        {
+          "title": "The Last Thing He Wanted",
+          "year": 2020,
+          "note": "Dee Rees's Netflix film, cited as a true-blue awards contender headed to streaming."
+        },
+        {
+          "title": "Triple Frontier",
+          "year": 2019,
+          "note": "Seen in a Netflix screening room, loud; they agreed it was the right place for it."
+        },
+        {
+          "title": "The Heiress",
+          "year": 1949,
+          "note": "Sean caught it on TCM the night before; a detour into which corporate arm gets to show old movies."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "'Leaving Neverland'",
+      "guest": "Rob Harvilla on",
+      "films": [
+        {
+          "title": "Leaving Neverland",
+          "year": 2019,
+          "note": "Dan Reed's HBO documentary on James Safechuck and Wade Robson; the Jackson estate sued HBO for $100 million. Just the two men and their families for four hours, no talking heads. They land on Rob's line: there is no canceling Michael Jackson."
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "heading": "The Best Movies of 2019 So Far",
+      "note": "one host, one film",
+      "picks": [
+        {
+          "title": "Everybody Knows",
+          "year": 2018,
+          "by": "Amanda Dobbins",
+          "note": "Farhadi's Spanish-set drama with Penelope Cruz and Javier Bardem, sold as a thriller but closer to a psychological one."
+        },
+        {
+          "title": "Transit",
+          "year": 2018,
+          "by": "Sean Fennessey",
+          "note": "Petzold's refugee story set in an unnamed year, a WWII plot shot as if it were happening now."
+        },
+        {
+          "title": "Apollo 11",
+          "year": 2019,
+          "by": "Amanda Dobbins",
+          "note": "Archival-only moon-landing doc; she saw it in IMAX, $45 for two tickets."
+        },
+        {
+          "title": "Alita: Battle Angel",
+          "year": 2019,
+          "by": "Sean Fennessey",
+          "note": "Rodriguez's cyborg spectacle, Oscar winners reading ridiculous dialogue: his big-dumb-loud pick."
+        },
+        {
+          "title": "High Flying Bird",
+          "year": 2019,
+          "by": "Amanda Dobbins",
+          "note": "Soderbergh's basketball movie that went by faster than either of them wanted."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "March preview",
+      "films": [
+        "Us",
+        "Dumbo",
+        "The Beach Bum"
+      ]
+    },
+    {
+      "group": "Also mentioned",
+      "films": [
+        "Captain Marvel",
+        "Velvet Buzzsaw",
+        "Fyre",
+        "Isn't It Romantic",
+        "The Lego Movie 2: The Second Part",
+        "Glass",
+        "The Upside",
+        "How to Train Your Dragon: The Hidden World",
+        "Climax",
+        "Get Out",
+        "Halloween",
+        "Split",
+        "Unbreakable",
+        "Apollo 13",
+        "Spring Breakers",
+        "Phoenix",
+        "A Separation",
+        "The Past",
+        "The Salesman",
+        "The Matrix"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Surviving R. Kelly",
+      "Lost"
+    ],
+    "Ads": [
+      "Bud Light"
+    ]
+  },
+  "tmdbOverrides": {
+    "Dumbo": 329996,
+    "Halloween": 424139,
+    "Phoenix": 254578,
+    "Isn't It Romantic": 449563
+  },
+  "tmdb": {
+    "Green Book": {
+      "id": 490132,
+      "poster": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+      "title": "Green Book",
+      "year": 2018
+    },
+    "Roma": {
+      "id": 426426,
+      "poster": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+      "title": "Roma",
+      "year": 2018
+    },
+    "First Reformed": {
+      "id": 458737,
+      "poster": "/8HKA3Hwf8jQWy8TCYWr7C8Wft23.jpg",
+      "title": "First Reformed",
+      "year": 2018
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "The Last Thing He Wanted": {
+      "id": 505225,
+      "poster": "/4mDbGqi8mloDdxkviq13SKCfuFH.jpg",
+      "title": "The Last Thing He Wanted",
+      "year": 2020
+    },
+    "Triple Frontier": {
+      "id": 399361,
+      "poster": "/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg",
+      "title": "Triple Frontier",
+      "year": 2019
+    },
+    "The Heiress": {
+      "id": 28571,
+      "poster": "/1oN0zsjw3iS1HaOLoZbmptzrD1W.jpg",
+      "title": "The Heiress",
+      "year": 1949
+    },
+    "Leaving Neverland": null,
+    "Everybody Knows": {
+      "id": 401545,
+      "poster": "/1TuuM451os3NaltCwGfPCVL2BST.jpg",
+      "title": "Everybody Knows",
+      "year": 2018
+    },
+    "Transit": {
+      "id": 471853,
+      "poster": "/3YLOCnokMMSIOCvA0kCnkhpTD79.jpg",
+      "title": "Transit",
+      "year": 2018
+    },
+    "Apollo 11": {
+      "id": 549559,
+      "poster": "/woLMRroHyoTGoXyxdEeBJEYBFtu.jpg",
+      "title": "Apollo 11",
+      "year": 2019
+    },
+    "Alita: Battle Angel": {
+      "id": 399579,
+      "poster": "/xRWht48C2V8XNfzvPehyClOvDni.jpg",
+      "title": "Alita: Battle Angel",
+      "year": 2019
+    },
+    "High Flying Bird": {
+      "id": 510498,
+      "poster": "/ccE21xixa1zhkGtWDr4n8ReOp40.jpg",
+      "title": "High Flying Bird",
+      "year": 2019
+    },
+    "Us": {
+      "id": 458723,
+      "poster": "/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+      "title": "Us",
+      "year": 2019
+    },
+    "Dumbo": {
+      "id": 329996,
+      "poster": "/A7XkpLfNH0El2yyDLc4b0KLAKvE.jpg",
+      "title": "Dumbo",
+      "year": 2019
+    },
+    "The Beach Bum": {
+      "id": 441384,
+      "poster": "/iXMxdC7T0t3dxislnUNybcvJmAH.jpg",
+      "title": "The Beach Bum",
+      "year": 2019
+    },
+    "Captain Marvel": {
+      "id": 299537,
+      "poster": "/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+      "title": "Captain Marvel",
+      "year": 2019
+    },
+    "Velvet Buzzsaw": {
+      "id": 463684,
+      "poster": "/3rViQPcrWthMNecp5XnkKev6BzW.jpg",
+      "title": "Velvet Buzzsaw",
+      "year": 2019
+    },
+    "Fyre": {
+      "id": 567860,
+      "poster": "/yFsP0BAJhAH3RTXCAnGvI1CtaUb.jpg",
+      "title": "Fyre",
+      "year": 2019
+    },
+    "Isn't It Romantic": {
+      "id": 449563,
+      "poster": "/5xNBYXuv8wqiLVDhsfqCOr75DL7.jpg",
+      "title": "Isn't It Romantic",
+      "year": 2019
+    },
+    "The Lego Movie 2: The Second Part": {
+      "id": 280217,
+      "poster": "/QTESAsBVZwjtGJNDP7utiGV37z.jpg",
+      "title": "The Lego Movie 2: The Second Part",
+      "year": 2019
+    },
+    "Glass": {
+      "id": 450465,
+      "poster": "/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
+      "title": "Glass",
+      "year": 2019
+    },
+    "The Upside": {
+      "id": 440472,
+      "poster": "/hPZ2caow1PCND6qnerfgn6RTXdm.jpg",
+      "title": "The Upside",
+      "year": 2019
+    },
+    "How to Train Your Dragon: The Hidden World": {
+      "id": 166428,
+      "poster": "/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg",
+      "title": "How to Train Your Dragon: The Hidden World",
+      "year": 2019
+    },
+    "Climax": {
+      "id": 507076,
+      "poster": "/47IXH2iEWwX0F7vIyGXaKQ0psBG.jpg",
+      "title": "Climax",
+      "year": 2018
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Halloween": {
+      "id": 424139,
+      "poster": "/f7JAX5EGk4GgsEnus6OxyzwpFp7.jpg",
+      "title": "Halloween",
+      "year": 2018
+    },
+    "Split": {
+      "id": 381288,
+      "poster": "/lli31lYTFpvxVBeFHWoe5PMfW5s.jpg",
+      "title": "Split",
+      "year": 2017
+    },
+    "Unbreakable": {
+      "id": 9741,
+      "poster": "/mLuehrGLiK5zFCyRmDDOH6gbfPf.jpg",
+      "title": "Unbreakable",
+      "year": 2000
+    },
+    "Apollo 13": {
+      "id": 568,
+      "poster": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+      "title": "Apollo 13",
+      "year": 1995
+    },
+    "Spring Breakers": {
+      "id": 122081,
+      "poster": "/9tyPnyEkL44qbAliM9jMRWc6bjg.jpg",
+      "title": "Spring Breakers",
+      "year": 2013
+    },
+    "Phoenix": {
+      "id": 254578,
+      "poster": "/rJuKu5Rpg92AkzyC5rbYbqsNPI9.jpg",
+      "title": "Phoenix",
+      "year": 2014
+    },
+    "A Separation": {
+      "id": 60243,
+      "poster": "/xQadpnoLokxzN3hRpCPbBGpxsiz.jpg",
+      "title": "A Separation",
+      "year": 2011
+    },
+    "The Past": {
+      "id": 152780,
+      "poster": "/8nff89qjYN3Hck5G33xeRPsM8TZ.jpg",
+      "title": "The Past",
+      "year": 2013
+    },
+    "The Salesman": {
+      "id": 375315,
+      "poster": "/x4PIuYU5ZMMXiTrheNR8vCTYPBf.jpg",
+      "title": "The Salesman",
+      "year": 2016
+    },
+    "The Matrix": {
+      "id": 603,
+      "poster": "/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+      "title": "The Matrix",
+      "year": 1999
+    }
+  }
+}

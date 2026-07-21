@@ -1,0 +1,336 @@
+{
+  "slug": "spider-man-no-way-home-is-here",
+  "title": "‘Spider-Man: No Way Home’ Is Here!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Mallory Rubin"
+  ],
+  "published": "2021-12-17",
+  "runtimeMin": 106,
+  "format": "A three-way, eventually-spoiler-filled review of the Spider-Man multiverse crossover, then Sean talks to Tommy Oliver about his Juice WRLD documentary.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘Spider-Man: No Way Home’",
+      "note": "Sean Fennessey, Amanda Dobbins, and Mallory Rubin",
+      "films": [
+        {
+          "title": "Spider-Man: No Way Home",
+          "year": 2021,
+          "note": "All three loved it. Mallory did a full rewatch of every prior Spider-Man film to prepare; Amanda, no fan of comic-book movies generally, calls it “completely delightful”; Sean says it's one of his best theater experiences in five years. Aunt May dies, and Peter ends the movie having every person in his life forget he's Spider-Man, including MJ and Ned."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "How It Fits the Trilogy",
+      "films": [
+        {
+          "title": "Spider-Man: Homecoming",
+          "year": 2017,
+          "note": "The John Watts-directed start of the Tom Holland run — lighter, John Hughes-ish, set mostly in a Queens high school."
+        },
+        {
+          "title": "Spider-Man: Far From Home",
+          "year": 2019,
+          "note": "Sean argues it's heavier than it gets credit for: the Infinity Saga's coda, dealing with the fallout of Tony Stark's death and Peter handing off Edith to Mysterio."
+        },
+        {
+          "title": "Captain America: Civil War",
+          "year": 2016,
+          "note": "Tom Holland's Peter Parker made his MCU debut here, before his own standalone film."
+        },
+        {
+          "title": "Avengers: Endgame",
+          "year": 2019,
+          "note": "No Way Home picks up in the instant Far From Home ends, itself downstream of Endgame."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Where Phase Four Stands",
+      "note": "the MCU mumbo-jumbo problem",
+      "films": [
+        {
+          "title": "Eternals",
+          "year": 2021,
+          "note": "Amanda's comparison point for MCU mythology that didn't land for her — a new cast, fake Greek mythology, and a robot she couldn't buy into."
+        },
+        {
+          "title": "Shang-Chi and the Legend of the Ten Rings",
+          "year": 2021,
+          "note": "A good movie, per Sean, let down by a noisy, messy CGI ending."
+        },
+        {
+          "title": "Black Widow",
+          "year": 2021,
+          "note": "Sean says he still doesn't totally understand the last 30 minutes."
+        },
+        {
+          "title": "Thor: The Dark World",
+          "year": 2013,
+          "note": "The other MCU “convergence” event, raised as a contrast to how much smaller-scale this movie's universe-opening actually is."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Three Spider-Men, the Villains, and What's Next",
+      "films": [
+        {
+          "title": "Daredevil",
+          "year": 2003,
+          "note": "Ben Affleck's version, which Sean calls “deeply not good.” Comes up because Charlie Cox's Matt Murdock cameo confirms the Netflix Daredevil now exists inside the MCU proper."
+        },
+        {
+          "title": "Spider-Man 3",
+          "year": 2007,
+          "note": "The cautionary tale for too many villains crowding one movie — a trap this one avoids despite juggling five."
+        },
+        {
+          "title": "The Amazing Spider-Man",
+          "year": 2012,
+          "note": "Sean's one defense of the Garfield era — he likes this one, not the sequel."
+        },
+        {
+          "title": "The Amazing Spider-Man 2",
+          "year": 2014,
+          "note": "The other too-many-villains cautionary tale, and part of why Garfield only got two films before the franchise was rebooted again."
+        },
+        {
+          "title": "Spider-Man: Into the Spider-Verse",
+          "year": 2018,
+          "note": "Raised in the Miles Morales conversation — the animated franchise everyone agrees is great, with two more entries expected before Miles shows up in live action."
+        },
+        {
+          "title": "Doctor Strange in the Multiverse of Madness",
+          "year": 2022,
+          "note": "The trailer that plays after the credits, directed by Sam Raimi, with a look at Wanda, America Chavez, and Shuma-Gorath."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Tommy Oliver on ‘Juice WRLD: Into the Abyss’",
+      "guest": "Tommy Oliver on",
+      "films": [
+        {
+          "title": "Juice WRLD: Into the Abyss",
+          "year": 2021,
+          "note": "HBO's final Music Box documentary. Built from a dumped hard drive of 8,000 clips and roughly 250 hours of footage, told almost entirely through Juice WRLD's own freestyles and archival tape, with sit-down interviews limited to people who were actually in his life at the time."
+        },
+        {
+          "title": "40 Years a Prisoner",
+          "year": 2020,
+          "note": "Oliver's prior documentary, which premiered at Toronto and is what led to the Ringer/HBO pitch for this project."
+        },
+        {
+          "title": "Dune",
+          "year": 2021,
+          "note": "Oliver's pick for the last great thing he's seen — he praises its ambition and an ending built on one-on-one stakes rather than MCU-scale spectacle."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Venom",
+        "Venom: Let There Be Carnage",
+        "West Side Story",
+        "F9",
+        "Little Women",
+        "Thor: Love and Thunder",
+        "Being the Ricardos",
+        "Nightmare Alley",
+        "Red Rocket"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Loki",
+      "What If...?",
+      "WandaVision",
+      "Hawkeye",
+      "The Falcon and the Winter Soldier",
+      "Daredevil (Netflix series)"
+    ],
+    "Ads": [
+      "FanDuel",
+      "Boar's Head",
+      "NOS Energy",
+      "Whole Foods",
+      "TalkAboutPD.com"
+    ]
+  },
+  "tmdb": {
+    "Spider-Man: No Way Home": {
+      "id": 634649,
+      "poster": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "title": "Spider-Man: No Way Home",
+      "year": 2021
+    },
+    "Spider-Man: Homecoming": {
+      "id": 315635,
+      "poster": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+      "title": "Spider-Man: Homecoming",
+      "year": 2017
+    },
+    "Spider-Man: Far From Home": {
+      "id": 429617,
+      "poster": "/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+      "title": "Spider-Man: Far From Home",
+      "year": 2019
+    },
+    "Captain America: Civil War": {
+      "id": 271110,
+      "poster": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+      "title": "Captain America: Civil War",
+      "year": 2016
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Eternals": {
+      "id": 524434,
+      "poster": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+      "title": "Eternals",
+      "year": 2021
+    },
+    "Shang-Chi and the Legend of the Ten Rings": {
+      "id": 566525,
+      "poster": "/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "year": 2021
+    },
+    "Black Widow": {
+      "id": 497698,
+      "poster": "/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+      "title": "Black Widow",
+      "year": 2021
+    },
+    "Thor: The Dark World": {
+      "id": 76338,
+      "poster": "/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",
+      "title": "Thor: The Dark World",
+      "year": 2013
+    },
+    "Daredevil": {
+      "id": 9480,
+      "poster": "/oCDBwSkntYamuw8VJIxMRCtDBmi.jpg",
+      "title": "Daredevil",
+      "year": 2003
+    },
+    "Spider-Man 3": {
+      "id": 559,
+      "poster": "/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
+      "title": "Spider-Man 3",
+      "year": 2007
+    },
+    "The Amazing Spider-Man": {
+      "id": 1930,
+      "poster": "/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg",
+      "title": "The Amazing Spider-Man",
+      "year": 2012
+    },
+    "The Amazing Spider-Man 2": {
+      "id": 102382,
+      "poster": "/dGjoPttcbKR5VWg1jQuNFB247KL.jpg",
+      "title": "The Amazing Spider-Man 2",
+      "year": 2014
+    },
+    "Spider-Man: Into the Spider-Verse": {
+      "id": 324857,
+      "poster": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018
+    },
+    "Doctor Strange in the Multiverse of Madness": {
+      "id": 453395,
+      "poster": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "year": 2022
+    },
+    "Juice WRLD: Into the Abyss": {
+      "id": 888491,
+      "poster": "/fmNsktc0Xbx69hgI71C0KrQpw53.jpg",
+      "title": "Juice WRLD: Into the Abyss",
+      "year": 2021
+    },
+    "40 Years a Prisoner": {
+      "id": 736536,
+      "poster": "/vtE3X6IkiSybixsba3EN2TE8PYC.jpg",
+      "title": "40 Years a Prisoner",
+      "year": 2020
+    },
+    "Dune": {
+      "id": 438631,
+      "poster": "/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "title": "Dune",
+      "year": 2021
+    },
+    "Venom": {
+      "id": 335983,
+      "poster": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+      "title": "Venom",
+      "year": 2018
+    },
+    "Venom: Let There Be Carnage": {
+      "id": 580489,
+      "poster": "/pzKsRuKLFmYrW5Q0q8E8G78Tcgo.jpg",
+      "title": "Venom: Let There Be Carnage",
+      "year": 2021
+    },
+    "West Side Story": {
+      "id": 511809,
+      "poster": "/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+      "title": "West Side Story",
+      "year": 2021
+    },
+    "F9": {
+      "id": 385128,
+      "poster": "/deEmLILTPejEb6OGsXRJ5MCvyDW.jpg",
+      "title": "F9",
+      "year": 2021
+    },
+    "Little Women": {
+      "id": 331482,
+      "poster": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+      "title": "Little Women",
+      "year": 2019
+    },
+    "Thor: Love and Thunder": {
+      "id": 616037,
+      "poster": "/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+      "title": "Thor: Love and Thunder",
+      "year": 2022
+    },
+    "Being the Ricardos": {
+      "id": 517088,
+      "poster": "/oztBLWdRk5gApYmNdADXvXkLT5m.jpg",
+      "title": "Being the Ricardos",
+      "year": 2021
+    },
+    "Nightmare Alley": {
+      "id": 597208,
+      "poster": "/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg",
+      "title": "Nightmare Alley",
+      "year": 2021
+    },
+    "Red Rocket": {
+      "id": 763329,
+      "poster": "/345gLhiNpItU1ICx8OxJQwjgPmH.jpg",
+      "title": "Red Rocket",
+      "year": 2021
+    }
+  }
+}

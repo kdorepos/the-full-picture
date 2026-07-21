@@ -1,0 +1,1024 @@
+{
+  "slug": "the-1990-movie-draft",
+  "title": "The 1990 Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2025-04-15",
+  "runtimeMin": 101,
+  "format": "Sean Fennessey, Amanda Dobbins, and Chris Ryan run a three-person snake draft of the movies of 1990, filling a seven-slot roster each across drama, comedy, action/horror/thriller, Oscar nominee, sequel, blockbuster, and wild card.",
+  "segments": [
+    {
+      "kind": "draft",
+      "heading": "The teams",
+      "draftOf": "the movies of 1990",
+      "categories": [
+        "Drama",
+        "Comedy",
+        "Action / Horror / Thriller",
+        "Oscar Nominee",
+        "Sequel",
+        "Blockbuster",
+        "Wild Card"
+      ],
+      "teams": [
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Miller's Crossing",
+              "year": 1990,
+              "category": "Drama",
+              "note": "The Coen brothers' Prohibition noir; four days out of seven, Chris's favorite film of theirs."
+            },
+            {
+              "title": "House Party",
+              "year": 1990,
+              "category": "Comedy",
+              "note": "Reginald Hudlin's Kid 'n Play comedy; Chris's Dazed and Confused before Dazed and Confused."
+            },
+            {
+              "title": "King of New York",
+              "year": 1990,
+              "category": "Action / Horror / Thriller",
+              "note": "Abel Ferrara's crime story, drafted as a thriller; peak Christopher Walken."
+            },
+            {
+              "title": "Goodfellas",
+              "year": 1990,
+              "category": "Oscar Nominee",
+              "note": "First pick of the draft: Scorsese's mob epic, 'righting a historical wrong' for the film that lost Best Picture to Dances with Wolves."
+            },
+            {
+              "title": "The Exorcist III",
+              "year": 1990,
+              "category": "Sequel",
+              "note": "William Peter Blatty directs, George C. Scott stars; the hallway jump scare Chris won't spoil."
+            },
+            {
+              "title": "Days of Thunder",
+              "year": 1990,
+              "category": "Blockbuster",
+              "note": "Tony Scott's Top Gun with stock cars; Cruise and Kidman first meet on screen. $82 million, just over the wire."
+            },
+            {
+              "title": "The Cook, the Thief, His Wife & Her Lover",
+              "year": 1989,
+              "category": "Wild Card",
+              "note": "Peter Greenaway, Michael Nyman score; Chris's second Greenaway draft pick, after 1982's The Draughtsman's Contract."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Postcards from the Edge",
+              "year": 1990,
+              "category": "Drama",
+              "note": "Mike Nichols directs Carrie Fisher's script; Streep and Shirley MacLaine as a Hollywood mother and daughter."
+            },
+            {
+              "title": "Metropolitan",
+              "year": 1990,
+              "category": "Comedy",
+              "note": "Whit Stillman's debut; Amanda's favorite of the trilogy."
+            },
+            {
+              "title": "The Hunt for Red October",
+              "year": 1990,
+              "category": "Action / Horror / Thriller",
+              "note": "The only submarine Amanda would board; Alec Baldwin's one turn as Jack Ryan."
+            },
+            {
+              "title": "Pretty Woman",
+              "year": 1990,
+              "category": "Oscar Nominee",
+              "note": "Amanda's near-No.-2 rom-com; Julia Roberts breaks out."
+            },
+            {
+              "title": "Die Hard 2",
+              "year": 1990,
+              "category": "Sequel",
+              "note": "The airport one; taken partly to avoid drafting Look Who's Talking Too."
+            },
+            {
+              "title": "Presumed Innocent",
+              "year": 1990,
+              "category": "Blockbuster",
+              "note": "Harrison Ford legal thriller from the Scott Turow novel; better than the Apple remake's ending."
+            },
+            {
+              "title": "Mermaids",
+              "year": 1990,
+              "category": "Wild Card",
+              "note": "Cher, Winona Ryder, and Christina Ricci; a movie Amanda remembers being taken to at five or six."
+            }
+          ]
+        },
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Wild at Heart",
+              "year": 1990,
+              "category": "Drama",
+              "note": "Lynch's Palme d'Or road movie; Cage in snakeskin, Laura Dern, Diane Ladd."
+            },
+            {
+              "title": "Home Alone",
+              "year": 1990,
+              "category": "Comedy",
+              "note": "Sean's Casablanca as an eight-year-old."
+            },
+            {
+              "title": "Misery",
+              "year": 1990,
+              "category": "Action / Horror / Thriller",
+              "note": "Rob Reiner's Stephen King adaptation, William Goldman script; Kathy Bates and James Caan."
+            },
+            {
+              "title": "Ghost",
+              "year": 1990,
+              "category": "Oscar Nominee",
+              "note": "Part romance, part grief drama, part supernatural thriller; Swayze, Demi Moore, an Oscar for Whoopi Goldberg."
+            },
+            {
+              "title": "Gremlins 2: The New Batch",
+              "year": 1990,
+              "category": "Sequel",
+              "note": "Joe Dante's batshit sequel set in an everything-skyscraper, with John Glover's benevolent Trump stand-in."
+            },
+            {
+              "title": "Total Recall",
+              "year": 1990,
+              "category": "Blockbuster",
+              "note": "Verhoeven sci-fi satire; a strong case for Schwarzenegger's best. $119 million."
+            },
+            {
+              "title": "Mo' Better Blues",
+              "year": 1990,
+              "category": "Wild Card",
+              "note": "Spike Lee's Do the Right Thing follow-up; Denzel Washington as a jazz musician."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Dances with Wolves",
+        "The Godfather Part III",
+        "The Two Jakes",
+        "Texasville",
+        "Predator 2",
+        "RoboCop 2",
+        "Another 48 Hrs.",
+        "Young Guns II",
+        "Rocky V",
+        "3 Men and a Little Lady",
+        "Look Who's Talking Too",
+        "Leatherface: The Texas Chainsaw Massacre III"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Wild-card honorable mentions",
+      "films": [
+        "Tremors",
+        "Navy Seals",
+        "Pump Up the Volume",
+        "Frankenhooker",
+        "Teenage Mutant Ninja Turtles",
+        "State of Grace",
+        "Tie Me Up! Tie Me Down!",
+        "Darkman",
+        "Flatliners",
+        "My Blue Heaven",
+        "Arachnophobia",
+        "To Sleep with Anger",
+        "The Grifters",
+        "Blue Steel",
+        "Backtrack",
+        "The Hot Spot",
+        "Life Is Sweet",
+        "Hidden Agenda",
+        "Cry-Baby",
+        "Cinema Paradiso",
+        "Welcome Home, Roxy Carmichael",
+        "Miami Blues"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "The Odyssey",
+        "Eddington",
+        "Locked Down",
+        "The Silence of the Lambs",
+        "A Woman Under the Influence",
+        "Glengarry Glen Ross",
+        "Do the Right Thing",
+        "Driving Miss Daisy",
+        "A Minecraft Movie",
+        "When Harry Met Sally...",
+        "The Last Temptation of Christ",
+        "The King of Comedy",
+        "Oppenheimer",
+        "Valentine's Day",
+        "Basic Instinct",
+        "The Terminator",
+        "Clear and Present Danger",
+        "Patriot Games",
+        "The Sum of All Fears",
+        "Beetlejuice",
+        "Married to the Mob",
+        "Working Girl",
+        "Great Balls of Fire",
+        "The Marrying Man",
+        "Malice",
+        "Days of Heaven",
+        "Heat",
+        "Kicking and Screaming",
+        "The Last Days of Disco",
+        "Barcelona",
+        "Class Act",
+        "The Notebook",
+        "The Iron Claw",
+        "It Ends with Us",
+        "The Substance",
+        "One Battle After Another",
+        "Aftersun",
+        "Crimson Tide",
+        "Moonstruck",
+        "The Witches of Eastwick",
+        "Made in America",
+        "Edward Scissorhands",
+        "Sixteen Candles",
+        "Wild Hearts Can't Be Broken",
+        "This Is Spinal Tap",
+        "The Ninth Configuration",
+        "The Exorcist",
+        "The Last Picture Show",
+        "Chinatown",
+        "Sinners",
+        "Love Actually",
+        "Boomerang",
+        "Dazed and Confused",
+        "Inland Empire",
+        "Magnolia",
+        "Top Gun",
+        "The Wife",
+        "Casablanca",
+        "The Wizard of Oz",
+        "Horizon: An American Saga - Chapter 1",
+        "The Mambo Kings",
+        "Babygirl",
+        "Hard Truths"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Jack Ryan",
+      "Happy Days",
+      "Laverne & Shirley",
+      "Gilmore Girls",
+      "The Fresh Prince of Bel-Air",
+      "Key & Peele",
+      "Saturday Night Live"
+    ],
+    "Podcasts": [
+      "The Rewatchables",
+      "Jam Session",
+      "Blank Check"
+    ],
+    "Ads": [
+      "Carvana",
+      "The Zach Lowe Show",
+      "Ray-Ban Meta glasses",
+      "Starbucks Frappuccino"
+    ]
+  },
+  "tmdbOverrides": {
+    "Teenage Mutant Ninja Turtles": 1498,
+    "Driving Miss Daisy": 403,
+    "Hidden Agenda": 47869,
+    "Backtrack": 32924,
+    "3 Men and a Little Lady": 11630
+  },
+  "tmdb": {
+    "Miller's Crossing": {
+      "id": 379,
+      "poster": "/i83gYdglRCjCRLSsmCk5nRWRmDM.jpg",
+      "title": "Miller's Crossing",
+      "year": 1990
+    },
+    "House Party": {
+      "id": 16094,
+      "poster": "/hmUsEUI7RdgvTznkLCNSOHnjU4O.jpg",
+      "title": "House Party",
+      "year": 1990
+    },
+    "King of New York": {
+      "id": 9558,
+      "poster": "/1MyH4MJAJZJbb6wDVeOc2bTECtK.jpg",
+      "title": "King of New York",
+      "year": 1990
+    },
+    "Goodfellas": {
+      "id": 769,
+      "poster": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+      "title": "GoodFellas",
+      "year": 1990
+    },
+    "The Exorcist III": {
+      "id": 11587,
+      "poster": "/rhSftgj3vwpIDSP8v67N8KEubmz.jpg",
+      "title": "The Exorcist III",
+      "year": 1990
+    },
+    "Days of Thunder": {
+      "id": 2119,
+      "poster": "/8UvcoeMJag8UWGF8sg7eYspzq0Q.jpg",
+      "title": "Days of Thunder",
+      "year": 1990
+    },
+    "The Cook, the Thief, His Wife & Her Lover": {
+      "id": 7452,
+      "poster": "/15xMqAnFsROopAT66zdRyu2Dtek.jpg",
+      "title": "The Cook, the Thief, His Wife & Her Lover",
+      "year": 1989
+    },
+    "Postcards from the Edge": {
+      "id": 22414,
+      "poster": "/uF7bO5UcenRgag0jpbVvKsGyfBK.jpg",
+      "title": "Postcards from the Edge",
+      "year": 1990
+    },
+    "Metropolitan": {
+      "id": 15389,
+      "poster": "/852ZwTRj9tRxkGOT0Pu0Ep8yimk.jpg",
+      "title": "Metropolitan",
+      "year": 1990
+    },
+    "The Hunt for Red October": {
+      "id": 1669,
+      "poster": "/yVl7zidse4KiWtGMqHFtZCx4X3N.jpg",
+      "title": "The Hunt for Red October",
+      "year": 1990
+    },
+    "Pretty Woman": {
+      "id": 114,
+      "poster": "/hVHUfT801LQATGd26VPzhorIYza.jpg",
+      "title": "Pretty Woman",
+      "year": 1990
+    },
+    "Die Hard 2": {
+      "id": 1573,
+      "poster": "/ybki0UWO3OPhaM6MSniuKC7sy1R.jpg",
+      "title": "Die Hard 2",
+      "year": 1990
+    },
+    "Presumed Innocent": {
+      "id": 11092,
+      "poster": "/jSPWptOsqU1nxXQe6muSPB0kD3c.jpg",
+      "title": "Presumed Innocent",
+      "year": 1990
+    },
+    "Mermaids": {
+      "id": 4587,
+      "poster": "/1VufMcp0euY2LpmKiVv8xnbB9Om.jpg",
+      "title": "Mermaids",
+      "year": 1990
+    },
+    "Wild at Heart": {
+      "id": 483,
+      "poster": "/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg",
+      "title": "Wild at Heart",
+      "year": 1990
+    },
+    "Home Alone": {
+      "id": 771,
+      "poster": "/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
+      "title": "Home Alone",
+      "year": 1990
+    },
+    "Misery": {
+      "id": 1700,
+      "poster": "/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg",
+      "title": "Misery",
+      "year": 1990
+    },
+    "Ghost": {
+      "id": 251,
+      "poster": "/w9RaPHov8oM5cnzeE27isnFMsvS.jpg",
+      "title": "Ghost",
+      "year": 1990
+    },
+    "Gremlins 2: The New Batch": {
+      "id": 928,
+      "poster": "/35F5yD7MljvBE2AC0NHAVCoPGEi.jpg",
+      "title": "Gremlins 2: The New Batch",
+      "year": 1990
+    },
+    "Total Recall": {
+      "id": 861,
+      "poster": "/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
+      "title": "Total Recall",
+      "year": 1990
+    },
+    "Mo' Better Blues": {
+      "id": 41823,
+      "poster": "/sEa6m5RjfrqfTzY1eHkC85shiUF.jpg",
+      "title": "Mo' Better Blues",
+      "year": 1990
+    },
+    "Dances with Wolves": {
+      "id": 581,
+      "poster": "/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg",
+      "title": "Dances with Wolves",
+      "year": 1990
+    },
+    "The Godfather Part III": {
+      "id": 242,
+      "poster": "/lm3pQ2QoQ16pextRsmnUbG2onES.jpg",
+      "title": "The Godfather Part III",
+      "year": 1990
+    },
+    "The Two Jakes": {
+      "id": 32669,
+      "poster": "/49DSKcjPUdLjzyMpf8OIKep0cLN.jpg",
+      "title": "The Two Jakes",
+      "year": 1990
+    },
+    "Texasville": {
+      "id": 82545,
+      "poster": "/7Tj55FkIsZWQbGxIkMuLFsMH7fj.jpg",
+      "title": "Texasville",
+      "year": 1990
+    },
+    "Predator 2": {
+      "id": 169,
+      "poster": "/83X4VwY9sdSJykskmsplIVG0a4h.jpg",
+      "title": "Predator 2",
+      "year": 1990
+    },
+    "RoboCop 2": {
+      "id": 5549,
+      "poster": "/nhqBxhOJXUJeFsyLxTFkctH9H5F.jpg",
+      "title": "RoboCop 2",
+      "year": 1990
+    },
+    "Another 48 Hrs.": {
+      "id": 11595,
+      "poster": "/ixeygHHDsuzsg67H1IPTc3Qp8cR.jpg",
+      "title": "Another 48 Hrs.",
+      "year": 1990
+    },
+    "Young Guns II": {
+      "id": 9086,
+      "poster": "/7kMjla98srGHlFzAEmoGRcr6GN1.jpg",
+      "title": "Young Guns II",
+      "year": 1990
+    },
+    "Rocky V": {
+      "id": 1375,
+      "poster": "/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg",
+      "title": "Rocky V",
+      "year": 1990
+    },
+    "3 Men and a Little Lady": {
+      "id": 11630,
+      "poster": "/4VWWEnhX0zddRKwZWGtIdDcV5U7.jpg",
+      "title": "3 Men and a Little Lady",
+      "year": 1990
+    },
+    "Look Who's Talking Too": {
+      "id": 9356,
+      "poster": "/m409mVHmvDOZJltNzHJYigUthsW.jpg",
+      "title": "Look Who's Talking Too",
+      "year": 1990
+    },
+    "Leatherface: The Texas Chainsaw Massacre III": {
+      "id": 25018,
+      "poster": "/4Vhv0vRqirhvbudRcNctFgxoFtI.jpg",
+      "title": "Leatherface: The Texas Chainsaw Massacre III",
+      "year": 1990
+    },
+    "Tremors": {
+      "id": 9362,
+      "poster": "/cA4ggkZ3r1d5r9hOAUWC8x5ul2i.jpg",
+      "title": "Tremors",
+      "year": 1990
+    },
+    "Navy Seals": {
+      "id": 427910,
+      "poster": "/8SGNGtWDOTbbT9XsMTgfoVHGb2s.jpg",
+      "title": "Navy Seals",
+      "year": 1990
+    },
+    "Pump Up the Volume": {
+      "id": 8428,
+      "poster": "/s1SyKrARJG2R7FyS4zkNdaekLAW.jpg",
+      "title": "Pump Up the Volume",
+      "year": 1990
+    },
+    "Frankenhooker": {
+      "id": 27274,
+      "poster": "/s8Oubzkc2pPdOdj4D23ljZSKRbg.jpg",
+      "title": "Frankenhooker",
+      "year": 1990
+    },
+    "Teenage Mutant Ninja Turtles": {
+      "id": 1498,
+      "poster": "/shfAU6xIIEAEtsloIT3n9Fscz2E.jpg",
+      "title": "Teenage Mutant Ninja Turtles",
+      "year": 1990
+    },
+    "State of Grace": {
+      "id": 1662,
+      "poster": "/dNMeRLY3MeY2FFeh639plHai3F1.jpg",
+      "title": "State of Grace",
+      "year": 1990
+    },
+    "Tie Me Up! Tie Me Down!": {
+      "id": 2469,
+      "poster": "/4eNyqA543ixNCME8pcADgP9wb1i.jpg",
+      "title": "Tie Me Up! Tie Me Down!",
+      "year": 1990
+    },
+    "Darkman": {
+      "id": 9556,
+      "poster": "/9fxGRzlINIvfPFhizMgbQaDDrK.jpg",
+      "title": "Darkman",
+      "year": 1990
+    },
+    "Flatliners": {
+      "id": 1551,
+      "poster": "/wda3j7p7YHXKpFIlSzoTCtP7myF.jpg",
+      "title": "Flatliners",
+      "year": 1990
+    },
+    "My Blue Heaven": {
+      "id": 16384,
+      "poster": "/ggk34Nr1e8LOeAdVncuYz6pyYDe.jpg",
+      "title": "My Blue Heaven",
+      "year": 1990
+    },
+    "Arachnophobia": {
+      "id": 6488,
+      "poster": "/lHjpwv1Yv2RcGcTQb4Lc1cKw1y9.jpg",
+      "title": "Arachnophobia",
+      "year": 1990
+    },
+    "To Sleep with Anger": {
+      "id": 94725,
+      "poster": "/k97OYGAbHIP6MNuOOGDUgYDnncW.jpg",
+      "title": "To Sleep with Anger",
+      "year": 1990
+    },
+    "The Grifters": {
+      "id": 18129,
+      "poster": "/zMpGfkiDIdg5bB7WGcAT3Fdrfpt.jpg",
+      "title": "The Grifters",
+      "year": 1990
+    },
+    "Blue Steel": {
+      "id": 9491,
+      "poster": "/mPUrodB3k8NYcvr4WPwtjSe1Mv9.jpg",
+      "title": "Blue Steel",
+      "year": 1990
+    },
+    "Backtrack": {
+      "id": 32924,
+      "poster": "/9cKFLrXTwzNO8NGfF1kf9nQcsNT.jpg",
+      "title": "Catchfire",
+      "year": 1990
+    },
+    "The Hot Spot": {
+      "id": 14864,
+      "poster": "/iQCP69183K1QZo8bb23nkcLap3W.jpg",
+      "title": "The Hot Spot",
+      "year": 1990
+    },
+    "Life Is Sweet": {
+      "id": 36843,
+      "poster": "/zdkKNQzzwyciP9vAohAPFZdujlA.jpg",
+      "title": "Life Is Sweet",
+      "year": 1991
+    },
+    "Hidden Agenda": {
+      "id": 47869,
+      "poster": "/ceaYwvuTMfgRu7XCrLHmeK1LDzN.jpg",
+      "title": "Hidden Agenda",
+      "year": 1990
+    },
+    "Cry-Baby": {
+      "id": 9768,
+      "poster": "/d2QusoWfW4azJtHtJkyLMGSv33n.jpg",
+      "title": "Cry-Baby",
+      "year": 1990
+    },
+    "Cinema Paradiso": {
+      "id": 11216,
+      "poster": "/gCI2AeMV4IHSewhJkzsur5MEp6R.jpg",
+      "title": "Cinema Paradiso",
+      "year": 1988
+    },
+    "Welcome Home, Roxy Carmichael": {
+      "id": 31923,
+      "poster": "/774bDgRxf7TfNu6E55xBEcw0lME.jpg",
+      "title": "Welcome Home, Roxy Carmichael",
+      "year": 1990
+    },
+    "Miami Blues": {
+      "id": 14931,
+      "poster": "/eOqOf2qG0sjsfhFdYp6SbZuorSF.jpg",
+      "title": "Miami Blues",
+      "year": 1990
+    },
+    "The Odyssey": {
+      "id": 1368337,
+      "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "title": "The Odyssey",
+      "year": 2026
+    },
+    "Eddington": {
+      "id": 648878,
+      "poster": "/4GIqZUgPZ146BhibsPHMHef2nXX.jpg",
+      "title": "Eddington",
+      "year": 2025
+    },
+    "Locked Down": {
+      "id": 741228,
+      "poster": "/svHelD0Hb3TXPAQoPsoBwdDMTvf.jpg",
+      "title": "Locked Down",
+      "year": 2021
+    },
+    "The Silence of the Lambs": {
+      "id": 274,
+      "poster": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+      "title": "The Silence of the Lambs",
+      "year": 1991
+    },
+    "A Woman Under the Influence": {
+      "id": 29845,
+      "poster": "/6EJ4JoTxnH1QmGTE9pPzgtW1cLW.jpg",
+      "title": "A Woman Under the Influence",
+      "year": 1974
+    },
+    "Glengarry Glen Ross": {
+      "id": 9504,
+      "poster": "/zcaEDx8KlVfh4vKfMNLhiSi5Oz4.jpg",
+      "title": "Glengarry Glen Ross",
+      "year": 1992
+    },
+    "Do the Right Thing": {
+      "id": 925,
+      "poster": "/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+      "title": "Do the Right Thing",
+      "year": 1989
+    },
+    "Driving Miss Daisy": {
+      "id": 403,
+      "poster": "/iaCzvcY42HihFxQBTZCTKMpsI0P.jpg",
+      "title": "Driving Miss Daisy",
+      "year": 1989
+    },
+    "A Minecraft Movie": {
+      "id": 950387,
+      "poster": "/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+      "title": "A Minecraft Movie",
+      "year": 2025
+    },
+    "When Harry Met Sally...": {
+      "id": 639,
+      "poster": "/rFOiFUhTMtDetqCGClC9PIgnC1P.jpg",
+      "title": "When Harry Met Sally...",
+      "year": 1989
+    },
+    "The Last Temptation of Christ": {
+      "id": 11051,
+      "poster": "/7L4qwrC1mipZXJfU5oRgQWChLv1.jpg",
+      "title": "The Last Temptation of Christ",
+      "year": 1988
+    },
+    "The King of Comedy": {
+      "id": 262,
+      "poster": "/m24EbHxT9NGYEkOlu29YcLOgjgK.jpg",
+      "title": "The King of Comedy",
+      "year": 1982
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Valentine's Day": {
+      "id": 32856,
+      "poster": "/qOTcfD2DdnOTmhH0r1TOE09VvNh.jpg",
+      "title": "Valentine's Day",
+      "year": 2010
+    },
+    "Basic Instinct": {
+      "id": 402,
+      "poster": "/76Ts0yoHk8kVQj9MMnoMixhRWoh.jpg",
+      "title": "Basic Instinct",
+      "year": 1992
+    },
+    "The Terminator": {
+      "id": 218,
+      "poster": "/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+      "title": "The Terminator",
+      "year": 1984
+    },
+    "Clear and Present Danger": {
+      "id": 9331,
+      "poster": "/6xTM8FPxrLRYwz6I3fqtwh7xybs.jpg",
+      "title": "Clear and Present Danger",
+      "year": 1994
+    },
+    "Patriot Games": {
+      "id": 9869,
+      "poster": "/9IT7gnszrRthduYxCLqaIkM55Un.jpg",
+      "title": "Patriot Games",
+      "year": 1992
+    },
+    "The Sum of All Fears": {
+      "id": 4614,
+      "poster": "/3E4LW4bjRhEMDeeXeIsmkJ94v8K.jpg",
+      "title": "The Sum of All Fears",
+      "year": 2002
+    },
+    "Beetlejuice": {
+      "id": 4011,
+      "poster": "/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg",
+      "title": "Beetlejuice",
+      "year": 1988
+    },
+    "Married to the Mob": {
+      "id": 2321,
+      "poster": "/gkOsxv1RvV5smRnm6wrmn2wDXyZ.jpg",
+      "title": "Married to the Mob",
+      "year": 1988
+    },
+    "Working Girl": {
+      "id": 3525,
+      "poster": "/q2jfFzZvAzjTaArQR0tjilIZ5aJ.jpg",
+      "title": "Working Girl",
+      "year": 1988
+    },
+    "Great Balls of Fire": {
+      "id": 11465,
+      "poster": "/cb0zpDUnHBj8PxWQG5L96m3rxrk.jpg",
+      "title": "Great Balls of Fire!",
+      "year": 1989
+    },
+    "The Marrying Man": {
+      "id": 31633,
+      "poster": "/nLER1ftW22IWFbz9GQy9lHAaDwG.jpg",
+      "title": "The Marrying Man",
+      "year": 1991
+    },
+    "Malice": {
+      "id": 2246,
+      "poster": "/6kcjUrhvHrXSLDLQHvcOvJmLSqs.jpg",
+      "title": "Malice",
+      "year": 1993
+    },
+    "Days of Heaven": {
+      "id": 16642,
+      "poster": "/rwxTYjOZmX2rGhz7avLe1qsjNqe.jpg",
+      "title": "Days of Heaven",
+      "year": 1978
+    },
+    "Heat": {
+      "id": 949,
+      "poster": "/e09dLw1Ljtccd2P4NsuUvVtS5du.jpg",
+      "title": "Heat",
+      "year": 1995
+    },
+    "Kicking and Screaming": {
+      "id": 28387,
+      "poster": "/ynAtSpTou7snNOq32djzILw9VCA.jpg",
+      "title": "Kicking and Screaming",
+      "year": 1995
+    },
+    "The Last Days of Disco": {
+      "id": 16980,
+      "poster": "/lReaAZCsA0GXvJrxzSMsFxwgh6F.jpg",
+      "title": "The Last Days of Disco",
+      "year": 1998
+    },
+    "Barcelona": {
+      "id": 16771,
+      "poster": "/7dgX3naR9EsFMvQhwHY8My6r5FR.jpg",
+      "title": "Barcelona",
+      "year": 1994
+    },
+    "Class Act": {
+      "id": 30963,
+      "poster": "/bjXz1WkcaOMVZr70GIVqbQ2clWG.jpg",
+      "title": "Class Act",
+      "year": 1992
+    },
+    "The Notebook": {
+      "id": 11036,
+      "poster": "/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
+      "title": "The Notebook",
+      "year": 2004
+    },
+    "The Iron Claw": {
+      "id": 850165,
+      "poster": "/s2VLjcykJfwplJNGT5iEeCA0mRx.jpg",
+      "title": "The Iron Claw",
+      "year": 2023
+    },
+    "It Ends with Us": {
+      "id": 1079091,
+      "poster": "/AjV6jFJ2YFIluYo4GQf13AA1tqu.jpg",
+      "title": "It Ends with Us",
+      "year": 2024
+    },
+    "The Substance": {
+      "id": 933260,
+      "poster": "/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+      "title": "The Substance",
+      "year": 2024
+    },
+    "One Battle After Another": {
+      "id": 1054867,
+      "poster": "/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+      "title": "One Battle After Another",
+      "year": 2025
+    },
+    "Aftersun": {
+      "id": 965150,
+      "poster": "/evKz85EKouVbIr51zy5fOtpNRPg.jpg",
+      "title": "Aftersun",
+      "year": 2022
+    },
+    "Crimson Tide": {
+      "id": 8963,
+      "poster": "/21nqRJ6ofEgVvEl68J4O9V26Xzy.jpg",
+      "title": "Crimson Tide",
+      "year": 1995
+    },
+    "Moonstruck": {
+      "id": 2039,
+      "poster": "/2mnVWpvsHEHHnfvLn1NXYVvBGl5.jpg",
+      "title": "Moonstruck",
+      "year": 1987
+    },
+    "The Witches of Eastwick": {
+      "id": 6069,
+      "poster": "/p5OivnZuXfy5E3BKKFIeSidmwys.jpg",
+      "title": "The Witches of Eastwick",
+      "year": 1987
+    },
+    "Made in America": {
+      "id": 12121,
+      "poster": "/1NLhOZN4AcTSvEPMI3HCjTVSfvy.jpg",
+      "title": "Made in America",
+      "year": 1993
+    },
+    "Edward Scissorhands": {
+      "id": 162,
+      "poster": "/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg",
+      "title": "Edward Scissorhands",
+      "year": 1990
+    },
+    "Sixteen Candles": {
+      "id": 15144,
+      "poster": "/A3WGCAgJF33kZdlxUdyXHYdbYax.jpg",
+      "title": "Sixteen Candles",
+      "year": 1984
+    },
+    "Wild Hearts Can't Be Broken": {
+      "id": 23438,
+      "poster": "/kY7KaiN3vh4g49Pn3ShM2ATnFVw.jpg",
+      "title": "Wild Hearts Can't Be Broken",
+      "year": 1991
+    },
+    "This Is Spinal Tap": {
+      "id": 11031,
+      "poster": "/b3lllDltoBws5uKZzBYVSjpjjJx.jpg",
+      "title": "This Is Spinal Tap",
+      "year": 1984
+    },
+    "The Ninth Configuration": {
+      "id": 18910,
+      "poster": "/jlQMBckfnLhiCusar62sJ7WCKBv.jpg",
+      "title": "The Ninth Configuration",
+      "year": 1980
+    },
+    "The Exorcist": {
+      "id": 9552,
+      "poster": "/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
+      "title": "The Exorcist",
+      "year": 1973
+    },
+    "The Last Picture Show": {
+      "id": 25188,
+      "poster": "/7NYePZc0lZrRomtmQsjOJMePTEb.jpg",
+      "title": "The Last Picture Show",
+      "year": 1971
+    },
+    "Chinatown": {
+      "id": 829,
+      "poster": "/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg",
+      "title": "Chinatown",
+      "year": 1974
+    },
+    "Sinners": {
+      "id": 1233413,
+      "poster": "/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+      "title": "Sinners",
+      "year": 2025
+    },
+    "Love Actually": {
+      "id": 508,
+      "poster": "/7QPeVsr9rcFU9Gl90yg0gTOTpVv.jpg",
+      "title": "Love Actually",
+      "year": 2003
+    },
+    "Boomerang": {
+      "id": 11066,
+      "poster": "/apwkBVaJqLuK6mxe6sOABCeNjRw.jpg",
+      "title": "Boomerang",
+      "year": 1992
+    },
+    "Dazed and Confused": {
+      "id": 9571,
+      "poster": "/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+      "title": "Dazed and Confused",
+      "year": 1993
+    },
+    "Inland Empire": {
+      "id": 1730,
+      "poster": "/s5f0FbVAABEnJYKaApWORTxhiFC.jpg",
+      "title": "Inland Empire",
+      "year": 2006
+    },
+    "Magnolia": {
+      "id": 334,
+      "poster": "/tpfC325Jk6S38VTe5dDWjWtoyxr.jpg",
+      "title": "Magnolia",
+      "year": 1999
+    },
+    "Top Gun": {
+      "id": 744,
+      "poster": "/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+      "title": "Top Gun",
+      "year": 1986
+    },
+    "The Wife": {
+      "id": 340613,
+      "poster": "/d4Qyuy0Ul549f6SOdUqGvIdYKD2.jpg",
+      "title": "The Wife",
+      "year": 2017
+    },
+    "Casablanca": {
+      "id": 289,
+      "poster": "/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+      "title": "Casablanca",
+      "year": 1943
+    },
+    "The Wizard of Oz": {
+      "id": 630,
+      "poster": "/uCC3j4pV9eOZwzDUWp2ilbcTf1f.jpg",
+      "title": "The Wizard of Oz",
+      "year": 1939
+    },
+    "Horizon: An American Saga - Chapter 1": {
+      "id": 932086,
+      "poster": "/posWMQwX1HCIK26TGL3niJp5fg0.jpg",
+      "title": "Horizon: An American Saga - Chapter 1",
+      "year": 2024
+    },
+    "The Mambo Kings": {
+      "id": 40082,
+      "poster": "/yAMYoODA6FzHPwycrBwwrjKv1A4.jpg",
+      "title": "The Mambo Kings",
+      "year": 1992
+    },
+    "Babygirl": {
+      "id": 1097549,
+      "poster": "/ilwO6elz3mLV9CToT7C8pjVeKX0.jpg",
+      "title": "Babygirl",
+      "year": 2024
+    },
+    "Hard Truths": {
+      "id": 1013154,
+      "poster": "/eEj1TGrGc4IQ8bscFC17Ggdg6ft.jpg",
+      "title": "Hard Truths",
+      "year": 2024
+    }
+  },
+  "spotifyEpisodeId": "7p3OZ3hQ6MGTTWoembE2ut"
+}

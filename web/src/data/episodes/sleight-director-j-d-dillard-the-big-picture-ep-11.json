@@ -1,0 +1,196 @@
+{
+  "slug": "sleight-director-j-d-dillard-the-big-picture-ep-11",
+  "title": "‘Sleight’ Director J.D. Dillard | The Big Picture (Ep. 11)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2017-04-28",
+  "runtimeMin": 44,
+  "format": "Sean Fennessey talks to J.D. Dillard about going from Bad Robot receptionist to first-time director of Sleight, watching Star Wars: The Force Awakens get made from the inside, and the Blumhouse deal that followed.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "J.D. Dillard on 'Sleight'",
+      "guest": "J.D. Dillard on",
+      "films": [
+        {
+          "title": "Sleight",
+          "year": 2017,
+          "note": "His directing debut, written with Alex Theurer: a low-budget street-magic-and-crime movie starring Jacob Latimore, shot in 16 days in L.A. He wrote it to the budget, then pushed 15 percent further, and says the magic is shot to sell the character's love for it rather than the trick itself. It premiered at Sundance 2016 and hits theaters April 28."
+        },
+        {
+          "title": "Now You See Me",
+          "year": 2013,
+          "note": "The bar he knew Sleight couldn't clear on spectacle. No one was jumping off buildings or turning into flying cards, so the magic had to work in a smaller, more character-driven way."
+        },
+        {
+          "title": "Sweetheart",
+          "year": 2019,
+          "note": "His next film with Blumhouse, a survival-horror thriller starring Kiersey Clemons that he was about to leave for Fiji to shoot. It came together fast, written on spec while he and Theurer were up for a bigger studio job that fell through."
+        },
+        {
+          "title": "Sicario",
+          "year": 2015,
+          "note": "His actual reference point for Sweetheart's rhythm: ninety minutes that feel like the tension of that film's border-crossing scene, not jump-scare horror."
+        },
+        {
+          "title": "The Fits",
+          "year": 2015,
+          "note": "Anna Rose Holmer's film, which premiered alongside Sleight at Sundance. He calls it one of his favorite movies of the year and thinks it deserved a spot in the Moonlight/La La Land conversation."
+        },
+        {
+          "title": "Beginners",
+          "year": 2010,
+          "note": "The movie he cites, half-joking, as the emotional target for whatever he makes next. He wants to pair its gut-punch with something as purely fun as a Guardians of the Galaxy."
+        },
+        {
+          "title": "Guardians of the Galaxy",
+          "year": 2014,
+          "note": "The other half of his joking pitch — \"Beginners meets Guardians of the Galaxy\" — for a movie with real spectacle that still makes you cry."
+        },
+        {
+          "title": "Star Wars: The Force Awakens",
+          "year": 2015,
+          "note": "He left L.A. for over a year to work on it for J.J. Abrams, and says watching it get made, and seeing that the filmmaking fundamentals scale the same at any budget, is what pushed him to go direct Sleight himself."
+        },
+        {
+          "title": "The Fly",
+          "note": "A remake he and Theurer are attached to, still in early negotiations with Fox at the time of this interview. He says the take excites him but that Sweetheart comes first."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Raiders of the Lost Ark",
+        "Jurassic Park",
+        "Moonlight",
+        "La La Land",
+        "Get Out",
+        "Split",
+        "The Purge",
+        "Insidious",
+        "Kung Fu Panda"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Lost",
+      "The Office",
+      "Movie Magic"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Fly": null
+  },
+  "tmdb": {
+    "Sleight": {
+      "id": 347882,
+      "poster": "/eLk7yoWxK4S0xkV24YWoPKbIsbf.jpg",
+      "title": "Sleight",
+      "year": 2017
+    },
+    "Now You See Me": {
+      "id": 75656,
+      "poster": "/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg",
+      "title": "Now You See Me",
+      "year": 2013
+    },
+    "Sweetheart": {
+      "id": 463843,
+      "poster": "/xyPPBPkGbZxfS6UM4PjR5bnVfwR.jpg",
+      "title": "Sweetheart",
+      "year": 2019
+    },
+    "Sicario": {
+      "id": 273481,
+      "poster": "/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+      "title": "Sicario",
+      "year": 2015
+    },
+    "The Fits": {
+      "id": 358807,
+      "poster": "/ujK85shn2lY3yJrleXa8wThgVrI.jpg",
+      "title": "The Fits",
+      "year": 2016
+    },
+    "Beginners": {
+      "id": 55347,
+      "poster": "/mAquHAmoBgZ1omUNdNsnGVNX74c.jpg",
+      "title": "Beginners",
+      "year": 2011
+    },
+    "Guardians of the Galaxy": {
+      "id": 118340,
+      "poster": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "title": "Guardians of the Galaxy",
+      "year": 2014
+    },
+    "Star Wars: The Force Awakens": {
+      "id": 140607,
+      "poster": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+      "title": "Star Wars: The Force Awakens",
+      "year": 2015
+    },
+    "The Fly": null,
+    "Raiders of the Lost Ark": {
+      "id": 85,
+      "poster": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+      "title": "Raiders of the Lost Ark",
+      "year": 1981
+    },
+    "Jurassic Park": {
+      "id": 329,
+      "poster": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "title": "Jurassic Park",
+      "year": 1993
+    },
+    "Moonlight": {
+      "id": 376867,
+      "poster": "/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+      "title": "Moonlight",
+      "year": 2016
+    },
+    "La La Land": {
+      "id": 313369,
+      "poster": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "title": "La La Land",
+      "year": 2016
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Split": {
+      "id": 381288,
+      "poster": "/lli31lYTFpvxVBeFHWoe5PMfW5s.jpg",
+      "title": "Split",
+      "year": 2017
+    },
+    "The Purge": {
+      "id": 158015,
+      "poster": "/46X1ei9uf13nkkr0OhWldGyr5Uh.jpg",
+      "title": "The Purge",
+      "year": 2013
+    },
+    "Insidious": {
+      "id": 49018,
+      "poster": "/1egpmVXuXed58TH2UOnX1nATTrf.jpg",
+      "title": "Insidious",
+      "year": 2011
+    },
+    "Kung Fu Panda": {
+      "id": 9502,
+      "poster": "/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg",
+      "title": "Kung Fu Panda",
+      "year": 2008
+    }
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "slug": "the-tenet-commentary-yratnemmoc-tenet-eht",
+  "title": "The 'Tenet' Commentary : yratnemmoC 'teneT' ehT",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2021-05-06",
+  "runtimeMin": 152,
+  "format": "Sean and Amanda watch Tenet a third time, joined by Chris Ryan, and work through freeports, inversion, and whether any of it needs to add up.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "The 'Tenet' Commentary",
+      "note": "a watch-along commentary track, synced to HBO Max",
+      "films": [
+        {
+          "title": "Tenet",
+          "year": 2020,
+          "note": "third watch for all three, and it still doesn't fully make sense. None of them mind anymore."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Nolan's filmography",
+      "films": [
+        "The Dark Knight",
+        "The Dark Knight Rises",
+        "The Prestige",
+        "Inception",
+        "Interstellar",
+        "Memento",
+        "Insomnia",
+        "Dunkirk"
+      ]
+    },
+    {
+      "group": "Robert Pattinson's run",
+      "films": [
+        "The Lighthouse",
+        "Good Time",
+        "High Life",
+        "The Rover",
+        "The Lost City of Z",
+        "The King",
+        "The Devil All the Time",
+        "Twilight"
+      ]
+    },
+    {
+      "group": "Elizabeth Debicki's filmography",
+      "films": [
+        "The Great Gatsby",
+        "Macbeth",
+        "The Man from U.N.C.L.E.",
+        "Guardians of the Galaxy Vol. 2",
+        "Widows"
+      ]
+    },
+    {
+      "group": "Kenneth Branagh",
+      "films": [
+        "Murder on the Orient Express",
+        "Death on the Nile",
+        "RocknRolla"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Quantum of Solace",
+        "BlacKkKlansman",
+        "6 Underground",
+        "Two Distant Strangers",
+        "Chinatown",
+        "Back to the Future",
+        "Apocalypse Now",
+        "Hearts of Darkness: A Filmmaker's Apocalypse",
+        "Schindler's List",
+        "Once Upon a Time in the West",
+        "Aquaman",
+        "Mission: Impossible - Ghost Protocol",
+        "Without Remorse",
+        "The Great Escape",
+        "Army of the Dead",
+        "Anger Management",
+        "Godzilla",
+        "My Octopus Teacher"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Ballers",
+      "The Night Manager",
+      "The Crown"
+    ],
+    "Games": [
+      "Super Mario Bros."
+    ],
+    "Ads": [
+      "Boar's Head"
+    ]
+  },
+  "tmdb": {
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "The Dark Knight": {
+      "id": 155,
+      "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    "The Dark Knight Rises": {
+      "id": 49026,
+      "poster": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+      "title": "The Dark Knight Rises",
+      "year": 2012
+    },
+    "The Prestige": {
+      "id": 1124,
+      "poster": "/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg",
+      "title": "The Prestige",
+      "year": 2006
+    },
+    "Inception": {
+      "id": 27205,
+      "poster": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+      "title": "Inception",
+      "year": 2010
+    },
+    "Interstellar": {
+      "id": 157336,
+      "poster": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+      "title": "Interstellar",
+      "year": 2014
+    },
+    "Memento": {
+      "id": 77,
+      "poster": "/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+      "title": "Memento",
+      "year": 2000
+    },
+    "Insomnia": {
+      "id": 320,
+      "poster": "/riVXh3EimGO0y5dgQxEWPRy5Itg.jpg",
+      "title": "Insomnia",
+      "year": 2002
+    },
+    "Dunkirk": {
+      "id": 374720,
+      "poster": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "title": "Dunkirk",
+      "year": 2017
+    },
+    "The Lighthouse": {
+      "id": 503919,
+      "poster": "/yAKNmpcUweGH6WMCEWenwU9PsbE.jpg",
+      "title": "The Lighthouse",
+      "year": 2019
+    },
+    "Good Time": {
+      "id": 429200,
+      "poster": "/yE1c9hj5Hf8a9KplAdRdhADqUro.jpg",
+      "title": "Good Time",
+      "year": 2017
+    },
+    "High Life": {
+      "id": 376865,
+      "poster": "/wElOvH7H6sLElsTOLu1MY6oWRUx.jpg",
+      "title": "High Life",
+      "year": 2018
+    },
+    "The Rover": {
+      "id": 157845,
+      "poster": "/734OOkr69mt8lyPk8iw3TwgQ90R.jpg",
+      "title": "The Rover",
+      "year": 2014
+    },
+    "The Lost City of Z": {
+      "id": 314095,
+      "poster": "/8SxHVNk6tqXYwygmDzz1YuJEm2J.jpg",
+      "title": "The Lost City of Z",
+      "year": 2017
+    },
+    "The King": {
+      "id": 504949,
+      "poster": "/8u0QBGUbZcBW59VEAdmeFl9g98N.jpg",
+      "title": "The King",
+      "year": 2019
+    },
+    "The Devil All the Time": {
+      "id": 499932,
+      "poster": "/bVL7LGq528h3KzeNI90HOVbV5uW.jpg",
+      "title": "The Devil All the Time",
+      "year": 2020
+    },
+    "Twilight": {
+      "id": 8966,
+      "poster": "/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
+      "title": "Twilight",
+      "year": 2008
+    },
+    "The Great Gatsby": {
+      "id": 64682,
+      "poster": "/nimh1rrDDLhgpG8XAYoUZXHYwb6.jpg",
+      "title": "The Great Gatsby",
+      "year": 2013
+    },
+    "Macbeth": {
+      "id": 225728,
+      "poster": "/a5NEpil29Uns1wEYF8k99qVgj1T.jpg",
+      "title": "Macbeth",
+      "year": 2015
+    },
+    "The Man from U.N.C.L.E.": {
+      "id": 203801,
+      "poster": "/y5yZaForGSJbPD66Cvq9AT5WMAD.jpg",
+      "title": "The Man from U.N.C.L.E.",
+      "year": 2015
+    },
+    "Guardians of the Galaxy Vol. 2": {
+      "id": 283995,
+      "poster": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+      "title": "Guardians of the Galaxy Vol. 2",
+      "year": 2017
+    },
+    "Widows": {
+      "id": 401469,
+      "poster": "/d31SGJSaX29ba5ZUbZcesGoDE7I.jpg",
+      "title": "Widows",
+      "year": 2018
+    },
+    "Murder on the Orient Express": {
+      "id": 392044,
+      "poster": "/7GtdJU6iAg6fjQu3E3zta3bIAQh.jpg",
+      "title": "Murder on the Orient Express",
+      "year": 2017
+    },
+    "Death on the Nile": {
+      "id": 505026,
+      "poster": "/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg",
+      "title": "Death on the Nile",
+      "year": 2022
+    },
+    "RocknRolla": {
+      "id": 13809,
+      "poster": "/6mLXG2f7LBRpbZZgxsOFO5scgzd.jpg",
+      "title": "RocknRolla",
+      "year": 2008
+    },
+    "Quantum of Solace": {
+      "id": 10764,
+      "poster": "/e3DXXLJHGqMx9yYpXsql1XNljmM.jpg",
+      "title": "Quantum of Solace",
+      "year": 2008
+    },
+    "BlacKkKlansman": {
+      "id": 487558,
+      "poster": "/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg",
+      "title": "BlacKkKlansman",
+      "year": 2018
+    },
+    "6 Underground": {
+      "id": 509967,
+      "poster": "/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg",
+      "title": "6 Underground",
+      "year": 2019
+    },
+    "Two Distant Strangers": {
+      "id": 787428,
+      "poster": "/awnMWuq64kfzfKtNLctjBTJKqi0.jpg",
+      "title": "Two Distant Strangers",
+      "year": 2020
+    },
+    "Chinatown": {
+      "id": 829,
+      "poster": "/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg",
+      "title": "Chinatown",
+      "year": 1974
+    },
+    "Back to the Future": {
+      "id": 105,
+      "poster": "/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+      "title": "Back to the Future",
+      "year": 1985
+    },
+    "Apocalypse Now": {
+      "id": 28,
+      "poster": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "title": "Apocalypse Now",
+      "year": 1979
+    },
+    "Hearts of Darkness: A Filmmaker's Apocalypse": {
+      "id": 4539,
+      "poster": "/nVMCtL3r2nj4fySihDDvamaVkfx.jpg",
+      "title": "Hearts of Darkness: A Filmmaker's Apocalypse",
+      "year": 1991
+    },
+    "Schindler's List": {
+      "id": 424,
+      "poster": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+      "title": "Schindler's List",
+      "year": 1993
+    },
+    "Once Upon a Time in the West": {
+      "id": 335,
+      "poster": "/qbYgqOczabWNn2XKwgMtVrntD6P.jpg",
+      "title": "Once Upon a Time in the West",
+      "year": 1968
+    },
+    "Aquaman": {
+      "id": 297802,
+      "poster": "/ufl63EFcc5XpByEV2Ecdw6WJZAI.jpg",
+      "title": "Aquaman",
+      "year": 2018
+    },
+    "Mission: Impossible - Ghost Protocol": {
+      "id": 56292,
+      "poster": "/eRZTGx7GsiKqPch96k27LK005ZL.jpg",
+      "title": "Mission: Impossible - Ghost Protocol",
+      "year": 2011
+    },
+    "Without Remorse": {
+      "id": 567189,
+      "poster": "/6OnlqShdRinhJwV1uGiRE70lD63.jpg",
+      "title": "Tom Clancy's Without Remorse",
+      "year": 2021
+    },
+    "The Great Escape": {
+      "id": 5925,
+      "poster": "/gBH4H8UMFxl139HaLz6lRuvsel8.jpg",
+      "title": "The Great Escape",
+      "year": 1963
+    },
+    "Army of the Dead": {
+      "id": 503736,
+      "poster": "/gCIsRxzcxvmuLYeAvWgoOuSxszF.jpg",
+      "title": "Army of the Dead",
+      "year": 2021
+    },
+    "Anger Management": {
+      "id": 9506,
+      "poster": "/8wX3S5HjL3bgb2yi4CfR2qIqbdH.jpg",
+      "title": "Anger Management",
+      "year": 2003
+    },
+    "Godzilla": {
+      "id": 124905,
+      "poster": "/z0CpCYiaUikJrcftPnb0jYCYmoo.jpg",
+      "title": "Godzilla",
+      "year": 2014
+    },
+    "My Octopus Teacher": {
+      "id": 682110,
+      "poster": "/hvTVZb7hBC8tZAGoEhH5eiMJu2B.jpg",
+      "title": "My Octopus Teacher",
+      "year": 2020
+    }
+  },
+  "tmdbOverrides": {
+    "6 Underground": 509967,
+    "Without Remorse": 567189
+  }
+}

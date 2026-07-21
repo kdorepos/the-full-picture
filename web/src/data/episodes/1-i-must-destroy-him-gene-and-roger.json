@@ -1,0 +1,194 @@
+{
+  "slug": "1-i-must-destroy-him-gene-and-roger",
+  "title": "1. “I Must Destroy Him” | Gene and Roger",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Brian Raftery"
+  ],
+  "published": "2021-07-20",
+  "runtimeMin": 25,
+  "format": "Episode 1 of The Ringer's 'Gene and Roger.' Brian Raftery traces how two rival Chicago newspaper critics became the country's most powerful thumbs, using the movies they fought over on air.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The Two Thumbs Era",
+      "note": "the films Gene and Roger fought over on air",
+      "films": [
+        {
+          "title": "Rocky IV",
+          "year": 1985,
+          "note": "The cold open: Siskel defends it, Ebert begs Rocky to retire. America beats Russia; Paulie gets a robot."
+        },
+        {
+          "title": "RoboCop",
+          "year": 1987,
+          "note": "The R-rated movie Raftery's parents wouldn't let him see, but Siskel & Ebert could air a clip of at 11 a.m."
+        },
+        {
+          "title": "My Dinner with Andre",
+          "year": 1981,
+          "note": "Cited as proof that two thumbs up carried weight across the whole range of movies."
+        },
+        {
+          "title": "Anaconda",
+          "year": 1997,
+          "note": "The other end of that range from My Dinner with Andre."
+        },
+        {
+          "title": "Reservoir Dogs",
+          "year": 1992,
+          "note": "One of their stranger calls: both gave it a thumbs down."
+        },
+        {
+          "title": "Goodfellas",
+          "year": 1990,
+          "note": "Ebert, almost dazed: 'a great American film.' Their reaction shows how big the movie felt in 1990."
+        },
+        {
+          "title": "Die Hard",
+          "year": 1988,
+          "note": "Ebert thumbs down over the plot holes; Siskel stayed interested."
+        },
+        {
+          "title": "The Silence of the Lambs",
+          "year": 1991,
+          "note": "Siskel voted thumbs down; Ebert didn't buy it either. 'This is the movies.'"
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Before Siskel and Ebert",
+      "note": "the critics and films that set the table",
+      "films": [
+        {
+          "title": "The Shining",
+          "year": 1980,
+          "note": "Gene Shalit's tightly scripted pun on the Today Show: 'Kubrick is responsible for the dulling of The Shining.'"
+        },
+        {
+          "title": "Conan the Barbarian",
+          "year": 1982,
+          "note": "Tarantino's example of the local-newscast critic as consumer advocate: should you waste your money?"
+        },
+        {
+          "title": "One Flew Over the Cuckoo's Nest",
+          "year": 1975,
+          "note": "Among the films Siskel and Ebert covered in their disastrous, barely-seen 1975 pilot."
+        },
+        {
+          "title": "Dog Day Afternoon",
+          "year": 1975,
+          "note": "Also in the pilot, back when film, not TV, led the cultural conversation."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "This Season on Gene and Roger",
+      "films": [
+        {
+          "title": "Pulp Fiction",
+          "year": 1994,
+          "note": "Cannes teaser: Ebert saw it and couldn't decide if it was one of the best movies he'd ever seen or one of the worst."
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Siskel & Ebert (At the Movies)",
+      "Nightwatch",
+      "Pardon the Interruption",
+      "60 Minutes",
+      "Point Counterpoint",
+      "Saturday Night Live",
+      "The Today Show"
+    ],
+    "Ads": [
+      "Netflix FIFA World Cup Launch Edition",
+      "Boar's Head"
+    ]
+  },
+  "tmdb": {
+    "Rocky IV": {
+      "id": 1374,
+      "poster": "/2MHUit4H6OK5adcOjnCN6suCKOl.jpg",
+      "title": "Rocky IV",
+      "year": 1985
+    },
+    "RoboCop": {
+      "id": 5548,
+      "poster": "/esmAU0fCO28FbS6bUBKLAzJrohZ.jpg",
+      "title": "RoboCop",
+      "year": 1987
+    },
+    "My Dinner with Andre": {
+      "id": 25468,
+      "poster": "/nJAn4vkJEX5G3Bsms8UElSTVLlL.jpg",
+      "title": "My Dinner with Andre",
+      "year": 1981
+    },
+    "Anaconda": {
+      "id": 9360,
+      "poster": "/33NysOnLpLZY0ewHTcfpalzAsRG.jpg",
+      "title": "Anaconda",
+      "year": 1997
+    },
+    "Reservoir Dogs": {
+      "id": 500,
+      "poster": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+      "title": "Reservoir Dogs",
+      "year": 1992
+    },
+    "Goodfellas": {
+      "id": 769,
+      "poster": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+      "title": "GoodFellas",
+      "year": 1990
+    },
+    "Die Hard": {
+      "id": 562,
+      "poster": "/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg",
+      "title": "Die Hard",
+      "year": 1988
+    },
+    "The Silence of the Lambs": {
+      "id": 274,
+      "poster": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+      "title": "The Silence of the Lambs",
+      "year": 1991
+    },
+    "The Shining": {
+      "id": 694,
+      "poster": "/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg",
+      "title": "The Shining",
+      "year": 1980
+    },
+    "Conan the Barbarian": {
+      "id": 9387,
+      "poster": "/qw2A587Ee61IwcSOLNFRhuOACZZ.jpg",
+      "title": "Conan the Barbarian",
+      "year": 1982
+    },
+    "One Flew Over the Cuckoo's Nest": {
+      "id": 510,
+      "poster": "/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": 1975
+    },
+    "Dog Day Afternoon": {
+      "id": 968,
+      "poster": "/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg",
+      "title": "Dog Day Afternoon",
+      "year": 1975
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    }
+  }
+}

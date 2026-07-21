@@ -1,0 +1,246 @@
+{
+  "slug": "the-super-mario-bros-movie-is-here-is-our-video-game-movie-f",
+  "title": "‘The Super Mario Bros. Movie’ Is Here! Is Our Video Game Movie Future?",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Ben Lindbergh",
+    "Charles Holmes"
+  ],
+  "published": "2023-04-05",
+  "runtimeMin": 68,
+  "format": "Ben Lindbergh and Charles Holmes join Sean to review 'The Super Mario Bros. Movie,' then use it as a jumping-off point for where video game adaptations go from here.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "The Super Mario Bros. Movie",
+      "films": [
+        {
+          "title": "The Super Mario Bros. Movie",
+          "year": 2023,
+          "note": "Directed by Aaron Horvath and Michael Jelenic, with Chris Pratt as Mario, Anya Taylor-Joy as Peach, Charlie Day as Luigi, Jack Black as Bowser, Keegan-Michael Key as Toad, and Seth Rogen as Donkey Kong. Charles clocks it as structurally identical to Shrek and out of step with how ambitious animation has gotten elsewhere. Ben calls it a fun, competently made Mario movie, straight down the middle, that fills a real hole in Illumination's slate. Sean thinks it's the rare kids' movie willing to just be 90 minutes and get out. All three single out Jack Black's Bowser, who sings, as the one performance taking real swings."
+        },
+        {
+          "title": "Super Mario Bros.",
+          "year": 1993,
+          "note": "The Bob Hoskins version. Sean rewatched it for this episode and hasn't recovered. Ben calls it the original sin of video game adaptations, and thinks the new film's biggest job was undoing the damage it did to Nintendo's trust in Hollywood."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Is our video game movie future here?",
+      "note": "from Mortal Kombat to Tetris",
+      "films": [
+        {
+          "title": "Mortal Kombat",
+          "year": 2021,
+          "note": "The Warner Bros. adaptation Sean and Ben covered two years ago. Sean says it's already been forgotten."
+        },
+        {
+          "title": "Uncharted",
+          "year": 2022,
+          "note": "Ben didn't love it. It told a prequel story instead of adapting the games directly, which he's fine with in theory, but he's not sure it would have done the same numbers against tougher 2023 competition."
+        },
+        {
+          "title": "Resident Evil: Welcome to Raccoon City",
+          "year": 2021,
+          "note": "Mentioned in passing as the most recent live-action entry in a franchise Sean calls 'somewhat low-rent.'"
+        },
+        {
+          "title": "Sonic the Hedgehog",
+          "year": 2020,
+          "note": "Cited as proof the Nintendo-style caution isn't universal: a distinctly American, irreverent take that still did well internationally."
+        },
+        {
+          "title": "Gran Turismo",
+          "year": 2023,
+          "note": "Coming in August; noted as part of the wave without much discussion."
+        },
+        {
+          "title": "Borderlands",
+          "year": 2024,
+          "note": "Cate Blanchett-led adaptation written by Craig Mazin, which lost director Eli Roth partway through and picked up Tim Miller."
+        },
+        {
+          "title": "Tetris",
+          "year": 2023,
+          "note": "Sean watched it the same weekend. Not a fan of the invented Cold War car chases or the on-the-nose retro graphics, but likes the broader idea of movies about video game culture rather than direct adaptations."
+        },
+        {
+          "title": "Pokémon Detective Pikachu",
+          "year": 2019,
+          "note": "Cited as the only other major theatrical feature Nintendo has put its name on in three decades, alongside the new Mario movie."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Animation comparisons",
+      "films": [
+        "Shrek",
+        "Puss in Boots: The Last Wish",
+        "Spider-Man: Into the Spider-Verse",
+        "The Mitchells vs. the Machines"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "How to Blow Up a Pipeline",
+        "Air"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Last of Us",
+      "Castlevania",
+      "Arcane",
+      "Cyberpunk: Edgerunners",
+      "Mythic Quest",
+      "Players",
+      "Dead Pixels",
+      "The Guild",
+      "Fallout",
+      "Resident Evil",
+      "The Legend of Zelda (Netflix series)"
+    ],
+    "Video games": [
+      "Super Mario Bros. (NES)",
+      "Super Mario Bros. 2",
+      "Super Mario Bros. 3",
+      "Super Mario World",
+      "Donkey Kong Country",
+      "Super Mario Kart",
+      "Super Mario Odyssey",
+      "Super Mario Galaxy",
+      "Super Smash Bros.",
+      "Duck Hunt",
+      "The Legend of Zelda",
+      "Donkey Kong",
+      "Mario Golf",
+      "God of War",
+      "Mass Effect",
+      "BioShock",
+      "Fallout (game)",
+      "Gears of War",
+      "Sifu",
+      "Death Stranding",
+      "Ghost of Tsushima",
+      "Metroid",
+      "Resident Evil 4 (remake)",
+      "Fortnite"
+    ],
+    "Books": [
+      "Tomorrow, and Tomorrow, and Tomorrow"
+    ],
+    "Ads": [
+      "Blackballed (podcast promo)",
+      "Boar's Head",
+      "Carvana",
+      "NOS Energy",
+      "FanDuel"
+    ]
+  },
+  "tmdb": {
+    "The Super Mario Bros. Movie": {
+      "id": 502356,
+      "poster": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+      "title": "The Super Mario Bros. Movie",
+      "year": 2023
+    },
+    "Super Mario Bros.": {
+      "id": 9607,
+      "poster": "/yt5bbMfKpg1nRr4k5edxs7tPK2m.jpg",
+      "title": "Super Mario Bros.",
+      "year": 1993
+    },
+    "Mortal Kombat": {
+      "id": 460465,
+      "poster": "/nkayOAUBUu4mMvyNf9iHSUiPjF1.jpg",
+      "title": "Mortal Kombat",
+      "year": 2021
+    },
+    "Uncharted": {
+      "id": 335787,
+      "poster": "/rJHC1RUORuUhtfNb4Npclx0xnOf.jpg",
+      "title": "Uncharted",
+      "year": 2022
+    },
+    "Resident Evil: Welcome to Raccoon City": {
+      "id": 460458,
+      "poster": "/bArhvjRHl535XMaSh9VjInF2mSZ.jpg",
+      "title": "Resident Evil: Welcome to Raccoon City",
+      "year": 2021
+    },
+    "Sonic the Hedgehog": {
+      "id": 454626,
+      "poster": "/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+      "title": "Sonic the Hedgehog",
+      "year": 2020
+    },
+    "Gran Turismo": {
+      "id": 980489,
+      "poster": "/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg",
+      "title": "Gran Turismo",
+      "year": 2023
+    },
+    "Borderlands": {
+      "id": 365177,
+      "poster": "/4JGoZu1ZKFpMJTWAP35PCfkMgu8.jpg",
+      "title": "Borderlands",
+      "year": 2024
+    },
+    "Tetris": {
+      "id": 726759,
+      "poster": "/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg",
+      "title": "Tetris",
+      "year": 2023
+    },
+    "Pokémon Detective Pikachu": {
+      "id": 447404,
+      "poster": "/uhWvnFgg3BNlcUz0Re1HfQqIcCD.jpg",
+      "title": "Pokémon Detective Pikachu",
+      "year": 2019
+    },
+    "Shrek": {
+      "id": 808,
+      "poster": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+      "title": "Shrek",
+      "year": 2001
+    },
+    "Puss in Boots: The Last Wish": {
+      "id": 315162,
+      "poster": "/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
+      "title": "Puss in Boots: The Last Wish",
+      "year": 2022
+    },
+    "Spider-Man: Into the Spider-Verse": {
+      "id": 324857,
+      "poster": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018
+    },
+    "The Mitchells vs. the Machines": {
+      "id": 501929,
+      "poster": "/mI2Di7HmskQQ34kz0iau6J1vr70.jpg",
+      "title": "The Mitchells vs. the Machines",
+      "year": 2021
+    },
+    "How to Blow Up a Pipeline": {
+      "id": 1008048,
+      "poster": "/5HJF47ywTuxxouVdAHAZ7iPzB4T.jpg",
+      "title": "How to Blow Up a Pipeline",
+      "year": 2023
+    },
+    "Air": {
+      "id": 964980,
+      "poster": "/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg",
+      "title": "Air",
+      "year": 2023
+    }
+  }
+}

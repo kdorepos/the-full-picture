@@ -1,0 +1,366 @@
+{
+  "slug": "mank-week-the-importance-of-citizen-kane-and-orson-welles",
+  "title": "‘Mank' Week: The Importance of ‘Citizen Kane' and Orson Welles",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan",
+    "Adam Nayman"
+  ],
+  "published": "2020-12-01",
+  "runtimeMin": 90,
+  "format": "Ahead of Fincher's ‘Mank,' a roundtable on ‘Citizen Kane,' Orson Welles, and Pauline Kael's ‘Raising Kane,' then Adam Nayman on the movie itself.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Citizen Kane, Welles, and ‘Raising Kane'",
+      "note": "Sean and Amanda with Chris Ryan and Adam Nayman",
+      "films": [
+        {
+          "title": "Citizen Kane",
+          "year": 1941,
+          "note": "The subject. Welles was 24, with an RKO deal granting him total control; Greg Toland shot the low angles and deep focus, Bernard Herrmann scored his first film, Robert Wise cut it. Nine nominations, one win (screenplay, shared with Mankiewicz). Topped the Sight & Sound poll for decades until Vertigo passed it in 2012."
+        },
+        {
+          "title": "The Magnificent Ambersons",
+          "year": 1942,
+          "note": "The follow-up, taken out of Welles's hands and re-cut by RKO after Kane underperformed. He spent the rest of his career trying to get back to that first level of control."
+        },
+        {
+          "title": "The Lady from Shanghai",
+          "year": 1947,
+          "note": "Chris cites it fondly as evidence Welles's body of work is more uneven than Ford's or Hitchcock's."
+        },
+        {
+          "title": "The Third Man",
+          "year": 1949,
+          "note": "Raised as a Mank-style credit dispute over how much of it was really Welles."
+        },
+        {
+          "title": "Touch of Evil",
+          "year": 1958,
+          "note": "Adam: Hank Quinlan is diminished, and the film works because of it. Welles turned his own decline into the material."
+        },
+        {
+          "title": "Chimes at Midnight",
+          "year": 1966,
+          "note": "His Falstaff: loyal and unrewarded. Adam reads the later films as Welles living the regret Kane only imagined."
+        },
+        {
+          "title": "F for Fake",
+          "year": 1973,
+          "note": "The reliably-unreliable trickster in his 60s. Adam watched it twice during the pandemic."
+        },
+        {
+          "title": "The Other Side of the Wind",
+          "year": 2018,
+          "note": "The unfinished late film. Adam argues it's proof that Welles deepened rather than squandered his gift."
+        },
+        {
+          "title": "The Stranger",
+          "year": 1946,
+          "note": "Named as a more conventionally accomplished Welles film that still doesn't carry Kane's weight."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Adam Nayman on ‘Mank'",
+      "note": "after Chris leaves",
+      "films": [
+        {
+          "title": "Mank",
+          "year": 2020,
+          "note": "Fincher directing his late father Jack's script, itself indebted to Kael's ‘Raising Kane.' Adam reads it less as a who-wrote-Kane argument than a movie about loneliness and a 2020 political parable, with Charles Dance's Hearst and a Welles scene (Tom Burke) Adam finds the weakest part."
+        },
+        {
+          "title": "The Social Network",
+          "year": 2010,
+          "note": "Adam: more Fincher's ‘Citizen Kane' than ‘Mank' is, a story of ambition that isolates and a 21-year-old smarter than the adults in the room."
+        },
+        {
+          "title": "Alien 3",
+          "year": 1992,
+          "note": "The primal wound Adam says Fincher never got over: the studio overruled him on it, and he's had a chip on his shoulder about it ever since."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Comparisons and homages",
+      "films": [
+        "Stagecoach",
+        "Repulsion",
+        "The Master",
+        "Hail, Caesar!",
+        "Phantom Thread",
+        "Panic Room",
+        "Butch Cassidy and the Sundance Kid"
+      ]
+    },
+    {
+      "group": "The 1941 field",
+      "films": [
+        "How Green Was My Valley",
+        "Sergeant York",
+        "The Maltese Falcon",
+        "Ball of Fire",
+        "The Little Foxes",
+        "Night Train to Munich",
+        "The Lady Eve",
+        "Suspicion"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Singin' in the Rain",
+        "Casablanca",
+        "Jaws",
+        "2001: A Space Odyssey",
+        "La La Land",
+        "Den of Thieves",
+        "Triple Frontier",
+        "Under Fire"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Tiny Toon Adventures",
+      "The Simpsons",
+      "The Dick Cavett Show"
+    ],
+    "Radio / unmade": [
+      "The War of the Worlds",
+      "Heart of Darkness"
+    ],
+    "Ads": [
+      "FanDuel",
+      "NOS Energy",
+      "Carvana",
+      "Netflix",
+      "Whole Foods",
+      "Boar's Head"
+    ]
+  },
+  "tmdbOverrides": {
+    "Alien 3": 8077,
+    "Stagecoach": 995
+  },
+  "tmdb": {
+    "Citizen Kane": {
+      "id": 15,
+      "poster": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+      "title": "Citizen Kane",
+      "year": 1941
+    },
+    "The Magnificent Ambersons": {
+      "id": 965,
+      "poster": "/g5EosvM0delNPkgBDGYYZvJl46n.jpg",
+      "title": "The Magnificent Ambersons",
+      "year": 1942
+    },
+    "The Lady from Shanghai": {
+      "id": 3766,
+      "poster": "/whqdqWavNMSoeXTx1X3DauO1LG6.jpg",
+      "title": "The Lady from Shanghai",
+      "year": 1947
+    },
+    "The Third Man": {
+      "id": 1092,
+      "poster": "/rO2Fq0AZZx9obs52KJdx4mRE8p5.jpg",
+      "title": "The Third Man",
+      "year": 1949
+    },
+    "Touch of Evil": {
+      "id": 1480,
+      "poster": "/1pvRgmfBaoMczIJBOi9gCOZ4FMC.jpg",
+      "title": "Touch of Evil",
+      "year": 1958
+    },
+    "Chimes at Midnight": {
+      "id": 986,
+      "poster": "/5Fjxyz3u2Zdco4WeuC3wQ6O5tYQ.jpg",
+      "title": "Chimes at Midnight",
+      "year": 1965
+    },
+    "F for Fake": {
+      "id": 43003,
+      "poster": "/fVeIDxS73CrosoeVOaefQuCUGZg.jpg",
+      "title": "F for Fake",
+      "year": 1973
+    },
+    "The Other Side of the Wind": {
+      "id": 299782,
+      "poster": "/pFeWBVcCehkdr1BvXaVrepGUJQK.jpg",
+      "title": "The Other Side of the Wind",
+      "year": 2018
+    },
+    "The Stranger": {
+      "id": 20246,
+      "poster": "/bzjoPScBLUWpSu10m3GbSbSwVhS.jpg",
+      "title": "The Stranger",
+      "year": 1946
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "The Social Network": {
+      "id": 37799,
+      "poster": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+      "title": "The Social Network",
+      "year": 2010
+    },
+    "Alien 3": {
+      "id": 8077,
+      "poster": "/xh5wI0UoW7DfS1IyLy3d2CgrCEP.jpg",
+      "title": "Alien³",
+      "year": 1992
+    },
+    "Stagecoach": {
+      "id": 995,
+      "poster": "/zgMnfnwWZ3nkx4t0bUDEKtW24O8.jpg",
+      "title": "Stagecoach",
+      "year": 1939
+    },
+    "Repulsion": {
+      "id": 11481,
+      "poster": "/dtyCKEPLqv9wxyVazL4b843vtUb.jpg",
+      "title": "Repulsion",
+      "year": 1965
+    },
+    "The Master": {
+      "id": 68722,
+      "poster": "/rUSjbyvYWN9H4az8xt0tDtU7I6v.jpg",
+      "title": "The Master",
+      "year": 2012
+    },
+    "Hail, Caesar!": {
+      "id": 270487,
+      "poster": "/qvecZ7WyemhGW8fuJ8190p472jQ.jpg",
+      "title": "Hail, Caesar!",
+      "year": 2016
+    },
+    "Phantom Thread": {
+      "id": 400617,
+      "poster": "/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg",
+      "title": "Phantom Thread",
+      "year": 2017
+    },
+    "Panic Room": {
+      "id": 4547,
+      "poster": "/hANYbvfwxmkC9E4yY6YyJxYxlSJ.jpg",
+      "title": "Panic Room",
+      "year": 2002
+    },
+    "Butch Cassidy and the Sundance Kid": {
+      "id": 642,
+      "poster": "/gFmmykF1Ym3OGzENo50nZQaD1dx.jpg",
+      "title": "Butch Cassidy and the Sundance Kid",
+      "year": 1969
+    },
+    "How Green Was My Valley": {
+      "id": 43266,
+      "poster": "/8N7OmxBqjRVUrqergUduGgr6exy.jpg",
+      "title": "How Green Was My Valley",
+      "year": 1941
+    },
+    "Sergeant York": {
+      "id": 16442,
+      "poster": "/54LTgyRHSixyeeFhLtCFj0SMAQ3.jpg",
+      "title": "Sergeant York",
+      "year": 1941
+    },
+    "The Maltese Falcon": {
+      "id": 963,
+      "poster": "/bf4o6Uzw5wqLjdKwRuiDrN1xyvl.jpg",
+      "title": "The Maltese Falcon",
+      "year": 1941
+    },
+    "Ball of Fire": {
+      "id": 29884,
+      "poster": "/t9L16dMTuNq4saLpQswZjkNvaMt.jpg",
+      "title": "Ball of Fire",
+      "year": 1941
+    },
+    "The Little Foxes": {
+      "id": 43802,
+      "poster": "/hahHchjsnx62Ry7qmv2apYmlPX8.jpg",
+      "title": "The Little Foxes",
+      "year": 1941
+    },
+    "Night Train to Munich": {
+      "id": 41597,
+      "poster": "/fi6Vh72FSrps1eqKG0zj5DIv190.jpg",
+      "title": "Night Train to Munich",
+      "year": 1940
+    },
+    "The Lady Eve": {
+      "id": 3086,
+      "poster": "/lJYD3CMgKtv12hazSHc7xt3i2uq.jpg",
+      "title": "The Lady Eve",
+      "year": 1941
+    },
+    "Suspicion": {
+      "id": 11462,
+      "poster": "/clWNlzlbyaEoIK63lcFjqBmXoQz.jpg",
+      "title": "Suspicion",
+      "year": 1941
+    },
+    "Singin' in the Rain": {
+      "id": 872,
+      "poster": "/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+      "title": "Singin' in the Rain",
+      "year": 1952
+    },
+    "Casablanca": {
+      "id": 289,
+      "poster": "/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+      "title": "Casablanca",
+      "year": 1943
+    },
+    "Jaws": {
+      "id": 578,
+      "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "title": "Jaws",
+      "year": 1975
+    },
+    "2001: A Space Odyssey": {
+      "id": 62,
+      "poster": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "title": "2001: A Space Odyssey",
+      "year": 1968
+    },
+    "La La Land": {
+      "id": 313369,
+      "poster": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "title": "La La Land",
+      "year": 2016
+    },
+    "Den of Thieves": {
+      "id": 449443,
+      "poster": "/dAP5NpkrMMczir5dUPjRR6ywqgz.jpg",
+      "title": "Den of Thieves",
+      "year": 2018
+    },
+    "Triple Frontier": {
+      "id": 399361,
+      "poster": "/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg",
+      "title": "Triple Frontier",
+      "year": 2019
+    },
+    "Under Fire": {
+      "id": 12503,
+      "poster": "/yw73rD95RDqm6cMXi5Gw87KffId.jpg",
+      "title": "Under Fire",
+      "year": 1983
+    }
+  }
+}

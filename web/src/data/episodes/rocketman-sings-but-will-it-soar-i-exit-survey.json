@@ -1,0 +1,190 @@
+{
+  "slug": "rocketman-sings-but-will-it-soar-i-exit-survey",
+  "title": "'Rocketman' Sings, but Will It Soar? I Exit Survey",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2019-05-31",
+  "runtimeMin": 61,
+  "format": "Sean and Amanda review the Elton John biopic 'Rocketman,' then survey the rest of the weekend's new releases, including the Netflix rom-com 'Always Be My Maybe.'",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "'Rocketman'",
+      "note": "the Elton John biopic, reviewed against 'Bohemian Rhapsody'",
+      "films": [
+        {
+          "title": "Rocketman",
+          "year": 2019,
+          "note": "Sean went in skeptical of music biopics, of Taron Egerton singing Elton John's songs, and of director Dexter Fletcher, who took over 'Bohemian Rhapsody' after Bryan Singer left, but came out won over. Both praise its fantastical staging, Jamie Bell's Bernie Taupin, and the Elton-Bernie partnership as the real love story; both are less sold on the childhood scenes and the pat 'his parents didn't love him' framing. Amanda liked it more than 'Bohemian Rhapsody' but wonders if it's 'not dumb enough' to be a crowd-pleaser."
+        },
+        {
+          "title": "Bohemian Rhapsody",
+          "year": 2018,
+          "note": "The film Sean and Amanda keep measuring 'Rocketman' against. They agree 'Rocketman' is more inventive and more candid about its subject's addiction and sexuality, but less of a pure singalong pleasure, and unlikely to match this film's box office or awards run."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Exit Survey",
+      "note": "the rest of the weekend's new releases",
+      "films": [
+        {
+          "title": "Godzilla: King of the Monsters",
+          "year": 2019,
+          "note": "Rocketman's counterprogramming target. Sean saw it and says it 'has a lot of flaws.'"
+        },
+        {
+          "title": "Ma",
+          "year": 2019,
+          "note": "Tate Taylor's Blumhouse horror movie. Sean: 'I can't say that I would recommend it.'"
+        },
+        {
+          "title": "Always Be My Maybe",
+          "year": 2019,
+          "note": "Nahnatchka Khan's Netflix rom-com starring Ali Wong and Randall Park, born from an Ali Wong New Yorker profile quote. Amanda calls it 'a sitcom,' formulaic and underwritten for its leads, but says a long, self-lampooning Keanu Reeves cameo saves it and is the part people will remember. Both recommend it as an easy watch-at-home pick."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Walk Hard: The Dewey Cox Story",
+        "Kingsman: The Secret Service",
+        "Tommy",
+        "Butch Cassidy and the Sundance Kid",
+        "Two Rooms: A Tribute to Elton John & Bernie Taupin",
+        "The Perfection",
+        "John Wick: Chapter 3 - Parabellum",
+        "Yesterday",
+        "HOMECOMING: A film by Beyoncé",
+        "The Black Godfather",
+        "The Lion King",
+        "The Lion King (2019)"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "The Lion King (2019)": 420818
+  },
+  "excluded": {
+    "TV": [
+      "Big Little Lies",
+      "Don't Trust the B in Apartment 23",
+      "Extras"
+    ],
+    "Comedy specials": [
+      "Baby Cobra"
+    ]
+  },
+  "tmdb": {
+    "Rocketman": {
+      "id": 504608,
+      "poster": "/f4FF18ia7yTvHf2izNrHqBmgH8U.jpg",
+      "title": "Rocketman",
+      "year": 2019
+    },
+    "Bohemian Rhapsody": {
+      "id": 424694,
+      "poster": "/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+      "title": "Bohemian Rhapsody",
+      "year": 2018
+    },
+    "Godzilla: King of the Monsters": {
+      "id": 373571,
+      "poster": "/mzOHg7Q5q9yUmY0b9Esu8Qe6Nnm.jpg",
+      "title": "Godzilla: King of the Monsters",
+      "year": 2019
+    },
+    "Ma": {
+      "id": 502416,
+      "poster": "/6n7ASmQ1wY2cxTubFFGlcvPpyk7.jpg",
+      "title": "Ma",
+      "year": 2019
+    },
+    "Always Be My Maybe": {
+      "id": 513576,
+      "poster": "/3BO6pPa7qDcpPYct061Luh9fvst.jpg",
+      "title": "Always Be My Maybe",
+      "year": 2019
+    },
+    "Walk Hard: The Dewey Cox Story": {
+      "id": 6575,
+      "poster": "/Aa1IQ4Cuin3d7qIahvPheMmR4E5.jpg",
+      "title": "Walk Hard: The Dewey Cox Story",
+      "year": 2007
+    },
+    "Kingsman: The Secret Service": {
+      "id": 207703,
+      "poster": "/17i5YPTfHOjXoieArpATWGRhLj1.jpg",
+      "title": "Kingsman: The Secret Service",
+      "year": 2015
+    },
+    "Tommy": {
+      "id": 11326,
+      "poster": "/pAImVnqBJwoFAKrcpAe17JjLGUs.jpg",
+      "title": "Tommy",
+      "year": 1975
+    },
+    "Butch Cassidy and the Sundance Kid": {
+      "id": 642,
+      "poster": "/gFmmykF1Ym3OGzENo50nZQaD1dx.jpg",
+      "title": "Butch Cassidy and the Sundance Kid",
+      "year": 1969
+    },
+    "Two Rooms: A Tribute to Elton John & Bernie Taupin": {
+      "id": 571041,
+      "poster": "/k7BFaEhcPJC0NMWP7dEDB4G7IYm.jpg",
+      "title": "Two Rooms: A Tribute to Elton John & Bernie Taupin",
+      "year": 1991
+    },
+    "The Perfection": {
+      "id": 529962,
+      "poster": "/tPDe68PDsgIGMs6wdJLtcwVVxA7.jpg",
+      "title": "The Perfection",
+      "year": 2018
+    },
+    "John Wick: Chapter 3 - Parabellum": {
+      "id": 458156,
+      "poster": "/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg",
+      "title": "John Wick: Chapter 3 - Parabellum",
+      "year": 2019
+    },
+    "Yesterday": {
+      "id": 515195,
+      "poster": "/9fYka5CQt9nrb6LOtKicysUf9NA.jpg",
+      "title": "Yesterday",
+      "year": 2019
+    },
+    "HOMECOMING: A film by Beyoncé": {
+      "id": 593691,
+      "poster": "/nKdP4K3Bj3qnjtDCq9lTg7UOHVy.jpg",
+      "title": "HOMECOMING: A film by Beyoncé",
+      "year": 2019
+    },
+    "The Black Godfather": {
+      "id": 606215,
+      "poster": "/3BQArnXPwM5nHeS1tlGKLY7eapP.jpg",
+      "title": "The Black Godfather",
+      "year": 2019
+    },
+    "The Lion King": {
+      "id": 8587,
+      "poster": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+      "title": "The Lion King",
+      "year": 1994
+    },
+    "The Lion King (2019)": {
+      "id": 420818,
+      "poster": "/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg",
+      "title": "The Lion King",
+      "year": 2019
+    }
+  }
+}

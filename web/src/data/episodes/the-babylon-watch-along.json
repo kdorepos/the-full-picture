@@ -1,0 +1,826 @@
+{
+  "slug": "the-babylon-watch-along",
+  "title": "The ‘Babylon’ Watch-Along",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2024-03-26",
+  "runtimeMin": 190,
+  "format": "A live-to-tape watch-along of Damien Chazelle's 'Babylon.' Sean, Amanda, and Chris press play together and talk over all three-plus hours: the elephant, the Singin' in the Rain echoes, the closing montage, and whether it holds together outside a theater.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "The Watch-Along",
+      "note": "press play with them",
+      "films": [
+        {
+          "title": "Babylon",
+          "year": 2022,
+          "note": "Chazelle's box-office flop, watched start to finish. The three agree it's a run of set pieces (the party, the Singin' in the Rain sound-stage homage, Tobey Maguire's underworld) without much connective tissue. Sean is in the hive, Chris hive-adjacent, Amanda admiring but out."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Damien Chazelle's other films",
+      "films": [
+        "La La Land",
+        "Whiplash",
+        "First Man"
+      ]
+    },
+    {
+      "group": "Brad Pitt on the table",
+      "films": [
+        "Once Upon a Time in Hollywood",
+        "True Romance",
+        "Legends of the Fall",
+        "Ocean's Eleven",
+        "Moneyball",
+        "Twelve Monkeys",
+        "Fight Club"
+      ]
+    },
+    {
+      "group": "Margot Robbie on the table",
+      "films": [
+        "Barbie",
+        "Amsterdam",
+        "The Wolf of Wall Street",
+        "The Legend of Tarzan",
+        "I, Tonya"
+      ]
+    },
+    {
+      "group": "Spike Jonze filmography, read aloud",
+      "films": [
+        "Mi Vida Loca",
+        "Three Kings",
+        "Being John Malkovich",
+        "Adaptation.",
+        "Jackass: The Movie",
+        "Jackass Number Two",
+        "Jackass 2.5",
+        "Where the Wild Things Are",
+        "Jackass 3D",
+        "Her",
+        "Jackass Presents: Bad Grandpa",
+        "Jackass Forever",
+        "Jackass 4.5",
+        "Harold and the Purple Crayon"
+      ]
+    },
+    {
+      "group": "Silent and classic Hollywood",
+      "films": [
+        "Singin' in the Rain",
+        "The Jazz Singer",
+        "Sunrise: A Song of Two Humans",
+        "City Lights",
+        "Greed",
+        "Grand Illusion",
+        "The Rules of the Game",
+        "Sunset Boulevard",
+        "Shanghai Express",
+        "The Lady from Shanghai",
+        "An American in Paris",
+        "The Philadelphia Story",
+        "All About Eve",
+        "Ziegfeld Follies",
+        "The Godfather"
+      ]
+    },
+    {
+      "group": "The closing montage",
+      "films": [
+        "The Wizard of Oz",
+        "Ben-Hur",
+        "Un Chien Andalou",
+        "The Passion of Joan of Arc",
+        "2001: A Space Odyssey",
+        "The Ten Commandments",
+        "Tron",
+        "Terminator 2: Judgment Day",
+        "Jurassic Park",
+        "The Matrix",
+        "Avatar",
+        "Persona"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Immaculate",
+        "Transformers: Age of Extinction",
+        "Killers of the Flower Moon",
+        "A Hidden Life",
+        "Dune: Part Two",
+        "Drive-Away Dolls",
+        "Boogie Nights",
+        "Mean Streets",
+        "Goodfellas",
+        "Inception",
+        "Vertigo",
+        "Suspiria",
+        "Saltburn",
+        "Road House",
+        "Snack Shack",
+        "May December",
+        "Mank",
+        "Maestro",
+        "Poor Things",
+        "Oppenheimer",
+        "Ouija",
+        "Ouija: Origin of Evil",
+        "The Curious Case of Benjamin Button",
+        "Sonic the Hedgehog",
+        "No Time to Die",
+        "Everything Everywhere All at Once",
+        "Tár",
+        "Top Gun: Maverick",
+        "Green Lantern",
+        "Guardians of the Galaxy",
+        "Howards End",
+        "Alien: Covenant",
+        "Inherent Vice",
+        "Fantastic Beasts and Where to Find Them",
+        "Harry Potter and the Prisoner of Azkaban",
+        "The Bourne Legacy",
+        "Margin Call",
+        "Haywire",
+        "The Dark Knight Rises",
+        "Free Guy",
+        "Justice League",
+        "Zack Snyder's Justice League",
+        "Batman v Superman: Dawn of Justice",
+        "Don't Worry Darling",
+        "Richard Jewell",
+        "Witness",
+        "A Different Man"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Hacks",
+      "Masters of the Air",
+      "The Eddy",
+      "Narcos: Mexico",
+      "Briar Patch",
+      "Luck",
+      "3 Body Problem",
+      "Manhunt",
+      "Perry Mason",
+      "Downton Abbey",
+      "Shogun",
+      "Survivor",
+      "The Curse",
+      "Lioness",
+      "Nine Perfect Strangers",
+      "Expats",
+      "Big Little Lies"
+    ],
+    "Documentary series": [
+      "STEVE! (Martin): A Documentary in 2 Pieces"
+    ],
+    "Ads": [
+      "The Press Box (podcast promo)"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Rules of the Game": 776,
+    "Suspiria": 11906
+  },
+  "tmdb": {
+    "Babylon": {
+      "id": 615777,
+      "poster": "/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+      "title": "Babylon",
+      "year": 2022
+    },
+    "La La Land": {
+      "id": 313369,
+      "poster": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "title": "La La Land",
+      "year": 2016
+    },
+    "Whiplash": {
+      "id": 244786,
+      "poster": "/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+      "title": "Whiplash",
+      "year": 2014
+    },
+    "First Man": {
+      "id": 369972,
+      "poster": "/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
+      "title": "First Man",
+      "year": 2018
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "True Romance": {
+      "id": 319,
+      "poster": "/39lXk6ud6KiJgGbbWI2PUKS7y2.jpg",
+      "title": "True Romance",
+      "year": 1993
+    },
+    "Legends of the Fall": {
+      "id": 4476,
+      "poster": "/t1KPGlW0UGd0m515LPQmk2F4nu1.jpg",
+      "title": "Legends of the Fall",
+      "year": 1994
+    },
+    "Ocean's Eleven": {
+      "id": 161,
+      "poster": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+      "title": "Ocean's Eleven",
+      "year": 2001
+    },
+    "Moneyball": {
+      "id": 60308,
+      "poster": "/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+      "title": "Moneyball",
+      "year": 2011
+    },
+    "Twelve Monkeys": {
+      "id": 63,
+      "poster": "/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg",
+      "title": "Twelve Monkeys",
+      "year": 1995
+    },
+    "Fight Club": {
+      "id": 550,
+      "poster": "/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+      "title": "Fight Club",
+      "year": 1999
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Amsterdam": {
+      "id": 664469,
+      "poster": "/6sJcVzGCwrDCBMV0DU6eRzA2UxM.jpg",
+      "title": "Amsterdam",
+      "year": 2022
+    },
+    "The Wolf of Wall Street": {
+      "id": 106646,
+      "poster": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+      "title": "The Wolf of Wall Street",
+      "year": 2013
+    },
+    "The Legend of Tarzan": {
+      "id": 258489,
+      "poster": "/eJrfz178xBGlxjDGxnBXTzWWa4w.jpg",
+      "title": "The Legend of Tarzan",
+      "year": 2016
+    },
+    "I, Tonya": {
+      "id": 389015,
+      "poster": "/6gNXwSHxaksR1PjVZRqNapmkgj3.jpg",
+      "title": "I, Tonya",
+      "year": 2017
+    },
+    "Mi Vida Loca": {
+      "id": 32325,
+      "poster": "/gtKIaHUqkNqdgVnMFosyVJXvKMC.jpg",
+      "title": "Mi Vida Loca",
+      "year": 1994
+    },
+    "Three Kings": {
+      "id": 6415,
+      "poster": "/fClJQW8xn8wHOFqoA4jUn0PZh1f.jpg",
+      "title": "Three Kings",
+      "year": 1999
+    },
+    "Being John Malkovich": {
+      "id": 492,
+      "poster": "/31FGQu3OnwdmS4COquENe0vMZc0.jpg",
+      "title": "Being John Malkovich",
+      "year": 1999
+    },
+    "Adaptation.": {
+      "id": 2757,
+      "poster": "/ffEmHQAiD0m5dEQ6rlsuA9vlllW.jpg",
+      "title": "Adaptation.",
+      "year": 2002
+    },
+    "Jackass: The Movie": {
+      "id": 9012,
+      "poster": "/9Rb659hvGfmef1xm0mMvDHEBqmf.jpg",
+      "title": "Jackass: The Movie",
+      "year": 2002
+    },
+    "Jackass Number Two": {
+      "id": 12094,
+      "poster": "/u73V8dMqUwjtPL6gWesCE7ji9GU.jpg",
+      "title": "Jackass Number Two",
+      "year": 2006
+    },
+    "Jackass 2.5": {
+      "id": 14158,
+      "poster": "/qriTT0KQvvuCs73z0LyEduw6XX.jpg",
+      "title": "Jackass 2.5",
+      "year": 2007
+    },
+    "Where the Wild Things Are": {
+      "id": 16523,
+      "poster": "/pzVqDpSzOg32IpXghHGSGAAArl6.jpg",
+      "title": "Where the Wild Things Are",
+      "year": 2009
+    },
+    "Jackass 3D": {
+      "id": 16290,
+      "poster": "/uPirN07su7LFixyZyLrNMMQ9u1E.jpg",
+      "title": "Jackass 3D",
+      "year": 2010
+    },
+    "Her": {
+      "id": 152601,
+      "poster": "/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg",
+      "title": "Her",
+      "year": 2013
+    },
+    "Jackass Presents: Bad Grandpa": {
+      "id": 208134,
+      "poster": "/dDSMzBEaM0LYSy9Muo0zsCo77Vh.jpg",
+      "title": "Jackass Presents: Bad Grandpa",
+      "year": 2013
+    },
+    "Jackass Forever": {
+      "id": 656663,
+      "poster": "/ruHDFumJfW7F2vEqTZEQQ9xT7CA.jpg",
+      "title": "Jackass Forever",
+      "year": 2022
+    },
+    "Jackass 4.5": {
+      "id": 828853,
+      "poster": "/bl686OSeMQOvs90IQAgt8QipCsB.jpg",
+      "title": "Jackass 4.5",
+      "year": 2022
+    },
+    "Harold and the Purple Crayon": {
+      "id": 826510,
+      "poster": "/qtW6bWUEqfPLaD6KnetIlSG4adf.jpg",
+      "title": "Harold and the Purple Crayon",
+      "year": 2024
+    },
+    "Singin' in the Rain": {
+      "id": 872,
+      "poster": "/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+      "title": "Singin' in the Rain",
+      "year": 1952
+    },
+    "The Jazz Singer": {
+      "id": 939,
+      "poster": "/wr8Pt1GO87cwB3210TO3JTNDsUc.jpg",
+      "title": "The Jazz Singer",
+      "year": 1927
+    },
+    "Sunrise: A Song of Two Humans": {
+      "id": 631,
+      "poster": "/5V9jDm4u2QemGHbqjUyP5HmFmzf.jpg",
+      "title": "Sunrise: A Song of Two Humans",
+      "year": 1927
+    },
+    "City Lights": {
+      "id": 901,
+      "poster": "/ugmakEL5y294I5bXgiBqApuZpwc.jpg",
+      "title": "City Lights",
+      "year": 1931
+    },
+    "Greed": {
+      "id": 1405,
+      "poster": "/eur2vc2BGiOocBuBLVPXySO7lRh.jpg",
+      "title": "Greed",
+      "year": 1924
+    },
+    "Grand Illusion": {
+      "id": 777,
+      "poster": "/lWg41zE0FVixkNsFgxnlRyvDYv9.jpg",
+      "title": "Grand Illusion",
+      "year": 1937
+    },
+    "The Rules of the Game": {
+      "id": 776,
+      "poster": "/8JOzt7uFZyshcuzCBmYU6CDJL4D.jpg",
+      "title": "The Rules of the Game",
+      "year": 1939
+    },
+    "Sunset Boulevard": {
+      "id": 599,
+      "poster": "/zt8aQ6ksqK6p1AopC5zVTDS9pKT.jpg",
+      "title": "Sunset Boulevard",
+      "year": 1950
+    },
+    "Shanghai Express": {
+      "id": 875,
+      "poster": "/z0ea6xM3HhIZi7zApDVsxewv9R8.jpg",
+      "title": "Shanghai Express",
+      "year": 1932
+    },
+    "The Lady from Shanghai": {
+      "id": 3766,
+      "poster": "/whqdqWavNMSoeXTx1X3DauO1LG6.jpg",
+      "title": "The Lady from Shanghai",
+      "year": 1947
+    },
+    "An American in Paris": {
+      "id": 2769,
+      "poster": "/lyDXkvG53ldz6Cf7dbjJl7TaoP5.jpg",
+      "title": "An American in Paris",
+      "year": 1951
+    },
+    "The Philadelphia Story": {
+      "id": 981,
+      "poster": "/dKUubjvxO78XDts6VP1Ggcp4R9O.jpg",
+      "title": "The Philadelphia Story",
+      "year": 1940
+    },
+    "All About Eve": {
+      "id": 705,
+      "poster": "/blBzZaatPWVuWpXEnPscMA4Xp6m.jpg",
+      "title": "All About Eve",
+      "year": 1950
+    },
+    "Ziegfeld Follies": {
+      "id": 43176,
+      "poster": "/f5CPLtMX9vSMoumnZi1s8KbbD6p.jpg",
+      "title": "Ziegfeld Follies",
+      "year": 1945
+    },
+    "The Godfather": {
+      "id": 238,
+      "poster": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "title": "The Godfather",
+      "year": 1972
+    },
+    "The Wizard of Oz": {
+      "id": 630,
+      "poster": "/uCC3j4pV9eOZwzDUWp2ilbcTf1f.jpg",
+      "title": "The Wizard of Oz",
+      "year": 1939
+    },
+    "Ben-Hur": {
+      "id": 665,
+      "poster": "/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+      "title": "Ben-Hur",
+      "year": 1959
+    },
+    "Un Chien Andalou": {
+      "id": 626,
+      "poster": "/obvE7ElAvCUhKtWFwDSvNbPw9PV.jpg",
+      "title": "Un Chien Andalou",
+      "year": 1929
+    },
+    "The Passion of Joan of Arc": {
+      "id": 780,
+      "poster": "/tAgV9yxY6AC1bsPt3qJJQpD4s8.jpg",
+      "title": "The Passion of Joan of Arc",
+      "year": 1928
+    },
+    "2001: A Space Odyssey": {
+      "id": 62,
+      "poster": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "title": "2001: A Space Odyssey",
+      "year": 1968
+    },
+    "The Ten Commandments": {
+      "id": 6844,
+      "poster": "/3Ei59AR64x6dMZfWobPCkZjbqTL.jpg",
+      "title": "The Ten Commandments",
+      "year": 1956
+    },
+    "Tron": {
+      "id": 97,
+      "poster": "/jigY9B6TKz4qlfikZcd18qtzTK4.jpg",
+      "title": "Tron",
+      "year": 1982
+    },
+    "Terminator 2: Judgment Day": {
+      "id": 280,
+      "poster": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991
+    },
+    "Jurassic Park": {
+      "id": 329,
+      "poster": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "title": "Jurassic Park",
+      "year": 1993
+    },
+    "The Matrix": {
+      "id": 603,
+      "poster": "/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+      "title": "The Matrix",
+      "year": 1999
+    },
+    "Avatar": {
+      "id": 19995,
+      "poster": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "title": "Avatar",
+      "year": 2009
+    },
+    "Persona": {
+      "id": 797,
+      "poster": "/fVA5hTcAOlW2LJyelViQfWHxUcx.jpg",
+      "title": "Persona",
+      "year": 1966
+    },
+    "Immaculate": {
+      "id": 1041613,
+      "poster": "/zyopv7D5j7cfswG0NYiA14qAdPC.jpg",
+      "title": "Immaculate",
+      "year": 2024
+    },
+    "Transformers: Age of Extinction": {
+      "id": 91314,
+      "poster": "/jyzrfx2WaeY60kYZpPYepSjGz4S.jpg",
+      "title": "Transformers: Age of Extinction",
+      "year": 2014
+    },
+    "Killers of the Flower Moon": {
+      "id": 466420,
+      "poster": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+      "title": "Killers of the Flower Moon",
+      "year": 2023
+    },
+    "A Hidden Life": {
+      "id": 403300,
+      "poster": "/taUkn5MsZIq5kpTABsF2563j5zp.jpg",
+      "title": "A Hidden Life",
+      "year": 2019
+    },
+    "Dune: Part Two": {
+      "id": 693134,
+      "poster": "/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+      "title": "Dune: Part Two",
+      "year": 2024
+    },
+    "Drive-Away Dolls": {
+      "id": 957304,
+      "poster": "/6QPKmqntFgLm6sB47AtSelEGGPM.jpg",
+      "title": "Drive-Away Dolls",
+      "year": 2024
+    },
+    "Boogie Nights": {
+      "id": 4995,
+      "poster": "/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg",
+      "title": "Boogie Nights",
+      "year": 1997
+    },
+    "Mean Streets": {
+      "id": 203,
+      "poster": "/9msfwOeGc9uL1iRRTBdEf15XonC.jpg",
+      "title": "Mean Streets",
+      "year": 1973
+    },
+    "Goodfellas": {
+      "id": 769,
+      "poster": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+      "title": "GoodFellas",
+      "year": 1990
+    },
+    "Inception": {
+      "id": 27205,
+      "poster": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+      "title": "Inception",
+      "year": 2010
+    },
+    "Vertigo": {
+      "id": 426,
+      "poster": "/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg",
+      "title": "Vertigo",
+      "year": 1958
+    },
+    "Suspiria": {
+      "id": 11906,
+      "poster": "/sEcvc9h1X3hYZdFgtiiKMm6RB3f.jpg",
+      "title": "Suspiria",
+      "year": 1977
+    },
+    "Saltburn": {
+      "id": 930564,
+      "poster": "/zGTfMwG112BC66mpaveVxoWPOaB.jpg",
+      "title": "Saltburn",
+      "year": 2023
+    },
+    "Road House": {
+      "id": 359410,
+      "poster": "/fDEdtS4P0gJsxHDIt8dG8TR5dx1.jpg",
+      "title": "Road House",
+      "year": 2024
+    },
+    "Snack Shack": {
+      "id": 1037113,
+      "poster": "/wCXd5tpUSc12LVPd2oN9OKU1EVQ.jpg",
+      "title": "Snack Shack",
+      "year": 2024
+    },
+    "May December": {
+      "id": 839369,
+      "poster": "/zhV7B610l7hjlri4ywikJ18ONuq.jpg",
+      "title": "May December",
+      "year": 2023
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "Maestro": {
+      "id": 523607,
+      "poster": "/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg",
+      "title": "Maestro",
+      "year": 2023
+    },
+    "Poor Things": {
+      "id": 792307,
+      "poster": "/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+      "title": "Poor Things",
+      "year": 2023
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Ouija": {
+      "id": 242512,
+      "poster": "/gwjHlGjK2xXKpjd65BWyAMwzTWC.jpg",
+      "title": "Ouija",
+      "year": 2014
+    },
+    "Ouija: Origin of Evil": {
+      "id": 335796,
+      "poster": "/gwynHc2RrOFaplYMMpQRpr3TIA4.jpg",
+      "title": "Ouija: Origin of Evil",
+      "year": 2016
+    },
+    "The Curious Case of Benjamin Button": {
+      "id": 4922,
+      "poster": "/26wEWZYt6yJkwRVkjcbwJEFh9IS.jpg",
+      "title": "The Curious Case of Benjamin Button",
+      "year": 2008
+    },
+    "Sonic the Hedgehog": {
+      "id": 454626,
+      "poster": "/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+      "title": "Sonic the Hedgehog",
+      "year": 2020
+    },
+    "No Time to Die": {
+      "id": 370172,
+      "poster": "/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+      "title": "No Time to Die",
+      "year": 2021
+    },
+    "Everything Everywhere All at Once": {
+      "id": 545611,
+      "poster": "/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+      "title": "Everything Everywhere All at Once",
+      "year": 2022
+    },
+    "Tár": {
+      "id": 817758,
+      "poster": "/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg",
+      "title": "TÁR",
+      "year": 2022
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Green Lantern": {
+      "id": 44912,
+      "poster": "/fj21HwUprqjjwTdkKC1XZurRSpV.jpg",
+      "title": "Green Lantern",
+      "year": 2011
+    },
+    "Guardians of the Galaxy": {
+      "id": 118340,
+      "poster": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "title": "Guardians of the Galaxy",
+      "year": 2014
+    },
+    "Howards End": {
+      "id": 8293,
+      "poster": "/1009nhfj28VhhQnVadtjkOacduX.jpg",
+      "title": "Howards End",
+      "year": 1992
+    },
+    "Alien: Covenant": {
+      "id": 126889,
+      "poster": "/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg",
+      "title": "Alien: Covenant",
+      "year": 2017
+    },
+    "Inherent Vice": {
+      "id": 171274,
+      "poster": "/pfVua7TzzttOh3RTOuBqT7xN0oY.jpg",
+      "title": "Inherent Vice",
+      "year": 2014
+    },
+    "Fantastic Beasts and Where to Find Them": {
+      "id": 259316,
+      "poster": "/fLsaFKExQt05yqjoAvKsmOMYvJR.jpg",
+      "title": "Fantastic Beasts and Where to Find Them",
+      "year": 2016
+    },
+    "Harry Potter and the Prisoner of Azkaban": {
+      "id": 673,
+      "poster": "/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "year": 2004
+    },
+    "The Bourne Legacy": {
+      "id": 49040,
+      "poster": "/1aExL5DTGHj25ZfIC3dDwS84RWi.jpg",
+      "title": "The Bourne Legacy",
+      "year": 2012
+    },
+    "Margin Call": {
+      "id": 50839,
+      "poster": "/qtO57obCJuUBS0en3HLgFgZ19Xk.jpg",
+      "title": "Margin Call",
+      "year": 2011
+    },
+    "Haywire": {
+      "id": 70435,
+      "poster": "/c9fJ0dYC30NnE9k2p61c0dqlZqW.jpg",
+      "title": "Haywire",
+      "year": 2011
+    },
+    "The Dark Knight Rises": {
+      "id": 49026,
+      "poster": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+      "title": "The Dark Knight Rises",
+      "year": 2012
+    },
+    "Free Guy": {
+      "id": 550988,
+      "poster": "/dxraF0qPr1OEgJk17ltQTO84kQF.jpg",
+      "title": "Free Guy",
+      "year": 2021
+    },
+    "Justice League": {
+      "id": 141052,
+      "poster": "/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
+      "title": "Justice League",
+      "year": 2017
+    },
+    "Zack Snyder's Justice League": {
+      "id": 791373,
+      "poster": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+      "title": "Zack Snyder's Justice League",
+      "year": 2021
+    },
+    "Batman v Superman: Dawn of Justice": {
+      "id": 209112,
+      "poster": "/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
+      "title": "Batman v Superman: Dawn of Justice",
+      "year": 2016
+    },
+    "Don't Worry Darling": {
+      "id": 619730,
+      "poster": "/jOqxKIOC92BVyinYO1Fm73XY7Tc.jpg",
+      "title": "Don't Worry Darling",
+      "year": 2022
+    },
+    "Richard Jewell": {
+      "id": 292011,
+      "poster": "/5Lgkm8jt4roAFPZQ52fKMhVmDaZ.jpg",
+      "title": "Richard Jewell",
+      "year": 2019
+    },
+    "Witness": {
+      "id": 9281,
+      "poster": "/kOymD1rChAMykmDVEzJpIh4OYS7.jpg",
+      "title": "Witness",
+      "year": 1985
+    },
+    "A Different Man": {
+      "id": 989662,
+      "poster": "/lZZKTEvo92u1J5pm7QoEA5yN3du.jpg",
+      "title": "A Different Man",
+      "year": 2024
+    }
+  },
+  "spotifyEpisodeId": "0tzWnH0oEj4fQ4Jpxh82fx"
+}

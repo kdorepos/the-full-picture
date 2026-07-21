@@ -1,0 +1,381 @@
+{
+  "slug": "scream-vi-and-the-scream-movie-rankings",
+  "title": "'Scream VI' and the Scream Movie Rankings",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan",
+    "Grace Fennessey"
+  ],
+  "published": "2023-03-17",
+  "runtimeMin": 78,
+  "format": "Sean Fennessey and Amanda Dobbins welcome back Chris Ryan and a new guest, Sean's sister and film-major-in-training Grace Fennessey, to review 'Scream VI' and rank all six films in the franchise, after a Nancy Meyers Netflix rom-com falls apart over a $150 million kitchen budget.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The news",
+      "note": "a canceled Nancy Meyers movie and 'Your Place or Mine'",
+      "films": [
+        {
+          "title": "Your Place or Mine",
+          "year": 2023,
+          "note": "Netflix's Reese Witherspoon/Ashton Kutcher rom-com, savaged for its 'CGI Brooklyn Bridge,' a FaceTime-heavy setup that keeps its leads apart until the end despite living in the same story, and zero chemistry between the two leads; floated as a cautionary tale for why Netflix just walked away from a $150 million Nancy Meyers movie."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "'Scream VI'",
+      "note": "the goriest entry yet, but a familiar reveal",
+      "films": [
+        {
+          "title": "Scream VI",
+          "year": 2023,
+          "note": "The 'core four' (Sam, Tara, Chad, and Mindy) relocate to New York and face Ghostface again, with Courteney Cox's Gale and Hayden Panettiere's Kirby folded back into the story. The hosts call it the most violent entry yet, singling out the subway and fire-escape-ladder sequences as series highlights, but knock Dermot Mulroney's villain reveal as telegraphed from his first scene and needle the movie's shaky grip on New York geography, from Hudson-to-uptown walks to a stolen cop car making it downtown in no time. Consensus: thumbs up."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Radio Silence's other movie, and an elevated-horror detour",
+      "films": [
+        {
+          "title": "Ready or Not",
+          "year": 2019,
+          "note": "The Radio Silence duo's 2019 breakout, made before they inherited Scream, and where they first worked with Samara Weaving -- who cameos in 'Scream VI,' killed in its own opening sequence, as a nod to that earlier collaboration."
+        },
+        {
+          "title": "Skinamarink",
+          "year": 2023,
+          "note": "An 80-minute, VHS-shot experimental horror film on Shudder, told almost entirely from the perspective of two small children trapped in a house with no doors or windows; brought up as a break from the 'elevated horror' wave."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Also on the big screen",
+      "films": [
+        {
+          "title": "The Quiet Girl",
+          "year": 2022,
+          "note": "Grace caught the Irish drama in a theater and loved it; Sean jokingly floats it as a secret Scream prequel, with the lead girl growing up to become Sidney Prescott."
+        }
+      ]
+    },
+    {
+      "kind": "ranking",
+      "heading": "The Scream Movie Rankings",
+      "note": "'Scream' at No. 1 was unanimous; the other five split hard by host",
+      "subject": "Scream",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Scream",
+          "year": 1996,
+          "note": "No. 1 for everyone. The unanimous, unassailable original."
+        },
+        {
+          "title": "Scream 2",
+          "year": 1997,
+          "note": "Praised for the classroom sequel-theory scene, Kevin Williamson's 'fastball' meta writing, and Sarah Michelle Gellar's sorority-house kill; the hosts are cooler on its other kills."
+        },
+        {
+          "title": "Scream 4",
+          "year": 2011,
+          "note": "Grace's sleeper favorite -- 'low-key one of my favorite Screams' -- for its opening and Emma Roberts's willingly hateable villain turn opposite Rory Culkin."
+        },
+        {
+          "title": "Scream (2022)",
+          "year": 2022,
+          "note": "Warmly reviewed as a genuine surprise, anchored by Dewey's shocking death and strong Jack Quaid/Mikey Madison performances; Sean says he might like it more than most of the 'vintage' entries."
+        },
+        {
+          "title": "Scream VI",
+          "year": 2023,
+          "note": "This episode's film -- see the review above."
+        },
+        {
+          "title": "Scream 3",
+          "year": 2000,
+          "note": "The most divisive entry: Chris's personal favorite behind the original, for Parker Posey, the Cotton Weary limo kill, and the Woodsboro-replica-set finale; Grace ranks it dead last, unable to get past the Sidney's-mother-ghost subplot and a forgettable killer reveal."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Nancy Meyers, in one-liners",
+      "films": [
+        "Something's Gotta Give",
+        "It's Complicated",
+        "The Parent Trap"
+      ]
+    },
+    {
+      "group": "Career namedrops",
+      "films": [
+        "My Best Friend's Wedding",
+        "Zodiac",
+        "Murder Mystery"
+      ]
+    },
+    {
+      "group": "New York, for comparison",
+      "films": [
+        "Die Hard with a Vengeance",
+        "Friday the 13th Part VIII: Jason Takes Manhattan"
+      ]
+    },
+    {
+      "group": "The cast, elsewhere",
+      "films": [
+        "Avatar: The Way of Water",
+        "Elvis"
+      ]
+    },
+    {
+      "group": "In the news, in passing",
+      "films": [
+        "Beetlejuice Beetlejuice",
+        "Spider-Man: No Way Home",
+        "Avengers: Infinity War",
+        "Ant-Man and the Wasp: Quantumania",
+        "M3GAN",
+        "Plane",
+        "Joker",
+        "Challengers",
+        "65"
+      ]
+    },
+    {
+      "group": "Old favorites and older paces",
+      "films": [
+        "Singin' in the Rain",
+        "The Hunt for Red October",
+        "Rocky"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Wednesday",
+      "Only Murders in the Building"
+    ],
+    "Podcasts": [
+      "What About Your Friends"
+    ],
+    "YouTube": [
+      "Markiplier"
+    ],
+    "Ads": [
+      "Tremfaya",
+      "Boar's Head",
+      "Nas Energy",
+      "FanDuel",
+      "Carvana"
+    ],
+    "Unreleased/canceled": [
+      "Untitled Nancy Meyers Netflix rom-com (canceled)",
+      "Quentin Tarantino's 'The Movie Critic' (unmade at time of taping)"
+    ]
+  },
+  "tmdbOverrides": {
+    "Scream (2022)": 646385
+  },
+  "tmdb": {
+    "Your Place or Mine": {
+      "id": 703451,
+      "poster": "/3oFfY1HpzJDlRzKSCBF2sA5mb9U.jpg",
+      "title": "Your Place or Mine",
+      "year": 2023
+    },
+    "Scream VI": {
+      "id": 934433,
+      "poster": "/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg",
+      "title": "Scream VI",
+      "year": 2023
+    },
+    "Ready or Not": {
+      "id": 567609,
+      "poster": "/oJD9KQFoObZmxAS1je56SIFVNJt.jpg",
+      "title": "Ready or Not",
+      "year": 2019
+    },
+    "Skinamarink": {
+      "id": 994143,
+      "poster": "/o942912KFh89SGhqWuKXuT0SXzN.jpg",
+      "title": "Skinamarink",
+      "year": 2023
+    },
+    "The Quiet Girl": {
+      "id": 916405,
+      "poster": "/6Njyz53N417cgxE0d7cBEWHUEjc.jpg",
+      "title": "The Quiet Girl",
+      "year": 2022
+    },
+    "Scream": {
+      "id": 4232,
+      "poster": "/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+      "title": "Scream",
+      "year": 1996
+    },
+    "Scream 2": {
+      "id": 4233,
+      "poster": "/dORlVasiaDkJXTqt9bdH7nFNs6C.jpg",
+      "title": "Scream 2",
+      "year": 1997
+    },
+    "Scream 4": {
+      "id": 41446,
+      "poster": "/3cf8p2qw9qnsaaFWc64AG6U05eT.jpg",
+      "title": "Scream 4",
+      "year": 2011
+    },
+    "Scream (2022)": {
+      "id": 646385,
+      "poster": "/nD4M4Bx457ryLuKYpxFwQ2IBJ5w.jpg",
+      "title": "Scream",
+      "year": 2022
+    },
+    "Scream 3": {
+      "id": 4234,
+      "poster": "/qpH8ToZVlFD1bakL04LkEKodyDI.jpg",
+      "title": "Scream 3",
+      "year": 2000
+    },
+    "Something's Gotta Give": {
+      "id": 6964,
+      "poster": "/1cpdqe0SpiHzzbOLq9GDUUlZdSl.jpg",
+      "title": "Something's Gotta Give",
+      "year": 2003
+    },
+    "It's Complicated": {
+      "id": 22897,
+      "poster": "/bmjPrJgrGENFRrERP7lCJ9FGIVB.jpg",
+      "title": "It's Complicated",
+      "year": 2009
+    },
+    "The Parent Trap": {
+      "id": 9820,
+      "poster": "/p4dGmi8u9W0HHyVXcgWPoiFfKTF.jpg",
+      "title": "The Parent Trap",
+      "year": 1998
+    },
+    "My Best Friend's Wedding": {
+      "id": 8874,
+      "poster": "/b5g4bp8gS5ovMyR5439AII6zQ3n.jpg",
+      "title": "My Best Friend's Wedding",
+      "year": 1997
+    },
+    "Zodiac": {
+      "id": 1949,
+      "poster": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+      "title": "Zodiac",
+      "year": 2007
+    },
+    "Murder Mystery": {
+      "id": 514999,
+      "poster": "/bSMSO9xupd4R4vwTPqigHn2quLN.jpg",
+      "title": "Murder Mystery",
+      "year": 2019
+    },
+    "Die Hard with a Vengeance": {
+      "id": 1572,
+      "poster": "/buqmCdFQEWwEpL3agGgg2GVjN2d.jpg",
+      "title": "Die Hard: With a Vengeance",
+      "year": 1995
+    },
+    "Friday the 13th Part VIII: Jason Takes Manhattan": {
+      "id": 10283,
+      "poster": "/6ezOsZ9UzqGnbDokaatxdOWP6e9.jpg",
+      "title": "Friday the 13th Part VIII: Jason Takes Manhattan",
+      "year": 1989
+    },
+    "Avatar: The Way of Water": {
+      "id": 76600,
+      "poster": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "title": "Avatar: The Way of Water",
+      "year": 2022
+    },
+    "Elvis": {
+      "id": 614934,
+      "poster": "/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg",
+      "title": "Elvis",
+      "year": 2022
+    },
+    "Beetlejuice Beetlejuice": {
+      "id": 917496,
+      "poster": "/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg",
+      "title": "Beetlejuice Beetlejuice",
+      "year": 2024
+    },
+    "Spider-Man: No Way Home": {
+      "id": 634649,
+      "poster": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "title": "Spider-Man: No Way Home",
+      "year": 2021
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    },
+    "Ant-Man and the Wasp: Quantumania": {
+      "id": 640146,
+      "poster": "/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "year": 2023
+    },
+    "M3GAN": {
+      "id": 536554,
+      "poster": "/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
+      "title": "M3GAN",
+      "year": 2022
+    },
+    "Plane": {
+      "id": 646389,
+      "poster": "/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg",
+      "title": "Plane",
+      "year": 2023
+    },
+    "Joker": {
+      "id": 475557,
+      "poster": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "title": "Joker",
+      "year": 2019
+    },
+    "Challengers": {
+      "id": 937287,
+      "poster": "/H6vke7zGiuLsz4v4RPeReb9rsv.jpg",
+      "title": "Challengers",
+      "year": 2024
+    },
+    "65": {
+      "id": 700391,
+      "poster": "/rzRb63TldOKdKydCvWJM8B6EkPM.jpg",
+      "title": "65",
+      "year": 2023
+    },
+    "Singin' in the Rain": {
+      "id": 872,
+      "poster": "/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+      "title": "Singin' in the Rain",
+      "year": 1952
+    },
+    "The Hunt for Red October": {
+      "id": 1669,
+      "poster": "/yVl7zidse4KiWtGMqHFtZCx4X3N.jpg",
+      "title": "The Hunt for Red October",
+      "year": 1990
+    },
+    "Rocky": {
+      "id": 1366,
+      "poster": "/aYtBYWqCdUqcnoodWJdcTG3pFev.jpg",
+      "title": "Rocky",
+      "year": 1976
+    }
+  }
+}

@@ -1,0 +1,884 @@
+{
+  "slug": "2026-movie-auction-returns",
+  "title": "The 2026 Movie Auction Returns!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2026-07-02",
+  "runtimeMin": 149,
+  "spotifyEpisodeId": "5ZcEbRLVBNHAH9KFoN8nWm",
+  "format": "The mid-year movie auction: each host drafts 5 upcoming 2026 films with a $1,000 budget. Rule: you can't draft or bid on a film you've already seen. That's why the Cannes attendees, Sean and Amanda, lost the Cannes titles cheap to Chris.",
+  "segments": [
+    {
+      "kind": "auction",
+      "heading": "The paddles",
+      "slates": [
+        {
+          "host": "Chris Ryan",
+          "spent": 626,
+          "picks": [
+            {
+              "title": "Whalefall",
+              "year": 2026,
+              "price": 310,
+              "note": "Brian Duffield; Austin Abrams"
+            },
+            {
+              "title": "Werwulf",
+              "year": 2026,
+              "price": 200,
+              "note": "Robert Eggers"
+            },
+            {
+              "title": "Wild Horse Nine",
+              "year": 2026,
+              "price": 110,
+              "note": "Martin McDonagh; Malkovich, Rockwell, Buscemi"
+            },
+            {
+              "title": "Paper Tiger",
+              "year": 2026,
+              "price": 5,
+              "note": "James Gray; Adam Driver, Miles Teller, ScarJo (Cannes)"
+            },
+            {
+              "title": "Fjord",
+              "year": 2026,
+              "price": 1,
+              "note": "Christian Mungiu; Sebastian Stan, Renate Reinsve (Cannes)"
+            }
+          ]
+        },
+        {
+          "host": "Sean Fennessey",
+          "spent": 520,
+          "budgetLeft": 480,
+          "picks": [
+            {
+              "title": "The End of Oak Street",
+              "year": 2026,
+              "price": 235,
+              "note": "David Robert Mitchell; Anne Hathaway, Ewan McGregor"
+            },
+            {
+              "title": "Clayface",
+              "year": 2026,
+              "price": 105,
+              "note": "James Watkins; DC horror"
+            },
+            {
+              "title": "The Debut",
+              "year": 2026,
+              "price": 100,
+              "note": "Jesse Eisenberg"
+            },
+            {
+              "title": "Primetime",
+              "year": 2026,
+              "price": 75,
+              "note": "Lance Oppenheim; Robert Pattinson"
+            },
+            {
+              "title": "Spider-Man: Brand New Day",
+              "year": 2026,
+              "price": 5,
+              "note": "Destin Daniel Cretton; Tom Holland"
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "spent": 1000,
+          "budgetLeft": 0,
+          "picks": [
+            {
+              "title": "Behemoth!",
+              "year": 2026,
+              "price": 715,
+              "note": "Tony Gilroy; Pedro Pascal, Will Arnett, Olivia Wilde"
+            },
+            {
+              "title": "Other Mommy",
+              "year": 2026,
+              "price": 100,
+              "note": "Rob Savage; Jessica Chastain"
+            },
+            {
+              "title": "La Bola Negra",
+              "year": 2026,
+              "price": 87,
+              "note": "Netflix; Penélope Cruz, Glenn Close (Cannes)"
+            },
+            {
+              "title": "Minotaur",
+              "year": 2026,
+              "price": null,
+              "note": "Andrey Zvyagintsev; Grand Prix, Cannes; price not captured in recap"
+            },
+            {
+              "title": "Here Comes the Flood",
+              "year": 2026,
+              "price": null,
+              "note": "Fernando Meirelles; Denzel Washington, Robert Pattinson; price not captured"
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Hope (Na Hong-jin)",
+        "Avengers: Doomsday",
+        "Her Private Hell",
+        "Oz Perkins horror film",
+        "Fatherland",
+        "Teenage Sex and Death at Camp Miasma"
+      ],
+      "januarySlate": [
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Dune: Part Three",
+              "price": 775
+            },
+            {
+              "title": "Project Hail Mary",
+              "price": 200
+            },
+            {
+              "title": "The Social Reckoning",
+              "price": 1
+            },
+            {
+              "title": "Verity",
+              "price": 5
+            },
+            {
+              "title": "The Mandalorian and Grogu",
+              "price": 19
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Wuthering Heights",
+              "price": 75
+            },
+            {
+              "title": "Resident Evil",
+              "price": 72
+            },
+            {
+              "title": "The Devil Wears Prada 2",
+              "price": 26
+            },
+            {
+              "title": "The Adventures of Cliff Booth",
+              "price": 76
+            },
+            {
+              "title": "Disclosure Day",
+              "price": 72
+            }
+          ]
+        },
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "The Odyssey",
+              "price": 926
+            },
+            {
+              "title": "Toy Story 5",
+              "price": 1
+            },
+            {
+              "title": "Narnia: The Magician's Nephew",
+              "price": 18
+            },
+            {
+              "title": "Digger",
+              "price": null
+            },
+            {
+              "title": "Jack of Spades",
+              "price": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Festival / 85+ Metacritic",
+      "films": [
+        "Once Upon a Time in Harlem",
+        "Blue Heron",
+        "Remake",
+        "Fatherland",
+        "Silent Friend",
+        "Sound of Falling",
+        "Magellan",
+        "Pompeii",
+        "Below the Clouds",
+        "Our Land",
+        "Blue Film",
+        "My Father's Shadow",
+        "The Furious",
+        "The Secret Agent"
+      ]
+    },
+    {
+      "group": "Other 2026 and 2027 films raised",
+      "films": [
+        "Artificial",
+        "After the Hunt",
+        "Cutoff",
+        "The Rip",
+        "Michael",
+        "Wildwood",
+        "Club Kid",
+        "The Hunger Games: Sunrise on the Reaping",
+        "Onslaught",
+        "Clara and the Sun",
+        "In the Grey",
+        "What Happens at Night",
+        "Tenzing",
+        "Mayday",
+        "Godzilla Minus Zero",
+        "The Great Beyond",
+        "Street Fighter",
+        "Sense and Sensibility",
+        "A Place in Hell",
+        "The Hunt for Gollum",
+        "The War of the Rohirrim",
+        "Ebenezer",
+        "Anthony Bourdain doc",
+        "Love, Weddings and Other Disasters"
+      ]
+    },
+    {
+      "group": "Older films name-checked",
+      "films": [
+        "Nosferatu",
+        "The Witch",
+        "The Lighthouse",
+        "The Northman",
+        "Beowulf",
+        "Treasure of the Sierra Madre",
+        "Michael Clayton",
+        "The Bourne Legacy",
+        "Duplicity",
+        "The Banshees of Inisherin",
+        "Seven Psychopaths",
+        "Three Billboards",
+        "In Bruges",
+        "Whiplash",
+        "The Spectacular Now",
+        "Midnight Cowboy",
+        "Gilda",
+        "It Follows",
+        "Under the Silver Lake",
+        "Trainspotting",
+        "Jurassic Park",
+        "Jurassic World Rebirth",
+        "Oppenheimer",
+        "Tenet",
+        "The Smashing Machine",
+        "The Fantastic Four: First Steps",
+        "Ghostbusters",
+        "Triple Frontier"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Andor",
+      "Peaky Blinders",
+      "The Bear",
+      "Euphoria",
+      "Grace and Frankie",
+      "The Agency",
+      "Fargo",
+      "Obi-Wan Kenobi",
+      "Cape Fear",
+      "House of the Dragon",
+      "To Catch a Predator"
+    ],
+    "Games": [
+      "Elden Ring"
+    ],
+    "Ads": [
+      "Tremfya",
+      "Amazon Prime",
+      "Wells Fargo",
+      "State Farm",
+      "Blinds.com"
+    ]
+  },
+  "tmdb": {
+    "Whalefall": {
+      "id": 1255833,
+      "poster": "/wse4S4EuVHSNk9yzsjhdRLmipXk.jpg",
+      "title": "Whalefall",
+      "year": 2026
+    },
+    "Werwulf": {
+      "id": 1421903,
+      "poster": "/qXqCece01iDhDoeX1V3y6rbPkNK.jpg",
+      "title": "Werwulf",
+      "year": 2026
+    },
+    "Wild Horse Nine": {
+      "id": 891621,
+      "poster": "/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+      "title": "Wild Horse Nine",
+      "year": 2026
+    },
+    "Paper Tiger": {
+      "id": 1381273,
+      "poster": "/9txURTPuB1W85km06SAnrFcOCFF.jpg",
+      "title": "Paper Tiger",
+      "year": 2026
+    },
+    "Fjord": {
+      "id": 1401459,
+      "poster": "/79zzOFfWEvnQPe1B9AdQInVDjvi.jpg",
+      "title": "Fjord",
+      "year": 2026
+    },
+    "The End of Oak Street": {
+      "id": 1101383,
+      "poster": "/q26mJzAHaBMvzk6LoeSlqFcP5K1.jpg",
+      "title": "The End of Oak Street",
+      "year": 2026
+    },
+    "Clayface": {
+      "id": 1400940,
+      "poster": "/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+      "title": "Clayface",
+      "year": 2026
+    },
+    "The Debut": {
+      "id": 1391239,
+      "poster": "/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg",
+      "title": "The Debut",
+      "year": 2026
+    },
+    "Primetime": {
+      "id": 1375441,
+      "poster": "/pKHeSpUfl4ff9wYIr0OMyZWBiQn.jpg",
+      "title": "Primetime",
+      "year": 2026
+    },
+    "Spider-Man: Brand New Day": {
+      "id": 969681,
+      "poster": "/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
+      "title": "Spider-Man: Brand New Day",
+      "year": 2026
+    },
+    "Behemoth!": {
+      "id": 1452168,
+      "poster": null,
+      "title": "Behemoth!",
+      "year": null
+    },
+    "Other Mommy": {
+      "id": 1400837,
+      "poster": "/aAtsAukFvHWsQFaBn2HqR0rd3RJ.jpg",
+      "title": "Other Mommy",
+      "year": 2026
+    },
+    "La Bola Negra": {
+      "id": 1422041,
+      "poster": "/iKv3KYVmLtfSyFvynYLyJWjIru3.jpg",
+      "title": "La Bola Negra",
+      "year": 2026
+    },
+    "Minotaur": {
+      "id": 848700,
+      "poster": "/wcxM1Pc8StmtMVTlkk1d62x0VPl.jpg",
+      "title": "Minotaur",
+      "year": 2026
+    },
+    "Here Comes the Flood": {
+      "id": 701244,
+      "poster": "/tvCslSGrnAIqO9qlxX5PNaoX03s.jpg",
+      "title": "Here Comes the Flood",
+      "year": null
+    },
+    "Dune: Part Three": {
+      "id": 1170608,
+      "poster": "/b4wekkUaxExzOeGe7hKXzhnyXHt.jpg",
+      "title": "Dune: Part Three",
+      "year": 2026
+    },
+    "Project Hail Mary": {
+      "id": 687163,
+      "poster": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "title": "Project Hail Mary",
+      "year": 2026
+    },
+    "The Social Reckoning": {
+      "id": 1281331,
+      "poster": "/blm3cRs7avmaHWtPqk6fzj3VIKF.jpg",
+      "title": "The Social Reckoning",
+      "year": 2026
+    },
+    "Verity": {
+      "id": 1283515,
+      "poster": "/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
+      "title": "Verity",
+      "year": 2026
+    },
+    "The Mandalorian and Grogu": {
+      "id": 1228710,
+      "poster": "/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+      "title": "The Mandalorian and Grogu",
+      "year": 2026
+    },
+    "Wuthering Heights": {
+      "id": 1316092,
+      "poster": "/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
+      "title": "\"Wuthering Heights\"",
+      "year": 2026
+    },
+    "Resident Evil": {
+      "id": 1423191,
+      "poster": "/zP83bIkBViw5b1s9bDemYJ3AAgX.jpg",
+      "title": "Resident Evil",
+      "year": 2026
+    },
+    "The Devil Wears Prada 2": {
+      "id": 1314481,
+      "poster": "/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+      "title": "The Devil Wears Prada 2",
+      "year": 2026
+    },
+    "The Adventures of Cliff Booth": {
+      "id": 1457866,
+      "poster": null,
+      "title": "The Adventures of Cliff Booth",
+      "year": 2026
+    },
+    "Disclosure Day": {
+      "id": 1275779,
+      "poster": "/7RYO0KTXIJ0rS0LqnCQLxeNR3P3.jpg",
+      "title": "Disclosure Day",
+      "year": 2026
+    },
+    "The Odyssey": {
+      "id": 1368337,
+      "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "title": "The Odyssey",
+      "year": 2026
+    },
+    "Toy Story 5": {
+      "id": 1084244,
+      "poster": "/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "title": "Toy Story 5",
+      "year": 2026
+    },
+    "Narnia: The Magician's Nephew": {
+      "id": 1147572,
+      "poster": "/ckKx8XP3ld8x7UGouSdnZTLYJgn.jpg",
+      "title": "Narnia: The Magician's Nephew",
+      "year": 2027
+    },
+    "Digger": {
+      "id": 1248832,
+      "poster": "/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "title": "Digger",
+      "year": 2026
+    },
+    "Jack of Spades": {
+      "id": 1486200,
+      "poster": null,
+      "title": "Jack of Spades",
+      "year": null
+    },
+    "Hope (Na Hong-jin)": {
+      "id": 1058424,
+      "poster": "/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
+      "title": "Hope",
+      "year": 2026
+    },
+    "Avengers: Doomsday": {
+      "id": 1003596,
+      "poster": "/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
+      "title": "Avengers: Doomsday",
+      "year": 2026
+    },
+    "Her Private Hell": {
+      "id": 1469342,
+      "poster": "/kiFacg75KVjy0AM3S4QmbPas8zL.jpg",
+      "title": "Her Private Hell",
+      "year": 2026
+    },
+    "Oz Perkins horror film": null,
+    "Fatherland": {
+      "id": 1437696,
+      "poster": "/oNejN1l69nBF8LdQwy5FkAQZT44.jpg",
+      "title": "Fatherland",
+      "year": 2026
+    },
+    "Teenage Sex and Death at Camp Miasma": {
+      "id": 1240889,
+      "poster": "/nLsFnXifieSTqSeWxjXSS8RvaUZ.jpg",
+      "title": "Teenage Sex and Death at Camp Miasma",
+      "year": 2026
+    },
+    "Once Upon a Time in Harlem": {
+      "id": 1596300,
+      "poster": "/wM96AK0ezMgmfdDdam0IKGcj94h.jpg",
+      "title": "Once Upon a Time in Harlem",
+      "year": 2026
+    },
+    "Blue Heron": {
+      "id": 1184941,
+      "poster": "/4hfMbVbYc2gsMnSE1K8Oc9LQH4j.jpg",
+      "title": "Blue Heron",
+      "year": 2026
+    },
+    "Remake": {
+      "id": 367012,
+      "poster": "/pUbzcFBGNi47c2j9UrFc1p36HXT.jpg",
+      "title": "Remake",
+      "year": 2003
+    },
+    "Silent Friend": {
+      "id": 1168719,
+      "poster": "/mZjkRpTFfcdsTmtIAzKVM87I94R.jpg",
+      "title": "Silent Friend",
+      "year": 2026
+    },
+    "Sound of Falling": {
+      "id": 1221061,
+      "poster": "/mv2edAI0vmheVVcv4mIVW5X8GNP.jpg",
+      "title": "Sound of Falling",
+      "year": 2025
+    },
+    "Magellan": {
+      "id": 975335,
+      "poster": "/pmFeUueU7BWLVnHrYI1FD7VnxtH.jpg",
+      "title": "Magellan",
+      "year": 2025
+    },
+    "Pompeii": {
+      "id": 76649,
+      "poster": "/dxxM3lLDjGRC50i5rhvfQziskAN.jpg",
+      "title": "Pompeii",
+      "year": 2014
+    },
+    "Below the Clouds": null,
+    "Our Land": {
+      "id": 1480446,
+      "poster": "/cZRLNNdUahZgs2NccHxfr3ZasrH.jpg",
+      "title": "Our Land",
+      "year": 2026
+    },
+    "Blue Film": {
+      "id": 1398655,
+      "poster": "/7wECL45CnlFWsiadBHwArgVJ1nL.jpg",
+      "title": "Blue Film",
+      "year": 2026
+    },
+    "My Father's Shadow": {
+      "id": 1432605,
+      "poster": "/aF8AFFh3LJpF8An0KUM8SdTwfVt.jpg",
+      "title": "My Father's Shadow",
+      "year": 2025
+    },
+    "The Furious": {
+      "id": 1280738,
+      "poster": "/lwmXob14Bslv1YcVT1VYt3zBfs9.jpg",
+      "title": "The Furious",
+      "year": 2026
+    },
+    "The Secret Agent": {
+      "id": 1220564,
+      "poster": "/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
+      "title": "The Secret Agent",
+      "year": 2025
+    },
+    "Artificial": {
+      "id": 1492198,
+      "poster": "/6RKRs1vE0KPQIAtRseP9y6MNJe1.jpg",
+      "title": "Artificial",
+      "year": null
+    },
+    "After the Hunt": {
+      "id": 1265063,
+      "poster": "/ryF8QPGUGlo8gRB4OYKb4J0r3aJ.jpg",
+      "title": "After the Hunt",
+      "year": 2025
+    },
+    "Cutoff": {
+      "id": 653842,
+      "poster": "/uN4N7s6jeeAsSriiRmatcbKzr3s.jpg",
+      "title": "Cutoff",
+      "year": 2019
+    },
+    "The Rip": {
+      "id": 1306368,
+      "poster": "/4wsYWH73Hb1B6noGIFaRQSAkuXj.jpg",
+      "title": "The Rip",
+      "year": 2026
+    },
+    "Michael": {
+      "id": 936075,
+      "poster": "/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+      "title": "Michael",
+      "year": 2026
+    },
+    "Wildwood": {
+      "id": 791523,
+      "poster": "/feyEk59rpGXZHKqej9HkUHOnIg2.jpg",
+      "title": "Wildwood",
+      "year": 2026
+    },
+    "Club Kid": {
+      "id": 1585239,
+      "poster": "/6vAp5qyxvgh1g937AqXi30Rt9UE.jpg",
+      "title": "Club Kid",
+      "year": 2026
+    },
+    "The Hunger Games: Sunrise on the Reaping": {
+      "id": 1300968,
+      "poster": "/ffJaYMtB6v1TrvkyhCOqwqCKm0o.jpg",
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "year": 2026
+    },
+    "Onslaught": {
+      "id": 1284046,
+      "poster": "/3k69IPJEoLBMB3J5FCYehL8NMs2.jpg",
+      "title": "Onslaught",
+      "year": 2026
+    },
+    "Clara and the Sun": null,
+    "In the Grey": {
+      "id": 1122573,
+      "poster": "/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+      "title": "In the Grey",
+      "year": 2026
+    },
+    "What Happens at Night": {
+      "id": 1117319,
+      "poster": "/1frL9CznOQ0EWMPdAa16MtuKEmn.jpg",
+      "title": "What Happens at Night",
+      "year": null
+    },
+    "Tenzing": {
+      "id": 1288069,
+      "poster": "/btJ6Y8NGMEC5cTyxnIKwa3ugxaB.jpg",
+      "title": "Tenzing",
+      "year": 2026
+    },
+    "Mayday": {
+      "id": 1137844,
+      "poster": "/u7awR1pOiXkxXt692nRAbS2Pqdg.jpg",
+      "title": "Mayday",
+      "year": 2026
+    },
+    "Godzilla Minus Zero": {
+      "id": 1381071,
+      "poster": "/zOeAduPBa1NZyX9TCcWXVpnHy3T.jpg",
+      "title": "Godzilla Minus Zero",
+      "year": 2026
+    },
+    "The Great Beyond": {
+      "id": 1288211,
+      "poster": "/qq3Ynsokc1AtmExfeYoOnUclk3k.jpg",
+      "title": "The Great Beyond",
+      "year": 2026
+    },
+    "Street Fighter": {
+      "id": 1153576,
+      "poster": "/wOnoOeDcsLSo72ON1UC6c1VHKk1.jpg",
+      "title": "Street Fighter",
+      "year": 2026
+    },
+    "Sense and Sensibility": {
+      "id": 4584,
+      "poster": "/9YdQ73YmvInxpXZVNjEKePw9tRO.jpg",
+      "title": "Sense and Sensibility",
+      "year": 1995
+    },
+    "A Place in Hell": {
+      "id": 1437882,
+      "poster": "/4gSgzVw59vhegejEh1yMMfStXsU.jpg",
+      "title": "A Place in Hell",
+      "year": 2026
+    },
+    "The Hunt for Gollum": null,
+    "The War of the Rohirrim": null,
+    "Ebenezer": {
+      "id": 35385,
+      "poster": "/xlm0SlkateLi0396bmD0WfS3g2X.jpg",
+      "title": "Ebenezer",
+      "year": 1998
+    },
+    "Anthony Bourdain doc": null,
+    "Love, Weddings and Other Disasters": null,
+    "Nosferatu": {
+      "id": 426063,
+      "poster": "/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",
+      "title": "Nosferatu",
+      "year": 2024
+    },
+    "The Witch": {
+      "id": 310131,
+      "poster": "/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
+      "title": "The Witch",
+      "year": 2016
+    },
+    "The Lighthouse": {
+      "id": 503919,
+      "poster": "/yAKNmpcUweGH6WMCEWenwU9PsbE.jpg",
+      "title": "The Lighthouse",
+      "year": 2019
+    },
+    "The Northman": {
+      "id": 639933,
+      "poster": "/aSSJMnHknzKjlZ6zybwD7eyJ4Po.jpg",
+      "title": "The Northman",
+      "year": 2022
+    },
+    "Beowulf": {
+      "id": 2310,
+      "poster": "/7QsWYyJAV97N9jOh21pdRIqJeJq.jpg",
+      "title": "Beowulf",
+      "year": 2007
+    },
+    "Treasure of the Sierra Madre": null,
+    "Michael Clayton": {
+      "id": 4566,
+      "poster": "/hhkW4yVIGo8Bee3UITKvqOvhNMG.jpg",
+      "title": "Michael Clayton",
+      "year": 2007
+    },
+    "The Bourne Legacy": {
+      "id": 49040,
+      "poster": "/1aExL5DTGHj25ZfIC3dDwS84RWi.jpg",
+      "title": "The Bourne Legacy",
+      "year": 2012
+    },
+    "Duplicity": {
+      "id": 16558,
+      "poster": "/vpWQs3CjwG6Er3DgZlv4L3NFjXg.jpg",
+      "title": "Duplicity",
+      "year": 2009
+    },
+    "The Banshees of Inisherin": {
+      "id": 674324,
+      "poster": "/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg",
+      "title": "The Banshees of Inisherin",
+      "year": 2022
+    },
+    "Seven Psychopaths": {
+      "id": 86838,
+      "poster": "/4ukEYAxlSivFcDG6vLxJB6PjTjg.jpg",
+      "title": "Seven Psychopaths",
+      "year": 2012
+    },
+    "Three Billboards": null,
+    "In Bruges": {
+      "id": 8321,
+      "poster": "/vz3Vd6nfq9YZrVvyYx5RHFaYKV3.jpg",
+      "title": "In Bruges",
+      "year": 2008
+    },
+    "Whiplash": {
+      "id": 244786,
+      "poster": "/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+      "title": "Whiplash",
+      "year": 2014
+    },
+    "The Spectacular Now": {
+      "id": 157386,
+      "poster": "/obDS8pTWVWZiNAaTyfIFWYZbRsZ.jpg",
+      "title": "The Spectacular Now",
+      "year": 2013
+    },
+    "Midnight Cowboy": {
+      "id": 3116,
+      "poster": "/ckklq45UxUkwgHve9xItXqXr06r.jpg",
+      "title": "Midnight Cowboy",
+      "year": 1969
+    },
+    "Gilda": {
+      "id": 3767,
+      "poster": "/46eKPjoWEyNBAQKDoXEcDFBcaUw.jpg",
+      "title": "Gilda",
+      "year": 1946
+    },
+    "It Follows": {
+      "id": 270303,
+      "poster": "/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg",
+      "title": "It Follows",
+      "year": 2015
+    },
+    "Under the Silver Lake": {
+      "id": 396461,
+      "poster": "/6sq6fOb02zjhguNpi5VOklq6Nj.jpg",
+      "title": "Under the Silver Lake",
+      "year": 2018
+    },
+    "Trainspotting": {
+      "id": 627,
+      "poster": "/1jUC02qsqS2NxBMFarbIhcQtazV.jpg",
+      "title": "Trainspotting",
+      "year": 1996
+    },
+    "Jurassic Park": {
+      "id": 329,
+      "poster": "/1468Tv8LF207WCJXDolm8l7hVo4.jpg",
+      "title": "Jurassic Park",
+      "year": 1993
+    },
+    "Jurassic World Rebirth": {
+      "id": 1234821,
+      "poster": "/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
+      "title": "Jurassic World Rebirth",
+      "year": 2025
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "The Smashing Machine": {
+      "id": 760329,
+      "poster": "/cwwvrdYeIrARXdiv09GIO6XWK5l.jpg",
+      "title": "The Smashing Machine",
+      "year": 2025
+    },
+    "The Fantastic Four: First Steps": null,
+    "Ghostbusters": {
+      "id": 43074,
+      "poster": "/wJmWliwXIgZOCCVOcGRBhce7xPS.jpg",
+      "title": "Ghostbusters",
+      "year": 2016
+    },
+    "Triple Frontier": {
+      "id": 399361,
+      "poster": "/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg",
+      "title": "Triple Frontier",
+      "year": 2019
+    }
+  }
+}

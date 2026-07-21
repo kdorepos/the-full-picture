@@ -1,0 +1,660 @@
+{
+  "slug": "the-harrison-ford-hall-of-fame",
+  "title": "The Harrison Ford Hall of Fame",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2023-06-27",
+  "runtimeMin": 114,
+  "format": "Sean Fennessey, Amanda Dobbins, and Chris Ryan build a 10-film Harrison Ford Hall of Fame on the eve of 'Indiana Jones and the Dial of Destiny,' running his filmography chronologically in green, yellow, and red.",
+  "segments": [
+    {
+      "kind": "halloffame",
+      "heading": "The Harrison Ford Hall of Fame",
+      "note": "chosen chronologically, green/yellow/red, across his full filmography",
+      "honoree": "Harrison Ford",
+      "films": [
+        {
+          "title": "American Graffiti",
+          "year": 1973,
+          "note": "His breakthrough as Bob Falfa, a smug young drag racer George Lucas shoots close and lit while his more prominent costars sit in shadow. Yellowed on the first pass, then traded back in for the final 10 over 'Last Crusade' as, in Chris's words, the first big-ticket movie he appears in."
+        },
+        {
+          "title": "Star Wars",
+          "year": 1977,
+          "note": "Han Solo, directed by George Lucas. Automatic green. Nobody even had to argue for it. Amanda's own yearbook quote comes from this movie."
+        },
+        {
+          "title": "The Empire Strikes Back",
+          "year": 1980,
+          "note": "Automatic green, largely on the strength of the carbonite-freezing scene and its 'I love you' / 'I know.'"
+        },
+        {
+          "title": "Raiders of the Lost Ark",
+          "year": 1981,
+          "note": "Automatic green, no discussion needed."
+        },
+        {
+          "title": "Blade Runner",
+          "year": 1982,
+          "note": "Automatic green. Sean: regardless of which cut you watch, 'he is just still fucking Humphrey Bogart in this movie and it works.' Chris connects the film's LA to his own decision to move there."
+        },
+        {
+          "title": "Witness",
+          "year": 1985,
+          "note": "Peter Weir's Amish-country thriller, and Ford's only Oscar nomination. The barn-raising scene, and Ford's genuine joy hammering nails, gets singled out as one of his best physical performances."
+        },
+        {
+          "title": "Working Girl",
+          "year": 1988,
+          "note": "Mike Nichols's comedy, with Ford as Jack Trainer, a supporting player to Melanie Griffith and Sigourney Weaver. Amanda's favorite movie on the list; initially yellowed, then swapped in for the final 10 over 'Last Crusade.'"
+        },
+        {
+          "title": "Presumed Innocent",
+          "year": 1990,
+          "note": "Alan Pakula's adaptation of Scott Turow's legal thriller, with Raul Julia, Bonnie Bedelia, and Brian Dennehy. Greenlit as the announcement of the suits-and-lawyers phase of his career; made $220 million and finished 12th at the 1990 box office."
+        },
+        {
+          "title": "The Fugitive",
+          "year": 1993,
+          "note": "Called 'the chartreuse,' the greenest green of the bunch. Dr. Richard Kimball. Amanda's own introduction to Harrison Ford as a kid."
+        },
+        {
+          "title": "Clear and Present Danger",
+          "year": 1994,
+          "note": "Jack Ryan again, this time preferred over 'Patriot Games.' Greenlit without much debate."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Weighed for the Hall of Fame, then cut",
+      "films": [
+        "A Time for Killing",
+        "Journey to Shiloh",
+        "Getting Straight",
+        "The Conversation",
+        "Heroes",
+        "Force 10 from Navarone",
+        "Hanover Street",
+        "Apocalypse Now",
+        "The Frisco Kid",
+        "Return of the Jedi",
+        "Indiana Jones and the Temple of Doom",
+        "The Mosquito Coast",
+        "Frantic",
+        "Indiana Jones and the Last Crusade",
+        "Regarding Henry",
+        "Patriot Games",
+        "Sabrina",
+        "The Devil's Own",
+        "Air Force One",
+        "Six Days Seven Nights",
+        "Random Hearts",
+        "What Lies Beneath",
+        "K-19: The Widowmaker",
+        "Hollywood Homicide",
+        "Firewall",
+        "Indiana Jones and the Kingdom of the Crystal Skull",
+        "Crossing Over",
+        "Extraordinary Measures",
+        "Morning Glory",
+        "Cowboys & Aliens",
+        "42",
+        "Paranoia",
+        "Ender's Game",
+        "Anchorman 2: The Legend Continues",
+        "The Expendables 3",
+        "The Age of Adaline",
+        "Star Wars: The Force Awakens",
+        "Blade Runner 2049",
+        "The Call of the Wild",
+        "Indiana Jones and the Dial of Destiny"
+      ]
+    },
+    {
+      "group": "Voice work",
+      "films": [
+        "The Secret Life of Pets 2"
+      ]
+    },
+    {
+      "group": "Roles the hosts wish he'd taken",
+      "films": [
+        "All Is Lost",
+        "Captain Phillips",
+        "The Old Man & the Gun",
+        "Drive My Car",
+        "Nightmare Alley",
+        "Past Lives"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Alien",
+        "The Hunt for Red October",
+        "No Way Out",
+        "Jagged Edge",
+        "Body of Evidence",
+        "Jack Ryan: Shadow Recruit",
+        "Maze Runner: The Scorch Trials",
+        "Maze Runner: The Death Cure",
+        "Wall Street",
+        "One Flew Over the Cuckoo's Nest"
+      ]
+    },
+    {
+      "group": "The Clooney Hall of Fame, recapped",
+      "films": [
+        "Out of Sight",
+        "Three Kings",
+        "The Perfect Storm",
+        "O Brother, Where Art Thou?",
+        "Ocean's Eleven",
+        "Good Night, and Good Luck.",
+        "Michael Clayton",
+        "Fantastic Mr. Fox",
+        "The Descendants",
+        "Syriana"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Andor",
+      "The Bear",
+      "1923",
+      "Ally McBeal",
+      "Black Mirror",
+      "The Idol"
+    ],
+    "TV specials & talk shows": [
+      "David Blaine's card-in-an-orange special",
+      "The Graham Norton Show",
+      "Talk Soup"
+    ],
+    "Web series": [
+      "Hot Ones"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "Netflix's FIFA World Cup Launch Edition"
+    ],
+    "Cross-promo": [
+      "The Press Box"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Call of the Wild": 481848
+  },
+  "tmdb": {
+    "American Graffiti": {
+      "id": 838,
+      "poster": "/1tjLivPad2PX8FAzWko7FPIb8d2.jpg",
+      "title": "American Graffiti",
+      "year": 1973
+    },
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
+    },
+    "The Empire Strikes Back": {
+      "id": 1891,
+      "poster": "/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+      "title": "The Empire Strikes Back",
+      "year": 1980
+    },
+    "Raiders of the Lost Ark": {
+      "id": 85,
+      "poster": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+      "title": "Raiders of the Lost Ark",
+      "year": 1981
+    },
+    "Blade Runner": {
+      "id": 78,
+      "poster": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+      "title": "Blade Runner",
+      "year": 1982
+    },
+    "Witness": {
+      "id": 9281,
+      "poster": "/kOymD1rChAMykmDVEzJpIh4OYS7.jpg",
+      "title": "Witness",
+      "year": 1985
+    },
+    "Working Girl": {
+      "id": 3525,
+      "poster": "/q2jfFzZvAzjTaArQR0tjilIZ5aJ.jpg",
+      "title": "Working Girl",
+      "year": 1988
+    },
+    "Presumed Innocent": {
+      "id": 11092,
+      "poster": "/jSPWptOsqU1nxXQe6muSPB0kD3c.jpg",
+      "title": "Presumed Innocent",
+      "year": 1990
+    },
+    "The Fugitive": {
+      "id": 5503,
+      "poster": "/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg",
+      "title": "The Fugitive",
+      "year": 1993
+    },
+    "Clear and Present Danger": {
+      "id": 9331,
+      "poster": "/6xTM8FPxrLRYwz6I3fqtwh7xybs.jpg",
+      "title": "Clear and Present Danger",
+      "year": 1994
+    },
+    "A Time for Killing": {
+      "id": 4949,
+      "poster": "/7xIfi6De5aavf1nuHEbcKZ61jkV.jpg",
+      "title": "A Time for Killing",
+      "year": 1967
+    },
+    "Journey to Shiloh": {
+      "id": 79863,
+      "poster": "/eiBcYW3ZcwbOSJk3FD2wMC6OQqJ.jpg",
+      "title": "Journey to Shiloh",
+      "year": 1968
+    },
+    "Getting Straight": {
+      "id": 42588,
+      "poster": "/qwyyq5lMFWTO1xS2qWI48Be5tdU.jpg",
+      "title": "Getting Straight",
+      "year": 1970
+    },
+    "The Conversation": {
+      "id": 592,
+      "poster": "/dHqVBwcv1SGymOpUueRoKzcmdes.jpg",
+      "title": "The Conversation",
+      "year": 1974
+    },
+    "Heroes": {
+      "id": 83061,
+      "poster": "/ixScBPEizfgCM7BogZTpx3jgdVx.jpg",
+      "title": "Heroes",
+      "year": 1977
+    },
+    "Force 10 from Navarone": {
+      "id": 17339,
+      "poster": "/3bFRwivCZuXx7fHWt4SpYaiHkNL.jpg",
+      "title": "Force 10 from Navarone",
+      "year": 1978
+    },
+    "Hanover Street": {
+      "id": 26659,
+      "poster": "/8esk5JZ2ARFF7YFGVgyFalJL86M.jpg",
+      "title": "Hanover Street",
+      "year": 1979
+    },
+    "Apocalypse Now": {
+      "id": 28,
+      "poster": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "title": "Apocalypse Now",
+      "year": 1979
+    },
+    "The Frisco Kid": {
+      "id": 16972,
+      "poster": "/j2Oo1Ds4Vbns5WP4BfSnU3wXwpn.jpg",
+      "title": "The Frisco Kid",
+      "year": 1979
+    },
+    "Return of the Jedi": {
+      "id": 1892,
+      "poster": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+      "title": "Return of the Jedi",
+      "year": 1983
+    },
+    "Indiana Jones and the Temple of Doom": {
+      "id": 87,
+      "poster": "/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg",
+      "title": "Indiana Jones and the Temple of Doom",
+      "year": 1984
+    },
+    "The Mosquito Coast": {
+      "id": 11120,
+      "poster": "/8A1iDYSp8H5WORWZVCV3E3SpkGD.jpg",
+      "title": "The Mosquito Coast",
+      "year": 1986
+    },
+    "Frantic": {
+      "id": 10675,
+      "poster": "/QExlx41lQEizHpPq7FxYw6zpak.jpg",
+      "title": "Frantic",
+      "year": 1988
+    },
+    "Indiana Jones and the Last Crusade": {
+      "id": 89,
+      "poster": "/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg",
+      "title": "Indiana Jones and the Last Crusade",
+      "year": 1989
+    },
+    "Regarding Henry": {
+      "id": 11364,
+      "poster": "/1gyViKAIpy1jAcM3B17iXNbiHrh.jpg",
+      "title": "Regarding Henry",
+      "year": 1991
+    },
+    "Patriot Games": {
+      "id": 9869,
+      "poster": "/9IT7gnszrRthduYxCLqaIkM55Un.jpg",
+      "title": "Patriot Games",
+      "year": 1992
+    },
+    "Sabrina": {
+      "id": 11860,
+      "poster": "/i8PbLJDPU7vCwwscWD625oHbJy.jpg",
+      "title": "Sabrina",
+      "year": 1995
+    },
+    "The Devil's Own": {
+      "id": 4477,
+      "poster": "/3KIPu7H3tST0j4tpqdKpQZUBCQz.jpg",
+      "title": "The Devil's Own",
+      "year": 1997
+    },
+    "Air Force One": {
+      "id": 9772,
+      "poster": "/evO1iENjLpUnbwjnt5XK85jRYob.jpg",
+      "title": "Air Force One",
+      "year": 1997
+    },
+    "Six Days Seven Nights": {
+      "id": 6068,
+      "poster": "/fzWrrCzRa16v51TXAUuT6Wendw7.jpg",
+      "title": "Six Days Seven Nights",
+      "year": 1998
+    },
+    "Random Hearts": {
+      "id": 12618,
+      "poster": "/k7LoKDWDesvYD7DXDh9Ewlxtcx8.jpg",
+      "title": "Random Hearts",
+      "year": 1999
+    },
+    "What Lies Beneath": {
+      "id": 2655,
+      "poster": "/2L3Cn0CizbSy2E9KJt1SiOSyb6p.jpg",
+      "title": "What Lies Beneath",
+      "year": 2000
+    },
+    "K-19: The Widowmaker": {
+      "id": 8665,
+      "poster": "/vImR0HQkJs7Xs2qgdXEUDeX49m0.jpg",
+      "title": "K-19: The Widowmaker",
+      "year": 2002
+    },
+    "Hollywood Homicide": {
+      "id": 11375,
+      "poster": "/Am7AhZYG7HLksY5E35oaEJ3Desz.jpg",
+      "title": "Hollywood Homicide",
+      "year": 2003
+    },
+    "Firewall": {
+      "id": 9754,
+      "poster": "/v4HHAWJthAGxnvefLGSyeSInZZx.jpg",
+      "title": "Firewall",
+      "year": 2006
+    },
+    "Indiana Jones and the Kingdom of the Crystal Skull": {
+      "id": 217,
+      "poster": "/56As6XEM1flWvprX4LgkPl8ii4K.jpg",
+      "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+      "year": 2008
+    },
+    "Crossing Over": {
+      "id": 15577,
+      "poster": "/6A4WdvbWHJoIN4Y9Q5HXG8R1VYV.jpg",
+      "title": "Crossing Over",
+      "year": 2009
+    },
+    "Extraordinary Measures": {
+      "id": 27569,
+      "poster": "/bmBCMoCc6OdINBOC7P6pOIs1MuO.jpg",
+      "title": "Extraordinary Measures",
+      "year": 2010
+    },
+    "Morning Glory": {
+      "id": 38357,
+      "poster": "/aFRXEoB3QkeHNHYmVGC3uzFSol8.jpg",
+      "title": "Morning Glory",
+      "year": 2010
+    },
+    "Cowboys & Aliens": {
+      "id": 49849,
+      "poster": "/9uZsGCP4rvOHVGCpMpYq5gNCuNI.jpg",
+      "title": "Cowboys & Aliens",
+      "year": 2011
+    },
+    "42": {
+      "id": 109410,
+      "poster": "/iZ7jVGQWj3eBUdqwAPUlKk0BaS2.jpg",
+      "title": "42",
+      "year": 2013
+    },
+    "Paranoia": {
+      "id": 115348,
+      "poster": "/isbiljuGztxLlcOvrSw5FkQDGEd.jpg",
+      "title": "Paranoia",
+      "year": 2013
+    },
+    "Ender's Game": {
+      "id": 80274,
+      "poster": "/pVcRI5YKnkkgaAD876jBeKb189d.jpg",
+      "title": "Ender's Game",
+      "year": 2013
+    },
+    "Anchorman 2: The Legend Continues": {
+      "id": 109443,
+      "poster": "/BAdmxMdCqzjs6hx3KuEtnoWP8d.jpg",
+      "title": "Anchorman 2: The Legend Continues",
+      "year": 2013
+    },
+    "The Expendables 3": {
+      "id": 138103,
+      "poster": "/utS5euWHlEdKBNnEFwjpZ2oGuhF.jpg",
+      "title": "The Expendables 3",
+      "year": 2014
+    },
+    "The Age of Adaline": {
+      "id": 293863,
+      "poster": "/3XFuCS6wBfpSnUQboLd1JtkJqe0.jpg",
+      "title": "The Age of Adaline",
+      "year": 2015
+    },
+    "Star Wars: The Force Awakens": {
+      "id": 140607,
+      "poster": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+      "title": "Star Wars: The Force Awakens",
+      "year": 2015
+    },
+    "Blade Runner 2049": {
+      "id": 335984,
+      "poster": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+      "title": "Blade Runner 2049",
+      "year": 2017
+    },
+    "The Call of the Wild": {
+      "id": 481848,
+      "poster": "/33VdppGbeNxICrFUtW2WpGHvfYc.jpg",
+      "title": "The Call of the Wild",
+      "year": 2020
+    },
+    "Indiana Jones and the Dial of Destiny": {
+      "id": 335977,
+      "poster": "/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",
+      "title": "Indiana Jones and the Dial of Destiny",
+      "year": 2023
+    },
+    "The Secret Life of Pets 2": {
+      "id": 412117,
+      "poster": "/s9xg4V5EDKiphgIksVJ9gewBM11.jpg",
+      "title": "The Secret Life of Pets 2",
+      "year": 2019
+    },
+    "All Is Lost": {
+      "id": 152747,
+      "poster": "/9cVA4oX2xHgiglv6hemxwAaofsq.jpg",
+      "title": "All Is Lost",
+      "year": 2013
+    },
+    "Captain Phillips": {
+      "id": 109424,
+      "poster": "/8Td0kkocW6sD3uRpzwfMfkqMWhx.jpg",
+      "title": "Captain Phillips",
+      "year": 2013
+    },
+    "The Old Man & the Gun": {
+      "id": 429203,
+      "poster": "/a4BfxRK8dBgbQqbRxPs8kmLd8LG.jpg",
+      "title": "The Old Man & the Gun",
+      "year": 2018
+    },
+    "Drive My Car": {
+      "id": 758866,
+      "poster": "/a2lxHS6Au35k5XtFQEQW44yWHeH.jpg",
+      "title": "Drive My Car",
+      "year": 2021
+    },
+    "Nightmare Alley": {
+      "id": 597208,
+      "poster": "/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg",
+      "title": "Nightmare Alley",
+      "year": 2021
+    },
+    "Past Lives": {
+      "id": 666277,
+      "poster": "/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg",
+      "title": "Past Lives",
+      "year": 2023
+    },
+    "Alien": {
+      "id": 348,
+      "poster": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "title": "Alien",
+      "year": 1979
+    },
+    "The Hunt for Red October": {
+      "id": 1669,
+      "poster": "/yVl7zidse4KiWtGMqHFtZCx4X3N.jpg",
+      "title": "The Hunt for Red October",
+      "year": 1990
+    },
+    "No Way Out": {
+      "id": 10083,
+      "poster": "/93CzsBvRhg035yvQosRtSsTL19v.jpg",
+      "title": "No Way Out",
+      "year": 1987
+    },
+    "Jagged Edge": {
+      "id": 12235,
+      "poster": "/wHYjo3NLc293ZEXVSGhRIUr3Iqi.jpg",
+      "title": "Jagged Edge",
+      "year": 1985
+    },
+    "Body of Evidence": {
+      "id": 2149,
+      "poster": "/rGDfwZHRMpY5R0ZkmaiHHvpYQKB.jpg",
+      "title": "Body of Evidence",
+      "year": 1993
+    },
+    "Jack Ryan: Shadow Recruit": {
+      "id": 137094,
+      "poster": "/m7HcLUodrD4lM4s0Hui1tzO2pjO.jpg",
+      "title": "Jack Ryan: Shadow Recruit",
+      "year": 2014
+    },
+    "Maze Runner: The Scorch Trials": {
+      "id": 294254,
+      "poster": "/mYw7ZyejqSCPFlrT2jHZOESZDU3.jpg",
+      "title": "Maze Runner: The Scorch Trials",
+      "year": 2015
+    },
+    "Maze Runner: The Death Cure": {
+      "id": 336843,
+      "poster": "/drbERzlA4cuRWhsTXfFOY4mRR4f.jpg",
+      "title": "Maze Runner: The Death Cure",
+      "year": 2018
+    },
+    "Wall Street": {
+      "id": 10673,
+      "poster": "/2tQYq9ntzn2dEwDIGLBSipYPenv.jpg",
+      "title": "Wall Street",
+      "year": 1987
+    },
+    "One Flew Over the Cuckoo's Nest": {
+      "id": 510,
+      "poster": "/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": 1975
+    },
+    "Out of Sight": {
+      "id": 1389,
+      "poster": "/v49q7AMR3pB4M762woWB1NYMCLF.jpg",
+      "title": "Out of Sight",
+      "year": 1998
+    },
+    "Three Kings": {
+      "id": 6415,
+      "poster": "/fClJQW8xn8wHOFqoA4jUn0PZh1f.jpg",
+      "title": "Three Kings",
+      "year": 1999
+    },
+    "The Perfect Storm": {
+      "id": 2133,
+      "poster": "/vJPoxqgpfFNbGi0HyoNsjFeLCio.jpg",
+      "title": "The Perfect Storm",
+      "year": 2000
+    },
+    "O Brother, Where Art Thou?": {
+      "id": 134,
+      "poster": "/s9foMAcLg8GEzzQzer04qOGdD1k.jpg",
+      "title": "O Brother, Where Art Thou?",
+      "year": 2000
+    },
+    "Ocean's Eleven": {
+      "id": 161,
+      "poster": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+      "title": "Ocean's Eleven",
+      "year": 2001
+    },
+    "Good Night, and Good Luck.": {
+      "id": 3291,
+      "poster": "/w4QSEno2xxHqMtSr3mPUhJpO3F2.jpg",
+      "title": "Good Night, and Good Luck.",
+      "year": 2005
+    },
+    "Michael Clayton": {
+      "id": 4566,
+      "poster": "/hhkW4yVIGo8Bee3UITKvqOvhNMG.jpg",
+      "title": "Michael Clayton",
+      "year": 2007
+    },
+    "Fantastic Mr. Fox": {
+      "id": 10315,
+      "poster": "/euZyZb6iGreujYKrGyZHRddhUYh.jpg",
+      "title": "Fantastic Mr. Fox",
+      "year": 2009
+    },
+    "The Descendants": {
+      "id": 65057,
+      "poster": "/8cDq5UlOPYeKm39okALCEOsZPxk.jpg",
+      "title": "The Descendants",
+      "year": 2011
+    },
+    "Syriana": {
+      "id": 231,
+      "poster": "/mO3hWUTOxmLJxihvDU0YFkb0Mb5.jpg",
+      "title": "Syriana",
+      "year": 2005
+    }
+  }
+}

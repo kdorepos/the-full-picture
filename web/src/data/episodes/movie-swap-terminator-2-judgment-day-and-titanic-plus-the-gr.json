@@ -1,0 +1,418 @@
+{
+  "slug": "movie-swap-terminator-2-judgment-day-and-titanic-plus-the-gr",
+  "title": "Movie Swap: 'Terminator 2: Judgment Day' and 'Titanic.' Plus: 'The Green Knight'!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2021-07-30",
+  "runtimeMin": 115,
+  "format": "Another movie swap: Amanda watches Terminator 2 for the first time, Sean revisits Titanic 24 years on, and the two of them turn it into a career audit of James Cameron. Then Sean talks to David Lowery about The Green Knight.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The Swap: 'Terminator 2: Judgment Day'",
+      "note": "Amanda's first watch",
+      "films": [
+        {
+          "title": "Terminator 2: Judgment Day",
+          "year": 1991,
+          "note": "Amanda's assignment, seen for the first time the night before. She hated the opening 20 minutes of sci-fi voiceover but came around once it settled into a buddy-comedy road movie; two thumbs up, minus the one-too-many endings. Sean, who was nine when it came out, calls it his Terminator and reads it as a Western: white hat, black hat, a child to protect. They agree the LA River chase still looks unimprovable, and both flag the Sarah Connor voiceover about the robot making the best father as the film's strangest 30 seconds."
+        },
+        {
+          "title": "The Terminator",
+          "year": 1984,
+          "note": "The 1984 original, which Amanda skipped in favor of reading the Wikipedia page. Sean rewatched it early in the 2020 lockdown and admits it never imprinted on him the way T2 did, too stripped-down and independent."
+        },
+        {
+          "title": "Aliens",
+          "year": 1986,
+          "note": "Amanda's other Cameron point of reference; the dark opening of T2 reminded her of it. Its Ripley sits alongside Sarah Connor as the two Cameron heroines the hosts keep coming back to."
+        },
+        {
+          "title": "The Abyss",
+          "year": 1989,
+          "note": "Cited as an early version of the recurring Cameron theme: found technology that could save us or kill us."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The Swap: 'Titanic'",
+      "note": "Sean's first watch in 24 years",
+      "films": [
+        {
+          "title": "Titanic",
+          "year": 1997,
+          "note": "Sean's assignment, unseen since its theatrical run 24 years earlier. He was a 16-year-old refusing it on principle while everyone he knew saw it eight or nine times. Both find the Jack-and-Rose romance thin but concede it's the reason the movie works, and both are floored by the scale of the sinking. Amanda, 13 when it came out, treats it as the last true theatrical phenomenon: $2.2 billion, months in theaters, then a third life on TNT and the internet."
+        },
+        {
+          "title": "True Lies",
+          "year": 1994,
+          "note": "The Cameron film that landed between T2 and Titanic; the hosts note it and Titanic are his non-sci-fi outliers, both built partly around a broken marriage."
+        },
+        {
+          "title": "Avatar",
+          "year": 2009,
+          "note": "The recurring shadow over the conversation: a movie more successful than Titanic that, they argue, left almost no cultural footprint. Sean was gobsmacked seeing it in IMAX; both wonder whether late-period Cameron lost himself in his own imagined world."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "David Lowery on",
+      "films": [
+        {
+          "title": "The Green Knight",
+          "year": 2021,
+          "note": "Lowery's Arthurian fable, adapted from the Middle English poem. He describes chasing an epic scale out of a small budget (War and Peace and Lord of the Rings as impossible references), with the Green Knight and Arthur's round table built practically. He cast Dev Patel for a boyishness that lets Gawain grow from manchild to adult, and edited the film himself over a year and a half; the pandemic delay let him keep cutting."
+        },
+        {
+          "title": "A Ghost Story",
+          "year": 2017,
+          "note": "His template for a film that had to be discovered in the edit, which is why he cut it, and The Green Knight, himself."
+        },
+        {
+          "title": "Pete's Dragon",
+          "year": 2016,
+          "note": "His Disney film, many times The Green Knight's budget yet a far smaller-feeling production."
+        },
+        {
+          "title": "The Old Man & the Gun",
+          "year": 2018,
+          "note": "The movie he says represents his personality most (affable, lighthearted) even as his films drift toward a serious edge."
+        },
+        {
+          "title": "Ain't Them Bodies Saints",
+          "year": 2013,
+          "note": "His first feature, an early attempt to take familiar images and reshape old archetypes."
+        },
+        {
+          "title": "Peter Pan & Wendy",
+          "year": 2023,
+          "note": "In production for Disney during the interview; ironically, he says, his most adult and complex film to date."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "James Cameron, also mentioned",
+      "films": [
+        "Piranha II: The Spawning",
+        "Ghosts of the Abyss",
+        "Aliens of the Deep"
+      ]
+    },
+    {
+      "group": "In the Cameron conversation",
+      "films": [
+        "Jurassic Park",
+        "Good Will Hunting",
+        "The Polar Express",
+        "Pet Sematary II",
+        "American Heart",
+        "Gone with the Wind",
+        "Back to the Future",
+        "Avengers: Endgame",
+        "Ben-Hur",
+        "Spartacus",
+        "Lawrence of Arabia",
+        "Once Upon a Time in Hollywood",
+        "Shane",
+        "The Searchers",
+        "The Devil Wears Prada"
+      ]
+    },
+    {
+      "group": "David Lowery's touchstones",
+      "films": [
+        "Lancelot du Lac",
+        "Perceval le Gallois",
+        "War and Peace",
+        "The Lord of the Rings",
+        "Willow",
+        "Henry V",
+        "Slumdog Millionaire",
+        "The Sparks Brothers",
+        "Blade Runner"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Lancelot du Lac": 55848,
+    "Perceval le Gallois": 75733
+  },
+  "excluded": {
+    "TV": [
+      "Growing Pains",
+      "Mare of Easttown",
+      "Game of Thrones",
+      "Hacks",
+      "Legends of the Hidden Temple",
+      "Guts",
+      "NBA Countdown"
+    ],
+    "Podcasts": [
+      "The Ringerverse",
+      "The Watch",
+      "The Rewatchables",
+      "Gene and Roger"
+    ],
+    "Songs": [
+      "Oops!... I Did It Again",
+      "You Could Be Mine",
+      "Bad to the Bone"
+    ],
+    "Ads": [
+      "Netflix (FIFA World Cup Launch Edition)",
+      "Boar's Head",
+      "White Claw"
+    ]
+  },
+  "tmdb": {
+    "Terminator 2: Judgment Day": {
+      "id": 280,
+      "poster": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991
+    },
+    "The Terminator": {
+      "id": 218,
+      "poster": "/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+      "title": "The Terminator",
+      "year": 1984
+    },
+    "Aliens": {
+      "id": 679,
+      "poster": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "title": "Aliens",
+      "year": 1986
+    },
+    "The Abyss": {
+      "id": 2756,
+      "poster": "/2dCit3XAtv9KWCJvRKdPkJ0FAkH.jpg",
+      "title": "The Abyss",
+      "year": 1989
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "True Lies": {
+      "id": 36955,
+      "poster": "/pweFTnzzTfGK68woSVkiTgjLzWm.jpg",
+      "title": "True Lies",
+      "year": 1994
+    },
+    "Avatar": {
+      "id": 19995,
+      "poster": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "title": "Avatar",
+      "year": 2009
+    },
+    "The Green Knight": {
+      "id": 559907,
+      "poster": "/if4hw3Ou5Sav9Em7WWHj66mnywp.jpg",
+      "title": "The Green Knight",
+      "year": 2021
+    },
+    "A Ghost Story": {
+      "id": 428449,
+      "poster": "/rp5JPIyZi9sMob15l46zNQLe5cO.jpg",
+      "title": "A Ghost Story",
+      "year": 2017
+    },
+    "Pete's Dragon": {
+      "id": 294272,
+      "poster": "/A9x4Ogk8KUXTfU649NS6lS9TCmu.jpg",
+      "title": "Pete's Dragon",
+      "year": 2016
+    },
+    "The Old Man & the Gun": {
+      "id": 429203,
+      "poster": "/a4BfxRK8dBgbQqbRxPs8kmLd8LG.jpg",
+      "title": "The Old Man & the Gun",
+      "year": 2018
+    },
+    "Ain't Them Bodies Saints": {
+      "id": 152748,
+      "poster": "/xkGkVjeMcvEg7P3VxWy8wYBJ7Dv.jpg",
+      "title": "Ain't Them Bodies Saints",
+      "year": 2013
+    },
+    "Peter Pan & Wendy": {
+      "id": 420808,
+      "poster": "/9NXAlFEE7WDssbXSMgdacsUD58Y.jpg",
+      "title": "Peter Pan & Wendy",
+      "year": 2023
+    },
+    "Piranha II: The Spawning": {
+      "id": 31646,
+      "poster": "/rbcbLYbhc8ZmQmNHAt8E8knij88.jpg",
+      "title": "Piranha II: The Spawning",
+      "year": 1982
+    },
+    "Ghosts of the Abyss": {
+      "id": 24982,
+      "poster": "/aSht7L9Mnr1zc4hDJTOwPuTfnV8.jpg",
+      "title": "Ghosts of the Abyss",
+      "year": 2003
+    },
+    "Aliens of the Deep": {
+      "id": 22559,
+      "poster": "/fr93LZw0vilOK42vbWCgtekyMpQ.jpg",
+      "title": "Aliens of the Deep",
+      "year": 2005
+    },
+    "Jurassic Park": {
+      "id": 329,
+      "poster": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "title": "Jurassic Park",
+      "year": 1993
+    },
+    "Good Will Hunting": {
+      "id": 489,
+      "poster": "/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+      "title": "Good Will Hunting",
+      "year": 1997
+    },
+    "The Polar Express": {
+      "id": 5255,
+      "poster": "/eOoCzH0MqeGr2taUZO4SwG416PF.jpg",
+      "title": "The Polar Express",
+      "year": 2004
+    },
+    "Pet Sematary II": {
+      "id": 10906,
+      "poster": "/9g6ngNlHOfMfQnaKkw9468p67d4.jpg",
+      "title": "Pet Sematary II",
+      "year": 1992
+    },
+    "American Heart": {
+      "id": 7015,
+      "poster": "/h74XME6qwQB0mY9iMOUKXaNvmL2.jpg",
+      "title": "American Heart",
+      "year": 1992
+    },
+    "Gone with the Wind": {
+      "id": 770,
+      "poster": "/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg",
+      "title": "Gone with the Wind",
+      "year": 1939
+    },
+    "Back to the Future": {
+      "id": 105,
+      "poster": "/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+      "title": "Back to the Future",
+      "year": 1985
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Ben-Hur": {
+      "id": 665,
+      "poster": "/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+      "title": "Ben-Hur",
+      "year": 1959
+    },
+    "Spartacus": {
+      "id": 967,
+      "poster": "/r0Fgg1GyZgzokaiw2HFQv3oPaL2.jpg",
+      "title": "Spartacus",
+      "year": 1960
+    },
+    "Lawrence of Arabia": {
+      "id": 947,
+      "poster": "/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg",
+      "title": "Lawrence of Arabia",
+      "year": 1962
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Shane": {
+      "id": 3110,
+      "poster": "/svr5ADpjXTCOQv8hmuJnB7I14Qv.jpg",
+      "title": "Shane",
+      "year": 1953
+    },
+    "The Searchers": {
+      "id": 3114,
+      "poster": "/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg",
+      "title": "The Searchers",
+      "year": 1956
+    },
+    "The Devil Wears Prada": {
+      "id": 350,
+      "poster": "/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+      "title": "The Devil Wears Prada",
+      "year": 2006
+    },
+    "Lancelot du Lac": {
+      "id": 55848,
+      "poster": "/mF5BQro2PC7YG4XY6i70jwXOzbl.jpg",
+      "title": "Lancelot of the Lake",
+      "year": 1974
+    },
+    "Perceval le Gallois": {
+      "id": 75733,
+      "poster": "/hvywz6133UMPfKRVcMWav151Ci5.jpg",
+      "title": "Perceval",
+      "year": 1978
+    },
+    "War and Peace": {
+      "id": 11706,
+      "poster": "/f3a1MyH12PSl3LFDahnooGy6mv8.jpg",
+      "title": "War and Peace",
+      "year": 1956
+    },
+    "The Lord of the Rings": {
+      "id": 123,
+      "poster": "/liW0mjvTyLs7UCumaHhx3PpU4VT.jpg",
+      "title": "The Lord of the Rings",
+      "year": 1978
+    },
+    "Willow": {
+      "id": 847,
+      "poster": "/pAIRGMIdN7ZdZhflazdV2ezuJ9f.jpg",
+      "title": "Willow",
+      "year": 1988
+    },
+    "Henry V": {
+      "id": 22638,
+      "poster": "/eAisr20DvaKJeHvjDN0oHSx0l7u.jpg",
+      "title": "Henry V",
+      "year": 1944
+    },
+    "Slumdog Millionaire": {
+      "id": 12405,
+      "poster": "/5leCCi7ZF0CawAfM5Qo2ECKPprc.jpg",
+      "title": "Slumdog Millionaire",
+      "year": 2008
+    },
+    "The Sparks Brothers": {
+      "id": 776485,
+      "poster": "/e8jtG3WS0Ku7Dh4fBne1rgriXZt.jpg",
+      "title": "The Sparks Brothers",
+      "year": 2021
+    },
+    "Blade Runner": {
+      "id": 78,
+      "poster": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+      "title": "Blade Runner",
+      "year": 1982
+    }
+  }
+}

@@ -1,0 +1,1082 @@
+{
+  "slug": "the-best-picture-movie-draft",
+  "title": "The Best Picture Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2025-02-21",
+  "runtimeMin": 82,
+  "tmdbOverrides": {
+    "Crash": 1640,
+    "Coming Home": 31657,
+    "Fearless": 10443,
+    "You Can't Take It with You": 34106,
+    "Birdman": 194662,
+    "Horizon: An American Saga - Chapter 2": 1120368
+  },
+  "format": "Sean, Amanda, and Chris draft Best Picture winners across five decades: the 1930s, '50s, '70s, '90s, and 2010s, plus a Best Picture loser.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Before the draft: the state of Best Picture",
+      "note": "the shrinking box office of a winner",
+      "films": [
+        {
+          "title": "Anora",
+          "year": 2024,
+          "note": "This year's front-runner; if it wins it would be the lowest-grossing Best Picture winner since at least the 1960s."
+        },
+        {
+          "title": "The Hurt Locker",
+          "year": 2008,
+          "note": "Lowest-grossing winner to date at $17M domestic; beat Avatar."
+        },
+        {
+          "title": "Slumdog Millionaire",
+          "year": 2008,
+          "note": "$140M domestic, $385M worldwide: the kind of phenomenon winner that's rare now."
+        },
+        {
+          "title": "Oppenheimer",
+          "year": 2023,
+          "note": "One of only five post-2004 winners to top $100M domestic."
+        }
+      ]
+    },
+    {
+      "kind": "draft",
+      "heading": "The draft",
+      "draftOf": "Best Picture winners",
+      "categories": [
+        "1930s",
+        "1950s",
+        "1970s",
+        "1990s",
+        "2010s",
+        "Best Picture Loser"
+      ],
+      "teams": [
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "The Silence of the Lambs",
+              "year": 1991,
+              "category": "1990s",
+              "note": "First overall: the last film to win the Big Five, one of Demme's best."
+            },
+            {
+              "title": "Mutiny on the Bounty",
+              "year": 1935,
+              "category": "1930s",
+              "note": "Underrated winner, taken for Charles Laughton's Captain Bligh."
+            },
+            {
+              "title": "On the Waterfront",
+              "year": 1954,
+              "category": "1950s",
+              "note": "Kazan and Brando in Hoboken, the only '50s pick he'd make."
+            },
+            {
+              "title": "The Godfather",
+              "year": 1972,
+              "category": "1970s",
+              "note": "Sets the template; took it over Part II by '50.1 to 49.9'."
+            },
+            {
+              "title": "Parasite",
+              "year": 2019,
+              "category": "2010s",
+              "note": "The 2010s winner in his headcanon; won the night his live-cut voice cracked."
+            },
+            {
+              "title": "Barry Lyndon",
+              "year": 1975,
+              "category": "Best Picture Loser",
+              "note": "Kubrick shot it by real candlelight."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "It Happened One Night",
+              "year": 1934,
+              "category": "1930s",
+              "note": "Her personal favorite of the decade, a Big Five winner."
+            },
+            {
+              "title": "All About Eve",
+              "year": 1950,
+              "category": "1950s",
+              "note": "Took it over her backup, An American in Paris."
+            },
+            {
+              "title": "The Godfather Part II",
+              "year": 1974,
+              "category": "1970s",
+              "note": "Grabbed it before Sean could; she toggles it above Part I."
+            },
+            {
+              "title": "Titanic",
+              "year": 1997,
+              "category": "1990s",
+              "note": "The safe '90s pick, with The English Patient left as her other option."
+            },
+            {
+              "title": "Moonlight",
+              "year": 2016,
+              "category": "2010s",
+              "note": "The winner she loves; the one Sean's 'new Academy' piece was written about."
+            },
+            {
+              "title": "The Social Network",
+              "year": 2010,
+              "category": "Best Picture Loser",
+              "note": "Rates it over Inception, and endured a Nolan bit to say so."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "All Quiet on the Western Front",
+              "year": 1930,
+              "category": "1930s",
+              "note": "Not a favorite watch, but a five-star template for the Hollywood war film."
+            },
+            {
+              "title": "The Bridge on the River Kwai",
+              "year": 1957,
+              "category": "1950s",
+              "note": "David Lean's first Best Picture win."
+            },
+            {
+              "title": "The Sting",
+              "year": 1973,
+              "category": "1970s",
+              "note": "A 'cuck pick' over The Deer Hunter, the one he's rewatched most."
+            },
+            {
+              "title": "Unforgiven",
+              "year": 1992,
+              "category": "1990s",
+              "note": "His second-favorite winner, after Silence of the Lambs."
+            },
+            {
+              "title": "Argo",
+              "year": 2012,
+              "category": "2010s",
+              "note": "Took it too early and got roasted; likes it more than Spotlight."
+            },
+            {
+              "title": "Goodfellas",
+              "year": 1990,
+              "category": "Best Picture Loser",
+              "note": "One of the great crimes in Oscar history: lost to Dances with Wolves."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Gone with the Wind",
+        "The Wizard of Oz",
+        "You Can't Take It with You",
+        "Mr. Smith Goes to Washington",
+        "The Gay Divorcee",
+        "An American in Paris",
+        "Singin' in the Rain",
+        "A Streetcar Named Desire",
+        "A Place in the Sun",
+        "The French Connection",
+        "Chinatown",
+        "One Flew Over the Cuckoo's Nest",
+        "Jaws",
+        "Dog Day Afternoon",
+        "Network",
+        "All the President's Men",
+        "Annie Hall",
+        "Star Wars",
+        "Coming Home",
+        "The Deer Hunter",
+        "Apocalypse Now",
+        "Kramer vs. Kramer",
+        "M*A*S*H",
+        "The English Patient",
+        "Good Will Hunting",
+        "Fargo",
+        "Jerry Maguire",
+        "Braveheart",
+        "Sense and Sensibility",
+        "Butch Cassidy and the Sundance Kid",
+        "Get Out"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The 2024–25 race",
+      "films": [
+        "The Brutalist",
+        "A Complete Unknown",
+        "Conclave",
+        "Emilia Pérez",
+        "Wicked",
+        "Dune: Part Two",
+        "Mickey 17"
+      ]
+    },
+    {
+      "group": "Best Picture and the box office",
+      "films": [
+        "The King's Speech",
+        "Avatar",
+        "The Departed",
+        "No Country for Old Men",
+        "Crash",
+        "The Queen",
+        "The Devil Wears Prada",
+        "Nomadland",
+        "CODA",
+        "Oliver!",
+        "Barbie",
+        "Top Gun: Maverick",
+        "Spotlight",
+        "Boyhood",
+        "Birdman"
+      ]
+    },
+    {
+      "group": "Oscar-night memories",
+      "films": [
+        "Rain Man",
+        "Apollo 13",
+        "Pulp Fiction",
+        "Forrest Gump"
+      ]
+    },
+    {
+      "group": "2010s winners, reconsidered",
+      "films": [
+        "12 Years a Slave",
+        "The Shape of Water",
+        "Lady Bird",
+        "Dunkirk",
+        "Once Upon a Time in Hollywood",
+        "1917"
+      ]
+    },
+    {
+      "group": "The blocker rule, by example",
+      "films": [
+        "Platoon",
+        "Hannah and Her Sisters",
+        "Children of a Lesser God",
+        "The Mission",
+        "A Room with a View"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Cruising",
+        "La Vie en Rose",
+        "The Dark Knight Rises",
+        "Iron Man",
+        "Mufasa: The Lion King",
+        "The Lion King",
+        "If Beale Street Could Talk",
+        "Challengers",
+        "Gladiator II",
+        "Lincoln",
+        "Captain America: Brave New World",
+        "The Greatest Showman",
+        "The Hobbit: The Desolation of Smaug",
+        "Becoming Led Zeppelin",
+        "Witness",
+        "The Mosquito Coast",
+        "Master and Commander: The Far Side of the World",
+        "White Squall",
+        "Picnic at Hanging Rock",
+        "The Last Wave",
+        "Fearless",
+        "Dead Poets Society",
+        "The Way Back",
+        "The Truman Show",
+        "The Caine Mutiny",
+        "The Bounty",
+        "Open Range",
+        "Horizon: An American Saga - Chapter 2",
+        "Dances with Wolves",
+        "Lawrence of Arabia",
+        "The Lord of the Rings: The Fellowship of the Ring",
+        "It's a Wonderful Life",
+        "The Odyssey"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Studio",
+      "The Offer",
+      "The Godfather Legacy",
+      "Lioness",
+      "The Underground Railroad"
+    ],
+    "Podcasts": [
+      "The Rewatchables",
+      "The Watch",
+      "You Must Remember This"
+    ],
+    "Music": [
+      "Brat"
+    ]
+  },
+  "tmdb": {
+    "Anora": {
+      "id": 1064213,
+      "poster": "/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg",
+      "title": "Anora",
+      "year": 2024
+    },
+    "The Hurt Locker": {
+      "id": 12162,
+      "poster": "/io2dfBJhasvGbgkCX9cCGVOiA99.jpg",
+      "title": "The Hurt Locker",
+      "year": 2008
+    },
+    "Slumdog Millionaire": {
+      "id": 12405,
+      "poster": "/5leCCi7ZF0CawAfM5Qo2ECKPprc.jpg",
+      "title": "Slumdog Millionaire",
+      "year": 2008
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "The Silence of the Lambs": {
+      "id": 274,
+      "poster": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+      "title": "The Silence of the Lambs",
+      "year": 1991
+    },
+    "Mutiny on the Bounty": {
+      "id": 12311,
+      "poster": "/GD98ozz6F6tSu8BWGulpseEKhv.jpg",
+      "title": "Mutiny on the Bounty",
+      "year": 1935
+    },
+    "On the Waterfront": {
+      "id": 654,
+      "poster": "/v1RtJ1qR4v9nrnfoBVBl6hjTW9.jpg",
+      "title": "On the Waterfront",
+      "year": 1954
+    },
+    "The Godfather": {
+      "id": 238,
+      "poster": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "title": "The Godfather",
+      "year": 1972
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Barry Lyndon": {
+      "id": 3175,
+      "poster": "/znfLskGQnXYB2xcOGM9eInRHPAV.jpg",
+      "title": "Barry Lyndon",
+      "year": 1975
+    },
+    "It Happened One Night": {
+      "id": 3078,
+      "poster": "/2PNUGWAflH6UUumas0POMmokHlc.jpg",
+      "title": "It Happened One Night",
+      "year": 1934
+    },
+    "All About Eve": {
+      "id": 705,
+      "poster": "/blBzZaatPWVuWpXEnPscMA4Xp6m.jpg",
+      "title": "All About Eve",
+      "year": 1950
+    },
+    "The Godfather Part II": {
+      "id": 240,
+      "poster": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+      "title": "The Godfather Part II",
+      "year": 1974
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "Moonlight": {
+      "id": 376867,
+      "poster": "/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+      "title": "Moonlight",
+      "year": 2016
+    },
+    "The Social Network": {
+      "id": 37799,
+      "poster": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+      "title": "The Social Network",
+      "year": 2010
+    },
+    "All Quiet on the Western Front": {
+      "id": 143,
+      "poster": "/1wZUB08igw8iLUgF1r4T6aJD65b.jpg",
+      "title": "All Quiet on the Western Front",
+      "year": 1930
+    },
+    "The Bridge on the River Kwai": {
+      "id": 826,
+      "poster": "/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
+      "title": "The Bridge on the River Kwai",
+      "year": 1957
+    },
+    "The Sting": {
+      "id": 9277,
+      "poster": "/ckmYng37zey8INYf6d10cVgIG93.jpg",
+      "title": "The Sting",
+      "year": 1973
+    },
+    "Unforgiven": {
+      "id": 33,
+      "poster": "/54roTwbX9fltg85zjsmrooXAs12.jpg",
+      "title": "Unforgiven",
+      "year": 1992
+    },
+    "Argo": {
+      "id": 68734,
+      "poster": "/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
+      "title": "Argo",
+      "year": 2012
+    },
+    "Goodfellas": {
+      "id": 769,
+      "poster": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+      "title": "GoodFellas",
+      "year": 1990
+    },
+    "Gone with the Wind": {
+      "id": 770,
+      "poster": "/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg",
+      "title": "Gone with the Wind",
+      "year": 1939
+    },
+    "The Wizard of Oz": {
+      "id": 630,
+      "poster": "/uCC3j4pV9eOZwzDUWp2ilbcTf1f.jpg",
+      "title": "The Wizard of Oz",
+      "year": 1939
+    },
+    "You Can't Take It with You": {
+      "id": 34106,
+      "poster": "/9JltqbDyWstYW6gnvqDO6L5bOrx.jpg",
+      "title": "You Can't Take It with You",
+      "year": 1938
+    },
+    "Mr. Smith Goes to Washington": {
+      "id": 3083,
+      "poster": "/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+      "title": "Mr. Smith Goes to Washington",
+      "year": 1939
+    },
+    "The Gay Divorcee": {
+      "id": 28288,
+      "poster": "/xD6oUOAa0Q6PppaOnY6dy6sWPLG.jpg",
+      "title": "The Gay Divorcee",
+      "year": 1934
+    },
+    "An American in Paris": {
+      "id": 2769,
+      "poster": "/lyDXkvG53ldz6Cf7dbjJl7TaoP5.jpg",
+      "title": "An American in Paris",
+      "year": 1951
+    },
+    "Singin' in the Rain": {
+      "id": 872,
+      "poster": "/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+      "title": "Singin' in the Rain",
+      "year": 1952
+    },
+    "A Streetcar Named Desire": {
+      "id": 702,
+      "poster": "/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg",
+      "title": "A Streetcar Named Desire",
+      "year": 1951
+    },
+    "A Place in the Sun": {
+      "id": 25673,
+      "poster": "/3tKYbChwIRYCwFrMUDBkbZyDIoN.jpg",
+      "title": "A Place in the Sun",
+      "year": 1951
+    },
+    "The French Connection": {
+      "id": 1051,
+      "poster": "/pH4saPwMjhnVGwmSH6RkMaHrt3s.jpg",
+      "title": "The French Connection",
+      "year": 1971
+    },
+    "Chinatown": {
+      "id": 829,
+      "poster": "/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg",
+      "title": "Chinatown",
+      "year": 1974
+    },
+    "One Flew Over the Cuckoo's Nest": {
+      "id": 510,
+      "poster": "/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": 1975
+    },
+    "Jaws": {
+      "id": 578,
+      "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "title": "Jaws",
+      "year": 1975
+    },
+    "Dog Day Afternoon": {
+      "id": 968,
+      "poster": "/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg",
+      "title": "Dog Day Afternoon",
+      "year": 1975
+    },
+    "Network": {
+      "id": 10774,
+      "poster": "/qZomlHsaALUtkFeMDwdYmwS2Pbo.jpg",
+      "title": "Network",
+      "year": 1976
+    },
+    "All the President's Men": {
+      "id": 891,
+      "poster": "/pCe6lfLxt1B58zPD4lgQrlnDS2j.jpg",
+      "title": "All the President's Men",
+      "year": 1976
+    },
+    "Annie Hall": {
+      "id": 703,
+      "poster": "/dEtjPywhDbAXYjoFfhBC4U9unU7.jpg",
+      "title": "Annie Hall",
+      "year": 1977
+    },
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
+    },
+    "Coming Home": {
+      "id": 31657,
+      "poster": "/jBsYWNBYNEi5EhT1hC8iexcTsWT.jpg",
+      "title": "Coming Home",
+      "year": 1978
+    },
+    "The Deer Hunter": {
+      "id": 11778,
+      "poster": "/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
+      "title": "The Deer Hunter",
+      "year": 1978
+    },
+    "Apocalypse Now": {
+      "id": 28,
+      "poster": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "title": "Apocalypse Now",
+      "year": 1979
+    },
+    "Kramer vs. Kramer": {
+      "id": 12102,
+      "poster": "/3CUP5V5SWfHSK4qvkZF7lMNyugY.jpg",
+      "title": "Kramer vs. Kramer",
+      "year": 1979
+    },
+    "M*A*S*H": {
+      "id": 651,
+      "poster": "/on8Q9LhtHYNhmITjUMpgOUkIG8o.jpg",
+      "title": "M*A*S*H",
+      "year": 1970
+    },
+    "The English Patient": {
+      "id": 409,
+      "poster": "/8eHHqMg8qEYtVw8LQLygsHXSR2q.jpg",
+      "title": "The English Patient",
+      "year": 1996
+    },
+    "Good Will Hunting": {
+      "id": 489,
+      "poster": "/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+      "title": "Good Will Hunting",
+      "year": 1997
+    },
+    "Fargo": {
+      "id": 275,
+      "poster": "/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+      "title": "Fargo",
+      "year": 1996
+    },
+    "Jerry Maguire": {
+      "id": 9390,
+      "poster": "/lABvGN7fDk5ifnwZoxij6G96t2w.jpg",
+      "title": "Jerry Maguire",
+      "year": 1996
+    },
+    "Braveheart": {
+      "id": 197,
+      "poster": "/or1gBugydmjToAEq7OZY0owwFk.jpg",
+      "title": "Braveheart",
+      "year": 1995
+    },
+    "Sense and Sensibility": {
+      "id": 4584,
+      "poster": "/9YdQ73YmvInxpXZVNjEKePw9tRO.jpg",
+      "title": "Sense and Sensibility",
+      "year": 1995
+    },
+    "Butch Cassidy and the Sundance Kid": {
+      "id": 642,
+      "poster": "/gFmmykF1Ym3OGzENo50nZQaD1dx.jpg",
+      "title": "Butch Cassidy and the Sundance Kid",
+      "year": 1969
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "The Brutalist": {
+      "id": 549509,
+      "poster": "/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
+      "title": "The Brutalist",
+      "year": 2024
+    },
+    "A Complete Unknown": {
+      "id": 661539,
+      "poster": "/llWl3GtNoXosbvYboelmoT459NM.jpg",
+      "title": "A Complete Unknown",
+      "year": 2024
+    },
+    "Conclave": {
+      "id": 974576,
+      "poster": "/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
+      "title": "Conclave",
+      "year": 2024
+    },
+    "Emilia Pérez": {
+      "id": 974950,
+      "poster": "/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg",
+      "title": "Emilia Pérez",
+      "year": 2024
+    },
+    "Wicked": {
+      "id": 402431,
+      "poster": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+      "title": "Wicked",
+      "year": 2024
+    },
+    "Dune: Part Two": {
+      "id": 693134,
+      "poster": "/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+      "title": "Dune: Part Two",
+      "year": 2024
+    },
+    "Mickey 17": {
+      "id": 696506,
+      "poster": "/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
+      "title": "Mickey 17",
+      "year": 2025
+    },
+    "The King's Speech": {
+      "id": 45269,
+      "poster": "/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg",
+      "title": "The King's Speech",
+      "year": 2010
+    },
+    "Avatar": {
+      "id": 19995,
+      "poster": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "title": "Avatar",
+      "year": 2009
+    },
+    "The Departed": {
+      "id": 1422,
+      "poster": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+      "title": "The Departed",
+      "year": 2006
+    },
+    "No Country for Old Men": {
+      "id": 6977,
+      "poster": "/uB7RDZby43Wvu8SKGHHTwGyTDBX.jpg",
+      "title": "No Country for Old Men",
+      "year": 2007
+    },
+    "Crash": {
+      "id": 1640,
+      "poster": "/86BdPC6RDX88NC880pLidKn2LCj.jpg",
+      "title": "Crash",
+      "year": 2005
+    },
+    "The Queen": {
+      "id": 1165,
+      "poster": "/v08RH5Cx9EFAQMBWQuE5jHAgHYs.jpg",
+      "title": "The Queen",
+      "year": 2006
+    },
+    "The Devil Wears Prada": {
+      "id": 350,
+      "poster": "/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+      "title": "The Devil Wears Prada",
+      "year": 2006
+    },
+    "Nomadland": {
+      "id": 581734,
+      "poster": "/8Vc5EOUEIF1EUXuX9eLFf7BvN3P.jpg",
+      "title": "Nomadland",
+      "year": 2021
+    },
+    "CODA": {
+      "id": 776503,
+      "poster": "/BzVjmm8l23rPsijLiNLUzuQtyd.jpg",
+      "title": "CODA",
+      "year": 2021
+    },
+    "Oliver!": {
+      "id": 17917,
+      "poster": "/1XJgoaOWKrqxkKeBKWLKSigqG8c.jpg",
+      "title": "Oliver!",
+      "year": 1968
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Spotlight": {
+      "id": 314365,
+      "poster": "/8DPGG400FgaFWaqcv11n8mRd2NG.jpg",
+      "title": "Spotlight",
+      "year": 2015
+    },
+    "Boyhood": {
+      "id": 85350,
+      "poster": "/2BvtvDUyxiMJ4dmKfiQf4qdOHQN.jpg",
+      "title": "Boyhood",
+      "year": 2014
+    },
+    "Birdman": {
+      "id": 194662,
+      "poster": "/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg",
+      "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+      "year": 2014
+    },
+    "Rain Man": {
+      "id": 380,
+      "poster": "/iTNHwO896WKkaoPtpMMS74d8VNi.jpg",
+      "title": "Rain Man",
+      "year": 1988
+    },
+    "Apollo 13": {
+      "id": 568,
+      "poster": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+      "title": "Apollo 13",
+      "year": 1995
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "Forrest Gump": {
+      "id": 13,
+      "poster": "/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
+      "title": "Forrest Gump",
+      "year": 1994
+    },
+    "12 Years a Slave": {
+      "id": 76203,
+      "poster": "/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+      "title": "12 Years a Slave",
+      "year": 2013
+    },
+    "The Shape of Water": {
+      "id": 399055,
+      "poster": "/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg",
+      "title": "The Shape of Water",
+      "year": 2017
+    },
+    "Lady Bird": {
+      "id": 391713,
+      "poster": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+      "title": "Lady Bird",
+      "year": 2017
+    },
+    "Dunkirk": {
+      "id": 374720,
+      "poster": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "title": "Dunkirk",
+      "year": 2017
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "1917": {
+      "id": 530915,
+      "poster": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+      "title": "1917",
+      "year": 2019
+    },
+    "Platoon": {
+      "id": 792,
+      "poster": "/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg",
+      "title": "Platoon",
+      "year": 1986
+    },
+    "Hannah and Her Sisters": {
+      "id": 5143,
+      "poster": "/gARgIRb2QFRFVrsziwWE389u1pK.jpg",
+      "title": "Hannah and Her Sisters",
+      "year": 1986
+    },
+    "Children of a Lesser God": {
+      "id": 1890,
+      "poster": "/yAiJlASIXC306qpqe5NZX2GgVlQ.jpg",
+      "title": "Children of a Lesser God",
+      "year": 1986
+    },
+    "The Mission": {
+      "id": 11416,
+      "poster": "/6K9cG6LOOtySZF4D4xBu1MApC1N.jpg",
+      "title": "The Mission",
+      "year": 1986
+    },
+    "A Room with a View": {
+      "id": 11257,
+      "poster": "/5xRAqywVo6tNUNQbAESGVP930la.jpg",
+      "title": "A Room with a View",
+      "year": 1986
+    },
+    "Cruising": {
+      "id": 27958,
+      "poster": "/bb9CND0WyfwdHOZY5XmP4Qn8taz.jpg",
+      "title": "Cruising",
+      "year": 1980
+    },
+    "La Vie en Rose": {
+      "id": 1407,
+      "poster": "/3b9DAONAsFRhJKu25R33PE3VwDh.jpg",
+      "title": "La Vie en Rose",
+      "year": 2007
+    },
+    "The Dark Knight Rises": {
+      "id": 49026,
+      "poster": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+      "title": "The Dark Knight Rises",
+      "year": 2012
+    },
+    "Iron Man": {
+      "id": 1726,
+      "poster": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "title": "Iron Man",
+      "year": 2008
+    },
+    "Mufasa: The Lion King": {
+      "id": 762509,
+      "poster": "/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg",
+      "title": "Mufasa: The Lion King",
+      "year": 2024
+    },
+    "The Lion King": {
+      "id": 8587,
+      "poster": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+      "title": "The Lion King",
+      "year": 1994
+    },
+    "If Beale Street Could Talk": {
+      "id": 465914,
+      "poster": "/76NfwnaZI43gOQove0LU9O23Qjz.jpg",
+      "title": "If Beale Street Could Talk",
+      "year": 2018
+    },
+    "Challengers": {
+      "id": 937287,
+      "poster": "/H6vke7zGiuLsz4v4RPeReb9rsv.jpg",
+      "title": "Challengers",
+      "year": 2024
+    },
+    "Gladiator II": {
+      "id": 558449,
+      "poster": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+      "title": "Gladiator II",
+      "year": 2024
+    },
+    "Lincoln": {
+      "id": 72976,
+      "poster": "/7mUYEkv9W3ek61eetZCfMQYVoi.jpg",
+      "title": "Lincoln",
+      "year": 2012
+    },
+    "Captain America: Brave New World": {
+      "id": 822119,
+      "poster": "/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
+      "title": "Captain America: Brave New World",
+      "year": 2025
+    },
+    "The Greatest Showman": {
+      "id": 316029,
+      "poster": "/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg",
+      "title": "The Greatest Showman",
+      "year": 2017
+    },
+    "The Hobbit: The Desolation of Smaug": {
+      "id": 57158,
+      "poster": "/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg",
+      "title": "The Hobbit: The Desolation of Smaug",
+      "year": 2013
+    },
+    "Becoming Led Zeppelin": {
+      "id": 857800,
+      "poster": "/cAxteOtjaeQN045qNNbSEwu78c4.jpg",
+      "title": "Becoming Led Zeppelin",
+      "year": 2025
+    },
+    "Witness": {
+      "id": 9281,
+      "poster": "/kOymD1rChAMykmDVEzJpIh4OYS7.jpg",
+      "title": "Witness",
+      "year": 1985
+    },
+    "The Mosquito Coast": {
+      "id": 11120,
+      "poster": "/8A1iDYSp8H5WORWZVCV3E3SpkGD.jpg",
+      "title": "The Mosquito Coast",
+      "year": 1986
+    },
+    "Master and Commander: The Far Side of the World": {
+      "id": 8619,
+      "poster": "/s1cVTQEZYn4nSjZLnFbzLP0j8y2.jpg",
+      "title": "Master and Commander: The Far Side of the World",
+      "year": 2003
+    },
+    "White Squall": {
+      "id": 10534,
+      "poster": "/5xF4qy44Lvv68glS7eHWH7laTqt.jpg",
+      "title": "White Squall",
+      "year": 1996
+    },
+    "Picnic at Hanging Rock": {
+      "id": 11020,
+      "poster": "/7BAXwmFN4pZDNb9N6kzmAAwdssi.jpg",
+      "title": "Picnic at Hanging Rock",
+      "year": 1975
+    },
+    "The Last Wave": {
+      "id": 72277,
+      "poster": "/7UwdJ0EMXirUuNFaohfK023Nuyr.jpg",
+      "title": "The Last Wave",
+      "year": 1977
+    },
+    "Fearless": {
+      "id": 10443,
+      "poster": "/sFhzvwgv04VUmedB7pOO4cMP9xq.jpg",
+      "title": "Fearless",
+      "year": 1993
+    },
+    "Dead Poets Society": {
+      "id": 207,
+      "poster": "/erzbMlcNHOdx24AXOcn2ZKA7R1q.jpg",
+      "title": "Dead Poets Society",
+      "year": 1989
+    },
+    "The Way Back": {
+      "id": 49009,
+      "poster": "/xQ6hxfpD5XQGJz0ekVle5zegam7.jpg",
+      "title": "The Way Back",
+      "year": 2010
+    },
+    "The Truman Show": {
+      "id": 37165,
+      "poster": "/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+      "title": "The Truman Show",
+      "year": 1998
+    },
+    "The Caine Mutiny": {
+      "id": 10178,
+      "poster": "/vuO4Z3wOWVlhq35MS9asZeT9rVp.jpg",
+      "title": "The Caine Mutiny",
+      "year": 1954
+    },
+    "The Bounty": {
+      "id": 2669,
+      "poster": "/hXFXIc6F4NXI5emWCKcUwqEPjIZ.jpg",
+      "title": "The Bounty",
+      "year": 1984
+    },
+    "Open Range": {
+      "id": 2055,
+      "poster": "/1mrNc88NrUEGtMtat4FD7sfpFrW.jpg",
+      "title": "Open Range",
+      "year": 2003
+    },
+    "Horizon: An American Saga - Chapter 2": {
+      "id": 1120368,
+      "poster": "/2Ot7mpKYgqZfkGRaeV2kaHqKFkS.jpg",
+      "title": "Horizon: An American Saga - Chapter 2",
+      "year": 2024
+    },
+    "Dances with Wolves": {
+      "id": 581,
+      "poster": "/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg",
+      "title": "Dances with Wolves",
+      "year": 1990
+    },
+    "Lawrence of Arabia": {
+      "id": 947,
+      "poster": "/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg",
+      "title": "Lawrence of Arabia",
+      "year": 1962
+    },
+    "The Lord of the Rings: The Fellowship of the Ring": {
+      "id": 120,
+      "poster": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001
+    },
+    "It's a Wonderful Life": {
+      "id": 1585,
+      "poster": "/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+      "title": "It's a Wonderful Life",
+      "year": 1946
+    },
+    "The Odyssey": {
+      "id": 1368337,
+      "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "title": "The Odyssey",
+      "year": 2026
+    }
+  },
+  "spotifyEpisodeId": "1eE3xaWEaBudiY0AwaJOir"
+}

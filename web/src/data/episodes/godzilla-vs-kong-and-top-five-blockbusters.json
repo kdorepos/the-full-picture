@@ -1,0 +1,635 @@
+{
+  "slug": "godzilla-vs-kong-and-top-five-blockbusters",
+  "title": "‘Godzilla vs. Kong’ and Top Five Blockbusters",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Shea Serrano"
+  ],
+  "published": "2021-04-01",
+  "runtimeMin": 82,
+  "format": "Sean, Amanda, and Shea Serrano watch the first blockbuster of 2021, then each pick their five favorite blockbusters ever.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘Godzilla vs. Kong’",
+      "note": "on HBO Max",
+      "films": [
+        {
+          "title": "Godzilla vs. Kong",
+          "year": 2021,
+          "note": "A 31-minute closing fight and not much reason for the rest. Amanda recaps the plot at length; the crew agrees Kong wins, and Rebecca Hall gets stuck saying things like \"depth charges\" and \"there can't be two alpha Titans.\""
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Shea Serrano's Top Five Blockbusters",
+      "subject": "Blockbusters",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Furious 7",
+          "year": 2015,
+          "note": "No. 1 - the Paul Walker goodbye and the Wiz Khalifa song had the whole family crying."
+        },
+        {
+          "title": "Get Out",
+          "year": 2017,
+          "note": "The theater went dead silent at the police lights, then cheered when the door opened on Rod."
+        },
+        {
+          "title": "Creed",
+          "year": 2015,
+          "note": "The Rocky theme drops before the last round and Shea, his wife, and his uncles were all in tears."
+        },
+        {
+          "title": "Jurassic World",
+          "year": 2015,
+          "note": "Blue comes running back for the fight - his fourth-favorite theater experience."
+        },
+        {
+          "title": "Mortal Kombat",
+          "year": 1995,
+          "note": "Paul W.S. Anderson; his fifth-best moviegoing day ever. \"The best video game movie that's ever been made.\""
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Amanda Dobbins's Top Five Blockbusters",
+      "subject": "Blockbusters",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Jurassic Park",
+          "year": 1993,
+          "note": "No. 1 - eight-or-nine-year-old Amanda watching the dinosaurs come to life; read the book first."
+        },
+        {
+          "title": "Titanic",
+          "year": 1997,
+          "note": "Obvious and not: Bill Paxton's underwater robot, a Best Picture win, and Cameron the goat."
+        },
+        {
+          "title": "Fast Five",
+          "year": 2011,
+          "note": "Her religious experience - they drag a safe through Rio for 20 minutes."
+        },
+        {
+          "title": "Top Gun",
+          "year": 1986,
+          "note": "The Iliad with fighter planes; she'll cry when the theme plays for the sequel."
+        },
+        {
+          "title": "Independence Day",
+          "year": 1996,
+          "note": "Her disaster and alien slot - '90s Will Smith and the White House laser."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Sean Fennessey's Top Five Blockbusters",
+      "subject": "Blockbusters",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Terminator 2: Judgment Day",
+          "year": 1991,
+          "note": "No. 1 - the blockbuster template; effects that still hold up."
+        },
+        {
+          "title": "Mission: Impossible",
+          "year": 1996,
+          "note": "A late swap in for Die Hard - Brian De Palma handed a reboot and the silent Langley heist."
+        },
+        {
+          "title": "Mad Max: Fury Road",
+          "year": 2015,
+          "note": "Seen alone at a 10 a.m. show on a sugar high; \"strangle you while feeding you cocaine.\""
+        },
+        {
+          "title": "The Fugitive",
+          "year": 1993,
+          "note": "Simple story, Harrison Ford at his most virile, Tommy Lee Jones's Oscar."
+        },
+        {
+          "title": "Speed",
+          "year": 1994,
+          "note": "A tight elevator pitch, then gifted actors saying silly stuff, just like the main event."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Around the review",
+      "films": [
+        "Kong: Skull Island",
+        "Godzilla: King of the Monsters",
+        "Congo",
+        "Rampage",
+        "Mighty Joe Young",
+        "The Truman Show",
+        "Passing",
+        "Deadpool 2",
+        "Hunt for the Wilderpeople",
+        "Best of the Best",
+        "Star Wars: The Rise of Skywalker",
+        "Zack Snyder's Justice League",
+        "Requiem for a Dream",
+        "Fruitvale Station",
+        "Black Panther",
+        "Judas and the Black Messiah"
+      ]
+    },
+    {
+      "group": "Blockbuster asides and honorable mentions",
+      "films": [
+        "Die Hard",
+        "Spider-Man 2",
+        "Avengers: Endgame",
+        "Joker",
+        "A Few Good Men",
+        "Ocean's Twelve",
+        "The Poseidon Adventure",
+        "Event Horizon",
+        "The Matrix",
+        "The Meg",
+        "Apollo 13",
+        "The Hunt for Red October",
+        "Crimson Tide",
+        "Armageddon",
+        "Men in Black",
+        "Alien",
+        "Aliens",
+        "E.T. the Extra-Terrestrial",
+        "Mission: Impossible - Fallout",
+        "Mission: Impossible - Ghost Protocol",
+        "Raiders of the Lost Ark",
+        "Skyfall",
+        "Wonder Woman",
+        "The Bourne Identity",
+        "Jason Bourne",
+        "U.S. Marshals",
+        "The Hunted",
+        "No Country for Old Men",
+        "The Cable Guy",
+        "Ghostbusters",
+        "Face/Off",
+        "Jaws",
+        "The Lost World: Jurassic Park",
+        "Jurassic Park III",
+        "As Tears Go By"
+      ]
+    },
+    {
+      "group": "Coming soon (unreleased at recording)",
+      "films": [
+        "Top Gun: Maverick",
+        "Avatar: The Way of Water"
+      ]
+    }
+  ],
+  "excluded": {
+    "Games": [
+      "Mortal Kombat (video game)",
+      "FIFA World Cup (Netflix game)"
+    ],
+    "Ads": [
+      "Netflix",
+      "Boar's Head",
+      "Carvana",
+      "FanDuel",
+      "Priceline",
+      "Uber",
+      "Storm",
+      "Mint Mobile"
+    ],
+    "Podcasts": [
+      "Every Single Album (Taylor Swift)"
+    ]
+  },
+  "tmdbOverrides": {
+    "Ghostbusters": 620
+  },
+  "tmdb": {
+    "Godzilla vs. Kong": {
+      "id": 399566,
+      "poster": "/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+      "title": "Godzilla vs. Kong",
+      "year": 2021
+    },
+    "Furious 7": {
+      "id": 168259,
+      "poster": "/ktofZ9Htrjiy0P6LEowsDaxd3Ri.jpg",
+      "title": "Furious 7",
+      "year": 2015
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Creed": {
+      "id": 312221,
+      "poster": "/1BfTsk5VWuw8FCocAhCyqnRbEzq.jpg",
+      "title": "Creed",
+      "year": 2015
+    },
+    "Jurassic World": {
+      "id": 135397,
+      "poster": "/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
+      "title": "Jurassic World",
+      "year": 2015
+    },
+    "Mortal Kombat": {
+      "id": 9312,
+      "poster": "/9YhpvhhvLrtL1wlwEfpVL16GI9d.jpg",
+      "title": "Mortal Kombat",
+      "year": 1995
+    },
+    "Jurassic Park": {
+      "id": 329,
+      "poster": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "title": "Jurassic Park",
+      "year": 1993
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "Fast Five": {
+      "id": 51497,
+      "poster": "/gEfQjjQwY7fh5bI4GlG0RrBu7Pz.jpg",
+      "title": "Fast Five",
+      "year": 2011
+    },
+    "Top Gun": {
+      "id": 744,
+      "poster": "/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+      "title": "Top Gun",
+      "year": 1986
+    },
+    "Independence Day": {
+      "id": 602,
+      "poster": "/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg",
+      "title": "Independence Day",
+      "year": 1996
+    },
+    "Terminator 2: Judgment Day": {
+      "id": 280,
+      "poster": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991
+    },
+    "Mission: Impossible": {
+      "id": 954,
+      "poster": "/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
+      "title": "Mission: Impossible",
+      "year": 1996
+    },
+    "Mad Max: Fury Road": {
+      "id": 76341,
+      "poster": "/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+      "title": "Mad Max: Fury Road",
+      "year": 2015
+    },
+    "The Fugitive": {
+      "id": 5503,
+      "poster": "/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg",
+      "title": "The Fugitive",
+      "year": 1993
+    },
+    "Speed": {
+      "id": 1637,
+      "poster": "/82PkCE4R95KhHICUDF7G4Ly2z3l.jpg",
+      "title": "Speed",
+      "year": 1994
+    },
+    "Kong: Skull Island": {
+      "id": 293167,
+      "poster": "/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg",
+      "title": "Kong: Skull Island",
+      "year": 2017
+    },
+    "Godzilla: King of the Monsters": {
+      "id": 373571,
+      "poster": "/mzOHg7Q5q9yUmY0b9Esu8Qe6Nnm.jpg",
+      "title": "Godzilla: King of the Monsters",
+      "year": 2019
+    },
+    "Congo": {
+      "id": 10329,
+      "poster": "/hPNSToNIIpRO6y5Rh973leqQqNr.jpg",
+      "title": "Congo",
+      "year": 1995
+    },
+    "Rampage": {
+      "id": 427641,
+      "poster": "/MGADip4thVSErP34FAAfzFBTZ5.jpg",
+      "title": "Rampage",
+      "year": 2018
+    },
+    "Mighty Joe Young": {
+      "id": 9822,
+      "poster": "/jM39MOyLOxCD6Njz4vfQkGaKkY1.jpg",
+      "title": "Mighty Joe Young",
+      "year": 1998
+    },
+    "The Truman Show": {
+      "id": 37165,
+      "poster": "/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+      "title": "The Truman Show",
+      "year": 1998
+    },
+    "Passing": {
+      "id": 541524,
+      "poster": "/t4tYUT1oSWOP6XKZBoclPAG96KP.jpg",
+      "title": "Passing",
+      "year": 2021
+    },
+    "Deadpool 2": {
+      "id": 383498,
+      "poster": "/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+      "title": "Deadpool 2",
+      "year": 2018
+    },
+    "Hunt for the Wilderpeople": {
+      "id": 371645,
+      "poster": "/hkmz9rxgcweizXNElozGeKwmAJE.jpg",
+      "title": "Hunt for the Wilderpeople",
+      "year": 2016
+    },
+    "Best of the Best": {
+      "id": 238751,
+      "poster": "/jB1I9LihBFKzJlRhpOPzbEXdgKc.jpg",
+      "title": "Best of the Best",
+      "year": 1989
+    },
+    "Star Wars: The Rise of Skywalker": {
+      "id": 181812,
+      "poster": "/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+      "title": "Star Wars: The Rise of Skywalker",
+      "year": 2019
+    },
+    "Zack Snyder's Justice League": {
+      "id": 791373,
+      "poster": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+      "title": "Zack Snyder's Justice League",
+      "year": 2021
+    },
+    "Requiem for a Dream": {
+      "id": 641,
+      "poster": "/9BTwsLaMVHOGFlmsSlx5QYCaXb.jpg",
+      "title": "Requiem for a Dream",
+      "year": 2000
+    },
+    "Fruitvale Station": {
+      "id": 157354,
+      "poster": "/oXSy3nEKFtfw5iRxdG8ouEFAnxs.jpg",
+      "title": "Fruitvale Station",
+      "year": 2013
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "Judas and the Black Messiah": {
+      "id": 583406,
+      "poster": "/iIgr75GoqFxe1X5Wz9siOODGe9u.jpg",
+      "title": "Judas and the Black Messiah",
+      "year": 2021
+    },
+    "Die Hard": {
+      "id": 562,
+      "poster": "/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg",
+      "title": "Die Hard",
+      "year": 1988
+    },
+    "Spider-Man 2": {
+      "id": 558,
+      "poster": "/aGuvNAaaZuWXYQQ6N2v7DeuP6mB.jpg",
+      "title": "Spider-Man 2",
+      "year": 2004
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Joker": {
+      "id": 475557,
+      "poster": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "title": "Joker",
+      "year": 2019
+    },
+    "A Few Good Men": {
+      "id": 881,
+      "poster": "/rLOk4z9zL1tTukIYV56P94aZXKk.jpg",
+      "title": "A Few Good Men",
+      "year": 1992
+    },
+    "Ocean's Twelve": {
+      "id": 163,
+      "poster": "/pE5anFf7nf6ah7V3VRezQ1KSovi.jpg",
+      "title": "Ocean's Twelve",
+      "year": 2004
+    },
+    "The Poseidon Adventure": {
+      "id": 551,
+      "poster": "/6RGiA5BfhelU9zoD0b1GAG4GWWf.jpg",
+      "title": "The Poseidon Adventure",
+      "year": 1972
+    },
+    "Event Horizon": {
+      "id": 8413,
+      "poster": "/cHoeg3gAD5w63Et5DImY1Jb7HaO.jpg",
+      "title": "Event Horizon",
+      "year": 1997
+    },
+    "The Matrix": {
+      "id": 603,
+      "poster": "/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+      "title": "The Matrix",
+      "year": 1999
+    },
+    "The Meg": {
+      "id": 345940,
+      "poster": "/eyWICPcxOuTcDDDbTMOZawoOn8d.jpg",
+      "title": "The Meg",
+      "year": 2018
+    },
+    "Apollo 13": {
+      "id": 568,
+      "poster": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+      "title": "Apollo 13",
+      "year": 1995
+    },
+    "The Hunt for Red October": {
+      "id": 1669,
+      "poster": "/yVl7zidse4KiWtGMqHFtZCx4X3N.jpg",
+      "title": "The Hunt for Red October",
+      "year": 1990
+    },
+    "Crimson Tide": {
+      "id": 8963,
+      "poster": "/21nqRJ6ofEgVvEl68J4O9V26Xzy.jpg",
+      "title": "Crimson Tide",
+      "year": 1995
+    },
+    "Armageddon": {
+      "id": 95,
+      "poster": "/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg",
+      "title": "Armageddon",
+      "year": 1998
+    },
+    "Men in Black": {
+      "id": 607,
+      "poster": "/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg",
+      "title": "Men in Black",
+      "year": 1997
+    },
+    "Alien": {
+      "id": 348,
+      "poster": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "title": "Alien",
+      "year": 1979
+    },
+    "Aliens": {
+      "id": 679,
+      "poster": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "title": "Aliens",
+      "year": 1986
+    },
+    "E.T. the Extra-Terrestrial": {
+      "id": 601,
+      "poster": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+      "title": "E.T. the Extra-Terrestrial",
+      "year": 1982
+    },
+    "Mission: Impossible - Fallout": {
+      "id": 353081,
+      "poster": "/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+      "title": "Mission: Impossible - Fallout",
+      "year": 2018
+    },
+    "Mission: Impossible - Ghost Protocol": {
+      "id": 56292,
+      "poster": "/eRZTGx7GsiKqPch96k27LK005ZL.jpg",
+      "title": "Mission: Impossible - Ghost Protocol",
+      "year": 2011
+    },
+    "Raiders of the Lost Ark": {
+      "id": 85,
+      "poster": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+      "title": "Raiders of the Lost Ark",
+      "year": 1981
+    },
+    "Skyfall": {
+      "id": 37724,
+      "poster": "/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
+      "title": "Skyfall",
+      "year": 2012
+    },
+    "Wonder Woman": {
+      "id": 297762,
+      "poster": "/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+      "title": "Wonder Woman",
+      "year": 2017
+    },
+    "The Bourne Identity": {
+      "id": 2501,
+      "poster": "/aP8swke3gmowbkfZ6lmNidu0y9p.jpg",
+      "title": "The Bourne Identity",
+      "year": 2002
+    },
+    "Jason Bourne": {
+      "id": 324668,
+      "poster": "/xA7N41glw17MBQtcWSm2eBlBRuG.jpg",
+      "title": "Jason Bourne",
+      "year": 2016
+    },
+    "U.S. Marshals": {
+      "id": 11808,
+      "poster": "/5ST0BydDSXtW5AtfDDhTVS13pTt.jpg",
+      "title": "U.S. Marshals",
+      "year": 1998
+    },
+    "The Hunted": {
+      "id": 10632,
+      "poster": "/AvdBPe2XSKm3cGyTKFgbquC2jCo.jpg",
+      "title": "The Hunted",
+      "year": 2003
+    },
+    "No Country for Old Men": {
+      "id": 6977,
+      "poster": "/uB7RDZby43Wvu8SKGHHTwGyTDBX.jpg",
+      "title": "No Country for Old Men",
+      "year": 2007
+    },
+    "The Cable Guy": {
+      "id": 9894,
+      "poster": "/YJt9l3RdrRohI95btQKPXwpdii.jpg",
+      "title": "The Cable Guy",
+      "year": 1996
+    },
+    "Ghostbusters": {
+      "id": 620,
+      "poster": "/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
+      "title": "Ghostbusters",
+      "year": 1984
+    },
+    "Face/Off": {
+      "id": 754,
+      "poster": "/69Xzn8UdPbVnmqSChKz2RTpoNfB.jpg",
+      "title": "Face/Off",
+      "year": 1997
+    },
+    "Jaws": {
+      "id": 578,
+      "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "title": "Jaws",
+      "year": 1975
+    },
+    "The Lost World: Jurassic Park": {
+      "id": 330,
+      "poster": "/7st3JW0xpMAkwB3dYfv3iqAwD8Y.jpg",
+      "title": "The Lost World: Jurassic Park",
+      "year": 1997
+    },
+    "Jurassic Park III": {
+      "id": 331,
+      "poster": "/oQXj4NUfS3r3gHXtDOzcJgj1lLc.jpg",
+      "title": "Jurassic Park III",
+      "year": 2001
+    },
+    "As Tears Go By": {
+      "id": 24163,
+      "poster": "/5xMtbxqRXOMO0ovvhAyU4y4JI1E.jpg",
+      "title": "As Tears Go By",
+      "year": 1988
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Avatar: The Way of Water": {
+      "id": 76600,
+      "poster": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "title": "Avatar: The Way of Water",
+      "year": 2022
+    }
+  }
+}

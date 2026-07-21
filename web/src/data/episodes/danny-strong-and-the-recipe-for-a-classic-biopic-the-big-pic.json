@@ -1,0 +1,345 @@
+{
+  "slug": "danny-strong-and-the-recipe-for-a-classic-biopic-the-big-pic",
+  "title": "Danny Strong and the Recipe for a Classic Biopic | The Big Picture (Ep. 25)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Chris Ryan"
+  ],
+  "published": "2017-09-15",
+  "runtimeMin": 35,
+  "format": "Sean Fennessey and Chris Ryan try to define the biopic through their favorite examples, then Fennessey talks to writer-director Danny Strong about his J.D. Salinger film Rebel in the Rye.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "What makes a biopic",
+      "note": "Sean Fennessey and Chris Ryan on the form",
+      "films": [
+        {
+          "title": "Malcolm X",
+          "year": 1992,
+          "note": "Ryan's favorite biopic and, to him, Spike Lee's Citizen Kane; an act of subjective biography carried by Denzel Washington."
+        },
+        {
+          "title": "Citizen Kane",
+          "year": 1941,
+          "note": "Held up as the stylized end of the spectrum against Malcolm X's fictionalized one."
+        },
+        {
+          "title": "Ray",
+          "year": 2004,
+          "note": "The default template: name in the title, childhood trauma, rise-fall-rise across a whole life."
+        },
+        {
+          "title": "Straight Outta Compton",
+          "year": 2015,
+          "note": "A hit that captures only a narrow slice of its subjects' lives."
+        },
+        {
+          "title": "Raging Bull",
+          "year": 1980,
+          "note": "The opposite scope: roughly a 40-year span of one man."
+        },
+        {
+          "title": "The Imitation Game",
+          "year": 2014,
+          "note": "Reads more like a procedural than a biography: the task, not the character."
+        },
+        {
+          "title": "Steve Jobs",
+          "year": 2015,
+          "note": "Skips the usual expository life story and stages the man across three product launches; a Sorkin favorite of both hosts."
+        },
+        {
+          "title": "Molly's Game",
+          "year": 2017,
+          "note": "Named as the next Sorkin, still to come."
+        },
+        {
+          "title": "The Assassination of Jesse James by the Coward Robert Ford",
+          "year": 2007,
+          "note": "A film about the mythology of a person, told through someone else's eyes."
+        },
+        {
+          "title": "Wyatt Earp",
+          "year": 1994,
+          "note": "Ryan's soft spot: Costner's life's-work Western, admired for how unconcerned it is with being cool; overshadowed by Tombstone."
+        },
+        {
+          "title": "Tombstone",
+          "year": 1993,
+          "note": "The quotable, rewatchable counterpart with Val Kilmer."
+        },
+        {
+          "title": "Amadeus",
+          "year": 1984,
+          "note": "Forman's portrait of a fascinating but not good man: Mozart as a frothy fool at war with Salieri."
+        },
+        {
+          "title": "The People vs. Larry Flynt",
+          "year": 1996,
+          "note": "Same director, Milos Forman, drawn to grand eccentrics."
+        },
+        {
+          "title": "Ed Wood",
+          "year": 1994,
+          "note": "Ryan's number-one example of loving portrayal: Burton and Depp make a failure the hero; the last good Burton movie."
+        },
+        {
+          "title": "Lincoln",
+          "year": 2012,
+          "note": "Great filmmaking that mostly confirms what we already knew about its subject."
+        },
+        {
+          "title": "Lawrence of Arabia",
+          "year": 1962,
+          "note": "A perfect movie Ryan struggles to place: is it about the man or the grandeur of widescreen cinema?"
+        },
+        {
+          "title": "24 Hour Party People",
+          "year": 2002,
+          "note": "Ryan's pick: Tony Wilson riding the post-punk and Manchester dance music wave."
+        },
+        {
+          "title": "Milk",
+          "year": 2008,
+          "note": "The kindred film: a subject caught in the middle of a great cultural upheaval."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Danny Strong on Rebel in the Rye",
+      "guest": "Danny Strong on",
+      "films": [
+        {
+          "title": "Rebel in the Rye",
+          "year": 2017,
+          "note": "His directorial debut, on the middle stretch of J.D. Salinger's life: the war, the trauma, the writing of Catcher in the Rye. He optioned the biography himself, wrote on spec, and recut significantly after Sundance."
+        },
+        {
+          "title": "Salinger",
+          "year": 2013,
+          "note": "The documentary he feared would make his film irrelevant; it turned out birth-to-death and completely different from his period piece."
+        },
+        {
+          "title": "The Best of Enemies",
+          "year": 2019,
+          "note": "He's producing it: Taraji P. Henson and Sam Rockwell, Robin Bissell's directing debut; the first cut made him cry."
+        },
+        {
+          "title": "Battle of the Sexes",
+          "year": 2017,
+          "note": "Caught a screening and expects people to like it."
+        },
+        {
+          "title": "Seabiscuit",
+          "year": 2003,
+          "note": "Bissell's producing credit, part of why Strong came aboard The Best of Enemies."
+        },
+        {
+          "title": "The Hunger Games: Mockingjay - Part 1",
+          "year": 2014,
+          "note": "One of the studio assignments that kept pushing the Salinger movie back."
+        },
+        {
+          "title": "The Hunger Games: Mockingjay - Part 2",
+          "year": 2015,
+          "note": "After finishing it he turned down about ten offers to go write Rebel in the Rye."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Django Unchained",
+        "King Arthur: Legend of the Sword"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV / TV movies": [
+      "Empire",
+      "Buffy the Vampire Slayer",
+      "Billions",
+      "Recount",
+      "Game Change"
+    ],
+    "Unmade projects": [
+      "Guys and Dolls",
+      "The Da Vinci Code"
+    ],
+    "Podcast ad reads": [
+      "The Watch",
+      "Black on the Air"
+    ]
+  },
+  "tmdb": {
+    "Malcolm X": {
+      "id": 1883,
+      "poster": "/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
+      "title": "Malcolm X",
+      "year": 1992
+    },
+    "Citizen Kane": {
+      "id": 15,
+      "poster": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+      "title": "Citizen Kane",
+      "year": 1941
+    },
+    "Ray": {
+      "id": 1677,
+      "poster": "/tSPC7sO2XYNL9QcMmK88tuUALL5.jpg",
+      "title": "Ray",
+      "year": 2004
+    },
+    "Straight Outta Compton": {
+      "id": 277216,
+      "poster": "/1CiLJx8Xtv3TbbFj6k7BboSmKgC.jpg",
+      "title": "Straight Outta Compton",
+      "year": 2015
+    },
+    "Raging Bull": {
+      "id": 1578,
+      "poster": "/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
+      "title": "Raging Bull",
+      "year": 1980
+    },
+    "The Imitation Game": {
+      "id": 205596,
+      "poster": "/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg",
+      "title": "The Imitation Game",
+      "year": 2014
+    },
+    "Steve Jobs": {
+      "id": 321697,
+      "poster": "/ljiRO29Y9khEERRqMluptUYunJ9.jpg",
+      "title": "Steve Jobs",
+      "year": 2015
+    },
+    "Molly's Game": {
+      "id": 396371,
+      "poster": "/zrGQwKNmAz5awZI2V1k5M4eTTTN.jpg",
+      "title": "Molly's Game",
+      "year": 2017
+    },
+    "The Assassination of Jesse James by the Coward Robert Ford": {
+      "id": 4512,
+      "poster": "/xMKn6EQS7eR5ubhPJbw5pQSBZMw.jpg",
+      "title": "The Assassination of Jesse James by the Coward Robert Ford",
+      "year": 2007
+    },
+    "Wyatt Earp": {
+      "id": 12160,
+      "poster": "/51LItgyecu2KMAtIchYogEykCIu.jpg",
+      "title": "Wyatt Earp",
+      "year": 1994
+    },
+    "Tombstone": {
+      "id": 11969,
+      "poster": "/wGFCvylul8iEQhJOKfwZGGvXMzA.jpg",
+      "title": "Tombstone",
+      "year": 1993
+    },
+    "Amadeus": {
+      "id": 279,
+      "poster": "/gQRfiyfGvr1az0quaYyMram3Aqt.jpg",
+      "title": "Amadeus",
+      "year": 1984
+    },
+    "The People vs. Larry Flynt": {
+      "id": 1630,
+      "poster": "/sAgHn7ys6TiVXBDTZ0UBEjinIUk.jpg",
+      "title": "The People vs. Larry Flynt",
+      "year": 1996
+    },
+    "Ed Wood": {
+      "id": 522,
+      "poster": "/n8SrO3WbyuY2b6KazogqbQF348C.jpg",
+      "title": "Ed Wood",
+      "year": 1994
+    },
+    "Lincoln": {
+      "id": 72976,
+      "poster": "/7mUYEkv9W3ek61eetZCfMQYVoi.jpg",
+      "title": "Lincoln",
+      "year": 2012
+    },
+    "Lawrence of Arabia": {
+      "id": 947,
+      "poster": "/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg",
+      "title": "Lawrence of Arabia",
+      "year": 1962
+    },
+    "24 Hour Party People": {
+      "id": 2750,
+      "poster": "/8f50NQ1wz6hdxfCISCPV8XQ6DII.jpg",
+      "title": "24 Hour Party People",
+      "year": 2002
+    },
+    "Milk": {
+      "id": 10139,
+      "poster": "/ot4ImF4b7QbS6XsTdMH3pWxNmX2.jpg",
+      "title": "Milk",
+      "year": 2008
+    },
+    "Rebel in the Rye": {
+      "id": 390056,
+      "poster": "/fjmMtBIqg65MPOJXOtoLCKYjVUn.jpg",
+      "title": "Rebel in the Rye",
+      "year": 2017
+    },
+    "Salinger": {
+      "id": 180314,
+      "poster": "/8CHW5pVab9qXKF0PJORepsndZf7.jpg",
+      "title": "Salinger",
+      "year": 2013
+    },
+    "The Best of Enemies": {
+      "id": 458131,
+      "poster": "/4pA9318BY7CSnXVi3xKBtPYMe1T.jpg",
+      "title": "The Best of Enemies",
+      "year": 2019
+    },
+    "Battle of the Sexes": {
+      "id": 369192,
+      "poster": "/fWy0A3VojTCb0S2MKtEJjpquubF.jpg",
+      "title": "Battle of the Sexes",
+      "year": 2017
+    },
+    "Seabiscuit": {
+      "id": 4464,
+      "poster": "/5m7NfZvxYsSm2YBCJ2VPQf8ziKr.jpg",
+      "title": "Seabiscuit",
+      "year": 2003
+    },
+    "The Hunger Games: Mockingjay - Part 1": {
+      "id": 131631,
+      "poster": "/4FAA18ZIja70d1Tu5hr5cj2q1sB.jpg",
+      "title": "The Hunger Games: Mockingjay - Part 1",
+      "year": 2014
+    },
+    "The Hunger Games: Mockingjay - Part 2": {
+      "id": 131634,
+      "poster": "/lImKHDfExAulp16grYm8zD5eONE.jpg",
+      "title": "The Hunger Games: Mockingjay - Part 2",
+      "year": 2015
+    },
+    "Django Unchained": {
+      "id": 68718,
+      "poster": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+      "title": "Django Unchained",
+      "year": 2012
+    },
+    "King Arthur: Legend of the Sword": {
+      "id": 274857,
+      "poster": "/9kKXH6eJpzoFGhCbTN3FVwSQK3n.jpg",
+      "title": "King Arthur: Legend of the Sword",
+      "year": 2017
+    }
+  },
+  "spotifyEpisodeId": "5wD06C6stqvXhpUi2jyxmm"
+}

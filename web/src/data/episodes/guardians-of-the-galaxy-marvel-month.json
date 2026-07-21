@@ -1,0 +1,363 @@
+{
+  "slug": "guardians-of-the-galaxy-marvel-month",
+  "title": "'Guardians of the Galaxy' | Marvel Month",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "David Shoemaker"
+  ],
+  "published": "2019-04-12",
+  "runtimeMin": 65,
+  "format": "Sean Fennessey and David Shoemaker open Marvel Month on the film they call the MCU's best, getting into James Gunn's needle-drops, the odd cast, and the math of a good MacGuffin.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "'Guardians of the Galaxy'",
+      "note": "Marvel Month",
+      "films": [
+        {
+          "title": "Guardians of the Galaxy",
+          "year": 2014,
+          "note": "The hosts call it the point where Marvel's tone clicked. It's a straight sci-fi movie that plays its silliness earnest, launched Chris Pratt and Dave Bautista, and set up the whole Infinity War saga without saying so. Gunn co-wrote it with Nicole Perlman off her Marvel Writing Academy draft."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Elsewhere in the MCU",
+      "films": [
+        "Iron Man",
+        "The Avengers",
+        "Captain America: The Winter Soldier",
+        "Captain Marvel",
+        "Avengers: Endgame",
+        "Guardians of the Galaxy Vol. 2"
+      ]
+    },
+    {
+      "group": "The James Gunn filmography",
+      "films": [
+        "Slither",
+        "Super",
+        "Tromeo and Juliet",
+        "The Specials",
+        "Scooby-Doo",
+        "Scooby-Doo 2: Monsters Unleashed",
+        "Dawn of the Dead",
+        "Brightburn",
+        "Suicide Squad"
+      ]
+    },
+    {
+      "group": "The cast, before and after",
+      "films": [
+        "Moneyball",
+        "Zero Dark Thirty",
+        "The Lego Movie",
+        "Passengers",
+        "The Scorpion King 3: Battle for Redemption",
+        "The Man with the Iron Fists",
+        "Riddick",
+        "Blade Runner 2049",
+        "Stuber",
+        "My Spy",
+        "Avatar",
+        "Aquaman",
+        "Shazam!"
+      ]
+    },
+    {
+      "group": "The influences and homages",
+      "films": [
+        "Raiders of the Lost Ark",
+        "The Maltese Falcon",
+        "The Usual Suspects",
+        "Back to the Future",
+        "Star Wars",
+        "Singin' in the Rain",
+        "Pulp Fiction",
+        "Dazed and Confused",
+        "Reservoir Dogs"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Mortal Engines",
+        "Howard the Duck"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Game of Thrones",
+      "Parks and Recreation",
+      "Boardwalk Empire",
+      "The Big Bang Theory",
+      "The Newsroom",
+      "Pushing Daisies",
+      "Max Headroom",
+      "Star Trek: The Next Generation"
+    ],
+    "Podcasts": [
+      "Binge Mode",
+      "Talk the Thrones",
+      "The Rewatchables"
+    ],
+    "Comics": [
+      "Secret Wars",
+      "Green Lantern"
+    ],
+    "Ads": [
+      "Old Spice"
+    ]
+  },
+  "tmdbOverrides": {
+    "Tromeo and Juliet": 16233,
+    "The Specials": 29015
+  },
+  "tmdb": {
+    "Guardians of the Galaxy": {
+      "id": 118340,
+      "poster": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "title": "Guardians of the Galaxy",
+      "year": 2014
+    },
+    "Iron Man": {
+      "id": 1726,
+      "poster": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "title": "Iron Man",
+      "year": 2008
+    },
+    "The Avengers": {
+      "id": 24428,
+      "poster": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "title": "The Avengers",
+      "year": 2012
+    },
+    "Captain America: The Winter Soldier": {
+      "id": 100402,
+      "poster": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+      "title": "Captain America: The Winter Soldier",
+      "year": 2014
+    },
+    "Captain Marvel": {
+      "id": 299537,
+      "poster": "/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+      "title": "Captain Marvel",
+      "year": 2019
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Guardians of the Galaxy Vol. 2": {
+      "id": 283995,
+      "poster": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+      "title": "Guardians of the Galaxy Vol. 2",
+      "year": 2017
+    },
+    "Slither": {
+      "id": 9035,
+      "poster": "/zNlJvCY3Pz7SE09Lf4G7uPs5XFZ.jpg",
+      "title": "Slither",
+      "year": 2006
+    },
+    "Super": {
+      "id": 45132,
+      "poster": "/jZrRMGSajZQehg8mz74A5A00L3.jpg",
+      "title": "Super",
+      "year": 2010
+    },
+    "Tromeo and Juliet": {
+      "id": 16233,
+      "poster": "/wqLSSp1PEzOeCQsLxzlySQUPZrK.jpg",
+      "title": "Tromeo & Juliet",
+      "year": 1996
+    },
+    "The Specials": {
+      "id": 29015,
+      "poster": "/kCoifvSC6tUa7Ia4YClf4npqjQp.jpg",
+      "title": "The Specials",
+      "year": 2000
+    },
+    "Scooby-Doo": {
+      "id": 9637,
+      "poster": "/mTAiBJGg8mqEfnYHHbi37ZoRSZm.jpg",
+      "title": "Scooby-Doo",
+      "year": 2002
+    },
+    "Scooby-Doo 2: Monsters Unleashed": {
+      "id": 11024,
+      "poster": "/5BrXCJrs22bR5KR6mLHluYo6y4m.jpg",
+      "title": "Scooby-Doo 2: Monsters Unleashed",
+      "year": 2004
+    },
+    "Dawn of the Dead": {
+      "id": 924,
+      "poster": "/ttquyxStEEctzghtA2f4PUGprDr.jpg",
+      "title": "Dawn of the Dead",
+      "year": 2004
+    },
+    "Brightburn": {
+      "id": 531309,
+      "poster": "/sJWwkYc9ajwnPRSkqj8Aue5JbKz.jpg",
+      "title": "Brightburn",
+      "year": 2019
+    },
+    "Suicide Squad": {
+      "id": 297761,
+      "poster": "/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg",
+      "title": "Suicide Squad",
+      "year": 2016
+    },
+    "Moneyball": {
+      "id": 60308,
+      "poster": "/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+      "title": "Moneyball",
+      "year": 2011
+    },
+    "Zero Dark Thirty": {
+      "id": 97630,
+      "poster": "/wNSdSSxowM3WIqmPJNg3RagYbwP.jpg",
+      "title": "Zero Dark Thirty",
+      "year": 2012
+    },
+    "The Lego Movie": {
+      "id": 137106,
+      "poster": "/lbctonEnewCYZ4FYoTZhs8cidAl.jpg",
+      "title": "The Lego Movie",
+      "year": 2014
+    },
+    "Passengers": {
+      "id": 274870,
+      "poster": "/jK9S6HANSf2no64v1x1HxfcpmcA.jpg",
+      "title": "Passengers",
+      "year": 2016
+    },
+    "The Scorpion King 3: Battle for Redemption": {
+      "id": 78049,
+      "poster": "/pmLWbxZhZADXk4gpzLiHs5blDkc.jpg",
+      "title": "The Scorpion King 3: Battle for Redemption",
+      "year": 2012
+    },
+    "The Man with the Iron Fists": {
+      "id": 97430,
+      "poster": "/nHgkRj6Igx3QsHmTyF4oAfBjAE7.jpg",
+      "title": "The Man with the Iron Fists",
+      "year": 2012
+    },
+    "Riddick": {
+      "id": 87421,
+      "poster": "/pUul9pGWOKT7X0smkTvsIEIQxcP.jpg",
+      "title": "Riddick",
+      "year": 2013
+    },
+    "Blade Runner 2049": {
+      "id": 335984,
+      "poster": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+      "title": "Blade Runner 2049",
+      "year": 2017
+    },
+    "Stuber": {
+      "id": 513045,
+      "poster": "/gqk7ndiGn9WUT5UDTm6KHwGTv3m.jpg",
+      "title": "Stuber",
+      "year": 2019
+    },
+    "My Spy": {
+      "id": 592834,
+      "poster": "/n2C6jRK9PtPIs99RQhKtqGlsnsO.jpg",
+      "title": "My Spy",
+      "year": 2020
+    },
+    "Avatar": {
+      "id": 19995,
+      "poster": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "title": "Avatar",
+      "year": 2009
+    },
+    "Aquaman": {
+      "id": 297802,
+      "poster": "/ufl63EFcc5XpByEV2Ecdw6WJZAI.jpg",
+      "title": "Aquaman",
+      "year": 2018
+    },
+    "Shazam!": {
+      "id": 287947,
+      "poster": "/xnopI5Xtky18MPhK40cZAGAOVeV.jpg",
+      "title": "Shazam!",
+      "year": 2019
+    },
+    "Raiders of the Lost Ark": {
+      "id": 85,
+      "poster": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+      "title": "Raiders of the Lost Ark",
+      "year": 1981
+    },
+    "The Maltese Falcon": {
+      "id": 963,
+      "poster": "/bf4o6Uzw5wqLjdKwRuiDrN1xyvl.jpg",
+      "title": "The Maltese Falcon",
+      "year": 1941
+    },
+    "The Usual Suspects": {
+      "id": 629,
+      "poster": "/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg",
+      "title": "The Usual Suspects",
+      "year": 1995
+    },
+    "Back to the Future": {
+      "id": 105,
+      "poster": "/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+      "title": "Back to the Future",
+      "year": 1985
+    },
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
+    },
+    "Singin' in the Rain": {
+      "id": 872,
+      "poster": "/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+      "title": "Singin' in the Rain",
+      "year": 1952
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "Dazed and Confused": {
+      "id": 9571,
+      "poster": "/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+      "title": "Dazed and Confused",
+      "year": 1993
+    },
+    "Reservoir Dogs": {
+      "id": 500,
+      "poster": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+      "title": "Reservoir Dogs",
+      "year": 1992
+    },
+    "Mortal Engines": {
+      "id": 428078,
+      "poster": "/gLhYg9NIvIPKVRTtvzCWnp1qJWG.jpg",
+      "title": "Mortal Engines",
+      "year": 2018
+    },
+    "Howard the Duck": {
+      "id": 10658,
+      "poster": "/eU0dWo8PJgsSAZFbcyHiUpuLSyW.jpg",
+      "title": "Howard the Duck",
+      "year": 1986
+    }
+  }
+}

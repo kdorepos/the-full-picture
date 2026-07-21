@@ -1,0 +1,144 @@
+{
+  "slug": "cults-sex-and-the-american-dream-in-wild-wild-country-i-the-",
+  "title": "Cults, Sex, and the American Dream in 'Wild Wild Country' I The Big Picture (Ep. 56)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2018-03-27",
+  "runtimeMin": 48,
+  "format": "Sean Fennessey talks to Chapman and McClain Way and producer Mark Duplass about Wild Wild Country, their Netflix docuseries on the Rajneeshpuram commune: 300 hours of unseen archive, five days spent with Ma Anand Sheela, the land-use and church-and-state fights buried under the guns and the sex, and Duplass admitting he half-envies the idealism.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "The Way brothers and Mark Duplass on building a cult on Netflix",
+      "guest": "Chapman Way, McClain Way and Mark Duplass on",
+      "films": [
+        {
+          "title": "The Battered Bastards of Baseball",
+          "year": 2014,
+          "note": "The Ways' only prior film, a 72-minute doc about a forgotten Portland baseball team, financed themselves and picked up by Netflix out of Sundance. They keep returning to it as the small credit that made Wild Wild Country a hard sell to interview subjects and to buyers alike."
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "heading": "The last great thing they've seen",
+      "note": "the show's closing question",
+      "picks": [
+        {
+          "title": "Call Me by Your Name",
+          "year": 2017,
+          "by": "Chapman Way",
+          "note": "Watched it on a flight to Copenhagen; says the father-son scene wrecked him for the rest of the trip."
+        },
+        {
+          "title": "Before Sunrise",
+          "year": 1995,
+          "by": "Mark Duplass",
+          "note": "Watched the whole Before trilogy in a row while sequestered with strep throat; a huge Linklater fan, he came out of it reassured he was in the right line of work."
+        },
+        {
+          "title": "Before Sunset",
+          "year": 2004,
+          "by": "Mark Duplass",
+          "note": "Middle of the trilogy run."
+        },
+        {
+          "title": "Before Midnight",
+          "year": 2013,
+          "by": "Mark Duplass",
+          "note": "The one that closed out his binge."
+        }
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Creep": 250574
+  },
+  "referenced": [
+    {
+      "group": "Mentioned in passing",
+      "films": [
+        "Man on Wire",
+        "Project Nim",
+        "Creep",
+        "Porky's II: The Next Day"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Wild Wild Country",
+      "The Larry Sanders Show",
+      "Room 104",
+      "The Zen Diaries of Gary Shandling"
+    ],
+    "Web": [
+      "Comedians in Cars Getting Coffee"
+    ],
+    "Ads": [
+      "Acer Swift 5",
+      "Google Assistant",
+      "Ringer store"
+    ]
+  },
+  "tmdb": {
+    "The Battered Bastards of Baseball": {
+      "id": 250700,
+      "poster": "/h7hdQt7zpCRlDU3EqeJR6IVqNZW.jpg",
+      "title": "The Battered Bastards of Baseball",
+      "year": 2014
+    },
+    "Call Me by Your Name": {
+      "id": 398818,
+      "poster": "/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
+      "title": "Call Me by Your Name",
+      "year": 2017
+    },
+    "Before Sunrise": {
+      "id": 76,
+      "poster": "/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg",
+      "title": "Before Sunrise",
+      "year": 1995
+    },
+    "Before Sunset": {
+      "id": 80,
+      "poster": "/4sW5XH9ZfYXpvFzev00S1IGAEbg.jpg",
+      "title": "Before Sunset",
+      "year": 2004
+    },
+    "Before Midnight": {
+      "id": 132344,
+      "poster": "/qbGKJmNUroDz75kh5Oafoall89e.jpg",
+      "title": "Before Midnight",
+      "year": 2013
+    },
+    "Man on Wire": {
+      "id": 14048,
+      "poster": "/1mS4rhIgHZcHIvf1beP9Av0Ui33.jpg",
+      "title": "Man on Wire",
+      "year": 2008
+    },
+    "Project Nim": {
+      "id": 63579,
+      "poster": "/bKvxfhFK4hSgY19ObJ30bQYtyli.jpg",
+      "title": "Project Nim",
+      "year": 2011
+    },
+    "Creep": {
+      "id": 250574,
+      "poster": "/qn53D574tT0YRyLgirEFHQwGUXw.jpg",
+      "title": "Creep",
+      "year": 2014
+    },
+    "Porky's II: The Next Day": {
+      "id": 19698,
+      "poster": "/rZjSlaXM8Ez91ZV39frILApGuKg.jpg",
+      "title": "Porky's II: The Next Day",
+      "year": 1983
+    }
+  },
+  "spotifyEpisodeId": "1hAsF98LuAPa1Rwe4DjLBp"
+}

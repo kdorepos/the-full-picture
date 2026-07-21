@@ -1,0 +1,154 @@
+{
+  "slug": "dissecting-mother-the-most-controversial-movie-of-the-year-t",
+  "title": "Dissecting 'Mother!,' the Most Controversial Movie of the Year | The Big Picture (Ep. 26)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Cameron Collins"
+  ],
+  "published": "2017-09-22",
+  "runtimeMin": 32,
+  "format": "Sean Fennessey, Amanda Dobbins, and Cam Collins pull apart Darren Aronofsky's Mother!: the F CinemaScore, the biblical and ecological allegory piled into it, and what it does to Jennifer Lawrence.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "Dissecting 'Mother!'",
+      "note": "spoilers throughout",
+      "films": [
+        {
+          "title": "Mother!",
+          "year": 2017,
+          "note": "Opened in 2,200 theaters to $7.5 million and an F CinemaScore. The panel reads it as Mother Earth (Lawrence) and a creator-God artist (Bardem), with Ed Harris and Michelle Pfeiffer as Adam and Eve and their sons as Cain and Abel. Made for $30 million; Aronofsky said he wrote it in five days."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Aronofsky's filmography",
+      "films": [
+        "Black Swan",
+        "Requiem for a Dream",
+        "The Wrestler",
+        "Noah"
+      ]
+    },
+    {
+      "group": "Jennifer Lawrence's other roles",
+      "films": [
+        "Winter's Bone",
+        "The Hunger Games",
+        "Joy",
+        "Passengers"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Rosemary's Baby",
+        "The Box",
+        "A Serious Man",
+        "Girls Trip",
+        "Victoria & Abdul"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Game of Thrones"
+    ],
+    "Podcasts": [
+      "The Watch",
+      "Jam Session"
+    ]
+  },
+  "tmdb": {
+    "Mother!": {
+      "id": 381283,
+      "poster": "/fjny9chXPx69ln1LMJxbwi5yHMt.jpg",
+      "title": "mother!",
+      "year": 2017
+    },
+    "Black Swan": {
+      "id": 44214,
+      "poster": "/viWheBd44bouiLCHgNMvahLThqx.jpg",
+      "title": "Black Swan",
+      "year": 2010
+    },
+    "Requiem for a Dream": {
+      "id": 641,
+      "poster": "/9BTwsLaMVHOGFlmsSlx5QYCaXb.jpg",
+      "title": "Requiem for a Dream",
+      "year": 2000
+    },
+    "The Wrestler": {
+      "id": 12163,
+      "poster": "/6OTR8dSoNGjWohJNo3UhIGd3Tj.jpg",
+      "title": "The Wrestler",
+      "year": 2008
+    },
+    "Noah": {
+      "id": 86834,
+      "poster": "/vVLkHabnF5lVpCpqyhZBI5iCYMA.jpg",
+      "title": "Noah",
+      "year": 2014
+    },
+    "Winter's Bone": {
+      "id": 39013,
+      "poster": "/a0qhPkNlxLfsf5B2jFyI1Pp04XV.jpg",
+      "title": "Winter's Bone",
+      "year": 2010
+    },
+    "The Hunger Games": {
+      "id": 70160,
+      "poster": "/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg",
+      "title": "The Hunger Games",
+      "year": 2012
+    },
+    "Joy": {
+      "id": 274479,
+      "poster": "/nZAs0HbW82TI1i4Xid83M941Pki.jpg",
+      "title": "Joy",
+      "year": 2015
+    },
+    "Passengers": {
+      "id": 274870,
+      "poster": "/jK9S6HANSf2no64v1x1HxfcpmcA.jpg",
+      "title": "Passengers",
+      "year": 2016
+    },
+    "Rosemary's Baby": {
+      "id": 805,
+      "poster": "/uYgvlHceRFjAFbsNeMInYcLZLUb.jpg",
+      "title": "Rosemary's Baby",
+      "year": 1968
+    },
+    "The Box": {
+      "id": 22825,
+      "poster": "/xMAmOu6xl4CsstixcuecBle9krd.jpg",
+      "title": "The Box",
+      "year": 2009
+    },
+    "A Serious Man": {
+      "id": 12573,
+      "poster": "/5gGxDS8WmrebPlMHexVS8EVehiP.jpg",
+      "title": "A Serious Man",
+      "year": 2009
+    },
+    "Girls Trip": {
+      "id": 417870,
+      "poster": "/fM1h8CwtdileV3zlemXx7UWJjOP.jpg",
+      "title": "Girls Trip",
+      "year": 2017
+    },
+    "Victoria & Abdul": {
+      "id": 423899,
+      "poster": "/uIzQ8zZ0rqjqqJUIpeeovtTryAa.jpg",
+      "title": "Victoria & Abdul",
+      "year": 2017
+    }
+  },
+  "spotifyEpisodeId": "23kjbfgvybUL8X3I1jY9ZB"
+}

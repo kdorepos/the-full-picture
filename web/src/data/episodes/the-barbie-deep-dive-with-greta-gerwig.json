@@ -1,0 +1,533 @@
+{
+  "slug": "the-barbie-deep-dive-with-greta-gerwig",
+  "title": "The ‘Barbie’ Deep Dive With Greta Gerwig!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2023-07-27",
+  "runtimeMin": 129,
+  "format": "Sean and Amanda bring in Joanna Robinson to break down 'Barbie' after its record opening weekend, then Sean gets Greta Gerwig on the phone.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The 'Barbie' Review",
+      "note": "with Joanna Robinson",
+      "films": [
+        {
+          "title": "Barbie",
+          "year": 2023,
+          "note": "Gerwig and Noah Baumbach's take on the doll and the corporation that makes her, praised as a rare studio movie that's a musical, a comedy, and a feminist argument at once. The group singles out Margot Robbie's performance, the production and costume design (Sarah Greenwood, Jacqueline Durran), America Ferrera's speech, and the Ken material as high points; the Mattel-headquarters plot mechanics as the sag."
+        },
+        {
+          "title": "Oppenheimer",
+          "year": 2023,
+          "note": "Released the same weekend as 'Barbie'; the double feature ('Barbenheimer') anchors the opening discussion of the biggest theatrical event since 2019."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Greta Gerwig on",
+      "films": [
+        {
+          "title": "Barbie",
+          "year": 2023,
+          "note": "Gerwig on directing Margot Robbie into the part, the year of prep with production designer Sarah Greenwood and costume designer Jacqueline Durran, building Barbie Land with 1959-era techniques, and the Mark Ronson/Andrew Wyatt score woven from Dua Lipa and Billie Eilish songs."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Communal-moviegoing comps",
+      "films": [
+        "Avengers: Endgame",
+        "Star Wars: The Force Awakens",
+        "Top Gun: Maverick",
+        "Titanic"
+      ]
+    },
+    {
+      "group": "Gerwig and Baumbach's other work",
+      "films": [
+        "Lady Bird",
+        "Little Women",
+        "Frances Ha",
+        "Nights and Weekends",
+        "White Noise"
+      ]
+    },
+    {
+      "group": "Cited world-building influences",
+      "films": [
+        "The Truman Show",
+        "Pee-wee's Big Adventure",
+        "The Lego Movie",
+        "The Wizard of Oz",
+        "The Matrix"
+      ]
+    },
+    {
+      "group": "Pop-culture references baked into 'Barbie'",
+      "films": [
+        "The Godfather",
+        "2001: A Space Odyssey"
+      ]
+    },
+    {
+      "group": "Musical and visual references Gerwig cites",
+      "films": [
+        "Xanadu",
+        "Saturday Night Fever",
+        "Anna Karenina"
+      ]
+    },
+    {
+      "group": "Margot Robbie's other roles",
+      "films": [
+        "The Suicide Squad",
+        "Birds of Prey",
+        "Asteroid City"
+      ]
+    },
+    {
+      "group": "Career and performance comps",
+      "films": [
+        "Heaven Can Wait",
+        "Dick Tracy",
+        "My Cousin Vinny",
+        "Gone Girl",
+        "First Reformed",
+        "The Squid and the Whale",
+        "The Notebook",
+        "Working Girl"
+      ]
+    },
+    {
+      "group": "2023 awards-race chatter",
+      "films": [
+        "Killers of the Flower Moon",
+        "Maestro",
+        "The Color Purple",
+        "Saltburn",
+        "The Holdovers",
+        "Past Lives",
+        "Napoleon",
+        "Are You There God? It's Me, Margaret"
+      ]
+    },
+    {
+      "group": "The 2019 Best Director snub gauntlet",
+      "films": [
+        "Once Upon a Time in Hollywood",
+        "Marriage Story",
+        "Parasite",
+        "The Irishman"
+      ]
+    },
+    {
+      "group": "Director-belt comps",
+      "films": [
+        "Get Out",
+        "Black Panther"
+      ]
+    },
+    {
+      "group": "Cinematography-bias chatter",
+      "films": [
+        "Empire of Light",
+        "The Batman",
+        "Blade Runner 2049"
+      ]
+    },
+    {
+      "group": "That weekend's other openers",
+      "films": [
+        "Mission: Impossible - Dead Reckoning Part One",
+        "Meg 2: The Trench",
+        "Haunted Mansion",
+        "Talk to Me"
+      ]
+    },
+    {
+      "group": "On the radar for 2024",
+      "films": [
+        "Twisters",
+        "Challengers"
+      ]
+    },
+    {
+      "group": "Greta's last great thing",
+      "films": [
+        "Journey to Italy"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Sex Education",
+      "Superstore",
+      "The O.C.",
+      "The Bear"
+    ],
+    "Stage/TV specials": [
+      "Into the Woods (1987 PBS taping)"
+    ],
+    "Unreleased/announced": [
+      "Chronicles of Narnia (Gerwig's announced Netflix adaptation)"
+    ],
+    "Ads": [
+      "Tremfya",
+      "NOS Energy",
+      "Carvana",
+      "Boar's Head",
+      "FIFA World Cup Launch Edition (Netflix game ad)"
+    ]
+  },
+  "tmdbOverrides": {
+    "Birds of Prey": 495764,
+    "The Color Purple": 558915
+  },
+  "tmdb": {
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Star Wars: The Force Awakens": {
+      "id": 140607,
+      "poster": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+      "title": "Star Wars: The Force Awakens",
+      "year": 2015
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "Lady Bird": {
+      "id": 391713,
+      "poster": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+      "title": "Lady Bird",
+      "year": 2017
+    },
+    "Little Women": {
+      "id": 331482,
+      "poster": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+      "title": "Little Women",
+      "year": 2019
+    },
+    "Frances Ha": {
+      "id": 121986,
+      "poster": "/jrq1NoKvsxWCcffVOjegiYwloFN.jpg",
+      "title": "Frances Ha",
+      "year": 2013
+    },
+    "Nights and Weekends": {
+      "id": 48204,
+      "poster": "/zFPvD0dxmqrfKu0qqAgzGVEfCn3.jpg",
+      "title": "Nights and Weekends",
+      "year": 2008
+    },
+    "White Noise": {
+      "id": 744594,
+      "poster": "/kesxNdLZlmGoTRspDHU1WgdEuGw.jpg",
+      "title": "White Noise",
+      "year": 2022
+    },
+    "The Truman Show": {
+      "id": 37165,
+      "poster": "/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+      "title": "The Truman Show",
+      "year": 1998
+    },
+    "Pee-wee's Big Adventure": {
+      "id": 5683,
+      "poster": "/414IUXc54mrhX88ZUQiRDLXn01i.jpg",
+      "title": "Pee-wee's Big Adventure",
+      "year": 1985
+    },
+    "The Lego Movie": {
+      "id": 137106,
+      "poster": "/lbctonEnewCYZ4FYoTZhs8cidAl.jpg",
+      "title": "The Lego Movie",
+      "year": 2014
+    },
+    "The Wizard of Oz": {
+      "id": 630,
+      "poster": "/uCC3j4pV9eOZwzDUWp2ilbcTf1f.jpg",
+      "title": "The Wizard of Oz",
+      "year": 1939
+    },
+    "The Matrix": {
+      "id": 603,
+      "poster": "/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+      "title": "The Matrix",
+      "year": 1999
+    },
+    "The Godfather": {
+      "id": 238,
+      "poster": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "title": "The Godfather",
+      "year": 1972
+    },
+    "2001: A Space Odyssey": {
+      "id": 62,
+      "poster": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "title": "2001: A Space Odyssey",
+      "year": 1968
+    },
+    "Xanadu": {
+      "id": 15668,
+      "poster": "/4r1cHzhksHO3u1QS1Ct9mId7kQL.jpg",
+      "title": "Xanadu",
+      "year": 1980
+    },
+    "Saturday Night Fever": {
+      "id": 11009,
+      "poster": "/ylA7E5Md21aqgzxbwa2dFxX8LKV.jpg",
+      "title": "Saturday Night Fever",
+      "year": 1977
+    },
+    "Anna Karenina": {
+      "id": 96724,
+      "poster": "/b9mvt1kKqDuveD1AJuGSkBEuagU.jpg",
+      "title": "Anna Karenina",
+      "year": 2012
+    },
+    "The Suicide Squad": {
+      "id": 436969,
+      "poster": "/q61qEyssk2ku3okWICKArlAdhBn.jpg",
+      "title": "The Suicide Squad",
+      "year": 2021
+    },
+    "Birds of Prey": {
+      "id": 495764,
+      "poster": "/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
+      "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "year": 2020
+    },
+    "Asteroid City": {
+      "id": 747188,
+      "poster": "/hfo7pvL9Fys7rocfL4VOzw9qDEQ.jpg",
+      "title": "Asteroid City",
+      "year": 2023
+    },
+    "Heaven Can Wait": {
+      "id": 12185,
+      "poster": "/h1yOiO9cow6gwmGxSAWvPdY4lhJ.jpg",
+      "title": "Heaven Can Wait",
+      "year": 1978
+    },
+    "Dick Tracy": {
+      "id": 8592,
+      "poster": "/sjeP4bpgsUvAGE8oFcICy2GaHxw.jpg",
+      "title": "Dick Tracy",
+      "year": 1990
+    },
+    "My Cousin Vinny": {
+      "id": 10377,
+      "poster": "/iwSURa8nS2ujwrU3s1lfxxX7voH.jpg",
+      "title": "My Cousin Vinny",
+      "year": 1992
+    },
+    "Gone Girl": {
+      "id": 210577,
+      "poster": "/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+      "title": "Gone Girl",
+      "year": 2014
+    },
+    "First Reformed": {
+      "id": 458737,
+      "poster": "/8HKA3Hwf8jQWy8TCYWr7C8Wft23.jpg",
+      "title": "First Reformed",
+      "year": 2018
+    },
+    "The Squid and the Whale": {
+      "id": 10707,
+      "poster": "/9NbXn1NMdfGM491V3EFjZADR9SX.jpg",
+      "title": "The Squid and the Whale",
+      "year": 2005
+    },
+    "The Notebook": {
+      "id": 11036,
+      "poster": "/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
+      "title": "The Notebook",
+      "year": 2004
+    },
+    "Working Girl": {
+      "id": 3525,
+      "poster": "/q2jfFzZvAzjTaArQR0tjilIZ5aJ.jpg",
+      "title": "Working Girl",
+      "year": 1988
+    },
+    "Killers of the Flower Moon": {
+      "id": 466420,
+      "poster": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+      "title": "Killers of the Flower Moon",
+      "year": 2023
+    },
+    "Maestro": {
+      "id": 523607,
+      "poster": "/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg",
+      "title": "Maestro",
+      "year": 2023
+    },
+    "The Color Purple": {
+      "id": 558915,
+      "poster": "/h5bqIxM8GO4TewJ0u6Rzkg58ssJ.jpg",
+      "title": "The Color Purple",
+      "year": 2023
+    },
+    "Saltburn": {
+      "id": 930564,
+      "poster": "/zGTfMwG112BC66mpaveVxoWPOaB.jpg",
+      "title": "Saltburn",
+      "year": 2023
+    },
+    "The Holdovers": {
+      "id": 840430,
+      "poster": "/VHSzNBTwxV8vh7wylo7O9CLdac.jpg",
+      "title": "The Holdovers",
+      "year": 2023
+    },
+    "Past Lives": {
+      "id": 666277,
+      "poster": "/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg",
+      "title": "Past Lives",
+      "year": 2023
+    },
+    "Napoleon": {
+      "id": 753342,
+      "poster": "/ytFOXyghxLzAM4KZyazDdEkM66q.jpg",
+      "title": "Napoleon",
+      "year": 2023
+    },
+    "Are You There God? It's Me, Margaret": {
+      "id": 555285,
+      "poster": "/yb6UB4WC3znlwU0L4AqMnjR9G9S.jpg",
+      "title": "Are You There God? It's Me, Margaret.",
+      "year": 2023
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Marriage Story": {
+      "id": 492188,
+      "poster": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+      "title": "Marriage Story",
+      "year": 2019
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "Empire of Light": {
+      "id": 814757,
+      "poster": "/h84SnIQF91Gz2Fv1OpMJ3245t4i.jpg",
+      "title": "Empire of Light",
+      "year": 2022
+    },
+    "The Batman": {
+      "id": 414906,
+      "poster": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "title": "The Batman",
+      "year": 2022
+    },
+    "Blade Runner 2049": {
+      "id": 335984,
+      "poster": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+      "title": "Blade Runner 2049",
+      "year": 2017
+    },
+    "Mission: Impossible - Dead Reckoning Part One": {
+      "id": 575264,
+      "poster": "/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "year": 2023
+    },
+    "Meg 2: The Trench": {
+      "id": 615656,
+      "poster": "/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg",
+      "title": "Meg 2: The Trench",
+      "year": 2023
+    },
+    "Haunted Mansion": {
+      "id": 616747,
+      "poster": "/8Im6DknDVxRiGXc5t8rVOJyzuNx.jpg",
+      "title": "Haunted Mansion",
+      "year": 2023
+    },
+    "Talk to Me": {
+      "id": 1008042,
+      "poster": "/kdPMUMJzyYAc4roD52qavX0nLIC.jpg",
+      "title": "Talk to Me",
+      "year": 2023
+    },
+    "Twisters": {
+      "id": 718821,
+      "poster": "/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg",
+      "title": "Twisters",
+      "year": 2024
+    },
+    "Challengers": {
+      "id": 937287,
+      "poster": "/H6vke7zGiuLsz4v4RPeReb9rsv.jpg",
+      "title": "Challengers",
+      "year": 2024
+    },
+    "Journey to Italy": {
+      "id": 2748,
+      "poster": "/d470qCzer5cTLRdeN0iTCQCJiOc.jpg",
+      "title": "Journey to Italy",
+      "year": 1954
+    }
+  }
+}

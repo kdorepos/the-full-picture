@@ -1,0 +1,1007 @@
+{
+  "slug": "the-1989-movie-draft",
+  "title": "The 1989 Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2025-11-03",
+  "runtimeMin": 120,
+  "format": "A three-person snake draft of 1989, a stealthily deep year: Sundance and Soderbergh arriving, the rom-com and the franchise both taking hold. Amanda, Chris, and Sean each fill a seven-slot roster by category (blockbuster has a $75M threshold), after a news open on the killed Soderbergh-Driver 'Ben Solo' pitch and Taylor Sheridan's studio jump.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The news",
+      "note": "Ben Solo, Taylor Sheridan, and the state of the movies",
+      "films": [
+        {
+          "title": "Logan Lucky",
+          "year": 2017,
+          "note": "The Soderbergh-Driver team-up the killed 'Ben Solo' pitch would have followed."
+        },
+        {
+          "title": "Contagion",
+          "year": 2011,
+          "note": "Cited as prior Soderbergh-Scott Z. Burns work; Burns was writing the Ben Solo script."
+        },
+        {
+          "title": "Star Wars: The Rise of Skywalker",
+          "year": 2019,
+          "note": "The ending that soured all three of them: Palpatine's return, the Rey-Kylo kiss."
+        },
+        {
+          "title": "Star Wars: Episode I - The Phantom Menace",
+          "year": 1999,
+          "note": "Turns up in Soderbergh's culture diary, part of a nine-film Star Wars rewatch."
+        },
+        {
+          "title": "The Mandalorian and Grogu",
+          "year": 2026,
+          "note": "The next actual Star Wars film, six years after the last one."
+        },
+        {
+          "title": "Hell or High Water",
+          "year": 2016,
+          "note": "One of the Taylor Sheridan scripts Chris rates."
+        },
+        {
+          "title": "Sicario",
+          "year": 2015,
+          "note": "Sheridan script; Emily Blunt cited as proof he writes women well."
+        },
+        {
+          "title": "Wind River",
+          "year": 2017,
+          "note": "The Sheridan film he directed; Elizabeth Olsen praised."
+        },
+        {
+          "title": "Without Remorse",
+          "year": 2021,
+          "note": "Another Sheridan credit, less admired."
+        },
+        {
+          "title": "Those Who Wish Me Dead",
+          "year": 2021,
+          "note": "The Sheridan-directed one Chris rates below the scripts."
+        },
+        {
+          "title": "The Rip",
+          "year": 2025,
+          "note": "Damon and Affleck as Miami cops robbing dealers; coming to Netflix."
+        },
+        {
+          "title": "Good Fortune",
+          "year": 2025,
+          "note": "Aziz Ansari's film, brought up via his Bill Murray / Being Mortal comments."
+        }
+      ]
+    },
+    {
+      "kind": "draft",
+      "heading": "The teams",
+      "draftOf": "the movies of 1989",
+      "categories": [
+        "Drama",
+        "Comedy",
+        "Action / Horror / Thriller",
+        "Oscar Nominee",
+        "Sequel",
+        "Blockbuster",
+        "Wild Card"
+      ],
+      "teams": [
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Born on the Fourth of July",
+              "year": 1989,
+              "category": "Drama",
+              "note": "Oliver Stone; she'd take it over Platoon, with Cruise as Ron Kovic."
+            },
+            {
+              "title": "Heathers",
+              "year": 1989,
+              "category": "Comedy",
+              "note": "Daniel Waters' script; the mean-girls movie before Mean Girls."
+            },
+            {
+              "title": "Ghostbusters II",
+              "year": 1989,
+              "category": "Action / Horror / Thriller",
+              "note": "Taken here for lack of a comedy slot; she likes the Bill Murray of it best."
+            },
+            {
+              "title": "The Little Mermaid",
+              "year": 1989,
+              "category": "Oscar Nominee",
+              "note": "'Part of Your World'; the film that restarts the Disney golden age."
+            },
+            {
+              "title": "National Lampoon's Christmas Vacation",
+              "year": 1989,
+              "category": "Sequel",
+              "note": "Chevy Chase's Clark Griswold and the Christmas-bonus meltdown."
+            },
+            {
+              "title": "When Harry Met Sally...",
+              "year": 1989,
+              "category": "Blockbuster",
+              "note": "Her No. 1 overall pick; Nora Ephron's script sets the modern rom-com template."
+            },
+            {
+              "title": "Troop Beverly Hills",
+              "year": 1989,
+              "category": "Wild Card",
+              "note": "Shelley Long; a formative childhood watch, with young Jenny Lewis and Carla Gugino."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Do the Right Thing",
+              "year": 1989,
+              "category": "Drama",
+              "note": "His first pick and, per Tracy Letts, the best film of the '80s."
+            },
+            {
+              "title": "Parenthood",
+              "year": 1989,
+              "category": "Comedy",
+              "note": "Ron Howard; Steve Martin, Keanu, and a pre-Joaquin 'Leaf' Phoenix."
+            },
+            {
+              "title": "Road House",
+              "year": 1989,
+              "category": "Action / Horror / Thriller",
+              "note": "Swayze; picked partly to talk about the dueling Road House sequels."
+            },
+            {
+              "title": "Field of Dreams",
+              "year": 1989,
+              "category": "Oscar Nominee",
+              "note": "Costner; 'People will come' still makes him cry."
+            },
+            {
+              "title": "Lethal Weapon 2",
+              "year": 1989,
+              "category": "Sequel",
+              "note": "'Diplomatic immunity'; Riggs, the toilet bomb, and apartheid villains."
+            },
+            {
+              "title": "Dead Poets Society",
+              "year": 1989,
+              "category": "Blockbuster",
+              "note": "Peter Weir; Robin Williams and a young Ethan Hawke, nearly $96M."
+            },
+            {
+              "title": "Major League",
+              "year": 1989,
+              "category": "Wild Card",
+              "note": "The 'winning' pick; Sheen, Snipes, and a fictional pennant that plays real."
+            }
+          ]
+        },
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "The Fabulous Baker Boys",
+              "year": 1989,
+              "category": "Drama",
+              "note": "Steve Kloves; a first-ever watch, and the case that Pfeiffer was robbed."
+            },
+            {
+              "title": "Say Anything...",
+              "year": 1989,
+              "category": "Comedy",
+              "note": "Cameron Crowe; Cusack, the boombox, and the John Mahoney turn."
+            },
+            {
+              "title": "Batman",
+              "year": 1989,
+              "category": "Action / Horror / Thriller",
+              "note": "Burton and Keaton; the Prince soundtrack, and his Batman since age 7."
+            },
+            {
+              "title": "Sex, Lies, and Videotape",
+              "year": 1989,
+              "category": "Oscar Nominee",
+              "note": "Soderbergh's Sundance debut; he calls it the best film still on the board."
+            },
+            {
+              "title": "Indiana Jones and the Last Crusade",
+              "year": 1989,
+              "category": "Sequel",
+              "note": "Ford and Connery; his pick for the best sequel of the year."
+            },
+            {
+              "title": "Back to the Future Part II",
+              "year": 1989,
+              "category": "Blockbuster",
+              "note": "Hoverboards, the Sports Almanac, and the Biff-as-Trump reading."
+            },
+            {
+              "title": "Roger & Me",
+              "year": 1989,
+              "category": "Wild Card",
+              "note": "The pick over Major League; Michael Moore's GM debut, his first documentary."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Driving Miss Daisy",
+        "My Left Foot: The Story of Christy Brown",
+        "Glory",
+        "Crimes and Misdemeanors",
+        "Henry V",
+        "Drugstore Cowboy",
+        "Casualties of War",
+        "The Abyss",
+        "Miracle Mile",
+        "Bill & Ted's Excellent Adventure",
+        "How to Get Ahead in Advertising",
+        "The 'Burbs",
+        "Uncle Buck",
+        "The War of the Roses",
+        "Weekend at Bernie's",
+        "Gleaming the Cube",
+        "Police Academy 6: City Under Siege",
+        "Look Who's Talking",
+        "Honey, I Shrunk the Kids",
+        "A Dry White Season",
+        "Star Trek V: The Final Frontier",
+        "A Nightmare on Elm Street: The Dream Child",
+        "Halloween 5: The Revenge of Michael Myers",
+        "Friday the 13th Part VIII: Jason Takes Manhattan",
+        "Fletch Lives",
+        "The Fly II",
+        "The Package",
+        "Steel Magnolias",
+        "Music Box",
+        "True Believer",
+        "Lean on Me",
+        "Harlem Nights",
+        "Tango & Cash",
+        "The Adventures of Baron Munchausen",
+        "Cinema Paradiso",
+        "Mystery Train",
+        "Sweetie",
+        "Society",
+        "See No Evil, Hear No Evil",
+        "Skin Deep",
+        "Let It Ride",
+        "Notebook on Cities and Clothes",
+        "Licence to Kill",
+        "Pet Sematary",
+        "Disorganized Crime",
+        "Sea of Love",
+        "Dead Calm",
+        "Cookie"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Also mentioned",
+      "films": [
+        "You've Got Mail",
+        "Indiana Jones and the Temple of Doom",
+        "The Color of Money",
+        "Platoon",
+        "U-Turn",
+        "JFK",
+        "Magnolia",
+        "The Underneath",
+        "Grease 2",
+        "Tequila Sunrise",
+        "Jagged Edge",
+        "Beauty and the Beast",
+        "Howard",
+        "Father Mother Sister Brother",
+        "Weekend at Bernie's II",
+        "Honey, I Blew Up the Kid",
+        "Look Who's Talking Too",
+        "In the Mouth of Madness",
+        "Jurassic Park",
+        "The Rose",
+        "Blue Moon",
+        "10 Things I Hate About You",
+        "Draft Day",
+        "Sneakers",
+        "A House of Dynamite",
+        "Little Shop of Horrors",
+        "The Verdict"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Andor",
+      "The Chair Company",
+      "The Diplomat",
+      "Nobody Wants This",
+      "Down Cemetery Road",
+      "Landman",
+      "The Book of Boba Fett",
+      "Task",
+      "Doc",
+      "The Lowdown"
+    ],
+    "Video games": [
+      "Call of Duty",
+      "Halo",
+      "Elden Ring",
+      "FIFA",
+      "Super Smash Bros.",
+      "Tetris"
+    ]
+  },
+  "tmdbOverrides": {
+    "Without Remorse": 567189,
+    "Driving Miss Daisy": 403,
+    "Henry V": 10705,
+    "The Package": 31606,
+    "Music Box": 2263,
+    "Cookie": 86093,
+    "Pet Sematary": 8913,
+    "Beauty and the Beast": 10020
+  },
+  "tmdb": {
+    "Logan Lucky": {
+      "id": 399170,
+      "poster": "/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg",
+      "title": "Logan Lucky",
+      "year": 2017
+    },
+    "Contagion": {
+      "id": 39538,
+      "poster": "/qL0IooP0bjXy0KXl9KEyPo22ll0.jpg",
+      "title": "Contagion",
+      "year": 2011
+    },
+    "Star Wars: The Rise of Skywalker": {
+      "id": 181812,
+      "poster": "/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+      "title": "Star Wars: The Rise of Skywalker",
+      "year": 2019
+    },
+    "Star Wars: Episode I - The Phantom Menace": {
+      "id": 1893,
+      "poster": "/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg",
+      "title": "Star Wars: Episode I - The Phantom Menace",
+      "year": 1999
+    },
+    "The Mandalorian and Grogu": {
+      "id": 1228710,
+      "poster": "/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+      "title": "The Mandalorian and Grogu",
+      "year": 2026
+    },
+    "Hell or High Water": {
+      "id": 338766,
+      "poster": "/ljRRxqy2aXIkIBXLmOVifcOR021.jpg",
+      "title": "Hell or High Water",
+      "year": 2016
+    },
+    "Sicario": {
+      "id": 273481,
+      "poster": "/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+      "title": "Sicario",
+      "year": 2015
+    },
+    "Wind River": {
+      "id": 395834,
+      "poster": "/pySivdR845Hom4u4T2WNkJxe6Ad.jpg",
+      "title": "Wind River",
+      "year": 2017
+    },
+    "Without Remorse": {
+      "id": 567189,
+      "poster": "/6OnlqShdRinhJwV1uGiRE70lD63.jpg",
+      "title": "Tom Clancy's Without Remorse",
+      "year": 2021
+    },
+    "Those Who Wish Me Dead": {
+      "id": 578701,
+      "poster": "/xCEg6KowNISWvMh8GvPSxtdf9TO.jpg",
+      "title": "Those Who Wish Me Dead",
+      "year": 2021
+    },
+    "The Rip": {
+      "id": 1306368,
+      "poster": "/4wsYWH73Hb1B6noGIFaRQSAkuXj.jpg",
+      "title": "The Rip",
+      "year": 2026
+    },
+    "Good Fortune": {
+      "id": 1114967,
+      "poster": "/rywxUbd4zvHiRP7nOHeDzuQSLIZ.jpg",
+      "title": "Good Fortune",
+      "year": 2025
+    },
+    "Born on the Fourth of July": {
+      "id": 2604,
+      "poster": "/c5gSie6ZA90iBs62yNM5MV4y9R7.jpg",
+      "title": "Born on the Fourth of July",
+      "year": 1989
+    },
+    "Heathers": {
+      "id": 2640,
+      "poster": "/dGbVfM4WlM7uvIbyRehfPZUIgp2.jpg",
+      "title": "Heathers",
+      "year": 1989
+    },
+    "Ghostbusters II": {
+      "id": 2978,
+      "poster": "/u7UioNGwAeWfYPv5pSAZSM0ipSt.jpg",
+      "title": "Ghostbusters II",
+      "year": 1989
+    },
+    "The Little Mermaid": {
+      "id": 10144,
+      "poster": "/plcZXvI310FkbwIptvd6rqk63LP.jpg",
+      "title": "The Little Mermaid",
+      "year": 1989
+    },
+    "National Lampoon's Christmas Vacation": {
+      "id": 5825,
+      "poster": "/oat42hUw8XzKYUmfy0YLAxYd484.jpg",
+      "title": "National Lampoon's Christmas Vacation",
+      "year": 1989
+    },
+    "When Harry Met Sally...": {
+      "id": 639,
+      "poster": "/rFOiFUhTMtDetqCGClC9PIgnC1P.jpg",
+      "title": "When Harry Met Sally...",
+      "year": 1989
+    },
+    "Troop Beverly Hills": {
+      "id": 22102,
+      "poster": "/2HOzh7t2THdZ3r9BaDucEjfzLlL.jpg",
+      "title": "Troop Beverly Hills",
+      "year": 1989
+    },
+    "Do the Right Thing": {
+      "id": 925,
+      "poster": "/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+      "title": "Do the Right Thing",
+      "year": 1989
+    },
+    "Parenthood": {
+      "id": 1552,
+      "poster": "/e51tNNQBJpJi9xkyuj0QFhyBcz7.jpg",
+      "title": "Parenthood",
+      "year": 1989
+    },
+    "Road House": {
+      "id": 10135,
+      "poster": "/60VHW8heV11uLSCnkjk6iGRQatA.jpg",
+      "title": "Road House",
+      "year": 1989
+    },
+    "Field of Dreams": {
+      "id": 2323,
+      "poster": "/oeM7nAw6FVFICwUaXKCRkDsKjqO.jpg",
+      "title": "Field of Dreams",
+      "year": 1989
+    },
+    "Lethal Weapon 2": {
+      "id": 942,
+      "poster": "/v04YGBUiGMoqxWqjPJrQUfRImFp.jpg",
+      "title": "Lethal Weapon 2",
+      "year": 1989
+    },
+    "Dead Poets Society": {
+      "id": 207,
+      "poster": "/erzbMlcNHOdx24AXOcn2ZKA7R1q.jpg",
+      "title": "Dead Poets Society",
+      "year": 1989
+    },
+    "Major League": {
+      "id": 9942,
+      "poster": "/ypUedY9zX4nGGf1lQv1UGc8PhPA.jpg",
+      "title": "Major League",
+      "year": 1989
+    },
+    "The Fabulous Baker Boys": {
+      "id": 10875,
+      "poster": "/1nS8AxnoYE2Y1ANMpVKZnm8iLxP.jpg",
+      "title": "The Fabulous Baker Boys",
+      "year": 1989
+    },
+    "Say Anything...": {
+      "id": 2028,
+      "poster": "/nkucKciFGSRalw6dJtsglWqOXMC.jpg",
+      "title": "Say Anything...",
+      "year": 1989
+    },
+    "Batman": {
+      "id": 268,
+      "poster": "/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
+      "title": "Batman",
+      "year": 1989
+    },
+    "Sex, Lies, and Videotape": {
+      "id": 1412,
+      "poster": "/pj1uKm07svgXZDHbYE8AzRfNHcu.jpg",
+      "title": "sex, lies, and videotape",
+      "year": 1989
+    },
+    "Indiana Jones and the Last Crusade": {
+      "id": 89,
+      "poster": "/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg",
+      "title": "Indiana Jones and the Last Crusade",
+      "year": 1989
+    },
+    "Back to the Future Part II": {
+      "id": 165,
+      "poster": "/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg",
+      "title": "Back to the Future Part II",
+      "year": 1989
+    },
+    "Roger & Me": {
+      "id": 1779,
+      "poster": "/ePVEnKOMtrIfHZ6wQBfWihTvwqD.jpg",
+      "title": "Roger & Me",
+      "year": 1989
+    },
+    "Driving Miss Daisy": {
+      "id": 403,
+      "poster": "/iaCzvcY42HihFxQBTZCTKMpsI0P.jpg",
+      "title": "Driving Miss Daisy",
+      "year": 1989
+    },
+    "My Left Foot: The Story of Christy Brown": {
+      "id": 10161,
+      "poster": "/GRAAl0bMQFoFIjV3aunc5jsM5u.jpg",
+      "title": "My Left Foot: The Story of Christy Brown",
+      "year": 1989
+    },
+    "Glory": {
+      "id": 9665,
+      "poster": "/pGDzBjZvzmSCIEduQBfESLMiwtp.jpg",
+      "title": "Glory",
+      "year": 1989
+    },
+    "Crimes and Misdemeanors": {
+      "id": 11562,
+      "poster": "/6vC6MLYUICH57MmEVi1UaNaj2Qs.jpg",
+      "title": "Crimes and Misdemeanors",
+      "year": 1989
+    },
+    "Henry V": {
+      "id": 10705,
+      "poster": "/w9R2HsYNnfF3m9uEo2UAmPNJr8a.jpg",
+      "title": "Henry V",
+      "year": 1989
+    },
+    "Drugstore Cowboy": {
+      "id": 476,
+      "poster": "/nxITSEh80jvMEGGsU8RgCzLL340.jpg",
+      "title": "Drugstore Cowboy",
+      "year": 1989
+    },
+    "Casualties of War": {
+      "id": 10142,
+      "poster": "/3SerZUDoU9TMCXMsQqiXvSWm0uL.jpg",
+      "title": "Casualties of War",
+      "year": 1989
+    },
+    "The Abyss": {
+      "id": 2756,
+      "poster": "/2dCit3XAtv9KWCJvRKdPkJ0FAkH.jpg",
+      "title": "The Abyss",
+      "year": 1989
+    },
+    "Miracle Mile": {
+      "id": 24739,
+      "poster": "/9qRCVO9L3s3CsPnoUO9c3iZm6aB.jpg",
+      "title": "Miracle Mile",
+      "year": 1989
+    },
+    "Bill & Ted's Excellent Adventure": {
+      "id": 1648,
+      "poster": "/tV25lGWGWGEqUe3U0xjQTBgilSx.jpg",
+      "title": "Bill & Ted's Excellent Adventure",
+      "year": 1989
+    },
+    "How to Get Ahead in Advertising": {
+      "id": 14776,
+      "poster": "/8T1UacG5YV063PDbaHH2RaqA6Wc.jpg",
+      "title": "How to Get Ahead in Advertising",
+      "year": 1989
+    },
+    "The 'Burbs": {
+      "id": 11974,
+      "poster": "/jwYKzJS0C3A711hmg1G4ptI0InF.jpg",
+      "title": "The 'Burbs",
+      "year": 1989
+    },
+    "Uncle Buck": {
+      "id": 2616,
+      "poster": "/euWPWqpujKQg2KnfBUVkBSZ6kf4.jpg",
+      "title": "Uncle Buck",
+      "year": 1989
+    },
+    "The War of the Roses": {
+      "id": 249,
+      "poster": "/9VWwYsuXhRImUtrJGvN6bYJB2He.jpg",
+      "title": "The War of the Roses",
+      "year": 1989
+    },
+    "Weekend at Bernie's": {
+      "id": 8491,
+      "poster": "/4RtjBkBSqHG46uieHgTtM7oKlpo.jpg",
+      "title": "Weekend at Bernie's",
+      "year": 1989
+    },
+    "Gleaming the Cube": {
+      "id": 1380,
+      "poster": "/dpwbqnG2vmkwBBIpfQmFUf5l120.jpg",
+      "title": "Gleaming the Cube",
+      "year": 1989
+    },
+    "Police Academy 6: City Under Siege": {
+      "id": 11895,
+      "poster": "/gRFJ3xLewH1rwEplZBfKS4vGpFV.jpg",
+      "title": "Police Academy 6: City Under Siege",
+      "year": 1989
+    },
+    "Look Who's Talking": {
+      "id": 9494,
+      "poster": "/uVM0D7Q6U9H6xMSZmMdfwECih5h.jpg",
+      "title": "Look Who's Talking",
+      "year": 1989
+    },
+    "Honey, I Shrunk the Kids": {
+      "id": 9354,
+      "poster": "/omQOzahi2NIeiYznNxHFDvNbvo6.jpg",
+      "title": "Honey, I Shrunk the Kids",
+      "year": 1989
+    },
+    "A Dry White Season": {
+      "id": 32075,
+      "poster": "/6Wx9oZ7WUoootNLv70EDq6nyDqW.jpg",
+      "title": "A Dry White Season",
+      "year": 1989
+    },
+    "Star Trek V: The Final Frontier": {
+      "id": 172,
+      "poster": "/uiXr41VLYsuug3CZbFrKLSNahuZ.jpg",
+      "title": "Star Trek V: The Final Frontier",
+      "year": 1989
+    },
+    "A Nightmare on Elm Street: The Dream Child": {
+      "id": 10160,
+      "poster": "/kizvpgXQfrAgN8FhOd87LbKk6kO.jpg",
+      "title": "A Nightmare on Elm Street: The Dream Child",
+      "year": 1989
+    },
+    "Halloween 5: The Revenge of Michael Myers": {
+      "id": 11361,
+      "poster": "/rYvP6yMXCIVHnkVtwGaAXFmpzkB.jpg",
+      "title": "Halloween 5: The Revenge of Michael Myers",
+      "year": 1989
+    },
+    "Friday the 13th Part VIII: Jason Takes Manhattan": {
+      "id": 10283,
+      "poster": "/6ezOsZ9UzqGnbDokaatxdOWP6e9.jpg",
+      "title": "Friday the 13th Part VIII: Jason Takes Manhattan",
+      "year": 1989
+    },
+    "Fletch Lives": {
+      "id": 14628,
+      "poster": "/A30iCFQVKXvQzGHEE4hyVC0QtrD.jpg",
+      "title": "Fletch Lives",
+      "year": 1989
+    },
+    "The Fly II": {
+      "id": 10344,
+      "poster": "/gORksEPahEgO409HYJOZlNVyEpe.jpg",
+      "title": "The Fly II",
+      "year": 1989
+    },
+    "The Package": {
+      "id": 31606,
+      "poster": "/pInBodZ7xrX8JL7KPL4G9kM5gRW.jpg",
+      "title": "The Package",
+      "year": 1989
+    },
+    "Steel Magnolias": {
+      "id": 10860,
+      "poster": "/7ExUSN9s9gX9bhVM17zDLEizano.jpg",
+      "title": "Steel Magnolias",
+      "year": 1989
+    },
+    "Music Box": {
+      "id": 2263,
+      "poster": "/iHumUQOIJWWx6x77fOcB2PVBu53.jpg",
+      "title": "Music Box",
+      "year": 1989
+    },
+    "True Believer": {
+      "id": 31863,
+      "poster": "/ouL2ibaIdTMobM1CUlZxKauJBaM.jpg",
+      "title": "True Believer",
+      "year": 1989
+    },
+    "Lean on Me": {
+      "id": 14621,
+      "poster": "/7xOyz2NlaoqZ6xIjJh0Goptm0tP.jpg",
+      "title": "Lean On Me",
+      "year": 1989
+    },
+    "Harlem Nights": {
+      "id": 9085,
+      "poster": "/mHX0aYjxc2cIOBfYBuaYN9SvbUf.jpg",
+      "title": "Harlem Nights",
+      "year": 1989
+    },
+    "Tango & Cash": {
+      "id": 9618,
+      "poster": "/jxxxjTu87OSmQYkMFF7MgOEDXRn.jpg",
+      "title": "Tango & Cash",
+      "year": 1989
+    },
+    "The Adventures of Baron Munchausen": {
+      "id": 14506,
+      "poster": "/oiOwGRqwrKpg1EMUlPgRjVC49bn.jpg",
+      "title": "The Adventures of Baron Munchausen",
+      "year": 1988
+    },
+    "Cinema Paradiso": {
+      "id": 11216,
+      "poster": "/gCI2AeMV4IHSewhJkzsur5MEp6R.jpg",
+      "title": "Cinema Paradiso",
+      "year": 1988
+    },
+    "Mystery Train": {
+      "id": 11305,
+      "poster": "/f11xq7dBGhz9UDc3dabldAGeXVH.jpg",
+      "title": "Mystery Train",
+      "year": 1989
+    },
+    "Sweetie": {
+      "id": 65015,
+      "poster": "/25lpQtxNWXzOimnXmbwF0Y0GYej.jpg",
+      "title": "Sweetie",
+      "year": 1989
+    },
+    "Society": {
+      "id": 22244,
+      "poster": "/8Yg51sD6loLBYIlUcMDCO0bUGSh.jpg",
+      "title": "Society",
+      "year": 1990
+    },
+    "See No Evil, Hear No Evil": {
+      "id": 11185,
+      "poster": "/e9JrnUotqhKTUQEgg2UzDQ7nME2.jpg",
+      "title": "See No Evil, Hear No Evil",
+      "year": 1989
+    },
+    "Skin Deep": {
+      "id": 12478,
+      "poster": "/mNFq1Bk9oXD774hVyvdPlNCtwPt.jpg",
+      "title": "Skin Deep",
+      "year": 1989
+    },
+    "Let It Ride": {
+      "id": 19118,
+      "poster": "/t5sJfj99wACezWFz2jtHQplQkUM.jpg",
+      "title": "Let It Ride",
+      "year": 1989
+    },
+    "Notebook on Cities and Clothes": {
+      "id": 77352,
+      "poster": "/1VVxGn3K0gj6V6jEN5UnzrUC1YT.jpg",
+      "title": "Notebook on Cities and Clothes",
+      "year": 1989
+    },
+    "Licence to Kill": {
+      "id": 709,
+      "poster": "/8nzJve63EXA79HGAyidZwivZrQ2.jpg",
+      "title": "Licence to Kill",
+      "year": 1989
+    },
+    "Pet Sematary": {
+      "id": 8913,
+      "poster": "/a1gIACZb04bL8EvLqMpofW2Eqeo.jpg",
+      "title": "Pet Sematary",
+      "year": 1989
+    },
+    "Disorganized Crime": {
+      "id": 30352,
+      "poster": "/rQHt9X3Q4NhDe6LotqUDiZme2l8.jpg",
+      "title": "Disorganized Crime",
+      "year": 1989
+    },
+    "Sea of Love": {
+      "id": 12150,
+      "poster": "/vJ88WmJ12eAK9CRb3cggn9CJthH.jpg",
+      "title": "Sea of Love",
+      "year": 1989
+    },
+    "Dead Calm": {
+      "id": 10493,
+      "poster": "/hXpav86ZX5N1YIfVfVtzuZLNrjW.jpg",
+      "title": "Dead Calm",
+      "year": 1989
+    },
+    "Cookie": {
+      "id": 86093,
+      "poster": "/z37uyPcHdQoXFXSywqsUJTeFAPc.jpg",
+      "title": "Cookie",
+      "year": 1989
+    },
+    "You've Got Mail": {
+      "id": 9489,
+      "poster": "/e2uVtH6TpMfUl7WeOM70ezkcjsU.jpg",
+      "title": "You've Got Mail",
+      "year": 1998
+    },
+    "Indiana Jones and the Temple of Doom": {
+      "id": 87,
+      "poster": "/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg",
+      "title": "Indiana Jones and the Temple of Doom",
+      "year": 1984
+    },
+    "The Color of Money": {
+      "id": 11873,
+      "poster": "/dVdnHmdQu3JtLAAksjTmTEF76gD.jpg",
+      "title": "The Color of Money",
+      "year": 1986
+    },
+    "Platoon": {
+      "id": 792,
+      "poster": "/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg",
+      "title": "Platoon",
+      "year": 1986
+    },
+    "U-Turn": {
+      "id": 10155,
+      "poster": "/nBPTj1ApIDWo04M14rXFwLPdtr2.jpg",
+      "title": "U Turn",
+      "year": 1997
+    },
+    "JFK": {
+      "id": 820,
+      "poster": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+      "title": "JFK",
+      "year": 1991
+    },
+    "Magnolia": {
+      "id": 334,
+      "poster": "/tpfC325Jk6S38VTe5dDWjWtoyxr.jpg",
+      "title": "Magnolia",
+      "year": 1999
+    },
+    "The Underneath": {
+      "id": 36141,
+      "poster": "/a8jn5ML3vRT4nnMMBmFGXRaRhqO.jpg",
+      "title": "The Underneath",
+      "year": 1995
+    },
+    "Grease 2": {
+      "id": 9037,
+      "poster": "/ufWc8AR5D66lwB2UZvZ9xvGcDSD.jpg",
+      "title": "Grease 2",
+      "year": 1982
+    },
+    "Tequila Sunrise": {
+      "id": 10396,
+      "poster": "/8LoG0GL5N5e7zvvXezwwGnUfRHL.jpg",
+      "title": "Tequila Sunrise",
+      "year": 1988
+    },
+    "Jagged Edge": {
+      "id": 12235,
+      "poster": "/wHYjo3NLc293ZEXVSGhRIUr3Iqi.jpg",
+      "title": "Jagged Edge",
+      "year": 1985
+    },
+    "Beauty and the Beast": {
+      "id": 10020,
+      "poster": "/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+      "title": "Beauty and the Beast",
+      "year": 1991
+    },
+    "Howard": {
+      "id": 512191,
+      "poster": "/kTMIYVGKeXsIcVumZvyapkhvQiY.jpg",
+      "title": "Howard",
+      "year": 2018
+    },
+    "Father Mother Sister Brother": {
+      "id": 1159206,
+      "poster": "/96O3Ol3f2veMxAxYqsML8rOumB9.jpg",
+      "title": "Father Mother Sister Brother",
+      "year": 2025
+    },
+    "Weekend at Bernie's II": {
+      "id": 8494,
+      "poster": "/ylN3DZEPCnn60ecGq01y0AyWsTQ.jpg",
+      "title": "Weekend at Bernie's II",
+      "year": 1993
+    },
+    "Honey, I Blew Up the Kid": {
+      "id": 11158,
+      "poster": "/4EGqDo2pP2ZL0TCcYDGnwsU8liQ.jpg",
+      "title": "Honey, I Blew Up the Kid",
+      "year": 1992
+    },
+    "Look Who's Talking Too": {
+      "id": 9356,
+      "poster": "/m409mVHmvDOZJltNzHJYigUthsW.jpg",
+      "title": "Look Who's Talking Too",
+      "year": 1990
+    },
+    "In the Mouth of Madness": {
+      "id": 2654,
+      "poster": "/msh4tEUzbnEqlHcFOUH4O0Zti8r.jpg",
+      "title": "In the Mouth of Madness",
+      "year": 1995
+    },
+    "Jurassic Park": {
+      "id": 329,
+      "poster": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "title": "Jurassic Park",
+      "year": 1993
+    },
+    "The Rose": {
+      "id": 16323,
+      "poster": "/3hYyA2g5r0TDRbkSAOEeKelylh2.jpg",
+      "title": "The Rose",
+      "year": 1979
+    },
+    "Blue Moon": {
+      "id": 1299655,
+      "poster": "/dVU7SNc6dgStTVdtbPLQncWxsyZ.jpg",
+      "title": "Blue Moon",
+      "year": 2025
+    },
+    "10 Things I Hate About You": {
+      "id": 4951,
+      "poster": "/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg",
+      "title": "10 Things I Hate About You",
+      "year": 1999
+    },
+    "Draft Day": {
+      "id": 200505,
+      "poster": "/bnl2ocjS1io4UCPhjoFuPKmJ9bf.jpg",
+      "title": "Draft Day",
+      "year": 2014
+    },
+    "Sneakers": {
+      "id": 2322,
+      "poster": "/l2pIGwCvpZEpBuMb55YBl6A04Jv.jpg",
+      "title": "Sneakers",
+      "year": 1992
+    },
+    "A House of Dynamite": {
+      "id": 1290159,
+      "poster": "/AiJ8L90ftPAwVf3SDx7Fj9IMZoy.jpg",
+      "title": "A House of Dynamite",
+      "year": 2025
+    },
+    "Little Shop of Horrors": {
+      "id": 10776,
+      "poster": "/iKkbN17OmFosaW6asCNZTTsyvpu.jpg",
+      "title": "Little Shop of Horrors",
+      "year": 1986
+    },
+    "The Verdict": {
+      "id": 24226,
+      "poster": "/iYEuFP1bpj5yOenKliiRFcNO3VE.jpg",
+      "title": "The Verdict",
+      "year": 1982
+    }
+  },
+  "spotifyEpisodeId": "1FY0tyKOE4Aocw75wxBF5X"
+}

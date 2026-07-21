@@ -1,0 +1,713 @@
+{
+  "slug": "spider-man-is-out-of-the-mcu-and-movies-are-in-a-state-of-ip",
+  "title": "Spider-Man Is Out of the MCU and Movies Are in a State of IP Crisis. Plus: Ben Berman on Untangling 'The Amazing Johnathan Documentary'",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Wesley Morris"
+  ],
+  "published": "2019-08-22",
+  "runtimeMin": 119,
+  "format": "The Disney-Sony Spider-Man standoff kicks off a long, wide-ranging argument with Wesley Morris about IP, movie stars, and whether the middle of the movie business still exists. Plus: director Ben Berman on making The Amazing Johnathan Documentary.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Spider-Man, Sony, Disney, and the state of movie IP",
+      "note": "with Wesley Morris",
+      "films": [
+        {
+          "title": "The Matrix Resurrections",
+          "year": 2021,
+          "note": "Announced this week, at the time untitled beyond 'The Matrix 4,' as a Lana Wachowski solo project after her creative split from sister Lily."
+        },
+        {
+          "title": "Beverly Hills Cop",
+          "year": 1984,
+          "note": "Wesley's touchstone for the mid-80s complaint that action-comedy hybrids were dumbing down movies, via Pauline Kael's State of the Art."
+        },
+        {
+          "title": "Ghostbusters",
+          "year": 1984,
+          "note": "Wesley's example of genre-on-genre construction, calling it 'a Marx Brothers movie with action imperatives.'"
+        },
+        {
+          "title": "Us",
+          "year": 2019,
+          "note": "Cited as the year's only top-15 movie that isn't a sequel, franchise entry, or adaptation, and Jordan Peele's proof that a filmmaker can build a personal brand strong enough to carry an original."
+        },
+        {
+          "title": "The Irishman",
+          "year": 2019,
+          "note": "Wesley's case study for Scorsese's decades of brand-building meaning the film will be treated as an event no matter its quality."
+        },
+        {
+          "title": "A Star Is Born",
+          "year": 2018,
+          "note": "Discussed via Bradley Cooper's refusal to explain the ending or campaign hard, which the group thinks may have cost him a directing nomination."
+        },
+        {
+          "title": "Cold War",
+          "year": 2018,
+          "note": "Amazon's awards-campaign spending is credited with landing Pawel Pawlikowski a surprise Best Director nomination."
+        },
+        {
+          "title": "A Private War",
+          "year": 2018,
+          "note": "Cited as the flip side: a strong Rosamund Pike performance nobody saw or campaigned for."
+        },
+        {
+          "title": "Mulan",
+          "year": 2020,
+          "note": "Disney's live-action remake gets caught up in star Liu Yifei's social media comments supporting Hong Kong police during the protests."
+        },
+        {
+          "title": "Creed",
+          "year": 2015,
+          "note": "Ryan Coogler's move into the Rocky franchise, which the group thinks was actually the riskier project since he had something new to say about it."
+        },
+        {
+          "title": "Zombieland: Double Tap",
+          "year": 2019,
+          "note": "Cited as proof Emma Stone isn't immune to IP gravity even as a genuine movie star."
+        },
+        {
+          "title": "Passengers",
+          "year": 2016,
+          "note": "An original studio movie with two stars that still flopped, cited as proof original star vehicles no longer have a built-in audience."
+        },
+        {
+          "title": "Kong: Skull Island",
+          "year": 2017,
+          "note": "Brie Larson's post-Oscar franchise role, part of a case that she never really got a shot at movie stardom."
+        },
+        {
+          "title": "Captain Marvel",
+          "year": 2019,
+          "note": "Larson's other big post-Oscar franchise role."
+        },
+        {
+          "title": "Unicorn Store",
+          "year": 2017,
+          "note": "Larson's directorial debut, a personal passion project that landed quietly on Netflix."
+        },
+        {
+          "title": "The Glass Castle",
+          "year": 2017,
+          "note": "Larson's other post-Oscar passion project, which didn't land."
+        },
+        {
+          "title": "Hobbs & Shaw",
+          "year": 2019,
+          "note": "Vanessa Kirby's post-Crown breakout, offered as the more interesting career case against Claire Foy's."
+        },
+        {
+          "title": "Mission: Impossible - Fallout",
+          "year": 2018,
+          "note": "Also part of Kirby's rapid rise since The Crown."
+        },
+        {
+          "title": "Unsane",
+          "year": 2018,
+          "note": "Claire Foy's Soderbergh detour after The Crown."
+        },
+        {
+          "title": "First Man",
+          "year": 2018,
+          "note": "Discussed at length: a movie the culture had already decided not to engage with (a white man's story, again, at the wrong moment) that Wesley calls flatly great and thinks should have earned Foy an Oscar nomination."
+        },
+        {
+          "title": "The Girl in the Spider's Web",
+          "year": 2018,
+          "note": "Foy's franchise misfire that nobody saw."
+        },
+        {
+          "title": "Once Upon a Time in Hollywood",
+          "year": 2019,
+          "note": "Cited as the last movie that could stage a true movie-star moment, in the Brad Pitt shirtless-on-the-roof scene."
+        },
+        {
+          "title": "The Nice Guys",
+          "year": 2016,
+          "note": "The Russell Crowe/Ryan Gosling comedy the group wishes were coming out that weekend instead."
+        },
+        {
+          "title": "The Other Guys",
+          "year": 2010,
+          "note": "The Will Ferrell/Mark Wahlberg comedy named in the same breath, mourned as evidence studios used to just try to make people laugh."
+        },
+        {
+          "title": "Vice",
+          "year": 2018,
+          "note": "Adam McKay's expensive, divisive Cheney film, cited as the kind of mid-budget swing studios won't fund anymore."
+        },
+        {
+          "title": "Where'd You Go, Bernadette",
+          "year": 2019,
+          "note": "Discussed as a flawed, uneven film that still earns a defense simply because it's not another franchise entry."
+        },
+        {
+          "title": "Queen & Slim",
+          "year": 2019,
+          "note": "Cited as an upcoming original that Universal is betting money on, though its commercial fate is unclear."
+        },
+        {
+          "title": "Waves",
+          "year": 2019,
+          "note": "Amanda's pick for what she's most excited about: a Trey Edward Shults film so sensory it resists plot summary."
+        },
+        {
+          "title": "Green Book",
+          "year": 2018,
+          "note": "Named as the kind of tidy, message-driven film Waves refuses to be."
+        },
+        {
+          "title": "Knives Out",
+          "year": 2019,
+          "note": "Sean's pick: a Rian Johnson whodunit stacked with stars, discussed as a rare vehicle actually built around movie-star casting."
+        },
+        {
+          "title": "Clue",
+          "year": 1985,
+          "note": "Brought up as the group debates homage versus parody ahead of Knives Out."
+        },
+        {
+          "title": "Uncut Gems",
+          "year": 2019,
+          "note": "Wesley's pick, the new Safdie Brothers film he expects to finally win him over."
+        },
+        {
+          "title": "Good Time",
+          "year": 2017,
+          "note": "The prior Safdie Brothers film that didn't fully work for Wesley."
+        },
+        {
+          "title": "The Lighthouse",
+          "year": 2019,
+          "note": "Wesley's other big excitement: a Willem Dafoe/Robert Pattinson two-hander from Robert Eggers he calls 'deeply damaged and fascinating.'"
+        },
+        {
+          "title": "Nightingale",
+          "year": 2018,
+          "note": "Discussed at length as one of the year's best-directed films, a relentlessly violent revisionist Western that Wesley says nobody's talking about."
+        },
+        {
+          "title": "The Babadook",
+          "year": 2014,
+          "note": "Named as Jennifer Kent's first film, the reason Amanda admits she's been avoiding Nightingale."
+        },
+        {
+          "title": "Roma",
+          "year": 2018,
+          "note": "The reference point for whether Parasite can repeat a foreign-language Best Picture run, discussed as a film some Academy members felt was 'jammed down their throats.'"
+        },
+        {
+          "title": "Parasite",
+          "year": 2019,
+          "note": "Bong Joon-ho's Cannes winner, framed as building toward a real Best Picture push."
+        },
+        {
+          "title": "Zama",
+          "year": 2017,
+          "note": "Named as maybe Lucrecia Martel's best film, cited as an example of a great director getting no attention."
+        },
+        {
+          "title": "Gemini Man",
+          "year": 2019,
+          "note": "Ang Lee's upcoming film, mentioned alongside his prior swing as evidence even acclaimed directors get written off before release."
+        },
+        {
+          "title": "Pain and Glory",
+          "year": 2019,
+          "note": "Almodovar's upcoming film, cited as proof it took him decades to earn the standing to keep making personal films."
+        },
+        {
+          "title": "Fighting with My Family",
+          "year": 2019,
+          "note": "Wesley watched the whole thing on a plane for Florence Pugh, and dwells on the odd sight of Vince Vaughn and Dwayne Johnson playing old friends."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Ben Berman on making The Amazing Johnathan Documentary",
+      "guest": "Ben Berman on",
+      "films": [
+        {
+          "title": "The Amazing Johnathan Documentary",
+          "year": 2019,
+          "note": "Berman's Sundance documentary about magician the Amazing Johnathan, which spirals once a second film crew shows up to make a competing doc about the same dying subject."
+        },
+        {
+          "title": "F for Fake",
+          "year": 1973,
+          "note": "Orson Welles's essay film on forgery is a late discovered touchstone; its closing trick, admitting the last 30 minutes were a lie, is one Berman cites directly."
+        },
+        {
+          "title": "Minding the Gap",
+          "year": 2018,
+          "note": "Berman's favorite film of the previous year, and part of why he wanted to go with Hulu."
+        },
+        {
+          "title": "The Florida Project",
+          "year": 2017,
+          "note": "The last thing Berman rewatched, unrelated to the interview's main subject."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing during the IP discussion",
+      "films": [
+        "Spider-Man: Far From Home",
+        "Gone Girl",
+        "Home Alone",
+        "Aladdin",
+        "Fast Five",
+        "Rocky",
+        "Zombieland",
+        "Tequila Sunrise",
+        "Krisha",
+        "It Comes at Night",
+        "The Witch",
+        "Ash Is Purest White",
+        "Transit",
+        "Billy Lynn's Long Halftime Walk",
+        "Little Women",
+        "Logan Lucky",
+        "Pretty Woman"
+      ]
+    },
+    {
+      "group": "Named in the Ben Berman interview",
+      "films": [
+        "Diaries",
+        "Sherman's March",
+        "Catfish",
+        "Tickled"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Boys",
+      "The Twilight Zone",
+      "On Cinema",
+      "Tim and Eric Awesome Show, Great Job!",
+      "Eagleheart",
+      "Shangri-La"
+    ],
+    "Ads": [
+      "M&M's Caramel"
+    ]
+  },
+  "tmdbOverrides": {
+    "Mulan": 337401,
+    "Hobbs & Shaw": 384018,
+    "Nightingale": 400090,
+    "Transit": 471853,
+    "Sherman's March": 41480,
+    "Aladdin": 420817
+  },
+  "tmdb": {
+    "The Matrix Resurrections": {
+      "id": 624860,
+      "poster": "/8c4a8kE7PizaGQQnditMmI1xbRp.jpg",
+      "title": "The Matrix Resurrections",
+      "year": 2021
+    },
+    "Beverly Hills Cop": {
+      "id": 90,
+      "poster": "/eBJEvKkhQ0tUt1dBAcTEYW6kCle.jpg",
+      "title": "Beverly Hills Cop",
+      "year": 1984
+    },
+    "Ghostbusters": {
+      "id": 620,
+      "poster": "/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
+      "title": "Ghostbusters",
+      "year": 1984
+    },
+    "Us": {
+      "id": 458723,
+      "poster": "/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+      "title": "Us",
+      "year": 2019
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "A Star Is Born": {
+      "id": 332562,
+      "poster": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "title": "A Star Is Born",
+      "year": 2018
+    },
+    "Cold War": {
+      "id": 440298,
+      "poster": "/6rbS8oPIgUMhQgIX8oGVTtlNgLR.jpg",
+      "title": "Cold War",
+      "year": 2018
+    },
+    "A Private War": {
+      "id": 475132,
+      "poster": "/pAh6uDR9bBznybiJCVYZNJmjg63.jpg",
+      "title": "A Private War",
+      "year": 2018
+    },
+    "Mulan": {
+      "id": 337401,
+      "poster": "/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg",
+      "title": "Mulan",
+      "year": 2020
+    },
+    "Creed": {
+      "id": 312221,
+      "poster": "/1BfTsk5VWuw8FCocAhCyqnRbEzq.jpg",
+      "title": "Creed",
+      "year": 2015
+    },
+    "Zombieland: Double Tap": {
+      "id": 338967,
+      "poster": "/dtRbVsUb5O12WWO54SRpiMtHKC0.jpg",
+      "title": "Zombieland: Double Tap",
+      "year": 2019
+    },
+    "Passengers": {
+      "id": 274870,
+      "poster": "/jK9S6HANSf2no64v1x1HxfcpmcA.jpg",
+      "title": "Passengers",
+      "year": 2016
+    },
+    "Kong: Skull Island": {
+      "id": 293167,
+      "poster": "/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg",
+      "title": "Kong: Skull Island",
+      "year": 2017
+    },
+    "Captain Marvel": {
+      "id": 299537,
+      "poster": "/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+      "title": "Captain Marvel",
+      "year": 2019
+    },
+    "Unicorn Store": {
+      "id": 423949,
+      "poster": "/rGe3eWy3F3qggDZMc86bASN4I7C.jpg",
+      "title": "Unicorn Store",
+      "year": 2017
+    },
+    "The Glass Castle": {
+      "id": 336000,
+      "poster": "/8NPP7mliHLlVMHce8SjApiRxgzm.jpg",
+      "title": "The Glass Castle",
+      "year": 2017
+    },
+    "Hobbs & Shaw": {
+      "id": 384018,
+      "poster": "/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg",
+      "title": "Fast & Furious Presents: Hobbs & Shaw",
+      "year": 2019
+    },
+    "Mission: Impossible - Fallout": {
+      "id": 353081,
+      "poster": "/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+      "title": "Mission: Impossible - Fallout",
+      "year": 2018
+    },
+    "Unsane": {
+      "id": 467660,
+      "poster": "/wdaUssQhZDOgegkJZx7NfY75HRX.jpg",
+      "title": "Unsane",
+      "year": 2018
+    },
+    "First Man": {
+      "id": 369972,
+      "poster": "/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
+      "title": "First Man",
+      "year": 2018
+    },
+    "The Girl in the Spider's Web": {
+      "id": 446807,
+      "poster": "/w4ibr8R702DCjwYniry1D1XwQXj.jpg",
+      "title": "The Girl in the Spider's Web",
+      "year": 2018
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "The Nice Guys": {
+      "id": 290250,
+      "poster": "/clq4So9spa9cXk3MZy2iMdqkxP2.jpg",
+      "title": "The Nice Guys",
+      "year": 2016
+    },
+    "The Other Guys": {
+      "id": 27581,
+      "poster": "/wNEHNqo3MgHmj3BUiPSqqq5czcm.jpg",
+      "title": "The Other Guys",
+      "year": 2010
+    },
+    "Vice": {
+      "id": 429197,
+      "poster": "/1gCab6rNv1r6V64cwsU4oEr649Y.jpg",
+      "title": "Vice",
+      "year": 2018
+    },
+    "Where'd You Go, Bernadette": {
+      "id": 405177,
+      "poster": "/BziuuZULnGmTRLthEty1QdKSEo.jpg",
+      "title": "Where'd You Go, Bernadette",
+      "year": 2019
+    },
+    "Queen & Slim": {
+      "id": 536743,
+      "poster": "/qfIJOmsiBcum6EGosiy5gTF6ihk.jpg",
+      "title": "Queen & Slim",
+      "year": 2019
+    },
+    "Waves": {
+      "id": 533444,
+      "poster": "/3xbjL0z8iH8e8L3USyeKGQrBfuZ.jpg",
+      "title": "Waves",
+      "year": 2019
+    },
+    "Green Book": {
+      "id": 490132,
+      "poster": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+      "title": "Green Book",
+      "year": 2018
+    },
+    "Knives Out": {
+      "id": 546554,
+      "poster": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+      "title": "Knives Out",
+      "year": 2019
+    },
+    "Clue": {
+      "id": 15196,
+      "poster": "/aRxbYOYHS8T73nzR8hsLousoplR.jpg",
+      "title": "Clue",
+      "year": 1985
+    },
+    "Uncut Gems": {
+      "id": 473033,
+      "poster": "/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+      "title": "Uncut Gems",
+      "year": 2019
+    },
+    "Good Time": {
+      "id": 429200,
+      "poster": "/yE1c9hj5Hf8a9KplAdRdhADqUro.jpg",
+      "title": "Good Time",
+      "year": 2017
+    },
+    "The Lighthouse": {
+      "id": 503919,
+      "poster": "/yAKNmpcUweGH6WMCEWenwU9PsbE.jpg",
+      "title": "The Lighthouse",
+      "year": 2019
+    },
+    "Nightingale": {
+      "id": 400090,
+      "poster": "/wEzqFiatOJSbGBu6pb8z5sQuZt1.jpg",
+      "title": "The Nightingale",
+      "year": 2018
+    },
+    "The Babadook": {
+      "id": 242224,
+      "poster": "/qt3fqapeo94TfvMyld8P7gkpXLz.jpg",
+      "title": "The Babadook",
+      "year": 2014
+    },
+    "Roma": {
+      "id": 426426,
+      "poster": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+      "title": "Roma",
+      "year": 2018
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Zama": {
+      "id": 326382,
+      "poster": "/kpp9R6iYKSIXxfyW0feVYrk0jsg.jpg",
+      "title": "Zama",
+      "year": 2017
+    },
+    "Gemini Man": {
+      "id": 453405,
+      "poster": "/uTALxjQU8e1lhmNjP9nnJ3t2pRU.jpg",
+      "title": "Gemini Man",
+      "year": 2019
+    },
+    "Pain and Glory": {
+      "id": 519010,
+      "poster": "/cMlueArJXXwZbeLpb4NhC3pxmBk.jpg",
+      "title": "Pain and Glory",
+      "year": 2019
+    },
+    "Fighting with My Family": {
+      "id": 445629,
+      "poster": "/pGLTCdeoeD57hK5RZTP2KB3DP2f.jpg",
+      "title": "Fighting with My Family",
+      "year": 2019
+    },
+    "The Amazing Johnathan Documentary": {
+      "id": 568693,
+      "poster": "/gduS1BqSJ2Jg6XiG9HvR1IAtu60.jpg",
+      "title": "The Amazing Johnathan Documentary",
+      "year": 2019
+    },
+    "F for Fake": {
+      "id": 43003,
+      "poster": "/fVeIDxS73CrosoeVOaefQuCUGZg.jpg",
+      "title": "F for Fake",
+      "year": 1973
+    },
+    "Minding the Gap": {
+      "id": 489985,
+      "poster": "/uOu2YgrryHD1UlngykzTodAxGdC.jpg",
+      "title": "Minding the Gap",
+      "year": 2018
+    },
+    "The Florida Project": {
+      "id": 394117,
+      "poster": "/5QnDxdJg1fi6uMSkSi4x8tHsltm.jpg",
+      "title": "The Florida Project",
+      "year": 2017
+    },
+    "Spider-Man: Far From Home": {
+      "id": 429617,
+      "poster": "/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+      "title": "Spider-Man: Far From Home",
+      "year": 2019
+    },
+    "Gone Girl": {
+      "id": 210577,
+      "poster": "/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+      "title": "Gone Girl",
+      "year": 2014
+    },
+    "Home Alone": {
+      "id": 771,
+      "poster": "/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
+      "title": "Home Alone",
+      "year": 1990
+    },
+    "Aladdin": {
+      "id": 420817,
+      "poster": "/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg",
+      "title": "Aladdin",
+      "year": 2019
+    },
+    "Fast Five": {
+      "id": 51497,
+      "poster": "/gEfQjjQwY7fh5bI4GlG0RrBu7Pz.jpg",
+      "title": "Fast Five",
+      "year": 2011
+    },
+    "Rocky": {
+      "id": 1366,
+      "poster": "/aYtBYWqCdUqcnoodWJdcTG3pFev.jpg",
+      "title": "Rocky",
+      "year": 1976
+    },
+    "Zombieland": {
+      "id": 19908,
+      "poster": "/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg",
+      "title": "Zombieland",
+      "year": 2009
+    },
+    "Tequila Sunrise": {
+      "id": 10396,
+      "poster": "/8LoG0GL5N5e7zvvXezwwGnUfRHL.jpg",
+      "title": "Tequila Sunrise",
+      "year": 1988
+    },
+    "Krisha": {
+      "id": 323929,
+      "poster": "/xN4xhl5HYhfO9W8Y1ZZEnqmQEip.jpg",
+      "title": "Krisha",
+      "year": 2016
+    },
+    "It Comes at Night": {
+      "id": 418078,
+      "poster": "/rNKJpFMlOZn5zkzBPZxEJrQn5Km.jpg",
+      "title": "It Comes at Night",
+      "year": 2017
+    },
+    "The Witch": {
+      "id": 310131,
+      "poster": "/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
+      "title": "The Witch",
+      "year": 2016
+    },
+    "Ash Is Purest White": {
+      "id": 441393,
+      "poster": "/l6UkF23uWkO25x7UEMnT0H4R5GR.jpg",
+      "title": "Ash Is Purest White",
+      "year": 2018
+    },
+    "Transit": {
+      "id": 471853,
+      "poster": "/3YLOCnokMMSIOCvA0kCnkhpTD79.jpg",
+      "title": "Transit",
+      "year": 2018
+    },
+    "Billy Lynn's Long Halftime Walk": {
+      "id": 293767,
+      "poster": "/jjuDRavgTazvs5ishEgnfZ8YhbV.jpg",
+      "title": "Billy Lynn's Long Halftime Walk",
+      "year": 2016
+    },
+    "Little Women": {
+      "id": 331482,
+      "poster": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+      "title": "Little Women",
+      "year": 2019
+    },
+    "Logan Lucky": {
+      "id": 399170,
+      "poster": "/mQrhrBaaHvRfBQq0Px3HtVbH9iE.jpg",
+      "title": "Logan Lucky",
+      "year": 2017
+    },
+    "Pretty Woman": {
+      "id": 114,
+      "poster": "/hVHUfT801LQATGd26VPzhorIYza.jpg",
+      "title": "Pretty Woman",
+      "year": 1990
+    },
+    "Diaries": null,
+    "Sherman's March": {
+      "id": 41480,
+      "poster": "/55YscDYNXdffYwDGMrpveqnsa9d.jpg",
+      "title": "Sherman's March",
+      "year": 1985
+    },
+    "Catfish": {
+      "id": 42296,
+      "poster": "/mXNxee2ix6Ke0bSIqFST0UhbVLR.jpg",
+      "title": "Catfish",
+      "year": 2010
+    },
+    "Tickled": {
+      "id": 373072,
+      "poster": "/qxUbPwyhzNEyUZYOZm6t8yYSQf.jpg",
+      "title": "Tickled",
+      "year": 2016
+    }
+  }
+}

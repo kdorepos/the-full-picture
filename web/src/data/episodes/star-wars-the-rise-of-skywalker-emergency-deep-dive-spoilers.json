@@ -1,0 +1,238 @@
+{
+  "slug": "star-wars-the-rise-of-skywalker-emergency-deep-dive-spoilers",
+  "title": "'Star Wars: The Rise of Skywalker' Emergency Deep Dive (SPOILERS) | The Big Picture",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Mallory Rubin"
+  ],
+  "published": "2019-12-20",
+  "runtimeMin": 91,
+  "format": "Sean Fennessey and Mallory Rubin, one viewing deep, process the end of the Skywalker saga the morning after seeing it.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "How do you end a saga?",
+      "note": "warming up before the spoilers",
+      "films": [
+        {
+          "title": "The Lord of the Rings: The Return of the King",
+          "year": 2003,
+          "note": "The gold standard for sticking a trilogy's landing, though the hosts note it had a source text to work from that Star Wars doesn't."
+        },
+        {
+          "title": "Harry Potter and the Deathly Hallows: Part 2",
+          "year": 2011,
+          "note": "Another ending they call satisfying, with a side gripe about splitting the last book into two movies."
+        },
+        {
+          "title": "Ocean's Thirteen",
+          "year": 2007,
+          "note": "Cited as a trilogy that closed itself out well."
+        },
+        {
+          "title": "Ocean's Eight",
+          "year": 2018,
+          "note": "The proof the well can still be revisited without ruining the original ending."
+        },
+        {
+          "title": "Avengers: Endgame",
+          "year": 2019,
+          "note": "Called the real winner of the week: the same job as 'Rise of Skywalker,' closing out a sprawling, multi-filmmaker saga, done with a coherence Star Wars couldn't manage."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "'Star Wars: The Rise of Skywalker'",
+      "note": "spoilers throughout",
+      "films": [
+        {
+          "title": "Star Wars: The Rise of Skywalker",
+          "year": 2019,
+          "note": "J.J. Abrams closes the sequel trilogy by reviving Palpatine with no real explanation and making Rey his granddaughter, a twist the hosts can't fully get behind even as they try to talk themselves into it. They fault the breakneck pace, fake-out deaths (Chewbacca survives an explosion minutes after 'dying,' Kylo Ren gets resurrected) that drain the stakes, and a script visibly reverse-engineered around the Carrie Fisher footage available after her death. What works: Rey and Kylo Ren's force-bond scenes, Adam Driver and Daisy Ridley's performances, and Rey igniting her own yellow lightsaber at the end."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The sequel trilogy",
+      "films": [
+        "Star Wars: The Force Awakens",
+        "Star Wars: The Last Jedi"
+      ]
+    },
+    {
+      "group": "The wider saga",
+      "films": [
+        "Star Wars",
+        "Return of the Jedi",
+        "Star Wars: Episode I - The Phantom Menace",
+        "Star Wars: Episode II - Attack of the Clones",
+        "Star Wars: Episode III - Revenge of the Sith",
+        "Rogue One: A Star Wars Story",
+        "Solo: A Star Wars Story"
+      ]
+    },
+    {
+      "group": "Rian Johnson, elsewhere",
+      "films": [
+        "Knives Out"
+      ]
+    },
+    {
+      "group": "Franchises that couldn't let a trilogy stay finished",
+      "films": [
+        "Alien 3",
+        "Alien Resurrection"
+      ]
+    },
+    {
+      "group": "Tomorrow on the show",
+      "films": [
+        "Cats"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Alien 3": 8077
+  },
+  "excluded": {
+    "TV": [
+      "Watchmen",
+      "The Mandalorian",
+      "Star Wars: The Clone Wars",
+      "Star Wars Rebels",
+      "Andor",
+      "Obi-Wan Kenobi",
+      "Game of Thrones"
+    ],
+    "Podcasts": [
+      "Binge Mode",
+      "The Rewatchables",
+      "The Watch"
+    ],
+    "Ads": [
+      "Bose AR",
+      "NHTSA drunk driving PSA"
+    ]
+  },
+  "tmdb": {
+    "The Lord of the Rings: The Return of the King": {
+      "id": 122,
+      "poster": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003
+    },
+    "Harry Potter and the Deathly Hallows: Part 2": {
+      "id": 12445,
+      "poster": "/c54HpQmuwXjHq2C9wmoACjxoom3.jpg",
+      "title": "Harry Potter and the Deathly Hallows: Part 2",
+      "year": 2011
+    },
+    "Ocean's Thirteen": {
+      "id": 298,
+      "poster": "/pBsZs4zYUiUTemqbikTZ76iQRaU.jpg",
+      "title": "Ocean's Thirteen",
+      "year": 2007
+    },
+    "Ocean's Eight": {
+      "id": 402900,
+      "poster": "/MvYpKlpFukTivnlBhizGbkAe3v.jpg",
+      "title": "Ocean's Eight",
+      "year": 2018
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Star Wars: The Rise of Skywalker": {
+      "id": 181812,
+      "poster": "/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+      "title": "Star Wars: The Rise of Skywalker",
+      "year": 2019
+    },
+    "Star Wars: The Force Awakens": {
+      "id": 140607,
+      "poster": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+      "title": "Star Wars: The Force Awakens",
+      "year": 2015
+    },
+    "Star Wars: The Last Jedi": {
+      "id": 181808,
+      "poster": "/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
+      "title": "Star Wars: The Last Jedi",
+      "year": 2017
+    },
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
+    },
+    "Return of the Jedi": {
+      "id": 1892,
+      "poster": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+      "title": "Return of the Jedi",
+      "year": 1983
+    },
+    "Star Wars: Episode I - The Phantom Menace": {
+      "id": 1893,
+      "poster": "/xQzMnuiv81d0gfUIVstuleNutjA.jpg",
+      "title": "Star Wars: Episode I - The Phantom Menace",
+      "year": 1999
+    },
+    "Star Wars: Episode II - Attack of the Clones": {
+      "id": 1894,
+      "poster": "/oZNPzxqM2s5DyVWab09NTQScDQt.jpg",
+      "title": "Star Wars: Episode II - Attack of the Clones",
+      "year": 2002
+    },
+    "Star Wars: Episode III - Revenge of the Sith": {
+      "id": 1895,
+      "poster": "/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
+      "title": "Star Wars: Episode III - Revenge of the Sith",
+      "year": 2005
+    },
+    "Rogue One: A Star Wars Story": {
+      "id": 330459,
+      "poster": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+      "title": "Rogue One: A Star Wars Story",
+      "year": 2016
+    },
+    "Solo: A Star Wars Story": {
+      "id": 348350,
+      "poster": "/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg",
+      "title": "Solo: A Star Wars Story",
+      "year": 2018
+    },
+    "Knives Out": {
+      "id": 546554,
+      "poster": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+      "title": "Knives Out",
+      "year": 2019
+    },
+    "Alien 3": {
+      "id": 8077,
+      "poster": "/xh5wI0UoW7DfS1IyLy3d2CgrCEP.jpg",
+      "title": "Alien³",
+      "year": 1992
+    },
+    "Alien Resurrection": {
+      "id": 8078,
+      "poster": "/9aRDMlU5Zwpysilm0WCWzU2PCFv.jpg",
+      "title": "Alien Resurrection",
+      "year": 1997
+    },
+    "Cats": {
+      "id": 536869,
+      "poster": "/aCNch5FmzT2WaUcY44925owIZXY.jpg",
+      "title": "Cats",
+      "year": 2019
+    }
+  }
+}

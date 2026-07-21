@@ -1,0 +1,547 @@
+{
+  "slug": "ten-ways-to-save-the-2021-academy-awards-mailbag-special",
+  "title": "Ten Ways to Save the 2021 Academy Awards Mailbag Special",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2021-03-12",
+  "runtimeMin": 89,
+  "tmdbOverrides": {
+    "Borat Subsequent Moviefilm": 740985,
+    "The French Dispatch": 542178
+  },
+  "format": "Sean and Amanda work through the Critics' Choice, DGA, and BAFTA nominations, predict the ten Best Picture nominees days out from the real announcement, and name who they'd add if they ran the Academy. Then a mailbag on ratings, format fixes, and a five-song Oscars medley, before Anthony and Joe Russo join to talk about Cherry.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Precursor Season: Critics' Choice, DGA, and BAFTA",
+      "note": "Nomadland's sweep continues, and BAFTA's new jury system produces a curiously all-white Best Film lineup",
+      "films": [
+        {
+          "title": "Nomadland",
+          "year": 2020,
+          "note": "Wins Best Picture, Director, adapted screenplay, and cinematography at the Critics' Choice Awards; the hosts call it the clear front-runner heading into Oscar noms."
+        },
+        {
+          "title": "Minari",
+          "year": 2020,
+          "note": "DGA nominee for Lee Isaac Chung; the hosts call it a lock."
+        },
+        {
+          "title": "Promising Young Woman",
+          "year": 2020,
+          "note": "DGA nominee for Emerald Fennell and a BAFTA Best Film nominee."
+        },
+        {
+          "title": "Mank",
+          "year": 2020,
+          "note": "DGA nominee for David Fincher; recognized by nearly every artisan guild despite lukewarm person-to-person enthusiasm."
+        },
+        {
+          "title": "The Trial of the Chicago 7",
+          "year": 2020,
+          "note": "DGA nominee for Aaron Sorkin and a BAFTA Best Film nominee."
+        },
+        {
+          "title": "The Father",
+          "year": 2020,
+          "note": "BAFTA Best Film nominee."
+        },
+        {
+          "title": "The Mauritanian",
+          "year": 2021,
+          "note": "BAFTA Best Film nominee."
+        },
+        {
+          "title": "Ma Rainey's Black Bottom",
+          "year": 2020,
+          "note": "Absent from BAFTA's all-white Best Film list despite the diversity elsewhere on the ballot."
+        },
+        {
+          "title": "Da 5 Bloods",
+          "year": 2020,
+          "note": "Also shut out of BAFTA Best Film; Denzel Washington was eligible as a producer and still went unrecognized by BAFTA."
+        },
+        {
+          "title": "One Night in Miami",
+          "year": 2020,
+          "note": "The third Black-led Best Picture contender left off BAFTA's Best Film list."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Predicting the Best Picture Ten",
+      "note": "working from the PGA's ten nominees, four days before the real Oscar noms",
+      "films": [
+        {
+          "title": "Nomadland",
+          "year": 2020,
+          "note": "\"Number one with a bullet\": an easy lock."
+        },
+        {
+          "title": "Minari",
+          "year": 2020,
+          "note": "Lock."
+        },
+        {
+          "title": "Ma Rainey's Black Bottom",
+          "year": 2020,
+          "note": "Lock."
+        },
+        {
+          "title": "Mank",
+          "year": 2020,
+          "note": "Lock, though Sean flags actors as the one guild not fully embracing it."
+        },
+        {
+          "title": "The Trial of the Chicago 7",
+          "year": 2020,
+          "note": "Lock."
+        },
+        {
+          "title": "Promising Young Woman",
+          "year": 2020,
+          "note": "Predicted in; its low rental price doesn't drop until the Tuesday after Oscar noms, which the hosts think will drive a fresh wave of discourse."
+        },
+        {
+          "title": "Sound of Metal",
+          "year": 2019,
+          "note": "Predicted in on the strength of Riz Ahmed's performance, despite neither host loving the film outright."
+        },
+        {
+          "title": "One Night in Miami",
+          "year": 2020,
+          "note": "Predicted in."
+        },
+        {
+          "title": "Judas and the Black Messiah",
+          "year": 2021,
+          "note": "Sean's hopeful pick for the ninth or tenth slot, comparing its late-season surge to Phantom Thread's."
+        },
+        {
+          "title": "Borat Subsequent Moviefilm",
+          "year": 2020,
+          "note": "The other contender for that last slot; Amanda doubts both Borat and Judas get in together."
+        },
+        {
+          "title": "News of the World",
+          "year": 2020,
+          "note": "Discussed as a possible dark horse the PGA didn't nominate."
+        },
+        {
+          "title": "Soul",
+          "year": 2020,
+          "note": "The PGA snub the hosts find baffling for a well-liked, critically strong Pixar film."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Under-the-Radar Picks: Who They'd Like to See Nominated",
+      "note": "Best Director, lead and supporting acting, and screenplay wishlists",
+      "films": [
+        {
+          "title": "Da 5 Bloods",
+          "year": 2020,
+          "note": "Delroy Lindo's Best Actor snub is the one both hosts expect to generate the most outrage Monday morning."
+        },
+        {
+          "title": "Another Round",
+          "year": 2020,
+          "note": "Sean's Best Actor pick for Mads Mikkelsen, who he calls at least plausible given the film's other recognition."
+        },
+        {
+          "title": "The Father",
+          "year": 2020,
+          "note": "Anthony Hopkins would win Best Actor outright in a year without Chadwick Boseman, per Sean."
+        },
+        {
+          "title": "Malcolm & Marie",
+          "year": 2021,
+          "note": "Amanda's Best Actress curveball for Zendaya, though she's fine with the film missing given Zendaya's career ahead of her."
+        },
+        {
+          "title": "French Exit",
+          "year": 2020,
+          "note": "Amanda's hunch for a surprise Michelle Pfeiffer Best Actress nomination, despite the film not working for her overall."
+        },
+        {
+          "title": "Judas and the Black Messiah",
+          "year": 2021,
+          "note": "Dominique Fishback for Best Supporting Actress, and Sean's pick for original screenplay off its WGA nomination."
+        },
+        {
+          "title": "Borat Subsequent Moviefilm",
+          "year": 2020,
+          "note": "Amanda's adapted screenplay pick, also boosted by a WGA nomination."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Mailbag: Ratings, Rewrites, and What-Ifs",
+      "note": "listener questions on the postponed 2020 movies that might've been Best Picture contenders, and a stat-padding Avatar re-release",
+      "films": [
+        {
+          "title": "Avatar",
+          "year": 2009,
+          "note": "Prompted by news of its China re-release chasing Avengers: Endgame's box-office record; Sean dismisses it as \"stat padding.\""
+        },
+        {
+          "title": "West Side Story",
+          "year": 2021,
+          "note": "Named as a postponed 2020 release that could've been in the Best Picture conversation."
+        },
+        {
+          "title": "The French Dispatch",
+          "year": 2021,
+          "note": "Same list."
+        },
+        {
+          "title": "In the Heights",
+          "year": 2021,
+          "note": "Sean's pick for the postponed film most likely to have been \"in the conversation in a big way.\""
+        },
+        {
+          "title": "Dune",
+          "year": 2021,
+          "note": "Amanda raises it as an open question: event movie or something with awards weight."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Mailbag: Amanda's Five-Song Oscars Medley",
+      "note": "a listener asks for five musical numbers pulled from film history, performed by contemporary artists",
+      "films": [
+        {
+          "title": "Breakfast at Tiffany's",
+          "year": 1961,
+          "note": "Source of \"Moon River\"; Amanda's dream performer is Frank Ocean."
+        },
+        {
+          "title": "Meet Me in St. Louis",
+          "year": 1944,
+          "note": "Source of \"Have Yourself a Merry Little Christmas\"; Amanda picks Sturgill Simpson to sing it."
+        },
+        {
+          "title": "Skyfall",
+          "year": 2012,
+          "note": "Amanda wants Adele back for the title song, at full volume."
+        },
+        {
+          "title": "Wayne's World",
+          "year": 1992,
+          "note": "The Lemonheads' cover of \"Mrs. Robinson,\" which Amanda would stage with Simon & Garfunkel visibly annoyed nearby."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Anthony and Joe Russo on Cherry",
+      "guest": "Anthony and Joe Russo on",
+      "films": [
+        {
+          "title": "Cherry",
+          "year": 2021,
+          "note": "Adapted from Nico Walker's semi-autobiographical novel, negotiated over prison phone calls with the incarcerated author. Stars Tom Holland, cast during the Captain America: Civil War audition process. The Russos structure the film in visually distinct chapters (romance, military training, war, addiction, incarceration), aimed at a Gen Z audience they see as processing images differently than prior generations."
+        },
+        {
+          "title": "Captain America: The Winter Soldier",
+          "year": 2014,
+          "note": "Cited in the intro as part of the Russos' résumé."
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "year": 2018,
+          "note": "Cited in the intro."
+        },
+        {
+          "title": "Avengers: Endgame",
+          "year": 2019,
+          "note": "Cited in the intro as the highest-grossing film of all time at the time."
+        },
+        {
+          "title": "Extraction",
+          "year": 2020,
+          "note": "Brought up by contrast with Cherry, a movie the Russos produced but didn't direct themselves."
+        },
+        {
+          "title": "The White Tiger",
+          "year": 2021,
+          "note": "Joe Russo's last-great-thing-he's-seen pick, praised for its international storytelling."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Joker",
+        "Ford v Ferrari",
+        "1917",
+        "Once Upon a Time in Hollywood",
+        "Black Panther",
+        "Phantom Thread"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "WandaVision",
+      "Small Axe (Mangrove, Lovers Rock)",
+      "Arrested Development",
+      "Community"
+    ],
+    "Podcasts": [
+      "Chapo Trap House"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "Netflix FIFA World Cup Launch Edition",
+      "Carvana",
+      "Starbucks Frappuccino"
+    ]
+  },
+  "tmdb": {
+    "Nomadland": {
+      "id": 581734,
+      "poster": "/8Vc5EOUEIF1EUXuX9eLFf7BvN3P.jpg",
+      "title": "Nomadland",
+      "year": 2021
+    },
+    "Minari": {
+      "id": 615643,
+      "poster": "/6mPNdmjdbVKPITv3LLCmQoKs9Zw.jpg",
+      "title": "Minari",
+      "year": 2021
+    },
+    "Promising Young Woman": {
+      "id": 582014,
+      "poster": "/73QoFJFmUrJfDG2EynFjNc5gJxk.jpg",
+      "title": "Promising Young Woman",
+      "year": 2020
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "The Trial of the Chicago 7": {
+      "id": 556984,
+      "poster": "/ahf5cVdooMAlDRiJOZQNuLqa1Is.jpg",
+      "title": "The Trial of the Chicago 7",
+      "year": 2020
+    },
+    "The Father": {
+      "id": 600354,
+      "poster": "/pr3bEQ517uMb5loLvjFQi8uLAsp.jpg",
+      "title": "The Father",
+      "year": 2020
+    },
+    "The Mauritanian": {
+      "id": 644583,
+      "poster": "/lIADEa6oH74uUapjsPbNRzxus8M.jpg",
+      "title": "The Mauritanian",
+      "year": 2021
+    },
+    "Ma Rainey's Black Bottom": {
+      "id": 615667,
+      "poster": "/pvtyxijaBrCSbByXLcUIDDSvc40.jpg",
+      "title": "Ma Rainey's Black Bottom",
+      "year": 2020
+    },
+    "Da 5 Bloods": {
+      "id": 581859,
+      "poster": "/yx4cp1ljJMDSFeEex0Zjv45b55E.jpg",
+      "title": "Da 5 Bloods",
+      "year": 2020
+    },
+    "One Night in Miami": {
+      "id": 661914,
+      "poster": "/1DLUb9PTDqXMSgsD7RmiJs7ZJIx.jpg",
+      "title": "One Night in Miami...",
+      "year": 2020
+    },
+    "Sound of Metal": {
+      "id": 502033,
+      "poster": "/3178oOJKKPDeQ2legWQvMPpllv.jpg",
+      "title": "Sound of Metal",
+      "year": 2020
+    },
+    "Judas and the Black Messiah": {
+      "id": 583406,
+      "poster": "/iIgr75GoqFxe1X5Wz9siOODGe9u.jpg",
+      "title": "Judas and the Black Messiah",
+      "year": 2021
+    },
+    "Borat Subsequent Moviefilm": {
+      "id": 740985,
+      "poster": "/3L1Ml5RWjFVfVq3rQENvgFymT0U.jpg",
+      "title": "Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan",
+      "year": 2020
+    },
+    "News of the World": {
+      "id": 581032,
+      "poster": "/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+      "title": "News of the World",
+      "year": 2020
+    },
+    "Soul": {
+      "id": 508442,
+      "poster": "/6jmppcaubzLF8wkXM36ganVISCo.jpg",
+      "title": "Soul",
+      "year": 2020
+    },
+    "Another Round": {
+      "id": 580175,
+      "poster": "/aDcIt4NHURLKnAEu7gow51Yd00Q.jpg",
+      "title": "Another Round",
+      "year": 2020
+    },
+    "Malcolm & Marie": {
+      "id": 722913,
+      "poster": "/bdidDnAZwchN5vTenoNuhGPJTri.jpg",
+      "title": "Malcolm & Marie",
+      "year": 2021
+    },
+    "French Exit": {
+      "id": 599960,
+      "poster": "/l5iZuQr62YCs72AZ9P3HwApowaC.jpg",
+      "title": "French Exit",
+      "year": 2021
+    },
+    "Avatar": {
+      "id": 19995,
+      "poster": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "title": "Avatar",
+      "year": 2009
+    },
+    "West Side Story": {
+      "id": 511809,
+      "poster": "/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+      "title": "West Side Story",
+      "year": 2021
+    },
+    "The French Dispatch": {
+      "id": 542178,
+      "poster": "/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg",
+      "title": "The French Dispatch of the Liberty, Kansas Evening Sun",
+      "year": 2021
+    },
+    "In the Heights": {
+      "id": 467909,
+      "poster": "/RO4KoJyoQMQzh9z76d4v4FJMmJ.jpg",
+      "title": "In the Heights",
+      "year": 2021
+    },
+    "Dune": {
+      "id": 438631,
+      "poster": "/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "title": "Dune",
+      "year": 2021
+    },
+    "Breakfast at Tiffany's": {
+      "id": 164,
+      "poster": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+      "title": "Breakfast at Tiffany's",
+      "year": 1961
+    },
+    "Meet Me in St. Louis": {
+      "id": 909,
+      "poster": "/ekVeUvG81pidsv2LMtWf5yYcNbq.jpg",
+      "title": "Meet Me in St. Louis",
+      "year": 1944
+    },
+    "Skyfall": {
+      "id": 37724,
+      "poster": "/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
+      "title": "Skyfall",
+      "year": 2012
+    },
+    "Wayne's World": {
+      "id": 8872,
+      "poster": "/fHwZnFNWR7PaS9t5EBwTvGPeoYQ.jpg",
+      "title": "Wayne's World",
+      "year": 1992
+    },
+    "Cherry": {
+      "id": 544401,
+      "poster": "/pwDvkDyaHEU9V7cApQhbcSJMG1w.jpg",
+      "title": "Cherry",
+      "year": 2021
+    },
+    "Captain America: The Winter Soldier": {
+      "id": 100402,
+      "poster": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+      "title": "Captain America: The Winter Soldier",
+      "year": 2014
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Extraction": {
+      "id": 545609,
+      "poster": "/nygOUcBKPHFTbxsYRFZVePqgPK6.jpg",
+      "title": "Extraction",
+      "year": 2020
+    },
+    "The White Tiger": {
+      "id": 628534,
+      "poster": "/5JnmseS3DZ6ad2VMbrnbGCs8Rst.jpg",
+      "title": "The White Tiger",
+      "year": 2021
+    },
+    "Joker": {
+      "id": 475557,
+      "poster": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "title": "Joker",
+      "year": 2019
+    },
+    "Ford v Ferrari": {
+      "id": 359724,
+      "poster": "/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+      "title": "Ford v Ferrari",
+      "year": 2019
+    },
+    "1917": {
+      "id": 530915,
+      "poster": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+      "title": "1917",
+      "year": 2019
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "Phantom Thread": {
+      "id": 400617,
+      "poster": "/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg",
+      "title": "Phantom Thread",
+      "year": 2017
+    }
+  }
+}

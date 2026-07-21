@@ -1,0 +1,172 @@
+{
+  "slug": "nicole-holofcener-the-land-of-steady-habits-and-the-characte",
+  "title": "Nicole Holofcener, 'The Land of Steady Habits,' and the Characters From Her Own Life | The Big Picture (Ep. 84)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2018-09-14",
+  "runtimeMin": 26,
+  "format": "Sean Fennessey talks with Nicole Holofcener about her first Netflix film, adapting a novel for the first time, directing a male lead, and why she likes to make people squirm about money.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Nicole Holofcener on",
+      "films": [
+        {
+          "title": "The Land of Steady Habits",
+          "year": 2018,
+          "note": "Her latest, and a string of firsts: her first film for Netflix, the first adaptation she's directed (from Ted Thompson's novel), and her first film centered on a man, played by Ben Mendelsohn. She calls it a small, dark drama with funny things in it, not a dramedy."
+        },
+        {
+          "title": "Walking and Talking",
+          "year": 1996,
+          "note": "Her debut; a friend of the host's called it the first authentic female friendship on screen. Holofcener credits Girlfriends and One Sings, the Other Doesn't as coming first."
+        },
+        {
+          "title": "Please Give",
+          "year": 2010,
+          "note": "Cited as one of her films that's smart without being showy."
+        },
+        {
+          "title": "Enough Said",
+          "year": 2013,
+          "note": "With Julia Louis-Dreyfus and James Gandolfini, among the actors she says show up to do quality work in her movies."
+        },
+        {
+          "title": "Lovely & Amazing",
+          "year": 2001
+        },
+        {
+          "title": "Ready Player One",
+          "year": 2018,
+          "note": "Ben Mendelsohn's big franchise credit, next to the much smaller scale of her film."
+        },
+        {
+          "title": "Bridesmaids",
+          "year": 2011,
+          "note": "The kind of big comedy she says she'd take in a heartbeat if it were good enough. She's been sent broader scripts but never loved one."
+        },
+        {
+          "title": "Girlfriends",
+          "year": 1978,
+          "note": "Claudia Weill film she names as an influence that predates Walking and Talking."
+        },
+        {
+          "title": "One Sings, the Other Doesn't",
+          "year": 1977,
+          "note": "Agnès Varda; another influence she names ahead of her own work on female friendship."
+        },
+        {
+          "title": "Love, Gilda",
+          "year": 2018,
+          "note": "Her pick for the last great thing she's seen, the Gilda Radner documentary, which she says captured her spirit."
+        },
+        {
+          "title": "Sword of Trust",
+          "year": 2019,
+          "note": "Lynn Shelton's then-new film, which Holofcener says she's happily promoting. Misstated as 'Sword of Truth' in the conversation."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Rounders"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Zen Diaries of Garry Shandling",
+      "Sex and the City",
+      "One Mississippi",
+      "Orange Is the New Black",
+      "Gilmore Girls",
+      "Six Feet Under",
+      "The Sopranos",
+      "Saturday Night Live"
+    ],
+    "Ads": [
+      "Miller Lite"
+    ]
+  },
+  "tmdb": {
+    "The Land of Steady Habits": {
+      "id": 452731,
+      "poster": "/e2cdubbzgDBIVG8lELeQUq50qiZ.jpg",
+      "title": "The Land of Steady Habits",
+      "year": 2018
+    },
+    "Walking and Talking": {
+      "id": 49963,
+      "poster": "/m8JMJQUfGwGt7gse8aoduAcTYE.jpg",
+      "title": "Walking and Talking",
+      "year": 1996
+    },
+    "Please Give": {
+      "id": 40247,
+      "poster": "/kft7oy2SoImjDUXgeFbUxhICdc2.jpg",
+      "title": "Please Give",
+      "year": 2010
+    },
+    "Enough Said": {
+      "id": 209263,
+      "poster": "/p5naJg0K8xF0h0HWEfiz6rc9lC4.jpg",
+      "title": "Enough Said",
+      "year": 2013
+    },
+    "Lovely & Amazing": {
+      "id": 50035,
+      "poster": "/4HZ7Y7N4KHapO5ylOY8BePQYC5X.jpg",
+      "title": "Lovely & Amazing",
+      "year": 2002
+    },
+    "Ready Player One": {
+      "id": 333339,
+      "poster": "/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
+      "title": "Ready Player One",
+      "year": 2018
+    },
+    "Bridesmaids": {
+      "id": 55721,
+      "poster": "/gJtA7hYsBMQ7EM3sPBMUdBfU7a0.jpg",
+      "title": "Bridesmaids",
+      "year": 2011
+    },
+    "Girlfriends": {
+      "id": 111469,
+      "poster": "/qoExB0pawOo5kPK2UGiwnthcGEw.jpg",
+      "title": "Girlfriends",
+      "year": 1978
+    },
+    "One Sings, the Other Doesn't": {
+      "id": 63318,
+      "poster": "/b3YTxT8LM1AWeWyrAXd3b0kjjzz.jpg",
+      "title": "One Sings, the Other Doesn't",
+      "year": 1977
+    },
+    "Love, Gilda": {
+      "id": 511972,
+      "poster": "/56ei7PaqG2dSNfuSMgeuOYOTFrU.jpg",
+      "title": "Love, Gilda",
+      "year": 2018
+    },
+    "Sword of Trust": {
+      "id": 575942,
+      "poster": "/1OK1xEzEQEwkh0F4FwyTbulMm2S.jpg",
+      "title": "Sword of Trust",
+      "year": 2019
+    },
+    "Rounders": {
+      "id": 10220,
+      "poster": "/mqbMwYGwIChnaCO55h7v8DG8Wwy.jpg",
+      "title": "Rounders",
+      "year": 1998
+    }
+  }
+}

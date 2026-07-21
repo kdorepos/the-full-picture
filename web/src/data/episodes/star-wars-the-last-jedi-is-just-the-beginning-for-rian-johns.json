@@ -1,0 +1,138 @@
+{
+  "slug": "star-wars-the-last-jedi-is-just-the-beginning-for-rian-johns",
+  "title": "‘Star Wars: The Last Jedi’ Is Just the Beginning for Rian Johnson | The Big Picture (Ep. 41)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessy"
+  ],
+  "published": "2017-12-18",
+  "runtimeMin": 15,
+  "format": "A quick bonus interview: Sean Fennessy talks to Rian Johnson about making The Last Jedi, the character he couldn't wait to write, and the trilogy he's signed up for next.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Rian Johnson on",
+      "films": [
+        {
+          "title": "Star Wars: The Last Jedi",
+          "year": 2017,
+          "note": "Johnson's own version of what Star Wars felt like growing up. He wanted buoyancy even in the darker, island-bound stretches."
+        },
+        {
+          "title": "Star Wars",
+          "year": 1977,
+          "note": "The one he had toys for as a kid, his first exposure and the one that stuck with him most."
+        },
+        {
+          "title": "The Empire Strikes Back",
+          "year": 1980,
+          "note": "Got more into it as an adult; the Vader reveal is the model for the moral complexity he chased."
+        },
+        {
+          "title": "Return of the Jedi",
+          "year": 1983,
+          "note": "He was 10 when it came out, the ideal age for it."
+        },
+        {
+          "title": "Star Wars: The Force Awakens",
+          "year": 2015,
+          "note": "Left him with the puzzle of why Luke exiled himself."
+        },
+        {
+          "title": "Twelve O'Clock High",
+          "year": 1949,
+          "note": "Gregory Peck reference point for the Poe/Holdo authority clash."
+        },
+        {
+          "title": "The Dawn Patrol",
+          "year": 1938,
+          "note": "British counterpart, with David Niven, same hotshot-pilot-vs-command trope."
+        },
+        {
+          "title": "Phantom Thread",
+          "year": 2017,
+          "note": "His answer to “last great thing you've seen”: Paul Thomas Anderson is his favorite filmmaker working today."
+        },
+        {
+          "title": "The Master",
+          "year": 2012,
+          "note": "Cited alongside Phantom Thread as work that lives in his head."
+        },
+        {
+          "title": "There Will Be Blood",
+          "year": 2007
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "Podcasts": [
+      "The Watch",
+      "Binge Mode"
+    ]
+  },
+  "tmdb": {
+    "Star Wars: The Last Jedi": {
+      "id": 181808,
+      "poster": "/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
+      "title": "Star Wars: The Last Jedi",
+      "year": 2017
+    },
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
+    },
+    "The Empire Strikes Back": {
+      "id": 1891,
+      "poster": "/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+      "title": "The Empire Strikes Back",
+      "year": 1980
+    },
+    "Return of the Jedi": {
+      "id": 1892,
+      "poster": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+      "title": "Return of the Jedi",
+      "year": 1983
+    },
+    "Star Wars: The Force Awakens": {
+      "id": 140607,
+      "poster": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+      "title": "Star Wars: The Force Awakens",
+      "year": 2015
+    },
+    "Twelve O'Clock High": {
+      "id": 15497,
+      "poster": "/g9VeQUobhofLwxSIbKM4ia5biAX.jpg",
+      "title": "Twelve O'Clock High",
+      "year": 1949
+    },
+    "The Dawn Patrol": {
+      "id": 46688,
+      "poster": "/ncrQ21mjMTznDZDTmAcT3j5berB.jpg",
+      "title": "The Dawn Patrol",
+      "year": 1938
+    },
+    "Phantom Thread": {
+      "id": 400617,
+      "poster": "/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg",
+      "title": "Phantom Thread",
+      "year": 2017
+    },
+    "The Master": {
+      "id": 68722,
+      "poster": "/rUSjbyvYWN9H4az8xt0tDtU7I6v.jpg",
+      "title": "The Master",
+      "year": 2012
+    },
+    "There Will Be Blood": {
+      "id": 7345,
+      "poster": "/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+      "title": "There Will Be Blood",
+      "year": 2007
+    }
+  }
+}

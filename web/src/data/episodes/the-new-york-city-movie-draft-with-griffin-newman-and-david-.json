@@ -1,0 +1,1105 @@
+{
+  "slug": "the-new-york-city-movie-draft-with-griffin-newman-and-david-",
+  "title": "The New York City Movie Draft, With Griffin Newman and David Sims!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan",
+    "Griffin Newman",
+    "David Sims"
+  ],
+  "published": "2025-10-07",
+  "runtimeMin": 105,
+  "format": "A live New York City movie draft at the 92nd Street Y. Sean, Amanda, and Chris Ryan are joined by Blank Check's Griffin Newman and David Sims, each filling a six-slot roster across Drama, Comedy, Action / Horror / Thriller, Oscar Winner, Blockbuster, and Subway. The room votes; David Sims wins.",
+  "segments": [
+    {
+      "kind": "draft",
+      "heading": "The teams",
+      "draftOf": "New York City movies",
+      "note": "David Sims won the audience vote; Amanda second, Sean third, Griffin fourth, Chris fifth.",
+      "categories": [
+        "Drama",
+        "Comedy",
+        "Action / Horror / Thriller",
+        "Oscar Winner",
+        "Blockbuster",
+        "Subway"
+      ],
+      "teams": [
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Cruising",
+              "year": 1980,
+              "category": "Drama",
+              "note": "Friedkin's undercover-cop thriller in the Meatpacking club scene."
+            },
+            {
+              "title": "After Hours",
+              "year": 1985,
+              "category": "Comedy",
+              "note": "Scorsese's SoHo bad-night movie; the subway-token scene is the hinge."
+            },
+            {
+              "title": "Rear Window",
+              "year": 1954,
+              "category": "Action / Horror / Thriller",
+              "note": "Hitchcock; a very New York condition, watching the neighbors."
+            },
+            {
+              "title": "All That Jazz",
+              "year": 1979,
+              "category": "Oscar Winner",
+              "note": "Fosse; Roy Scheider trying to make it and keep it. Won Best Editing."
+            },
+            {
+              "title": "Die Hard with a Vengeance",
+              "year": 1995,
+              "category": "Blockbuster",
+              "note": "First overall pick. Uses the real grid and parkways with no geographic cheats."
+            },
+            {
+              "title": "The French Connection",
+              "year": 1971,
+              "category": "Subway",
+              "note": "The chase into the station where he just misses the Marseille dealer."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "25th Hour",
+              "year": 2002,
+              "category": "Drama",
+              "note": "Spike Lee's 9/11 movie; Monty's last day before prison."
+            },
+            {
+              "title": "Working Girl",
+              "year": 1988,
+              "category": "Comedy",
+              "note": "Nichols; opens circling the Statue of Liberty on the way to Manhattan."
+            },
+            {
+              "title": "The Thomas Crown Affair",
+              "year": 1999,
+              "category": "Action / Horror / Thriller",
+              "note": "McTiernan's remake; they rob the Met twice."
+            },
+            {
+              "title": "Michael Clayton",
+              "year": 2007,
+              "category": "Oscar Winner",
+              "note": "Tilda Swinton, the film's lone Oscar."
+            },
+            {
+              "title": "You've Got Mail",
+              "year": 1998,
+              "category": "Blockbuster",
+              "note": "Ephron; the Upper West Side and the Barnes & Noble that eats the small bookstore."
+            },
+            {
+              "title": "Frances Ha",
+              "year": 2013,
+              "category": "Subway",
+              "note": "Baumbach; the subway scene where Sophie says she's moving out."
+            }
+          ]
+        },
+        {
+          "host": "Griffin Newman",
+          "picks": [
+            {
+              "title": "Sully",
+              "year": 2016,
+              "category": "Drama",
+              "note": "Eastwood; a handwritten card, drafted from the heart. The five days he's stuck in the city."
+            },
+            {
+              "title": "The Muppets Take Manhattan",
+              "year": 1984,
+              "category": "Comedy",
+              "note": "Small-town Muppets come to town and get their asses kicked, then regroup."
+            },
+            {
+              "title": "The Warriors",
+              "year": 1979,
+              "category": "Action / Horror / Thriller",
+              "note": "The long ride home to Coney Island, forced to wait on the train."
+            },
+            {
+              "title": "Dog Day Afternoon",
+              "year": 1975,
+              "category": "Oscar Winner",
+              "note": "Lumet; the city as a character. Won Best Original Screenplay."
+            },
+            {
+              "title": "When Harry Met Sally...",
+              "year": 1989,
+              "category": "Blockbuster",
+              "note": "Ephron; shot by Barry Sonnenfeld, full of locations no one could get today."
+            },
+            {
+              "title": "Spider-Man 2",
+              "year": 2004,
+              "category": "Subway",
+              "note": "The train set piece; the New Yorkers who carry him and keep his secret."
+            }
+          ]
+        },
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Taxi Driver",
+              "year": 1976,
+              "category": "Drama",
+              "note": "Scorsese; the isolation of Travis Bickle, everything right in front of you."
+            },
+            {
+              "title": "The Wolf of Wall Street",
+              "year": 2013,
+              "category": "Comedy",
+              "note": "Scorsese; the agent who takes the subway home at the end."
+            },
+            {
+              "title": "Uncut Gems",
+              "year": 2019,
+              "category": "Action / Horror / Thriller",
+              "note": "The Safdies; on-location anxiety, real New Yorkers cast off the street."
+            },
+            {
+              "title": "Goodfellas",
+              "year": 1990,
+              "category": "Oscar Winner",
+              "note": "Lost Best Picture to Dances with Wolves; Pesci won Supporting Actor."
+            },
+            {
+              "title": "Ghostbusters",
+              "year": 1984,
+              "category": "Blockbuster",
+              "note": "Taken to deny Griffin. Smart about how the city would react to the Stay Puft Marshmallow Man."
+            },
+            {
+              "title": "Dressed to Kill",
+              "year": 1980,
+              "category": "Subway",
+              "note": "De Palma; the killer stalking Nancy Allen on the train."
+            }
+          ]
+        },
+        {
+          "host": "David Sims",
+          "picks": [
+            {
+              "title": "Do the Right Thing",
+              "year": 1989,
+              "category": "Drama",
+              "note": "Often cited as the definitive New York movie; the best Brooklyn movie."
+            },
+            {
+              "title": "The Royal Tenenbaums",
+              "year": 2001,
+              "category": "Comedy",
+              "note": "Anderson's shabby, romantic New York; the kinds of freaks who succeed here."
+            },
+            {
+              "title": "American Psycho",
+              "year": 2000,
+              "category": "Action / Horror / Thriller",
+              "note": "The great '80s grindset-mindset New York movie."
+            },
+            {
+              "title": "The Godfather Part II",
+              "year": 1974,
+              "category": "Oscar Winner",
+              "note": "The boy at Ellis Island; De Niro on Mulberry Street."
+            },
+            {
+              "title": "Men in Black",
+              "year": 1997,
+              "category": "Blockbuster",
+              "note": "Aliens, but really about having a job in the city every day."
+            },
+            {
+              "title": "The Taking of Pelham One Two Three",
+              "year": 1974,
+              "category": "Subway",
+              "note": "His favorite movie; the original, where the IRT Pelham line impossibly reaches Coney Island."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "The Devil Wears Prada",
+        "Home Alone 2: Lost in New York",
+        "The King of Staten Island",
+        "Eyes Wide Shut",
+        "Escape from New York",
+        "Cloverfield",
+        "Inside Llewyn Davis",
+        "Anora",
+        "West Side Story",
+        "Rosemary's Baby",
+        "Moonstruck",
+        "Fatal Attraction",
+        "Unfaithful",
+        "Cruel Intentions",
+        "Malcolm X",
+        "The Apartment",
+        "Inside Man",
+        "Ghost",
+        "Coming to America",
+        "Shaft",
+        "The Wiz",
+        "Midnight Cowboy",
+        "Black Swan",
+        "Citizen Kane",
+        "Catch Me If You Can",
+        "Breakfast at Tiffany's",
+        "The Devil's Advocate",
+        "Sleepless in Seattle",
+        "It Happened One Night",
+        "King of New York",
+        "Bad Lieutenant",
+        "New York Stories",
+        "The Cruise",
+        "Carlito's Way",
+        "The Last Days of Disco",
+        "Kids",
+        "Sweet Smell of Success",
+        "The Avengers",
+        "Requiem for a Dream",
+        "Pi",
+        "Noah",
+        "John Wick",
+        "Saturday Night",
+        "Serpico",
+        "Wall Street"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In the trivia round",
+      "films": [
+        "Kramer vs. Kramer",
+        "Birdman",
+        "The Godfather",
+        "Annie Hall",
+        "Take Out",
+        "Prince of Broadway",
+        "Gangs of New York",
+        "Mean Streets",
+        "New York, New York",
+        "The Age of Innocence",
+        "The King of Comedy",
+        "Raging Bull",
+        "The Irishman",
+        "Who's That Knocking at My Door",
+        "Bringing Out the Dead",
+        "Kundun",
+        "Silence",
+        "Hugo",
+        "Boxcar Bertha",
+        "The Daytrippers",
+        "Superbad",
+        "Saboteur"
+      ]
+    },
+    {
+      "group": "Also mentioned",
+      "films": [
+        "One Battle After Another",
+        "Tron: Ares",
+        "Iron Man 3",
+        "Kicking and Screaming",
+        "The Dark Knight",
+        "Joker",
+        "Star Wars",
+        "Ghostbusters II",
+        "Spider-Man",
+        "Dances with Wolves",
+        "Excalibur",
+        "Armageddon",
+        "Reservoir Dogs",
+        "Predator",
+        "A Good Day to Die Hard",
+        "John Wick: Chapter 2",
+        "John Wick: Chapter 4",
+        "Ballerina",
+        "Witness",
+        "Caught Stealing",
+        "Bringing Up Baby",
+        "Metropolis",
+        "Little Nicky",
+        "Antz",
+        "Peppermint"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Andor",
+      "Rescue Me"
+    ],
+    "Music": [
+      "The Life of a Showgirl",
+      "Lover"
+    ],
+    "Ads": [
+      "LinkedIn Ads",
+      "Boar's Head",
+      "T-Mobile Home Run Derby",
+      "Sam's Club",
+      "Starbucks Frappuccino"
+    ]
+  },
+  "tmdbOverrides": {
+    "Shaft": 482,
+    "New York, New York": 12637,
+    "Take Out": 37736,
+    "Who's That Knocking at My Door": 42694,
+    "The Cruise": 32326,
+    "West Side Story": 1725
+  },
+  "tmdb": {
+    "Cruising": {
+      "id": 27958,
+      "poster": "/bb9CND0WyfwdHOZY5XmP4Qn8taz.jpg",
+      "title": "Cruising",
+      "year": 1980
+    },
+    "After Hours": {
+      "id": 10843,
+      "poster": "/eamOBurHBu0MIxohTIVcfxmZ6Z7.jpg",
+      "title": "After Hours",
+      "year": 1985
+    },
+    "Rear Window": {
+      "id": 567,
+      "poster": "/ILVF0eJxHMddjxeQhswFtpMtqx.jpg",
+      "title": "Rear Window",
+      "year": 1954
+    },
+    "All That Jazz": {
+      "id": 16858,
+      "poster": "/culCEdj4srLljefgn4XKd6k3C5t.jpg",
+      "title": "All That Jazz",
+      "year": 1979
+    },
+    "Die Hard with a Vengeance": {
+      "id": 1572,
+      "poster": "/buqmCdFQEWwEpL3agGgg2GVjN2d.jpg",
+      "title": "Die Hard: With a Vengeance",
+      "year": 1995
+    },
+    "The French Connection": {
+      "id": 1051,
+      "poster": "/pH4saPwMjhnVGwmSH6RkMaHrt3s.jpg",
+      "title": "The French Connection",
+      "year": 1971
+    },
+    "25th Hour": {
+      "id": 1429,
+      "poster": "/uW7tTRElr2tRhmAVESzvHy4ByXg.jpg",
+      "title": "25th Hour",
+      "year": 2002
+    },
+    "Working Girl": {
+      "id": 3525,
+      "poster": "/q2jfFzZvAzjTaArQR0tjilIZ5aJ.jpg",
+      "title": "Working Girl",
+      "year": 1988
+    },
+    "The Thomas Crown Affair": {
+      "id": 913,
+      "poster": "/5yqs1MVlqdIg1DY5adC5jFx3d7j.jpg",
+      "title": "The Thomas Crown Affair",
+      "year": 1999
+    },
+    "Michael Clayton": {
+      "id": 4566,
+      "poster": "/hhkW4yVIGo8Bee3UITKvqOvhNMG.jpg",
+      "title": "Michael Clayton",
+      "year": 2007
+    },
+    "You've Got Mail": {
+      "id": 9489,
+      "poster": "/e2uVtH6TpMfUl7WeOM70ezkcjsU.jpg",
+      "title": "You've Got Mail",
+      "year": 1998
+    },
+    "Frances Ha": {
+      "id": 121986,
+      "poster": "/jrq1NoKvsxWCcffVOjegiYwloFN.jpg",
+      "title": "Frances Ha",
+      "year": 2013
+    },
+    "Sully": {
+      "id": 363676,
+      "poster": "/4vs83YcJ8TsabADDtaeCJ6ZTjYY.jpg",
+      "title": "Sully",
+      "year": 2016
+    },
+    "The Muppets Take Manhattan": {
+      "id": 11899,
+      "poster": "/nMPm9TNoW8zwNibTFJAePryXUgT.jpg",
+      "title": "The Muppets Take Manhattan",
+      "year": 1984
+    },
+    "The Warriors": {
+      "id": 11474,
+      "poster": "/d6YZpBq4BhQr1K985J3CuL1cA8J.jpg",
+      "title": "The Warriors",
+      "year": 1979
+    },
+    "Dog Day Afternoon": {
+      "id": 968,
+      "poster": "/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg",
+      "title": "Dog Day Afternoon",
+      "year": 1975
+    },
+    "When Harry Met Sally...": {
+      "id": 639,
+      "poster": "/rFOiFUhTMtDetqCGClC9PIgnC1P.jpg",
+      "title": "When Harry Met Sally...",
+      "year": 1989
+    },
+    "Spider-Man 2": {
+      "id": 558,
+      "poster": "/aGuvNAaaZuWXYQQ6N2v7DeuP6mB.jpg",
+      "title": "Spider-Man 2",
+      "year": 2004
+    },
+    "Taxi Driver": {
+      "id": 103,
+      "poster": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "title": "Taxi Driver",
+      "year": 1976
+    },
+    "The Wolf of Wall Street": {
+      "id": 106646,
+      "poster": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+      "title": "The Wolf of Wall Street",
+      "year": 2013
+    },
+    "Uncut Gems": {
+      "id": 473033,
+      "poster": "/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+      "title": "Uncut Gems",
+      "year": 2019
+    },
+    "Goodfellas": {
+      "id": 769,
+      "poster": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+      "title": "GoodFellas",
+      "year": 1990
+    },
+    "Ghostbusters": {
+      "id": 620,
+      "poster": "/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
+      "title": "Ghostbusters",
+      "year": 1984
+    },
+    "Dressed to Kill": {
+      "id": 11033,
+      "poster": "/oy1m5dd44foNrxV8U9l6Walx82V.jpg",
+      "title": "Dressed to Kill",
+      "year": 1980
+    },
+    "Do the Right Thing": {
+      "id": 925,
+      "poster": "/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+      "title": "Do the Right Thing",
+      "year": 1989
+    },
+    "The Royal Tenenbaums": {
+      "id": 9428,
+      "poster": "/nG7hZJn7wQTSDCQT39Gy3s3tbrp.jpg",
+      "title": "The Royal Tenenbaums",
+      "year": 2001
+    },
+    "American Psycho": {
+      "id": 1359,
+      "poster": "/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+      "title": "American Psycho",
+      "year": 2000
+    },
+    "The Godfather Part II": {
+      "id": 240,
+      "poster": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+      "title": "The Godfather Part II",
+      "year": 1974
+    },
+    "Men in Black": {
+      "id": 607,
+      "poster": "/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg",
+      "title": "Men in Black",
+      "year": 1997
+    },
+    "The Taking of Pelham One Two Three": {
+      "id": 8333,
+      "poster": "/vNhywp9w1DVG6BytxKp4kjtaaGC.jpg",
+      "title": "The Taking of Pelham One Two Three",
+      "year": 1974
+    },
+    "The Devil Wears Prada": {
+      "id": 350,
+      "poster": "/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+      "title": "The Devil Wears Prada",
+      "year": 2006
+    },
+    "Home Alone 2: Lost in New York": {
+      "id": 772,
+      "poster": "/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
+      "title": "Home Alone 2: Lost in New York",
+      "year": 1992
+    },
+    "The King of Staten Island": {
+      "id": 579583,
+      "poster": "/zQFjMmE3K9AX5QrBL1SXIxYQ9jz.jpg",
+      "title": "The King of Staten Island",
+      "year": 2020
+    },
+    "Eyes Wide Shut": {
+      "id": 345,
+      "poster": "/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+      "title": "Eyes Wide Shut",
+      "year": 1999
+    },
+    "Escape from New York": {
+      "id": 1103,
+      "poster": "/vH9llaphjAssRGi0k7e75tD40Ce.jpg",
+      "title": "Escape from New York",
+      "year": 1981
+    },
+    "Cloverfield": {
+      "id": 7191,
+      "poster": "/qIegUGJqyMMCRjkKV1s7A9MqdJ8.jpg",
+      "title": "Cloverfield",
+      "year": 2008
+    },
+    "Inside Llewyn Davis": {
+      "id": 86829,
+      "poster": "/nNxK3pC3DMpPpWKMvo2p3liREVT.jpg",
+      "title": "Inside Llewyn Davis",
+      "year": 2013
+    },
+    "Anora": {
+      "id": 1064213,
+      "poster": "/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg",
+      "title": "Anora",
+      "year": 2024
+    },
+    "West Side Story": {
+      "id": 1725,
+      "poster": "/nzCMu6D5q60i2bVrIQ0DxlRSgCZ.jpg",
+      "title": "West Side Story",
+      "year": 1961
+    },
+    "Rosemary's Baby": {
+      "id": 805,
+      "poster": "/uYgvlHceRFjAFbsNeMInYcLZLUb.jpg",
+      "title": "Rosemary's Baby",
+      "year": 1968
+    },
+    "Moonstruck": {
+      "id": 2039,
+      "poster": "/2mnVWpvsHEHHnfvLn1NXYVvBGl5.jpg",
+      "title": "Moonstruck",
+      "year": 1987
+    },
+    "Fatal Attraction": {
+      "id": 10998,
+      "poster": "/vjB9XwJKnYqFKKjhWcE6WpAf5Ki.jpg",
+      "title": "Fatal Attraction",
+      "year": 1987
+    },
+    "Unfaithful": {
+      "id": 2251,
+      "poster": "/bjiHEhuiwhIygzjczbTPAA07cGc.jpg",
+      "title": "Unfaithful",
+      "year": 2002
+    },
+    "Cruel Intentions": {
+      "id": 796,
+      "poster": "/76cCsRtQ5MJBAqoigojXsLXLJwh.jpg",
+      "title": "Cruel Intentions",
+      "year": 1999
+    },
+    "Malcolm X": {
+      "id": 1883,
+      "poster": "/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
+      "title": "Malcolm X",
+      "year": 1992
+    },
+    "The Apartment": {
+      "id": 284,
+      "poster": "/hhSRt1KKfRT0yEhEtRW3qp31JFU.jpg",
+      "title": "The Apartment",
+      "year": 1960
+    },
+    "Inside Man": {
+      "id": 388,
+      "poster": "/ffMUgkDZICNiyaws1Jkv8qG8uFW.jpg",
+      "title": "Inside Man",
+      "year": 2006
+    },
+    "Ghost": {
+      "id": 251,
+      "poster": "/w9RaPHov8oM5cnzeE27isnFMsvS.jpg",
+      "title": "Ghost",
+      "year": 1990
+    },
+    "Coming to America": {
+      "id": 9602,
+      "poster": "/8YZiA1o264dk0cr1USyMdph6SZl.jpg",
+      "title": "Coming to America",
+      "year": 1988
+    },
+    "Shaft": {
+      "id": 482,
+      "poster": "/yJChPuu2V339IiDPQDHeIh1SYpA.jpg",
+      "title": "Shaft",
+      "year": 1971
+    },
+    "The Wiz": {
+      "id": 24961,
+      "poster": "/rgfB8hBRSwbEb0SK7pt9mW9jsyP.jpg",
+      "title": "The Wiz",
+      "year": 1978
+    },
+    "Midnight Cowboy": {
+      "id": 3116,
+      "poster": "/ckklq45UxUkwgHve9xItXqXr06r.jpg",
+      "title": "Midnight Cowboy",
+      "year": 1969
+    },
+    "Black Swan": {
+      "id": 44214,
+      "poster": "/viWheBd44bouiLCHgNMvahLThqx.jpg",
+      "title": "Black Swan",
+      "year": 2010
+    },
+    "Citizen Kane": {
+      "id": 15,
+      "poster": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+      "title": "Citizen Kane",
+      "year": 1941
+    },
+    "Catch Me If You Can": {
+      "id": 640,
+      "poster": "/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+      "title": "Catch Me If You Can",
+      "year": 2002
+    },
+    "Breakfast at Tiffany's": {
+      "id": 164,
+      "poster": "/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+      "title": "Breakfast at Tiffany's",
+      "year": 1961
+    },
+    "The Devil's Advocate": {
+      "id": 1813,
+      "poster": "/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg",
+      "title": "The Devil's Advocate",
+      "year": 1997
+    },
+    "Sleepless in Seattle": {
+      "id": 858,
+      "poster": "/jAXfku1u1uaLGh4cUmK0ESf1pPu.jpg",
+      "title": "Sleepless in Seattle",
+      "year": 1993
+    },
+    "It Happened One Night": {
+      "id": 3078,
+      "poster": "/2PNUGWAflH6UUumas0POMmokHlc.jpg",
+      "title": "It Happened One Night",
+      "year": 1934
+    },
+    "King of New York": {
+      "id": 9558,
+      "poster": "/1MyH4MJAJZJbb6wDVeOc2bTECtK.jpg",
+      "title": "King of New York",
+      "year": 1990
+    },
+    "Bad Lieutenant": {
+      "id": 12143,
+      "poster": "/mVJ2mXykqq3t2v1nuouf1P10g0d.jpg",
+      "title": "Bad Lieutenant",
+      "year": 1992
+    },
+    "New York Stories": {
+      "id": 9686,
+      "poster": "/mViGEH5dfsAnUgJmce1RJkFycAi.jpg",
+      "title": "New York Stories",
+      "year": 1989
+    },
+    "The Cruise": {
+      "id": 32326,
+      "poster": "/aTPN6ttUQqkqV6ZT762Ihc8hwKi.jpg",
+      "title": "The Cruise",
+      "year": 1998
+    },
+    "Carlito's Way": {
+      "id": 6075,
+      "poster": "/g6D7mjQtndu768cusGmoEQY9fTB.jpg",
+      "title": "Carlito's Way",
+      "year": 1993
+    },
+    "The Last Days of Disco": {
+      "id": 16980,
+      "poster": "/lReaAZCsA0GXvJrxzSMsFxwgh6F.jpg",
+      "title": "The Last Days of Disco",
+      "year": 1998
+    },
+    "Kids": {
+      "id": 9344,
+      "poster": "/8qV8hUVCUnFIQKewzlhaFWhdszK.jpg",
+      "title": "Kids",
+      "year": 1995
+    },
+    "Sweet Smell of Success": {
+      "id": 976,
+      "poster": "/akzvV8JasNrgEl5iAP9K6zPHGJe.jpg",
+      "title": "Sweet Smell of Success",
+      "year": 1957
+    },
+    "The Avengers": {
+      "id": 24428,
+      "poster": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "title": "The Avengers",
+      "year": 2012
+    },
+    "Requiem for a Dream": {
+      "id": 641,
+      "poster": "/9BTwsLaMVHOGFlmsSlx5QYCaXb.jpg",
+      "title": "Requiem for a Dream",
+      "year": 2000
+    },
+    "Pi": {
+      "id": 473,
+      "poster": "/fJA22FjlAW8rzrOw9Mwanl6oTc9.jpg",
+      "title": "Pi",
+      "year": 1998
+    },
+    "Noah": {
+      "id": 86834,
+      "poster": "/vVLkHabnF5lVpCpqyhZBI5iCYMA.jpg",
+      "title": "Noah",
+      "year": 2014
+    },
+    "John Wick": {
+      "id": 245891,
+      "poster": "/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
+      "title": "John Wick",
+      "year": 2014
+    },
+    "Saturday Night": {
+      "id": 1120911,
+      "poster": "/oCf5O6uxooTvRwKVnLHwGqZUifq.jpg",
+      "title": "Saturday Night",
+      "year": 2024
+    },
+    "Serpico": {
+      "id": 9040,
+      "poster": "/pRagfd10PPWryFRSzLPIivfAXHJ.jpg",
+      "title": "Serpico",
+      "year": 1973
+    },
+    "Wall Street": {
+      "id": 10673,
+      "poster": "/2tQYq9ntzn2dEwDIGLBSipYPenv.jpg",
+      "title": "Wall Street",
+      "year": 1987
+    },
+    "Kramer vs. Kramer": {
+      "id": 12102,
+      "poster": "/3CUP5V5SWfHSK4qvkZF7lMNyugY.jpg",
+      "title": "Kramer vs. Kramer",
+      "year": 1979
+    },
+    "Birdman": {
+      "id": 435092,
+      "poster": "/9n0u3Ee7OUjgeyF5kIwahxkf4xm.jpg",
+      "title": "Birdman",
+      "year": 2015
+    },
+    "The Godfather": {
+      "id": 238,
+      "poster": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "title": "The Godfather",
+      "year": 1972
+    },
+    "Annie Hall": {
+      "id": 703,
+      "poster": "/dEtjPywhDbAXYjoFfhBC4U9unU7.jpg",
+      "title": "Annie Hall",
+      "year": 1977
+    },
+    "Take Out": {
+      "id": 37736,
+      "poster": "/hBpAozLANehQQnvTPcCHcKQt2vP.jpg",
+      "title": "Take Out",
+      "year": 2008
+    },
+    "Prince of Broadway": {
+      "id": 87081,
+      "poster": "/6rcVFsEwOyXsG0e7L9ql6KEPGJX.jpg",
+      "title": "Prince of Broadway",
+      "year": 2010
+    },
+    "Gangs of New York": {
+      "id": 3131,
+      "poster": "/lemqKtcCuAano5aqrzxYiKC8kkn.jpg",
+      "title": "Gangs of New York",
+      "year": 2002
+    },
+    "Mean Streets": {
+      "id": 203,
+      "poster": "/9msfwOeGc9uL1iRRTBdEf15XonC.jpg",
+      "title": "Mean Streets",
+      "year": 1973
+    },
+    "New York, New York": {
+      "id": 12637,
+      "poster": "/1nD40aUcPAxYdE1WxERrTjZuFGe.jpg",
+      "title": "New York, New York",
+      "year": 1977
+    },
+    "The Age of Innocence": {
+      "id": 10436,
+      "poster": "/5Tuyt26v7qNR8Cl3m7ZRx36rduf.jpg",
+      "title": "The Age of Innocence",
+      "year": 1993
+    },
+    "The King of Comedy": {
+      "id": 262,
+      "poster": "/m24EbHxT9NGYEkOlu29YcLOgjgK.jpg",
+      "title": "The King of Comedy",
+      "year": 1982
+    },
+    "Raging Bull": {
+      "id": 1578,
+      "poster": "/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
+      "title": "Raging Bull",
+      "year": 1980
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Who's That Knocking at My Door": {
+      "id": 42694,
+      "poster": "/zcH6pKZKeImwcBtIH7fSdUyoQ2e.jpg",
+      "title": "Who's That Knocking at My Door",
+      "year": 1968
+    },
+    "Bringing Out the Dead": {
+      "id": 8649,
+      "poster": "/gE2Q8mL0m0EA6HakRyc92uzSPJn.jpg",
+      "title": "Bringing Out the Dead",
+      "year": 1999
+    },
+    "Kundun": {
+      "id": 9746,
+      "poster": "/yvdFRDoQIQ5PBk4u8x8gJT8NJAw.jpg",
+      "title": "Kundun",
+      "year": 1997
+    },
+    "Silence": {
+      "id": 68730,
+      "poster": "/x5T0cQDYws0xRBVG4Q3wpcrcmax.jpg",
+      "title": "Silence",
+      "year": 2016
+    },
+    "Hugo": {
+      "id": 44826,
+      "poster": "/1dxRq3o3l3bVWNRvvSb7rRf68qp.jpg",
+      "title": "Hugo",
+      "year": 2011
+    },
+    "Boxcar Bertha": {
+      "id": 22784,
+      "poster": "/gF5VslUB2xpWbboc735VVnO7DXh.jpg",
+      "title": "Boxcar Bertha",
+      "year": 1972
+    },
+    "The Daytrippers": {
+      "id": 49806,
+      "poster": "/bDmconT9Fj0dnXdV5LaGAxXrVFN.jpg",
+      "title": "The Daytrippers",
+      "year": 1997
+    },
+    "Superbad": {
+      "id": 8363,
+      "poster": "/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg",
+      "title": "Superbad",
+      "year": 2007
+    },
+    "Saboteur": {
+      "id": 31997,
+      "poster": "/iDKOOTymUZg0WAWPcbdP6nPZEFF.jpg",
+      "title": "Saboteur",
+      "year": 1942
+    },
+    "One Battle After Another": {
+      "id": 1054867,
+      "poster": "/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+      "title": "One Battle After Another",
+      "year": 2025
+    },
+    "Tron: Ares": {
+      "id": 533533,
+      "poster": "/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
+      "title": "TRON: Ares",
+      "year": 2025
+    },
+    "Iron Man 3": {
+      "id": 68721,
+      "poster": "/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+      "title": "Iron Man 3",
+      "year": 2013
+    },
+    "Kicking and Screaming": {
+      "id": 28387,
+      "poster": "/ynAtSpTou7snNOq32djzILw9VCA.jpg",
+      "title": "Kicking and Screaming",
+      "year": 1995
+    },
+    "The Dark Knight": {
+      "id": 155,
+      "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    "Joker": {
+      "id": 475557,
+      "poster": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "title": "Joker",
+      "year": 2019
+    },
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
+    },
+    "Ghostbusters II": {
+      "id": 2978,
+      "poster": "/u7UioNGwAeWfYPv5pSAZSM0ipSt.jpg",
+      "title": "Ghostbusters II",
+      "year": 1989
+    },
+    "Spider-Man": {
+      "id": 557,
+      "poster": "/kjdJntyBeEvqm9w97QGBdxPptzj.jpg",
+      "title": "Spider-Man",
+      "year": 2002
+    },
+    "Dances with Wolves": {
+      "id": 581,
+      "poster": "/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg",
+      "title": "Dances with Wolves",
+      "year": 1990
+    },
+    "Excalibur": {
+      "id": 11527,
+      "poster": "/cTWF6zkr5mUOnheowKODIijWYcN.jpg",
+      "title": "Excalibur",
+      "year": 1981
+    },
+    "Armageddon": {
+      "id": 95,
+      "poster": "/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg",
+      "title": "Armageddon",
+      "year": 1998
+    },
+    "Reservoir Dogs": {
+      "id": 500,
+      "poster": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+      "title": "Reservoir Dogs",
+      "year": 1992
+    },
+    "Predator": {
+      "id": 106,
+      "poster": "/aN3cdjIK70KGmD84et8MMblU87Q.jpg",
+      "title": "Predator",
+      "year": 1987
+    },
+    "A Good Day to Die Hard": {
+      "id": 47964,
+      "poster": "/qJ0csDXAVFMsNn0cRcjy6W6PxAK.jpg",
+      "title": "A Good Day to Die Hard",
+      "year": 2013
+    },
+    "John Wick: Chapter 2": {
+      "id": 324552,
+      "poster": "/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg",
+      "title": "John Wick: Chapter 2",
+      "year": 2017
+    },
+    "John Wick: Chapter 4": {
+      "id": 603692,
+      "poster": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+      "title": "John Wick: Chapter 4",
+      "year": 2023
+    },
+    "Ballerina": {
+      "id": 541671,
+      "poster": "/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg",
+      "title": "Ballerina",
+      "year": 2025
+    },
+    "Witness": {
+      "id": 9281,
+      "poster": "/kOymD1rChAMykmDVEzJpIh4OYS7.jpg",
+      "title": "Witness",
+      "year": 1985
+    },
+    "Caught Stealing": {
+      "id": 1245993,
+      "poster": "/cvda8s5J8YaHjTyEyXQpvD6f3iV.jpg",
+      "title": "Caught Stealing",
+      "year": 2025
+    },
+    "Bringing Up Baby": {
+      "id": 900,
+      "poster": "/vTNNOtemaYmtx3k2NpsLMRJKEwZ.jpg",
+      "title": "Bringing Up Baby",
+      "year": 1938
+    },
+    "Metropolis": {
+      "id": 19,
+      "poster": "/kr9wXRN23zLuWJIelahas1mtnYj.jpg",
+      "title": "Metropolis",
+      "year": 1927
+    },
+    "Little Nicky": {
+      "id": 9678,
+      "poster": "/AudA8gnTWSBWXBHSBHnr3HHUXXM.jpg",
+      "title": "Little Nicky",
+      "year": 2000
+    },
+    "Antz": {
+      "id": 8916,
+      "poster": "/lWPjxbUMpAHFkJpZHHNWhQaRsax.jpg",
+      "title": "Antz",
+      "year": 1998
+    },
+    "Peppermint": {
+      "id": 458594,
+      "poster": "/jrzxS0vcbzIIay1sdYm0rgI2QfJ.jpg",
+      "title": "Peppermint",
+      "year": 2018
+    }
+  },
+  "spotifyEpisodeId": "0sdlkXbFIo3ULuekVIX0F1"
+}

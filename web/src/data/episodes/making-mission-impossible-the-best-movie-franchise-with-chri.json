@@ -1,0 +1,195 @@
+{
+  "slug": "making-mission-impossible-the-best-movie-franchise-with-chri",
+  "title": "Making 'Mission: Impossible' the Best Movie Franchise, With Christopher McQuarrie",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2018-07-27",
+  "runtimeMin": 42,
+  "format": "Sean Fennessey talks with writer-director Christopher McQuarrie ahead of 'Fallout' about protecting the 'Mission: Impossible' franchise, Tom Cruise's stunt obsession, and the road from an early Oscar to franchise steward.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "Christopher McQuarrie on the 'Mission' machine",
+      "guest": "Christopher McQuarrie on",
+      "films": [
+        {
+          "title": "Mission: Impossible - Fallout",
+          "year": 2018,
+          "note": "His second time directing the franchise. He built it from Ethan's emotion out rather than from set pieces, and says even the test audience thought there was too much action, a first for him. The Kashmir helicopter chase exists because Cruise wanted to fly one and learned to; McQuarrie reverse-engineered a third act around it."
+        },
+        {
+          "title": "Mission: Impossible - Rogue Nation",
+          "year": 2015,
+          "note": "His first as director, written over months of Saturday phone calls with Cruise, building an idea up and burning it down each week. He wanted a woman who was Ethan's equal but not on his team. The underwater Torus heist grew out of a Jim Bissell concept sketch Cruise spotted on a mood board."
+        },
+        {
+          "title": "Mission: Impossible - Ghost Protocol",
+          "year": 2011,
+          "note": "Where his involvement began, with an uncredited rewrite. He calls it the movie that defined the franchise's template, and says the whole team worked in its shadow."
+        },
+        {
+          "title": "The Usual Suspects",
+          "year": 1995,
+          "note": "The screenplay that won him an Academy Award at a young age. He says he was never freer than writing it because he didn't know the rules he was breaking, and has been trying to get back to that unawareness since."
+        },
+        {
+          "title": "The Way of the Gun",
+          "year": 2000,
+          "note": "His directorial debut, which he describes as all about the screenplay and not visually arresting, a puzzle audiences rejected when it subverted their expectations."
+        },
+        {
+          "title": "Valkyrie",
+          "year": 2008,
+          "note": "The turning point. He'd written it to direct, but let Bryan Singer take it and found himself on a Berlin set beside Tom Cruise, realizing his role was to contribute rather than to hold the director title."
+        },
+        {
+          "title": "Edge of Tomorrow",
+          "year": 2014,
+          "note": "Cited for its underwater work, which he calls hard, time-consuming, and miserable, which is why he was reluctant when the Rogue Nation underwater sequence came up."
+        },
+        {
+          "title": "The Mummy",
+          "year": 2017,
+          "note": "Brought up on Cruise's public standing: McQuarrie thinks that two years earlier the film would have been the stick critics used on him, but the tide had turned by then."
+        },
+        {
+          "title": "Hell or High Water",
+          "year": 2016,
+          "note": "One of his answers to the closing question about the last great thing he's seen. David Mackenzie's film, which a screenwriter friend said would have been a good movie in the '80s and a great one now, the kind they used to make more of."
+        },
+        {
+          "title": "The Big Country",
+          "year": 1958,
+          "note": "The film he keeps returning to and recommends to everyone. William Wyler's Western about a man who won't let anyone else define his code; he showed it to his seven-year-old daughter and sees its ghost in a Fallout shot between Henry Cavill and Cruise."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Mission: Impossible",
+        "The Incredibles",
+        "Dead Poets Society",
+        "X-Men",
+        "Superman Returns",
+        "Unforgiven",
+        "The Princess Bride"
+      ]
+    }
+  ],
+  "excluded": {
+    "Podcasts": [
+      "The Rewatchables"
+    ]
+  },
+  "tmdb": {
+    "Mission: Impossible - Fallout": {
+      "id": 353081,
+      "poster": "/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+      "title": "Mission: Impossible - Fallout",
+      "year": 2018
+    },
+    "Mission: Impossible - Rogue Nation": {
+      "id": 177677,
+      "poster": "/fRJLXQBHK2wyznK5yZbO7vmsuVK.jpg",
+      "title": "Mission: Impossible - Rogue Nation",
+      "year": 2015
+    },
+    "Mission: Impossible - Ghost Protocol": {
+      "id": 56292,
+      "poster": "/eRZTGx7GsiKqPch96k27LK005ZL.jpg",
+      "title": "Mission: Impossible - Ghost Protocol",
+      "year": 2011
+    },
+    "The Usual Suspects": {
+      "id": 629,
+      "poster": "/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg",
+      "title": "The Usual Suspects",
+      "year": 1995
+    },
+    "The Way of the Gun": {
+      "id": 1619,
+      "poster": "/wrjMMdgn1a4ChlaBmlzKnb78nr6.jpg",
+      "title": "The Way of the Gun",
+      "year": 2000
+    },
+    "Valkyrie": {
+      "id": 2253,
+      "poster": "/8eoRtXswC8IQDsqW7iJWO56NhAv.jpg",
+      "title": "Valkyrie",
+      "year": 2008
+    },
+    "Edge of Tomorrow": {
+      "id": 137113,
+      "poster": "/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
+      "title": "Edge of Tomorrow",
+      "year": 2014
+    },
+    "The Mummy": {
+      "id": 282035,
+      "poster": "/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg",
+      "title": "The Mummy",
+      "year": 2017
+    },
+    "Hell or High Water": {
+      "id": 338766,
+      "poster": "/ljRRxqy2aXIkIBXLmOVifcOR021.jpg",
+      "title": "Hell or High Water",
+      "year": 2016
+    },
+    "The Big Country": {
+      "id": 12501,
+      "poster": "/aTjIUBmo7qbiu5FuvSoBA0UONWk.jpg",
+      "title": "The Big Country",
+      "year": 1958
+    },
+    "Mission: Impossible": {
+      "id": 954,
+      "poster": "/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
+      "title": "Mission: Impossible",
+      "year": 1996
+    },
+    "The Incredibles": {
+      "id": 9806,
+      "poster": "/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+      "title": "The Incredibles",
+      "year": 2004
+    },
+    "Dead Poets Society": {
+      "id": 207,
+      "poster": "/erzbMlcNHOdx24AXOcn2ZKA7R1q.jpg",
+      "title": "Dead Poets Society",
+      "year": 1989
+    },
+    "X-Men": {
+      "id": 36657,
+      "poster": "/bRDAc4GogyS9ci3ow7UnInOcriN.jpg",
+      "title": "X-Men",
+      "year": 2000
+    },
+    "Superman Returns": {
+      "id": 1452,
+      "poster": "/385XwTQZDpRX2d3kxtnpiLrjBXw.jpg",
+      "title": "Superman Returns",
+      "year": 2006
+    },
+    "Unforgiven": {
+      "id": 33,
+      "poster": "/54roTwbX9fltg85zjsmrooXAs12.jpg",
+      "title": "Unforgiven",
+      "year": 1992
+    },
+    "The Princess Bride": {
+      "id": 2493,
+      "poster": "/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+      "title": "The Princess Bride",
+      "year": 1987
+    }
+  },
+  "spotifyEpisodeId": "1biKRJmMWtC80TeqyOgIP9"
+}

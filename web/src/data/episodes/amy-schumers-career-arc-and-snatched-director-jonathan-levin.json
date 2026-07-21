@@ -1,0 +1,244 @@
+{
+  "slug": "amy-schumers-career-arc-and-snatched-director-jonathan-levin",
+  "title": "Amy Schumer's Career Arc, and 'Snatched' Director Jonathan Levine",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2017-06-01",
+  "runtimeMin": 45,
+  "format": "Episode 14: New York Times comedy critic Jason Zinoman on Amy Schumer's rise and the scrutiny that came with it, then 'Snatched' director Jonathan Levine on taking a for-hire gig, ripping off 'Boogie Nights', assisting Paul Schrader, and clearing his AFI debt.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Amy Schumer's Career Arc",
+      "note": "with Jason Zinoman, New York Times comedy critic",
+      "films": [
+        {
+          "title": "Trainwreck",
+          "year": 2015,
+          "note": "Her first movie and a big hit; Zinoman notes it had a Judd Apatow claim on it that 'Snatched' does not."
+        },
+        {
+          "title": "Snatched",
+          "year": 2017,
+          "note": "The sophomore vehicle, with Goldie Hawn 'selling tickets.' Zinoman calls it a truer test than 'Trainwreck': around $32M so far, and despite the bad reviews, a bankable step."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Jonathan Levine on 'Snatched'",
+      "guest": "Jonathan Levine on",
+      "films": [
+        {
+          "title": "Snatched",
+          "year": 2017,
+          "note": "His reactive next move after a personal film: a for-hire comedy he could rework on set with Schumer, Kim Caramele, and Katie Dippold. Did well financially, less so critically, 'a first' for him."
+        },
+        {
+          "title": "The Night Before",
+          "year": 2015,
+          "note": "The Seth Rogen Christmas comedy he wrote and re-outlined two months out at Rogen and Evan Goldberg's insistence. He thinks it has a shot as a cable-discovered cult classic."
+        },
+        {
+          "title": "The Wackness",
+          "year": 2008,
+          "note": "His personal, point-of-view-driven breakout; he wants to write a sequel and misses the stylistic agility it allowed."
+        },
+        {
+          "title": "50/50",
+          "year": 2011,
+          "note": "His favorite of his own films, and one he 'had so little to do with the writing of.'"
+        },
+        {
+          "title": "Warm Bodies",
+          "year": 2013,
+          "note": "He was the only writer on it; last-minute voiceover rewrites 'made the movie take a quantum leap forward.'"
+        },
+        {
+          "title": "All the Boys Love Mandy Lane",
+          "year": 2006,
+          "note": "Paid about $15K for two and a half years; he sold the editing computer on Craigslist. Its sale was the first real money he saw."
+        },
+        {
+          "title": "21 Jump Street",
+          "year": 2012,
+          "note": "One end of his 'Snatched' reference stack: 'everything from 21 Jump Street to Fitzcarraldo.'"
+        },
+        {
+          "title": "Fitzcarraldo",
+          "year": 1982,
+          "note": "The other end of the same reference stack."
+        },
+        {
+          "title": "Bob & Carol & Ted & Alice",
+          "year": 1969,
+          "note": "Watched to prep 'I'm Dying Up Here.'"
+        },
+        {
+          "title": "The King of Comedy",
+          "year": 1982,
+          "note": "'Watched King of Comedy, of course.'"
+        },
+        {
+          "title": "Boogie Nights",
+          "year": 1997,
+          "note": "Ripped off repeatedly: the yardstick he used to talk himself into risky shots."
+        },
+        {
+          "title": "The Killing of a Chinese Bookie",
+          "year": 1976,
+          "note": "Cassavetes; the red-light club look was 'stolen directly from that.'"
+        },
+        {
+          "title": "This Is the End",
+          "year": 2013,
+          "note": "One of the Rogen/Goldberg movies their producers and financiers had already made, which made the mid-shoot rewriting safe."
+        },
+        {
+          "title": "Auto Focus",
+          "year": 2002,
+          "note": "Schrader was editing it while Levine assisted him; 'a movie I really, really like.'"
+        },
+        {
+          "title": "Taxi Driver",
+          "year": 1976,
+          "note": "Levine found Schrader's original yellow-legal-pad outline in the office files: the whole thing planned before a word was written. His favorite movie."
+        },
+        {
+          "title": "A Bigger Splash",
+          "year": 2015,
+          "note": "His favorite movie of the previous year: 'so beautiful, so cool, so weird,' and a high-level Ralph Fiennes performance."
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "I'm Dying Up Here",
+      "Game of Thrones",
+      "Mr. Robot",
+      "Dear White People",
+      "Rush",
+      "Louie",
+      "Nas / BET childhood docudrama (untitled)"
+    ],
+    "Podcasts": [
+      "Binge Mode"
+    ],
+    "Books": [
+      "Letterman: The Last Giant of Late Night"
+    ],
+    "Music": [
+      "Illmatic",
+      "Purple Rain"
+    ]
+  },
+  "tmdb": {
+    "Trainwreck": {
+      "id": 271718,
+      "poster": "/wrY629UTCUAKLJ4CxQXz6DCE7pr.jpg",
+      "title": "Trainwreck",
+      "year": 2015
+    },
+    "Snatched": {
+      "id": 373569,
+      "poster": "/gsleO1KultziWltEAngAEZkxQhf.jpg",
+      "title": "Snatched",
+      "year": 2017
+    },
+    "The Night Before": {
+      "id": 296100,
+      "poster": "/rfeNBaiMBg0UQsBQFv1qsjTjZWn.jpg",
+      "title": "The Night Before",
+      "year": 2015
+    },
+    "The Wackness": {
+      "id": 13990,
+      "poster": "/gmtlqHZs8YBXcpMw4BgA3SGJfg8.jpg",
+      "title": "The Wackness",
+      "year": 2008
+    },
+    "50/50": {
+      "id": 40807,
+      "poster": "/8f9tM9JVB4ETBhxlQcXIjLckArl.jpg",
+      "title": "50/50",
+      "year": 2011
+    },
+    "Warm Bodies": {
+      "id": 82654,
+      "poster": "/i8vCO3uszvlfBJVEyuIZVUDlt60.jpg",
+      "title": "Warm Bodies",
+      "year": 2013
+    },
+    "All the Boys Love Mandy Lane": {
+      "id": 9022,
+      "poster": "/9t7n7K0xqw0gMvrxyhdiyqEF3W1.jpg",
+      "title": "All the Boys Love Mandy Lane",
+      "year": 2006
+    },
+    "21 Jump Street": {
+      "id": 64688,
+      "poster": "/8v3Sqv9UcIUC4ebmpKWROqPBINZ.jpg",
+      "title": "21 Jump Street",
+      "year": 2012
+    },
+    "Fitzcarraldo": {
+      "id": 9343,
+      "poster": "/oBCnYEKcg1rMhr5JjDnrRpilvDd.jpg",
+      "title": "Fitzcarraldo",
+      "year": 1982
+    },
+    "Bob & Carol & Ted & Alice": {
+      "id": 26520,
+      "poster": "/8fDLuB1q3JycYJPK0F65OYO3lAX.jpg",
+      "title": "Bob & Carol & Ted & Alice",
+      "year": 1969
+    },
+    "The King of Comedy": {
+      "id": 262,
+      "poster": "/m24EbHxT9NGYEkOlu29YcLOgjgK.jpg",
+      "title": "The King of Comedy",
+      "year": 1982
+    },
+    "Boogie Nights": {
+      "id": 4995,
+      "poster": "/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg",
+      "title": "Boogie Nights",
+      "year": 1997
+    },
+    "The Killing of a Chinese Bookie": {
+      "id": 32040,
+      "poster": "/lShPFOAbQ6y6oFYUfecmrj7BUu6.jpg",
+      "title": "The Killing of a Chinese Bookie",
+      "year": 1976
+    },
+    "This Is the End": {
+      "id": 109414,
+      "poster": "/tNIW0NhX1hKvUsy6PQ80DOKUhkD.jpg",
+      "title": "This Is the End",
+      "year": 2013
+    },
+    "Auto Focus": {
+      "id": 14112,
+      "poster": "/71CQUn4vtpDQtAPXtaLP7IGH0Sg.jpg",
+      "title": "Auto Focus",
+      "year": 2002
+    },
+    "Taxi Driver": {
+      "id": 103,
+      "poster": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "title": "Taxi Driver",
+      "year": 1976
+    },
+    "A Bigger Splash": {
+      "id": 324807,
+      "poster": "/b9ca2L41R43Lg1hpSzJHwtDTvYU.jpg",
+      "title": "A Bigger Splash",
+      "year": 2015
+    }
+  },
+  "spotifyEpisodeId": "76UD9Vx68qMVrxVBUJw4rG"
+}

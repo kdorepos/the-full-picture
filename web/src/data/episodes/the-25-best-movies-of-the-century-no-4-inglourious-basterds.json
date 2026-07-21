@@ -1,0 +1,321 @@
+{
+  "slug": "the-25-best-movies-of-the-century-no-4-inglourious-basterds",
+  "title": "The 25 Best Movies of the Century: No. 4 - 'Inglourious Basterds'",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2025-11-19",
+  "runtimeMin": 43,
+  "format": "Sean and Amanda spend their one Tarantino slot on Inglourious Basterds, taped live at the Egyptian Theatre in Hollywood: No. 4 on the century list.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "No. 4 - 'Inglourious Basterds'",
+      "note": "the Tarantino pick",
+      "films": [
+        {
+          "title": "Inglourious Basterds",
+          "year": 2009,
+          "note": "Their one-per-director Tarantino slot (Pulp Fiction was ineligible as a pre-2000 film, and Once Upon a Time in Hollywood was the debate). Sean's case: the secret art of moviemaking is writing one unbelievable scene after another, and this is the clearest example, from the 20-minute opening interrogation to the tavern shootout to Operation Kino. Christoph Waltz, a 50-year-old Austrian actor of little renown, is the Hans Landa Tarantino spent years failing to cast; he won Supporting Actor, the film's only win from 8 nominations in the Hurt Locker year. Premiered at Cannes and lost the Palme d'Or to Haneke's The White Ribbon. Amanda keeps returning to the Shoshanna thread as the film's real tragedy against the comic revenge."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The other Tarantino films",
+      "films": [
+        "Pulp Fiction",
+        "Kill Bill: The Whole Bloody Affair",
+        "Death Proof",
+        "Django Unchained",
+        "The Hateful Eight",
+        "Once Upon a Time in Hollywood",
+        "True Romance"
+      ]
+    },
+    {
+      "group": "Influences and homages",
+      "films": [
+        "The Inglorious Bastards",
+        "The Dirty Dozen",
+        "Where Eagles Dare",
+        "The Good, the Bad and the Ugly",
+        "Casablanca",
+        "The Great Escape",
+        "To Be or Not to Be",
+        "Sergeant York",
+        "Mrs. Miniver",
+        "King Kong"
+      ]
+    },
+    {
+      "group": "The 2010 Oscar race",
+      "films": [
+        "The Hurt Locker",
+        "Avatar"
+      ]
+    },
+    {
+      "group": "Period war films it stands in for",
+      "films": [
+        "Dunkirk",
+        "1917",
+        "Downfall",
+        "Atonement",
+        "Black Book",
+        "Phoenix",
+        "Master and Commander: The Far Side of the World",
+        "The White Ribbon",
+        "Black Hawk Down"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "JFK",
+        "The Piano Teacher",
+        "The Shrouds",
+        "Frankenstein",
+        "Spectre",
+        "Life Is Beautiful",
+        "Knives Out"
+      ]
+    }
+  ],
+  "excluded": {
+    "Fictional": [
+      "Coming Home in a Body Bag"
+    ],
+    "Ads": [
+      "State Farm",
+      "Mint Mobile"
+    ]
+  },
+  "tmdbOverrides": {
+    "Phoenix": 254578,
+    "King Kong": 244
+  },
+  "tmdb": {
+    "Inglourious Basterds": {
+      "id": 16869,
+      "poster": "/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg",
+      "title": "Inglourious Basterds",
+      "year": 2009
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "Kill Bill: The Whole Bloody Affair": {
+      "id": 414419,
+      "poster": "/nSOJfWJCdVFZQwXQA7RXn7FIIiY.jpg",
+      "title": "Kill Bill: The Whole Bloody Affair",
+      "year": 2011
+    },
+    "Death Proof": {
+      "id": 1991,
+      "poster": "/vtu6H4NWnQVqEp3aanUq3hNeeot.jpg",
+      "title": "Death Proof",
+      "year": 2007
+    },
+    "Django Unchained": {
+      "id": 68718,
+      "poster": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+      "title": "Django Unchained",
+      "year": 2012
+    },
+    "The Hateful Eight": {
+      "id": 273248,
+      "poster": "/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+      "title": "The Hateful Eight",
+      "year": 2015
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "True Romance": {
+      "id": 319,
+      "poster": "/39lXk6ud6KiJgGbbWI2PUKS7y2.jpg",
+      "title": "True Romance",
+      "year": 1993
+    },
+    "The Inglorious Bastards": {
+      "id": 22311,
+      "poster": "/8f7PoX7TveyKrndh3bZZcBvR55Z.jpg",
+      "title": "The Inglorious Bastards",
+      "year": 1978
+    },
+    "The Dirty Dozen": {
+      "id": 1654,
+      "poster": "/tFWWsuhp22zJ6OG6QepJIiPUfeF.jpg",
+      "title": "The Dirty Dozen",
+      "year": 1967
+    },
+    "Where Eagles Dare": {
+      "id": 11046,
+      "poster": "/dnyiVS4Ad4w4rfS4Bm1YalEdonx.jpg",
+      "title": "Where Eagles Dare",
+      "year": 1968
+    },
+    "The Good, the Bad and the Ugly": {
+      "id": 429,
+      "poster": "/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+      "title": "The Good, the Bad and the Ugly",
+      "year": 1966
+    },
+    "Casablanca": {
+      "id": 289,
+      "poster": "/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+      "title": "Casablanca",
+      "year": 1943
+    },
+    "The Great Escape": {
+      "id": 5925,
+      "poster": "/gBH4H8UMFxl139HaLz6lRuvsel8.jpg",
+      "title": "The Great Escape",
+      "year": 1963
+    },
+    "To Be or Not to Be": {
+      "id": 198,
+      "poster": "/dDQRpEoyjHT4fzw9cNklIvZuXYg.jpg",
+      "title": "To Be or Not to Be",
+      "year": 1942
+    },
+    "Sergeant York": {
+      "id": 16442,
+      "poster": "/54LTgyRHSixyeeFhLtCFj0SMAQ3.jpg",
+      "title": "Sergeant York",
+      "year": 1941
+    },
+    "Mrs. Miniver": {
+      "id": 27367,
+      "poster": "/fjPjx6FTaoTussbqoLj6OYTtUyi.jpg",
+      "title": "Mrs. Miniver",
+      "year": 1942
+    },
+    "King Kong": {
+      "id": 244,
+      "poster": "/lHlnxKL5GbgRibyRFI7n1Ey850i.jpg",
+      "title": "King Kong",
+      "year": 1933
+    },
+    "The Hurt Locker": {
+      "id": 12162,
+      "poster": "/io2dfBJhasvGbgkCX9cCGVOiA99.jpg",
+      "title": "The Hurt Locker",
+      "year": 2008
+    },
+    "Avatar": {
+      "id": 19995,
+      "poster": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "title": "Avatar",
+      "year": 2009
+    },
+    "Dunkirk": {
+      "id": 374720,
+      "poster": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "title": "Dunkirk",
+      "year": 2017
+    },
+    "1917": {
+      "id": 530915,
+      "poster": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+      "title": "1917",
+      "year": 2019
+    },
+    "Downfall": {
+      "id": 613,
+      "poster": "/cP1ElGjBhbZAAqmueXjHDKlSwiP.jpg",
+      "title": "Downfall",
+      "year": 2004
+    },
+    "Atonement": {
+      "id": 4347,
+      "poster": "/hMRIyBjPzxaSXWM06se3OcNjIQa.jpg",
+      "title": "Atonement",
+      "year": 2007
+    },
+    "Black Book": {
+      "id": 9075,
+      "poster": "/s8UyT6tUKJl07gYhPheLAzogG8V.jpg",
+      "title": "Black Book",
+      "year": 2006
+    },
+    "Phoenix": {
+      "id": 254578,
+      "poster": "/rJuKu5Rpg92AkzyC5rbYbqsNPI9.jpg",
+      "title": "Phoenix",
+      "year": 2014
+    },
+    "Master and Commander: The Far Side of the World": {
+      "id": 8619,
+      "poster": "/s1cVTQEZYn4nSjZLnFbzLP0j8y2.jpg",
+      "title": "Master and Commander: The Far Side of the World",
+      "year": 2003
+    },
+    "The White Ribbon": {
+      "id": 37903,
+      "poster": "/54dlnGDexrwAFlDb8HWKfmmX4LB.jpg",
+      "title": "The White Ribbon",
+      "year": 2009
+    },
+    "Black Hawk Down": {
+      "id": 855,
+      "poster": "/7fU5dSqKRL4XHeEUz62rCKBfYok.jpg",
+      "title": "Black Hawk Down",
+      "year": 2001
+    },
+    "JFK": {
+      "id": 820,
+      "poster": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+      "title": "JFK",
+      "year": 1991
+    },
+    "The Piano Teacher": {
+      "id": 1791,
+      "poster": "/gNHKYQnP1RnqEhkivHJzBPb4MOP.jpg",
+      "title": "The Piano Teacher",
+      "year": 2001
+    },
+    "The Shrouds": {
+      "id": 970947,
+      "poster": "/xXoueIHdllGo5m0ChKvSATJYWBw.jpg",
+      "title": "The Shrouds",
+      "year": 2025
+    },
+    "Frankenstein": {
+      "id": 1062722,
+      "poster": "/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+      "title": "Frankenstein",
+      "year": 2025
+    },
+    "Spectre": {
+      "id": 206647,
+      "poster": "/zj8ongFhtWNsVlfjOGo8pSr7PQg.jpg",
+      "title": "Spectre",
+      "year": 2015
+    },
+    "Life Is Beautiful": {
+      "id": 637,
+      "poster": "/74hLDKjD5aGYOotO6esUVaeISa2.jpg",
+      "title": "Life Is Beautiful",
+      "year": 1997
+    },
+    "Knives Out": {
+      "id": 546554,
+      "poster": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+      "title": "Knives Out",
+      "year": 2019
+    }
+  },
+  "spotifyEpisodeId": "7s9hDCWGqOhyhADKuO2lEt"
+}

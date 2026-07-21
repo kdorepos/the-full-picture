@@ -1,0 +1,366 @@
+{
+  "slug": "1-give-em-hell-do-we-get-to-win-this-time",
+  "title": "1. Give ’Em Hell | Do We Get to Win This Time?",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Brian Raftery"
+  ],
+  "published": "2023-08-08",
+  "runtimeMin": 40,
+  "format": "Episode 1 of Brian Raftery's Vietnam-on-film series: how Hollywood spent a decade dodging the war, from the WWII pictures that romanticized combat to John Wayne's Green Berets and the documentaries no studio would touch.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Platoon breaks the seal",
+      "note": "The 1987 Oscars and the wave that followed",
+      "films": [
+        {
+          "title": "Platoon",
+          "year": 1986,
+          "note": "Won four Oscars including Best Picture; Oliver Stone spent a decade getting it made and called it a catharsis."
+        },
+        {
+          "title": "Good Morning, Vietnam",
+          "year": 1987
+        },
+        {
+          "title": "Full Metal Jacket",
+          "year": 1987
+        },
+        {
+          "title": "Hamburger Hill",
+          "year": 1987
+        },
+        {
+          "title": "Casualties of War",
+          "year": 1989
+        },
+        {
+          "title": "Born on the Fourth of July",
+          "year": 1989
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Hollywood's early Vietnam flops",
+      "note": "Before The Green Berets, nobody could sell the war",
+      "films": [
+        {
+          "title": "A Yank in Vietnam",
+          "year": 1964,
+          "note": "Marshall Thompson traveled to Saigon to direct and star, and was grazed by gunfire on set. The film is now completely lost."
+        },
+        {
+          "title": "The Ugly American",
+          "year": 1963,
+          "note": "Marlon Brando in a thriller set in a fictitious Southeast Asian stand-in for Vietnam, much of it shot in Thailand."
+        },
+        {
+          "title": "Operation CIA",
+          "year": 1965,
+          "note": "Burt Reynolds as an undercover agent in Saigon; barely a Vietnam movie, at one point he fights a boa constrictor."
+        },
+        {
+          "title": "The Quiet American",
+          "year": 1958,
+          "note": "Mankiewicz's adaptation of the Graham Greene novel; the role Kieu Chinh couldn't take went to an Italian actor."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "John Wayne makes The Green Berets",
+      "note": "For years, the only studio movie about Vietnam",
+      "films": [
+        {
+          "title": "The Green Berets",
+          "year": 1968,
+          "note": "Wayne produced, starred in, and co-directed it, securing tanks, planes and troops from the Pentagon in exchange for script approval. Critics savaged it and Wayne himself later called it propaganda, but it was one of the biggest hits of 1968."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The documentaries that fought back",
+      "note": "Anti-war films no distributor wanted",
+      "films": [
+        {
+          "title": "In the Year of the Pig",
+          "year": 1969,
+          "note": "Emil de Antonio's doc drew bomb threats and had 'traitors' painted across a screen; an Oscar nomination still couldn't get it a wide release."
+        },
+        {
+          "title": "Winter Soldier",
+          "year": 1972,
+          "note": "Vets testifying to atrocities over a weekend in Detroit, with a brief cameo from a young John Kerry. Played Cannes; no U.S. distributor picked it up."
+        },
+        {
+          "title": "A Face of War",
+          "year": 1968
+        },
+        {
+          "title": "The Anderson Platoon",
+          "year": 1967,
+          "note": "Won the Academy Award for documentary."
+        },
+        {
+          "title": "Hearts and Minds",
+          "year": 1974,
+          "note": "Peter Davis's million-dollar doc; Columbia got cold feet and Warner released it. Its 1975 Best Documentary win set off producer Bert Schneider's on-air message from the Viet Cong and Bob Hope's furious rebuttal."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Hollywood's WWII movies",
+      "films": [
+        "Casablanca",
+        "The Great Escape",
+        "The Dirty Dozen",
+        "The Bridge on the River Kwai",
+        "Invisible Agent",
+        "The Longest Day"
+      ]
+    },
+    {
+      "group": "Late-'60s escapism",
+      "films": [
+        "The Odd Couple",
+        "Funny Girl",
+        "The Love Bug"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "All About Eve",
+        "The Philadelphia Story",
+        "Hellcats of the Navy",
+        "This Is the Army",
+        "Easy Rider",
+        "The Last Picture Show",
+        "Rosemary's Baby",
+        "Planet of the Apes"
+      ]
+    }
+  ],
+  "excluded": {
+    "Books": [
+      "The Sympathizer"
+    ],
+    "Podcasts": [
+      "22 Goals",
+      "Just Like Us",
+      "Gene and Roger"
+    ],
+    "Ads": [
+      "Tremfya",
+      "Netflix FIFA World Cup Launch Edition",
+      "Nas Energy",
+      "Whole Foods Market"
+    ]
+  },
+  "tmdb": {
+    "Platoon": {
+      "id": 792,
+      "poster": "/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg",
+      "title": "Platoon",
+      "year": 1986
+    },
+    "Good Morning, Vietnam": {
+      "id": 801,
+      "poster": "/sreISlFUn5TyR41QNjlfAdX5SEW.jpg",
+      "title": "Good Morning, Vietnam",
+      "year": 1987
+    },
+    "Full Metal Jacket": {
+      "id": 600,
+      "poster": "/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+      "title": "Full Metal Jacket",
+      "year": 1987
+    },
+    "Hamburger Hill": {
+      "id": 10652,
+      "poster": "/a84FDoIm64qcyKq6BEMB9Ycldpt.jpg",
+      "title": "Hamburger Hill",
+      "year": 1987
+    },
+    "Casualties of War": {
+      "id": 10142,
+      "poster": "/3SerZUDoU9TMCXMsQqiXvSWm0uL.jpg",
+      "title": "Casualties of War",
+      "year": 1989
+    },
+    "Born on the Fourth of July": {
+      "id": 2604,
+      "poster": "/c5gSie6ZA90iBs62yNM5MV4y9R7.jpg",
+      "title": "Born on the Fourth of July",
+      "year": 1989
+    },
+    "A Yank in Vietnam": {
+      "id": 320592,
+      "poster": "/uhN2AB7Lol3WM7XOSuQTLYaxla7.jpg",
+      "title": "A Yank in Viet-Nam",
+      "year": 1964
+    },
+    "The Ugly American": {
+      "id": 53650,
+      "poster": "/o8IjdO8uwi0b4e1uVryZd6a8m6P.jpg",
+      "title": "The Ugly American",
+      "year": 1963
+    },
+    "Operation CIA": {
+      "id": 107335,
+      "poster": "/rem4KjNsoWRBckmNaL7jmnu1UsV.jpg",
+      "title": "Operation C.I.A.",
+      "year": 1965
+    },
+    "The Quiet American": {
+      "id": 85514,
+      "poster": "/67Ks7m063DsocmWmo2DyTSuFXZr.jpg",
+      "title": "The Quiet American",
+      "year": 1958
+    },
+    "The Green Berets": {
+      "id": 22377,
+      "poster": "/c5WG23iqf3RakGOTjZnBATbYM1f.jpg",
+      "title": "The Green Berets",
+      "year": 1968
+    },
+    "In the Year of the Pig": {
+      "id": 63951,
+      "poster": "/iXAeDRmDguZAl2QxaHv1YQ7G1u6.jpg",
+      "title": "In the Year of the Pig",
+      "year": 1969
+    },
+    "Winter Soldier": {
+      "id": 34921,
+      "poster": "/wIagxsIvSEGAXQuuCkximnhhyL1.jpg",
+      "title": "Winter Soldier",
+      "year": 1972
+    },
+    "A Face of War": {
+      "id": 560585,
+      "poster": "/2xmuJnmhCZF96oNAQ6ukufTmco3.jpg",
+      "title": "A Face of War",
+      "year": 1968
+    },
+    "The Anderson Platoon": {
+      "id": 66569,
+      "poster": "/4tUXcKxBAt8nNYVBx09Bq6v0xZt.jpg",
+      "title": "The Anderson Platoon",
+      "year": 1967
+    },
+    "Hearts and Minds": {
+      "id": 42449,
+      "poster": "/yXnpP2RAZbG3DQufUGcOM5hU4cF.jpg",
+      "title": "Hearts and Minds",
+      "year": 1974
+    },
+    "Casablanca": {
+      "id": 289,
+      "poster": "/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+      "title": "Casablanca",
+      "year": 1943
+    },
+    "The Great Escape": {
+      "id": 5925,
+      "poster": "/gBH4H8UMFxl139HaLz6lRuvsel8.jpg",
+      "title": "The Great Escape",
+      "year": 1963
+    },
+    "The Dirty Dozen": {
+      "id": 1654,
+      "poster": "/tFWWsuhp22zJ6OG6QepJIiPUfeF.jpg",
+      "title": "The Dirty Dozen",
+      "year": 1967
+    },
+    "The Bridge on the River Kwai": {
+      "id": 826,
+      "poster": "/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
+      "title": "The Bridge on the River Kwai",
+      "year": 1957
+    },
+    "Invisible Agent": {
+      "id": 28426,
+      "poster": "/2yybvJ8qeTv3efX8LP0q1KGleDJ.jpg",
+      "title": "Invisible Agent",
+      "year": 1942
+    },
+    "The Longest Day": {
+      "id": 9289,
+      "poster": "/5zmvEofdIlgXrQl9A7e5IOzlnFU.jpg",
+      "title": "The Longest Day",
+      "year": 1962
+    },
+    "The Odd Couple": {
+      "id": 11356,
+      "poster": "/d3dKPpzEi7WfgmoMnMwWyQnd2ja.jpg",
+      "title": "The Odd Couple",
+      "year": 1968
+    },
+    "Funny Girl": {
+      "id": 16085,
+      "poster": "/ywjXHWUK0niM26UKy7DTCErWTFz.jpg",
+      "title": "Funny Girl",
+      "year": 1968
+    },
+    "The Love Bug": {
+      "id": 14136,
+      "poster": "/9Lc1efdYZUZia2zsRWcUkiD1KdN.jpg",
+      "title": "The Love Bug",
+      "year": 1968
+    },
+    "All About Eve": {
+      "id": 705,
+      "poster": "/blBzZaatPWVuWpXEnPscMA4Xp6m.jpg",
+      "title": "All About Eve",
+      "year": 1950
+    },
+    "The Philadelphia Story": {
+      "id": 981,
+      "poster": "/dKUubjvxO78XDts6VP1Ggcp4R9O.jpg",
+      "title": "The Philadelphia Story",
+      "year": 1940
+    },
+    "Hellcats of the Navy": {
+      "id": 82181,
+      "poster": "/sdt2fdPjhX2NhfpZtRtRPDX65J6.jpg",
+      "title": "Hellcats of the Navy",
+      "year": 1957
+    },
+    "This Is the Army": {
+      "id": 43517,
+      "poster": "/2zBY2WMlhQDd1t24RHvEBz055qT.jpg",
+      "title": "This Is the Army",
+      "year": 1943
+    },
+    "Easy Rider": {
+      "id": 624,
+      "poster": "/3H3vwPGX6EbBRffIVHp3eHHcjka.jpg",
+      "title": "Easy Rider",
+      "year": 1969
+    },
+    "The Last Picture Show": {
+      "id": 25188,
+      "poster": "/7NYePZc0lZrRomtmQsjOJMePTEb.jpg",
+      "title": "The Last Picture Show",
+      "year": 1971
+    },
+    "Rosemary's Baby": {
+      "id": 805,
+      "poster": "/uYgvlHceRFjAFbsNeMInYcLZLUb.jpg",
+      "title": "Rosemary's Baby",
+      "year": 1968
+    },
+    "Planet of the Apes": {
+      "id": 871,
+      "poster": "/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+      "title": "Planet of the Apes",
+      "year": 1968
+    }
+  }
+}

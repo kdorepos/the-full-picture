@@ -1,0 +1,176 @@
+{
+  "slug": "bo-burnhams-eighth-grade-captures-the-experience-of-middle-s",
+  "title": "Bo Burnham’s ‘Eighth Grade’ Captures the Experience of Middle School and Right Now",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2018-07-20",
+  "runtimeMin": 31,
+  "format": "Sean Fennessey sits down with writer-director Bo Burnham and 15-year-old star Elsie Fisher about Eighth Grade.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Bo Burnham & Elsie Fisher on",
+      "films": [
+        {
+          "title": "Eighth Grade",
+          "year": 2018,
+          "note": "Burnham's first film as writer-director; Fisher plays Kayla. He wanted a movie about \"now,\" not a nostalgia piece, and cast a girl to keep from projecting his own past onto her. Fisher was past eighth grade when they shot: 27 days, nine-hour days because she was 13. Burnham tested her seven times; the pool-party walk and the closed-set banana scene came up as the moments that read far more intense onscreen than they were to shoot."
+        }
+      ]
+    },
+    {
+      "kind": "list",
+      "heading": "The last great thing they've seen",
+      "note": "the show's closing question",
+      "picks": [
+        {
+          "title": "Three Identical Strangers",
+          "year": 2018,
+          "by": "Bo Burnham",
+          "note": "The documentary: \"the title's only the first five minutes,\" so it doesn't spoil itself."
+        },
+        {
+          "title": "Blockers",
+          "year": 2018,
+          "by": "Bo Burnham",
+          "note": "His scripted pick; a warm studio comedy he thought did right by its three leads."
+        },
+        {
+          "title": "The Florida Project",
+          "year": 2017,
+          "by": "Elsie Fisher",
+          "note": "Watched back-to-back with Moonlight on a flight."
+        },
+        {
+          "title": "Moonlight",
+          "year": 2016,
+          "by": "Elsie Fisher",
+          "note": "The other half of that A24 double bill."
+        },
+        {
+          "title": "Hereditary",
+          "year": 2018,
+          "by": "Elsie Fisher",
+          "note": "Her current favorite; saw it at a midnight showing and wasn't scared."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Touchstones Burnham named",
+      "films": [
+        "The Breakfast Club",
+        "One Flew Over the Cuckoo's Nest",
+        "Saving Private Ryan",
+        "Air Bud"
+      ]
+    },
+    {
+      "group": "Fisher's dad's rotation",
+      "films": [
+        "Con Air",
+        "Armageddon",
+        "Divergent"
+      ]
+    }
+  ],
+  "excluded": {
+    "Video games": [
+      "Fortnite"
+    ],
+    "Podcasts": [
+      "Extreme D&D",
+      "The Bill Simmons Podcast"
+    ],
+    "Ads": [
+      "Shudder",
+      "Wolf Creek"
+    ]
+  },
+  "tmdb": {
+    "Eighth Grade": {
+      "id": 489925,
+      "poster": "/xTa9cLhGHfQ7084UvoPQ2bBXKqd.jpg",
+      "title": "Eighth Grade",
+      "year": 2018
+    },
+    "Three Identical Strangers": {
+      "id": 489988,
+      "poster": "/esPoJNMBsgWXahv8gILIl5K6sFk.jpg",
+      "title": "Three Identical Strangers",
+      "year": 2018
+    },
+    "Blockers": {
+      "id": 437557,
+      "poster": "/uvlUQXg0AlpGzKukO11K7QtW3Yu.jpg",
+      "title": "Blockers",
+      "year": 2018
+    },
+    "The Florida Project": {
+      "id": 394117,
+      "poster": "/5QnDxdJg1fi6uMSkSi4x8tHsltm.jpg",
+      "title": "The Florida Project",
+      "year": 2017
+    },
+    "Moonlight": {
+      "id": 376867,
+      "poster": "/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+      "title": "Moonlight",
+      "year": 2016
+    },
+    "Hereditary": {
+      "id": 493922,
+      "poster": "/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+      "title": "Hereditary",
+      "year": 2018
+    },
+    "The Breakfast Club": {
+      "id": 2108,
+      "poster": "/gp4zlj7wgbiofLMNsTPndMuO3PN.jpg",
+      "title": "The Breakfast Club",
+      "year": 1985
+    },
+    "One Flew Over the Cuckoo's Nest": {
+      "id": 510,
+      "poster": "/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": 1975
+    },
+    "Saving Private Ryan": {
+      "id": 857,
+      "poster": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+      "title": "Saving Private Ryan",
+      "year": 1998
+    },
+    "Air Bud": {
+      "id": 20737,
+      "poster": "/kDfzh6QdX2tseTwwyB7lp2RP7iE.jpg",
+      "title": "Air Bud",
+      "year": 1997
+    },
+    "Con Air": {
+      "id": 1701,
+      "poster": "/kOKjgrEzGOP92rVQ6srA9jtp60l.jpg",
+      "title": "Con Air",
+      "year": 1997
+    },
+    "Armageddon": {
+      "id": 95,
+      "poster": "/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg",
+      "title": "Armageddon",
+      "year": 1998
+    },
+    "Divergent": {
+      "id": 157350,
+      "poster": "/aNh4Q3iuPKDMPi2SL7GgOpiLukX.jpg",
+      "title": "Divergent",
+      "year": 2014
+    }
+  },
+  "spotifyEpisodeId": "7oim1E14asNDpC64SnZLQS"
+}

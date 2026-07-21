@@ -1,0 +1,281 @@
+{
+  "slug": "prey-and-the-predator-movie-rankings",
+  "title": "'Prey' and the 'Predator' Movie Rankings",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Chris Ryan"
+  ],
+  "published": "2022-08-08",
+  "runtimeMin": 71,
+  "format": "Sean and Chris review Dan Trachtenberg's 'Prey' and rank all seven Predator movies against it, then Trachtenberg explains how he built the thing.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "'Prey'",
+      "note": "the seventh Predator movie, streaming on Hulu",
+      "films": [
+        {
+          "title": "Prey",
+          "year": 2022,
+          "note": "A 1719-set prequel with a Comanche lead (Amber Midthunder) hunting the first Predator to land on Earth, and the first feature film dubbed entirely in Comanche. Chris calls it 'elemental' and 'muddy, dusty... grimy': slow to start, but the last 70 minutes deliver three or four big set pieces. Both hosts think it plays better on a big screen than the Hulu default."
+        }
+      ]
+    },
+    {
+      "kind": "ranking",
+      "heading": "The Predator Movie Rankings",
+      "note": "best to worst",
+      "subject": "the Predator franchise",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Predator",
+          "year": 1987,
+          "note": "No. 1: 'the best use of Schwarzenegger' and, per Sean, 'one of the great action movies maybe ever made.' Hasn't aged a day."
+        },
+        {
+          "title": "Predators",
+          "year": 2010,
+          "note": "The Robert Rodriguez-produced, Nimrod Antal-directed entry both hosts love: 'trash special ops and junk sci-fi,' with Walton Goggins, Adrien Brody, Laurence Fishburne, Topher Grace, and Mahershala Ali."
+        },
+        {
+          "title": "Prey",
+          "year": 2022,
+          "note": "'Probably the third best of these films in totality,' per Sean, though he thinks it might climb with rewatches."
+        },
+        {
+          "title": "Predator 2",
+          "year": 1990,
+          "note": "Danny Glover, Ruben Blades, and a very 1990 gang-war plot. Sean calls it 'honestly less successful than Prey,' though it's earned a cult following over the years."
+        },
+        {
+          "title": "The Predator",
+          "year": 2018,
+          "note": "Shane Black's version. 'Bad vibe central,' per Sean, who says it 'was not really fully together,' hampered by reshoots and a production controversy that overshadowed it."
+        },
+        {
+          "title": "AVP: Alien vs. Predator",
+          "year": 2004,
+          "note": "Bottom tier for both hosts. Sean: 'that movie doesn't really stack up to the others.'"
+        },
+        {
+          "title": "Aliens vs Predator: Requiem",
+          "year": 2007,
+          "note": "The floor of the franchise."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Dan Trachtenberg on",
+      "films": [
+        {
+          "title": "Prey",
+          "year": 2022,
+          "note": "Trachtenberg pitched it in 2017 as a Rogue One-style side story, then watched it get shelved through the Fox-Disney merger before 20th Century read the script again. He redesigned the Predator's silhouette to recapture the original's three-stage reveal, and describes shooting the swamp sequence in a dug-out mud pit that reeked so badly some actors needed doubles."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "No Time to Die",
+        "No Exit",
+        "The Bob's Burgers Movie",
+        "Barbarian",
+        "Amsterdam",
+        "Bullet Train",
+        "Bodies Bodies Bodies",
+        "Once Upon a Time in the West",
+        "Room",
+        "The Pianist",
+        "Aliens",
+        "Inglourious Basterds",
+        "Crocodile Dundee II",
+        "E.T. the Extra-Terrestrial"
+      ]
+    },
+    {
+      "group": "Trachtenberg's influences and other work",
+      "films": [
+        "10 Cloverfield Lane",
+        "Mad Max 2",
+        "The NeverEnding Story"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Black Mirror ('Playtest')",
+      "The Boys",
+      "Legion",
+      "Home Improvement",
+      "Succession",
+      "Winning Time",
+      "Station Eleven",
+      "Midnight Mass"
+    ],
+    "Video games": [
+      "Predator (NES)",
+      "FIFA World Cup Launch Edition"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "FanDuel",
+      "Netflix",
+      "Pepsi",
+      "Colgate Optic White"
+    ]
+  },
+  "tmdb": {
+    "Prey": {
+      "id": 766507,
+      "poster": "/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg",
+      "title": "Prey",
+      "year": 2022
+    },
+    "Predator": {
+      "id": 106,
+      "poster": "/aN3cdjIK70KGmD84et8MMblU87Q.jpg",
+      "title": "Predator",
+      "year": 1987
+    },
+    "Predators": {
+      "id": 34851,
+      "poster": "/wdniP8NDaJIydi1hMxhpbJMUfr6.jpg",
+      "title": "Predators",
+      "year": 2010
+    },
+    "Predator 2": {
+      "id": 169,
+      "poster": "/83X4VwY9sdSJykskmsplIVG0a4h.jpg",
+      "title": "Predator 2",
+      "year": 1990
+    },
+    "The Predator": {
+      "id": 346910,
+      "poster": "/a3eWGF6YPF7No5Rbtjc8QpDvz7l.jpg",
+      "title": "The Predator",
+      "year": 2018
+    },
+    "AVP: Alien vs. Predator": {
+      "id": 395,
+      "poster": "/ySWu5bCnnmgV1cVacvFnFIhgOjp.jpg",
+      "title": "AVP: Alien vs. Predator",
+      "year": 2004
+    },
+    "Aliens vs Predator: Requiem": {
+      "id": 440,
+      "poster": "/5iTwPDNtvK6ZZF607BHBbU3HO0B.jpg",
+      "title": "Aliens vs Predator: Requiem",
+      "year": 2007
+    },
+    "No Time to Die": {
+      "id": 370172,
+      "poster": "/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+      "title": "No Time to Die",
+      "year": 2021
+    },
+    "No Exit": {
+      "id": 833425,
+      "poster": "/5cnLoWq9o5tuLe1Zq4BTX4LwZ2B.jpg",
+      "title": "No Exit",
+      "year": 2022
+    },
+    "The Bob's Burgers Movie": {
+      "id": 504827,
+      "poster": "/AvV2nHEDQMWuRqAUrpcx2fB97CB.jpg",
+      "title": "The Bob's Burgers Movie",
+      "year": 2022
+    },
+    "Barbarian": {
+      "id": 913290,
+      "poster": "/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
+      "title": "Barbarian",
+      "year": 2022
+    },
+    "Amsterdam": {
+      "id": 664469,
+      "poster": "/6sJcVzGCwrDCBMV0DU6eRzA2UxM.jpg",
+      "title": "Amsterdam",
+      "year": 2022
+    },
+    "Bullet Train": {
+      "id": 718930,
+      "poster": "/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg",
+      "title": "Bullet Train",
+      "year": 2022
+    },
+    "Bodies Bodies Bodies": {
+      "id": 520023,
+      "poster": "/hSuTjDmqRdy7Dii8ymnF2WILTeP.jpg",
+      "title": "Bodies Bodies Bodies",
+      "year": 2022
+    },
+    "Once Upon a Time in the West": {
+      "id": 335,
+      "poster": "/qbYgqOczabWNn2XKwgMtVrntD6P.jpg",
+      "title": "Once Upon a Time in the West",
+      "year": 1968
+    },
+    "Room": {
+      "id": 264644,
+      "poster": "/2hHDMeYyZjbGWn0BeNH1cTMxuM7.jpg",
+      "title": "Room",
+      "year": 2015
+    },
+    "The Pianist": {
+      "id": 423,
+      "poster": "/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
+      "title": "The Pianist",
+      "year": 2002
+    },
+    "Aliens": {
+      "id": 679,
+      "poster": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "title": "Aliens",
+      "year": 1986
+    },
+    "Inglourious Basterds": {
+      "id": 16869,
+      "poster": "/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg",
+      "title": "Inglourious Basterds",
+      "year": 2009
+    },
+    "Crocodile Dundee II": {
+      "id": 9396,
+      "poster": "/2Nf0xeDuToLHysdkWj3aT5r42rC.jpg",
+      "title": "Crocodile Dundee II",
+      "year": 1988
+    },
+    "E.T. the Extra-Terrestrial": {
+      "id": 601,
+      "poster": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+      "title": "E.T. the Extra-Terrestrial",
+      "year": 1982
+    },
+    "10 Cloverfield Lane": {
+      "id": 333371,
+      "poster": "/q8A39vcBDruhvoDTJd6L8a4lnTi.jpg",
+      "title": "10 Cloverfield Lane",
+      "year": 2016
+    },
+    "Mad Max 2": {
+      "id": 8810,
+      "poster": "/l1KVEhkGDpWRzQ0VqIhZqDDuOim.jpg",
+      "title": "Mad Max 2",
+      "year": 1981
+    },
+    "The NeverEnding Story": {
+      "id": 34584,
+      "poster": "/ddYCa91iDXfJCxaqSYzwi2fjfnl.jpg",
+      "title": "The NeverEnding Story",
+      "year": 1984
+    }
+  }
+}

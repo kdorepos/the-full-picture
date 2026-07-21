@@ -1,0 +1,300 @@
+{
+  "slug": "nope-with-jordan-peele",
+  "title": "‘Nope’ With Jordan Peele!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Van Lathan"
+  ],
+  "published": "2022-07-22",
+  "runtimeMin": 85,
+  "format": "Sean Fennessey and Van Lathan talk through Jordan Peele's third feature, spoiler-free then spoilers, then Fennessey sits down with Peele himself.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Van Lathan on ‘Nope’",
+      "note": "spoiler-free, then spoilers",
+      "films": [
+        {
+          "title": "Nope",
+          "year": 2022,
+          "note": "Kaluuya and Keke Palmer as siblings running a Hollywood horse ranch who try to film the thing in the sky. Van finds the first third clunky and Shyamalan-esque, warmer on it the more he sits with it; both flag that the crowd-pleasing win at the end undercuts the movie's own warning about profiting off nature. Shot on IMAX by Hoyte van Hoytema, scored by Michael Abels, cut by Nicholas Monsour."
+        },
+        {
+          "title": "Get Out",
+          "year": 2017,
+          "note": "The point of comparison both keep returning to. Van was a skeptic before release, then it blew him away; the pair credit it with making Peele a brand and reviving original studio horror."
+        },
+        {
+          "title": "Us",
+          "year": 2019,
+          "note": "Van didn't like it. Beautiful to look at, but more a museum than an experience, and it strains toward its final reveal. Sean thinks it works better as an episode than a single sitting."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Jordan Peele on",
+      "films": [
+        {
+          "title": "Nope",
+          "year": 2022,
+          "note": "Peele on wanting a massive film, inventing horse trainer Otis Sr.'s fake career to get a 'Berenstain Bears' collapse of real and invented history, and building the chimp set 30% larger so Terry Notary's performance would read smaller. His line: people like movies more than messages."
+        },
+        {
+          "title": "Scream",
+          "year": 2022,
+          "note": "Peele's answer to the show's closing question, the last great thing he's seen, partly because it gave him a shout-out."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Hoyte van Hoytema's résumé",
+      "films": [
+        "Interstellar",
+        "Dunkirk",
+        "Tenet",
+        "Ad Astra",
+        "Let the Right One In",
+        "Her"
+      ]
+    },
+    {
+      "group": "Influences and homages",
+      "films": [
+        "Jaws",
+        "Alien",
+        "Close Encounters of the Third Kind",
+        "Signs",
+        "The Sixth Sense",
+        "The Thing"
+      ]
+    },
+    {
+      "group": "On the walls and in the frame",
+      "films": [
+        "Duel at Diablo",
+        "Buck and the Preacher",
+        "The Scorpion King"
+      ]
+    },
+    {
+      "group": "The cast elsewhere",
+      "films": [
+        "Judas and the Black Messiah",
+        "Hustlers"
+      ]
+    },
+    {
+      "group": "Peele's own back catalog and its homages",
+      "films": [
+        "Keanu",
+        "C.H.U.D.",
+        "The Goonies"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "The Square",
+        "Django Unchained",
+        "Top Gun: Maverick",
+        "Jurassic World Dominion",
+        "The Magnificent Seven"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Buffy the Vampire Slayer"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "Netflix FIFA World Cup",
+      "White Claw",
+      "Pepsi",
+      "FanDuel",
+      "Ringer MMA Show"
+    ]
+  },
+  "tmdb": {
+    "Nope": {
+      "id": 762504,
+      "poster": "/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
+      "title": "Nope",
+      "year": 2022
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Us": {
+      "id": 458723,
+      "poster": "/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+      "title": "Us",
+      "year": 2019
+    },
+    "Scream": {
+      "id": 646385,
+      "poster": "/nD4M4Bx457ryLuKYpxFwQ2IBJ5w.jpg",
+      "title": "Scream",
+      "year": 2022
+    },
+    "Interstellar": {
+      "id": 157336,
+      "poster": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+      "title": "Interstellar",
+      "year": 2014
+    },
+    "Dunkirk": {
+      "id": 374720,
+      "poster": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "title": "Dunkirk",
+      "year": 2017
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "Ad Astra": {
+      "id": 419704,
+      "poster": "/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg",
+      "title": "Ad Astra",
+      "year": 2019
+    },
+    "Let the Right One In": {
+      "id": 13310,
+      "poster": "/7IG4WjaAOVDlLvLUkh513HSwhW8.jpg",
+      "title": "Let the Right One In",
+      "year": 2008
+    },
+    "Her": {
+      "id": 152601,
+      "poster": "/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg",
+      "title": "Her",
+      "year": 2013
+    },
+    "Jaws": {
+      "id": 578,
+      "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "title": "Jaws",
+      "year": 1975
+    },
+    "Alien": {
+      "id": 348,
+      "poster": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "title": "Alien",
+      "year": 1979
+    },
+    "Close Encounters of the Third Kind": {
+      "id": 840,
+      "poster": "/yaPx3cK9zGFX3SbcKwxWM1QIbUh.jpg",
+      "title": "Close Encounters of the Third Kind",
+      "year": 1977
+    },
+    "Signs": {
+      "id": 2675,
+      "poster": "/YtrIdrTxpRhvCnlw43dwOjfLqx.jpg",
+      "title": "Signs",
+      "year": 2002
+    },
+    "The Sixth Sense": {
+      "id": 745,
+      "poster": "/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg",
+      "title": "The Sixth Sense",
+      "year": 1999
+    },
+    "The Thing": {
+      "id": 1091,
+      "poster": "/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+      "title": "The Thing",
+      "year": 1982
+    },
+    "Duel at Diablo": {
+      "id": 1403,
+      "poster": "/bKtx5Nu0LzjNDvCHthTQ3KAY95f.jpg",
+      "title": "Duel at Diablo",
+      "year": 1966
+    },
+    "Buck and the Preacher": {
+      "id": 26928,
+      "poster": "/uffsVLJUP6tPSm8nugTiu6ITpbL.jpg",
+      "title": "Buck and the Preacher",
+      "year": 1972
+    },
+    "The Scorpion King": {
+      "id": 9334,
+      "poster": "/aITIsX20tACn6jgtyDcCYpRT216.jpg",
+      "title": "The Scorpion King",
+      "year": 2002
+    },
+    "Judas and the Black Messiah": {
+      "id": 583406,
+      "poster": "/iIgr75GoqFxe1X5Wz9siOODGe9u.jpg",
+      "title": "Judas and the Black Messiah",
+      "year": 2021
+    },
+    "Hustlers": {
+      "id": 540901,
+      "poster": "/zBhv8rsLOfpFW2M5b6wW78Uoojs.jpg",
+      "title": "Hustlers",
+      "year": 2019
+    },
+    "Keanu": {
+      "id": 342521,
+      "poster": "/dPWlBmCixh9k3Jjb7c7jkIaxBbL.jpg",
+      "title": "Keanu",
+      "year": 2016
+    },
+    "C.H.U.D.": {
+      "id": 23730,
+      "poster": "/8BVw5RIDBTZwdMAR1VKpAkwrMjj.jpg",
+      "title": "C.H.U.D.",
+      "year": 1984
+    },
+    "The Goonies": {
+      "id": 9340,
+      "poster": "/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
+      "title": "The Goonies",
+      "year": 1985
+    },
+    "The Square": {
+      "id": 401246,
+      "poster": "/pefcv5VNspSK4Dt8doei5bJmmln.jpg",
+      "title": "The Square",
+      "year": 2017
+    },
+    "Django Unchained": {
+      "id": 68718,
+      "poster": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+      "title": "Django Unchained",
+      "year": 2012
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Jurassic World Dominion": {
+      "id": 507086,
+      "poster": "/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg",
+      "title": "Jurassic World Dominion",
+      "year": 2022
+    },
+    "The Magnificent Seven": {
+      "id": 966,
+      "poster": "/e5ToxOyJwuZD4VOfI0qEn5uIjeJ.jpg",
+      "title": "The Magnificent Seven",
+      "year": 1960
+    }
+  }
+}

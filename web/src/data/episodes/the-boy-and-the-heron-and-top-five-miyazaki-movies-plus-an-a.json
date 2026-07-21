@@ -1,0 +1,416 @@
+{
+  "slug": "the-boy-and-the-heron-and-top-five-miyazaki-movies-plus-an-a",
+  "title": "'The Boy and the Heron' and Top Five Miyazaki Movies. Plus: An 'Anatomy of a Fall' Deep Dive.",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2023-12-13",
+  "runtimeMin": 146,
+  "format": "Sean Fennessey runs a Studio Ghibli roundtable with Andy Greenwald, Charles Holmes, and producer Bobby Wagoner on Hayao Miyazaki's 'The Boy and the Heron' and everyone's top-five Miyazaki. Then he and Amanda Dobbins spoil their way through Justine Triet's 'Anatomy of a Fall.'",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "'The Boy and the Heron'",
+      "note": "Miyazaki's first film in a decade",
+      "films": [
+        {
+          "title": "The Boy and the Heron",
+          "year": 2023,
+          "note": "Miyazaki's first feature since 2013, six years in the making and the most expensive Japanese film ever. Its Japanese title, 'How Do You Live,' nods to the 1937 novel. A wartime boy, Mahito, follows a talking heron into a fantastical world after losing his mother; the panel reads it as Miyazaki's most personal and confounding work, his 'Irishman.' Christian Bale voices the father in the dub, Robert Pattinson the heron. Opened No. 1 at the U.S. box office."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Top Five Miyazaki Movies",
+      "note": "ranked by rough consensus of four ballots",
+      "subject": "Hayao Miyazaki",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Spirited Away",
+          "year": 2001,
+          "note": "Unanimous No. 1 for all four. Called the 'Wizard of Oz of Japanese animation,' the text everyone else gets measured against."
+        },
+        {
+          "title": "My Neighbor Totoro",
+          "year": 1988,
+          "note": "No. 2 for Charles, Andy, and Sean. Charles says it hit hardest on a pandemic rewatch, when the sick-mother undercurrent came through."
+        },
+        {
+          "title": "Princess Mononoke",
+          "year": 1997,
+          "note": "On every ballot. Bobby's No. 2 and his 'morally complex' pick, which he likens to 'Avatar.'"
+        },
+        {
+          "title": "Ponyo",
+          "year": 2008,
+          "note": "Charles's No. 4, and part of Andy's and Bobby's ties. The safe-and-warm mode of Miyazaki."
+        },
+        {
+          "title": "Kiki's Delivery Service",
+          "year": 1989,
+          "note": "Sean's No. 5, Andy's No. 3. Kirsten Dunst voices Kiki and Phil Hartman the cat in the dub."
+        },
+        {
+          "title": "The Wind Rises",
+          "year": 2013,
+          "note": "Sean's No. 3, Andy's No. 4. Miyazaki's 2013 'retirement' film, a projected biopic of the man who designed the A6M Zero."
+        },
+        {
+          "title": "Howl's Moving Castle",
+          "year": 2004,
+          "note": "Bobby's No. 5. A big popular hit in America, though the others admit they aren't Howl's people."
+        },
+        {
+          "title": "Porco Rosso",
+          "year": 1992,
+          "note": "Charles's No. 3. Miyazaki's self-described 'failure': a fascist-era ace cursed with a pig's head."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "An 'Anatomy of a Fall' Deep Dive",
+      "note": "full spoilers, with Amanda Dobbins",
+      "films": [
+        {
+          "title": "Anatomy of a Fall",
+          "year": 2023,
+          "note": "Justine Triet's Palme d'Or winner, Sandra Hüller as a writer tried for her husband's fall from their French Alps home. A full-spoilers dive on the marriage, the French courtroom, and the son's decisive testimony, ending on the unanswered did-she-do-it. Touchstones: the 50 Cent 'P.I.M.P.' instrumental, Milo Machado-Graner as Daniel, and Snoop the dog, that year's Palm Dog winner."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Other Studio Ghibli films",
+      "films": [
+        "Castle in the Sky",
+        "Earwig and the Witch",
+        "The Secret World of Arrietty",
+        "When Marnie Was There",
+        "Pom Poko",
+        "The Red Turtle",
+        "The Tale of the Princess Kaguya",
+        "My Neighbors the Yamadas"
+      ]
+    },
+    {
+      "group": "Touchstones and comparisons",
+      "films": [
+        "Petite Maman",
+        "Killers of the Flower Moon",
+        "The Irishman",
+        "The Wizard of Oz",
+        "Lawrence of Arabia",
+        "Avatar",
+        "Avatar: The Way of Water",
+        "Snow White and the Seven Dwarfs",
+        "Cinderella",
+        "Star Wars",
+        "Ghost in the Shell"
+      ]
+    },
+    {
+      "group": "In the 'Anatomy of a Fall' conversation",
+      "films": [
+        "Sibyl",
+        "The Zone of Interest",
+        "May December",
+        "Saint Omer",
+        "The Holdovers",
+        "Anatomy of a Murder",
+        "Oppenheimer",
+        "Maestro",
+        "Megalopolis",
+        "Toni Erdmann",
+        "Saltburn"
+      ]
+    },
+    {
+      "group": "Coming up",
+      "films": [
+        "Wonka"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Scavengers Reign",
+      "Neon Genesis Evangelion",
+      "Bluey",
+      "Paw Patrol",
+      "Mighty Pups"
+    ],
+    "Video games": [
+      "The Legend of Zelda"
+    ],
+    "Podcasts": [
+      "The Watch",
+      "The Midnight Boys",
+      "The Rewatchables",
+      "Dissect",
+      "60 Songs That Explain the '90s"
+    ],
+    "Ads": [
+      "Tremfya",
+      "Wells Fargo Active Cash",
+      "NOS Energy",
+      "Boar's Head",
+      "Whole Foods"
+    ]
+  },
+  "tmdb": {
+    "The Boy and the Heron": {
+      "id": 508883,
+      "poster": "/f4oZTcfGrVTXKTWg157AwikXqmP.jpg",
+      "title": "The Boy and the Heron",
+      "year": 2023
+    },
+    "Spirited Away": {
+      "id": 129,
+      "poster": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+      "title": "Spirited Away",
+      "year": 2001
+    },
+    "My Neighbor Totoro": {
+      "id": 8392,
+      "poster": "/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
+      "title": "My Neighbor Totoro",
+      "year": 1988
+    },
+    "Princess Mononoke": {
+      "id": 128,
+      "poster": "/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+      "title": "Princess Mononoke",
+      "year": 1997
+    },
+    "Ponyo": {
+      "id": 12429,
+      "poster": "/yp8vEZflGynlEylxEesbYasc06i.jpg",
+      "title": "Ponyo",
+      "year": 2008
+    },
+    "Kiki's Delivery Service": {
+      "id": 16859,
+      "poster": "/Aufa4YdZIv4AXpR9rznwVA5SEfd.jpg",
+      "title": "Kiki's Delivery Service",
+      "year": 1989
+    },
+    "The Wind Rises": {
+      "id": 149870,
+      "poster": "/jfwSexzlIzaOgxP9A8bTA6t8YYb.jpg",
+      "title": "The Wind Rises",
+      "year": 2013
+    },
+    "Howl's Moving Castle": {
+      "id": 4935,
+      "poster": "/13kOl2v0nD2OLbVSHnHk8GUFEhO.jpg",
+      "title": "Howl's Moving Castle",
+      "year": 2004
+    },
+    "Porco Rosso": {
+      "id": 11621,
+      "poster": "/8mIvSvnVBApfORL9N6S38Q7wD6A.jpg",
+      "title": "Porco Rosso",
+      "year": 1992
+    },
+    "Anatomy of a Fall": {
+      "id": 915935,
+      "poster": "/1ho0d4LNZw3Y0voeKmSvPSgJOJ2.jpg",
+      "title": "Anatomy of a Fall",
+      "year": 2023
+    },
+    "Castle in the Sky": {
+      "id": 10515,
+      "poster": "/41XxSsJc5OrulP0m7TrrUeO2hoz.jpg",
+      "title": "Castle in the Sky",
+      "year": 1986
+    },
+    "Earwig and the Witch": {
+      "id": 683127,
+      "poster": "/9oK820JieICOcfUhI6mkpFrcA9m.jpg",
+      "title": "Earwig and the Witch",
+      "year": 2021
+    },
+    "The Secret World of Arrietty": {
+      "id": 51739,
+      "poster": "/3lSRaSjDp2nkXMQkzzjpRi3035O.jpg",
+      "title": "The Secret World of Arrietty",
+      "year": 2010
+    },
+    "When Marnie Was There": {
+      "id": 242828,
+      "poster": "/vug1dvDI1tSa60Z8qjCuUE7ntkO.jpg",
+      "title": "When Marnie Was There",
+      "year": 2014
+    },
+    "Pom Poko": {
+      "id": 15283,
+      "poster": "/gyoJmFf24MOUc4TTu97sd0cHIQF.jpg",
+      "title": "Pom Poko",
+      "year": 1994
+    },
+    "The Red Turtle": {
+      "id": 337703,
+      "poster": "/wOBU3SLjQ9358Km9YWYasPZyebp.jpg",
+      "title": "The Red Turtle",
+      "year": 2016
+    },
+    "The Tale of the Princess Kaguya": {
+      "id": 149871,
+      "poster": "/cQidJuA546OSSXKWXoiCeINDxuj.jpg",
+      "title": "The Tale of The Princess Kaguya",
+      "year": 2013
+    },
+    "My Neighbors the Yamadas": {
+      "id": 16198,
+      "poster": "/nj0ijnOozQtu52r0ncut769G1FX.jpg",
+      "title": "My Neighbors the Yamadas",
+      "year": 1999
+    },
+    "Petite Maman": {
+      "id": 749004,
+      "poster": "/fxl2ARZO2vRfUGDfqSz2bostauE.jpg",
+      "title": "Petite Maman",
+      "year": 2021
+    },
+    "Killers of the Flower Moon": {
+      "id": 466420,
+      "poster": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+      "title": "Killers of the Flower Moon",
+      "year": 2023
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "The Wizard of Oz": {
+      "id": 630,
+      "poster": "/uCC3j4pV9eOZwzDUWp2ilbcTf1f.jpg",
+      "title": "The Wizard of Oz",
+      "year": 1939
+    },
+    "Lawrence of Arabia": {
+      "id": 947,
+      "poster": "/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg",
+      "title": "Lawrence of Arabia",
+      "year": 1962
+    },
+    "Avatar": {
+      "id": 19995,
+      "poster": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "title": "Avatar",
+      "year": 2009
+    },
+    "Avatar: The Way of Water": {
+      "id": 76600,
+      "poster": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "title": "Avatar: The Way of Water",
+      "year": 2022
+    },
+    "Snow White and the Seven Dwarfs": {
+      "id": 408,
+      "poster": "/3VAHfuNb6Z7UiW12iYKANSPBl8m.jpg",
+      "title": "Snow White and the Seven Dwarfs",
+      "year": 1938
+    },
+    "Cinderella": {
+      "id": 150689,
+      "poster": "/j91LJmcWo16CArFOoapsz84bwxb.jpg",
+      "title": "Cinderella",
+      "year": 2015
+    },
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
+    },
+    "Ghost in the Shell": {
+      "id": 9323,
+      "poster": "/9gC88zYUBARRSThcG93MvW14sqx.jpg",
+      "title": "Ghost in the Shell",
+      "year": 1995
+    },
+    "Sibyl": {
+      "id": 559401,
+      "poster": "/9W4pznUF8Np6qHExgclaRHVHzom.jpg",
+      "title": "Sibyl",
+      "year": 2019
+    },
+    "The Zone of Interest": {
+      "id": 467244,
+      "poster": "/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg",
+      "title": "The Zone of Interest",
+      "year": 2023
+    },
+    "May December": {
+      "id": 839369,
+      "poster": "/zhV7B610l7hjlri4ywikJ18ONuq.jpg",
+      "title": "May December",
+      "year": 2023
+    },
+    "Saint Omer": {
+      "id": 925943,
+      "poster": "/ekr25uuxlH7kg3KLhLLZcDZ15xd.jpg",
+      "title": "Saint Omer",
+      "year": 2022
+    },
+    "The Holdovers": {
+      "id": 840430,
+      "poster": "/VHSzNBTwxV8vh7wylo7O9CLdac.jpg",
+      "title": "The Holdovers",
+      "year": 2023
+    },
+    "Anatomy of a Murder": {
+      "id": 93,
+      "poster": "/b2G1QSAwtBv9luhEwErIgSRaU92.jpg",
+      "title": "Anatomy of a Murder",
+      "year": 1959
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Maestro": {
+      "id": 523607,
+      "poster": "/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg",
+      "title": "Maestro",
+      "year": 2023
+    },
+    "Megalopolis": {
+      "id": 592831,
+      "poster": "/8Sok3HNA3r1GHnK2lCytHyBz1A.jpg",
+      "title": "Megalopolis",
+      "year": 2024
+    },
+    "Toni Erdmann": {
+      "id": 374475,
+      "poster": "/v3gf7T8hb8aYv05X2jHmxJQWPZr.jpg",
+      "title": "Toni Erdmann",
+      "year": 2016
+    },
+    "Saltburn": {
+      "id": 930564,
+      "poster": "/zGTfMwG112BC66mpaveVxoWPOaB.jpg",
+      "title": "Saltburn",
+      "year": 2023
+    },
+    "Wonka": {
+      "id": 787699,
+      "poster": "/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+      "title": "Wonka",
+      "year": 2023
+    }
+  },
+  "spotifyEpisodeId": "4EiHbznGGNtOti4NlxLcgr"
+}

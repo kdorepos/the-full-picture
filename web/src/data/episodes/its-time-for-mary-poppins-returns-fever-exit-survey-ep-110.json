@@ -1,0 +1,234 @@
+{
+  "slug": "its-time-for-mary-poppins-returns-fever-exit-survey-ep-110",
+  "title": "It's Time for 'Mary Poppins Returns' Fever | Exit Survey (Ep. 110)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Juliette Lim"
+  ],
+  "published": "2018-12-19",
+  "runtimeMin": 35,
+  "format": "An exit survey on 'Mary Poppins Returns': the songs, the banking plot, Emily Blunt, and whether a sequel 54 years later had any reason to exist.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "'Mary Poppins Returns' Exit Survey",
+      "films": [
+        {
+          "title": "Mary Poppins Returns",
+          "year": 2018,
+          "note": "Rob Marshall's sequel runs beat-for-beat with the original, down to a Meryl Streep answer to the ceiling gag. The panel agrees Emily Blunt is the whole reason to watch. The Marc Shaiman songs never produce an earworm, and Colin Firth's banker villain baffles everyone. Blunt is pegged as a likely Oscar nominee."
+        },
+        {
+          "title": "Mary Poppins",
+          "year": 1964,
+          "note": "The 1964 original, the last film Walt Disney made before he died. Amanda's formative movie; all three note how strange and pointedly political the second half is. A rare Disney Best Picture nominee, with Julie Andrews winning Best Actress."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Disney's remake era",
+      "films": [
+        "Beauty and the Beast",
+        "Cinderella",
+        "The Lion King",
+        "Saving Mr. Banks"
+      ]
+    },
+    {
+      "group": "Rob Marshall directed",
+      "films": [
+        "Chicago",
+        "Into the Woods",
+        "Pirates of the Caribbean: On Stranger Tides",
+        "Memoirs of a Geisha",
+        "Nine",
+        "8½"
+      ]
+    },
+    {
+      "group": "Also mentioned",
+      "films": [
+        "Aquaman",
+        "Paddington 2",
+        "Ralph Breaks the Internet",
+        "Skyfall",
+        "The Sound of Music",
+        "Thoroughly Modern Millie",
+        "Bedknobs and Broomsticks",
+        "The Big Short"
+      ]
+    },
+    {
+      "group": "From the sponsor break",
+      "films": [
+        "Bad Reputation",
+        "A Quiet Place",
+        "Home Alone"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "8½": 422,
+    "Bad Reputation": 493092,
+    "The Lion King": 420818
+  },
+  "excluded": {
+    "TV": [
+      "The Dick Van Dyke Show",
+      "Diagnosis: Murder",
+      "Columbo"
+    ],
+    "Stage": [
+      "Hamilton",
+      "In the Heights"
+    ],
+    "Ads": [
+      "VUDU"
+    ]
+  },
+  "tmdb": {
+    "Mary Poppins Returns": {
+      "id": 400650,
+      "poster": "/uTVGku4LibMGyKgQvjBtv3OYfAX.jpg",
+      "title": "Mary Poppins Returns",
+      "year": 2018
+    },
+    "Mary Poppins": {
+      "id": 433,
+      "poster": "/o4Wsby4ydIXhWmtmfvb451D5Np1.jpg",
+      "title": "Mary Poppins",
+      "year": 1964
+    },
+    "Beauty and the Beast": {
+      "id": 321612,
+      "poster": "/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg",
+      "title": "Beauty and the Beast",
+      "year": 2017
+    },
+    "Cinderella": {
+      "id": 150689,
+      "poster": "/j91LJmcWo16CArFOoapsz84bwxb.jpg",
+      "title": "Cinderella",
+      "year": 2015
+    },
+    "The Lion King": {
+      "id": 420818,
+      "poster": "/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg",
+      "title": "The Lion King",
+      "year": 2019
+    },
+    "Saving Mr. Banks": {
+      "id": 140823,
+      "poster": "/4RkcUe5PKnYvrCwMjk8giUAoID7.jpg",
+      "title": "Saving Mr. Banks",
+      "year": 2013
+    },
+    "Chicago": {
+      "id": 1574,
+      "poster": "/3ED8cWCXY9zkx77Sd0N5qMbsdDP.jpg",
+      "title": "Chicago",
+      "year": 2002
+    },
+    "Into the Woods": {
+      "id": 224141,
+      "poster": "/bINGDDuvUnZyde2sIcSx41IE5b6.jpg",
+      "title": "Into the Woods",
+      "year": 2014
+    },
+    "Pirates of the Caribbean: On Stranger Tides": {
+      "id": 1865,
+      "poster": "/keGfSvCmYj7CvdRx36OdVrAEibE.jpg",
+      "title": "Pirates of the Caribbean: On Stranger Tides",
+      "year": 2011
+    },
+    "Memoirs of a Geisha": {
+      "id": 1904,
+      "poster": "/pBwYsQaSTgnPphIy02DJjCF2cqs.jpg",
+      "title": "Memoirs of a Geisha",
+      "year": 2005
+    },
+    "Nine": {
+      "id": 10197,
+      "poster": "/bSxdTXktgPQPNwlkQ0DZtuAJXlb.jpg",
+      "title": "Nine",
+      "year": 2009
+    },
+    "8½": {
+      "id": 422,
+      "poster": "/23VIf7zNxAgaXwIlvzd3IvOd9sY.jpg",
+      "title": "8½",
+      "year": 1963
+    },
+    "Aquaman": {
+      "id": 297802,
+      "poster": "/ufl63EFcc5XpByEV2Ecdw6WJZAI.jpg",
+      "title": "Aquaman",
+      "year": 2018
+    },
+    "Paddington 2": {
+      "id": 346648,
+      "poster": "/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
+      "title": "Paddington 2",
+      "year": 2017
+    },
+    "Ralph Breaks the Internet": {
+      "id": 404368,
+      "poster": "/iVCrhBcpDaHGvv7CLYbK6PuXZo1.jpg",
+      "title": "Ralph Breaks the Internet",
+      "year": 2018
+    },
+    "Skyfall": {
+      "id": 37724,
+      "poster": "/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
+      "title": "Skyfall",
+      "year": 2012
+    },
+    "The Sound of Music": {
+      "id": 15121,
+      "poster": "/c6CrUZypAsBCaRWX0M3RVRDbhNS.jpg",
+      "title": "The Sound of Music",
+      "year": 1965
+    },
+    "Thoroughly Modern Millie": {
+      "id": 32489,
+      "poster": "/ce8rBGFR0naGsp6mKy9CNKn9iSa.jpg",
+      "title": "Thoroughly Modern Millie",
+      "year": 1967
+    },
+    "Bedknobs and Broomsticks": {
+      "id": 12335,
+      "poster": "/1BBzsThIZ06UmjZ3rChYGZhJtFQ.jpg",
+      "title": "Bedknobs and Broomsticks",
+      "year": 1971
+    },
+    "The Big Short": {
+      "id": 318846,
+      "poster": "/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg",
+      "title": "The Big Short",
+      "year": 2015
+    },
+    "Bad Reputation": {
+      "id": 493092,
+      "poster": "/pGoTT52CTFILoVG9QpCW6K5mtI9.jpg",
+      "title": "Bad Reputation",
+      "year": 2018
+    },
+    "A Quiet Place": {
+      "id": 447332,
+      "poster": "/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+      "title": "A Quiet Place",
+      "year": 2018
+    },
+    "Home Alone": {
+      "id": 771,
+      "poster": "/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
+      "title": "Home Alone",
+      "year": 1990
+    }
+  }
+}

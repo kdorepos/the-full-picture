@@ -1,0 +1,456 @@
+{
+  "slug": "ben-affleck-career-arc",
+  "title": "Ben Affleck | Career Arc",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Rob Harvilla",
+    "Amanda Dobbins"
+  ],
+  "published": "2019-03-15",
+  "runtimeMin": 45,
+  "format": "Sean Fennessey, Amanda Dobbins, and Rob Harvilla walk the whole uneven career of Ben Affleck: the breakthrough years, each host's personal pinnacle, and Triple Frontier as the latest chapter.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Breakthroughs",
+      "note": "where Affleck arrived",
+      "films": [
+        {
+          "title": "Good Will Hunting",
+          "year": 1997,
+          "note": "Amanda's pick. The 'retainer' job-interview scene, not the tearjerker ending: the supporting wise-ass that launched the Damon-Affleck unit and the Best Original Screenplay win."
+        },
+        {
+          "title": "Chasing Amy",
+          "year": 1997,
+          "note": "Rob's and Sean's pick. Affleck carrying a clunky, badly-aged Kevin Smith movie for nearly two hours, rain confession and visible cameraman included."
+        },
+        {
+          "title": "Dazed and Confused",
+          "year": 1993,
+          "note": "O'Banion, the paddle-wielding bully. Early proof he had no problem playing a shithead."
+        },
+        {
+          "title": "School Ties",
+          "year": 1992,
+          "note": "One of the supporting parts he took just to break in."
+        },
+        {
+          "title": "Mallrats",
+          "year": 1995,
+          "note": "Shannon Hamilton, the villain bit part Rob calls one of the best of Affleck's career."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Personal pinnacles",
+      "note": "each host's peak Affleck",
+      "films": [
+        {
+          "title": "Armageddon",
+          "year": 1998,
+          "note": "Amanda's pinnacle (Rob floated it as a breakthrough too). Affleck accepting his blockbuster destiny: the moon-rover fumbling and singing 'Leaving on a Jet Plane' to Liv Tyler, ridiculous and half-winking, which is the good kind."
+        },
+        {
+          "title": "Boiler Room",
+          "year": 2000,
+          "note": "Rob's pinnacle. Peak asshole Affleck taking the Glengarry torch straight from Alec Baldwin: 'I am liquid.'"
+        },
+        {
+          "title": "Gone Girl",
+          "year": 2014,
+          "note": "Rob's other pinnacle. Fincher weaponizing Affleck's blandly handsome self against him for two and a half hours; the shower scene lampoons Argo's."
+        },
+        {
+          "title": "The Town",
+          "year": 2010,
+          "note": "Sean's pinnacle. First time he plays the earnest lead and fully lands it while directing, in an unfussy, mean, Eastwood-flat heist movie."
+        },
+        {
+          "title": "Gone Baby Gone",
+          "year": 2007,
+          "note": "His directing debut; he stays behind the camera and puts brother Casey out front."
+        },
+        {
+          "title": "Argo",
+          "year": 2012,
+          "note": "Best Picture, no Best Director nod. Sharp and tense but oddly forgettable next to the 'marriage is hard' acceptance speech."
+        },
+        {
+          "title": "Shakespeare in Love",
+          "year": 1998,
+          "note": "Sarcastic, good, and supporting: the kind of role that suited him."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The tough stretches",
+      "note": "big swings, more misses",
+      "films": [
+        {
+          "title": "Pearl Harbor",
+          "year": 2001
+        },
+        {
+          "title": "The Sum of All Fears",
+          "year": 2002,
+          "note": "A bland leading-man Jack Ryan."
+        },
+        {
+          "title": "Changing Lanes",
+          "year": 2002,
+          "note": "Not a bad movie, him and Samuel L. Jackson, but it landed at an awkward point in his stardom."
+        },
+        {
+          "title": "Daredevil",
+          "year": 2003,
+          "note": "The first time he played a superhero and failed."
+        },
+        {
+          "title": "Gigli",
+          "year": 2003
+        },
+        {
+          "title": "Paycheck",
+          "year": 2003,
+          "note": "A literal manifestation of what was going on at the time."
+        },
+        {
+          "title": "Jersey Girl",
+          "year": 2004
+        },
+        {
+          "title": "Hollywoodland",
+          "year": 2006,
+          "note": "The supposed serious comeback as George Reeves; Sean wants those hours back."
+        },
+        {
+          "title": "Runner Runner",
+          "year": 2013
+        },
+        {
+          "title": "Batman v Superman: Dawn of Justice",
+          "year": 2016,
+          "note": "The best thing about a movie he can't rescue."
+        },
+        {
+          "title": "Suicide Squad",
+          "year": 2016
+        },
+        {
+          "title": "The Accountant",
+          "year": 2016,
+          "note": "Ridiculous, fun, objectively terrible, and, Rob argues, a high-degree-of-difficulty near-Gigli he somehow walks away from upright."
+        },
+        {
+          "title": "Live by Night",
+          "year": 2016,
+          "note": "His first directing job after Argo."
+        },
+        {
+          "title": "Justice League",
+          "year": 2017,
+          "note": "Joyless Batman, with no energy and no sign he can't wait to tell his kid about it."
+        },
+        {
+          "title": "200 Cigarettes",
+          "year": 1999
+        },
+        {
+          "title": "Forces of Nature",
+          "year": 1999,
+          "note": "As Amanda puts it, we don't need to talk about it."
+        },
+        {
+          "title": "Dogma",
+          "year": 1999
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Triple Frontier, and what's next",
+      "note": "the new thing",
+      "films": [
+        {
+          "title": "Triple Frontier",
+          "year": 2019,
+          "note": "J.C. Chandor's macho men-on-a-mission jungle heist. A paunchy, worn, cracking-voiced Affleck playing fading masculinity: the role that fits where he actually is."
+        },
+        {
+          "title": "The Last Thing He Wanted",
+          "year": 2020,
+          "note": "Dee Rees's Netflix Joan Didion adaptation, Anne Hathaway up front and Affleck in support: a wise step down from full-blown star."
+        },
+        {
+          "title": "The Way Back",
+          "year": 2020,
+          "note": "Then titled Torrance, a Gavin O'Connor reunion after The Accountant."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Glengarry Glen Ross",
+        "Apollo 13",
+        "Moneyball",
+        "The Descendants",
+        "Mudbound",
+        "Predator",
+        "Fast & Furious Presents: Hobbs & Shaw"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "True Detective",
+      "Bosch"
+    ],
+    "Music videos": [
+      "Jenny from the Block"
+    ]
+  },
+  "tmdb": {
+    "Good Will Hunting": {
+      "id": 489,
+      "poster": "/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+      "title": "Good Will Hunting",
+      "year": 1997
+    },
+    "Chasing Amy": {
+      "id": 2255,
+      "poster": "/tqydORBcNlQxy3ijgSpPurgDHM2.jpg",
+      "title": "Chasing Amy",
+      "year": 1997
+    },
+    "Dazed and Confused": {
+      "id": 9571,
+      "poster": "/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+      "title": "Dazed and Confused",
+      "year": 1993
+    },
+    "School Ties": {
+      "id": 14684,
+      "poster": "/h9u6VSyEPlF5L69QSzOh1eo4F5q.jpg",
+      "title": "School Ties",
+      "year": 1992
+    },
+    "Mallrats": {
+      "id": 2293,
+      "poster": "/2ip0sGIMPN0XEN6q3lQIoaNI6tP.jpg",
+      "title": "Mallrats",
+      "year": 1995
+    },
+    "Armageddon": {
+      "id": 95,
+      "poster": "/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg",
+      "title": "Armageddon",
+      "year": 1998
+    },
+    "Boiler Room": {
+      "id": 14181,
+      "poster": "/jFB5uvCZ3HXF00liAEAuOruCPs6.jpg",
+      "title": "Boiler Room",
+      "year": 2000
+    },
+    "Gone Girl": {
+      "id": 210577,
+      "poster": "/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+      "title": "Gone Girl",
+      "year": 2014
+    },
+    "The Town": {
+      "id": 23168,
+      "poster": "/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
+      "title": "The Town",
+      "year": 2010
+    },
+    "Gone Baby Gone": {
+      "id": 4771,
+      "poster": "/5BXDhjKZ4AL9VPxcygdG3oL60GP.jpg",
+      "title": "Gone Baby Gone",
+      "year": 2007
+    },
+    "Argo": {
+      "id": 68734,
+      "poster": "/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
+      "title": "Argo",
+      "year": 2012
+    },
+    "Shakespeare in Love": {
+      "id": 1934,
+      "poster": "/zdW7jdzPi4J9KZR3TyY2jn3Xh5e.jpg",
+      "title": "Shakespeare in Love",
+      "year": 1998
+    },
+    "Pearl Harbor": {
+      "id": 676,
+      "poster": "/y8A0Cvp8WQmZ3bjbnsL53lY0dsC.jpg",
+      "title": "Pearl Harbor",
+      "year": 2001
+    },
+    "The Sum of All Fears": {
+      "id": 4614,
+      "poster": "/3E4LW4bjRhEMDeeXeIsmkJ94v8K.jpg",
+      "title": "The Sum of All Fears",
+      "year": 2002
+    },
+    "Changing Lanes": {
+      "id": 1537,
+      "poster": "/8wh9WzTKo5pJw3EgHYWA60W7Kbl.jpg",
+      "title": "Changing Lanes",
+      "year": 2002
+    },
+    "Daredevil": {
+      "id": 9480,
+      "poster": "/oCDBwSkntYamuw8VJIxMRCtDBmi.jpg",
+      "title": "Daredevil",
+      "year": 2003
+    },
+    "Gigli": {
+      "id": 8046,
+      "poster": "/qOhAK3WDqdeVTIE59loXvEGU7Lu.jpg",
+      "title": "Gigli",
+      "year": 2003
+    },
+    "Paycheck": {
+      "id": 9620,
+      "poster": "/h0BWaPnWYXwbCXF69DxS0YWcVy2.jpg",
+      "title": "Paycheck",
+      "year": 2003
+    },
+    "Jersey Girl": {
+      "id": 9541,
+      "poster": "/nMmMWoSooR6QmCjdT0AvZardof1.jpg",
+      "title": "Jersey Girl",
+      "year": 2004
+    },
+    "Hollywoodland": {
+      "id": 1249,
+      "poster": "/8FgNVvJEEwRgFURiAcW7VuXwvf1.jpg",
+      "title": "Hollywoodland",
+      "year": 2006
+    },
+    "Runner Runner": {
+      "id": 146238,
+      "poster": "/ck5jZjv7WVoCBBgTH1gJlhyCLPy.jpg",
+      "title": "Runner Runner",
+      "year": 2013
+    },
+    "Batman v Superman: Dawn of Justice": {
+      "id": 209112,
+      "poster": "/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
+      "title": "Batman v Superman: Dawn of Justice",
+      "year": 2016
+    },
+    "Suicide Squad": {
+      "id": 297761,
+      "poster": "/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg",
+      "title": "Suicide Squad",
+      "year": 2016
+    },
+    "The Accountant": {
+      "id": 302946,
+      "poster": "/fceheXB5fC4WrLVuWJ6OZv9FXYr.jpg",
+      "title": "The Accountant",
+      "year": 2016
+    },
+    "Live by Night": {
+      "id": 259695,
+      "poster": "/bkd46T4RplawnDjpHoI8mhzTLks.jpg",
+      "title": "Live by Night",
+      "year": 2016
+    },
+    "Justice League": {
+      "id": 141052,
+      "poster": "/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
+      "title": "Justice League",
+      "year": 2017
+    },
+    "200 Cigarettes": {
+      "id": 15256,
+      "poster": "/ssbx2Mk5ZCJWpXALuP2AdG0GFIT.jpg",
+      "title": "200 Cigarettes",
+      "year": 1999
+    },
+    "Forces of Nature": {
+      "id": 1641,
+      "poster": "/etmjiee84g6G9WALmLkJ1DhenAu.jpg",
+      "title": "Forces of Nature",
+      "year": 1999
+    },
+    "Dogma": {
+      "id": 1832,
+      "poster": "/oxhHl2YokTqcP44QK5tiTgjgLgk.jpg",
+      "title": "Dogma",
+      "year": 1999
+    },
+    "Triple Frontier": {
+      "id": 399361,
+      "poster": "/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg",
+      "title": "Triple Frontier",
+      "year": 2019
+    },
+    "The Last Thing He Wanted": {
+      "id": 505225,
+      "poster": "/4mDbGqi8mloDdxkviq13SKCfuFH.jpg",
+      "title": "The Last Thing He Wanted",
+      "year": 2020
+    },
+    "The Way Back": {
+      "id": 529485,
+      "poster": "/ylPnfaphW3FrLBUVwAREVtiL9My.jpg",
+      "title": "The Way Back",
+      "year": 2020
+    },
+    "Glengarry Glen Ross": {
+      "id": 9504,
+      "poster": "/zcaEDx8KlVfh4vKfMNLhiSi5Oz4.jpg",
+      "title": "Glengarry Glen Ross",
+      "year": 1992
+    },
+    "Apollo 13": {
+      "id": 568,
+      "poster": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+      "title": "Apollo 13",
+      "year": 1995
+    },
+    "Moneyball": {
+      "id": 60308,
+      "poster": "/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+      "title": "Moneyball",
+      "year": 2011
+    },
+    "The Descendants": {
+      "id": 65057,
+      "poster": "/8cDq5UlOPYeKm39okALCEOsZPxk.jpg",
+      "title": "The Descendants",
+      "year": 2011
+    },
+    "Mudbound": {
+      "id": 414425,
+      "poster": "/tf21kSKepMOlnorszWaiFwksKU4.jpg",
+      "title": "Mudbound",
+      "year": 2017
+    },
+    "Predator": {
+      "id": 106,
+      "poster": "/aN3cdjIK70KGmD84et8MMblU87Q.jpg",
+      "title": "Predator",
+      "year": 1987
+    },
+    "Fast & Furious Presents: Hobbs & Shaw": {
+      "id": 384018,
+      "poster": "/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg",
+      "title": "Fast & Furious Presents: Hobbs & Shaw",
+      "year": 2019
+    }
+  }
+}

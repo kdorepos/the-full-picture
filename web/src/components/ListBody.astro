@@ -1,0 +1,29 @@
+---
+// List / roundtable segment: one critic, one pick. Poster-forward, no ranks or prices.
+// (Interviews and running top-fives are their own segments now, not sub-blocks here.)
+const { seg, tmdb = {} } = Astro.props;
+const link = (t) => (tmdb[t]?.id ? `https://www.themoviedb.org/movie/${tmdb[t].id}` : null);
+const poster = (t) => (tmdb[t]?.poster ? `https://image.tmdb.org/t/p/w185${tmdb[t].poster}` : null);
+---
+<section class="sale-section">
+  <p class="rubric">{seg.heading ?? 'The picks'} <span class="sub">{seg.note ?? 'one critic, one film'}</span></p>
+  <div class="picks">
+    {seg.picks.map((p) => (
+      <article class="pick-card">
+        <div class="pick-card__poster">
+          {poster(p.title)
+            ? <img src={poster(p.title)} alt={`${p.title} poster`} width="70" height="105" loading="lazy" />
+            : <span class="noposter" aria-hidden="true"></span>}
+        </div>
+        <div class="pick-card__body">
+          {p.by && <div class="pick-card__by">Picked by {p.by}</div>}
+          <h3 class="pick-card__film">
+            {link(p.title) ? <a href={link(p.title)} target="_blank" rel="noopener">{p.title}</a> : p.title}
+            {p.year && <span class="yr">{p.year}</span>}
+          </h3>
+          {p.note && <p class="pick-card__note">{p.note}</p>}
+        </div>
+      </article>
+    ))}
+  </div>
+</section>

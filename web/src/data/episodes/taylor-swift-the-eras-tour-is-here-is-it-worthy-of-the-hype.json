@@ -1,0 +1,154 @@
+{
+  "slug": "taylor-swift-the-eras-tour-is-here-is-it-worthy-of-the-hype",
+  "title": "‘Taylor Swift: The Eras Tour’ Is Here. Is It Worthy of the Hype?",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2023-10-17",
+  "runtimeMin": 104,
+  "format": "Sean and Amanda go era by era through the Taylor Swift concert film with Ringer producer Bobby, and can't agree on whether it's actually a movie or just a very long, very lucrative document of one.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "The Review",
+      "films": [
+        {
+          "title": "Taylor Swift: The Eras Tour",
+          "year": 2023,
+          "note": "A 169-minute cut of three SoFi Stadium shows, directed by Sam Wrench, moving non-chronologically through all ten of Swift's albums. Amanda liked it fine; Sean, a self-described lapsed fan who spent years publicly mocking the Taylor-as-genius discourse, mostly didn't. Both agree it's pure document rather than movie: no behind-the-scenes footage or narrative, just cameras circling a stadium show that's basically identical night to night. Beat Joker to become the biggest October release ever on a $96 million opening weekend."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Concert films and pop docs, for comparison",
+      "films": [
+        {
+          "title": "Stop Making Sense",
+          "year": 1984,
+          "note": "The recent point of comparison: an intimate, theatrical, Pantages-sized show against Eras Tour's stadium-scale \"fortress.\""
+        },
+        {
+          "title": "Truth or Dare",
+          "year": 1991,
+          "note": "Named as the behind-the-curtain Madonna doc Eras Tour pointedly isn't. Swift already did that version with Miss Americana."
+        },
+        {
+          "title": "Miss Americana",
+          "year": 2020,
+          "note": "Swift's Netflix doc, brought up as the making-of they didn't get here. Amanda didn't care for it."
+        },
+        {
+          "title": "This Is It",
+          "year": 2009,
+          "note": "Raised as the Michael Jackson version of a posthumous, tour-scale concert film."
+        },
+        {
+          "title": "Renaissance",
+          "year": 2023,
+          "note": "Beyoncé's concert film, out in December, discussed as the likely more substantial counterpart. She has a directing credit here and Swift doesn't."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Joker",
+        "The Exorcist: Believer",
+        "Dune: Part Two",
+        "Barbie",
+        "Killers of the Flower Moon"
+      ]
+    }
+  ],
+  "excluded": {
+    "Ads": [
+      "Whole Foods",
+      "Boar's Head",
+      "TalkAboutPD.com"
+    ],
+    "Games": [
+      "FIFA World Cup Launch Edition"
+    ],
+    "Podcasts": [
+      "The Wedding Scammer"
+    ]
+  },
+  "tmdbOverrides": {
+    "Truth or Dare": 10174,
+    "Renaissance": 1185743
+  },
+  "tmdb": {
+    "Taylor Swift: The Eras Tour": {
+      "id": 1160164,
+      "poster": "/jf3YO8hOqGHCupsREf5qymYq1n.jpg",
+      "title": "TAYLOR SWIFT | THE ERAS TOUR",
+      "year": 2023
+    },
+    "Stop Making Sense": {
+      "id": 24128,
+      "poster": "/utNpurUe1MMjEaHqvpkfxgfpSnV.jpg",
+      "title": "Stop Making Sense",
+      "year": 1984
+    },
+    "Truth or Dare": {
+      "id": 10174,
+      "poster": "/kJHCqwDgS9MEhdChIkGn7QAUoyL.jpg",
+      "title": "Madonna: Truth or Dare",
+      "year": 1991
+    },
+    "Miss Americana": {
+      "id": 653567,
+      "poster": "/z1HiEB1UEfdA5fPkngekjQ2vlCC.jpg",
+      "title": "Miss Americana",
+      "year": 2020
+    },
+    "This Is It": {
+      "id": 13576,
+      "poster": "/8GvQzHFSqr9KhyVxLEpB5dXPOWG.jpg",
+      "title": "This Is It",
+      "year": 2009
+    },
+    "Renaissance": {
+      "id": 1185743,
+      "poster": "/6sVB5xuQq9njHK455JdwgN8Tx07.jpg",
+      "title": "Renaissance: A Film by Beyoncé",
+      "year": 2023
+    },
+    "Joker": {
+      "id": 475557,
+      "poster": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "title": "Joker",
+      "year": 2019
+    },
+    "The Exorcist: Believer": {
+      "id": 807172,
+      "poster": "/fFXkAlMH2iQrNknv4eq7LGTkcti.jpg",
+      "title": "The Exorcist: Believer",
+      "year": 2023
+    },
+    "Dune: Part Two": {
+      "id": 693134,
+      "poster": "/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+      "title": "Dune: Part Two",
+      "year": 2024
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Killers of the Flower Moon": {
+      "id": 466420,
+      "poster": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+      "title": "Killers of the Flower Moon",
+      "year": 2023
+    }
+  }
+}

@@ -1,0 +1,629 @@
+{
+  "slug": "babylon-white-noise-and-10-oscars-contenders-to-stream-now",
+  "title": "‘Babylon,’ ‘White Noise,’ and 10 Oscars Contenders to Stream Now",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2022-12-30",
+  "runtimeMin": 95,
+  "format": "The last show of 2022. Sean and Amanda tell listeners where to stream two dozen awards contenders, then review Damien Chazelle's 'Babylon' and Noah Baumbach's 'White Noise.'",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Where to Stream the 2022 Oscar Contenders",
+      "note": "A year-end viewing guide",
+      "films": [
+        {
+          "title": "Elvis",
+          "year": 2022,
+          "note": "On HBO Max. Baz Luhrmann up to his old tricks, moving fast through Presley's life."
+        },
+        {
+          "title": "The Banshees of Inisherin",
+          "year": 2022,
+          "note": "Also on HBO Max. Didn't do much in theaters but they expect its profile to rise at home, the way these movies do once they hit the streaming carousel."
+        },
+        {
+          "title": "The Woman King",
+          "year": 2022,
+          "note": "Gina Prince-Bythewood's film, on VOD; a Sony release headed to Netflix eventually. They compare it to Braveheart and The Last of the Mohicans and think it could surge once it lands on a home screen, maybe pushing Viola Davis into the race."
+        },
+        {
+          "title": "The Invitation",
+          "year": 2022,
+          "note": "Horror release cited as a timing benchmark; expected on streaming around Christmas, which sets a rough January window for The Woman King."
+        },
+        {
+          "title": "The Fabelmans",
+          "year": 2022,
+          "note": "On VOD. Spielberg's adolescence movie; Sean no longer thinks the Best Picture juice is coming for it. Two hours 40, which Amanda says you should still watch in one sitting."
+        },
+        {
+          "title": "Aftersun",
+          "year": 2022,
+          "note": "The A24 drama with Paul Mescal and Frankie Corio, recently streaming. Adam Nayman writes about it well on their Best of 2022 list."
+        },
+        {
+          "title": "Black Panther: Wakanda Forever",
+          "year": 2022,
+          "note": "The one release they can't place; probably Disney+ and VOD simultaneously. They don't think it's competing for an Oscar."
+        },
+        {
+          "title": "Triangle of Sadness",
+          "year": 2022,
+          "note": "Ruben Ostlund's Palme d'Or winner, on VOD and picking up steam; a Neon film, so Hulu soon. They read its appeal as international voters enjoying a laugh at American elites."
+        },
+        {
+          "title": "She Said",
+          "year": 2022,
+          "note": "On VOD, Peacock soon. Feels abandoned in the race."
+        },
+        {
+          "title": "Tár",
+          "year": 2022,
+          "note": "On VOD, Peacock soon. Both hosts' No. 2 movie of the year; Amanda says it plays really well at home."
+        },
+        {
+          "title": "Armageddon Time",
+          "year": 2022,
+          "note": "James Gray's film, on VOD and likely Peacock soon since it's a Focus release. They admire it but still haven't discussed it in depth."
+        },
+        {
+          "title": "Nope",
+          "year": 2022,
+          "note": "On Peacock. Sean admits he didn't connect with it; both wonder whether it's too late for a Best Picture push despite a real critical groundswell and an AFI list nod."
+        },
+        {
+          "title": "Everything Everywhere All at Once",
+          "year": 2022,
+          "note": "On Paramount+. Sean thinks it's secretly in the driver's seat for Best Picture."
+        },
+        {
+          "title": "Top Gun: Maverick",
+          "year": 2022,
+          "note": "Arrives on Paramount+ December 30, seven months after its Memorial Day opening. They're nervous Avatar takes its blockbuster slot but think both get nominated."
+        },
+        {
+          "title": "Glass Onion: A Knives Out Mystery",
+          "year": 2022,
+          "note": "On Netflix; floated as a good family watch."
+        },
+        {
+          "title": "Bardo, False Chronicle of a Handful of Truths",
+          "year": 2022,
+          "note": "Alejandro Gonzalez Inarritu's autobiographical swing, on Netflix; discussed at length the previous week with Adam Nayman."
+        },
+        {
+          "title": "RRR",
+          "year": 2022,
+          "note": "On Netflix, trying to make a late awards bid, which they'd find really fun."
+        },
+        {
+          "title": "All Quiet on the Western Front",
+          "year": 2022,
+          "note": "On Netflix; they defer a full discussion to a later international-feature segment."
+        },
+        {
+          "title": "Guillermo del Toro's Pinocchio",
+          "year": 2022,
+          "note": "On Netflix."
+        },
+        {
+          "title": "Emancipation",
+          "year": 2022,
+          "note": "The Will Smith vehicle, on Apple TV+."
+        },
+        {
+          "title": "Decision to Leave",
+          "year": 2022,
+          "note": "Park Chan-wook's film, on MUBI and rentable on VOD."
+        },
+        {
+          "title": "Avatar: The Way of Water",
+          "year": 2022,
+          "note": "Still in theaters, and the source of Amanda's Oscar-season anxiety; the hosts were mixed on it."
+        },
+        {
+          "title": "Living",
+          "year": 2022,
+          "note": "In theaters, just opened. Oliver Hermanus's version of Kurosawa's Ikiru, adapted by Kazuo Ishiguro."
+        },
+        {
+          "title": "The Whale",
+          "year": 2022,
+          "note": "In theaters. Not a film Sean likes."
+        },
+        {
+          "title": "EO",
+          "year": 2022,
+          "note": "Jerzy Skolimowski's portrait of a donkey, in theaters and an Amanda favorite; one of several 2022 movies about animals."
+        },
+        {
+          "title": "Empire of Light",
+          "year": 2022,
+          "note": "Sam Mendes's misfire, headed to HBO Max soon. Sean called it ham-fisted out of Telluride but won't rule out the Academy, given Mendes's track record through 1917."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "‘Babylon’",
+      "note": "With Bobby Wagner",
+      "films": [
+        {
+          "title": "Babylon",
+          "year": 2022,
+          "note": "Damien Chazelle's three-hour-plus chronicle of Hollywood's silent-to-sound transition, built around four composites: Margot Robbie's Nellie LaRoy (modeled on Clara Bow), Brad Pitt's Jack Conrad (John Gilbert with dashes of Gable and Fairbanks), Diego Calva's Manny Torres, and Jovan Adepo's jazz-musician Sidney Palmer, plus Jean Smart as an Eleanor Glyn-type columnist and Li Jun Li as an Anna May Wong figure. Sean says it makes him feel alive and loves the swing. Amanda finds the excess irritating even where it's the point and calls the cocaine spectacle boring; she pegs Pitt as miscast for the first two acts before he lands the last third. Both point to the making-of sequences and the sound-stage scene as the film's high point. They read the Singin' in the Rain-drenched finale as Chazelle's semi-abstract statement on cinema and hear in it a spiteful reckoning with his own La La Land. Guest Bobby Wagner loved it."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "‘White Noise’",
+      "films": [
+        {
+          "title": "White Noise",
+          "year": 2022,
+          "note": "Noah Baumbach's adaptation of Don DeLillo's 1985 novel, Sean's sometime favorite book. Adam Driver plays Hitler-studies professor Jack Gladney and Greta Gerwig his wife Babette; a train-and-tanker collision sets off the Airborne Toxic Event. They praise the campus-satire first two-thirds and the literalized Spielbergian disaster set piece, and call the Hitler-vs.-Elvis lecture the moment Driver could win an Oscar. But they say the surreal final act doesn't translate: DeLillo's atmosphere is what the plot strips away. Sean calls it a soft recommend that goes out on a high with the LCD Soundsystem supermarket-dance closer, a costly, unrepeatable Netflix swing they liken to Bardo."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Babylon touchstones",
+      "films": [
+        "Whiplash",
+        "La La Land",
+        "First Man",
+        "Singin' in the Rain",
+        "It",
+        "The Wolf of Wall Street",
+        "Boogie Nights",
+        "The Artist",
+        "Shanghai Express",
+        "Black and Tan",
+        "Cabin in the Sky",
+        "Gold Diggers of 1933",
+        "Footlight Parade",
+        "Ticket to Paradise",
+        "Bullet Train",
+        "Don't Worry Darling",
+        "Jerry Maguire",
+        "The Matrix",
+        "Close Encounters of the Third Kind",
+        "Moonlight",
+        "The Umbrellas of Cherbourg"
+      ]
+    },
+    {
+      "group": "White Noise touchstones",
+      "films": [
+        "Marriage Story",
+        "The Squid and the Whale",
+        "Mistress America",
+        "Margot at the Wedding",
+        "The Meyerowitz Stories",
+        "Highball",
+        "Inherent Vice",
+        "Barbie"
+      ]
+    },
+    {
+      "group": "Also mentioned",
+      "films": [
+        "Knives Out",
+        "Ikiru",
+        "First Cow",
+        "1917",
+        "Downton Abbey: A New Era",
+        "Oppenheimer"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "It": 82283,
+    "The Meyerowitz Stories": 396398
+  },
+  "excluded": {
+    "TV": [
+      "Mad Men"
+    ],
+    "Games": [
+      "FIFA World Cup Launch Edition"
+    ],
+    "Ads": [
+      "The Ringer's Press Box Podcast",
+      "Carvana",
+      "FanDuel",
+      "Netflix",
+      "Boar's Head",
+      "White Claw",
+      "Blinds.com",
+      "Storm"
+    ]
+  },
+  "tmdb": {
+    "Elvis": {
+      "id": 614934,
+      "poster": "/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg",
+      "title": "Elvis",
+      "year": 2022
+    },
+    "The Banshees of Inisherin": {
+      "id": 674324,
+      "poster": "/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg",
+      "title": "The Banshees of Inisherin",
+      "year": 2022
+    },
+    "The Woman King": {
+      "id": 724495,
+      "poster": "/438QXt1E3WJWb3PqNniK0tAE5c1.jpg",
+      "title": "The Woman King",
+      "year": 2022
+    },
+    "The Invitation": {
+      "id": 830788,
+      "poster": "/jcTq6gIskCsHlKDvCKKouEfiU66.jpg",
+      "title": "The Invitation",
+      "year": 2022
+    },
+    "The Fabelmans": {
+      "id": 804095,
+      "poster": "/h7llKkqkkJtJrTOaDLuVeUYDQ7I.jpg",
+      "title": "The Fabelmans",
+      "year": 2022
+    },
+    "Aftersun": {
+      "id": 965150,
+      "poster": "/evKz85EKouVbIr51zy5fOtpNRPg.jpg",
+      "title": "Aftersun",
+      "year": 2022
+    },
+    "Black Panther: Wakanda Forever": {
+      "id": 505642,
+      "poster": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+      "title": "Black Panther: Wakanda Forever",
+      "year": 2022
+    },
+    "Triangle of Sadness": {
+      "id": 497828,
+      "poster": "/k9eLozCgCed5FGTSdHu0bBElAV8.jpg",
+      "title": "Triangle of Sadness",
+      "year": 2022
+    },
+    "She Said": {
+      "id": 837881,
+      "poster": "/jG4UI2dbNWlWtTTupjeU3fRJ5Fn.jpg",
+      "title": "She Said",
+      "year": 2022
+    },
+    "Tár": {
+      "id": 817758,
+      "poster": "/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg",
+      "title": "TÁR",
+      "year": 2022
+    },
+    "Armageddon Time": {
+      "id": 615952,
+      "poster": "/wMK717aDWhboXOiVbZ9sLBqLmKh.jpg",
+      "title": "Armageddon Time",
+      "year": 2022
+    },
+    "Nope": {
+      "id": 762504,
+      "poster": "/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
+      "title": "Nope",
+      "year": 2022
+    },
+    "Everything Everywhere All at Once": {
+      "id": 545611,
+      "poster": "/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+      "title": "Everything Everywhere All at Once",
+      "year": 2022
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Glass Onion: A Knives Out Mystery": {
+      "id": 661374,
+      "poster": "/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
+      "title": "Glass Onion: A Knives Out Mystery",
+      "year": 2022
+    },
+    "Bardo, False Chronicle of a Handful of Truths": {
+      "id": 685691,
+      "poster": "/3e6RA0CzFDC0pz5TqiRlbHcsc2n.jpg",
+      "title": "BARDO, False Chronicle of a Handful of Truths",
+      "year": 2022
+    },
+    "RRR": {
+      "id": 579974,
+      "poster": "/u0XUBNQWlOvrh0Gd97ARGpIkL0.jpg",
+      "title": "RRR",
+      "year": 2022
+    },
+    "All Quiet on the Western Front": {
+      "id": 49046,
+      "poster": "/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg",
+      "title": "All Quiet on the Western Front",
+      "year": 2022
+    },
+    "Guillermo del Toro's Pinocchio": {
+      "id": 555604,
+      "poster": "/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",
+      "title": "Guillermo del Toro's Pinocchio",
+      "year": 2022
+    },
+    "Emancipation": {
+      "id": 715931,
+      "poster": "/AkdNXEquLf4GIkwh1dcSB7j0FTY.jpg",
+      "title": "Emancipation",
+      "year": 2022
+    },
+    "Decision to Leave": {
+      "id": 705996,
+      "poster": "/zI8KZ4EdLUymWKX1YEkpZ0gtPUa.jpg",
+      "title": "Decision to Leave",
+      "year": 2022
+    },
+    "Avatar: The Way of Water": {
+      "id": 76600,
+      "poster": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "title": "Avatar: The Way of Water",
+      "year": 2022
+    },
+    "Living": {
+      "id": 760099,
+      "poster": "/zUJcp0rpUqp2GSk7t9jvAiZsXtM.jpg",
+      "title": "Living",
+      "year": 2022
+    },
+    "The Whale": {
+      "id": 785084,
+      "poster": "/jQ0gylJMxWSL490sy0RrPj1Lj7e.jpg",
+      "title": "The Whale",
+      "year": 2022
+    },
+    "EO": {
+      "id": 785398,
+      "poster": "/1MK86Vr2nf1GSYOtRd8pFvA5RM8.jpg",
+      "title": "EO",
+      "year": 2022
+    },
+    "Empire of Light": {
+      "id": 814757,
+      "poster": "/h84SnIQF91Gz2Fv1OpMJ3245t4i.jpg",
+      "title": "Empire of Light",
+      "year": 2022
+    },
+    "Babylon": {
+      "id": 615777,
+      "poster": "/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+      "title": "Babylon",
+      "year": 2022
+    },
+    "White Noise": {
+      "id": 744594,
+      "poster": "/kesxNdLZlmGoTRspDHU1WgdEuGw.jpg",
+      "title": "White Noise",
+      "year": 2022
+    },
+    "Whiplash": {
+      "id": 244786,
+      "poster": "/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+      "title": "Whiplash",
+      "year": 2014
+    },
+    "La La Land": {
+      "id": 313369,
+      "poster": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "title": "La La Land",
+      "year": 2016
+    },
+    "First Man": {
+      "id": 369972,
+      "poster": "/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
+      "title": "First Man",
+      "year": 2018
+    },
+    "Singin' in the Rain": {
+      "id": 872,
+      "poster": "/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+      "title": "Singin' in the Rain",
+      "year": 1952
+    },
+    "It": {
+      "id": 82283,
+      "poster": "/nkkhsKik9GILqn3S5BxoZdyml21.jpg",
+      "title": "It",
+      "year": 1927
+    },
+    "The Wolf of Wall Street": {
+      "id": 106646,
+      "poster": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+      "title": "The Wolf of Wall Street",
+      "year": 2013
+    },
+    "Boogie Nights": {
+      "id": 4995,
+      "poster": "/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg",
+      "title": "Boogie Nights",
+      "year": 1997
+    },
+    "The Artist": {
+      "id": 74643,
+      "poster": "/xYMYV8lMIeQMymuNPBvq3hOnqXw.jpg",
+      "title": "The Artist",
+      "year": 2011
+    },
+    "Shanghai Express": {
+      "id": 875,
+      "poster": "/z0ea6xM3HhIZi7zApDVsxewv9R8.jpg",
+      "title": "Shanghai Express",
+      "year": 1932
+    },
+    "Black and Tan": {
+      "id": 144615,
+      "poster": "/s9zciO8mWXetOB9YeBLhLQYxUfb.jpg",
+      "title": "Black and Tan",
+      "year": 1929
+    },
+    "Cabin in the Sky": {
+      "id": 59964,
+      "poster": "/6MSTz2fS8P7ufuCXIHBFpjqW9tr.jpg",
+      "title": "Cabin in the Sky",
+      "year": 1943
+    },
+    "Gold Diggers of 1933": {
+      "id": 31511,
+      "poster": "/sXsUJsW9fcVT15hfBu9LyU22qmG.jpg",
+      "title": "Gold Diggers of 1933",
+      "year": 1933
+    },
+    "Footlight Parade": {
+      "id": 28432,
+      "poster": "/3i03jv70icLoxJiwkqcFsLmmmrA.jpg",
+      "title": "Footlight Parade",
+      "year": 1933
+    },
+    "Ticket to Paradise": {
+      "id": 800939,
+      "poster": "/1tzERH50P5c2mFWtLbgixzLZS1L.jpg",
+      "title": "Ticket to Paradise",
+      "year": 2022
+    },
+    "Bullet Train": {
+      "id": 718930,
+      "poster": "/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg",
+      "title": "Bullet Train",
+      "year": 2022
+    },
+    "Don't Worry Darling": {
+      "id": 619730,
+      "poster": "/jOqxKIOC92BVyinYO1Fm73XY7Tc.jpg",
+      "title": "Don't Worry Darling",
+      "year": 2022
+    },
+    "Jerry Maguire": {
+      "id": 9390,
+      "poster": "/lABvGN7fDk5ifnwZoxij6G96t2w.jpg",
+      "title": "Jerry Maguire",
+      "year": 1996
+    },
+    "The Matrix": {
+      "id": 603,
+      "poster": "/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+      "title": "The Matrix",
+      "year": 1999
+    },
+    "Close Encounters of the Third Kind": {
+      "id": 840,
+      "poster": "/yaPx3cK9zGFX3SbcKwxWM1QIbUh.jpg",
+      "title": "Close Encounters of the Third Kind",
+      "year": 1977
+    },
+    "Moonlight": {
+      "id": 376867,
+      "poster": "/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+      "title": "Moonlight",
+      "year": 2016
+    },
+    "The Umbrellas of Cherbourg": {
+      "id": 5967,
+      "poster": "/tAgTf64XKK5ir7w5C7dnB53jWWG.jpg",
+      "title": "The Umbrellas of Cherbourg",
+      "year": 1964
+    },
+    "Marriage Story": {
+      "id": 492188,
+      "poster": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+      "title": "Marriage Story",
+      "year": 2019
+    },
+    "The Squid and the Whale": {
+      "id": 10707,
+      "poster": "/9NbXn1NMdfGM491V3EFjZADR9SX.jpg",
+      "title": "The Squid and the Whale",
+      "year": 2005
+    },
+    "Mistress America": {
+      "id": 309245,
+      "poster": "/w0V4M9nY9bjsoTKdaAYzL9gRpWY.jpg",
+      "title": "Mistress America",
+      "year": 2015
+    },
+    "Margot at the Wedding": {
+      "id": 13998,
+      "poster": "/dmR1TBIur00or8JgyNkycHekfxb.jpg",
+      "title": "Margot at the Wedding",
+      "year": 2007
+    },
+    "The Meyerowitz Stories": {
+      "id": 396398,
+      "poster": "/c9teDTgwxgnb7wnZjZo4oNcF80R.jpg",
+      "title": "The Meyerowitz Stories (New and Selected)",
+      "year": 2017
+    },
+    "Highball": {
+      "id": 44389,
+      "poster": "/shesM5E10FTk40kwbz7Kdv5Qcay.jpg",
+      "title": "Highball",
+      "year": 2002
+    },
+    "Inherent Vice": {
+      "id": 171274,
+      "poster": "/pfVua7TzzttOh3RTOuBqT7xN0oY.jpg",
+      "title": "Inherent Vice",
+      "year": 2014
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Knives Out": {
+      "id": 546554,
+      "poster": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+      "title": "Knives Out",
+      "year": 2019
+    },
+    "Ikiru": {
+      "id": 3782,
+      "poster": "/dgNTS4EQDDVfkzJI5msKuHu2Ei3.jpg",
+      "title": "Ikiru",
+      "year": 1952
+    },
+    "First Cow": {
+      "id": 558582,
+      "poster": "/yS41crZ1i0fFxCQbuL7I1Y1VBwm.jpg",
+      "title": "First Cow",
+      "year": 2020
+    },
+    "1917": {
+      "id": 530915,
+      "poster": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+      "title": "1917",
+      "year": 2019
+    },
+    "Downton Abbey: A New Era": {
+      "id": 820446,
+      "poster": "/r5n4CLoIjUcnT3shWDi6MHdJ25a.jpg",
+      "title": "Downton Abbey: A New Era",
+      "year": 2022
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    }
+  }
+}

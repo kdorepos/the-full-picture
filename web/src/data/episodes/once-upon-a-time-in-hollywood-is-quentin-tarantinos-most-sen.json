@@ -1,0 +1,296 @@
+{
+  "slug": "once-upon-a-time-in-hollywood-is-quentin-tarantinos-most-sen",
+  "title": "‘Once Upon a Time … in Hollywood’ Is Quentin Tarantino’s Most Sentimental Film Yet (SPOILERS) | Exit Survey",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan",
+    "Bobby Wagner"
+  ],
+  "published": "2019-07-26",
+  "runtimeMin": 72,
+  "format": "A spoiler-filled exit survey on Tarantino's ninth film, recorded the week of its release, which happens to be Sean's birthday.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "Exit Survey: ‘Once Upon a Time … in Hollywood’",
+      "note": "spoilers throughout",
+      "films": [
+        {
+          "title": "Once Upon a Time in Hollywood",
+          "year": 2019,
+          "note": "The softest, most sentimental thing Tarantino's made: a day-in-the-life of a fading TV western star (DiCaprio) and his stuntman (Pitt) that rewrites the Manson murders. They read it as a partner film to Jackie Brown; Sean calls Leo's trailer meltdown top-two DiCaprio, and the Julia Butters scene the most tender writing Tarantino's done."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Tarantino's other films",
+      "films": [
+        "Reservoir Dogs",
+        "Pulp Fiction",
+        "Jackie Brown",
+        "Inglourious Basterds",
+        "Django Unchained",
+        "The Hateful Eight"
+      ]
+    },
+    {
+      "group": "DiCaprio and Pitt",
+      "films": [
+        "This Boy's Life",
+        "The Departed",
+        "The Wolf of Wall Street",
+        "Moneyball",
+        "12 Years a Slave",
+        "Ocean's Eleven"
+      ]
+    },
+    {
+      "group": "The era, evoked and within the film",
+      "films": [
+        "The Wrecking Crew",
+        "The Great Escape",
+        "Tess",
+        "Shampoo",
+        "Coming Home",
+        "Thunderball",
+        "Django",
+        "Navajo Joe",
+        "Billy Jack",
+        "Close Encounters of the Third Kind"
+      ]
+    },
+    {
+      "group": "Also mentioned",
+      "films": [
+        "A Star Is Born",
+        "The Social Network",
+        "Forrest Gump",
+        "Sense and Sensibility",
+        "Spider-Man: Into the Spider-Verse",
+        "The Sound of Music",
+        "Fast & Furious Presents: Hobbs & Shaw",
+        "Midsommar"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Lancer",
+      "Bounty Law",
+      "The F.B.I.",
+      "Mannix",
+      "Gunsmoke",
+      "Bonanza",
+      "Justified",
+      "Better Things",
+      "Euphoria",
+      "Mad Men",
+      "NCIS"
+    ],
+    "Podcasts": [
+      "Quentin Tarantino's Feature Presentation",
+      "Unspooled",
+      "Halloween Unmasked"
+    ],
+    "Ads": [
+      "M&M's"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Wrecking Crew": 3054,
+    "Coming Home": 31657
+  },
+  "tmdb": {
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Reservoir Dogs": {
+      "id": 500,
+      "poster": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+      "title": "Reservoir Dogs",
+      "year": 1992
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "Jackie Brown": {
+      "id": 184,
+      "poster": "/rOUx7qg4KmEh1juEDwqzbDSL1Nr.jpg",
+      "title": "Jackie Brown",
+      "year": 1997
+    },
+    "Inglourious Basterds": {
+      "id": 16869,
+      "poster": "/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg",
+      "title": "Inglourious Basterds",
+      "year": 2009
+    },
+    "Django Unchained": {
+      "id": 68718,
+      "poster": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+      "title": "Django Unchained",
+      "year": 2012
+    },
+    "The Hateful Eight": {
+      "id": 273248,
+      "poster": "/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+      "title": "The Hateful Eight",
+      "year": 2015
+    },
+    "This Boy's Life": {
+      "id": 8092,
+      "poster": "/pRMSZfen1Cv1eqwDbtxCBpBqxnU.jpg",
+      "title": "This Boy's Life",
+      "year": 1993
+    },
+    "The Departed": {
+      "id": 1422,
+      "poster": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+      "title": "The Departed",
+      "year": 2006
+    },
+    "The Wolf of Wall Street": {
+      "id": 106646,
+      "poster": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+      "title": "The Wolf of Wall Street",
+      "year": 2013
+    },
+    "Moneyball": {
+      "id": 60308,
+      "poster": "/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+      "title": "Moneyball",
+      "year": 2011
+    },
+    "12 Years a Slave": {
+      "id": 76203,
+      "poster": "/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+      "title": "12 Years a Slave",
+      "year": 2013
+    },
+    "Ocean's Eleven": {
+      "id": 161,
+      "poster": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+      "title": "Ocean's Eleven",
+      "year": 2001
+    },
+    "The Wrecking Crew": {
+      "id": 3054,
+      "poster": "/rvuQCsZBaZ1k254gubEojOz9zss.jpg",
+      "title": "The Wrecking Crew",
+      "year": 1968
+    },
+    "The Great Escape": {
+      "id": 5925,
+      "poster": "/gBH4H8UMFxl139HaLz6lRuvsel8.jpg",
+      "title": "The Great Escape",
+      "year": 1963
+    },
+    "Tess": {
+      "id": 11121,
+      "poster": "/xejUFnoAVxzvU95o2jlzG2USmY.jpg",
+      "title": "Tess",
+      "year": 1979
+    },
+    "Shampoo": {
+      "id": 31121,
+      "poster": "/6jmFvXPV6OhtX3AkAVnH7rwdeUJ.jpg",
+      "title": "Shampoo",
+      "year": 1975
+    },
+    "Coming Home": {
+      "id": 31657,
+      "poster": "/jBsYWNBYNEi5EhT1hC8iexcTsWT.jpg",
+      "title": "Coming Home",
+      "year": 1978
+    },
+    "Thunderball": {
+      "id": 660,
+      "poster": "/wCc4qllaTDsQN8zgGkAgQrKO6N9.jpg",
+      "title": "Thunderball",
+      "year": 1965
+    },
+    "Django": {
+      "id": 10772,
+      "poster": "/vs4vieNstSEfbgLFEelXXOPvr6h.jpg",
+      "title": "Django",
+      "year": 1966
+    },
+    "Navajo Joe": {
+      "id": 6474,
+      "poster": "/hxrsKfgsPlQozvANkZy84lDRKFv.jpg",
+      "title": "Navajo Joe",
+      "year": 1966
+    },
+    "Billy Jack": {
+      "id": 21142,
+      "poster": "/rVE2YKxiHMHTxA5yPZPzsChc37H.jpg",
+      "title": "Billy Jack",
+      "year": 1971
+    },
+    "Close Encounters of the Third Kind": {
+      "id": 840,
+      "poster": "/yaPx3cK9zGFX3SbcKwxWM1QIbUh.jpg",
+      "title": "Close Encounters of the Third Kind",
+      "year": 1977
+    },
+    "A Star Is Born": {
+      "id": 332562,
+      "poster": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "title": "A Star Is Born",
+      "year": 2018
+    },
+    "The Social Network": {
+      "id": 37799,
+      "poster": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+      "title": "The Social Network",
+      "year": 2010
+    },
+    "Forrest Gump": {
+      "id": 13,
+      "poster": "/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
+      "title": "Forrest Gump",
+      "year": 1994
+    },
+    "Sense and Sensibility": {
+      "id": 4584,
+      "poster": "/9YdQ73YmvInxpXZVNjEKePw9tRO.jpg",
+      "title": "Sense and Sensibility",
+      "year": 1995
+    },
+    "Spider-Man: Into the Spider-Verse": {
+      "id": 324857,
+      "poster": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018
+    },
+    "The Sound of Music": {
+      "id": 15121,
+      "poster": "/c6CrUZypAsBCaRWX0M3RVRDbhNS.jpg",
+      "title": "The Sound of Music",
+      "year": 1965
+    },
+    "Fast & Furious Presents: Hobbs & Shaw": {
+      "id": 384018,
+      "poster": "/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg",
+      "title": "Fast & Furious Presents: Hobbs & Shaw",
+      "year": 2019
+    },
+    "Midsommar": {
+      "id": 530385,
+      "poster": "/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+      "title": "Midsommar",
+      "year": 2019
+    }
+  }
+}

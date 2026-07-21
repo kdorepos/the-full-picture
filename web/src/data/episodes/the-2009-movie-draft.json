@@ -1,0 +1,883 @@
+{
+  "slug": "the-2009-movie-draft",
+  "title": "The 2009 Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2022-06-14",
+  "runtimeMin": 89,
+  "format": "Sean, Amanda, and Chris Ryan draft the movies of 2009: the year Avatar ate the box office and Inglourious Basterds went No. 1 overall. Chris also insists, unconvincingly, that he cried during Up.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Who were you in 2009?",
+      "note": "the pre-draft download",
+      "films": [
+        {
+          "title": "500 Days of Summer",
+          "year": 2009,
+          "note": "Bobby's first-ever date movie, age 13. Neither Sean nor Amanda can fully reconstruct the plot on the spot."
+        },
+        {
+          "title": "Crazy Heart",
+          "year": 2009,
+          "note": "Jeff Bridges' overdue Best Actor win, after years of also-ran nominations."
+        },
+        {
+          "title": "The Blind Side",
+          "year": 2009,
+          "note": "Sandra Bullock's Best Actress win, for a movie Sean says he doesn't think is very good."
+        },
+        {
+          "title": "Up in the Air",
+          "year": 2009,
+          "note": "Jason Reitman's film, expected Oscar fodder in an otherwise strange Best Picture lineup."
+        },
+        {
+          "title": "Harry Potter and the Half-Blood Prince",
+          "year": 2009
+        },
+        {
+          "title": "The Twilight Saga: New Moon",
+          "year": 2009
+        },
+        {
+          "title": "Star Trek",
+          "year": 2009
+        },
+        {
+          "title": "Sherlock Holmes",
+          "year": 2009
+        },
+        {
+          "title": "X-Men Origins: Wolverine",
+          "year": 2009
+        }
+      ]
+    },
+    {
+      "kind": "draft",
+      "heading": "The 2009 Movie Draft",
+      "draftOf": "2009 movies",
+      "note": "snake draft, six categories, draft order set by a scrabble-tile pull: Amanda, Chris, Sean",
+      "categories": [
+        "Drama",
+        "Comedy",
+        "Oscar Nominee",
+        "Action Horror Thriller",
+        "Blockbuster ($100M+)",
+        "Wildcard"
+      ],
+      "teams": [
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "An Education",
+              "year": 2009,
+              "category": "Drama",
+              "note": "Lone Scherfig's coming-of-age drama, adapted by Nick Hornby. Carey Mulligan's breakout as a teenager courted by an older man (Peter Sarsgaard); Amanda singles out Rosamund Pike's underrated comic turn as the ditzy girlfriend."
+            },
+            {
+              "title": "In the Loop",
+              "year": 2009,
+              "category": "Comedy",
+              "note": "Armando Iannucci's Thick of It spinoff. Amanda says it's the hardest she's ever laughed at a movie. Jamie MacDonald's (Paul Higgins) introduction is the scene she wants replayed on the pod."
+            },
+            {
+              "title": "Inglourious Basterds",
+              "year": 2009,
+              "category": "Oscar Nominee",
+              "note": "Tarantino's WWII revenge fantasy, her favorite of his films. It's the pick she wanted most, and the No. 1 overall slot let her get it."
+            },
+            {
+              "title": "State of Play",
+              "year": 2009,
+              "category": "Action Horror Thriller",
+              "note": "Kevin Macdonald's newsroom thriller with Russell Crowe, Rachel McAdams, Ben Affleck, and Helen Mirren, adapted from the BBC miniseries. A late pick in a category she hadn't prepped for; made $90 million domestic."
+            },
+            {
+              "title": "It's Complicated",
+              "year": 2009,
+              "category": "Blockbuster ($100M+)",
+              "note": "Nancy Meyers' divorced-parents comedy with Meryl Streep, Alec Baldwin, and Steve Martin. Her favorite Meyers movie, not the best one, mostly for the Santa Barbara kitchen. Made $110 million."
+            },
+            {
+              "title": "I Am Love",
+              "year": 2009,
+              "category": "Wildcard",
+              "note": "Luca Guadagnino's Tilda Swinton drama, first in his loose Italian trilogy. A pick for her father, who calls it one of his favorite films of the year."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Adventureland",
+              "year": 2009,
+              "category": "Drama",
+              "note": "The movie he's rewatched most this year outside of Basterds. Jesse Eisenberg and Kristen Stewart, plus a great Ryan Reynolds turn."
+            },
+            {
+              "title": "The Hangover",
+              "year": 2009,
+              "category": "Comedy",
+              "note": "Todd Phillips' Vegas comedy; Chris admits it isn't as rewarding a rewatch as it was a theatrical experience, and singles out the closing-credits photo montage."
+            },
+            {
+              "title": "The Hurt Locker",
+              "year": 2009,
+              "category": "Oscar Nominee",
+              "note": "Kathryn Bigelow's Iraq bomb-squad thriller, his target pick from the start. Jeremy Renner and Anthony Mackie; the Ralph Fiennes sequence gets a specific shoutout."
+            },
+            {
+              "title": "Zombieland",
+              "year": 2009,
+              "category": "Action Horror Thriller",
+              "note": "Ruben Fleischer's Woody Harrelson/Jesse Eisenberg horror-comedy, written by that week's guests Rhett Reese and Paul Wernick."
+            },
+            {
+              "title": "Up",
+              "year": 2009,
+              "category": "Blockbuster ($100M+)",
+              "note": "A surprise pick from someone who opened the episode claiming he'd blacked out most of 2009. He insists he cried in a theater during the opening montage; the other two don't fully buy it."
+            },
+            {
+              "title": "A Perfect Getaway",
+              "year": 2009,
+              "category": "Wildcard",
+              "note": "David Twohy's Hawaii thriller with Steve Zahn, Timothy Olyphant, Milla Jovovich, and an early Chris Hemsworth."
+            }
+          ]
+        },
+        {
+          "host": "Sean Fennessy",
+          "picks": [
+            {
+              "title": "A Serious Man",
+              "year": 2009,
+              "category": "Drama",
+              "note": "The Coens' Job riff, Sean's favorite of their filmography, earmarked before the draft even started."
+            },
+            {
+              "title": "The Informant!",
+              "year": 2009,
+              "category": "Comedy",
+              "note": "Soderbergh's second movie of 2009 (with The Girlfriend Experience). A very funny Matt Damon performance as a lying ADM whistleblower, cast heavy with stand-up comedians."
+            },
+            {
+              "title": "Fantastic Mr. Fox",
+              "year": 2009,
+              "category": "Oscar Nominee",
+              "note": "Wes Anderson's stop-motion Dahl adaptation, voiced by George Clooney and Meryl Streep. Sean says a rewatch alongside The French Dispatch made him like it even more."
+            },
+            {
+              "title": "Avatar",
+              "year": 2009,
+              "category": "Action Horror Thriller",
+              "note": "His first pick overall. Cameron's motion-capture blockbuster dominated the year's box-office conversation the way Titanic did in '97. He saw it on the Lincoln Square IMAX."
+            },
+            {
+              "title": "Taken",
+              "year": 2009,
+              "category": "Blockbuster ($100M+)",
+              "note": "Liam Neeson's action reinvention. Sean jokes it created a market inefficiency in Eastern European travel."
+            },
+            {
+              "title": "Ponyo",
+              "year": 2009,
+              "category": "Wildcard",
+              "note": "Miyazaki's underwater riff on The Little Mermaid, watched this weekend with his daughter Alice."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Paranormal Activity",
+        "Trick 'r Treat",
+        "The House of the Devil",
+        "Enter the Void",
+        "The White Ribbon",
+        "Thirst",
+        "Mother",
+        "A Prophet",
+        "Dogtooth",
+        "Moon",
+        "Jennifer's Body",
+        "Drag Me to Hell",
+        "Duplicity",
+        "District 9",
+        "Extract",
+        "Where the Wild Things Are",
+        "A Single Man",
+        "Orphan",
+        "Bright Star",
+        "The Young Victoria",
+        "The Last Station",
+        "Two Lovers",
+        "Public Enemies",
+        "The Girlfriend Experience",
+        "Julie & Julia",
+        "The September Issue",
+        "The Lodger",
+        "Fired Up",
+        "Wonderful World",
+        "Coraline"
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "What we left on the board",
+      "note": "undrafted 2009 movies",
+      "films": [
+        {
+          "title": "Paranormal Activity",
+          "year": 2009,
+          "note": "Oren Peli's found-footage horror, made for under $250,000 and still argued to be one of the most profitable movies ever made by ROI. The franchise that built Blumhouse."
+        },
+        {
+          "title": "Duplicity",
+          "year": 2009,
+          "note": "Tony Gilroy's Clive Owen/Julia Roberts corporate-espionage caper. Sean calls it 'legitimately incomprehensible' on first viewing and would love the same cast and director for a do-over."
+        },
+        {
+          "title": "District 9",
+          "year": 2009,
+          "note": "Neill Blomkamp's apartheid-allegory blockbuster from a first-time filmmaker. A Best Picture nominee that looks, in hindsight, like a genre-movie anomaly the category doesn't allow anymore."
+        },
+        {
+          "title": "Where the Wild Things Are",
+          "year": 2009,
+          "note": "Spike Jonze's Maurice Sendak adaptation. Sean says it made him weep and is now a fixture of reading the book to his own kids."
+        },
+        {
+          "title": "A Single Man",
+          "year": 2009,
+          "note": "Tom Ford's directorial debut with Colin Firth. Amanda's takeaway is mostly the wardrobe ('beautiful gowns'), and she says it worked better for her than Ford's later Nocturnal Animals."
+        },
+        {
+          "title": "Orphan",
+          "year": 2009,
+          "note": "The twist-ending horror movie that became a running blog joke that year for how fast people spoiled the ending."
+        },
+        {
+          "title": "The House of the Devil",
+          "year": 2009,
+          "note": "Ti West's slow-burn homage to '80s babysitter slashers, with an early Greta Gerwig performance."
+        },
+        {
+          "title": "The Last Station",
+          "year": 2009,
+          "note": "Christopher Plummer, Helen Mirren, and James McAvoy in a Tolstoy drama Chris caught alone at an art-house matinee."
+        },
+        {
+          "title": "Public Enemies",
+          "year": 2009,
+          "note": "Michael Mann's Dillinger movie with Johnny Depp and Christian Bale. Multiple hosts call it their least favorite Mann film and say they've rewatched Blackhat more often."
+        },
+        {
+          "title": "Two Lovers",
+          "year": 2009,
+          "note": "James Gray's Joaquin Phoenix drama, a 2008 Cannes premiere with a 2009 U.S. release. Universally liked at the table."
+        },
+        {
+          "title": "Bright Star",
+          "year": 2009,
+          "note": "Jane Campion's Keats romance, a favorite of both Sean's and Amanda's, called 'so underrated.'"
+        },
+        {
+          "title": "Julie & Julia",
+          "year": 2009,
+          "note": "Nora Ephron's dual Julia Child/Julie Powell biopic with Meryl Streep and Amy Adams. Amanda says the Streep half is great and the blogging half is 'whatever,' which is why she didn't draft it."
+        },
+        {
+          "title": "The Girlfriend Experience",
+          "year": 2009,
+          "note": "Soderbergh's other 2009 movie besides The Informant!, with Sasha Grey. Sean admits he undersold it in the moment."
+        },
+        {
+          "title": "Drag Me to Hell",
+          "year": 2009,
+          "note": "Sam Raimi's horror comeback. Chris regrets not drafting it."
+        },
+        {
+          "title": "The Young Victoria",
+          "year": 2009,
+          "note": "Emily Blunt as the young Queen Victoria. Amanda calls it a 'quality flick.'"
+        },
+        {
+          "title": "Extract",
+          "year": 2009,
+          "note": "Mike Judge's workplace comedy with Jason Bateman, joked about as 'an Ozark prequel.'"
+        },
+        {
+          "title": "The September Issue",
+          "year": 2009,
+          "note": "The Vogue behind-the-scenes documentary: 'pretty good, as those things go.'"
+        },
+        {
+          "title": "Enter the Void",
+          "year": 2009,
+          "note": "Gaspar Noé, part of a foreign-film year the table admits it didn't draft into."
+        },
+        {
+          "title": "The White Ribbon",
+          "year": 2009,
+          "note": "Michael Haneke's Palme d'Or winner."
+        },
+        {
+          "title": "Thirst",
+          "year": 2009,
+          "note": "Park Chan-wook's vampire-priest movie."
+        },
+        {
+          "title": "Mother",
+          "year": 2009,
+          "note": "Bong Joon-ho's thriller."
+        },
+        {
+          "title": "A Prophet",
+          "year": 2009,
+          "note": "Jacques Audiard's prison drama."
+        },
+        {
+          "title": "Dogtooth",
+          "year": 2009,
+          "note": "Yorgos Lanthimos; Chris asks to be the guest whenever they do a 'movie parenting' episode on this one."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Other years, in passing",
+      "films": [
+        "Titanic",
+        "The Social Network",
+        "Watcher",
+        "Jurassic World",
+        "What's Your Number",
+        "Blackhat",
+        "Downton Abbey",
+        "House of Gucci",
+        "Nocturnal Animals",
+        "Lightyear",
+        "WALL-E",
+        "The French Dispatch",
+        "The Ballad of Buster Scruggs",
+        "Argo",
+        "Boogie Nights",
+        "Midnight Run",
+        "Say Anything",
+        "Hard Eight",
+        "The Talented Mr. Ripley",
+        "Zodiac",
+        "Seabiscuit"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Ozark",
+      "Slow Horses",
+      "Barry",
+      "Seinfeld",
+      "And Just Like That",
+      "State of Play (BBC miniseries)"
+    ],
+    "Podcasts": [
+      "Higher Learning",
+      "The Rewatchables"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "FIFA World Cup Launch Edition",
+      "FanDuel",
+      "Botox",
+      "Sam's Club",
+      "White Claw",
+      "Nespresso Vertuo"
+    ]
+  },
+  "tmdbOverrides": {
+    "Paranormal Activity": 23827,
+    "WALL-E": 10681,
+    "The French Dispatch": 542178,
+    "Wonderful World": 27735
+  },
+  "tmdb": {
+    "500 Days of Summer": {
+      "id": 19913,
+      "poster": "/qXAuQ9hF30sQRsXf40OfRVl0MJZ.jpg",
+      "title": "(500) Days of Summer",
+      "year": 2009
+    },
+    "Crazy Heart": {
+      "id": 25196,
+      "poster": "/zwao2YMsqf27IzNEtDNWSe0W9jH.jpg",
+      "title": "Crazy Heart",
+      "year": 2009
+    },
+    "The Blind Side": {
+      "id": 22881,
+      "poster": "/bMgq7VBriuBFknXEe9E9pVBYGZq.jpg",
+      "title": "The Blind Side",
+      "year": 2009
+    },
+    "Up in the Air": {
+      "id": 22947,
+      "poster": "/useGH8nfwlaHK44IWEZdUYJOE2N.jpg",
+      "title": "Up in the Air",
+      "year": 2009
+    },
+    "Harry Potter and the Half-Blood Prince": {
+      "id": 767,
+      "poster": "/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg",
+      "title": "Harry Potter and the Half-Blood Prince",
+      "year": 2009
+    },
+    "The Twilight Saga: New Moon": {
+      "id": 18239,
+      "poster": "/k2qTooPlHffgNABNWxeJdGMglPK.jpg",
+      "title": "The Twilight Saga: New Moon",
+      "year": 2009
+    },
+    "Star Trek": {
+      "id": 13475,
+      "poster": "/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg",
+      "title": "Star Trek",
+      "year": 2009
+    },
+    "Sherlock Holmes": {
+      "id": 10528,
+      "poster": "/momkKuWburNTqKBF6ez7rvhYVhE.jpg",
+      "title": "Sherlock Holmes",
+      "year": 2009
+    },
+    "X-Men Origins: Wolverine": {
+      "id": 2080,
+      "poster": "/yj8LbTju1p7CUJg7US2unSBk33s.jpg",
+      "title": "X-Men Origins: Wolverine",
+      "year": 2009
+    },
+    "An Education": {
+      "id": 24684,
+      "poster": "/gLIvvUdlocGjm8XVLxhWHAKWrRq.jpg",
+      "title": "An Education",
+      "year": 2009
+    },
+    "In the Loop": {
+      "id": 19833,
+      "poster": "/jL6txnziFSeEifQkqnPBtaPaiXU.jpg",
+      "title": "In the Loop",
+      "year": 2009
+    },
+    "Inglourious Basterds": {
+      "id": 16869,
+      "poster": "/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg",
+      "title": "Inglourious Basterds",
+      "year": 2009
+    },
+    "State of Play": {
+      "id": 16995,
+      "poster": "/mWsfeSFUM3NxWa62UrA9IIn240B.jpg",
+      "title": "State of Play",
+      "year": 2009
+    },
+    "It's Complicated": {
+      "id": 22897,
+      "poster": "/bmjPrJgrGENFRrERP7lCJ9FGIVB.jpg",
+      "title": "It's Complicated",
+      "year": 2009
+    },
+    "I Am Love": {
+      "id": 41110,
+      "poster": "/ss57QaZX5OE3YxoTZeKW5Y6U83S.jpg",
+      "title": "I Am Love",
+      "year": 2010
+    },
+    "Adventureland": {
+      "id": 16614,
+      "poster": "/eeSJNAR1aWcgANq26KWIHm3cbyB.jpg",
+      "title": "Adventureland",
+      "year": 2009
+    },
+    "The Hangover": {
+      "id": 18785,
+      "poster": "/A0uS9rHR56FeBtpjVki16M5xxSW.jpg",
+      "title": "The Hangover",
+      "year": 2009
+    },
+    "The Hurt Locker": {
+      "id": 12162,
+      "poster": "/io2dfBJhasvGbgkCX9cCGVOiA99.jpg",
+      "title": "The Hurt Locker",
+      "year": 2008
+    },
+    "Zombieland": {
+      "id": 19908,
+      "poster": "/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg",
+      "title": "Zombieland",
+      "year": 2009
+    },
+    "Up": {
+      "id": 14160,
+      "poster": "/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
+      "title": "Up",
+      "year": 2009
+    },
+    "A Perfect Getaway": {
+      "id": 12403,
+      "poster": "/ncuGG0hIlA03dQBJmdoT2LWgodG.jpg",
+      "title": "A Perfect Getaway",
+      "year": 2009
+    },
+    "A Serious Man": {
+      "id": 12573,
+      "poster": "/5gGxDS8WmrebPlMHexVS8EVehiP.jpg",
+      "title": "A Serious Man",
+      "year": 2009
+    },
+    "The Informant!": {
+      "id": 11323,
+      "poster": "/eV8u5crNe4QYWcu0zjKxFVq2Qem.jpg",
+      "title": "The Informant!",
+      "year": 2009
+    },
+    "Fantastic Mr. Fox": {
+      "id": 10315,
+      "poster": "/euZyZb6iGreujYKrGyZHRddhUYh.jpg",
+      "title": "Fantastic Mr. Fox",
+      "year": 2009
+    },
+    "Avatar": {
+      "id": 19995,
+      "poster": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "title": "Avatar",
+      "year": 2009
+    },
+    "Taken": {
+      "id": 8681,
+      "poster": "/ognkaUSNgJe1a2pjB4UNdzEo5jT.jpg",
+      "title": "Taken",
+      "year": 2008
+    },
+    "Ponyo": {
+      "id": 12429,
+      "poster": "/yp8vEZflGynlEylxEesbYasc06i.jpg",
+      "title": "Ponyo",
+      "year": 2008
+    },
+    "Paranormal Activity": {
+      "id": 23827,
+      "poster": "/tmclkEpjeo4Zu564gf3KrwIOuKw.jpg",
+      "title": "Paranormal Activity",
+      "year": 2007
+    },
+    "Trick 'r Treat": {
+      "id": 23202,
+      "poster": "/w0nmol4g7n6MFfhfphV7GzHHYjB.jpg",
+      "title": "Trick 'r Treat",
+      "year": 2007
+    },
+    "The House of the Devil": {
+      "id": 25983,
+      "poster": "/4abKUbc9IbsndbaY1hacN1iPM0Y.jpg",
+      "title": "The House of the Devil",
+      "year": 2009
+    },
+    "Enter the Void": {
+      "id": 34647,
+      "poster": "/krKnsfvSJM1PL40tLicRhVQ6kuG.jpg",
+      "title": "Enter the Void",
+      "year": 2010
+    },
+    "The White Ribbon": {
+      "id": 37903,
+      "poster": "/54dlnGDexrwAFlDb8HWKfmmX4LB.jpg",
+      "title": "The White Ribbon",
+      "year": 2009
+    },
+    "Thirst": {
+      "id": 22536,
+      "poster": "/sBnFQwOcmL3dAIYfiQ9nLvLSW7B.jpg",
+      "title": "Thirst",
+      "year": 2009
+    },
+    "Mother": {
+      "id": 30018,
+      "poster": "/8oBnSkZE6GDVugAbLPO6uJd4GcS.jpg",
+      "title": "Mother",
+      "year": 2009
+    },
+    "A Prophet": {
+      "id": 21575,
+      "poster": "/x9Jb8kewBHPzjTtgCQvoQoDsy4d.jpg",
+      "title": "A Prophet",
+      "year": 2009
+    },
+    "Dogtooth": {
+      "id": 38810,
+      "poster": "/cBrhzHcOxXclTItkPzsJUCTSFyl.jpg",
+      "title": "Dogtooth",
+      "year": 2009
+    },
+    "Moon": {
+      "id": 17431,
+      "poster": "/35IU0Mq0zFsN1mYwDGts5mKc77n.jpg",
+      "title": "Moon",
+      "year": 2009
+    },
+    "Jennifer's Body": {
+      "id": 19994,
+      "poster": "/wrkjsGcFJxcQqR56kJUYAEKKg2T.jpg",
+      "title": "Jennifer's Body",
+      "year": 2009
+    },
+    "Drag Me to Hell": {
+      "id": 16871,
+      "poster": "/fdyejM5Zd6dsa0YyWa02ZAKwQzK.jpg",
+      "title": "Drag Me to Hell",
+      "year": 2009
+    },
+    "Duplicity": {
+      "id": 16558,
+      "poster": "/vpWQs3CjwG6Er3DgZlv4L3NFjXg.jpg",
+      "title": "Duplicity",
+      "year": 2009
+    },
+    "District 9": {
+      "id": 17654,
+      "poster": "/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg",
+      "title": "District 9",
+      "year": 2009
+    },
+    "Extract": {
+      "id": 12569,
+      "poster": "/cjen0vxjybwItQPH3NNCJuME2MY.jpg",
+      "title": "Extract",
+      "year": 2009
+    },
+    "Where the Wild Things Are": {
+      "id": 16523,
+      "poster": "/pzVqDpSzOg32IpXghHGSGAAArl6.jpg",
+      "title": "Where the Wild Things Are",
+      "year": 2009
+    },
+    "A Single Man": {
+      "id": 34653,
+      "poster": "/AvqTb66bS1i1NjlPC76zvxo0taT.jpg",
+      "title": "A Single Man",
+      "year": 2009
+    },
+    "Orphan": {
+      "id": 21208,
+      "poster": "/lCGpOgoTOGLtZnBiGY9HRg5Xnjd.jpg",
+      "title": "Orphan",
+      "year": 2009
+    },
+    "Bright Star": {
+      "id": 29963,
+      "poster": "/csN6y4nq2kaBiegHaGw0DGp4plf.jpg",
+      "title": "Bright Star",
+      "year": 2009
+    },
+    "The Young Victoria": {
+      "id": 18320,
+      "poster": "/iGyuReyij3bPCtzJdSjTR8PR0pa.jpg",
+      "title": "The Young Victoria",
+      "year": 2009
+    },
+    "The Last Station": {
+      "id": 36811,
+      "poster": "/nf9cYwKcvxTbSsCz4o6eRJ8P0IH.jpg",
+      "title": "The Last Station",
+      "year": 2009
+    },
+    "Two Lovers": {
+      "id": 10362,
+      "poster": "/skwYEUcxhUub9QCSwPDMvBySphS.jpg",
+      "title": "Two Lovers",
+      "year": 2008
+    },
+    "Public Enemies": {
+      "id": 11322,
+      "poster": "/3KgtekisQBrHRsm2cD5UOB6Ce3k.jpg",
+      "title": "Public Enemies",
+      "year": 2009
+    },
+    "The Girlfriend Experience": {
+      "id": 17680,
+      "poster": "/8hIdqIaQVNsEh4FB3nAhCXMSVWJ.jpg",
+      "title": "The Girlfriend Experience",
+      "year": 2009
+    },
+    "Julie & Julia": {
+      "id": 24803,
+      "poster": "/1QZNWOOwfRi86ZApGvr2TtJZPBK.jpg",
+      "title": "Julie & Julia",
+      "year": 2009
+    },
+    "The September Issue": {
+      "id": 23044,
+      "poster": "/gcsx9hJdVmfkrcC6a0qcxF01jqQ.jpg",
+      "title": "The September Issue",
+      "year": 2009
+    },
+    "The Lodger": {
+      "id": 15052,
+      "poster": "/prfQla0ZriFC9PecssAiladiby4.jpg",
+      "title": "The Lodger",
+      "year": 2009
+    },
+    "Fired Up": {
+      "id": 17927,
+      "poster": "/1Nty5K8ybeigm6qm9cMFFAD4KpF.jpg",
+      "title": "Fired Up!",
+      "year": 2009
+    },
+    "Wonderful World": {
+      "id": 27735,
+      "poster": "/30uwX2GkaHdB6sPcG0b2RUWb2KF.jpg",
+      "title": "Wonderful World",
+      "year": 2009
+    },
+    "Coraline": {
+      "id": 14836,
+      "poster": "/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
+      "title": "Coraline",
+      "year": 2009
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "The Social Network": {
+      "id": 37799,
+      "poster": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+      "title": "The Social Network",
+      "year": 2010
+    },
+    "Watcher": {
+      "id": 807356,
+      "poster": "/dXCjoI3jdtBrwPHgVsyNLkl8Rvs.jpg",
+      "title": "Watcher",
+      "year": 2022
+    },
+    "Jurassic World": {
+      "id": 135397,
+      "poster": "/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
+      "title": "Jurassic World",
+      "year": 2015
+    },
+    "What's Your Number": {
+      "id": 63492,
+      "poster": "/eqn3UeXMY9W1Ow3jIZ6COqbjUWX.jpg",
+      "title": "What's Your Number?",
+      "year": 2011
+    },
+    "Blackhat": {
+      "id": 201088,
+      "poster": "/7zu6HPnKPjNA7NuR4DGRdaH0PdX.jpg",
+      "title": "Blackhat",
+      "year": 2015
+    },
+    "Downton Abbey": {
+      "id": 535544,
+      "poster": "/pWt1iRuhNpeVDNP2QiUT2C5OiBt.jpg",
+      "title": "Downton Abbey",
+      "year": 2019
+    },
+    "House of Gucci": {
+      "id": 644495,
+      "poster": "/oJCQjD2byiVF1EG408F9dBn9ndU.jpg",
+      "title": "House of Gucci",
+      "year": 2021
+    },
+    "Nocturnal Animals": {
+      "id": 340666,
+      "poster": "/mdLDgQBD0va09npSQX5Zgo2evXM.jpg",
+      "title": "Nocturnal Animals",
+      "year": 2016
+    },
+    "Lightyear": {
+      "id": 718789,
+      "poster": "/b9t3w1loraDh7hjdWmpc9ZsaYns.jpg",
+      "title": "Lightyear",
+      "year": 2022
+    },
+    "WALL-E": {
+      "id": 10681,
+      "poster": "/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+      "title": "WALL·E",
+      "year": 2008
+    },
+    "The French Dispatch": {
+      "id": 542178,
+      "poster": "/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg",
+      "title": "The French Dispatch of the Liberty, Kansas Evening Sun",
+      "year": 2021
+    },
+    "The Ballad of Buster Scruggs": {
+      "id": 537996,
+      "poster": "/voxl654m7p36y8FLu8oQD7dfwwK.jpg",
+      "title": "The Ballad of Buster Scruggs",
+      "year": 2018
+    },
+    "Argo": {
+      "id": 68734,
+      "poster": "/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
+      "title": "Argo",
+      "year": 2012
+    },
+    "Boogie Nights": {
+      "id": 4995,
+      "poster": "/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg",
+      "title": "Boogie Nights",
+      "year": 1997
+    },
+    "Midnight Run": {
+      "id": 9013,
+      "poster": "/yx0touyDQ9enWDsFgS4MbBwCSNd.jpg",
+      "title": "Midnight Run",
+      "year": 1988
+    },
+    "Say Anything": {
+      "id": 2028,
+      "poster": "/nkucKciFGSRalw6dJtsglWqOXMC.jpg",
+      "title": "Say Anything...",
+      "year": 1989
+    },
+    "Hard Eight": {
+      "id": 8052,
+      "poster": "/1l5UaoP25Ak8PWCKIULQz70yF03.jpg",
+      "title": "Hard Eight",
+      "year": 1997
+    },
+    "The Talented Mr. Ripley": {
+      "id": 1213,
+      "poster": "/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg",
+      "title": "The Talented Mr. Ripley",
+      "year": 1999
+    },
+    "Zodiac": {
+      "id": 1949,
+      "poster": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+      "title": "Zodiac",
+      "year": 2007
+    },
+    "Seabiscuit": {
+      "id": 4464,
+      "poster": "/5m7NfZvxYsSm2YBCJ2VPQf8ziKr.jpg",
+      "title": "Seabiscuit",
+      "year": 2003
+    }
+  }
+}

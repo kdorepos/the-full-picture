@@ -1,0 +1,900 @@
+{
+  "slug": "bombshell-richard-jewell-and-what-happens-when-movies-mess-w",
+  "title": "'Bombshell,' 'Richard Jewell,' and What Happens When Movies Mess With the Media | The Oscar Show",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2019-12-17",
+  "runtimeMin": 101,
+  "format": "Sean and Amanda, joined by the Ringer's Bryan Curtis, on two films that reenact real journalists, 'Bombshell' and 'Richard Jewell', and the liberties each takes. Then the Oscar shortlists, the Best Director gender gap, and Sean's interview with 'Bombshell' director Jay Roach.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "When the media meets the movies",
+      "note": "with Bryan Curtis of The Press Box",
+      "films": [
+        {
+          "title": "Richard Jewell",
+          "year": 2019,
+          "note": "Clint Eastwood's account of the security guard wrongly suspected in the 1996 Centennial Park bombing. The panel's objection is the reporter Kathy Scruggs, played by Olivia Wilde as trading sex with an FBI agent for the tip: a real, non-famous, and dead journalist depicted that way with no source. Paul Walter Hauser as Jewell and Kathy Bates as his mother draw the praise."
+        },
+        {
+          "title": "Bombshell",
+          "year": 2019,
+          "note": "Jay Roach's Fox News film, written by 'Big Short' co-writer Charles Randolph. Charlize Theron's Megyn Kelly, Nicole Kidman's Gretchen Carlson, and Margot Robbie's composite producer against John Lithgow's Roger Ailes. Amanda's hesitation: it makes Kelly the hero of a story that isn't hers."
+        },
+        {
+          "title": "Spotlight",
+          "year": 2015,
+          "note": "Cited as the version where a media movie works out well."
+        },
+        {
+          "title": "All the President's Men",
+          "year": 1976,
+          "note": "The other benchmark for journalism done right on screen."
+        },
+        {
+          "title": "Shattered Glass",
+          "year": 2003,
+          "note": "Written and directed by Billy Ray, who also wrote 'Richard Jewell' (one of the more realistic films about the business, which the hosts find ironic)."
+        },
+        {
+          "title": "American Sniper",
+          "year": 2014,
+          "note": "Eastwood's true-story hit; the comp for a conservative audience that 'Richard Jewell' never found."
+        },
+        {
+          "title": "The 15:17 to Paris",
+          "year": 2018
+        },
+        {
+          "title": "Sully",
+          "year": 2016
+        },
+        {
+          "title": "The Mule",
+          "year": 2018,
+          "note": "Eastwood's take on a Sam Dolnick New York Times story, part of his run of lone-figure-versus-the-machine films."
+        },
+        {
+          "title": "Vice",
+          "year": 2018,
+          "note": "Bryan's fear going in: that you can't see past the actors playing people you know. Bombshell is the awards-season comp."
+        },
+        {
+          "title": "Dick",
+          "year": 1999,
+          "note": "Named by accident while reaching for 'Vice.'"
+        },
+        {
+          "title": "The Big Short",
+          "year": 2015,
+          "note": "Randolph co-wrote it; Bombshell shares its many-narrators, near-satirical approach."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Hark: movies need better names",
+      "note": "Amanda argues for movie SEO",
+      "films": [
+        {
+          "title": "The Lion King",
+          "year": 2019,
+          "note": "Held up as a title that already is the keyword."
+        },
+        {
+          "title": "Doctor Sleep",
+          "year": 2019,
+          "note": "Should have leaned on its predecessor's name, per Amanda."
+        },
+        {
+          "title": "The Shining",
+          "year": 1980
+        },
+        {
+          "title": "Motherless Brooklyn",
+          "year": 2019,
+          "note": "'No one knows what that is': the pitch is a Robert Moses angle or 'a mystery, and Edward Norton's in it.'"
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Stock up, stock down",
+      "films": [
+        {
+          "title": "Uncut Gems",
+          "year": 2019,
+          "note": "Broke A24's opening per-screen record: $105,000 on five screens in two and a half days."
+        },
+        {
+          "title": "A Hidden Life",
+          "year": 2019,
+          "note": "Bombed; a Malick film that didn't work for either host, and why they haven't covered it."
+        },
+        {
+          "title": "The Tree of Life",
+          "year": 2011,
+          "note": "Sean's favorite Malick, a return he's planning before year's end."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The International Feature shortlist",
+      "note": "ten films; Parasite is the presumed winner",
+      "films": [
+        {
+          "title": "The Painted Bird",
+          "year": 2019,
+          "note": "Czech Republic."
+        },
+        {
+          "title": "Truth and Justice",
+          "year": 2019,
+          "note": "Estonia; unseen by the hosts, hard to track down."
+        },
+        {
+          "title": "Les Misérables",
+          "year": 2019,
+          "note": "France."
+        },
+        {
+          "title": "Those Who Remained",
+          "year": 2019,
+          "note": "Hungary."
+        },
+        {
+          "title": "Honeyland",
+          "year": 2019,
+          "note": "North Macedonia; also on the documentary shortlist."
+        },
+        {
+          "title": "Corpus Christi",
+          "year": 2019,
+          "note": "Poland."
+        },
+        {
+          "title": "Beanpole",
+          "year": 2019,
+          "note": "Russia."
+        },
+        {
+          "title": "Atlantics",
+          "year": 2019,
+          "note": "Senegal."
+        },
+        {
+          "title": "Parasite",
+          "year": 2019,
+          "note": "South Korea; Amanda bets dinner it wins."
+        },
+        {
+          "title": "Pain and Glory",
+          "year": 2019,
+          "note": "Spain; Almodóvar."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The Documentary Feature shortlist",
+      "note": "fifteen films, plus the music docs that got passed over",
+      "films": [
+        {
+          "title": "Advocate",
+          "year": 2019
+        },
+        {
+          "title": "American Factory",
+          "year": 2019,
+          "note": "Amanda's pick to win and one of her favorite films of the year."
+        },
+        {
+          "title": "The Apollo",
+          "year": 2019
+        },
+        {
+          "title": "Apollo 11",
+          "year": 2019
+        },
+        {
+          "title": "Aquarela",
+          "year": 2019
+        },
+        {
+          "title": "The Biggest Little Farm",
+          "year": 2019
+        },
+        {
+          "title": "The Cave",
+          "year": 2019
+        },
+        {
+          "title": "The Edge of Democracy",
+          "year": 2019
+        },
+        {
+          "title": "For Sama",
+          "year": 2019
+        },
+        {
+          "title": "The Great Hack",
+          "year": 2019
+        },
+        {
+          "title": "Knock Down the House",
+          "year": 2019
+        },
+        {
+          "title": "Maiden",
+          "year": 2019
+        },
+        {
+          "title": "Midnight Family",
+          "year": 2019
+        },
+        {
+          "title": "One Child Nation",
+          "year": 2019,
+          "note": "Nanfu Wang's film; Amazon is expected to push it hard."
+        },
+        {
+          "title": "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+          "year": 2019,
+          "note": "Among the music docs snubbed."
+        },
+        {
+          "title": "Pavarotti",
+          "year": 2019,
+          "note": "Snubbed."
+        },
+        {
+          "title": "David Crosby: Remember My Name",
+          "year": 2019,
+          "note": "Snubbed."
+        },
+        {
+          "title": "Linda Ronstadt: The Sound of My Voice",
+          "year": 2019,
+          "note": "Snubbed."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The song and effects shortlists",
+      "films": [
+        {
+          "title": "Wild Rose",
+          "year": 2018,
+          "note": "'Glasgow' is the one original-song entry Sean will defend."
+        },
+        {
+          "title": "The Lego Movie 2: The Second Part",
+          "year": 2019,
+          "note": "Home of 'Catchy Song'; Sean wants T-Pain at the Oscars over it."
+        },
+        {
+          "title": "Cats",
+          "year": 2019,
+          "note": "Taylor Swift's song went unnominated, read as no Cats at the ceremony."
+        },
+        {
+          "title": "Star Wars: The Rise of Skywalker",
+          "year": 2019,
+          "note": "Visual-effects shortlist; part of a heavily Disney field."
+        },
+        {
+          "title": "Captain Marvel",
+          "year": 2019
+        },
+        {
+          "title": "Avengers: Endgame",
+          "year": 2019
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Best Director and the gender gap",
+      "note": "on Greta Gerwig's likely snub and how we grade directing",
+      "films": [
+        {
+          "title": "Little Women",
+          "year": 2019,
+          "note": "Gerwig's adaptation; the hosts argue it does everything a Scorsese or Bong film does, on a 150-year-old novel about girls, and gets read differently for it."
+        },
+        {
+          "title": "The Irishman",
+          "year": 2019,
+          "note": "Amanda's contrast: the three-and-a-half-hour mob movie nobody questions the need for."
+        },
+        {
+          "title": "Marriage Story",
+          "year": 2019
+        },
+        {
+          "title": "Once Upon a Time in Hollywood",
+          "year": 2019
+        },
+        {
+          "title": "1917",
+          "year": 2019,
+          "note": "The flashy, technical war movie that reads as 'serious' directing."
+        },
+        {
+          "title": "Joker",
+          "year": 2019
+        },
+        {
+          "title": "The Farewell",
+          "year": 2019,
+          "note": "Lulu Wang's domestic drama, in the conversation."
+        },
+        {
+          "title": "Hustlers",
+          "year": 2019,
+          "note": "Lorene Scafaria's film, also in the conversation."
+        },
+        {
+          "title": "Lady Bird",
+          "year": 2017,
+          "note": "Gerwig's first nomination; Little Women is described as much bigger."
+        },
+        {
+          "title": "Seven Beauties",
+          "year": 1975,
+          "note": "Lina Wertmüller, one of the few women ever nominated for directing."
+        },
+        {
+          "title": "The Piano",
+          "year": 1993,
+          "note": "Jane Campion, the same."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Jay Roach on 'Bombshell'",
+      "guest": "Jay Roach on",
+      "films": [
+        {
+          "title": "Bombshell",
+          "year": 2019,
+          "note": "Roach on valorizing complicated people: he framed it around a competent woman being harassed as a universal issue. On Theron's transformation, she injured her vocal cords chasing Kelly's voice, and Kazuhiro Tsuji did the makeup. The elevator-sequence score is a cappella women's voices, including his wife Susanna Hoffs and Petra Haden."
+        },
+        {
+          "title": "Recount",
+          "year": 2008,
+          "note": "His earlier HBO political docudrama."
+        },
+        {
+          "title": "Game Change",
+          "year": 2012,
+          "note": "The Sarah Palin film he chased before he knew there was a book."
+        },
+        {
+          "title": "Trumbo",
+          "year": 2015,
+          "note": "Part of the drift toward more serious, graver material."
+        },
+        {
+          "title": "Austin Powers: International Man of Mystery",
+          "year": 1997
+        },
+        {
+          "title": "Meet the Parents",
+          "year": 2000
+        },
+        {
+          "title": "Jojo Rabbit",
+          "year": 2019,
+          "note": "His last-great-thing pick: Waititi sneaks up on you, beautifully composed."
+        },
+        {
+          "title": "Darkest Hour",
+          "year": 2017,
+          "note": "Where Kazuhiro Tsuji transformed Gary Oldman into Churchill; the reference point for Lithgow's Ailes makeup."
+        },
+        {
+          "title": "The Silence of the Lambs",
+          "year": 1991,
+          "note": "Roach's comp for the layered menace of Lithgow's Roger Ailes."
+        },
+        {
+          "title": "Taxi Driver",
+          "year": 1976,
+          "note": "One of Petra Haden's a cappella score reproductions Sean admires."
+        },
+        {
+          "title": "Cool Hand Luke",
+          "year": 1967,
+          "note": "Another Haden a cappella piece."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "The Sound of Music"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The O'Reilly Factor",
+      "Mindhunter",
+      "Barry",
+      "The Crown",
+      "The Mandalorian"
+    ],
+    "Podcasts": [
+      "The Press Box"
+    ],
+    "Ads": [
+      "The Ringer Podcast Network promo"
+    ]
+  },
+  "tmdbOverrides": {
+    "Les Misérables": 586863
+  },
+  "tmdb": {
+    "Richard Jewell": {
+      "id": 292011,
+      "poster": "/5Lgkm8jt4roAFPZQ52fKMhVmDaZ.jpg",
+      "title": "Richard Jewell",
+      "year": 2019
+    },
+    "Bombshell": {
+      "id": 525661,
+      "poster": "/gbPfvwBqbiHpQkYZQvVwB6MVauV.jpg",
+      "title": "Bombshell",
+      "year": 2019
+    },
+    "Spotlight": {
+      "id": 314365,
+      "poster": "/8DPGG400FgaFWaqcv11n8mRd2NG.jpg",
+      "title": "Spotlight",
+      "year": 2015
+    },
+    "All the President's Men": {
+      "id": 891,
+      "poster": "/pCe6lfLxt1B58zPD4lgQrlnDS2j.jpg",
+      "title": "All the President's Men",
+      "year": 1976
+    },
+    "Shattered Glass": {
+      "id": 13537,
+      "poster": "/bIFJ49tk79hiFr9Z6bF6QapTg66.jpg",
+      "title": "Shattered Glass",
+      "year": 2003
+    },
+    "American Sniper": {
+      "id": 190859,
+      "poster": "/i1U46OwMc6vlm7OoSUKfqUH615e.jpg",
+      "title": "American Sniper",
+      "year": 2014
+    },
+    "The 15:17 to Paris": {
+      "id": 453201,
+      "poster": "/3NtkRNmvMrQIOtyWTaOKVNJyP1W.jpg",
+      "title": "The 15:17 to Paris",
+      "year": 2018
+    },
+    "Sully": {
+      "id": 363676,
+      "poster": "/4vs83YcJ8TsabADDtaeCJ6ZTjYY.jpg",
+      "title": "Sully",
+      "year": 2016
+    },
+    "The Mule": {
+      "id": 504172,
+      "poster": "/oeZh7yEz3PMnZLgBPhrafFHRbVz.jpg",
+      "title": "The Mule",
+      "year": 2018
+    },
+    "Vice": {
+      "id": 429197,
+      "poster": "/1gCab6rNv1r6V64cwsU4oEr649Y.jpg",
+      "title": "Vice",
+      "year": 2018
+    },
+    "Dick": {
+      "id": 16406,
+      "poster": "/aBG4XoK5xkujl4crloPs6bStl4m.jpg",
+      "title": "Dick",
+      "year": 1999
+    },
+    "The Big Short": {
+      "id": 318846,
+      "poster": "/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg",
+      "title": "The Big Short",
+      "year": 2015
+    },
+    "The Lion King": {
+      "id": 420818,
+      "poster": "/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg",
+      "title": "The Lion King",
+      "year": 2019
+    },
+    "Doctor Sleep": {
+      "id": 501170,
+      "poster": "/p69QzIBbN06aTYqRRiCOY1emNBh.jpg",
+      "title": "Doctor Sleep",
+      "year": 2019
+    },
+    "The Shining": {
+      "id": 694,
+      "poster": "/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg",
+      "title": "The Shining",
+      "year": 1980
+    },
+    "Motherless Brooklyn": {
+      "id": 504562,
+      "poster": "/2wm20cbkH1L8nA54Gtwfgz2hTqo.jpg",
+      "title": "Motherless Brooklyn",
+      "year": 2019
+    },
+    "Uncut Gems": {
+      "id": 473033,
+      "poster": "/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+      "title": "Uncut Gems",
+      "year": 2019
+    },
+    "A Hidden Life": {
+      "id": 403300,
+      "poster": "/taUkn5MsZIq5kpTABsF2563j5zp.jpg",
+      "title": "A Hidden Life",
+      "year": 2019
+    },
+    "The Tree of Life": {
+      "id": 8967,
+      "poster": "/l8cwuB5WJSoj4uMAsnzuHBOMaSJ.jpg",
+      "title": "The Tree of Life",
+      "year": 2011
+    },
+    "The Painted Bird": {
+      "id": 477428,
+      "poster": "/wfuh6vTYLGspvkYoBy8GCaJx9Ur.jpg",
+      "title": "The Painted Bird",
+      "year": 2019
+    },
+    "Truth and Justice": {
+      "id": 583841,
+      "poster": "/l8HlPxCzyGz5sNXSNi6GbSKOgC9.jpg",
+      "title": "Truth and Justice",
+      "year": 2019
+    },
+    "Les Misérables": {
+      "id": 586863,
+      "poster": "/2ZQV9rPFXF0iFfKbsAvVIweQ1yM.jpg",
+      "title": "Les Misérables",
+      "year": 2019
+    },
+    "Those Who Remained": {
+      "id": 597290,
+      "poster": "/t3YXnx6Qnbdc45KVYn1bDHFcwks.jpg",
+      "title": "Those Who Remained",
+      "year": 2019
+    },
+    "Honeyland": {
+      "id": 566213,
+      "poster": "/3IxGhQEzLWOxkZlcNMAIiYlOT8D.jpg",
+      "title": "Honeyland",
+      "year": 2019
+    },
+    "Corpus Christi": {
+      "id": 471707,
+      "poster": "/6VZlm8sEwxkE3L5nXxz17QLj1sF.jpg",
+      "title": "Corpus Christi",
+      "year": 2019
+    },
+    "Beanpole": {
+      "id": 517148,
+      "poster": "/nKVrJm1dOwALdr2KHxNFhkbTSZc.jpg",
+      "title": "Beanpole",
+      "year": 2019
+    },
+    "Atlantics": {
+      "id": 496967,
+      "poster": "/zRnZM6HqglFK31MYyrTSQVlj1dQ.jpg",
+      "title": "Atlantics",
+      "year": 2019
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Pain and Glory": {
+      "id": 519010,
+      "poster": "/cMlueArJXXwZbeLpb4NhC3pxmBk.jpg",
+      "title": "Pain and Glory",
+      "year": 2019
+    },
+    "Advocate": {
+      "id": 566060,
+      "poster": "/A0ibqxzs3ZsvWDo8sZrCSOpJpyp.jpg",
+      "title": "Advocate",
+      "year": 2019
+    },
+    "American Factory": {
+      "id": 565716,
+      "poster": "/7jH3dQOJ3CHMrp9tWsI3rRCDiaD.jpg",
+      "title": "American Factory",
+      "year": 2019
+    },
+    "The Apollo": {
+      "id": 585527,
+      "poster": "/8CsEuQsQUUYwEzzQYPj519LftSu.jpg",
+      "title": "The Apollo",
+      "year": 2019
+    },
+    "Apollo 11": {
+      "id": 549559,
+      "poster": "/woLMRroHyoTGoXyxdEeBJEYBFtu.jpg",
+      "title": "Apollo 11",
+      "year": 2019
+    },
+    "Aquarela": {
+      "id": 539016,
+      "poster": "/mn0lQODobXaiWkZB2qjRe9OZyql.jpg",
+      "title": "Aquarela",
+      "year": 2018
+    },
+    "The Biggest Little Farm": {
+      "id": 543084,
+      "poster": "/xpR9OdRibETfuWNrdxStAJDRU7A.jpg",
+      "title": "The Biggest Little Farm",
+      "year": 2019
+    },
+    "The Cave": {
+      "id": 621729,
+      "poster": "/2Zb8U2EXBv36DGG9jaEESNEeJv9.jpg",
+      "title": "The Cave",
+      "year": 2019
+    },
+    "The Edge of Democracy": {
+      "id": 566221,
+      "poster": "/mIbPkZelgguJMPOx9vvCb5oqMxI.jpg",
+      "title": "The Edge of Democracy",
+      "year": 2019
+    },
+    "For Sama": {
+      "id": 576017,
+      "poster": "/mDna51F8QfrJFZOgPGQUz3VKqsB.jpg",
+      "title": "For Sama",
+      "year": 2019
+    },
+    "The Great Hack": {
+      "id": 566222,
+      "poster": "/uIrGgUzasEUA7v8uChRhUUFzLwE.jpg",
+      "title": "The Great Hack",
+      "year": 2019
+    },
+    "Knock Down the House": {
+      "id": 565312,
+      "poster": "/uAfixuZIFVbWIsWytzROJDY85D7.jpg",
+      "title": "Knock Down the House",
+      "year": 2019
+    },
+    "Maiden": {
+      "id": 543093,
+      "poster": "/19rEZWy1c8vv9ZALuMr0DNXMvF6.jpg",
+      "title": "Maiden",
+      "year": 2019
+    },
+    "Midnight Family": {
+      "id": 566367,
+      "poster": "/qmTEtmJ1Ps17Y9uP428IGbiQayA.jpg",
+      "title": "Midnight Family",
+      "year": 2019
+    },
+    "One Child Nation": {
+      "id": 566368,
+      "poster": "/bV0aqhB7fsw5mWJROBnFro1Qhwn.jpg",
+      "title": "One Child Nation",
+      "year": 2019
+    },
+    "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese": {
+      "id": 574638,
+      "poster": "/ixxELBgYj9OH8hz0XCrcZOJpIx9.jpg",
+      "title": "Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese",
+      "year": 2019
+    },
+    "Pavarotti": {
+      "id": 561325,
+      "poster": "/bf0Iim4D6XXrAAJGwHXyrWFqUz8.jpg",
+      "title": "Pavarotti",
+      "year": 2019
+    },
+    "David Crosby: Remember My Name": {
+      "id": 565718,
+      "poster": "/ukX2FulY6ZYLnNYIclixLVOVZB1.jpg",
+      "title": "David Crosby: Remember My Name",
+      "year": 2019
+    },
+    "Linda Ronstadt: The Sound of My Voice": {
+      "id": 596980,
+      "poster": "/qesNFICo3d9oj044hXK5qHjmovI.jpg",
+      "title": "Linda Ronstadt: The Sound of My Voice",
+      "year": 2019
+    },
+    "Wild Rose": {
+      "id": 482981,
+      "poster": "/79THplH9WM7y3gRPYM4dcC0IRPw.jpg",
+      "title": "Wild Rose",
+      "year": 2019
+    },
+    "The Lego Movie 2: The Second Part": {
+      "id": 280217,
+      "poster": "/QTESAsBVZwjtGJNDP7utiGV37z.jpg",
+      "title": "The Lego Movie 2: The Second Part",
+      "year": 2019
+    },
+    "Cats": {
+      "id": 536869,
+      "poster": "/aCNch5FmzT2WaUcY44925owIZXY.jpg",
+      "title": "Cats",
+      "year": 2019
+    },
+    "Star Wars: The Rise of Skywalker": {
+      "id": 181812,
+      "poster": "/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+      "title": "Star Wars: The Rise of Skywalker",
+      "year": 2019
+    },
+    "Captain Marvel": {
+      "id": 299537,
+      "poster": "/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+      "title": "Captain Marvel",
+      "year": 2019
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Little Women": {
+      "id": 331482,
+      "poster": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+      "title": "Little Women",
+      "year": 2019
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Marriage Story": {
+      "id": 492188,
+      "poster": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+      "title": "Marriage Story",
+      "year": 2019
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "1917": {
+      "id": 530915,
+      "poster": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+      "title": "1917",
+      "year": 2019
+    },
+    "Joker": {
+      "id": 475557,
+      "poster": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "title": "Joker",
+      "year": 2019
+    },
+    "The Farewell": {
+      "id": 565310,
+      "poster": "/7ht2IMGynDSVQGvAXhAb83DLET8.jpg",
+      "title": "The Farewell",
+      "year": 2019
+    },
+    "Hustlers": {
+      "id": 540901,
+      "poster": "/zBhv8rsLOfpFW2M5b6wW78Uoojs.jpg",
+      "title": "Hustlers",
+      "year": 2019
+    },
+    "Lady Bird": {
+      "id": 391713,
+      "poster": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+      "title": "Lady Bird",
+      "year": 2017
+    },
+    "Seven Beauties": {
+      "id": 37550,
+      "poster": "/i0ZLApe4mIQWopELhEPxOQziDBh.jpg",
+      "title": "Seven Beauties",
+      "year": 1975
+    },
+    "The Piano": {
+      "id": 713,
+      "poster": "/rx8RKXn8OtuS6lqloYsjyrGOUp4.jpg",
+      "title": "The Piano",
+      "year": 1993
+    },
+    "Recount": {
+      "id": 14050,
+      "poster": "/7I3WMof3AJuLkildBxpGZkuvQwj.jpg",
+      "title": "Recount",
+      "year": 2008
+    },
+    "Game Change": {
+      "id": 91010,
+      "poster": "/wfRJbhF3zkp3eBpSHkLyzLIKqEM.jpg",
+      "title": "Game Change",
+      "year": 2012
+    },
+    "Trumbo": {
+      "id": 294016,
+      "poster": "/2RERIRnZkROSeHZAIf8PSxhzOqs.jpg",
+      "title": "Trumbo",
+      "year": 2015
+    },
+    "Austin Powers: International Man of Mystery": {
+      "id": 816,
+      "poster": "/5uD4dxNX8JKFjWKYMHyOsqhi5pN.jpg",
+      "title": "Austin Powers: International Man of Mystery",
+      "year": 1997
+    },
+    "Meet the Parents": {
+      "id": 1597,
+      "poster": "/5tXJ9ctuyEOMUFLaeqRisbXowWs.jpg",
+      "title": "Meet the Parents",
+      "year": 2000
+    },
+    "Jojo Rabbit": {
+      "id": 515001,
+      "poster": "/1mqL7VG4Ix8wmxwypmCA1HTHBky.jpg",
+      "title": "Jojo Rabbit",
+      "year": 2019
+    },
+    "Darkest Hour": {
+      "id": 399404,
+      "poster": "/xa6G3aKlysQeVg9wOb0dRcIGlWu.jpg",
+      "title": "Darkest Hour",
+      "year": 2017
+    },
+    "The Silence of the Lambs": {
+      "id": 274,
+      "poster": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+      "title": "The Silence of the Lambs",
+      "year": 1991
+    },
+    "Taxi Driver": {
+      "id": 103,
+      "poster": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "title": "Taxi Driver",
+      "year": 1976
+    },
+    "Cool Hand Luke": {
+      "id": 903,
+      "poster": "/4ykzTiHKLamh3eZJ8orVICtU2Jp.jpg",
+      "title": "Cool Hand Luke",
+      "year": 1967
+    },
+    "The Sound of Music": {
+      "id": 15121,
+      "poster": "/c6CrUZypAsBCaRWX0M3RVRDbhNS.jpg",
+      "title": "The Sound of Music",
+      "year": 1965
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "slug": "female-powered-comedy-with-rough-night-creators-lucia-aniell",
+  "title": "Female-Powered Comedy With ‘Rough Night’ Creators Lucia Aniello and Paul W. Downs | The Big Picture (Ep. 16)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2017-06-16",
+  "runtimeMin": 52,
+  "format": "Sean Fennessey talks to Ringer writer Lindsay Zoladz about profiling director Lucia Aniello, then sits down with Aniello and Paul W. Downs on writing Rough Night, the first R-rated studio comedy directed by a woman since 1998.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Profiling Lucia Aniello",
+      "note": "with Lindsay Zoladz",
+      "films": [
+        {
+          "title": "Rough Night",
+          "year": 2017,
+          "note": "Aniello's studio debut, and the peg for Zoladz's Ringer profile."
+        },
+        {
+          "title": "Half Baked",
+          "year": 1998,
+          "note": "Tamra Davis directed it, the last R-rated studio comedy by a woman before Rough Night and an influence Aniello names."
+        },
+        {
+          "title": "CB4",
+          "year": 1993,
+          "note": "Also Tamra Davis, who came up cutting music videos."
+        },
+        {
+          "title": "The Decline of Western Civilization",
+          "year": 1981,
+          "note": "Penelope Spheeris's punk-underground documentary; Aniello cites her as a role model."
+        },
+        {
+          "title": "Wayne's World",
+          "year": 1992,
+          "note": "Spheeris's jump from documentaries to a big studio comedy."
+        },
+        {
+          "title": "Pitch Perfect 2",
+          "year": 2015,
+          "note": "Elizabeth Banks-directed and lucrative, but pitched at a PG-13 audience, the line Aniello wanted to cross."
+        },
+        {
+          "title": "Sisters",
+          "year": 2015,
+          "note": "Fey and Poehler's feature; Zoladz reads it as a throwback to wanting the big studio vehicle."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "The Rough Night conversation",
+      "guest": "Lucia Aniello & Paul W. Downs on",
+      "films": [
+        {
+          "title": "Rough Night",
+          "year": 2017,
+          "note": "Bachelorette weekend, an accidentally dead stripper. Written on spec in the Obama era, released under Trump barely changed."
+        },
+        {
+          "title": "The Hangover",
+          "year": 2009,
+          "note": "One of the male-centric comparisons the pair keep getting; they'd rather people just watch the movie."
+        },
+        {
+          "title": "Bridesmaids",
+          "year": 2011,
+          "note": "Fennessey's example of the same outsized expectation that lands on any comedy by women."
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "TV / web series": [
+      "Broad City",
+      "Time Traveling Bong",
+      "Saturday Night Live"
+    ],
+    "Ads": [
+      "Dolby Voice"
+    ]
+  },
+  "tmdb": {
+    "Rough Night": {
+      "id": 397422,
+      "poster": "/i66xbL1C6FEWDm2KoX11DHmP4Rz.jpg",
+      "title": "Rough Night",
+      "year": 2017
+    },
+    "Half Baked": {
+      "id": 9490,
+      "poster": "/14TmEac4bquNaEld9t0uIliYoKE.jpg",
+      "title": "Half Baked",
+      "year": 1998
+    },
+    "CB4": {
+      "id": 15278,
+      "poster": "/7bP66TCKWPTsiER72xgyKUsjg82.jpg",
+      "title": "CB4",
+      "year": 1993
+    },
+    "The Decline of Western Civilization": {
+      "id": 21137,
+      "poster": "/36YfDJQKZfoCn5NLJ7mcrekE511.jpg",
+      "title": "The Decline of Western Civilization",
+      "year": 1981
+    },
+    "Wayne's World": {
+      "id": 8872,
+      "poster": "/fHwZnFNWR7PaS9t5EBwTvGPeoYQ.jpg",
+      "title": "Wayne's World",
+      "year": 1992
+    },
+    "Pitch Perfect 2": {
+      "id": 254470,
+      "poster": "/fQaEGzFmvTYu3G641WV0Tg9auAt.jpg",
+      "title": "Pitch Perfect 2",
+      "year": 2015
+    },
+    "Sisters": {
+      "id": 266294,
+      "poster": "/hpvHqAiusQtGNDx48dA3z5ejjon.jpg",
+      "title": "Sisters",
+      "year": 2015
+    },
+    "The Hangover": {
+      "id": 18785,
+      "poster": "/A0uS9rHR56FeBtpjVki16M5xxSW.jpg",
+      "title": "The Hangover",
+      "year": 2009
+    },
+    "Bridesmaids": {
+      "id": 55721,
+      "poster": "/gJtA7hYsBMQ7EM3sPBMUdBfU7a0.jpg",
+      "title": "Bridesmaids",
+      "year": 2011
+    }
+  }
+}

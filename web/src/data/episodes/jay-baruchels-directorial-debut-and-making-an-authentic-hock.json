@@ -1,0 +1,202 @@
+{
+  "slug": "jay-baruchels-directorial-debut-and-making-an-authentic-hock",
+  "title": "Jay Baruchel's Directorial Debut and Making an Authentic Hockey Movie",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Katie Baker"
+  ],
+  "published": "2017-09-01",
+  "runtimeMin": 35,
+  "format": "Katie Baker walks Sean Fennessey through the great hockey movies, then Jay Baruchel on directing Goon: Last of the Enforcers.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The great hockey movies",
+      "note": "with Katie Baker",
+      "films": [
+        {
+          "title": "Goon",
+          "year": 2011,
+          "note": "Sean William Scott as a bar bouncer who can't skate but can fight his way to a minor-league enforcer job. Baruchel co-wrote it."
+        },
+        {
+          "title": "Slap Shot",
+          "year": 1977,
+          "note": "Baker's consensus No. 1; she rewatched it and found it better than she remembered."
+        },
+        {
+          "title": "Miracle",
+          "year": 2004,
+          "note": "The 1980 Miracle on Ice team; a locker-room speech Baker rates against Al Pacino's."
+        },
+        {
+          "title": "Sudden Death",
+          "year": 1995,
+          "note": "Van Damme at a Penguins game, including a fight with the mascot in the arena kitchen. Baker's 5b."
+        },
+        {
+          "title": "Youngblood",
+          "year": 1986,
+          "note": "A snapshot of a certain era; the Bill Simmons generation of hockey movie."
+        },
+        {
+          "title": "The Mighty Ducks",
+          "year": 1992,
+          "note": "Not the best but arguably the most important hockey movie, since it launched an actual NHL franchise."
+        },
+        {
+          "title": "D2: The Mighty Ducks",
+          "year": 1994,
+          "note": "Where the Goldberg-vs-Julie 'the Cat' Gaffney tension pays off."
+        },
+        {
+          "title": "Little Giants",
+          "year": 1994,
+          "note": "Cited alongside the '90s kids-sports run for Becky 'the Icebox'."
+        },
+        {
+          "title": "The Sandlot",
+          "year": 1993,
+          "note": "Grouped with Little Giants as the era's good kids-sports movies."
+        },
+        {
+          "title": "Any Given Sunday",
+          "year": 1999,
+          "note": "The Pacino speech Miracle gets measured against."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Jay Baruchel on his directorial debut",
+      "guest": "Jay Baruchel on",
+      "films": [
+        {
+          "title": "Goon: Last of the Enforcers",
+          "year": 2017,
+          "note": "Baruchel's first feature as director. Where the original was about falling in love, the sequel is about an aging enforcer married to a job that's a finite, damaging thing."
+        },
+        {
+          "title": "Goon",
+          "year": 2011,
+          "note": "Baruchel co-wrote it with Evan Goldberg; he made Doug Jewish to route the story through his own father's hockey-fighting past."
+        },
+        {
+          "title": "Random Acts of Violence",
+          "year": 2019,
+          "note": "The horror adaptation of his and Jesse Chabot's graphic novel, which he was hoping to direct next."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "How to Train Your Dragon",
+        "Ben-Hur"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Trailer Park Boys",
+      "The Borgias"
+    ],
+    "Ads": [
+      "mother!",
+      "Proper Cloth"
+    ]
+  },
+  "tmdbOverrides": {
+    "How to Train Your Dragon": 166428
+  },
+  "tmdb": {
+    "Goon": {
+      "id": 74387,
+      "poster": "/xLmZCfJici1SdT6zmhDtGVWsXXi.jpg",
+      "title": "Goon",
+      "year": 2012
+    },
+    "Slap Shot": {
+      "id": 11590,
+      "poster": "/k5dvEA7ajd90mf3KrF6m6LnYXOv.jpg",
+      "title": "Slap Shot",
+      "year": 1977
+    },
+    "Miracle": {
+      "id": 14292,
+      "poster": "/mxtej2th8t8x0ufVBTyhsO6Htxj.jpg",
+      "title": "Miracle",
+      "year": 2004
+    },
+    "Sudden Death": {
+      "id": 9091,
+      "poster": "/1pylO6YX5XdOA6QCc5IRxrrffkg.jpg",
+      "title": "Sudden Death",
+      "year": 1995
+    },
+    "Youngblood": {
+      "id": 17465,
+      "poster": "/SLQRH3AlTJHXk6ZuW0yMAelMlj.jpg",
+      "title": "Youngblood",
+      "year": 1986
+    },
+    "The Mighty Ducks": {
+      "id": 10414,
+      "poster": "/zxaCHxKDFNi6frh1Q0dj19L216o.jpg",
+      "title": "The Mighty Ducks",
+      "year": 1992
+    },
+    "D2: The Mighty Ducks": {
+      "id": 11164,
+      "poster": "/veGW1N6QUglP4osDdOUI6CZCcBI.jpg",
+      "title": "D2: The Mighty Ducks",
+      "year": 1994
+    },
+    "Little Giants": {
+      "id": 20726,
+      "poster": "/AkfXNOeKgJSOD08StGd0599auiZ.jpg",
+      "title": "Little Giants",
+      "year": 1994
+    },
+    "The Sandlot": {
+      "id": 11528,
+      "poster": "/7PYqz0viEuW8qTvuGinUMjDWMnj.jpg",
+      "title": "The Sandlot",
+      "year": 1993
+    },
+    "Any Given Sunday": {
+      "id": 9563,
+      "poster": "/bysZeUvSPZPJnku4qkHF34CdgMG.jpg",
+      "title": "Any Given Sunday",
+      "year": 1999
+    },
+    "Goon: Last of the Enforcers": {
+      "id": 336890,
+      "poster": "/mVpqXYZ3X1YYnVQ7aj8jEm88vHS.jpg",
+      "title": "Goon: Last of the Enforcers",
+      "year": 2017
+    },
+    "Random Acts of Violence": {
+      "id": 582049,
+      "poster": "/4eMWV14tUE10mnveNWhdwIsD4lg.jpg",
+      "title": "Random Acts of Violence",
+      "year": 2019
+    },
+    "How to Train Your Dragon": {
+      "id": 166428,
+      "poster": "/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg",
+      "title": "How to Train Your Dragon: The Hidden World",
+      "year": 2019
+    },
+    "Ben-Hur": {
+      "id": 665,
+      "poster": "/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+      "title": "Ben-Hur",
+      "year": 1959
+    }
+  }
+}

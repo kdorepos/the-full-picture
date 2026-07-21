@@ -1,0 +1,351 @@
+{
+  "slug": "tenet-and-the-oscars-are-delayed-whats-next",
+  "title": "‘Tenet’ and the Oscars Are Delayed. What’s Next?",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2020-06-15",
+  "runtimeMin": 65,
+  "format": "Tenet moves two weeks, the Oscars move two months, and Sean and Amanda try to figure out what a 2020 movie even is anymore.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Tenet's Two-Week Delay and the Domino Effect on Summer Movies",
+      "note": "moved from July 17 to July 31",
+      "films": [
+        {
+          "title": "Tenet",
+          "year": 2020,
+          "note": "Pushed two weeks, which Sean thinks is nowhere near enough runway for theaters to actually reopen safely."
+        },
+        {
+          "title": "Inception",
+          "year": 2010,
+          "note": "Warner Bros. is re-releasing it July 17, the date Tenet vacated, as a 10-year-anniversary placeholder."
+        },
+        {
+          "title": "Mulan",
+          "year": 2020,
+          "note": "Now technically the first wide theatrical release, July 24, though neither host expects that date to hold."
+        },
+        {
+          "title": "Wonder Woman 1984",
+          "year": 2020,
+          "note": "Moved from August to October."
+        },
+        {
+          "title": "No Time to Die",
+          "year": 2020,
+          "note": "The first major 2020 tentpole to move, now nudged five more days."
+        },
+        {
+          "title": "Fast & Furious 9",
+          "year": 2020,
+          "note": "Universal moved it to April 2021, one of the earliest dominoes to fall."
+        },
+        {
+          "title": "Unhinged",
+          "year": 2020,
+          "note": "Russell Crowe road-rage thriller, one of two \"sacrificial lamb\" films opening July 10 to test whether audiences will show up."
+        },
+        {
+          "title": "The Broken Hearts Gallery",
+          "year": 2020,
+          "note": "The other July 10 test case; neither host could even find a trailer for it."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "This Weekend's At-Home Triple Feature",
+      "note": "Netflix, VOD, and Disney+, three different paths around theaters",
+      "films": [
+        {
+          "title": "Da 5 Bloods",
+          "year": 2020,
+          "note": "Spike Lee's Netflix film; Amanda suspects it would've gotten a theatrical run and a real awards campaign in a normal year."
+        },
+        {
+          "title": "The King of Staten Island",
+          "year": 2020,
+          "note": "Judd Apatow's Pete Davidson vehicle, $20 on VOD; Sean floats a real (if long-shot) awards case for Bill Burr and Marisa Tomei."
+        },
+        {
+          "title": "Artemis Fowl",
+          "year": 2020,
+          "note": "Kenneth Branagh's Disney+ adaptation; Sean says it's worse than the reviews suggested and blames Josh Gad and a neutered, de-fanged lead."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Should Sean Go to Telluride? And What Cannes Did Instead",
+      "note": "festivals try to figure out what they are without a room to gather in",
+      "films": [
+        {
+          "title": "The French Dispatch",
+          "year": 2021,
+          "note": "One of the films that made Cannes's 2020 label list even though the festival itself didn't happen."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Oscars Overhaul: A Diversity Task Force, 10 Best Picture Slots, and a New April Date",
+      "note": "eligibility window now runs through February 28, 2021",
+      "films": [
+        {
+          "title": "Knives Out",
+          "year": 2019,
+          "note": "Widely seen as the film that would've taken a 10th Best Picture slot last year, had one existed."
+        },
+        {
+          "title": "Parasite",
+          "year": 2019,
+          "note": "Sean's example of the Academy finally getting international cinema right, after decades of not."
+        },
+        {
+          "title": "Black Panther",
+          "year": 2018,
+          "note": "Comparison point for whether a superhero movie could ever compete again."
+        },
+        {
+          "title": "Black Widow",
+          "year": 2020,
+          "note": "Amanda's still looking forward to it, whenever it arrives; floated as a hypothetical beneficiary of the expanded field."
+        },
+        {
+          "title": "Never Rarely Sometimes Always",
+          "year": 2020,
+          "note": "One of several early-2020 films Sean argues are worthy despite getting buried by the calendar reshuffle."
+        },
+        {
+          "title": "The Assistant",
+          "year": 2020
+        },
+        {
+          "title": "First Cow",
+          "year": 2019
+        },
+        {
+          "title": "Natalie Wood: What Remains Behind",
+          "year": 2020,
+          "note": "Amanda jokes about it being a redundantly titled documentary."
+        },
+        {
+          "title": "Crip Camp",
+          "year": 2020,
+          "note": "Sundance doc already tabbed for Oscar attention, now with a much longer runway to stay in voters' minds."
+        },
+        {
+          "title": "On the Record",
+          "year": 2020,
+          "note": "HBO Max documentary Sean wonders will be forgotten by the time the pushed-back season actually votes."
+        },
+        {
+          "title": "Miss Americana",
+          "year": 2020,
+          "note": "The Taylor Swift documentary; premiered at Sundance, hit Netflix a couple weeks later."
+        },
+        {
+          "title": "Bad Boys for Life",
+          "year": 2020,
+          "note": "Amanda's joke about \"Bad Boys 3\" losing Oscar eligibility became the running bit about how absurd the extended calendar is."
+        },
+        {
+          "title": "Zack Snyder's Justice League",
+          "year": 2021,
+          "note": "Sean asks, half-seriously, if the Snyder Cut could be a Best Picture nominee. Amanda: no."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Dunkirk",
+        "Ender's Game",
+        "Moonlight",
+        "Green Book"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Last Dance"
+    ]
+  },
+  "tmdbOverrides": {
+    "Crip Camp": 653725,
+    "Fast & Furious 9": 385128,
+    "The French Dispatch": 542178
+  },
+  "tmdb": {
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "Inception": {
+      "id": 27205,
+      "poster": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+      "title": "Inception",
+      "year": 2010
+    },
+    "Mulan": {
+      "id": 337401,
+      "poster": "/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg",
+      "title": "Mulan",
+      "year": 2020
+    },
+    "Wonder Woman 1984": {
+      "id": 464052,
+      "poster": "/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
+      "title": "Wonder Woman 1984",
+      "year": 2020
+    },
+    "No Time to Die": {
+      "id": 370172,
+      "poster": "/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+      "title": "No Time to Die",
+      "year": 2021
+    },
+    "Fast & Furious 9": {
+      "id": 385128,
+      "poster": "/deEmLILTPejEb6OGsXRJ5MCvyDW.jpg",
+      "title": "F9",
+      "year": 2021
+    },
+    "Unhinged": {
+      "id": 625568,
+      "poster": "/xfIcONZO4AiWpzm3jEpbR4llzVX.jpg",
+      "title": "Unhinged",
+      "year": 2020
+    },
+    "The Broken Hearts Gallery": {
+      "id": 616251,
+      "poster": "/wGkr4r1e8nubmSNKJpv3HL6sFrA.jpg",
+      "title": "The Broken Hearts Gallery",
+      "year": 2020
+    },
+    "Da 5 Bloods": {
+      "id": 581859,
+      "poster": "/yx4cp1ljJMDSFeEex0Zjv45b55E.jpg",
+      "title": "Da 5 Bloods",
+      "year": 2020
+    },
+    "The King of Staten Island": {
+      "id": 579583,
+      "poster": "/zQFjMmE3K9AX5QrBL1SXIxYQ9jz.jpg",
+      "title": "The King of Staten Island",
+      "year": 2020
+    },
+    "Artemis Fowl": {
+      "id": 475430,
+      "poster": "/tI8ocADh22GtQFV28vGHaBZVb0U.jpg",
+      "title": "Artemis Fowl",
+      "year": 2020
+    },
+    "The French Dispatch": {
+      "id": 542178,
+      "poster": "/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg",
+      "title": "The French Dispatch of the Liberty, Kansas Evening Sun",
+      "year": 2021
+    },
+    "Knives Out": {
+      "id": 546554,
+      "poster": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+      "title": "Knives Out",
+      "year": 2019
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "Black Widow": {
+      "id": 497698,
+      "poster": "/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
+      "title": "Black Widow",
+      "year": 2021
+    },
+    "Never Rarely Sometimes Always": {
+      "id": 595671,
+      "poster": "/7yiSyQhhjTFphhfCUcn05tCQxyG.jpg",
+      "title": "Never Rarely Sometimes Always",
+      "year": 2020
+    },
+    "The Assistant": {
+      "id": 627463,
+      "poster": "/zJpJkVgezsR7dp6KQwyxtGIAOZv.jpg",
+      "title": "The Assistant",
+      "year": 2020
+    },
+    "First Cow": {
+      "id": 558582,
+      "poster": "/yS41crZ1i0fFxCQbuL7I1Y1VBwm.jpg",
+      "title": "First Cow",
+      "year": 2020
+    },
+    "Natalie Wood: What Remains Behind": {
+      "id": 571123,
+      "poster": "/wLpsJrV0lgXMICPjlpQVHngP7Pg.jpg",
+      "title": "Natalie Wood: What Remains Behind",
+      "year": 2020
+    },
+    "Crip Camp": {
+      "id": 653725,
+      "poster": "/iALSypN3MhC6kBVwc9VpuJUlm1j.jpg",
+      "title": "Crip Camp: A Disability Revolution",
+      "year": 2020
+    },
+    "On the Record": {
+      "id": 653612,
+      "poster": "/9x6cjkO8cV0rocVYmaWpbcKB49o.jpg",
+      "title": "On the Record",
+      "year": 2020
+    },
+    "Miss Americana": {
+      "id": 653567,
+      "poster": "/z1HiEB1UEfdA5fPkngekjQ2vlCC.jpg",
+      "title": "Miss Americana",
+      "year": 2020
+    },
+    "Bad Boys for Life": {
+      "id": 38700,
+      "poster": "/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
+      "title": "Bad Boys for Life",
+      "year": 2020
+    },
+    "Zack Snyder's Justice League": {
+      "id": 791373,
+      "poster": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+      "title": "Zack Snyder's Justice League",
+      "year": 2021
+    },
+    "Dunkirk": {
+      "id": 374720,
+      "poster": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "title": "Dunkirk",
+      "year": 2017
+    },
+    "Ender's Game": {
+      "id": 80274,
+      "poster": "/pVcRI5YKnkkgaAD876jBeKb189d.jpg",
+      "title": "Ender's Game",
+      "year": 2013
+    }
+  }
+}

@@ -1,0 +1,612 @@
+{
+  "slug": "movie-swap-fargo-vs-the-english-patient",
+  "title": "Movie Swap: ‘Fargo’ vs. ‘The English Patient’",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2022-04-07",
+  "runtimeMin": 72,
+  "format": "A movie swap: Sean watches Amanda's pick, The English Patient, for the first time; Amanda revisits Sean's, Fargo. Both won big at the 1997 Oscars.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The English Patient",
+      "note": "Amanda's pick — Sean's first watch",
+      "films": [
+        {
+          "title": "The English Patient",
+          "year": 1996,
+          "note": "Anthony Minghella's Best Picture winner, adapted from Michael Ondaatje's Booker Prize novel. A memory movie built around a burned Hungarian count (Ralph Fiennes) and the nurse (Juliette Binoche, Best Supporting Actress) caring for him. Shot by John Seale, produced by Saul Zaentz, edited by Walter Murch. Won nine Oscars; Sean grants the craft awards but questions its place in the canon, and both note the Miramax/Weinstein shadow over it."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Fargo",
+      "note": "Sean's pick — Amanda's rewatch",
+      "films": [
+        {
+          "title": "Fargo",
+          "year": 1996,
+          "note": "The Coen brothers' sixth film and their mainstream breakout: a fake-true-crime kidnapping that spirals into a wood chipper. William H. Macy as the desperate car salesman, Steve Buscemi and Peter Stormare as the hitmen, Frances McDormand's Best Actress win as pregnant chief Marge (on screen barely 45 minutes). Roger Deakins shoots the snow; Amanda relitigates the Mike Yanagita scene and whether the Coens hold their characters in contempt."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Did the Oscars get it right?",
+      "note": "the 1996 field and the swap verdict",
+      "films": [
+        {
+          "title": "Jerry Maguire",
+          "year": 1996,
+          "note": "Sean's curveball for the year's real best picture: the most 1996 movie he's ever seen, and one nobody at The Ringer under 30 has watched."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The rest of the 1996 field",
+      "films": [
+        "Shine",
+        "Sling Blade",
+        "The People vs. Larry Flynt",
+        "Breaking the Waves",
+        "Secrets & Lies"
+      ]
+    },
+    {
+      "group": "Oscar showdowns and epics",
+      "films": [
+        "Shakespeare in Love",
+        "Saving Private Ryan",
+        "American Beauty",
+        "A Beautiful Mind",
+        "Titanic",
+        "Gladiator",
+        "West Side Story",
+        "Ben-Hur",
+        "Gone with the Wind"
+      ]
+    },
+    {
+      "group": "Literary adaptations",
+      "films": [
+        "The Remains of the Day",
+        "The Talented Mr. Ripley",
+        "Cold Mountain",
+        "The Goldfinch"
+      ]
+    },
+    {
+      "group": "Minghella, Zaentz and Murch",
+      "films": [
+        "Amadeus",
+        "One Flew Over the Cuckoo's Nest",
+        "The Conversation",
+        "Apocalypse Now"
+      ]
+    },
+    {
+      "group": "Where the cast went",
+      "films": [
+        "Schindler's List",
+        "Bitter Moon",
+        "Four Weddings and a Funeral",
+        "Mission: Impossible",
+        "Richard III",
+        "The Horse Whisperer",
+        "Random Hearts",
+        "Gosford Park",
+        "Rebecca",
+        "Darkest Hour",
+        "The Grand Budapest Hotel",
+        "A Bigger Splash",
+        "No Time to Die",
+        "Holmes & Watson",
+        "Maid in Manhattan",
+        "The Constant Gardener",
+        "The Avengers",
+        "Clash of the Titans",
+        "The Lighthouse",
+        "Only God Forgives",
+        "Ghost in the Shell",
+        "Godzilla",
+        "Certified Copy",
+        "Non-Fiction",
+        "High Life",
+        "Bridget Jones's Diary"
+      ]
+    },
+    {
+      "group": "The Coen filmography",
+      "films": [
+        "Blood Simple",
+        "Raising Arizona",
+        "Miller's Crossing",
+        "Barton Fink",
+        "The Hudsucker Proxy",
+        "The Big Lebowski",
+        "The Tragedy of Macbeth"
+      ]
+    },
+    {
+      "group": "Deakins's run",
+      "films": [
+        "The Shawshank Redemption",
+        "Dead Man Walking",
+        "Courage Under Fire",
+        "Kundun",
+        "The Siege"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Zodiac",
+        "Reservoir Dogs",
+        "Pulp Fiction",
+        "The Silence of the Lambs",
+        "Parasite",
+        "Casablanca",
+        "Rango"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "The Avengers": 9320,
+    "Rebecca": 505379,
+    "Ghost in the Shell": 315837,
+    "Richard III": 31174,
+    "West Side Story": 1725
+  },
+  "excluded": {
+    "TV": [
+      "Fargo (FX series)",
+      "Lost",
+      "Instinct",
+      "Sense8",
+      "The Dropout",
+      "The No. 1 Ladies' Detective Agency",
+      "Fleabag",
+      "Seinfeld",
+      "Pride and Prejudice (BBC)"
+    ],
+    "Podcasts": [
+      "Recipe Club",
+      "The Rewatchables"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "Netflix FIFA World Cup Launch Edition",
+      "White Claw",
+      "American Express Graphite Business Cash Card"
+    ]
+  },
+  "tmdb": {
+    "The English Patient": {
+      "id": 409,
+      "poster": "/8eHHqMg8qEYtVw8LQLygsHXSR2q.jpg",
+      "title": "The English Patient",
+      "year": 1996
+    },
+    "Fargo": {
+      "id": 275,
+      "poster": "/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+      "title": "Fargo",
+      "year": 1996
+    },
+    "Jerry Maguire": {
+      "id": 9390,
+      "poster": "/lABvGN7fDk5ifnwZoxij6G96t2w.jpg",
+      "title": "Jerry Maguire",
+      "year": 1996
+    },
+    "Shine": {
+      "id": 7863,
+      "poster": "/cbmThowj2XAW7lKlMAXmnhZvjGI.jpg",
+      "title": "Shine",
+      "year": 1996
+    },
+    "Sling Blade": {
+      "id": 12498,
+      "poster": "/rioWUWXPFNSjwm9NO2aau9x0wlP.jpg",
+      "title": "Sling Blade",
+      "year": 1996
+    },
+    "The People vs. Larry Flynt": {
+      "id": 1630,
+      "poster": "/sAgHn7ys6TiVXBDTZ0UBEjinIUk.jpg",
+      "title": "The People vs. Larry Flynt",
+      "year": 1996
+    },
+    "Breaking the Waves": {
+      "id": 145,
+      "poster": "/dQWMcdHXUOSHtr7ypOCa5T79JMS.jpg",
+      "title": "Breaking the Waves",
+      "year": 1996
+    },
+    "Secrets & Lies": {
+      "id": 11159,
+      "poster": "/zQBuRQ3hrLhkEsXcxteUxuxLrvs.jpg",
+      "title": "Secrets & Lies",
+      "year": 1996
+    },
+    "Shakespeare in Love": {
+      "id": 1934,
+      "poster": "/zdW7jdzPi4J9KZR3TyY2jn3Xh5e.jpg",
+      "title": "Shakespeare in Love",
+      "year": 1998
+    },
+    "Saving Private Ryan": {
+      "id": 857,
+      "poster": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+      "title": "Saving Private Ryan",
+      "year": 1998
+    },
+    "American Beauty": {
+      "id": 14,
+      "poster": "/wby9315QzVKdW9BonAefg8jGTTb.jpg",
+      "title": "American Beauty",
+      "year": 1999
+    },
+    "A Beautiful Mind": {
+      "id": 453,
+      "poster": "/rEIg5yJdNOt9fmX4P8gU9LeNoTQ.jpg",
+      "title": "A Beautiful Mind",
+      "year": 2001
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "Gladiator": {
+      "id": 98,
+      "poster": "/wN2xWp1eIwCKOD0BHTcErTBv1Uq.jpg",
+      "title": "Gladiator",
+      "year": 2000
+    },
+    "West Side Story": {
+      "id": 1725,
+      "poster": "/nzCMu6D5q60i2bVrIQ0DxlRSgCZ.jpg",
+      "title": "West Side Story",
+      "year": 1961
+    },
+    "Ben-Hur": {
+      "id": 665,
+      "poster": "/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+      "title": "Ben-Hur",
+      "year": 1959
+    },
+    "Gone with the Wind": {
+      "id": 770,
+      "poster": "/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg",
+      "title": "Gone with the Wind",
+      "year": 1939
+    },
+    "The Remains of the Day": {
+      "id": 1245,
+      "poster": "/uDGDtqSvuch324WnM7Ukdp1bCAQ.jpg",
+      "title": "The Remains of the Day",
+      "year": 1993
+    },
+    "The Talented Mr. Ripley": {
+      "id": 1213,
+      "poster": "/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg",
+      "title": "The Talented Mr. Ripley",
+      "year": 1999
+    },
+    "Cold Mountain": {
+      "id": 2289,
+      "poster": "/j0AJeeR5CQPDFh0otyWyCWREHO8.jpg",
+      "title": "Cold Mountain",
+      "year": 2003
+    },
+    "The Goldfinch": {
+      "id": 472674,
+      "poster": "/5Jx9VyVPiK9GQ7ouKLkTUYnZSQ4.jpg",
+      "title": "The Goldfinch",
+      "year": 2019
+    },
+    "Amadeus": {
+      "id": 279,
+      "poster": "/gQRfiyfGvr1az0quaYyMram3Aqt.jpg",
+      "title": "Amadeus",
+      "year": 1984
+    },
+    "One Flew Over the Cuckoo's Nest": {
+      "id": 510,
+      "poster": "/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg",
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": 1975
+    },
+    "The Conversation": {
+      "id": 592,
+      "poster": "/dHqVBwcv1SGymOpUueRoKzcmdes.jpg",
+      "title": "The Conversation",
+      "year": 1974
+    },
+    "Apocalypse Now": {
+      "id": 28,
+      "poster": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "title": "Apocalypse Now",
+      "year": 1979
+    },
+    "Schindler's List": {
+      "id": 424,
+      "poster": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+      "title": "Schindler's List",
+      "year": 1993
+    },
+    "Bitter Moon": {
+      "id": 10497,
+      "poster": "/bW7E4cLWh0elRRbp2VCrtXrY1if.jpg",
+      "title": "Bitter Moon",
+      "year": 1992
+    },
+    "Four Weddings and a Funeral": {
+      "id": 712,
+      "poster": "/qa72G2VS0bpxms6yo0tI9vsHm2e.jpg",
+      "title": "Four Weddings and a Funeral",
+      "year": 1994
+    },
+    "Mission: Impossible": {
+      "id": 954,
+      "poster": "/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
+      "title": "Mission: Impossible",
+      "year": 1996
+    },
+    "Richard III": {
+      "id": 31174,
+      "poster": "/cBg1AMH1ucPsDlNMfcHlrreQXQX.jpg",
+      "title": "Richard III",
+      "year": 1995
+    },
+    "The Horse Whisperer": {
+      "id": 547,
+      "poster": "/ptkDeHY2mRJVyNRyxb9TgyAjTYs.jpg",
+      "title": "The Horse Whisperer",
+      "year": 1998
+    },
+    "Random Hearts": {
+      "id": 12618,
+      "poster": "/k7LoKDWDesvYD7DXDh9Ewlxtcx8.jpg",
+      "title": "Random Hearts",
+      "year": 1999
+    },
+    "Gosford Park": {
+      "id": 5279,
+      "poster": "/7r8DeZuaaHCiOEbkqZC6MFmwJ69.jpg",
+      "title": "Gosford Park",
+      "year": 2001
+    },
+    "Rebecca": {
+      "id": 505379,
+      "poster": "/kGhllBArW7ImDycSMIG5bj6GEPL.jpg",
+      "title": "Rebecca",
+      "year": 2020
+    },
+    "Darkest Hour": {
+      "id": 399404,
+      "poster": "/xa6G3aKlysQeVg9wOb0dRcIGlWu.jpg",
+      "title": "Darkest Hour",
+      "year": 2017
+    },
+    "The Grand Budapest Hotel": {
+      "id": 120467,
+      "poster": "/zOVCqKUzjFKqa1eDMcOzvXwthY4.jpg",
+      "title": "The Grand Budapest Hotel",
+      "year": 2014
+    },
+    "A Bigger Splash": {
+      "id": 324807,
+      "poster": "/b9ca2L41R43Lg1hpSzJHwtDTvYU.jpg",
+      "title": "A Bigger Splash",
+      "year": 2015
+    },
+    "No Time to Die": {
+      "id": 370172,
+      "poster": "/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+      "title": "No Time to Die",
+      "year": 2021
+    },
+    "Holmes & Watson": {
+      "id": 426563,
+      "poster": "/orEUlKndjV1rEcWqXbbjegjfv97.jpg",
+      "title": "Holmes & Watson",
+      "year": 2018
+    },
+    "Maid in Manhattan": {
+      "id": 7303,
+      "poster": "/gnEuTYH3jhHxl80QyoPfZjEYd0J.jpg",
+      "title": "Maid in Manhattan",
+      "year": 2002
+    },
+    "The Constant Gardener": {
+      "id": 1985,
+      "poster": "/nkXq7V7mmJVbvwZGr3nxkHo7HkS.jpg",
+      "title": "The Constant Gardener",
+      "year": 2005
+    },
+    "The Avengers": {
+      "id": 9320,
+      "poster": "/1p5thyQ4pCy876HpdvFARqJ62N9.jpg",
+      "title": "The Avengers",
+      "year": 1998
+    },
+    "Clash of the Titans": {
+      "id": 18823,
+      "poster": "/6iHYLipwEyZUPNO8MM3l1yHDaFE.jpg",
+      "title": "Clash of the Titans",
+      "year": 2010
+    },
+    "The Lighthouse": {
+      "id": 503919,
+      "poster": "/yAKNmpcUweGH6WMCEWenwU9PsbE.jpg",
+      "title": "The Lighthouse",
+      "year": 2019
+    },
+    "Only God Forgives": {
+      "id": 77987,
+      "poster": "/kWjjFSng1JttmDRwDROoGcIArEh.jpg",
+      "title": "Only God Forgives",
+      "year": 2013
+    },
+    "Ghost in the Shell": {
+      "id": 315837,
+      "poster": "/zCtL3UBgCoZzd7XTVGhvl6XY75E.jpg",
+      "title": "Ghost in the Shell",
+      "year": 2017
+    },
+    "Godzilla": {
+      "id": 124905,
+      "poster": "/z0CpCYiaUikJrcftPnb0jYCYmoo.jpg",
+      "title": "Godzilla",
+      "year": 2014
+    },
+    "Certified Copy": {
+      "id": 48303,
+      "poster": "/soBvtCR33Gv1j6gXwXOIc3JTlNc.jpg",
+      "title": "Certified Copy",
+      "year": 2010
+    },
+    "Non-Fiction": {
+      "id": 471856,
+      "poster": "/mlic9fFnAsJcS5xIFyVhMtYCVU5.jpg",
+      "title": "Non-Fiction",
+      "year": 2018
+    },
+    "High Life": {
+      "id": 376865,
+      "poster": "/wElOvH7H6sLElsTOLu1MY6oWRUx.jpg",
+      "title": "High Life",
+      "year": 2018
+    },
+    "Bridget Jones's Diary": {
+      "id": 634,
+      "poster": "/olMTi7uCaec9Yr3Ar07D2SIja1G.jpg",
+      "title": "Bridget Jones's Diary",
+      "year": 2001
+    },
+    "Blood Simple": {
+      "id": 11368,
+      "poster": "/1DuCXzYWMAE9oGpxIrFWMn1NS0W.jpg",
+      "title": "Blood Simple",
+      "year": 1985
+    },
+    "Raising Arizona": {
+      "id": 378,
+      "poster": "/niKyjOqiB4XVl0BqgKTHIlHOCeF.jpg",
+      "title": "Raising Arizona",
+      "year": 1987
+    },
+    "Miller's Crossing": {
+      "id": 379,
+      "poster": "/i83gYdglRCjCRLSsmCk5nRWRmDM.jpg",
+      "title": "Miller's Crossing",
+      "year": 1990
+    },
+    "Barton Fink": {
+      "id": 290,
+      "poster": "/oDkp5iClJ9WKJGtKHz8BydodHC3.jpg",
+      "title": "Barton Fink",
+      "year": 1991
+    },
+    "The Hudsucker Proxy": {
+      "id": 11934,
+      "poster": "/xBQBr6Q1OTivouBK66oFgy86n03.jpg",
+      "title": "The Hudsucker Proxy",
+      "year": 1994
+    },
+    "The Big Lebowski": {
+      "id": 115,
+      "poster": "/3bv6WAp6BSxxYvB5ozKFUYuRA8C.jpg",
+      "title": "The Big Lebowski",
+      "year": 1998
+    },
+    "The Tragedy of Macbeth": {
+      "id": 591538,
+      "poster": "/tDNJEhcLbX3jIk3BMCur9pCdaVD.jpg",
+      "title": "The Tragedy of Macbeth",
+      "year": 2021
+    },
+    "The Shawshank Redemption": {
+      "id": 278,
+      "poster": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+      "title": "The Shawshank Redemption",
+      "year": 1994
+    },
+    "Dead Man Walking": {
+      "id": 687,
+      "poster": "/eShxyjhWoFl3BwsuEmVsr4nLaMZ.jpg",
+      "title": "Dead Man Walking",
+      "year": 1995
+    },
+    "Courage Under Fire": {
+      "id": 10684,
+      "poster": "/vDJurMJkrx049AiXa3DJx5Zx7a4.jpg",
+      "title": "Courage Under Fire",
+      "year": 1996
+    },
+    "Kundun": {
+      "id": 9746,
+      "poster": "/yvdFRDoQIQ5PBk4u8x8gJT8NJAw.jpg",
+      "title": "Kundun",
+      "year": 1997
+    },
+    "The Siege": {
+      "id": 9882,
+      "poster": "/gbeeWu8rYaIYMyq9ayN1AepjNxP.jpg",
+      "title": "The Siege",
+      "year": 1998
+    },
+    "Zodiac": {
+      "id": 1949,
+      "poster": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+      "title": "Zodiac",
+      "year": 2007
+    },
+    "Reservoir Dogs": {
+      "id": 500,
+      "poster": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+      "title": "Reservoir Dogs",
+      "year": 1992
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "The Silence of the Lambs": {
+      "id": 274,
+      "poster": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+      "title": "The Silence of the Lambs",
+      "year": 1991
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Casablanca": {
+      "id": 289,
+      "poster": "/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+      "title": "Casablanca",
+      "year": 1943
+    },
+    "Rango": {
+      "id": 44896,
+      "poster": "/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
+      "title": "Rango",
+      "year": 2011
+    }
+  }
+}

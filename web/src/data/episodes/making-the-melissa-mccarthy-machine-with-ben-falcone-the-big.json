@@ -1,0 +1,130 @@
+{
+  "slug": "making-the-melissa-mccarthy-machine-with-ben-falcone-the-big",
+  "title": "Making the Melissa McCarthy Machine, With Ben Falcone | The Big Picture (Ep. 64)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2018-05-14",
+  "runtimeMin": 29,
+  "format": "Sean Fennessey talks to writer-director Ben Falcone about making comedies with his wife Melissa McCarthy, and why he keeps betting on the theatrical, studio, PG-13 version of the job.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Ben Falcone on",
+      "films": [
+        {
+          "title": "Life of the Party",
+          "year": 2018,
+          "note": "His third film directing McCarthy, out the following week. Sparked by his mother-in-law standing around in a Midwestern sweater; built as a deliberately sweet PG-13 comedy after the R-rated Boss."
+        },
+        {
+          "title": "Tammy",
+          "year": 2014,
+          "note": "His directorial debut, co-written with McCarthy, a $20 million New Line movie he fell into after they couldn't find a director."
+        },
+        {
+          "title": "The Boss",
+          "year": 2016,
+          "note": "Second McCarthy collaboration, co-written with Steve Mallory from a Groundlings character; R-rated for language, not much else."
+        },
+        {
+          "title": "Bridesmaids",
+          "year": 2011,
+          "note": "Where most people first saw Falcone, as the air marshal who falls for McCarthy's character."
+        },
+        {
+          "title": "Ghostbusters",
+          "year": 2016,
+          "note": "Where McCarthy worked with Matt Walsh, whom Falcone then cast in Life of the Party."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Falcone's comedy touchstones",
+      "films": [
+        "Planes, Trains and Automobiles",
+        "A Shot in the Dark",
+        "Game Night",
+        "Blockers"
+      ]
+    },
+    {
+      "group": "Teased for Friday",
+      "films": [
+        "Deadpool 2"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Gilmore Girls"
+    ]
+  },
+  "tmdb": {
+    "Life of the Party": {
+      "id": 399796,
+      "poster": "/749iUAWQWeutQuTd9excjmigecw.jpg",
+      "title": "Life of the Party",
+      "year": 2018
+    },
+    "Tammy": {
+      "id": 226486,
+      "poster": "/efsVMziwE9BNTDX5fNmYVA5oAzJ.jpg",
+      "title": "Tammy",
+      "year": 2014
+    },
+    "The Boss": {
+      "id": 323676,
+      "poster": "/eNlWYqR8jQON5giZkFIfrQOZMlg.jpg",
+      "title": "The Boss",
+      "year": 2016
+    },
+    "Bridesmaids": {
+      "id": 55721,
+      "poster": "/gJtA7hYsBMQ7EM3sPBMUdBfU7a0.jpg",
+      "title": "Bridesmaids",
+      "year": 2011
+    },
+    "Ghostbusters": {
+      "id": 43074,
+      "poster": "/wJmWliwXIgZOCCVOcGRBhce7xPS.jpg",
+      "title": "Ghostbusters",
+      "year": 2016
+    },
+    "Planes, Trains and Automobiles": {
+      "id": 2609,
+      "poster": "/fwi2cET87xArJCb8MdbWq2BZO3n.jpg",
+      "title": "Planes, Trains and Automobiles",
+      "year": 1987
+    },
+    "A Shot in the Dark": {
+      "id": 1594,
+      "poster": "/pR6tNqNLYIbRRYC5TFKWVWaVvvK.jpg",
+      "title": "A Shot in the Dark",
+      "year": 1964
+    },
+    "Game Night": {
+      "id": 445571,
+      "poster": "/85R8LMyn9f2Lev2YPBF8Nughrkv.jpg",
+      "title": "Game Night",
+      "year": 2018
+    },
+    "Blockers": {
+      "id": 437557,
+      "poster": "/uvlUQXg0AlpGzKukO11K7QtW3Yu.jpg",
+      "title": "Blockers",
+      "year": 2018
+    },
+    "Deadpool 2": {
+      "id": 383498,
+      "poster": "/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+      "title": "Deadpool 2",
+      "year": 2018
+    }
+  }
+}

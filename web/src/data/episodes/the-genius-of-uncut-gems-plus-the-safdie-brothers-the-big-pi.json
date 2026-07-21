@@ -1,0 +1,290 @@
+{
+  "slug": "the-genius-of-uncut-gems-plus-the-safdie-brothers-the-big-pi",
+  "title": "The Genius of 'Uncut Gems.' Plus: the Safdie Brothers!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2019-12-26",
+  "runtimeMin": 76,
+  "format": "Sean Fennessey (with Bobby Wagner) makes his case for Uncut Gems, then Josh and Benny Safdie walk through the decade it took to get Adam Sandler, Kevin Garnett, and the rest of the movie onto a screen.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "The Genius of 'Uncut Gems'",
+      "note": "with Bobby Wagner",
+      "films": [
+        {
+          "title": "Uncut Gems",
+          "year": 2019,
+          "note": "Sean's Christmas-week case for it: Adam Sandler plays Howard Ratner as a man willing to break every rule to finish what he started, and the film is a rare sports-gambling movie that actually nails what a parlay bet feels like. He places it in the lineage of Sweet Smell of Success and Dog Day Afternoon and calls Kevin Garnett's performance maybe the best ever from an NBA player turned actor. He also credits the supporting cast (Julia Fox, Idina Menzel, Lakeith Stanfield, Eric Bogosian, Judd Hirsch, Mike Francesca, The Weeknd), Daniel Lopatin's score, Darius Khondji's cinematography, and Ronald Bronstein/Benny Safdie's editing and crosstalk-heavy sound design, ending on how the movie insists Howard pay for his sins."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Josh and Benny Safdie on",
+      "note": "the decade-long path to Uncut Gems, through casting reshuffles with Amar'e Stoudemire, Kobe Bryant, Joel Embiid, and finally Kevin Garnett",
+      "films": [
+        {
+          "title": "Daddy Longlegs",
+          "year": 2010,
+          "note": "Their first feature, originally titled Go Get Some Rosemary before it premiered at the height of the recession and got a new title for Sundance. Ronald Bronstein won a Gotham Award for it over Jennifer Lawrence; Sandler has called it one of his favorite movies."
+        },
+        {
+          "title": "Lenny Cooke",
+          "year": 2013,
+          "note": "A documentary about a once-hyped high-school basketball prospect that they took on as a paying gig expected to last six months and ended up shooting for years."
+        },
+        {
+          "title": "Heaven Knows What",
+          "year": 2015,
+          "note": "Shot for almost no money with a cast including homeless nonactors; the Safdies say they bet everything on it. Scorsese saw it, loved it, and asked what they were doing next."
+        },
+        {
+          "title": "The Black Balloon",
+          "year": 2012,
+          "note": "A short film they made after designer Andy Spade pitched them a riff on The Red Balloon in the middle of the night."
+        },
+        {
+          "title": "Good Time",
+          "year": 2017,
+          "note": "Made for roughly $2 million after everyone told them it needed to be a $12 million movie, with 18- and 22-hour shooting days. Sandler watched it after Cannes and called them out of the blue to say he wanted in on Gems."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Sean's comparisons for Uncut Gems",
+      "films": [
+        "Reign Over Me",
+        "The Cobbler",
+        "Men, Women & Children",
+        "Spanglish",
+        "Punch-Drunk Love",
+        "Happy Gilmore",
+        "California Split",
+        "Sweet Smell of Success",
+        "Dog Day Afternoon",
+        "Hannah and Her Sisters",
+        "Wild Style",
+        "Do the Right Thing",
+        "After Hours",
+        "King of New York",
+        "Knives Out"
+      ]
+    },
+    {
+      "group": "Also mentioned in the interview",
+      "films": [
+        "Ed Wood",
+        "The Meyerowitz Stories (New and Selected)",
+        "Bad Lieutenant",
+        "Above the Rim",
+        "Marathon Man",
+        "A Stranger Among Us",
+        "In a Lonely Place",
+        "The Firm",
+        "The Pawnbroker"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Atlanta",
+      "Cosmos"
+    ],
+    "Ads": [
+      "Masterclass"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Black Balloon": 207307,
+    "The Meyerowitz Stories (New and Selected)": 396398
+  },
+  "tmdb": {
+    "Uncut Gems": {
+      "id": 473033,
+      "poster": "/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+      "title": "Uncut Gems",
+      "year": 2019
+    },
+    "Daddy Longlegs": {
+      "id": 58251,
+      "poster": "/lnHRAJ5ucoIXDRCVxfdABpK60OS.jpg",
+      "title": "Daddy Longlegs",
+      "year": 2010
+    },
+    "Lenny Cooke": {
+      "id": 174374,
+      "poster": "/po2uVDbybo06XXdxbGfIeWVkMKc.jpg",
+      "title": "Lenny Cooke",
+      "year": 2013
+    },
+    "Heaven Knows What": {
+      "id": 285024,
+      "poster": "/4oyWMOWJ6trsRuyzn5cHPv50zVH.jpg",
+      "title": "Heaven Knows What",
+      "year": 2015
+    },
+    "The Black Balloon": {
+      "id": 207307,
+      "poster": "/x7uC2U4AJxWV01C2S5Y0K1oZ8qY.jpg",
+      "title": "The Black Balloon",
+      "year": 2012
+    },
+    "Good Time": {
+      "id": 429200,
+      "poster": "/yE1c9hj5Hf8a9KplAdRdhADqUro.jpg",
+      "title": "Good Time",
+      "year": 2017
+    },
+    "Reign Over Me": {
+      "id": 2355,
+      "poster": "/b5EtDvwj2gdG1qMBLijamlLfJLB.jpg",
+      "title": "Reign Over Me",
+      "year": 2007
+    },
+    "The Cobbler": {
+      "id": 238215,
+      "poster": "/oMgBX4uqF1VIz95tD4iJggz6Ceh.jpg",
+      "title": "The Cobbler",
+      "year": 2014
+    },
+    "Men, Women & Children": {
+      "id": 243684,
+      "poster": "/dzFHIxCcvq2CZVFCsgz7n1z5oIM.jpg",
+      "title": "Men, Women & Children",
+      "year": 2014
+    },
+    "Spanglish": {
+      "id": 2539,
+      "poster": "/x3OTaBvjqzhRL53Q39fOoIYqxyO.jpg",
+      "title": "Spanglish",
+      "year": 2004
+    },
+    "Punch-Drunk Love": {
+      "id": 8051,
+      "poster": "/htYp4yqFu4rzBEIa6j9jP8miDm3.jpg",
+      "title": "Punch-Drunk Love",
+      "year": 2002
+    },
+    "Happy Gilmore": {
+      "id": 9614,
+      "poster": "/4RnCeRzvI1xk5tuNWjpDKzSnJDk.jpg",
+      "title": "Happy Gilmore",
+      "year": 1996
+    },
+    "California Split": {
+      "id": 32044,
+      "poster": "/sohTpACV6S7Af07XKkRUUvLNf4k.jpg",
+      "title": "California Split",
+      "year": 1974
+    },
+    "Sweet Smell of Success": {
+      "id": 976,
+      "poster": "/akzvV8JasNrgEl5iAP9K6zPHGJe.jpg",
+      "title": "Sweet Smell of Success",
+      "year": 1957
+    },
+    "Dog Day Afternoon": {
+      "id": 968,
+      "poster": "/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg",
+      "title": "Dog Day Afternoon",
+      "year": 1975
+    },
+    "Hannah and Her Sisters": {
+      "id": 5143,
+      "poster": "/gARgIRb2QFRFVrsziwWE389u1pK.jpg",
+      "title": "Hannah and Her Sisters",
+      "year": 1986
+    },
+    "Wild Style": {
+      "id": 14243,
+      "poster": "/bhlf38aasEZjgdWQOzXwMhaOvGU.jpg",
+      "title": "Wild Style",
+      "year": 1982
+    },
+    "Do the Right Thing": {
+      "id": 925,
+      "poster": "/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+      "title": "Do the Right Thing",
+      "year": 1989
+    },
+    "After Hours": {
+      "id": 10843,
+      "poster": "/eamOBurHBu0MIxohTIVcfxmZ6Z7.jpg",
+      "title": "After Hours",
+      "year": 1985
+    },
+    "King of New York": {
+      "id": 9558,
+      "poster": "/1MyH4MJAJZJbb6wDVeOc2bTECtK.jpg",
+      "title": "King of New York",
+      "year": 1990
+    },
+    "Knives Out": {
+      "id": 546554,
+      "poster": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+      "title": "Knives Out",
+      "year": 2019
+    },
+    "Ed Wood": {
+      "id": 522,
+      "poster": "/n8SrO3WbyuY2b6KazogqbQF348C.jpg",
+      "title": "Ed Wood",
+      "year": 1994
+    },
+    "The Meyerowitz Stories (New and Selected)": {
+      "id": 396398,
+      "poster": "/c9teDTgwxgnb7wnZjZo4oNcF80R.jpg",
+      "title": "The Meyerowitz Stories (New and Selected)",
+      "year": 2017
+    },
+    "Bad Lieutenant": {
+      "id": 12143,
+      "poster": "/mVJ2mXykqq3t2v1nuouf1P10g0d.jpg",
+      "title": "Bad Lieutenant",
+      "year": 1992
+    },
+    "Above the Rim": {
+      "id": 19092,
+      "poster": "/56NFHuZXdgZbVxvCyYw92E5uLQa.jpg",
+      "title": "Above the Rim",
+      "year": 1994
+    },
+    "Marathon Man": {
+      "id": 10518,
+      "poster": "/uPNgubSiri2yvBQRPtP77ViYjN.jpg",
+      "title": "Marathon Man",
+      "year": 1976
+    },
+    "A Stranger Among Us": {
+      "id": 41670,
+      "poster": "/t9V1cE3PzlK0syDD2HzrUiUpIRV.jpg",
+      "title": "A Stranger Among Us",
+      "year": 1992
+    },
+    "In a Lonely Place": {
+      "id": 17057,
+      "poster": "/vbdgtwzLOpE6MppZlyYChMagvQq.jpg",
+      "title": "In a Lonely Place",
+      "year": 1950
+    },
+    "The Firm": {
+      "id": 37233,
+      "poster": "/kFexXCzidkm4LwlgZqxsJsDQB5v.jpg",
+      "title": "The Firm",
+      "year": 1993
+    },
+    "The Pawnbroker": {
+      "id": 20540,
+      "poster": "/o4CT5WPqmOLF2QfodAuGT7jQNn1.jpg",
+      "title": "The Pawnbroker",
+      "year": 1965
+    }
+  }
+}

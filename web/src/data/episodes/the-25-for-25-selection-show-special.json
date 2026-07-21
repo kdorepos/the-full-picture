@@ -1,0 +1,1953 @@
+{
+  "slug": "the-25-for-25-selection-show-special",
+  "title": "The 25 for ’25 Selection Show Special",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessy",
+    "Amanda Dobbins"
+  ],
+  "published": "2026-01-02",
+  "runtimeMin": 122,
+  "format": "A planning meeting turned into a podcast: Sean and Amanda argue their way to a ranked list of the 25 best movies of the last 25 years, recorded in March 2025 before the list went public. One film per director, US releases from January 2000 on.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Building the long list",
+      "note": "the contenders, the alternates, the hard cuts",
+      "films": [
+        {
+          "title": "The Master",
+          "year": 2012,
+          "note": "The Paul Thomas Anderson runner-up to There Will Be Blood."
+        },
+        {
+          "title": "No Country for Old Men",
+          "year": 2007,
+          "note": "On Sean's list; 'not a very Coen-y movie,' he says, so it lost the Coen slot."
+        },
+        {
+          "title": "A Serious Man",
+          "year": 2009,
+          "note": "Amanda's preferred Coen, alongside Inside Llewyn Davis."
+        },
+        {
+          "title": "Zodiac",
+          "year": 2007,
+          "note": "Sean's favorite Fincher; 'the hardest cut on the whole list' under the one-per-director rule."
+        },
+        {
+          "title": "Once Upon a Time... in Hollywood",
+          "year": 2019,
+          "note": "Sean's Tarantino alternative to Inglourious Basterds, an asterisk he agonized over."
+        },
+        {
+          "title": "Moonlight",
+          "year": 2016,
+          "note": "A hard cut; 'couldn't find a place for it' in the 25."
+        },
+        {
+          "title": "Little Women",
+          "year": 2019,
+          "note": "The Gerwig alternative to Lady Bird: 'one of the most under-celebrated movies of the last 10 years.'"
+        },
+        {
+          "title": "Nope",
+          "year": 2022,
+          "note": "Amanda floated it as the Peele pick; Sean stayed with Get Out."
+        },
+        {
+          "title": "Lost in Translation",
+          "year": 2003,
+          "note": "The 'should-be' Coppola pick they both wrote down before landing on Marie Antoinette."
+        },
+        {
+          "title": "Frances Ha",
+          "year": 2012,
+          "note": "'A no-brainer,' cut because Lady Bird already covered the Gerwig/Baumbach axis."
+        },
+        {
+          "title": "Marriage Story",
+          "year": 2019,
+          "note": "The other Baumbach in play."
+        },
+        {
+          "title": "The Squid and the Whale",
+          "year": 2005,
+          "note": "Sean's most personal Baumbach."
+        },
+        {
+          "title": "Greenberg",
+          "year": 2010,
+          "note": "Briefly agreed as the Baumbach before Frances Ha, then dropped."
+        },
+        {
+          "title": "The Departed",
+          "year": 2006,
+          "note": "Scorsese's most-seen of the century, but not their pick."
+        },
+        {
+          "title": "Silence",
+          "year": 2016,
+          "note": "'Will have its time on this show.'"
+        },
+        {
+          "title": "The Irishman",
+          "year": 2019
+        },
+        {
+          "title": "Memories of Murder",
+          "year": 2003,
+          "note": "No. 2 on their Bong Joon-ho ranking; 'the cool move.'"
+        },
+        {
+          "title": "The Intern",
+          "year": 2015,
+          "note": "The Nancy Meyers also-ran to Something's Gotta Give."
+        },
+        {
+          "title": "Oldboy",
+          "year": 2003,
+          "note": "The other Park Chan-wook; Sean keeps threatening to swap it in for The Handmaiden."
+        },
+        {
+          "title": "Boyhood",
+          "year": 2014,
+          "note": "The Linklater Amanda would have nudged Sean toward."
+        },
+        {
+          "title": "Everybody Wants Some!!",
+          "year": 2016,
+          "note": "Sean's Linklater: 'the most fun movie.'"
+        },
+        {
+          "title": "Y Tu Mamá También",
+          "year": 2001,
+          "note": "The Cuarón pick on the list until Children of Men took the slot at the end."
+        },
+        {
+          "title": "Roma",
+          "year": 2018,
+          "note": "'Completely shredded' Sean in 2018; unrevisited since."
+        },
+        {
+          "title": "Gravity",
+          "year": 2013,
+          "note": "'A very stand-in script.'"
+        },
+        {
+          "title": "The Act of Killing",
+          "year": 2012,
+          "note": "Amanda's documentary pick, made on date night in Palm Springs."
+        },
+        {
+          "title": "The Fog of War",
+          "year": 2003,
+          "note": "Errol Morris; Sean's 'red circle' among the docs, though no doc made the final 25."
+        },
+        {
+          "title": "O.J.: Made in America",
+          "year": 2016,
+          "note": "Won the Documentary Feature Oscar, so eligible; Sean is thanked in the credits."
+        },
+        {
+          "title": "Stories We Tell",
+          "year": 2012
+        },
+        {
+          "title": "Amy",
+          "year": 2015
+        },
+        {
+          "title": "All the Beauty and the Bloodshed",
+          "year": 2022
+        },
+        {
+          "title": "Superbad",
+          "year": 2007,
+          "note": "The comedy pick before they pivoted to Anchorman; a hard cut."
+        },
+        {
+          "title": "Step Brothers",
+          "year": 2008,
+          "note": "'The cool pick' vs. Anchorman's 'true pick.'"
+        },
+        {
+          "title": "Whiplash",
+          "year": 2014,
+          "note": "A hard cut; 'my most vulnerable rewatchables.'"
+        },
+        {
+          "title": "La La Land",
+          "year": 2016
+        },
+        {
+          "title": "First Man",
+          "year": 2018,
+          "note": "'The real cool-guy' Chazelle pick."
+        },
+        {
+          "title": "Babylon",
+          "year": 2022
+        },
+        {
+          "title": "Tár",
+          "year": 2022,
+          "note": "A day from a Cate Blanchett Hall of Fame taping; wanted it high, couldn't fit it."
+        },
+        {
+          "title": "The Dark Knight",
+          "year": 2008,
+          "note": "On the shortlist at No. 21 for most of the meeting, cut late for The Tree of Life: 'the Tree of Life is better than the Dark Knight.'"
+        },
+        {
+          "title": "Top Gun: Maverick",
+          "year": 2022,
+          "note": "'Teetering on the edge'; Sean's blockbuster of the decade, cut for saminess."
+        },
+        {
+          "title": "Crouching Tiger, Hidden Dragon",
+          "year": 2000,
+          "note": "The Ang Lee candidate; couldn't find a spot on the cut-down list."
+        },
+        {
+          "title": "Brokeback Mountain",
+          "year": 2005,
+          "note": "Amanda flags early it won't make it; a real shame to Sean."
+        },
+        {
+          "title": "Inside Man",
+          "year": 2006,
+          "note": "Sean's Spike Lee runner-up to 25th Hour: 'and it gets you Denzel.'"
+        },
+        {
+          "title": "The Lost City of Z",
+          "year": 2016,
+          "note": "Sean's James Gray pick; no Gray on the list."
+        },
+        {
+          "title": "The Devil Wears Prada",
+          "year": 2006,
+          "note": "An Amanda-on-cocktails pick; 'hugely important to me.'"
+        },
+        {
+          "title": "Margaret",
+          "year": 2011,
+          "note": "The Lonergan hard cut; Sean lost his out-of-print Blu-ray to a former friend."
+        },
+        {
+          "title": "Manchester by the Sea",
+          "year": 2016
+        },
+        {
+          "title": "You Can Count on Me",
+          "year": 2000
+        },
+        {
+          "title": "Hereditary",
+          "year": 2018,
+          "note": "One of Amanda's picks under 'are we being too cute?'"
+        },
+        {
+          "title": "Uncut Gems",
+          "year": 2019,
+          "note": "The Safdie contender that fell out of the top 25."
+        },
+        {
+          "title": "Midnight in Paris",
+          "year": 2011,
+          "note": "'Riddled with controversy'; an episode would be a pain."
+        },
+        {
+          "title": "Amour",
+          "year": 2012,
+          "note": "One of three Haneke films Sean wrote down."
+        },
+        {
+          "title": "The New World",
+          "year": 2005,
+          "note": "'The Malick heads love that one.'"
+        },
+        {
+          "title": "Shaun of the Dead",
+          "year": 2004,
+          "note": "'Very big-picture movies': self-aware without sacrificing craft."
+        },
+        {
+          "title": "Scott Pilgrim vs. the World",
+          "year": 2010
+        },
+        {
+          "title": "Yi Yi",
+          "year": 2000,
+          "note": "Edward Yang, called one of the defining names of the century."
+        },
+        {
+          "title": "Pan's Labyrinth",
+          "year": 2006,
+          "note": "Del Toro's most celebrated, per Sean."
+        },
+        {
+          "title": "Sully",
+          "year": 2016,
+          "note": "The Eastwood both would pick: 'I like Sully a lot.'"
+        },
+        {
+          "title": "Meek's Cutoff",
+          "year": 2010,
+          "note": "Sean's Kelly Reichardt, over Wendy and Lucy."
+        },
+        {
+          "title": "Hell or High Water",
+          "year": 2016
+        },
+        {
+          "title": "The Assassination of Jesse James by the Coward Robert Ford",
+          "year": 2007,
+          "note": "'Directed by your fave, Andrew Dominik.'"
+        },
+        {
+          "title": "Hunger",
+          "year": 2008,
+          "note": "Sean's Steve McQueen over 12 Years a Slave."
+        },
+        {
+          "title": "Sicario",
+          "year": 2015,
+          "note": "Sean's Villeneuve pick; Amanda leaned Arrival."
+        },
+        {
+          "title": "Arrival",
+          "year": 2016,
+          "note": "A hard cut; no Villeneuve made the list."
+        },
+        {
+          "title": "The Lobster",
+          "year": 2015,
+          "note": "Their shared Lanthimos."
+        },
+        {
+          "title": "The Favourite",
+          "year": 2018
+        },
+        {
+          "title": "Portrait of a Lady on Fire",
+          "year": 2019,
+          "note": "'Now like the Sight & Sound' consensus pick."
+        },
+        {
+          "title": "The Raid",
+          "year": 2011,
+          "note": "'Much like Oldboy, incredibly influential.'"
+        },
+        {
+          "title": "John Wick",
+          "year": 2014,
+          "note": "Sean's pick over John Wick 4."
+        },
+        {
+          "title": "Shoplifters",
+          "year": 2018
+        },
+        {
+          "title": "Burning",
+          "year": 2018,
+          "note": "Sean's No. 2 of its year."
+        },
+        {
+          "title": "The Lord of the Rings: The Fellowship of the Ring",
+          "year": 2001,
+          "note": "'Didn't make the long list, but that is cool.'"
+        },
+        {
+          "title": "A Separation",
+          "year": 2011
+        },
+        {
+          "title": "WALL·E",
+          "year": 2008,
+          "note": "Sean's Pixar pick; no Pixar made the list."
+        },
+        {
+          "title": "Ratatouille",
+          "year": 2007
+        },
+        {
+          "title": "It's Such a Beautiful Day",
+          "year": 2012,
+          "note": "Don Hertzfeldt; 'big one for me.'"
+        },
+        {
+          "title": "Call Me by Your Name",
+          "year": 2017,
+          "note": "Sean's Guadagnino; Amanda answered with A Bigger Splash."
+        },
+        {
+          "title": "A Bigger Splash",
+          "year": 2015
+        },
+        {
+          "title": "Almost Famous",
+          "year": 2000,
+          "note": "Cut to make room for There Will Be Blood: 'sorry to Cameron Crowe.'"
+        },
+        {
+          "title": "A.I. Artificial Intelligence",
+          "year": 2001,
+          "note": "One of the missing Spielbergs."
+        },
+        {
+          "title": "Minority Report",
+          "year": 2002,
+          "note": "'Too much Cruise, too much action, too samey.'"
+        },
+        {
+          "title": "Eternal Sunshine of the Spotless Mind",
+          "year": 2004,
+          "note": "'What Severance is doing is so deeply riffing on' it."
+        },
+        {
+          "title": "Birth",
+          "year": 2004,
+          "note": "Their Jonathan Glazer, if there were one."
+        },
+        {
+          "title": "The Hurt Locker",
+          "year": 2008,
+          "note": "No Kathryn Bigelow on the list."
+        },
+        {
+          "title": "The Fabelmans",
+          "year": 2022,
+          "note": "'A case for it,' but not this list's conceit."
+        },
+        {
+          "title": "Certified Copy",
+          "year": 2010,
+          "note": "'Really important and good'; a Kiarostami they'd love to take apart."
+        },
+        {
+          "title": "Donnie Darko",
+          "year": 2001
+        },
+        {
+          "title": "Hero",
+          "year": 2002,
+          "note": "Zhang Yimou."
+        }
+      ]
+    },
+    {
+      "kind": "ranking",
+      "heading": "The 25 for ’25 shortlist",
+      "note": "where it stood at the end of the meeting, No. 1 first",
+      "subject": "movies of 2000–2025",
+      "ranked": true,
+      "films": [
+        {
+          "title": "The Social Network",
+          "year": 2010,
+          "note": "No. 1: 'our generation's Citizen Kane'; Fincher, over Zodiac."
+        },
+        {
+          "title": "25th Hour",
+          "year": 2002,
+          "note": "No. 2: the Spike Lee entry, over Inside Man. 'The greatest ending of a movie.'"
+        },
+        {
+          "title": "There Will Be Blood",
+          "year": 2007,
+          "note": "No. 3: the PTA pick over The Master; nearly left off by accident."
+        },
+        {
+          "title": "Inglourious Basterds",
+          "year": 2009,
+          "note": "No. 4: Sean's Tarantino, with a 'big fucking asterisk' for Once Upon a Time in Hollywood."
+        },
+        {
+          "title": "Lady Bird",
+          "year": 2017,
+          "note": "No. 5: the Gerwig pick over Little Women."
+        },
+        {
+          "title": "Mulholland Drive",
+          "year": 2001,
+          "note": "No. 6: the David Lynch entry."
+        },
+        {
+          "title": "In the Mood for Love",
+          "year": 2000,
+          "note": "No. 7: Wong Kar-wai; 'probably in the top ten.'"
+        },
+        {
+          "title": "Parasite",
+          "year": 2019,
+          "note": "No. 8: the Bong Joon-ho pick over Memories of Murder."
+        },
+        {
+          "title": "Mad Max: Fury Road",
+          "year": 2015,
+          "note": "No. 9: 'the best action movie ever made,' per Soderbergh, per the show."
+        },
+        {
+          "title": "Marie Antoinette",
+          "year": 2006,
+          "note": "No. 10: Sean's 'good magazine-editor pick,' over Lost in Translation."
+        },
+        {
+          "title": "The Wolf of Wall Street",
+          "year": 2013,
+          "note": "No. 11: the Scorsese, over The Departed, Silence, and The Irishman."
+        },
+        {
+          "title": "The Royal Tenenbaums",
+          "year": 2001,
+          "note": "No. 12: the Wes Anderson, locked in further after Gene Hackman's death."
+        },
+        {
+          "title": "Get Out",
+          "year": 2017,
+          "note": "No. 13: the one horror movie on the list."
+        },
+        {
+          "title": "Moneyball",
+          "year": 2011,
+          "note": "No. 14: 'patron saint of this podcast'; on the list no matter what."
+        },
+        {
+          "title": "Inside Llewyn Davis",
+          "year": 2013,
+          "note": "No. 15: the Coen compromise between A Serious Man and No Country."
+        },
+        {
+          "title": "The Tree of Life",
+          "year": 2011,
+          "note": "No. 16, swapped in for The Dark Knight late: 'the Tree of Life is better.'"
+        },
+        {
+          "title": "Anchorman: The Legend of Ron Burgundy",
+          "year": 2004,
+          "note": "No. 17: the Will Ferrell pick over Superbad and Step Brothers."
+        },
+        {
+          "title": "Before Sunset",
+          "year": 2004,
+          "note": "No. 18: a sequel, and 'one of the most romantic movies ever.'"
+        },
+        {
+          "title": "Spirited Away",
+          "year": 2001,
+          "note": "No. 19: the Miyazaki; 75th on the latest Sight & Sound poll."
+        },
+        {
+          "title": "Melancholia",
+          "year": 2011,
+          "note": "No. 20: the only European director on the whole list, Lars von Trier."
+        },
+        {
+          "title": "Mission: Impossible - Fallout",
+          "year": 2018,
+          "note": "No. 21: one of three action movies and three sequels here."
+        },
+        {
+          "title": "Something's Gotta Give",
+          "year": 2003,
+          "note": "No. 22: the lone Nancy Meyers, over The Intern and It's Complicated."
+        },
+        {
+          "title": "Children of Men",
+          "year": 2006,
+          "note": "No. 23: added at the buzzer once The Dark Knight was cut; Cuarón's slot."
+        },
+        {
+          "title": "The Handmaiden",
+          "year": 2016,
+          "note": "No. 24: the Park Chan-wook; Sean may swap for Oldboy after a rewatch."
+        },
+        {
+          "title": "Michael Clayton",
+          "year": 2007,
+          "note": "No. 25, a deliberate low opener: 'grab people up top and make them a little mad.'"
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Other director options weighed in passing",
+      "films": [
+        "Phantom Thread",
+        "Inherent Vice",
+        "Punch-Drunk Love",
+        "The Man Who Wasn't There",
+        "Oppenheimer",
+        "Interstellar",
+        "Inception",
+        "The Prestige",
+        "Dunkirk",
+        "Barbie",
+        "Kill Bill: Vol. 1",
+        "Kill Bill: Vol. 2",
+        "Django Unchained",
+        "Killers of the Flower Moon",
+        "Mickey 17",
+        "It's Complicated",
+        "Harry Potter and the Prisoner of Azkaban",
+        "2046",
+        "The Grand Budapest Hotel",
+        "Moonrise Kingdom",
+        "Asteroid City",
+        "Isle of Dogs",
+        "Fantastic Mr. Fox",
+        "Dancer in the Dark",
+        "Dogville",
+        "Manderlay",
+        "Antichrist",
+        "Nymphomaniac",
+        "The House That Jack Built",
+        "Hulk",
+        "Taking Woodstock",
+        "Ride with the Devil",
+        "BlacKkKlansman",
+        "Bamboozled",
+        "Highest 2 Lowest",
+        "Inland Empire",
+        "The Immigrant",
+        "Two Lovers",
+        "Edge of Tomorrow",
+        "Good Time",
+        "Talk to Her",
+        "Volver",
+        "The Piano Teacher",
+        "Caché",
+        "The White Ribbon",
+        "Funny Games",
+        "The Shape of Water",
+        "The Mule",
+        "Richard Jewell",
+        "Million Dollar Baby",
+        "Wendy and Lucy",
+        "12 Years a Slave",
+        "Widows",
+        "A Prophet",
+        "John Wick: Chapter 4",
+        "Bad Boys II",
+        "Ambulance",
+        "Phoenix",
+        "The Zone of Interest",
+        "Sexy Beast",
+        "A Star Is Born",
+        "Bridesmaids",
+        "Zero Dark Thirty",
+        "Ida",
+        "Cold War",
+        "Zama",
+        "Moulin Rouge!",
+        "Honey Don't",
+        "Fast Five",
+        "Ocean's Eleven",
+        "Love & Basketball",
+        "The Other Guys"
+      ]
+    },
+    {
+      "group": "Cited as 'on every other list'",
+      "films": [
+        "Uncle Boonmee Who Can Recall His Past Lives",
+        "Fish Tank",
+        "Drive My Car",
+        "A Touch of Sin",
+        "Holy Motors",
+        "Beau Travail"
+      ]
+    },
+    {
+      "group": "Ben Affleck's filmography, per Sean",
+      "films": [
+        "The Greatest Love Story Never Told",
+        "The Town",
+        "Argo",
+        "Chasing Amy",
+        "Mallrats",
+        "Phantoms"
+      ]
+    },
+    {
+      "group": "Programmed at past screenings",
+      "films": [
+        "Gone Girl"
+      ]
+    },
+    {
+      "group": "Mentioned but pre-2000 (ineligible)",
+      "films": [
+        "Sense and Sensibility",
+        "Rushmore",
+        "Kicking and Screaming",
+        "Pulp Fiction",
+        "Out of Sight",
+        "The Limey",
+        "Princess Mononoke",
+        "My Neighbor Totoro",
+        "Porco Rosso"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Last Dance",
+      "Twin Peaks: The Return",
+      "Get Back",
+      "Severance",
+      "The Little Drummer Girl"
+    ],
+    "Ads": [
+      "Carvana",
+      "Google AI Professional Certificate",
+      "Quaker"
+    ]
+  },
+  "tmdbOverrides": {
+    "Phoenix": 254578,
+    "Nymphomaniac": 258216
+  },
+  "tmdb": {
+    "The Master": {
+      "id": 68722,
+      "poster": "/rUSjbyvYWN9H4az8xt0tDtU7I6v.jpg",
+      "title": "The Master",
+      "year": 2012
+    },
+    "No Country for Old Men": {
+      "id": 6977,
+      "poster": "/uB7RDZby43Wvu8SKGHHTwGyTDBX.jpg",
+      "title": "No Country for Old Men",
+      "year": 2007
+    },
+    "A Serious Man": {
+      "id": 12573,
+      "poster": "/5gGxDS8WmrebPlMHexVS8EVehiP.jpg",
+      "title": "A Serious Man",
+      "year": 2009
+    },
+    "Zodiac": {
+      "id": 1949,
+      "poster": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+      "title": "Zodiac",
+      "year": 2007
+    },
+    "Once Upon a Time... in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Moonlight": {
+      "id": 376867,
+      "poster": "/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+      "title": "Moonlight",
+      "year": 2016
+    },
+    "Little Women": {
+      "id": 331482,
+      "poster": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+      "title": "Little Women",
+      "year": 2019
+    },
+    "Nope": {
+      "id": 762504,
+      "poster": "/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
+      "title": "Nope",
+      "year": 2022
+    },
+    "Lost in Translation": {
+      "id": 153,
+      "poster": "/3jCLmYDIIiSMPujbwygNpqdpM8N.jpg",
+      "title": "Lost in Translation",
+      "year": 2003
+    },
+    "Frances Ha": {
+      "id": 121986,
+      "poster": "/jrq1NoKvsxWCcffVOjegiYwloFN.jpg",
+      "title": "Frances Ha",
+      "year": 2013
+    },
+    "Marriage Story": {
+      "id": 492188,
+      "poster": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+      "title": "Marriage Story",
+      "year": 2019
+    },
+    "The Squid and the Whale": {
+      "id": 10707,
+      "poster": "/9NbXn1NMdfGM491V3EFjZADR9SX.jpg",
+      "title": "The Squid and the Whale",
+      "year": 2005
+    },
+    "Greenberg": {
+      "id": 27583,
+      "poster": "/jAsN4vPpycVxC89QlA6NYBXRuK7.jpg",
+      "title": "Greenberg",
+      "year": 2010
+    },
+    "The Departed": {
+      "id": 1422,
+      "poster": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+      "title": "The Departed",
+      "year": 2006
+    },
+    "Silence": {
+      "id": 68730,
+      "poster": "/x5T0cQDYws0xRBVG4Q3wpcrcmax.jpg",
+      "title": "Silence",
+      "year": 2016
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Memories of Murder": {
+      "id": 11423,
+      "poster": "/jcgUjx1QcupGzjntTVlnQ15lHqy.jpg",
+      "title": "Memories of Murder",
+      "year": 2003
+    },
+    "The Intern": {
+      "id": 257211,
+      "poster": "/bTQ46fupPbjBfFBHuzfD3hxxL0Q.jpg",
+      "title": "The Intern",
+      "year": 2015
+    },
+    "Oldboy": {
+      "id": 670,
+      "poster": "/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg",
+      "title": "Oldboy",
+      "year": 2003
+    },
+    "Boyhood": {
+      "id": 85350,
+      "poster": "/2BvtvDUyxiMJ4dmKfiQf4qdOHQN.jpg",
+      "title": "Boyhood",
+      "year": 2014
+    },
+    "Everybody Wants Some!!": {
+      "id": 295699,
+      "poster": "/vAIFZ8bw0spSvcIYgfuX99B3H2w.jpg",
+      "title": "Everybody Wants Some!!",
+      "year": 2016
+    },
+    "Y Tu Mamá También": {
+      "id": 1391,
+      "poster": "/aj3rqjab8jfc2fWmcS3H3c5qbur.jpg",
+      "title": "Y Tu Mamá También",
+      "year": 2001
+    },
+    "Roma": {
+      "id": 426426,
+      "poster": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+      "title": "Roma",
+      "year": 2018
+    },
+    "Gravity": {
+      "id": 49047,
+      "poster": "/kZ2nZw8D681aphje8NJi8EfbL1U.jpg",
+      "title": "Gravity",
+      "year": 2013
+    },
+    "The Act of Killing": {
+      "id": 123678,
+      "poster": "/sp5B7Tz5ttsgOLnIlCP5uEhtesI.jpg",
+      "title": "The Act of Killing",
+      "year": 2012
+    },
+    "The Fog of War": {
+      "id": 12698,
+      "poster": "/m1dEnkrdJGBSLeAyJepuGrU9sNI.jpg",
+      "title": "The Fog of War",
+      "year": 2003
+    },
+    "O.J.: Made in America": {
+      "id": 377462,
+      "poster": "/nFmg2G4IJ0x9mALXkYFN8Gw0Dw5.jpg",
+      "title": "O.J.: Made in America",
+      "year": 2016
+    },
+    "Stories We Tell": {
+      "id": 128216,
+      "poster": "/aVDtDW3qP0je1Cy87GDfijG9W4c.jpg",
+      "title": "Stories We Tell",
+      "year": 2012
+    },
+    "Amy": {
+      "id": 331781,
+      "poster": "/qL0RepWSNUuZoeDXfyhqowVYhrn.jpg",
+      "title": "Amy",
+      "year": 2015
+    },
+    "All the Beauty and the Bloodshed": {
+      "id": 1004663,
+      "poster": "/cvO51xxtIUHc5w5ZgFsigiFaUaO.jpg",
+      "title": "All the Beauty and the Bloodshed",
+      "year": 2022
+    },
+    "Superbad": {
+      "id": 8363,
+      "poster": "/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg",
+      "title": "Superbad",
+      "year": 2007
+    },
+    "Step Brothers": {
+      "id": 12133,
+      "poster": "/nvggBbEraUTAVR6ffP3AaBUWSHs.jpg",
+      "title": "Step Brothers",
+      "year": 2008
+    },
+    "Whiplash": {
+      "id": 244786,
+      "poster": "/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+      "title": "Whiplash",
+      "year": 2014
+    },
+    "La La Land": {
+      "id": 313369,
+      "poster": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "title": "La La Land",
+      "year": 2016
+    },
+    "First Man": {
+      "id": 369972,
+      "poster": "/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
+      "title": "First Man",
+      "year": 2018
+    },
+    "Babylon": {
+      "id": 615777,
+      "poster": "/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+      "title": "Babylon",
+      "year": 2022
+    },
+    "Tár": {
+      "id": 817758,
+      "poster": "/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg",
+      "title": "TÁR",
+      "year": 2022
+    },
+    "The Dark Knight": {
+      "id": 155,
+      "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Crouching Tiger, Hidden Dragon": {
+      "id": 146,
+      "poster": "/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg",
+      "title": "Crouching Tiger, Hidden Dragon",
+      "year": 2000
+    },
+    "Brokeback Mountain": {
+      "id": 142,
+      "poster": "/aByfQOQBNa4CMFwIgq3QrqY2ZHh.jpg",
+      "title": "Brokeback Mountain",
+      "year": 2005
+    },
+    "Inside Man": {
+      "id": 388,
+      "poster": "/ffMUgkDZICNiyaws1Jkv8qG8uFW.jpg",
+      "title": "Inside Man",
+      "year": 2006
+    },
+    "The Lost City of Z": {
+      "id": 314095,
+      "poster": "/8SxHVNk6tqXYwygmDzz1YuJEm2J.jpg",
+      "title": "The Lost City of Z",
+      "year": 2017
+    },
+    "The Devil Wears Prada": {
+      "id": 350,
+      "poster": "/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+      "title": "The Devil Wears Prada",
+      "year": 2006
+    },
+    "Margaret": {
+      "id": 44754,
+      "poster": "/zqBao8uRH6TQAJd13tqC22vPB76.jpg",
+      "title": "Margaret",
+      "year": 2011
+    },
+    "Manchester by the Sea": {
+      "id": 334541,
+      "poster": "/o9VXYOuaJxCEKOxbA86xqtwmqYn.jpg",
+      "title": "Manchester by the Sea",
+      "year": 2016
+    },
+    "You Can Count on Me": {
+      "id": 14295,
+      "poster": "/7mGFmij1FZD5eUnNwvUjmpqrDl6.jpg",
+      "title": "You Can Count on Me",
+      "year": 2000
+    },
+    "Hereditary": {
+      "id": 493922,
+      "poster": "/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+      "title": "Hereditary",
+      "year": 2018
+    },
+    "Uncut Gems": {
+      "id": 473033,
+      "poster": "/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+      "title": "Uncut Gems",
+      "year": 2019
+    },
+    "Midnight in Paris": {
+      "id": 59436,
+      "poster": "/4wBG5kbfagTQclETblPRRGihk0I.jpg",
+      "title": "Midnight in Paris",
+      "year": 2011
+    },
+    "Amour": {
+      "id": 86837,
+      "poster": "/19hyCudualHxCD0GrEngqsi0wBF.jpg",
+      "title": "Amour",
+      "year": 2012
+    },
+    "The New World": {
+      "id": 11400,
+      "poster": "/dPyWMlQd54r3pK17GKG3iqjvNZ7.jpg",
+      "title": "The New World",
+      "year": 2005
+    },
+    "Shaun of the Dead": {
+      "id": 747,
+      "poster": "/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg",
+      "title": "Shaun of the Dead",
+      "year": 2004
+    },
+    "Scott Pilgrim vs. the World": {
+      "id": 22538,
+      "poster": "/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg",
+      "title": "Scott Pilgrim vs. the World",
+      "year": 2010
+    },
+    "Yi Yi": {
+      "id": 25538,
+      "poster": "/mR8dSQZI8X6Z1NClJhFrtJp636z.jpg",
+      "title": "Yi Yi",
+      "year": 2000
+    },
+    "Pan's Labyrinth": {
+      "id": 1417,
+      "poster": "/z7xXihu5wHuSMWymq5VAulPVuvg.jpg",
+      "title": "Pan's Labyrinth",
+      "year": 2006
+    },
+    "Sully": {
+      "id": 363676,
+      "poster": "/4vs83YcJ8TsabADDtaeCJ6ZTjYY.jpg",
+      "title": "Sully",
+      "year": 2016
+    },
+    "Meek's Cutoff": {
+      "id": 57120,
+      "poster": "/oc28NmVqLx0x8epu3Ih3LvX4zE9.jpg",
+      "title": "Meek's Cutoff",
+      "year": 2011
+    },
+    "Hell or High Water": {
+      "id": 338766,
+      "poster": "/ljRRxqy2aXIkIBXLmOVifcOR021.jpg",
+      "title": "Hell or High Water",
+      "year": 2016
+    },
+    "The Assassination of Jesse James by the Coward Robert Ford": {
+      "id": 4512,
+      "poster": "/xMKn6EQS7eR5ubhPJbw5pQSBZMw.jpg",
+      "title": "The Assassination of Jesse James by the Coward Robert Ford",
+      "year": 2007
+    },
+    "Hunger": {
+      "id": 10360,
+      "poster": "/84HdTM39G2MzyTl8N9R0wVU9I5b.jpg",
+      "title": "Hunger",
+      "year": 2008
+    },
+    "Sicario": {
+      "id": 273481,
+      "poster": "/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+      "title": "Sicario",
+      "year": 2015
+    },
+    "Arrival": {
+      "id": 329865,
+      "poster": "/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
+      "title": "Arrival",
+      "year": 2016
+    },
+    "The Lobster": {
+      "id": 254320,
+      "poster": "/7Y9ILV1unpW9mLpGcqyGQU72LUy.jpg",
+      "title": "The Lobster",
+      "year": 2015
+    },
+    "The Favourite": {
+      "id": 375262,
+      "poster": "/cwBq0onfmeilU5xgqNNjJAMPfpw.jpg",
+      "title": "The Favourite",
+      "year": 2018
+    },
+    "Portrait of a Lady on Fire": {
+      "id": 531428,
+      "poster": "/rUDuOKpkKBHxx41BScqKej72iT3.jpg",
+      "title": "Portrait of a Lady on Fire",
+      "year": 2019
+    },
+    "The Raid": {
+      "id": 94329,
+      "poster": "/Abnm1Ws3JH0ReCfEhLMPwPcMcGO.jpg",
+      "title": "The Raid",
+      "year": 2012
+    },
+    "John Wick": {
+      "id": 245891,
+      "poster": "/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
+      "title": "John Wick",
+      "year": 2014
+    },
+    "Shoplifters": {
+      "id": 505192,
+      "poster": "/4nfRUOv3LX5zLn98WS1WqVBk9E9.jpg",
+      "title": "Shoplifters",
+      "year": 2018
+    },
+    "Burning": {
+      "id": 491584,
+      "poster": "/kXiF80o74fE9gf3Utf9moAI7ar0.jpg",
+      "title": "Burning",
+      "year": 2018
+    },
+    "The Lord of the Rings: The Fellowship of the Ring": {
+      "id": 120,
+      "poster": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001
+    },
+    "A Separation": {
+      "id": 60243,
+      "poster": "/xQadpnoLokxzN3hRpCPbBGpxsiz.jpg",
+      "title": "A Separation",
+      "year": 2011
+    },
+    "WALL·E": {
+      "id": 10681,
+      "poster": "/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+      "title": "WALL·E",
+      "year": 2008
+    },
+    "Ratatouille": {
+      "id": 2062,
+      "poster": "/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+      "title": "Ratatouille",
+      "year": 2007
+    },
+    "It's Such a Beautiful Day": {
+      "id": 489412,
+      "poster": "/hop0dsM4nxyNENGhBhpJWTCJ5rS.jpg",
+      "title": "It's Such a Beautiful Day",
+      "year": 2012
+    },
+    "Call Me by Your Name": {
+      "id": 398818,
+      "poster": "/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
+      "title": "Call Me by Your Name",
+      "year": 2017
+    },
+    "A Bigger Splash": {
+      "id": 324807,
+      "poster": "/b9ca2L41R43Lg1hpSzJHwtDTvYU.jpg",
+      "title": "A Bigger Splash",
+      "year": 2015
+    },
+    "Almost Famous": {
+      "id": 786,
+      "poster": "/3rrkyLYbgLj84AYvjhdcJot4JPx.jpg",
+      "title": "Almost Famous",
+      "year": 2000
+    },
+    "A.I. Artificial Intelligence": {
+      "id": 644,
+      "poster": "/8MZSGX5JORoO72EfuAEcejH5yHn.jpg",
+      "title": "A.I. Artificial Intelligence",
+      "year": 2001
+    },
+    "Minority Report": {
+      "id": 180,
+      "poster": "/ccqpHq5tk5W4ymbSbuoy4uYOxFI.jpg",
+      "title": "Minority Report",
+      "year": 2002
+    },
+    "Eternal Sunshine of the Spotless Mind": {
+      "id": 38,
+      "poster": "/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year": 2004
+    },
+    "Birth": {
+      "id": 10740,
+      "poster": "/z70iQ61WqhxETAz8ar2oD8pkIM.jpg",
+      "title": "Birth",
+      "year": 2004
+    },
+    "The Hurt Locker": {
+      "id": 12162,
+      "poster": "/io2dfBJhasvGbgkCX9cCGVOiA99.jpg",
+      "title": "The Hurt Locker",
+      "year": 2008
+    },
+    "The Fabelmans": {
+      "id": 804095,
+      "poster": "/h7llKkqkkJtJrTOaDLuVeUYDQ7I.jpg",
+      "title": "The Fabelmans",
+      "year": 2022
+    },
+    "Certified Copy": {
+      "id": 48303,
+      "poster": "/soBvtCR33Gv1j6gXwXOIc3JTlNc.jpg",
+      "title": "Certified Copy",
+      "year": 2010
+    },
+    "Donnie Darko": {
+      "id": 141,
+      "poster": "/j2AtZFsflxiluaNtajMTI0Avm8C.jpg",
+      "title": "Donnie Darko",
+      "year": 2001
+    },
+    "Hero": {
+      "id": 79,
+      "poster": "/vxgZto2Cz7ILHAlmRXt50I2brB2.jpg",
+      "title": "Hero",
+      "year": 2002
+    },
+    "The Social Network": {
+      "id": 37799,
+      "poster": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+      "title": "The Social Network",
+      "year": 2010
+    },
+    "25th Hour": {
+      "id": 1429,
+      "poster": "/uW7tTRElr2tRhmAVESzvHy4ByXg.jpg",
+      "title": "25th Hour",
+      "year": 2002
+    },
+    "There Will Be Blood": {
+      "id": 7345,
+      "poster": "/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+      "title": "There Will Be Blood",
+      "year": 2007
+    },
+    "Inglourious Basterds": {
+      "id": 16869,
+      "poster": "/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg",
+      "title": "Inglourious Basterds",
+      "year": 2009
+    },
+    "Lady Bird": {
+      "id": 391713,
+      "poster": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+      "title": "Lady Bird",
+      "year": 2017
+    },
+    "Mulholland Drive": {
+      "id": 1018,
+      "poster": "/x7A59t6ySylr1L7aubOQEA480vM.jpg",
+      "title": "Mulholland Drive",
+      "year": 2001
+    },
+    "In the Mood for Love": {
+      "id": 843,
+      "poster": "/iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg",
+      "title": "In the Mood for Love",
+      "year": 2000
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Mad Max: Fury Road": {
+      "id": 76341,
+      "poster": "/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+      "title": "Mad Max: Fury Road",
+      "year": 2015
+    },
+    "Marie Antoinette": {
+      "id": 1887,
+      "poster": "/cybXGmv8Rjd5Os8Xml6YxMBQ0Zt.jpg",
+      "title": "Marie Antoinette",
+      "year": 2006
+    },
+    "The Wolf of Wall Street": {
+      "id": 106646,
+      "poster": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+      "title": "The Wolf of Wall Street",
+      "year": 2013
+    },
+    "The Royal Tenenbaums": {
+      "id": 9428,
+      "poster": "/nG7hZJn7wQTSDCQT39Gy3s3tbrp.jpg",
+      "title": "The Royal Tenenbaums",
+      "year": 2001
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Moneyball": {
+      "id": 60308,
+      "poster": "/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+      "title": "Moneyball",
+      "year": 2011
+    },
+    "Inside Llewyn Davis": {
+      "id": 86829,
+      "poster": "/nNxK3pC3DMpPpWKMvo2p3liREVT.jpg",
+      "title": "Inside Llewyn Davis",
+      "year": 2013
+    },
+    "The Tree of Life": {
+      "id": 8967,
+      "poster": "/l8cwuB5WJSoj4uMAsnzuHBOMaSJ.jpg",
+      "title": "The Tree of Life",
+      "year": 2011
+    },
+    "Anchorman: The Legend of Ron Burgundy": {
+      "id": 8699,
+      "poster": "/mhZIcRePT7U8viFQVjt1ZjYIsR4.jpg",
+      "title": "Anchorman: The Legend of Ron Burgundy",
+      "year": 2004
+    },
+    "Before Sunset": {
+      "id": 80,
+      "poster": "/4sW5XH9ZfYXpvFzev00S1IGAEbg.jpg",
+      "title": "Before Sunset",
+      "year": 2004
+    },
+    "Spirited Away": {
+      "id": 129,
+      "poster": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+      "title": "Spirited Away",
+      "year": 2001
+    },
+    "Melancholia": {
+      "id": 62215,
+      "poster": "/fMneszMiQuTKY8JUXrGGB5vwqJf.jpg",
+      "title": "Melancholia",
+      "year": 2011
+    },
+    "Mission: Impossible - Fallout": {
+      "id": 353081,
+      "poster": "/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+      "title": "Mission: Impossible - Fallout",
+      "year": 2018
+    },
+    "Something's Gotta Give": {
+      "id": 6964,
+      "poster": "/1cpdqe0SpiHzzbOLq9GDUUlZdSl.jpg",
+      "title": "Something's Gotta Give",
+      "year": 2003
+    },
+    "Children of Men": {
+      "id": 9693,
+      "poster": "/k9IAS4TehZFcKi4HVByxZNPfqex.jpg",
+      "title": "Children of Men",
+      "year": 2006
+    },
+    "The Handmaiden": {
+      "id": 290098,
+      "poster": "/dLlH4aNHdnmf62umnInL8xPlPzw.jpg",
+      "title": "The Handmaiden",
+      "year": 2016
+    },
+    "Michael Clayton": {
+      "id": 4566,
+      "poster": "/hhkW4yVIGo8Bee3UITKvqOvhNMG.jpg",
+      "title": "Michael Clayton",
+      "year": 2007
+    },
+    "Phantom Thread": {
+      "id": 400617,
+      "poster": "/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg",
+      "title": "Phantom Thread",
+      "year": 2017
+    },
+    "Inherent Vice": {
+      "id": 171274,
+      "poster": "/pfVua7TzzttOh3RTOuBqT7xN0oY.jpg",
+      "title": "Inherent Vice",
+      "year": 2014
+    },
+    "Punch-Drunk Love": {
+      "id": 8051,
+      "poster": "/htYp4yqFu4rzBEIa6j9jP8miDm3.jpg",
+      "title": "Punch-Drunk Love",
+      "year": 2002
+    },
+    "The Man Who Wasn't There": {
+      "id": 10778,
+      "poster": "/lrCgt8NNMyFsfmXyXiSSCRXNH4u.jpg",
+      "title": "The Man Who Wasn't There",
+      "year": 2001
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Interstellar": {
+      "id": 157336,
+      "poster": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+      "title": "Interstellar",
+      "year": 2014
+    },
+    "Inception": {
+      "id": 27205,
+      "poster": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+      "title": "Inception",
+      "year": 2010
+    },
+    "The Prestige": {
+      "id": 1124,
+      "poster": "/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg",
+      "title": "The Prestige",
+      "year": 2006
+    },
+    "Dunkirk": {
+      "id": 374720,
+      "poster": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "title": "Dunkirk",
+      "year": 2017
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Kill Bill: Vol. 1": {
+      "id": 24,
+      "poster": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+      "title": "Kill Bill: Vol. 1",
+      "year": 2003
+    },
+    "Kill Bill: Vol. 2": {
+      "id": 393,
+      "poster": "/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
+      "title": "Kill Bill: Vol. 2",
+      "year": 2004
+    },
+    "Django Unchained": {
+      "id": 68718,
+      "poster": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+      "title": "Django Unchained",
+      "year": 2012
+    },
+    "Killers of the Flower Moon": {
+      "id": 466420,
+      "poster": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+      "title": "Killers of the Flower Moon",
+      "year": 2023
+    },
+    "Mickey 17": {
+      "id": 696506,
+      "poster": "/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
+      "title": "Mickey 17",
+      "year": 2025
+    },
+    "It's Complicated": {
+      "id": 22897,
+      "poster": "/bmjPrJgrGENFRrERP7lCJ9FGIVB.jpg",
+      "title": "It's Complicated",
+      "year": 2009
+    },
+    "Harry Potter and the Prisoner of Azkaban": {
+      "id": 673,
+      "poster": "/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "year": 2004
+    },
+    "2046": {
+      "id": 844,
+      "poster": "/jIN65qw0Giplo4CshzMrxz204Wn.jpg",
+      "title": "2046",
+      "year": 2004
+    },
+    "The Grand Budapest Hotel": {
+      "id": 120467,
+      "poster": "/zOVCqKUzjFKqa1eDMcOzvXwthY4.jpg",
+      "title": "The Grand Budapest Hotel",
+      "year": 2014
+    },
+    "Moonrise Kingdom": {
+      "id": 83666,
+      "poster": "/y4SXcbNl6CEF2t36icuzuBioj7K.jpg",
+      "title": "Moonrise Kingdom",
+      "year": 2012
+    },
+    "Asteroid City": {
+      "id": 747188,
+      "poster": "/hfo7pvL9Fys7rocfL4VOzw9qDEQ.jpg",
+      "title": "Asteroid City",
+      "year": 2023
+    },
+    "Isle of Dogs": {
+      "id": 399174,
+      "poster": "/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg",
+      "title": "Isle of Dogs",
+      "year": 2018
+    },
+    "Fantastic Mr. Fox": {
+      "id": 10315,
+      "poster": "/hhhJN8aJdTlzGmARCbwWflHXhwI.jpg",
+      "title": "Fantastic Mr. Fox",
+      "year": 2009
+    },
+    "Dancer in the Dark": {
+      "id": 16,
+      "poster": "/pWzOfTJRZHPNO1VNrMnNFqRcJwg.jpg",
+      "title": "Dancer in the Dark",
+      "year": 2000
+    },
+    "Dogville": {
+      "id": 553,
+      "poster": "/lraVawavIXh5geMlVjpzCw9TGwR.jpg",
+      "title": "Dogville",
+      "year": 2003
+    },
+    "Manderlay": {
+      "id": 1951,
+      "poster": "/6HYoHEcLNgETHlJDyQrC4Y7e01.jpg",
+      "title": "Manderlay",
+      "year": 2005
+    },
+    "Antichrist": {
+      "id": 17609,
+      "poster": "/ge7zbYvpfsDP3luKi0iSpzOgncM.jpg",
+      "title": "Antichrist",
+      "year": 2009
+    },
+    "Nymphomaniac": {
+      "id": 258216,
+      "poster": "/piikL8vRh3s1ysHGTIqaZpdjfNU.jpg",
+      "title": "Nymphomaniac: Vol. I",
+      "year": 2013
+    },
+    "The House That Jack Built": {
+      "id": 398173,
+      "poster": "/bMUGNkPaHOurcBK9g3XpJx3fxuO.jpg",
+      "title": "The House That Jack Built",
+      "year": 2018
+    },
+    "Hulk": {
+      "id": 1927,
+      "poster": "/UllIft2jLSBaay3zQyMV4GNdfy.jpg",
+      "title": "Hulk",
+      "year": 2003
+    },
+    "Taking Woodstock": {
+      "id": 26320,
+      "poster": "/wIdyAJCvIj3QUoNmmDdnhXpCMpp.jpg",
+      "title": "Taking Woodstock",
+      "year": 2009
+    },
+    "Ride with the Devil": {
+      "id": 22267,
+      "poster": "/pH3J5IUzho4ZVaRuTuErzqHHovb.jpg",
+      "title": "Ride with the Devil",
+      "year": 1999
+    },
+    "BlacKkKlansman": {
+      "id": 487558,
+      "poster": "/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg",
+      "title": "BlacKkKlansman",
+      "year": 2018
+    },
+    "Bamboozled": {
+      "id": 24664,
+      "poster": "/oAg1mUUxdWJNLa6t1gctbQhXHVN.jpg",
+      "title": "Bamboozled",
+      "year": 2000
+    },
+    "Highest 2 Lowest": {
+      "id": 1242434,
+      "poster": "/RFQtinuiHhOnbmJaCn3uzegCYF.jpg",
+      "title": "Highest 2 Lowest",
+      "year": 2025
+    },
+    "Inland Empire": {
+      "id": 1730,
+      "poster": "/s5f0FbVAABEnJYKaApWORTxhiFC.jpg",
+      "title": "Inland Empire",
+      "year": 2006
+    },
+    "The Immigrant": {
+      "id": 152599,
+      "poster": "/ArWRRQYeXL3nG4jYpMOPoBvgmy9.jpg",
+      "title": "The Immigrant",
+      "year": 2013
+    },
+    "Two Lovers": {
+      "id": 10362,
+      "poster": "/skwYEUcxhUub9QCSwPDMvBySphS.jpg",
+      "title": "Two Lovers",
+      "year": 2008
+    },
+    "Edge of Tomorrow": {
+      "id": 137113,
+      "poster": "/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
+      "title": "Edge of Tomorrow",
+      "year": 2014
+    },
+    "Good Time": {
+      "id": 429200,
+      "poster": "/yE1c9hj5Hf8a9KplAdRdhADqUro.jpg",
+      "title": "Good Time",
+      "year": 2017
+    },
+    "Talk to Her": {
+      "id": 64,
+      "poster": "/fWDbQlOWOqjR5jZm98KjGyYmUOw.jpg",
+      "title": "Talk to Her",
+      "year": 2002
+    },
+    "Volver": {
+      "id": 219,
+      "poster": "/m1ZUDGTFtVGE3zjTvF8OiQ9um5e.jpg",
+      "title": "Volver",
+      "year": 2006
+    },
+    "The Piano Teacher": {
+      "id": 1791,
+      "poster": "/gNHKYQnP1RnqEhkivHJzBPb4MOP.jpg",
+      "title": "The Piano Teacher",
+      "year": 2001
+    },
+    "Caché": {
+      "id": 445,
+      "poster": "/vTzjRi0Uhy0tt3Rjw8SARZZJHlX.jpg",
+      "title": "Caché",
+      "year": 2005
+    },
+    "The White Ribbon": {
+      "id": 37903,
+      "poster": "/54dlnGDexrwAFlDb8HWKfmmX4LB.jpg",
+      "title": "The White Ribbon",
+      "year": 2009
+    },
+    "Funny Games": {
+      "id": 10234,
+      "poster": "/vUJxLlRGM6KfXQDeAHqyMyhrI59.jpg",
+      "title": "Funny Games",
+      "year": 1997
+    },
+    "The Shape of Water": {
+      "id": 399055,
+      "poster": "/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg",
+      "title": "The Shape of Water",
+      "year": 2017
+    },
+    "The Mule": {
+      "id": 504172,
+      "poster": "/oeZh7yEz3PMnZLgBPhrafFHRbVz.jpg",
+      "title": "The Mule",
+      "year": 2018
+    },
+    "Richard Jewell": {
+      "id": 292011,
+      "poster": "/5Lgkm8jt4roAFPZQ52fKMhVmDaZ.jpg",
+      "title": "Richard Jewell",
+      "year": 2019
+    },
+    "Million Dollar Baby": {
+      "id": 70,
+      "poster": "/jcfEqKdWF1zeyvECPqp3mkWLct2.jpg",
+      "title": "Million Dollar Baby",
+      "year": 2004
+    },
+    "Wendy and Lucy": {
+      "id": 8942,
+      "poster": "/cVtF8SW4zMbculTXD52RDvmQAAR.jpg",
+      "title": "Wendy and Lucy",
+      "year": 2008
+    },
+    "12 Years a Slave": {
+      "id": 76203,
+      "poster": "/xdANQijuNrJaw1HA61rDccME4Tm.jpg",
+      "title": "12 Years a Slave",
+      "year": 2013
+    },
+    "Widows": {
+      "id": 401469,
+      "poster": "/d31SGJSaX29ba5ZUbZcesGoDE7I.jpg",
+      "title": "Widows",
+      "year": 2018
+    },
+    "A Prophet": {
+      "id": 21575,
+      "poster": "/x9Jb8kewBHPzjTtgCQvoQoDsy4d.jpg",
+      "title": "A Prophet",
+      "year": 2009
+    },
+    "John Wick: Chapter 4": {
+      "id": 603692,
+      "poster": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+      "title": "John Wick: Chapter 4",
+      "year": 2023
+    },
+    "Bad Boys II": {
+      "id": 8961,
+      "poster": "/yCvB5fG5aEPqa1St7ihY6KEAsHD.jpg",
+      "title": "Bad Boys II",
+      "year": 2003
+    },
+    "Ambulance": {
+      "id": 763285,
+      "poster": "/hUbgg3mMSbY9PlpTxBo4IFUVSd6.jpg",
+      "title": "Ambulance",
+      "year": 2022
+    },
+    "Phoenix": {
+      "id": 254578,
+      "poster": "/rJuKu5Rpg92AkzyC5rbYbqsNPI9.jpg",
+      "title": "Phoenix",
+      "year": 2014
+    },
+    "The Zone of Interest": {
+      "id": 467244,
+      "poster": "/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg",
+      "title": "The Zone of Interest",
+      "year": 2023
+    },
+    "Sexy Beast": {
+      "id": 11826,
+      "poster": "/xTfCZTzhgHNAR1pf5D49WH4buI5.jpg",
+      "title": "Sexy Beast",
+      "year": 2001
+    },
+    "A Star Is Born": {
+      "id": 332562,
+      "poster": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "title": "A Star Is Born",
+      "year": 2018
+    },
+    "Bridesmaids": {
+      "id": 55721,
+      "poster": "/gJtA7hYsBMQ7EM3sPBMUdBfU7a0.jpg",
+      "title": "Bridesmaids",
+      "year": 2011
+    },
+    "Zero Dark Thirty": {
+      "id": 97630,
+      "poster": "/wNSdSSxowM3WIqmPJNg3RagYbwP.jpg",
+      "title": "Zero Dark Thirty",
+      "year": 2012
+    },
+    "Ida": {
+      "id": 209274,
+      "poster": "/oNDr7ScsegS2i2sXfAbSzomWMsH.jpg",
+      "title": "Ida",
+      "year": 2013
+    },
+    "Cold War": {
+      "id": 137409,
+      "poster": "/zFiHdFJHppW43xmsnS8whzYnVQ8.jpg",
+      "title": "Cold War",
+      "year": 2012
+    },
+    "Zama": {
+      "id": 326382,
+      "poster": "/kpp9R6iYKSIXxfyW0feVYrk0jsg.jpg",
+      "title": "Zama",
+      "year": 2017
+    },
+    "Moulin Rouge!": {
+      "id": 824,
+      "poster": "/2kjM5CUZRIU5yOANUowrbJcRL9L.jpg",
+      "title": "Moulin Rouge!",
+      "year": 2001
+    },
+    "Honey Don't": {
+      "id": 1149504,
+      "poster": "/fJm3kmd9NLZWypMas7g34oNFgbk.jpg",
+      "title": "Honey Don't!",
+      "year": 2025
+    },
+    "Fast Five": {
+      "id": 51497,
+      "poster": "/gEfQjjQwY7fh5bI4GlG0RrBu7Pz.jpg",
+      "title": "Fast Five",
+      "year": 2011
+    },
+    "Ocean's Eleven": {
+      "id": 161,
+      "poster": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+      "title": "Ocean's Eleven",
+      "year": 2001
+    },
+    "Love & Basketball": {
+      "id": 14736,
+      "poster": "/zNZWNX19FZ5QyedprVM0ldsXFiP.jpg",
+      "title": "Love & Basketball",
+      "year": 2000
+    },
+    "The Other Guys": {
+      "id": 27581,
+      "poster": "/wNEHNqo3MgHmj3BUiPSqqq5czcm.jpg",
+      "title": "The Other Guys",
+      "year": 2010
+    },
+    "Uncle Boonmee Who Can Recall His Past Lives": {
+      "id": 38368,
+      "poster": "/kPFkC9EBvllCIuDTR7A0DSEK6gJ.jpg",
+      "title": "Uncle Boonmee Who Can Recall His Past Lives",
+      "year": 2010
+    },
+    "Fish Tank": {
+      "id": 24469,
+      "poster": "/rI3MKBDsWzQHi9PWDAMKkgmYcff.jpg",
+      "title": "Fish Tank",
+      "year": 2009
+    },
+    "Drive My Car": {
+      "id": 758866,
+      "poster": "/a2lxHS6Au35k5XtFQEQW44yWHeH.jpg",
+      "title": "Drive My Car",
+      "year": 2021
+    },
+    "A Touch of Sin": {
+      "id": 187022,
+      "poster": "/yZKem3DGUiM3664otaSfuGacjiz.jpg",
+      "title": "A Touch of Sin",
+      "year": 2013
+    },
+    "Holy Motors": {
+      "id": 103328,
+      "poster": "/4ZuTrrDQhCS9f6KzIX6HfsjjyMd.jpg",
+      "title": "Holy Motors",
+      "year": 2012
+    },
+    "Beau Travail": {
+      "id": 14626,
+      "poster": "/5ySa1aQaT7kMcAbKwlS1HXxp2hM.jpg",
+      "title": "Beau Travail",
+      "year": 2000
+    },
+    "The Greatest Love Story Never Told": {
+      "id": 1246030,
+      "poster": "/czYawYBFfmSYowzBAS6AkNq9ngs.jpg",
+      "title": "The Greatest Love Story Never Told",
+      "year": 2024
+    },
+    "The Town": {
+      "id": 23168,
+      "poster": "/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
+      "title": "The Town",
+      "year": 2010
+    },
+    "Argo": {
+      "id": 68734,
+      "poster": "/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
+      "title": "Argo",
+      "year": 2012
+    },
+    "Chasing Amy": {
+      "id": 2255,
+      "poster": "/tqydORBcNlQxy3ijgSpPurgDHM2.jpg",
+      "title": "Chasing Amy",
+      "year": 1997
+    },
+    "Mallrats": {
+      "id": 2293,
+      "poster": "/2ip0sGIMPN0XEN6q3lQIoaNI6tP.jpg",
+      "title": "Mallrats",
+      "year": 1995
+    },
+    "Phantoms": {
+      "id": 9827,
+      "poster": "/FM8MOTW8BbyoTLa2V8PnI6UPib.jpg",
+      "title": "Phantoms",
+      "year": 1998
+    },
+    "Gone Girl": {
+      "id": 210577,
+      "poster": "/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+      "title": "Gone Girl",
+      "year": 2014
+    },
+    "Sense and Sensibility": {
+      "id": 4584,
+      "poster": "/9YdQ73YmvInxpXZVNjEKePw9tRO.jpg",
+      "title": "Sense and Sensibility",
+      "year": 1995
+    },
+    "Rushmore": {
+      "id": 11545,
+      "poster": "/hSJ6swahAuZ8wM96lHDTwQPXUvZ.jpg",
+      "title": "Rushmore",
+      "year": 1998
+    },
+    "Kicking and Screaming": {
+      "id": 28387,
+      "poster": "/ynAtSpTou7snNOq32djzILw9VCA.jpg",
+      "title": "Kicking and Screaming",
+      "year": 1995
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "Out of Sight": {
+      "id": 1389,
+      "poster": "/v49q7AMR3pB4M762woWB1NYMCLF.jpg",
+      "title": "Out of Sight",
+      "year": 1998
+    },
+    "The Limey": {
+      "id": 10388,
+      "poster": "/efAnFInZYrenNvBlLIXN2oLYyNc.jpg",
+      "title": "The Limey",
+      "year": 1999
+    },
+    "Princess Mononoke": {
+      "id": 128,
+      "poster": "/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+      "title": "Princess Mononoke",
+      "year": 1997
+    },
+    "My Neighbor Totoro": {
+      "id": 8392,
+      "poster": "/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
+      "title": "My Neighbor Totoro",
+      "year": 1988
+    },
+    "Porco Rosso": {
+      "id": 11621,
+      "poster": "/8mIvSvnVBApfORL9N6S38Q7wD6A.jpg",
+      "title": "Porco Rosso",
+      "year": 1992
+    }
+  },
+  "spotifyEpisodeId": "6uPrpF0xw4Vw6lZ6oLoyTR"
+}

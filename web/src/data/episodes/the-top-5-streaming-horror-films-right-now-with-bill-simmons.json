@@ -1,0 +1,188 @@
+{
+  "slug": "the-top-5-streaming-horror-films-right-now-with-bill-simmons",
+  "title": "The Top 5 Streaming Horror Films Right Now with Bill Simmons | Discussion (Ep. 90)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Bill Simmons"
+  ],
+  "published": "2018-10-26",
+  "runtimeMin": 6,
+  "format": "Bill Simmons joins Sean Fennessey to count down five streaming horror picks each, starting with their No. 5s: The Omen and The Invitation.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The Top 5 Streaming Horror Movies Right Now",
+      "note": "starting with the No. 5 picks",
+      "films": [
+        {
+          "title": "The Omen",
+          "year": 1976,
+          "note": "Bill's No. 5. Directed by Richard Donner, with Gregory Peck as the American ambassador whose son might be the devil's child. Got Oscar nominations on release; Bill calls it well-respected and still creepy, with a nanny scene near the start he won't spoil."
+        },
+        {
+          "title": "The Invitation",
+          "year": 2015,
+          "note": "Sean's No. 5, and his favorite LA horror movie. Directed by Karyn Kusama. A man gets invited to a dinner party by his ex, who has a new partner, a new house in the hills, and a group of oddly serene new friends."
+        },
+        {
+          "title": "The Last House on the Left",
+          "year": 2009,
+          "note": "Sean almost put the remake in his five. The original is Wes Craven's first film, gorier and shot like a documentary; the remake is slicker, but he left it off over an ugly assault scene the movie could've toned down."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Richard Donner's run after The Omen",
+      "films": [
+        "Superman",
+        "Superman II",
+        "The Toy",
+        "The Goonies",
+        "Ladyhawke",
+        "Lethal Weapon"
+      ]
+    },
+    {
+      "group": "Horror legacy comparison",
+      "films": [
+        "Rosemary's Baby"
+      ]
+    },
+    {
+      "group": "2000s remakes that didn't work",
+      "films": [
+        "A Nightmare on Elm Street",
+        "Friday the 13th",
+        "The Texas Chainsaw Massacre"
+      ]
+    },
+    {
+      "group": "A 2000s remake that did work",
+      "films": [
+        "The Hills Have Eyes"
+      ]
+    },
+    {
+      "group": "Karyn Kusama's other films",
+      "films": [
+        "Girlfight",
+        "Jennifer's Body",
+        "Destroyer"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Superman": 1924,
+    "A Nightmare on Elm Street": 23437,
+    "Friday the 13th": 13207,
+    "The Hills Have Eyes": 9792
+  },
+  "tmdb": {
+    "The Omen": {
+      "id": 794,
+      "poster": "/mDcjjEu1fMNmsXi4l4D8IftlTix.jpg",
+      "title": "The Omen",
+      "year": 1976
+    },
+    "The Invitation": {
+      "id": 306947,
+      "poster": "/otZMaGHWnKPgOODF6SSVNGqbI4X.jpg",
+      "title": "The Invitation",
+      "year": 2016
+    },
+    "The Last House on the Left": {
+      "id": 18405,
+      "poster": "/2Y35XCUS8U8vC8vs0HDEVkPu1BM.jpg",
+      "title": "The Last House on the Left",
+      "year": 2009
+    },
+    "Superman": {
+      "id": 1924,
+      "poster": "/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
+      "title": "Superman",
+      "year": 1978
+    },
+    "Superman II": {
+      "id": 8536,
+      "poster": "/3xk5cno9BHcnwc97XO9k21aI1Zi.jpg",
+      "title": "Superman II",
+      "year": 1980
+    },
+    "The Toy": {
+      "id": 23805,
+      "poster": "/yt7Z37Uo2zls64XikaYh8nCwTAv.jpg",
+      "title": "The Toy",
+      "year": 1982
+    },
+    "The Goonies": {
+      "id": 9340,
+      "poster": "/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
+      "title": "The Goonies",
+      "year": 1985
+    },
+    "Ladyhawke": {
+      "id": 526,
+      "poster": "/vJA2Fhw2uBMiVFdBde2kH7kZ2gw.jpg",
+      "title": "Ladyhawke",
+      "year": 1985
+    },
+    "Lethal Weapon": {
+      "id": 941,
+      "poster": "/fTq4ThIP3pQTYR9eDepsbDHqdcs.jpg",
+      "title": "Lethal Weapon",
+      "year": 1987
+    },
+    "Rosemary's Baby": {
+      "id": 805,
+      "poster": "/uYgvlHceRFjAFbsNeMInYcLZLUb.jpg",
+      "title": "Rosemary's Baby",
+      "year": 1968
+    },
+    "A Nightmare on Elm Street": {
+      "id": 23437,
+      "poster": "/nsmW28GcNabCUZfP5YtUEe8Li0f.jpg",
+      "title": "A Nightmare on Elm Street",
+      "year": 2010
+    },
+    "Friday the 13th": {
+      "id": 13207,
+      "poster": "/88wlJ4teYlck4hJ2bnlxBrAVh0m.jpg",
+      "title": "Friday the 13th",
+      "year": 2009
+    },
+    "The Texas Chainsaw Massacre": {
+      "id": 9373,
+      "poster": "/781px1eOtfVt1RdIsL4Dt1s3x7R.jpg",
+      "title": "The Texas Chainsaw Massacre",
+      "year": 2003
+    },
+    "The Hills Have Eyes": {
+      "id": 9792,
+      "poster": "/w391167zrbCOljQfJk5vlOmcDjU.jpg",
+      "title": "The Hills Have Eyes",
+      "year": 2006
+    },
+    "Girlfight": {
+      "id": 19348,
+      "poster": "/ydHUoYtpZdkwxdroK1rWyEpJrLZ.jpg",
+      "title": "Girlfight",
+      "year": 2000
+    },
+    "Jennifer's Body": {
+      "id": 19994,
+      "poster": "/wrkjsGcFJxcQqR56kJUYAEKKg2T.jpg",
+      "title": "Jennifer's Body",
+      "year": 2009
+    },
+    "Destroyer": {
+      "id": 471507,
+      "poster": "/sHw9gTdo43nJL82py0oaROkXXNr.jpg",
+      "title": "Destroyer",
+      "year": 2018
+    }
+  }
+}

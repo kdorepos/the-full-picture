@@ -1,0 +1,158 @@
+{
+  "slug": "why-stop-motion-animation-takes-forever-to-make-with-nick-pa",
+  "title": "Why Stop-Motion Animation Takes Forever to Make, With Nick Park | The Big Picture (Ep. 49)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2018-02-16",
+  "runtimeMin": 25,
+  "format": "Nick Park on why Early Man took five years, the Ray Harryhausen film that hooked him on animation, and running a 150-person stop-motion shoot across 35 sets.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Nick Park on",
+      "films": [
+        {
+          "title": "One Million Years B.C.",
+          "year": 1966,
+          "note": "The Ray Harryhausen film Park saw at 11 that made him pick up a camera and start animating dinosaurs out of clay."
+        },
+        {
+          "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+          "year": 2005,
+          "note": "The last Aardman feature shot on film before the switch to digital cameras."
+        },
+        {
+          "title": "Early Man",
+          "year": 2018,
+          "note": "Park's new film, a Stone Age-vs.-Bronze Age soccer comedy four or five years in the making, with its opening dinosaur fight built as a direct Harryhausen tribute."
+        },
+        {
+          "title": "The Nightmare Before Christmas",
+          "year": 1993,
+          "note": "Henry Selick's film convinced Park and Aardman that stop-motion could carry a full feature."
+        },
+        {
+          "title": "A Grand Day Out",
+          "year": 1989,
+          "note": "The first Wallace and Gromit short. Park animated about 90 percent of it himself."
+        },
+        {
+          "title": "The Wrong Trousers",
+          "year": 1993,
+          "note": "Park and Steve Box handled all the animation, before the crew grew to seven and then to 35 or 40 on a feature."
+        },
+        {
+          "title": "Chicken Run",
+          "year": 2000,
+          "note": "One of the features Park and producer Peter Lord built toward as Aardman expanded."
+        },
+        {
+          "title": "Coco",
+          "year": 2017,
+          "note": "Park's answer to the show's closing question: the last great thing he'd seen."
+        },
+        {
+          "title": "Inside Out",
+          "year": 2015,
+          "note": "Cited as proof Pete Docter can make something mature and entertaining at the same time."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "A Matter of Loaf and Death",
+        "Strong Island",
+        "Black Panther"
+      ]
+    }
+  ],
+  "excluded": {
+    "Podcasts": [
+      "Binge Mode"
+    ],
+    "Ads": [
+      "Squarespace"
+    ]
+  },
+  "tmdb": {
+    "One Million Years B.C.": {
+      "id": 3591,
+      "poster": "/d0UqwGHnC4Lb0Iol8B4pUIBtAh3.jpg",
+      "title": "One Million Years B.C.",
+      "year": 1966
+    },
+    "Wallace & Gromit: The Curse of the Were-Rabbit": {
+      "id": 533,
+      "poster": "/cMQ2lNd7sBe6PCf6zF5QxrKzbRG.jpg",
+      "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+      "year": 2005
+    },
+    "Early Man": {
+      "id": 387592,
+      "poster": "/5iW2rntwLZoGlFCYYy8TjHyblbw.jpg",
+      "title": "Early Man",
+      "year": 2018
+    },
+    "The Nightmare Before Christmas": {
+      "id": 9479,
+      "poster": "/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+      "title": "The Nightmare Before Christmas",
+      "year": 1993
+    },
+    "A Grand Day Out": {
+      "id": 530,
+      "poster": "/h5e3r12VwfUotN36fBr1DNeCD4n.jpg",
+      "title": "A Grand Day Out",
+      "year": 1990
+    },
+    "The Wrong Trousers": {
+      "id": 531,
+      "poster": "/mV8SDTjkxrDxu0a0egvFz1lRPU7.jpg",
+      "title": "The Wrong Trousers",
+      "year": 1993
+    },
+    "Chicken Run": {
+      "id": 7443,
+      "poster": "/8XgmIsbpVamdhwcNVsYzohFZTtT.jpg",
+      "title": "Chicken Run",
+      "year": 2000
+    },
+    "Coco": {
+      "id": 354912,
+      "poster": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+      "title": "Coco",
+      "year": 2017
+    },
+    "Inside Out": {
+      "id": 150540,
+      "poster": "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+      "title": "Inside Out",
+      "year": 2015
+    },
+    "A Matter of Loaf and Death": {
+      "id": 14447,
+      "poster": "/aCRoffkRpWRlArR7dAkxabaimLr.jpg",
+      "title": "A Matter of Loaf and Death",
+      "year": 2008
+    },
+    "Strong Island": {
+      "id": 428612,
+      "poster": "/qGq7WCNv9S8GBbP8DfIchiaodWn.jpg",
+      "title": "Strong Island",
+      "year": 2017
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    }
+  }
+}

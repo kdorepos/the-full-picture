@@ -1,0 +1,691 @@
+{
+  "slug": "mamma-mia-meets-the-strangers-its-a-movie-swap",
+  "title": "'Mamma Mia!' Meets 'The Strangers'! It's a Movie Swap!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2026-02-06",
+  "runtimeMin": 99,
+  "format": "The sixth Sean-and-Amanda movie swap: she watches 'The Strangers,' he finally watches 'Mamma Mia!,' both from 2008, and they argue about not knowing.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "'The Strangers'",
+      "note": "Sean's pick — Amanda watches for the first time",
+      "films": [
+        {
+          "title": "The Strangers",
+          "year": 2008,
+          "note": "Brian Bertino's directorial debut, shot in 2006-07 and shelved a year. Liv Tyler and Scott Speedman come home from a wedding where his proposal was turned down; three masked strangers terrorize them for no reason. Both love that it withholds almost everything: the killers stay masked, and the only explanation ('Because you were home') is the one moment Sean thinks tips too far. Made $85M; Amanda gives it 3.5 stars on Letterboxd."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "'Mamma Mia!'",
+      "note": "Amanda's pick — Sean finally watches it",
+      "films": [
+        {
+          "title": "Mamma Mia!",
+          "year": 2008,
+          "note": "Phyllida Lloyd's only feature (before The Iron Lady), an ABBA jukebox musical shot in Greece. Sean calls it simultaneously very good and very badly directed, like great karaoke with famous people slightly hungover on vacation. Amanda's peak: Meryl Streep singing 'The Winner Takes It All' at Pierce Brosnan on a cliff. Made $610M worldwide; third-highest-grossing movie musical if you drop the Disney titles. Ends without naming the father, the swap's shared theme of not knowing."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Past movie swaps",
+      "films": [
+        "Spider-Man: Into the Spider-Verse",
+        "Sense and Sensibility",
+        "Aliens",
+        "Four Weddings and a Funeral",
+        "Terminator 2: Judgment Day",
+        "Titanic",
+        "Fargo",
+        "The English Patient",
+        "Casablanca",
+        "The In-Laws",
+        "Spy Kids",
+        "Shrek"
+      ]
+    },
+    {
+      "group": "The horror around 'The Strangers'",
+      "films": [
+        "Funny Games",
+        "The Texas Chainsaw Massacre",
+        "A Nightmare on Elm Street",
+        "The Last House on the Left",
+        "Saw",
+        "Hostel",
+        "The Town That Dreaded Sundown",
+        "Friday the 13th",
+        "Nightmares",
+        "The Strangers: Prey at Night",
+        "The Strangers: Chapter 1"
+      ]
+    },
+    {
+      "group": "Brian Bertino and friends",
+      "films": [
+        "Mockingbird",
+        "The Monster",
+        "The Dark and the Wicked",
+        "Vicious",
+        "Primate",
+        "A Minecraft Movie",
+        "Weapons",
+        "Now You See Me 2"
+      ]
+    },
+    {
+      "group": "Meryl, from every angle",
+      "films": [
+        "The Iron Lady",
+        "The Devil Wears Prada",
+        "Into the Woods",
+        "Florence Foster Jenkins",
+        "Ricki and the Flash",
+        "Postcards from the Edge",
+        "Death Becomes Her",
+        "The Bridges of Madison County",
+        "Adaptation",
+        "The Hours",
+        "Lemony Snicket's A Series of Unfortunate Events",
+        "Lions for Lambs",
+        "Doubt",
+        "Julie & Julia",
+        "It's Complicated",
+        "A Cry in the Dark",
+        "Mary Poppins Returns",
+        "Mamma Mia! Here We Go Again"
+      ]
+    },
+    {
+      "group": "Movie musicals, argued over",
+      "films": [
+        "Les Misérables",
+        "The Greatest Showman",
+        "West Side Story",
+        "In the Heights",
+        "Wicked",
+        "Step Up",
+        "Wonka",
+        "Bohemian Rhapsody"
+      ]
+    },
+    {
+      "group": "Amanda Seyfried",
+      "films": [
+        "Mean Girls",
+        "In Time",
+        "Jennifer's Body",
+        "The Housemaid",
+        "The Testament of Ann Lee"
+      ]
+    },
+    {
+      "group": "2008 at the movies",
+      "films": [
+        "The Dark Knight",
+        "Iron Man",
+        "WALL·E",
+        "Indiana Jones and the Kingdom of the Crystal Skull",
+        "Twilight"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Lincoln",
+        "One Battle After Another",
+        "Bergman Island",
+        "Avatar: The Way of Water",
+        "Sonic the Hedgehog",
+        "Wanted",
+        "Salt",
+        "Happy Gilmore",
+        "The Rocky Horror Picture Show",
+        "The Thursday Murder Club",
+        "The Super Mario Bros. Movie",
+        "Melania",
+        "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+        "Michael"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "The In-Laws": 19827,
+    "The Town That Dreaded Sundown": 48197,
+    "Funny Games": 8461,
+    "A Cry in the Dark": 35119
+  },
+  "excluded": {
+    "TV": [
+      "Felicity",
+      "The Good Wife",
+      "Sex and the City",
+      "Seinfeld",
+      "SpongeBob SquarePants",
+      "Gabby's Dollhouse",
+      "Maury"
+    ],
+    "Podcasts": [
+      "Second in Command",
+      "Winds of Change"
+    ],
+    "Ads": [
+      "State Farm",
+      "Tremfaya",
+      "Wells Fargo Autograph Journey",
+      "Wayfair",
+      "Zazzle"
+    ]
+  },
+  "tmdb": {
+    "The Strangers": {
+      "id": 10665,
+      "poster": "/gwsg4qFmLOvlhwXj4OZuxfFUdP0.jpg",
+      "title": "The Strangers",
+      "year": 2008
+    },
+    "Mamma Mia!": {
+      "id": 11631,
+      "poster": "/zdUA4FNHbXPadzVOJiU0Rgn6cHR.jpg",
+      "title": "Mamma Mia!",
+      "year": 2008
+    },
+    "Spider-Man: Into the Spider-Verse": {
+      "id": 324857,
+      "poster": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018
+    },
+    "Sense and Sensibility": {
+      "id": 4584,
+      "poster": "/9YdQ73YmvInxpXZVNjEKePw9tRO.jpg",
+      "title": "Sense and Sensibility",
+      "year": 1995
+    },
+    "Aliens": {
+      "id": 679,
+      "poster": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "title": "Aliens",
+      "year": 1986
+    },
+    "Four Weddings and a Funeral": {
+      "id": 712,
+      "poster": "/qa72G2VS0bpxms6yo0tI9vsHm2e.jpg",
+      "title": "Four Weddings and a Funeral",
+      "year": 1994
+    },
+    "Terminator 2: Judgment Day": {
+      "id": 280,
+      "poster": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "Fargo": {
+      "id": 275,
+      "poster": "/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+      "title": "Fargo",
+      "year": 1996
+    },
+    "The English Patient": {
+      "id": 409,
+      "poster": "/8eHHqMg8qEYtVw8LQLygsHXSR2q.jpg",
+      "title": "The English Patient",
+      "year": 1996
+    },
+    "Casablanca": {
+      "id": 289,
+      "poster": "/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+      "title": "Casablanca",
+      "year": 1943
+    },
+    "The In-Laws": {
+      "id": 19827,
+      "poster": "/dt82c6NAqBgENPiy7LHNwYiBKkY.jpg",
+      "title": "The In-Laws",
+      "year": 1979
+    },
+    "Spy Kids": {
+      "id": 10054,
+      "poster": "/j3rUkHIAAoKr6jU30q3Db4fcIF9.jpg",
+      "title": "Spy Kids",
+      "year": 2001
+    },
+    "Shrek": {
+      "id": 808,
+      "poster": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+      "title": "Shrek",
+      "year": 2001
+    },
+    "Funny Games": {
+      "id": 8461,
+      "poster": "/zs92sAOh3Q0kDIJkgaJFTBzSFka.jpg",
+      "title": "Funny Games",
+      "year": 2008
+    },
+    "The Texas Chainsaw Massacre": {
+      "id": 9373,
+      "poster": "/781px1eOtfVt1RdIsL4Dt1s3x7R.jpg",
+      "title": "The Texas Chainsaw Massacre",
+      "year": 2003
+    },
+    "A Nightmare on Elm Street": {
+      "id": 377,
+      "poster": "/b9rMHAAKISRmIonaQd9Cccx0S4X.jpg",
+      "title": "A Nightmare on Elm Street",
+      "year": 1984
+    },
+    "The Last House on the Left": {
+      "id": 18405,
+      "poster": "/2Y35XCUS8U8vC8vs0HDEVkPu1BM.jpg",
+      "title": "The Last House on the Left",
+      "year": 2009
+    },
+    "Saw": {
+      "id": 176,
+      "poster": "/rLNSOudrayDBo1uqXjrhxcjODIC.jpg",
+      "title": "Saw",
+      "year": 2004
+    },
+    "Hostel": {
+      "id": 1690,
+      "poster": "/dDrtuWUKhgUGp12kgUWuP0NpTdF.jpg",
+      "title": "Hostel",
+      "year": 2006
+    },
+    "The Town That Dreaded Sundown": {
+      "id": 48197,
+      "poster": "/sI6kUePh4S3T1rDozPR0Etg7E8X.jpg",
+      "title": "The Town That Dreaded Sundown",
+      "year": 1976
+    },
+    "Friday the 13th": {
+      "id": 4488,
+      "poster": "/uGGpnWHOmWTARVN9wbC1nPxNgps.jpg",
+      "title": "Friday the 13th",
+      "year": 1980
+    },
+    "Nightmares": {
+      "id": 42114,
+      "poster": "/7spL1SrfmAWQ0O2m2u459WsuSkV.jpg",
+      "title": "Nightmares",
+      "year": 1983
+    },
+    "The Strangers: Prey at Night": {
+      "id": 371608,
+      "poster": "/vdxLpPsZkPZdFrREp7eSeSzcimj.jpg",
+      "title": "The Strangers: Prey at Night",
+      "year": 2018
+    },
+    "The Strangers: Chapter 1": {
+      "id": 1010600,
+      "poster": "/oYsCNpW4k7Pd7ac3uQfBhr2ihtW.jpg",
+      "title": "The Strangers: Chapter 1",
+      "year": 2024
+    },
+    "Mockingbird": {
+      "id": 289712,
+      "poster": "/h7tzWmIOqMlXqakPV21DPCGSFKr.jpg",
+      "title": "Mockingbird",
+      "year": 2014
+    },
+    "The Monster": {
+      "id": 340103,
+      "poster": "/daQg6pnZj10Ir25uMZ0lMacHKOP.jpg",
+      "title": "The Monster",
+      "year": 2016
+    },
+    "The Dark and the Wicked": {
+      "id": 680593,
+      "poster": "/4DB9VFVTp0IQEWFEIf9f3f2z3t5.jpg",
+      "title": "The Dark and the Wicked",
+      "year": 2020
+    },
+    "Vicious": {
+      "id": 1251717,
+      "poster": "/shKGDGrwqmc9x2aTJcQszoXinq0.jpg",
+      "title": "Vicious",
+      "year": 2025
+    },
+    "Primate": {
+      "id": 1315303,
+      "poster": "/rKleYiEj4pFqxedTRWfujLooi84.jpg",
+      "title": "Primate",
+      "year": 2026
+    },
+    "A Minecraft Movie": {
+      "id": 950387,
+      "poster": "/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+      "title": "A Minecraft Movie",
+      "year": 2025
+    },
+    "Weapons": {
+      "id": 1078605,
+      "poster": "/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+      "title": "Weapons",
+      "year": 2025
+    },
+    "Now You See Me 2": {
+      "id": 291805,
+      "poster": "/A81kDB6a1K86YLlcOtZB27jriJh.jpg",
+      "title": "Now You See Me 2",
+      "year": 2016
+    },
+    "The Iron Lady": {
+      "id": 71688,
+      "poster": "/fx7wpKXOht7WOkeOslvErbrf69Q.jpg",
+      "title": "The Iron Lady",
+      "year": 2011
+    },
+    "The Devil Wears Prada": {
+      "id": 350,
+      "poster": "/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+      "title": "The Devil Wears Prada",
+      "year": 2006
+    },
+    "Into the Woods": {
+      "id": 224141,
+      "poster": "/bINGDDuvUnZyde2sIcSx41IE5b6.jpg",
+      "title": "Into the Woods",
+      "year": 2014
+    },
+    "Florence Foster Jenkins": {
+      "id": 315664,
+      "poster": "/1HAdtUchzWEo0LMFHrgD2UBIBS3.jpg",
+      "title": "Florence Foster Jenkins",
+      "year": 2016
+    },
+    "Ricki and the Flash": {
+      "id": 275601,
+      "poster": "/y9hw9XSk8uVgLRfq3cweiAEJtU.jpg",
+      "title": "Ricki and the Flash",
+      "year": 2015
+    },
+    "Postcards from the Edge": {
+      "id": 22414,
+      "poster": "/uF7bO5UcenRgag0jpbVvKsGyfBK.jpg",
+      "title": "Postcards from the Edge",
+      "year": 1990
+    },
+    "Death Becomes Her": {
+      "id": 9374,
+      "poster": "/kkWxyyyWFK5KNk9WVwQuGEC9H9H.jpg",
+      "title": "Death Becomes Her",
+      "year": 1992
+    },
+    "The Bridges of Madison County": {
+      "id": 688,
+      "poster": "/aCBrhOQjhG397GLkEZ49zReQEKX.jpg",
+      "title": "The Bridges of Madison County",
+      "year": 1995
+    },
+    "Adaptation": {
+      "id": 2757,
+      "poster": "/ffEmHQAiD0m5dEQ6rlsuA9vlllW.jpg",
+      "title": "Adaptation.",
+      "year": 2002
+    },
+    "The Hours": {
+      "id": 590,
+      "poster": "/4myDtowDJQPQnkEDB1IWGtJR1Fo.jpg",
+      "title": "The Hours",
+      "year": 2002
+    },
+    "Lemony Snicket's A Series of Unfortunate Events": {
+      "id": 11774,
+      "poster": "/76Xi8z7Whv5WFIdfzzvC5tKSicd.jpg",
+      "title": "Lemony Snicket's A Series of Unfortunate Events",
+      "year": 2004
+    },
+    "Lions for Lambs": {
+      "id": 4515,
+      "poster": "/37L6IoLhTgLzq6XYWpWUlbbEzMj.jpg",
+      "title": "Lions for Lambs",
+      "year": 2007
+    },
+    "Doubt": {
+      "id": 14359,
+      "poster": "/9lypT2ghNuUPYVJf66oe4fKvUqI.jpg",
+      "title": "Doubt",
+      "year": 2008
+    },
+    "Julie & Julia": {
+      "id": 24803,
+      "poster": "/1QZNWOOwfRi86ZApGvr2TtJZPBK.jpg",
+      "title": "Julie & Julia",
+      "year": 2009
+    },
+    "It's Complicated": {
+      "id": 22897,
+      "poster": "/bmjPrJgrGENFRrERP7lCJ9FGIVB.jpg",
+      "title": "It's Complicated",
+      "year": 2009
+    },
+    "A Cry in the Dark": {
+      "id": 35119,
+      "poster": "/auyoK8OZh1sZldjJfy9RGzS6crV.jpg",
+      "title": "Evil Angels",
+      "year": 1988
+    },
+    "Mary Poppins Returns": {
+      "id": 400650,
+      "poster": "/uTVGku4LibMGyKgQvjBtv3OYfAX.jpg",
+      "title": "Mary Poppins Returns",
+      "year": 2018
+    },
+    "Mamma Mia! Here We Go Again": {
+      "id": 458423,
+      "poster": "/aWicerX4Y7n7tUwRAVHsVcBBpj2.jpg",
+      "title": "Mamma Mia! Here We Go Again",
+      "year": 2018
+    },
+    "Les Misérables": {
+      "id": 82695,
+      "poster": "/6CuzBs2Lb8At7qQr64mLXg2RYRb.jpg",
+      "title": "Les Misérables",
+      "year": 2012
+    },
+    "The Greatest Showman": {
+      "id": 316029,
+      "poster": "/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg",
+      "title": "The Greatest Showman",
+      "year": 2017
+    },
+    "West Side Story": {
+      "id": 511809,
+      "poster": "/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+      "title": "West Side Story",
+      "year": 2021
+    },
+    "In the Heights": {
+      "id": 467909,
+      "poster": "/RO4KoJyoQMQzh9z76d4v4FJMmJ.jpg",
+      "title": "In the Heights",
+      "year": 2021
+    },
+    "Wicked": {
+      "id": 402431,
+      "poster": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+      "title": "Wicked",
+      "year": 2024
+    },
+    "Step Up": {
+      "id": 9762,
+      "poster": "/fmw52kXk2kN8AQil7tgOD41gt4Q.jpg",
+      "title": "Step Up",
+      "year": 2006
+    },
+    "Wonka": {
+      "id": 787699,
+      "poster": "/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",
+      "title": "Wonka",
+      "year": 2023
+    },
+    "Bohemian Rhapsody": {
+      "id": 424694,
+      "poster": "/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+      "title": "Bohemian Rhapsody",
+      "year": 2018
+    },
+    "Mean Girls": {
+      "id": 10625,
+      "poster": "/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg",
+      "title": "Mean Girls",
+      "year": 2004
+    },
+    "In Time": {
+      "id": 49530,
+      "poster": "/3Mwj2sIONQckOZP3YwsUXF7U5I4.jpg",
+      "title": "In Time",
+      "year": 2011
+    },
+    "Jennifer's Body": {
+      "id": 19994,
+      "poster": "/wrkjsGcFJxcQqR56kJUYAEKKg2T.jpg",
+      "title": "Jennifer's Body",
+      "year": 2009
+    },
+    "The Housemaid": {
+      "id": 1368166,
+      "poster": "/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+      "title": "The Housemaid",
+      "year": 2025
+    },
+    "The Testament of Ann Lee": {
+      "id": 1401281,
+      "poster": "/hBGg3IGRM7LM6ydMmDrl8mEx33Y.jpg",
+      "title": "The Testament of Ann Lee",
+      "year": 2025
+    },
+    "The Dark Knight": {
+      "id": 155,
+      "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    "Iron Man": {
+      "id": 1726,
+      "poster": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "title": "Iron Man",
+      "year": 2008
+    },
+    "WALL·E": {
+      "id": 10681,
+      "poster": "/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+      "title": "WALL·E",
+      "year": 2008
+    },
+    "Indiana Jones and the Kingdom of the Crystal Skull": {
+      "id": 217,
+      "poster": "/56As6XEM1flWvprX4LgkPl8ii4K.jpg",
+      "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+      "year": 2008
+    },
+    "Twilight": {
+      "id": 8966,
+      "poster": "/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
+      "title": "Twilight",
+      "year": 2008
+    },
+    "Lincoln": {
+      "id": 72976,
+      "poster": "/7mUYEkv9W3ek61eetZCfMQYVoi.jpg",
+      "title": "Lincoln",
+      "year": 2012
+    },
+    "One Battle After Another": {
+      "id": 1054867,
+      "poster": "/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+      "title": "One Battle After Another",
+      "year": 2025
+    },
+    "Bergman Island": {
+      "id": 477044,
+      "poster": "/q8bQfC7SbaTDVKywhCiNL3ZVSyy.jpg",
+      "title": "Bergman Island",
+      "year": 2021
+    },
+    "Avatar: The Way of Water": {
+      "id": 76600,
+      "poster": "/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "title": "Avatar: The Way of Water",
+      "year": 2022
+    },
+    "Sonic the Hedgehog": {
+      "id": 454626,
+      "poster": "/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+      "title": "Sonic the Hedgehog",
+      "year": 2020
+    },
+    "Wanted": {
+      "id": 8909,
+      "poster": "/njy7Pz7ZHZceO7lNfGIHKphY8Hd.jpg",
+      "title": "Wanted",
+      "year": 2008
+    },
+    "Salt": {
+      "id": 27576,
+      "poster": "/ppXyhOe8UCEOrBRSYqE3SkHwrcR.jpg",
+      "title": "Salt",
+      "year": 2010
+    },
+    "Happy Gilmore": {
+      "id": 9614,
+      "poster": "/4RnCeRzvI1xk5tuNWjpDKzSnJDk.jpg",
+      "title": "Happy Gilmore",
+      "year": 1996
+    },
+    "The Rocky Horror Picture Show": {
+      "id": 36685,
+      "poster": "/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
+      "title": "The Rocky Horror Picture Show",
+      "year": 1975
+    },
+    "The Thursday Murder Club": {
+      "id": 744653,
+      "poster": "/jbnazCHr8S2l2glyvjPTpa4NbEw.jpg",
+      "title": "The Thursday Murder Club",
+      "year": 2025
+    },
+    "The Super Mario Bros. Movie": {
+      "id": 502356,
+      "poster": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+      "title": "The Super Mario Bros. Movie",
+      "year": 2023
+    },
+    "Melania": {
+      "id": 1413097,
+      "poster": "/ba6Silct0Y4pyvrSv0Tj0Urmx9f.jpg",
+      "title": "Melania",
+      "year": 2026
+    },
+    "Demon Slayer: Kimetsu no Yaiba Infinity Castle": {
+      "id": 1311031,
+      "poster": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+      "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+      "year": 2025
+    },
+    "Michael": {
+      "id": 936075,
+      "poster": "/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+      "title": "Michael",
+      "year": 2026
+    }
+  },
+  "spotifyEpisodeId": "6zLRe2RXxkXOIRslWYs5w3"
+}

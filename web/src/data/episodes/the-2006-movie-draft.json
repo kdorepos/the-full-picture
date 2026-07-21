@@ -1,0 +1,487 @@
+{
+  "slug": "the-2006-movie-draft",
+  "title": "The 2006 Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2023-08-31",
+  "runtimeMin": 97,
+  "format": "Sean Fennessey, Amanda Dobbins, and Chris Ryan draft 2006 across six categories (Blockbuster, Drama, Comedy, Action Horror Thriller, Oscar Nominee, and Wildcard), from The Departed to Borat.",
+  "segments": [
+    {
+      "kind": "draft",
+      "heading": "The 2006 Movie Draft",
+      "draftOf": "2006 movies",
+      "categories": [
+        "Blockbuster",
+        "Drama",
+        "Comedy",
+        "Action Horror Thriller",
+        "Oscar Nominee",
+        "Wildcard"
+      ],
+      "teams": [
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Casino Royale",
+              "year": 2006,
+              "category": "Blockbuster",
+              "note": "Sean ranks it second-best of the Craig-era Bonds, behind Skyfall. He once made a 48-minute YouTube video just about Craig's blue-trunks beach entrance."
+            },
+            {
+              "title": "Little Children",
+              "year": 2006,
+              "category": "Drama",
+              "note": "Todd Field's follow-up to In the Bedroom, adapted from Tom Perrotta's novel. Sean defends the narrator device some critics called overwrought."
+            },
+            {
+              "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+              "year": 2006,
+              "category": "Comedy",
+              "note": "Sean's best in-theater experience of 2006. He rewatched it during Covid ahead of the sequel and says it still holds up."
+            },
+            {
+              "title": "The Descent",
+              "year": 2006,
+              "category": "Action Horror Thriller",
+              "note": "Neil Marshall's caving horror movie. Sean calls it one of the best horror films of 2006, and of the decade too."
+            },
+            {
+              "title": "Children of Men",
+              "year": 2006,
+              "category": "Oscar Nominee",
+              "note": "Alfonso Cuaron's dystopian sci-fi drama. Sean puts it in the conversation for best-made movie of the 21st century and singles out Michael Caine."
+            },
+            {
+              "title": "Talladega Nights: The Ballad of Ricky Bobby",
+              "year": 2006,
+              "category": "Wildcard",
+              "note": "Taken partly to needle Chris and Bobby. Sean brings up Christopher Nolan naming it a favorite on The Rich Eisen Show."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "The Devil Wears Prada",
+              "year": 2006,
+              "category": "Blockbuster",
+              "note": "Amanda blames this movie for her own career in magazines; she saw it a month after graduating college while deciding between publishing and teaching classics."
+            },
+            {
+              "title": "Marie Antoinette",
+              "year": 2006,
+              "category": "Drama",
+              "note": "Sofia Coppola's Kirsten Dunst film, Amanda's favorite Coppola movie by her own admission. She notes the anachronistic soundtrack."
+            },
+            {
+              "title": "The Holiday",
+              "year": 2006,
+              "category": "Comedy",
+              "note": "Nancy Meyers' rom-com. Amanda ranks it behind Something's Gotta Give and It's Complicated among Meyers films and isn't sold on the Jack Black subplot."
+            },
+            {
+              "title": "Inside Man",
+              "year": 2006,
+              "category": "Action Horror Thriller",
+              "note": "Spike Lee's bank-heist thriller, which Amanda calls an A-plus New York movie she saw during her first year living in the city."
+            },
+            {
+              "title": "The Queen",
+              "year": 2006,
+              "category": "Oscar Nominee",
+              "note": "Peter Morgan's Helen Mirren vehicle, which Amanda calls a testing ground for The Crown."
+            },
+            {
+              "title": "Step Up",
+              "year": 2006,
+              "category": "Wildcard",
+              "note": "Taken over She's the Man, for launching Channing Tatum's career."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Mission: Impossible III",
+              "year": 2006,
+              "category": "Blockbuster",
+              "note": "Chris gets ribbed for the pick (Sean and Amanda note it landed at No. 6 on their Mission: Impossible rewatchables ranking), but he stands by Philip Seymour Hoffman's villain."
+            },
+            {
+              "title": "The Prestige",
+              "year": 2006,
+              "category": "Drama",
+              "note": "Christopher Nolan's dueling-magicians film. Chris insists it's not actually his favorite Nolan movie, a line the group won't let him live down for the rest of the episode."
+            },
+            {
+              "title": "Jackass Number Two",
+              "year": 2006,
+              "category": "Comedy",
+              "note": "Chris's second-best in-theater experience of 2006, behind Sean's pick of Borat."
+            },
+            {
+              "title": "Miami Vice",
+              "year": 2006,
+              "category": "Action Horror Thriller",
+              "note": "Michael Mann's film, one of Chris's favorite movies ever made. He defends its Linkin Park/Jay-Z soundtrack and its now-celebrated digital cinematography."
+            },
+            {
+              "title": "The Departed",
+              "year": 2006,
+              "category": "Oscar Nominee",
+              "note": "Chris's first pick of the draft, Scorsese's Boston gangster film. He and Sean have covered it twice on The Rewatchables, including a deep dive on Nicholson's boot to Leo's hand."
+            },
+            {
+              "title": "Dave Chappelle's Block Party",
+              "year": 2006,
+              "category": "Wildcard",
+              "note": "Michel Gondry's concert film, picked as a time-capsule of the Brooklyn music scene Chris was living in and covering for Fader at the time."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Pirates of the Caribbean: Dead Man's Chest",
+        "Night at the Museum",
+        "Cars",
+        "Happy Feet",
+        "Ice Age: The Meltdown",
+        "The Da Vinci Code",
+        "Little Miss Sunshine",
+        "Dreamgirls",
+        "Apocalypto",
+        "Final Destination 3",
+        "United 93",
+        "World Trade Center",
+        "Brick",
+        "Pan's Labyrinth",
+        "Southland Tales",
+        "A Cock and Bull Story",
+        "Idiocracy",
+        "The Wicker Man",
+        "The Wind That Shakes the Barley",
+        "Deja Vu",
+        "Old Joy",
+        "The Illusionist",
+        "Lady Vengeance",
+        "The Fast and the Furious: Tokyo Drift",
+        "Half Nelson",
+        "Friends with Money",
+        "The Good Shepherd",
+        "Crank",
+        "She's the Man"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Ahsoka",
+      "Special Ops: Lioness",
+      "Castlevania",
+      "The Crown",
+      "Da Ali G Show"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "Carvana",
+      "FanDuel",
+      "Netflix (FIFA World Cup Launch Edition)"
+    ]
+  },
+  "tmdbOverrides": {
+    "Deja Vu": 7551
+  },
+  "tmdb": {
+    "Casino Royale": {
+      "id": 36557,
+      "poster": "/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
+      "title": "Casino Royale",
+      "year": 2006
+    },
+    "Little Children": {
+      "id": 1440,
+      "poster": "/l2wTSP0Ifo9vY03nJEfkFBbT2S9.jpg",
+      "title": "Little Children",
+      "year": 2006
+    },
+    "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan": {
+      "id": 496,
+      "poster": "/kfkyALfD4G1mlBJI1lOt2QCra4i.jpg",
+      "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+      "year": 2006
+    },
+    "The Descent": {
+      "id": 9392,
+      "poster": "/mxFPI4KYBk5ri9cPteIS8jiDFgj.jpg",
+      "title": "The Descent",
+      "year": 2005
+    },
+    "Children of Men": {
+      "id": 9693,
+      "poster": "/k9IAS4TehZFcKi4HVByxZNPfqex.jpg",
+      "title": "Children of Men",
+      "year": 2006
+    },
+    "Talladega Nights: The Ballad of Ricky Bobby": {
+      "id": 9718,
+      "poster": "/3iCiTqsmJz1mO85AHzTiHNkRmb6.jpg",
+      "title": "Talladega Nights: The Ballad of Ricky Bobby",
+      "year": 2006
+    },
+    "The Devil Wears Prada": {
+      "id": 350,
+      "poster": "/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+      "title": "The Devil Wears Prada",
+      "year": 2006
+    },
+    "Marie Antoinette": {
+      "id": 1887,
+      "poster": "/cybXGmv8Rjd5Os8Xml6YxMBQ0Zt.jpg",
+      "title": "Marie Antoinette",
+      "year": 2006
+    },
+    "The Holiday": {
+      "id": 1581,
+      "poster": "/h1ITOpvJN3Tw4Sy60w2QTfYMvdd.jpg",
+      "title": "The Holiday",
+      "year": 2006
+    },
+    "Inside Man": {
+      "id": 388,
+      "poster": "/ffMUgkDZICNiyaws1Jkv8qG8uFW.jpg",
+      "title": "Inside Man",
+      "year": 2006
+    },
+    "The Queen": {
+      "id": 1165,
+      "poster": "/v08RH5Cx9EFAQMBWQuE5jHAgHYs.jpg",
+      "title": "The Queen",
+      "year": 2006
+    },
+    "Step Up": {
+      "id": 9762,
+      "poster": "/fmw52kXk2kN8AQil7tgOD41gt4Q.jpg",
+      "title": "Step Up",
+      "year": 2006
+    },
+    "Mission: Impossible III": {
+      "id": 956,
+      "poster": "/vKGYCpmQyV9uHybWDzXuII8Los5.jpg",
+      "title": "Mission: Impossible III",
+      "year": 2006
+    },
+    "The Prestige": {
+      "id": 1124,
+      "poster": "/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg",
+      "title": "The Prestige",
+      "year": 2006
+    },
+    "Jackass Number Two": {
+      "id": 12094,
+      "poster": "/u73V8dMqUwjtPL6gWesCE7ji9GU.jpg",
+      "title": "Jackass Number Two",
+      "year": 2006
+    },
+    "Miami Vice": {
+      "id": 82,
+      "poster": "/iJPSls4taB09EUKtLj6FjFSprb3.jpg",
+      "title": "Miami Vice",
+      "year": 2006
+    },
+    "The Departed": {
+      "id": 1422,
+      "poster": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+      "title": "The Departed",
+      "year": 2006
+    },
+    "Dave Chappelle's Block Party": {
+      "id": 292,
+      "poster": "/lGS9iKGGRjM049ZGK4J8TvQeBHg.jpg",
+      "title": "Dave Chappelle's Block Party",
+      "year": 2005
+    },
+    "Pirates of the Caribbean: Dead Man's Chest": {
+      "id": 58,
+      "poster": "/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg",
+      "title": "Pirates of the Caribbean: Dead Man's Chest",
+      "year": 2006
+    },
+    "Night at the Museum": {
+      "id": 1593,
+      "poster": "/pDsAAYf6Zn0yiAGJ6lYGs6hoZ4E.jpg",
+      "title": "Night at the Museum",
+      "year": 2006
+    },
+    "Cars": {
+      "id": 920,
+      "poster": "/oloVyeBbkVGbFFaUjR8I7Boo7wA.jpg",
+      "title": "Cars",
+      "year": 2006
+    },
+    "Happy Feet": {
+      "id": 9836,
+      "poster": "/za41IHkj6LnkilfTzv5B2qmthKD.jpg",
+      "title": "Happy Feet",
+      "year": 2006
+    },
+    "Ice Age: The Meltdown": {
+      "id": 950,
+      "poster": "/8vNkkk4erLGDg3UfbmSHsTdSNcY.jpg",
+      "title": "Ice Age: The Meltdown",
+      "year": 2006
+    },
+    "The Da Vinci Code": {
+      "id": 591,
+      "poster": "/9ejKfNk0LBhSI9AahH4f9NJNZNM.jpg",
+      "title": "The Da Vinci Code",
+      "year": 2006
+    },
+    "Little Miss Sunshine": {
+      "id": 773,
+      "poster": "/niNdhTpPHSgw22tK0PLjQMV640v.jpg",
+      "title": "Little Miss Sunshine",
+      "year": 2006
+    },
+    "Dreamgirls": {
+      "id": 1125,
+      "poster": "/sG5JyOj8Spe13QkNJMH8b5kzQUh.jpg",
+      "title": "Dreamgirls",
+      "year": 2006
+    },
+    "Apocalypto": {
+      "id": 1579,
+      "poster": "/cRY25Q32kDNPFDkFkxAs6bgCq3L.jpg",
+      "title": "Apocalypto",
+      "year": 2006
+    },
+    "Final Destination 3": {
+      "id": 9286,
+      "poster": "/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg",
+      "title": "Final Destination 3",
+      "year": 2006
+    },
+    "United 93": {
+      "id": 9829,
+      "poster": "/r3mdSgsnpoi4UiUufdybhjha68t.jpg",
+      "title": "United 93",
+      "year": 2006
+    },
+    "World Trade Center": {
+      "id": 1852,
+      "poster": "/bfTiVc8kxq8uRXeblV3Ct35APGu.jpg",
+      "title": "World Trade Center",
+      "year": 2006
+    },
+    "Brick": {
+      "id": 9270,
+      "poster": "/5WVk8JpNIxepn4fpZzQeCumkOL5.jpg",
+      "title": "Brick",
+      "year": 2006
+    },
+    "Pan's Labyrinth": {
+      "id": 1417,
+      "poster": "/z7xXihu5wHuSMWymq5VAulPVuvg.jpg",
+      "title": "Pan's Labyrinth",
+      "year": 2006
+    },
+    "Southland Tales": {
+      "id": 4723,
+      "poster": "/7dbIDQ80z4bxiDlAvxRwc5TI44C.jpg",
+      "title": "Southland Tales",
+      "year": 2007
+    },
+    "A Cock and Bull Story": {
+      "id": 8435,
+      "poster": "/ww8nEKv3gPOfIkRMGS2A3j566Fr.jpg",
+      "title": "A Cock and Bull Story",
+      "year": 2005
+    },
+    "Idiocracy": {
+      "id": 7512,
+      "poster": "/6cTHBq49ApwsJaRr3ojlY1cmiXk.jpg",
+      "title": "Idiocracy",
+      "year": 2006
+    },
+    "The Wicker Man": {
+      "id": 9708,
+      "poster": "/xsHrmfgDcEk5fGhSiieKvrDuofq.jpg",
+      "title": "The Wicker Man",
+      "year": 2006
+    },
+    "The Wind That Shakes the Barley": {
+      "id": 1116,
+      "poster": "/yCb4LweL6U7KTgSda3Wb7vHiA9J.jpg",
+      "title": "The Wind That Shakes the Barley",
+      "year": 2006
+    },
+    "Deja Vu": {
+      "id": 7551,
+      "poster": "/eTX6hklzFOiEVqVukNCEedZKhix.jpg",
+      "title": "Déjà Vu",
+      "year": 2006
+    },
+    "Old Joy": {
+      "id": 26518,
+      "poster": "/AdFKZOf0LtPpGq8be9T8qsNHTbs.jpg",
+      "title": "Old Joy",
+      "year": 2006
+    },
+    "The Illusionist": {
+      "id": 1491,
+      "poster": "/1O9jUvqkHaGBMVRyOJz1AlkmALW.jpg",
+      "title": "The Illusionist",
+      "year": 2006
+    },
+    "Lady Vengeance": {
+      "id": 4550,
+      "poster": "/3Oy3iLMqD79us2iAUD6fKqWebYU.jpg",
+      "title": "Lady Vengeance",
+      "year": 2005
+    },
+    "The Fast and the Furious: Tokyo Drift": {
+      "id": 9615,
+      "poster": "/46xqGOwHbh2TH2avWSw3SMXph4E.jpg",
+      "title": "The Fast and the Furious: Tokyo Drift",
+      "year": 2006
+    },
+    "Half Nelson": {
+      "id": 7859,
+      "poster": "/fdUCisMpTwy0oJOGwM7NrFFs400.jpg",
+      "title": "Half Nelson",
+      "year": 2006
+    },
+    "Friends with Money": {
+      "id": 8998,
+      "poster": "/8WdKFowmvfxmDJP5uS0Mf7kdskO.jpg",
+      "title": "Friends with Money",
+      "year": 2006
+    },
+    "The Good Shepherd": {
+      "id": 1247,
+      "poster": "/qWmF0rQRPeIVQRfwQN3C9VFKsBh.jpg",
+      "title": "The Good Shepherd",
+      "year": 2006
+    },
+    "Crank": {
+      "id": 1948,
+      "poster": "/rsKmhnvzJezjwC1Ud2Hh37oNpdQ.jpg",
+      "title": "Crank",
+      "year": 2006
+    },
+    "She's the Man": {
+      "id": 9655,
+      "poster": "/xRElqFcUVuGf0s2rAQSSNAn1IS9.jpg",
+      "title": "She's the Man",
+      "year": 2006
+    }
+  }
+}

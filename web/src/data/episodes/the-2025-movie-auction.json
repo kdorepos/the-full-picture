@@ -1,0 +1,1328 @@
+{
+  "slug": "the-2025-movie-auction",
+  "title": "The 2025 Movie Auction",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2025-01-20",
+  "runtimeMin": 114,
+  "format": "The January movie auction: three hosts split $1,000 apiece across five 2025 releases, working under Chris's category triggers — two $100M domestic grossers, an 85 Metascore, at least two Oscar nominations, no more than two sequels. First they tally how last year's slates actually paid off, then bid.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Netflix goes to IMAX",
+      "note": "before the gavel",
+      "films": [
+        {
+          "title": "Glass Onion: A Knives Out Mystery",
+          "year": 2022,
+          "note": "Chris's counterexample: Rian Johnson got a token theatrical run for a movie that would have grossed nine figures."
+        },
+        {
+          "title": "Barbie",
+          "year": 2023,
+          "note": "The mega-success that, per Belloni's reporting, jet-streamed Netflix's willingness to put Greta Gerwig's Narnia on 1,000 IMAX screens."
+        },
+        {
+          "title": "Hot Frosty",
+          "year": 2024,
+          "note": "Sean's exhibit for the counting-house logic: a cheap Netflix movie the same number of people will watch as a $300M one."
+        }
+      ]
+    },
+    {
+      "kind": "auction",
+      "heading": "The paddles",
+      "saleLabel": "January sale · 2025 first-half slate",
+      "previousSaleLabel": "2024 auctions · recapped",
+      "slates": [
+        {
+          "host": "Sean Fennessey",
+          "spent": 1000,
+          "budgetLeft": 0,
+          "picks": [
+            {
+              "title": "Mission: Impossible - The Final Reckoning",
+              "year": 2025,
+              "price": 390,
+              "note": "Nominated as Dead Reckoning Part Two; Amanda handed it to him. His guaranteed $100M grosser."
+            },
+            {
+              "title": "28 Years Later",
+              "year": 2025,
+              "price": 355,
+              "note": "Boyle and Garland's third '28' film; Ralph Fiennes in the cast. A boys-night bidding war."
+            },
+            {
+              "title": "Eddington",
+              "year": 2025,
+              "price": 204,
+              "note": "Ari Aster's contemporary Western, little known about it beyond the cast."
+            },
+            {
+              "title": "A Big Bold Beautiful Journey",
+              "year": 2025,
+              "price": 50,
+              "note": "Kogonada's first since After Yang; Margot Robbie and Colin Farrell. A May release, so unavailable next round."
+            },
+            {
+              "title": "One Battle After Another",
+              "year": 2025,
+              "price": 1,
+              "note": "Auctioned under its working title, The Battle of Baktan Cross. Paul Thomas Anderson; five of his films clear an 85 Metascore."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "spent": 785,
+          "budgetLeft": 215,
+          "picks": [
+            {
+              "title": "Sinners",
+              "year": 2025,
+              "price": 270,
+              "note": "Ryan Coogler's original Southern-vampire genre movie; Michael B. Jordan plays twins, opposite Hailee Steinfeld."
+            },
+            {
+              "title": "Highest 2 Lowest",
+              "year": 2025,
+              "price": 205,
+              "note": "Spike Lee back with Denzel Washington; a remake of Kurosawa's High and Low, from Apple and A24. Also ASAP Rocky, Ice Spice, Jeffrey Wright."
+            },
+            {
+              "title": "Sentimental Value",
+              "year": 2025,
+              "price": 110,
+              "note": "Joachim Trier's follow-up to The Worst Person in the World; Renate Reinsve, Stellan Skarsgard, Elle Fanning. Chris's arthouse bet on the 85 trigger."
+            },
+            {
+              "title": "Jurassic World Rebirth",
+              "year": 2025,
+              "price": 100,
+              "note": "Gareth Edwards directs Scarlett Johansson and Mahershala Ali. Chris won it while still recapping the Prattverse."
+            },
+            {
+              "title": "The Running Man",
+              "year": 2025,
+              "price": 100,
+              "note": "Edgar Wright and Glen Powell remake the Stephen King story; Colman Domingo, Josh Brolin. Out against Predator: Badlands."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "spent": 992,
+          "budgetLeft": 8,
+          "picks": [
+            {
+              "title": "Opus",
+              "year": 2025,
+              "price": 300,
+              "note": "Mark Anthony Green's A24 debut; Ayo Edebiri and John Malkovich. She spent up because she wanted it."
+            },
+            {
+              "title": "F1",
+              "year": 2025,
+              "price": 256,
+              "note": "Joseph Kosinski's racing movie, one of the most expensive ever made; a June release, so gone by July."
+            },
+            {
+              "title": "Marty Supreme",
+              "year": 2025,
+              "price": 206,
+              "note": "Josh Safdie solo; Timothee Chalamet as a real ping-pong champion, with Gwyneth Paltrow. Christmas Day."
+            },
+            {
+              "title": "The Phoenician Scheme",
+              "year": 2025,
+              "price": 200,
+              "note": "Wes Anderson's espionage comedy; Benicio del Toro and, at last, Michael Cera join the ensemble."
+            },
+            {
+              "title": "M3GAN 2.0",
+              "year": 2025,
+              "price": 30,
+              "note": "A direct sequel, not a prequel; the first only made $95M domestic. A summer release this time."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Superman",
+        "The Fantastic Four: First Steps",
+        "Predator: Badlands",
+        "Havoc",
+        "Caught Stealing",
+        "Springsteen: Deliver Me from Nowhere",
+        "Fountain of Youth",
+        "In the Grey"
+      ],
+      "januarySlate": [
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Anora",
+              "year": 2024,
+              "price": 410
+            },
+            {
+              "title": "Furiosa: A Mad Max Saga",
+              "year": 2024,
+              "price": 375
+            },
+            {
+              "title": "Megalopolis",
+              "year": 2024,
+              "price": 345
+            },
+            {
+              "title": "Nightbitch",
+              "year": 2024,
+              "price": 321
+            },
+            {
+              "title": "Hit Man",
+              "year": 2024,
+              "price": 275
+            },
+            {
+              "title": "Emilia Pérez",
+              "year": 2024,
+              "price": 150
+            },
+            {
+              "title": "Mickey 17",
+              "year": 2024,
+              "price": 3
+            },
+            {
+              "title": "Moana 2",
+              "year": 2024,
+              "price": 1
+            },
+            {
+              "title": "Nosferatu",
+              "year": 2024,
+              "price": 1
+            },
+            {
+              "title": "The Wild Robot",
+              "year": 2024,
+              "price": null
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Gladiator II",
+              "year": 2024,
+              "price": 380
+            },
+            {
+              "title": "We Live in Time",
+              "year": 2024,
+              "price": 375
+            },
+            {
+              "title": "The Order",
+              "year": 2024,
+              "price": 320
+            },
+            {
+              "title": "Heretic",
+              "year": 2024,
+              "price": 300
+            },
+            {
+              "title": "Dune: Part Two",
+              "year": 2024,
+              "price": 243
+            },
+            {
+              "title": "A Real Pain",
+              "year": 2024,
+              "price": 200
+            },
+            {
+              "title": "The Instigators",
+              "year": 2024,
+              "price": 130
+            },
+            {
+              "title": "Blink Twice",
+              "year": 2024,
+              "price": 50
+            },
+            {
+              "title": "Speak No Evil",
+              "year": 2024,
+              "price": 1
+            },
+            {
+              "title": "Horizon: An American Saga - Chapter 1",
+              "year": 2024,
+              "price": 1
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Blitz",
+              "year": 2024,
+              "price": 385
+            },
+            {
+              "title": "Twisters",
+              "year": 2024,
+              "price": 350
+            },
+            {
+              "title": "Trap",
+              "year": 2024,
+              "price": 345
+            },
+            {
+              "title": "Queer",
+              "year": 2024,
+              "price": 225
+            },
+            {
+              "title": "Conclave",
+              "year": 2024,
+              "price": 205
+            },
+            {
+              "title": "Challengers",
+              "year": 2024,
+              "price": 150
+            },
+            {
+              "title": "MaXXXine",
+              "year": 2024,
+              "price": 75
+            },
+            {
+              "title": "The Bikeriders",
+              "year": 2024,
+              "price": 40
+            },
+            {
+              "title": "Babygirl",
+              "year": 2024,
+              "price": 5
+            },
+            {
+              "title": "Wolfs",
+              "year": 2024,
+              "price": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "On the 2025 calendar (raised in passing)",
+      "films": [
+        "Wicked: For Good",
+        "Zootopia 2",
+        "Five Nights at Freddy's 2",
+        "Avatar: Fire and Ash",
+        "The SpongeBob Movie: Search for SquarePants",
+        "Now You See Me: Now You Don't",
+        "Freakier Friday",
+        "A Working Man",
+        "Flowervale Street",
+        "M3GAN"
+      ]
+    },
+    {
+      "group": "The 2024 '85+ Metascore' roll call",
+      "films": [
+        "Daughters",
+        "Close Your Eyes",
+        "The Seed of the Sacred Fig",
+        "Dahomey",
+        "Flow",
+        "Pictures of Ghosts",
+        "Hard Truths",
+        "About Dry Grasses",
+        "The Brutalist",
+        "Green Border",
+        "Sugarcane",
+        "No Other Land",
+        "La Chimera",
+        "Totem",
+        "Soundtrack to a Coup d'Etat",
+        "Ryuichi Sakamoto | Opus",
+        "Nickel Boys",
+        "Here",
+        "All We Imagine as Light",
+        "Inside the Yellow Cocoon Shell",
+        "Do Not Expect Too Much from the End of the World"
+      ]
+    },
+    {
+      "group": "Filmographies and touchstones",
+      "films": [
+        "Inside Man",
+        "He Got Game",
+        "Mo' Better Blues",
+        "Malcolm X",
+        "Da 5 Bloods",
+        "BlacKkKlansman",
+        "Girl 6",
+        "Get on the Bus",
+        "Miracle at St. Anna",
+        "High and Low",
+        "Columbus",
+        "After Yang",
+        "The Worst Person in the World",
+        "Oslo, August 31st",
+        "Reprise",
+        "Thelma",
+        "Louder Than Bombs",
+        "There Will Be Blood",
+        "Boogie Nights",
+        "The Master",
+        "Phantom Thread",
+        "Licorice Pizza",
+        "Inherent Vice",
+        "Asteroid City",
+        "Enemy",
+        "Prisoners",
+        "Sicario",
+        "Arrival",
+        "Inception",
+        "Interstellar",
+        "Dunkirk",
+        "Tenet",
+        "Memento",
+        "L.A. Confidential",
+        "Scott Pilgrim vs. the World",
+        "Zombieland",
+        "Venom",
+        "Tron: Legacy",
+        "Tron",
+        "Top Gun",
+        "Top Gun: Maverick",
+        "Twister",
+        "28 Days Later",
+        "A Complete Unknown",
+        "The Gambler",
+        "Sing Sing",
+        "Den of Thieves",
+        "Shutter Island",
+        "Everything Everywhere All at Once",
+        "Oppenheimer",
+        "The Irishman",
+        "Psycho",
+        "Halloween",
+        "Rogue One",
+        "The Creator",
+        "Saturday Night",
+        "Kingdom of Heaven",
+        "The Parent Trap",
+        "Killers of the Flower Moon",
+        "Gladiator"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Ted Lasso",
+      "Succession",
+      "Bates Motel",
+      "Road Rules",
+      "SpongeBob SquarePants"
+    ],
+    "Podcasts": [
+      "60 Songs That Explain the '90s: The 2000s"
+    ],
+    "Ads": [
+      "Red Bull Athlete Challenge",
+      "Venmo"
+    ]
+  },
+  "tmdb": {
+    "Glass Onion: A Knives Out Mystery": {
+      "id": 661374,
+      "poster": "/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
+      "title": "Glass Onion: A Knives Out Mystery",
+      "year": 2022
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Hot Frosty": {
+      "id": 1290287,
+      "poster": "/waW6R5WJQSxq65gwBkvnKlseU6n.jpg",
+      "title": "Hot Frosty",
+      "year": 2024
+    },
+    "Mission: Impossible - The Final Reckoning": {
+      "id": 575265,
+      "poster": "/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",
+      "title": "Mission: Impossible - The Final Reckoning",
+      "year": 2025
+    },
+    "28 Years Later": {
+      "id": 1100988,
+      "poster": "/n5FygjEppOvac6yEaowi26nTyw3.jpg",
+      "title": "28 Years Later",
+      "year": 2025
+    },
+    "Eddington": {
+      "id": 648878,
+      "poster": "/4GIqZUgPZ146BhibsPHMHef2nXX.jpg",
+      "title": "Eddington",
+      "year": 2025
+    },
+    "A Big Bold Beautiful Journey": {
+      "id": 1241921,
+      "poster": "/uMAkmQlKthQpTMiyPAKOYK3JnMs.jpg",
+      "title": "A Big Bold Beautiful Journey",
+      "year": 2025
+    },
+    "One Battle After Another": {
+      "id": 1054867,
+      "poster": "/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+      "title": "One Battle After Another",
+      "year": 2025
+    },
+    "Sinners": {
+      "id": 1233413,
+      "poster": "/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+      "title": "Sinners",
+      "year": 2025
+    },
+    "Highest 2 Lowest": {
+      "id": 1242434,
+      "poster": "/RFQtinuiHhOnbmJaCn3uzegCYF.jpg",
+      "title": "Highest 2 Lowest",
+      "year": 2025
+    },
+    "Sentimental Value": {
+      "id": 1124566,
+      "poster": "/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
+      "title": "Sentimental Value",
+      "year": 2025
+    },
+    "Jurassic World Rebirth": {
+      "id": 1234821,
+      "poster": "/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
+      "title": "Jurassic World Rebirth",
+      "year": 2025
+    },
+    "The Running Man": {
+      "id": 798645,
+      "poster": "/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
+      "title": "The Running Man",
+      "year": 2025
+    },
+    "Opus": {
+      "id": 1202479,
+      "poster": "/m0du9dsiOVeb0SgfqR8ZAEPRxww.jpg",
+      "title": "Opus",
+      "year": 2025
+    },
+    "F1": {
+      "id": 911430,
+      "poster": "/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
+      "title": "F1",
+      "year": 2025
+    },
+    "Marty Supreme": {
+      "id": 1317288,
+      "poster": "/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+      "title": "Marty Supreme",
+      "year": 2025
+    },
+    "The Phoenician Scheme": {
+      "id": 1137350,
+      "poster": "/u2jxeYLXTYfu0bqJmnLGIgZswib.jpg",
+      "title": "The Phoenician Scheme",
+      "year": 2025
+    },
+    "M3GAN 2.0": {
+      "id": 1071585,
+      "poster": "/oekamLQrwlJjRNmfaBE4llIvkir.jpg",
+      "title": "M3GAN 2.0",
+      "year": 2025
+    },
+    "Anora": {
+      "id": 1064213,
+      "poster": "/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg",
+      "title": "Anora",
+      "year": 2024
+    },
+    "Furiosa: A Mad Max Saga": {
+      "id": 786892,
+      "poster": "/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
+      "title": "Furiosa: A Mad Max Saga",
+      "year": 2024
+    },
+    "Megalopolis": {
+      "id": 592831,
+      "poster": "/8Sok3HNA3r1GHnK2lCytHyBz1A.jpg",
+      "title": "Megalopolis",
+      "year": 2024
+    },
+    "Nightbitch": {
+      "id": 728949,
+      "poster": "/h49Pie8gM2jK0UHGFRjfPB3YTd.jpg",
+      "title": "Nightbitch",
+      "year": 2024
+    },
+    "Hit Man": {
+      "id": 974635,
+      "poster": "/oil3EZwKFp3CWxZnfGfGglesvm9.jpg",
+      "title": "Hit Man",
+      "year": 2024
+    },
+    "Emilia Pérez": {
+      "id": 974950,
+      "poster": "/7seqaCaaXDNUHOx4DqwpoOH8pPa.jpg",
+      "title": "Emilia Pérez",
+      "year": 2024
+    },
+    "Mickey 17": {
+      "id": 696506,
+      "poster": "/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
+      "title": "Mickey 17",
+      "year": 2025
+    },
+    "Moana 2": {
+      "id": 1241982,
+      "poster": "/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+      "title": "Moana 2",
+      "year": 2024
+    },
+    "Nosferatu": {
+      "id": 426063,
+      "poster": "/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",
+      "title": "Nosferatu",
+      "year": 2024
+    },
+    "The Wild Robot": {
+      "id": 1184918,
+      "poster": "/eG9lz41mJqsI4J6ubMtVqD26q2J.jpg",
+      "title": "The Wild Robot",
+      "year": 2024
+    },
+    "Gladiator II": {
+      "id": 558449,
+      "poster": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+      "title": "Gladiator II",
+      "year": 2024
+    },
+    "We Live in Time": {
+      "id": 1100099,
+      "poster": "/oeDNBgnlGF6rnyX1P1K8Vl2f3lW.jpg",
+      "title": "We Live in Time",
+      "year": 2024
+    },
+    "The Order": {
+      "id": 1082195,
+      "poster": "/r3BPhDb45sy87kNV41Q1TwCL6BS.jpg",
+      "title": "The Order",
+      "year": 2024
+    },
+    "Heretic": {
+      "id": 1138194,
+      "poster": "/fr96XzlzsONrQrGfdLMiwtQjott.jpg",
+      "title": "Heretic",
+      "year": 2024
+    },
+    "Dune: Part Two": {
+      "id": 693134,
+      "poster": "/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+      "title": "Dune: Part Two",
+      "year": 2024
+    },
+    "A Real Pain": {
+      "id": 1013850,
+      "poster": "/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg",
+      "title": "A Real Pain",
+      "year": 2024
+    },
+    "The Instigators": {
+      "id": 1059064,
+      "poster": "/dnYWsIFDmygCjNg65rY3uBymx81.jpg",
+      "title": "The Instigators",
+      "year": 2024
+    },
+    "Blink Twice": {
+      "id": 840705,
+      "poster": "/lZGOK0I2DJSRlEPNOAFTSNxSjDD.jpg",
+      "title": "Blink Twice",
+      "year": 2024
+    },
+    "Speak No Evil": {
+      "id": 1114513,
+      "poster": "/dA4N6uWOnEMgbxXwFX7qX7adzs8.jpg",
+      "title": "Speak No Evil",
+      "year": 2024
+    },
+    "Horizon: An American Saga - Chapter 1": {
+      "id": 932086,
+      "poster": "/posWMQwX1HCIK26TGL3niJp5fg0.jpg",
+      "title": "Horizon: An American Saga - Chapter 1",
+      "year": 2024
+    },
+    "Blitz": {
+      "id": 896151,
+      "poster": "/e9tyjbF2rugENtBolTtEhHOXgzD.jpg",
+      "title": "Blitz",
+      "year": 2024
+    },
+    "Twisters": {
+      "id": 718821,
+      "poster": "/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg",
+      "title": "Twisters",
+      "year": 2024
+    },
+    "Trap": {
+      "id": 1032823,
+      "poster": "/jwoaKYVqPgYemFpaANL941EF94R.jpg",
+      "title": "Trap",
+      "year": 2024
+    },
+    "Queer": {
+      "id": 1059128,
+      "poster": "/xe4b2TMciLKA1C0JlhWxb4ENLln.jpg",
+      "title": "Queer",
+      "year": 2024
+    },
+    "Conclave": {
+      "id": 974576,
+      "poster": "/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
+      "title": "Conclave",
+      "year": 2024
+    },
+    "Challengers": {
+      "id": 937287,
+      "poster": "/H6vke7zGiuLsz4v4RPeReb9rsv.jpg",
+      "title": "Challengers",
+      "year": 2024
+    },
+    "MaXXXine": {
+      "id": 1023922,
+      "poster": "/ArvoFK6nlouZRxYmtIOUzKIrg90.jpg",
+      "title": "MaXXXine",
+      "year": 2024
+    },
+    "The Bikeriders": {
+      "id": 1008409,
+      "poster": "/ApMuukdDAOR2rgaFDZIcjfigi64.jpg",
+      "title": "The Bikeriders",
+      "year": 2024
+    },
+    "Babygirl": {
+      "id": 1097549,
+      "poster": "/ilwO6elz3mLV9CToT7C8pjVeKX0.jpg",
+      "title": "Babygirl",
+      "year": 2024
+    },
+    "Wolfs": {
+      "id": 877817,
+      "poster": "/vOX1Zng472PC2KnS0B9nRfM8aaZ.jpg",
+      "title": "Wolfs",
+      "year": 2024
+    },
+    "Superman": {
+      "id": 1061474,
+      "poster": "/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
+      "title": "Superman",
+      "year": 2025
+    },
+    "The Fantastic Four: First Steps": null,
+    "Predator: Badlands": {
+      "id": 1242898,
+      "poster": "/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+      "title": "Predator: Badlands",
+      "year": 2025
+    },
+    "Havoc": {
+      "id": 668489,
+      "poster": "/r46leE6PSzLR3pnVzaxx5Q30yUF.jpg",
+      "title": "Havoc",
+      "year": 2025
+    },
+    "Caught Stealing": {
+      "id": 1245993,
+      "poster": "/cvda8s5J8YaHjTyEyXQpvD6f3iV.jpg",
+      "title": "Caught Stealing",
+      "year": 2025
+    },
+    "Springsteen: Deliver Me from Nowhere": {
+      "id": 1230368,
+      "poster": "/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
+      "title": "Springsteen: Deliver Me from Nowhere",
+      "year": 2025
+    },
+    "Fountain of Youth": {
+      "id": 1098006,
+      "poster": "/4iWjGghUj2uyHo2Hyw8NFBvsNGm.jpg",
+      "title": "Fountain of Youth",
+      "year": 2025
+    },
+    "In the Grey": {
+      "id": 1122573,
+      "poster": "/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+      "title": "In the Grey",
+      "year": 2026
+    },
+    "Wicked: For Good": {
+      "id": 967941,
+      "poster": "/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+      "title": "Wicked: For Good",
+      "year": 2025
+    },
+    "Zootopia 2": {
+      "id": 1084242,
+      "poster": "/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+      "title": "Zootopia 2",
+      "year": 2025
+    },
+    "Five Nights at Freddy's 2": {
+      "id": 1228246,
+      "poster": "/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
+      "title": "Five Nights at Freddy's 2",
+      "year": 2025
+    },
+    "Avatar: Fire and Ash": {
+      "id": 83533,
+      "poster": "/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
+      "title": "Avatar: Fire and Ash",
+      "year": 2025
+    },
+    "The SpongeBob Movie: Search for SquarePants": {
+      "id": 991494,
+      "poster": "/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg",
+      "title": "The SpongeBob Movie: Search for SquarePants",
+      "year": 2025
+    },
+    "Now You See Me: Now You Don't": {
+      "id": 425274,
+      "poster": "/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
+      "title": "Now You See Me: Now You Don't",
+      "year": 2025
+    },
+    "Freakier Friday": {
+      "id": 1125257,
+      "poster": "/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg",
+      "title": "Freakier Friday",
+      "year": 2025
+    },
+    "A Working Man": {
+      "id": 1197306,
+      "poster": "/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",
+      "title": "A Working Man",
+      "year": 2025
+    },
+    "Flowervale Street": null,
+    "M3GAN": {
+      "id": 536554,
+      "poster": "/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg",
+      "title": "M3GAN",
+      "year": 2022
+    },
+    "Daughters": {
+      "id": 739556,
+      "poster": "/hGpxJMkXl8PxA5HTYhJkqLnxNQb.jpg",
+      "title": "Daughters",
+      "year": 2020
+    },
+    "Close Your Eyes": {
+      "id": 658596,
+      "poster": "/oHyhgkRl446TqkA2p00NWD439OD.jpg",
+      "title": "Close Your Eyes",
+      "year": 2019
+    },
+    "The Seed of the Sacred Fig": {
+      "id": 1278263,
+      "poster": "/ifOazNzv2cNJ5CQjMV7cPXG2Lmy.jpg",
+      "title": "The Seed of the Sacred Fig",
+      "year": 2024
+    },
+    "Dahomey": {
+      "id": 1101256,
+      "poster": "/9d8KvJ3OjUq9rwuM743QPQO48aL.jpg",
+      "title": "Dahomey",
+      "year": 2024
+    },
+    "Flow": {
+      "id": 823219,
+      "poster": "/z2sG41PxfL1hnL1mHbxzSREUtOf.jpg",
+      "title": "Flow",
+      "year": 2024
+    },
+    "Pictures of Ghosts": {
+      "id": 1112548,
+      "poster": "/aFYGUmC7efpLkHUCbhIBppYiFd8.jpg",
+      "title": "Pictures of Ghosts",
+      "year": 2023
+    },
+    "Hard Truths": {
+      "id": 1013154,
+      "poster": "/eEj1TGrGc4IQ8bscFC17Ggdg6ft.jpg",
+      "title": "Hard Truths",
+      "year": 2024
+    },
+    "About Dry Grasses": {
+      "id": 665733,
+      "poster": "/mUFpdQSFAch1fMUb9MqHoESpmLS.jpg",
+      "title": "About Dry Grasses",
+      "year": 2023
+    },
+    "The Brutalist": {
+      "id": 549509,
+      "poster": "/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
+      "title": "The Brutalist",
+      "year": 2024
+    },
+    "Green Border": {
+      "id": 1121956,
+      "poster": "/oV5UYkwCq1ZnPhjc6y53LxhRcue.jpg",
+      "title": "Green Border",
+      "year": 2023
+    },
+    "Sugarcane": {
+      "id": 1158874,
+      "poster": "/9Xx4o4MVSDv0pojOzoHMH5y85hB.jpg",
+      "title": "Sugarcane",
+      "year": 2024
+    },
+    "No Other Land": {
+      "id": 1232493,
+      "poster": "/s7XYieuZg9kMe07i9VI4bfGN4Pw.jpg",
+      "title": "No Other Land",
+      "year": 2024
+    },
+    "La Chimera": {
+      "id": 837335,
+      "poster": "/dV6SYHmmFLXQU7oKRfK4pOFCX6M.jpg",
+      "title": "La Chimera",
+      "year": 2023
+    },
+    "Totem": {
+      "id": 1029864,
+      "poster": "/ruIJxmaAhV2ljyCbpi6LhGFVsFe.jpg",
+      "title": "Totem",
+      "year": 2022
+    },
+    "Soundtrack to a Coup d'Etat": {
+      "id": 1214539,
+      "poster": "/eZOB9UurVQjpdIp72L49pyd3anw.jpg",
+      "title": "Soundtrack to a Coup d'Etat",
+      "year": 2024
+    },
+    "Ryuichi Sakamoto | Opus": {
+      "id": 1156189,
+      "poster": "/fw0NchjBAQKz90klk4xNlw0xxuy.jpg",
+      "title": "Ryuichi Sakamoto | Opus",
+      "year": 2023
+    },
+    "Nickel Boys": {
+      "id": 1028196,
+      "poster": "/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg",
+      "title": "Nickel Boys",
+      "year": 2024
+    },
+    "Here": {
+      "id": 940139,
+      "poster": "/79euHUJJtfgeGU63ef38KtNjXEn.jpg",
+      "title": "Here",
+      "year": 2024
+    },
+    "All We Imagine as Light": {
+      "id": 927547,
+      "poster": "/ruImrzB4POsrgwCMozmOBV67zs5.jpg",
+      "title": "All We Imagine as Light",
+      "year": 2024
+    },
+    "Inside the Yellow Cocoon Shell": {
+      "id": 1114816,
+      "poster": "/7k1QaP44m4jpavnmn1G1Fs2mGFD.jpg",
+      "title": "Inside the Yellow Cocoon Shell",
+      "year": 2023
+    },
+    "Do Not Expect Too Much from the End of the World": {
+      "id": 937085,
+      "poster": "/y2H7SMzSO0f8KHjCqavUhVfRX0Z.jpg",
+      "title": "Do Not Expect Too Much from the End of the World",
+      "year": 2023
+    },
+    "Inside Man": {
+      "id": 388,
+      "poster": "/ffMUgkDZICNiyaws1Jkv8qG8uFW.jpg",
+      "title": "Inside Man",
+      "year": 2006
+    },
+    "He Got Game": {
+      "id": 9469,
+      "poster": "/kd8hRaysUQOz7AvSorZDJHuihcJ.jpg",
+      "title": "He Got Game",
+      "year": 1998
+    },
+    "Mo' Better Blues": {
+      "id": 41823,
+      "poster": "/sEa6m5RjfrqfTzY1eHkC85shiUF.jpg",
+      "title": "Mo' Better Blues",
+      "year": 1990
+    },
+    "Malcolm X": {
+      "id": 1883,
+      "poster": "/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
+      "title": "Malcolm X",
+      "year": 1992
+    },
+    "Da 5 Bloods": {
+      "id": 581859,
+      "poster": "/yx4cp1ljJMDSFeEex0Zjv45b55E.jpg",
+      "title": "Da 5 Bloods",
+      "year": 2020
+    },
+    "BlacKkKlansman": {
+      "id": 487558,
+      "poster": "/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg",
+      "title": "BlacKkKlansman",
+      "year": 2018
+    },
+    "Girl 6": {
+      "id": 61752,
+      "poster": "/1SSYCOTrHucd9aBCyTfbLWcJ2zD.jpg",
+      "title": "Girl 6",
+      "year": 1996
+    },
+    "Get on the Bus": {
+      "id": 49471,
+      "poster": "/7p8FvHMSr11LQw9Xv6dPJdrBeU2.jpg",
+      "title": "Get on the Bus",
+      "year": 1996
+    },
+    "Miracle at St. Anna": {
+      "id": 12412,
+      "poster": "/7PqmgaQBuD0Zp9pDIkkEjkhCJUj.jpg",
+      "title": "Miracle at St. Anna",
+      "year": 2008
+    },
+    "High and Low": {
+      "id": 12493,
+      "poster": "/tgNjemQPG96uIezpiUiXFcer5ga.jpg",
+      "title": "High and Low",
+      "year": 1963
+    },
+    "Columbus": {
+      "id": 414453,
+      "poster": "/3ZE5Wl3CdfUH4BkWRmyMKPHkWHx.jpg",
+      "title": "Columbus",
+      "year": 2017
+    },
+    "After Yang": {
+      "id": 585378,
+      "poster": "/qjEuDeKOhA7JqaaqhLSfoS9titb.jpg",
+      "title": "After Yang",
+      "year": 2022
+    },
+    "The Worst Person in the World": {
+      "id": 660120,
+      "poster": "/1NxGNQchGBTHXJ6RShLY1IlZqWn.jpg",
+      "title": "The Worst Person in the World",
+      "year": 2021
+    },
+    "Oslo, August 31st": {
+      "id": 75233,
+      "poster": "/a9WUrw5Dkl8mumi2YlOlpt2f5Dc.jpg",
+      "title": "Oslo, August 31st",
+      "year": 2011
+    },
+    "Reprise": {
+      "id": 12197,
+      "poster": "/9GdptmzKh5Sx1KFiABJeUEt9eS.jpg",
+      "title": "Reprise",
+      "year": 2006
+    },
+    "Thelma": {
+      "id": 1051891,
+      "poster": "/rUcuageYgv9SsJoWuc0seRWG6JC.jpg",
+      "title": "Thelma",
+      "year": 2024
+    },
+    "Louder Than Bombs": {
+      "id": 157827,
+      "poster": "/26hoecTKEAXswDwk4nUE4SEcPg2.jpg",
+      "title": "Louder Than Bombs",
+      "year": 2015
+    },
+    "There Will Be Blood": {
+      "id": 7345,
+      "poster": "/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+      "title": "There Will Be Blood",
+      "year": 2007
+    },
+    "Boogie Nights": {
+      "id": 4995,
+      "poster": "/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg",
+      "title": "Boogie Nights",
+      "year": 1997
+    },
+    "The Master": {
+      "id": 68722,
+      "poster": "/rUSjbyvYWN9H4az8xt0tDtU7I6v.jpg",
+      "title": "The Master",
+      "year": 2012
+    },
+    "Phantom Thread": {
+      "id": 400617,
+      "poster": "/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg",
+      "title": "Phantom Thread",
+      "year": 2017
+    },
+    "Licorice Pizza": {
+      "id": 718032,
+      "poster": "/ivXtvzfliGvoJ1DhSHIGyYBToWe.jpg",
+      "title": "Licorice Pizza",
+      "year": 2021
+    },
+    "Inherent Vice": {
+      "id": 171274,
+      "poster": "/pfVua7TzzttOh3RTOuBqT7xN0oY.jpg",
+      "title": "Inherent Vice",
+      "year": 2014
+    },
+    "Asteroid City": {
+      "id": 747188,
+      "poster": "/hfo7pvL9Fys7rocfL4VOzw9qDEQ.jpg",
+      "title": "Asteroid City",
+      "year": 2023
+    },
+    "Enemy": {
+      "id": 181886,
+      "poster": "/vf40tyDRKZsBmaLsYeopzfFLzLx.jpg",
+      "title": "Enemy",
+      "year": 2014
+    },
+    "Prisoners": {
+      "id": 146233,
+      "poster": "/uhviyknTT5cEQXbn6vWIqfM4vGm.jpg",
+      "title": "Prisoners",
+      "year": 2013
+    },
+    "Sicario": {
+      "id": 273481,
+      "poster": "/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+      "title": "Sicario",
+      "year": 2015
+    },
+    "Arrival": {
+      "id": 329865,
+      "poster": "/3b4fRUYXFaGVDqkb0ikjB4cn7ub.jpg",
+      "title": "Arrival",
+      "year": 2016
+    },
+    "Inception": {
+      "id": 27205,
+      "poster": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+      "title": "Inception",
+      "year": 2010
+    },
+    "Interstellar": {
+      "id": 157336,
+      "poster": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+      "title": "Interstellar",
+      "year": 2014
+    },
+    "Dunkirk": {
+      "id": 374720,
+      "poster": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "title": "Dunkirk",
+      "year": 2017
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "Memento": {
+      "id": 77,
+      "poster": "/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+      "title": "Memento",
+      "year": 2000
+    },
+    "L.A. Confidential": {
+      "id": 2118,
+      "poster": "/lWCgf5sD5FpMljjpkRhcC8pXcch.jpg",
+      "title": "L.A. Confidential",
+      "year": 1997
+    },
+    "Scott Pilgrim vs. the World": {
+      "id": 22538,
+      "poster": "/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg",
+      "title": "Scott Pilgrim vs. the World",
+      "year": 2010
+    },
+    "Zombieland": {
+      "id": 19908,
+      "poster": "/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg",
+      "title": "Zombieland",
+      "year": 2009
+    },
+    "Venom": {
+      "id": 335983,
+      "poster": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+      "title": "Venom",
+      "year": 2018
+    },
+    "Tron: Legacy": {
+      "id": 20526,
+      "poster": "/8Nc6R8k7bG8frSiDJo0oLucF7dN.jpg",
+      "title": "TRON: Legacy",
+      "year": 2010
+    },
+    "Tron": {
+      "id": 97,
+      "poster": "/jigY9B6TKz4qlfikZcd18qtzTK4.jpg",
+      "title": "Tron",
+      "year": 1982
+    },
+    "Top Gun": {
+      "id": 744,
+      "poster": "/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+      "title": "Top Gun",
+      "year": 1986
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Twister": {
+      "id": 664,
+      "poster": "/d4ie3f6QTvNw40V770Uzo87SDZn.jpg",
+      "title": "Twister",
+      "year": 1996
+    },
+    "28 Days Later": {
+      "id": 170,
+      "poster": "/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
+      "title": "28 Days Later",
+      "year": 2002
+    },
+    "A Complete Unknown": {
+      "id": 661539,
+      "poster": "/llWl3GtNoXosbvYboelmoT459NM.jpg",
+      "title": "A Complete Unknown",
+      "year": 2024
+    },
+    "The Gambler": {
+      "id": 284536,
+      "poster": "/hIgU3cxn7Y87joQGM3srofnXOm5.jpg",
+      "title": "The Gambler",
+      "year": 2014
+    },
+    "Sing Sing": {
+      "id": 81666,
+      "poster": "/zNyHcK1jypvWmHpI8ykZsyAeNlL.jpg",
+      "title": "Sing Sing",
+      "year": 1983
+    },
+    "Den of Thieves": {
+      "id": 449443,
+      "poster": "/dAP5NpkrMMczir5dUPjRR6ywqgz.jpg",
+      "title": "Den of Thieves",
+      "year": 2018
+    },
+    "Shutter Island": {
+      "id": 11324,
+      "poster": "/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+      "title": "Shutter Island",
+      "year": 2010
+    },
+    "Everything Everywhere All at Once": {
+      "id": 545611,
+      "poster": "/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+      "title": "Everything Everywhere All at Once",
+      "year": 2022
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Psycho": {
+      "id": 539,
+      "poster": "/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+      "title": "Psycho",
+      "year": 1960
+    },
+    "Halloween": {
+      "id": 948,
+      "poster": "/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+      "title": "Halloween",
+      "year": 1978
+    },
+    "Rogue One": null,
+    "The Creator": {
+      "id": 670292,
+      "poster": "/3dSivDtOuyxLDxPH4v2tcNG1fP7.jpg",
+      "title": "The Creator",
+      "year": 2023
+    },
+    "Saturday Night": {
+      "id": 1120911,
+      "poster": "/oCf5O6uxooTvRwKVnLHwGqZUifq.jpg",
+      "title": "Saturday Night",
+      "year": 2024
+    },
+    "Kingdom of Heaven": {
+      "id": 1495,
+      "poster": "/rNaBe4TwbMef71sgscqabpGKsxh.jpg",
+      "title": "Kingdom of Heaven",
+      "year": 2005
+    },
+    "The Parent Trap": {
+      "id": 9820,
+      "poster": "/p4dGmi8u9W0HHyVXcgWPoiFfKTF.jpg",
+      "title": "The Parent Trap",
+      "year": 1998
+    },
+    "Killers of the Flower Moon": {
+      "id": 466420,
+      "poster": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+      "title": "Killers of the Flower Moon",
+      "year": 2023
+    },
+    "Gladiator": {
+      "id": 98,
+      "poster": "/wN2xWp1eIwCKOD0BHTcErTBv1Uq.jpg",
+      "title": "Gladiator",
+      "year": 2000
+    }
+  },
+  "spotifyEpisodeId": "2ibOqS2OCIqXCGOOSPkkAZ"
+}

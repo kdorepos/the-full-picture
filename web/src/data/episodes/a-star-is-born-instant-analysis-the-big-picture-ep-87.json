@@ -1,0 +1,135 @@
+{
+  "slug": "a-star-is-born-instant-analysis-the-big-picture-ep-87",
+  "title": "‘A Star Is Born’: Instant Analysis | The Big Picture (Ep. 87)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Juliet Litman",
+    "Andrew Gruttadaro",
+    "Lindsay Zoladz"
+  ],
+  "published": "2018-10-08",
+  "runtimeMin": 46,
+  "format": "Two panels break down Bradley Cooper's 'A Star Is Born' the week it opened: first Sean Fennessey with Amanda Dobbins and Juliet Litman on Cooper's total authorship of the film and Ally's undercooked pop stardom, then Andrew Gruttadaro and Lindsay Zoladz on its stranger choices.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Instant reactions",
+      "note": "Sean Fennessey with Amanda Dobbins and Juliet Litman",
+      "films": [
+        {
+          "title": "A Star Is Born",
+          "year": 2018,
+          "note": "Bradley Cooper's directorial debut, which he also stars in as fading country-rock singer Jackson Maine opposite Lady Gaga's Ally. The panel reads it as a movie star part written, directed, and shot by a movie star in service of himself: Cooper steals every frame, and his throat-shredded voice mirrors Sam Elliott's, who plays his brother. They rate Gaga subtler than expected as an actress but think the film sells out Ally's pop stardom, making her music deliberately bad (the SNL number that drives Jackson back to drinking) and draining her of conflict once fame arrives. Consensus: the first hour is near-perfect, the second half drags. Songs credited to Jason Isbell ('Maybe It's Time') and Lukas Nelson; 'Shallow' built from two songs stitched together. Cooper an early Best Actor front-runner, Elliott a supporting-actor bet."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The weirder half",
+      "note": "Andrew Gruttadaro and Lindsay Zoladz on the movie's odder choices",
+      "films": [
+        {
+          "title": "A Star Is Born",
+          "year": 2018,
+          "note": "A second panel catalogs the film's strangeness: Cooper's repeated face- and nose-touching (and the meta layer, since Gaga and Barbra Streisand were both told their noses were too big), the frosting and donut bits, the minute-long socks digression with Ally's British sleaze manager, the exposition-heavy Sam Elliott backstory ('you stole my voice'), Jackson's hatred of windmills read as a man raging at his own obsolescence, and the dog, Cooper's own pup Charlie, who won PETA's first Compassion in Film award. They try to place Jackson as a real-world musician (Kings of Leon's Caleb Followill, Eric Church) and land on a guy from 1978 dropped into 2018."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Comparison points",
+      "films": [
+        "A Star Is Born (1976)",
+        "La La Land",
+        "Almost Famous",
+        "Moonstruck",
+        "Coyote Ugly"
+      ]
+    },
+    {
+      "group": "Also in the mix",
+      "films": [
+        "The Mule",
+        "The Oath",
+        "Venom"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "A Star Is Born (1976)": 19610
+  },
+  "excluded": {
+    "TV": [
+      "American Horror Story",
+      "Saturday Night Live",
+      "The Mindy Project"
+    ],
+    "Ringer promos": [
+      "Halloween Unmasked",
+      "Jam Session",
+      "The Rewatchables",
+      "Ringer NBA"
+    ]
+  },
+  "tmdb": {
+    "A Star Is Born": {
+      "id": 332562,
+      "poster": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "title": "A Star Is Born",
+      "year": 2018
+    },
+    "A Star Is Born (1976)": {
+      "id": 19610,
+      "poster": "/3Hr63lBDhvYGpSd8HxDpWvowZpY.jpg",
+      "title": "A Star Is Born",
+      "year": 1976
+    },
+    "La La Land": {
+      "id": 313369,
+      "poster": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "title": "La La Land",
+      "year": 2016
+    },
+    "Almost Famous": {
+      "id": 786,
+      "poster": "/3rrkyLYbgLj84AYvjhdcJot4JPx.jpg",
+      "title": "Almost Famous",
+      "year": 2000
+    },
+    "Moonstruck": {
+      "id": 2039,
+      "poster": "/2mnVWpvsHEHHnfvLn1NXYVvBGl5.jpg",
+      "title": "Moonstruck",
+      "year": 1987
+    },
+    "Coyote Ugly": {
+      "id": 6282,
+      "poster": "/xYM0laKrEqjiRSQNvqRrXPXN3iL.jpg",
+      "title": "Coyote Ugly",
+      "year": 2000
+    },
+    "The Mule": {
+      "id": 504172,
+      "poster": "/oeZh7yEz3PMnZLgBPhrafFHRbVz.jpg",
+      "title": "The Mule",
+      "year": 2018
+    },
+    "The Oath": {
+      "id": 520596,
+      "poster": "/kHB7Nq93pQxGOit1Lyz1ELfUvy0.jpg",
+      "title": "The Oath",
+      "year": 2018
+    },
+    "Venom": {
+      "id": 335983,
+      "poster": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+      "title": "Venom",
+      "year": 2018
+    }
+  },
+  "spotifyEpisodeId": "112MD6y174GIx9xpw6bTnv"
+}

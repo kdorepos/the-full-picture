@@ -1,0 +1,572 @@
+{
+  "slug": "the-ridley-scott-hall-of-fame-plus-errol-morris",
+  "title": "The Ridley Scott Hall of Fame. Plus: Errol Morris!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2023-11-17",
+  "runtimeMin": 120,
+  "format": "Sean, Amanda, and Chris Ryan (on his birthday) build a 10-film Ridley Scott Hall of Fame, then Sean talks to Errol Morris about The Pigeon Tunnel.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Before the Hall of Fame",
+      "note": "Napoleon opens next week",
+      "films": [
+        {
+          "title": "Napoleon",
+          "year": 2023,
+          "note": "Ruled ineligible for the Hall of Fame since it hasn't opened yet, but they just saw it at a DGA screening and can't stop talking about it."
+        }
+      ]
+    },
+    {
+      "kind": "halloffame",
+      "heading": "The Ridley Scott Hall of Fame",
+      "note": "reds are out, yellows are maybes, greens are in, worked chronologically through the filmography",
+      "honoree": "Ridley Scott",
+      "films": [
+        {
+          "title": "The Duellists",
+          "year": 1977,
+          "note": "Red. A cool artifact of his ad-director years, but a filmography this stacked doesn't have room for it."
+        },
+        {
+          "title": "Alien",
+          "year": 1979,
+          "note": "Green. The greenest green: he saw Star Wars, panicked, and reinvented science-fiction filmmaking to answer it."
+        },
+        {
+          "title": "Blade Runner",
+          "year": 1982,
+          "note": "Green. Cold, metallic, endlessly re-cut since release, and it anticipated how obsessively we'd pick movies apart online."
+        },
+        {
+          "title": "Legend",
+          "year": 1985,
+          "note": "Red. Tom Cruise as a mythological hero in the land of nymphs. Just not good."
+        },
+        {
+          "title": "Someone to Watch Over Me",
+          "year": 1987,
+          "note": "Red. His American-noir cop thriller. Looks good, isn't terribly strong."
+        },
+        {
+          "title": "Black Rain",
+          "year": 1989,
+          "note": "Red. Michael Douglas versus the Yakuza. A pretty good cable movie from the mid-'80s lull when people had started writing him off."
+        },
+        {
+          "title": "Thelma & Louise",
+          "year": 1991,
+          "note": "Green. Auto-green. His John Ford movie, but with two women driving across Monument Valley toward freedom."
+        },
+        {
+          "title": "1492: Conquest of Paradise",
+          "year": 1992,
+          "note": "Red. Gerard Depardieu as Christopher Columbus. Rewatched for House of Gucci prep and it's terrible."
+        },
+        {
+          "title": "White Squall",
+          "year": 1996,
+          "note": "Yellow. An underrated coming-of-age movie with Jeff Bridges running a reform school on a yacht. Doesn't survive to green."
+        },
+        {
+          "title": "G.I. Jane",
+          "year": 1997,
+          "note": "Red. Bombed at the time, but a dry run for the leaner, more character-focused mode he'd return to."
+        },
+        {
+          "title": "Gladiator",
+          "year": 2000,
+          "note": "Green. Auto-green. The Best Picture winner that turned Russell Crowe into a movie star and re-anointed Scott himself."
+        },
+        {
+          "title": "Hannibal",
+          "year": 2001,
+          "note": "Red. Grotesque, entertaining, not a green."
+        },
+        {
+          "title": "Black Hawk Down",
+          "year": 2001,
+          "note": "Green. A war film with a cast that doubles as a graduating class of movie stars for the next two decades."
+        },
+        {
+          "title": "Matchstick Men",
+          "year": 2003,
+          "note": "Yellow. A personal favorite for Sean and one of his better scripts, but doesn't crack the final ten."
+        },
+        {
+          "title": "Kingdom of Heaven",
+          "year": 2005,
+          "note": "Green, via the four-hour director's cut. The theatrical release was a shrug; the director's cut is a Lawrence of Arabia-scale epic that earns one of the last two slots."
+        },
+        {
+          "title": "A Good Year",
+          "year": 2006,
+          "note": "Red. The one he made because he'd bought a vineyard in Provence and fell in love with it."
+        },
+        {
+          "title": "American Gangster",
+          "year": 2007,
+          "note": "Green, promoted from yellow. Suffered at release from Godfather-sized expectations; the Denzel-Crowe interrogation scene alone earns it the other last slot."
+        },
+        {
+          "title": "Body of Lies",
+          "year": 2008,
+          "note": "Red. A gripping first hour, then a romance subplot sinks it."
+        },
+        {
+          "title": "Robin Hood",
+          "year": 2010,
+          "note": "Red. A movie no one needed. Started life as a revisionist take called Nottingham before turning into basically Gladiator in England."
+        },
+        {
+          "title": "Prometheus",
+          "year": 2012,
+          "note": "Green. \"Green as fuck.\" Upsetting, gorgeous, and made partly to keep the Alien franchise out of Neill Blomkamp's hands."
+        },
+        {
+          "title": "The Counselor",
+          "year": 2013,
+          "note": "Green. A tribute to his late brother Tony and, per Sean and Chris, one of the great ones."
+        },
+        {
+          "title": "Exodus: Gods and Kings",
+          "year": 2014,
+          "note": "Red. His Cecil B. DeMille movie, made and released the same week of December as Prometheus two years earlier. A lot of bad ideas meeting in a desert."
+        },
+        {
+          "title": "The Martian",
+          "year": 2015,
+          "note": "Green. An absolute green, and the rare Scott movie where he visibly lets everyone in the cast cook."
+        },
+        {
+          "title": "All the Money in the World",
+          "year": 2017,
+          "note": "Red. The Kevin Spacey reshoot movie. Christopher Plummer got an Oscar nomination out of the replacement performance anyway."
+        },
+        {
+          "title": "Alien: Covenant",
+          "year": 2017,
+          "note": "Red. Rip-roaring first two acts, a confusing back half. Still, by their math, the fourth-best Alien movie."
+        },
+        {
+          "title": "The Last Duel",
+          "year": 2021,
+          "note": "Yellow. Grim and punishing to sit through, but a great script from Damon and Affleck (with Nicole Holofcener)."
+        },
+        {
+          "title": "House of Gucci",
+          "year": 2021,
+          "note": "Red on the show, green in Sean's heart. The campy romp they don't regret hyping."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Errol Morris on",
+      "films": [
+        {
+          "title": "The Pigeon Tunnel",
+          "year": 2023,
+          "note": "His documentary about John le Carre, built around an interview where le Carre spends as much time interrogating Morris as the other way around."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Errol Morris's other films, mentioned in passing",
+      "films": [
+        "Gates of Heaven",
+        "The Thin Blue Line",
+        "The Fog of War",
+        "Standard Operating Procedure",
+        "The Unknown Known"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "King Arthur",
+        "King Arthur: Legend of the Sword",
+        "Robin Hood: Prince of Thieves",
+        "The Gray Man",
+        "Maestro",
+        "A Star Is Born",
+        "Tenet",
+        "Ferrari",
+        "Killers of the Flower Moon",
+        "Margin Call",
+        "Striptease",
+        "Indecent Proposal",
+        "Jagged Edge",
+        "Spartacus",
+        "Casablanca",
+        "Lawrence of Arabia",
+        "The Spy Who Came in from the Cold",
+        "The Holdovers",
+        "The Hunger Games: The Ballad of Songbirds & Snakes"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Good Wife",
+      "Taboo",
+      "The North Water",
+      "Numbers",
+      "Trust",
+      "Homeland",
+      "A Murder at the End of the World"
+    ],
+    "Games": [
+      "FIFA World Cup Launch Edition"
+    ],
+    "Podcasts": [
+      "The Wedding Scammer",
+      "Age of Napoleon"
+    ],
+    "Ads": [
+      "TalkAboutPD.com",
+      "Boar's Head",
+      "SimpliSafe",
+      "MUBI",
+      "Netflix",
+      "NOS Energy",
+      "FanDuel",
+      "Whole Foods",
+      "Apple's \"1984\" ad"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Thin Blue Line": 14285,
+    "Standard Operating Procedure": 8847
+  },
+  "tmdb": {
+    "Napoleon": {
+      "id": 753342,
+      "poster": "/ytFOXyghxLzAM4KZyazDdEkM66q.jpg",
+      "title": "Napoleon",
+      "year": 2023
+    },
+    "The Duellists": {
+      "id": 19067,
+      "poster": "/nqjMYlUXnmmO8Jqucow4nj9alE5.jpg",
+      "title": "The Duellists",
+      "year": 1977
+    },
+    "Alien": {
+      "id": 348,
+      "poster": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "title": "Alien",
+      "year": 1979
+    },
+    "Blade Runner": {
+      "id": 78,
+      "poster": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+      "title": "Blade Runner",
+      "year": 1982
+    },
+    "Legend": {
+      "id": 11976,
+      "poster": "/6n3PQSYpZRK5YPk2w8JEwED7AZk.jpg",
+      "title": "Legend",
+      "year": 1985
+    },
+    "Someone to Watch Over Me": {
+      "id": 31650,
+      "poster": "/7Vqw29y8pkoHaVtwkQcQhBK9oTY.jpg",
+      "title": "Someone to Watch Over Me",
+      "year": 1987
+    },
+    "Black Rain": {
+      "id": 4105,
+      "poster": "/funhGWt9ee3Uwb6Ar8SGCCvbJdV.jpg",
+      "title": "Black Rain",
+      "year": 1989
+    },
+    "Thelma & Louise": {
+      "id": 1541,
+      "poster": "/vbRAGLzbC75QfiKD1lKjmnQGuph.jpg",
+      "title": "Thelma & Louise",
+      "year": 1991
+    },
+    "1492: Conquest of Paradise": {
+      "id": 1492,
+      "poster": "/3effmbI6BbGW9i0HzEDfVGuOsvz.jpg",
+      "title": "1492: Conquest of Paradise",
+      "year": 1992
+    },
+    "White Squall": {
+      "id": 10534,
+      "poster": "/5xF4qy44Lvv68glS7eHWH7laTqt.jpg",
+      "title": "White Squall",
+      "year": 1996
+    },
+    "G.I. Jane": {
+      "id": 4421,
+      "poster": "/6yBgZJYqaR4XkxwjsB9tS4GK1ZN.jpg",
+      "title": "G.I. Jane",
+      "year": 1997
+    },
+    "Gladiator": {
+      "id": 98,
+      "poster": "/wN2xWp1eIwCKOD0BHTcErTBv1Uq.jpg",
+      "title": "Gladiator",
+      "year": 2000
+    },
+    "Hannibal": {
+      "id": 9740,
+      "poster": "/v5wAZwRqpGWmyAaaJ8BBHYuNXnj.jpg",
+      "title": "Hannibal",
+      "year": 2001
+    },
+    "Black Hawk Down": {
+      "id": 855,
+      "poster": "/7fU5dSqKRL4XHeEUz62rCKBfYok.jpg",
+      "title": "Black Hawk Down",
+      "year": 2001
+    },
+    "Matchstick Men": {
+      "id": 7270,
+      "poster": "/cIWQzIoWOvx0piZM0UpiHMhzHWW.jpg",
+      "title": "Matchstick Men",
+      "year": 2003
+    },
+    "Kingdom of Heaven": {
+      "id": 1495,
+      "poster": "/rNaBe4TwbMef71sgscqabpGKsxh.jpg",
+      "title": "Kingdom of Heaven",
+      "year": 2005
+    },
+    "A Good Year": {
+      "id": 9726,
+      "poster": "/10ErazhJxfL68rWg2KLfwiRuIou.jpg",
+      "title": "A Good Year",
+      "year": 2006
+    },
+    "American Gangster": {
+      "id": 4982,
+      "poster": "/sX9idXDqRUxE5ffww3n3RV5gL55.jpg",
+      "title": "American Gangster",
+      "year": 2007
+    },
+    "Body of Lies": {
+      "id": 12113,
+      "poster": "/sLjVDPPfNQfAma9XyOqHPClQb2V.jpg",
+      "title": "Body of Lies",
+      "year": 2008
+    },
+    "Robin Hood": {
+      "id": 20662,
+      "poster": "/kE4Wie1VVRGQbVSIsEnxmly3FqZ.jpg",
+      "title": "Robin Hood",
+      "year": 2010
+    },
+    "Prometheus": {
+      "id": 70981,
+      "poster": "/qsYQflQhOuhDpQ0W2aOcwqgDAeI.jpg",
+      "title": "Prometheus",
+      "year": 2012
+    },
+    "The Counselor": {
+      "id": 109091,
+      "poster": "/aNiLkGnzVb5CorZHKk16w9S4COt.jpg",
+      "title": "The Counselor",
+      "year": 2013
+    },
+    "Exodus: Gods and Kings": {
+      "id": 147441,
+      "poster": "/uaDj37JtvLan9tihxZ18e6qL33b.jpg",
+      "title": "Exodus: Gods and Kings",
+      "year": 2014
+    },
+    "The Martian": {
+      "id": 286217,
+      "poster": "/fASz8A0yFE3QB6LgGoOfwvFSseV.jpg",
+      "title": "The Martian",
+      "year": 2015
+    },
+    "All the Money in the World": {
+      "id": 446791,
+      "poster": "/q6nE9Hf0ezszjI4DbCxwzQ73MMy.jpg",
+      "title": "All the Money in the World",
+      "year": 2017
+    },
+    "Alien: Covenant": {
+      "id": 126889,
+      "poster": "/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg",
+      "title": "Alien: Covenant",
+      "year": 2017
+    },
+    "The Last Duel": {
+      "id": 617653,
+      "poster": "/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg",
+      "title": "The Last Duel",
+      "year": 2021
+    },
+    "House of Gucci": {
+      "id": 644495,
+      "poster": "/oJCQjD2byiVF1EG408F9dBn9ndU.jpg",
+      "title": "House of Gucci",
+      "year": 2021
+    },
+    "The Pigeon Tunnel": {
+      "id": 1155770,
+      "poster": "/xsDb7JlPS6QnI26bTP3sREz9n0K.jpg",
+      "title": "The Pigeon Tunnel",
+      "year": 2023
+    },
+    "Gates of Heaven": {
+      "id": 24998,
+      "poster": "/2VGQsyCvd2XJKpKZXHF4AWsADoA.jpg",
+      "title": "Gates of Heaven",
+      "year": 1978
+    },
+    "The Thin Blue Line": {
+      "id": 14285,
+      "poster": "/4w4BJk3l8y9gYwPPLRs6uPHOmGL.jpg",
+      "title": "The Thin Blue Line",
+      "year": 1988
+    },
+    "The Fog of War": {
+      "id": 12698,
+      "poster": "/m1dEnkrdJGBSLeAyJepuGrU9sNI.jpg",
+      "title": "The Fog of War",
+      "year": 2003
+    },
+    "Standard Operating Procedure": {
+      "id": 8847,
+      "poster": "/v2QCXsisMLYsozC2qJtYGa3Rvsi.jpg",
+      "title": "Standard Operating Procedure",
+      "year": 2008
+    },
+    "The Unknown Known": {
+      "id": 209799,
+      "poster": "/8BiCtoif98SAhSRRNfshRL75xCW.jpg",
+      "title": "The Unknown Known",
+      "year": 2013
+    },
+    "King Arthur": {
+      "id": 9477,
+      "poster": "/iKLZEAnjzr51Ij7TJtNejc5CN3i.jpg",
+      "title": "King Arthur",
+      "year": 2004
+    },
+    "King Arthur: Legend of the Sword": {
+      "id": 274857,
+      "poster": "/9kKXH6eJpzoFGhCbTN3FVwSQK3n.jpg",
+      "title": "King Arthur: Legend of the Sword",
+      "year": 2017
+    },
+    "Robin Hood: Prince of Thieves": {
+      "id": 8367,
+      "poster": "/hbRnWUNJkKKVN5mkcuC5ooqjE4e.jpg",
+      "title": "Robin Hood: Prince of Thieves",
+      "year": 1991
+    },
+    "The Gray Man": {
+      "id": 725201,
+      "poster": "/8cXbitsS6dWQ5gfMTZdorpAAzEH.jpg",
+      "title": "The Gray Man",
+      "year": 2022
+    },
+    "Maestro": {
+      "id": 523607,
+      "poster": "/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg",
+      "title": "Maestro",
+      "year": 2023
+    },
+    "A Star Is Born": {
+      "id": 332562,
+      "poster": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "title": "A Star Is Born",
+      "year": 2018
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "Ferrari": {
+      "id": 365620,
+      "poster": "/LyCOcGqOTyTmaXu2TK8LfGveIb.jpg",
+      "title": "Ferrari",
+      "year": 2023
+    },
+    "Killers of the Flower Moon": {
+      "id": 466420,
+      "poster": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+      "title": "Killers of the Flower Moon",
+      "year": 2023
+    },
+    "Margin Call": {
+      "id": 50839,
+      "poster": "/qtO57obCJuUBS0en3HLgFgZ19Xk.jpg",
+      "title": "Margin Call",
+      "year": 2011
+    },
+    "Striptease": {
+      "id": 9879,
+      "poster": "/4zMy6R7acotCmGoDk4sjzRtDwKn.jpg",
+      "title": "Striptease",
+      "year": 1996
+    },
+    "Indecent Proposal": {
+      "id": 4478,
+      "poster": "/a39WoiTJEG5kNLIrr3kOMwg3LFg.jpg",
+      "title": "Indecent Proposal",
+      "year": 1993
+    },
+    "Jagged Edge": {
+      "id": 12235,
+      "poster": "/wHYjo3NLc293ZEXVSGhRIUr3Iqi.jpg",
+      "title": "Jagged Edge",
+      "year": 1985
+    },
+    "Spartacus": {
+      "id": 967,
+      "poster": "/r0Fgg1GyZgzokaiw2HFQv3oPaL2.jpg",
+      "title": "Spartacus",
+      "year": 1960
+    },
+    "Casablanca": {
+      "id": 289,
+      "poster": "/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+      "title": "Casablanca",
+      "year": 1943
+    },
+    "Lawrence of Arabia": {
+      "id": 947,
+      "poster": "/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg",
+      "title": "Lawrence of Arabia",
+      "year": 1962
+    },
+    "The Spy Who Came in from the Cold": {
+      "id": 13580,
+      "poster": "/lN3PWv6cW22mqXDcgGZgK1Aa2gh.jpg",
+      "title": "The Spy Who Came In from the Cold",
+      "year": 1965
+    },
+    "The Holdovers": {
+      "id": 840430,
+      "poster": "/VHSzNBTwxV8vh7wylo7O9CLdac.jpg",
+      "title": "The Holdovers",
+      "year": 2023
+    },
+    "The Hunger Games: The Ballad of Songbirds & Snakes": {
+      "id": 695721,
+      "poster": "/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
+      "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "year": 2023
+    }
+  }
+}

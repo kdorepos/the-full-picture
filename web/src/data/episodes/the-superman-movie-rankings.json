@@ -1,0 +1,540 @@
+{
+  "slug": "the-superman-movie-rankings",
+  "title": "The Superman Movie Rankings",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Rob Mahoney",
+    "Van Lathan"
+  ],
+  "published": "2025-07-14",
+  "runtimeMin": 118,
+  "format": "Rob Mahoney and Van Lathan join Sean Fennessey to talk James Gunn's Superman, then rank all 11 Superman movies from Donner to Corenswet.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "James Gunn's Superman, the box office, and the DCU",
+      "note": "before the rankings",
+      "films": [
+        {
+          "title": "Superman",
+          "year": 2025,
+          "note": "Opened to $217M worldwide ($122M domestic), solid at home but light in Europe, for a movie the panel reads as openly about immigration and Gaza. All three praise the Corenswet/Brosnahan/Hoult casting and Gunn putting Superman in a world built to fit him. The bar for whether the DCU works, they agree, is Clayface."
+        }
+      ]
+    },
+    {
+      "kind": "ranking",
+      "heading": "The Superman Movie Rankings",
+      "note": "worst to best on air; No. 1 first here",
+      "subject": "Superman",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Superman (1978)",
+          "year": 1978,
+          "note": "No. 1. 'The father of all the other films': patient zero for big-budget superhero storytelling, and Reeve is Superman. Sits just below Jaws and Star Wars in the '70s pantheon."
+        },
+        {
+          "title": "Superman II",
+          "year": 1980,
+          "note": "No. 2. The Lester theatrical cut. Van makes the case it's better than the original: more happening, sharper Lois-and-Clark chemistry. The panel keeps it at 2 on Sean's 'importance' grounds."
+        },
+        {
+          "title": "Superman",
+          "year": 2025,
+          "note": "No. 3. The Corenswet/Gunn film, already in the pantheon on first watch. Brosnahan's Lois might 'snatch the crown' from Margot Kidder; not as good as the '78 original, and that's no knock."
+        },
+        {
+          "title": "Superman II: The Richard Donner Cut",
+          "year": 2006,
+          "note": "No. 4. Sharper, more adversarial Lois and the blanks-gunshot reveal, but it recycles the spin-the-Earth-back ending and never cohered as a finished film."
+        },
+        {
+          "title": "Superman III",
+          "year": 1983,
+          "note": "No. 5. Ends up here by default. A Richard Pryor comedy that keeps forgetting it's a Superman movie; the junkyard fight between good and evil Clark is the highlight."
+        },
+        {
+          "title": "Zack Snyder's Justice League",
+          "year": 2021,
+          "note": "No. 6. Beats Superman IV on ambition and scale: high fantasy inside a superhero movie, plus the Knightmare coda the panel wishes had been its own film."
+        },
+        {
+          "title": "Superman IV: The Quest for Peace",
+          "year": 1987,
+          "note": "No. 7. Cannon Films schlock and Reeve's nuclear-disarmament passion project: Nuclear Man, Gene Hackman dubbing his voice, 90 minutes. Van's sentimental favorite, ranked honestly."
+        },
+        {
+          "title": "Batman v Superman: Dawn of Justice",
+          "year": 2016,
+          "note": "No. 8. Only makes narrative sense in the Ultimate Cut. Affleck's Batman is the best thing in it; the Martha ending is 'heinous.'"
+        },
+        {
+          "title": "Man of Steel",
+          "year": 2013,
+          "note": "No. 9. Snyder 'doesn't get Superman': the Metropolis-leveling punch-fest and the snapped neck. Russell Crowe's Jor-El and the Krypton opening are the salvage. Sean's most-hated of the lot."
+        },
+        {
+          "title": "Superman Returns",
+          "year": 2006,
+          "note": "No. 10. Singer's inert nostalgia-porn sequel to Superman II: Routh and Bosworth have anti-chemistry, and its five-years-gone premise doesn't hold. Roundly disliked."
+        },
+        {
+          "title": "Justice League",
+          "year": 2017,
+          "note": "Last. The Whedon theatrical cut, 'in the running for the worst movie of its scale ever made.'"
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The Batman rankings they recapped",
+      "films": [
+        "The Dark Knight",
+        "Batman",
+        "Batman Returns",
+        "The Batman",
+        "Batman: Mask of the Phantasm",
+        "Batman Begins",
+        "The Dark Knight Rises",
+        "Batman Forever",
+        "The Lego Batman Movie",
+        "Batman: The Movie",
+        "Batman & Robin"
+      ]
+    },
+    {
+      "group": "Warner Bros.' 2025 slate",
+      "films": [
+        "A Minecraft Movie",
+        "Sinners",
+        "Final Destination Bloodlines",
+        "F1",
+        "Jurassic World Rebirth",
+        "Weapons",
+        "The Conjuring: Last Rites",
+        "One Battle After Another",
+        "Mortal Kombat II"
+      ]
+    },
+    {
+      "group": "The DCU's next moves",
+      "films": [
+        "Supergirl",
+        "Clayface",
+        "The Batman Part II"
+      ]
+    },
+    {
+      "group": "Name-checked in passing",
+      "films": [
+        "Jaws",
+        "Star Wars",
+        "Star Wars: The Last Jedi",
+        "Avengers: Endgame",
+        "The Ring",
+        "The Edge",
+        "Silver Streak",
+        "300",
+        "Legend",
+        "Steel",
+        "Mortal Kombat (1995)",
+        "Mortal Kombat (2021)",
+        "Army of the Dead",
+        "The Island of Dr. Moreau",
+        "Conspiracy Theory",
+        "Inside Moves",
+        "The Omen",
+        "Lethal Weapon",
+        "The Three Musketeers",
+        "A Hard Day's Night",
+        "Help!",
+        "Super/Man: The Christopher Reeve Story"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Lois & Clark: The New Adventures of Superman",
+      "Smallville",
+      "Seinfeld",
+      "Justice League / Justice League Unlimited (animated)",
+      "Adventures of Superman (1950s)",
+      "Batman (1966 series)",
+      "The Penguin",
+      "Lanterns",
+      "The Rings of Power",
+      "BET Uncut"
+    ],
+    "Podcasts & media": [
+      "The Ringerverse",
+      "House of R",
+      "The Midnight Boys",
+      "The Rewatchables",
+      "The Watch",
+      "Higher Learning",
+      "The Bill Simmons Podcast",
+      "The Ryan Rosillo Podcast",
+      "The Ryan Russell Podcast",
+      "Prestige TV",
+      "David Letterman",
+      "The Dinah Shore Show"
+    ],
+    "Ads": [
+      "Starbucks (Strato Frappuccino)",
+      "Netflix (T-Mobile Home Run Derby)",
+      "Red Bull (Athlete Challenge)"
+    ]
+  },
+  "tmdbOverrides": {
+    "Help!": 14831,
+    "Steel": 8854,
+    "Legend": 11976,
+    "The Three Musketeers": 2926,
+    "Batman: The Movie": 2661,
+    "Mortal Kombat (1995)": 9312,
+    "Mortal Kombat (2021)": 460465
+  },
+  "tmdb": {
+    "Superman": {
+      "id": 1061474,
+      "poster": "/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
+      "title": "Superman",
+      "year": 2025
+    },
+    "Superman (1978)": {
+      "id": 1924,
+      "poster": "/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
+      "title": "Superman",
+      "year": 1978
+    },
+    "Superman II": {
+      "id": 8536,
+      "poster": "/3xk5cno9BHcnwc97XO9k21aI1Zi.jpg",
+      "title": "Superman II",
+      "year": 1980
+    },
+    "Superman II: The Richard Donner Cut": {
+      "id": 624479,
+      "poster": "/dkLplIwss7Jleh82NawyGyFNMgJ.jpg",
+      "title": "Superman II: The Richard Donner Cut",
+      "year": 2006
+    },
+    "Superman III": {
+      "id": 9531,
+      "poster": "/c4oR6qgZW2s5foGkQi2Dd86KuAS.jpg",
+      "title": "Superman III",
+      "year": 1983
+    },
+    "Zack Snyder's Justice League": {
+      "id": 791373,
+      "poster": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+      "title": "Zack Snyder's Justice League",
+      "year": 2021
+    },
+    "Superman IV: The Quest for Peace": {
+      "id": 11411,
+      "poster": "/nJFBeU1oKIaIoLVyQYUeB36DW55.jpg",
+      "title": "Superman IV: The Quest for Peace",
+      "year": 1987
+    },
+    "Batman v Superman: Dawn of Justice": {
+      "id": 209112,
+      "poster": "/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
+      "title": "Batman v Superman: Dawn of Justice",
+      "year": 2016
+    },
+    "Man of Steel": {
+      "id": 49521,
+      "poster": "/8GFtkImmK0K1VaUChR0n9O61CFU.jpg",
+      "title": "Man of Steel",
+      "year": 2013
+    },
+    "Superman Returns": {
+      "id": 1452,
+      "poster": "/385XwTQZDpRX2d3kxtnpiLrjBXw.jpg",
+      "title": "Superman Returns",
+      "year": 2006
+    },
+    "Justice League": {
+      "id": 141052,
+      "poster": "/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
+      "title": "Justice League",
+      "year": 2017
+    },
+    "The Dark Knight": {
+      "id": 155,
+      "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    "Batman": {
+      "id": 268,
+      "poster": "/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
+      "title": "Batman",
+      "year": 1989
+    },
+    "Batman Returns": {
+      "id": 364,
+      "poster": "/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg",
+      "title": "Batman Returns",
+      "year": 1992
+    },
+    "The Batman": {
+      "id": 414906,
+      "poster": "/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "title": "The Batman",
+      "year": 2022
+    },
+    "Batman: Mask of the Phantasm": {
+      "id": 14919,
+      "poster": "/hT4ehUteagUrhUOHAtmYiY7mp5l.jpg",
+      "title": "Batman: Mask of the Phantasm",
+      "year": 1993
+    },
+    "Batman Begins": {
+      "id": 272,
+      "poster": "/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+      "title": "Batman Begins",
+      "year": 2005
+    },
+    "The Dark Knight Rises": {
+      "id": 49026,
+      "poster": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+      "title": "The Dark Knight Rises",
+      "year": 2012
+    },
+    "Batman Forever": {
+      "id": 414,
+      "poster": "/i0fJS8M5UKoETjjJ0zwUiKaR8tr.jpg",
+      "title": "Batman Forever",
+      "year": 1995
+    },
+    "The Lego Batman Movie": {
+      "id": 324849,
+      "poster": "/e1TliRWOdXQ73pRunbpFiGst6Kd.jpg",
+      "title": "The Lego Batman Movie",
+      "year": 2017
+    },
+    "Batman: The Movie": {
+      "id": 2661,
+      "poster": "/zzoPxWHnPa0eyfkMLgwbNvdEcVF.jpg",
+      "title": "Batman",
+      "year": 1966
+    },
+    "Batman & Robin": {
+      "id": 415,
+      "poster": "/i7hEUpDuMN2LOrCEifFyGSHZQSY.jpg",
+      "title": "Batman & Robin",
+      "year": 1997
+    },
+    "A Minecraft Movie": {
+      "id": 950387,
+      "poster": "/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+      "title": "A Minecraft Movie",
+      "year": 2025
+    },
+    "Sinners": {
+      "id": 1233413,
+      "poster": "/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+      "title": "Sinners",
+      "year": 2025
+    },
+    "Final Destination Bloodlines": {
+      "id": 574475,
+      "poster": "/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg",
+      "title": "Final Destination Bloodlines",
+      "year": 2025
+    },
+    "F1": {
+      "id": 911430,
+      "poster": "/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
+      "title": "F1",
+      "year": 2025
+    },
+    "Jurassic World Rebirth": {
+      "id": 1234821,
+      "poster": "/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
+      "title": "Jurassic World Rebirth",
+      "year": 2025
+    },
+    "Weapons": {
+      "id": 1078605,
+      "poster": "/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+      "title": "Weapons",
+      "year": 2025
+    },
+    "The Conjuring: Last Rites": {
+      "id": 1038392,
+      "poster": "/byWgphT74ClOVa8EOGzYDkl8DVL.jpg",
+      "title": "The Conjuring: Last Rites",
+      "year": 2025
+    },
+    "One Battle After Another": {
+      "id": 1054867,
+      "poster": "/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+      "title": "One Battle After Another",
+      "year": 2025
+    },
+    "Mortal Kombat II": {
+      "id": 931285,
+      "poster": "/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
+      "title": "Mortal Kombat II",
+      "year": 2026
+    },
+    "Supergirl": {
+      "id": 1081003,
+      "poster": "/moejGxR2haap29d9NQ7qe8x4eGj.jpg",
+      "title": "Supergirl",
+      "year": 2026
+    },
+    "Clayface": {
+      "id": 1400940,
+      "poster": "/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+      "title": "Clayface",
+      "year": 2026
+    },
+    "The Batman Part II": {
+      "id": 806704,
+      "poster": "/r5fl4aMsmTjgc8DdDqQaM84roWp.jpg",
+      "title": "The Batman: Part II",
+      "year": 2027
+    },
+    "Jaws": {
+      "id": 578,
+      "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "title": "Jaws",
+      "year": 1975
+    },
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
+    },
+    "Star Wars: The Last Jedi": {
+      "id": 181808,
+      "poster": "/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
+      "title": "Star Wars: The Last Jedi",
+      "year": 2017
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "The Ring": {
+      "id": 565,
+      "poster": "/AeRpUynJKDpJveklBJipOYrVxCS.jpg",
+      "title": "The Ring",
+      "year": 2002
+    },
+    "The Edge": {
+      "id": 9433,
+      "poster": "/zplJqfuUyqzW0D4jX3W1afl0d7b.jpg",
+      "title": "The Edge",
+      "year": 1997
+    },
+    "Silver Streak": {
+      "id": 11558,
+      "poster": "/gY1a4k9dalGx83D7TJ2C76xBprS.jpg",
+      "title": "Silver Streak",
+      "year": 1976
+    },
+    "300": {
+      "id": 1271,
+      "poster": "/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg",
+      "title": "300",
+      "year": 2007
+    },
+    "Legend": {
+      "id": 11976,
+      "poster": "/6n3PQSYpZRK5YPk2w8JEwED7AZk.jpg",
+      "title": "Legend",
+      "year": 1985
+    },
+    "Steel": {
+      "id": 8854,
+      "poster": "/ufA7d5LT2rGj58KaZErPhcMkJ4U.jpg",
+      "title": "Steel",
+      "year": 1997
+    },
+    "Mortal Kombat (1995)": {
+      "id": 9312,
+      "poster": "/9YhpvhhvLrtL1wlwEfpVL16GI9d.jpg",
+      "title": "Mortal Kombat",
+      "year": 1995
+    },
+    "Mortal Kombat (2021)": {
+      "id": 460465,
+      "poster": "/nkayOAUBUu4mMvyNf9iHSUiPjF1.jpg",
+      "title": "Mortal Kombat",
+      "year": 2021
+    },
+    "Army of the Dead": {
+      "id": 503736,
+      "poster": "/gCIsRxzcxvmuLYeAvWgoOuSxszF.jpg",
+      "title": "Army of the Dead",
+      "year": 2021
+    },
+    "The Island of Dr. Moreau": {
+      "id": 9306,
+      "poster": "/hOJeQXve8W9rNRhdgC1WV3GQJyA.jpg",
+      "title": "The Island of Dr. Moreau",
+      "year": 1996
+    },
+    "Conspiracy Theory": {
+      "id": 8834,
+      "poster": "/sTyTKZVikQU6g50HE8HR1tBSRxj.jpg",
+      "title": "Conspiracy Theory",
+      "year": 1997
+    },
+    "Inside Moves": {
+      "id": 39503,
+      "poster": "/A65YXgdnVgRjkaeA0hSMzfoAlZz.jpg",
+      "title": "Inside Moves",
+      "year": 1980
+    },
+    "The Omen": {
+      "id": 794,
+      "poster": "/mDcjjEu1fMNmsXi4l4D8IftlTix.jpg",
+      "title": "The Omen",
+      "year": 1976
+    },
+    "Lethal Weapon": {
+      "id": 941,
+      "poster": "/fTq4ThIP3pQTYR9eDepsbDHqdcs.jpg",
+      "title": "Lethal Weapon",
+      "year": 1987
+    },
+    "The Three Musketeers": {
+      "id": 2926,
+      "poster": "/6qjW1e31k2XhcWpzGz6lgHcRt5W.jpg",
+      "title": "The Three Musketeers",
+      "year": 1973
+    },
+    "A Hard Day's Night": {
+      "id": 704,
+      "poster": "/6Ulsccp2VkaVU5qbya3bxm9JG4x.jpg",
+      "title": "A Hard Day's Night",
+      "year": 1964
+    },
+    "Help!": {
+      "id": 14831,
+      "poster": "/nLvgIB3bVb8jyhls5W6B74Xt4Ei.jpg",
+      "title": "Help!",
+      "year": 1965
+    },
+    "Super/Man: The Christopher Reeve Story": {
+      "id": 1128559,
+      "poster": "/73WchlI0Hj4HQd0T2KOztKquOek.jpg",
+      "title": "Super/Man: The Christopher Reeve Story",
+      "year": 2024
+    }
+  },
+  "spotifyEpisodeId": "0LsUh4dYNlFwAzIthEHi2V"
+}

@@ -1,0 +1,470 @@
+{
+  "slug": "top-five-all-in-one-day-movies-and-the-lovebirds",
+  "title": "Top Five All-in-One-Day Movies and 'The Lovebirds'",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2020-05-25",
+  "runtimeMin": 65,
+  "format": "Sean and Amanda review Netflix's 'The Lovebirds,' then each host ranks a top five all-in-one-day movies.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "'The Lovebirds'",
+      "films": [
+        {
+          "title": "The Lovebirds",
+          "year": 2020,
+          "note": "Bumped from a Paramount theatrical release to Netflix by COVID-19. Kumail Nanjiani and Issa Rae have real chemistry, but Michael Showalter's script jams a rom-com, a heist-conspiracy plot, and an Eyes Wide Shut parody into one movie without fully committing to any of them."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "What counts as an all-in-one-day movie",
+      "note": "ground rules before the top fives",
+      "films": [
+        {
+          "title": "Groundhog Day",
+          "year": 1993,
+          "note": "Disqualified - the multiple-iterations-of-the-same-day structure runs counter to the genre's 'this is it, no do-overs' feeling."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Amanda's Top Five All-in-One-Day Movies",
+      "subject": "all-in-one-day movies",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Ferris Bueller's Day Off",
+          "year": 1986,
+          "note": "No. 1 - the best day of your life, capped by the parade float lip-sync to 'Twist and Shout.'"
+        },
+        {
+          "title": "Before Sunrise",
+          "year": 1995,
+          "note": "No. 2 - Ethan Hawke and Julie Delpy fall in love on a train and in one day in Vienna; the purest version of the genre because they never do meet again at that train station."
+        },
+        {
+          "title": "25th Hour",
+          "year": 2002,
+          "note": "No. 3 - Edward Norton's last day of freedom before prison, directed by Spike Lee and shadowed by 9/11."
+        },
+        {
+          "title": "His Girl Friday",
+          "year": 1940,
+          "note": "No. 4 - a newspaper deadline and a wedding deadline collide in one frantic, fast-talking day."
+        },
+        {
+          "title": "Can't Hardly Wait",
+          "year": 1998,
+          "note": "No. 5 - a graduation-night party movie with no ambition beyond being exactly that."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Sean's Top Five All-in-One-Day Movies",
+      "subject": "all-in-one-day movies",
+      "ranked": true,
+      "films": [
+        {
+          "title": "After Hours",
+          "year": 1985,
+          "note": "No. 1 - Martin Scorsese's funniest, hippest movie; Griffin Dunne bounces through one increasingly disastrous New York night."
+        },
+        {
+          "title": "Dog Day Afternoon",
+          "year": 1975,
+          "note": "No. 2 - Sidney Lumet's bank-robbery-gone-wrong, with Al Pacino's Attica-chanting performance as the centerpiece."
+        },
+        {
+          "title": "Dazed and Confused",
+          "year": 1993,
+          "note": "No. 3 - Richard Linklater's last day of school, the movie that made stars of half its cast."
+        },
+        {
+          "title": "The Texas Chain Saw Massacre",
+          "year": 1974,
+          "note": "No. 4 - Tobe Hooper's low-budget road-trip-into-a-nightmare, narrated by John Larroquette."
+        },
+        {
+          "title": "Training Day",
+          "year": 2001,
+          "note": "No. 5 - Ethan Hawke's first day on the job as an undercover narcotics cop, under Denzel Washington's Oscar-winning performance."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Cited in the review discussion",
+      "films": [
+        "Long Shot",
+        "The Photograph"
+      ]
+    },
+    {
+      "group": "Michael Showalter's filmography",
+      "films": [
+        "Wet Hot American Summer",
+        "The Baxter",
+        "They Came Together",
+        "The Big Sick"
+      ]
+    },
+    {
+      "group": "Coming to VOD/streaming in June 2020",
+      "films": [
+        "Irresistible",
+        "Da 5 Bloods",
+        "The King of Staten Island",
+        "Artemis Fowl"
+      ]
+    },
+    {
+      "group": "David Ayer's and Antoine Fuqua's other films",
+      "films": [
+        "Street Kings",
+        "Suicide Squad",
+        "The Equalizer",
+        "Infinite"
+      ]
+    },
+    {
+      "group": "Rodrigo Prieto's filmography (25th Hour's cinematographer)",
+      "films": [
+        "Amores Perros",
+        "Brokeback Mountain",
+        "The Irishman"
+      ]
+    },
+    {
+      "group": "John Cazale's five films",
+      "films": [
+        "The Godfather",
+        "The Godfather Part II",
+        "The Conversation",
+        "The Deer Hunter"
+      ]
+    },
+    {
+      "group": "Other all-in-one-day contenders discussed",
+      "films": [
+        "Superbad",
+        "Collateral",
+        "Dr. Strangelove",
+        "Fail Safe",
+        "Escape From New York",
+        "Clerks",
+        "Die Hard",
+        "One Fine Day",
+        "Go",
+        "Under the Tuscan Sun",
+        "Alien"
+      ]
+    },
+    {
+      "group": "Hypothetical all-in-one-day pitch",
+      "films": [
+        "Ocean's Twelve"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Insecure",
+      "Silicon Valley",
+      "The Wire",
+      "Night Court",
+      "The John Larroquette Show",
+      "Beatles Anthology",
+      "Russian Doll"
+    ],
+    "Podcasts": [
+      "Boom Bust",
+      "Wind of Change"
+    ]
+  },
+  "tmdbOverrides": {
+    "Dr. Strangelove": 935
+  },
+  "tmdb": {
+    "The Lovebirds": {
+      "id": 576156,
+      "poster": "/5jdLnvALCpK1NkeQU1z4YvOe2dZ.jpg",
+      "title": "The Lovebirds",
+      "year": 2020
+    },
+    "Groundhog Day": {
+      "id": 137,
+      "poster": "/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
+      "title": "Groundhog Day",
+      "year": 1993
+    },
+    "Ferris Bueller's Day Off": {
+      "id": 9377,
+      "poster": "/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg",
+      "title": "Ferris Bueller's Day Off",
+      "year": 1986
+    },
+    "Before Sunrise": {
+      "id": 76,
+      "poster": "/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg",
+      "title": "Before Sunrise",
+      "year": 1995
+    },
+    "25th Hour": {
+      "id": 1429,
+      "poster": "/uW7tTRElr2tRhmAVESzvHy4ByXg.jpg",
+      "title": "25th Hour",
+      "year": 2002
+    },
+    "His Girl Friday": {
+      "id": 3085,
+      "poster": "/lu86Y9zTPH3neCiUzLzHCEFHf7f.jpg",
+      "title": "His Girl Friday",
+      "year": 1940
+    },
+    "Can't Hardly Wait": {
+      "id": 15037,
+      "poster": "/r3a5gGWfS0SDS9nriNrJzSSrErf.jpg",
+      "title": "Can't Hardly Wait",
+      "year": 1998
+    },
+    "After Hours": {
+      "id": 10843,
+      "poster": "/eamOBurHBu0MIxohTIVcfxmZ6Z7.jpg",
+      "title": "After Hours",
+      "year": 1985
+    },
+    "Dog Day Afternoon": {
+      "id": 968,
+      "poster": "/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg",
+      "title": "Dog Day Afternoon",
+      "year": 1975
+    },
+    "Dazed and Confused": {
+      "id": 9571,
+      "poster": "/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+      "title": "Dazed and Confused",
+      "year": 1993
+    },
+    "The Texas Chain Saw Massacre": {
+      "id": 30497,
+      "poster": "/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg",
+      "title": "The Texas Chain Saw Massacre",
+      "year": 1974
+    },
+    "Training Day": {
+      "id": 2034,
+      "poster": "/bUeiwBQdupBLQthMCHKV7zv56uv.jpg",
+      "title": "Training Day",
+      "year": 2001
+    },
+    "Long Shot": {
+      "id": 459992,
+      "poster": "/1F9AItQ6fhrfhBVQlmC8ReOQAFG.jpg",
+      "title": "Long Shot",
+      "year": 2019
+    },
+    "The Photograph": {
+      "id": 589049,
+      "poster": "/cdqZqIcWt0Ne2Io2OA9iWqqMuCA.jpg",
+      "title": "The Photograph",
+      "year": 2020
+    },
+    "Wet Hot American Summer": {
+      "id": 2171,
+      "poster": "/skKRPj1Cdsxqzn8BwKxvNV20rRW.jpg",
+      "title": "Wet Hot American Summer",
+      "year": 2001
+    },
+    "The Baxter": {
+      "id": 13169,
+      "poster": "/9V1ASfnxMZxrkqIvVQYySE5qSwd.jpg",
+      "title": "The Baxter",
+      "year": 2005
+    },
+    "They Came Together": {
+      "id": 180296,
+      "poster": "/ifvKTtvmPYOGed2hP9ogPq98In7.jpg",
+      "title": "They Came Together",
+      "year": 2014
+    },
+    "The Big Sick": {
+      "id": 416477,
+      "poster": "/9fJTT8pBxxQsFILJHTtHhdYFr77.jpg",
+      "title": "The Big Sick",
+      "year": 2017
+    },
+    "Irresistible": {
+      "id": 595148,
+      "poster": "/hUpYDriYa5YkwwxeafUsowTweBg.jpg",
+      "title": "Irresistible",
+      "year": 2020
+    },
+    "Da 5 Bloods": {
+      "id": 581859,
+      "poster": "/yx4cp1ljJMDSFeEex0Zjv45b55E.jpg",
+      "title": "Da 5 Bloods",
+      "year": 2020
+    },
+    "The King of Staten Island": {
+      "id": 579583,
+      "poster": "/zQFjMmE3K9AX5QrBL1SXIxYQ9jz.jpg",
+      "title": "The King of Staten Island",
+      "year": 2020
+    },
+    "Artemis Fowl": {
+      "id": 475430,
+      "poster": "/tI8ocADh22GtQFV28vGHaBZVb0U.jpg",
+      "title": "Artemis Fowl",
+      "year": 2020
+    },
+    "Street Kings": {
+      "id": 1266,
+      "poster": "/iTO7sBfVTr7LUqiFtGeFW7g2Ncf.jpg",
+      "title": "Street Kings",
+      "year": 2008
+    },
+    "Suicide Squad": {
+      "id": 297761,
+      "poster": "/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg",
+      "title": "Suicide Squad",
+      "year": 2016
+    },
+    "The Equalizer": {
+      "id": 156022,
+      "poster": "/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg",
+      "title": "The Equalizer",
+      "year": 2014
+    },
+    "Infinite": {
+      "id": 581726,
+      "poster": "/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg",
+      "title": "Infinite",
+      "year": 2021
+    },
+    "Amores Perros": {
+      "id": 55,
+      "poster": "/A4lH22nlFF7MdalGfcvSrlC1ttt.jpg",
+      "title": "Amores Perros",
+      "year": 2000
+    },
+    "Brokeback Mountain": {
+      "id": 142,
+      "poster": "/aByfQOQBNa4CMFwIgq3QrqY2ZHh.jpg",
+      "title": "Brokeback Mountain",
+      "year": 2005
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "The Godfather": {
+      "id": 238,
+      "poster": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "title": "The Godfather",
+      "year": 1972
+    },
+    "The Godfather Part II": {
+      "id": 240,
+      "poster": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+      "title": "The Godfather Part II",
+      "year": 1974
+    },
+    "The Conversation": {
+      "id": 592,
+      "poster": "/dHqVBwcv1SGymOpUueRoKzcmdes.jpg",
+      "title": "The Conversation",
+      "year": 1974
+    },
+    "The Deer Hunter": {
+      "id": 11778,
+      "poster": "/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
+      "title": "The Deer Hunter",
+      "year": 1978
+    },
+    "Superbad": {
+      "id": 8363,
+      "poster": "/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg",
+      "title": "Superbad",
+      "year": 2007
+    },
+    "Collateral": {
+      "id": 1538,
+      "poster": "/nV5316WUsVij8sVXLCF1g7TFitg.jpg",
+      "title": "Collateral",
+      "year": 2004
+    },
+    "Dr. Strangelove": {
+      "id": 935,
+      "poster": "/6x7MzQ6BOMlRzam1StcmPO9v61g.jpg",
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "year": 1964
+    },
+    "Fail Safe": {
+      "id": 502,
+      "poster": "/qrsj5hort5xkLOKw9NyraGMnlVP.jpg",
+      "title": "Fail Safe",
+      "year": 1964
+    },
+    "Escape From New York": {
+      "id": 1103,
+      "poster": "/vH9llaphjAssRGi0k7e75tD40Ce.jpg",
+      "title": "Escape from New York",
+      "year": 1981
+    },
+    "Clerks": {
+      "id": 2292,
+      "poster": "/9IiSgiq4h4siTIS9H3o4nZ3h5L9.jpg",
+      "title": "Clerks",
+      "year": 1994
+    },
+    "Die Hard": {
+      "id": 562,
+      "poster": "/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg",
+      "title": "Die Hard",
+      "year": 1988
+    },
+    "One Fine Day": {
+      "id": 7300,
+      "poster": "/5NiRRR7JDNHOr21JNoGRxPWh9vb.jpg",
+      "title": "One Fine Day",
+      "year": 1996
+    },
+    "Go": {
+      "id": 9430,
+      "poster": "/7UzD5Dmu3jqb2ls4Lnb4SYQqbYm.jpg",
+      "title": "Go",
+      "year": 1999
+    },
+    "Under the Tuscan Sun": {
+      "id": 10934,
+      "poster": "/3vQUQwdtfPt1Sl2GZrIECWWA0dk.jpg",
+      "title": "Under the Tuscan Sun",
+      "year": 2003
+    },
+    "Alien": {
+      "id": 348,
+      "poster": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "title": "Alien",
+      "year": 1979
+    },
+    "Ocean's Twelve": {
+      "id": 163,
+      "poster": "/pE5anFf7nf6ah7V3VRezQ1KSovi.jpg",
+      "title": "Ocean's Twelve",
+      "year": 2004
+    }
+  },
+  "spotifyEpisodeId": "0kJP6xsXgDAbJwoI3qalxV"
+}

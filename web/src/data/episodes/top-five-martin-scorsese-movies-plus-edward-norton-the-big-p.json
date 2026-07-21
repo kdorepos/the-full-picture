@@ -1,0 +1,644 @@
+{
+  "slug": "top-five-martin-scorsese-movies-plus-edward-norton-the-big-p",
+  "title": "Top Five Martin Scorsese Movies. Plus: Edward Norton! | The Big Picture",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Chris Ryan",
+    "Adam Nayman"
+  ],
+  "published": "2019-11-01",
+  "runtimeMin": 91,
+  "format": "Ahead of The Irishman, Adam Nayman and Chris Ryan each run their Scorsese top five (Sean plays along too); then Sean sits down with Edward Norton about Motherless Brooklyn.",
+  "tmdbOverrides": {
+    "The River": 45218,
+    "8½": 422
+  },
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "What Makes Scorsese, Scorsese",
+      "note": "before the lists, a conversation about his career",
+      "films": [
+        {
+          "title": "The Irishman",
+          "year": 2019,
+          "note": "This weekend's Netflix release is the peg for the episode. The hosts save the movie itself for next week."
+        },
+        {
+          "title": "Mean Streets",
+          "year": 1973,
+          "note": "Early example of Scorsese synthesizing genre from inside and outside American crime pictures: Italian melodrama grafted onto B-movie plotting."
+        },
+        {
+          "title": "The Godfather",
+          "year": 1972,
+          "note": "Contrast point: Coppola was more overtly reinventing the gangster genre in the same era than Scorsese was."
+        },
+        {
+          "title": "Cape Fear",
+          "year": 1991,
+          "note": "Chris's marker for when Scorsese stops being a crime-genre director in any strict sense. Before this, his real genre was New York City itself."
+        },
+        {
+          "title": "Network",
+          "year": 1976,
+          "note": "Cited as a rare peer to Scorsese's The King of Comedy in predicting America's relationship to fame."
+        },
+        {
+          "title": "Joker",
+          "year": 2019,
+          "note": "This year's Scorsese homage/riff, leaning on Taxi Driver and The King of Comedy."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Runners-Up",
+      "note": "before the countdown",
+      "films": [
+        {
+          "title": "After Hours",
+          "year": 1985,
+          "note": "Adam crossed this off his list on the way to the studio in favor of The Last Waltz. It turns up on both Chris's and Sean's top fives anyway."
+        },
+        {
+          "title": "New York Stories",
+          "year": 1989,
+          "note": "Chris's shoutout to the Nick Nolte segment 'Life Lessons' (not a full film of his own, but one of Scorsese's best hours). Skip the other two segments."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Adam Nayman's Top Five Scorsese Movies",
+      "subject": "Martin Scorsese",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Goodfellas",
+          "year": 1990,
+          "note": "No. 1. Unanimous pick across all three hosts."
+        },
+        {
+          "title": "Silence",
+          "year": 2016,
+          "note": "No. 2. Adam calls it the best of Scorsese's late films. Isao Gata's performance is his favorite in any Scorsese movie."
+        },
+        {
+          "title": "The Age of Innocence",
+          "year": 1993,
+          "note": "No. 3. Praised for the restraint in Daniel Day-Lewis and Michelle Pfeiffer's scenes together."
+        },
+        {
+          "title": "Taxi Driver",
+          "year": 1976,
+          "note": "No. 4. Also Sean's No. 4."
+        },
+        {
+          "title": "The Last Waltz",
+          "year": 1978,
+          "note": "No. 5. All three hosts had this at No. 5."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Chris Ryan's Top Five Scorsese Movies",
+      "subject": "Martin Scorsese",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Goodfellas",
+          "year": 1990,
+          "note": "No. 1. Unanimous pick across all three hosts."
+        },
+        {
+          "title": "The Color of Money",
+          "year": 1986,
+          "note": "No. 2. Chris's favorite Newman-Cruise sequence: 'Werewolves of London.'"
+        },
+        {
+          "title": "After Hours",
+          "year": 1985,
+          "note": "No. 3. Also Sean's No. 3."
+        },
+        {
+          "title": "The Wolf of Wall Street",
+          "year": 2013,
+          "note": "No. 4. Chris calls it the funniest movie Scorsese ever made."
+        },
+        {
+          "title": "The Last Waltz",
+          "year": 1978,
+          "note": "No. 5. All three hosts had this at No. 5."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Sean Fennessey's Top Five Scorsese Movies",
+      "subject": "Martin Scorsese",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Goodfellas",
+          "year": 1990,
+          "note": "No. 1. Unanimous pick across all three hosts."
+        },
+        {
+          "title": "The King of Comedy",
+          "year": 1982,
+          "note": "No. 2. Sean links it to Network in predicting America's relationship to fame."
+        },
+        {
+          "title": "After Hours",
+          "year": 1985,
+          "note": "No. 3. Also Chris's No. 3."
+        },
+        {
+          "title": "Taxi Driver",
+          "year": 1976,
+          "note": "No. 4. Also Adam's No. 4."
+        },
+        {
+          "title": "The Last Waltz",
+          "year": 1978,
+          "note": "No. 5. All three hosts had this at No. 5."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The Ones Nobody Picked",
+      "note": "after the countdown",
+      "films": [
+        {
+          "title": "Raging Bull",
+          "year": 1980,
+          "note": "The big non-pick. Chris: 'the masterpiece that has never really worked for me'; Adam says it's never been super pleasurable to watch."
+        },
+        {
+          "title": "The Departed",
+          "year": 2006,
+          "note": "Adam is on record disliking it; Chris says it's an important movie to him despite its flaws."
+        },
+        {
+          "title": "Shutter Island",
+          "year": 2010,
+          "note": "Named as an example of late-period Scorsese nobody reached for."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Edward Norton on Motherless Brooklyn",
+      "guest": "Edward Norton on",
+      "films": [
+        {
+          "title": "Motherless Brooklyn",
+          "year": 2019,
+          "note": "Norton's first film as director in 19 years: he wrote, directed, and stars, moving Jonathan Lethem's novel from present-day to 1950s New York."
+        },
+        {
+          "title": "Fight Club",
+          "year": 1999,
+          "note": "What Norton was making when he first optioned Lethem's novel."
+        },
+        {
+          "title": "Keeping the Faith",
+          "year": 2000,
+          "note": "Norton's actual directorial debut, made while Motherless Brooklyn sat in a drawer for years."
+        },
+        {
+          "title": "American History X",
+          "year": 1998,
+          "note": "Where Norton met Toby Emmerich, the eventual Warner Bros. exec who championed Motherless Brooklyn for two decades."
+        },
+        {
+          "title": "Citizen Kane",
+          "year": 1941,
+          "note": "Norton's touchstone for an actor directing his own passion project."
+        },
+        {
+          "title": "Reds",
+          "year": 1981,
+          "note": "Warren Beatty's actor-directed epic, the other model Norton cites."
+        },
+        {
+          "title": "Unforgiven",
+          "year": 1992,
+          "note": "Another actor-director passion project Norton points to."
+        },
+        {
+          "title": "Dances with Wolves",
+          "year": 1990,
+          "note": "Same list: actor-directors who found the material that fit them."
+        },
+        {
+          "title": "Sweet Smell of Success",
+          "year": 1957,
+          "note": "Someone pointed out to Norton that Motherless Brooklyn is set the same year as this film, and shares its vibe."
+        },
+        {
+          "title": "Chinatown",
+          "year": 1974,
+          "note": "Norton's noir reference point for using genre to reveal how a city was really built."
+        },
+        {
+          "title": "The Big Sleep",
+          "year": 1946,
+          "note": "Cited alongside Chinatown as the noir tradition Norton calls secretly patriotic."
+        },
+        {
+          "title": "Forrest Gump",
+          "year": 1994,
+          "note": "Norton's example of the afflicted-underdog structure he used for Lionel, via screenwriter Eric Roth."
+        },
+        {
+          "title": "Good Will Hunting",
+          "year": 1997,
+          "note": "Same lineage of underdog narratives Norton cites."
+        },
+        {
+          "title": "Rain Man",
+          "year": 1988,
+          "note": "Also cited in that same lineage."
+        },
+        {
+          "title": "A Beautiful Mind",
+          "year": 2001,
+          "note": "Rounds out Norton's list of films that make you root for someone because of an affliction, not despite it."
+        },
+        {
+          "title": "Anima",
+          "year": 2019,
+          "note": "Norton's 'last great thing': Paul Thomas Anderson and Thom Yorke's short film for Netflix."
+        },
+        {
+          "title": "A Prophet",
+          "year": 2009,
+          "note": "Jacques Audiard's prison drama. Norton ranks it with The Godfather and Goodfellas among the great gangster films."
+        },
+        {
+          "title": "The Beat That My Heart Skipped",
+          "year": 2005,
+          "note": "Another Audiard film Norton recommends."
+        },
+        {
+          "title": "Rust and Bone",
+          "year": 2012,
+          "note": "Audiard's film with Marion Cotillard, Norton's parting recommendation."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Scorsese's own Sight & Sound top 10 (he actually listed 12)",
+      "films": [
+        "2001: A Space Odyssey",
+        "8½",
+        "Ashes and Diamonds",
+        "Citizen Kane",
+        "The Leopard",
+        "Paisan",
+        "The Red Shoes",
+        "The River",
+        "Salvatore Giuliano",
+        "The Searchers",
+        "Ugetsu",
+        "Vertigo"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Visions of Light",
+        "Guardians of the Galaxy Vol. 2",
+        "Thor: The Dark World"
+      ]
+    }
+  ],
+  "excluded": {
+    "Ads": [
+      "The Book of Basketball 2.0"
+    ]
+  },
+  "tmdb": {
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Mean Streets": {
+      "id": 203,
+      "poster": "/9msfwOeGc9uL1iRRTBdEf15XonC.jpg",
+      "title": "Mean Streets",
+      "year": 1973
+    },
+    "The Godfather": {
+      "id": 238,
+      "poster": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "title": "The Godfather",
+      "year": 1972
+    },
+    "Cape Fear": {
+      "id": 1598,
+      "poster": "/meJZAAuVcjic2ipvbOPz5UlE4P9.jpg",
+      "title": "Cape Fear",
+      "year": 1991
+    },
+    "Network": {
+      "id": 10774,
+      "poster": "/qZomlHsaALUtkFeMDwdYmwS2Pbo.jpg",
+      "title": "Network",
+      "year": 1976
+    },
+    "Joker": {
+      "id": 475557,
+      "poster": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "title": "Joker",
+      "year": 2019
+    },
+    "After Hours": {
+      "id": 10843,
+      "poster": "/eamOBurHBu0MIxohTIVcfxmZ6Z7.jpg",
+      "title": "After Hours",
+      "year": 1985
+    },
+    "New York Stories": {
+      "id": 9686,
+      "poster": "/mViGEH5dfsAnUgJmce1RJkFycAi.jpg",
+      "title": "New York Stories",
+      "year": 1989
+    },
+    "Goodfellas": {
+      "id": 769,
+      "poster": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+      "title": "GoodFellas",
+      "year": 1990
+    },
+    "Silence": {
+      "id": 68730,
+      "poster": "/x5T0cQDYws0xRBVG4Q3wpcrcmax.jpg",
+      "title": "Silence",
+      "year": 2016
+    },
+    "The Age of Innocence": {
+      "id": 10436,
+      "poster": "/5Tuyt26v7qNR8Cl3m7ZRx36rduf.jpg",
+      "title": "The Age of Innocence",
+      "year": 1993
+    },
+    "Taxi Driver": {
+      "id": 103,
+      "poster": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "title": "Taxi Driver",
+      "year": 1976
+    },
+    "The Last Waltz": {
+      "id": 13963,
+      "poster": "/2K7CFH0AIHnGrA4yQjPCoIB5CmQ.jpg",
+      "title": "The Last Waltz",
+      "year": 1978
+    },
+    "The Color of Money": {
+      "id": 11873,
+      "poster": "/dVdnHmdQu3JtLAAksjTmTEF76gD.jpg",
+      "title": "The Color of Money",
+      "year": 1986
+    },
+    "The Wolf of Wall Street": {
+      "id": 106646,
+      "poster": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+      "title": "The Wolf of Wall Street",
+      "year": 2013
+    },
+    "The King of Comedy": {
+      "id": 262,
+      "poster": "/m24EbHxT9NGYEkOlu29YcLOgjgK.jpg",
+      "title": "The King of Comedy",
+      "year": 1982
+    },
+    "Raging Bull": {
+      "id": 1578,
+      "poster": "/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
+      "title": "Raging Bull",
+      "year": 1980
+    },
+    "The Departed": {
+      "id": 1422,
+      "poster": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+      "title": "The Departed",
+      "year": 2006
+    },
+    "Shutter Island": {
+      "id": 11324,
+      "poster": "/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+      "title": "Shutter Island",
+      "year": 2010
+    },
+    "Motherless Brooklyn": {
+      "id": 504562,
+      "poster": "/2wm20cbkH1L8nA54Gtwfgz2hTqo.jpg",
+      "title": "Motherless Brooklyn",
+      "year": 2019
+    },
+    "Fight Club": {
+      "id": 550,
+      "poster": "/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+      "title": "Fight Club",
+      "year": 1999
+    },
+    "Keeping the Faith": {
+      "id": 4967,
+      "poster": "/9NF199FTvHr9ggqdBTVbPhF1MGk.jpg",
+      "title": "Keeping the Faith",
+      "year": 2000
+    },
+    "American History X": {
+      "id": 73,
+      "poster": "/x2drgoXYZ8484lqyDj7L1CEVR4T.jpg",
+      "title": "American History X",
+      "year": 1998
+    },
+    "Citizen Kane": {
+      "id": 15,
+      "poster": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+      "title": "Citizen Kane",
+      "year": 1941
+    },
+    "Reds": {
+      "id": 18254,
+      "poster": "/AeiKdVVM93fwfQG1m3N0cgVZgHl.jpg",
+      "title": "Reds",
+      "year": 1981
+    },
+    "Unforgiven": {
+      "id": 33,
+      "poster": "/54roTwbX9fltg85zjsmrooXAs12.jpg",
+      "title": "Unforgiven",
+      "year": 1992
+    },
+    "Dances with Wolves": {
+      "id": 581,
+      "poster": "/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg",
+      "title": "Dances with Wolves",
+      "year": 1990
+    },
+    "Sweet Smell of Success": {
+      "id": 976,
+      "poster": "/akzvV8JasNrgEl5iAP9K6zPHGJe.jpg",
+      "title": "Sweet Smell of Success",
+      "year": 1957
+    },
+    "Chinatown": {
+      "id": 829,
+      "poster": "/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg",
+      "title": "Chinatown",
+      "year": 1974
+    },
+    "The Big Sleep": {
+      "id": 910,
+      "poster": "/lraHo9D8c0YWfxsKqT5P5sVqMKN.jpg",
+      "title": "The Big Sleep",
+      "year": 1946
+    },
+    "Forrest Gump": {
+      "id": 13,
+      "poster": "/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
+      "title": "Forrest Gump",
+      "year": 1994
+    },
+    "Good Will Hunting": {
+      "id": 489,
+      "poster": "/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+      "title": "Good Will Hunting",
+      "year": 1997
+    },
+    "Rain Man": {
+      "id": 380,
+      "poster": "/iTNHwO896WKkaoPtpMMS74d8VNi.jpg",
+      "title": "Rain Man",
+      "year": 1988
+    },
+    "A Beautiful Mind": {
+      "id": 453,
+      "poster": "/rEIg5yJdNOt9fmX4P8gU9LeNoTQ.jpg",
+      "title": "A Beautiful Mind",
+      "year": 2001
+    },
+    "Anima": {
+      "id": 793288,
+      "poster": "/5837FKmBm7PskNLdSEcdMUub5nb.jpg",
+      "title": "Anima",
+      "year": 2020
+    },
+    "A Prophet": {
+      "id": 21575,
+      "poster": "/x9Jb8kewBHPzjTtgCQvoQoDsy4d.jpg",
+      "title": "A Prophet",
+      "year": 2009
+    },
+    "The Beat That My Heart Skipped": {
+      "id": 1553,
+      "poster": "/w4Y1WJMUP6w2hZo5FnQdZL3OWjN.jpg",
+      "title": "The Beat That My Heart Skipped",
+      "year": 2005
+    },
+    "Rust and Bone": {
+      "id": 97365,
+      "poster": "/6bcerd7CeQ5y5Dilym1O2C8c8Gl.jpg",
+      "title": "Rust and Bone",
+      "year": 2012
+    },
+    "2001: A Space Odyssey": {
+      "id": 62,
+      "poster": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "title": "2001: A Space Odyssey",
+      "year": 1968
+    },
+    "8½": {
+      "id": 422,
+      "poster": "/23VIf7zNxAgaXwIlvzd3IvOd9sY.jpg",
+      "title": "8½",
+      "year": 1963
+    },
+    "Ashes and Diamonds": {
+      "id": 5055,
+      "poster": "/nE8aqRvVnRQEqskiarnFhdJdk8g.jpg",
+      "title": "Ashes and Diamonds",
+      "year": 1958
+    },
+    "The Leopard": {
+      "id": 1040,
+      "poster": "/riSUxwoK3xjkOgy6YJSvPhi7cO6.jpg",
+      "title": "The Leopard",
+      "year": 1963
+    },
+    "Paisan": {
+      "id": 8429,
+      "poster": "/r5IGAFASCXmp8m51vUbER3WwVcB.jpg",
+      "title": "Paisan",
+      "year": 1946
+    },
+    "The Red Shoes": {
+      "id": 19542,
+      "poster": "/vPvpBWFWDvEXuQBkoYgA6A89GVp.jpg",
+      "title": "The Red Shoes",
+      "year": 1948
+    },
+    "The River": {
+      "id": 45218,
+      "poster": "/rC1k4xkffb5sdQlktiP2TyiBxT2.jpg",
+      "title": "The River",
+      "year": 1951
+    },
+    "Salvatore Giuliano": {
+      "id": 27523,
+      "poster": "/uaFTCD0y2MEccTFyHOHj6IrwyZ.jpg",
+      "title": "Salvatore Giuliano",
+      "year": 1962
+    },
+    "The Searchers": {
+      "id": 3114,
+      "poster": "/jLBmgW0epNzJ1N9uzaVCjbyT94v.jpg",
+      "title": "The Searchers",
+      "year": 1956
+    },
+    "Ugetsu": {
+      "id": 14696,
+      "poster": "/r8RiuKTIYIJBjczBVsfeP5C00CJ.jpg",
+      "title": "Ugetsu",
+      "year": 1953
+    },
+    "Vertigo": {
+      "id": 426,
+      "poster": "/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg",
+      "title": "Vertigo",
+      "year": 1958
+    },
+    "Visions of Light": {
+      "id": 41778,
+      "poster": "/62ry0lNv4gQRuusC1EkUkOmTuUY.jpg",
+      "title": "Visions of Light",
+      "year": 1992
+    },
+    "Guardians of the Galaxy Vol. 2": {
+      "id": 283995,
+      "poster": "/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+      "title": "Guardians of the Galaxy Vol. 2",
+      "year": 2017
+    },
+    "Thor: The Dark World": {
+      "id": 76338,
+      "poster": "/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",
+      "title": "Thor: The Dark World",
+      "year": 2013
+    }
+  },
+  "spotifyEpisodeId": "1Z36pmvrCGwdfO7vPH3pnH"
+}

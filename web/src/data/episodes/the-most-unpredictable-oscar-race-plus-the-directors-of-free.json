@@ -1,0 +1,273 @@
+{
+  "slug": "the-most-unpredictable-oscar-race-plus-the-directors-of-free",
+  "title": "The Most Unpredictable Oscar Race, Plus the Directors of ‘Free Solo’ | Interview (Ep. 124)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2019-02-07",
+  "runtimeMin": 45,
+  "format": "Amanda breaks down a wide-open Best Documentary race, then Jimmy Chin and Chai Vasarhelyi talk about the risk and trust behind filming Alex Honnold on El Capitan.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Best Documentary at the Oscars",
+      "note": "the nominees and snubs, then the pick to win",
+      "films": [
+        {
+          "title": "Free Solo",
+          "year": 2018,
+          "note": "Sean's pick to win; Amanda calls it essentially ‘First Man, but good.’"
+        },
+        {
+          "title": "Hale County This Morning, This Evening",
+          "year": 2018,
+          "note": "The surprise nominee: impressionistic, non-linear, no talking-head interviews."
+        },
+        {
+          "title": "Minding the Gap",
+          "year": 2018,
+          "note": "Amanda's favorite movie of last year; director Bing Liu was on the show."
+        },
+        {
+          "title": "Of Fathers and Sons",
+          "year": 2018,
+          "note": "Talal Derki spent two years embedded with a Syrian militant's family and his two teenage sons."
+        },
+        {
+          "title": "RBG",
+          "year": 2018,
+          "note": "Sean's least favorite of the five: he calls it pop hokiness that undersells the historical figure."
+        },
+        {
+          "title": "Won't You Be My Neighbor?",
+          "year": 2018,
+          "note": "Snubbed, partly because director Morgan Neville already won an Oscar for 20 Feet From Stardom."
+        },
+        {
+          "title": "Three Identical Strangers",
+          "year": 2018,
+          "note": "Snubbed despite director Tim Wardle winning the DGA award for the film."
+        },
+        {
+          "title": "First Man",
+          "year": 2018,
+          "note": "Amanda's reference point for Free Solo: similar themes, less charisma at the center."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Jimmy Chin and Chai Vasarhelyi on Free Solo",
+      "guest": "Jimmy Chin and Chai Vasarhelyi",
+      "films": [
+        {
+          "title": "Free Solo",
+          "year": 2018,
+          "note": "Alex Honnold's unroped climb of El Capitan; two years of filming built on the ethics of the risk itself."
+        },
+        {
+          "title": "Meru",
+          "year": 2015,
+          "note": "Chin and Vasarhelyi's previous film together, about a Himalayan climbing attempt."
+        },
+        {
+          "title": "The Act of Killing",
+          "year": 2012,
+          "note": "Chai's pick for the last great thing she's seen: she calls it a genre-bending revelation."
+        },
+        {
+          "title": "Honeyland",
+          "year": 2019,
+          "note": "Chai's other pick, just seen at Sundance: Macedonian beekeepers, shot verite."
+        },
+        {
+          "title": "Whiplash",
+          "year": 2014,
+          "note": "Jimmy's pick: a film about someone pushing themselves to their limit."
+        },
+        {
+          "title": "Green Book",
+          "year": 2018,
+          "note": "Jimmy's most recent watch."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Past Best Documentary winners discussed",
+      "films": [
+        "Inside Job",
+        "Undefeated",
+        "Searching for Sugar Man",
+        "How to Survive a Plague",
+        "20 Feet from Stardom",
+        "Citizenfour",
+        "Amy",
+        "O.J.: Made in America",
+        "Icarus"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Cartel Land",
+        "Hoop Dreams"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Undefeated": 82620,
+    "Amy": 331781,
+    "Icarus": 432976
+  },
+  "tmdb": {
+    "Free Solo": {
+      "id": 515042,
+      "poster": "/v4QfYZMACODlWul9doN9RxE99ag.jpg",
+      "title": "Free Solo",
+      "year": 2018
+    },
+    "Hale County This Morning, This Evening": {
+      "id": 490785,
+      "poster": "/yzso3kOTsilpu25bnDhAkxPWoTT.jpg",
+      "title": "Hale County This Morning, This Evening",
+      "year": 2018
+    },
+    "Minding the Gap": {
+      "id": 489985,
+      "poster": "/uOu2YgrryHD1UlngykzTodAxGdC.jpg",
+      "title": "Minding the Gap",
+      "year": 2018
+    },
+    "Of Fathers and Sons": {
+      "id": 488740,
+      "poster": "/9nY0ef1kCwu1fUG0mjBq3wWghu1.jpg",
+      "title": "Of Fathers and Sons",
+      "year": 2017
+    },
+    "RBG": {
+      "id": 493099,
+      "poster": "/vIenhDe9DuvxODJOIpMjBheYlcS.jpg",
+      "title": "RBG",
+      "year": 2018
+    },
+    "Won't You Be My Neighbor?": {
+      "id": 490003,
+      "poster": "/8qE8NZjiP2M884baH0VoLF828Vp.jpg",
+      "title": "Won't You Be My Neighbor?",
+      "year": 2018
+    },
+    "Three Identical Strangers": {
+      "id": 489988,
+      "poster": "/esPoJNMBsgWXahv8gILIl5K6sFk.jpg",
+      "title": "Three Identical Strangers",
+      "year": 2018
+    },
+    "First Man": {
+      "id": 369972,
+      "poster": "/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
+      "title": "First Man",
+      "year": 2018
+    },
+    "Meru": {
+      "id": 318279,
+      "poster": "/hcGQ5KHcs7vwK1dXsPoKYQQTt3q.jpg",
+      "title": "Meru",
+      "year": 2015
+    },
+    "The Act of Killing": {
+      "id": 123678,
+      "poster": "/sp5B7Tz5ttsgOLnIlCP5uEhtesI.jpg",
+      "title": "The Act of Killing",
+      "year": 2012
+    },
+    "Honeyland": {
+      "id": 566213,
+      "poster": "/3IxGhQEzLWOxkZlcNMAIiYlOT8D.jpg",
+      "title": "Honeyland",
+      "year": 2019
+    },
+    "Whiplash": {
+      "id": 244786,
+      "poster": "/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+      "title": "Whiplash",
+      "year": 2014
+    },
+    "Green Book": {
+      "id": 490132,
+      "poster": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+      "title": "Green Book",
+      "year": 2018
+    },
+    "Inside Job": {
+      "id": 44639,
+      "poster": "/7yXXIWec24htucjsZS1sDuPLqw8.jpg",
+      "title": "Inside Job",
+      "year": 2010
+    },
+    "Undefeated": {
+      "id": 82620,
+      "poster": "/8MF2TC6s9Q6onyWgVWJ9YC689oc.jpg",
+      "title": "Undefeated",
+      "year": 2011
+    },
+    "Searching for Sugar Man": {
+      "id": 84334,
+      "poster": "/ucM98HuBHSWmn44oiE83hIDc6VB.jpg",
+      "title": "Searching for Sugar Man",
+      "year": 2012
+    },
+    "How to Survive a Plague": {
+      "id": 84286,
+      "poster": "/azlN2LO5OtJVeSokkK408xMtt1n.jpg",
+      "title": "How to Survive a Plague",
+      "year": 2012
+    },
+    "20 Feet from Stardom": {
+      "id": 159014,
+      "poster": "/6iRxKxfE6SB586cQV3BH8NSMzoZ.jpg",
+      "title": "20 Feet from Stardom",
+      "year": 2013
+    },
+    "Citizenfour": {
+      "id": 293310,
+      "poster": "/nOVhX69EAxtSKEEnr5UcSd5UVci.jpg",
+      "title": "Citizenfour",
+      "year": 2014
+    },
+    "Amy": {
+      "id": 331781,
+      "poster": "/qL0RepWSNUuZoeDXfyhqowVYhrn.jpg",
+      "title": "Amy",
+      "year": 2015
+    },
+    "O.J.: Made in America": {
+      "id": 377462,
+      "poster": "/nFmg2G4IJ0x9mALXkYFN8Gw0Dw5.jpg",
+      "title": "O.J.: Made in America",
+      "year": 2016
+    },
+    "Icarus": {
+      "id": 432976,
+      "poster": "/x5azMi1KvZWbBbfjmGqpHNGqjH.jpg",
+      "title": "Icarus",
+      "year": 2017
+    },
+    "Cartel Land": {
+      "id": 317952,
+      "poster": "/bNNP8IYV1VZKsS5CRavRpRDWV06.jpg",
+      "title": "Cartel Land",
+      "year": 2015
+    },
+    "Hoop Dreams": {
+      "id": 14275,
+      "poster": "/gLzHl2XBtVwycl8DxdOXRHPm8G3.jpg",
+      "title": "Hoop Dreams",
+      "year": 1994
+    }
+  }
+}

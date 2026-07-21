@@ -1,0 +1,125 @@
+{
+  "slug": "the-beatles-get-back-and-our-fab-5-beatles-albums",
+  "title": "‘The Beatles: Get Back’ and Our Fab 5 Beatles Albums",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2021-11-30",
+  "runtimeMin": 84,
+  "format": "Sean and Amanda spend Thanksgiving weekend with Peter Jackson's eight-hour Beatles documentary, then rank their favorite Beatles albums. Later, Sean talks to Penny Lane about her Kenny G documentary for the Music Box series.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "'Get Back' and the ghost of 'Let It Be'",
+      "note": "Peter Jackson's eight-hour Beatles documentary",
+      "films": [
+        {
+          "title": "Let It Be",
+          "year": 1970,
+          "note": "Michael Lindsay-Hogg's original 80-minute film, drawn from the same footage but rarely seen since. Jackson's cut restores what it left out, including Paul writing the title track in real time."
+        },
+        {
+          "title": "The Magic Christian",
+          "year": 1969,
+          "note": "Mentioned in passing: the whole 'Get Back' session was bookended by Ringo's commitment to go shoot this Peter Sellers comedy."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Penny Lane on",
+      "note": "the latest in the Music Box series, premiering on HBO",
+      "films": [
+        {
+          "title": "Listening to Kenny G",
+          "year": 2021,
+          "note": "Penny Lane's documentary uses the smooth-jazz star to work through a question from her years teaching art students: whether there's a meaningful line between good art and bad art."
+        },
+        {
+          "title": "Hail Satan?",
+          "year": 2019,
+          "note": "Lane's previous film, referenced as a companion piece. Sean notes both share her knack for making serious ideas go down easy."
+        },
+        {
+          "title": "The Velvet Underground",
+          "year": 2021,
+          "note": "Lane's answer to the show's closing question: the last great thing she saw, and an inspiration for how a music documentary can foreground the experience of the music itself."
+        },
+        {
+          "title": "Confessions of a Good Samaritan",
+          "note": "Lane's next project, then in post-production, about her own experience donating a kidney to a stranger."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Yesterday"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Get Back",
+      "The Beatles Anthology",
+      "The Jinx"
+    ],
+    "Podcasts": [
+      "Plain English"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "FIFA World Cup Launch Edition"
+    ]
+  },
+  "tmdb": {
+    "Let It Be": {
+      "id": 20556,
+      "poster": "/rYvoOo6h48xhDGIIaiP8XyEeVVQ.jpg",
+      "title": "Let It Be",
+      "year": 1970
+    },
+    "The Magic Christian": {
+      "id": 24152,
+      "poster": "/92OHvXPieitIzkmPWbycCvclQ5E.jpg",
+      "title": "The Magic Christian",
+      "year": 1969
+    },
+    "Listening to Kenny G": {
+      "id": 858016,
+      "poster": "/vTQMCZYB3txbAcGOdFIkKpK6xnk.jpg",
+      "title": "Listening to Kenny G",
+      "year": 2021
+    },
+    "Hail Satan?": {
+      "id": 565719,
+      "poster": "/lwP8CMOfPJhkMyxELgX2D2aDZfy.jpg",
+      "title": "Hail Satan?",
+      "year": 2019
+    },
+    "The Velvet Underground": {
+      "id": 543836,
+      "poster": "/9uRF6vERWfhlSZKc1sAJTTdG2Ix.jpg",
+      "title": "The Velvet Underground",
+      "year": 2021
+    },
+    "Confessions of a Good Samaritan": {
+      "id": 1010124,
+      "poster": "/uZhsyO7Tn5LBK8mYFrG2t93fAJz.jpg",
+      "title": "Confessions of a Good Samaritan",
+      "year": 2023
+    },
+    "Yesterday": {
+      "id": 515195,
+      "poster": "/9fYka5CQt9nrb6LOtKicysUf9NA.jpg",
+      "title": "Yesterday",
+      "year": 2019
+    }
+  }
+}

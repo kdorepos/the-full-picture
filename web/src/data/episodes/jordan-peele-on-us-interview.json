@@ -1,0 +1,142 @@
+{
+  "slug": "jordan-peele-on-us-interview",
+  "title": "Jordan Peele on ‘Us’ | Interview",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2019-03-19",
+  "runtimeMin": 30,
+  "format": "Sean Fennessey talks to Jordan Peele the morning after the Us premiere at South by Southwest about the pressure of following Get Out, the film's layered references, and how he cast Lupita Nyong'o.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "Jordan Peele on 'Us'",
+      "guest": "Jordan Peele on",
+      "films": [
+        {
+          "title": "Us",
+          "year": 2019,
+          "note": "Peele's second feature, which had premiered at South by Southwest the night before. He traces it to a childhood fear of the doppelganger, seeing himself across a subway platform, and to a suppressed idea he wanted to name: that we point the finger outward instead of at ourselves. He wrote it over about six months, four spent working out the themes and connections before turning it into a script. He calls it more of a Rorschach than Get Out and set out to start with a black family without making the movie about race. Lupita Nyong'o took ballet lessons to physically distinguish her two roles; Winston Duke plays Gabe as the relatable, that's-how-my-husband-would-act figure."
+        },
+        {
+          "title": "Get Out",
+          "year": 2017,
+          "note": "Peele's debut, and the hit he's now following up. It earned $255 million on a $5 million budget and won him the Best Original Screenplay Oscar. He borrows his own visual motifs from it here and treats himself as one of his influences."
+        },
+        {
+          "title": "Alien",
+          "year": 1979,
+          "note": "His pick for a dream double feature with Us. He calls it maybe the best horror movie ever made, on design and on simple storytelling alone."
+        },
+        {
+          "title": "C.H.U.D.",
+          "year": 1984,
+          "note": "One of the poster clues glimpsed at the start of Us."
+        },
+        {
+          "title": "The Man with Two Brains",
+          "year": 1983,
+          "note": "Another early clue in the film, which Peele calls a straightforward doubling metaphor."
+        },
+        {
+          "title": "It Follows",
+          "year": 2014,
+          "note": "Cited as the work of cinematographer Mike Gioulakis, whom Peele calls probably his favorite living cinematographer."
+        },
+        {
+          "title": "Split",
+          "year": 2016,
+          "note": "More of Gioulakis's work that Peele points to."
+        },
+        {
+          "title": "Glass",
+          "year": 2019,
+          "note": "Also shot by Gioulakis, rounding out why Peele wanted him."
+        },
+        {
+          "title": "The Lion King",
+          "year": 2019,
+          "note": "The remake young actor Shahadi Wright Joseph appears in, playing young Nala, alongside her Broadway run in the stage version."
+        },
+        {
+          "title": "Eighth Grade",
+          "year": 2018,
+          "note": "Peele's answer to the show's closing question, the last great thing he'd seen. He watched it on a plane, crying and laughing at every scene."
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "Theater": [
+      "The Lion King (Broadway musical)"
+    ],
+    "Ads": [
+      "Bud Light",
+      "One Shining Podcast (promo)"
+    ]
+  },
+  "tmdb": {
+    "Us": {
+      "id": 458723,
+      "poster": "/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+      "title": "Us",
+      "year": 2019
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Alien": {
+      "id": 348,
+      "poster": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "title": "Alien",
+      "year": 1979
+    },
+    "C.H.U.D.": {
+      "id": 23730,
+      "poster": "/8BVw5RIDBTZwdMAR1VKpAkwrMjj.jpg",
+      "title": "C.H.U.D.",
+      "year": 1984
+    },
+    "The Man with Two Brains": {
+      "id": 11591,
+      "poster": "/jSnGiPE17sgicRyTPrE6UB0pnEU.jpg",
+      "title": "The Man with Two Brains",
+      "year": 1983
+    },
+    "It Follows": {
+      "id": 270303,
+      "poster": "/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg",
+      "title": "It Follows",
+      "year": 2015
+    },
+    "Split": {
+      "id": 381288,
+      "poster": "/lli31lYTFpvxVBeFHWoe5PMfW5s.jpg",
+      "title": "Split",
+      "year": 2017
+    },
+    "Glass": {
+      "id": 450465,
+      "poster": "/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
+      "title": "Glass",
+      "year": 2019
+    },
+    "The Lion King": {
+      "id": 420818,
+      "poster": "/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg",
+      "title": "The Lion King",
+      "year": 2019
+    },
+    "Eighth Grade": {
+      "id": 489925,
+      "poster": "/xTa9cLhGHfQ7084UvoPQ2bBXKqd.jpg",
+      "title": "Eighth Grade",
+      "year": 2018
+    }
+  }
+}

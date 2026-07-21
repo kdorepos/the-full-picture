@@ -1,0 +1,300 @@
+{
+  "slug": "toy-story-4-is-a-masterpiece-is-it-in-pixar-s-top-5-the-big-",
+  "title": "'Toy Story 4' Is a Masterpiece. Is It in Pixar's Top 5? | The Big Picture",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessy",
+    "Rob Harvilla"
+  ],
+  "published": "2019-06-21",
+  "runtimeMin": 52,
+  "format": "Sean Fennessy and Ringer colleague (and dad of two) Rob Harvilla review Toy Story 4, then each draft a personal Pixar top five.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "Toy Story 4",
+      "note": "review",
+      "films": [
+        {
+          "title": "Toy Story 4",
+          "year": 2019,
+          "note": "Josh Cooley's directorial debut for Pixar. Both hosts found it funnier and less emotionally punishing than Inside Out or Toy Story 3, thanks to Forky's trash/not-trash identity crisis, Gabby Gabby, and the Key-and-Peele-voiced Ducky and Bunny. Sean flags the strange juxtaposition of the film's warmth with its behind-the-scenes story: Rashida Jones and Will McCormick left the writing process citing a lack of openness to new voices, and the story-by credits still list John Lasseter."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Rob Harvilla's Pixar Top Five",
+      "note": "best to worst",
+      "subject": "Pixar",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Coco",
+          "year": 2017,
+          "note": "His favorite movie of 2017 outright: the 'Remember Me' ending got both him and his son, which almost never happens with these movies."
+        },
+        {
+          "title": "The Incredibles",
+          "year": 2004,
+          "note": "A sibling story before he had kids of his own, and a marriage story once Incredibles 2 arrived. The Elastigirl-in-the-lair door sequence is his favorite Pixar set piece."
+        },
+        {
+          "title": "Up",
+          "year": 2009,
+          "note": "The opening marriage-and-loss montage got him: the first Pixar movie he actively cried at, on a date with his now-wife."
+        },
+        {
+          "title": "Toy Story 3",
+          "year": 2010,
+          "note": "Lotso is his benchmark Pixar villain; the incinerator scene wrecked him before he even had kids."
+        },
+        {
+          "title": "WALL·E",
+          "year": 2008,
+          "note": "The 'we can make a movie out of anything' pick, with long, near-silent stretches that felt more like Chaplin than a kids' movie."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Sean Fennessy's Pixar Top Five",
+      "note": "best to worst",
+      "subject": "Pixar",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Toy Story",
+          "year": 1995,
+          "note": "Picked for the historical jolt as much as the story: a Technicolor-level leap for animation, and only 81 minutes."
+        },
+        {
+          "title": "Finding Nemo",
+          "year": 2003,
+          "note": "Where the brand really solidified for him, with Albert Brooks and Randy Newman carrying the fear of losing a kid."
+        },
+        {
+          "title": "The Incredibles",
+          "year": 2004,
+          "note": "Reads it as a sibling story, and credits Brad Bird as one of the best action stagers working, animated or not."
+        },
+        {
+          "title": "Ratatouille",
+          "year": 2007,
+          "note": "About the tension between creation and criticism: Remy versus Anton Ego, who gets more empathy than critic characters usually do onscreen."
+        },
+        {
+          "title": "Inside Out",
+          "year": 2015,
+          "note": "Grudging respect: the 'joyful kid becomes a sullen teenager' arc wrecked him while his own kid just thought Anger was funny."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Incredibles 2",
+        "Cars 3",
+        "A Bug's Life",
+        "Toy Story 2",
+        "Monsters, Inc.",
+        "Finding Dory",
+        "Monsters University",
+        "The Good Dinosaur",
+        "John Carter",
+        "Soul",
+        "Star Wars",
+        "Sherlock Gnomes",
+        "Beauty and the Beast",
+        "Lady in the Water",
+        "Rock Dog",
+        "The Emoji Movie",
+        "Trolls",
+        "Annabelle Comes Home",
+        "Guardians of the Galaxy Vol. 3"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Beauty and the Beast": 10020
+  },
+  "tmdb": {
+    "Toy Story 4": {
+      "id": 301528,
+      "poster": "/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+      "title": "Toy Story 4",
+      "year": 2019
+    },
+    "Coco": {
+      "id": 354912,
+      "poster": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+      "title": "Coco",
+      "year": 2017
+    },
+    "The Incredibles": {
+      "id": 9806,
+      "poster": "/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+      "title": "The Incredibles",
+      "year": 2004
+    },
+    "Up": {
+      "id": 14160,
+      "poster": "/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
+      "title": "Up",
+      "year": 2009
+    },
+    "Toy Story 3": {
+      "id": 10193,
+      "poster": "/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+      "title": "Toy Story 3",
+      "year": 2010
+    },
+    "WALL·E": {
+      "id": 10681,
+      "poster": "/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+      "title": "WALL·E",
+      "year": 2008
+    },
+    "Toy Story": {
+      "id": 862,
+      "poster": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+      "title": "Toy Story",
+      "year": 1995
+    },
+    "Finding Nemo": {
+      "id": 12,
+      "poster": "/5lc6nQc0VhWFYFbNv016xze8Jvy.jpg",
+      "title": "Finding Nemo",
+      "year": 2003
+    },
+    "Ratatouille": {
+      "id": 2062,
+      "poster": "/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+      "title": "Ratatouille",
+      "year": 2007
+    },
+    "Inside Out": {
+      "id": 150540,
+      "poster": "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+      "title": "Inside Out",
+      "year": 2015
+    },
+    "Incredibles 2": {
+      "id": 260513,
+      "poster": "/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
+      "title": "Incredibles 2",
+      "year": 2018
+    },
+    "Cars 3": {
+      "id": 260514,
+      "poster": "/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg",
+      "title": "Cars 3",
+      "year": 2017
+    },
+    "A Bug's Life": {
+      "id": 9487,
+      "poster": "/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg",
+      "title": "A Bug's Life",
+      "year": 1998
+    },
+    "Toy Story 2": {
+      "id": 863,
+      "poster": "/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
+      "title": "Toy Story 2",
+      "year": 1999
+    },
+    "Monsters, Inc.": {
+      "id": 585,
+      "poster": "/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
+      "title": "Monsters, Inc.",
+      "year": 2001
+    },
+    "Finding Dory": {
+      "id": 127380,
+      "poster": "/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg",
+      "title": "Finding Dory",
+      "year": 2016
+    },
+    "Monsters University": {
+      "id": 62211,
+      "poster": "/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg",
+      "title": "Monsters University",
+      "year": 2013
+    },
+    "The Good Dinosaur": {
+      "id": 105864,
+      "poster": "/8RSkxOO80btfKjyiC5ZiTaCHIT8.jpg",
+      "title": "The Good Dinosaur",
+      "year": 2015
+    },
+    "John Carter": {
+      "id": 49529,
+      "poster": "/lCxz1Yus07QCQQCb6I0Dr3Lmqpx.jpg",
+      "title": "John Carter",
+      "year": 2012
+    },
+    "Soul": {
+      "id": 508442,
+      "poster": "/6jmppcaubzLF8wkXM36ganVISCo.jpg",
+      "title": "Soul",
+      "year": 2020
+    },
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
+    },
+    "Sherlock Gnomes": {
+      "id": 370567,
+      "poster": "/wqnzpJR3PwS4doVkAkt9seSEpoX.jpg",
+      "title": "Sherlock Gnomes",
+      "year": 2018
+    },
+    "Beauty and the Beast": {
+      "id": 10020,
+      "poster": "/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+      "title": "Beauty and the Beast",
+      "year": 1991
+    },
+    "Lady in the Water": {
+      "id": 9697,
+      "poster": "/ddNmoSy1Jd3PBF5XDZvrrBIfrja.jpg",
+      "title": "Lady in the Water",
+      "year": 2006
+    },
+    "Rock Dog": {
+      "id": 333667,
+      "poster": "/7RXi2afiNJGU8EB79SD8HYoSz4O.jpg",
+      "title": "Rock Dog",
+      "year": 2016
+    },
+    "The Emoji Movie": {
+      "id": 378236,
+      "poster": "/60bTx5z9zL1AqCjZ0gmWoRMJ6Bb.jpg",
+      "title": "The Emoji Movie",
+      "year": 2017
+    },
+    "Trolls": {
+      "id": 136799,
+      "poster": "/9VlK2j0THZWzhQPq0W3Oc0IIdBB.jpg",
+      "title": "Trolls",
+      "year": 2016
+    },
+    "Annabelle Comes Home": {
+      "id": 521029,
+      "poster": "/qWsHMrbg9DsBY3bCMk9jyYCRVRs.jpg",
+      "title": "Annabelle Comes Home",
+      "year": 2019
+    },
+    "Guardians of the Galaxy Vol. 3": {
+      "id": 447365,
+      "poster": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "year": 2023
+    }
+  }
+}

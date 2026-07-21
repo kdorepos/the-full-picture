@@ -1,0 +1,468 @@
+{
+  "slug": "the-leonardo-dicaprio-hall-of-fame-and-dont-look-up-with-ada",
+  "title": "The Leonardo DiCaprio Hall of Fame and ‘Don’t Look Up’ With Adam McKay",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2021-12-14",
+  "runtimeMin": 91,
+  "format": "Sean Fennessey and Amanda Dobbins review Adam McKay's climate satire 'Don't Look Up,' build a 10-film Leonardo DiCaprio hall of fame for his 30th year in movies, then McKay joins to talk about making the film and previews HBO's 'Winning Time.'",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "Don't Look Up",
+      "films": [
+        {
+          "title": "Don't Look Up",
+          "year": 2021,
+          "note": "Adam McKay's satire about an extinction-level comet, a thin metaphor for the climate crisis. Both hosts think it half-works: funny in the Jonah Hill and Cate Blanchett/Tyler Perry morning-show scenes, closer to docudrama elsewhere. DiCaprio plays Dr. Randall Mindy, an anxious astronomer, against his usual leading-man type, though Amanda notes he still 'gets his network moment.'"
+        }
+      ]
+    },
+    {
+      "kind": "halloffame",
+      "heading": "The Leonardo DiCaprio Hall of Fame",
+      "note": "his 30th feature film, 30 years into his career: 10 films chosen chronologically from a 30-movie filmography",
+      "honoree": "Leonardo DiCaprio",
+      "films": [
+        {
+          "title": "What's Eating Gilbert Grape",
+          "year": 1993,
+          "note": "His first Oscar nomination, as Arnie, Johnny Depp's developmentally disabled younger brother. In on the strength of the nomination and the performance; neither host has rewatched it since."
+        },
+        {
+          "title": "Romeo + Juliet",
+          "year": 1996,
+          "note": "Baz Luhrmann's teen-heartthrob breakout. In with no debate. Amanda threatened to quit the podcast if it didn't make the cut, and credits it with priming a teen audience for 'Titanic' the following year."
+        },
+        {
+          "title": "Titanic",
+          "year": 1997,
+          "note": "Jack Dawson. In, no discussion needed."
+        },
+        {
+          "title": "Catch Me If You Can",
+          "year": 2002,
+          "note": "Spielberg's con artist Frank Abagnale Jr., one of the last times DiCaprio convincingly plays a teenager before moving into grizzled leading-man roles."
+        },
+        {
+          "title": "The Departed",
+          "year": 2006,
+          "note": "William Costigan. Called undeniable, no debate: one of his truly great performances."
+        },
+        {
+          "title": "Shutter Island",
+          "year": 2010,
+          "note": "Sean fights hardest for this one, calling it one of the greatest movies of the last 15 years and one of the most damaged psychological portraits he's seen."
+        },
+        {
+          "title": "Inception",
+          "year": 2010,
+          "note": "Christopher Nolan's dream-heist blockbuster. In without argument. Solidified him as a box-office draw working with major auteurs."
+        },
+        {
+          "title": "The Wolf of Wall Street",
+          "year": 2013,
+          "note": "Jordan Belfort. No discussion needed. Sean calls it DiCaprio at the top of his powers."
+        },
+        {
+          "title": "Once Upon a Time in Hollywood",
+          "year": 2019,
+          "note": "Tarantino's Rick Dalton, and the trailer meltdown scene both hosts expect to headline his eventual Lifetime Achievement reel."
+        },
+        {
+          "title": "Django Unchained",
+          "year": 2012,
+          "note": "Calvin Candie, one of the more villainous figures on screen in the last 20 years. Wins the last spot over 'The Aviator': he wasn't even Oscar-nominated for it; Christoph Waltz won instead."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Adam McKay on Don't Look Up",
+      "guest": "Adam McKay on",
+      "films": [
+        {
+          "title": "Don't Look Up",
+          "year": 2021,
+          "note": "McKay traces the idea to a comment from journalist David Sirota: 'it's like the comet is coming towards Earth and no one cares.' He rewrote DiCaprio's climate-crisis speech 15 times, and says the comet-mining subplot he invented as satire turned out to already be real: NASA has a program for it."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Weighed for the Leo Hall of Fame, then cut",
+      "films": [
+        "Critters 3",
+        "Poison Ivy",
+        "This Boy's Life",
+        "The Basketball Diaries",
+        "The Quick and the Dead",
+        "Total Eclipse",
+        "Marvin's Room",
+        "The Man in the Iron Mask",
+        "Celebrity",
+        "The Beach",
+        "Don's Plum",
+        "Gangs of New York",
+        "The Aviator",
+        "Blood Diamond",
+        "Body of Lies",
+        "Revolutionary Road",
+        "J. Edgar",
+        "The Great Gatsby",
+        "The Revenant"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Idiocracy",
+        "West Side Story",
+        "Vice",
+        "The Big Short",
+        "Anchorman: The Legend of Ron Burgundy",
+        "Step Brothers",
+        "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "Network",
+        "Fight Club",
+        "No Sudden Move",
+        "The Last Duel",
+        "Stillwater",
+        "Sleepless in Seattle",
+        "Killers of the Flower Moon"
+      ]
+    },
+    {
+      "group": "Adam McKay's recent favorites",
+      "films": [
+        "A Brighter Summer Day",
+        "Yi Yi",
+        "Diner",
+        "Tin Men",
+        "Nashville"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "The Last Duel": 617653,
+    "Diner": 13776
+  },
+  "excluded": {
+    "TV": [
+      "Succession",
+      "And Just Like That",
+      "Squid Game",
+      "Winning Time",
+      "Growing Pains",
+      "The Bureau"
+    ],
+    "Games": [
+      "FIFA World Cup Launch Edition"
+    ],
+    "Ads": [
+      "Juice WRLD: Into the Abyss",
+      "Boar's Head Friar's Turkey Breast"
+    ]
+  },
+  "tmdb": {
+    "Don't Look Up": {
+      "id": 646380,
+      "poster": "/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+      "title": "Don't Look Up",
+      "year": 2021
+    },
+    "What's Eating Gilbert Grape": {
+      "id": 1587,
+      "poster": "/8FxWgsfDNosewo7H65oE4QkOb7g.jpg",
+      "title": "What's Eating Gilbert Grape",
+      "year": 1993
+    },
+    "Romeo + Juliet": {
+      "id": 454,
+      "poster": "/eLf4jclPijOqfEp6bDAmezRFxk5.jpg",
+      "title": "Romeo + Juliet",
+      "year": 1996
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "Catch Me If You Can": {
+      "id": 640,
+      "poster": "/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+      "title": "Catch Me If You Can",
+      "year": 2002
+    },
+    "The Departed": {
+      "id": 1422,
+      "poster": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+      "title": "The Departed",
+      "year": 2006
+    },
+    "Shutter Island": {
+      "id": 11324,
+      "poster": "/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+      "title": "Shutter Island",
+      "year": 2010
+    },
+    "Inception": {
+      "id": 27205,
+      "poster": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+      "title": "Inception",
+      "year": 2010
+    },
+    "The Wolf of Wall Street": {
+      "id": 106646,
+      "poster": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+      "title": "The Wolf of Wall Street",
+      "year": 2013
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Django Unchained": {
+      "id": 68718,
+      "poster": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+      "title": "Django Unchained",
+      "year": 2012
+    },
+    "Critters 3": {
+      "id": 12702,
+      "poster": "/frjklbq23pRgBjhekEq6drQkrZm.jpg",
+      "title": "Critters 3",
+      "year": 1991
+    },
+    "Poison Ivy": {
+      "id": 9264,
+      "poster": "/aBreWBGcu4ejlDo2U7ZPqilRGoQ.jpg",
+      "title": "Poison Ivy",
+      "year": 1992
+    },
+    "This Boy's Life": {
+      "id": 8092,
+      "poster": "/pRMSZfen1Cv1eqwDbtxCBpBqxnU.jpg",
+      "title": "This Boy's Life",
+      "year": 1993
+    },
+    "The Basketball Diaries": {
+      "id": 10474,
+      "poster": "/AhvO1GGDPIgN0hOqZEgaFCbswMK.jpg",
+      "title": "The Basketball Diaries",
+      "year": 1995
+    },
+    "The Quick and the Dead": {
+      "id": 12106,
+      "poster": "/jhEmrXJpP6F3cqwyLjvgBgxxxFA.jpg",
+      "title": "The Quick and the Dead",
+      "year": 1995
+    },
+    "Total Eclipse": {
+      "id": 36834,
+      "poster": "/9ihmgsX9aDXZmwjvgrzJgH8FxNa.jpg",
+      "title": "Total Eclipse",
+      "year": 1995
+    },
+    "Marvin's Room": {
+      "id": 9819,
+      "poster": "/lTHq1K5Y6EDRjxTBvReXHY6AKQ3.jpg",
+      "title": "Marvin's Room",
+      "year": 1996
+    },
+    "The Man in the Iron Mask": {
+      "id": 9313,
+      "poster": "/zHE9yRURvA7DyhYtQxkGTfE1Ywi.jpg",
+      "title": "The Man in the Iron Mask",
+      "year": 1998
+    },
+    "Celebrity": {
+      "id": 9466,
+      "poster": "/q4UJHtH14nO8tbMfGtJ3Z3Tw5RW.jpg",
+      "title": "Celebrity",
+      "year": 1998
+    },
+    "The Beach": {
+      "id": 1907,
+      "poster": "/4y7LxD8TSi6AtsM2xSYqUm1gu7u.jpg",
+      "title": "The Beach",
+      "year": 2000
+    },
+    "Don's Plum": {
+      "id": 37857,
+      "poster": "/pXWiYyWaNUfZaud5maDWDFJ5AG7.jpg",
+      "title": "Don's Plum",
+      "year": 2002
+    },
+    "Gangs of New York": {
+      "id": 3131,
+      "poster": "/lemqKtcCuAano5aqrzxYiKC8kkn.jpg",
+      "title": "Gangs of New York",
+      "year": 2002
+    },
+    "The Aviator": {
+      "id": 2567,
+      "poster": "/lx4kWcZc3o9PaNxlQpEJZM17XUI.jpg",
+      "title": "The Aviator",
+      "year": 2004
+    },
+    "Blood Diamond": {
+      "id": 1372,
+      "poster": "/tnLxPpajkbVdbQl5B9CuD7sSpz9.jpg",
+      "title": "Blood Diamond",
+      "year": 2006
+    },
+    "Body of Lies": {
+      "id": 12113,
+      "poster": "/sLjVDPPfNQfAma9XyOqHPClQb2V.jpg",
+      "title": "Body of Lies",
+      "year": 2008
+    },
+    "Revolutionary Road": {
+      "id": 4148,
+      "poster": "/cvkD3yiVXLg3as8EAG3LaTycONQ.jpg",
+      "title": "Revolutionary Road",
+      "year": 2008
+    },
+    "J. Edgar": {
+      "id": 88794,
+      "poster": "/gltciP2dIaEQmm4JeYfB088k40n.jpg",
+      "title": "J. Edgar",
+      "year": 2011
+    },
+    "The Great Gatsby": {
+      "id": 64682,
+      "poster": "/nimh1rrDDLhgpG8XAYoUZXHYwb6.jpg",
+      "title": "The Great Gatsby",
+      "year": 2013
+    },
+    "The Revenant": {
+      "id": 281957,
+      "poster": "/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",
+      "title": "The Revenant",
+      "year": 2015
+    },
+    "Idiocracy": {
+      "id": 7512,
+      "poster": "/6cTHBq49ApwsJaRr3ojlY1cmiXk.jpg",
+      "title": "Idiocracy",
+      "year": 2006
+    },
+    "West Side Story": {
+      "id": 511809,
+      "poster": "/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+      "title": "West Side Story",
+      "year": 2021
+    },
+    "Vice": {
+      "id": 429197,
+      "poster": "/1gCab6rNv1r6V64cwsU4oEr649Y.jpg",
+      "title": "Vice",
+      "year": 2018
+    },
+    "The Big Short": {
+      "id": 318846,
+      "poster": "/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg",
+      "title": "The Big Short",
+      "year": 2015
+    },
+    "Anchorman: The Legend of Ron Burgundy": {
+      "id": 8699,
+      "poster": "/mhZIcRePT7U8viFQVjt1ZjYIsR4.jpg",
+      "title": "Anchorman: The Legend of Ron Burgundy",
+      "year": 2004
+    },
+    "Step Brothers": {
+      "id": 12133,
+      "poster": "/nvggBbEraUTAVR6ffP3AaBUWSHs.jpg",
+      "title": "Step Brothers",
+      "year": 2008
+    },
+    "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb": {
+      "id": 935,
+      "poster": "/6x7MzQ6BOMlRzam1StcmPO9v61g.jpg",
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "year": 1964
+    },
+    "Network": {
+      "id": 10774,
+      "poster": "/qZomlHsaALUtkFeMDwdYmwS2Pbo.jpg",
+      "title": "Network",
+      "year": 1976
+    },
+    "Fight Club": {
+      "id": 550,
+      "poster": "/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+      "title": "Fight Club",
+      "year": 1999
+    },
+    "No Sudden Move": {
+      "id": 649409,
+      "poster": "/kARdPEc4b32GQlHmJXMhGOCplEA.jpg",
+      "title": "No Sudden Move",
+      "year": 2021
+    },
+    "The Last Duel": {
+      "id": 617653,
+      "poster": "/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg",
+      "title": "The Last Duel",
+      "year": 2021
+    },
+    "Stillwater": {
+      "id": 616651,
+      "poster": "/1lrPR7ah1KElPKnCsxmIRE1OlIh.jpg",
+      "title": "Stillwater",
+      "year": 2021
+    },
+    "Sleepless in Seattle": {
+      "id": 858,
+      "poster": "/jAXfku1u1uaLGh4cUmK0ESf1pPu.jpg",
+      "title": "Sleepless in Seattle",
+      "year": 1993
+    },
+    "Killers of the Flower Moon": {
+      "id": 466420,
+      "poster": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+      "title": "Killers of the Flower Moon",
+      "year": 2023
+    },
+    "A Brighter Summer Day": {
+      "id": 15804,
+      "poster": "/3l8fOAwiN3N5n3hHnZ51eog7Zu2.jpg",
+      "title": "A Brighter Summer Day",
+      "year": 1991
+    },
+    "Yi Yi": {
+      "id": 25538,
+      "poster": "/mR8dSQZI8X6Z1NClJhFrtJp636z.jpg",
+      "title": "Yi Yi",
+      "year": 2000
+    },
+    "Diner": {
+      "id": 13776,
+      "poster": "/2vKIdZ6JkFIzcQeaHg3xtdvOyRO.jpg",
+      "title": "Diner",
+      "year": 1982
+    },
+    "Tin Men": {
+      "id": 10896,
+      "poster": "/5rWE9ft0Uc2kuDWlkg5vQth58XZ.jpg",
+      "title": "Tin Men",
+      "year": 1987
+    },
+    "Nashville": {
+      "id": 3121,
+      "poster": "/twl4ovyjb8muFKvZmcCDzPR0hy1.jpg",
+      "title": "Nashville",
+      "year": 1975
+    }
+  }
+}

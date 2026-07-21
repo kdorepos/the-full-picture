@@ -1,0 +1,205 @@
+{
+  "slug": "mission-impossible-dead-reckoning-part-one-is-here-and-its-s",
+  "title": "‘Mission: Impossible – Dead Reckoning Part One’ Is Here, and It’s Spectacular",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Bobby Wagner"
+  ],
+  "published": "2023-07-12",
+  "runtimeMin": 85,
+  "format": "Sean, Amanda, and Bobby review the seventh Mission: Impossible. Non-spoiler verdict first, then a long spoiler dig into the Entity, the cruciform key, and the cliffhanger.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘Dead Reckoning Part One’",
+      "note": "non-spoiler verdict, then full spoilers",
+      "films": [
+        {
+          "title": "Mission: Impossible – Dead Reckoning Part One",
+          "year": 2023,
+          "note": "McQuarrie's third MI and ninth collaboration with Cruise. All three loved it: the funniest of the series, close to silent comedy in the Fiat chase, and John Wick-adjacent in the Venice sword fight. The villain is the Entity, an AI, played out through Gabriel (Esai Morales) and Paris (Pom Klementieff); Hayley Atwell joins as Grace, plus the returning Ilsa (Rebecca Ferguson), Luther, Benji, and the White Widow (Vanessa Kirby). Amanda found the AI plot muddled and the Gabriel-as-Ethan's-past retcon a reach; all agreed the split-in-two runtime shows, but the train and motorcycle-cliff set pieces are the reason to go."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The rest of the franchise",
+      "films": [
+        "Mission: Impossible",
+        "Mission: Impossible II",
+        "Mission: Impossible III",
+        "Mission: Impossible - Ghost Protocol",
+        "Mission: Impossible - Rogue Nation",
+        "Mission: Impossible - Fallout"
+      ]
+    },
+    {
+      "group": "Held up against it",
+      "films": [
+        "Fast X",
+        "John Wick: Chapter 4",
+        "Top Gun: Maverick",
+        "Tenet",
+        "Extraction 2"
+      ]
+    },
+    {
+      "group": "The submarine cold open recalled",
+      "films": [
+        "The Hunt for Red October",
+        "Crimson Tide",
+        "U-571"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "The Bridge on the River Kwai",
+        "Barbie",
+        "Oppenheimer",
+        "Napoleon",
+        "A Haunting in Venice"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Howards End",
+      "Catastrophe",
+      "David Blaine: Real or Magic"
+    ],
+    "Ads": [
+      "FIFA World Cup Launch Edition (Netflix)",
+      "NOS Energy",
+      "Boar's Head",
+      "FanDuel",
+      "60 Songs That Explain the '90s"
+    ]
+  },
+  "tmdb": {
+    "Mission: Impossible – Dead Reckoning Part One": {
+      "id": 575264,
+      "poster": "/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "year": 2023
+    },
+    "Mission: Impossible": {
+      "id": 954,
+      "poster": "/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
+      "title": "Mission: Impossible",
+      "year": 1996
+    },
+    "Mission: Impossible II": {
+      "id": 955,
+      "poster": "/hfnrual76gPeNFduhD4xzHWpfTw.jpg",
+      "title": "Mission: Impossible II",
+      "year": 2000
+    },
+    "Mission: Impossible III": {
+      "id": 956,
+      "poster": "/vKGYCpmQyV9uHybWDzXuII8Los5.jpg",
+      "title": "Mission: Impossible III",
+      "year": 2006
+    },
+    "Mission: Impossible - Ghost Protocol": {
+      "id": 56292,
+      "poster": "/eRZTGx7GsiKqPch96k27LK005ZL.jpg",
+      "title": "Mission: Impossible - Ghost Protocol",
+      "year": 2011
+    },
+    "Mission: Impossible - Rogue Nation": {
+      "id": 177677,
+      "poster": "/fRJLXQBHK2wyznK5yZbO7vmsuVK.jpg",
+      "title": "Mission: Impossible - Rogue Nation",
+      "year": 2015
+    },
+    "Mission: Impossible - Fallout": {
+      "id": 353081,
+      "poster": "/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+      "title": "Mission: Impossible - Fallout",
+      "year": 2018
+    },
+    "Fast X": {
+      "id": 385687,
+      "poster": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+      "title": "Fast X",
+      "year": 2023
+    },
+    "John Wick: Chapter 4": {
+      "id": 603692,
+      "poster": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+      "title": "John Wick: Chapter 4",
+      "year": 2023
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "Extraction 2": {
+      "id": 697843,
+      "poster": "/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg",
+      "title": "Extraction 2",
+      "year": 2023
+    },
+    "The Hunt for Red October": {
+      "id": 1669,
+      "poster": "/yVl7zidse4KiWtGMqHFtZCx4X3N.jpg",
+      "title": "The Hunt for Red October",
+      "year": 1990
+    },
+    "Crimson Tide": {
+      "id": 8963,
+      "poster": "/21nqRJ6ofEgVvEl68J4O9V26Xzy.jpg",
+      "title": "Crimson Tide",
+      "year": 1995
+    },
+    "U-571": {
+      "id": 3536,
+      "poster": "/7lc7jXmjQmITnfUBX7nN4kxKKbI.jpg",
+      "title": "U-571",
+      "year": 2000
+    },
+    "The Bridge on the River Kwai": {
+      "id": 826,
+      "poster": "/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
+      "title": "The Bridge on the River Kwai",
+      "year": 1957
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Napoleon": {
+      "id": 753342,
+      "poster": "/ytFOXyghxLzAM4KZyazDdEkM66q.jpg",
+      "title": "Napoleon",
+      "year": 2023
+    },
+    "A Haunting in Venice": {
+      "id": 945729,
+      "poster": "/l6iwxT0NbVw6QiF08YTIuTnXS82.jpg",
+      "title": "A Haunting in Venice",
+      "year": 2023
+    }
+  }
+}

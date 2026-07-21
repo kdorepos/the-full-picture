@@ -1,0 +1,79 @@
+{
+  "slug": "the-top-10-films-of-the-year-discussion-ep-105",
+  "title": "The Top 10 Films of the Year | Discussion (Ep. 105)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": ["Sean Fennessey", "Chris Ryan", "Adam Nayman"],
+  "published": "2018-12-07",
+  "runtimeMin": 78,
+  "format": "Sean Fennessey, Chris Ryan, and Adam Nayman each count down their personal top ten films of 2018, comparing notes whenever a movie lands on more than one list.",
+  "segments": [
+    {
+      "kind": "ranking",
+      "heading": "Chris Ryan's top 10",
+      "note": "best to worst, as revealed on air",
+      "subject": "Chris Ryan's 2018",
+      "ranked": true,
+      "films": [
+        { "title": "Roma", "year": 2018, "note": "No. 1 - the Brooklyn Bridge comparison: a technical marvel he also felt something in, watched in a packed, crying theater." },
+        { "title": "Wildlife", "year": 2018, "note": "No. 2 - Paul Dano's directing debut. His 'Lady Bird' of the year - needed a moment alone after it ended." },
+        { "title": "Burning", "year": 2018, "note": "No. 3 - tied with Nayman as the highest-ranked film either of them has. A movie that made him fall in love with movies in the first place." },
+        { "title": "The Favourite", "year": 2018, "note": "No. 4 - made him laugh harder than anything this year outside Death of Stalin; loves the Weisz/Stone/Colman troika." },
+        { "title": "Sicario: Day of the Soldado", "year": 2018, "note": "No. 5 - 'a doom metal song of a Hollywood blockbuster.' Admires its refusal to give the audience a moral handhold." },
+        { "title": "Thunder Road", "year": 2018, "note": "No. 6 - Jim Cummings' indie built out of his own Sundance short. The eulogy that opens it floored him." },
+        { "title": "Widows", "year": 2018, "note": "No. 7 - Steve McQueen's grimy answer to Ocean's Eleven; a heist movie about what people owe each other." },
+        { "title": "Black Panther", "year": 2018, "note": "No. 9 - the best Marvel movie, thinks the Killmonger/T'Challa dynamic is the genre's best pairing since The Dark Knight." },
+        { "title": "A Star Is Born", "year": 2018, "note": "No. 10 - the first hour as an achievement in old-school star-making, even if it can't sustain that through the whole runtime." }
+      ]
+    },
+    {
+      "kind": "ranking",
+      "heading": "Adam Nayman's top 10",
+      "note": "best to worst, as revealed on air",
+      "subject": "Adam Nayman's 2018",
+      "ranked": true,
+      "films": [
+        { "title": "Zama", "year": 2017, "note": "No. 1 - Lucrezia Martel's Argentine colonial satire. Seen it three times; calls her one of the most singular filmmakers working." },
+        { "title": "Let the Sun Shine In", "year": 2017, "note": "No. 2 - Claire Denis, Juliette Binoche. Reads as gentle but is, per Denis herself, one of her harshest films." },
+        { "title": "Burning", "year": 2018, "note": "No. 3 - loved the screenplay above all: class, masculinity, and hunger all embedded in the writing itself." },
+        { "title": "If Beale Street Could Talk", "year": 2018, "note": "No. 4 - Barry Jenkins' Baldwin adaptation. Singles out Brian Tyree Henry's jail monologue as maybe the scene of the year." },
+        { "title": "Support the Girls", "year": 2018, "note": "No. 5 - Andrew Bujalski. Regina Hall's performance is his female lead performance of the year." },
+        { "title": "Happy as Lazzaro", "year": 2018, "note": "No. 6 - Alice Rohrwacher, on Netflix. A gentle-seeming political allegory that turns into something else at the midpoint." },
+        { "title": "The Ballad of Buster Scruggs", "year": 2018, "note": "No. 7 - the Coens' anthology film. A movie about mortality told across six wildly different registers." },
+        { "title": "Bodied", "year": 2017, "note": "No. 8 - Joseph Kahn's battle-rap movie, produced by Eminem. 'Not the best movie of 2018, but the most 2018 of any movie.'" },
+        { "title": "First Reformed", "year": 2017, "note": "No. 9 - Paul Schrader, Ethan Hawke. The environmental-anxiety plot handled 'with a lot of grace.'" },
+        { "title": "Infinite Football", "year": 2018, "note": "No. 10 - a Corneliu Porumboiu documentary about a man trying to rewrite soccer's rules. The funniest thing he saw all year." }
+      ]
+    },
+    {
+      "kind": "ranking",
+      "heading": "Sean Fennessey's top 10",
+      "note": "the picks he named on air, best to worst",
+      "subject": "Sean Fennessey's 2018",
+      "ranked": true,
+      "films": [
+        { "title": "Minding the Gap", "year": 2018, "note": "No. 1 - Bing Liu's skateboarding documentary. The most moving thing he saw all year; ties it back to a Michael Moore film from 1998 shot in the same town." },
+        { "title": "First Reformed", "year": 2017, "note": "Also on his list - keeps trying to get his wife to rewatch it with him." },
+        { "title": "Black Panther", "year": 2018, "note": "Also on his list, distinct from Chris's ranking of it - drawn to how much intentional thematic weight Ryan Coogler smuggled into a studio tentpole." },
+        { "title": "Mission: Impossible - Fallout", "year": 2018, "note": "The best action movie in years for him - saw it three times in theaters." },
+        { "title": "Hereditary", "year": 2018, "note": "Ari Aster's follow-up he's most anticipating a career from; calls two sequences the year's most visceral filmmaking." },
+        { "title": "If Beale Street Could Talk", "year": 2018, "note": "An elegant, powerful Baldwin adaptation - not out until December 14, so he's still sitting with it." },
+        { "title": "Annihilation", "year": 2018, "note": "Alex Garland's loose adaptation of the VanderMeer novel - admires the bravery of it even where it doesn't fully land." }
+      ]
+    }
+  ],
+  "referenced": [
+    { "group": "Comparisons and asides", "films": [
+      "Creed", "Creed II", "Thor: Ragnarok", "Ex Machina", "28 Days Later", "The Beach",
+      "Dogtooth", "The Lobster", "The Killing of a Sacred Deer", "Alps", "Barry Lyndon",
+      "The Front Runner", "Won't You Be My Neighbor", "Fahrenheit 11/9", "The Big One",
+      "Beau Travail", "White Material", "Trouble Every Day", "High Life",
+      "La Ciénaga", "The Holy Girl", "The Headless Woman", "Being There", "Forrest Gump",
+      "Game Night", "Ocean's Eleven", "A Quiet Place", "Get Out", "Mary Poppins Returns"
+    ] }
+  ],
+  "excluded": {
+    "TV": ["The Walking Dead", "Atlanta", "Succession", "Nathan For You"],
+    "Podcasts and radio": ["The Watch", "Ringer FC", "Shea's Villains podcast", "Fresh Air"]
+  }
+}

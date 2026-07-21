@@ -1,0 +1,684 @@
+{
+  "slug": "the-2018-movie-draft",
+  "title": "The 2018 Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2022-02-24",
+  "runtimeMin": 76,
+  "format": "Sean Fennessey, Amanda Dobbins, and Chris Ryan draft 2018 across six categories (Drama, Comedy, Oscar Nominee, Action Horror, Blockbuster, and Wildcard), from Black Panther to Den of Thieves.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "2018, before the draft",
+      "films": [
+        {
+          "title": "Green Book",
+          "year": 2018,
+          "note": "The Best Picture winner. The hosts liked it fine on first viewing, a lighthearted crowd-pleaser, but say it hasn't aged well once you factor in the backlash over how it handled the real-life story."
+        },
+        {
+          "title": "Roma",
+          "year": 2018,
+          "note": "Alfonso Cuarón's Netflix drama. Amanda saw it in a small screening room and calls it beautiful and harrowing; it lost Best Picture to Green Book even though Cuarón won Best Director."
+        },
+        {
+          "title": "Bohemian Rhapsody",
+          "year": 2018,
+          "note": "Rami Malek won Best Actor for playing Freddie Mercury, a win the hosts remember as something of a punchline at the time."
+        },
+        {
+          "title": "Vice",
+          "year": 2018,
+          "note": "Christian Bale's Dick Cheney transformation earned him a Best Actor nomination, in a field crowded with Cooper, Malek, and Dafoe."
+        },
+        {
+          "title": "At Eternity's Gate",
+          "year": 2018,
+          "note": "Willem Dafoe's Van Gogh film picked up a Best Actor nomination that Sean says barely anyone actually saw."
+        },
+        {
+          "title": "A Star Is Born",
+          "year": 2018,
+          "note": "Bradley Cooper's directorial debut, discussed here for its Best Actor nomination before it comes back later as Sean's draft pick."
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "year": 2018,
+          "note": "The hosts call it the moment the MCU fully became 'the movies now': stars, directors, and studios all funneling into one franchise."
+        },
+        {
+          "title": "Widows",
+          "year": 2018,
+          "note": "Steve McQueen's Chicago heist thriller made about $75 million, which felt disappointing in a year of $200 million blockbusters. The hosts say it was overlooked by awards bodies at the time."
+        }
+      ]
+    },
+    {
+      "kind": "draft",
+      "heading": "The 2018 Movie Draft",
+      "draftOf": "2018 movies",
+      "categories": [
+        "Drama",
+        "Comedy",
+        "Oscar Nominee",
+        "Action Horror",
+        "Blockbuster",
+        "Wildcard"
+      ],
+      "teams": [
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Roma",
+              "year": 2018,
+              "category": "Drama",
+              "note": "Alfonso Cuarón's Netflix film. She calls it beautiful and special, even if it's since become a punchline for every director's attempt to make their own version."
+            },
+            {
+              "title": "Game Night",
+              "year": 2018,
+              "category": "Comedy",
+              "note": "The funniest movie of the year for her, led by Jason Bateman and Rachel McAdams, whose deadpan 'Oh no, he died!' after a stunt gone wrong is her pick for the year's best line."
+            },
+            {
+              "title": "Black Panther",
+              "year": 2018,
+              "category": "Oscar Nominee",
+              "note": "Her first-overall pick. She remembers a packed opening-weekend screening at the Hollywood Arclight and says it made her believe again that these movies could hold real ideas."
+            },
+            {
+              "title": "A Quiet Place",
+              "year": 2018,
+              "category": "Action Horror",
+              "note": "John Krasinski's directorial breakout with Emily Blunt. She caught part of it at South by Southwest and remembers it playing 'like a house on fire.'"
+            },
+            {
+              "title": "Crazy Rich Asians",
+              "year": 2018,
+              "category": "Blockbuster",
+              "note": "Jon M. Chu's adaptation of Kevin Kwan's novel. She calls it smart and funny in a knowingly frivolous way, and wishes the delayed sequel had a bigger budget."
+            },
+            {
+              "title": "Wildlife",
+              "year": 2018,
+              "category": "Wildcard",
+              "note": "Paul Dano's directorial debut, adapted from a Richard Ford novel. She says Carey Mulligan's performance is the one that should have gotten her the recognition Promising Young Woman later did."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Widows",
+              "year": 2018,
+              "category": "Drama",
+              "note": "Steve McQueen's Chicago heist thriller, with Viola Davis and a villainous Colin Farrell, written by Gillian Flynn. He calls it a movie that felt like a slight disappointment on release and got much better on rewatch."
+            },
+            {
+              "title": "The Death of Stalin",
+              "year": 2018,
+              "category": "Comedy",
+              "note": "Armando Iannucci's satire of Politburo jockeying after Stalin's death. He calls it the last great political satire and one of the darkest movies he's ever seen."
+            },
+            {
+              "title": "Avengers: Infinity War",
+              "year": 2018,
+              "category": "Oscar Nominee",
+              "note": "Eligible off a visual-effects nomination. He admits he barely remembers the plot beyond the ending, but says it was the theatrical event of the year."
+            },
+            {
+              "title": "Annihilation",
+              "year": 2018,
+              "category": "Action Horror",
+              "note": "Alex Garland's adaptation of Jeff VanderMeer's novel. He didn't like it on first watch, partly from being too attached to the book, but came around to its ambitious, 2001-style third act."
+            },
+            {
+              "title": "Mission: Impossible - Fallout",
+              "year": 2018,
+              "category": "Blockbuster",
+              "note": "The movie he had the most fun watching all year, seen at least twice in theaters, with the bathroom fight against Henry Cavill as the highlight."
+            },
+            {
+              "title": "Den of Thieves",
+              "year": 2018,
+              "category": "Wildcard",
+              "note": "Christian Gudegast's Gerard Butler heist movie, most of it two guys shooting at each other across a bridge. He's brought it up on the show for years since."
+            }
+          ]
+        },
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "First Man",
+              "year": 2018,
+              "category": "Drama",
+              "note": "Damien Chazelle's Neil Armstrong film with Ryan Gosling. He underrated it after an empty-IMAX first viewing in Burbank, then came around on a rewatch while prepping to interview Chazelle."
+            },
+            {
+              "title": "The Favourite",
+              "year": 2018,
+              "category": "Comedy",
+              "note": "Yorgos Lanthimos's Queen Anne court drama, written by Deborah Davis and Tony McNamara. Emma Stone won Best Actress for it, and Olivia Colman won Best Actress too, for a role the hosts debate was actually lead."
+            },
+            {
+              "title": "A Star Is Born",
+              "year": 2018,
+              "category": "Oscar Nominee",
+              "note": "Bradley Cooper's directorial debut, one of his two favorite movies of the decade."
+            },
+            {
+              "title": "Hereditary",
+              "year": 2018,
+              "category": "Action Horror",
+              "note": "Ari Aster's family-trauma horror movie with Toni Collette. He saw it at a midnight South by Southwest screening in an empty Austin multiplex and calls Collette's performance one the Academy will never recognize."
+            },
+            {
+              "title": "Spider-Man: Into the Spider-Verse",
+              "year": 2018,
+              "category": "Blockbuster",
+              "note": "He calls it a masterpiece of the decade, maybe the century, and credits it with raising the bar for what an animated movie could look like."
+            },
+            {
+              "title": "First Reformed",
+              "year": 2018,
+              "category": "Wildcard",
+              "note": "Paul Schrader's Ethan Hawke film about a reverend's crisis of faith. One of his favorite movies ever; he says he'd have felt wrong not drafting it."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Jurassic World: Fallen Kingdom",
+        "Beirut",
+        "Set It Up",
+        "The Kissing Booth",
+        "If Beale Street Could Talk",
+        "BlacKkKlansman",
+        "Minding the Gap",
+        "Mid90s",
+        "The First Purge",
+        "Overlord",
+        "Ready Player One",
+        "Unsane",
+        "Fantastic Beasts: The Crimes of Grindelwald",
+        "Free Solo",
+        "Sorry to Bother You",
+        "Thunder Road",
+        "Cold War",
+        "Shoplifters",
+        "Solo: A Star Wars Story",
+        "Blockers",
+        "Rampage",
+        "The Equalizer 2",
+        "Fifty Shades Freed",
+        "A Simple Favor",
+        "The Ballad of Buster Scruggs",
+        "Burning",
+        "The Mule",
+        "Mary Poppins Returns"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Apollo 13",
+        "The Right Stuff",
+        "Promising Young Woman",
+        "La La Land",
+        "Whiplash",
+        "Don't Look Up",
+        "Idiocracy",
+        "In the Loop",
+        "The Personal History of David Copperfield",
+        "Glengarry Glen Ross",
+        "Venom",
+        "Incredibles 2",
+        "Aquaman",
+        "Deadpool 2",
+        "The Grinch",
+        "Ant-Man and the Wasp",
+        "Long Shot",
+        "The Towering Inferno"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Veep",
+      "Succession",
+      "The Great",
+      "Mayor of Kingstown",
+      "1883",
+      "WandaVision",
+      "Devs"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "Netflix FIFA World Cup Launch Edition"
+    ]
+  },
+  "tmdbOverrides": {
+    "Thunder Road": 502422,
+    "Cold War": 440298
+  },
+  "tmdb": {
+    "Green Book": {
+      "id": 490132,
+      "poster": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+      "title": "Green Book",
+      "year": 2018
+    },
+    "Roma": {
+      "id": 426426,
+      "poster": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+      "title": "Roma",
+      "year": 2018
+    },
+    "Bohemian Rhapsody": {
+      "id": 424694,
+      "poster": "/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+      "title": "Bohemian Rhapsody",
+      "year": 2018
+    },
+    "Vice": {
+      "id": 429197,
+      "poster": "/1gCab6rNv1r6V64cwsU4oEr649Y.jpg",
+      "title": "Vice",
+      "year": 2018
+    },
+    "At Eternity's Gate": {
+      "id": 491472,
+      "poster": "/y4LvHQoX5YunHJ2EMBSjQvOkvD9.jpg",
+      "title": "At Eternity's Gate",
+      "year": 2018
+    },
+    "A Star Is Born": {
+      "id": 332562,
+      "poster": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "title": "A Star Is Born",
+      "year": 2018
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    },
+    "Widows": {
+      "id": 401469,
+      "poster": "/d31SGJSaX29ba5ZUbZcesGoDE7I.jpg",
+      "title": "Widows",
+      "year": 2018
+    },
+    "Game Night": {
+      "id": 445571,
+      "poster": "/85R8LMyn9f2Lev2YPBF8Nughrkv.jpg",
+      "title": "Game Night",
+      "year": 2018
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "A Quiet Place": {
+      "id": 447332,
+      "poster": "/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+      "title": "A Quiet Place",
+      "year": 2018
+    },
+    "Crazy Rich Asians": {
+      "id": 455207,
+      "poster": "/1XxL4LJ5WHdrcYcihEZUCgNCpAW.jpg",
+      "title": "Crazy Rich Asians",
+      "year": 2018
+    },
+    "Wildlife": {
+      "id": 417812,
+      "poster": "/hQSUwjSSRtWCA5EBoY22gGzaE8Y.jpg",
+      "title": "Wildlife",
+      "year": 2018
+    },
+    "The Death of Stalin": {
+      "id": 402897,
+      "poster": "/AqH7q89NxGRDAyRWKqsL3OBtYfV.jpg",
+      "title": "The Death of Stalin",
+      "year": 2017
+    },
+    "Annihilation": {
+      "id": 300668,
+      "poster": "/4YRplSk6BhH6PRuE9gfyw9byUJ6.jpg",
+      "title": "Annihilation",
+      "year": 2018
+    },
+    "Mission: Impossible - Fallout": {
+      "id": 353081,
+      "poster": "/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+      "title": "Mission: Impossible - Fallout",
+      "year": 2018
+    },
+    "Den of Thieves": {
+      "id": 449443,
+      "poster": "/dAP5NpkrMMczir5dUPjRR6ywqgz.jpg",
+      "title": "Den of Thieves",
+      "year": 2018
+    },
+    "First Man": {
+      "id": 369972,
+      "poster": "/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
+      "title": "First Man",
+      "year": 2018
+    },
+    "The Favourite": {
+      "id": 375262,
+      "poster": "/cwBq0onfmeilU5xgqNNjJAMPfpw.jpg",
+      "title": "The Favourite",
+      "year": 2018
+    },
+    "Hereditary": {
+      "id": 493922,
+      "poster": "/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+      "title": "Hereditary",
+      "year": 2018
+    },
+    "Spider-Man: Into the Spider-Verse": {
+      "id": 324857,
+      "poster": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018
+    },
+    "First Reformed": {
+      "id": 458737,
+      "poster": "/8HKA3Hwf8jQWy8TCYWr7C8Wft23.jpg",
+      "title": "First Reformed",
+      "year": 2018
+    },
+    "Jurassic World: Fallen Kingdom": {
+      "id": 351286,
+      "poster": "/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg",
+      "title": "Jurassic World: Fallen Kingdom",
+      "year": 2018
+    },
+    "Beirut": {
+      "id": 399248,
+      "poster": "/s2qIeFsI9TskZr1LkSwljQDh5nl.jpg",
+      "title": "Beirut",
+      "year": 2018
+    },
+    "Set It Up": {
+      "id": 384677,
+      "poster": "/7omfwqiiMld9EnUps3Uk9YZLy6g.jpg",
+      "title": "Set It Up",
+      "year": 2018
+    },
+    "The Kissing Booth": {
+      "id": 454983,
+      "poster": "/vcQNnnXgKLacoYF4LNWgkNiDXPd.jpg",
+      "title": "The Kissing Booth",
+      "year": 2018
+    },
+    "If Beale Street Could Talk": {
+      "id": 465914,
+      "poster": "/76NfwnaZI43gOQove0LU9O23Qjz.jpg",
+      "title": "If Beale Street Could Talk",
+      "year": 2018
+    },
+    "BlacKkKlansman": {
+      "id": 487558,
+      "poster": "/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg",
+      "title": "BlacKkKlansman",
+      "year": 2018
+    },
+    "Minding the Gap": {
+      "id": 489985,
+      "poster": "/uOu2YgrryHD1UlngykzTodAxGdC.jpg",
+      "title": "Minding the Gap",
+      "year": 2018
+    },
+    "Mid90s": {
+      "id": 437586,
+      "poster": "/9Tw0Y3DK5kGIU9X1yw3Q9gCkOlb.jpg",
+      "title": "mid90s",
+      "year": 2018
+    },
+    "The First Purge": {
+      "id": 442249,
+      "poster": "/litjsBoiydO6JlO70uOX4N3WnNL.jpg",
+      "title": "The First Purge",
+      "year": 2018
+    },
+    "Overlord": {
+      "id": 438799,
+      "poster": "/l76Rgp32z2UxjULApxGXAPpYdAP.jpg",
+      "title": "Overlord",
+      "year": 2018
+    },
+    "Ready Player One": {
+      "id": 333339,
+      "poster": "/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",
+      "title": "Ready Player One",
+      "year": 2018
+    },
+    "Unsane": {
+      "id": 467660,
+      "poster": "/wdaUssQhZDOgegkJZx7NfY75HRX.jpg",
+      "title": "Unsane",
+      "year": 2018
+    },
+    "Fantastic Beasts: The Crimes of Grindelwald": {
+      "id": 338952,
+      "poster": "/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg",
+      "title": "Fantastic Beasts: The Crimes of Grindelwald",
+      "year": 2018
+    },
+    "Free Solo": {
+      "id": 515042,
+      "poster": "/v4QfYZMACODlWul9doN9RxE99ag.jpg",
+      "title": "Free Solo",
+      "year": 2018
+    },
+    "Sorry to Bother You": {
+      "id": 424781,
+      "poster": "/peTl1V04E9ppvhgvNmSX0r2ALqO.jpg",
+      "title": "Sorry to Bother You",
+      "year": 2018
+    },
+    "Thunder Road": {
+      "id": 502422,
+      "poster": "/ynljTdiGVUCJJ6THSZi22SBoQAR.jpg",
+      "title": "Thunder Road",
+      "year": 2018
+    },
+    "Cold War": {
+      "id": 440298,
+      "poster": "/6rbS8oPIgUMhQgIX8oGVTtlNgLR.jpg",
+      "title": "Cold War",
+      "year": 2018
+    },
+    "Shoplifters": {
+      "id": 505192,
+      "poster": "/4nfRUOv3LX5zLn98WS1WqVBk9E9.jpg",
+      "title": "Shoplifters",
+      "year": 2018
+    },
+    "Solo: A Star Wars Story": {
+      "id": 348350,
+      "poster": "/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg",
+      "title": "Solo: A Star Wars Story",
+      "year": 2018
+    },
+    "Blockers": {
+      "id": 437557,
+      "poster": "/uvlUQXg0AlpGzKukO11K7QtW3Yu.jpg",
+      "title": "Blockers",
+      "year": 2018
+    },
+    "Rampage": {
+      "id": 427641,
+      "poster": "/MGADip4thVSErP34FAAfzFBTZ5.jpg",
+      "title": "Rampage",
+      "year": 2018
+    },
+    "The Equalizer 2": {
+      "id": 345887,
+      "poster": "/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg",
+      "title": "The Equalizer 2",
+      "year": 2018
+    },
+    "Fifty Shades Freed": {
+      "id": 337167,
+      "poster": "/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8.jpg",
+      "title": "Fifty Shades Freed",
+      "year": 2018
+    },
+    "A Simple Favor": {
+      "id": 484247,
+      "poster": "/aIYsjQM0piKc0ibPBCTWv3sqshj.jpg",
+      "title": "A Simple Favor",
+      "year": 2018
+    },
+    "The Ballad of Buster Scruggs": {
+      "id": 537996,
+      "poster": "/voxl654m7p36y8FLu8oQD7dfwwK.jpg",
+      "title": "The Ballad of Buster Scruggs",
+      "year": 2018
+    },
+    "Burning": {
+      "id": 491584,
+      "poster": "/kXiF80o74fE9gf3Utf9moAI7ar0.jpg",
+      "title": "Burning",
+      "year": 2018
+    },
+    "The Mule": {
+      "id": 504172,
+      "poster": "/oeZh7yEz3PMnZLgBPhrafFHRbVz.jpg",
+      "title": "The Mule",
+      "year": 2018
+    },
+    "Mary Poppins Returns": {
+      "id": 400650,
+      "poster": "/uTVGku4LibMGyKgQvjBtv3OYfAX.jpg",
+      "title": "Mary Poppins Returns",
+      "year": 2018
+    },
+    "Apollo 13": {
+      "id": 568,
+      "poster": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+      "title": "Apollo 13",
+      "year": 1995
+    },
+    "The Right Stuff": {
+      "id": 9549,
+      "poster": "/btqTjNRxecYgQ1FGfVlLqSSNjz.jpg",
+      "title": "The Right Stuff",
+      "year": 1983
+    },
+    "Promising Young Woman": {
+      "id": 582014,
+      "poster": "/73QoFJFmUrJfDG2EynFjNc5gJxk.jpg",
+      "title": "Promising Young Woman",
+      "year": 2020
+    },
+    "La La Land": {
+      "id": 313369,
+      "poster": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "title": "La La Land",
+      "year": 2016
+    },
+    "Whiplash": {
+      "id": 244786,
+      "poster": "/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+      "title": "Whiplash",
+      "year": 2014
+    },
+    "Don't Look Up": {
+      "id": 646380,
+      "poster": "/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+      "title": "Don't Look Up",
+      "year": 2021
+    },
+    "Idiocracy": {
+      "id": 7512,
+      "poster": "/6cTHBq49ApwsJaRr3ojlY1cmiXk.jpg",
+      "title": "Idiocracy",
+      "year": 2006
+    },
+    "In the Loop": {
+      "id": 19833,
+      "poster": "/jL6txnziFSeEifQkqnPBtaPaiXU.jpg",
+      "title": "In the Loop",
+      "year": 2009
+    },
+    "The Personal History of David Copperfield": {
+      "id": 520900,
+      "poster": "/2epgo9k2Jrs7qrTL1Rork1mDSKT.jpg",
+      "title": "The Personal History of David Copperfield",
+      "year": 2019
+    },
+    "Glengarry Glen Ross": {
+      "id": 9504,
+      "poster": "/zcaEDx8KlVfh4vKfMNLhiSi5Oz4.jpg",
+      "title": "Glengarry Glen Ross",
+      "year": 1992
+    },
+    "Venom": {
+      "id": 335983,
+      "poster": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+      "title": "Venom",
+      "year": 2018
+    },
+    "Incredibles 2": {
+      "id": 260513,
+      "poster": "/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
+      "title": "Incredibles 2",
+      "year": 2018
+    },
+    "Aquaman": {
+      "id": 297802,
+      "poster": "/ufl63EFcc5XpByEV2Ecdw6WJZAI.jpg",
+      "title": "Aquaman",
+      "year": 2018
+    },
+    "Deadpool 2": {
+      "id": 383498,
+      "poster": "/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+      "title": "Deadpool 2",
+      "year": 2018
+    },
+    "The Grinch": {
+      "id": 360920,
+      "poster": "/Al7DMUp8bqUN4JwXVNxfJYyv5cH.jpg",
+      "title": "The Grinch",
+      "year": 2018
+    },
+    "Ant-Man and the Wasp": {
+      "id": 363088,
+      "poster": "/cFQEO687n1K6umXbInzocxcnAQz.jpg",
+      "title": "Ant-Man and the Wasp",
+      "year": 2018
+    },
+    "Long Shot": {
+      "id": 459992,
+      "poster": "/1F9AItQ6fhrfhBVQlmC8ReOQAFG.jpg",
+      "title": "Long Shot",
+      "year": 2019
+    },
+    "The Towering Inferno": {
+      "id": 5919,
+      "poster": "/mFM1GbrRrT3DWUFFo8koSITFnYe.jpg",
+      "title": "The Towering Inferno",
+      "year": 1974
+    }
+  }
+}

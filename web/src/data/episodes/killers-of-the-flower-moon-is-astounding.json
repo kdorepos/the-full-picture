@@ -1,0 +1,288 @@
+{
+  "slug": "killers-of-the-flower-moon-is-astounding",
+  "title": "‘Killers of the Flower Moon’ Is Astounding",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2023-10-20",
+  "runtimeMin": 109,
+  "format": "Sean and Amanda review Martin Scorsese's Killers of the Flower Moon after two viewings, then weigh its Oscar chances against the rest of the season.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘Killers of the Flower Moon’",
+      "note": "spoilers throughout",
+      "films": [
+        {
+          "title": "Killers of the Flower Moon",
+          "year": 2023,
+          "note": "Both hosts saw it twice and land on masterpiece. Scorsese, co-writing with Eric Roth, drops the whodunit frame of David Grann's book and builds the film around Ernest Burkhart (DiCaprio) and his marriage to Molly (Lily Gladstone), who both hosts say is the movie's real center. De Niro plays William Hale as benign, played-for-laughs evil. They dwell on the moral question of whether Ernest's love can be real, the Osage consultant Christopher Cote's objection, the owl motif and Lizzie's death, the radio-show coda where Scorsese himself reads Molly's obituary, and the Jack Fisk production design. Runs three and a half hours; they insist that's the point."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The Oscar math",
+      "note": "where it fits in the season",
+      "films": [
+        {
+          "title": "Oppenheimer",
+          "year": 2023,
+          "note": "The front-runner and Amanda's favorite; Sean spends the segment needling her about it. Both expect it to dominate below the line, though Killers threatens score, editing, and design."
+        },
+        {
+          "title": "Poor Things",
+          "year": 2023,
+          "note": "Running second in the race, with an uncertain release if the SAG strike drags on."
+        },
+        {
+          "title": "American Fiction",
+          "year": 2023,
+          "note": "The Toronto winner floated as a possible third."
+        },
+        {
+          "title": "The Holdovers",
+          "year": 2023,
+          "note": "Raised as a dark-horse Best Picture spoiler."
+        },
+        {
+          "title": "Barbie",
+          "year": 2023,
+          "note": "The IMAX-friendly contrast to Killers' somber tone."
+        },
+        {
+          "title": "No Country for Old Men",
+          "year": 2007,
+          "note": "Their reference point for the last time a movie this nihilistic won Best Picture."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Scorsese's filmography",
+      "films": [
+        "Goodfellas",
+        "Casino",
+        "Silence",
+        "The Irishman",
+        "The Wolf of Wall Street",
+        "The Age of Innocence",
+        "Gangs of New York",
+        "The Aviator",
+        "Kundun",
+        "The Last Temptation of Christ"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "This Boy's Life",
+        "Marvin's Room",
+        "What's Eating Gilbert Grape",
+        "Titanic",
+        "Don't Look Up",
+        "Certain Women",
+        "Giant",
+        "Shane",
+        "Gettysburg",
+        "The English Patient",
+        "Dunkirk"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Reservation Dogs",
+      "The Amazing Race",
+      "The Gold",
+      "The Simpsons",
+      "Lessons in Chemistry"
+    ],
+    "Podcasts": [
+      "The Wedding Scammer",
+      "The Watch",
+      "Blank Check"
+    ],
+    "Ads": [
+      "Tremfya",
+      "Wells Fargo",
+      "Whole Foods Market",
+      "Netflix FIFA World Cup Launch Edition",
+      "TalkAboutPD"
+    ]
+  },
+  "tmdb": {
+    "Killers of the Flower Moon": {
+      "id": 466420,
+      "poster": "/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg",
+      "title": "Killers of the Flower Moon",
+      "year": 2023
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Poor Things": {
+      "id": 792307,
+      "poster": "/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+      "title": "Poor Things",
+      "year": 2023
+    },
+    "American Fiction": {
+      "id": 1056360,
+      "poster": "/57MFWGHarg9jid7yfDTka4RmcMU.jpg",
+      "title": "American Fiction",
+      "year": 2023
+    },
+    "The Holdovers": {
+      "id": 840430,
+      "poster": "/VHSzNBTwxV8vh7wylo7O9CLdac.jpg",
+      "title": "The Holdovers",
+      "year": 2023
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "No Country for Old Men": {
+      "id": 6977,
+      "poster": "/uB7RDZby43Wvu8SKGHHTwGyTDBX.jpg",
+      "title": "No Country for Old Men",
+      "year": 2007
+    },
+    "Goodfellas": {
+      "id": 769,
+      "poster": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+      "title": "GoodFellas",
+      "year": 1990
+    },
+    "Casino": {
+      "id": 524,
+      "poster": "/gziIkUSnYuj9ChCi8qOu2ZunpSC.jpg",
+      "title": "Casino",
+      "year": 1995
+    },
+    "Silence": {
+      "id": 68730,
+      "poster": "/x5T0cQDYws0xRBVG4Q3wpcrcmax.jpg",
+      "title": "Silence",
+      "year": 2016
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "The Wolf of Wall Street": {
+      "id": 106646,
+      "poster": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+      "title": "The Wolf of Wall Street",
+      "year": 2013
+    },
+    "The Age of Innocence": {
+      "id": 10436,
+      "poster": "/5Tuyt26v7qNR8Cl3m7ZRx36rduf.jpg",
+      "title": "The Age of Innocence",
+      "year": 1993
+    },
+    "Gangs of New York": {
+      "id": 3131,
+      "poster": "/lemqKtcCuAano5aqrzxYiKC8kkn.jpg",
+      "title": "Gangs of New York",
+      "year": 2002
+    },
+    "The Aviator": {
+      "id": 2567,
+      "poster": "/lx4kWcZc3o9PaNxlQpEJZM17XUI.jpg",
+      "title": "The Aviator",
+      "year": 2004
+    },
+    "Kundun": {
+      "id": 9746,
+      "poster": "/yvdFRDoQIQ5PBk4u8x8gJT8NJAw.jpg",
+      "title": "Kundun",
+      "year": 1997
+    },
+    "The Last Temptation of Christ": {
+      "id": 11051,
+      "poster": "/7L4qwrC1mipZXJfU5oRgQWChLv1.jpg",
+      "title": "The Last Temptation of Christ",
+      "year": 1988
+    },
+    "This Boy's Life": {
+      "id": 8092,
+      "poster": "/pRMSZfen1Cv1eqwDbtxCBpBqxnU.jpg",
+      "title": "This Boy's Life",
+      "year": 1993
+    },
+    "Marvin's Room": {
+      "id": 9819,
+      "poster": "/lTHq1K5Y6EDRjxTBvReXHY6AKQ3.jpg",
+      "title": "Marvin's Room",
+      "year": 1996
+    },
+    "What's Eating Gilbert Grape": {
+      "id": 1587,
+      "poster": "/8FxWgsfDNosewo7H65oE4QkOb7g.jpg",
+      "title": "What's Eating Gilbert Grape",
+      "year": 1993
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "Don't Look Up": {
+      "id": 646380,
+      "poster": "/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+      "title": "Don't Look Up",
+      "year": 2021
+    },
+    "Certain Women": {
+      "id": 340487,
+      "poster": "/jIfW4p27B30zSfGCohB2S4cTRz4.jpg",
+      "title": "Certain Women",
+      "year": 2016
+    },
+    "Giant": {
+      "id": 1712,
+      "poster": "/h5RRYPVVuHzd7QOJyP5Dsi8J9XZ.jpg",
+      "title": "Giant",
+      "year": 1956
+    },
+    "Shane": {
+      "id": 3110,
+      "poster": "/svr5ADpjXTCOQv8hmuJnB7I14Qv.jpg",
+      "title": "Shane",
+      "year": 1953
+    },
+    "Gettysburg": {
+      "id": 10655,
+      "poster": "/k0XKdT3QbycMB8f2H7CEZVx2t4m.jpg",
+      "title": "Gettysburg",
+      "year": 1993
+    },
+    "The English Patient": {
+      "id": 409,
+      "poster": "/8eHHqMg8qEYtVw8LQLygsHXSR2q.jpg",
+      "title": "The English Patient",
+      "year": 1996
+    },
+    "Dunkirk": {
+      "id": 374720,
+      "poster": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "title": "Dunkirk",
+      "year": 2017
+    }
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "slug": "3-anchorman-and-zodiac-mission-accomplished",
+  "title": "3: ‘Anchorman’ and ‘Zodiac’ | Mission Accomplished",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Brian Raftery"
+  ],
+  "published": "2025-08-19",
+  "runtimeMin": 50,
+  "format": "Episode three of Brian Raftery's Bush-era series pairs two 1970s-California newsroom movies: Adam McKay's 'Anchorman,' the San Diego-anchor comedy McKay and Will Ferrell wrote as part of their 'mediocre white men trilogy,' and David Fincher's 'Zodiac,' a newspaper procedural about the kind of obsession the internet would soon make familiar. Raftery reads both against media consolidation, the Iraq War, and a nostalgia for an America that never existed.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "‘Anchorman’",
+      "note": "Adam McKay and Will Ferrell's Bush-era rage comedy",
+      "films": [
+        {
+          "title": "Anchorman: The Legend of Ron Burgundy",
+          "year": 2004,
+          "note": "McKay's directing debut and Ferrell's first lead, set in a 1974 San Diego newsroom. Ten studios passed in a single day; a financier who loved the table read still declined to fund it. 'Old School' changed its fortunes and got them a $26M budget. McKay and Ferrell wrote it as a swipe at the 'mediocre white guys steering us into these disasters.' The closing gag ships dim weatherman Brick Tamland to the Bush White House as a top political advisor. Christina Applegate's Veronica Corningstone is the only competent character, and McKay called the movie her story."
+        },
+        {
+          "title": "Old School",
+          "year": 2003,
+          "note": "The college comedy that proved Ferrell could draw an audience outside 'SNL,' which is what finally got 'Anchorman' made."
+        },
+        {
+          "title": "Talladega Nights: The Ballad of Ricky Bobby",
+          "year": 2006,
+          "note": "McKay and Ferrell's NASCAR comedy. With 'Step Brothers,' part of what the two called their 'mediocre white men trilogy'; producer Judd Apatow said the first draft read like two guys furious at the Bush administration."
+        },
+        {
+          "title": "Step Brothers",
+          "year": 2008,
+          "note": "The third of McKay and Ferrell's self-described 'mediocre white men trilogy' written during the Bush years."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "‘Zodiac’",
+      "note": "David Fincher's newspaper story",
+      "films": [
+        {
+          "title": "Zodiac",
+          "year": 2007,
+          "note": "Fincher's account of the hunt for the Northern California serial killer, adapted from cartoonist Robert Graysmith's 1986 book. Fincher grew up in the area and had police escort his school bus after the Zodiac threatened one; he pitched the film not as a serial-killer movie but as a newspaper story in the vein of 'All the President's Men.' Producer Brad Fisher taped a years-long case timeline around Fincher's office, and the team re-reported the case, interviewing survivors and detectives. Jake Gyllenhaal plays Graysmith, Mark Ruffalo plays detective Dave Toschi, Robert Downey Jr. plays reporter Paul Avery. On a $70M budget it opened behind 'Wild Hogs' before finding its audience on cable."
+        },
+        {
+          "title": "Basic",
+          "year": 2003,
+          "note": "The John Travolta and Samuel L. Jackson military drama that was Brad Fisher's first film as producer. On set he asked screenwriter James Vanderbilt what he most wanted to make, and Vanderbilt named the Zodiac story."
+        },
+        {
+          "title": "The Zodiac Killer",
+          "year": 1971,
+          "note": "Tom Hanson's low-budget drama, released while the killer was active. Hanson later claimed the release was partly a bid to catch the Zodiac if he turned up at a screening. It didn't work."
+        },
+        {
+          "title": "Dirty Harry",
+          "year": 1971,
+          "note": "Clint Eastwood as Inspector Harry Callahan chasing a San Francisco serial killer called Scorpio, modeled on the Zodiac. Detective Dave Toschi influenced Callahan; the movie ends with Scorpio shot dead, a resolution the real case never had."
+        },
+        {
+          "title": "Seven",
+          "year": 1995,
+          "note": "Fincher's earlier serial-killer thriller, cited as the reason people doubted he'd take on a case with no ending."
+        },
+        {
+          "title": "All the President's Men",
+          "year": 1976,
+          "note": "Pakula's Watergate drama about Woodward and Bernstein: two-plus hours of nervous people talking, with no action or murder onscreen. Fincher called it 'Zodiac's' closest bedfellow and the model for a movie about the hunt for information."
+        },
+        {
+          "title": "Wild Hogs",
+          "year": 2007,
+          "note": "The Travolta and Tim Allen midlife-crisis biker comedy that clobbered 'Zodiac' on its opening weekend. Variety's headline, per Fisher: 'Hogs Zap Zodiac.'"
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The 2000s nostalgia wave",
+      "films": [
+        "Ray",
+        "Walk the Line",
+        "I'm Not There",
+        "Walk Hard: The Dewey Cox Story",
+        "The Longest Yard",
+        "Bad News Bears",
+        "Freaky Friday",
+        "The Amityville Horror",
+        "Starsky & Hutch",
+        "E.T. the Extra-Terrestrial"
+      ]
+    },
+    {
+      "group": "The Bush-era comedy boom",
+      "films": [
+        "Wedding Crashers",
+        "The 40 Year Old Virgin",
+        "Tropic Thunder",
+        "Daddy Day Care"
+      ]
+    },
+    {
+      "group": "Fincher before ‘Zodiac’",
+      "films": [
+        "Fight Club",
+        "Panic Room"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Bullitt",
+        "Loose Change",
+        "Why the Towers Fell"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Seven": 807,
+    "The Amityville Horror": 10065
+  },
+  "excluded": {
+    "TV": [
+      "The Brady Bunch",
+      "Saturday Night Live",
+      "Politically Incorrect",
+      "Donahue",
+      "Democracy Now",
+      "Call for Help"
+    ],
+    "Radio": [
+      "Opie and Anthony"
+    ],
+    "Web": [
+      "YouTube",
+      "MySpace",
+      "Facebook",
+      "Twitter"
+    ],
+    "Ads": [
+      "Netflix",
+      "Boar's Head",
+      "FanDuel",
+      "White Claw"
+    ]
+  },
+  "tmdb": {
+    "Anchorman: The Legend of Ron Burgundy": {
+      "id": 8699,
+      "poster": "/mhZIcRePT7U8viFQVjt1ZjYIsR4.jpg",
+      "title": "Anchorman: The Legend of Ron Burgundy",
+      "year": 2004
+    },
+    "Old School": {
+      "id": 11635,
+      "poster": "/nYtuwNHpEoIbTgS3aFPSEwZNN6l.jpg",
+      "title": "Old School",
+      "year": 2003
+    },
+    "Talladega Nights: The Ballad of Ricky Bobby": {
+      "id": 9718,
+      "poster": "/3iCiTqsmJz1mO85AHzTiHNkRmb6.jpg",
+      "title": "Talladega Nights: The Ballad of Ricky Bobby",
+      "year": 2006
+    },
+    "Step Brothers": {
+      "id": 12133,
+      "poster": "/nvggBbEraUTAVR6ffP3AaBUWSHs.jpg",
+      "title": "Step Brothers",
+      "year": 2008
+    },
+    "Zodiac": {
+      "id": 1949,
+      "poster": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+      "title": "Zodiac",
+      "year": 2007
+    },
+    "Basic": {
+      "id": 10782,
+      "poster": "/jtyF4NF9fQlyGP8cgU1mK3DLUTB.jpg",
+      "title": "Basic",
+      "year": 2003
+    },
+    "The Zodiac Killer": {
+      "id": 63959,
+      "poster": "/aB67ya2zQhRevhLS5OxuGZ9atr.jpg",
+      "title": "The Zodiac Killer",
+      "year": 1971
+    },
+    "Dirty Harry": {
+      "id": 984,
+      "poster": "/scl2JDHzYoIEs5xyYy5ITCfyY0G.jpg",
+      "title": "Dirty Harry",
+      "year": 1971
+    },
+    "Seven": {
+      "id": 807,
+      "poster": "/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+      "title": "Se7en",
+      "year": 1995
+    },
+    "All the President's Men": {
+      "id": 891,
+      "poster": "/pCe6lfLxt1B58zPD4lgQrlnDS2j.jpg",
+      "title": "All the President's Men",
+      "year": 1976
+    },
+    "Wild Hogs": {
+      "id": 11199,
+      "poster": "/qYyPCZcpNGZwbyBo1gwdCiW5hHC.jpg",
+      "title": "Wild Hogs",
+      "year": 2007
+    },
+    "Ray": {
+      "id": 1677,
+      "poster": "/tSPC7sO2XYNL9QcMmK88tuUALL5.jpg",
+      "title": "Ray",
+      "year": 2004
+    },
+    "Walk the Line": {
+      "id": 69,
+      "poster": "/p8lPTjvjOjTfvC1E9pmMwcF9vkn.jpg",
+      "title": "Walk the Line",
+      "year": 2005
+    },
+    "I'm Not There": {
+      "id": 3902,
+      "poster": "/bucgvB7gQqcl1m71efHkenfIMTj.jpg",
+      "title": "I'm Not There",
+      "year": 2007
+    },
+    "Walk Hard: The Dewey Cox Story": {
+      "id": 6575,
+      "poster": "/Aa1IQ4Cuin3d7qIahvPheMmR4E5.jpg",
+      "title": "Walk Hard: The Dewey Cox Story",
+      "year": 2007
+    },
+    "The Longest Yard": {
+      "id": 9291,
+      "poster": "/nbKcVBcxF96ARW2oKHqDYAcLdu.jpg",
+      "title": "The Longest Yard",
+      "year": 2005
+    },
+    "Bad News Bears": {
+      "id": 13341,
+      "poster": "/ja1yrgfYAGmwnridioMY3MV0GDm.jpg",
+      "title": "Bad News Bears",
+      "year": 2005
+    },
+    "Freaky Friday": {
+      "id": 10330,
+      "poster": "/ipKcZ4Up7dp18XpsfYUc9NKZy3g.jpg",
+      "title": "Freaky Friday",
+      "year": 2003
+    },
+    "The Amityville Horror": {
+      "id": 10065,
+      "poster": "/4D246dpe7yy2GvHI2IbpeqkUXry.jpg",
+      "title": "The Amityville Horror",
+      "year": 2005
+    },
+    "Starsky & Hutch": {
+      "id": 9384,
+      "poster": "/fmBYVkBjhVspPv3GGus84qhBo1a.jpg",
+      "title": "Starsky & Hutch",
+      "year": 2004
+    },
+    "E.T. the Extra-Terrestrial": {
+      "id": 601,
+      "poster": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+      "title": "E.T. the Extra-Terrestrial",
+      "year": 1982
+    },
+    "Wedding Crashers": {
+      "id": 9522,
+      "poster": "/lFM3lk2zVzC1YFnKm0r6LbFPyRu.jpg",
+      "title": "Wedding Crashers",
+      "year": 2005
+    },
+    "The 40 Year Old Virgin": {
+      "id": 6957,
+      "poster": "/mVeoqL37gzhMXQVpONi9DGOQ3tZ.jpg",
+      "title": "The 40 Year Old Virgin",
+      "year": 2005
+    },
+    "Tropic Thunder": {
+      "id": 7446,
+      "poster": "/zAurB9mNxfYRoVrVjAJJwGV3sPg.jpg",
+      "title": "Tropic Thunder",
+      "year": 2008
+    },
+    "Daddy Day Care": {
+      "id": 10708,
+      "poster": "/uiey5XUKuPicwpIJMf1OpaOd1jL.jpg",
+      "title": "Daddy Day Care",
+      "year": 2003
+    },
+    "Fight Club": {
+      "id": 550,
+      "poster": "/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+      "title": "Fight Club",
+      "year": 1999
+    },
+    "Panic Room": {
+      "id": 4547,
+      "poster": "/hANYbvfwxmkC9E4yY6YyJxYxlSJ.jpg",
+      "title": "Panic Room",
+      "year": 2002
+    },
+    "Bullitt": {
+      "id": 916,
+      "poster": "/2ffzF1WmeXtH420fSUoCrecFvDA.jpg",
+      "title": "Bullitt",
+      "year": 1968
+    },
+    "Loose Change": {
+      "id": 532515,
+      "poster": "/e8VvtZLcaLyC88rvuP92fiYxfCi.jpg",
+      "title": "Loose Change",
+      "year": 2005
+    },
+    "Why the Towers Fell": {
+      "id": 464476,
+      "poster": null,
+      "title": "Why the Towers Fell",
+      "year": 2002
+    }
+  },
+  "spotifyEpisodeId": "7dKhLmpzbFXFW4AclW0yA8"
+}

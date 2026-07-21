@@ -1,0 +1,880 @@
+{
+  "slug": "the-1991-movie-draft-plus-wim-wenders",
+  "title": "The 1991 Movie Draft. Plus: Wim Wenders!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2024-02-09",
+  "runtimeMin": 135,
+  "format": "Sean Fennessey, Amanda Dobbins, and Chris Ryan snake-draft the movies of 1991 across six categories, then Sean talks to Wim Wenders about Perfect Days and Anselm.",
+  "segments": [
+    {
+      "kind": "draft",
+      "heading": "The teams",
+      "draftOf": "the movies of 1991",
+      "categories": [
+        "Drama",
+        "Action / Thriller / Horror",
+        "Comedy",
+        "Blockbuster",
+        "Oscar Nominee",
+        "Wild Card"
+      ],
+      "teams": [
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Boyz n the Hood",
+              "year": 1991,
+              "category": "Drama",
+              "note": "First pick of the draft: John Singleton's South Central debut, which hit Chris and his friends as movies that finally looked like real life."
+            },
+            {
+              "title": "Dead Again",
+              "year": 1991,
+              "category": "Action / Thriller / Horror",
+              "note": "Kenneth Branagh and Emma Thompson in a Hitchcockian reincarnation thriller from an early Scott Frank script, with a Robin Williams supporting turn. Sean had never seen it."
+            },
+            {
+              "title": "Barton Fink",
+              "year": 1991,
+              "category": "Comedy",
+              "note": "The Coens' black comedy, drafted as a comedy; John Turturro as the blocked screenwriter, John Goodman next door, John Mahoney as a Faulkner stand-in."
+            },
+            {
+              "title": "Backdraft",
+              "year": 1991,
+              "category": "Blockbuster",
+              "note": "Ron Howard's Chicago-firefighter movie and 14-year-old CR's favorite of the year; Kurt Russell, William Baldwin, and a stripped-down De Niro as the arson inspector."
+            },
+            {
+              "title": "The Silence of the Lambs",
+              "year": 1991,
+              "category": "Oscar Nominee",
+              "note": "Jonathan Demme's film swept the top five Oscars, the last to do it, so Chris takes it here rather than in thriller."
+            },
+            {
+              "title": "Hearts of Darkness: A Filmmaker's Apocalypse",
+              "year": 1991,
+              "category": "Wild Card",
+              "note": "Eleanor Coppola's documentary on the making of Apocalypse Now; for a stretch Chris rated it above the film itself."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Truly Madly Deeply",
+              "year": 1991,
+              "category": "Drama",
+              "note": "Anthony Minghella's debut: Alan Rickman comes back as Juliet Stevenson's dead husband, a gentle magical-realism grief movie."
+            },
+            {
+              "title": "Terminator 2: Judgment Day",
+              "year": 1991,
+              "category": "Action / Thriller / Horror",
+              "note": "Taken a slot before Chris expected to lose it; Amanda came to it through a Big Picture movie-swap episode."
+            },
+            {
+              "title": "Father of the Bride",
+              "year": 1991,
+              "category": "Comedy",
+              "note": "Amanda's favorite film of 1991; the Nancy Meyers and Charles Shyer remake with Steve Martin, and the still-unsolved hot-dog-bun math."
+            },
+            {
+              "title": "Beauty and the Beast",
+              "year": 1991,
+              "category": "Blockbuster",
+              "note": "The last animated film nominated for Best Picture for a long stretch; Amanda quotes Lumiere from memory."
+            },
+            {
+              "title": "Thelma & Louise",
+              "year": 1991,
+              "category": "Oscar Nominee",
+              "note": "Ridley Scott's road movie, one of the few 1991 nominees not swallowed by the Silence of the Lambs sweep."
+            },
+            {
+              "title": "My Girl",
+              "year": 1991,
+              "category": "Wild Card",
+              "note": "Macaulay Culkin and Anna Chlumsky; the bee-sting ending that still wrecks Amanda."
+            }
+          ]
+        },
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "New Jack City",
+              "year": 1991,
+              "category": "Drama",
+              "note": "Mario Van Peebles' crime drama, Wesley Snipes as Nino Brown, with Ice-T, Chris Rock, and the Judd Nelson turn the Rewatchables named an award after."
+            },
+            {
+              "title": "Point Break",
+              "year": 1991,
+              "category": "Action / Thriller / Horror",
+              "note": "Kathryn Bigelow's surfing-heist movie, Keanu Reeves and Patrick Swayze; producer Bobby Wagner had just seen it in theaters the night before."
+            },
+            {
+              "title": "Defending Your Life",
+              "year": 1991,
+              "category": "Comedy",
+              "note": "Albert Brooks' afterlife comedy opposite a pre-comedy-star Meryl Streep, with Rip Torn as his lawyer. Sean calls Brooks his goat."
+            },
+            {
+              "title": "Cape Fear",
+              "year": 1991,
+              "category": "Blockbuster",
+              "note": "Scorsese's remake of the 1962 thriller, De Niro as Max Cady and Nick Nolte as his target; Spielberg produced and nearly directed it. It cleared $75 million."
+            },
+            {
+              "title": "JFK",
+              "year": 1991,
+              "category": "Oscar Nominee",
+              "note": "Oliver Stone's assassination epic, Kevin Costner as Garrison, Hank Corwin's editing; the subject of a Sean-and-Chris pod Amanda listens to once a year."
+            },
+            {
+              "title": "Raise the Red Lantern",
+              "year": 1991,
+              "category": "Wild Card",
+              "note": "Zhang Yimou's 1920s-set drama, taken to spread the word on international film; the first movie Sean was shown in his college Film 101."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Robin Hood: Prince of Thieves",
+        "City Slickers",
+        "Hook",
+        "The Addams Family",
+        "Sleeping with the Enemy",
+        "The Naked Gun 2½: The Smell of Fear",
+        "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+        "An American Tail: Fievel Goes West",
+        "L.A. Story",
+        "Rosencrantz & Guildenstern Are Dead",
+        "Career Opportunities",
+        "Wild Hearts Can't Be Broken",
+        "Until the End of the World",
+        "The Double Life of Véronique",
+        "The Lovers on the Bridge",
+        "A Brighter Summer Day",
+        "Life Is Sweet",
+        "My Own Private Idaho",
+        "The Fisher King",
+        "Night on Earth",
+        "Center Stage",
+        "Delicatessen",
+        "City of Hope",
+        "Homicide",
+        "Bugsy",
+        "Billy Bathgate",
+        "The Last Boy Scout",
+        "Mississippi Masala",
+        "Jungle Fever",
+        "The Commitments",
+        "Daughters of the Dust",
+        "One False Move",
+        "Once Upon a Time in China",
+        "Naked Lunch",
+        "Ski School",
+        "High Heels",
+        "The Five Heartbeats",
+        "Poison",
+        "The Doors",
+        "The People Under the Stairs",
+        "Bill & Ted's Bogus Journey",
+        "Rush",
+        "Slacker",
+        "Straight Out of Brooklyn"
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Wim Wenders on",
+      "films": [
+        {
+          "title": "Perfect Days",
+          "year": 2023,
+          "note": "His Tokyo film about a toilet cleaner who lives in the present; Koji Yakusho's near-wordless performance won Best Actor at Cannes, and it was Japan's international-feature Oscar entry. Wenders shot it in 17 days, mostly in chronological order, with the music playing live in the scenes."
+        },
+        {
+          "title": "Anselm",
+          "year": 2023,
+          "note": "His 3D documentary on the artist Anselm Kiefer, shot in seven sessions over two and a half years and finished the same year as Perfect Days; an official Cannes entry."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Wenders on his own work",
+      "films": [
+        "Wings of Desire",
+        "Paris, Texas",
+        "Buena Vista Social Club",
+        "Pina",
+        "Alice in the Cities",
+        "Tokyo-Ga"
+      ]
+    },
+    {
+      "group": "Named in the interview",
+      "films": [
+        "Vertigo",
+        "Shall We Dance",
+        "The Zone of Interest",
+        "Anatomy of a Fall"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Goodfellas",
+        "Dances with Wolves",
+        "Pretty Woman",
+        "Pulp Fiction",
+        "One from the Heart",
+        "Bob Marley: One Love",
+        "Argylle",
+        "The Beekeeper",
+        "Top Gun: Maverick",
+        "The Lion King",
+        "La Belle et la Bête",
+        "Iron Man 3",
+        "Philadelphia",
+        "The Fugitive",
+        "Schindler's List",
+        "The Da Vinci Code",
+        "Apollo 13",
+        "Willow",
+        "Parenthood",
+        "Apocalypse Now",
+        "Rounders",
+        "FernGully: The Last Rainforest",
+        "City Slickers II: The Legend of Curly's Gold"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Curb Your Enthusiasm",
+      "Monsieur Spade",
+      "The Simpsons",
+      "Clarice",
+      "Hannibal",
+      "One Against the Wind"
+    ],
+    "Podcasts": [
+      "The Rewatchables",
+      "JMO"
+    ],
+    "Ads": [
+      "The Ringer NFL Draft Show",
+      "Wells Fargo Autograph Journey",
+      "State Farm",
+      "Tremfya",
+      "Netflix FIFA World Cup"
+    ]
+  },
+  "tmdbOverrides": {
+    "La Belle et la Bête": 648,
+    "Until the End of the World": 10341,
+    "Center Stage": 68004,
+    "Rush": 20289,
+    "Shall We Dance": 11239
+  },
+  "tmdb": {
+    "Boyz n the Hood": {
+      "id": 650,
+      "poster": "/v4ox4aSCNT5vyLXl4Q71JiWwCXW.jpg",
+      "title": "Boyz n the Hood",
+      "year": 1991
+    },
+    "Dead Again": {
+      "id": 11498,
+      "poster": "/irEnDVtxox6gnRJuwtEZuxvl2vZ.jpg",
+      "title": "Dead Again",
+      "year": 1991
+    },
+    "Barton Fink": {
+      "id": 290,
+      "poster": "/oDkp5iClJ9WKJGtKHz8BydodHC3.jpg",
+      "title": "Barton Fink",
+      "year": 1991
+    },
+    "Backdraft": {
+      "id": 2924,
+      "poster": "/bymJtYNIdiAiBR1LRetaJXbfryc.jpg",
+      "title": "Backdraft",
+      "year": 1991
+    },
+    "The Silence of the Lambs": {
+      "id": 274,
+      "poster": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+      "title": "The Silence of the Lambs",
+      "year": 1991
+    },
+    "Hearts of Darkness: A Filmmaker's Apocalypse": {
+      "id": 4539,
+      "poster": "/nVMCtL3r2nj4fySihDDvamaVkfx.jpg",
+      "title": "Hearts of Darkness: A Filmmaker's Apocalypse",
+      "year": 1991
+    },
+    "Truly Madly Deeply": {
+      "id": 18317,
+      "poster": "/jjLEXLTXfJPYtl31knRS8bjclf0.jpg",
+      "title": "Truly Madly Deeply",
+      "year": 1991
+    },
+    "Terminator 2: Judgment Day": {
+      "id": 280,
+      "poster": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991
+    },
+    "Father of the Bride": {
+      "id": 11846,
+      "poster": "/bU7HzJbJpY5OiLdqWhKSqGPtYii.jpg",
+      "title": "Father of the Bride",
+      "year": 1991
+    },
+    "Beauty and the Beast": {
+      "id": 10020,
+      "poster": "/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+      "title": "Beauty and the Beast",
+      "year": 1991
+    },
+    "Thelma & Louise": {
+      "id": 1541,
+      "poster": "/vbRAGLzbC75QfiKD1lKjmnQGuph.jpg",
+      "title": "Thelma & Louise",
+      "year": 1991
+    },
+    "My Girl": {
+      "id": 4032,
+      "poster": "/qyJJNHteA7BUwQSey05t7qP4vRV.jpg",
+      "title": "My Girl",
+      "year": 1991
+    },
+    "New Jack City": {
+      "id": 10952,
+      "poster": "/k9VjzXyGElRAxXyXgPvtRRSznyL.jpg",
+      "title": "New Jack City",
+      "year": 1991
+    },
+    "Point Break": {
+      "id": 1089,
+      "poster": "/tlbERIghrQ4oofqlbF7H0K0EYnx.jpg",
+      "title": "Point Break",
+      "year": 1991
+    },
+    "Defending Your Life": {
+      "id": 12186,
+      "poster": "/flXJ4AnKYq8DH1f1TmQ4QrqSwsB.jpg",
+      "title": "Defending Your Life",
+      "year": 1991
+    },
+    "Cape Fear": {
+      "id": 1598,
+      "poster": "/meJZAAuVcjic2ipvbOPz5UlE4P9.jpg",
+      "title": "Cape Fear",
+      "year": 1991
+    },
+    "JFK": {
+      "id": 820,
+      "poster": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+      "title": "JFK",
+      "year": 1991
+    },
+    "Raise the Red Lantern": {
+      "id": 10404,
+      "poster": "/j6MGZpg55cTqlHHwahBtzI2qQg1.jpg",
+      "title": "Raise the Red Lantern",
+      "year": 1991
+    },
+    "Robin Hood: Prince of Thieves": {
+      "id": 8367,
+      "poster": "/hbRnWUNJkKKVN5mkcuC5ooqjE4e.jpg",
+      "title": "Robin Hood: Prince of Thieves",
+      "year": 1991
+    },
+    "City Slickers": {
+      "id": 1406,
+      "poster": "/9DVZpm9pQNB3M17cRo752zqUYhL.jpg",
+      "title": "City Slickers",
+      "year": 1991
+    },
+    "Hook": {
+      "id": 879,
+      "poster": "/a6rB1lGXoGms7gWxRfJneQmAjNV.jpg",
+      "title": "Hook",
+      "year": 1991
+    },
+    "The Addams Family": {
+      "id": 2907,
+      "poster": "/qFf8anju5f2epI0my8RdwwIXFIP.jpg",
+      "title": "The Addams Family",
+      "year": 1991
+    },
+    "Sleeping with the Enemy": {
+      "id": 7442,
+      "poster": "/zaUkndJP8IClB1gMsbw13PoVeLS.jpg",
+      "title": "Sleeping with the Enemy",
+      "year": 1991
+    },
+    "The Naked Gun 2½: The Smell of Fear": {
+      "id": 37137,
+      "poster": "/v9niLQWVzVPB1cP1ThNdEaLZG1Q.jpg",
+      "title": "The Naked Gun 2½: The Smell of Fear",
+      "year": 1991
+    },
+    "Teenage Mutant Ninja Turtles II: The Secret of the Ooze": {
+      "id": 1497,
+      "poster": "/Hyvvz9Z3le1is8a0EeFJQm0aSC.jpg",
+      "title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+      "year": 1991
+    },
+    "An American Tail: Fievel Goes West": {
+      "id": 10380,
+      "poster": "/k4aLupAkHWwHiEDwvqsZFAnUYF.jpg",
+      "title": "An American Tail: Fievel Goes West",
+      "year": 1991
+    },
+    "L.A. Story": {
+      "id": 2107,
+      "poster": "/At97val6UZyQoQtmH1b2Pe7bWqG.jpg",
+      "title": "L.A. Story",
+      "year": 1991
+    },
+    "Rosencrantz & Guildenstern Are Dead": {
+      "id": 18971,
+      "poster": "/6RI9sYpRxIdqlmsF6kBOiF7Bxug.jpg",
+      "title": "Rosencrantz & Guildenstern Are Dead",
+      "year": 1991
+    },
+    "Career Opportunities": {
+      "id": 16270,
+      "poster": "/x2sSRi8ZqOIjtk2fpGMTuMf4qJv.jpg",
+      "title": "Career Opportunities",
+      "year": 1991
+    },
+    "Wild Hearts Can't Be Broken": {
+      "id": 23438,
+      "poster": "/kY7KaiN3vh4g49Pn3ShM2ATnFVw.jpg",
+      "title": "Wild Hearts Can't Be Broken",
+      "year": 1991
+    },
+    "Until the End of the World": {
+      "id": 10341,
+      "poster": "/sDpYWgYkBlrVnpySXQNsxVvDAAG.jpg",
+      "title": "Until the End of the World",
+      "year": 1991
+    },
+    "The Double Life of Véronique": {
+      "id": 1600,
+      "poster": "/oqRyO9xrNBRaxqF9pCHHgLuaATx.jpg",
+      "title": "The Double Life of Véronique",
+      "year": 1991
+    },
+    "The Lovers on the Bridge": {
+      "id": 2767,
+      "poster": "/un81oln6mAv66sqnkgPSpWONUqP.jpg",
+      "title": "The Lovers on the Bridge",
+      "year": 1991
+    },
+    "A Brighter Summer Day": {
+      "id": 15804,
+      "poster": "/3l8fOAwiN3N5n3hHnZ51eog7Zu2.jpg",
+      "title": "A Brighter Summer Day",
+      "year": 1991
+    },
+    "Life Is Sweet": {
+      "id": 36843,
+      "poster": "/zdkKNQzzwyciP9vAohAPFZdujlA.jpg",
+      "title": "Life Is Sweet",
+      "year": 1991
+    },
+    "My Own Private Idaho": {
+      "id": 468,
+      "poster": "/p9TF90Pb5yg2MNb2UztzyXktMm4.jpg",
+      "title": "My Own Private Idaho",
+      "year": 1991
+    },
+    "The Fisher King": {
+      "id": 177,
+      "poster": "/hwIYw22HmAUMobV4zsX69MgfVUz.jpg",
+      "title": "The Fisher King",
+      "year": 1991
+    },
+    "Night on Earth": {
+      "id": 339,
+      "poster": "/ktejUHCo6c8DekpOtR3uSb6oDXr.jpg",
+      "title": "Night on Earth",
+      "year": 1991
+    },
+    "Center Stage": {
+      "id": 68004,
+      "poster": "/oxeiEVNJDLwSGByC70gQULpXiKk.jpg",
+      "title": "Center Stage",
+      "year": 1991
+    },
+    "Delicatessen": {
+      "id": 892,
+      "poster": "/gNtOgQHxE5B8e08zuNRAdDpmK5Z.jpg",
+      "title": "Delicatessen",
+      "year": 1991
+    },
+    "City of Hope": {
+      "id": 1772,
+      "poster": "/cPCahQHDhAOAaw2mU4L5Hfpq6OF.jpg",
+      "title": "City of Hope",
+      "year": 1991
+    },
+    "Homicide": {
+      "id": 22828,
+      "poster": "/1CywcTyQ2Dbh7LA0Lcf13iaC1ig.jpg",
+      "title": "Homicide",
+      "year": 1991
+    },
+    "Bugsy": {
+      "id": 10337,
+      "poster": "/hSGncpMByW8zx2aOSXdZB0e70yA.jpg",
+      "title": "Bugsy",
+      "year": 1991
+    },
+    "Billy Bathgate": {
+      "id": 12647,
+      "poster": "/zDC0bY6IvGIf1SrDipLZJxR0Z2d.jpg",
+      "title": "Billy Bathgate",
+      "year": 1991
+    },
+    "The Last Boy Scout": {
+      "id": 9319,
+      "poster": "/glPswihcZYoAQ4YM2uJF4UACy8T.jpg",
+      "title": "The Last Boy Scout",
+      "year": 1991
+    },
+    "Mississippi Masala": {
+      "id": 41791,
+      "poster": "/b2Gks4Stt98FRI5isaL6Wu1luhh.jpg",
+      "title": "Mississippi Masala",
+      "year": 1991
+    },
+    "Jungle Fever": {
+      "id": 1713,
+      "poster": "/pw7cOdwCylBuiv6rvosBSkcgKEe.jpg",
+      "title": "Jungle Fever",
+      "year": 1991
+    },
+    "The Commitments": {
+      "id": 11663,
+      "poster": "/iccBDq9aS1gwi6b8aJjBgPU4t2D.jpg",
+      "title": "The Commitments",
+      "year": 1991
+    },
+    "Daughters of the Dust": {
+      "id": 68427,
+      "poster": "/sk5qednzLeDZMIhto6Oa9QFKOon.jpg",
+      "title": "Daughters of the Dust",
+      "year": 1991
+    },
+    "One False Move": {
+      "id": 21128,
+      "poster": "/x5xCkGw4jutMcc8nmWLKNzbDKht.jpg",
+      "title": "One False Move",
+      "year": 1992
+    },
+    "Once Upon a Time in China": {
+      "id": 10617,
+      "poster": "/dkBQC0jmkmTOJJMgwsBdgkzZ6Ry.jpg",
+      "title": "Once Upon a Time in China",
+      "year": 1991
+    },
+    "Naked Lunch": {
+      "id": 2742,
+      "poster": "/u01kh5jKUWjhom76mguRqUgdvja.jpg",
+      "title": "Naked Lunch",
+      "year": 1991
+    },
+    "Ski School": {
+      "id": 21811,
+      "poster": "/gDlLWxvr6lMBRevo2RXb0eUF8RQ.jpg",
+      "title": "Ski School",
+      "year": 1991
+    },
+    "High Heels": {
+      "id": 8222,
+      "poster": "/xUpMr3ma8XMpdDhM27s4EuFxdyC.jpg",
+      "title": "High Heels",
+      "year": 1991
+    },
+    "The Five Heartbeats": {
+      "id": 29475,
+      "poster": "/mmNKtRPFVfyUKCe8e89pGkeBlRK.jpg",
+      "title": "The Five Heartbeats",
+      "year": 1991
+    },
+    "Poison": {
+      "id": 47620,
+      "poster": "/MW47kViKJcFtt8hQV3EYaOw6zI.jpg",
+      "title": "Poison",
+      "year": 1991
+    },
+    "The Doors": {
+      "id": 10537,
+      "poster": "/x1LM3dzGuG6xOz0aT2e71o11vhu.jpg",
+      "title": "The Doors",
+      "year": 1991
+    },
+    "The People Under the Stairs": {
+      "id": 13122,
+      "poster": "/8OWDBVmGdM7HwaDtbDsdn6Rlzqj.jpg",
+      "title": "The People Under the Stairs",
+      "year": 1991
+    },
+    "Bill & Ted's Bogus Journey": {
+      "id": 1649,
+      "poster": "/tldtDfLnPFOtTWp758EmIP2Hbz5.jpg",
+      "title": "Bill & Ted's Bogus Journey",
+      "year": 1991
+    },
+    "Rush": {
+      "id": 20289,
+      "poster": "/mYRGsAFhvPmH8umMhsO8EJmhLQX.jpg",
+      "title": "Rush",
+      "year": 1991
+    },
+    "Slacker": {
+      "id": 14022,
+      "poster": "/f7Iov2nd0XX9bp2laQEPYPEhisc.jpg",
+      "title": "Slacker",
+      "year": 1990
+    },
+    "Straight Out of Brooklyn": {
+      "id": 94072,
+      "poster": "/g0C6BbyDKbI33fn14Yqb8TZO4Hq.jpg",
+      "title": "Straight Out of Brooklyn",
+      "year": 1991
+    },
+    "Perfect Days": {
+      "id": 976893,
+      "poster": "/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg",
+      "title": "Perfect Days",
+      "year": 2023
+    },
+    "Anselm": {
+      "id": 1112547,
+      "poster": "/erEJByCPNjwpOk34XAZXQvKEJnJ.jpg",
+      "title": "Anselm",
+      "year": 2023
+    },
+    "Wings of Desire": {
+      "id": 144,
+      "poster": "/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
+      "title": "Wings of Desire",
+      "year": 1987
+    },
+    "Paris, Texas": {
+      "id": 655,
+      "poster": "/sP27Qm4THyRZyHjHYMfIDtJP6YE.jpg",
+      "title": "Paris, Texas",
+      "year": 1984
+    },
+    "Buena Vista Social Club": {
+      "id": 11779,
+      "poster": "/b8psTDXSelHiab1I7L8rFdYs0IC.jpg",
+      "title": "Buena Vista Social Club",
+      "year": 1999
+    },
+    "Pina": {
+      "id": 57276,
+      "poster": "/mKKtIJYtaGwcgpMfnVR2byYhfz9.jpg",
+      "title": "Pina",
+      "year": 2011
+    },
+    "Alice in the Cities": {
+      "id": 2204,
+      "poster": "/lw22wORmENkTZHGXI6bKmAIHxjO.jpg",
+      "title": "Alice in the Cities",
+      "year": 1974
+    },
+    "Tokyo-Ga": {
+      "id": 76406,
+      "poster": "/uNH1TqJPFuoxW0YZmwBuiZqSBU1.jpg",
+      "title": "Tokyo-Ga",
+      "year": 1985
+    },
+    "Vertigo": {
+      "id": 426,
+      "poster": "/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg",
+      "title": "Vertigo",
+      "year": 1958
+    },
+    "Shall We Dance": {
+      "id": 11239,
+      "poster": "/v9sHUTn1v1O6imErEwSJRwozXEv.jpg",
+      "title": "Shall We Dance?",
+      "year": 1996
+    },
+    "The Zone of Interest": {
+      "id": 467244,
+      "poster": "/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg",
+      "title": "The Zone of Interest",
+      "year": 2023
+    },
+    "Anatomy of a Fall": {
+      "id": 915935,
+      "poster": "/1ho0d4LNZw3Y0voeKmSvPSgJOJ2.jpg",
+      "title": "Anatomy of a Fall",
+      "year": 2023
+    },
+    "Goodfellas": {
+      "id": 769,
+      "poster": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+      "title": "GoodFellas",
+      "year": 1990
+    },
+    "Dances with Wolves": {
+      "id": 581,
+      "poster": "/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg",
+      "title": "Dances with Wolves",
+      "year": 1990
+    },
+    "Pretty Woman": {
+      "id": 114,
+      "poster": "/hVHUfT801LQATGd26VPzhorIYza.jpg",
+      "title": "Pretty Woman",
+      "year": 1990
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "One from the Heart": {
+      "id": 41291,
+      "poster": "/5EyIQksa8C9tm82rHIJYGQXZ5Vs.jpg",
+      "title": "One from the Heart",
+      "year": 1982
+    },
+    "Bob Marley: One Love": {
+      "id": 802219,
+      "poster": "/1lQftpEARVVB9op4TaYiIbactzG.jpg",
+      "title": "Bob Marley: One Love",
+      "year": 2024
+    },
+    "Argylle": {
+      "id": 848538,
+      "poster": "/siduVKgOnABO4WH4lOwPQwaGwJp.jpg",
+      "title": "Argylle",
+      "year": 2024
+    },
+    "The Beekeeper": {
+      "id": 866398,
+      "poster": "/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
+      "title": "The Beekeeper",
+      "year": 2024
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "The Lion King": {
+      "id": 8587,
+      "poster": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+      "title": "The Lion King",
+      "year": 1994
+    },
+    "La Belle et la Bête": {
+      "id": 648,
+      "poster": "/iYSe3yrkma0e1B0wWPXgr8w5sDN.jpg",
+      "title": "Beauty and the Beast",
+      "year": 1946
+    },
+    "Iron Man 3": {
+      "id": 68721,
+      "poster": "/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+      "title": "Iron Man 3",
+      "year": 2013
+    },
+    "Philadelphia": {
+      "id": 9800,
+      "poster": "/tFe5Yoo5zT495okA49bq1vPPkiV.jpg",
+      "title": "Philadelphia",
+      "year": 1993
+    },
+    "The Fugitive": {
+      "id": 5503,
+      "poster": "/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg",
+      "title": "The Fugitive",
+      "year": 1993
+    },
+    "Schindler's List": {
+      "id": 424,
+      "poster": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+      "title": "Schindler's List",
+      "year": 1993
+    },
+    "The Da Vinci Code": {
+      "id": 591,
+      "poster": "/9ejKfNk0LBhSI9AahH4f9NJNZNM.jpg",
+      "title": "The Da Vinci Code",
+      "year": 2006
+    },
+    "Apollo 13": {
+      "id": 568,
+      "poster": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+      "title": "Apollo 13",
+      "year": 1995
+    },
+    "Willow": {
+      "id": 847,
+      "poster": "/pAIRGMIdN7ZdZhflazdV2ezuJ9f.jpg",
+      "title": "Willow",
+      "year": 1988
+    },
+    "Parenthood": {
+      "id": 1552,
+      "poster": "/e51tNNQBJpJi9xkyuj0QFhyBcz7.jpg",
+      "title": "Parenthood",
+      "year": 1989
+    },
+    "Apocalypse Now": {
+      "id": 28,
+      "poster": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "title": "Apocalypse Now",
+      "year": 1979
+    },
+    "Rounders": {
+      "id": 10220,
+      "poster": "/mqbMwYGwIChnaCO55h7v8DG8Wwy.jpg",
+      "title": "Rounders",
+      "year": 1998
+    },
+    "FernGully: The Last Rainforest": {
+      "id": 13225,
+      "poster": "/xkJxdeaibcrcsi1XHvT0IuOjdzB.jpg",
+      "title": "FernGully: The Last Rainforest",
+      "year": 1992
+    },
+    "City Slickers II: The Legend of Curly's Gold": {
+      "id": 11310,
+      "poster": "/gh0lsyJARglhpbKmnY8i8M7V5bI.jpg",
+      "title": "City Slickers II: The Legend of Curly's Gold",
+      "year": 1994
+    }
+  },
+  "spotifyEpisodeId": "06mcOiaaDBtXBxOoh4CQUb"
+}

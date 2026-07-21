@@ -1,0 +1,321 @@
+{
+  "slug": "the-25-best-movies-of-the-century-no-15-inside-llewyn-davis",
+  "title": "The 25 Best Movies of the Century: No. 15 - 'Inside Llewyn Davis'",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2025-07-16",
+  "runtimeMin": 40,
+  "format": "The Coens' slot on the century list, and Sean and Amanda hand it to No. 15 instead of the obvious pick. A conversation about 'Inside Llewyn Davis,' the 1961-set folk portrait modeled on Dave Van Ronk and the movie about being the other guy, and why 'A Complete Unknown' plays like a response record a decade later.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "No. 15 — 'Inside Llewyn Davis'",
+      "note": "The 25 for 25 series",
+      "films": [
+        {
+          "title": "Inside Llewyn Davis",
+          "year": 2013,
+          "note": "The Coen Brothers pick, chosen over the more decorated No Country for Old Men. Oscar Isaac plays a Greenwich Village folk singer modeled on Dave Van Ronk, a man stuck being the other guy while Bob Dylan takes off. Shot by Bruno Delbonnel rather than Roger Deakins, scored by T Bone Burnett and Marcus Mumford, with Carey Mulligan, John Goodman, and Justin Timberlake. Two Oscar nominations, no box office; New York Times critics' poll No. 83, readers' No. 95. Sean and Amanda call it their last Coen masterpiece, and say A Complete Unknown plays like its answer a decade later."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The rest of the Coens",
+      "films": [
+        "No Country for Old Men",
+        "Fargo",
+        "Raising Arizona",
+        "Miller's Crossing",
+        "Barton Fink",
+        "The Big Lebowski",
+        "O Brother, Where Art Thou?",
+        "A Serious Man",
+        "True Grit",
+        "Burn After Reading",
+        "Hail, Caesar!",
+        "The Ballad of Buster Scruggs",
+        "The Hudsucker Proxy",
+        "The Tragedy of Macbeth",
+        "Drive-Away Dolls"
+      ]
+    },
+    {
+      "group": "Oscar Isaac's run",
+      "films": [
+        "The Bourne Legacy",
+        "A Most Violent Year",
+        "Ex Machina",
+        "Star Wars: The Force Awakens"
+      ]
+    },
+    {
+      "group": "Double features they'd pair with it",
+      "films": [
+        "A Complete Unknown",
+        "Amadeus",
+        "Trainspotting",
+        "The Third Man"
+      ]
+    },
+    {
+      "group": "The stacked 2007 field",
+      "films": [
+        "There Will Be Blood",
+        "Michael Clayton",
+        "Zodiac",
+        "Atonement",
+        "Juno"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "The Social Network",
+        "The Reader",
+        "No Direction Home",
+        "Logan",
+        "The Wolverine",
+        "The Dark Knight",
+        "Eddington"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "No Direction Home": 19082
+  },
+  "excluded": {
+    "TV": [
+      "Girls"
+    ],
+    "Ads": [
+      "Starbucks",
+      "T-Mobile Home Run Derby",
+      "Mint Mobile"
+    ]
+  },
+  "tmdb": {
+    "Inside Llewyn Davis": {
+      "id": 86829,
+      "poster": "/nNxK3pC3DMpPpWKMvo2p3liREVT.jpg",
+      "title": "Inside Llewyn Davis",
+      "year": 2013
+    },
+    "No Country for Old Men": {
+      "id": 6977,
+      "poster": "/uB7RDZby43Wvu8SKGHHTwGyTDBX.jpg",
+      "title": "No Country for Old Men",
+      "year": 2007
+    },
+    "Fargo": {
+      "id": 275,
+      "poster": "/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+      "title": "Fargo",
+      "year": 1996
+    },
+    "Raising Arizona": {
+      "id": 378,
+      "poster": "/niKyjOqiB4XVl0BqgKTHIlHOCeF.jpg",
+      "title": "Raising Arizona",
+      "year": 1987
+    },
+    "Miller's Crossing": {
+      "id": 379,
+      "poster": "/i83gYdglRCjCRLSsmCk5nRWRmDM.jpg",
+      "title": "Miller's Crossing",
+      "year": 1990
+    },
+    "Barton Fink": {
+      "id": 290,
+      "poster": "/oDkp5iClJ9WKJGtKHz8BydodHC3.jpg",
+      "title": "Barton Fink",
+      "year": 1991
+    },
+    "The Big Lebowski": {
+      "id": 115,
+      "poster": "/3bv6WAp6BSxxYvB5ozKFUYuRA8C.jpg",
+      "title": "The Big Lebowski",
+      "year": 1998
+    },
+    "O Brother, Where Art Thou?": {
+      "id": 134,
+      "poster": "/s9foMAcLg8GEzzQzer04qOGdD1k.jpg",
+      "title": "O Brother, Where Art Thou?",
+      "year": 2000
+    },
+    "A Serious Man": {
+      "id": 12573,
+      "poster": "/5gGxDS8WmrebPlMHexVS8EVehiP.jpg",
+      "title": "A Serious Man",
+      "year": 2009
+    },
+    "True Grit": {
+      "id": 44264,
+      "poster": "/tCrB8pcjadZjsDk7rleGJaIv78k.jpg",
+      "title": "True Grit",
+      "year": 2010
+    },
+    "Burn After Reading": {
+      "id": 4944,
+      "poster": "/jdwSkQu3XirmX18MNj8CqFWsCk.jpg",
+      "title": "Burn After Reading",
+      "year": 2008
+    },
+    "Hail, Caesar!": {
+      "id": 270487,
+      "poster": "/qvecZ7WyemhGW8fuJ8190p472jQ.jpg",
+      "title": "Hail, Caesar!",
+      "year": 2016
+    },
+    "The Ballad of Buster Scruggs": {
+      "id": 537996,
+      "poster": "/voxl654m7p36y8FLu8oQD7dfwwK.jpg",
+      "title": "The Ballad of Buster Scruggs",
+      "year": 2018
+    },
+    "The Hudsucker Proxy": {
+      "id": 11934,
+      "poster": "/xBQBr6Q1OTivouBK66oFgy86n03.jpg",
+      "title": "The Hudsucker Proxy",
+      "year": 1994
+    },
+    "The Tragedy of Macbeth": {
+      "id": 591538,
+      "poster": "/tDNJEhcLbX3jIk3BMCur9pCdaVD.jpg",
+      "title": "The Tragedy of Macbeth",
+      "year": 2021
+    },
+    "Drive-Away Dolls": {
+      "id": 957304,
+      "poster": "/6QPKmqntFgLm6sB47AtSelEGGPM.jpg",
+      "title": "Drive-Away Dolls",
+      "year": 2024
+    },
+    "The Bourne Legacy": {
+      "id": 49040,
+      "poster": "/1aExL5DTGHj25ZfIC3dDwS84RWi.jpg",
+      "title": "The Bourne Legacy",
+      "year": 2012
+    },
+    "A Most Violent Year": {
+      "id": 241239,
+      "poster": "/gYTUNxLcFomCdXe3D4Hq8OLwgv0.jpg",
+      "title": "A Most Violent Year",
+      "year": 2014
+    },
+    "Ex Machina": {
+      "id": 264660,
+      "poster": "/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
+      "title": "Ex Machina",
+      "year": 2015
+    },
+    "Star Wars: The Force Awakens": {
+      "id": 140607,
+      "poster": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+      "title": "Star Wars: The Force Awakens",
+      "year": 2015
+    },
+    "A Complete Unknown": {
+      "id": 661539,
+      "poster": "/llWl3GtNoXosbvYboelmoT459NM.jpg",
+      "title": "A Complete Unknown",
+      "year": 2024
+    },
+    "Amadeus": {
+      "id": 279,
+      "poster": "/gQRfiyfGvr1az0quaYyMram3Aqt.jpg",
+      "title": "Amadeus",
+      "year": 1984
+    },
+    "Trainspotting": {
+      "id": 627,
+      "poster": "/1jUC02qsqS2NxBMFarbIhcQtazV.jpg",
+      "title": "Trainspotting",
+      "year": 1996
+    },
+    "The Third Man": {
+      "id": 1092,
+      "poster": "/rO2Fq0AZZx9obs52KJdx4mRE8p5.jpg",
+      "title": "The Third Man",
+      "year": 1949
+    },
+    "There Will Be Blood": {
+      "id": 7345,
+      "poster": "/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+      "title": "There Will Be Blood",
+      "year": 2007
+    },
+    "Michael Clayton": {
+      "id": 4566,
+      "poster": "/hhkW4yVIGo8Bee3UITKvqOvhNMG.jpg",
+      "title": "Michael Clayton",
+      "year": 2007
+    },
+    "Zodiac": {
+      "id": 1949,
+      "poster": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+      "title": "Zodiac",
+      "year": 2007
+    },
+    "Atonement": {
+      "id": 4347,
+      "poster": "/hMRIyBjPzxaSXWM06se3OcNjIQa.jpg",
+      "title": "Atonement",
+      "year": 2007
+    },
+    "Juno": {
+      "id": 7326,
+      "poster": "/jNIn2tVhpvFD6P9IojldI3mNYcn.jpg",
+      "title": "Juno",
+      "year": 2007
+    },
+    "The Social Network": {
+      "id": 37799,
+      "poster": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+      "title": "The Social Network",
+      "year": 2010
+    },
+    "The Reader": {
+      "id": 8055,
+      "poster": "/r0WURbmnhgKeBpHcpDULBgRedQM.jpg",
+      "title": "The Reader",
+      "year": 2008
+    },
+    "No Direction Home": {
+      "id": 19082,
+      "poster": "/lqOo4nyRS56Goi8InZqLFKGEJR5.jpg",
+      "title": "No Direction Home: Bob Dylan",
+      "year": 2005
+    },
+    "Logan": {
+      "id": 263115,
+      "poster": "/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+      "title": "Logan",
+      "year": 2017
+    },
+    "The Wolverine": {
+      "id": 76170,
+      "poster": "/t2wVAcoRlKvEIVSbiYDb8d0QqqS.jpg",
+      "title": "The Wolverine",
+      "year": 2013
+    },
+    "The Dark Knight": {
+      "id": 155,
+      "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    "Eddington": {
+      "id": 648878,
+      "poster": "/4GIqZUgPZ146BhibsPHMHef2nXX.jpg",
+      "title": "Eddington",
+      "year": 2025
+    }
+  },
+  "spotifyEpisodeId": "2YUf7k2meiF9OjilQmxke9"
+}

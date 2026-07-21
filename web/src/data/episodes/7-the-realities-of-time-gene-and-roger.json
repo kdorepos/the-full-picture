@@ -1,0 +1,163 @@
+{
+  "slug": "7-the-realities-of-time-gene-and-roger",
+  "title": "7. “The Realities of Time” | Gene and Roger",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Brian Raftery"
+  ],
+  "published": "2021-08-23",
+  "runtimeMin": 28,
+  "format": "Part seven of Brian Raftery's Gene and Roger series: the mid-90s thaw between Siskel and Ebert, Gene's brain-cancer diagnosis, and the last year of films he reviewed.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "A running battle with the realities of time",
+      "note": "Siskel and Ebert in the 90s, and Gene's last year",
+      "films": [
+        {
+          "title": "Broken Arrow",
+          "year": 1996,
+          "note": "The John Travolta action movie Gene half-endorsed until Roger talked him out of it, the one time in 20 years Gene flipped his own thumb on air."
+        },
+        {
+          "title": "Cop and a Half",
+          "year": 1993,
+          "note": "The Burt Reynolds comedy Roger wanted Gene to recant on camera; Gene refused, saying he saw things in it he admired."
+        },
+        {
+          "title": "Saturday Night Fever",
+          "year": 1977,
+          "note": "Gene auctioned off Travolta's white suit in the mid-90s, joking he'd use the proceeds toward his kids' college."
+        },
+        {
+          "title": "Lost in Space",
+          "year": 1998,
+          "note": "Fodder for a Letterman bit where Gene kept steering back to the movie and Roger kept insisting Leonardo DiCaprio was hunky."
+        },
+        {
+          "title": "Independence Day",
+          "year": 1996,
+          "note": "Both critics had thumbed it down; its creators' next film got even."
+        },
+        {
+          "title": "Godzilla",
+          "year": 1998,
+          "note": "Gene's comeback title after brain surgery: he watched a screener in the hospital and phoned in his review over a still photo. The film mocked the pair with a heavyset, bald 'Mayor Ebert.'"
+        },
+        {
+          "title": "The Truman Show",
+          "year": 1998,
+          "note": "Gene watched it twice while recovering and called it a watershed, a return to films of ideas."
+        },
+        {
+          "title": "Bulworth",
+          "year": 1998,
+          "note": "Cited alongside The Truman Show as proof the movies were getting back to ideas."
+        },
+        {
+          "title": "The Thin Red Line",
+          "year": 1998,
+          "note": "One of the films Gene loved in his final year of reviewing."
+        },
+        {
+          "title": "There's Something About Mary",
+          "year": 1998
+        },
+        {
+          "title": "Babe: Pig in the City",
+          "year": 1998,
+          "note": "Gene's No. 1 movie of 1998."
+        }
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "Cop and a Half": 12574
+  },
+  "excluded": {
+    "TV": [
+      "Siskel & Ebert",
+      "Best Enemies",
+      "The Tonight Show with Jay Leno",
+      "Late Show with David Letterman",
+      "Larry King Live"
+    ],
+    "Games": [
+      "FIFA World Cup Launch Edition"
+    ],
+    "Ads": [
+      "Boar's Head",
+      "Netflix",
+      "White Claw"
+    ]
+  },
+  "tmdb": {
+    "Broken Arrow": {
+      "id": 9208,
+      "poster": "/iBPMwYYJFvdCBkXrwV75peo5Lz2.jpg",
+      "title": "Broken Arrow",
+      "year": 1996
+    },
+    "Cop and a Half": {
+      "id": 12574,
+      "poster": "/2z2AcI1VyPnRtHrvfpk1YDItdmB.jpg",
+      "title": "Cop & ½",
+      "year": 1993
+    },
+    "Saturday Night Fever": {
+      "id": 11009,
+      "poster": "/ylA7E5Md21aqgzxbwa2dFxX8LKV.jpg",
+      "title": "Saturday Night Fever",
+      "year": 1977
+    },
+    "Lost in Space": {
+      "id": 2157,
+      "poster": "/fCocPDUFuKswY2GxDdfYsT9BXMd.jpg",
+      "title": "Lost in Space",
+      "year": 1998
+    },
+    "Independence Day": {
+      "id": 602,
+      "poster": "/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg",
+      "title": "Independence Day",
+      "year": 1996
+    },
+    "Godzilla": {
+      "id": 929,
+      "poster": "/xJVl1I95StraYAwaNbBkVoWE2qA.jpg",
+      "title": "Godzilla",
+      "year": 1998
+    },
+    "The Truman Show": {
+      "id": 37165,
+      "poster": "/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+      "title": "The Truman Show",
+      "year": 1998
+    },
+    "Bulworth": {
+      "id": 9452,
+      "poster": "/gR9jZ7W2d28aSa2Yimz797VNXRh.jpg",
+      "title": "Bulworth",
+      "year": 1998
+    },
+    "The Thin Red Line": {
+      "id": 8741,
+      "poster": "/seMydAaoxQP6F0xbE1jOcTmn5Jr.jpg",
+      "title": "The Thin Red Line",
+      "year": 1998
+    },
+    "There's Something About Mary": {
+      "id": 544,
+      "poster": "/slJD1Dvnsf15LoeqhERsyzisAdn.jpg",
+      "title": "There's Something About Mary",
+      "year": 1998
+    },
+    "Babe: Pig in the City": {
+      "id": 9447,
+      "poster": "/glO6LcTWUZcbxWT2SB4eRDnFSsP.jpg",
+      "title": "Babe: Pig in the City",
+      "year": 1998
+    }
+  }
+}

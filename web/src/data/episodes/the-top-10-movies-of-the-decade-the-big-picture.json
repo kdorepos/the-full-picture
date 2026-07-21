@@ -1,0 +1,600 @@
+{
+  "slug": "the-top-10-movies-of-the-decade-the-big-picture",
+  "title": "The Top 10 Movies of the Decade | The Big Picture",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2019-11-26",
+  "runtimeMin": 83,
+  "format": "Sean Fennessey, Amanda Dobbins, and Chris Ryan each rank their ten best movies of the 2010s, and land, independently, on the same No. 1.",
+  "segments": [
+    {
+      "kind": "ranking",
+      "heading": "Amanda Dobbins's Top 10",
+      "note": "best to worst",
+      "subject": "Amanda Dobbins",
+      "ranked": true,
+      "films": [
+        {
+          "title": "The Social Network",
+          "year": 2010,
+          "note": "No. 1 - all three hosts landed here independently. A movie that predicts everything from Facebook's rise to the way we connect now."
+        },
+        {
+          "title": "Lady Bird",
+          "year": 2017,
+          "note": "No. 2 - the best experience she had watching a movie all decade; a mother-daughter story that's both intensely specific to Greta Gerwig and pretty universal."
+        },
+        {
+          "title": "Parasite",
+          "year": 2019,
+          "note": "No. 3 - kept off some lists for recency bias, but the movie she'll remember from this political moment, even though it's Korean, not American."
+        },
+        {
+          "title": "Moneyball",
+          "year": 2011,
+          "note": "No. 4 - turns sports and spreadsheets, neither of which interest her, into a movie-star vehicle for Brad Pitt."
+        },
+        {
+          "title": "Phantom Thread",
+          "year": 2017,
+          "note": "No. 5 - the decade's rare real love story, and Paul Thomas Anderson's tightest movie."
+        },
+        {
+          "title": "Skyfall",
+          "year": 2012,
+          "note": "No. 6 - proof a movie can gross a billion dollars and still have ideas."
+        },
+        {
+          "title": "Frances Ha",
+          "year": 2013,
+          "note": "No. 7 - Baumbach's most hopeful movie, released the year she was Frances's age and living in New York herself."
+        },
+        {
+          "title": "Arrival",
+          "year": 2016,
+          "note": "No. 8 - a rewatch the night before recording moved her as much as her first three trips to the theater in 2016."
+        },
+        {
+          "title": "Magic Mike",
+          "year": 2012,
+          "note": "No. 9 - anticipated a decade of movies that live as much online as in the theater. Also, Channing Tatum dances."
+        },
+        {
+          "title": "Fast Five",
+          "year": 2011,
+          "note": "No. 10 - the gut-check pick: a dumb, amazing movie about dragging a safe through Rio."
+        }
+      ]
+    },
+    {
+      "kind": "ranking",
+      "heading": "Chris Ryan's Top 10",
+      "note": "best to worst",
+      "subject": "Chris Ryan",
+      "ranked": true,
+      "films": [
+        {
+          "title": "The Social Network",
+          "year": 2010,
+          "note": "No. 1 - the movie of the decade, and nobody's really directed a better-looking one since."
+        },
+        {
+          "title": "The Wolf of Wall Street",
+          "year": 2013,
+          "note": "No. 2 - he'd written it off back in 2013; a rewatch convinced him it explains America and how screwed everything got."
+        },
+        {
+          "title": "Lady Bird",
+          "year": 2017,
+          "note": "No. 3 - Greta Gerwig telling her own story."
+        },
+        {
+          "title": "Arrival",
+          "year": 2016,
+          "note": "No. 4 - the best of a stacked Denis Villeneuve decade that also included Prisoners, Enemy, Sicario, and Blade Runner 2049."
+        },
+        {
+          "title": "Before Midnight",
+          "year": 2013,
+          "note": "No. 5 - the most co-authored entry in the trilogy: Jesse's kind of a dick in it, and nothing gets fully resolved."
+        },
+        {
+          "title": "Drive",
+          "year": 2011,
+          "note": "No. 6 - the movie that made Los Angeles feel new to him the year he moved there."
+        },
+        {
+          "title": "Mad Max: Fury Road",
+          "year": 2015,
+          "note": "No. 7 - a real case for best-made movie of the decade, and proof sequels don't have to be bad."
+        },
+        {
+          "title": "Minding the Gap",
+          "year": 2018,
+          "note": "No. 8 - a skateboarding documentary so intimate you feel like you know these people."
+        },
+        {
+          "title": "The Master",
+          "year": 2012,
+          "note": "No. 9 - one of the most haunting movies he's ever seen; he caught it at a midnight screening the week it opened."
+        },
+        {
+          "title": "Once Upon a Time in Hollywood",
+          "year": 2019,
+          "note": "No. 10 - ranked low mostly because it's brand new; he expects it to climb on further watches."
+        }
+      ]
+    },
+    {
+      "kind": "ranking",
+      "heading": "Sean Fennessey's Top 10",
+      "note": "best to worst",
+      "subject": "Sean Fennessey",
+      "ranked": true,
+      "films": [
+        {
+          "title": "The Social Network",
+          "year": 2010,
+          "note": "No. 1 - not close. His pod, his call, and the movie all three hosts landed on without comparing notes."
+        },
+        {
+          "title": "The Master",
+          "year": 2012,
+          "note": "No. 2 - the most mesmeric movie on the list; he still can't explain why it holds his attention."
+        },
+        {
+          "title": "Inside Llewyn Davis",
+          "year": 2013,
+          "note": "No. 3 - the first Coen brothers movie since A Serious Man that belongs in their canon: a love letter to the ones who don't quite make it."
+        },
+        {
+          "title": "Whiplash",
+          "year": 2014,
+          "note": "No. 4 - a cautionary tale for anyone too online and too obsessed with their own work, i.e. everyone."
+        },
+        {
+          "title": "Once Upon a Time in Hollywood",
+          "year": 2019,
+          "note": "No. 5 - his favorite director of the decade making his LA movie, in his safest place."
+        },
+        {
+          "title": "Get Out",
+          "year": 2017,
+          "note": "No. 6 - a tightly orchestrated horror movie that went from theater to part of the culture's vocabulary almost overnight."
+        },
+        {
+          "title": "Frances Ha",
+          "year": 2013,
+          "note": "No. 7 - also on Amanda's list; Baumbach and Gerwig's black-and-white ode to broke New York twenty-somethings."
+        },
+        {
+          "title": "Mad Max: Fury Road",
+          "year": 2015,
+          "note": "No. 8 - the critical-consensus pick for action filmmaking of the decade, one spot lower than on Chris's list."
+        },
+        {
+          "title": "O.J.: Made in America",
+          "year": 2016,
+          "note": "No. 9 - the best movie about the arc of time he's seen: what happens to a person once they go inside the machine."
+        },
+        {
+          "title": "Spider-Man: Into the Spider-Verse",
+          "year": 2018,
+          "note": "No. 10 - the rare animated movie that actually pushes the medium forward."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Honorable mentions",
+      "films": [
+        "Moonlight",
+        "Creed",
+        "Haywire",
+        "It Follows",
+        "Green Room",
+        "Stories We Tell",
+        "It's Such a Beautiful Day",
+        "Wonder Woman"
+      ]
+    },
+    {
+      "group": "Almost made the cut",
+      "films": [
+        "Edge of Tomorrow",
+        "Zero Dark Thirty",
+        "The Report"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Inherent Vice",
+        "Only God Forgives",
+        "Prisoners",
+        "Enemy",
+        "Sicario",
+        "Sicario: Day of the Soldado",
+        "Blade Runner 2049",
+        "Casino Royale",
+        "Django Unchained",
+        "The Hateful Eight",
+        "Inglourious Basterds",
+        "The Big Short",
+        "Boyhood",
+        "Zodiac",
+        "The Girl with the Dragon Tattoo",
+        "True Grit",
+        "Hail, Caesar!",
+        "The Ballad of Buster Scruggs",
+        "Before Sunrise",
+        "Before Sunset",
+        "La La Land",
+        "First Man",
+        "The Irishman",
+        "Marriage Story"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Morning Show",
+      "The Bold Type",
+      "The Vietnam War"
+    ],
+    "Ads": [
+      "Marvels (Stitcher Premium)",
+      "MasterClass"
+    ]
+  },
+  "tmdb": {
+    "The Social Network": {
+      "id": 37799,
+      "poster": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+      "title": "The Social Network",
+      "year": 2010
+    },
+    "Lady Bird": {
+      "id": 391713,
+      "poster": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+      "title": "Lady Bird",
+      "year": 2017
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Moneyball": {
+      "id": 60308,
+      "poster": "/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+      "title": "Moneyball",
+      "year": 2011
+    },
+    "Phantom Thread": {
+      "id": 400617,
+      "poster": "/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg",
+      "title": "Phantom Thread",
+      "year": 2017
+    },
+    "Skyfall": {
+      "id": 37724,
+      "poster": "/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
+      "title": "Skyfall",
+      "year": 2012
+    },
+    "Frances Ha": {
+      "id": 121986,
+      "poster": "/jrq1NoKvsxWCcffVOjegiYwloFN.jpg",
+      "title": "Frances Ha",
+      "year": 2013
+    },
+    "Arrival": {
+      "id": 329865,
+      "poster": "/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
+      "title": "Arrival",
+      "year": 2016
+    },
+    "Magic Mike": {
+      "id": 77930,
+      "poster": "/cfRv1INLSSumjvxAqEGOP6b0Aw1.jpg",
+      "title": "Magic Mike",
+      "year": 2012
+    },
+    "Fast Five": {
+      "id": 51497,
+      "poster": "/gEfQjjQwY7fh5bI4GlG0RrBu7Pz.jpg",
+      "title": "Fast Five",
+      "year": 2011
+    },
+    "The Wolf of Wall Street": {
+      "id": 106646,
+      "poster": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+      "title": "The Wolf of Wall Street",
+      "year": 2013
+    },
+    "Before Midnight": {
+      "id": 132344,
+      "poster": "/qbGKJmNUroDz75kh5Oafoall89e.jpg",
+      "title": "Before Midnight",
+      "year": 2013
+    },
+    "Drive": {
+      "id": 64690,
+      "poster": "/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
+      "title": "Drive",
+      "year": 2011
+    },
+    "Mad Max: Fury Road": {
+      "id": 76341,
+      "poster": "/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+      "title": "Mad Max: Fury Road",
+      "year": 2015
+    },
+    "Minding the Gap": {
+      "id": 489985,
+      "poster": "/uOu2YgrryHD1UlngykzTodAxGdC.jpg",
+      "title": "Minding the Gap",
+      "year": 2018
+    },
+    "The Master": {
+      "id": 68722,
+      "poster": "/rUSjbyvYWN9H4az8xt0tDtU7I6v.jpg",
+      "title": "The Master",
+      "year": 2012
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Inside Llewyn Davis": {
+      "id": 86829,
+      "poster": "/nNxK3pC3DMpPpWKMvo2p3liREVT.jpg",
+      "title": "Inside Llewyn Davis",
+      "year": 2013
+    },
+    "Whiplash": {
+      "id": 244786,
+      "poster": "/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+      "title": "Whiplash",
+      "year": 2014
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "O.J.: Made in America": {
+      "id": 377462,
+      "poster": "/nFmg2G4IJ0x9mALXkYFN8Gw0Dw5.jpg",
+      "title": "O.J.: Made in America",
+      "year": 2016
+    },
+    "Spider-Man: Into the Spider-Verse": {
+      "id": 324857,
+      "poster": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018
+    },
+    "Moonlight": {
+      "id": 376867,
+      "poster": "/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+      "title": "Moonlight",
+      "year": 2016
+    },
+    "Creed": {
+      "id": 312221,
+      "poster": "/1BfTsk5VWuw8FCocAhCyqnRbEzq.jpg",
+      "title": "Creed",
+      "year": 2015
+    },
+    "Haywire": {
+      "id": 70435,
+      "poster": "/c9fJ0dYC30NnE9k2p61c0dqlZqW.jpg",
+      "title": "Haywire",
+      "year": 2011
+    },
+    "It Follows": {
+      "id": 270303,
+      "poster": "/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg",
+      "title": "It Follows",
+      "year": 2015
+    },
+    "Green Room": {
+      "id": 313922,
+      "poster": "/evZicaR7nXe4LiD9G6QYTorcJGO.jpg",
+      "title": "Green Room",
+      "year": 2016
+    },
+    "Stories We Tell": {
+      "id": 128216,
+      "poster": "/aVDtDW3qP0je1Cy87GDfijG9W4c.jpg",
+      "title": "Stories We Tell",
+      "year": 2012
+    },
+    "It's Such a Beautiful Day": {
+      "id": 489412,
+      "poster": "/hop0dsM4nxyNENGhBhpJWTCJ5rS.jpg",
+      "title": "It's Such a Beautiful Day",
+      "year": 2012
+    },
+    "Wonder Woman": {
+      "id": 297762,
+      "poster": "/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+      "title": "Wonder Woman",
+      "year": 2017
+    },
+    "Edge of Tomorrow": {
+      "id": 137113,
+      "poster": "/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
+      "title": "Edge of Tomorrow",
+      "year": 2014
+    },
+    "Zero Dark Thirty": {
+      "id": 97630,
+      "poster": "/wNSdSSxowM3WIqmPJNg3RagYbwP.jpg",
+      "title": "Zero Dark Thirty",
+      "year": 2012
+    },
+    "The Report": {
+      "id": 524348,
+      "poster": "/sG5NI6TMNR9ftOdTIXmG0hrBYSY.jpg",
+      "title": "The Report",
+      "year": 2019
+    },
+    "Inherent Vice": {
+      "id": 171274,
+      "poster": "/pfVua7TzzttOh3RTOuBqT7xN0oY.jpg",
+      "title": "Inherent Vice",
+      "year": 2014
+    },
+    "Only God Forgives": {
+      "id": 77987,
+      "poster": "/kWjjFSng1JttmDRwDROoGcIArEh.jpg",
+      "title": "Only God Forgives",
+      "year": 2013
+    },
+    "Prisoners": {
+      "id": 146233,
+      "poster": "/uhviyknTT5cEQXbn6vWIqfM4vGm.jpg",
+      "title": "Prisoners",
+      "year": 2013
+    },
+    "Enemy": {
+      "id": 181886,
+      "poster": "/vf40tyDRKZsBmaLsYeopzfFLzLx.jpg",
+      "title": "Enemy",
+      "year": 2014
+    },
+    "Sicario": {
+      "id": 273481,
+      "poster": "/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+      "title": "Sicario",
+      "year": 2015
+    },
+    "Sicario: Day of the Soldado": {
+      "id": 400535,
+      "poster": "/qcLYofEhNh51Sk1jUWjmKHLzkqw.jpg",
+      "title": "Sicario: Day of the Soldado",
+      "year": 2018
+    },
+    "Blade Runner 2049": {
+      "id": 335984,
+      "poster": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+      "title": "Blade Runner 2049",
+      "year": 2017
+    },
+    "Casino Royale": {
+      "id": 36557,
+      "poster": "/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
+      "title": "Casino Royale",
+      "year": 2006
+    },
+    "Django Unchained": {
+      "id": 68718,
+      "poster": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+      "title": "Django Unchained",
+      "year": 2012
+    },
+    "The Hateful Eight": {
+      "id": 273248,
+      "poster": "/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+      "title": "The Hateful Eight",
+      "year": 2015
+    },
+    "Inglourious Basterds": {
+      "id": 16869,
+      "poster": "/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg",
+      "title": "Inglourious Basterds",
+      "year": 2009
+    },
+    "The Big Short": {
+      "id": 318846,
+      "poster": "/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg",
+      "title": "The Big Short",
+      "year": 2015
+    },
+    "Boyhood": {
+      "id": 85350,
+      "poster": "/2BvtvDUyxiMJ4dmKfiQf4qdOHQN.jpg",
+      "title": "Boyhood",
+      "year": 2014
+    },
+    "Zodiac": {
+      "id": 1949,
+      "poster": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+      "title": "Zodiac",
+      "year": 2007
+    },
+    "The Girl with the Dragon Tattoo": {
+      "id": 65754,
+      "poster": "/8bokS83zGdhaXgN9tjidUKmAftW.jpg",
+      "title": "The Girl with the Dragon Tattoo",
+      "year": 2011
+    },
+    "True Grit": {
+      "id": 44264,
+      "poster": "/tCrB8pcjadZjsDk7rleGJaIv78k.jpg",
+      "title": "True Grit",
+      "year": 2010
+    },
+    "Hail, Caesar!": {
+      "id": 270487,
+      "poster": "/qvecZ7WyemhGW8fuJ8190p472jQ.jpg",
+      "title": "Hail, Caesar!",
+      "year": 2016
+    },
+    "The Ballad of Buster Scruggs": {
+      "id": 537996,
+      "poster": "/voxl654m7p36y8FLu8oQD7dfwwK.jpg",
+      "title": "The Ballad of Buster Scruggs",
+      "year": 2018
+    },
+    "Before Sunrise": {
+      "id": 76,
+      "poster": "/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg",
+      "title": "Before Sunrise",
+      "year": 1995
+    },
+    "Before Sunset": {
+      "id": 80,
+      "poster": "/4sW5XH9ZfYXpvFzev00S1IGAEbg.jpg",
+      "title": "Before Sunset",
+      "year": 2004
+    },
+    "La La Land": {
+      "id": 313369,
+      "poster": "/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+      "title": "La La Land",
+      "year": 2016
+    },
+    "First Man": {
+      "id": 369972,
+      "poster": "/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
+      "title": "First Man",
+      "year": 2018
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Marriage Story": {
+      "id": 492188,
+      "poster": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+      "title": "Marriage Story",
+      "year": 2019
+    }
+  }
+}

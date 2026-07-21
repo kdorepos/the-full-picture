@@ -1,0 +1,340 @@
+{
+  "slug": "sinners-is-for-the-sickos-the-cinephiles-and-you-with-ryan-c",
+  "title": "‘Sinners’ Is for the Sickos, the Cinephiles and You, with Ryan Coogler!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Van Lathan",
+    "Amanda Dobbins"
+  ],
+  "published": "2025-04-17",
+  "runtimeMin": 103,
+  "format": "Sean, Van Lathan, and Amanda Dobbins spend an hour on Ryan Coogler's original vampire movie 'Sinners': the Delta blues, the musical centerpiece, the morality of who turns, and the box-office math on an R-rated horror movie. Then Coogler joins Sean to talk cameras, format, and the 25-year copyright deal he cut with Warner Bros.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘Sinners’",
+      "note": "with Van Lathan and Amanda Dobbins",
+      "films": [
+        {
+          "title": "Sinners",
+          "year": 2025,
+          "note": "Coogler's first original film: 1932 Clarksdale, Mississippi, where twin brothers (Michael B. Jordan in a dual role as Smoke and Stack) come home to open a juke joint the same night a centuries-old Irish vampire, Jack O'Connell, starts building his flock. Three acts: 40 minutes of Delta-blues world-building, a musical set piece that folds a century of Black and Irish music into one shot, then a survival siege, shot on IMAX 65mm and 5-perf System 65. Newcomer Miles Caton plays Preacher Boy, alongside Hailee Steinfeld, Delroy Lindo, and Wunmi Mosaku. The group reads it as a movie about temptation and who counts as a sinner; the post-credits scene is set in 1992."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Ryan Coogler on ‘Sinners’",
+      "guest": "Ryan Coogler on",
+      "films": [
+        {
+          "title": "Sinners",
+          "year": 2025,
+          "note": "Coogler on making something all his own after five studio pictures, and racing to shoot it before his longtime collaborators' lives pulled them elsewhere. On the cameras: Nolan told him not to be scared of the format, and the difference between the sync-sound System 65 body (too heavy to handhold) and the louder high-speed one. On the musical centerpiece, the moment that could 'only happen in a movie,' and pairing the vampires' cosmic horror with something cosmically beautiful. His Irish first name is why the Irish-folk-and-Delta-blues connection was on his mind."
+        },
+        {
+          "title": "Don't Look Now",
+          "year": 1973,
+          "note": "The film Coogler watched for himself before shooting; he'd owned it for years and it was 'clawing at' him."
+        },
+        {
+          "title": "One of Them Days",
+          "year": 2025,
+          "note": "His pick for the last great thing he saw: Keke Palmer and SZA, written by Syreeta Singleton. He loved that it felt like 'Friday' but feminine, and how it celebrated the resourcefulness of Black women."
+        },
+        {
+          "title": "Bring It On",
+          "year": 2000,
+          "note": "The movie he and his producer-wife saw on their first date: Peyton Reed's cheerleading comedy, part of his case for the theatrical experience."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "The vampire-movie lineage",
+      "films": [
+        "From Dusk Till Dawn",
+        "The Thing",
+        "Tales from the Crypt: Demon Knight",
+        "Twilight",
+        "A Nightmare on Elm Street 4: The Dream Master",
+        "Crossroads"
+      ]
+    },
+    {
+      "group": "Coogler's other films",
+      "films": [
+        "Black Panther",
+        "Black Panther: Wakanda Forever",
+        "Creed",
+        "Creed III",
+        "Fruitvale Station"
+      ]
+    },
+    {
+      "group": "The box-office and industry talk",
+      "films": [
+        "Companion",
+        "A Minecraft Movie",
+        "Thunderbolts",
+        "Superman",
+        "The Fantastic Four: First Steps",
+        "One Battle After Another",
+        "Once Upon a Time in Hollywood"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Joker: Folie à Deux",
+        "Oppenheimer",
+        "The Princess Bride",
+        "Blade",
+        "8 Mile",
+        "Moonlight",
+        "Ghost Dog: The Way of the Samurai",
+        "Brigadoon",
+        "Dunkirk",
+        "Ben-Hur",
+        "The Dark Knight",
+        "The Odyssey"
+      ]
+    }
+  ],
+  "tmdbOverrides": {
+    "The Fantastic Four: First Steps": 617126,
+    "The Odyssey": 1368337
+  },
+  "excluded": {
+    "TV": [
+      "In Living Color",
+      "The Wire"
+    ],
+    "Podcasts": [
+      "Higher Learning",
+      "The Midnight Boys",
+      "Jam Session",
+      "The Press Box",
+      "The Rewatchables",
+      "The Zach Lowe Show"
+    ],
+    "Ads": [
+      "Amazon Prime",
+      "Tremfaya",
+      "State Farm",
+      "Wells Fargo Autograph Journey",
+      "Whole Foods Market",
+      "White Claw"
+    ]
+  },
+  "tmdb": {
+    "Sinners": {
+      "id": 1233413,
+      "poster": "/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+      "title": "Sinners",
+      "year": 2025
+    },
+    "Don't Look Now": {
+      "id": 931,
+      "poster": "/ivWsU3QtcstImCTOjItsH0SAbNn.jpg",
+      "title": "Don't Look Now",
+      "year": 1973
+    },
+    "One of Them Days": {
+      "id": 1280672,
+      "poster": "/ccn6bFUA5DECjA3Lo0CuJqGNQCv.jpg",
+      "title": "One of Them Days",
+      "year": 2025
+    },
+    "Bring It On": {
+      "id": 1588,
+      "poster": "/bnVby0qI0dS7YunbShP7mw68HY3.jpg",
+      "title": "Bring It On",
+      "year": 2000
+    },
+    "From Dusk Till Dawn": {
+      "id": 755,
+      "poster": "/sV3kIAmvJ9tPz4Lq5fuf9LLMxte.jpg",
+      "title": "From Dusk Till Dawn",
+      "year": 1996
+    },
+    "The Thing": {
+      "id": 1091,
+      "poster": "/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+      "title": "The Thing",
+      "year": 1982
+    },
+    "Tales from the Crypt: Demon Knight": {
+      "id": 9059,
+      "poster": "/8uD5yk0ECebJ59lhvhTBKhUojc.jpg",
+      "title": "Tales from the Crypt: Demon Knight",
+      "year": 1995
+    },
+    "Twilight": {
+      "id": 8966,
+      "poster": "/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
+      "title": "Twilight",
+      "year": 2008
+    },
+    "A Nightmare on Elm Street 4: The Dream Master": {
+      "id": 10131,
+      "poster": "/boStYG7jKdoIZTduiOOsUVknD13.jpg",
+      "title": "A Nightmare on Elm Street 4: The Dream Master",
+      "year": 1988
+    },
+    "Crossroads": {
+      "id": 15392,
+      "poster": "/2sMo7gwZ8L7KttiW210T0ueJ2eX.jpg",
+      "title": "Crossroads",
+      "year": 1986
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "Black Panther: Wakanda Forever": {
+      "id": 505642,
+      "poster": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+      "title": "Black Panther: Wakanda Forever",
+      "year": 2022
+    },
+    "Creed": {
+      "id": 312221,
+      "poster": "/1BfTsk5VWuw8FCocAhCyqnRbEzq.jpg",
+      "title": "Creed",
+      "year": 2015
+    },
+    "Creed III": {
+      "id": 677179,
+      "poster": "/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg",
+      "title": "Creed III",
+      "year": 2023
+    },
+    "Fruitvale Station": {
+      "id": 157354,
+      "poster": "/oXSy3nEKFtfw5iRxdG8ouEFAnxs.jpg",
+      "title": "Fruitvale Station",
+      "year": 2013
+    },
+    "Companion": {
+      "id": 1084199,
+      "poster": "/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
+      "title": "Companion",
+      "year": 2025
+    },
+    "A Minecraft Movie": {
+      "id": 950387,
+      "poster": "/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+      "title": "A Minecraft Movie",
+      "year": 2025
+    },
+    "Thunderbolts": {
+      "id": 986056,
+      "poster": "/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
+      "title": "Thunderbolts*",
+      "year": 2025
+    },
+    "Superman": {
+      "id": 1061474,
+      "poster": "/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
+      "title": "Superman",
+      "year": 2025
+    },
+    "The Fantastic Four: First Steps": {
+      "id": 617126,
+      "poster": "/nf5qaSEvyYSNeFH0YhSs5EsBLX9.jpg",
+      "title": "The Fantastic 4: First Steps",
+      "year": 2025
+    },
+    "One Battle After Another": {
+      "id": 1054867,
+      "poster": "/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+      "title": "One Battle After Another",
+      "year": 2025
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Joker: Folie à Deux": {
+      "id": 889737,
+      "poster": "/aciP8Km0waTLXEYf5ybFK5CSUxl.jpg",
+      "title": "Joker: Folie à Deux",
+      "year": 2024
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "The Princess Bride": {
+      "id": 2493,
+      "poster": "/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+      "title": "The Princess Bride",
+      "year": 1987
+    },
+    "Blade": {
+      "id": 36647,
+      "poster": "/oWT70TvbsmQaqyphCZpsnQR7R32.jpg",
+      "title": "Blade",
+      "year": 1998
+    },
+    "8 Mile": {
+      "id": 65,
+      "poster": "/7BmQj8qE1FLuLTf7Xjf9sdIHzoa.jpg",
+      "title": "8 Mile",
+      "year": 2002
+    },
+    "Moonlight": {
+      "id": 376867,
+      "poster": "/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+      "title": "Moonlight",
+      "year": 2016
+    },
+    "Ghost Dog: The Way of the Samurai": {
+      "id": 4816,
+      "poster": "/gjcl07r9zgQ9tVo9alyHmysPFfX.jpg",
+      "title": "Ghost Dog: The Way of the Samurai",
+      "year": 1999
+    },
+    "Brigadoon": {
+      "id": 18283,
+      "poster": "/va3DcpyZDnnWdRB0FTPKzObo3Uz.jpg",
+      "title": "Brigadoon",
+      "year": 1954
+    },
+    "Dunkirk": {
+      "id": 374720,
+      "poster": "/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
+      "title": "Dunkirk",
+      "year": 2017
+    },
+    "Ben-Hur": {
+      "id": 665,
+      "poster": "/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+      "title": "Ben-Hur",
+      "year": 1959
+    },
+    "The Dark Knight": {
+      "id": 155,
+      "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    "The Odyssey": {
+      "id": 1368337,
+      "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "title": "The Odyssey",
+      "year": 2026
+    }
+  },
+  "spotifyEpisodeId": "1wMUlvjhTEvmSsU5URA7RK"
+}

@@ -1,0 +1,794 @@
+{
+  "slug": "the-action-movie-scene-draft",
+  "title": "The Action Movie Scene Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan"
+  ],
+  "published": "2024-05-17",
+  "runtimeMin": 107,
+  "format": "Sean, Amanda, and Chris Ryan draft action set pieces instead of movies: two scenes per host across the '80s, '90s, 2000s, 2010s, 2020s, and a wildcard round, from the Die Hard fire-hose jump to Paul riding the sandworm.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The news",
+      "note": "Cannes season, Costner vs. Coppola, and one more Fantastic Four casting update",
+      "films": [
+        {
+          "title": "Megalopolis",
+          "year": 2024,
+          "note": "Coppola's self-financed epic; the trailer just dropped and it's Cannes-bound, still without US distribution."
+        },
+        {
+          "title": "Horizon: An American Saga - Chapter 1",
+          "year": 2024,
+          "note": "Costner's self-financed four-part Western, Chapter 1 out June 28, off a combative Deadline interview ('I'm not Ahab')."
+        },
+        {
+          "title": "Challengers",
+          "year": 2024,
+          "note": "Headed to disc with no 4K and no special features, to Sean's dismay."
+        },
+        {
+          "title": "The Fall Guy",
+          "year": 2024,
+          "note": "The Gosling stuntman movie. Amanda's up for it, Andy wasn't."
+        },
+        {
+          "title": "Furiosa: A Mad Max Saga",
+          "year": 2024,
+          "note": "Part of the month's run of classical action, the through-line for the whole draft."
+        },
+        {
+          "title": "Kingdom of the Planet of the Apes",
+          "year": 2024,
+          "note": "The other May tentpole in that same wave."
+        }
+      ]
+    },
+    {
+      "kind": "draft",
+      "heading": "The teams",
+      "draftOf": "action movie scenes and set pieces",
+      "categories": [
+        "1980s",
+        "1990s",
+        "2000s",
+        "2010s",
+        "2020s",
+        "Wildcard"
+      ],
+      "teams": [
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Aliens",
+              "year": 1986,
+              "category": "1980s",
+              "note": "The Marine ambush in the hive, no bullets allowed: 'what are we supposed to use, harsh language?'"
+            },
+            {
+              "title": "The Untouchables",
+              "year": 1987,
+              "category": "1980s",
+              "note": "De Palma's Potemkin-steps train-station shootout, baby carriage and all."
+            },
+            {
+              "title": "Heat",
+              "year": 1995,
+              "category": "1990s",
+              "note": "The downtown bank-robbery shootout, machine-gun fire echoing through the LA canyon. She wore the shirt."
+            },
+            {
+              "title": "Speed",
+              "year": 1994,
+              "category": "1990s",
+              "note": "The bus jumping the gap in the unfinished freeway."
+            },
+            {
+              "title": "War of the Worlds",
+              "year": 2005,
+              "category": "2000s",
+              "note": "The tripods rising out of the street and vaporizing the crowd."
+            },
+            {
+              "title": "Oldboy",
+              "year": 2003,
+              "category": "2000s",
+              "note": "Park Chan-wook's single-take hallway hammer fight."
+            },
+            {
+              "title": "Sicario",
+              "year": 2015,
+              "category": "2010s",
+              "note": "The border-crossing traffic ambush, all buildup and rules of engagement."
+            },
+            {
+              "title": "Rogue One: A Star Wars Story",
+              "year": 2016,
+              "category": "2010s",
+              "note": "Vader's corridor rampage, 90 seconds of horror movie."
+            },
+            {
+              "title": "Oppenheimer",
+              "year": 2023,
+              "category": "2020s",
+              "note": "The Trinity test, a set piece built on the silence before the blast."
+            },
+            {
+              "title": "The Northman",
+              "year": 2022,
+              "category": "2020s",
+              "note": "The village raid, Skarsgård tearing through it in one long take."
+            },
+            {
+              "title": "The Wild Bunch",
+              "year": 1969,
+              "category": "Wildcard",
+              "note": "Peckinpah's final shootout."
+            },
+            {
+              "title": "Tenet",
+              "year": 2020,
+              "category": "Wildcard",
+              "note": "The Freeport heist, where the fight first runs backward."
+            }
+          ]
+        },
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Die Hard",
+              "year": 1988,
+              "category": "1980s",
+              "note": "McClane's fire-hose jump off the exploding roof, bare feet across the glass. McTiernan's most legible action."
+            },
+            {
+              "title": "Scarface",
+              "year": 1983,
+              "category": "1980s",
+              "note": "'Say hello to my little friend': Tony's coked-out last stand. More De Palma."
+            },
+            {
+              "title": "Jurassic Park",
+              "year": 1993,
+              "category": "1990s",
+              "note": "'Hello, T-Rex': the paddock breakout, from the ripple in the water glass."
+            },
+            {
+              "title": "Terminator 2: Judgment Day",
+              "year": 1991,
+              "category": "1990s",
+              "note": "The T-800 vs. T-1000 final battle in the steel mill."
+            },
+            {
+              "title": "The Dark Knight",
+              "year": 2008,
+              "category": "2000s",
+              "note": "The downtown chase and the truck flipping perpendicular to the sky."
+            },
+            {
+              "title": "Kill Bill: Vol. 1",
+              "year": 2003,
+              "category": "2000s",
+              "note": "The Crazy 88 massacre at the House of Blue Leaves, Tarantino at his most kinetic."
+            },
+            {
+              "title": "Mission: Impossible - Fallout",
+              "year": 2018,
+              "category": "2010s",
+              "note": "The bathroom brawl: Cavill reloading his biceps."
+            },
+            {
+              "title": "Captain America: The Winter Soldier",
+              "year": 2014,
+              "category": "2010s",
+              "note": "The elevator fight, Hydra piling in three at a time. The one time Marvel turns into John Wick."
+            },
+            {
+              "title": "Top Gun: Maverick",
+              "year": 2022,
+              "category": "2020s",
+              "note": "The final mission: the video-game briefing paying off in the trench run, the drop, the climb."
+            },
+            {
+              "title": "Ambulance",
+              "year": 2022,
+              "category": "2020s",
+              "note": "The moving-ambulance heart surgery. Bay, the maestro of mayhem."
+            },
+            {
+              "title": "Jaws",
+              "year": 1975,
+              "category": "Wildcard",
+              "note": "Quint's demise, the shark finally revealed full scale."
+            },
+            {
+              "title": "Dune: Part Two",
+              "year": 2024,
+              "category": "Wildcard",
+              "note": "Paul mounting and riding Shai-Hulud, the scene that gets the theater on its feet."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Raiders of the Lost Ark",
+              "year": 1981,
+              "category": "1980s",
+              "note": "The truck chase, Ford dragged under the chassis and back up."
+            },
+            {
+              "title": "Top Gun",
+              "year": 1986,
+              "category": "1980s",
+              "note": "The final dogfight. Re-engage."
+            },
+            {
+              "title": "Mission: Impossible",
+              "year": 1996,
+              "category": "1990s",
+              "note": "The Langley vault heist, Cruise suspended an inch off the floor."
+            },
+            {
+              "title": "The Fugitive",
+              "year": 1993,
+              "category": "1990s",
+              "note": "Kimble through the storm drains and off the dam."
+            },
+            {
+              "title": "Casino Royale",
+              "year": 2006,
+              "category": "2000s",
+              "note": "The parkour chase up the construction crane."
+            },
+            {
+              "title": "The Bourne Identity",
+              "year": 2002,
+              "category": "2000s",
+              "note": "The embassy escape: grab the map, climb down the wall."
+            },
+            {
+              "title": "Mission: Impossible - Fallout",
+              "year": 2018,
+              "category": "2010s",
+              "note": "The HALO jump: Cavill passing out midair and landing on his feet."
+            },
+            {
+              "title": "Fast Five",
+              "year": 2011,
+              "category": "2010s",
+              "note": "The vault dragged through Rio behind two cars. The dumbest, best thing."
+            },
+            {
+              "title": "John Wick: Chapter 4",
+              "year": 2023,
+              "category": "2020s",
+              "note": "The tumble down the Sacré-Cœur steps."
+            },
+            {
+              "title": "Mission: Impossible - Dead Reckoning Part One",
+              "year": 2023,
+              "category": "2020s",
+              "note": "The Rome car chase in the tiny Fiat."
+            },
+            {
+              "title": "Titanic",
+              "year": 1997,
+              "category": "Wildcard",
+              "note": "The ship going down: 'this is like the Trinity test.'"
+            },
+            {
+              "title": "The Town",
+              "year": 2010,
+              "category": "Wildcard",
+              "note": "The Fenway Park heist getaway."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "The Matrix",
+        "Point Break",
+        "The Bourne Supremacy",
+        "The Lord of the Rings: The Two Towers",
+        "Mad Max 2",
+        "Mad Max: Fury Road",
+        "Inglourious Basterds",
+        "Flight",
+        "Skyfall",
+        "World War Z",
+        "Superman II",
+        "Inception",
+        "Hard Boiled",
+        "Scream",
+        "The Raid 2",
+        "House of Flying Daggers",
+        "Shaun of the Dead",
+        "Scott Pilgrim vs. the World",
+        "Atomic Blonde",
+        "Haywire",
+        "Wind River",
+        "Road House",
+        "6 Underground"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Also mentioned",
+      "films": [
+        "Dances with Wolves",
+        "Deadpool & Wolverine",
+        "The Fantastic Four: First Steps",
+        "Apocalypse Now",
+        "First Cow",
+        "Asteroid City",
+        "Jerry Maguire",
+        "The Thomas Crown Affair"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Dune: Prophecy",
+      "The Continental",
+      "Landman",
+      "The Bear"
+    ],
+    "Video games": [
+      "The Legend of Zelda",
+      "Madden NFL",
+      "FIFA"
+    ],
+    "Ads": [
+      "The Town (podcast)"
+    ]
+  },
+  "tmdbOverrides": {
+    "Road House": 10135,
+    "The Fantastic Four: First Steps": 617126
+  },
+  "tmdb": {
+    "Megalopolis": {
+      "id": 592831,
+      "poster": "/8Sok3HNA3r1GHnK2lCytHyBz1A.jpg",
+      "title": "Megalopolis",
+      "year": 2024
+    },
+    "Horizon: An American Saga - Chapter 1": {
+      "id": 932086,
+      "poster": "/posWMQwX1HCIK26TGL3niJp5fg0.jpg",
+      "title": "Horizon: An American Saga - Chapter 1",
+      "year": 2024
+    },
+    "Challengers": {
+      "id": 937287,
+      "poster": "/H6vke7zGiuLsz4v4RPeReb9rsv.jpg",
+      "title": "Challengers",
+      "year": 2024
+    },
+    "The Fall Guy": {
+      "id": 746036,
+      "poster": "/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg",
+      "title": "The Fall Guy",
+      "year": 2024
+    },
+    "Furiosa: A Mad Max Saga": {
+      "id": 786892,
+      "poster": "/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
+      "title": "Furiosa: A Mad Max Saga",
+      "year": 2024
+    },
+    "Kingdom of the Planet of the Apes": {
+      "id": 653346,
+      "poster": "/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
+      "title": "Kingdom of the Planet of the Apes",
+      "year": 2024
+    },
+    "Aliens": {
+      "id": 679,
+      "poster": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "title": "Aliens",
+      "year": 1986
+    },
+    "The Untouchables": {
+      "id": 117,
+      "poster": "/tPq0R4jTO4Ey8ZspFaWK9wGA4Ls.jpg",
+      "title": "The Untouchables",
+      "year": 1987
+    },
+    "Heat": {
+      "id": 949,
+      "poster": "/e09dLw1Ljtccd2P4NsuUvVtS5du.jpg",
+      "title": "Heat",
+      "year": 1995
+    },
+    "Speed": {
+      "id": 1637,
+      "poster": "/82PkCE4R95KhHICUDF7G4Ly2z3l.jpg",
+      "title": "Speed",
+      "year": 1994
+    },
+    "War of the Worlds": {
+      "id": 74,
+      "poster": "/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
+      "title": "War of the Worlds",
+      "year": 2005
+    },
+    "Oldboy": {
+      "id": 670,
+      "poster": "/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg",
+      "title": "Oldboy",
+      "year": 2003
+    },
+    "Sicario": {
+      "id": 273481,
+      "poster": "/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+      "title": "Sicario",
+      "year": 2015
+    },
+    "Rogue One: A Star Wars Story": {
+      "id": 330459,
+      "poster": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+      "title": "Rogue One: A Star Wars Story",
+      "year": 2016
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "The Northman": {
+      "id": 639933,
+      "poster": "/aSSJMnHknzKjlZ6zybwD7eyJ4Po.jpg",
+      "title": "The Northman",
+      "year": 2022
+    },
+    "The Wild Bunch": {
+      "id": 576,
+      "poster": "/8j9yEC3xjy1PJDSizIbaxcHaSph.jpg",
+      "title": "The Wild Bunch",
+      "year": 1969
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "Die Hard": {
+      "id": 562,
+      "poster": "/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg",
+      "title": "Die Hard",
+      "year": 1988
+    },
+    "Scarface": {
+      "id": 111,
+      "poster": "/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+      "title": "Scarface",
+      "year": 1983
+    },
+    "Jurassic Park": {
+      "id": 329,
+      "poster": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "title": "Jurassic Park",
+      "year": 1993
+    },
+    "Terminator 2: Judgment Day": {
+      "id": 280,
+      "poster": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991
+    },
+    "The Dark Knight": {
+      "id": 155,
+      "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "title": "The Dark Knight",
+      "year": 2008
+    },
+    "Kill Bill: Vol. 1": {
+      "id": 24,
+      "poster": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+      "title": "Kill Bill: Vol. 1",
+      "year": 2003
+    },
+    "Mission: Impossible - Fallout": {
+      "id": 353081,
+      "poster": "/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+      "title": "Mission: Impossible - Fallout",
+      "year": 2018
+    },
+    "Captain America: The Winter Soldier": {
+      "id": 100402,
+      "poster": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+      "title": "Captain America: The Winter Soldier",
+      "year": 2014
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    },
+    "Ambulance": {
+      "id": 763285,
+      "poster": "/hUbgg3mMSbY9PlpTxBo4IFUVSd6.jpg",
+      "title": "Ambulance",
+      "year": 2022
+    },
+    "Jaws": {
+      "id": 578,
+      "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "title": "Jaws",
+      "year": 1975
+    },
+    "Dune: Part Two": {
+      "id": 693134,
+      "poster": "/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+      "title": "Dune: Part Two",
+      "year": 2024
+    },
+    "Raiders of the Lost Ark": {
+      "id": 85,
+      "poster": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+      "title": "Raiders of the Lost Ark",
+      "year": 1981
+    },
+    "Top Gun": {
+      "id": 744,
+      "poster": "/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+      "title": "Top Gun",
+      "year": 1986
+    },
+    "Mission: Impossible": {
+      "id": 954,
+      "poster": "/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
+      "title": "Mission: Impossible",
+      "year": 1996
+    },
+    "The Fugitive": {
+      "id": 5503,
+      "poster": "/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg",
+      "title": "The Fugitive",
+      "year": 1993
+    },
+    "Casino Royale": {
+      "id": 36557,
+      "poster": "/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
+      "title": "Casino Royale",
+      "year": 2006
+    },
+    "The Bourne Identity": {
+      "id": 2501,
+      "poster": "/aP8swke3gmowbkfZ6lmNidu0y9p.jpg",
+      "title": "The Bourne Identity",
+      "year": 2002
+    },
+    "Fast Five": {
+      "id": 51497,
+      "poster": "/gEfQjjQwY7fh5bI4GlG0RrBu7Pz.jpg",
+      "title": "Fast Five",
+      "year": 2011
+    },
+    "John Wick: Chapter 4": {
+      "id": 603692,
+      "poster": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+      "title": "John Wick: Chapter 4",
+      "year": 2023
+    },
+    "Mission: Impossible - Dead Reckoning Part One": {
+      "id": 575264,
+      "poster": "/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "year": 2023
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "The Town": {
+      "id": 23168,
+      "poster": "/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
+      "title": "The Town",
+      "year": 2010
+    },
+    "The Matrix": {
+      "id": 603,
+      "poster": "/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+      "title": "The Matrix",
+      "year": 1999
+    },
+    "Point Break": {
+      "id": 1089,
+      "poster": "/tlbERIghrQ4oofqlbF7H0K0EYnx.jpg",
+      "title": "Point Break",
+      "year": 1991
+    },
+    "The Bourne Supremacy": {
+      "id": 2502,
+      "poster": "/jupG9sFT64YwM8PSkwkUD2wHcYD.jpg",
+      "title": "The Bourne Supremacy",
+      "year": 2004
+    },
+    "The Lord of the Rings: The Two Towers": {
+      "id": 121,
+      "poster": "/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002
+    },
+    "Mad Max 2": {
+      "id": 8810,
+      "poster": "/l1KVEhkGDpWRzQ0VqIhZqDDuOim.jpg",
+      "title": "Mad Max 2",
+      "year": 1981
+    },
+    "Mad Max: Fury Road": {
+      "id": 76341,
+      "poster": "/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+      "title": "Mad Max: Fury Road",
+      "year": 2015
+    },
+    "Inglourious Basterds": {
+      "id": 16869,
+      "poster": "/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg",
+      "title": "Inglourious Basterds",
+      "year": 2009
+    },
+    "Flight": {
+      "id": 87502,
+      "poster": "/tFsHDNclXoCKy2xMxskzXXMaFJS.jpg",
+      "title": "Flight",
+      "year": 2012
+    },
+    "Skyfall": {
+      "id": 37724,
+      "poster": "/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
+      "title": "Skyfall",
+      "year": 2012
+    },
+    "World War Z": {
+      "id": 72190,
+      "poster": "/aCnVdvExw6UWSeQfr0tUH3jr4qG.jpg",
+      "title": "World War Z",
+      "year": 2013
+    },
+    "Superman II": {
+      "id": 8536,
+      "poster": "/3xk5cno9BHcnwc97XO9k21aI1Zi.jpg",
+      "title": "Superman II",
+      "year": 1980
+    },
+    "Inception": {
+      "id": 27205,
+      "poster": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+      "title": "Inception",
+      "year": 2010
+    },
+    "Hard Boiled": {
+      "id": 11782,
+      "poster": "/oMqr4CGGqVlfI8DdrSelK1e9aFM.jpg",
+      "title": "Hard Boiled",
+      "year": 1992
+    },
+    "Scream": {
+      "id": 4232,
+      "poster": "/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+      "title": "Scream",
+      "year": 1996
+    },
+    "The Raid 2": {
+      "id": 180299,
+      "poster": "/mlGuKlIDLdPhYjz1QBXi0FmyYik.jpg",
+      "title": "The Raid 2",
+      "year": 2014
+    },
+    "House of Flying Daggers": {
+      "id": 9550,
+      "poster": "/93feGsGiCtG5ymrRcErUgBsdo6v.jpg",
+      "title": "House of Flying Daggers",
+      "year": 2004
+    },
+    "Shaun of the Dead": {
+      "id": 747,
+      "poster": "/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg",
+      "title": "Shaun of the Dead",
+      "year": 2004
+    },
+    "Scott Pilgrim vs. the World": {
+      "id": 22538,
+      "poster": "/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg",
+      "title": "Scott Pilgrim vs. the World",
+      "year": 2010
+    },
+    "Atomic Blonde": {
+      "id": 341013,
+      "poster": "/kV9R5h0Yct1kR8Hf8sJ1nX0Vz4x.jpg",
+      "title": "Atomic Blonde",
+      "year": 2017
+    },
+    "Haywire": {
+      "id": 70435,
+      "poster": "/c9fJ0dYC30NnE9k2p61c0dqlZqW.jpg",
+      "title": "Haywire",
+      "year": 2011
+    },
+    "Wind River": {
+      "id": 395834,
+      "poster": "/pySivdR845Hom4u4T2WNkJxe6Ad.jpg",
+      "title": "Wind River",
+      "year": 2017
+    },
+    "Road House": {
+      "id": 10135,
+      "poster": "/60VHW8heV11uLSCnkjk6iGRQatA.jpg",
+      "title": "Road House",
+      "year": 1989
+    },
+    "6 Underground": {
+      "id": 509967,
+      "poster": "/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg",
+      "title": "6 Underground",
+      "year": 2019
+    },
+    "Dances with Wolves": {
+      "id": 581,
+      "poster": "/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg",
+      "title": "Dances with Wolves",
+      "year": 1990
+    },
+    "Deadpool & Wolverine": {
+      "id": 533535,
+      "poster": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+      "title": "Deadpool & Wolverine",
+      "year": 2024
+    },
+    "The Fantastic Four: First Steps": {
+      "id": 617126,
+      "poster": "/nf5qaSEvyYSNeFH0YhSs5EsBLX9.jpg",
+      "title": "The Fantastic 4: First Steps",
+      "year": 2025
+    },
+    "Apocalypse Now": {
+      "id": 28,
+      "poster": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+      "title": "Apocalypse Now",
+      "year": 1979
+    },
+    "First Cow": {
+      "id": 558582,
+      "poster": "/yS41crZ1i0fFxCQbuL7I1Y1VBwm.jpg",
+      "title": "First Cow",
+      "year": 2020
+    },
+    "Asteroid City": {
+      "id": 747188,
+      "poster": "/hfo7pvL9Fys7rocfL4VOzw9qDEQ.jpg",
+      "title": "Asteroid City",
+      "year": 2023
+    },
+    "Jerry Maguire": {
+      "id": 9390,
+      "poster": "/lABvGN7fDk5ifnwZoxij6G96t2w.jpg",
+      "title": "Jerry Maguire",
+      "year": 1996
+    },
+    "The Thomas Crown Affair": {
+      "id": 913,
+      "poster": "/5yqs1MVlqdIg1DY5adC5jFx3d7j.jpg",
+      "title": "The Thomas Crown Affair",
+      "year": 1999
+    }
+  },
+  "spotifyEpisodeId": "2ScvEw0CbbkKyRsMaiEo8H"
+}

@@ -1,0 +1,981 @@
+{
+  "slug": "500th-episode-call-in-spectacular",
+  "title": "500th Episode Call-In Spectacular!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Bobby Wagner"
+  ],
+  "published": "2022-09-09",
+  "runtimeMin": 117,
+  "format": "The 500th episode is a listener mailbag: no reviews, just voicemails and the movies they shake loose, from hometown theaters and first dates to college and the film you'd hand your kid.",
+  "tmdbOverrides": {
+    "The End of the World": 1019422
+  },
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Favorite episodes and interviews",
+      "note": "the first voicemail",
+      "films": [
+        {
+          "title": "The Social Network",
+          "year": 2010,
+          "note": "The consensus No. 1 when all three did their best-of-the-decade lists."
+        },
+        {
+          "title": "Arrival",
+          "year": 2016,
+          "note": "Chris Ryan's decade-list surprise; his Villeneuve pick."
+        },
+        {
+          "title": "The Lost City of Z",
+          "year": 2016,
+          "note": "Sean's first James Gray interview, the one that made him want to keep doing the show."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "A movie you saw your childhood in",
+      "note": "Skyler asks about Boyhood",
+      "films": [
+        {
+          "title": "Boyhood",
+          "year": 2014,
+          "note": "The caller's pick, a child-of-divorce reference point."
+        },
+        {
+          "title": "Lady Bird",
+          "year": 2017,
+          "note": "Amanda: the mother-daughter, almost-out-of-high-school movie she saw her own brain on screen in."
+        },
+        {
+          "title": "Creed",
+          "year": 2015,
+          "note": "Sean's joke answer: rising to power with Philadelphia and Meek Mill behind you."
+        },
+        {
+          "title": "The Squid and the Whale",
+          "year": 2005,
+          "note": "Sean: 'this is my personality', mean, a little sad, hopefully funny."
+        },
+        {
+          "title": "Dazed and Confused",
+          "year": 1993
+        },
+        {
+          "title": "American Graffiti",
+          "year": 1973
+        },
+        {
+          "title": "Network",
+          "year": 1976,
+          "note": "Sean's real answer: it carved a path forward rather than reflecting the past."
+        },
+        {
+          "title": "The Devil Wears Prada",
+          "year": 2006,
+          "note": "Amanda: part of why she ended up in magazines."
+        },
+        {
+          "title": "You've Got Mail",
+          "year": 1998
+        },
+        {
+          "title": "All the President's Men",
+          "year": 1976
+        },
+        {
+          "title": "Working Girl",
+          "year": 1988,
+          "note": "On the iPad in the hospital after Knox was born."
+        },
+        {
+          "title": "Skyfall",
+          "year": 2012,
+          "note": "Also on the post-birth iPad."
+        },
+        {
+          "title": "A Few Good Men",
+          "year": 1992
+        },
+        {
+          "title": "Ocean's Eleven",
+          "year": 2001
+        },
+        {
+          "title": "Casablanca",
+          "year": 1943
+        },
+        {
+          "title": "The Sandlot",
+          "year": 1993,
+          "note": "Bobby's answer, the earnest childhood-sports movie that shaped how he approached media."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The theaters we grew up in",
+      "note": "Arnold on hometown moviegoing",
+      "films": [
+        {
+          "title": "The Departed",
+          "year": 2006
+        },
+        {
+          "title": "Casino Royale",
+          "year": 2006
+        },
+        {
+          "title": "Ratatouille",
+          "year": 2007
+        },
+        {
+          "title": "Once Upon a Time in the West",
+          "year": 1968,
+          "note": "Sean at 15 at the Cinema Arts Center, the first old movie he saw in a theater, eight people in the room."
+        },
+        {
+          "title": "Avatar",
+          "year": 2009,
+          "note": "Amanda saw it at the Farmingdale UA."
+        },
+        {
+          "title": "Minions: The Rise of Gru",
+          "year": 2022,
+          "note": "Amanda's much-Instagrammed solo-adult ticket at the AMC Phipps Plaza 14."
+        },
+        {
+          "title": "North",
+          "year": 1994,
+          "note": "The end of Amanda's Rob Reiner streak, a birthday-party screening."
+        },
+        {
+          "title": "Jerry Maguire",
+          "year": 1996,
+          "note": "Sat next to her mother through the sex scene."
+        },
+        {
+          "title": "Top Five",
+          "year": 2014,
+          "note": "One of Zach's first trips; her dad asked if it would win Best Picture."
+        },
+        {
+          "title": "Morning Glory",
+          "year": 2010,
+          "note": "Her dad also asked if this would win Best Picture."
+        },
+        {
+          "title": "Star Wars: Episode III - Revenge of the Sith",
+          "year": 2005,
+          "note": "A 2 p.m. hooky screening with her dad, the only two people in the theater, neither having seen the first two prequels."
+        },
+        {
+          "title": "Rogue One: A Star Wars Story",
+          "year": 2016,
+          "note": "Sean and Chris Ryan's pick for best Star Wars movie of the last 10 years, cited in the Andor tangent."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The role you'd CGI yourself into",
+      "note": "Graylin's transfiguration question",
+      "films": [
+        {
+          "title": "The Talented Mr. Ripley",
+          "year": 1999,
+          "note": "Amanda: Gwyneth Paltrow's part, minus the murder."
+        },
+        {
+          "title": "The Thing",
+          "year": 1982,
+          "note": "Sean would be Kurt Russell, before deciding it doesn't fit the question."
+        },
+        {
+          "title": "Primal Fear",
+          "year": 1996,
+          "note": "Callback to the biopic-casting bit: Edward Norton as Sean."
+        },
+        {
+          "title": "Fight Club",
+          "year": 1999,
+          "note": "Where the Norton/Fincher casting joke lands, as Sean descends into IKEA-catalog fatherhood."
+        },
+        {
+          "title": "The Natural",
+          "year": 1984,
+          "note": "Bobby would be Redford. Dingers."
+        },
+        {
+          "title": "Scarface",
+          "year": 1983
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "First-date movie stories",
+      "note": "Logan asks for date-night disasters",
+      "films": [
+        {
+          "title": "At First Sight",
+          "year": 1999,
+          "note": "Sean's pre-Eileen movie date: she called it one of the best movies ever, and they were doomed."
+        },
+        {
+          "title": "Enemy at the Gates",
+          "year": 2001,
+          "note": "A high-school first date wrecked by hours of clammy hand-holding."
+        },
+        {
+          "title": "The Wrestler",
+          "year": 2008,
+          "note": "Amanda fought about the ending and broke up (with Adam Driver)."
+        },
+        {
+          "title": "What's Your Number?",
+          "year": 2011,
+          "note": "She and Zach met outside this screening."
+        },
+        {
+          "title": "Margaret",
+          "year": 2011,
+          "note": "Their first real date, a 9 p.m. Lonergan screening that ran to midnight."
+        },
+        {
+          "title": "500 Days of Summer",
+          "year": 2009,
+          "note": "Bobby's first-ever date, eighth grade; he lost his wallet."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The movie the other person sold you on",
+      "note": "the movie-swap premise",
+      "films": [
+        {
+          "title": "Sense and Sensibility",
+          "year": 1995,
+          "note": "Sean's movie-swap watch. He liked it more than the podcast tension let him admit."
+        },
+        {
+          "title": "Spider-Man: Into the Spider-Verse",
+          "year": 2018,
+          "note": "The other half of an early movie swap."
+        },
+        {
+          "title": "Lady Chatterley's Lover",
+          "year": 2022,
+          "note": "Played Telluride; Sean skipped it."
+        },
+        {
+          "title": "Far from the Madding Crowd",
+          "year": 1967,
+          "note": "Schlesinger's pre-Midnight Cowboy adaptation, an 'Amanda movie' Sean loved before the show."
+        },
+        {
+          "title": "Midnight Cowboy",
+          "year": 1969,
+          "note": "Sean had been watching a documentary on its making."
+        },
+        {
+          "title": "Triple Frontier",
+          "year": 2019,
+          "note": "The one they all saw together and liked while no one else did."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The quintessential college movie",
+      "note": "Caroline, off to school tomorrow",
+      "films": [
+        {
+          "title": "Kicking and Screaming",
+          "year": 1995,
+          "note": "Amanda's first thought: aspirational Baumbach, with Elliott Gould as the dad."
+        },
+        {
+          "title": "Animal House",
+          "year": 1978,
+          "note": "Sean went to Dartmouth, the Animal House college."
+        },
+        {
+          "title": "Shithouse",
+          "year": 2020,
+          "note": "Sean: the rare movie that admits college can be lonely and quiet."
+        },
+        {
+          "title": "Everybody Wants Some!!",
+          "year": 2016,
+          "note": "Bobby's pick, in the Dazed and Confused vein."
+        },
+        {
+          "title": "The Rules of Attraction",
+          "year": 2002,
+          "note": "Roger Avary's Bennington-adjacent provocation; James Van Der Beek against type."
+        },
+        {
+          "title": "Grease",
+          "year": 1978
+        },
+        {
+          "title": "The End of the World",
+          "year": 2022,
+          "note": "Matt Tyrnauer's Bennington documentary Sean caught at Telluride: Donna Tartt, Bret Easton Ellis."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "One movie to send your kid off to college with",
+      "note": "Ben's gift question",
+      "films": [
+        {
+          "title": "Seabiscuit",
+          "year": 2003,
+          "note": "Chris Ryan's running gag gift to both kids."
+        },
+        {
+          "title": "Iron Man 3",
+          "year": 2013,
+          "note": "Chris's other gift to the children."
+        },
+        {
+          "title": "Up",
+          "year": 2009
+        },
+        {
+          "title": "First Reformed",
+          "year": 2017,
+          "note": "Sean's deadpan option: how God rejects nature."
+        },
+        {
+          "title": "Sullivan's Travels",
+          "year": 1941
+        },
+        {
+          "title": "Singin' in the Rain",
+          "year": 1952
+        },
+        {
+          "title": "Ferris Bueller's Day Off",
+          "year": 1986
+        },
+        {
+          "title": "Marathon Man",
+          "year": 1976,
+          "note": "Sean's joke, since Knox is 'very interested in teeth.'"
+        },
+        {
+          "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+          "year": 1964,
+          "note": "Bobby's real answer: to build the sense of humor he wants his kids to have."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Favorite running gag",
+      "note": "Jacob wants Thanos back",
+      "films": [
+        {
+          "title": "Rango",
+          "year": 2011,
+          "note": "The show's long-running bit, the movie Chris Ryan claims never to have seen."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "What we'd wear to Cannes",
+      "note": "the dress-code voicemail",
+      "films": [
+        {
+          "title": "Inglourious Basterds",
+          "year": 2009,
+          "note": "Sean and Amanda as the tuxedoed Italian-accent guys at the end."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "Movie things that don't exist in real life",
+      "note": "Greg on commandeered cars and cutting in",
+      "films": [
+        {
+          "title": "So I Married an Axe Murderer",
+          "year": 1993,
+          "note": "Charles Grodin refusing to let his car be commandeered: Sean's hardest-ever laugh."
+        },
+        {
+          "title": "When Harry Met Sally...",
+          "year": 1989,
+          "note": "Where the caustic enemies-to-lovers turn starts, per Amanda."
+        },
+        {
+          "title": "His Girl Friday",
+          "year": 1940,
+          "note": "The remarriage comedy that at least makes sense to Sean."
+        },
+        {
+          "title": "Tár",
+          "year": 2022,
+          "note": "A rare accurate on-screen text exchange, central to the story."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The next 500 episodes",
+      "note": "Marco on what's ahead",
+      "films": [
+        {
+          "title": "Free Guy",
+          "year": 2021,
+          "note": "A watch-along Sean found sad, since Amanda was very pregnant."
+        },
+        {
+          "title": "Zack Snyder's Justice League",
+          "year": 2021,
+          "note": "Sean: some of the best podding they've done."
+        },
+        {
+          "title": "Outlaw King",
+          "year": 2018,
+          "note": "Bobby's first episode, back in November 2018: a Chris Pine talk on Netflix and the awards race."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Coming next summer",
+      "films": [
+        "Barbie",
+        "Oppenheimer",
+        "Mission: Impossible - Dead Reckoning Part One"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Star Wars",
+        "The Empire Strikes Back",
+        "Avengers: Endgame",
+        "Top Gun: Maverick"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Andor",
+      "New Girl",
+      "The Crown",
+      "Russia 1985-1999: TraumaZone"
+    ],
+    "Ads": [
+      "Gamblers",
+      "Tremfya",
+      "Carvana",
+      "FanDuel",
+      "FIFA World Cup (Netflix)",
+      "Boar's Head",
+      "Athletic Brewing"
+    ]
+  },
+  "tmdb": {
+    "The Social Network": {
+      "id": 37799,
+      "poster": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+      "title": "The Social Network",
+      "year": 2010
+    },
+    "Arrival": {
+      "id": 329865,
+      "poster": "/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
+      "title": "Arrival",
+      "year": 2016
+    },
+    "The Lost City of Z": {
+      "id": 314095,
+      "poster": "/8SxHVNk6tqXYwygmDzz1YuJEm2J.jpg",
+      "title": "The Lost City of Z",
+      "year": 2017
+    },
+    "Boyhood": {
+      "id": 85350,
+      "poster": "/2BvtvDUyxiMJ4dmKfiQf4qdOHQN.jpg",
+      "title": "Boyhood",
+      "year": 2014
+    },
+    "Lady Bird": {
+      "id": 391713,
+      "poster": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+      "title": "Lady Bird",
+      "year": 2017
+    },
+    "Creed": {
+      "id": 312221,
+      "poster": "/1BfTsk5VWuw8FCocAhCyqnRbEzq.jpg",
+      "title": "Creed",
+      "year": 2015
+    },
+    "The Squid and the Whale": {
+      "id": 10707,
+      "poster": "/9NbXn1NMdfGM491V3EFjZADR9SX.jpg",
+      "title": "The Squid and the Whale",
+      "year": 2005
+    },
+    "Dazed and Confused": {
+      "id": 9571,
+      "poster": "/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+      "title": "Dazed and Confused",
+      "year": 1993
+    },
+    "American Graffiti": {
+      "id": 838,
+      "poster": "/1tjLivPad2PX8FAzWko7FPIb8d2.jpg",
+      "title": "American Graffiti",
+      "year": 1973
+    },
+    "Network": {
+      "id": 10774,
+      "poster": "/qZomlHsaALUtkFeMDwdYmwS2Pbo.jpg",
+      "title": "Network",
+      "year": 1976
+    },
+    "The Devil Wears Prada": {
+      "id": 350,
+      "poster": "/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+      "title": "The Devil Wears Prada",
+      "year": 2006
+    },
+    "You've Got Mail": {
+      "id": 9489,
+      "poster": "/e2uVtH6TpMfUl7WeOM70ezkcjsU.jpg",
+      "title": "You've Got Mail",
+      "year": 1998
+    },
+    "All the President's Men": {
+      "id": 891,
+      "poster": "/pCe6lfLxt1B58zPD4lgQrlnDS2j.jpg",
+      "title": "All the President's Men",
+      "year": 1976
+    },
+    "Working Girl": {
+      "id": 3525,
+      "poster": "/q2jfFzZvAzjTaArQR0tjilIZ5aJ.jpg",
+      "title": "Working Girl",
+      "year": 1988
+    },
+    "Skyfall": {
+      "id": 37724,
+      "poster": "/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
+      "title": "Skyfall",
+      "year": 2012
+    },
+    "A Few Good Men": {
+      "id": 881,
+      "poster": "/rLOk4z9zL1tTukIYV56P94aZXKk.jpg",
+      "title": "A Few Good Men",
+      "year": 1992
+    },
+    "Ocean's Eleven": {
+      "id": 161,
+      "poster": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+      "title": "Ocean's Eleven",
+      "year": 2001
+    },
+    "Casablanca": {
+      "id": 289,
+      "poster": "/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+      "title": "Casablanca",
+      "year": 1943
+    },
+    "The Sandlot": {
+      "id": 11528,
+      "poster": "/7PYqz0viEuW8qTvuGinUMjDWMnj.jpg",
+      "title": "The Sandlot",
+      "year": 1993
+    },
+    "The Departed": {
+      "id": 1422,
+      "poster": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+      "title": "The Departed",
+      "year": 2006
+    },
+    "Casino Royale": {
+      "id": 36557,
+      "poster": "/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
+      "title": "Casino Royale",
+      "year": 2006
+    },
+    "Ratatouille": {
+      "id": 2062,
+      "poster": "/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+      "title": "Ratatouille",
+      "year": 2007
+    },
+    "Once Upon a Time in the West": {
+      "id": 335,
+      "poster": "/qbYgqOczabWNn2XKwgMtVrntD6P.jpg",
+      "title": "Once Upon a Time in the West",
+      "year": 1968
+    },
+    "Avatar": {
+      "id": 19995,
+      "poster": "/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
+      "title": "Avatar",
+      "year": 2009
+    },
+    "Minions: The Rise of Gru": {
+      "id": 438148,
+      "poster": "/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg",
+      "title": "Minions: The Rise of Gru",
+      "year": 2022
+    },
+    "North": {
+      "id": 31586,
+      "poster": "/e4JEG7dstmurXMUPOW9Jy6UDR9F.jpg",
+      "title": "North",
+      "year": 1994
+    },
+    "Jerry Maguire": {
+      "id": 9390,
+      "poster": "/lABvGN7fDk5ifnwZoxij6G96t2w.jpg",
+      "title": "Jerry Maguire",
+      "year": 1996
+    },
+    "Top Five": {
+      "id": 284296,
+      "poster": "/nM5zWv6zpWHsrKNMrPKg23UHZCA.jpg",
+      "title": "Top Five",
+      "year": 2014
+    },
+    "Morning Glory": {
+      "id": 38357,
+      "poster": "/aFRXEoB3QkeHNHYmVGC3uzFSol8.jpg",
+      "title": "Morning Glory",
+      "year": 2010
+    },
+    "Star Wars: Episode III - Revenge of the Sith": {
+      "id": 1895,
+      "poster": "/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg",
+      "title": "Star Wars: Episode III - Revenge of the Sith",
+      "year": 2005
+    },
+    "Rogue One: A Star Wars Story": {
+      "id": 330459,
+      "poster": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+      "title": "Rogue One: A Star Wars Story",
+      "year": 2016
+    },
+    "The Talented Mr. Ripley": {
+      "id": 1213,
+      "poster": "/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg",
+      "title": "The Talented Mr. Ripley",
+      "year": 1999
+    },
+    "The Thing": {
+      "id": 1091,
+      "poster": "/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+      "title": "The Thing",
+      "year": 1982
+    },
+    "Primal Fear": {
+      "id": 1592,
+      "poster": "/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
+      "title": "Primal Fear",
+      "year": 1996
+    },
+    "Fight Club": {
+      "id": 550,
+      "poster": "/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+      "title": "Fight Club",
+      "year": 1999
+    },
+    "The Natural": {
+      "id": 11393,
+      "poster": "/fwn1gYeOkS1XHKVFdNorKSIpix8.jpg",
+      "title": "The Natural",
+      "year": 1984
+    },
+    "Scarface": {
+      "id": 111,
+      "poster": "/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+      "title": "Scarface",
+      "year": 1983
+    },
+    "At First Sight": {
+      "id": 15556,
+      "poster": "/9nylrKj8zWxTor9BCy3umv6WHZe.jpg",
+      "title": "At First Sight",
+      "year": 1999
+    },
+    "Enemy at the Gates": {
+      "id": 853,
+      "poster": "/9cSoNnB31hGY2mL78VT8mAbz6nR.jpg",
+      "title": "Enemy at the Gates",
+      "year": 2001
+    },
+    "The Wrestler": {
+      "id": 12163,
+      "poster": "/6OTR8dSoNGjWohJNo3UhIGd3Tj.jpg",
+      "title": "The Wrestler",
+      "year": 2008
+    },
+    "What's Your Number?": {
+      "id": 63492,
+      "poster": "/eqn3UeXMY9W1Ow3jIZ6COqbjUWX.jpg",
+      "title": "What's Your Number?",
+      "year": 2011
+    },
+    "Margaret": {
+      "id": 44754,
+      "poster": "/zqBao8uRH6TQAJd13tqC22vPB76.jpg",
+      "title": "Margaret",
+      "year": 2011
+    },
+    "500 Days of Summer": {
+      "id": 19913,
+      "poster": "/qXAuQ9hF30sQRsXf40OfRVl0MJZ.jpg",
+      "title": "(500) Days of Summer",
+      "year": 2009
+    },
+    "Sense and Sensibility": {
+      "id": 4584,
+      "poster": "/9YdQ73YmvInxpXZVNjEKePw9tRO.jpg",
+      "title": "Sense and Sensibility",
+      "year": 1995
+    },
+    "Spider-Man: Into the Spider-Verse": {
+      "id": 324857,
+      "poster": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018
+    },
+    "Lady Chatterley's Lover": {
+      "id": 814338,
+      "poster": "/aSgl2DxPG3DuQXoaHr500KeULmT.jpg",
+      "title": "Lady Chatterley's Lover",
+      "year": 2022
+    },
+    "Far from the Madding Crowd": {
+      "id": 3469,
+      "poster": "/2cCHnpaf5JTRlgO07uulEdUpFkb.jpg",
+      "title": "Far from the Madding Crowd",
+      "year": 1967
+    },
+    "Midnight Cowboy": {
+      "id": 3116,
+      "poster": "/ckklq45UxUkwgHve9xItXqXr06r.jpg",
+      "title": "Midnight Cowboy",
+      "year": 1969
+    },
+    "Triple Frontier": {
+      "id": 399361,
+      "poster": "/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg",
+      "title": "Triple Frontier",
+      "year": 2019
+    },
+    "Kicking and Screaming": {
+      "id": 28387,
+      "poster": "/ynAtSpTou7snNOq32djzILw9VCA.jpg",
+      "title": "Kicking and Screaming",
+      "year": 1995
+    },
+    "Animal House": {
+      "id": 8469,
+      "poster": "/fWooBbipMRIKeSRhEzmeaDV0T8H.jpg",
+      "title": "Animal House",
+      "year": 1978
+    },
+    "Shithouse": {
+      "id": 637053,
+      "poster": "/lyOajZgP8Iy3JdVgvaiBv9K5OMH.jpg",
+      "title": "Shithouse",
+      "year": 2020
+    },
+    "Everybody Wants Some!!": {
+      "id": 295699,
+      "poster": "/vAIFZ8bw0spSvcIYgfuX99B3H2w.jpg",
+      "title": "Everybody Wants Some!!",
+      "year": 2016
+    },
+    "The Rules of Attraction": {
+      "id": 1809,
+      "poster": "/6OybelUmwUkDm7fbX1BI7OhpYeQ.jpg",
+      "title": "The Rules of Attraction",
+      "year": 2002
+    },
+    "Grease": {
+      "id": 621,
+      "poster": "/2rM7fQKpb7cs1Iq7IBqub9LFDzJ.jpg",
+      "title": "Grease",
+      "year": 1978
+    },
+    "The End of the World": {
+      "id": 1019422,
+      "poster": "/b5W2vBqtDOlhjXGmAa0gxtT82Zp.jpg",
+      "title": "The End of the World",
+      "year": 2022
+    },
+    "Seabiscuit": {
+      "id": 4464,
+      "poster": "/5m7NfZvxYsSm2YBCJ2VPQf8ziKr.jpg",
+      "title": "Seabiscuit",
+      "year": 2003
+    },
+    "Iron Man 3": {
+      "id": 68721,
+      "poster": "/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+      "title": "Iron Man 3",
+      "year": 2013
+    },
+    "Up": {
+      "id": 14160,
+      "poster": "/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
+      "title": "Up",
+      "year": 2009
+    },
+    "First Reformed": {
+      "id": 458737,
+      "poster": "/8HKA3Hwf8jQWy8TCYWr7C8Wft23.jpg",
+      "title": "First Reformed",
+      "year": 2018
+    },
+    "Sullivan's Travels": {
+      "id": 16305,
+      "poster": "/z5cqIM0ysVjkCmaDfyTQnlozdIp.jpg",
+      "title": "Sullivan's Travels",
+      "year": 1941
+    },
+    "Singin' in the Rain": {
+      "id": 872,
+      "poster": "/w03EiJVHP8Un77boQeE7hg9DVdU.jpg",
+      "title": "Singin' in the Rain",
+      "year": 1952
+    },
+    "Ferris Bueller's Day Off": {
+      "id": 9377,
+      "poster": "/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg",
+      "title": "Ferris Bueller's Day Off",
+      "year": 1986
+    },
+    "Marathon Man": {
+      "id": 10518,
+      "poster": "/uPNgubSiri2yvBQRPtP77ViYjN.jpg",
+      "title": "Marathon Man",
+      "year": 1976
+    },
+    "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb": {
+      "id": 935,
+      "poster": "/6x7MzQ6BOMlRzam1StcmPO9v61g.jpg",
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "year": 1964
+    },
+    "Rango": {
+      "id": 44896,
+      "poster": "/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
+      "title": "Rango",
+      "year": 2011
+    },
+    "Inglourious Basterds": {
+      "id": 16869,
+      "poster": "/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg",
+      "title": "Inglourious Basterds",
+      "year": 2009
+    },
+    "So I Married an Axe Murderer": {
+      "id": 10442,
+      "poster": "/zQlpQDKDADKlgqfMs1E191ofDJU.jpg",
+      "title": "So I Married an Axe Murderer",
+      "year": 1993
+    },
+    "When Harry Met Sally...": {
+      "id": 639,
+      "poster": "/rFOiFUhTMtDetqCGClC9PIgnC1P.jpg",
+      "title": "When Harry Met Sally...",
+      "year": 1989
+    },
+    "His Girl Friday": {
+      "id": 3085,
+      "poster": "/lu86Y9zTPH3neCiUzLzHCEFHf7f.jpg",
+      "title": "His Girl Friday",
+      "year": 1940
+    },
+    "Tár": {
+      "id": 817758,
+      "poster": "/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg",
+      "title": "TÁR",
+      "year": 2022
+    },
+    "Free Guy": {
+      "id": 550988,
+      "poster": "/dxraF0qPr1OEgJk17ltQTO84kQF.jpg",
+      "title": "Free Guy",
+      "year": 2021
+    },
+    "Zack Snyder's Justice League": {
+      "id": 791373,
+      "poster": "/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+      "title": "Zack Snyder's Justice League",
+      "year": 2021
+    },
+    "Outlaw King": {
+      "id": 454227,
+      "poster": "/rT49ousKUWN3dV7UlhaC9onTNdl.jpg",
+      "title": "Outlaw King",
+      "year": 2018
+    },
+    "Barbie": {
+      "id": 346698,
+      "poster": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+      "title": "Barbie",
+      "year": 2023
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "Mission: Impossible - Dead Reckoning Part One": {
+      "id": 575264,
+      "poster": "/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "year": 2023
+    },
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
+    },
+    "The Empire Strikes Back": {
+      "id": 1891,
+      "poster": "/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+      "title": "The Empire Strikes Back",
+      "year": 1980
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Top Gun: Maverick": {
+      "id": 361743,
+      "poster": "/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+      "title": "Top Gun: Maverick",
+      "year": 2022
+    }
+  }
+}

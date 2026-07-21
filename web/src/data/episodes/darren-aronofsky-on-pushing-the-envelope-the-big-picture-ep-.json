@@ -1,0 +1,168 @@
+{
+  "slug": "darren-aronofsky-on-pushing-the-envelope-the-big-picture-ep-",
+  "title": "Darren Aronofsky on Pushing the Envelope | The Big Picture (Ep. 28)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2017-10-11",
+  "runtimeMin": 24,
+  "format": "Sean Fennessey talks to Darren Aronofsky a few weeks after mother! split critics and drew an F CinemaScore, about why he chases intensity and grounds every provocation in something real.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "Darren Aronofsky on making mother!",
+      "guest": "Darren Aronofsky on",
+      "films": [
+        {
+          "title": "mother!",
+          "year": 2017,
+          "note": "The film in the room. Jennifer Lawrence as a stand-in for Mother Earth, Javier Bardem as a god-like creator, Ed Harris and Michelle Pfeiffer as Adam and Eve. Written fast, then rehearsed for weeks in a taped-out warehouse in Brooklyn while the house was built in Montreal."
+        },
+        {
+          "title": "Black Swan",
+          "year": 2010,
+          "note": "Aronofsky on the cracked-toenail moment as a jump scare built out of realism; also his example of a film that tested awfully and got made anyway."
+        },
+        {
+          "title": "Requiem for a Dream",
+          "year": 2000,
+          "note": "The MPAA wanted the intense ending trimmed; cutting it, he says, would have undermined the whole point about how far addicts go."
+        },
+        {
+          "title": "Noah",
+          "year": 2014,
+          "note": "The Old Testament immersion he says fed mother!; its box-office success is what let Paramount greenlight this one."
+        },
+        {
+          "title": "The Fountain",
+          "year": 2006
+        },
+        {
+          "title": "The Wrestler",
+          "year": 2008,
+          "note": "\"No one wants to see a feature with Mickey Rourke\": his example of getting a risky film made by finding the right people at the right price."
+        },
+        {
+          "title": "Pi",
+          "year": 1998,
+          "note": "Almost 20 years since he started shooting it; he gets the rights back at the 20-year mark, a Jim Jarmusch habit he admired."
+        },
+        {
+          "title": "She's Gotta Have It",
+          "year": 1986,
+          "note": "The Spike Lee film he caught on the one open seat in a Brooklyn mall, his first independent film and the turn toward the alternative."
+        },
+        {
+          "title": "Barton Fink",
+          "year": 1991,
+          "note": "Flipping channels, it came on and re-inspired him: his answer for how he decides what to do next."
+        },
+        {
+          "title": "The Tribe",
+          "year": 2014,
+          "note": "The Ukrainian film he cites as a recent reminder of the power of cinema."
+        },
+        {
+          "title": "The Meyerowitz Stories (New and Selected)",
+          "year": 2017,
+          "note": "Teased at the close: next week's guest is Noah Baumbach on his Netflix film."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "Spielberg"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "White Famous",
+      "Californication",
+      "Saturday Night Live"
+    ]
+  },
+  "tmdbOverrides": {
+    "The Meyerowitz Stories (New and Selected)": 396398
+  },
+  "tmdb": {
+    "mother!": {
+      "id": 381283,
+      "poster": "/fjny9chXPx69ln1LMJxbwi5yHMt.jpg",
+      "title": "mother!",
+      "year": 2017
+    },
+    "Black Swan": {
+      "id": 44214,
+      "poster": "/viWheBd44bouiLCHgNMvahLThqx.jpg",
+      "title": "Black Swan",
+      "year": 2010
+    },
+    "Requiem for a Dream": {
+      "id": 641,
+      "poster": "/9BTwsLaMVHOGFlmsSlx5QYCaXb.jpg",
+      "title": "Requiem for a Dream",
+      "year": 2000
+    },
+    "Noah": {
+      "id": 86834,
+      "poster": "/vVLkHabnF5lVpCpqyhZBI5iCYMA.jpg",
+      "title": "Noah",
+      "year": 2014
+    },
+    "The Fountain": {
+      "id": 1381,
+      "poster": "/4XTf8GuCVLWolubANaKkpk62YPq.jpg",
+      "title": "The Fountain",
+      "year": 2006
+    },
+    "The Wrestler": {
+      "id": 12163,
+      "poster": "/6OTR8dSoNGjWohJNo3UhIGd3Tj.jpg",
+      "title": "The Wrestler",
+      "year": 2008
+    },
+    "Pi": {
+      "id": 473,
+      "poster": "/fJA22FjlAW8rzrOw9Mwanl6oTc9.jpg",
+      "title": "Pi",
+      "year": 1998
+    },
+    "She's Gotta Have It": {
+      "id": 27995,
+      "poster": "/qiJuXvPONqTSSnzhbCBqE7EotV.jpg",
+      "title": "She's Gotta Have It",
+      "year": 1986
+    },
+    "Barton Fink": {
+      "id": 290,
+      "poster": "/oDkp5iClJ9WKJGtKHz8BydodHC3.jpg",
+      "title": "Barton Fink",
+      "year": 1991
+    },
+    "The Tribe": {
+      "id": 271397,
+      "poster": "/85gHJfR9aM3mRIHq6G5ateLGOeh.jpg",
+      "title": "The Tribe",
+      "year": 2014
+    },
+    "The Meyerowitz Stories (New and Selected)": {
+      "id": 396398,
+      "poster": "/c9teDTgwxgnb7wnZjZo4oNcF80R.jpg",
+      "title": "The Meyerowitz Stories (New and Selected)",
+      "year": 2017
+    },
+    "Spielberg": {
+      "id": 467062,
+      "poster": "/2AAvIR2PHoxNITgLDOkXXlWLlua.jpg",
+      "title": "Spielberg",
+      "year": 2017
+    }
+  },
+  "spotifyEpisodeId": "1BMMVFHv73W9st41uUsrPH"
+}

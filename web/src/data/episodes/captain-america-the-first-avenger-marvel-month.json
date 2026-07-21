@@ -1,0 +1,379 @@
+{
+  "slug": "captain-america-the-first-avenger-marvel-month",
+  "title": "'Captain America: The First Avenger' | Marvel Month",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2019-03-29",
+  "runtimeMin": 75,
+  "format": "Sean and Amanda open a five-film Marvel Month with the phase-one outlier: the WWII period piece Marvel tried once and never repeated.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Marvel Month: 'Captain America: The First Avenger'",
+      "note": "Amanda's pick to kick off the MCU series",
+      "films": [
+        {
+          "title": "Captain America: The First Avenger",
+          "year": 2011,
+          "note": "The pick. A Paramount-era, phase-one WWII movie, war picture and spy picture and doomed romance in one, that Marvel never tried again. Joe Johnston directs in full Rocketeer mode; a digitally shrunk Chris Evans goes into the machine and comes out greased and enormous."
+        },
+        {
+          "title": "Captain America: The Winter Soldier",
+          "year": 2014,
+          "note": "Where the Cap films stop being about Cap and become about the Avengers; Bucky's turn."
+        },
+        {
+          "title": "Captain America: Civil War",
+          "year": 2016,
+          "note": "The further pivot from solo hero to ensemble and moral dilemma."
+        },
+        {
+          "title": "The Avengers",
+          "year": 2012,
+          "note": "The first Disney release; the tesseract gets uttered 50 times more and the merchandising machine turns on."
+        },
+        {
+          "title": "Avengers: Infinity War",
+          "year": 2018,
+          "note": "Cap's clapped-for entrance; Red Skull reappears guarding the Soul Stone, played by a different actor."
+        },
+        {
+          "title": "Avengers: Endgame",
+          "year": 2019,
+          "note": "The looming three-hour finale the whole series is built to sell, and likely Evans's exit."
+        },
+        {
+          "title": "Iron Man",
+          "year": 2008,
+          "note": "Downey's alcoholic-genius template, the internal conflict Steve Rogers pointedly lacks."
+        },
+        {
+          "title": "Iron Man 2",
+          "year": 2010,
+          "note": "One of the four pre-Avengers Paramount films."
+        },
+        {
+          "title": "Thor",
+          "year": 2011,
+          "note": "Released just before this one; introduced a then-unknown Chris Hemsworth."
+        },
+        {
+          "title": "The Incredible Hulk",
+          "year": 2008,
+          "note": "The Norton/Leterrier entry, technically canon but now largely ignored after the Ruffalo recast."
+        },
+        {
+          "title": "Guardians of the Galaxy",
+          "year": 2014,
+          "note": "The kind of wooly, weird MCU Amanda finds harder to engage with than a war movie."
+        },
+        {
+          "title": "Captain Marvel",
+          "year": 2019,
+          "note": "The then-current fight over when women get to headline these movies."
+        },
+        {
+          "title": "Black Panther",
+          "year": 2018,
+          "note": "Held up as evidence of how much the MCU grew past by-the-numbers punching."
+        },
+        {
+          "title": "Thor: Ragnarok",
+          "year": 2017,
+          "note": "Cited as the global, weird register this movie never reaches."
+        },
+        {
+          "title": "Ant-Man",
+          "year": 2015,
+          "note": "Another entry in the daddy-issues catalog of hero motivations."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Joe Johnston directed",
+      "films": [
+        "Honey, I Shrunk the Kids",
+        "The Rocketeer",
+        "Jumanji",
+        "Jurassic Park III"
+      ]
+    },
+    {
+      "group": "Chris Evans elsewhere",
+      "films": [
+        "Not Another Teen Movie",
+        "Scott Pilgrim vs. the World",
+        "Gifted"
+      ]
+    },
+    {
+      "group": "Sebastian Stan elsewhere",
+      "films": [
+        "I, Tonya"
+      ]
+    },
+    {
+      "group": "Old-Hollywood touchstones",
+      "films": [
+        "The Lady Eve",
+        "It Happened One Night",
+        "His Girl Friday",
+        "I Was a Male War Bride"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Inglourious Basterds",
+        "Wonder Woman",
+        "Titanic",
+        "Venom",
+        "Deadpool",
+        "The Curious Case of Benjamin Button",
+        "Mission: Impossible - Fallout",
+        "Aquaman",
+        "Triple Frontier",
+        "Diane"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Game of Thrones",
+      "Agent Carter",
+      "Gossip Girl",
+      "Stranger Things",
+      "Howards End"
+    ]
+  },
+  "tmdb": {
+    "Captain America: The First Avenger": {
+      "id": 1771,
+      "poster": "/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+      "title": "Captain America: The First Avenger",
+      "year": 2011
+    },
+    "Captain America: The Winter Soldier": {
+      "id": 100402,
+      "poster": "/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg",
+      "title": "Captain America: The Winter Soldier",
+      "year": 2014
+    },
+    "Captain America: Civil War": {
+      "id": 271110,
+      "poster": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+      "title": "Captain America: Civil War",
+      "year": 2016
+    },
+    "The Avengers": {
+      "id": 24428,
+      "poster": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "title": "The Avengers",
+      "year": 2012
+    },
+    "Avengers: Infinity War": {
+      "id": 299536,
+      "poster": "/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "title": "Avengers: Infinity War",
+      "year": 2018
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Iron Man": {
+      "id": 1726,
+      "poster": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "title": "Iron Man",
+      "year": 2008
+    },
+    "Iron Man 2": {
+      "id": 10138,
+      "poster": "/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+      "title": "Iron Man 2",
+      "year": 2010
+    },
+    "Thor": {
+      "id": 10195,
+      "poster": "/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
+      "title": "Thor",
+      "year": 2011
+    },
+    "The Incredible Hulk": {
+      "id": 1724,
+      "poster": "/gKzYx79y0AQTL4UAk1cBQJ3nvrm.jpg",
+      "title": "The Incredible Hulk",
+      "year": 2008
+    },
+    "Guardians of the Galaxy": {
+      "id": 118340,
+      "poster": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+      "title": "Guardians of the Galaxy",
+      "year": 2014
+    },
+    "Captain Marvel": {
+      "id": 299537,
+      "poster": "/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+      "title": "Captain Marvel",
+      "year": 2019
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "Thor: Ragnarok": {
+      "id": 284053,
+      "poster": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "title": "Thor: Ragnarok",
+      "year": 2017
+    },
+    "Ant-Man": {
+      "id": 102899,
+      "poster": "/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg",
+      "title": "Ant-Man",
+      "year": 2015
+    },
+    "Honey, I Shrunk the Kids": {
+      "id": 9354,
+      "poster": "/omQOzahi2NIeiYznNxHFDvNbvo6.jpg",
+      "title": "Honey, I Shrunk the Kids",
+      "year": 1989
+    },
+    "The Rocketeer": {
+      "id": 10249,
+      "poster": "/2tDFRESFwKww1LHRE8W1Exj9edH.jpg",
+      "title": "The Rocketeer",
+      "year": 1991
+    },
+    "Jumanji": {
+      "id": 8844,
+      "poster": "/iWV47r6kFneCiApgrMII5HSkfHw.jpg",
+      "title": "Jumanji",
+      "year": 1995
+    },
+    "Jurassic Park III": {
+      "id": 331,
+      "poster": "/oQXj4NUfS3r3gHXtDOzcJgj1lLc.jpg",
+      "title": "Jurassic Park III",
+      "year": 2001
+    },
+    "Not Another Teen Movie": {
+      "id": 11397,
+      "poster": "/9ZaGxvj1mqdKVLpSloq4mzS7SK6.jpg",
+      "title": "Not Another Teen Movie",
+      "year": 2001
+    },
+    "Scott Pilgrim vs. the World": {
+      "id": 22538,
+      "poster": "/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg",
+      "title": "Scott Pilgrim vs. the World",
+      "year": 2010
+    },
+    "Gifted": {
+      "id": 400928,
+      "poster": "/7YB2YrMwIm1g8FyZtlvmVDfRnAT.jpg",
+      "title": "Gifted",
+      "year": 2017
+    },
+    "I, Tonya": {
+      "id": 389015,
+      "poster": "/6gNXwSHxaksR1PjVZRqNapmkgj3.jpg",
+      "title": "I, Tonya",
+      "year": 2017
+    },
+    "The Lady Eve": {
+      "id": 3086,
+      "poster": "/lJYD3CMgKtv12hazSHc7xt3i2uq.jpg",
+      "title": "The Lady Eve",
+      "year": 1941
+    },
+    "It Happened One Night": {
+      "id": 3078,
+      "poster": "/2PNUGWAflH6UUumas0POMmokHlc.jpg",
+      "title": "It Happened One Night",
+      "year": 1934
+    },
+    "His Girl Friday": {
+      "id": 3085,
+      "poster": "/lu86Y9zTPH3neCiUzLzHCEFHf7f.jpg",
+      "title": "His Girl Friday",
+      "year": 1940
+    },
+    "I Was a Male War Bride": {
+      "id": 23567,
+      "poster": "/gwliIJs9TWlZAcp6k0cx0I81W5e.jpg",
+      "title": "I Was a Male War Bride",
+      "year": 1949
+    },
+    "Inglourious Basterds": {
+      "id": 16869,
+      "poster": "/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg",
+      "title": "Inglourious Basterds",
+      "year": 2009
+    },
+    "Wonder Woman": {
+      "id": 297762,
+      "poster": "/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+      "title": "Wonder Woman",
+      "year": 2017
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "Venom": {
+      "id": 335983,
+      "poster": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+      "title": "Venom",
+      "year": 2018
+    },
+    "Deadpool": {
+      "id": 293660,
+      "poster": "/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
+      "title": "Deadpool",
+      "year": 2016
+    },
+    "The Curious Case of Benjamin Button": {
+      "id": 4922,
+      "poster": "/26wEWZYt6yJkwRVkjcbwJEFh9IS.jpg",
+      "title": "The Curious Case of Benjamin Button",
+      "year": 2008
+    },
+    "Mission: Impossible - Fallout": {
+      "id": 353081,
+      "poster": "/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+      "title": "Mission: Impossible - Fallout",
+      "year": 2018
+    },
+    "Aquaman": {
+      "id": 297802,
+      "poster": "/ufl63EFcc5XpByEV2Ecdw6WJZAI.jpg",
+      "title": "Aquaman",
+      "year": 2018
+    },
+    "Triple Frontier": {
+      "id": 399361,
+      "poster": "/aBw8zYuAljVM1FeK5bZKITPH8ZD.jpg",
+      "title": "Triple Frontier",
+      "year": 2019
+    },
+    "Diane": {
+      "id": 510034,
+      "poster": "/vQsWX0B6G5wajvCiUh4tmMHd1I8.jpg",
+      "title": "Diane",
+      "year": 2019
+    }
+  }
+}

@@ -1,0 +1,1214 @@
+{
+  "slug": "predicting-the-nominations-for-the-2020-oscars-the-big-pictu",
+  "title": "Predicting the Nominations For the 2020 Oscars | The Big Picture",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2020-01-10",
+  "runtimeMin": 96,
+  "format": "Two days before nominations morning, Sean Fennessey and Amanda Dobbins read the PGA, WGA, DGA, and BAFTA tea leaves, then call all 24 Oscar categories they're willing to touch. Sean also talks to Destin Daniel Cretton about directing 'Just Mercy.'",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Where the Oscar race stands",
+      "note": "PGA, WGA, DGA, and BAFTA nominations, three weeks out",
+      "films": [
+        {
+          "title": "The Two Popes",
+          "year": 2019,
+          "note": "Off the PGA's ten and, thanks to WGA eligibility rules around screenwriter Anthony McCarten, unrecognized there too."
+        },
+        {
+          "title": "Richard Jewell",
+          "year": 2019
+        },
+        {
+          "title": "Bombshell",
+          "year": 2019
+        },
+        {
+          "title": "A Beautiful Day in the Neighborhood",
+          "year": 2019
+        },
+        {
+          "title": "Uncut Gems",
+          "year": 2019,
+          "note": "Off the PGA, DGA, WGA, and SAG slates entirely, which the hosts call 'a shame.'"
+        },
+        {
+          "title": "Darkest Hour",
+          "year": 2017,
+          "note": "Anthony McCarten's other awards-season script, cited amid the WGA eligibility confusion."
+        },
+        {
+          "title": "Booksmart",
+          "year": 2019,
+          "note": "The WGA original-screenplay surprise, in a category so loaded it may not carry over to an Oscar nod."
+        },
+        {
+          "title": "The Farewell",
+          "year": 2019,
+          "note": "Ineligible for the WGA screenplay awards over its largely non-English dialogue."
+        },
+        {
+          "title": "Atlantics",
+          "year": 2019,
+          "note": "Mati Diop's first feature, part of the DGA's unofficial first-timer slate."
+        },
+        {
+          "title": "Honey Boy",
+          "year": 2019,
+          "note": "Alma Har'el's first feature, also DGA-recognized."
+        },
+        {
+          "title": "Queen & Slim",
+          "year": 2019,
+          "note": "Melina Matsoukas's first feature."
+        },
+        {
+          "title": "The Peanut Butter Falcon",
+          "year": 2019,
+          "note": "Tyler Nilson and Michael Schwartz's first feature."
+        },
+        {
+          "title": "The Last Black Man in San Francisco",
+          "year": 2019,
+          "note": "Joe Talbot's first feature."
+        },
+        {
+          "title": "Bait",
+          "year": 2019,
+          "note": "British critic Mark Kermode called it the best British film of the decade; Sean wants someone to actually show it to him."
+        },
+        {
+          "title": "For Sama",
+          "year": 2019,
+          "note": "Heavy BAFTA support, notable given the overlap between BAFTA and Academy voters."
+        }
+      ]
+    },
+    {
+      "kind": "awards",
+      "heading": "Oscar Nomination Predictions",
+      "note": "five nominees plus a wildcard apiece, across 15 categories",
+      "ceremony": "92nd Academy Awards",
+      "categories": [
+        {
+          "name": "Best Cinematography",
+          "nominees": [
+            {
+              "title": "1917",
+              "year": 2019,
+              "person": "Roger Deakins"
+            },
+            {
+              "title": "Ford v Ferrari",
+              "year": 2019,
+              "person": "Phedon Papamichael"
+            },
+            {
+              "title": "The Irishman",
+              "year": 2019,
+              "person": "Rodrigo Prieto"
+            },
+            {
+              "title": "Once Upon a Time in Hollywood",
+              "year": 2019,
+              "person": "Robert Richardson"
+            },
+            {
+              "title": "Joker",
+              "year": 2019,
+              "person": "Lawrence Sher"
+            },
+            {
+              "title": "The Lighthouse",
+              "year": 2019,
+              "person": "Jarin Blaschke"
+            }
+          ]
+        },
+        {
+          "name": "Best Film Editing",
+          "nominees": [
+            {
+              "title": "Ford v Ferrari",
+              "year": 2019,
+              "person": "Michael McCusker and Andrew Buckland"
+            },
+            {
+              "title": "The Irishman",
+              "year": 2019,
+              "person": "Thelma Schoonmaker"
+            },
+            {
+              "title": "1917",
+              "year": 2019,
+              "person": "Lee Smith"
+            },
+            {
+              "title": "Marriage Story",
+              "year": 2019,
+              "person": "Jennifer Lame"
+            },
+            {
+              "title": "Once Upon a Time in Hollywood",
+              "year": 2019,
+              "person": "Fred Raskin"
+            },
+            {
+              "title": "Parasite",
+              "year": 2019,
+              "person": "Yang Jinmo"
+            }
+          ]
+        },
+        {
+          "name": "Best Original Score",
+          "nominees": [
+            {
+              "title": "Little Women",
+              "year": 2019,
+              "person": "Alexandre Desplat"
+            },
+            {
+              "title": "Joker",
+              "year": 2019,
+              "person": "Hildur Guðnadóttir"
+            },
+            {
+              "title": "Marriage Story",
+              "year": 2019,
+              "person": "Randy Newman"
+            },
+            {
+              "title": "1917",
+              "year": 2019,
+              "person": "Thomas Newman"
+            },
+            {
+              "title": "Jojo Rabbit",
+              "year": 2019,
+              "person": "Michael Giacchino"
+            },
+            {
+              "title": "Star Wars: The Rise of Skywalker",
+              "year": 2019,
+              "person": "John Williams"
+            }
+          ]
+        },
+        {
+          "name": "Best Original Song",
+          "nominees": [
+            {
+              "title": "Frozen II",
+              "year": 2019,
+              "person": "\"Into the Unknown\""
+            },
+            {
+              "title": "Harriet",
+              "year": 2019,
+              "person": "\"Stand Up\""
+            },
+            {
+              "title": "The Lion King",
+              "year": 2019,
+              "person": "\"Spirit,\" Beyoncé"
+            },
+            {
+              "title": "Rocketman",
+              "year": 2019,
+              "person": "\"(I'm Gonna) Love Me Again\""
+            },
+            {
+              "title": "Wild Rose",
+              "year": 2019,
+              "person": "\"Glasgow\""
+            },
+            {
+              "title": "Toy Story 4",
+              "year": 2019,
+              "person": "\"I Can't Let You Throw Yourself Away\""
+            },
+            {
+              "title": "Parasite",
+              "year": 2019,
+              "person": "\"A Glass of Soju\""
+            }
+          ]
+        },
+        {
+          "name": "Best Documentary Feature",
+          "nominees": [
+            {
+              "title": "American Factory",
+              "year": 2019
+            },
+            {
+              "title": "Apollo 11",
+              "year": 2019
+            },
+            {
+              "title": "The Cave",
+              "year": 2019
+            },
+            {
+              "title": "For Sama",
+              "year": 2019
+            },
+            {
+              "title": "One Child Nation",
+              "year": 2019
+            },
+            {
+              "title": "Honeyland",
+              "year": 2019
+            },
+            {
+              "title": "Maiden",
+              "year": 2019
+            }
+          ]
+        },
+        {
+          "name": "Best International Feature Film",
+          "nominees": [
+            {
+              "title": "Les Misérables",
+              "year": 2019
+            },
+            {
+              "title": "Atlantics",
+              "year": 2019
+            },
+            {
+              "title": "Pain and Glory",
+              "year": 2019
+            },
+            {
+              "title": "Parasite",
+              "year": 2019
+            },
+            {
+              "title": "Honeyland",
+              "year": 2019
+            },
+            {
+              "title": "The Painted Bird",
+              "year": 2019
+            }
+          ]
+        },
+        {
+          "name": "Best Animated Feature",
+          "nominees": [
+            {
+              "title": "Frozen II",
+              "year": 2019
+            },
+            {
+              "title": "How to Train Your Dragon: The Hidden World",
+              "year": 2019
+            },
+            {
+              "title": "I Lost My Body",
+              "year": 2019
+            },
+            {
+              "title": "Missing Link",
+              "year": 2019
+            },
+            {
+              "title": "Toy Story 4",
+              "year": 2019
+            }
+          ]
+        },
+        {
+          "name": "Best Original Screenplay",
+          "nominees": [
+            {
+              "title": "Once Upon a Time in Hollywood",
+              "year": 2019,
+              "person": "Quentin Tarantino"
+            },
+            {
+              "title": "Parasite",
+              "year": 2019,
+              "person": "Bong Joon Ho and Han Jin Won"
+            },
+            {
+              "title": "Marriage Story",
+              "year": 2019,
+              "person": "Noah Baumbach"
+            },
+            {
+              "title": "Knives Out",
+              "year": 2019,
+              "person": "Rian Johnson"
+            },
+            {
+              "title": "The Farewell",
+              "year": 2019,
+              "person": "Lulu Wang"
+            },
+            {
+              "title": "1917",
+              "year": 2019,
+              "person": "Sam Mendes and Krysty Wilson-Cairns"
+            }
+          ]
+        },
+        {
+          "name": "Best Adapted Screenplay",
+          "nominees": [
+            {
+              "title": "The Irishman",
+              "year": 2019,
+              "person": "Steven Zaillian"
+            },
+            {
+              "title": "Jojo Rabbit",
+              "year": 2019,
+              "person": "Taika Waititi"
+            },
+            {
+              "title": "The Two Popes",
+              "year": 2019,
+              "person": "Anthony McCarten"
+            },
+            {
+              "title": "Joker",
+              "year": 2019,
+              "person": "Todd Phillips and Scott Silver"
+            },
+            {
+              "title": "Little Women",
+              "year": 2019,
+              "person": "Greta Gerwig"
+            },
+            {
+              "title": "A Beautiful Day in the Neighborhood",
+              "year": 2019,
+              "person": "Micah Fitzerman-Blue and Noah Harpster"
+            }
+          ]
+        },
+        {
+          "name": "Best Supporting Actor",
+          "nominees": [
+            {
+              "title": "A Beautiful Day in the Neighborhood",
+              "year": 2019,
+              "person": "Tom Hanks"
+            },
+            {
+              "title": "The Irishman",
+              "year": 2019,
+              "person": "Al Pacino"
+            },
+            {
+              "title": "The Irishman",
+              "year": 2019,
+              "person": "Joe Pesci"
+            },
+            {
+              "title": "Once Upon a Time in Hollywood",
+              "year": 2019,
+              "person": "Brad Pitt"
+            },
+            {
+              "title": "The Two Popes",
+              "year": 2019,
+              "person": "Anthony Hopkins"
+            },
+            {
+              "title": "Just Mercy",
+              "year": 2019,
+              "person": "Jamie Foxx"
+            }
+          ]
+        },
+        {
+          "name": "Best Supporting Actress",
+          "nominees": [
+            {
+              "title": "Marriage Story",
+              "year": 2019,
+              "person": "Laura Dern"
+            },
+            {
+              "title": "Hustlers",
+              "year": 2019,
+              "person": "Jennifer Lopez"
+            },
+            {
+              "title": "Little Women",
+              "year": 2019,
+              "person": "Florence Pugh"
+            },
+            {
+              "title": "Bombshell",
+              "year": 2019,
+              "person": "Margot Robbie"
+            },
+            {
+              "title": "The Farewell",
+              "year": 2019,
+              "person": "Zhao Shuzhen"
+            },
+            {
+              "title": "Jojo Rabbit",
+              "year": 2019,
+              "person": "Scarlett Johansson"
+            },
+            {
+              "title": "Once Upon a Time in Hollywood",
+              "year": 2019,
+              "person": "Margot Robbie"
+            }
+          ]
+        },
+        {
+          "name": "Best Actor",
+          "nominees": [
+            {
+              "title": "Joker",
+              "year": 2019,
+              "person": "Joaquin Phoenix"
+            },
+            {
+              "title": "Once Upon a Time in Hollywood",
+              "year": 2019,
+              "person": "Leonardo DiCaprio"
+            },
+            {
+              "title": "Marriage Story",
+              "year": 2019,
+              "person": "Adam Driver"
+            },
+            {
+              "title": "Ford v Ferrari",
+              "year": 2019,
+              "person": "Christian Bale"
+            },
+            {
+              "title": "Rocketman",
+              "year": 2019,
+              "person": "Taron Egerton"
+            },
+            {
+              "title": "Pain and Glory",
+              "year": 2019,
+              "person": "Antonio Banderas"
+            },
+            {
+              "title": "Uncut Gems",
+              "year": 2019,
+              "person": "Adam Sandler"
+            },
+            {
+              "title": "Dolemite Is My Name",
+              "year": 2019,
+              "person": "Eddie Murphy"
+            }
+          ]
+        },
+        {
+          "name": "Best Actress",
+          "nominees": [
+            {
+              "title": "The Farewell",
+              "year": 2019,
+              "person": "Awkwafina"
+            },
+            {
+              "title": "Marriage Story",
+              "year": 2019,
+              "person": "Scarlett Johansson"
+            },
+            {
+              "title": "Little Women",
+              "year": 2019,
+              "person": "Saoirse Ronan"
+            },
+            {
+              "title": "Bombshell",
+              "year": 2019,
+              "person": "Charlize Theron"
+            },
+            {
+              "title": "Judy",
+              "year": 2019,
+              "person": "Renée Zellweger"
+            },
+            {
+              "title": "Us",
+              "year": 2019,
+              "person": "Lupita Nyong'o"
+            },
+            {
+              "title": "Harriet",
+              "year": 2019,
+              "person": "Cynthia Erivo"
+            }
+          ]
+        },
+        {
+          "name": "Best Director",
+          "nominees": [
+            {
+              "title": "Parasite",
+              "year": 2019,
+              "person": "Bong Joon Ho"
+            },
+            {
+              "title": "1917",
+              "year": 2019,
+              "person": "Sam Mendes"
+            },
+            {
+              "title": "The Irishman",
+              "year": 2019,
+              "person": "Martin Scorsese"
+            },
+            {
+              "title": "Once Upon a Time in Hollywood",
+              "year": 2019,
+              "person": "Quentin Tarantino"
+            },
+            {
+              "title": "Joker",
+              "year": 2019,
+              "person": "Todd Phillips"
+            },
+            {
+              "title": "Jojo Rabbit",
+              "year": 2019,
+              "person": "Taika Waititi"
+            }
+          ]
+        },
+        {
+          "name": "Best Picture",
+          "predicted": "Once Upon a Time in Hollywood",
+          "nominees": [
+            {
+              "title": "1917",
+              "year": 2019
+            },
+            {
+              "title": "Ford v Ferrari",
+              "year": 2019
+            },
+            {
+              "title": "The Irishman",
+              "year": 2019
+            },
+            {
+              "title": "Jojo Rabbit",
+              "year": 2019
+            },
+            {
+              "title": "Joker",
+              "year": 2019
+            },
+            {
+              "title": "Knives Out",
+              "year": 2019
+            },
+            {
+              "title": "Little Women",
+              "year": 2019
+            },
+            {
+              "title": "Marriage Story",
+              "year": 2019
+            },
+            {
+              "title": "Once Upon a Time in Hollywood",
+              "year": 2019
+            },
+            {
+              "title": "Parasite",
+              "year": 2019
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Destin Daniel Cretton on 'Just Mercy'",
+      "guest": "Destin Daniel Cretton on",
+      "films": [
+        {
+          "title": "Just Mercy",
+          "year": 2019,
+          "note": "Adapted from Bryan Stevenson's memoir. Cretton on Michael B. Jordan toning down his 'Black Panther'/'Creed II' physique, shooting the death-row cellblock with three synced cameras so the actors' shouted-through-the-wall friendships would read, and the one scene he and Brian dramatized beyond the facts (a courtroom reveal that was really just a fax)."
+        },
+        {
+          "title": "Shang-Chi and the Legend of the Ten Rings",
+          "year": 2021,
+          "note": "Cretton's next film, brought up only in terms of how he's preparing, not what's in it."
+        },
+        {
+          "title": "Short Term 12",
+          "year": 2013,
+          "note": "Cretton's breakout; he name-checks its LaKeith Stanfield and Rami Malek discovery pipeline."
+        },
+        {
+          "title": "The Glass Castle",
+          "year": 2017
+        },
+        {
+          "title": "Innerspace",
+          "year": 1987,
+          "note": "The movie that blew Cretton's mind as a kid growing up on Maui: he was young enough to think miniaturized submarines in the bloodstream were real."
+        },
+        {
+          "title": "Aladdin",
+          "year": 2019,
+          "note": "The last great thing Cretton saw, on a flight to Sydney. He went in expecting to hate it and came out sold on Will Smith."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Last year's Oscars race",
+      "films": [
+        "Black Panther",
+        "A Star Is Born",
+        "Bohemian Rhapsody",
+        "At Eternity's Gate",
+        "Roma"
+      ]
+    },
+    {
+      "group": "Best Editing category history",
+      "films": [
+        "Argo",
+        "Spotlight"
+      ]
+    },
+    {
+      "group": "2017 comparisons",
+      "films": [
+        "Phantom Thread",
+        "Three Billboards Outside Ebbing, Missouri"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Avengers: Endgame",
+        "Cats",
+        "The Report",
+        "Clemency",
+        "The King",
+        "Dolemite Is My Name",
+        "Boogie Nights"
+      ]
+    },
+    {
+      "group": "Cretton and Coogler's circle",
+      "films": [
+        "Fruitvale Station",
+        "Creed II"
+      ]
+    },
+    {
+      "group": "Category outliers",
+      "films": [
+        "Beanpole",
+        "Weathering With You",
+        "Abominable"
+      ]
+    },
+    {
+      "group": "Best Picture category history",
+      "films": [
+        "Amour"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Bachelor",
+      "Vanderpump Rules"
+    ],
+    "Podcasts/radio": [
+      "Bachelor Party",
+      "Fresh Air"
+    ],
+    "Ads": [
+      "MasterClass"
+    ]
+  },
+  "tmdbOverrides": {
+    "Les Misérables": 586863
+  },
+  "tmdb": {
+    "The Two Popes": {
+      "id": 551332,
+      "poster": "/4d4mTSfDIFIbUbMLUfaKodvxYXA.jpg",
+      "title": "The Two Popes",
+      "year": 2019
+    },
+    "Richard Jewell": {
+      "id": 292011,
+      "poster": "/5Lgkm8jt4roAFPZQ52fKMhVmDaZ.jpg",
+      "title": "Richard Jewell",
+      "year": 2019
+    },
+    "Bombshell": {
+      "id": 525661,
+      "poster": "/gbPfvwBqbiHpQkYZQvVwB6MVauV.jpg",
+      "title": "Bombshell",
+      "year": 2019
+    },
+    "A Beautiful Day in the Neighborhood": {
+      "id": 501907,
+      "poster": "/pgxn1siPnWbSOKUeovfC86OwhWU.jpg",
+      "title": "A Beautiful Day in the Neighborhood",
+      "year": 2019
+    },
+    "Uncut Gems": {
+      "id": 473033,
+      "poster": "/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+      "title": "Uncut Gems",
+      "year": 2019
+    },
+    "Darkest Hour": {
+      "id": 399404,
+      "poster": "/xa6G3aKlysQeVg9wOb0dRcIGlWu.jpg",
+      "title": "Darkest Hour",
+      "year": 2017
+    },
+    "Booksmart": {
+      "id": 505600,
+      "poster": "/2aSxRDmisJP90H3S0aocyuQIe4z.jpg",
+      "title": "Booksmart",
+      "year": 2019
+    },
+    "The Farewell": {
+      "id": 565310,
+      "poster": "/7ht2IMGynDSVQGvAXhAb83DLET8.jpg",
+      "title": "The Farewell",
+      "year": 2019
+    },
+    "Atlantics": {
+      "id": 496967,
+      "poster": "/zRnZM6HqglFK31MYyrTSQVlj1dQ.jpg",
+      "title": "Atlantics",
+      "year": 2019
+    },
+    "Honey Boy": {
+      "id": 512263,
+      "poster": "/3BZ2rBn31kWER45ZMj7OTe9keMm.jpg",
+      "title": "Honey Boy",
+      "year": 2019
+    },
+    "Queen & Slim": {
+      "id": 536743,
+      "poster": "/qfIJOmsiBcum6EGosiy5gTF6ihk.jpg",
+      "title": "Queen & Slim",
+      "year": 2019
+    },
+    "The Peanut Butter Falcon": {
+      "id": 463257,
+      "poster": "/qyQcRGvdW3VtxHR4fSDgPOePEip.jpg",
+      "title": "The Peanut Butter Falcon",
+      "year": 2019
+    },
+    "The Last Black Man in San Francisco": {
+      "id": 522039,
+      "poster": "/ow9zjibNrz5TYVZ6cqwmvCR1YX1.jpg",
+      "title": "The Last Black Man in San Francisco",
+      "year": 2019
+    },
+    "Bait": {
+      "id": 576069,
+      "poster": "/kM9uIcRIgG9dmZF3Zf7yMR2zftt.jpg",
+      "title": "Bait",
+      "year": 2019
+    },
+    "For Sama": {
+      "id": 576017,
+      "poster": "/mDna51F8QfrJFZOgPGQUz3VKqsB.jpg",
+      "title": "For Sama",
+      "year": 2019
+    },
+    "1917": {
+      "id": 530915,
+      "poster": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+      "title": "1917",
+      "year": 2019
+    },
+    "Ford v Ferrari": {
+      "id": 359724,
+      "poster": "/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+      "title": "Ford v Ferrari",
+      "year": 2019
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Joker": {
+      "id": 475557,
+      "poster": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "title": "Joker",
+      "year": 2019
+    },
+    "The Lighthouse": {
+      "id": 503919,
+      "poster": "/yAKNmpcUweGH6WMCEWenwU9PsbE.jpg",
+      "title": "The Lighthouse",
+      "year": 2019
+    },
+    "Marriage Story": {
+      "id": 492188,
+      "poster": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+      "title": "Marriage Story",
+      "year": 2019
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Little Women": {
+      "id": 331482,
+      "poster": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+      "title": "Little Women",
+      "year": 2019
+    },
+    "Jojo Rabbit": {
+      "id": 515001,
+      "poster": "/1mqL7VG4Ix8wmxwypmCA1HTHBky.jpg",
+      "title": "Jojo Rabbit",
+      "year": 2019
+    },
+    "Star Wars: The Rise of Skywalker": {
+      "id": 181812,
+      "poster": "/db32LaOibwEliAmSL2jjDF6oDdj.jpg",
+      "title": "Star Wars: The Rise of Skywalker",
+      "year": 2019
+    },
+    "Frozen II": {
+      "id": 330457,
+      "poster": "/mINJaa34MtknCYl5AjtNJzWj8cD.jpg",
+      "title": "Frozen II",
+      "year": 2019
+    },
+    "Harriet": {
+      "id": 506528,
+      "poster": "/rsUs58bDqpJJxZSOebZOMN9gzw2.jpg",
+      "title": "Harriet",
+      "year": 2019
+    },
+    "The Lion King": {
+      "id": 420818,
+      "poster": "/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg",
+      "title": "The Lion King",
+      "year": 2019
+    },
+    "Rocketman": {
+      "id": 504608,
+      "poster": "/f4FF18ia7yTvHf2izNrHqBmgH8U.jpg",
+      "title": "Rocketman",
+      "year": 2019
+    },
+    "Wild Rose": {
+      "id": 482981,
+      "poster": "/79THplH9WM7y3gRPYM4dcC0IRPw.jpg",
+      "title": "Wild Rose",
+      "year": 2019
+    },
+    "Toy Story 4": {
+      "id": 301528,
+      "poster": "/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg",
+      "title": "Toy Story 4",
+      "year": 2019
+    },
+    "American Factory": {
+      "id": 565716,
+      "poster": "/7jH3dQOJ3CHMrp9tWsI3rRCDiaD.jpg",
+      "title": "American Factory",
+      "year": 2019
+    },
+    "Apollo 11": {
+      "id": 549559,
+      "poster": "/woLMRroHyoTGoXyxdEeBJEYBFtu.jpg",
+      "title": "Apollo 11",
+      "year": 2019
+    },
+    "The Cave": {
+      "id": 621729,
+      "poster": "/2Zb8U2EXBv36DGG9jaEESNEeJv9.jpg",
+      "title": "The Cave",
+      "year": 2019
+    },
+    "One Child Nation": {
+      "id": 566368,
+      "poster": "/bV0aqhB7fsw5mWJROBnFro1Qhwn.jpg",
+      "title": "One Child Nation",
+      "year": 2019
+    },
+    "Honeyland": {
+      "id": 566213,
+      "poster": "/3IxGhQEzLWOxkZlcNMAIiYlOT8D.jpg",
+      "title": "Honeyland",
+      "year": 2019
+    },
+    "Maiden": {
+      "id": 543093,
+      "poster": "/19rEZWy1c8vv9ZALuMr0DNXMvF6.jpg",
+      "title": "Maiden",
+      "year": 2019
+    },
+    "Les Misérables": {
+      "id": 586863,
+      "poster": "/2ZQV9rPFXF0iFfKbsAvVIweQ1yM.jpg",
+      "title": "Les Misérables",
+      "year": 2019
+    },
+    "Pain and Glory": {
+      "id": 519010,
+      "poster": "/cMlueArJXXwZbeLpb4NhC3pxmBk.jpg",
+      "title": "Pain and Glory",
+      "year": 2019
+    },
+    "The Painted Bird": {
+      "id": 477428,
+      "poster": "/wfuh6vTYLGspvkYoBy8GCaJx9Ur.jpg",
+      "title": "The Painted Bird",
+      "year": 2019
+    },
+    "How to Train Your Dragon: The Hidden World": {
+      "id": 166428,
+      "poster": "/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg",
+      "title": "How to Train Your Dragon: The Hidden World",
+      "year": 2019
+    },
+    "I Lost My Body": {
+      "id": 586940,
+      "poster": "/z5dXCywyo8zEPNDkeQY7nbvkrz8.jpg",
+      "title": "I Lost My Body",
+      "year": 2019
+    },
+    "Missing Link": {
+      "id": 458253,
+      "poster": "/bqQ38oKuROlAgyZcRII9tqtoPNi.jpg",
+      "title": "Missing Link",
+      "year": 2019
+    },
+    "Knives Out": {
+      "id": 546554,
+      "poster": "/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+      "title": "Knives Out",
+      "year": 2019
+    },
+    "Just Mercy": {
+      "id": 522212,
+      "poster": "/2bDZl3PzFLFWe4gaFUQnnaslqT3.jpg",
+      "title": "Just Mercy",
+      "year": 2019
+    },
+    "Hustlers": {
+      "id": 540901,
+      "poster": "/zBhv8rsLOfpFW2M5b6wW78Uoojs.jpg",
+      "title": "Hustlers",
+      "year": 2019
+    },
+    "Dolemite Is My Name": {
+      "id": 528888,
+      "poster": "/uoAqJg7ZSmftnBGOkupU1ySZQU0.jpg",
+      "title": "Dolemite Is My Name",
+      "year": 2019
+    },
+    "Judy": {
+      "id": 491283,
+      "poster": "/iqJhHjD6k6T07waELjMKDpQJUP.jpg",
+      "title": "Judy",
+      "year": 2019
+    },
+    "Us": {
+      "id": 458723,
+      "poster": "/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+      "title": "Us",
+      "year": 2019
+    },
+    "Shang-Chi and the Legend of the Ten Rings": {
+      "id": 566525,
+      "poster": "/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "year": 2021
+    },
+    "Short Term 12": {
+      "id": 169813,
+      "poster": "/iRYip0xx8sxM1TvgDQdK2YKV5pw.jpg",
+      "title": "Short Term 12",
+      "year": 2013
+    },
+    "The Glass Castle": {
+      "id": 336000,
+      "poster": "/8NPP7mliHLlVMHce8SjApiRxgzm.jpg",
+      "title": "The Glass Castle",
+      "year": 2017
+    },
+    "Innerspace": {
+      "id": 2614,
+      "poster": "/A4azclZQjqeQxXvcok3rdUmuq8a.jpg",
+      "title": "Innerspace",
+      "year": 1987
+    },
+    "Aladdin": {
+      "id": 420817,
+      "poster": "/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg",
+      "title": "Aladdin",
+      "year": 2019
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "A Star Is Born": {
+      "id": 332562,
+      "poster": "/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg",
+      "title": "A Star Is Born",
+      "year": 2018
+    },
+    "Bohemian Rhapsody": {
+      "id": 424694,
+      "poster": "/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+      "title": "Bohemian Rhapsody",
+      "year": 2018
+    },
+    "At Eternity's Gate": {
+      "id": 491472,
+      "poster": "/y4LvHQoX5YunHJ2EMBSjQvOkvD9.jpg",
+      "title": "At Eternity's Gate",
+      "year": 2018
+    },
+    "Roma": {
+      "id": 426426,
+      "poster": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+      "title": "Roma",
+      "year": 2018
+    },
+    "Argo": {
+      "id": 68734,
+      "poster": "/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
+      "title": "Argo",
+      "year": 2012
+    },
+    "Spotlight": {
+      "id": 314365,
+      "poster": "/8DPGG400FgaFWaqcv11n8mRd2NG.jpg",
+      "title": "Spotlight",
+      "year": 2015
+    },
+    "Phantom Thread": {
+      "id": 400617,
+      "poster": "/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg",
+      "title": "Phantom Thread",
+      "year": 2017
+    },
+    "Three Billboards Outside Ebbing, Missouri": {
+      "id": 359940,
+      "poster": "/bRYLt8fV82tdVoDppSFTZIcJiLN.jpg",
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "year": 2017
+    },
+    "Avengers: Endgame": {
+      "id": 299534,
+      "poster": "/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "title": "Avengers: Endgame",
+      "year": 2019
+    },
+    "Cats": {
+      "id": 536869,
+      "poster": "/aCNch5FmzT2WaUcY44925owIZXY.jpg",
+      "title": "Cats",
+      "year": 2019
+    },
+    "The Report": {
+      "id": 524348,
+      "poster": "/sG5NI6TMNR9ftOdTIXmG0hrBYSY.jpg",
+      "title": "The Report",
+      "year": 2019
+    },
+    "Clemency": {
+      "id": 565307,
+      "poster": "/uQgi5hq29saWiG4DbmQfz2EEnKI.jpg",
+      "title": "Clemency",
+      "year": 2019
+    },
+    "The King": {
+      "id": 504949,
+      "poster": "/8u0QBGUbZcBW59VEAdmeFl9g98N.jpg",
+      "title": "The King",
+      "year": 2019
+    },
+    "Boogie Nights": {
+      "id": 4995,
+      "poster": "/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg",
+      "title": "Boogie Nights",
+      "year": 1997
+    },
+    "Fruitvale Station": {
+      "id": 157354,
+      "poster": "/oXSy3nEKFtfw5iRxdG8ouEFAnxs.jpg",
+      "title": "Fruitvale Station",
+      "year": 2013
+    },
+    "Creed II": {
+      "id": 480530,
+      "poster": "/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg",
+      "title": "Creed II",
+      "year": 2018
+    },
+    "Beanpole": {
+      "id": 517148,
+      "poster": "/nKVrJm1dOwALdr2KHxNFhkbTSZc.jpg",
+      "title": "Beanpole",
+      "year": 2019
+    },
+    "Weathering With You": {
+      "id": 568160,
+      "poster": "/qgrk7r1fV4IjuoeiGS5HOhXNdLJ.jpg",
+      "title": "Weathering with You",
+      "year": 2019
+    },
+    "Abominable": {
+      "id": 431580,
+      "poster": "/20djTLqppfBx5WYA67Y300S6aPD.jpg",
+      "title": "Abominable",
+      "year": 2019
+    },
+    "Amour": {
+      "id": 86837,
+      "poster": "/19hyCudualHxCD0GrEngqsi0wBF.jpg",
+      "title": "Amour",
+      "year": 2012
+    }
+  }
+}

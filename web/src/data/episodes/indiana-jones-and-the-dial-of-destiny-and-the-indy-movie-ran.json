@@ -1,0 +1,207 @@
+{
+  "slug": "indiana-jones-and-the-dial-of-destiny-and-the-indy-movie-ran",
+  "title": "'Indiana Jones and the Dial of Destiny' and the Indy Movie Rankings",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2023-06-30",
+  "runtimeMin": 77,
+  "format": "Sean, Amanda, and Mallory Rubin review Harrison Ford's fifth and final outing, then rank all five Indiana Jones movies.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "'Indiana Jones and the Dial of Destiny'",
+      "note": "with Mallory Rubin",
+      "films": [
+        {
+          "title": "Indiana Jones and the Dial of Destiny",
+          "year": 2023,
+          "note": "James Mangold takes over from Spielberg for an 80-year-old Ford's send-off. Mallory and Amanda love it top to bottom; Sean is with them through the de-aged 1944 prologue and the 1969 moon-landing setting, then cools on the Syracuse time-travel third act and its CGI. Phoebe Waller-Bridge as Helena and the Marion reunion win over all three; the retconned death of Shia LaBeouf's Mutt doesn't."
+        }
+      ]
+    },
+    {
+      "kind": "ranking",
+      "heading": "The Indiana Jones Movie Rankings",
+      "note": "best to worst",
+      "subject": "Indiana Jones",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Raiders of the Lost Ark",
+          "year": 1981,
+          "note": "No. 1 - '1A,' the sacred text. Sean insists it should have been an autogreen in the Hall of Fame; even Amanda concedes it."
+        },
+        {
+          "title": "Indiana Jones and the Last Crusade",
+          "year": 1989,
+          "note": "No. 2 - '1B.' Amanda's personal favorite; the Grail-vs-Ark 'is it in the Bible' argument runs the whole segment."
+        },
+        {
+          "title": "Indiana Jones and the Temple of Doom",
+          "year": 1984,
+          "note": "No. 3 - gets it on historic weight over Dial, despite Willie and the culturally insensitive material. Practical Spielberg set pieces carry it."
+        },
+        {
+          "title": "Indiana Jones and the Dial of Destiny",
+          "year": 2023,
+          "note": "No. 4 - 'higher in my heart while being at four.' More fulfilling than Temple, but bloated and burdened by the whole franchise's weight."
+        },
+        {
+          "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+          "year": 2008,
+          "note": "No. 5 - not as bad on rewatch as remembered for an hour, then the last 45 minutes and the alien reveal sink it. A huge misfire at the end."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Harrison Ford, elsewhere",
+      "films": [
+        "Working Girl",
+        "The Mosquito Coast",
+        "Star Wars",
+        "American Graffiti"
+      ]
+    },
+    {
+      "group": "James Mangold, elsewhere",
+      "films": [
+        "Logan",
+        "Ford v Ferrari"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Glass Onion: A Knives Out Mystery",
+        "No Time to Die",
+        "Once Upon a Time in Hollywood",
+        "Solo: A Star Wars Story",
+        "Elemental",
+        "Valkyrie"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "1923",
+      "Shrinking",
+      "Dark",
+      "Fleabag"
+    ],
+    "Ads": [
+      "Netflix FIFA World Cup Launch Edition",
+      "Boar's Head",
+      "Ringer FC"
+    ]
+  },
+  "tmdb": {
+    "Indiana Jones and the Dial of Destiny": {
+      "id": 335977,
+      "poster": "/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",
+      "title": "Indiana Jones and the Dial of Destiny",
+      "year": 2023
+    },
+    "Raiders of the Lost Ark": {
+      "id": 85,
+      "poster": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+      "title": "Raiders of the Lost Ark",
+      "year": 1981
+    },
+    "Indiana Jones and the Last Crusade": {
+      "id": 89,
+      "poster": "/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg",
+      "title": "Indiana Jones and the Last Crusade",
+      "year": 1989
+    },
+    "Indiana Jones and the Temple of Doom": {
+      "id": 87,
+      "poster": "/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg",
+      "title": "Indiana Jones and the Temple of Doom",
+      "year": 1984
+    },
+    "Indiana Jones and the Kingdom of the Crystal Skull": {
+      "id": 217,
+      "poster": "/56As6XEM1flWvprX4LgkPl8ii4K.jpg",
+      "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+      "year": 2008
+    },
+    "Working Girl": {
+      "id": 3525,
+      "poster": "/q2jfFzZvAzjTaArQR0tjilIZ5aJ.jpg",
+      "title": "Working Girl",
+      "year": 1988
+    },
+    "The Mosquito Coast": {
+      "id": 11120,
+      "poster": "/8A1iDYSp8H5WORWZVCV3E3SpkGD.jpg",
+      "title": "The Mosquito Coast",
+      "year": 1986
+    },
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
+    },
+    "American Graffiti": {
+      "id": 838,
+      "poster": "/1tjLivPad2PX8FAzWko7FPIb8d2.jpg",
+      "title": "American Graffiti",
+      "year": 1973
+    },
+    "Logan": {
+      "id": 263115,
+      "poster": "/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+      "title": "Logan",
+      "year": 2017
+    },
+    "Ford v Ferrari": {
+      "id": 359724,
+      "poster": "/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+      "title": "Ford v Ferrari",
+      "year": 2019
+    },
+    "Glass Onion: A Knives Out Mystery": {
+      "id": 661374,
+      "poster": "/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
+      "title": "Glass Onion: A Knives Out Mystery",
+      "year": 2022
+    },
+    "No Time to Die": {
+      "id": 370172,
+      "poster": "/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+      "title": "No Time to Die",
+      "year": 2021
+    },
+    "Once Upon a Time in Hollywood": {
+      "id": 466272,
+      "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+      "title": "Once Upon a Time... in Hollywood",
+      "year": 2019
+    },
+    "Solo: A Star Wars Story": {
+      "id": 348350,
+      "poster": "/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg",
+      "title": "Solo: A Star Wars Story",
+      "year": 2018
+    },
+    "Elemental": {
+      "id": 976573,
+      "poster": "/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg",
+      "title": "Elemental",
+      "year": 2023
+    },
+    "Valkyrie": {
+      "id": 2253,
+      "poster": "/8eoRtXswC8IQDsqW7iJWO56NhAv.jpg",
+      "title": "Valkyrie",
+      "year": 2008
+    }
+  }
+}

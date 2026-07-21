@@ -1,0 +1,968 @@
+{
+  "slug": "the-second-annual-alternative-academy-awards-a-k-a-the-big-p",
+  "title": "The Second Annual Alternative Academy Awards (a.k.a. The Big Picks!), With Wesley Morris",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Wesley Morris"
+  ],
+  "published": "2021-04-20",
+  "runtimeMin": 106,
+  "format": "Sean, Amanda, and Wesley Morris run the Big Picks back for year two: a verdict on Soderbergh's no-Zoom Oscars and the Amazon problem in Nomadland, then invented categories and six reimagined real ones. Time wins Best Picture, Ben Affleck wins Best Actor, and Wesley picks a fight with a nine-year-old.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "State of the 2021 Oscars",
+      "note": "before the ballots",
+      "films": [
+        {
+          "title": "The Trial of the Chicago 7",
+          "year": 2020,
+          "note": "Sean didn't realize it was Oscar-eligible until pundits started floating Sacha Baron Cohen for supporting actor."
+        },
+        {
+          "title": "Judas and the Black Messiah",
+          "year": 2021,
+          "note": "Wesley meets it on its own terms, as a two-hour action movie about a spy; Amanda wants more interest in what William O'Neal's betrayal actually means."
+        },
+        {
+          "title": "Nomadland",
+          "year": 2020,
+          "note": "The presumptive winner. Wesley's read: a well-made, palatable movie about domestic grief that flinches from the rage underneath it, especially once the scene with Fern's sister explains her away."
+        },
+        {
+          "title": "Sorry We Missed You",
+          "year": 2019,
+          "note": "Wesley's counterpoint: Ken Loach's actual screed against the Amazon business model, with none of Nomadland's ambiguity, and no path to an Oscar nomination."
+        },
+        {
+          "title": "Minari",
+          "year": 2020,
+          "note": "Cited as one of the good things a broken, streaming-driven Oscar season still let through."
+        },
+        {
+          "title": "Mank",
+          "year": 2020,
+          "note": "The most Oscar-shaped nominee almost by design: a David Fincher movie about writing the idea of Citizen Kane, not even about making it."
+        },
+        {
+          "title": "News of the World",
+          "year": 2020,
+          "note": "Sean's example of a movie that could easily have filled a Best Picture slot this thin."
+        },
+        {
+          "title": "Godzilla vs. Kong",
+          "year": 2021,
+          "note": "The only movie making real money in the U.S. this year, which Wesley reads as proof audiences want event movies, not anything like this year's Best Picture slate."
+        },
+        {
+          "title": "Let Them All Talk",
+          "year": 2020,
+          "note": "What Wesley actually wants from Soderbergh right now, as opposed to producing a stripped-down Oscars broadcast."
+        },
+        {
+          "title": "Dune",
+          "year": 2021,
+          "note": "Sean's test case for whether the Academy can still get behind a real blockbuster."
+        },
+        {
+          "title": "Borat Subsequent Moviefilm",
+          "year": 2020,
+          "note": "Comes up for the joke about a Kazakhstan satellite-viewing site and Sacha Baron Cohen's own supporting buzz."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The Coogler pipeline",
+      "note": "indie cred as leverage",
+      "films": [
+        {
+          "title": "Fruitvale Station",
+          "year": 2013,
+          "note": "Wesley's starting point for Ryan Coogler: a true story that announced him."
+        },
+        {
+          "title": "Creed",
+          "year": 2015,
+          "note": "IP Coogler had an actual reason to take on, in Wesley's telling: reviving a franchise rather than just servicing it."
+        },
+        {
+          "title": "Black Panther",
+          "year": 2018,
+          "note": "The blockbuster payoff: historic, and a hit, whatever else you think about it."
+        },
+        {
+          "title": "Schindler's List",
+          "year": 1993,
+          "note": "Sean's precedent: Spielberg banked enough studio hits that his passion project became a box-office smash too."
+        }
+      ]
+    },
+    {
+      "kind": "awards",
+      "heading": "The made-up categories",
+      "note": "the awards the Academy should add",
+      "categories": [
+        {
+          "name": "Best First Feature",
+          "winner": "The Forty-Year-Old Version",
+          "nominees": [
+            {
+              "title": "Palm Springs",
+              "year": 2020,
+              "person": "Max Barbakow"
+            },
+            {
+              "title": "Sound of Metal",
+              "year": 2019,
+              "person": "Darius Marder",
+              "note": "Nominated for the real Best Picture, which Amanda says only proves it belongs here instead."
+            },
+            {
+              "title": "The Forty-Year-Old Version",
+              "year": 2020,
+              "person": "Radha Blank",
+              "note": "Winner. Wesley: \"She's got it. She has won my heart, and she's won it forever.\""
+            }
+          ]
+        },
+        {
+          "name": "Breakthrough Performance",
+          "winner": "First Cow",
+          "nominees": [
+            {
+              "title": "Never Rarely Sometimes Always",
+              "year": 2020,
+              "person": "Sidney Flanigan"
+            },
+            {
+              "title": "First Cow",
+              "year": 2019,
+              "person": "Orion Lee",
+              "note": "Winner. Wesley's favorite Kelly Reichardt performance she's gotten out of an actor: the only person in the movie who smiles."
+            },
+            {
+              "title": "The Forty-Year-Old Version",
+              "year": 2020,
+              "person": "Radha Blank",
+              "note": "Already has an Alternative Academy Award elsewhere on the ballot, so the hosts pass here."
+            },
+            {
+              "title": "The United States vs. Billie Holiday",
+              "year": 2021,
+              "person": "Andra Day",
+              "note": "Wesley: mesmerizing in a movie he otherwise didn't think worked."
+            },
+            {
+              "title": "Happiest Season",
+              "year": 2020,
+              "person": "Aubrey Plaza",
+              "note": "Amanda's pick, and the one she most wants to talk about."
+            }
+          ]
+        },
+        {
+          "name": "Best Cameo",
+          "winner": "Soul",
+          "nominees": [
+            {
+              "title": "Soul",
+              "year": 2020,
+              "person": "The New York Knicks",
+              "note": "Winner. Sean votes for it as a joke at his own expense, since the Knicks are on a win streak as they record this."
+            },
+            {
+              "title": "I'm Thinking of Ending Things",
+              "year": 2020,
+              "person": "Robert Zemeckis",
+              "note": "He never actually appears, but shows up in spirit for what Amanda calls the funniest moment in the film."
+            },
+            {
+              "title": "The Assistant",
+              "year": 2019,
+              "person": "Patrick Wilson"
+            }
+          ]
+        },
+        {
+          "name": "Best Kid Performance",
+          "winner": "Minari",
+          "nominees": [
+            {
+              "title": "Minari",
+              "year": 2020,
+              "person": "Alan Kim",
+              "note": "Winner, over Wesley's objections: he finds the character's cuteness overwhelms the movie, but gets outvoted."
+            },
+            {
+              "title": "Boys State",
+              "year": 2020,
+              "person": "Steven Garza & Rene Otero"
+            },
+            {
+              "title": "News of the World",
+              "year": 2020,
+              "person": "Helena Zengel"
+            }
+          ]
+        },
+        {
+          "name": "Best Casting",
+          "winner": "The Last Dance",
+          "nominees": [
+            {
+              "title": "The Last Dance",
+              "year": 2020,
+              "note": "Winner. Sean's case: casting like this (Michael Jordan plus everyone willing to talk about him) can never happen again."
+            },
+            {
+              "title": "The King of Staten Island",
+              "year": 2020,
+              "note": "The movie doesn't fully work, Sean says, but the people in it do."
+            },
+            {
+              "title": "Bacurau",
+              "year": 2019
+            },
+            {
+              "title": "Boys State",
+              "year": 2020,
+              "note": "Amanda's vote: the film doesn't exist without finding these specific kids."
+            },
+            {
+              "title": "Tenet",
+              "year": 2020,
+              "note": "Amanda's inclusion, which she calls an underrated good hang, sport coats and all."
+            }
+          ]
+        },
+        {
+          "name": "Best Action Sequence",
+          "winner": "Pieces of a Woman",
+          "nominees": [
+            {
+              "title": "Dick Johnson Is Dead",
+              "year": 2020
+            },
+            {
+              "title": "Tenet",
+              "year": 2020,
+              "person": "the highway chase"
+            },
+            {
+              "title": "Birds of Prey",
+              "year": 2020,
+              "person": "the roller-skate chase"
+            },
+            {
+              "title": "Pieces of a Woman",
+              "year": 2020,
+              "person": "the birth scene",
+              "note": "Winner, added at the last minute. Wesley calls it some of the most visceral filmmaking he's seen all year, in a movie he thinks loses its way after."
+            }
+          ]
+        },
+        {
+          "name": "Best Ending",
+          "winner": "Another Round",
+          "nominees": [
+            {
+              "title": "Bacurau",
+              "year": 2019
+            },
+            {
+              "title": "Time",
+              "year": 2020
+            },
+            {
+              "title": "Collective",
+              "year": 2019
+            },
+            {
+              "title": "Another Round",
+              "year": 2020,
+              "note": "Winner, by Sean's decree. He loves the ending unreservedly; Wesley still isn't sold on what it's saying about the drinking."
+            },
+            {
+              "title": "Tenet",
+              "year": 2020
+            }
+          ]
+        },
+        {
+          "name": "The Glenn Close Memorial \"It's Time\" Oscar",
+          "note": "honorary, for whoever the Academy keeps snubbing",
+          "winner": "Hillbilly Elegy",
+          "nominees": [
+            {
+              "title": "Hillbilly Elegy",
+              "year": 2020,
+              "person": "Glenn Close",
+              "note": "Winner, honorary. Amanda won't say the title out loud but wants Close to stop losing this category to ingenues and British actors."
+            },
+            {
+              "title": "Mank",
+              "year": 2020,
+              "person": "Amanda Seyfried",
+              "note": "Wesley likes her a lot here, but there's only one winner."
+            },
+            {
+              "title": "Da 5 Bloods",
+              "year": 2020,
+              "person": "Delroy Lindo",
+              "note": "Sean's addendum: Lindo should already have one, for Clockers (1995) or Crooklyn (1994)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "awards",
+      "heading": "The six categories that actually exist",
+      "note": "their alternate nominees and winners",
+      "ceremony": "93rd Academy Awards",
+      "categories": [
+        {
+          "name": "Best Supporting Actor",
+          "winner": "One Night in Miami...",
+          "nominees": [
+            {
+              "title": "Driveways",
+              "year": 2019,
+              "person": "Brian Dennehy"
+            },
+            {
+              "title": "Birds of Prey",
+              "year": 2020,
+              "person": "Ewan McGregor"
+            },
+            {
+              "title": "Tenet",
+              "year": 2020,
+              "person": "Robert Pattinson"
+            },
+            {
+              "title": "One Night in Miami...",
+              "year": 2020,
+              "person": "Eli Goree",
+              "note": "Winner, playing Muhammad Ali. The closest of the four to pure mimicry, which the hosts agree is its own kind of hard."
+            },
+            {
+              "title": "On the Rocks",
+              "year": 2020,
+              "person": "Bill Murray",
+              "note": "Sean's pick, not Amanda's. She makes a point of saying she didn't put it on the list."
+            }
+          ]
+        },
+        {
+          "name": "Best Supporting Actress",
+          "winner": "Let Them All Talk",
+          "nominees": [
+            {
+              "title": "Shithouse",
+              "year": 2020,
+              "person": "Dylan Gelula"
+            },
+            {
+              "title": "Let Him Go",
+              "year": 2020,
+              "person": "Lesley Manville",
+              "note": "Wesley's pick: like her Phantom Thread character raised in Montana to be the worst person on earth, gnawing every bit of scenery in sight."
+            },
+            {
+              "title": "Let Them All Talk",
+              "year": 2020,
+              "person": "Candice Bergen",
+              "note": "Winner. Wesley concedes it to Amanda's enthusiasm."
+            },
+            {
+              "title": "Judas and the Black Messiah",
+              "year": 2021,
+              "person": "Dominique Fishback"
+            },
+            {
+              "title": "Nomadland",
+              "year": 2020,
+              "person": "Charlene Swankie",
+              "note": "Wesley's actual vote. He's surprised there was no campaign for Nomadland's non-professional cast."
+            }
+          ]
+        },
+        {
+          "name": "Best Actor",
+          "winner": "The Way Back",
+          "nominees": [
+            {
+              "title": "Bad Education",
+              "year": 2019,
+              "person": "Hugh Jackman",
+              "note": "Ineligible in real life: an HBO movie."
+            },
+            {
+              "title": "Mangrove",
+              "year": 2020,
+              "person": "Shaun Parkes"
+            },
+            {
+              "title": "The Way Back",
+              "year": 2020,
+              "person": "Ben Affleck",
+              "note": "Winner, by acclamation. \"Core Big Pick values,\" Sean says."
+            },
+            {
+              "title": "Another Round",
+              "year": 2020,
+              "person": "Mads Mikkelsen"
+            },
+            {
+              "title": "One Night in Miami...",
+              "year": 2020,
+              "person": "Kingsley Ben-Adir",
+              "note": "The hosts can't understand why the real Oscars pre-decided Leslie Odom Jr. was their Malcolm X nominee before anyone had seen the movie."
+            }
+          ]
+        },
+        {
+          "name": "Best Actress",
+          "winner": "I'm Thinking of Ending Things",
+          "nominees": [
+            {
+              "title": "The Invisible Man",
+              "year": 2020,
+              "person": "Elisabeth Moss",
+              "note": "One half of a dual nomination for Moss; the hosts wonder why the Academy still reads her as a TV actress."
+            },
+            {
+              "title": "Shirley",
+              "year": 2020,
+              "person": "Elisabeth Moss",
+              "note": "The other half of Moss's dual nomination."
+            },
+            {
+              "title": "I'm Thinking of Ending Things",
+              "year": 2020,
+              "person": "Jessie Buckley",
+              "note": "Winner. Wesley argues she's asked to give three or four different performances inside one Kaufman script, including three minutes as Pauline Kael."
+            },
+            {
+              "title": "The Assistant",
+              "year": 2019,
+              "person": "Julia Garner",
+              "note": "Amanda's real vote, jokingly reduced to \"the Ozark queen.\""
+            },
+            {
+              "title": "Miss Juneteenth",
+              "year": 2020,
+              "person": "Nicole Beharie",
+              "note": "Sean's pick, in a movie he found charming even where it doesn't fully work."
+            }
+          ]
+        },
+        {
+          "name": "Best Director",
+          "winner": "Never Rarely Sometimes Always",
+          "nominees": [
+            {
+              "title": "Possessor",
+              "year": 2020,
+              "person": "Brandon Cronenberg"
+            },
+            {
+              "title": "Small Axe",
+              "year": 2020,
+              "person": "Steve McQueen"
+            },
+            {
+              "title": "Never Rarely Sometimes Always",
+              "year": 2020,
+              "person": "Eliza Hittman",
+              "note": "Winner. Amanda's case: turning a process movie about bureaucracy into a lived-in, suspenseful tragedy about one young woman and every young woman."
+            },
+            {
+              "title": "Time",
+              "year": 2020,
+              "person": "Garrett Bradley"
+            },
+            {
+              "title": "Bacurau",
+              "year": 2019,
+              "person": "Juliano Dornelles & Kleber Mendonça Filho",
+              "note": "Wesley's opening pick: a near-invisible collision of comedy, suspense, and satire."
+            }
+          ]
+        },
+        {
+          "name": "Best Picture",
+          "winner": "Time",
+          "nominees": [
+            {
+              "title": "Soul",
+              "year": 2020
+            },
+            {
+              "title": "Let Them All Talk",
+              "year": 2020
+            },
+            {
+              "title": "Another Round",
+              "year": 2020
+            },
+            {
+              "title": "Bacurau",
+              "year": 2019
+            },
+            {
+              "title": "The Forty-Year-Old Version",
+              "year": 2020
+            },
+            {
+              "title": "Collective",
+              "year": 2019
+            },
+            {
+              "title": "City Hall",
+              "year": 2020
+            },
+            {
+              "title": "Time",
+              "year": 2020,
+              "note": "Winner. Wesley disliked it on first watch, then turned himself around completely on a rewatch: a black-and-white portrait of a family fighting for a husband's release from prison."
+            },
+            {
+              "title": "Sound of Metal",
+              "year": 2019
+            },
+            {
+              "title": "Palm Springs",
+              "year": 2020
+            },
+            {
+              "title": "Never Rarely Sometimes Always",
+              "year": 2020
+            },
+            {
+              "title": "David Byrne's American Utopia",
+              "year": 2020,
+              "note": "Sean's pick for the one movie on the list that just made him feel good."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Oscar-history touchstones",
+      "films": [
+        "Green Book",
+        "Get Out"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Waves",
+        "Us",
+        "French Exit",
+        "Sylvie's Love",
+        "Black Bear",
+        "Scary Movie 2",
+        "The Paperboy",
+        "My Octopus Teacher"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Falcon and the Winter Soldier",
+      "Bridgerton",
+      "Jake and the Fat Man",
+      "The Handmaid's Tale",
+      "Parks and Recreation",
+      "Ozark"
+    ],
+    "Ads": [
+      "The Press Box",
+      "Tremfya",
+      "Wells Fargo Active Cash",
+      "Boar's Head",
+      "NOS Energy",
+      "Carvana"
+    ]
+  },
+  "tmdbOverrides": {
+    "Borat Subsequent Moviefilm": 740985,
+    "Time": 653729,
+    "Birds of Prey": 495764,
+    "The Last Dance": null
+  },
+  "tmdb": {
+    "The Trial of the Chicago 7": {
+      "id": 556984,
+      "poster": "/ahf5cVdooMAlDRiJOZQNuLqa1Is.jpg",
+      "title": "The Trial of the Chicago 7",
+      "year": 2020
+    },
+    "Judas and the Black Messiah": {
+      "id": 583406,
+      "poster": "/iIgr75GoqFxe1X5Wz9siOODGe9u.jpg",
+      "title": "Judas and the Black Messiah",
+      "year": 2021
+    },
+    "Nomadland": {
+      "id": 581734,
+      "poster": "/8Vc5EOUEIF1EUXuX9eLFf7BvN3P.jpg",
+      "title": "Nomadland",
+      "year": 2021
+    },
+    "Sorry We Missed You": {
+      "id": 522369,
+      "poster": "/jNvlqNDnXH8aqBeiBxNNP0wWWO3.jpg",
+      "title": "Sorry We Missed You",
+      "year": 2019
+    },
+    "Minari": {
+      "id": 615643,
+      "poster": "/6mPNdmjdbVKPITv3LLCmQoKs9Zw.jpg",
+      "title": "Minari",
+      "year": 2021
+    },
+    "Mank": {
+      "id": 614560,
+      "poster": "/4yzTcAtvzyZLLto4z04xobUK9el.jpg",
+      "title": "Mank",
+      "year": 2020
+    },
+    "News of the World": {
+      "id": 581032,
+      "poster": "/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+      "title": "News of the World",
+      "year": 2020
+    },
+    "Godzilla vs. Kong": {
+      "id": 399566,
+      "poster": "/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+      "title": "Godzilla vs. Kong",
+      "year": 2021
+    },
+    "Let Them All Talk": {
+      "id": 623856,
+      "poster": "/4mhZqZ7nXL6Dj6PKZSseJxv1qXZ.jpg",
+      "title": "Let Them All Talk",
+      "year": 2020
+    },
+    "Dune": {
+      "id": 438631,
+      "poster": "/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+      "title": "Dune",
+      "year": 2021
+    },
+    "Borat Subsequent Moviefilm": {
+      "id": 740985,
+      "poster": "/3L1Ml5RWjFVfVq3rQENvgFymT0U.jpg",
+      "title": "Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan",
+      "year": 2020
+    },
+    "Fruitvale Station": {
+      "id": 157354,
+      "poster": "/oXSy3nEKFtfw5iRxdG8ouEFAnxs.jpg",
+      "title": "Fruitvale Station",
+      "year": 2013
+    },
+    "Creed": {
+      "id": 312221,
+      "poster": "/1BfTsk5VWuw8FCocAhCyqnRbEzq.jpg",
+      "title": "Creed",
+      "year": 2015
+    },
+    "Black Panther": {
+      "id": 284054,
+      "poster": "/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+      "title": "Black Panther",
+      "year": 2018
+    },
+    "Schindler's List": {
+      "id": 424,
+      "poster": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+      "title": "Schindler's List",
+      "year": 1993
+    },
+    "Palm Springs": {
+      "id": 587792,
+      "poster": "/gnAfqiV7yO3Jq9IntTmwkcaICqc.jpg",
+      "title": "Palm Springs",
+      "year": 2020
+    },
+    "Sound of Metal": {
+      "id": 502033,
+      "poster": "/3178oOJKKPDeQ2legWQvMPpllv.jpg",
+      "title": "Sound of Metal",
+      "year": 2020
+    },
+    "The Forty-Year-Old Version": {
+      "id": 620897,
+      "poster": "/ilMExVn5xyfIWAnqngqAB0OFsE5.jpg",
+      "title": "The Forty-Year-Old Version",
+      "year": 2020
+    },
+    "Never Rarely Sometimes Always": {
+      "id": 595671,
+      "poster": "/7yiSyQhhjTFphhfCUcn05tCQxyG.jpg",
+      "title": "Never Rarely Sometimes Always",
+      "year": 2020
+    },
+    "First Cow": {
+      "id": 558582,
+      "poster": "/yS41crZ1i0fFxCQbuL7I1Y1VBwm.jpg",
+      "title": "First Cow",
+      "year": 2020
+    },
+    "The United States vs. Billie Holiday": {
+      "id": 566076,
+      "poster": "/vEzkxuE2sJcmHYjXQHM8xvR9ICH.jpg",
+      "title": "The United States vs. Billie Holiday",
+      "year": 2021
+    },
+    "Happiest Season": {
+      "id": 520172,
+      "poster": "/vzec9kkOSE93tygyfOktedkeOQ.jpg",
+      "title": "Happiest Season",
+      "year": 2020
+    },
+    "Soul": {
+      "id": 508442,
+      "poster": "/6jmppcaubzLF8wkXM36ganVISCo.jpg",
+      "title": "Soul",
+      "year": 2020
+    },
+    "I'm Thinking of Ending Things": {
+      "id": 500840,
+      "poster": "/5ynWWapdl45hJXUh0KIevxSG9JQ.jpg",
+      "title": "I'm Thinking of Ending Things",
+      "year": 2020
+    },
+    "The Assistant": {
+      "id": 627463,
+      "poster": "/zJpJkVgezsR7dp6KQwyxtGIAOZv.jpg",
+      "title": "The Assistant",
+      "year": 2020
+    },
+    "Boys State": {
+      "id": 653723,
+      "poster": "/cuvt3ImM3wQdijib7OeIH48uRfQ.jpg",
+      "title": "Boys State",
+      "year": 2020
+    },
+    "The Last Dance": null,
+    "The King of Staten Island": {
+      "id": 579583,
+      "poster": "/zQFjMmE3K9AX5QrBL1SXIxYQ9jz.jpg",
+      "title": "The King of Staten Island",
+      "year": 2020
+    },
+    "Bacurau": {
+      "id": 446159,
+      "poster": "/tBa4zMGzZUco26XT3WfZZCwQ76i.jpg",
+      "title": "Bacurau",
+      "year": 2019
+    },
+    "Tenet": {
+      "id": 577922,
+      "poster": "/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",
+      "title": "Tenet",
+      "year": 2020
+    },
+    "Dick Johnson Is Dead": {
+      "id": 653574,
+      "poster": "/vnfI34kmi3fcdgP7HZjIgGOJHGY.jpg",
+      "title": "Dick Johnson Is Dead",
+      "year": 2020
+    },
+    "Birds of Prey": {
+      "id": 495764,
+      "poster": "/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
+      "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "year": 2020
+    },
+    "Pieces of a Woman": {
+      "id": 641662,
+      "poster": "/OgUfLlhfBFx5BPK6LzBWFvBW1w.jpg",
+      "title": "Pieces of a Woman",
+      "year": 2020
+    },
+    "Time": {
+      "id": 653729,
+      "poster": "/2yLZmlf6vdpkhTaD0oUmIFu8SsM.jpg",
+      "title": "Time",
+      "year": 2020
+    },
+    "Collective": {
+      "id": 618363,
+      "poster": "/oR93n0CAn2GznyHDFSRTp0J1t8c.jpg",
+      "title": "Collective",
+      "year": 2019
+    },
+    "Another Round": {
+      "id": 580175,
+      "poster": "/aDcIt4NHURLKnAEu7gow51Yd00Q.jpg",
+      "title": "Another Round",
+      "year": 2020
+    },
+    "Hillbilly Elegy": {
+      "id": 592984,
+      "poster": "/aA0D6DKIfLtXYNy94Qq2IW5NiGR.jpg",
+      "title": "Hillbilly Elegy",
+      "year": 2020
+    },
+    "Da 5 Bloods": {
+      "id": 581859,
+      "poster": "/yx4cp1ljJMDSFeEex0Zjv45b55E.jpg",
+      "title": "Da 5 Bloods",
+      "year": 2020
+    },
+    "Driveways": {
+      "id": 568994,
+      "poster": "/4kxgyi84VkgRyyPl6hQih0uCMCB.jpg",
+      "title": "Driveways",
+      "year": 2020
+    },
+    "One Night in Miami...": {
+      "id": 661914,
+      "poster": "/1DLUb9PTDqXMSgsD7RmiJs7ZJIx.jpg",
+      "title": "One Night in Miami...",
+      "year": 2020
+    },
+    "On the Rocks": {
+      "id": 575417,
+      "poster": "/fcijRCmB7yTtloh4Pumy9b1rkwU.jpg",
+      "title": "On the Rocks",
+      "year": 2020
+    },
+    "Shithouse": {
+      "id": 637053,
+      "poster": "/lyOajZgP8Iy3JdVgvaiBv9K5OMH.jpg",
+      "title": "Shithouse",
+      "year": 2020
+    },
+    "Let Him Go": {
+      "id": 596161,
+      "poster": "/EsLZoT8oHhQlGd1QpdbnvnwTzO.jpg",
+      "title": "Let Him Go",
+      "year": 2020
+    },
+    "Bad Education": {
+      "id": 530723,
+      "poster": "/gizz5FphOtfSnLaGpRALOZgILd5.jpg",
+      "title": "Bad Education",
+      "year": 2019
+    },
+    "Mangrove": null,
+    "The Way Back": {
+      "id": 529485,
+      "poster": "/ylPnfaphW3FrLBUVwAREVtiL9My.jpg",
+      "title": "The Way Back",
+      "year": 2020
+    },
+    "The Invisible Man": {
+      "id": 570670,
+      "poster": "/5EufsDwXdY2CVttYOk2WtYhgKpa.jpg",
+      "title": "The Invisible Man",
+      "year": 2020
+    },
+    "Shirley": {
+      "id": 547017,
+      "poster": "/iSwTnNS7TKAS79Sz9LvyqlBxxrU.jpg",
+      "title": "Shirley",
+      "year": 2020
+    },
+    "Miss Juneteenth": {
+      "id": 653668,
+      "poster": "/5aueUTOvA8Y6A4eteDwhgo8ReX8.jpg",
+      "title": "Miss Juneteenth",
+      "year": 2020
+    },
+    "Possessor": {
+      "id": 435615,
+      "poster": "/xC9GZeJZ3NagdkGg9nLQx0aPG6J.jpg",
+      "title": "Possessor",
+      "year": 2020
+    },
+    "Small Axe": null,
+    "City Hall": {
+      "id": 726041,
+      "poster": "/2tVjql9HmDw7ZP1nIqfT7RpoT3E.jpg",
+      "title": "City Hall",
+      "year": 2020
+    },
+    "David Byrne's American Utopia": {
+      "id": 668800,
+      "poster": "/sHVeVCNhlY2asvoGsSMP5HOLbCI.jpg",
+      "title": "David Byrne's American Utopia",
+      "year": 2020
+    },
+    "Green Book": {
+      "id": 490132,
+      "poster": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+      "title": "Green Book",
+      "year": 2018
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Waves": {
+      "id": 533444,
+      "poster": "/3xbjL0z8iH8e8L3USyeKGQrBfuZ.jpg",
+      "title": "Waves",
+      "year": 2019
+    },
+    "Us": {
+      "id": 458723,
+      "poster": "/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+      "title": "Us",
+      "year": 2019
+    },
+    "French Exit": {
+      "id": 599960,
+      "poster": "/l5iZuQr62YCs72AZ9P3HwApowaC.jpg",
+      "title": "French Exit",
+      "year": 2021
+    },
+    "Sylvie's Love": {
+      "id": 584288,
+      "poster": "/48P3lTdsg19OfmrD5av0VJYcjLM.jpg",
+      "title": "Sylvie's Love",
+      "year": 2020
+    },
+    "Black Bear": {
+      "id": 624788,
+      "poster": "/nqZFjQRWfW6PjFTc17pzJ5LRAAv.jpg",
+      "title": "Black Bear",
+      "year": 2020
+    },
+    "Scary Movie 2": {
+      "id": 4248,
+      "poster": "/7Eb1JWK0Cb0rbfsYjwfc9g0PbQH.jpg",
+      "title": "Scary Movie 2",
+      "year": 2001
+    },
+    "The Paperboy": {
+      "id": 82390,
+      "poster": "/AiALtw5Nl4adb6oO4VndBPo3RkQ.jpg",
+      "title": "The Paperboy",
+      "year": 2012
+    },
+    "My Octopus Teacher": {
+      "id": 682110,
+      "poster": "/hvTVZb7hBC8tZAGoEhH5eiMJu2B.jpg",
+      "title": "My Octopus Teacher",
+      "year": 2020
+    }
+  }
+}

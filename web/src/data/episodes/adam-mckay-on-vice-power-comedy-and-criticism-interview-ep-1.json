@@ -1,0 +1,194 @@
+{
+  "slug": "adam-mckay-on-vice-power-comedy-and-criticism-interview-ep-1",
+  "title": "Adam McKay on ‘Vice,’ Power, Comedy, and Criticism | Interview (Ep. 114)",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey"
+  ],
+  "published": "2019-01-04",
+  "runtimeMin": 33,
+  "format": "Sean Fennessey talks to Adam McKay about Vice, the 50-year story behind Dick Cheney, the heart attack he had after the shoot, and why this is the least cool movie he has made.",
+  "segments": [
+    {
+      "kind": "interview",
+      "heading": "Adam McKay on 'Vice'",
+      "guest": "Adam McKay on",
+      "films": [
+        {
+          "title": "Vice",
+          "year": 2018,
+          "note": "The subject. McKay set out to make a portrait of a man, then found the first act was really Lynne Cheney's, and had to fold in the 50-year rise of the Republican right around him. He cut a musical number and a teenage-love run that tested badly, reordered the opening around the DUI and 9/11, and says Hank Corwin's cutaways (fly fishing, a lion taking prey) doubled in the edit. Sourced from Jane Mayer, Ron Suskind, and Barton Gellman. He had a heart attack after the shoot."
+        },
+        {
+          "title": "The Big Short",
+          "year": 2015,
+          "note": "His pivot away from comedy, adapted from a book he loved after the script stalled at Plan B. He argues banks aren't polarizing the way Vice is, and that the financial collapse and the Republican revolution harmonize: deregulation let bank money buy off Congress."
+        },
+        {
+          "title": "Step Brothers",
+          "year": 2008,
+          "note": "His touchstone for making peace with hostile reviews. He and Will Farrell agreed up front that a fart joke meant no good notices; he jokes it landed 50 percent good, 50 percent bad."
+        },
+        {
+          "title": "Anchorman: The Legend of Ron Burgundy",
+          "year": 2004,
+          "note": "Where the 16mm short films Lorne Michaels let him direct at SNL, with cameos from Buscemi, Ben Stiller, and Willem Dafoe, eventually led."
+        },
+        {
+          "title": "The Man Who Would Be King",
+          "year": 1975,
+          "note": "Named among his favorite movies as proof he'll watch anything."
+        },
+        {
+          "title": "Breaking Away",
+          "year": 1979,
+          "note": "Another lifelong favorite he rattles off."
+        },
+        {
+          "title": "One on One",
+          "year": 1977,
+          "note": "The Robby Benson movie, which he flags as a Bill Simmons favorite."
+        },
+        {
+          "title": "Airplane!",
+          "year": 1980,
+          "note": "Cited as the far end of his taste, right next to the prestige films."
+        },
+        {
+          "title": "Halloween",
+          "year": 1978,
+          "note": "\"One of my all-time favorite movies.\""
+        },
+        {
+          "title": "GoodFellas",
+          "year": 1990,
+          "note": "His yardstick for whether Vice plays arch: he wonders if the Cheney-Rumsfeld no-bid-contract exchange reads like Paul Sorvino, or just like what they'd actually have said."
+        },
+        {
+          "title": "Idiocracy",
+          "year": 2006,
+          "note": "One of his all-time favorite comedies, which he says streaming and cable rescued from being lost."
+        },
+        {
+          "title": "Office Space",
+          "year": 1999,
+          "note": "Paired with Idiocracy as a comedy that only found its audience through cable and streaming."
+        },
+        {
+          "title": "You Were Never Really Here",
+          "year": 2017,
+          "note": "His pick for the last great thing he's seen. He praises Lynne Ramsay's fractured, impressionistic style on a straightforward script, the Joaquin Phoenix two-hander, and, on a 12-year-old level, that the weapon is a hammer."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "In passing",
+      "films": [
+        "The Unknown Known"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Succession",
+      "Saturday Night Live"
+    ],
+    "Books": [
+      "Dark Money (Jane Mayer)",
+      "Invisible Hands (Kim Phillips-Fein)",
+      "Democracy in Chains"
+    ],
+    "Ads": [
+      "Ringer podcast network / Golden Globes livestream promo"
+    ]
+  },
+  "tmdb": {
+    "Vice": {
+      "id": 429197,
+      "poster": "/1gCab6rNv1r6V64cwsU4oEr649Y.jpg",
+      "title": "Vice",
+      "year": 2018
+    },
+    "The Big Short": {
+      "id": 318846,
+      "poster": "/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg",
+      "title": "The Big Short",
+      "year": 2015
+    },
+    "Step Brothers": {
+      "id": 12133,
+      "poster": "/nvggBbEraUTAVR6ffP3AaBUWSHs.jpg",
+      "title": "Step Brothers",
+      "year": 2008
+    },
+    "Anchorman: The Legend of Ron Burgundy": {
+      "id": 8699,
+      "poster": "/mhZIcRePT7U8viFQVjt1ZjYIsR4.jpg",
+      "title": "Anchorman: The Legend of Ron Burgundy",
+      "year": 2004
+    },
+    "The Man Who Would Be King": {
+      "id": 983,
+      "poster": "/xnEhm0CtgJoM9Z1dGGSQAwxU7oJ.jpg",
+      "title": "The Man Who Would Be King",
+      "year": 1975
+    },
+    "Breaking Away": {
+      "id": 20283,
+      "poster": "/k7b5GsVJK1hfdwoYqcczN9pBba6.jpg",
+      "title": "Breaking Away",
+      "year": 1979
+    },
+    "One on One": {
+      "id": 50379,
+      "poster": "/xCK4RkUpjt1aKivID3G8eWHnyFc.jpg",
+      "title": "One on One",
+      "year": 1977
+    },
+    "Airplane!": {
+      "id": 813,
+      "poster": "/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg",
+      "title": "Airplane!",
+      "year": 1980
+    },
+    "Halloween": {
+      "id": 948,
+      "poster": "/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+      "title": "Halloween",
+      "year": 1978
+    },
+    "GoodFellas": {
+      "id": 769,
+      "poster": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+      "title": "GoodFellas",
+      "year": 1990
+    },
+    "Idiocracy": {
+      "id": 7512,
+      "poster": "/6cTHBq49ApwsJaRr3ojlY1cmiXk.jpg",
+      "title": "Idiocracy",
+      "year": 2006
+    },
+    "Office Space": {
+      "id": 1542,
+      "poster": "/iEmTwOkUaLziMQCUZii5wPQBIAO.jpg",
+      "title": "Office Space",
+      "year": 1999
+    },
+    "You Were Never Really Here": {
+      "id": 398181,
+      "poster": "/nx4lUyQNEzJowcF55VAP0TQEaX0.jpg",
+      "title": "You Were Never Really Here",
+      "year": 2017
+    },
+    "The Unknown Known": {
+      "id": 209799,
+      "poster": "/8BiCtoif98SAhSRRNfshRL75xCW.jpg",
+      "title": "The Unknown Known",
+      "year": 2013
+    }
+  }
+}

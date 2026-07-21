@@ -23,6 +23,9 @@
   --paddle-1:   #c9a86a;  /* brass / gold */
   --paddle-2:   #83b0c4;  /* dusty blue */
   --paddle-3:   #cf6a60;  /* rose */
+  /* Per-host accent for auction standings/paddles; AuctionBody sets it inline per element. This
+     :root fallback keeps `var(--tone)` from resolving to nothing anywhere the inline value is absent. */
+  --tone:       var(--paddle-1);
 
   --display: 'Fraunces Variable', 'Times New Roman', Georgia, serif;
   --sans: 'Archivo Variable', system-ui, -apple-system, sans-serif;

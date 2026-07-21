@@ -59,7 +59,9 @@ test('no horizontal overflow (responsive fits the viewport)', async ({ page }) =
 });
 
 test('tap targets: episode links are large enough to tap', async ({ page }) => {
+  // Drift-proof: target the first (newest) card, not a hardcoded episode — the catalog grows
+  // and the homepage only renders the newest few cards.
   await page.goto('/');
-  const box = await page.getByRole('link', { name: /2026 Movie Auction Returns/i }).boundingBox();
+  const box = await page.locator('#catalog > .sale-card').first().boundingBox();
   expect(box!.height).toBeGreaterThanOrEqual(44); // iOS min tap target
 });

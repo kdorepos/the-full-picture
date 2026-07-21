@@ -36,6 +36,7 @@ URL="https://thefullpicture.app/ep/$slug"
 # out of any environment the agent could reach).
 TOK=$(grep -m1 '^CLAUDE_CODE_OAUTH_TOKEN=' .env | cut -d= -f2-)
 [ -n "$TOK" ] || { echo "verify: no CLAUDE_CODE_OAUTH_TOKEN in .env"; exit 1; }
+DEPLOY_HOOK=$(grep -m1 '^VERCEL_DEPLOY_HOOK=' .env | cut -d= -f2-)   # for the self-heal re-deploy only
 
 # Expected film/segment counts from the JSON, using the SAME formula as ep/[slug].astro's filmsIn.
 read -r EXP_FILMS EXP_SEGS TITLE < <(python3 - "$json" <<'PY'
@@ -52,34 +53,46 @@ PY
 )
 
 # --- Layer 1: liveness + render gate (deterministic) ---
-live=""
-for i in $(seq 1 24); do   # wait up to ~6 min for the deploy to propagate
-  [ "$(curl -s -o /dev/null -m 10 -w '%{http_code}' "$URL")" = "200" ] && { live=1; break; }
-  sleep 15
-done
-if [ -z "$live" ]; then
-  "$BF/alert.sh" "verify-live:$slug" "Verify FAILED: $slug not live after deploy" \
-    "Episode JSON is on \`main\` but $URL didn't return 200 after ~6 min — the deploy likely didn't land. Check Vercel; re-POST the deploy hook if needed."
-  echo "verify: $slug NOT LIVE"; exit 1
-fi
+# Populates the global `problems` array (empty = OK). Waits ~6 min for the live page.
+run_layer1() {
+  problems=(); local live="" i html got_films got_segs posters
+  for i in $(seq 1 24); do
+    [ "$(curl -s -o /dev/null -m 10 -w '%{http_code}' "$URL")" = "200" ] && { live=1; break; }
+    sleep 15
+  done
+  [ -z "$live" ] && { problems+=("page not live — no 200 after ~6 min (deploy didn't land)"); return; }
+  html=$(curl -s -m 20 "$URL")
+  got_films=$(echo "$html" | grep -oiE '<b>[0-9]+</b> films across' | grep -oE '[0-9]+' | head -1)
+  got_segs=$(echo "$html"  | grep -oiE 'across <b>[0-9]+</b>' | grep -oE '[0-9]+' | head -1)
+  posters=$(echo "$html" | grep -o 'image.tmdb.org' | wc -l)   # -o|wc, not grep -oc (which counts lines)
+  echo "$html" | grep -qF "$(echo "$TITLE" | sed 's/&/\&amp;/g; s/'"'"'/\&#39;/g')" || \
+    echo "$html" | grep -qF "${TITLE%% *}" || problems+=("episode title not found in the rendered page")
+  [ "${got_films:-x}" = "$EXP_FILMS" ] || problems+=("film count: page ${got_films:-?} vs JSON $EXP_FILMS")
+  [ "${got_segs:-x}" = "$EXP_SEGS" ]   || problems+=("segment count: page ${got_segs:-?} vs JSON $EXP_SEGS")
+  [ "$EXP_FILMS" -gt 0 ] && [ "${posters:-0}" -eq 0 ] && problems+=("no TMDb posters rendered")
+}
 
-html=$(curl -s -m 20 "$URL")
-got_films=$(echo "$html" | grep -oiE '<b>[0-9]+</b> films across' | grep -oE '[0-9]+' | head -1)
-got_segs=$(echo "$html"  | grep -oiE 'across <b>[0-9]+</b>' | grep -oE '[0-9]+' | head -1)
-posters=$(echo "$html" | grep -o 'image.tmdb.org' | wc -l)   # -o|wc, not grep -oc (which counts lines)
-problems=()
-echo "$html" | grep -qF "$(echo "$TITLE" | sed 's/&/\&amp;/g; s/'"'"'/\&#39;/g')" || \
-  echo "$html" | grep -qF "${TITLE%% *}" || problems+=("episode title not found in the rendered page")
-[ "${got_films:-x}" = "$EXP_FILMS" ] || problems+=("film count mismatch: page shows ${got_films:-?}, JSON has $EXP_FILMS")
-[ "${got_segs:-x}" = "$EXP_SEGS" ]   || problems+=("segment count mismatch: page shows ${got_segs:-?}, JSON has $EXP_SEGS")
-[ "$EXP_FILMS" -gt 0 ] && [ "${posters:-0}" -eq 0 ] && problems+=("no TMDb posters rendered (enrichment/render issue)")
-
+run_layer1
 if [ ${#problems[@]} -gt 0 ]; then
-  body=$(printf '%s\n' "Live page $URL rendered but doesn't match the published JSON:" "" "${problems[@]/#/- }")
-  "$BF/alert.sh" "verify-render:$slug" "Verify FAILED: $slug render mismatch" "$body"
-  echo "verify: $slug RENDER MISMATCH"; exit 1
+  # Self-heal (bounded, ONE attempt): every Layer-1 failure is a deploy-landing problem — the page
+  # isn't up, or a stale build shows counts that don't match the already-merged JSON. The safe fix is
+  # to RE-DEPLOY, not to re-extract content (re-extraction stays human-gated — it's the risky part).
+  # Re-trigger the deploy hook once and re-check; if it still fails, it's a genuine content/build
+  # issue that needs a human, not another automated retry.
+  if [ -n "$DEPLOY_HOOK" ]; then   # can only self-heal if we have a hook; else straight to the human
+    echo "verify: $slug layer-1 problems (${problems[*]}) — self-heal: re-deploy + re-check"
+    curl -s -m 25 -X POST "$DEPLOY_HOOK" >/dev/null 2>&1
+    sleep 60
+    run_layer1
+  fi
+  if [ ${#problems[@]} -gt 0 ]; then
+    body=$(printf '%s\n' "Live page $URL STILL fails after a self-heal re-deploy — needs a human (likely a genuine content/build issue, not a stale deploy):" "" "${problems[@]/#/- }")
+    "$BF/alert.sh" "verify-render:$slug" "Verify FAILED: $slug (self-heal re-deploy did not fix)" "$body"
+    echo "verify: $slug LAYER-1 FAILED (self-heal exhausted)"; exit 1
+  fi
+  echo "verify: $slug self-healed via re-deploy"
 fi
-echo "verify: $slug layer-1 OK (live, $EXP_FILMS films / $EXP_SEGS segs, $posters posters)"
+echo "verify: $slug layer-1 OK ($EXP_FILMS films / $EXP_SEGS segs)"
 
 # --- Layer 2: content-QA agent (Sonnet 5) — editorial read of the published JSON ---
 # Scrubbed env (only the OAuth token) + all tools disallowed: the transcript-derived JSON is

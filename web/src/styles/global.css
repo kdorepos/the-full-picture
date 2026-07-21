@@ -297,8 +297,6 @@ a.entry:hover { color: var(--brass-lit); text-decoration: underline; text-underl
   padding: 1.6rem 0; border-top: 1px solid var(--line); transition: border-color 0.18s;
 }
 .catalog .sale-card:last-child { border-bottom: 1px solid var(--line); }
-/* JS collapses the list to 5, so the true :last-child may be hidden; close whichever card is last-visible */
-.catalog .sale-card.is-last-visible { border-bottom: 1px solid var(--line); }
 .show-more {
   display: inline-flex; align-items: baseline; gap: 0.5rem; margin: 0;
   padding: 0.9rem 1.1rem; font-family: var(--mono); font-size: 0.72rem;

@@ -322,6 +322,7 @@ footer { padding: 2.4rem 0 3.4rem; border-top: 1px solid var(--line); margin-top
 .credit:hover { opacity: 1; }
 .logo-tmdb { height: 15px; width: auto; display: block; }
 .logo-spotify { display: block; }
+.logo-github { display: block; color: var(--muted); }
 footer p { color: var(--faint); font-size: 0.8rem; max-width: 62ch; margin: 0 0 0.6rem; }
 footer p:last-child { margin-bottom: 0; }
 

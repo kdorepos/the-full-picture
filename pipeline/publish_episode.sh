@@ -15,6 +15,10 @@ set -uo pipefail
 cd /srv/the-full-picture || exit 1
 export PATH="$HOME/.local/bin:$HOME/.local/node20/bin:$PATH"
 set -a; . ./.env; set +a
+# Headless auth: CLAUDE_CODE_OAUTH_TOKEN (from .env, 1-yr subscription token via `claude setup-token`)
+# is what `claude -p` should use. ANTHROPIC_API_KEY/AUTH_TOKEN outrank it in precedence and would
+# silently switch to pay-as-you-go billing — unset them so the subscription token always wins.
+unset ANTHROPIC_API_KEY ANTHROPIC_AUTH_TOKEN
 
 slug="${1:?usage: publish_episode.sh <slug> [--no-merge]}"
 [ "${2:-}" = "--no-merge" ] && merge=no || merge=yes

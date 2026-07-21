@@ -320,7 +320,7 @@ footer { padding: 2.4rem 0 3.4rem; border-top: 1px solid var(--line); margin-top
 .foot-credits { display: flex; flex-wrap: wrap; align-items: center; gap: 1rem 1.8rem; margin: 0 0 1.15rem; }
 .credit { display: inline-flex; align-items: center; gap: 0.5rem; color: var(--muted); font-family: var(--mono); font-size: 0.8rem; letter-spacing: 0.02em; opacity: 0.9; transition: opacity 0.18s; }
 .credit:hover { opacity: 1; }
-.logo-tmdb { height: 17px; width: auto; display: block; }
+.logo-tmdb { height: 15px; width: auto; display: block; }
 .logo-spotify { display: block; }
 .logo-github { display: block; color: var(--muted); }
 footer p { color: var(--faint); font-size: 0.8rem; max-width: 62ch; margin: 0 0 0.6rem; }

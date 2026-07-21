@@ -54,7 +54,7 @@ else
   STEP6="6. gh pr merge <#> --merge --delete-branch, then: git checkout main && git pull --ff-only."
 fi
 
-claude -p --model claude-opus-4-8 --dangerously-skip-permissions "Process and publish one already-transcribed episode of The Big Picture for The Full Picture. Working dir /srv/the-full-picture. Follow CLAUDE.md steps 4-6 exactly; the film-title-reviewer and humanizer gates are REQUIRED, not optional.
+claude -p --model claude-opus-4-8 --dangerously-skip-permissions "Process and publish one already-transcribed episode of The Big Picture for The Full Picture. Working dir /srv/the-full-picture. Follow CLAUDE.md steps 4-6 exactly; the completeness-critic, film-title-reviewer, and humanizer gates are REQUIRED, not optional.
 
 FACTS (use verbatim, do NOT re-derive):
 - slug: $slug
@@ -68,7 +68,7 @@ FACTS (use verbatim, do NOT re-derive):
 STEPS:
 1. Model the episode as an ordered list of segments per web/src/data/episodes/TEMPLATES.md, one per on-air section (a discussion, a review block, an interview, etc.). Extract EVERY film mentioned, with its year; TV / web-series / video games / ad reads -> episode-level \`excluded\`. Write web/src/data/episodes/$slug.json with the metadata above, a short dry blurb (\`format\`), and per-film notes where they add something.
 2. Enrich + IDs: set -a; source .env; set +a && python3 pipeline/enrich_tmdb.py web/src/data/episodes/$slug.json && python3 pipeline/spotify_id.py web/src/data/episodes/$slug.json
-3. REQUIRED: run the film-title-reviewer agent on the episode; apply its findings (add \`tmdbOverrides\` for confirmed same-title collisions), then re-run enrich_tmdb.py. Then run the humanizer agent on the blurb + film notes.
+3. REQUIRED reviews: (a) run the completeness-critic agent — it finds films clearly discussed in the transcript but MISSING from your list; add any it confirms (with year + segment) to the right segment. (b) run the film-title-reviewer agent; apply its findings (add \`tmdbOverrides\` for confirmed same-title collisions). Then re-run enrich_tmdb.py so any added/changed films get TMDb IDs. Then run the humanizer agent on the blurb + film notes.
 4. Build + test: cd web && export PATH=\"\$HOME/.local/node20/bin:\$PATH\" && npm run build && npx playwright test — fix any failure, then cd back to the repo root.
 5. git checkout -b feat/episode-$slug && git add -A && git commit with the CLAUDE.md trailers, then git push -u origin feat/episode-$slug && gh pr create --fill.
 $STEP6

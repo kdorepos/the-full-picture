@@ -94,6 +94,10 @@ if [ ${#problems[@]} -gt 0 ]; then
 fi
 echo "verify: $slug layer-1 OK ($EXP_FILMS films / $EXP_SEGS segs)"
 
+# Episode is confirmed live → notify the operator to post it to r/TheBigPicture (notify-to-post,
+# human-in-the-loop). Best-effort; never fail verification over a notification.
+python3 pipeline/reddit_notify.py "$slug" || true
+
 # --- Layer 2: content-QA agent (Sonnet 5) — editorial read of the published JSON ---
 # Scrubbed env (only the OAuth token) + all tools disallowed: the transcript-derived JSON is
 # untrusted, so the agent must not be able to read files/secrets or reach the network. The JSON is

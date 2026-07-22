@@ -9,34 +9,29 @@
   ],
   "published": "2018-10-26",
   "runtimeMin": 6,
-  "format": "Bill Simmons joins Sean Fennessey to count down five streaming horror picks each, starting with their No. 5s: The Omen and The Invitation.",
+  "format": "Sean Fennessey and Bill Simmons trade streaming-horror picks, ying and yanging: Sean's overlooked deep cuts against Bill's more obvious ones.",
   "segments": [
     {
       "kind": "discussion",
-      "heading": "The Top 5 Streaming Horror Movies Right Now",
-      "note": "starting with the No. 5 picks",
+      "heading": "Streaming horror top fives",
+      "note": "one No. 5 each",
       "films": [
         {
           "title": "The Omen",
           "year": 1976,
-          "note": "Bill's No. 5. Directed by Richard Donner, with Gregory Peck as the American ambassador whose son might be the devil's child. Got Oscar nominations on release; Bill calls it well-respected and still creepy, with a nanny scene near the start he won't spoil."
+          "note": "Bill's No. 5. Richard Donner's devil-child chiller with Gregory Peck; the 1976 original holds up better than the 2006 remake that ran the same beats back."
         },
         {
           "title": "The Invitation",
           "year": 2015,
-          "note": "Sean's No. 5, and his favorite LA horror movie. Directed by Karyn Kusama. A man gets invited to a dinner party by his ex, who has a new partner, a new house in the hills, and a group of oddly serene new friends."
-        },
-        {
-          "title": "The Last House on the Left",
-          "year": 2009,
-          "note": "Sean almost put the remake in his five. The original is Wes Craven's first film, gorier and shot like a documentary; the remake is slicker, but he left it off over an ugly assault scene the movie could've toned down."
+          "note": "Sean's No. 5, and his favorite LA horror movie. Karyn Kusama's dinner-party dread: a man invited to his ex's house in the hills for a party of spiritual types."
         }
       ]
     }
   ],
   "referenced": [
     {
-      "group": "Richard Donner's run after The Omen",
+      "group": "Richard Donner's run",
       "films": [
         "Superman",
         "Superman II",
@@ -47,13 +42,7 @@
       ]
     },
     {
-      "group": "Horror legacy comparison",
-      "films": [
-        "Rosemary's Baby"
-      ]
-    },
-    {
-      "group": "2000s remakes that didn't work",
+      "group": "Horror remakes that didn't take",
       "films": [
         "A Nightmare on Elm Street",
         "Friday the 13th",
@@ -61,25 +50,37 @@
       ]
     },
     {
-      "group": "A 2000s remake that did work",
+      "group": "Remakes that held up",
       "films": [
+        "The Last House on the Left",
         "The Hills Have Eyes"
       ]
     },
     {
-      "group": "Karyn Kusama's other films",
+      "group": "Karyn Kusama",
       "films": [
         "Girlfight",
         "Jennifer's Body",
         "Destroyer"
       ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Rosemary's Baby"
+      ]
     }
   ],
+  "excluded": {
+    "Podcasts": [
+      "Halloween Unmasked"
+    ],
+    "Site features": [
+      "Horror Week"
+    ]
+  },
   "tmdbOverrides": {
-    "Superman": 1924,
-    "A Nightmare on Elm Street": 23437,
-    "Friday the 13th": 13207,
-    "The Hills Have Eyes": 9792
+    "Superman": 1924
   },
   "tmdb": {
     "The Omen": {
@@ -93,12 +94,6 @@
       "poster": "/otZMaGHWnKPgOODF6SSVNGqbI4X.jpg",
       "title": "The Invitation",
       "year": 2016
-    },
-    "The Last House on the Left": {
-      "id": 18405,
-      "poster": "/2Y35XCUS8U8vC8vs0HDEVkPu1BM.jpg",
-      "title": "The Last House on the Left",
-      "year": 2009
     },
     "Superman": {
       "id": 1924,
@@ -136,29 +131,29 @@
       "title": "Lethal Weapon",
       "year": 1987
     },
-    "Rosemary's Baby": {
-      "id": 805,
-      "poster": "/uYgvlHceRFjAFbsNeMInYcLZLUb.jpg",
-      "title": "Rosemary's Baby",
-      "year": 1968
-    },
     "A Nightmare on Elm Street": {
-      "id": 23437,
-      "poster": "/nsmW28GcNabCUZfP5YtUEe8Li0f.jpg",
+      "id": 377,
+      "poster": "/b9rMHAAKISRmIonaQd9Cccx0S4X.jpg",
       "title": "A Nightmare on Elm Street",
-      "year": 2010
+      "year": 1984
     },
     "Friday the 13th": {
-      "id": 13207,
-      "poster": "/88wlJ4teYlck4hJ2bnlxBrAVh0m.jpg",
+      "id": 4488,
+      "poster": "/uGGpnWHOmWTARVN9wbC1nPxNgps.jpg",
       "title": "Friday the 13th",
-      "year": 2009
+      "year": 1980
     },
     "The Texas Chainsaw Massacre": {
       "id": 9373,
       "poster": "/781px1eOtfVt1RdIsL4Dt1s3x7R.jpg",
       "title": "The Texas Chainsaw Massacre",
       "year": 2003
+    },
+    "The Last House on the Left": {
+      "id": 18405,
+      "poster": "/2Y35XCUS8U8vC8vs0HDEVkPu1BM.jpg",
+      "title": "The Last House on the Left",
+      "year": 2009
     },
     "The Hills Have Eyes": {
       "id": 9792,
@@ -183,6 +178,13 @@
       "poster": "/sHw9gTdo43nJL82py0oaROkXXNr.jpg",
       "title": "Destroyer",
       "year": 2018
+    },
+    "Rosemary's Baby": {
+      "id": 805,
+      "poster": "/uYgvlHceRFjAFbsNeMInYcLZLUb.jpg",
+      "title": "Rosemary's Baby",
+      "year": 1968
     }
-  }
+  },
+  "spotifyEpisodeId": "0t4vBQOvrOUPOVeRDBg2Dm"
 }

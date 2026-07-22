@@ -9,7 +9,7 @@ drops — not the older backlog you deliberately skipped.
 Usage: ./pipeline/watch.py [--json] [--feed URL] [--episodes-dir DIR]
 Exit 10 if there are new episodes, 0 if none (so a scheduler can branch on it).
 """
-import re, os, sys, json, argparse, urllib.request, unicodedata
+import re, os, sys, json, html, argparse, urllib.request, unicodedata
 from email.utils import parsedate_to_datetime
 
 FEED = "https://feeds.megaphone.fm/the-big-picture"
@@ -56,7 +56,7 @@ def feed_items(url, episodes_dir="web/src/data/episodes"):
             date = parsedate_to_datetime(pub.group(1)).date().isoformat()
         except Exception:
             continue
-        title = t.group(1).strip()
+        title = html.unescape(t.group(1).strip())  # &amp; -> & before slug/display
         # Strip Megaphone's ?updated= cache-buster so the URL is a stable id for pinning
         # (the query param changes over time and breaks exact-URL matching).
         url = au.group(1).split("?")[0]
@@ -86,10 +86,11 @@ def main():
     items = feed_items(a.feed, a.episodes_dir)
     have_slug = {os.path.splitext(f)[0] for f in os.listdir(a.episodes_dir) if f.endswith(".json")}
     cutoff = newest_on_site(a.episodes_dir)
-    # New = published after the newest episode on the site, and not already added. A recurring
-    # title now carries a year suffix (unique_slug), so a genuine new drop no longer collides
-    # with last year's same-titled episode and gets silently skipped by the have_slug check.
-    new = [it for it in items if it["date"] > cutoff and it["slug"] not in have_slug]
+    # New = published on/after the newest on-site date, and not already added. `>=` (not `>`) so a
+    # *second* episode dropped the same calendar day as the newest isn't excluded by date alone; a
+    # recurring title also now carries a year suffix (unique_slug) so it doesn't collide with last
+    # year's same-titled episode. The have_slug check is the real dedup against already-published.
+    new = [it for it in items if it["date"] >= cutoff and it["slug"] not in have_slug]
 
     if a.json:
         print(json.dumps(new, indent=2))

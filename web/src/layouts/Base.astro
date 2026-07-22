@@ -96,7 +96,9 @@ const { title, description } = Astro.props;
       if (input && box) {
         let fFilms = null, fEps = null, rows = [], active = -1;
         const esc = (s) => { const d = document.createElement('div'); d.textContent = s; return d.innerHTML; };
-        const fmt = (d) => new Date(d).toLocaleDateString('en-US', { month: 'short', year: 'numeric' });
+        // Parse + format in UTC: `d` is a date-only string; a bare new Date(d) is UTC midnight
+        // but toLocaleDateString renders in the visitor's zone, flipping the month for the Americas.
+        const fmt = (d) => new Date(d + 'T00:00:00Z').toLocaleDateString('en-US', { month: 'short', year: 'numeric', timeZone: 'UTC' });
         async function load() {
           if (fFilms) return;
           const data = await (await fetch('/search-index.json')).json();

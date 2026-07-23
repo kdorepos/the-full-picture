@@ -10,12 +10,15 @@ null (too-new indie) rather than mislinked.
 
 Usage: TMDB_KEY=... ./pipeline/enrich_tmdb.py web/src/data/episodes/<slug>.json
 """
-import json, os, re, sys, time, urllib.parse, urllib.request
+import json, os, re, sys, time, unicodedata, urllib.parse, urllib.request
 
 KEY = os.environ["TMDB_KEY"]
 
 
 def norm(s):
+    # Fold accents (Amélie -> amelie) instead of dropping them, so an exact match
+    # survives inconsistent diacritics between the pick and the TMDb title.
+    s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode()
     return re.sub(r"[^a-z0-9]", "", s.lower())
 
 

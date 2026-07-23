@@ -8,7 +8,7 @@ no rate limits.
 
 Usage: ./venv/bin/python the_full_picture.py <rss-or-episode-url> [--model medium.en] [--item N]
 """
-import os, re, sys, time, json, subprocess, urllib.request, argparse, unicodedata
+import os, re, sys, time, json, html, subprocess, urllib.request, argparse, unicodedata
 
 UA = "Mozilla/5.0"
 
@@ -64,13 +64,13 @@ def resolve_audio(url, item_index=0):
                 except Exception:
                     date = ""
             if au:
-                return au.group(1), (ti.group(1).strip() if ti else "episode"), date
+                return au.group(1), (html.unescape(ti.group(1).strip()) if ti else "episode"), date
     # Overcast page: raw HTML embeds the real Megaphone CDN enclosure as <source>
     m = re.search(r'<source[^>]+src="([^"]+)"', body, re.I)
     if not m:
         sys.exit("Could not find an <enclosure> (RSS) or <source> (page) audio URL.")
     t = re.search(r"<title>([^<]+)</title>", body, re.I)
-    return m.group(1), (t.group(1).strip() if t else "episode"), ""
+    return m.group(1), (html.unescape(t.group(1).strip()) if t else "episode"), ""
 
 
 def slug(s):

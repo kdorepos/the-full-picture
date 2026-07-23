@@ -21,10 +21,29 @@ def slug(s):
     return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")[:60] or "episode"
 
 
-def feed_items(url):
+def unique_slug(title, date, existing):
+    """slug(title), disambiguated with the publish YEAR when the base already exists — the
+    show reuses annual titles with no year in them ("The Summer Movie Mailbag", "The Epic
+    Movie Draft", Hall of Fame inductions), which would otherwise collide onto one file/URL
+    and silently overwrite last year's episode. Stable: an already-published year-suffixed
+    episode keeps returning its own slug (base is taken, so it re-derives -<year>).
+    # ponytail: assumes at most one same-title episode per year (true for an annual show);
+    # a same-year repeat would still collide — revisit only if the cadence changes."""
+    base = slug(title)
+    if base not in existing:
+        return base
+    year = (date or "")[:4]
+    return f"{base}-{year}" if year else base
+
+
+def feed_items(url, episodes_dir="web/src/data/episodes"):
     body = urllib.request.urlopen(
         urllib.request.Request(url, headers={"User-Agent": UA}), timeout=30
     ).read().decode("utf-8", "replace")
+    try:  # existing slugs so recurring-title episodes get a year suffix, not a collision
+        existing = {f[:-5] for f in os.listdir(episodes_dir) if f.endswith(".json")}
+    except OSError:
+        existing = set()
     out = []
     for i, chunk in enumerate(body.split("<item>")[1:]):
         b = chunk.split("</item>")[0]
@@ -41,7 +60,8 @@ def feed_items(url):
         # Strip Megaphone's ?updated= cache-buster so the URL is a stable id for pinning
         # (the query param changes over time and breaks exact-URL matching).
         url = au.group(1).split("?")[0]
-        out.append({"index": i, "title": title, "date": date, "url": url, "slug": slug(title)})
+        out.append({"index": i, "title": title, "date": date, "url": url,
+                    "slug": unique_slug(title, date, existing)})
     return out
 
 
@@ -63,10 +83,12 @@ def main():
     ap.add_argument("--json", action="store_true")
     a = ap.parse_args()
 
-    items = feed_items(a.feed)
+    items = feed_items(a.feed, a.episodes_dir)
     have_slug = {os.path.splitext(f)[0] for f in os.listdir(a.episodes_dir) if f.endswith(".json")}
     cutoff = newest_on_site(a.episodes_dir)
-    # New = published after the newest episode on the site, and not already added.
+    # New = published after the newest episode on the site, and not already added. A recurring
+    # title now carries a year suffix (unique_slug), so a genuine new drop no longer collides
+    # with last year's same-titled episode and gets silently skipped by the have_slug check.
     new = [it for it in items if it["date"] > cutoff and it["slug"] not in have_slug]
 
     if a.json:

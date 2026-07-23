@@ -43,8 +43,9 @@ def sh(*cmd):
 
 
 def resolve_audio(url, item_index=0):
-    """Return (audio_url, title). Handles RSS feeds (<enclosure>; item 0 is newest,
-    item_index picks an older one) and Overcast-style episode pages (<source src=...>)."""
+    """Return (audio_url, title, date). Handles RSS feeds (<enclosure>; item 0 is newest,
+    item_index picks an older one) and Overcast-style episode pages (<source src=...>).
+    `date` (ISO, from the item's <pubDate>) disambiguates recurring titles; "" if unknown."""
     req = urllib.request.Request(url, headers={"User-Agent": UA})
     body = urllib.request.urlopen(req, timeout=30).read().decode("utf-8", "replace")
     # RSS feed: pick the Nth <item>'s enclosure (feeds are newest-first)
@@ -54,19 +55,38 @@ def resolve_audio(url, item_index=0):
             item = items[item_index].split("</item>", 1)[0]
             au = re.search(r'<enclosure[^>]+url="([^"]+)"', item, re.I)
             ti = re.search(r"<title>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</title>", item, re.S)
+            pub = re.search(r"<pubDate>([^<]+)</pubDate>", item)
+            date = ""
+            if pub:
+                try:
+                    from email.utils import parsedate_to_datetime
+                    date = parsedate_to_datetime(pub.group(1)).date().isoformat()
+                except Exception:
+                    date = ""
             if au:
-                return au.group(1), (ti.group(1).strip() if ti else "episode")
+                return au.group(1), (ti.group(1).strip() if ti else "episode"), date
     # Overcast page: raw HTML embeds the real Megaphone CDN enclosure as <source>
     m = re.search(r'<source[^>]+src="([^"]+)"', body, re.I)
     if not m:
         sys.exit("Could not find an <enclosure> (RSS) or <source> (page) audio URL.")
     t = re.search(r"<title>([^<]+)</title>", body, re.I)
-    return m.group(1), (t.group(1).strip() if t else "episode")
+    return m.group(1), (t.group(1).strip() if t else "episode"), ""
 
 
 def slug(s):
     s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode()
     return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")[:60] or "episode"
+
+
+def unique_slug(title, date, existing):
+    """slug(title), year-suffixed when the base already exists — so a recurring title
+    ("The Summer Movie Mailbag", "The Epic Movie Draft") never overwrites last year's
+    same-titled episode. Mirrors watch.py.unique_slug (kept self-contained, like slug())."""
+    base = slug(title)
+    if base not in existing:
+        return base
+    year = (date or "")[:4]
+    return f"{base}-{year}" if year else base
 
 
 def download(audio_url, mp3, tries=4):
@@ -135,9 +155,14 @@ def main():
                     help="with --publish, open the PR for human review instead of auto-merging")
     a = ap.parse_args()
 
-    audio_url, title = resolve_audio(a.url, a.item)
+    audio_url, title, date = resolve_audio(a.url, a.item)
     print(f"Episode: {title}")
-    name = slug(title)
+    try:  # year-suffix a recurring title so it never overwrites last year's same-titled episode
+        existing = {f[:-5] for f in os.listdir(os.path.join(ROOT, "web", "src", "data", "episodes"))
+                    if f.endswith(".json")}
+    except OSError:
+        existing = set()
+    name = unique_slug(title, date, existing)
     d = os.path.join(a.outdir, name)
     os.makedirs(d, exist_ok=True)
     mp3, txt = os.path.join(d, f"{name}.mp3"), os.path.join(d, "transcript.txt")

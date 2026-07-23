@@ -17,7 +17,7 @@ test('home lists the newest episode and links through to its page', async ({ pag
 });
 
 test('episode page shows the top lot and ledger prices', async ({ page }) => {
-  await page.goto('/ep/2026-movie-auction-returns');
+  await page.goto('/ep/the-2026-movie-auction-returns');
   // Top lot (Behemoth! $715) appears in both the hero summary and the ledger — scope to the ledger row.
   const topLot = page.locator('.lot--top');
   await expect(topLot.locator('.lot__title')).toContainText('Behemoth!');
@@ -27,7 +27,7 @@ test('episode page shows the top lot and ledger prices', async ({ page }) => {
 });
 
 test('episode embeds Spotify, TMDb links, and posters', async ({ page }) => {
-  await page.goto('/ep/2026-movie-auction-returns');
+  await page.goto('/ep/the-2026-movie-auction-returns');
   await expect(page.locator('iframe[src*="open.spotify.com/embed/episode"]')).toHaveCount(1);
   await expect(page.locator('.lot__title a[href*="themoviedb.org/movie"]').first()).toBeVisible();
   await expect(page.locator('.lot__poster img').first()).toBeVisible();
@@ -51,7 +51,7 @@ test('roundtable episode renders its segments (picks, interview, top five)', asy
 });
 
 test('no horizontal overflow (responsive fits the viewport)', async ({ page }) => {
-  await page.goto('/ep/2026-movie-auction-returns');
+  await page.goto('/ep/the-2026-movie-auction-returns');
   const overflow = await page.evaluate(
     () => document.documentElement.scrollWidth - document.documentElement.clientWidth,
   );

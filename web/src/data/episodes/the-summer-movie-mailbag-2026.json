@@ -763,10 +763,10 @@
       "year": 1995
     },
     "Ghostbusters": {
-      "id": 43074,
-      "poster": "/wJmWliwXIgZOCCVOcGRBhce7xPS.jpg",
+      "id": 620,
+      "poster": "/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
       "title": "Ghostbusters",
-      "year": 2016
+      "year": 1984
     },
     "Gremlins": {
       "id": 927,
@@ -890,7 +890,8 @@
     }
   },
   "tmdbOverrides": {
-    "Prime Time": null
+    "Prime Time": null,
+    "Ghostbusters": 620
   },
   "spotifyEpisodeId": "1usw2AERwpyryKRciaDfb8"
 }

@@ -107,8 +107,9 @@
           "note": "Like Batman, always interesting; a one-protagonist movie versus Doomsday's everything-at-once."
         },
         {
-          "title": "Dune Messiah",
-          "note": "Denis Villeneuve; opens against Doomsday. Won't win the box office, likely wins the awards."
+          "title": "Dune: Part Three",
+          "year": 2026,
+          "note": "Denis Villeneuve's adaptation of Dune Messiah; opens against Doomsday. Won't win the box office, likely wins the awards."
         },
         {
           "title": "Project Hail Mary",
@@ -461,7 +462,12 @@
       "title": "Spider-Man: Brand New Day",
       "year": 2026
     },
-    "Dune Messiah": null,
+    "Dune: Part Three": {
+      "id": 1170608,
+      "poster": "/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+      "title": "Dune: Part Three",
+      "year": 2026
+    },
     "Project Hail Mary": {
       "id": 687163,
       "poster": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",

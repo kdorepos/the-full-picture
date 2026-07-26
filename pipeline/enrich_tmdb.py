@@ -30,27 +30,39 @@ def search(title, year):
     """Require an EXACT (normalized) title match — a mere year-proximity hit links
     the wrong film (a coincidental 2026 release, a same-name reboot). With a year in
     hand, also require the match to be within a year of it (or have an unknown date),
-    so a title reused decades apart (Jack of Spades 1960) is rejected as null."""
+    so a title reused decades apart (Jack of Spades 1960) is rejected as null.
+
+    Returns (match, candidates). `match` is the provisional pick (most-popular exact
+    title, TMDb's ordering) or None. `candidates` is the list of exact-title matches
+    when there is MORE THAN ONE — an ambiguous case (a remake, a reused title) the
+    provisional pick guesses at; the review step gets these to pick the right id."""
     q = urllib.parse.urlencode({"query": title, "api_key": KEY})
     try:
         results = json.load(urllib.request.urlopen(
             f"https://api.themoviedb.org/3/search/movie?{q}", timeout=15))["results"]
     except Exception:
-        return None
+        return None, []
     exact = [r for r in results if norm(r["title"]) == norm(title)]
     if not exact:
-        return None
+        return None, []
     if year:
         exact = [r for r in exact if ry(r) == 0 or abs(ry(r) - year) <= 1]
         if not exact:
-            return None
+            return None, []
     pick = exact[0]
-    return {
-        "id": pick["id"],
-        "poster": pick.get("poster_path"),
-        "title": pick["title"],
-        "year": ry(pick) or None,
-    }
+    match = {"id": pick["id"], "poster": pick.get("poster_path"),
+             "title": pick["title"], "year": ry(pick) or None}
+    # Doubtful only when the pick had NO year to go on AND the exact matches span multiple distinct
+    # years — a remake / reused title (Ghostbusters 1984 vs 2016) the most-popular pick just guesses
+    # at. A year-having pick is already era-disambiguated; same-year duplicate entries aren't a real
+    # ambiguity. Give the reviewer each candidate's {id, year} so it can pick from the transcript's era.
+    span = len({ry(r) for r in exact if ry(r)}) > 1
+    # id + year only (no overview): the reviewer disambiguates by matching the transcript's era to a
+    # candidate year. Cap at 8 (TMDb popularity order) — the intended film is near the top.
+    # ponytail: 8-cap ceiling; a correct match ranked lower keeps the provisional pick.
+    cands = [{"id": r["id"], "year": ry(r) or None}
+             for r in exact[:8]] if (not year and span) else []
+    return match, cands
 
 
 def by_id(mid):
@@ -69,7 +81,15 @@ def clean(t):
 
 
 def main():
-    path = sys.argv[1]
+    args = sys.argv[1:]
+    cand_path = None
+    if "--candidates" in args:  # optional sidecar of ambiguous same-title matches, for the review step
+        i = args.index("--candidates")
+        if i + 1 >= len(args):
+            sys.exit("--candidates needs a path")
+        cand_path = args[i + 1]
+        args = args[:i] + args[i + 2:]
+    path = args[0]
     ep = json.load(open(path))
 
     # (title, year) for everything linkable, walking each segment by kind. Excluded skipped.
@@ -108,9 +128,11 @@ def main():
         for t in g["films"]:
             items.setdefault(t, None)
 
-    tmdb = {}
+    tmdb, ambiguous = {}, {}
     for title, year in items.items():
-        tmdb[title] = search(clean(title), year)
+        tmdb[title], cands = search(clean(title), year)
+        if cands:
+            ambiguous[title] = cands
         time.sleep(0.05)
 
     # Reviewer-confirmed overrides win over exact-title search (pin the right same-title film,
@@ -128,6 +150,18 @@ def main():
     ep["tmdb"] = tmdb
     json.dump(ep, open(path, "w"), ensure_ascii=False, indent=2)
     print(f"{hits}/{len(items)} titles matched -> {path}")
+
+    # Ambiguous = >1 same-title film; the provisional pick guessed. Drop any the reviewer already
+    # pinned via override, write the rest to the sidecar for the review step to disambiguate.
+    overridden = set(ep.get("tmdbOverrides", {}))
+    ambiguous = {t: c for t, c in ambiguous.items() if t not in overridden}
+    if cand_path:
+        json.dump(ambiguous, open(cand_path, "w"), ensure_ascii=False, indent=2)
+    if ambiguous:
+        print(f"\nℹ  {len(ambiguous)} title(s) with MULTIPLE same-title TMDb matches (provisional pick may be wrong):")
+        for t, c in ambiguous.items():
+            opts = ", ".join(f"{x['year']}#{x['id']}" for x in c)
+            print(f"     - {t}: {opts}")
 
     # Tripwire: unmatched PICKS are usually a mishear (a wrong exact match can't be caught here).
     # Either way the review step is required — flag it loudly so it isn't skipped.

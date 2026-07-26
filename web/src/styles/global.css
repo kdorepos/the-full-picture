@@ -170,7 +170,12 @@ em { font-style: italic; }
 
 /* ---------- Spotify embed ---------- */
 .listen { border-bottom: 1px solid var(--line); padding: 1.6rem 0; }
-.listen iframe { display: block; border: 0; border-radius: 12px; }  /* border:0 in CSS, not the deprecated frameborder attr (iOS Safari ignores it -> UA inset border shows) */
+/* Round the embed via the CONTAINER, not the iframe (iOS Safari leaves a halo when border-radius
+   is on the iframe itself). translateZ(0) forces the container onto its own layer so overflow clips.
+   iOS Safari also paints a WHITE backing behind an iframe; Spotify's dark card covers the middle but
+   the white peeks at the rounded edges — so give the iframe a dark backing (color-scheme + bg). */
+.listen .embed { border-radius: 12px; overflow: hidden; transform: translateZ(0); background: var(--ink); }
+.listen iframe { display: block; border: 0; width: 100%; color-scheme: dark; background: var(--ink); }
 
 /* ---------- Sections ---------- */
 .sale-section { padding: 2.6rem 0; border-bottom: 1px solid var(--line); }

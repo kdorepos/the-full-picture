@@ -82,12 +82,14 @@ if (auction) {
   {ep.spotifyEpisodeId && (
     <section class="listen">
       <div class="wrap">
-        <iframe
-          title="Listen on Spotify"
-          src={`https://open.spotify.com/embed/episode/${ep.spotifyEpisodeId}?theme=0`}
-          width="100%" height="152" frameborder="0" loading="lazy"
-          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-        ></iframe>
+        <div class="embed">
+          <iframe
+            title="Listen on Spotify"
+            src={`https://open.spotify.com/embed/episode/${ep.spotifyEpisodeId}?theme=0`}
+            width="100%" height="152" frameborder="0" loading="lazy"
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+          ></iframe>
+        </div>
       </div>
     </section>
   )}

@@ -170,7 +170,7 @@ em { font-style: italic; }
 
 /* ---------- Spotify embed ---------- */
 .listen { border-bottom: 1px solid var(--line); padding: 1.6rem 0; }
-.listen iframe { display: block; border-radius: 12px; }
+.listen iframe { display: block; border: 0; border-radius: 12px; }  /* border:0 in CSS, not the deprecated frameborder attr (iOS Safari ignores it -> UA inset border shows) */
 
 /* ---------- Sections ---------- */
 .sale-section { padding: 2.6rem 0; border-bottom: 1px solid var(--line); }

@@ -40,7 +40,8 @@ def main():
         except Exception: pass
 
     ep_url = f"https://thefullpicture.app/ep/{slug}"
-    comment = f"This episode is now available on The Full Picture 🎞️\n\n{ep_url}"
+    comment = ("The Full Picture is a fan-made index of every movie mentioned on the show, "
+               f"episode by episode. This one's up now:\n\n{ep_url}")
     thread_search = f"https://www.reddit.com/r/{SUBREDDIT}/search/?" + urllib.parse.urlencode(
         {"q": title, "restrict_sr": "1", "sort": "new"})
     # Deep-link the tap into Narwhal (iOS Reddit app) at the subreddit: narwhal://open-url/<enc url>.
@@ -68,9 +69,10 @@ def main():
             print(f"reddit-notify: ntfy failed ({type(e).__name__}: {e}) — falling back to GitHub issue")
 
     # Fallback: a GitHub issue (operator already gets those). Body carries the comment + thread link.
+    quoted = "> " + comment.replace("\n", "\n> ")   # same text as the ntfy push, as a markdown blockquote
     body = (f"New episode is live: {ep_url}\n\n"
             f"**Post this comment** to the r/{SUBREDDIT} episode thread:\n\n"
-            f"> This episode is now available on The Full Picture 🎞️\n>\n> {ep_url}\n\n"
+            f"{quoted}\n\n"
             f"Find the thread: {thread_search}\n\n"
             f"(Set `NTFY_TOPIC` in .env for a phone push instead of an issue.)")
     try:

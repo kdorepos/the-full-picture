@@ -41,7 +41,7 @@ def main():
 
     ep_url = f"https://thefullpicture.app/ep/{slug}"
     comment = ("The Full Picture is a fan-made index of every movie mentioned on the show, "
-               f"episode by episode. This one's up now:\n\n{ep_url}")
+               f"episode by episode (unaffiliated with The Ringer). This one's up now 🎬\n\n{ep_url}")
     thread_search = f"https://www.reddit.com/r/{SUBREDDIT}/search/?" + urllib.parse.urlencode(
         {"q": title, "restrict_sr": "1", "sort": "new"})
     # Deep-link the tap into Narwhal (iOS Reddit app) at the subreddit: narwhal://open-url/<enc url>.

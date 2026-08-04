@@ -65,17 +65,6 @@ def feed_items(url, episodes_dir="web/src/data/episodes"):
     return out
 
 
-def newest_on_site(d):
-    dates = []
-    for f in os.listdir(d):
-        if f.endswith(".json"):
-            try:
-                dates.append(json.load(open(os.path.join(d, f))).get("published", ""))
-            except Exception:
-                pass
-    return max(dates) if dates else ""
-
-
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--feed", default=FEED)
@@ -84,13 +73,24 @@ def main():
     a = ap.parse_args()
 
     items = feed_items(a.feed, a.episodes_dir)
-    have_slug = {os.path.splitext(f)[0] for f in os.listdir(a.episodes_dir) if f.endswith(".json")}
-    cutoff = newest_on_site(a.episodes_dir)
-    # New = published on/after the newest on-site date, and not already added. `>=` (not `>`) so a
-    # *second* episode dropped the same calendar day as the newest isn't excluded by date alone; a
-    # recurring title also now carries a year suffix (unique_slug) so it doesn't collide with last
-    # year's same-titled episode. The have_slug check is the real dedup against already-published.
-    new = [it for it in items if it["date"] >= cutoff and it["slug"] not in have_slug]
+    # Identify already-published episodes by (published-date, base title-slug) read from the JSONs —
+    # NOT the on-disk filename. unique_slug's year suffix isn't stable for a bare-published episode:
+    # its own file makes the base look "taken", so on re-check unique_slug re-derives base-<year>,
+    # which no filename matches, and the episode looks falsely "new". (date, slug(title)) uniquely
+    # identifies an episode and survives that re-derivation; two same-title episodes differ by date.
+    have = set()
+    for f in os.listdir(a.episodes_dir):
+        if not f.endswith(".json"):
+            continue
+        try:
+            d = json.load(open(os.path.join(a.episodes_dir, f)))
+            have.add((d.get("published", ""), slug(d.get("title", ""))))
+        except Exception:
+            pass
+    cutoff = max((p for p, _ in have), default="")
+    # New = on/after the newest on-site date (skips the deliberately-skipped older backlog) and not
+    # already published. `>=` (not `>`) catches a same-day second drop.
+    new = [it for it in items if it["date"] >= cutoff and (it["date"], slug(it["title"])) not in have]
 
     if a.json:
         print(json.dumps(new, indent=2))

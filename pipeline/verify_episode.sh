@@ -46,7 +46,7 @@ def films_in(s):
     return ((len(s.get("films") or [])) + (len(s.get("picks") or []))
             + sum(len([p for p in t.get("picks", []) if p.get("year")]) for t in s.get("teams", []) or [])
             + sum(len(sl.get("picks") or []) for sl in s.get("slates", []) or [])
-            + sum(len(c.get("nominees") or []) for c in s.get("categories", []) or []))
+            + sum(len(c.get("nominees") or []) for c in s.get("categories", []) or [] if isinstance(c, dict)))
 segs = d.get("segments", []) or []
 print(sum(films_in(s) for s in segs), len(segs), d.get("title", ""))
 PY

@@ -1,0 +1,39 @@
+---
+import Base from '../../layouts/Base.astro';
+import { hostIndex } from '../../lib/hostIndex.js';
+
+export function getStaticPaths() {
+  const { hosts } = hostIndex();
+  return hosts.map((host) => ({ params: { slug: host.slug }, props: { host } }));
+}
+
+const { host } = Astro.props;
+// Parse as UTC + format in UTC so a date-only string doesn't shift a day in the viewer's zone.
+const fmt = (d) => new Date(d + 'T00:00:00Z').toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC' });
+const n = host.count;
+---
+<Base title={`${host.name} · The Full Picture`} description={`Every episode of The Big Picture featuring ${host.name}.`}>
+  <section class="cover">
+    <div class="wrap">
+      <p class="eyebrow">Host · {n} episode{n === 1 ? '' : 's'}</p>
+      <h1>{host.name}</h1>
+      <p class="credits"><a href="/hosts">All hosts</a></p>
+    </div>
+  </section>
+
+  <div class="wrap">
+    <section class="sale-section" style="border-bottom:none">
+      <p class="rubric">Appeared on <span class="sub">newest first</span></p>
+      <ul class="mention-list">
+        {host.episodes.map((e) => (
+          <li>
+            <a class="mention mention--host" href={`/ep/${e.slug}`}>
+              <span class="mention__title">{e.title}</span>
+              <span class="mention__date">{fmt(e.date)}</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  </div>
+</Base>

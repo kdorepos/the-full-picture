@@ -4,12 +4,12 @@
   "show": "The Big Picture",
   "network": "The Ringer",
   "hosts": [
-    "Sean Fennessy",
+    "Sean Fennessey",
     "Rob Harvilla"
   ],
   "published": "2019-06-21",
   "runtimeMin": 52,
-  "format": "Sean Fennessy and Ringer colleague (and dad of two) Rob Harvilla review Toy Story 4, then each draft a personal Pixar top five.",
+  "format": "Sean Fennessey and Ringer colleague (and dad of two) Rob Harvilla review Toy Story 4, then each draft a personal Pixar top five.",
   "segments": [
     {
       "kind": "review",
@@ -59,7 +59,7 @@
     },
     {
       "kind": "topfive",
-      "heading": "Sean Fennessy's Pixar Top Five",
+      "heading": "Sean Fennessey's Pixar Top Five",
       "note": "best to worst",
       "subject": "Pixar",
       "ranked": true,

@@ -4,12 +4,12 @@
   "show": "The Big Picture",
   "network": "The Ringer",
   "hosts": [
-    "Sean Fennessy",
+    "Sean Fennessey",
     "Chris Ryan"
   ],
   "published": "2019-01-11",
   "runtimeMin": 75,
-  "format": "Sean Fennessy and Chris Ryan each count down their five favorite L.A. movies since Chinatown, then Karyn Kusama joins to talk Destroyer, the East Side geography she and her husband built it around, and directing Nicole Kidman.",
+  "format": "Sean Fennessey and Chris Ryan each count down their five favorite L.A. movies since Chinatown, then Karyn Kusama joins to talk Destroyer, the East Side geography she and her husband built it around, and directing Nicole Kidman.",
   "segments": [
     {
       "kind": "topfive",
@@ -47,7 +47,7 @@
     },
     {
       "kind": "topfive",
-      "heading": "Sean Fennessy's Top Five L.A. Movies",
+      "heading": "Sean Fennessey's Top Five L.A. Movies",
       "note": "since Chinatown",
       "subject": "L.A. movies",
       "ranked": true,

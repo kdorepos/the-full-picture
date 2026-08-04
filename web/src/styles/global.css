@@ -393,6 +393,10 @@ footer p:last-child { margin-bottom: 0; }
 .mention__title { font-family: var(--display); font-size: 1.15rem; color: var(--ivory); }
 .mention:hover .mention__title { color: var(--brass-lit); }
 .mention__date { font-family: var(--mono); font-size: 0.72rem; color: var(--faint); text-align: right; }
+.mention--host { grid-template-columns: 1fr auto; }   /* host page: no context column, just title + date */
+/* Clickable host names in episode credits */
+.credits .host { color: inherit; border-bottom: 1px solid var(--line-lit); transition: color 0.15s, border-color 0.15s; }
+.credits .host:hover { color: var(--brass-lit); border-color: var(--brass); }
 @media (max-width: 640px) {
   .mention { grid-template-columns: 1fr auto; }
   .mention__ctx { grid-column: 1 / 3; }

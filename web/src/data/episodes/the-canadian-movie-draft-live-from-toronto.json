@@ -7,7 +7,7 @@
     "Sean Fennessey",
     "Amanda Dobbins",
     "Chris Ryan",
-    "Adam Naiman"
+    "Adam Nayman"
   ],
   "published": "2026-08-04",
   "runtimeMin": 114,
@@ -135,7 +135,7 @@
       "guest": "Matt Johnson on Canadian film",
       "films": [
         {
-          "title": "Nirvana the Band the Show the Movie",
+          "title": "Nirvanna the Band the Show the Movie",
           "year": 2026,
           "note": "Set in Toronto, treating the city's four streets as sacred geography."
         },
@@ -331,7 +331,7 @@
           ]
         },
         {
-          "host": "Adam Naiman",
+          "host": "Adam Nayman",
           "picks": [
             {
               "title": "Enemy",
@@ -497,7 +497,7 @@
   ],
   "excluded": {
     "TV": [
-      "Nirvana the Band the Show",
+      "Nirvanna the Band the Show",
       "Letterkenny",
       "Trailer Park Boys",
       "Breaker High",
@@ -662,7 +662,12 @@
       "title": "One Battle After Another",
       "year": 2025
     },
-    "Nirvana the Band the Show the Movie": null,
+    "Nirvanna the Band the Show the Movie": {
+      "id": 1154538,
+      "poster": "/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
+      "title": "Nirvanna the Band the Show the Movie",
+      "year": 2026
+    },
     "Blackberry": {
       "id": 1016084,
       "poster": "/ePWKQzOnwabMcJsWYWIiy5p1Ofr.jpg",

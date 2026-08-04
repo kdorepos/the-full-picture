@@ -1,6 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import Segment from '../../components/Segment.astro';
+import { hostSlug } from '../../lib/hostIndex.js';
 
 export async function getStaticPaths() {
   const modules = import.meta.glob('../../data/episodes/*.json', { eager: true });
@@ -58,7 +59,7 @@ if (auction) {
       <p class="credits">
         <span>{pubDate}</span><span class="sep">/</span>
         <span>{ep.runtimeMin} min</span><span class="sep">/</span>
-        <span>{ep.hosts.join(' · ')}</span>
+        <span>{ep.hosts.map((h, i) => (<>{i > 0 ? ' · ' : ''}<a class="host" href={`/host/${hostSlug(h)}`}>{h}</a></>))}</span>
       </p>
       <p class="lede">{ep.format}</p>
       {sale ? (

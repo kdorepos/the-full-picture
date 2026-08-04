@@ -1,0 +1,28 @@
+---
+import Base from '../layouts/Base.astro';
+import { hostIndex } from '../lib/hostIndex.js';
+
+const { hosts } = hostIndex();
+---
+<Base title="Hosts & guests · The Full Picture" description="Everyone who's appeared on The Big Picture, ranked by number of episodes.">
+  <section class="cover">
+    <div class="wrap">
+      <p class="eyebrow">The Big Picture · Host index</p>
+      <h1>Hosts &amp; guests, by appearances.</h1>
+      <p class="lede">All {hosts.length} people who've been on the show, most-frequent first. Open a name for their episodes.</p>
+    </div>
+  </section>
+
+  <div class="wrap">
+    <ul class="movie-list">
+      {hosts.map((h) => (
+        <li class="movie">
+          <a class="movie__link" href={`/host/${h.slug}`}>
+            {h.name}
+            <span class="movie__count">{h.count} episode{h.count === 1 ? '' : 's'}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</Base>

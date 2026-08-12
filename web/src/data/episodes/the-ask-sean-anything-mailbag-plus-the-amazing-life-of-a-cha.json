@@ -494,7 +494,7 @@
     {
       "group": "Jay-Z concert film (top-five HOV question)",
       "films": [
-        "Fade to Black"
+        "JAY-Z: Fade to Black"
       ]
     }
   ],
@@ -540,7 +540,9 @@
     ]
   },
   "tmdbOverrides": {
-    "Artificial": 1586108
+    "Artificial": 1586108,
+    "Fade to Black": 40034,
+    "JAY-Z: Fade to Black": 19614
   },
   "tmdb": {
     "Spider-Man: Brand New Day": {
@@ -605,7 +607,7 @@
     },
     "Sinners": {
       "id": 1233413,
-      "poster": "/e4irZZ34S6DcwDhkSyWSi6Xr5LQ.jpg",
+      "poster": "/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
       "title": "Sinners",
       "year": 2025
     },
@@ -767,10 +769,10 @@
       "year": 1988
     },
     "Fade to Black": {
-      "id": 1361355,
-      "poster": "/bKS5JRVX8lJtb5w5pH2y8mnUpep.jpg",
+      "id": 40034,
+      "poster": "/wQA5HMwryIjOwnmN6uumCz6mjJs.jpg",
       "title": "Fade to Black",
-      "year": null
+      "year": 1980
     },
     "Miracle Mile": {
       "id": 24739,
@@ -786,7 +788,7 @@
     },
     "China Girl": {
       "id": 47212,
-      "poster": "/x0VilySeyfLX3HSobjWv3CXxvCp.jpg",
+      "poster": "/4Bu4hRHBHw0eL5g8RX2qMRlD4js.jpg",
       "title": "China Girl",
       "year": 1987
     },
@@ -1134,7 +1136,7 @@
     },
     "Ink": {
       "id": 1532610,
-      "poster": "/ohBhmFl4bHw63ib6vZRurqXLuJ4.jpg",
+      "poster": "/AftyZmiTYohhcwEgaYt4RUNqdAc.jpg",
       "title": "Ink",
       "year": 2026
     },
@@ -1203,6 +1205,12 @@
       "poster": "/vpWQs3CjwG6Er3DgZlv4L3NFjXg.jpg",
       "title": "Duplicity",
       "year": 2009
+    },
+    "JAY-Z: Fade to Black": {
+      "id": 19614,
+      "poster": "/7hQ7GFrdFzs3CWGD5ntTY8z98Nr.jpg",
+      "title": "JAY-Z: Fade to Black",
+      "year": 2004
     }
   },
   "spotifyEpisodeId": "77yYWovu2mwxAVI4CgK5sn"

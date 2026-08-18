@@ -1,0 +1,996 @@
+{
+  "slug": "the-end-of-oak-street-and-the-top-five-twilight-zone-movies-",
+  "title": "‘The End of Oak Street’ and the Top Five 'Twilight Zone' Movies. Plus: Will Poulter!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Chris Ryan",
+    "Mallory Rubin"
+  ],
+  "published": "2026-08-18",
+  "runtimeMin": 153,
+  "format": "A dinosaur-thriller review, a Twilight Zone top five from all three chairs, and Will Poulter on 'Union County,' after a long D23 detour.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The Movie News",
+      "note": "X-Men casting, trailers, and the D23 slate",
+      "films": [
+        {
+          "title": "X-Men",
+          "year": 2028,
+          "note": "Jake Schreier directing; Christopher Abbott as Xavier, Adam Driver as Mr. Sinister, Kit Connor and Sadie Sink leading a deliberately Gen-Z cast. No Wolverine or Magneto announced."
+        },
+        {
+          "title": "Avengers: Doomsday",
+          "year": 2026,
+          "note": "Second trailer read as a market improvement, dramatic stakes at last, but still shot in front of a giant green screen. Downey's Latverian accent the highlight."
+        },
+        {
+          "title": "Star Wars: Starfighter",
+          "year": 2027,
+          "note": "Teaser framed around the ship, not the cast. Gosling plays Cade Oberon; set five years after the First Order."
+        },
+        {
+          "title": "Gato",
+          "year": 2027,
+          "note": "Pixar mafia-cat movie set in Venice; hand-painted look drew the biggest response of the night."
+        },
+        {
+          "title": "Incredibles 3",
+          "note": "Peter Sohn directing, not Brad Bird."
+        },
+        {
+          "title": "Coco 2",
+          "year": 2029
+        },
+        {
+          "title": "Frozen 3",
+          "year": 2027
+        },
+        {
+          "title": "The Bluey Movie",
+          "year": 2027,
+          "note": "Slightly heightened animation style; an easy $500M given how encoded the show is for parents."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "The Last House",
+      "note": "the Netflix warm-up nobody remembers",
+      "films": [
+        {
+          "title": "The Last House",
+          "year": 2026,
+          "note": "Louis Leterrier's No. 1 Netflix movie: a family sealed inside their home by sentient rain that turns out to be a Lovecraftian monster picture. Greta Lee and Wagner Moura cashing in; a literalization of Bowfinger's 'Chubby Rain.'"
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "The End of Oak Street",
+      "films": [
+        {
+          "title": "The End of Oak Street",
+          "year": 2026,
+          "note": "David Robert Mitchell's 92-minute Amblin-by-way-of-Twilight-Zone dinosaur movie. A wormhole drops a suburban block into prehistory. Anne Hathaway great, Ewan McGregor the weak link (and killed two-thirds in). Mean kills, a portal-reset ending that spawns two Jeanettes."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Mallory's Top Five 'Twilight Zone' Movies",
+      "subject": "Twilight Zone movies",
+      "ranked": true,
+      "films": [
+        {
+          "title": "The Truman Show",
+          "year": 1998,
+          "note": "No. 1. Met the prompt and became its own reference point; had her checking for cameras for years."
+        },
+        {
+          "title": "Moon",
+          "year": 2009,
+          "note": "Sam Rockwell and a twist about confronting another version of yourself."
+        },
+        {
+          "title": "Arrival",
+          "year": 2016,
+          "note": "Perception of time as the real reveal; among the best films of the century."
+        },
+        {
+          "title": "Get Out",
+          "year": 2017,
+          "note": "The sunken place; Peele's most overtly Twilight Zone film."
+        },
+        {
+          "title": "Groundhog Day",
+          "year": 1993,
+          "note": "Slotted at five only because Sean already had it."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Chris's Top Five 'Twilight Zone' Movies",
+      "subject": "Twilight Zone movies",
+      "ranked": true,
+      "films": [
+        {
+          "title": "The Game",
+          "year": 1997,
+          "note": "No. 1. Fincher's how-fucked-up-are-yuppies birthday nightmare."
+        },
+        {
+          "title": "Shutter Island",
+          "year": 2010,
+          "note": "One of the great twists; truly one of the saddest movies of the 2010s."
+        },
+        {
+          "title": "The Swimmer",
+          "year": 1968,
+          "note": "Frank Perry's Cheever adaptation; sat at No. 1 until the last second."
+        },
+        {
+          "title": "Field of Dreams",
+          "year": 1989,
+          "note": "Shared favorite with Mallory; a cornfield voice as a clean Twilight Zone premise."
+        },
+        {
+          "title": "It Ends",
+          "year": 2024,
+          "note": "Alexander Allen's never-ending road-trip time loop."
+        }
+      ]
+    },
+    {
+      "kind": "topfive",
+      "heading": "Sean's Top Five 'Twilight Zone' Movies",
+      "subject": "Twilight Zone movies",
+      "ranked": true,
+      "films": [
+        {
+          "title": "Seconds",
+          "year": 1966,
+          "note": "No. 1. Frankenheimer's new-body-new-life horror; Shutter Island before Shutter Island."
+        },
+        {
+          "title": "Groundhog Day",
+          "year": 1993,
+          "note": "The comic entry, watched 700 times as a kid."
+        },
+        {
+          "title": "The Quiet Earth",
+          "year": 1985,
+          "note": "New Zealand last-man-alive picture."
+        },
+        {
+          "title": "Repeat Performance",
+          "year": 1947,
+          "note": "A pre-Twilight-Zone noir time loop that plays shockingly modern."
+        },
+        {
+          "title": "The Vast of Night",
+          "year": 2019,
+          "note": "Andrew Patterson's modestly budgeted radio-signal wonder."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Will Poulter on",
+      "films": [
+        {
+          "title": "Union County",
+          "year": 2026,
+          "note": "Adam Meeks's debut docufiction, made with an Ohio drug-court recovery community and its real director, Annette Dio. Poulter plays the withdrawn Cody opposite Noah Centineo's gregarious Jack."
+        },
+        {
+          "title": "Hook",
+          "year": 1991,
+          "note": "His favorite film of all time; wanted to be a Lost Boy."
+        },
+        {
+          "title": "Son of Rambow",
+          "year": 2007,
+          "note": "His first film, shot on a school summer holiday."
+        },
+        {
+          "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+          "year": 2010,
+          "note": "His mother and sister came along; his father took a sabbatical."
+        },
+        {
+          "title": "Warfare",
+          "year": 2025,
+          "note": "Where he and Centineo bonded, 17-hour days across two months, before Union County."
+        },
+        {
+          "title": "One Battle After Another",
+          "year": 2025,
+          "note": "Cited PTA and DiCaprio on how many non-professional actors changed the energy."
+        },
+        {
+          "title": "Omaha",
+          "year": 2025,
+          "note": "Cole Webley's film; a devastating recent watch, John Magaro strong."
+        },
+        {
+          "title": "Come See Me in the Good Light",
+          "year": 2025,
+          "note": "Oscar-nominated documentary; his other 'last great thing.'"
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Marvel & Star Wars news",
+      "films": [
+        "Kraven the Hunter",
+        "Spider-Man: Brand New Day",
+        "Thunderbolts",
+        "Licorice Pizza",
+        "Spider-Man: Homecoming",
+        "Iron Man",
+        "Avengers: Secret Wars",
+        "Ghost Rider",
+        "Black Panther 3",
+        "Eternals",
+        "Beyond the Spider-Verse",
+        "Man of Tomorrow",
+        "The Fantastic Four: First Steps",
+        "Deadpool & Wolverine",
+        "The Adam Project",
+        "Real Steel",
+        "Drive",
+        "Star Wars",
+        "Marty Supreme",
+        "Dune: Part Three",
+        "Dune: Part Two",
+        "Guardians of the Galaxy Vol. 3"
+      ]
+    },
+    {
+      "group": "D23 slate",
+      "films": [
+        "Tangled",
+        "Zootopia 3",
+        "A Minecraft Movie 2",
+        "Romy and Michelle 2",
+        "The Odyssey",
+        "Whalefall",
+        "Alien: Romulus",
+        "Ray Gun",
+        "Ghost Market",
+        "Coco",
+        "The Godfather"
+      ]
+    },
+    {
+      "group": "The Last House digression",
+      "films": [
+        "Fast X",
+        "Now You See Me",
+        "The Devil's Mouth",
+        "To All the Boys I've Loved Before",
+        "War of the Worlds",
+        "Eddington",
+        "Past Lives",
+        "Bowfinger",
+        "Indiana Jones and the Last Crusade"
+      ]
+    },
+    {
+      "group": "Oak Street touchstones",
+      "films": [
+        "It Follows",
+        "Under the Silver Lake",
+        "The Myth of the American Sleepover",
+        "Jurassic Park"
+      ]
+    },
+    {
+      "group": "More Twilight Zone-adjacent movies",
+      "films": [
+        "Us",
+        "Nope",
+        "It's What's Inside",
+        "The Invitation",
+        "Bird Box",
+        "Vivarium",
+        "Don't Worry Darling",
+        "Companion",
+        "I'm Thinking of Ending Things",
+        "Barbarian",
+        "Black Bear",
+        "Palm Springs",
+        "Edge of Tomorrow",
+        "Memento",
+        "The Mist",
+        "Planet of the Apes",
+        "Titanic",
+        "The Rivals of Amziah King",
+        "Resolution",
+        "Spring",
+        "The Endless",
+        "Synchronic",
+        "Something in the Dirt",
+        "Night of the Comet",
+        "28 Days Later",
+        "Mikey and Nicky",
+        "Zodiac",
+        "Taxi Driver",
+        "Clueless",
+        "The Rescuers Down Under",
+        "Blade Runner 2049",
+        "Sicario",
+        "Enemy"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "House of the Dragon",
+      "Lanterns",
+      "Beef",
+      "X-Men '97",
+      "Stranger Things",
+      "Heartstopper",
+      "Girls",
+      "Obsession",
+      "Wonder Man",
+      "Vision Quest",
+      "WandaVision",
+      "Agatha All Along",
+      "Alien: Earth",
+      "Dark Matter",
+      "Ted Lasso",
+      "Black Mirror",
+      "San Junipero",
+      "Lost",
+      "Dark",
+      "The Prisoner",
+      "The Twilight Zone",
+      "Bluey",
+      "Camp Rock 3",
+      "Daredevil",
+      "Moon Knight",
+      "The Bear"
+    ]
+  },
+  "tmdbOverrides": {
+    "Ghost Rider": 1738010,
+    "Tangled": 1559978,
+    "War of the Worlds": 74,
+    "Planet of the Apes": 871,
+    "Mikey and Nicky": 40481
+  },
+  "tmdb": {
+    "X-Men": null,
+    "Avengers: Doomsday": {
+      "id": 1003596,
+      "poster": "/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+      "title": "Avengers: Doomsday",
+      "year": 2026
+    },
+    "Star Wars: Starfighter": {
+      "id": 1417668,
+      "poster": "/6LJetiEQjXUE9kDpXavXpZN1Vjk.jpg",
+      "title": "Star Wars: Starfighter",
+      "year": 2027
+    },
+    "Gato": null,
+    "Incredibles 3": {
+      "id": 1327821,
+      "poster": "/4pGPF8LuneSJKGnfgO70W3zHChF.jpg",
+      "title": "Incredibles 3",
+      "year": 2028
+    },
+    "Coco 2": {
+      "id": 1451567,
+      "poster": "/7YiB8tOQcY8ApdKkCnjQL5jGkIP.jpg",
+      "title": "Coco 2",
+      "year": 2029
+    },
+    "Frozen 3": null,
+    "The Bluey Movie": {
+      "id": 1403836,
+      "poster": "/uTgwBcdFYYYUKpu8DZnOVDEjjxc.jpg",
+      "title": "The Bluey Movie",
+      "year": 2027
+    },
+    "The Last House": {
+      "id": 1284041,
+      "poster": "/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+      "title": "The Last House",
+      "year": 2026
+    },
+    "The End of Oak Street": {
+      "id": 1101383,
+      "poster": "/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+      "title": "The End of Oak Street",
+      "year": 2026
+    },
+    "The Truman Show": {
+      "id": 37165,
+      "poster": "/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+      "title": "The Truman Show",
+      "year": 1998
+    },
+    "Moon": {
+      "id": 17431,
+      "poster": "/35IU0Mq0zFsN1mYwDGts5mKc77n.jpg",
+      "title": "Moon",
+      "year": 2009
+    },
+    "Arrival": {
+      "id": 329865,
+      "poster": "/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg",
+      "title": "Arrival",
+      "year": 2016
+    },
+    "Get Out": {
+      "id": 419430,
+      "poster": "/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+      "title": "Get Out",
+      "year": 2017
+    },
+    "Groundhog Day": {
+      "id": 137,
+      "poster": "/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
+      "title": "Groundhog Day",
+      "year": 1993
+    },
+    "The Game": {
+      "id": 2649,
+      "poster": "/4UOa079915QjiTA2u5hT2yKVgUu.jpg",
+      "title": "The Game",
+      "year": 1997
+    },
+    "Shutter Island": {
+      "id": 11324,
+      "poster": "/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+      "title": "Shutter Island",
+      "year": 2010
+    },
+    "The Swimmer": {
+      "id": 33564,
+      "poster": "/urzLPHVno21hv2Ti7CwQuoQAUAI.jpg",
+      "title": "The Swimmer",
+      "year": 1968
+    },
+    "Field of Dreams": {
+      "id": 2323,
+      "poster": "/oeM7nAw6FVFICwUaXKCRkDsKjqO.jpg",
+      "title": "Field of Dreams",
+      "year": 1989
+    },
+    "It Ends": null,
+    "Seconds": {
+      "id": 20620,
+      "poster": "/5G3q3OvulFTnFdiouaZdD8wjtIc.jpg",
+      "title": "Seconds",
+      "year": 1966
+    },
+    "The Quiet Earth": {
+      "id": 10176,
+      "poster": "/6uvRcSy1DCh0zONGMRO4bEj44hq.jpg",
+      "title": "The Quiet Earth",
+      "year": 1985
+    },
+    "Repeat Performance": {
+      "id": 28914,
+      "poster": "/lr337XUyoOfjvExZGiG2Ke0mTmy.jpg",
+      "title": "Repeat Performance",
+      "year": 1947
+    },
+    "The Vast of Night": {
+      "id": 565743,
+      "poster": "/q2P9lYkctl5Ory71HEBMaFxbVlD.jpg",
+      "title": "The Vast of Night",
+      "year": 2019
+    },
+    "Union County": {
+      "id": 1482938,
+      "poster": "/73Dt773ChYDF5ZgTPDyH6E7qZhs.jpg",
+      "title": "Union County",
+      "year": 2026
+    },
+    "Hook": {
+      "id": 879,
+      "poster": "/a6rB1lGXoGms7gWxRfJneQmAjNV.jpg",
+      "title": "Hook",
+      "year": 1991
+    },
+    "Son of Rambow": {
+      "id": 13258,
+      "poster": "/hOCdlpTs91eDohj5LhCGQF4bxqe.jpg",
+      "title": "Son of Rambow",
+      "year": 2007
+    },
+    "The Chronicles of Narnia: The Voyage of the Dawn Treader": {
+      "id": 10140,
+      "poster": "/pP27zlm9yeKrCeDZLFLP2HKELot.jpg",
+      "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+      "year": 2010
+    },
+    "Warfare": {
+      "id": 1241436,
+      "poster": "/l39TlELomwysfsr37vrvCV6rmaQ.jpg",
+      "title": "Warfare",
+      "year": 2025
+    },
+    "One Battle After Another": {
+      "id": 1054867,
+      "poster": "/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+      "title": "One Battle After Another",
+      "year": 2025
+    },
+    "Omaha": {
+      "id": 1233655,
+      "poster": "/s1SNVyTWWmvpWK439bOrRF9xywS.jpg",
+      "title": "Omaha",
+      "year": 2025
+    },
+    "Come See Me in the Good Light": {
+      "id": 1400780,
+      "poster": "/5AFbcDGT78cLZTyHTSDBohczjuO.jpg",
+      "title": "Come See Me in the Good Light",
+      "year": 2025
+    },
+    "Kraven the Hunter": {
+      "id": 539972,
+      "poster": "/1GvBhRxY6MELDfxFrete6BNhBB5.jpg",
+      "title": "Kraven the Hunter",
+      "year": 2024
+    },
+    "Spider-Man: Brand New Day": {
+      "id": 969681,
+      "poster": "/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+      "title": "Spider-Man: Brand New Day",
+      "year": 2026
+    },
+    "Thunderbolts": {
+      "id": 986056,
+      "poster": "/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
+      "title": "Thunderbolts*",
+      "year": 2025
+    },
+    "Licorice Pizza": {
+      "id": 718032,
+      "poster": "/ivXtvzfliGvoJ1DhSHIGyYBToWe.jpg",
+      "title": "Licorice Pizza",
+      "year": 2021
+    },
+    "Spider-Man: Homecoming": {
+      "id": 315635,
+      "poster": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+      "title": "Spider-Man: Homecoming",
+      "year": 2017
+    },
+    "Iron Man": {
+      "id": 1726,
+      "poster": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+      "title": "Iron Man",
+      "year": 2008
+    },
+    "Avengers: Secret Wars": {
+      "id": 1003598,
+      "poster": "/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
+      "title": "Avengers: Secret Wars",
+      "year": 2027
+    },
+    "Ghost Rider": {
+      "id": 1738010,
+      "poster": "/zgC1zo3lyujoEiIMnUrHltvPmZg.jpg",
+      "title": "Ghost Rider",
+      "year": 2028
+    },
+    "Black Panther 3": {
+      "id": 1386618,
+      "poster": "/zJc9fYZxgq4yzI0Oru2e1Cf3a3V.jpg",
+      "title": "Black Panther 3",
+      "year": 2028
+    },
+    "Eternals": {
+      "id": 524434,
+      "poster": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+      "title": "Eternals",
+      "year": 2021
+    },
+    "Beyond the Spider-Verse": null,
+    "Man of Tomorrow": {
+      "id": 1523140,
+      "poster": "/tYLgfKk3cEk7LskgxWyW37Nty01.jpg",
+      "title": "Man of Tomorrow",
+      "year": 2027
+    },
+    "The Fantastic Four: First Steps": null,
+    "Deadpool & Wolverine": {
+      "id": 533535,
+      "poster": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+      "title": "Deadpool & Wolverine",
+      "year": 2024
+    },
+    "The Adam Project": {
+      "id": 696806,
+      "poster": "/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg",
+      "title": "The Adam Project",
+      "year": 2022
+    },
+    "Real Steel": {
+      "id": 39254,
+      "poster": "/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg",
+      "title": "Real Steel",
+      "year": 2011
+    },
+    "Drive": {
+      "id": 64690,
+      "poster": "/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
+      "title": "Drive",
+      "year": 2011
+    },
+    "Star Wars": {
+      "id": 11,
+      "poster": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+      "title": "Star Wars",
+      "year": 1977
+    },
+    "Marty Supreme": {
+      "id": 1317288,
+      "poster": "/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+      "title": "Marty Supreme",
+      "year": 2025
+    },
+    "Dune: Part Three": {
+      "id": 1170608,
+      "poster": "/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+      "title": "Dune: Part Three",
+      "year": 2026
+    },
+    "Dune: Part Two": {
+      "id": 693134,
+      "poster": "/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg",
+      "title": "Dune: Part Two",
+      "year": 2024
+    },
+    "Guardians of the Galaxy Vol. 3": {
+      "id": 447365,
+      "poster": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "year": 2023
+    },
+    "Tangled": {
+      "id": 1559978,
+      "poster": "/jn6ZjmW2sMOZOjAckPCfkqxbuJm.jpg",
+      "title": "Tangled",
+      "year": 2028
+    },
+    "Zootopia 3": {
+      "id": 1591771,
+      "poster": "/aNJ44VZZKegXliZLR9THlRB7f1f.jpg",
+      "title": "Zootopia 3",
+      "year": null
+    },
+    "A Minecraft Movie 2": null,
+    "Romy and Michelle 2": null,
+    "The Odyssey": {
+      "id": 1368337,
+      "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "title": "The Odyssey",
+      "year": 2026
+    },
+    "Whalefall": {
+      "id": 1255833,
+      "poster": "/wse4S4EuVHSNk9yzsjhdRLmipXk.jpg",
+      "title": "Whalefall",
+      "year": 2026
+    },
+    "Alien: Romulus": {
+      "id": 945961,
+      "poster": "/2uSWRTtCG336nuBiG8jOTEUKSy8.jpg",
+      "title": "Alien: Romulus",
+      "year": 2024
+    },
+    "Ray Gun": null,
+    "Ghost Market": {
+      "id": 1647603,
+      "poster": "/yrArRw51BQMIy1y1z3w1XURA7V7.jpg",
+      "title": "Ghost Market",
+      "year": 2028
+    },
+    "Coco": {
+      "id": 354912,
+      "poster": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+      "title": "Coco",
+      "year": 2017
+    },
+    "The Godfather": {
+      "id": 238,
+      "poster": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "title": "The Godfather",
+      "year": 1972
+    },
+    "Fast X": {
+      "id": 385687,
+      "poster": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+      "title": "Fast X",
+      "year": 2023
+    },
+    "Now You See Me": {
+      "id": 75656,
+      "poster": "/tWsNYbrqy1p1w6K9zRk0mSchztT.jpg",
+      "title": "Now You See Me",
+      "year": 2013
+    },
+    "The Devil's Mouth": {
+      "id": 1481343,
+      "poster": "/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
+      "title": "The Devil's Mouth",
+      "year": 2026
+    },
+    "To All the Boys I've Loved Before": {
+      "id": 466282,
+      "poster": "/hKHZhUbIyUAjcSrqJThFGYIR6kI.jpg",
+      "title": "To All the Boys I've Loved Before",
+      "year": 2018
+    },
+    "War of the Worlds": {
+      "id": 74,
+      "poster": "/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
+      "title": "War of the Worlds",
+      "year": 2005
+    },
+    "Eddington": {
+      "id": 648878,
+      "poster": "/4GIqZUgPZ146BhibsPHMHef2nXX.jpg",
+      "title": "Eddington",
+      "year": 2025
+    },
+    "Past Lives": {
+      "id": 666277,
+      "poster": "/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg",
+      "title": "Past Lives",
+      "year": 2023
+    },
+    "Bowfinger": {
+      "id": 11353,
+      "poster": "/iGuiFYEYwFkaRPl3FgLJYEm6dWq.jpg",
+      "title": "Bowfinger",
+      "year": 1999
+    },
+    "Indiana Jones and the Last Crusade": {
+      "id": 89,
+      "poster": "/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg",
+      "title": "Indiana Jones and the Last Crusade",
+      "year": 1989
+    },
+    "It Follows": {
+      "id": 270303,
+      "poster": "/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg",
+      "title": "It Follows",
+      "year": 2015
+    },
+    "Under the Silver Lake": {
+      "id": 396461,
+      "poster": "/cJ9aKlEgTLYtpYjNqin06YqJRUl.jpg",
+      "title": "Under the Silver Lake",
+      "year": 2018
+    },
+    "The Myth of the American Sleepover": {
+      "id": 70588,
+      "poster": "/6zIu3afpJjz5Js6S7GkDxpCJCYM.jpg",
+      "title": "The Myth of the American Sleepover",
+      "year": 2011
+    },
+    "Jurassic Park": {
+      "id": 329,
+      "poster": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "title": "Jurassic Park",
+      "year": 1993
+    },
+    "Us": {
+      "id": 458723,
+      "poster": "/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+      "title": "Us",
+      "year": 2019
+    },
+    "Nope": {
+      "id": 762504,
+      "poster": "/AcKVlWaNVVVFQwro3nLXqPljcYA.jpg",
+      "title": "Nope",
+      "year": 2022
+    },
+    "It's What's Inside": {
+      "id": 1052280,
+      "poster": "/6jzwaLoDurD6Jn2ILb42nFcn3xq.jpg",
+      "title": "It's What's Inside",
+      "year": 2024
+    },
+    "The Invitation": {
+      "id": 830788,
+      "poster": "/jcTq6gIskCsHlKDvCKKouEfiU66.jpg",
+      "title": "The Invitation",
+      "year": 2022
+    },
+    "Bird Box": {
+      "id": 405774,
+      "poster": "/rGfGfgL2pEPCfhIvqHXieXFn7gp.jpg",
+      "title": "Bird Box",
+      "year": 2018
+    },
+    "Vivarium": {
+      "id": 458305,
+      "poster": "/myf3qzpeN0JbuFRPwSpJcz7rmAT.jpg",
+      "title": "Vivarium",
+      "year": 2019
+    },
+    "Don't Worry Darling": {
+      "id": 619730,
+      "poster": "/wjAJWfuE5OQm5zerlOAbTxdHFMV.jpg",
+      "title": "Don't Worry Darling",
+      "year": 2022
+    },
+    "Companion": {
+      "id": 1084199,
+      "poster": "/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
+      "title": "Companion",
+      "year": 2025
+    },
+    "I'm Thinking of Ending Things": {
+      "id": 500840,
+      "poster": "/5ynWWapdl45hJXUh0KIevxSG9JQ.jpg",
+      "title": "I'm Thinking of Ending Things",
+      "year": 2020
+    },
+    "Barbarian": {
+      "id": 913290,
+      "poster": "/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
+      "title": "Barbarian",
+      "year": 2022
+    },
+    "Black Bear": {
+      "id": 624788,
+      "poster": "/nqZFjQRWfW6PjFTc17pzJ5LRAAv.jpg",
+      "title": "Black Bear",
+      "year": 2020
+    },
+    "Palm Springs": {
+      "id": 587792,
+      "poster": "/gnAfqiV7yO3Jq9IntTmwkcaICqc.jpg",
+      "title": "Palm Springs",
+      "year": 2020
+    },
+    "Edge of Tomorrow": {
+      "id": 137113,
+      "poster": "/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
+      "title": "Edge of Tomorrow",
+      "year": 2014
+    },
+    "Memento": {
+      "id": 77,
+      "poster": "/nzlv62aC0octS5AklAiWpXLX9Z0.jpg",
+      "title": "Memento",
+      "year": 2000
+    },
+    "The Mist": {
+      "id": 5876,
+      "poster": "/1CvJ6diBACKPVGOpcWuY4XPQdqX.jpg",
+      "title": "The Mist",
+      "year": 2007
+    },
+    "Planet of the Apes": {
+      "id": 871,
+      "poster": "/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+      "title": "Planet of the Apes",
+      "year": 1968
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "The Rivals of Amziah King": {
+      "id": 1124142,
+      "poster": "/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
+      "title": "The Rivals of Amziah King",
+      "year": 2026
+    },
+    "Resolution": {
+      "id": 121606,
+      "poster": "/gTZTCMmU7N0qTWJrSUOVBI70ZlA.jpg",
+      "title": "Resolution",
+      "year": 2013
+    },
+    "Spring": {
+      "id": 241855,
+      "poster": "/qPI94JmMga88RB7vuQA83McgFaz.jpg",
+      "title": "Spring",
+      "year": 2014
+    },
+    "The Endless": {
+      "id": 430231,
+      "poster": "/uVHPBTLb6Sj1Eso9HzyBAOMRheM.jpg",
+      "title": "The Endless",
+      "year": 2017
+    },
+    "Synchronic": {
+      "id": 549294,
+      "poster": "/wgm4gdJwb7iSYX0uBsRAZmHQmPm.jpg",
+      "title": "Synchronic",
+      "year": 2020
+    },
+    "Something in the Dirt": {
+      "id": 843621,
+      "poster": "/l0kUj5y1t6LDN9ssfYe7c1NVym1.jpg",
+      "title": "Something in the Dirt",
+      "year": 2022
+    },
+    "Night of the Comet": {
+      "id": 18462,
+      "poster": "/xNXnLXu73LotJ9APaJZZXflBelQ.jpg",
+      "title": "Night of the Comet",
+      "year": 1984
+    },
+    "28 Days Later": {
+      "id": 170,
+      "poster": "/sQckQRt17VaWbo39GIu0TMOiszq.jpg",
+      "title": "28 Days Later",
+      "year": 2002
+    },
+    "Mikey and Nicky": {
+      "id": 40481,
+      "poster": "/sY8VkKcn1CCcEhcbiEVHrI6YEye.jpg",
+      "title": "Snoopy's Getting Married, Charlie Brown",
+      "year": 1985
+    },
+    "Zodiac": {
+      "id": 1949,
+      "poster": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+      "title": "Zodiac",
+      "year": 2007
+    },
+    "Taxi Driver": {
+      "id": 103,
+      "poster": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "title": "Taxi Driver",
+      "year": 1976
+    },
+    "Clueless": {
+      "id": 9603,
+      "poster": "/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",
+      "title": "Clueless",
+      "year": 1995
+    },
+    "The Rescuers Down Under": {
+      "id": 11135,
+      "poster": "/5koTDBmMAkJOgAe4PL4163UKjvG.jpg",
+      "title": "The Rescuers Down Under",
+      "year": 1990
+    },
+    "Blade Runner 2049": {
+      "id": 335984,
+      "poster": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+      "title": "Blade Runner 2049",
+      "year": 2017
+    },
+    "Sicario": {
+      "id": 273481,
+      "poster": "/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+      "title": "Sicario",
+      "year": 2015
+    },
+    "Enemy": {
+      "id": 181886,
+      "poster": "/vf40tyDRKZsBmaLsYeopzfFLzLx.jpg",
+      "title": "Enemy",
+      "year": 2014
+    }
+  },
+  "spotifyEpisodeId": "153uVVJAICOZsZlGlTY6WU"
+}

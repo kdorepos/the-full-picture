@@ -1,0 +1,1546 @@
+{
+  "slug": "the-flops-movie-draft",
+  "title": "The Flops Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2026-08-25",
+  "runtimeMin": 111,
+  "format": "In the dead zone of the release calendar, the crew drafts flops across six categories plus a wildcard: sub-$30M domestic grossers, star bombs, nine-figure losers (adjusted for inflation), Ebert zero-star reviews, sub-25% Rotten Tomatoes, and failed franchise launches. Bill Simmons and Chris Ryan fill out the table. Rule that a movie had to be considered a disappointment at the time; Shawshank got vetoed on those grounds.",
+  "segments": [
+    {
+      "kind": "draft",
+      "heading": "The Flops Movie Draft",
+      "draftOf": "flops",
+      "categories": [
+        "Under $30M domestic (wide release)",
+        "Star bomb",
+        "$100M losers club (adjusted for inflation)",
+        "Ebert zero stars",
+        "Sub-25% Rotten Tomatoes",
+        "Failed franchise launch",
+        "Wildcard"
+      ],
+      "teams": [
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Freddy Got Fingered",
+              "year": 2001,
+              "category": "Ebert zero stars",
+              "note": "First overall pick. Ebert: 'This movie doesn't deserve to be mentioned in the same sentence with barrels.' Killed Tom Green's career; Sean saw it in theaters and loved it."
+            },
+            {
+              "title": "Ishtar",
+              "year": 1987,
+              "category": "Star bomb",
+              "note": "Beatty and Hoffman flip parts; sunk by pre-release press more than box office, and it ended Elaine May's directing career."
+            },
+            {
+              "title": "The Last Duel",
+              "year": 2021,
+              "category": "$100M losers club (adjusted for inflation)",
+              "note": "Ridley Scott / Damon / Affleck / Comer; a wrong-time release dead center of the Me Too era."
+            },
+            {
+              "title": "Congo",
+              "year": 1995,
+              "category": "Sub-25% Rotten Tomatoes",
+              "note": "Frank Marshall's Crichton adaptation. 'One of the most fun movies ever made.' Laura Linney, Tim Curry, Amy the gorilla."
+            },
+            {
+              "title": "The Man from U.N.C.L.E.",
+              "year": 2015,
+              "category": "Failed franchise launch",
+              "note": "Guy Ritchie's would-be spy franchise; the Armie Hammer casting keeps it from ever getting revived."
+            },
+            {
+              "title": "The Thing",
+              "year": 1982,
+              "category": "Under $30M domestic (wide release)",
+              "note": "Made ~$3M; a historic bomb. Ceded by Chris after the year cap on the category was dropped."
+            },
+            {
+              "title": "Beloved",
+              "year": 1998,
+              "category": "Wildcard",
+              "note": "Jonathan Demme's Toni Morrison adaptation; a nine-figure loser."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "How Do You Know",
+              "year": 2010,
+              "category": "Star bomb",
+              "note": "James L. Brooks; Jack Nicholson's last screen role, and where the studio rom-com quietly died."
+            },
+            {
+              "title": "West Side Story",
+              "year": 2021,
+              "category": "$100M losers club (adjusted for inflation)",
+              "note": "Spielberg; lost $104M coming out of COVID. Amanda's No. 3 of the year."
+            },
+            {
+              "title": "North",
+              "year": 1994,
+              "category": "Ebert zero stars",
+              "note": "Ends Rob Reiner's hot streak. Ebert's pan was read aloud at Reiner's roast."
+            },
+            {
+              "title": "Salt",
+              "year": 2010,
+              "category": "Failed franchise launch",
+              "note": "The sequel setup at the end never got made. Angelina Jolie as an action star, never fully tapped."
+            },
+            {
+              "title": "The Lost City of Z",
+              "year": 2016,
+              "category": "Under $30M domestic (wide release)",
+              "note": "James Gray; $40M budget, ~$8M domestic. Sienna Miller's best performance."
+            },
+            {
+              "title": "Sister Act 2: Back in the Habit",
+              "year": 1993,
+              "category": "Sub-25% Rotten Tomatoes",
+              "note": "19% on the tomatometer despite a $125M gross. Lauryn Hill and 'Joyful, Joyful.'"
+            },
+            {
+              "title": "The Girl with the Dragon Tattoo",
+              "year": 2011,
+              "category": "Wildcard",
+              "note": "Also a failed franchise launch; Fincher's would-be trilogy stalled after one."
+            }
+          ]
+        },
+        {
+          "host": "Bill Simmons",
+          "picks": [
+            {
+              "title": "Police Academy",
+              "year": 1984,
+              "category": "Ebert zero stars",
+              "note": "Ebert had a blind spot for sophomoric comedy; the film spawned six sequels anyway."
+            },
+            {
+              "title": "Cruising",
+              "year": 1980,
+              "category": "Star bomb",
+              "note": "Sent Pacino into his flop era; protested for a year."
+            },
+            {
+              "title": "Manhunter",
+              "year": 1986,
+              "category": "Under $30M domestic (wide release)",
+              "note": "Michael Mann; a bomb at the time, now considered a masterpiece."
+            },
+            {
+              "title": "Ali",
+              "year": 2001,
+              "category": "$100M losers club (adjusted for inflation)",
+              "note": "Great stretches, a dull second half; Mann got overwhelmed telling the whole story."
+            },
+            {
+              "title": "8mm",
+              "year": 1999,
+              "category": "Sub-25% Rotten Tomatoes",
+              "note": "Joel Schumacher; takes off the moment Joaquin Phoenix shows up."
+            },
+            {
+              "title": "Josie and the Pussycats",
+              "year": 2001,
+              "category": "Failed franchise launch",
+              "note": "Anti-corporate girl-group satire from the Can't Hardly Wait team; has a cult now."
+            },
+            {
+              "title": "The Island of Dr. Moreau",
+              "year": 1996,
+              "category": "Wildcard",
+              "note": "Brando visibly counting his cash on screen; Kilmer refusing to be there."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "The Assassination of Jesse James by the Coward Robert Ford",
+              "year": 2007,
+              "category": "Star bomb",
+              "note": "$4M domestic for a meditative tone poem scored by Nick Cave; dynamite cast."
+            },
+            {
+              "title": "Furiosa: A Mad Max Saga",
+              "year": 2024,
+              "category": "$100M losers club (adjusted for inflation)",
+              "note": "Lost ~$123M; put the Mad Max franchise on ice."
+            },
+            {
+              "title": "Blackhat",
+              "year": 2015,
+              "category": "Under $30M domestic (wide release)",
+              "note": "Michael Mann; Hemsworth's baffling accent, a Rewatchables staple."
+            },
+            {
+              "title": "Wolf Creek",
+              "year": 2005,
+              "category": "Ebert zero stars",
+              "note": "Ebert: 'I wanted to walk out of the theater and keep on walking.'"
+            },
+            {
+              "title": "Friday the 13th: The Final Chapter",
+              "year": 1984,
+              "category": "Sub-25% Rotten Tomatoes",
+              "note": "Not actually the final chapter; Corey Feldman kills Jason."
+            },
+            {
+              "title": "Master and Commander: The Far Side of the World",
+              "year": 2003,
+              "category": "Failed franchise launch",
+              "note": "Peter Weir's Aubrey-Maturin adaptation that never got a sequel."
+            },
+            {
+              "title": "Battleship",
+              "year": 2012,
+              "category": "Wildcard",
+              "note": "$300M worldwide but only ~$65M domestic; part of the Taylor Kitsch bomb run. Rihanna goes boom."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Flop touchstones",
+      "films": [
+        "Waterworld",
+        "The Postman",
+        "Heaven's Gate",
+        "Howard the Duck",
+        "Titanic",
+        "Gigli",
+        "The Bonfire of the Vanities",
+        "Hudson Hawk"
+      ]
+    },
+    {
+      "group": "Intro / release-calendar talk",
+      "films": [
+        "Spider-Man: Brand New Day",
+        "The Odyssey",
+        "The Dog Stars",
+        "Dazed and Confused",
+        "Reservoir Dogs",
+        "Endless Love",
+        "The Chronicles of Riddick",
+        "Pitch Black",
+        "Masters of the Universe",
+        "Runner Runner",
+        "Jurassic Park"
+      ]
+    },
+    {
+      "group": "Brad Pitt",
+      "films": [
+        "By the Sea",
+        "The Tourist",
+        "Ocean's Thirteen",
+        "Burn After Reading",
+        "The Curious Case of Benjamin Button",
+        "Moneyball",
+        "Heart of the Beast",
+        "A Dog's Purpose"
+      ]
+    },
+    {
+      "group": "Ridley Scott filmography",
+      "films": [
+        "All the Money in the World",
+        "House of Gucci",
+        "Napoleon",
+        "Gladiator II",
+        "Gladiator",
+        "Alien",
+        "Alien: Covenant",
+        "Prometheus",
+        "Exodus: Gods and Kings",
+        "Black Rain",
+        "Someone to Watch Over Me"
+      ]
+    },
+    {
+      "group": "Michael Mann",
+      "films": [
+        "Ferrari",
+        "Public Enemies"
+      ]
+    },
+    {
+      "group": "Star bombs left on the board",
+      "films": [
+        "The Scarlet Letter",
+        "The Juror",
+        "K-19: The Widowmaker",
+        "U-571",
+        "The Beach",
+        "Best Defense",
+        "Knight and Day",
+        "Valkyrie",
+        "Rock of Ages",
+        "Gotti",
+        "Revenge",
+        "John Carter",
+        "Sahara"
+      ]
+    },
+    {
+      "group": "Failed franchise launches left on the board",
+      "films": [
+        "The Mummy",
+        "Alita: Battle Angel",
+        "Bright",
+        "The Dark Tower",
+        "Jonah Hex",
+        "The Last Airbender",
+        "Prince of Persia: The Sands of Time",
+        "47 Ronin",
+        "Jumper",
+        "Jack Ryan: Shadow Recruit",
+        "Solo: A Star Wars Story",
+        "The Next Karate Kid",
+        "Popstar: Never Stop Never Stopping",
+        "Horizon: An American Saga - Chapter 1"
+      ]
+    },
+    {
+      "group": "Ebert zero-star also-rans",
+      "films": [
+        "The Hitcher",
+        "I Spit on Your Grave",
+        "Dice Rules",
+        "10 to Midnight",
+        "Jaws: The Revenge",
+        "Death Wish II",
+        "Deuce Bigalow: European Gigolo",
+        "Deuce Bigalow: Male Gigolo",
+        "Last Rites",
+        "Rosencrantz & Guildenstern Are Dead",
+        "Walker",
+        "The Devils"
+      ]
+    },
+    {
+      "group": "Sub-25% also mentioned",
+      "films": [
+        "Event Horizon",
+        "48 Hrs.",
+        "Passenger 57",
+        "Gone in 60 Seconds",
+        "Cocktail",
+        "Grown Ups 2",
+        "Rumor Has It",
+        "Coyote Ugly",
+        "Sleeping with the Enemy",
+        "Dirty Work"
+      ]
+    },
+    {
+      "group": "Under-$30M also mentioned",
+      "films": [
+        "Short Cuts",
+        "Rounders",
+        "The King of Comedy",
+        "BASEketball",
+        "Eddie and the Cruisers",
+        "Blood In, Blood Out",
+        "28 Years Later: The Bone Temple"
+      ]
+    },
+    {
+      "group": "Rob Reiner streak",
+      "films": [
+        "This Is Spinal Tap",
+        "The Sure Thing",
+        "Stand by Me",
+        "The Princess Bride",
+        "When Harry Met Sally...",
+        "Misery",
+        "A Few Good Men",
+        "The American President"
+      ]
+    },
+    {
+      "group": "Joel Schumacher run",
+      "films": [
+        "Flatliners",
+        "Dying Young",
+        "Falling Down",
+        "The Client",
+        "Batman Forever",
+        "A Time to Kill",
+        "Batman & Robin",
+        "Flawless",
+        "Fearless"
+      ]
+    },
+    {
+      "group": "Horror talk",
+      "films": [
+        "The Blair Witch Project",
+        "Faces of Death",
+        "Friday the 13th: A New Beginning",
+        "Friday the 13th",
+        "Friday the 13th Part VIII: Jason Takes Manhattan",
+        "Scream"
+      ]
+    },
+    {
+      "group": "Dr. Moreau / Richard Stanley",
+      "films": [
+        "Lost Soul: The Doomed Journey of Richard Stanley's Island of Dr. Moreau",
+        "Dust Devil",
+        "Hardware"
+      ]
+    },
+    {
+      "group": "Ruled out",
+      "films": [
+        "The Shawshank Redemption"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Pulp Fiction",
+        "Boogie Nights",
+        "Heat",
+        "The Departed",
+        "Every Which Way You Can",
+        "The Last American Virgin",
+        "True Romance",
+        "The Silence of the Lambs",
+        "Mad Max: Fury Road",
+        "Sorcerer",
+        "I'll Do Anything",
+        "Dick Tracy",
+        "Kramer vs. Kramer",
+        "Heaven Can Wait",
+        "I Love Trouble",
+        "Can't Hardly Wait",
+        "Scooby-Doo",
+        "Citizen Vigilante",
+        "Wanted",
+        "Lara Croft: Tomb Raider",
+        "65",
+        "Speed Racer",
+        "Alexander",
+        "Mission: Impossible - Fallout",
+        "Man of Steel",
+        "Apollo 13",
+        "The Empire Strikes Back",
+        "Leprechaun 2",
+        "Leprechaun"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Girls",
+      "To Catch a Predator",
+      "Crystal Lake",
+      "Friday Night Lights",
+      "The Arsenio Hall Show"
+    ],
+    "Web/Video": [
+      "Bumfights"
+    ]
+  },
+  "tmdbOverrides": {
+    "Endless Love": 19114,
+    "Gotti": 339103,
+    "Revenge": 14249,
+    "The Mummy": 282035,
+    "Last Rites": 95152,
+    "Dirty Work": 14577,
+    "Flawless": 31582,
+    "Fearless": 10443,
+    "Faces of Death": 12237,
+    "Gone in 60 Seconds": 6280,
+    "The Bonfire of the Vanities": 5788
+  },
+  "tmdb": {
+    "Freddy Got Fingered": {
+      "id": 13166,
+      "poster": "/gVmSZgxiT7ynyRLsEgg8Xs8ZVWX.jpg",
+      "title": "Freddy Got Fingered",
+      "year": 2001
+    },
+    "Ishtar": {
+      "id": 12704,
+      "poster": "/2n6cDGd84I1KvCeYlTju7MBC9sN.jpg",
+      "title": "Ishtar",
+      "year": 1987
+    },
+    "The Last Duel": {
+      "id": 617653,
+      "poster": "/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg",
+      "title": "The Last Duel",
+      "year": 2021
+    },
+    "Congo": {
+      "id": 10329,
+      "poster": "/hPNSToNIIpRO6y5Rh973leqQqNr.jpg",
+      "title": "Congo",
+      "year": 1995
+    },
+    "The Man from U.N.C.L.E.": {
+      "id": 203801,
+      "poster": "/y5yZaForGSJbPD66Cvq9AT5WMAD.jpg",
+      "title": "The Man from U.N.C.L.E.",
+      "year": 2015
+    },
+    "The Thing": {
+      "id": 1091,
+      "poster": "/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+      "title": "The Thing",
+      "year": 1982
+    },
+    "Beloved": {
+      "id": 39437,
+      "poster": "/jIoT0J2fNXXCYZst6OkKStQIPw9.jpg",
+      "title": "Beloved",
+      "year": 1998
+    },
+    "How Do You Know": {
+      "id": 42888,
+      "poster": "/jbOnp79eUZxQHgcdnTIRlxel1dE.jpg",
+      "title": "How Do You Know",
+      "year": 2010
+    },
+    "West Side Story": {
+      "id": 511809,
+      "poster": "/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg",
+      "title": "West Side Story",
+      "year": 2021
+    },
+    "North": {
+      "id": 31586,
+      "poster": "/e4JEG7dstmurXMUPOW9Jy6UDR9F.jpg",
+      "title": "North",
+      "year": 1994
+    },
+    "Salt": {
+      "id": 27576,
+      "poster": "/ppXyhOe8UCEOrBRSYqE3SkHwrcR.jpg",
+      "title": "Salt",
+      "year": 2010
+    },
+    "The Lost City of Z": {
+      "id": 314095,
+      "poster": "/8SxHVNk6tqXYwygmDzz1YuJEm2J.jpg",
+      "title": "The Lost City of Z",
+      "year": 2017
+    },
+    "Sister Act 2: Back in the Habit": {
+      "id": 6279,
+      "poster": "/dlkBp5S6Ei5f54031rAhyb4IwML.jpg",
+      "title": "Sister Act 2: Back in the Habit",
+      "year": 1993
+    },
+    "The Girl with the Dragon Tattoo": {
+      "id": 65754,
+      "poster": "/8bokS83zGdhaXgN9tjidUKmAftW.jpg",
+      "title": "The Girl with the Dragon Tattoo",
+      "year": 2011
+    },
+    "Police Academy": {
+      "id": 9336,
+      "poster": "/3PriqoVUQcPwcyvk0SJRiMTdBJK.jpg",
+      "title": "Police Academy",
+      "year": 1984
+    },
+    "Cruising": {
+      "id": 27958,
+      "poster": "/bb9CND0WyfwdHOZY5XmP4Qn8taz.jpg",
+      "title": "Cruising",
+      "year": 1980
+    },
+    "Manhunter": {
+      "id": 11454,
+      "poster": "/6rb24x39vV8n5301IelC8rCPJTH.jpg",
+      "title": "Manhunter",
+      "year": 1986
+    },
+    "Ali": {
+      "id": 8489,
+      "poster": "/32l3FaCzs8cXWps6hkgNJAcOsP.jpg",
+      "title": "Ali",
+      "year": 2001
+    },
+    "8mm": {
+      "id": 8224,
+      "poster": "/mhr9xRpjOBqlBjgDwtiOx6FsLvV.jpg",
+      "title": "8MM",
+      "year": 1999
+    },
+    "Josie and the Pussycats": {
+      "id": 19366,
+      "poster": "/mHOix87RdBO3YQuyvFFZAZxpt5P.jpg",
+      "title": "Josie and the Pussycats",
+      "year": 2001
+    },
+    "The Island of Dr. Moreau": {
+      "id": 9306,
+      "poster": "/hOJeQXve8W9rNRhdgC1WV3GQJyA.jpg",
+      "title": "The Island of Dr. Moreau",
+      "year": 1996
+    },
+    "The Assassination of Jesse James by the Coward Robert Ford": {
+      "id": 4512,
+      "poster": "/xMKn6EQS7eR5ubhPJbw5pQSBZMw.jpg",
+      "title": "The Assassination of Jesse James by the Coward Robert Ford",
+      "year": 2007
+    },
+    "Furiosa: A Mad Max Saga": {
+      "id": 786892,
+      "poster": "/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
+      "title": "Furiosa: A Mad Max Saga",
+      "year": 2024
+    },
+    "Blackhat": {
+      "id": 201088,
+      "poster": "/7zu6HPnKPjNA7NuR4DGRdaH0PdX.jpg",
+      "title": "Blackhat",
+      "year": 2015
+    },
+    "Wolf Creek": {
+      "id": 9885,
+      "poster": "/545PYpfCeDwVgdgydHCQqXFr168.jpg",
+      "title": "Wolf Creek",
+      "year": 2005
+    },
+    "Friday the 13th: The Final Chapter": {
+      "id": 9730,
+      "poster": "/1J7zudfR3VLPwAf9lK5YPfSu0n6.jpg",
+      "title": "Friday the 13th: The Final Chapter",
+      "year": 1984
+    },
+    "Master and Commander: The Far Side of the World": {
+      "id": 8619,
+      "poster": "/s1cVTQEZYn4nSjZLnFbzLP0j8y2.jpg",
+      "title": "Master and Commander: The Far Side of the World",
+      "year": 2003
+    },
+    "Battleship": {
+      "id": 44833,
+      "poster": "/9b0Im7SfedHiajTwzSL9zGyBI7M.jpg",
+      "title": "Battleship",
+      "year": 2012
+    },
+    "Waterworld": {
+      "id": 9804,
+      "poster": "/X4UyUO5jgzs3c5YafnmYKLKKYw.jpg",
+      "title": "Waterworld",
+      "year": 1995
+    },
+    "The Postman": {
+      "id": 9922,
+      "poster": "/piVzOuKFLHNGLxnjwNtibC26lTy.jpg",
+      "title": "The Postman",
+      "year": 1997
+    },
+    "Heaven's Gate": {
+      "id": 10935,
+      "poster": "/kW4Vk31nhtKPKGuYMaVATq3wcHC.jpg",
+      "title": "Heaven's Gate",
+      "year": 1980
+    },
+    "Howard the Duck": {
+      "id": 10658,
+      "poster": "/eU0dWo8PJgsSAZFbcyHiUpuLSyW.jpg",
+      "title": "Howard the Duck",
+      "year": 1986
+    },
+    "Titanic": {
+      "id": 597,
+      "poster": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "title": "Titanic",
+      "year": 1997
+    },
+    "Gigli": {
+      "id": 8046,
+      "poster": "/qOhAK3WDqdeVTIE59loXvEGU7Lu.jpg",
+      "title": "Gigli",
+      "year": 2003
+    },
+    "The Bonfire of the Vanities": {
+      "id": 9586,
+      "poster": "/pdrPrygZ5dVKi8UxrUXMmq1k2iO.jpg",
+      "title": "The Bonfire of the Vanities",
+      "year": 1990
+    },
+    "Hudson Hawk": {
+      "id": 9292,
+      "poster": "/2AiR7HZuIOUdJp6LYOEOA8z7pF3.jpg",
+      "title": "Hudson Hawk",
+      "year": 1991
+    },
+    "Spider-Man: Brand New Day": {
+      "id": 969681,
+      "poster": "/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "title": "Spider-Man: Brand New Day",
+      "year": 2026
+    },
+    "The Odyssey": {
+      "id": 1368337,
+      "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "title": "The Odyssey",
+      "year": 2026
+    },
+    "The Dog Stars": {
+      "id": 1384216,
+      "poster": "/5O616X9vmRzQdB68PHzBewPittd.jpg",
+      "title": "The Dog Stars",
+      "year": 2026
+    },
+    "Dazed and Confused": {
+      "id": 9571,
+      "poster": "/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+      "title": "Dazed and Confused",
+      "year": 1993
+    },
+    "Reservoir Dogs": {
+      "id": 500,
+      "poster": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+      "title": "Reservoir Dogs",
+      "year": 1992
+    },
+    "Endless Love": {
+      "id": 19114,
+      "poster": "/eAU5kEn3n2PROao46iqs0w57Tqr.jpg",
+      "title": "Endless Love",
+      "year": 1981
+    },
+    "The Chronicles of Riddick": {
+      "id": 2789,
+      "poster": "/bVO1r90diKfFLzvZ5D3qK6Z558O.jpg",
+      "title": "The Chronicles of Riddick",
+      "year": 2004
+    },
+    "Pitch Black": {
+      "id": 2787,
+      "poster": "/3AnlxZ5CZnhKKzjgFyY6EHxmOyl.jpg",
+      "title": "Pitch Black",
+      "year": 2000
+    },
+    "Masters of the Universe": {
+      "id": 454639,
+      "poster": "/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+      "title": "Masters of the Universe",
+      "year": 2026
+    },
+    "Runner Runner": {
+      "id": 146238,
+      "poster": "/ck5jZjv7WVoCBBgTH1gJlhyCLPy.jpg",
+      "title": "Runner Runner",
+      "year": 2013
+    },
+    "Jurassic Park": {
+      "id": 329,
+      "poster": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+      "title": "Jurassic Park",
+      "year": 1993
+    },
+    "By the Sea": {
+      "id": 314385,
+      "poster": "/oEyeG4UyAQvYIJiFpUV57Q3PTDp.jpg",
+      "title": "By the Sea",
+      "year": 2015
+    },
+    "The Tourist": {
+      "id": 37710,
+      "poster": "/qwfUH9gnvaXwvVRsgbL4L2jpLUz.jpg",
+      "title": "The Tourist",
+      "year": 2010
+    },
+    "Ocean's Thirteen": {
+      "id": 298,
+      "poster": "/pBsZs4zYUiUTemqbikTZ76iQRaU.jpg",
+      "title": "Ocean's Thirteen",
+      "year": 2007
+    },
+    "Burn After Reading": {
+      "id": 4944,
+      "poster": "/jdwSkQu3XirmX18MNj8CqFWsCk.jpg",
+      "title": "Burn After Reading",
+      "year": 2008
+    },
+    "The Curious Case of Benjamin Button": {
+      "id": 4922,
+      "poster": "/26wEWZYt6yJkwRVkjcbwJEFh9IS.jpg",
+      "title": "The Curious Case of Benjamin Button",
+      "year": 2008
+    },
+    "Moneyball": {
+      "id": 60308,
+      "poster": "/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+      "title": "Moneyball",
+      "year": 2011
+    },
+    "Heart of the Beast": {
+      "id": 1263337,
+      "poster": "/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+      "title": "Heart of the Beast",
+      "year": 2026
+    },
+    "A Dog's Purpose": {
+      "id": 381289,
+      "poster": "/3jcNvhtVQe5Neoffdic39fRactM.jpg",
+      "title": "A Dog's Purpose",
+      "year": 2017
+    },
+    "All the Money in the World": {
+      "id": 446791,
+      "poster": "/q6nE9Hf0ezszjI4DbCxwzQ73MMy.jpg",
+      "title": "All the Money in the World",
+      "year": 2017
+    },
+    "House of Gucci": {
+      "id": 644495,
+      "poster": "/oJCQjD2byiVF1EG408F9dBn9ndU.jpg",
+      "title": "House of Gucci",
+      "year": 2021
+    },
+    "Napoleon": {
+      "id": 753342,
+      "poster": "/ytFOXyghxLzAM4KZyazDdEkM66q.jpg",
+      "title": "Napoleon",
+      "year": 2023
+    },
+    "Gladiator II": {
+      "id": 558449,
+      "poster": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+      "title": "Gladiator II",
+      "year": 2024
+    },
+    "Gladiator": {
+      "id": 98,
+      "poster": "/wN2xWp1eIwCKOD0BHTcErTBv1Uq.jpg",
+      "title": "Gladiator",
+      "year": 2000
+    },
+    "Alien": {
+      "id": 348,
+      "poster": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "title": "Alien",
+      "year": 1979
+    },
+    "Alien: Covenant": {
+      "id": 126889,
+      "poster": "/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg",
+      "title": "Alien: Covenant",
+      "year": 2017
+    },
+    "Prometheus": {
+      "id": 70981,
+      "poster": "/qsYQflQhOuhDpQ0W2aOcwqgDAeI.jpg",
+      "title": "Prometheus",
+      "year": 2012
+    },
+    "Exodus: Gods and Kings": {
+      "id": 147441,
+      "poster": "/uaDj37JtvLan9tihxZ18e6qL33b.jpg",
+      "title": "Exodus: Gods and Kings",
+      "year": 2014
+    },
+    "Black Rain": {
+      "id": 4105,
+      "poster": "/funhGWt9ee3Uwb6Ar8SGCCvbJdV.jpg",
+      "title": "Black Rain",
+      "year": 1989
+    },
+    "Someone to Watch Over Me": {
+      "id": 31650,
+      "poster": "/7Vqw29y8pkoHaVtwkQcQhBK9oTY.jpg",
+      "title": "Someone to Watch Over Me",
+      "year": 1987
+    },
+    "Ferrari": {
+      "id": 365620,
+      "poster": "/LyCOcGqOTyTmaXu2TK8LfGveIb.jpg",
+      "title": "Ferrari",
+      "year": 2023
+    },
+    "Public Enemies": {
+      "id": 11322,
+      "poster": "/3KgtekisQBrHRsm2cD5UOB6Ce3k.jpg",
+      "title": "Public Enemies",
+      "year": 2009
+    },
+    "The Scarlet Letter": {
+      "id": 10533,
+      "poster": "/8gIU7O3oV6NyWUjlL6ppbpnIZLW.jpg",
+      "title": "The Scarlet Letter",
+      "year": 1995
+    },
+    "The Juror": {
+      "id": 9623,
+      "poster": "/31mRYhJvaknQx8PQnR2UV7YCkLT.jpg",
+      "title": "The Juror",
+      "year": 1996
+    },
+    "K-19: The Widowmaker": {
+      "id": 8665,
+      "poster": "/vImR0HQkJs7Xs2qgdXEUDeX49m0.jpg",
+      "title": "K-19: The Widowmaker",
+      "year": 2002
+    },
+    "U-571": {
+      "id": 3536,
+      "poster": "/7lc7jXmjQmITnfUBX7nN4kxKKbI.jpg",
+      "title": "U-571",
+      "year": 2000
+    },
+    "The Beach": {
+      "id": 1907,
+      "poster": "/4y7LxD8TSi6AtsM2xSYqUm1gu7u.jpg",
+      "title": "The Beach",
+      "year": 2000
+    },
+    "Best Defense": {
+      "id": 11221,
+      "poster": "/uBXYsO3jUU3H59YBILMPHbN9wiP.jpg",
+      "title": "Best Defense",
+      "year": 1984
+    },
+    "Knight and Day": {
+      "id": 37834,
+      "poster": "/phhp52CZZJiGYmiOTp9ZBDkGHB3.jpg",
+      "title": "Knight and Day",
+      "year": 2010
+    },
+    "Valkyrie": {
+      "id": 2253,
+      "poster": "/8eoRtXswC8IQDsqW7iJWO56NhAv.jpg",
+      "title": "Valkyrie",
+      "year": 2008
+    },
+    "Rock of Ages": {
+      "id": 80585,
+      "poster": "/oVeE2QTUb14jPU2lYEGPE3s8T9j.jpg",
+      "title": "Rock of Ages",
+      "year": 2012
+    },
+    "Gotti": {
+      "id": 339103,
+      "poster": "/6vdCoMp68u6JbnlqeXEvxrTNPSm.jpg",
+      "title": "Gotti",
+      "year": 2018
+    },
+    "Revenge": {
+      "id": 14249,
+      "poster": "/83diOZcg6ZiY8voNy2k4BX9TsMf.jpg",
+      "title": "Revenge",
+      "year": 1990
+    },
+    "John Carter": {
+      "id": 49529,
+      "poster": "/lCxz1Yus07QCQQCb6I0Dr3Lmqpx.jpg",
+      "title": "John Carter",
+      "year": 2012
+    },
+    "Sahara": {
+      "id": 7364,
+      "poster": "/kyY1onYxkKBDlJsheRsVbMaoQEM.jpg",
+      "title": "Sahara",
+      "year": 2005
+    },
+    "The Mummy": {
+      "id": 282035,
+      "poster": "/zxkY8byBnCsXodEYpK8tmwEGXBI.jpg",
+      "title": "The Mummy",
+      "year": 2017
+    },
+    "Alita: Battle Angel": {
+      "id": 399579,
+      "poster": "/xRWht48C2V8XNfzvPehyClOvDni.jpg",
+      "title": "Alita: Battle Angel",
+      "year": 2019
+    },
+    "Bright": {
+      "id": 400106,
+      "poster": "/whkT53Sv2vKAUiknQ13pqcWaPXB.jpg",
+      "title": "Bright",
+      "year": 2017
+    },
+    "The Dark Tower": {
+      "id": 353491,
+      "poster": "/i9GUSgddIqrroubiLsvvMRYyRy0.jpg",
+      "title": "The Dark Tower",
+      "year": 2017
+    },
+    "Jonah Hex": {
+      "id": 20533,
+      "poster": "/xwAdu0lOO2Y5sXjK87glhJg3c6r.jpg",
+      "title": "Jonah Hex",
+      "year": 2010
+    },
+    "The Last Airbender": {
+      "id": 10196,
+      "poster": "/zgwRTYWEEPivTwjB9S03HtmMcbM.jpg",
+      "title": "The Last Airbender",
+      "year": 2010
+    },
+    "Prince of Persia: The Sands of Time": {
+      "id": 9543,
+      "poster": "/siNGMLdOUNYLEGtlsnmQcpO2XZX.jpg",
+      "title": "Prince of Persia: The Sands of Time",
+      "year": 2010
+    },
+    "47 Ronin": {
+      "id": 64686,
+      "poster": "/xDHnmcroujCRG0ysYQaiswjbyHd.jpg",
+      "title": "47 Ronin",
+      "year": 2013
+    },
+    "Jumper": {
+      "id": 8247,
+      "poster": "/3pPZ9JhNz3VMmASVir5SMHvTDUU.jpg",
+      "title": "Jumper",
+      "year": 2008
+    },
+    "Jack Ryan: Shadow Recruit": {
+      "id": 137094,
+      "poster": "/m7HcLUodrD4lM4s0Hui1tzO2pjO.jpg",
+      "title": "Jack Ryan: Shadow Recruit",
+      "year": 2014
+    },
+    "Solo: A Star Wars Story": {
+      "id": 348350,
+      "poster": "/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg",
+      "title": "Solo: A Star Wars Story",
+      "year": 2018
+    },
+    "The Next Karate Kid": {
+      "id": 11231,
+      "poster": "/wI3gCi9w1cuUJCiwhviAy46we9Q.jpg",
+      "title": "The Next Karate Kid",
+      "year": 1994
+    },
+    "Popstar: Never Stop Never Stopping": {
+      "id": 341012,
+      "poster": "/jBZeZZNjYBUU21zFvBnin5n62bv.jpg",
+      "title": "Popstar: Never Stop Never Stopping",
+      "year": 2016
+    },
+    "Horizon: An American Saga - Chapter 1": {
+      "id": 932086,
+      "poster": "/hqDkO0W9uk4aiwzn3pTeLO7NPZD.jpg",
+      "title": "Horizon: An American Saga - Chapter 1",
+      "year": 2024
+    },
+    "The Hitcher": {
+      "id": 9542,
+      "poster": "/89giuiFssSVCUxkCP386v66cry8.jpg",
+      "title": "The Hitcher",
+      "year": 1986
+    },
+    "I Spit on Your Grave": {
+      "id": 43947,
+      "poster": "/sD5mBllYcBR5sQTyR2VGYhpHf6B.jpg",
+      "title": "I Spit on Your Grave",
+      "year": 2010
+    },
+    "Dice Rules": null,
+    "10 to Midnight": {
+      "id": 18587,
+      "poster": "/ykeDbePv1xtyyWsE6PhmunvDTKw.jpg",
+      "title": "10 to Midnight",
+      "year": 1983
+    },
+    "Jaws: The Revenge": {
+      "id": 580,
+      "poster": "/ebYw9tR0iqBzDGA6HVBhtd2xJM3.jpg",
+      "title": "Jaws: The Revenge",
+      "year": 1987
+    },
+    "Death Wish II": {
+      "id": 14373,
+      "poster": "/lt91fEbThol6K8JDW6jFgPgxCjN.jpg",
+      "title": "Death Wish II",
+      "year": 1982
+    },
+    "Deuce Bigalow: European Gigolo": {
+      "id": 11453,
+      "poster": "/yXdQ4UGDFCsPrynJOdIk20AYLus.jpg",
+      "title": "Deuce Bigalow: European Gigolo",
+      "year": 2005
+    },
+    "Deuce Bigalow: Male Gigolo": {
+      "id": 10402,
+      "poster": "/w0UKAcY4fAPuQW2GhAoIMwutIA5.jpg",
+      "title": "Deuce Bigalow: Male Gigolo",
+      "year": 1999
+    },
+    "Last Rites": {
+      "id": 95152,
+      "poster": "/7bnmtc9TIdibB6hUsDSKpRHve2M.jpg",
+      "title": "Last Rites",
+      "year": 1988
+    },
+    "Rosencrantz & Guildenstern Are Dead": {
+      "id": 18971,
+      "poster": "/6RI9sYpRxIdqlmsF6kBOiF7Bxug.jpg",
+      "title": "Rosencrantz & Guildenstern Are Dead",
+      "year": 1991
+    },
+    "Walker": {
+      "id": 28448,
+      "poster": "/1C0oYAeNjIBLuj7CVWz3HTIUdeP.jpg",
+      "title": "Walker",
+      "year": 1987
+    },
+    "The Devils": {
+      "id": 31767,
+      "poster": "/y1k7eiOFc6fzm8XeTa1kNGx6JIs.jpg",
+      "title": "The Devils",
+      "year": 1971
+    },
+    "Event Horizon": {
+      "id": 8413,
+      "poster": "/qfluaDXv0cIdLwgQWzNB2piHL2q.jpg",
+      "title": "Event Horizon",
+      "year": 1997
+    },
+    "48 Hrs.": {
+      "id": 150,
+      "poster": "/rvvjXHzEDBIvIVDBHNOwHS7hVPu.jpg",
+      "title": "48 Hrs.",
+      "year": 1982
+    },
+    "Passenger 57": {
+      "id": 10538,
+      "poster": "/4VBN8pQxGHjeZWcNv1V1xSw0OKC.jpg",
+      "title": "Passenger 57",
+      "year": 1992
+    },
+    "Gone in 60 Seconds": {
+      "id": 6280,
+      "poster": "/swxxtzYc60qqnFhfWMFdmx9QXvY.jpg",
+      "title": "Junior",
+      "year": 1994
+    },
+    "Cocktail": {
+      "id": 7520,
+      "poster": "/jFRhEPhtsln9tDwzMdZN3OlhUob.jpg",
+      "title": "Cocktail",
+      "year": 1988
+    },
+    "Grown Ups 2": {
+      "id": 109418,
+      "poster": "/hT6ijOtjtYrnyDhN7VA2QWyGFAm.jpg",
+      "title": "Grown Ups 2",
+      "year": 2013
+    },
+    "Rumor Has It": {
+      "id": 2800,
+      "poster": "/ypirKAqugrpevnEqMJxkBoIlgco.jpg",
+      "title": "Rumor Has It...",
+      "year": 2005
+    },
+    "Coyote Ugly": {
+      "id": 6282,
+      "poster": "/xYM0laKrEqjiRSQNvqRrXPXN3iL.jpg",
+      "title": "Coyote Ugly",
+      "year": 2000
+    },
+    "Sleeping with the Enemy": {
+      "id": 7442,
+      "poster": "/zaUkndJP8IClB1gMsbw13PoVeLS.jpg",
+      "title": "Sleeping with the Enemy",
+      "year": 1991
+    },
+    "Dirty Work": {
+      "id": 14577,
+      "poster": "/r6OcS6TQCHal2wHooJhHWSlFzfd.jpg",
+      "title": "Dirty Work",
+      "year": 1998
+    },
+    "Short Cuts": {
+      "id": 695,
+      "poster": "/mbNTvbtWfV4soyErimDTdX67OAr.jpg",
+      "title": "Short Cuts",
+      "year": 1993
+    },
+    "Rounders": {
+      "id": 10220,
+      "poster": "/mqbMwYGwIChnaCO55h7v8DG8Wwy.jpg",
+      "title": "Rounders",
+      "year": 1998
+    },
+    "The King of Comedy": {
+      "id": 262,
+      "poster": "/m24EbHxT9NGYEkOlu29YcLOgjgK.jpg",
+      "title": "The King of Comedy",
+      "year": 1982
+    },
+    "BASEketball": {
+      "id": 14013,
+      "poster": "/oKZdAUV9XSLp091f0GmtQEu0UZy.jpg",
+      "title": "BASEketball",
+      "year": 1998
+    },
+    "Eddie and the Cruisers": {
+      "id": 21721,
+      "poster": "/qohqTtk33FlEoeb3zYLEAUGSO0E.jpg",
+      "title": "Eddie and the Cruisers",
+      "year": 1983
+    },
+    "Blood In, Blood Out": null,
+    "28 Years Later: The Bone Temple": {
+      "id": 1272837,
+      "poster": "/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
+      "title": "28 Years Later: The Bone Temple",
+      "year": 2026
+    },
+    "This Is Spinal Tap": {
+      "id": 11031,
+      "poster": "/b3lllDltoBws5uKZzBYVSjpjjJx.jpg",
+      "title": "This Is Spinal Tap",
+      "year": 1984
+    },
+    "The Sure Thing": {
+      "id": 8992,
+      "poster": "/a9cuohQn5kczi4htWZAZjEZvXkZ.jpg",
+      "title": "The Sure Thing",
+      "year": 1985
+    },
+    "Stand by Me": {
+      "id": 235,
+      "poster": "/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg",
+      "title": "Stand by Me",
+      "year": 1986
+    },
+    "The Princess Bride": {
+      "id": 2493,
+      "poster": "/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+      "title": "The Princess Bride",
+      "year": 1987
+    },
+    "When Harry Met Sally...": {
+      "id": 639,
+      "poster": "/rFOiFUhTMtDetqCGClC9PIgnC1P.jpg",
+      "title": "When Harry Met Sally...",
+      "year": 1989
+    },
+    "Misery": {
+      "id": 1700,
+      "poster": "/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg",
+      "title": "Misery",
+      "year": 1990
+    },
+    "A Few Good Men": {
+      "id": 881,
+      "poster": "/rLOk4z9zL1tTukIYV56P94aZXKk.jpg",
+      "title": "A Few Good Men",
+      "year": 1992
+    },
+    "The American President": {
+      "id": 9087,
+      "poster": "/yObOAYFIHXHkFPQ3jhgkN2ezaD.jpg",
+      "title": "The American President",
+      "year": 1995
+    },
+    "Flatliners": {
+      "id": 1551,
+      "poster": "/wda3j7p7YHXKpFIlSzoTCtP7myF.jpg",
+      "title": "Flatliners",
+      "year": 1990
+    },
+    "Dying Young": {
+      "id": 9079,
+      "poster": "/nLVV8TETjCxWQmIip6t3HO1znVJ.jpg",
+      "title": "Dying Young",
+      "year": 1991
+    },
+    "Falling Down": {
+      "id": 37094,
+      "poster": "/7ujqyF96Zg3rfrsh9M0cEF0Yzqj.jpg",
+      "title": "Falling Down",
+      "year": 1993
+    },
+    "The Client": {
+      "id": 10731,
+      "poster": "/oLdkJ4ZjxPtFSUChdjDQvHM9l75.jpg",
+      "title": "The Client",
+      "year": 1994
+    },
+    "Batman Forever": {
+      "id": 414,
+      "poster": "/i0fJS8M5UKoETjjJ0zwUiKaR8tr.jpg",
+      "title": "Batman Forever",
+      "year": 1995
+    },
+    "A Time to Kill": {
+      "id": 1645,
+      "poster": "/w8UCke112E9jrhjKcwG32kyhTx5.jpg",
+      "title": "A Time to Kill",
+      "year": 1996
+    },
+    "Batman & Robin": {
+      "id": 415,
+      "poster": "/i7hEUpDuMN2LOrCEifFyGSHZQSY.jpg",
+      "title": "Batman & Robin",
+      "year": 1997
+    },
+    "Flawless": {
+      "id": 31582,
+      "poster": "/fkwkkUnaTmhaWt2OGBRepYr7yB5.jpg",
+      "title": "Flawless",
+      "year": 1999
+    },
+    "Fearless": {
+      "id": 10443,
+      "poster": "/sFhzvwgv04VUmedB7pOO4cMP9xq.jpg",
+      "title": "Fearless",
+      "year": 1993
+    },
+    "The Blair Witch Project": {
+      "id": 2667,
+      "poster": "/9050VGrYjYrEjpOvDZVAngLbg1f.jpg",
+      "title": "The Blair Witch Project",
+      "year": 1999
+    },
+    "Faces of Death": {
+      "id": 12237,
+      "poster": "/fhHzqDrdHLqjawXLXoV3w4FDOUd.jpg",
+      "title": "Faces of Death",
+      "year": 1978
+    },
+    "Friday the 13th: A New Beginning": {
+      "id": 9731,
+      "poster": "/ewnIs4aCuWnKQ13Eaj8f3ybrQc8.jpg",
+      "title": "Friday the 13th: A New Beginning",
+      "year": 1985
+    },
+    "Friday the 13th": {
+      "id": 4488,
+      "poster": "/uGGpnWHOmWTARVN9wbC1nPxNgps.jpg",
+      "title": "Friday the 13th",
+      "year": 1980
+    },
+    "Friday the 13th Part VIII: Jason Takes Manhattan": {
+      "id": 10283,
+      "poster": "/6ezOsZ9UzqGnbDokaatxdOWP6e9.jpg",
+      "title": "Friday the 13th Part VIII: Jason Takes Manhattan",
+      "year": 1989
+    },
+    "Scream": {
+      "id": 4232,
+      "poster": "/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+      "title": "Scream",
+      "year": 1996
+    },
+    "Lost Soul: The Doomed Journey of Richard Stanley's Island of Dr. Moreau": {
+      "id": 279992,
+      "poster": "/rySKp5esmRPVDMm33mr4szxR6IU.jpg",
+      "title": "Lost Soul: The Doomed Journey of Richard Stanley's Island of Dr. Moreau",
+      "year": 2014
+    },
+    "Dust Devil": {
+      "id": 5237,
+      "poster": "/59pEswv24gaJk1BZ6s7o7NnceVf.jpg",
+      "title": "Dust Devil",
+      "year": 1992
+    },
+    "Hardware": {
+      "id": 11309,
+      "poster": "/ybauOsdo6ColZ1WsALqIYjpUg4X.jpg",
+      "title": "Hardware",
+      "year": 1990
+    },
+    "The Shawshank Redemption": {
+      "id": 278,
+      "poster": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+      "title": "The Shawshank Redemption",
+      "year": 1994
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "Boogie Nights": {
+      "id": 4995,
+      "poster": "/2hVSN9yOfoI8EUTqcVW6zCIyQ1G.jpg",
+      "title": "Boogie Nights",
+      "year": 1997
+    },
+    "Heat": {
+      "id": 949,
+      "poster": "/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
+      "title": "Heat",
+      "year": 1995
+    },
+    "The Departed": {
+      "id": 1422,
+      "poster": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+      "title": "The Departed",
+      "year": 2006
+    },
+    "Every Which Way You Can": null,
+    "The Last American Virgin": {
+      "id": 27088,
+      "poster": "/ttGdSGgYDUGnPpJNyG2qGs4cd3C.jpg",
+      "title": "The Last American Virgin",
+      "year": 1982
+    },
+    "True Romance": {
+      "id": 319,
+      "poster": "/AqlPzcILRi0IW0JodKp7pMMNEFt.jpg",
+      "title": "True Romance",
+      "year": 1993
+    },
+    "The Silence of the Lambs": {
+      "id": 274,
+      "poster": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+      "title": "The Silence of the Lambs",
+      "year": 1991
+    },
+    "Mad Max: Fury Road": {
+      "id": 76341,
+      "poster": "/ulcAi4dKpAjHwYGS08vNyx9H6I9.jpg",
+      "title": "Mad Max: Fury Road",
+      "year": 2015
+    },
+    "Sorcerer": {
+      "id": 38985,
+      "poster": "/2b7oexm173SF1FSEq0DdgxZZNRH.jpg",
+      "title": "Sorcerer",
+      "year": 1977
+    },
+    "I'll Do Anything": {
+      "id": 106143,
+      "poster": "/oroT4oMzldeKglEAnMT94o3KN66.jpg",
+      "title": "I'll Do Anything",
+      "year": 1994
+    },
+    "Dick Tracy": {
+      "id": 8592,
+      "poster": "/sjeP4bpgsUvAGE8oFcICy2GaHxw.jpg",
+      "title": "Dick Tracy",
+      "year": 1990
+    },
+    "Kramer vs. Kramer": {
+      "id": 12102,
+      "poster": "/3CUP5V5SWfHSK4qvkZF7lMNyugY.jpg",
+      "title": "Kramer vs. Kramer",
+      "year": 1979
+    },
+    "Heaven Can Wait": {
+      "id": 12185,
+      "poster": "/h1yOiO9cow6gwmGxSAWvPdY4lhJ.jpg",
+      "title": "Heaven Can Wait",
+      "year": 1978
+    },
+    "I Love Trouble": {
+      "id": 10879,
+      "poster": "/2uyytK3XFRPFXoTchFDtsWiSujn.jpg",
+      "title": "I Love Trouble",
+      "year": 1994
+    },
+    "Can't Hardly Wait": {
+      "id": 15037,
+      "poster": "/r3a5gGWfS0SDS9nriNrJzSSrErf.jpg",
+      "title": "Can't Hardly Wait",
+      "year": 1998
+    },
+    "Scooby-Doo": {
+      "id": 9637,
+      "poster": "/mTAiBJGg8mqEfnYHHbi37ZoRSZm.jpg",
+      "title": "Scooby-Doo",
+      "year": 2002
+    },
+    "Citizen Vigilante": {
+      "id": 1413976,
+      "poster": "/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
+      "title": "Citizen Vigilante",
+      "year": 2026
+    },
+    "Wanted": {
+      "id": 8909,
+      "poster": "/njy7Pz7ZHZceO7lNfGIHKphY8Hd.jpg",
+      "title": "Wanted",
+      "year": 2008
+    },
+    "Lara Croft: Tomb Raider": {
+      "id": 1995,
+      "poster": "/sJpl1EfHGZhbKtZ3fWTlwrpM1tH.jpg",
+      "title": "Lara Croft: Tomb Raider",
+      "year": 2001
+    },
+    "65": {
+      "id": 700391,
+      "poster": "/rzRb63TldOKdKydCvWJM8B6EkPM.jpg",
+      "title": "65",
+      "year": 2023
+    },
+    "Speed Racer": {
+      "id": 7459,
+      "poster": "/fxRIpx9Op9h71q3tvuabx4GryyP.jpg",
+      "title": "Speed Racer",
+      "year": 2008
+    },
+    "Alexander": {
+      "id": 1966,
+      "poster": "/jrwQu72sGwGqwE8Ijne89PSIvhp.jpg",
+      "title": "Alexander",
+      "year": 2004
+    },
+    "Mission: Impossible - Fallout": {
+      "id": 353081,
+      "poster": "/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+      "title": "Mission: Impossible - Fallout",
+      "year": 2018
+    },
+    "Man of Steel": {
+      "id": 49521,
+      "poster": "/8GFtkImmK0K1VaUChR0n9O61CFU.jpg",
+      "title": "Man of Steel",
+      "year": 2013
+    },
+    "Apollo 13": {
+      "id": 568,
+      "poster": "/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg",
+      "title": "Apollo 13",
+      "year": 1995
+    },
+    "The Empire Strikes Back": {
+      "id": 1891,
+      "poster": "/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+      "title": "The Empire Strikes Back",
+      "year": 1980
+    },
+    "Leprechaun 2": {
+      "id": 18009,
+      "poster": "/fnCLZ3rpy3enYSHrzcBxnx3fozK.jpg",
+      "title": "Leprechaun 2",
+      "year": 1994
+    },
+    "Leprechaun": {
+      "id": 11811,
+      "poster": "/9i6HjU4CZJytN37LKQUDrNguQg7.jpg",
+      "title": "Leprechaun",
+      "year": 1993
+    }
+  },
+  "spotifyEpisodeId": "04esyX7TXZLi83U4ZhOuKd"
+}

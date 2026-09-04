@@ -1,0 +1,968 @@
+{
+  "slug": "the-black-and-chrome-action-movie-pack-and-onslaught-with-mi",
+  "title": "The Black-and-Chrome Action Movie Pack and ‘Onslaught’ With Michael Biehn and Adam Wingard!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Chris Ryan"
+  ],
+  "published": "2026-09-04",
+  "runtimeMin": 115,
+  "format": "A metal-adjacent triple bill: streaming-era action programmers, a taxonomy of the 'black-and-chrome' subgenre, then Wingard and Biehn on making one.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The Movie News",
+      "note": "with Chris Ryan",
+      "films": [
+        {
+          "title": "Mutiny",
+          "year": 2025,
+          "note": "Statham as a bodyguard avenging a shipping magnate, on a boat. Accidentally posted to Prime for two hours before release; a plausible dent in a modest box office."
+        },
+        {
+          "title": "The Whisper Man",
+          "year": 2025,
+          "note": "James Ashcroft serial-killer thriller for Netflix, Fincher-and-Zodiac indebted. De Niro at a whisper, Adam Scott and Michelle Monaghan playing it straight, Hamish Linklater as a bone collector. CR's verdict: should have been a TV show; drags in the final third."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "‘Onslaught’",
+      "film": "Onslaught",
+      "films": [
+        {
+          "title": "Onslaught",
+          "year": 2025,
+          "note": "Wingard's return to guest-verse form: army sniper (Adria Arjona) in a New Mexico trailer park versus escaped super soldiers. A Western at night. Dan Stevens and Rebecca Hall as not-so-crypto-Nazi doctors, Drew Starkey as an MDMA-rolling government fixer, Michael Biehn as Baylor, Eric Wareheim and Reginald VelJohnson around the edges. Not a masterpiece, not trying to be."
+        }
+      ]
+    },
+    {
+      "kind": "discussion",
+      "heading": "The Black-and-Chrome Action Pack",
+      "note": "future-feeling, militaristic, fetishistic, souped-up",
+      "films": [
+        {
+          "title": "Mad Max: Fury Road",
+          "year": 2015,
+          "note": "The Black & Chrome edition gives the whole category its name."
+        },
+        {
+          "title": "The Road Warrior",
+          "year": 1981,
+          "note": "CR's single best example: the fashion and aesthetic built out of nothing."
+        },
+        {
+          "title": "Terminator 2: Judgment Day",
+          "year": 1991,
+          "note": "Sean's platonic ideal: leather jackets, souped-up shit, super killers."
+        },
+        {
+          "title": "The Terminator",
+          "year": 1984,
+          "note": "The dying-cityscape strain, marketed to kids like us."
+        },
+        {
+          "title": "Aliens",
+          "year": 1986,
+          "note": "Falls right in the middle: colonial marines plus one woman guarding a child."
+        },
+        {
+          "title": "They Live",
+          "year": 1988,
+          "note": "A comfort movie you rewatch a hundred times."
+        },
+        {
+          "title": "RoboCop",
+          "year": 1987,
+          "note": "Verhoeven's glimmer of comedy inside the dinginess."
+        },
+        {
+          "title": "Total Recall",
+          "year": 1990
+        },
+        {
+          "title": "Big Trouble in Little China",
+          "year": 1986,
+          "note": "Carpenter falling-asleep-to fare."
+        },
+        {
+          "title": "Prince of Darkness",
+          "year": 1987
+        },
+        {
+          "title": "Starship Troopers",
+          "year": 1997,
+          "note": "Related to Aliens but a distinctly more absurd, comic register."
+        },
+        {
+          "title": "Snowpiercer",
+          "year": 2013
+        },
+        {
+          "title": "Vampires",
+          "year": 1998,
+          "note": "John Carpenter's, way underrated; a cynical band of brothers versus the supernatural."
+        },
+        {
+          "title": "Ghosts of Mars",
+          "year": 2001,
+          "note": "Carpenter doing Planet of the Vampires by way of Von Ryan's Express; maybe fits the category even harder."
+        },
+        {
+          "title": "Universal Soldier",
+          "year": 1992,
+          "note": "Early Emmerich, a direct Onslaught ancestor; spawned a VOD paradise of sequels."
+        },
+        {
+          "title": "The Matrix Reloaded",
+          "year": 2003,
+          "note": "A case for tier one: the highway sequence, Neo's most Arnold performance."
+        },
+        {
+          "title": "Dredd",
+          "year": 2012,
+          "note": "Tier two."
+        },
+        {
+          "title": "Upgrade",
+          "year": 2018,
+          "note": "Tier two."
+        },
+        {
+          "title": "Soldier",
+          "year": 1998,
+          "note": "Kurt Russell; tier two."
+        },
+        {
+          "title": "Terminator Salvation",
+          "year": 2009,
+          "note": "Lives on for Bale's meltdown, but as much blood-and-chrome as the first two."
+        },
+        {
+          "title": "Predators",
+          "year": 2010,
+          "note": "Nimrod Antal directs, Rodriguez produces; criminals dropped on a planet."
+        },
+        {
+          "title": "Pitch Black",
+          "year": 2000,
+          "note": "The Riddick zone."
+        },
+        {
+          "title": "The Chronicles of Riddick",
+          "year": 2004
+        },
+        {
+          "title": "V for Vendetta",
+          "year": 2005,
+          "note": "More politically charged than the rest."
+        },
+        {
+          "title": "John Wick",
+          "year": 2014,
+          "note": "Works in the tradition, if more elevated and stylized."
+        },
+        {
+          "title": "Ballerina",
+          "year": 2025,
+          "note": "A self-consciously B-movie Wick; VFX felt unfinished."
+        },
+        {
+          "title": "The Tomorrow War",
+          "year": 2021,
+          "note": "Tier three; Pratt as teacher turned future super soldier."
+        },
+        {
+          "title": "Without Remorse",
+          "year": 2021,
+          "note": "An appalling, dull Clancy reboot per Sean; Michael B. Jordan, Sheridan script."
+        },
+        {
+          "title": "Ultraviolet",
+          "year": 2006,
+          "note": "Milla Jovovich sci-fi action; all the trappings."
+        },
+        {
+          "title": "Aeon Flux",
+          "year": 2005,
+          "note": "Doesn't quite work but has the trappings."
+        },
+        {
+          "title": "Tron: Legacy",
+          "year": 2010,
+          "note": "Sixth score, fun to look at, plot forgettable."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "Adam Wingard and Michael Biehn on ‘Onslaught’",
+      "guest": "Adam Wingard & Michael Biehn on",
+      "films": [
+        {
+          "title": "Aliens",
+          "year": 1986,
+          "note": "Wingard's origin story: the out-of-print VHS he rented from a half-Radio Shack video store and watched ~24 times; Biehn's Hicks was the favorite toy."
+        },
+        {
+          "title": "The Terminator",
+          "year": 1984,
+          "note": "Won its opening weekend, wasn't a top-20 film that year; nobody was clamoring to cast Biehn after."
+        },
+        {
+          "title": "Alien",
+          "year": 1979,
+          "note": "The tape the half-Radio Shack store had instead of Aliens; young Wingard rented it hunting for the space marines and found none."
+        },
+        {
+          "title": "Alien 3",
+          "year": 1992,
+          "note": "Just out at the time; the other wrong tape Wingard rented before Tommy tracked down a copy of Aliens."
+        },
+        {
+          "title": "Time Bomb",
+          "year": 1991,
+          "note": "Avi Nesher B-movie Biehn starred in; its short, primal bursts of action were a stated Onslaught reference. Biehn found it disappointing at the time."
+        },
+        {
+          "title": "The Guest",
+          "year": 2014,
+          "note": "The film Wingard is most identified with; Onslaught more or less lives in its universe."
+        },
+        {
+          "title": "You're Next",
+          "year": 2011
+        },
+        {
+          "title": "Blair Witch",
+          "year": 2016
+        },
+        {
+          "title": "Death Note",
+          "year": 2017
+        },
+        {
+          "title": "Godzilla vs. Kong",
+          "year": 2021,
+          "note": "Shot during the pandemic; Wingard started it in a cast after being hit by a car crossing the street outside Simon Barrett's."
+        },
+        {
+          "title": "Godzilla x Kong: The New Empire",
+          "year": 2024,
+          "note": "The franchise-IP stretch he wanted to step away from."
+        },
+        {
+          "title": "Tombstone",
+          "year": 1993,
+          "note": "Notoriously director-by-committee (Kevin Jarre out, Cosmatos in, Kurt Russell steering); ignored on release, beloved now. Nobody mentioned Biehn's Johnny Ringo."
+        },
+        {
+          "title": "Navy Seals",
+          "year": 1990,
+          "note": "Biehn's cautionary tale on saying yes: he confused Lewis Teague with Gene Wilder's credits."
+        },
+        {
+          "title": "The Woman in Red",
+          "year": 1984,
+          "note": "Gene Wilder's, which Biehn wrongly credited to Teague."
+        },
+        {
+          "title": "Lady in Red",
+          "year": 1979,
+          "note": "The Lewis Teague film Biehn was actually thinking of."
+        },
+        {
+          "title": "Cujo",
+          "year": 1983,
+          "note": "The other Teague credit that pushed Biehn to say yes."
+        },
+        {
+          "title": "The Abyss",
+          "year": 1989,
+          "note": "Biehn told Cameron the third act felt chunky."
+        },
+        {
+          "title": "Grindhouse",
+          "year": 2007,
+          "note": "First time Biehn recalls being surprised by a soft opening weekend."
+        },
+        {
+          "title": "The Shawshank Redemption",
+          "year": 1994,
+          "note": "Cited as another film nobody cared about on release."
+        },
+        {
+          "title": "Hit Man",
+          "year": 2023,
+          "note": "Biehn on Arjona: very sexy, and it worked."
+        },
+        {
+          "title": "Los Frikis",
+          "year": 2024,
+          "note": "The small Cuba-set film (Biehn calls it 'El Freakos'/'Loose Freakies') Arjona produced and stars in; desperate Cubans injecting HIV to escape. His last-great-thing pick."
+        },
+        {
+          "title": "Pillion",
+          "year": 2025,
+          "note": "Wingard's pick: a sweet, funny motorcycle-seat romance he compares to the Stevens/Hall dynamic, gay version."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "‘The Whisper Man’ lineage",
+      "films": [
+        "Reptile",
+        "The Empty Man",
+        "Zodiac",
+        "The Bone Collector",
+        "Taking Lives",
+        "The Silence of the Lambs",
+        "The Irishman",
+        "Man Finds Tape",
+        "Devil's Mouth"
+      ]
+    },
+    {
+      "group": "Box-office / windows talk",
+      "films": [
+        "Shelter",
+        "The Wrong Girls",
+        "Spider-Man",
+        "The Odyssey"
+      ]
+    },
+    {
+      "group": "‘Onslaught’ touchstones",
+      "films": [
+        "Assault on Precinct 13",
+        "The Texas Chain Saw Massacre",
+        "The Hills Have Eyes",
+        "Queer"
+      ]
+    },
+    {
+      "group": "Carpenter influences",
+      "films": [
+        "Planet of the Vampires",
+        "Von Ryan's Express"
+      ]
+    },
+    {
+      "group": "Angel Studios tangent",
+      "films": [
+        "Sound of Freedom",
+        "The Passion of the Christ",
+        "Young Washington",
+        "The Brink of War"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Predator",
+        "Independence Day",
+        "The Bourne Supremacy",
+        "Harry Potter",
+        "The Lord of the Rings",
+        "Ares",
+        "Howard's End"
+      ]
+    },
+    {
+      "group": "Upcoming / unmade",
+      "films": [
+        "Man of Tomorrow",
+        "Miami Vice",
+        "Rainbow Six",
+        "Face/Off 2",
+        "Thundercats",
+        "Hardcore",
+        "The Thomas Crown Affair"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Furious",
+      "Downton Abbey",
+      "Game of Thrones",
+      "Jack Ryan",
+      "Outer Banks",
+      "Beavis and Butt-Head",
+      "The Simpsons",
+      "Herman's Head",
+      "In Living Color",
+      "Mystery Science Theater 3000",
+      "The Head",
+      "Aeon Flux (animated series)",
+      "Liquid Television"
+    ],
+    "Web": [
+      "Amazing Digital Circus",
+      "The Backrooms",
+      "Obsession"
+    ],
+    "Games": [
+      "Call of Duty",
+      "Halo",
+      "Metal Gear",
+      "Resident Evil",
+      "Tron (video game)"
+    ],
+    "Ads": [
+      "State Farm"
+    ],
+    "Music": [
+      "Magna Carta Holy Grail",
+      "4:44"
+    ]
+  },
+  "tmdbOverrides": {
+    "Assault on Precinct 13": 17814,
+    "The Hills Have Eyes": 12262,
+    "Hardcore": null,
+    "The Thomas Crown Affair": 615121,
+    "The Road Warrior": 8810,
+    "Aeon Flux": 8202,
+    "Without Remorse": 567189,
+    "You're Next": 78383,
+    "Alien": 348,
+    "Alien 3": 8077,
+    "Howard's End": 11607
+  },
+  "tmdb": {
+    "Mutiny": {
+      "id": 1288445,
+      "poster": "/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+      "title": "Mutiny",
+      "year": 2026
+    },
+    "The Whisper Man": {
+      "id": 860508,
+      "poster": "/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+      "title": "The Whisper Man",
+      "year": 2026
+    },
+    "Onslaught": {
+      "id": 1284046,
+      "poster": "/cOGtvhc6Ij9KvzM6jZsfQyg0B0O.jpg",
+      "title": "Onslaught",
+      "year": 2026
+    },
+    "Mad Max: Fury Road": {
+      "id": 76341,
+      "poster": "/ulcAi4dKpAjHwYGS08vNyx9H6I9.jpg",
+      "title": "Mad Max: Fury Road",
+      "year": 2015
+    },
+    "The Road Warrior": {
+      "id": 8810,
+      "poster": "/l1KVEhkGDpWRzQ0VqIhZqDDuOim.jpg",
+      "title": "Mad Max 2",
+      "year": 1981
+    },
+    "Terminator 2: Judgment Day": {
+      "id": 280,
+      "poster": "/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991
+    },
+    "The Terminator": {
+      "id": 218,
+      "poster": "/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+      "title": "The Terminator",
+      "year": 1984
+    },
+    "Aliens": {
+      "id": 679,
+      "poster": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+      "title": "Aliens",
+      "year": 1986
+    },
+    "They Live": {
+      "id": 8337,
+      "poster": "/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg",
+      "title": "They Live",
+      "year": 1988
+    },
+    "RoboCop": {
+      "id": 5548,
+      "poster": "/hHtOgGb3NihlyRATHlKPaFApbrd.jpg",
+      "title": "RoboCop",
+      "year": 1987
+    },
+    "Total Recall": {
+      "id": 861,
+      "poster": "/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
+      "title": "Total Recall",
+      "year": 1990
+    },
+    "Big Trouble in Little China": {
+      "id": 6978,
+      "poster": "/gI2Qs1yTTj3NcESJyttCkbmJ4k9.jpg",
+      "title": "Big Trouble in Little China",
+      "year": 1986
+    },
+    "Prince of Darkness": {
+      "id": 8852,
+      "poster": "/jjcAOhtGuX4p8XvlVn1WXUT1jWi.jpg",
+      "title": "Prince of Darkness",
+      "year": 1987
+    },
+    "Starship Troopers": {
+      "id": 563,
+      "poster": "/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg",
+      "title": "Starship Troopers",
+      "year": 1997
+    },
+    "Snowpiercer": {
+      "id": 110415,
+      "poster": "/kw6YQudA0TMcNmGUGy5XIw7zbnV.jpg",
+      "title": "Snowpiercer",
+      "year": 2013
+    },
+    "Vampires": {
+      "id": 9945,
+      "poster": "/4JhaFBPwyC5IM1rKaRR07Gzutse.jpg",
+      "title": "Vampires",
+      "year": 1998
+    },
+    "Ghosts of Mars": {
+      "id": 10016,
+      "poster": "/i2zztssCIbahGES1fdfWFmDXian.jpg",
+      "title": "Ghosts of Mars",
+      "year": 2001
+    },
+    "Universal Soldier": {
+      "id": 9349,
+      "poster": "/fp0mWrHl1SW9PhP8QcsgYPoVYFc.jpg",
+      "title": "Universal Soldier",
+      "year": 1992
+    },
+    "The Matrix Reloaded": {
+      "id": 604,
+      "poster": "/aA5qHS0FbSXO8PxcxUIHbDrJyuh.jpg",
+      "title": "The Matrix Reloaded",
+      "year": 2003
+    },
+    "Dredd": {
+      "id": 49049,
+      "poster": "/wLx65gtGVnUFCxceHWGszcruCZj.jpg",
+      "title": "Dredd",
+      "year": 2012
+    },
+    "Upgrade": {
+      "id": 500664,
+      "poster": "/woLGROUdPWdBnLVFKYdGD3kFkPY.jpg",
+      "title": "Upgrade",
+      "year": 2018
+    },
+    "Soldier": {
+      "id": 9425,
+      "poster": "/g62RTtfhgzJo1GV2jjwdzpNuiUB.jpg",
+      "title": "Soldier",
+      "year": 1998
+    },
+    "Terminator Salvation": {
+      "id": 534,
+      "poster": "/gw6JhlekZgtKUFlDTezq3j5JEPK.jpg",
+      "title": "Terminator Salvation",
+      "year": 2009
+    },
+    "Predators": {
+      "id": 34851,
+      "poster": "/wdniP8NDaJIydi1hMxhpbJMUfr6.jpg",
+      "title": "Predators",
+      "year": 2010
+    },
+    "Pitch Black": {
+      "id": 2787,
+      "poster": "/3AnlxZ5CZnhKKzjgFyY6EHxmOyl.jpg",
+      "title": "Pitch Black",
+      "year": 2000
+    },
+    "The Chronicles of Riddick": {
+      "id": 2789,
+      "poster": "/bVO1r90diKfFLzvZ5D3qK6Z558O.jpg",
+      "title": "The Chronicles of Riddick",
+      "year": 2004
+    },
+    "V for Vendetta": {
+      "id": 752,
+      "poster": "/1avD1JeaRiJX5M4ahPdZPypGoGN.jpg",
+      "title": "V for Vendetta",
+      "year": 2006
+    },
+    "John Wick": {
+      "id": 245891,
+      "poster": "/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
+      "title": "John Wick",
+      "year": 2014
+    },
+    "Ballerina": {
+      "id": 541671,
+      "poster": "/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg",
+      "title": "Ballerina",
+      "year": 2025
+    },
+    "The Tomorrow War": {
+      "id": 588228,
+      "poster": "/34nDCQZwaEvsy4CFO5hkGRFDCVU.jpg",
+      "title": "The Tomorrow War",
+      "year": 2021
+    },
+    "Without Remorse": {
+      "id": 567189,
+      "poster": "/6OnlqShdRinhJwV1uGiRE70lD63.jpg",
+      "title": "Tom Clancy's Without Remorse",
+      "year": 2021
+    },
+    "Ultraviolet": {
+      "id": 9920,
+      "poster": "/27OzQ2BBahQHYPiPEAXRXMbhnPQ.jpg",
+      "title": "Ultraviolet",
+      "year": 2006
+    },
+    "Aeon Flux": {
+      "id": 8202,
+      "poster": "/5958Nt4QX6aRSUdQnvNw8wqjTJQ.jpg",
+      "title": "Æon Flux",
+      "year": 2005
+    },
+    "Tron: Legacy": {
+      "id": 20526,
+      "poster": "/8Nc6R8k7bG8frSiDJo0oLucF7dN.jpg",
+      "title": "TRON: Legacy",
+      "year": 2010
+    },
+    "Alien": {
+      "id": 348,
+      "poster": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "title": "Alien",
+      "year": 1979
+    },
+    "Alien 3": {
+      "id": 8077,
+      "poster": "/xh5wI0UoW7DfS1IyLy3d2CgrCEP.jpg",
+      "title": "Alien³",
+      "year": 1992
+    },
+    "Time Bomb": {
+      "id": 1040310,
+      "poster": null,
+      "title": "Time Bomb",
+      "year": null
+    },
+    "The Guest": {
+      "id": 241848,
+      "poster": "/gvlEFHu9FuYLmBZwsARTtuNIiDO.jpg",
+      "title": "The Guest",
+      "year": 2014
+    },
+    "You're Next": {
+      "id": 78383,
+      "poster": "/sZhXsT6ch1Z7NKFspMH7QyfpsBa.jpg",
+      "title": "Nurse 3-D",
+      "year": 2013
+    },
+    "Blair Witch": {
+      "id": 351211,
+      "poster": "/Ai73frMEz68bibFGRlPKdWBaIaq.jpg",
+      "title": "Blair Witch",
+      "year": 2016
+    },
+    "Death Note": {
+      "id": 351460,
+      "poster": "/8xRQ0KG9ZZzjEiFa5fgEaTKhc0d.jpg",
+      "title": "Death Note",
+      "year": 2017
+    },
+    "Godzilla vs. Kong": {
+      "id": 399566,
+      "poster": "/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg",
+      "title": "Godzilla vs. Kong",
+      "year": 2021
+    },
+    "Godzilla x Kong: The New Empire": {
+      "id": 823464,
+      "poster": "/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
+      "title": "Godzilla x Kong: The New Empire",
+      "year": 2024
+    },
+    "Tombstone": {
+      "id": 11969,
+      "poster": "/wGFCvylul8iEQhJOKfwZGGvXMzA.jpg",
+      "title": "Tombstone",
+      "year": 1993
+    },
+    "Navy Seals": {
+      "id": 427910,
+      "poster": "/8SGNGtWDOTbbT9XsMTgfoVHGb2s.jpg",
+      "title": "Navy Seals",
+      "year": 1990
+    },
+    "The Woman in Red": {
+      "id": 5968,
+      "poster": "/4cBhKj5wVEyJdXwZfxHB1E4P749.jpg",
+      "title": "The Woman in Red",
+      "year": 1984
+    },
+    "Lady in Red": {
+      "id": 360318,
+      "poster": null,
+      "title": "LADY IN RED",
+      "year": null
+    },
+    "Cujo": {
+      "id": 10489,
+      "poster": "/uNBt2YxrQdyOjnm2rDQ5QiCmQ0K.jpg",
+      "title": "Cujo",
+      "year": 1983
+    },
+    "The Abyss": {
+      "id": 2756,
+      "poster": "/2dCit3XAtv9KWCJvRKdPkJ0FAkH.jpg",
+      "title": "The Abyss",
+      "year": 1989
+    },
+    "Grindhouse": {
+      "id": 285923,
+      "poster": "/tvMBwJlmQTIQf5EBjHzzyE9tjcN.jpg",
+      "title": "Grindhouse",
+      "year": 2007
+    },
+    "The Shawshank Redemption": {
+      "id": 278,
+      "poster": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+      "title": "The Shawshank Redemption",
+      "year": 1994
+    },
+    "Hit Man": {
+      "id": 974635,
+      "poster": "/oil3EZwKFp3CWxZnfGfGglesvm9.jpg",
+      "title": "Hit Man",
+      "year": 2024
+    },
+    "Los Frikis": {
+      "id": 980296,
+      "poster": "/kCGWNd8yFQ3E695kYuaUUv62pJP.jpg",
+      "title": "Los Frikis",
+      "year": 2024
+    },
+    "Pillion": {
+      "id": 1287141,
+      "poster": "/7Pd6ChSQjSXy4snJiorSdzg2cG3.jpg",
+      "title": "Pillion",
+      "year": 2025
+    },
+    "Reptile": {
+      "id": 866463,
+      "poster": "/bk4WUvoXSqPQGrhOAtt3AR0sUZf.jpg",
+      "title": "Reptile",
+      "year": 2023
+    },
+    "The Empty Man": {
+      "id": 516632,
+      "poster": "/8apzu9JFTUMtOpYkHk6LNPOs3pY.jpg",
+      "title": "The Empty Man",
+      "year": 2020
+    },
+    "Zodiac": {
+      "id": 1949,
+      "poster": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+      "title": "Zodiac",
+      "year": 2007
+    },
+    "The Bone Collector": {
+      "id": 9481,
+      "poster": "/7atMCqRaDpAOnGsteTRm17zmvN3.jpg",
+      "title": "The Bone Collector",
+      "year": 1999
+    },
+    "Taking Lives": {
+      "id": 11081,
+      "poster": "/zeFGOS1kj0CxuZjGhtK3WlMCYsa.jpg",
+      "title": "Taking Lives",
+      "year": 2004
+    },
+    "The Silence of the Lambs": {
+      "id": 274,
+      "poster": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+      "title": "The Silence of the Lambs",
+      "year": 1991
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Man Finds Tape": {
+      "id": 1465986,
+      "poster": "/1WMaJEwwsw8ALCo1mRGjjTV5e8T.jpg",
+      "title": "Man Finds Tape",
+      "year": 2025
+    },
+    "Devil's Mouth": null,
+    "Shelter": {
+      "id": 1290821,
+      "poster": "/cv7DeQQ7TOozPoTCBdNJIvWKhU1.jpg",
+      "title": "Shelter",
+      "year": 2026
+    },
+    "The Wrong Girls": {
+      "id": 1226699,
+      "poster": "/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
+      "title": "The Wrong Girls",
+      "year": 2026
+    },
+    "Spider-Man": {
+      "id": 557,
+      "poster": "/or6XJBVpcEbIkma0V9zshnbEtx4.jpg",
+      "title": "Spider-Man",
+      "year": 2002
+    },
+    "The Odyssey": {
+      "id": 1368337,
+      "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "title": "The Odyssey",
+      "year": 2026
+    },
+    "Assault on Precinct 13": {
+      "id": 17814,
+      "poster": "/RtGDEmXbSxE8NThCCY1SXFXLLw.jpg",
+      "title": "Assault on Precinct 13",
+      "year": 1976
+    },
+    "The Texas Chain Saw Massacre": {
+      "id": 30497,
+      "poster": "/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg",
+      "title": "The Texas Chain Saw Massacre",
+      "year": 1974
+    },
+    "The Hills Have Eyes": {
+      "id": 12262,
+      "poster": "/1G2DBIEkoS0JdCiOFIeR3mD8ROE.jpg",
+      "title": "The Hills Have Eyes",
+      "year": 1977
+    },
+    "Queer": {
+      "id": 1059128,
+      "poster": "/xe4b2TMciLKA1C0JlhWxb4ENLln.jpg",
+      "title": "Queer",
+      "year": 2024
+    },
+    "Planet of the Vampires": {
+      "id": 17921,
+      "poster": "/bPpfT4r9HtHcri0eIknqpewoewM.jpg",
+      "title": "Planet of the Vampires",
+      "year": 1965
+    },
+    "Von Ryan's Express": {
+      "id": 21876,
+      "poster": "/kNIpEa4fe0RvgTqjkRrHFuSW8lz.jpg",
+      "title": "Von Ryan's Express",
+      "year": 1965
+    },
+    "Sound of Freedom": {
+      "id": 678512,
+      "poster": "/qA5kPYZA7FkVvqcEfJRoOy4kpHg.jpg",
+      "title": "Sound of Freedom",
+      "year": 2023
+    },
+    "The Passion of the Christ": {
+      "id": 615,
+      "poster": "/rBM5o2HpmCfDejuIPybI09tkY3V.jpg",
+      "title": "The Passion of the Christ",
+      "year": 2004
+    },
+    "Young Washington": {
+      "id": 1308767,
+      "poster": "/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
+      "title": "Young Washington",
+      "year": 2026
+    },
+    "The Brink of War": {
+      "id": 192139,
+      "poster": "/vCIQeQ2ynVqEjIvtbOXGnKtcgAX.jpg",
+      "title": "The Brink of War",
+      "year": 2026
+    },
+    "Predator": {
+      "id": 106,
+      "poster": "/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg",
+      "title": "Predator",
+      "year": 1987
+    },
+    "Independence Day": {
+      "id": 602,
+      "poster": "/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg",
+      "title": "Independence Day",
+      "year": 1996
+    },
+    "The Bourne Supremacy": {
+      "id": 2502,
+      "poster": "/jupG9sFT64YwM8PSkwkUD2wHcYD.jpg",
+      "title": "The Bourne Supremacy",
+      "year": 2004
+    },
+    "Harry Potter": null,
+    "The Lord of the Rings": {
+      "id": 123,
+      "poster": "/liW0mjvTyLs7UCumaHhx3PpU4VT.jpg",
+      "title": "The Lord of the Rings",
+      "year": 1978
+    },
+    "Ares": {
+      "id": 415132,
+      "poster": "/sVKz7eKtSkVGjKaSWo065XTkWk9.jpg",
+      "title": "Ares",
+      "year": 2016
+    },
+    "Howard's End": {
+      "id": 11607,
+      "poster": "/ueQQx7fyPjN643EwKIMHNF8A1Cw.jpg",
+      "title": "DeepStar Six",
+      "year": 1989
+    },
+    "Man of Tomorrow": {
+      "id": 1523140,
+      "poster": "/tYLgfKk3cEk7LskgxWyW37Nty01.jpg",
+      "title": "Man of Tomorrow",
+      "year": 2027
+    },
+    "Miami Vice": {
+      "id": 82,
+      "poster": "/iJPSls4taB09EUKtLj6FjFSprb3.jpg",
+      "title": "Miami Vice",
+      "year": 2006
+    },
+    "Rainbow Six": {
+      "id": 548702,
+      "poster": null,
+      "title": "Rainbow Six",
+      "year": null
+    },
+    "Face/Off 2": {
+      "id": 796020,
+      "poster": null,
+      "title": "Face/Off 2",
+      "year": null
+    },
+    "Thundercats": null,
+    "Hardcore": null,
+    "The Thomas Crown Affair": {
+      "id": 615121,
+      "poster": "/sT1TQeAy1PdRfPIb6rrM2DB7DB.jpg",
+      "title": "The Thomas Crown Affair",
+      "year": 2027
+    }
+  },
+  "spotifyEpisodeId": "2BxPTEyvjIl1MFbJeopskR"
+}

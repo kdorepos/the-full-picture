@@ -1,0 +1,822 @@
+{
+  "slug": "the-baseball-movie-draft-2026",
+  "title": "The Baseball Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins",
+    "Chris Ryan",
+    "Mallory Rubin"
+  ],
+  "published": "2026-09-30",
+  "runtimeMin": 102,
+  "spotifyEpisodeId": "0Fre2rw5M7tm93gLwfWZLC",
+  "format": "Four drafters build baseball-movie rosters across six categories: drama, comedy, kids, high concept, based on a true story, and a wild card loose enough to cover anything with a baseball in it. The argument running under it all is what even counts as a baseball movie. Chris Ryan and Mallory Rubin join for the picks.",
+  "segments": [
+    {
+      "kind": "draft",
+      "heading": "The teams",
+      "note": "snake draft, six categories per drafter",
+      "draftOf": "baseball movies",
+      "categories": [
+        "Drama",
+        "Comedy",
+        "Kids movie",
+        "High concept",
+        "Based on a true story",
+        "Wild card"
+      ],
+      "teams": [
+        {
+          "host": "Mallory Rubin",
+          "picks": [
+            {
+              "title": "Bull Durham",
+              "year": 1988,
+              "category": "Comedy",
+              "note": "Mallory's white whale and one of her three favorite films ever; watched it five days straight in high school. Took it in comedy over drama or based-on-a-true-story."
+            },
+            {
+              "title": "The Natural",
+              "year": 1984,
+              "category": "High concept",
+              "note": "Argued in as high concept for the mythic Roy Hobbs and the lightning-struck Wonderboy bat."
+            },
+            {
+              "title": "The Bad News Bears",
+              "year": 1976,
+              "category": "Kids movie",
+              "note": "The original, not the Linklater remake or Breaking Training."
+            },
+            {
+              "title": "61*",
+              "year": 2001,
+              "category": "Based on a true story",
+              "note": "Billy Crystal's Maris/Mantle home-run chase; Barry Pepper as Maris. An HBO telefilm whose eligibility was debated, then allowed."
+            },
+            {
+              "title": "Damn Yankees",
+              "year": 1958,
+              "category": "Wild card",
+              "note": "Sniped what Sean had earmarked for high concept; soul-selling musical."
+            },
+            {
+              "title": "42",
+              "year": 2013,
+              "category": "Drama",
+              "note": "Her last pick; felt the Jackie Robinson film belonged in the draft."
+            }
+          ]
+        },
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Moneyball",
+              "year": 2011,
+              "category": "Drama",
+              "note": "The romance of statistical analysis; a girl-dad movie with a great Brad Pitt."
+            },
+            {
+              "title": "Eephus",
+              "year": 2024,
+              "category": "Comedy",
+              "note": "A rec-league game that goes on and on; observational and funny, with real sadness underneath."
+            },
+            {
+              "title": "Ed",
+              "year": 1996,
+              "category": "High concept",
+              "note": "Matt LeBlanc and a baseball-playing chimp, drafted late off Sean's list; allowed as high concept."
+            },
+            {
+              "title": "The Rookie",
+              "year": 2002,
+              "category": "Based on a true story",
+              "note": "Dennis Quaid as 35-year-old rookie Jim Morris. Sentimental and Disney-fied, and it works."
+            },
+            {
+              "title": "The Sandlot",
+              "year": 1993,
+              "category": "Kids movie",
+              "note": "The category leader; Benny the Jet, Wendy Peffercorn."
+            },
+            {
+              "title": "Good Will Hunting",
+              "year": 1997,
+              "category": "Wild card",
+              "note": "Only tangentially baseball: the Carlton Fisk 'had to see about a girl' speech and the Little League bleachers."
+            }
+          ]
+        },
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "A League of Their Own",
+              "year": 1992,
+              "category": "Based on a true story",
+              "note": "Snatched it at No. 3, the pick Amanda was hoping would come back to her."
+            },
+            {
+              "title": "Everybody Wants Some!!",
+              "year": 2016,
+              "category": "Comedy",
+              "note": "Linklater's college-baseball hangout movie; the most authentic dudes-rocking film."
+            },
+            {
+              "title": "Sugar",
+              "year": 2008,
+              "category": "Drama",
+              "note": "Boden and Fleck; the most realistic minor-league portrayal, really an immigration story."
+            },
+            {
+              "title": "Rookie of the Year",
+              "year": 1993,
+              "category": "High concept",
+              "note": "12-year-old throws 104 after a busted arm; Gary Busey coked out as Chet Steadman."
+            },
+            {
+              "title": "The Bad News Bears in Breaking Training",
+              "year": 1977,
+              "category": "Kids movie",
+              "note": "Not better than the original, but a genuinely good sports sequel; Astrodome finale."
+            },
+            {
+              "title": "Baseball",
+              "category": "Wild card",
+              "note": "Ken Burns' nine-inning PBS documentary miniseries (1994), not a feature. Contested as a wild card but allowed, alongside Good Will Hunting and Interstellar."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Field of Dreams",
+              "year": 1989,
+              "category": "Drama",
+              "note": "His emotional kryptonite; the last 20 minutes turn the waterworks on."
+            },
+            {
+              "title": "Major League",
+              "year": 1989,
+              "category": "Comedy",
+              "note": "Wild Thing and the Cleveland underdogs; watched 400-plus times."
+            },
+            {
+              "title": "Eight Men Out",
+              "year": 1988,
+              "category": "Based on a true story",
+              "note": "John Sayles on the Black Sox scandal; his second Shoeless Joe pick after Field of Dreams."
+            },
+            {
+              "title": "Night Game",
+              "year": 1989,
+              "category": "High concept",
+              "note": "Roy Scheider hunts a killer who strikes during Astros night games; the draft's first real reach, sitting at 2.7 on Letterboxd."
+            },
+            {
+              "title": "Summer Catch",
+              "year": 2001,
+              "category": "Kids movie",
+              "note": "Freddie Prinze Jr. in the Cape Cod League; 8% on Rotten Tomatoes, drafted anyway."
+            },
+            {
+              "title": "Interstellar",
+              "year": 2014,
+              "category": "Wild card",
+              "note": "Admittedly a bit; the dust-storm Yankees game stands in for the environmental collapse."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "Angels in the Outfield",
+        "Little Big League",
+        "The Pride of the Yankees",
+        "For Love of the Game",
+        "Fever Pitch",
+        "Million Dollar Arm",
+        "Bang the Drum Slowly",
+        "The Bingo Long Traveling All-Stars & Motor Kings",
+        "Hardball",
+        "Mr. 3000",
+        "The Scout",
+        "The Fan",
+        "Trouble with the Curve",
+        "Cobb",
+        "Game 6",
+        "Fear Strikes Out",
+        "The Slugger's Wife",
+        "The Catcher Was a Spy",
+        "BASEketball",
+        "It Happens Every Spring",
+        "Brewster's Millions",
+        "The Life and Times of Hank Greenberg",
+        "The League",
+        "Up for Grabs",
+        "Knuckleball",
+        "Major League II"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Baseball scenes in non-baseball films",
+      "films": [
+        "Twilight",
+        "Boyhood",
+        "My Best Friend's Wedding",
+        "War of the Worlds",
+        "A Few Good Men",
+        "The Town",
+        "Dazed and Confused",
+        "The Naked Gun",
+        "Ferris Bueller's Day Off",
+        "Speedy"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Casablanca",
+        "Pocahontas",
+        "The New World",
+        "Gone with the Wind",
+        "Kill Bill",
+        "The Ring",
+        "Psycho",
+        "My Octopus Teacher",
+        "Monkey Man"
+      ]
+    },
+    {
+      "group": "Filmography tangents",
+      "films": [
+        "Captain Marvel",
+        "Mississippi Grind",
+        "Half Nelson",
+        "Foxcatcher",
+        "Any Given Sunday",
+        "Everybody's All-American",
+        "The Best of Times",
+        "Chasing Liberty",
+        "First Kid",
+        "The Princess Diaries 2: Royal Engagement",
+        "Beethoven's 4th",
+        "National Lampoon's Barely Legal",
+        "Full Moon in Blue Water"
+      ]
+    },
+    {
+      "group": "Other sports movies and coming soon",
+      "films": [
+        "F1",
+        "Top Gun",
+        "Cars",
+        "Miami Vice",
+        "Digger",
+        "Mr. Irrelevant",
+        "Primetime"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Ken Burns' The National Parks",
+      "Formula 1: Drive to Survive",
+      "Masters of the Air",
+      "Succession",
+      "Sex and the City"
+    ],
+    "Video games": [
+      "Guitar Hero"
+    ],
+    "Ads": [
+      "State Farm"
+    ]
+  },
+  "tmdbOverrides": {
+    "Bang the Drum Slowly": 42459,
+    "The Scout": 35233,
+    "Knuckleball": 111174,
+    "War of the Worlds": 74
+  },
+  "tmdb": {
+    "Bull Durham": {
+      "id": 287,
+      "poster": "/q3T9bO6p74NcTxWOhdUA6fASQ5T.jpg",
+      "title": "Bull Durham",
+      "year": 1988
+    },
+    "The Natural": {
+      "id": 11393,
+      "poster": "/fwn1gYeOkS1XHKVFdNorKSIpix8.jpg",
+      "title": "The Natural",
+      "year": 1984
+    },
+    "The Bad News Bears": {
+      "id": 23479,
+      "poster": "/kJNXMni0ObOXLth6v9xpUhWbtrp.jpg",
+      "title": "The Bad News Bears",
+      "year": 1976
+    },
+    "61*": {
+      "id": 20536,
+      "poster": "/hAbxkPCC8pWYZy4kcftS3H3oku7.jpg",
+      "title": "61*",
+      "year": 2001
+    },
+    "Damn Yankees": {
+      "id": 41253,
+      "poster": "/iSw0Fb4pdXDqm9Bl8iqsSwfn5u7.jpg",
+      "title": "Damn Yankees",
+      "year": 1958
+    },
+    "42": {
+      "id": 109410,
+      "poster": "/iZ7jVGQWj3eBUdqwAPUlKk0BaS2.jpg",
+      "title": "42",
+      "year": 2013
+    },
+    "Moneyball": {
+      "id": 60308,
+      "poster": "/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg",
+      "title": "Moneyball",
+      "year": 2011
+    },
+    "Eephus": {
+      "id": 1226777,
+      "poster": "/zDdzvIVGkAUfUMi7mJykgEu5ynu.jpg",
+      "title": "Eephus",
+      "year": 2025
+    },
+    "Ed": {
+      "id": 32308,
+      "poster": "/oSNX3zyTpRMN0ExtOobt7eaJfPD.jpg",
+      "title": "Ed",
+      "year": 1996
+    },
+    "The Rookie": {
+      "id": 14635,
+      "poster": "/gNmLsseIs6thkBKne91iQZDGyBT.jpg",
+      "title": "The Rookie",
+      "year": 2002
+    },
+    "The Sandlot": {
+      "id": 11528,
+      "poster": "/7PYqz0viEuW8qTvuGinUMjDWMnj.jpg",
+      "title": "The Sandlot",
+      "year": 1993
+    },
+    "Good Will Hunting": {
+      "id": 489,
+      "poster": "/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+      "title": "Good Will Hunting",
+      "year": 1997
+    },
+    "A League of Their Own": {
+      "id": 11287,
+      "poster": "/f9BtX6wYOwJUyfUr4vyeT3COz6m.jpg",
+      "title": "A League of Their Own",
+      "year": 1992
+    },
+    "Everybody Wants Some!!": {
+      "id": 295699,
+      "poster": "/vAIFZ8bw0spSvcIYgfuX99B3H2w.jpg",
+      "title": "Everybody Wants Some!!",
+      "year": 2016
+    },
+    "Sugar": null,
+    "Rookie of the Year": {
+      "id": 21845,
+      "poster": "/9If8XnhBdEbQ2Q0ggAQC92CptjU.jpg",
+      "title": "Rookie of the Year",
+      "year": 1993
+    },
+    "The Bad News Bears in Breaking Training": {
+      "id": 19050,
+      "poster": "/aGShIKIKWDCPVGDfeEXwTfmE4mi.jpg",
+      "title": "The Bad News Bears in Breaking Training",
+      "year": 1977
+    },
+    "Field of Dreams": {
+      "id": 2323,
+      "poster": "/oeM7nAw6FVFICwUaXKCRkDsKjqO.jpg",
+      "title": "Field of Dreams",
+      "year": 1989
+    },
+    "Major League": {
+      "id": 9942,
+      "poster": "/ypUedY9zX4nGGf1lQv1UGc8PhPA.jpg",
+      "title": "Major League",
+      "year": 1989
+    },
+    "Eight Men Out": {
+      "id": 13554,
+      "poster": "/9nh0w2C9h9KfJb0OsVg65O65b5s.jpg",
+      "title": "Eight Men Out",
+      "year": 1988
+    },
+    "Night Game": {
+      "id": 84071,
+      "poster": "/kZg7ECrfCQfbsCPvnfrsyGrERxV.jpg",
+      "title": "Night Game",
+      "year": 1989
+    },
+    "Summer Catch": {
+      "id": 26602,
+      "poster": "/hMp5Iev56BUu3xJGpAeCCPC1ZwY.jpg",
+      "title": "Summer Catch",
+      "year": 2001
+    },
+    "Interstellar": {
+      "id": 157336,
+      "poster": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+      "title": "Interstellar",
+      "year": 2014
+    },
+    "Angels in the Outfield": {
+      "id": 24795,
+      "poster": "/7WRt6l7tiXVPG9zLco1rwy5Ffw9.jpg",
+      "title": "Angels in the Outfield",
+      "year": 1994
+    },
+    "Little Big League": {
+      "id": 31504,
+      "poster": "/ps0GapKs4vuV38XX6VUbTZm8QS6.jpg",
+      "title": "Little Big League",
+      "year": 1994
+    },
+    "The Pride of the Yankees": {
+      "id": 19140,
+      "poster": "/tbSMm0IAa5WgTcyoeUn7AKAViVY.jpg",
+      "title": "The Pride of the Yankees",
+      "year": 1942
+    },
+    "For Love of the Game": {
+      "id": 10390,
+      "poster": "/vkeKxoSXE1qMArcFNTNBBH8TjKZ.jpg",
+      "title": "For Love of the Game",
+      "year": 1999
+    },
+    "Fever Pitch": {
+      "id": 11431,
+      "poster": "/xwJBEOM5BVElAgQIA82KBLX10fu.jpg",
+      "title": "Fever Pitch",
+      "year": 2005
+    },
+    "Million Dollar Arm": {
+      "id": 198185,
+      "poster": "/6OgA9x6jvwBIj8e7x8LANTbVvR2.jpg",
+      "title": "Million Dollar Arm",
+      "year": 2014
+    },
+    "Bang the Drum Slowly": {
+      "id": 42459,
+      "poster": "/2MojRzTHI2UMmhEANYZZCsMPHr.jpg",
+      "title": "Bang the Drum Slowly",
+      "year": 1973
+    },
+    "The Bingo Long Traveling All-Stars & Motor Kings": {
+      "id": 42243,
+      "poster": "/7kvjllELG8AGLifc433GhLzShj0.jpg",
+      "title": "The Bingo Long Traveling All-Stars & Motor Kings",
+      "year": 1976
+    },
+    "Hardball": {
+      "id": 20857,
+      "poster": "/9RMcwwnK8a9WCt8dVlwmtNsFCg3.jpg",
+      "title": "Hardball",
+      "year": 2001
+    },
+    "Mr. 3000": {
+      "id": 16232,
+      "poster": "/g7CNkytZsZzQ8ZEr8F4SmrhjI5y.jpg",
+      "title": "Mr. 3000",
+      "year": 2004
+    },
+    "The Scout": {
+      "id": 35233,
+      "poster": "/a5b1k4wmZShLu1Fo19SzcOJKRlD.jpg",
+      "title": "The Scout",
+      "year": 1994
+    },
+    "The Fan": {
+      "id": 9566,
+      "poster": "/lu7CjP8YES5dJMCFg5O9o9jCkjl.jpg",
+      "title": "The Fan",
+      "year": 1996
+    },
+    "Trouble with the Curve": {
+      "id": 87825,
+      "poster": "/zLZQVmxOj5kICbS5Pq7rB1cbPvP.jpg",
+      "title": "Trouble with the Curve",
+      "year": 2012
+    },
+    "Cobb": {
+      "id": 29973,
+      "poster": "/clOqh9is8vWZvX6AUjF4HtLdQMj.jpg",
+      "title": "Cobb",
+      "year": 1994
+    },
+    "Game 6": {
+      "id": 80919,
+      "poster": "/nwXLO5SWMt7xTIPhPMcM1qBZJxg.jpg",
+      "title": "Game 6",
+      "year": 2006
+    },
+    "Fear Strikes Out": {
+      "id": 125413,
+      "poster": "/f4RPc5nOxMaAlTlzsc5YdcPB09s.jpg",
+      "title": "Fear Strikes Out",
+      "year": 1957
+    },
+    "The Slugger's Wife": {
+      "id": 78364,
+      "poster": "/g5psR5tS3uFKRwcUGmHQcycc6iF.jpg",
+      "title": "The Slugger's Wife",
+      "year": 1985
+    },
+    "The Catcher Was a Spy": {
+      "id": 467952,
+      "poster": "/3aBv9Oln0aoBrEbkMabHIVat6CY.jpg",
+      "title": "The Catcher Was a Spy",
+      "year": 2018
+    },
+    "BASEketball": {
+      "id": 14013,
+      "poster": "/oKZdAUV9XSLp091f0GmtQEu0UZy.jpg",
+      "title": "BASEketball",
+      "year": 1998
+    },
+    "It Happens Every Spring": {
+      "id": 88288,
+      "poster": "/18mVDAvnpVmKYgsfFe15mALF0iI.jpg",
+      "title": "It Happens Every Spring",
+      "year": 1949
+    },
+    "Brewster's Millions": {
+      "id": 11064,
+      "poster": "/t4p8r8kfB2jHiK8J36XnfSP8cRO.jpg",
+      "title": "Brewster's Millions",
+      "year": 1985
+    },
+    "The Life and Times of Hank Greenberg": {
+      "id": 41276,
+      "poster": "/9Gnyl9QAYD9mmvyxwBA4CYus4Cb.jpg",
+      "title": "The Life and Times of Hank Greenberg",
+      "year": 1998
+    },
+    "The League": {
+      "id": 1115095,
+      "poster": "/vL2DZFvUFZwfvHSWi4IPNoNTpz2.jpg",
+      "title": "The League",
+      "year": 2023
+    },
+    "Up for Grabs": {
+      "id": 76548,
+      "poster": "/AgGtlPWt6MDfOkjr7y2ybPQBuyk.jpg",
+      "title": "Up for Grabs",
+      "year": 2004
+    },
+    "Knuckleball": {
+      "id": 111174,
+      "poster": "/tQEYv3sL3jN0H8r7y20CHT6lf5S.jpg",
+      "title": "Knuckleball!",
+      "year": 2012
+    },
+    "Major League II": {
+      "id": 11067,
+      "poster": "/2QAb0gZusyMsZ1W5ce85plVciDp.jpg",
+      "title": "Major League II",
+      "year": 1994
+    },
+    "Twilight": {
+      "id": 8966,
+      "poster": "/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
+      "title": "Twilight",
+      "year": 2008
+    },
+    "Boyhood": {
+      "id": 85350,
+      "poster": "/2BvtvDUyxiMJ4dmKfiQf4qdOHQN.jpg",
+      "title": "Boyhood",
+      "year": 2014
+    },
+    "My Best Friend's Wedding": {
+      "id": 8874,
+      "poster": "/b5g4bp8gS5ovMyR5439AII6zQ3n.jpg",
+      "title": "My Best Friend's Wedding",
+      "year": 1997
+    },
+    "War of the Worlds": {
+      "id": 74,
+      "poster": "/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
+      "title": "War of the Worlds",
+      "year": 2005
+    },
+    "A Few Good Men": {
+      "id": 881,
+      "poster": "/rLOk4z9zL1tTukIYV56P94aZXKk.jpg",
+      "title": "A Few Good Men",
+      "year": 1992
+    },
+    "The Town": {
+      "id": 23168,
+      "poster": "/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
+      "title": "The Town",
+      "year": 2010
+    },
+    "Dazed and Confused": {
+      "id": 9571,
+      "poster": "/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+      "title": "Dazed and Confused",
+      "year": 1993
+    },
+    "The Naked Gun": {
+      "id": 1035259,
+      "poster": "/rwla9vqzrKVVKVKiOuROTIXGsxj.jpg",
+      "title": "The Naked Gun",
+      "year": 2025
+    },
+    "Ferris Bueller's Day Off": {
+      "id": 9377,
+      "poster": "/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg",
+      "title": "Ferris Bueller's Day Off",
+      "year": 1986
+    },
+    "Speedy": {
+      "id": 22595,
+      "poster": "/zWhWaWCCIsnQDsFTAe98ap3R5y.jpg",
+      "title": "Speedy",
+      "year": 1928
+    },
+    "Casablanca": {
+      "id": 289,
+      "poster": "/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+      "title": "Casablanca",
+      "year": 1943
+    },
+    "Pocahontas": {
+      "id": 10530,
+      "poster": "/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg",
+      "title": "Pocahontas",
+      "year": 1995
+    },
+    "The New World": {
+      "id": 11400,
+      "poster": "/dPyWMlQd54r3pK17GKG3iqjvNZ7.jpg",
+      "title": "The New World",
+      "year": 2005
+    },
+    "Gone with the Wind": {
+      "id": 770,
+      "poster": "/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg",
+      "title": "Gone with the Wind",
+      "year": 1939
+    },
+    "Kill Bill": null,
+    "The Ring": {
+      "id": 565,
+      "poster": "/AeRpUynJKDpJveklBJipOYrVxCS.jpg",
+      "title": "The Ring",
+      "year": 2002
+    },
+    "Psycho": {
+      "id": 539,
+      "poster": "/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+      "title": "Psycho",
+      "year": 1960
+    },
+    "My Octopus Teacher": {
+      "id": 682110,
+      "poster": "/hvTVZb7hBC8tZAGoEhH5eiMJu2B.jpg",
+      "title": "My Octopus Teacher",
+      "year": 2020
+    },
+    "Monkey Man": {
+      "id": 560016,
+      "poster": "/4lhR4L2vzzjl68P1zJyCH755Oz4.jpg",
+      "title": "Monkey Man",
+      "year": 2024
+    },
+    "Captain Marvel": {
+      "id": 299537,
+      "poster": "/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+      "title": "Captain Marvel",
+      "year": 2019
+    },
+    "Mississippi Grind": {
+      "id": 309242,
+      "poster": "/vS3Bc6BiuZtAbSQpKhhRzPa7c2d.jpg",
+      "title": "Mississippi Grind",
+      "year": 2015
+    },
+    "Half Nelson": {
+      "id": 7859,
+      "poster": "/fdUCisMpTwy0oJOGwM7NrFFs400.jpg",
+      "title": "Half Nelson",
+      "year": 2006
+    },
+    "Foxcatcher": {
+      "id": 87492,
+      "poster": "/w6Sl079QtUcQ9dVQ2RP6aN9NBXx.jpg",
+      "title": "Foxcatcher",
+      "year": 2014
+    },
+    "Any Given Sunday": {
+      "id": 9563,
+      "poster": "/bysZeUvSPZPJnku4qkHF34CdgMG.jpg",
+      "title": "Any Given Sunday",
+      "year": 1999
+    },
+    "Everybody's All-American": {
+      "id": 34053,
+      "poster": "/kU8DdARin8VwV0j3G27mFEEitCy.jpg",
+      "title": "Everybody's All-American",
+      "year": 1988
+    },
+    "The Best of Times": {
+      "id": 30653,
+      "poster": "/9KSuob3tStXyxaQ52Fceu9Mc015.jpg",
+      "title": "The Best of Times",
+      "year": 1986
+    },
+    "Chasing Liberty": {
+      "id": 14844,
+      "poster": "/aGh5zpJSuxcx4lzFFbZ2QyY8wQP.jpg",
+      "title": "Chasing Liberty",
+      "year": 2004
+    },
+    "First Kid": {
+      "id": 12559,
+      "poster": "/t7yTkuXQpnougXmRIqgfT32axZi.jpg",
+      "title": "First Kid",
+      "year": 1996
+    },
+    "The Princess Diaries 2: Royal Engagement": {
+      "id": 11130,
+      "poster": "/upJOyrxxSIxlSZC7KEqJfB1vlGl.jpg",
+      "title": "The Princess Diaries 2: Royal Engagement",
+      "year": 2004
+    },
+    "Beethoven's 4th": {
+      "id": 24478,
+      "poster": "/dvw8mJlEjxvBggoiAbiPkXfvbFO.jpg",
+      "title": "Beethoven's 4th",
+      "year": 2001
+    },
+    "National Lampoon's Barely Legal": null,
+    "Full Moon in Blue Water": {
+      "id": 40555,
+      "poster": "/3QsmmSgBvfK83j6EDtJZjBcsC5h.jpg",
+      "title": "Full Moon in Blue Water",
+      "year": 1988
+    },
+    "F1": {
+      "id": 911430,
+      "poster": "/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
+      "title": "F1",
+      "year": 2025
+    },
+    "Top Gun": {
+      "id": 744,
+      "poster": "/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+      "title": "Top Gun",
+      "year": 1886
+    },
+    "Cars": {
+      "id": 920,
+      "poster": "/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg",
+      "title": "Cars",
+      "year": 2006
+    },
+    "Miami Vice": {
+      "id": 82,
+      "poster": "/iJPSls4taB09EUKtLj6FjFSprb3.jpg",
+      "title": "Miami Vice",
+      "year": 2006
+    },
+    "Digger": {
+      "id": 1248832,
+      "poster": "/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "title": "Digger",
+      "year": 2026
+    },
+    "Mr. Irrelevant": {
+      "id": 1372443,
+      "poster": "/v9xESDLVKXw9CqzbzA7MNWs1ROT.jpg",
+      "title": "Mr. Irrelevant",
+      "year": 2026
+    },
+    "Primetime": {
+      "id": 1375441,
+      "poster": "/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+      "title": "Primetime",
+      "year": 2026
+    }
+  }
+}

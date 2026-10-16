@@ -1,0 +1,256 @@
+{
+  "slug": "you-must-see-you-can-see-everything-plus-judd-apatow",
+  "title": "You Must See ‘You Can See Everything.’ Plus: Judd Apatow!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2026-10-16",
+  "runtimeMin": 163,
+  "format": "A full deep dive on the Fielder/Oppenheim Elizabeth Holmes documentary, bookended by a Narnia-trailer argument and a first-time sit-down with Judd Apatow.",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "Movie news",
+      "note": "trailers and the crowded release calendar",
+      "films": [
+        {
+          "title": "Narnia: The Magician's Nephew",
+          "year": 2026,
+          "note": "Greta Gerwig trailer, set to Stairway to Heaven (a first-ever Zeppelin license), moves the story 50 years on to post-war England. Both balk at the CGI worlds; agree it's a kids' movie. Hits theaters Feb 12, Super Bowl weekend."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "'You Can See Everything'",
+      "note": "Nathan Fielder & Lance Oppenheim · spoiler-heavy",
+      "films": [
+        {
+          "title": "You Can See Everything",
+          "year": 2026,
+          "note": "A24 documentary following Elizabeth Holmes and Billy Evans in the 34 days before prison, then two years into the recreations. Both call it the movie of the year; a verité first half flips into a metanarrative where Amanda Seyfried re-plays Holmes. Fielder as detective, not comic. Likely Best Picture, not doc-branch, contender."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "In conversation",
+      "guest": "Judd Apatow on",
+      "films": [
+        {
+          "title": "Paralyzed by Hope: The Maria Bamford Story",
+          "year": 2026,
+          "note": "Three years of following Bamford; shot cheap and self-financed to start. Became a relatable portrait of OCD, intrusive thoughts and mental-health survival."
+        },
+        {
+          "title": "Norm",
+          "year": 2026,
+          "note": "Macdonald doc built entirely from archival, no talking heads, because no one could crack who Norm was. Ends on a Largo set turned tearful, before anyone knew he was sick."
+        },
+        {
+          "title": "The Comeback King",
+          "year": 2027,
+          "note": "Apatow's next narrative feature, co-written with and starring Glenn Powell as a country star in free fall. Kristen Milioti and Madeleine Klein co-star."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "On the release calendar",
+      "films": [
+        {
+          "title": "Digger",
+          "year": 2026
+        },
+        {
+          "title": "La Bola Negra",
+          "year": 2026
+        },
+        {
+          "title": "Fjord",
+          "year": 2026
+        },
+        {
+          "title": "The Devils",
+          "year": 1971,
+          "note": "Ken Russell restoration, saved for the horror episode."
+        },
+        {
+          "title": "Whale Fall",
+          "year": 2026
+        },
+        {
+          "title": "Sense and Sensibility",
+          "year": 2026
+        },
+        {
+          "title": "The Only Living Pickpocket in New York",
+          "year": 2026,
+          "note": "John Turturro, directed by Noah Segan."
+        },
+        {
+          "title": "Misty Green",
+          "year": 2026,
+          "note": "Chris Rock's movie."
+        },
+        {
+          "title": "Remain",
+          "year": 2026,
+          "note": "M. Night Shyamalan / Nicholas Sparks, actually Feb 5."
+        },
+        {
+          "title": "Resident Evil",
+          "year": 2026
+        }
+      ]
+    },
+    {
+      "group": "Trailer talk",
+      "films": [
+        {
+          "title": "Barbie",
+          "year": 2023
+        },
+        {
+          "title": "The Lord of the Rings"
+        },
+        {
+          "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+          "year": 2005,
+          "note": "The 2000s trilogy, shot in real places and still not good."
+        },
+        {
+          "title": "Ex Machina",
+          "year": 2014,
+          "note": "Template for a stripped-down next Alex Garland film with Zendaya."
+        },
+        {
+          "title": "V/H/S",
+          "note": "A Jim Henson Creature Shop segment; cited for the 'puppet moment.'"
+        }
+      ]
+    },
+    {
+      "group": "Around the Holmes doc",
+      "films": [
+        {
+          "title": "The Inventor: Out for Blood in Silicon Valley",
+          "year": 2019,
+          "note": "The prior Alex Gibney Theranos doc."
+        },
+        {
+          "title": "The Master",
+          "year": 2012,
+          "note": "Ari Balouzian's beach score echoes Greenwood."
+        },
+        {
+          "title": "Mean Girls",
+          "year": 2004,
+          "note": "Amanda Seyfried."
+        },
+        {
+          "title": "The Housemaid",
+          "year": 2025,
+          "note": "Seyfried's last film."
+        }
+      ]
+    },
+    {
+      "group": "Apatow's work, in passing",
+      "films": [
+        {
+          "title": "The Zen Diaries of Garry Shandling",
+          "year": 2018
+        },
+        {
+          "title": "George Carlin's American Dream",
+          "year": 2022
+        },
+        {
+          "title": "Gilbert",
+          "year": 2017,
+          "note": "Neil Berkeley's Gottfried doc."
+        },
+        {
+          "title": "Popstar: Never Stop Never Stopping",
+          "year": 2016,
+          "note": "Cited as the anti-fluff-piece."
+        },
+        {
+          "title": "The Devil and Daniel Johnston",
+          "year": 2005,
+          "note": "A comp for the Bamford film."
+        },
+        {
+          "title": "No Direction Home",
+          "year": 2005
+        },
+        {
+          "title": "George Harrison: Living in the Material World",
+          "year": 2011
+        },
+        {
+          "title": "May It Last: A Portrait of the Avett Brothers",
+          "year": 2017
+        },
+        {
+          "title": "Funny People",
+          "year": 2009
+        },
+        {
+          "title": "This Is 40",
+          "year": 2012
+        },
+        {
+          "title": "The King of Staten Island",
+          "year": 2020
+        },
+        {
+          "title": "Knocked Up",
+          "year": 2007
+        },
+        {
+          "title": "Trainwreck",
+          "year": 2015
+        },
+        {
+          "title": "The 40-Year-Old Virgin",
+          "year": 2005
+        },
+        {
+          "title": "The Cable Guy",
+          "year": 1996
+        },
+        {
+          "title": "Step Brothers",
+          "year": 2008
+        }
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "The Dropout",
+      "The Rehearsal",
+      "Curb Your Enthusiasm",
+      "The Larry Sanders Show",
+      "Lady Dynamite",
+      "The Ben Stiller Show",
+      "Saturday Night Live",
+      "Night Court",
+      "Roseanne",
+      "Dateline",
+      "Mind Over Murder"
+    ],
+    "Video games": [
+      "Elden Ring"
+    ],
+    "Books": [
+      "Bad Blood"
+    ]
+  }
+}

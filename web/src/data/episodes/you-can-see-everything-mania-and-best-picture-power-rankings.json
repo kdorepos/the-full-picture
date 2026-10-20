@@ -1,0 +1,863 @@
+{
+  "slug": "you-can-see-everything-mania-and-best-picture-power-rankings",
+  "title": "‘You Can See Everything’ Mania and Best Picture Power Rankings. Plus: ‘Whalefall,’ ‘Sense and Sensibility,’ and Kyle MacLachlan!",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2026-10-20",
+  "runtimeMin": 151,
+  "format": "A box-office and Netflix-shakeup rundown, two new releases reviewed, the monthly Best Picture power rankings reshuffled by 'You Can See Everything,' then Kyle MacLachlan on the year he made 'Blue Velvet.'",
+  "segments": [
+    {
+      "kind": "discussion",
+      "heading": "The News",
+      "note": "box office and the Netflix shakeup",
+      "films": [
+        {
+          "title": "Street Fighter",
+          "year": 2026,
+          "note": "No. 1 on its opening weekend but only $30M, a soft start the hosts barely wanted to discuss; full review coming with Shea Serrano. Sean's video-game-adaptation hopes dimmed."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "'Whalefall'",
+      "films": [
+        {
+          "title": "Whalefall",
+          "year": 2026,
+          "note": "Brian Duffield directs; Austin Abrams dives for his dead father's remains and is swallowed by a whale. Sean: 50% amazing body-horror, 50% saccharine dad drama. Expensive practical sets inside the whale; soft box office. Amanda's 'Julie & Julia' problem: great in the whale, inert in the flashbacks."
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "'Sense and Sensibility'",
+      "films": [
+        {
+          "title": "Sense and Sensibility",
+          "year": 2026,
+          "note": "Georgia Oakley directs, Diana Reid writes; Daisy Edgar-Jones, Esme Creed-Miles, Caitriona Balfe, Frank Dillane, Herbert Nordrum, George MacKay, Fiona Shaw. A dim, Barry-Lyndon-by-candlelight, Joe-Wright-Brontëfied take that both hosts found soft-focus and underlit and miscast (Willoughby cut to nothing, no Marianne/Willoughby chemistry), Creed-Miles and Shaw excepted. Lives in the shadow of Ang Lee's 1995 version. Nixed from the Best Picture list."
+        }
+      ]
+    },
+    {
+      "kind": "ranking",
+      "heading": "Best Picture Power Rankings",
+      "note": "monthly reshuffle, No. 1 down",
+      "subject": "Best Picture",
+      "ranked": true,
+      "films": [
+        {
+          "title": "The Odyssey",
+          "year": 2026,
+          "note": "No. 1 - lying dormant until the Governors Awards; the top of the race feels settled."
+        },
+        {
+          "title": "La Bola Negra",
+          "year": 2026,
+          "note": "No. 2 - rapturous but slow; needs acting noms (Ivan de la Fuente, Penélope Cruz) to actually win."
+        },
+        {
+          "title": "Wild Horse 9",
+          "year": 2026,
+          "note": "No. 3 - Malkovich the likely winner, McDonagh in original screenplay, maybe Rockwell in supporting."
+        },
+        {
+          "title": "You Can See Everything",
+          "year": 2026,
+          "note": "No. 4 - $15M on <900 screens, biggest non-music doc since 'Fahrenheit 9/11,' highest-rated on Letterboxd; toppled everyone's strategy. Only question is Academy overlap with its very young audience."
+        },
+        {
+          "title": "Dune: Part Three",
+          "year": 2026,
+          "note": "No. 5 - five weeks out, no one's seen it; the 'movies are back' spectacle slot."
+        },
+        {
+          "title": "I Play Rocky",
+          "year": 2026,
+          "note": "No. 6 - Bobby Farrelly crowd-pleaser, slotted over 'Michael' as the down-the-middle biopic-adjacent pick."
+        },
+        {
+          "title": "Project Hail Mary",
+          "year": 2026,
+          "note": "No. 7 - not yet campaigning but will; Amazon's big sci-fi play."
+        },
+        {
+          "title": "The Debut",
+          "year": 2026,
+          "note": "No. 8 - December release, Julianne Moore charm offensive."
+        },
+        {
+          "title": "Artificial",
+          "year": 2026,
+          "note": "No. 9 - Neon seemingly moving chips here from 'Fjord'; Amanda kept it in just to be safe."
+        },
+        {
+          "title": "Digger",
+          "year": 2026,
+          "note": "No. 10 - a sop to the vocal online hive; Tom Cruise, Iñárritu bombast."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "One Year",
+      "guest": "Kyle MacLachlan on",
+      "note": "the 18 months around 'Blue Velvet,' from his memoir 'Fictional Selves'",
+      "films": [
+        {
+          "title": "Blue Velvet",
+          "year": 1986,
+          "note": "His second film and the one he couldn't shake; his mother, mid-chemo, struggled with the script and he nearly walked before she gave her blessing. Tested poorly, dismissed on arrival, then built a cult via Pauline Kael. He now reads it as a loss-of-innocence film."
+        },
+        {
+          "title": "Dune",
+          "year": 1984,
+          "note": "His first-ever film; a contract barred other work until release so he'd arrive an unknown. Box-office disaster that left him high and dry back in a $145/month Seattle studio apartment."
+        },
+        {
+          "title": "Platoon",
+          "year": 1986,
+          "note": "A non-Dune option picture at De Laurentiis; Oliver Stone wanted him for Chris. He hesitated over the ending and the role went to Charlie Sheen."
+        },
+        {
+          "title": "Top Gun",
+          "year": 1986,
+          "note": "He read for Goose, not the Cruise role; doubts Tony Scott would have had him."
+        },
+        {
+          "title": "sex, lies, and videotape",
+          "year": 1989,
+          "note": "Soderbergh wanted him, or at least strongly considered him; he removed himself on advice against another sexually-hung-up part. They're friends now."
+        },
+        {
+          "title": "The Hidden",
+          "year": 1987,
+          "note": "His third film and first without Lynch; sci-fi cop-buddy horror with Michael Nouri, a now-cult object he stepped out on his own in, cribbing Mel Gibson's cartridge-eject bit."
+        },
+        {
+          "title": "Zulu",
+          "year": 1964,
+          "note": "His 'last great thing,' caught on a plane; 'introducing Michael Caine,' whom he watched get better in real time."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "At the box office and in the news",
+      "films": [
+        "Fahrenheit 9/11",
+        "Resident Evil",
+        "Mortal Kombat 2",
+        "Legend of Zelda",
+        "Three Identical Strangers",
+        "Apollo 11",
+        "The Irishman",
+        "Marriage Story"
+      ]
+    },
+    {
+      "group": "Netflix's new regime (Peter Rice productions)",
+      "films": [
+        "28 Years Later",
+        "Saturday Night",
+        "Warfare",
+        "Elden Ring"
+      ]
+    },
+    {
+      "group": "The Batman Part Two chatter",
+      "films": [
+        "The Batman",
+        "The Batman Part Two",
+        "Raiders of the Lost Ark",
+        "Who's Afraid of Virginia Woolf?",
+        "Superman II",
+        "The Godfather",
+        "The Godfather Part II"
+      ]
+    },
+    {
+      "group": "Austen on screen",
+      "films": [
+        "Sense and Sensibility (1995)",
+        "Pride and Prejudice",
+        "Persuasion",
+        "Northanger Abbey",
+        "Mansfield Park",
+        "Emma",
+        "Clueless",
+        "Wuthering Heights"
+      ]
+    },
+    {
+      "group": "Costume-drama and casting touchstones",
+      "films": [
+        "Barry Lyndon",
+        "Hamnet",
+        "Belfast",
+        "Shakespeare in Love",
+        "Urchin",
+        "The Worst Person in the World",
+        "Fresh",
+        "Where the Crawdads Sing",
+        "Twisters",
+        "On Swift Horses"
+      ]
+    },
+    {
+      "group": "Also in the Oscar conversation",
+      "films": [
+        "Obsession",
+        "All of a Sudden",
+        "Fjord",
+        "The Invite",
+        "Michael",
+        "Being Human",
+        "The Adventures of Cliff Booth",
+        "Werewolf",
+        "Impossible Love",
+        "Josephine",
+        "Ink",
+        "After the Hunt",
+        "Queer",
+        "Club Kid",
+        "Tender Loving Care",
+        "Minotaur",
+        "Fatherland",
+        "Elsinore"
+      ]
+    },
+    {
+      "group": "Academy reference points",
+      "films": [
+        "Parasite",
+        "Nomadland",
+        "Oppenheimer",
+        "One Battle After Another",
+        "Green Book",
+        "Bohemian Rhapsody",
+        "The Theory of Everything",
+        "Judy",
+        "CODA",
+        "My Octopus Teacher",
+        "Three Billboards Outside Ebbing, Missouri",
+        "The Banshees of Inisherin",
+        "Sentimental Value",
+        "The Secret Agent"
+      ]
+    },
+    {
+      "group": "In the Whalefall talk",
+      "films": [
+        "Julie & Julia",
+        "Pinocchio"
+      ]
+    },
+    {
+      "group": "In the MacLachlan interview",
+      "films": [
+        "Eraserhead",
+        "The Straight Story",
+        "Wild at Heart",
+        "Before Sunrise",
+        "Flashdance",
+        "Lethal Weapon",
+        "The Doors",
+        "Making Thunderbirds"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Remarkably Bright Creatures",
+      "Twin Peaks",
+      "Twin Peaks: The Return",
+      "Sex and the City",
+      "House of Cards",
+      "Orange Is the New Black",
+      "The Queen's Gambit",
+      "Adolescence",
+      "Normal People",
+      "Nathan For You",
+      "Finding Francis"
+    ],
+    "Ads": [
+      "State Farm"
+    ]
+  },
+  "tmdbOverrides": {
+    "Sense and Sensibility (1995)": 4584,
+    "Pride and Prejudice": 4348,
+    "Fresh": 787752,
+    "Being Human": 1450954
+  },
+  "tmdb": {
+    "Street Fighter": {
+      "id": 1153576,
+      "poster": "/pwUb3gdkSrlyMZWs0MFOQg3N5s7.jpg",
+      "title": "Street Fighter",
+      "year": 2026
+    },
+    "Whalefall": {
+      "id": 1255833,
+      "poster": "/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
+      "title": "Whalefall",
+      "year": 2026
+    },
+    "Sense and Sensibility": {
+      "id": 1503762,
+      "poster": "/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+      "title": "Sense and Sensibility",
+      "year": 2026
+    },
+    "The Odyssey": {
+      "id": 1368337,
+      "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "title": "The Odyssey",
+      "year": 2026
+    },
+    "La Bola Negra": {
+      "id": 1422041,
+      "poster": "/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg",
+      "title": "La bola negra",
+      "year": 2026
+    },
+    "Wild Horse 9": null,
+    "You Can See Everything": {
+      "id": 1765072,
+      "poster": "/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "title": "You Can See Everything",
+      "year": 2026
+    },
+    "Dune: Part Three": {
+      "id": 1170608,
+      "poster": "/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+      "title": "Dune: Part Three",
+      "year": 2026
+    },
+    "I Play Rocky": {
+      "id": 1286656,
+      "poster": "/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg",
+      "title": "I Play Rocky",
+      "year": 2026
+    },
+    "Project Hail Mary": {
+      "id": 687163,
+      "poster": "/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
+      "title": "Project Hail Mary",
+      "year": 2026
+    },
+    "The Debut": {
+      "id": 1391239,
+      "poster": "/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg",
+      "title": "The Debut",
+      "year": 2026
+    },
+    "Artificial": {
+      "id": 1492198,
+      "poster": "/2bz0HPE8OFOqnyvl8sCdVDIg1KX.jpg",
+      "title": "Artificial",
+      "year": 2026
+    },
+    "Digger": {
+      "id": 1248832,
+      "poster": "/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "title": "Digger",
+      "year": 2026
+    },
+    "Blue Velvet": {
+      "id": 793,
+      "poster": "/6v1zYh2FKOYVddY5pCQhd4PO9uX.jpg",
+      "title": "Blue Velvet",
+      "year": 1986
+    },
+    "Dune": {
+      "id": 841,
+      "poster": "/4kJmUCE7mkVJjXa7A0g2rY4IGTm.jpg",
+      "title": "Dune",
+      "year": 1984
+    },
+    "Platoon": {
+      "id": 792,
+      "poster": "/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg",
+      "title": "Platoon",
+      "year": 1986
+    },
+    "Top Gun": {
+      "id": 744,
+      "poster": "/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+      "title": "Top Gun",
+      "year": 1986
+    },
+    "sex, lies, and videotape": {
+      "id": 1412,
+      "poster": "/dE0u4uB5UPfVIdz258Ye2XEPuuh.jpg",
+      "title": "sex, lies, and videotape",
+      "year": 1989
+    },
+    "The Hidden": {
+      "id": 12476,
+      "poster": "/pCoFtULUIebq13EU9glcZjfdC1a.jpg",
+      "title": "The Hidden",
+      "year": 1987
+    },
+    "Zulu": {
+      "id": 14433,
+      "poster": "/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg",
+      "title": "Zulu",
+      "year": 1964
+    },
+    "Fahrenheit 9/11": {
+      "id": 1777,
+      "poster": "/cZ7M343iuiMDc36fSeSm699XQFv.jpg",
+      "title": "Fahrenheit 9/11",
+      "year": 2004
+    },
+    "Resident Evil": {
+      "id": 1423191,
+      "poster": "/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+      "title": "Resident Evil",
+      "year": 2026
+    },
+    "Mortal Kombat 2": null,
+    "Legend of Zelda": null,
+    "Three Identical Strangers": {
+      "id": 489988,
+      "poster": "/esPoJNMBsgWXahv8gILIl5K6sFk.jpg",
+      "title": "Three Identical Strangers",
+      "year": 2018
+    },
+    "Apollo 11": {
+      "id": 549559,
+      "poster": "/woLMRroHyoTGoXyxdEeBJEYBFtu.jpg",
+      "title": "Apollo 11",
+      "year": 2019
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Marriage Story": {
+      "id": 492188,
+      "poster": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+      "title": "Marriage Story",
+      "year": 2019
+    },
+    "28 Years Later": {
+      "id": 1100988,
+      "poster": "/n5FygjEppOvac6yEaowi26nTyw3.jpg",
+      "title": "28 Years Later",
+      "year": 2025
+    },
+    "Saturday Night": {
+      "id": 1120911,
+      "poster": "/oCf5O6uxooTvRwKVnLHwGqZUifq.jpg",
+      "title": "Saturday Night",
+      "year": 2024
+    },
+    "Warfare": {
+      "id": 1241436,
+      "poster": "/l39TlELomwysfsr37vrvCV6rmaQ.jpg",
+      "title": "Warfare",
+      "year": 2025
+    },
+    "Elden Ring": {
+      "id": 1485839,
+      "poster": "/3ApvUAl0aw6TKKLkJH3IrEzPpIf.jpg",
+      "title": "Elden Ring",
+      "year": 2028
+    },
+    "The Batman": null,
+    "The Batman Part Two": null,
+    "Raiders of the Lost Ark": {
+      "id": 85,
+      "poster": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+      "title": "Raiders of the Lost Ark",
+      "year": 1981
+    },
+    "Who's Afraid of Virginia Woolf?": {
+      "id": 396,
+      "poster": "/wF7ihB5V5gSm6zxjv3ZhHOpgREI.jpg",
+      "title": "Who's Afraid of Virginia Woolf?",
+      "year": 1966
+    },
+    "Superman II": {
+      "id": 8536,
+      "poster": "/3xk5cno9BHcnwc97XO9k21aI1Zi.jpg",
+      "title": "Superman II",
+      "year": 1980
+    },
+    "The Godfather": {
+      "id": 238,
+      "poster": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "title": "The Godfather",
+      "year": 1972
+    },
+    "The Godfather Part II": {
+      "id": 240,
+      "poster": "/8a1lJs7mFyGhGhZZDT1azJUoQiZ.jpg",
+      "title": "The Godfather Part II",
+      "year": 1974
+    },
+    "Sense and Sensibility (1995)": {
+      "id": 4584,
+      "poster": "/9YdQ73YmvInxpXZVNjEKePw9tRO.jpg",
+      "title": "Sense and Sensibility",
+      "year": 1995
+    },
+    "Pride and Prejudice": {
+      "id": 4348,
+      "poster": "/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg",
+      "title": "Pride & Prejudice",
+      "year": 2005
+    },
+    "Persuasion": {
+      "id": 820912,
+      "poster": "/s99WrKSEVR4RVvwm5Zn2cqrHTMM.jpg",
+      "title": "Persuasion",
+      "year": 2022
+    },
+    "Northanger Abbey": {
+      "id": 18093,
+      "poster": "/gEuCp3fiWp3SBy2gnLR4HH2iAVQ.jpg",
+      "title": "Northanger Abbey",
+      "year": 2007
+    },
+    "Mansfield Park": {
+      "id": 16236,
+      "poster": "/vnjpMB6wJymfpX3CraHw3zeXONF.jpg",
+      "title": "Mansfield Park",
+      "year": 2007
+    },
+    "Emma": {
+      "id": 556678,
+      "poster": "/uHpHzbHLSsVmAuuGuQSpyVDZmDc.jpg",
+      "title": "Emma.",
+      "year": 2020
+    },
+    "Clueless": {
+      "id": 9603,
+      "poster": "/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",
+      "title": "Clueless",
+      "year": 1995
+    },
+    "Wuthering Heights": {
+      "id": 1316092,
+      "poster": "/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
+      "title": "“Wuthering Heights”",
+      "year": 2026
+    },
+    "Barry Lyndon": {
+      "id": 3175,
+      "poster": "/A0byHUHMwZ7dtBQtfZ44QIgDbjo.jpg",
+      "title": "Barry Lyndon",
+      "year": 1975
+    },
+    "Hamnet": {
+      "id": 858024,
+      "poster": "/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+      "title": "Hamnet",
+      "year": 2025
+    },
+    "Belfast": {
+      "id": 777270,
+      "poster": "/3mInLZyPOVLsZRsBwNHi3UJXXnm.jpg",
+      "title": "Belfast",
+      "year": 2021
+    },
+    "Shakespeare in Love": {
+      "id": 1934,
+      "poster": "/zdW7jdzPi4J9KZR3TyY2jn3Xh5e.jpg",
+      "title": "Shakespeare in Love",
+      "year": 1998
+    },
+    "Urchin": {
+      "id": 1283320,
+      "poster": "/zc8n3hm3S2VxFxlNH1MNN28LVMa.jpg",
+      "title": "Urchin",
+      "year": 2025
+    },
+    "The Worst Person in the World": {
+      "id": 660120,
+      "poster": "/1NxGNQchGBTHXJ6RShLY1IlZqWn.jpg",
+      "title": "The Worst Person in the World",
+      "year": 2021
+    },
+    "Fresh": {
+      "id": 787752,
+      "poster": "/tlu71AgaL3EQBBCNGsAwZLPbV5D.jpg",
+      "title": "Fresh",
+      "year": 2022
+    },
+    "Where the Crawdads Sing": {
+      "id": 682507,
+      "poster": "/n1el846gLDXfhOvrRCsyvaAOQWv.jpg",
+      "title": "Where the Crawdads Sing",
+      "year": 2022
+    },
+    "Twisters": {
+      "id": 718821,
+      "poster": "/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg",
+      "title": "Twisters",
+      "year": 2024
+    },
+    "On Swift Horses": {
+      "id": 1092506,
+      "poster": "/5DNMeesJKMh7LLCzvsXGPDciTAJ.jpg",
+      "title": "On Swift Horses",
+      "year": 2025
+    },
+    "Obsession": {
+      "id": 1339713,
+      "poster": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "title": "Obsession",
+      "year": 2026
+    },
+    "All of a Sudden": {
+      "id": 1476614,
+      "poster": "/kFD1vl6FPt8heIIgFiAyIbZqrYh.jpg",
+      "title": "All of a Sudden",
+      "year": 2026
+    },
+    "Fjord": {
+      "id": 1401459,
+      "poster": "/rhKlzjAJCEKUjxEk1qwr4bgbXlG.jpg",
+      "title": "Fjord",
+      "year": 2026
+    },
+    "The Invite": {
+      "id": 950028,
+      "poster": "/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+      "title": "The Invite",
+      "year": 2026
+    },
+    "Michael": {
+      "id": 936075,
+      "poster": "/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
+      "title": "Michael",
+      "year": 2026
+    },
+    "Being Human": {
+      "id": 1450954,
+      "poster": "/18cYCCcglT85AY8yF0sFZcHrSPm.jpg",
+      "title": "Being Human",
+      "year": 2025
+    },
+    "The Adventures of Cliff Booth": null,
+    "Werewolf": {
+      "id": 1786352,
+      "poster": "/r7VOGrUYnjFaadFP9syZ0rVLZ9X.jpg",
+      "title": "Werewolf",
+      "year": 2022
+    },
+    "Impossible Love": {
+      "id": 295276,
+      "poster": "/cBchCeHewKHErWaeJBxeqThPCeY.jpg",
+      "title": "Impossible Love",
+      "year": 2003
+    },
+    "Josephine": {
+      "id": 1299329,
+      "poster": "/6pUSCeInGp4Ut3rqgPNWUrmKBUi.jpg",
+      "title": "Josephine",
+      "year": 2026
+    },
+    "Ink": {
+      "id": 1532610,
+      "poster": "/aZECpoGsveEXtxogaz0GMiyVB6n.jpg",
+      "title": "Ink",
+      "year": 2026
+    },
+    "After the Hunt": {
+      "id": 1265063,
+      "poster": "/ryF8QPGUGlo8gRB4OYKb4J0r3aJ.jpg",
+      "title": "After the Hunt",
+      "year": 2025
+    },
+    "Queer": {
+      "id": 1059128,
+      "poster": "/xe4b2TMciLKA1C0JlhWxb4ENLln.jpg",
+      "title": "Queer",
+      "year": 2024
+    },
+    "Club Kid": {
+      "id": 1585239,
+      "poster": "/3CdM37GtEDMAp7fGlRn9MCpFjn1.jpg",
+      "title": "Club Kid",
+      "year": 2026
+    },
+    "Tender Loving Care": {
+      "id": 1370191,
+      "poster": "/fgiGqeaBXfCM29xAUhmURCTyN2X.jpg",
+      "title": "Tender Loving Care",
+      "year": 2026
+    },
+    "Minotaur": {
+      "id": 848700,
+      "poster": "/bM37B5CuMWrPyGPpNsKzTGict4Q.jpg",
+      "title": "Minotaur",
+      "year": 2026
+    },
+    "Fatherland": {
+      "id": 1437696,
+      "poster": "/oNejN1l69nBF8LdQwy5FkAQZT44.jpg",
+      "title": "Fatherland",
+      "year": 2026
+    },
+    "Elsinore": {
+      "id": 1599230,
+      "poster": "/kohUtEueIVyDXC30MaOdi36aAwn.jpg",
+      "title": "Elsinore",
+      "year": 2026
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "Nomadland": {
+      "id": 581734,
+      "poster": "/8Vc5EOUEIF1EUXuX9eLFf7BvN3P.jpg",
+      "title": "Nomadland",
+      "year": 2021
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "title": "Oppenheimer",
+      "year": 2023
+    },
+    "One Battle After Another": {
+      "id": 1054867,
+      "poster": "/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+      "title": "One Battle After Another",
+      "year": 2025
+    },
+    "Green Book": {
+      "id": 490132,
+      "poster": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+      "title": "Green Book",
+      "year": 2018
+    },
+    "Bohemian Rhapsody": {
+      "id": 424694,
+      "poster": "/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg",
+      "title": "Bohemian Rhapsody",
+      "year": 2018
+    },
+    "The Theory of Everything": {
+      "id": 266856,
+      "poster": "/7kwcLFNt887saoQAL7EY0XnW7VI.jpg",
+      "title": "The Theory of Everything",
+      "year": 2014
+    },
+    "Judy": {
+      "id": 491283,
+      "poster": "/iqJhHjD6k6T07waELjMKDpQJUP.jpg",
+      "title": "Judy",
+      "year": 2019
+    },
+    "CODA": {
+      "id": 776503,
+      "poster": "/BzVjmm8l23rPsijLiNLUzuQtyd.jpg",
+      "title": "CODA",
+      "year": 2021
+    },
+    "My Octopus Teacher": {
+      "id": 682110,
+      "poster": "/hvTVZb7hBC8tZAGoEhH5eiMJu2B.jpg",
+      "title": "My Octopus Teacher",
+      "year": 2020
+    },
+    "Three Billboards Outside Ebbing, Missouri": {
+      "id": 359940,
+      "poster": "/bRYLt8fV82tdVoDppSFTZIcJiLN.jpg",
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "year": 2017
+    },
+    "The Banshees of Inisherin": {
+      "id": 674324,
+      "poster": "/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg",
+      "title": "The Banshees of Inisherin",
+      "year": 2022
+    },
+    "Sentimental Value": {
+      "id": 1124566,
+      "poster": "/AcbS8VMysrTpG9r4dgK1oyLsKYn.jpg",
+      "title": "Sentimental Value",
+      "year": 2025
+    },
+    "The Secret Agent": {
+      "id": 1220564,
+      "poster": "/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+      "title": "The Secret Agent",
+      "year": 2025
+    },
+    "Julie & Julia": {
+      "id": 24803,
+      "poster": "/1QZNWOOwfRi86ZApGvr2TtJZPBK.jpg",
+      "title": "Julie & Julia",
+      "year": 2009
+    },
+    "Pinocchio": {
+      "id": 10895,
+      "poster": "/bnZJrLRnoQHpzEJdka1KYfsAF3N.jpg",
+      "title": "Pinocchio",
+      "year": 1940
+    },
+    "Eraserhead": {
+      "id": 985,
+      "poster": "/mxveW3mGVc0DzLdOmtkZsgd7c3B.jpg",
+      "title": "Eraserhead",
+      "year": 1977
+    },
+    "The Straight Story": {
+      "id": 404,
+      "poster": "/tT9cMiVDdtlcdZxOoFy3VRmEoKk.jpg",
+      "title": "The Straight Story",
+      "year": 1999
+    },
+    "Wild at Heart": {
+      "id": 483,
+      "poster": "/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg",
+      "title": "Wild at Heart",
+      "year": 1990
+    },
+    "Before Sunrise": {
+      "id": 76,
+      "poster": "/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg",
+      "title": "Before Sunrise",
+      "year": 1995
+    },
+    "Flashdance": {
+      "id": 535,
+      "poster": "/ziiy6ORt8BlxWFXskBChBMInvDA.jpg",
+      "title": "Flashdance",
+      "year": 1983
+    },
+    "Lethal Weapon": {
+      "id": 941,
+      "poster": "/6gt44oqb4nE8vflPElffeGwsHVl.jpg",
+      "title": "Lethal Weapon",
+      "year": 1987
+    },
+    "The Doors": {
+      "id": 10537,
+      "poster": "/x1LM3dzGuG6xOz0aT2e71o11vhu.jpg",
+      "title": "The Doors",
+      "year": 1991
+    },
+    "Making Thunderbirds": null
+  },
+  "spotifyEpisodeId": "0AJTZ0uiye4GgJVBUiekvh"
+}

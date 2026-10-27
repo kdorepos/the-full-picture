@@ -1,0 +1,906 @@
+{
+  "slug": "the-halloween-movie-draft",
+  "title": "The Halloween Movie Draft",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2026-10-27",
+  "runtimeMin": 118,
+  "format": "Live from San Francisco: four drafters fill seven Halloween categories, and the crowd votes. Amanda wins.",
+  "segments": [
+    {
+      "kind": "draft",
+      "heading": "The Halloween Movie Draft",
+      "note": "live from the Tony Rembe Theater, San Francisco; audience-voted",
+      "draftOf": "Halloween movies",
+      "categories": [
+        "Halloween franchise",
+        "Takes place on Halloween",
+        "Dress-up (makeup/costume transformation)",
+        "Stephen King adaptation",
+        "Halloween movies for kids",
+        "Other holiday horror",
+        "Wildcard"
+      ],
+      "teams": [
+        {
+          "host": "Amanda Dobbins",
+          "picks": [
+            {
+              "title": "Carrie",
+              "year": 1976,
+              "category": "Stephen King adaptation",
+              "note": "De Palma; her most passionate pick, didn't want it left on the board."
+            },
+            {
+              "title": "Halloween H20: 20 Years Later",
+              "year": 1998,
+              "category": "Halloween franchise",
+              "note": "Josh Hartnett, Michelle Williams; aimed squarely at her era. The credits hit around 78 minutes."
+            },
+            {
+              "title": "Beetlejuice",
+              "year": 1988,
+              "category": "Dress-up (makeup/costume transformation)",
+              "note": "Michael Keaton; she showed it to her older son, who kept asking 'Where's Beetlejuice?'"
+            },
+            {
+              "title": "Carrie",
+              "year": 1976,
+              "category": "Stephen King adaptation"
+            },
+            {
+              "title": "Midsommar",
+              "year": 2019,
+              "category": "Other holiday horror",
+              "note": "Ari Aster; her favorite of his, drafted as a holiday film (midsummer)."
+            },
+            {
+              "title": "Casper",
+              "year": 1995,
+              "category": "Halloween movies for kids",
+              "note": "Two words: Devin Sawa."
+            },
+            {
+              "title": "Marriage Story",
+              "year": 2019,
+              "category": "Takes place on Halloween",
+              "note": "Noah Baumbach; two crucial Halloween scenes pull the Adam Driver character away from his family and back."
+            },
+            {
+              "title": "Scream",
+              "year": 1996,
+              "category": "Wildcard",
+              "note": "The first one; watched alone at 12 in her Aunt Betty's basement, terrified."
+            }
+          ]
+        },
+        {
+          "host": "Chris Ryan",
+          "picks": [
+            {
+              "title": "Halloween",
+              "year": 1978,
+              "category": "Halloween franchise",
+              "note": "Carpenter; responsible for ~90% of cinematic-Halloween atmospherics and the synth score."
+            },
+            {
+              "title": "The Guest",
+              "year": 2014,
+              "category": "Takes place on Halloween",
+              "note": "Adam Wingard; Dan Stevens as the soldier at the family's door; carpenter-style revival."
+            },
+            {
+              "title": "Digger",
+              "category": "Dress-up (makeup/costume transformation)",
+              "note": "Transcript unclear; Chris cites a Jesse Plemons transformation, 'a guy playing a guy dressed as another guy' (compared to House of Gucci). Verify title/year in review."
+            },
+            {
+              "title": "Maximum Overdrive",
+              "year": 1986,
+              "category": "Stephen King adaptation",
+              "note": "King's only directorial effort; AC/DC soundtrack, Emilio Estevez, killer machines."
+            },
+            {
+              "title": "The Karate Kid",
+              "year": 1984,
+              "category": "Halloween movies for kids",
+              "note": "'Kid' in the title and the skeleton-costume Halloween fight."
+            },
+            {
+              "title": "Maniac Cop",
+              "year": 1988,
+              "category": "Other holiday horror",
+              "note": "Lustig/Larry Cohen; St. Patrick's Day climax. Second Tom Atkins film of the night."
+            },
+            {
+              "title": "Trick 'r Treat",
+              "year": 2007,
+              "category": "Wildcard",
+              "note": "Michael Dougherty anthology; Sam. His near-annual rewatch."
+            }
+          ]
+        },
+        {
+          "host": "Alex Ross Perry",
+          "picks": [
+            {
+              "title": "Halloween: The Curse of Michael Myers",
+              "year": 1995,
+              "category": "Halloween franchise",
+              "note": "Halloween 6, the Producer's Cut; folds Halloween III's druidic Thorn mythology back in."
+            },
+            {
+              "title": "V/H/S/Halloween",
+              "year": 2025,
+              "category": "Takes place on Halloween",
+              "note": "He directed a segment; drafting his own work."
+            },
+            {
+              "title": "The Exorcist",
+              "year": 1973,
+              "category": "Dress-up (makeup/costume transformation)",
+              "note": "Regan; the makeup as a roadmap of torment."
+            },
+            {
+              "title": "Pet Sematary",
+              "year": 1989,
+              "category": "Stephen King adaptation",
+              "note": "Mount Rushmore King; Zelda was his other transformation contender."
+            },
+            {
+              "title": "The Return of the Living Dead",
+              "year": 1985,
+              "category": "Other holiday horror",
+              "note": "Dan O'Bannon; opens July 3rd, drafted as an Independence Day movie."
+            },
+            {
+              "title": "The Birds",
+              "year": 1963,
+              "category": "Wildcard",
+              "note": "Hitchcock; his self-made 'Northern California' category. An explanation-free eco-horror."
+            },
+            {
+              "title": "The Nightmare Before Christmas",
+              "year": 1993,
+              "category": "Halloween movies for kids",
+              "note": "Watched four times with his daughter this month; Elfman/Selick/Burton."
+            }
+          ]
+        },
+        {
+          "host": "Sean Fennessey",
+          "picks": [
+            {
+              "title": "Halloween III: Season of the Witch",
+              "year": 1982,
+              "category": "Halloween franchise",
+              "note": "No Michael Myers; Tom Atkins, Silver Shamrock. Screened it the night before at the Balboa."
+            },
+            {
+              "title": "E.T. the Extra-Terrestrial",
+              "year": 1982,
+              "category": "Takes place on Halloween",
+              "note": "The trick-or-treat sequence; candy as a whole plot engine."
+            },
+            {
+              "title": "X",
+              "year": 2022,
+              "category": "Dress-up (makeup/costume transformation)",
+              "note": "Ti West; Mia Goth's old-woman transformation reveal."
+            },
+            {
+              "title": "The Shining",
+              "year": 1980,
+              "category": "Stephen King adaptation",
+              "note": "Kubrick; he recently watched the shorter international cut from the Criterion box."
+            },
+            {
+              "title": "Ghostbusters",
+              "year": 1984,
+              "category": "Halloween movies for kids",
+              "note": "Not set on Halloween but a Halloween watch; too much talking for his four-year-old."
+            },
+            {
+              "title": "Black Christmas",
+              "year": 1974,
+              "category": "Other holiday horror",
+              "note": "Bob Clark; predates Halloween and is a birthplace of the slasher."
+            },
+            {
+              "title": "Hubie Halloween",
+              "year": 2020,
+              "category": "Wildcard",
+              "note": "Adam Sandler; unironic pick, seen twice."
+            }
+          ]
+        }
+      ],
+      "undrafted": [
+        "The Blair Witch Project"
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "Honorable mentions",
+      "films": [
+        "Wallace & Gromit: The Curse of the Were-Rabbit",
+        "Coraline",
+        "Corpse Bride",
+        "The Monster Squad",
+        "Hocus Pocus",
+        "Frankenweenie",
+        "The Strangers",
+        "Mean Girls",
+        "Invasion of the Body Snatchers",
+        "Burnt Offerings",
+        "The Fog",
+        "Night of the Demons",
+        "House of 1000 Corpses",
+        "Arsenic and Old Lace",
+        "Jaws",
+        "I Know What You Did Last Summer",
+        "Uncle Sam",
+        "Hell House LLC",
+        "Terrifier",
+        "Terrifier 2"
+      ]
+    },
+    {
+      "group": "Other Halloween-franchise entries",
+      "films": [
+        "Halloween II",
+        "Halloween 4: The Return of Michael Myers",
+        "Halloween 5: The Revenge of Michael Myers",
+        "Halloween Kills",
+        "Halloween Resurrection",
+        "Halloween (2018)",
+        "Rob Zombie's Halloween",
+        "Rob Zombie's Halloween II"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "Donnie Darko",
+        "The Poughkeepsie Tapes",
+        "Skinamarink",
+        "Undertone",
+        "The Ice Storm",
+        "Misery",
+        "Rock 'n' Roll High School",
+        "Wildwood",
+        "Creepshow",
+        "She's All That",
+        "Mermaids",
+        "The Dark Half",
+        "Cape Fear",
+        "The Birds II: Land's End",
+        "Psycho",
+        "Peeping Tom",
+        "Onslaught",
+        "Ghostbusters II",
+        "Night of the Living Dead",
+        "Pearl",
+        "Clueless",
+        "Idle Hands",
+        "Final Destination",
+        "Final Destination Bloodlines",
+        "Sense and Sensibility",
+        "The Brutalist",
+        "Eddington",
+        "Hereditary",
+        "House of Gucci",
+        "Ordinary People",
+        "Listen Up Philip",
+        "Hellraiser",
+        "Iron Man 3",
+        "The Lord of the Rings: The Return of the King",
+        "Silent Night, Deadly Night",
+        "Christmas Evil",
+        "The Irishman",
+        "Field of Dreams",
+        "Weapons"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV": [
+      "Mad Men",
+      "Dawson's Creek",
+      "The White Lotus",
+      "Band of Brothers",
+      "Halloweentown",
+      "Scooby-Doo",
+      "Beetlejuice (animated series)",
+      "Mystery Science Theater 3000",
+      "Night Gallery",
+      "Carrie (Prime Video series)"
+    ],
+    "Podcasts": [
+      "Doug Loves Movies"
+    ]
+  },
+  "tmdb": {
+    "Carrie": {
+      "id": 7340,
+      "poster": "/8tT1rqlsTguyfUBMrbHR9cv1rxM.jpg",
+      "title": "Carrie",
+      "year": 1976
+    },
+    "Halloween H20: 20 Years Later": {
+      "id": 11675,
+      "poster": "/lqLXUm3oK59sGJKRH2Zjj2m3iMg.jpg",
+      "title": "Halloween H20: 20 Years Later",
+      "year": 1998
+    },
+    "Beetlejuice": {
+      "id": 4011,
+      "poster": "/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg",
+      "title": "Beetlejuice",
+      "year": 1988
+    },
+    "Midsommar": {
+      "id": 530385,
+      "poster": "/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+      "title": "Midsommar",
+      "year": 2019
+    },
+    "Casper": {
+      "id": 8839,
+      "poster": "/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg",
+      "title": "Casper",
+      "year": 1995
+    },
+    "Marriage Story": {
+      "id": 492188,
+      "poster": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+      "title": "Marriage Story",
+      "year": 2019
+    },
+    "Scream": {
+      "id": 4232,
+      "poster": "/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+      "title": "Scream",
+      "year": 1996
+    },
+    "Halloween": {
+      "id": 948,
+      "poster": "/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+      "title": "Halloween",
+      "year": 1978
+    },
+    "The Guest": {
+      "id": 241848,
+      "poster": "/gvlEFHu9FuYLmBZwsARTtuNIiDO.jpg",
+      "title": "The Guest",
+      "year": 2014
+    },
+    "Maximum Overdrive": {
+      "id": 9980,
+      "poster": "/8pGYesuatPnMS8lhS4NvwiDjKbG.jpg",
+      "title": "Maximum Overdrive",
+      "year": 1986
+    },
+    "The Karate Kid": {
+      "id": 1885,
+      "poster": "/1mp4ViklKvA0WXXsNvNx0RBuiit.jpg",
+      "title": "The Karate Kid",
+      "year": 1984
+    },
+    "Maniac Cop": {
+      "id": 14240,
+      "poster": "/YS4Q7xHZLjZ5HvffqVDmJLjxce.jpg",
+      "title": "Maniac Cop",
+      "year": 1988
+    },
+    "Trick 'r Treat": {
+      "id": 23202,
+      "poster": "/w0nmol4g7n6MFfhfphV7GzHHYjB.jpg",
+      "title": "Trick 'r Treat",
+      "year": 2007
+    },
+    "Halloween: The Curse of Michael Myers": {
+      "id": 10987,
+      "poster": "/noCnM8nEI2bEDSdKHh0RKbwBwbC.jpg",
+      "title": "Halloween: The Curse of Michael Myers",
+      "year": 1995
+    },
+    "V/H/S/Halloween": {
+      "id": 1373445,
+      "poster": "/bvMKSZtN8KAdtlKoYbEi1Zhyaou.jpg",
+      "title": "V/H/S/Halloween",
+      "year": 2025
+    },
+    "The Exorcist": {
+      "id": 9552,
+      "poster": "/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
+      "title": "The Exorcist",
+      "year": 1973
+    },
+    "Pet Sematary": {
+      "id": 8913,
+      "poster": "/8ZtH1V4rhrtP53ezlEWrCaMALXF.jpg",
+      "title": "Pet Sematary",
+      "year": 1989
+    },
+    "The Return of the Living Dead": {
+      "id": 10925,
+      "poster": "/oNsV9BychAe4Sk6xFKp558Rlpyz.jpg",
+      "title": "The Return of the Living Dead",
+      "year": 1985
+    },
+    "The Birds": {
+      "id": 571,
+      "poster": "/ADoJaT1s9Jlcfx3Tw2MIZ1BMxo.jpg",
+      "title": "The Birds",
+      "year": 1963
+    },
+    "The Nightmare Before Christmas": {
+      "id": 9479,
+      "poster": "/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+      "title": "The Nightmare Before Christmas",
+      "year": 1993
+    },
+    "Halloween III: Season of the Witch": {
+      "id": 10676,
+      "poster": "/WABfdeaThFYXCySGIOvRNv2sSW.jpg",
+      "title": "Halloween III: Season of the Witch",
+      "year": 1982
+    },
+    "E.T. the Extra-Terrestrial": {
+      "id": 601,
+      "poster": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+      "title": "E.T. the Extra-Terrestrial",
+      "year": 1982
+    },
+    "X": {
+      "id": 760104,
+      "poster": "/lopZSVtXzhFY603E9OqF7O1YKsh.jpg",
+      "title": "X",
+      "year": 2022
+    },
+    "The Shining": {
+      "id": 694,
+      "poster": "/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg",
+      "title": "The Shining",
+      "year": 1980
+    },
+    "Ghostbusters": {
+      "id": 620,
+      "poster": "/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
+      "title": "Ghostbusters",
+      "year": 1984
+    },
+    "Black Christmas": {
+      "id": 16938,
+      "poster": "/ym0QcbrKNujzDyAU1IHGYUdRWub.jpg",
+      "title": "Black Christmas",
+      "year": 1974
+    },
+    "Hubie Halloween": {
+      "id": 617505,
+      "poster": "/dbhC6qRydXyRmpUdcl9bL9rARya.jpg",
+      "title": "Hubie Halloween",
+      "year": 2020
+    },
+    "The Blair Witch Project": {
+      "id": 2667,
+      "poster": "/9050VGrYjYrEjpOvDZVAngLbg1f.jpg",
+      "title": "The Blair Witch Project",
+      "year": 1999
+    },
+    "Wallace & Gromit: The Curse of the Were-Rabbit": {
+      "id": 533,
+      "poster": "/cMQ2lNd7sBe6PCf6zF5QxrKzbRG.jpg",
+      "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+      "year": 2005
+    },
+    "Coraline": {
+      "id": 14836,
+      "poster": "/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
+      "title": "Coraline",
+      "year": 2009
+    },
+    "Corpse Bride": {
+      "id": 3933,
+      "poster": "/3RAoVTxUk1OzZClscAsynuu670p.jpg",
+      "title": "Corpse Bride",
+      "year": 2005
+    },
+    "The Monster Squad": {
+      "id": 13509,
+      "poster": "/8EVuqCcqFzQvc7X8E3fx3w4B5Td.jpg",
+      "title": "The Monster Squad",
+      "year": 1987
+    },
+    "Hocus Pocus": {
+      "id": 10439,
+      "poster": "/by4D4Q9NlUjFSEUA1yrxq6ksXmk.jpg",
+      "title": "Hocus Pocus",
+      "year": 1993
+    },
+    "Frankenweenie": {
+      "id": 62214,
+      "poster": "/yGjVbLVdZRBlZTTQVBsj2KUjL1s.jpg",
+      "title": "Frankenweenie",
+      "year": 2012
+    },
+    "The Strangers": {
+      "id": 10665,
+      "poster": "/gwsg4qFmLOvlhwXj4OZuxfFUdP0.jpg",
+      "title": "The Strangers",
+      "year": 2008
+    },
+    "Mean Girls": {
+      "id": 10625,
+      "poster": "/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg",
+      "title": "Mean Girls",
+      "year": 2004
+    },
+    "Invasion of the Body Snatchers": {
+      "id": 11850,
+      "poster": "/skS02wdeH2C0nrbCQP3qKwJdZtZ.jpg",
+      "title": "Invasion of the Body Snatchers",
+      "year": 1978
+    },
+    "Burnt Offerings": {
+      "id": 13549,
+      "poster": "/2ipG69lXOjGMX7F7qxJQzUoiUsd.jpg",
+      "title": "Burnt Offerings",
+      "year": 1976
+    },
+    "The Fog": {
+      "id": 790,
+      "poster": "/12EeSboRofP3CI4SPmMFNNXCbtY.jpg",
+      "title": "The Fog",
+      "year": 1980
+    },
+    "Night of the Demons": {
+      "id": 24924,
+      "poster": "/gPLs4LRu85CBir22j57lXoWAawm.jpg",
+      "title": "Night of the Demons",
+      "year": 1988
+    },
+    "House of 1000 Corpses": {
+      "id": 2662,
+      "poster": "/29c2qgXmSREosLBevOILEuMWzQC.jpg",
+      "title": "House of 1000 Corpses",
+      "year": 2003
+    },
+    "Arsenic and Old Lace": {
+      "id": 212,
+      "poster": "/xG1GEEQGgExKl0WT5sRo1Arst5D.jpg",
+      "title": "Arsenic and Old Lace",
+      "year": 1944
+    },
+    "Jaws": {
+      "id": 578,
+      "poster": "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "title": "Jaws",
+      "year": 1975
+    },
+    "I Know What You Did Last Summer": {
+      "id": 3597,
+      "poster": "/dQyaJx0SptDqvQcAewAr8FAtLB2.jpg",
+      "title": "I Know What You Did Last Summer",
+      "year": 1997
+    },
+    "Uncle Sam": {
+      "id": 9680,
+      "poster": "/fp1agcfQwsOepWIVNgS09MyPLXz.jpg",
+      "title": "Uncle Sam",
+      "year": 1996
+    },
+    "Hell House LLC": {
+      "id": 359246,
+      "poster": "/xUSCQEbbAy3Lv6r00RfXtdxhRDX.jpg",
+      "title": "Hell House LLC",
+      "year": 2015
+    },
+    "Terrifier": {
+      "id": 420634,
+      "poster": "/fjXqhGmaeQpB73WerhrYU6HlyV5.jpg",
+      "title": "Terrifier",
+      "year": 2018
+    },
+    "Terrifier 2": {
+      "id": 663712,
+      "poster": "/qEAlwXbYk6IHA4ztoS2XFFaa7Xo.jpg",
+      "title": "Terrifier 2",
+      "year": 2022
+    },
+    "Halloween II": {
+      "id": 11281,
+      "poster": "/3nX5HHGgOKaVMxXwMLT9DHO1Ne6.jpg",
+      "title": "Halloween II",
+      "year": 1981
+    },
+    "Halloween 4: The Return of Michael Myers": {
+      "id": 11357,
+      "poster": "/eFSOkXF9n9hsfGv45MDsPixiOyx.jpg",
+      "title": "Halloween 4: The Return of Michael Myers",
+      "year": 1988
+    },
+    "Halloween 5: The Revenge of Michael Myers": {
+      "id": 11361,
+      "poster": "/rYvP6yMXCIVHnkVtwGaAXFmpzkB.jpg",
+      "title": "Halloween 5: The Revenge of Michael Myers",
+      "year": 1989
+    },
+    "Halloween Kills": {
+      "id": 610253,
+      "poster": "/ir9eyz1mtgsohjvo7UYtqUfFuES.jpg",
+      "title": "Halloween Kills",
+      "year": 2021
+    },
+    "Halloween Resurrection": {
+      "id": 11442,
+      "poster": "/1mlKwbNzJCGzqe4i0ZEJtUUL290.jpg",
+      "title": "Halloween: Resurrection",
+      "year": 2002
+    },
+    "Halloween (2018)": {
+      "id": 424139,
+      "poster": "/f7JAX5EGk4GgsEnus6OxyzwpFp7.jpg",
+      "title": "Halloween",
+      "year": 2018
+    },
+    "Rob Zombie's Halloween": {
+      "id": 2082,
+      "poster": "/cD8JrfSEI4j7WVnKM1GdiYzMoUh.jpg",
+      "title": "Halloween",
+      "year": 2007
+    },
+    "Rob Zombie's Halloween II": {
+      "id": 24150,
+      "poster": "/vSHPM4LQDpWdQrD5KZWK6wNqSOD.jpg",
+      "title": "Halloween II",
+      "year": 2009
+    },
+    "Donnie Darko": {
+      "id": 141,
+      "poster": "/j2AtZFsflxiluaNtajMTI0Avm8C.jpg",
+      "title": "Donnie Darko",
+      "year": 2001
+    },
+    "The Poughkeepsie Tapes": {
+      "id": 38410,
+      "poster": "/8ppkhu3pO3fnXr05YeE7ryKloVd.jpg",
+      "title": "The Poughkeepsie Tapes",
+      "year": 2007
+    },
+    "Skinamarink": {
+      "id": 994143,
+      "poster": "/o942912KFh89SGhqWuKXuT0SXzN.jpg",
+      "title": "Skinamarink",
+      "year": 2023
+    },
+    "Undertone": {
+      "id": 1480387,
+      "poster": "/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg",
+      "title": "undertone",
+      "year": 2026
+    },
+    "The Ice Storm": {
+      "id": 68924,
+      "poster": "/3a6uLta7K8Dzojps4RoJAPHD0km.jpg",
+      "title": "The Ice Storm",
+      "year": 1997
+    },
+    "Misery": {
+      "id": 1700,
+      "poster": "/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg",
+      "title": "Misery",
+      "year": 1990
+    },
+    "Rock 'n' Roll High School": {
+      "id": 26326,
+      "poster": "/kxoDBrtLqMsjMlfWb2caRRY92Xg.jpg",
+      "title": "Rock 'n' Roll High School",
+      "year": 1979
+    },
+    "Wildwood": {
+      "id": 791523,
+      "poster": "/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+      "title": "Wildwood",
+      "year": 2026
+    },
+    "Creepshow": {
+      "id": 16281,
+      "poster": "/4SoyTCEpsgLjX6yAyMsx3AsAyRQ.jpg",
+      "title": "Creepshow",
+      "year": 1982
+    },
+    "She's All That": {
+      "id": 10314,
+      "poster": "/a0pepZNFCjggc7Na9gEwbTI1f46.jpg",
+      "title": "She's All That",
+      "year": 1999
+    },
+    "Mermaids": {
+      "id": 4587,
+      "poster": "/1VufMcp0euY2LpmKiVv8xnbB9Om.jpg",
+      "title": "Mermaids",
+      "year": 1990
+    },
+    "The Dark Half": {
+      "id": 10349,
+      "poster": "/uTzi0no438AjKELtJgTbipNxWGu.jpg",
+      "title": "The Dark Half",
+      "year": 1993
+    },
+    "Cape Fear": {
+      "id": 1598,
+      "poster": "/meJZAAuVcjic2ipvbOPz5UlE4P9.jpg",
+      "title": "Cape Fear",
+      "year": 1991
+    },
+    "The Birds II: Land's End": {
+      "id": 4337,
+      "poster": "/3hJ1WWMmR5IyhpSmZjcFz5PwdED.jpg",
+      "title": "The Birds II: Land's End",
+      "year": 1994
+    },
+    "Psycho": {
+      "id": 539,
+      "poster": "/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+      "title": "Psycho",
+      "year": 1960
+    },
+    "Peeping Tom": {
+      "id": 11167,
+      "poster": "/kM4AfLIlbcuRZ621vYjyeBFkuba.jpg",
+      "title": "Peeping Tom",
+      "year": 1960
+    },
+    "Onslaught": {
+      "id": 1284046,
+      "poster": "/eAs7G3yFaULpfwfVdGvPo5HmFJS.jpg",
+      "title": "Onslaught",
+      "year": 2026
+    },
+    "Ghostbusters II": {
+      "id": 2978,
+      "poster": "/iUZPi31KDP0n5ycpycEsvl51BdV.jpg",
+      "title": "Ghostbusters II",
+      "year": 1989
+    },
+    "Night of the Living Dead": {
+      "id": 10331,
+      "poster": "/rb2NWyb008u1EcKCOyXs2Nmj0ra.jpg",
+      "title": "Night of the Living Dead",
+      "year": 1968
+    },
+    "Pearl": {
+      "id": 949423,
+      "poster": "/z5uIG81pXyHKg7cUFIu84Wjn4NS.jpg",
+      "title": "Pearl",
+      "year": 2022
+    },
+    "Clueless": {
+      "id": 9603,
+      "poster": "/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",
+      "title": "Clueless",
+      "year": 1995
+    },
+    "Idle Hands": {
+      "id": 6552,
+      "poster": "/mCO4gU1lkViGXTkoRBEYrvjDIJu.jpg",
+      "title": "Idle Hands",
+      "year": 1999
+    },
+    "Final Destination": {
+      "id": 9532,
+      "poster": "/1mXhlQMnlfvJ2frxTjZSQNnA9Vp.jpg",
+      "title": "Final Destination",
+      "year": 2000
+    },
+    "Final Destination Bloodlines": {
+      "id": 574475,
+      "poster": "/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg",
+      "title": "Final Destination Bloodlines",
+      "year": 2025
+    },
+    "Sense and Sensibility": {
+      "id": 1503762,
+      "poster": "/5bmH9lyNVEW6DXBf4rYx9Os7Fuo.jpg",
+      "title": "Sense and Sensibility",
+      "year": 2026
+    },
+    "The Brutalist": {
+      "id": 549509,
+      "poster": "/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
+      "title": "The Brutalist",
+      "year": 2024
+    },
+    "Eddington": {
+      "id": 648878,
+      "poster": "/4GIqZUgPZ146BhibsPHMHef2nXX.jpg",
+      "title": "Eddington",
+      "year": 2025
+    },
+    "Hereditary": {
+      "id": 493922,
+      "poster": "/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+      "title": "Hereditary",
+      "year": 2018
+    },
+    "House of Gucci": {
+      "id": 644495,
+      "poster": "/oJCQjD2byiVF1EG408F9dBn9ndU.jpg",
+      "title": "House of Gucci",
+      "year": 2021
+    },
+    "Ordinary People": {
+      "id": 16619,
+      "poster": "/5gQLGRmBV8XoqWgkxuRFwe3jZV7.jpg",
+      "title": "Ordinary People",
+      "year": 1980
+    },
+    "Listen Up Philip": {
+      "id": 251736,
+      "poster": "/rHfrGEdTEW20W6L26qbJ0DFNDKo.jpg",
+      "title": "Listen Up Philip",
+      "year": 2014
+    },
+    "Hellraiser": {
+      "id": 9003,
+      "poster": "/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg",
+      "title": "Hellraiser",
+      "year": 1987
+    },
+    "Iron Man 3": {
+      "id": 68721,
+      "poster": "/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+      "title": "Iron Man 3",
+      "year": 2013
+    },
+    "The Lord of the Rings: The Return of the King": {
+      "id": 122,
+      "poster": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003
+    },
+    "Silent Night, Deadly Night": {
+      "id": 801937,
+      "poster": "/xCdSd7NnRdnL8DGLVhI95WhUNoi.jpg",
+      "title": "Silent Night, Deadly Night",
+      "year": 2025
+    },
+    "Christmas Evil": {
+      "id": 27230,
+      "poster": "/c3R6U8sOGoyY45Ovqho0DkqB5hK.jpg",
+      "title": "Christmas Evil",
+      "year": 1980
+    },
+    "The Irishman": {
+      "id": 398978,
+      "poster": "/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg",
+      "title": "The Irishman",
+      "year": 2019
+    },
+    "Field of Dreams": {
+      "id": 2323,
+      "poster": "/oeM7nAw6FVFICwUaXKCRkDsKjqO.jpg",
+      "title": "Field of Dreams",
+      "year": 1989
+    },
+    "Weapons": {
+      "id": 1078605,
+      "poster": "/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+      "title": "Weapons",
+      "year": 2025
+    }
+  },
+  "tmdbOverrides": {
+    "Halloween (2018)": 424139,
+    "Rob Zombie's Halloween": 2082,
+    "Rob Zombie's Halloween II": 24150
+  },
+  "spotifyEpisodeId": "3IkzmzeqTcRyQLjH6e70tj"
+}

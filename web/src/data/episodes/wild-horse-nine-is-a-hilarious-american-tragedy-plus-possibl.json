@@ -1,0 +1,385 @@
+{
+  "slug": "wild-horse-nine-is-a-hilarious-american-tragedy-plus-possibl",
+  "title": "‘Wild Horse Nine’ Is a Hilarious American Tragedy. Plus: ‘Possible Love’ and ‘Once Upon a Time in Harlem’.",
+  "show": "The Big Picture",
+  "network": "The Ringer",
+  "hosts": [
+    "Sean Fennessey",
+    "Amanda Dobbins"
+  ],
+  "published": "2026-11-06",
+  "runtimeMin": 103,
+  "format": "Three new movies: McDonagh's CIA-on-Easter-Island comedy, Lee Chang-dong's Korean class drama, and a 50-years-in-the-making Harlem Renaissance doc, closing with the doc's director and editor.",
+  "segments": [
+    {
+      "kind": "review",
+      "heading": "‘Wild Horse Nine’",
+      "films": [
+        {
+          "title": "Wild Horse Nine",
+          "year": 2026,
+          "note": "Martin McDonagh writes and directs; John Malkovich and Sam Rockwell as aging CIA officers on Easter Island before the 1973 Chilean coup. A top-five-of-the-year pick for both hosts; Sean's read is 'JFK Rewatchables in a movie theater.'"
+        }
+      ]
+    },
+    {
+      "kind": "review",
+      "heading": "‘Possible Love’",
+      "films": [
+        {
+          "title": "Possible Love",
+          "year": 2026,
+          "note": "Lee Chang-dong's first film since Burning (2018), on Netflix. Two couples from different stations, a documentary within the film, the Korean class divide. Both hosts admire the moment-to-moment craft but feel every minute of the 2h45m and find the ending too diagrammatic."
+        }
+      ]
+    },
+    {
+      "kind": "interview",
+      "heading": "‘Once Upon a Time in Harlem’",
+      "guest": "David Greaves and Anne DeMare on",
+      "films": [
+        {
+          "title": "Once Upon a Time in Harlem",
+          "year": 2026,
+          "note": "Documentary begun by William Greaves from a 1972 gathering of Harlem Renaissance artists at Duke Ellington's apartment; finished 50 years later by his son David (a cameraman that day) and editor Anne DeMare after restoring and hand-syncing four cameras of footage."
+        }
+      ]
+    }
+  ],
+  "referenced": [
+    {
+      "group": "‘Wild Horse Nine’ touchstones",
+      "films": [
+        "In Bruges",
+        "The Banshees of Inisherin",
+        "Three Billboards Outside Ebbing, Missouri",
+        "JFK",
+        "Pulp Fiction"
+      ]
+    },
+    {
+      "group": "Malkovich's filmography",
+      "films": [
+        "Opus",
+        "Of Mice and Men",
+        "Being John Malkovich",
+        "Dangerous Liaisons",
+        "In the Line of Fire",
+        "Rounders",
+        "Con Air",
+        "Empire of the Sun",
+        "The Sheltering Sky",
+        "Burn After Reading"
+      ]
+    },
+    {
+      "group": "Movie news",
+      "films": [
+        "Jack of Spades",
+        "The Adventures of Cliff Booth",
+        "The Odyssey",
+        "The Tragedy of Macbeth",
+        "The Ballad of Buster Scruggs"
+      ]
+    },
+    {
+      "group": "‘Possible Love’ touchstones",
+      "films": [
+        "Burning",
+        "Secret Sunshine",
+        "Poetry",
+        "Parasite",
+        "No Other Choice",
+        "First Man",
+        "La Bola Negra",
+        "You Can See Everything",
+        "All of a Sudden"
+      ]
+    },
+    {
+      "group": "William Greaves's other films",
+      "films": [
+        "Symbiopsychotaxiplasm: Take One",
+        "Nationtime",
+        "From These Roots",
+        "The First World Festival of Negro Arts"
+      ]
+    },
+    {
+      "group": "In the Harlem interview",
+      "films": [
+        "The Ox-Bow Incident",
+        "The Only Living Pickpocket"
+      ]
+    },
+    {
+      "group": "In passing",
+      "films": [
+        "The Land Before Time"
+      ]
+    },
+    {
+      "group": "Next week",
+      "films": [
+        "Club Kid",
+        "Godzilla Minus Zero"
+      ]
+    }
+  ],
+  "excluded": {
+    "TV / News": [
+      "MSNBC / MS Now",
+      "Morning Joe"
+    ],
+    "Music": [
+      "Teenage Dream",
+      "Streets of Laredo",
+      "Both Sides Now"
+    ],
+    "Books": [
+      "Anna Karenina"
+    ],
+    "Ads": [
+      "McDonald's"
+    ]
+  },
+  "tmdb": {
+    "Wild Horse Nine": {
+      "id": 891621,
+      "poster": "/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+      "title": "Wild Horse Nine",
+      "year": 2026
+    },
+    "Possible Love": {
+      "id": 1483525,
+      "poster": "/1ERGPNiKtnEcsvJS1ywsmqmcIDO.jpg",
+      "title": "Possible Love",
+      "year": 2026
+    },
+    "Once Upon a Time in Harlem": {
+      "id": 1596300,
+      "poster": "/9eukk5gby8NZCwraiC7mloZmasP.jpg",
+      "title": "Once Upon a Time in Harlem",
+      "year": 2026
+    },
+    "In Bruges": {
+      "id": 8321,
+      "poster": "/vz3Vd6nfq9YZrVvyYx5RHFaYKV3.jpg",
+      "title": "In Bruges",
+      "year": 2008
+    },
+    "The Banshees of Inisherin": {
+      "id": 674324,
+      "poster": "/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg",
+      "title": "The Banshees of Inisherin",
+      "year": 2022
+    },
+    "Three Billboards Outside Ebbing, Missouri": {
+      "id": 359940,
+      "poster": "/bRYLt8fV82tdVoDppSFTZIcJiLN.jpg",
+      "title": "Three Billboards Outside Ebbing, Missouri",
+      "year": 2017
+    },
+    "JFK": {
+      "id": 820,
+      "poster": "/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg",
+      "title": "JFK",
+      "year": 1991
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "poster": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "title": "Pulp Fiction",
+      "year": 1994
+    },
+    "Opus": {
+      "id": 1202479,
+      "poster": "/m0du9dsiOVeb0SgfqR8ZAEPRxww.jpg",
+      "title": "Opus",
+      "year": 2025
+    },
+    "Of Mice and Men": {
+      "id": 9609,
+      "poster": "/qAHLUMZyoW3iwj2b01B2nKcePTA.jpg",
+      "title": "Of Mice and Men",
+      "year": 1992
+    },
+    "Being John Malkovich": {
+      "id": 492,
+      "poster": "/31FGQu3OnwdmS4COquENe0vMZc0.jpg",
+      "title": "Being John Malkovich",
+      "year": 1999
+    },
+    "Dangerous Liaisons": {
+      "id": 859,
+      "poster": "/7etDozwd9Pf5oCcyo4h1Hki6U13.jpg",
+      "title": "Dangerous Liaisons",
+      "year": 1988
+    },
+    "In the Line of Fire": {
+      "id": 9386,
+      "poster": "/3NvOFpmyECI3DNExYMtFIRcGMsu.jpg",
+      "title": "In the Line of Fire",
+      "year": 1993
+    },
+    "Rounders": {
+      "id": 10220,
+      "poster": "/mqbMwYGwIChnaCO55h7v8DG8Wwy.jpg",
+      "title": "Rounders",
+      "year": 1998
+    },
+    "Con Air": {
+      "id": 1701,
+      "poster": "/kOKjgrEzGOP92rVQ6srA9jtp60l.jpg",
+      "title": "Con Air",
+      "year": 1997
+    },
+    "Empire of the Sun": {
+      "id": 10110,
+      "poster": "/gEaCzjwHoPgyQFcwHql7o5YLHAU.jpg",
+      "title": "Empire of the Sun",
+      "year": 1987
+    },
+    "The Sheltering Sky": {
+      "id": 24016,
+      "poster": "/mcaypmWykltQMLjjSuD2vxylZHV.jpg",
+      "title": "The Sheltering Sky",
+      "year": 1990
+    },
+    "Burn After Reading": {
+      "id": 4944,
+      "poster": "/jdwSkQu3XirmX18MNj8CqFWsCk.jpg",
+      "title": "Burn After Reading",
+      "year": 2008
+    },
+    "Jack of Spades": {
+      "id": 1486200,
+      "poster": "/zxpWnPe8GwRZvp2gWaIEwpmWn3P.jpg",
+      "title": "Jack of Spades",
+      "year": null
+    },
+    "The Adventures of Cliff Booth": null,
+    "The Odyssey": {
+      "id": 1368337,
+      "poster": "/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "title": "The Odyssey",
+      "year": 2026
+    },
+    "The Tragedy of Macbeth": {
+      "id": 591538,
+      "poster": "/tDNJEhcLbX3jIk3BMCur9pCdaVD.jpg",
+      "title": "The Tragedy of Macbeth",
+      "year": 2021
+    },
+    "The Ballad of Buster Scruggs": {
+      "id": 537996,
+      "poster": "/voxl654m7p36y8FLu8oQD7dfwwK.jpg",
+      "title": "The Ballad of Buster Scruggs",
+      "year": 2018
+    },
+    "Burning": {
+      "id": 491584,
+      "poster": "/kXiF80o74fE9gf3Utf9moAI7ar0.jpg",
+      "title": "Burning",
+      "year": 2018
+    },
+    "Secret Sunshine": {
+      "id": 2015,
+      "poster": "/vee1jyUrqUEmi5ZStWI1JJzLQJH.jpg",
+      "title": "Secret Sunshine",
+      "year": 2007
+    },
+    "Poetry": {
+      "id": 47909,
+      "poster": "/5RS3zovYbHdpZqLqyEOr24qWKwf.jpg",
+      "title": "Poetry",
+      "year": 2010
+    },
+    "Parasite": {
+      "id": 496243,
+      "poster": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+      "title": "Parasite",
+      "year": 2019
+    },
+    "No Other Choice": {
+      "id": 639988,
+      "poster": "/vc2S0dvgpsM0XfSiXZDMVkRCSSU.jpg",
+      "title": "No Other Choice",
+      "year": 2025
+    },
+    "First Man": {
+      "id": 369972,
+      "poster": "/i91mfvFcPPlaegcbOyjGgiWfZzh.jpg",
+      "title": "First Man",
+      "year": 2018
+    },
+    "La Bola Negra": {
+      "id": 1422041,
+      "poster": "/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg",
+      "title": "LA BOLA NEGRA",
+      "year": 2026
+    },
+    "You Can See Everything": {
+      "id": 1765072,
+      "poster": "/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
+      "title": "You Can See Everything",
+      "year": 2026
+    },
+    "All of a Sudden": {
+      "id": 1476614,
+      "poster": "/fgxhBo4elwt89J5k9wzhHSXGQmY.jpg",
+      "title": "All of a Sudden",
+      "year": 2026
+    },
+    "Symbiopsychotaxiplasm: Take One": {
+      "id": 44783,
+      "poster": "/wMRtQ3A4pOmG2dXKOxx9tTerFi6.jpg",
+      "title": "Symbiopsychotaxiplasm: Take One",
+      "year": 1968
+    },
+    "Nationtime": {
+      "id": 1051597,
+      "poster": "/7Njjk5iL9XQs2Z0i5SBCeJjAg0j.jpg",
+      "title": "Nationtime",
+      "year": 2013
+    },
+    "From These Roots": {
+      "id": 460934,
+      "poster": "/mlGOkxxpJO1lIMEVYi1loe7uDPS.jpg",
+      "title": "From These Roots",
+      "year": 1974
+    },
+    "The First World Festival of Negro Arts": {
+      "id": 420830,
+      "poster": "/kb8C7ht5yVQbZbDWPD21UPRfj3a.jpg",
+      "title": "The First World Festival of Negro Arts",
+      "year": 1966
+    },
+    "The Ox-Bow Incident": {
+      "id": 980,
+      "poster": "/1rzmL32QaewQbpO1zbhZKMDn5Gz.jpg",
+      "title": "The Ox-Bow Incident",
+      "year": 1943
+    },
+    "The Only Living Pickpocket": null,
+    "The Land Before Time": {
+      "id": 12144,
+      "poster": "/7phV1ETZnQrLsEeuk4hNeceEl25.jpg",
+      "title": "The Land Before Time",
+      "year": 1988
+    },
+    "Club Kid": {
+      "id": 1585239,
+      "poster": "/o1qMU0ZB5XDX8IXJFFu3AkhOqjh.jpg",
+      "title": "Club Kid",
+      "year": 2026
+    },
+    "Godzilla Minus Zero": {
+      "id": 1381071,
+      "poster": "/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+      "title": "Godzilla Minus Zero",
+      "year": 2026
+    }
+  },
+  "spotifyEpisodeId": "0vI056DtWPbss9EU9XBEWc"
+}
